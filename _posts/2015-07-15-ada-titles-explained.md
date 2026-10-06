@@ -6,17 +6,18 @@ last_updated: "2015-07-15"
 excerpt: "The Americans with Disabilities Act is five statutes in one; this title-by-title guide states each title's trigger, duty, defense, enforcing agency, and remedy."
 categories: ["Industry"]
 tags: ["US Legislation", "ADA", "disability law", "Title I", "Title II", "Title III", "statutory interpretation"]
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: "83"
 slug: "ada-titles-explained"
 permalink: "https://insightcrunch.com/2015/07/15/ada-titles-explained/"
+author: "kevin-reeves"
+lang: en
 ---
-
 ## The single name that hides five statutes
 
 The Americans with Disabilities Act is usually discussed as though it were one law with one set of rules, and that habit is the source of most public misunderstanding about it. The statute enacted as Public Law 101-336 on July 26, 1990, is in substance five separate regulatory regimes sharing a common name, a common definition of disability, and almost nothing else. The employment regime asks how many workers a business has. The public-entity regime asks whether the actor is a state or local government and applies regardless of size. The public-accommodations regime asks whether a private business falls into one of twelve listed categories. The telecommunications regime amends a different title of the United States Code entirely and is administered by a different agency. The miscellaneous title collects retaliation rules, construction clauses, and definitional exclusions that do not fit the others. A reader who carries reasoning from any one of these regimes into another will reach confident answers that the text does not support.
 
-![Diagram showing the five titles of the Americans with Disabilities Act as separate regulatory regimes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagram showing the five titles of the Americans with Disabilities Act as separate regulatory regimes - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The practical test this article serves is identification. A human-resources manager facing an accommodation request, a city clerk fielding a complaint about a service, a restaurant owner reading about a barrier-removal lawsuit, or a student preparing for an exam all need the same skill: given a set of facts, name the title that governs, state the coverage trigger, state the core duty, name the defense, and state what remedy a private plaintiff can obtain. That skill is teachable because the statute's architecture is explicit. Each title states who it covers, what it requires, what excuses it permits, and how it is enforced, and those four elements differ from title to title by design. The remainder of this article walks through the five titles in that order, duty by duty and defense by defense, with the statutory section numbers attached to every proposition so that each claim can be checked against the operative text. The series' companion overview of the statute as a whole supplies the historical and structural map in which this title-by-title treatment sits, and it is available through [the Americans with Disabilities Act guide](https://insightcrunch.com/2015/06/01/americans-with-disabilities-act-guide/).
 

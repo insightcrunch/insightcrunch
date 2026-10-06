@@ -6,17 +6,17 @@ date: "2015-05-15"
 categories: ["Industry"]
 tags: ["US Labor Legislation", "Employment Rights", "Labor Law History", "Union History", "Workplace Protections"]
 excerpt: "A master guide to United States labor legislation, tracing the long shift from collective bargaining law to individual employment rights across seven decades."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "87"
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: "2015-05-15"
+lang: en
 ---
-
 ## A Field That Changed Its Mind About Who the Law Protects
 
 Seventy years of federal workplace statutes tell a story that most readers have absorbed in fragments without ever seeing whole. A worker fired because of her sex invokes a 1964 statute. A retiree whose pension vanished invokes a 1974 statute. A parent who takes twelve weeks to care for a newborn invokes a 1993 statute. Each of these laws feels self-contained, and the guides written about each one tend to treat it that way. Step back far enough to see all of them at once, though, and a larger shape appears: between 1950 and the middle of the 2010s, Congress rebuilt American workplace law around a different subject. The early statutes in this story regulate groups, unions, bargaining tables, and the machinery of collective negotiation. The later statutes regulate individuals, protected characteristics, leave entitlements, notice periods, and the paycheck itself. That movement, from the collective to the individual, is the single most important thing to understand about the field, and it is the thread that ties every statute in this guide together.
 
-![A mid-century factory floor with rows of workers at machinery, representing the industrial workplace that federal labor legislation was built to govern](/assets/images/blog/blog-01.webp)
+![A mid-century factory floor with rows of workers at machinery, representing the industrial workplace that federal labor legislation was built to govern](/assets/images/blog/blog-15.webp)
 
 This guide is the master article for the labor domain. The nine cluster articles that link back to it each examine one statute in depth: the safety law of 1970, the equal pay law of 1963, the pension law of 1974, the family leave law of 1993, and their companions. None of them can explain, on its own, why Congress stopped writing collective bargaining statutes and started writing individual rights statutes instead. That explanation belongs here, at the level of the whole domain, where the pattern is visible. Read this guide first and the individual statutes stop looking like isolated achievements. They become installments in one long argument about how the federal government should intervene in the employment relationship, an argument whose terms changed completely between the Truman administration and the Obama administration.
 

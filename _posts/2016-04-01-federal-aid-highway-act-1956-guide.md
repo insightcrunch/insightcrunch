@@ -6,17 +6,17 @@ date: "2016-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Infrastructure Policy", "Highway Trust Fund", "Federal Funding", "Interstate Highways"]
 excerpt: "With a ninety-ten share and the Highway Trust Fund, the Federal-Aid Highway Act turned a paper network into the largest public works program in history."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: "101"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2016-04-01"
+lang: en
 ---
-
 ## The question the Federal-Aid Highway Act answers
 
 The Federal-Aid Highway Act of 1956 poses a puzzle that most retellings of the interstate era never quite solve. Twelve years before President Dwight D. Eisenhower signed the statute, Congress had already drawn the interstate system on the map. A 1944 law designated a national network of forty thousand miles, and federal engineers fixed its routes in 1947. Yet when Eisenhower took office in 1953, only about six thousand miles had been completed, built to varying standards and paid for without any dedicated federal program. Twelve years of designation had produced a paper network. Then a single 1956 statute produced the largest public works program in American history.
 
-![Federal-Aid Highway Act of 1956 signing and the interstate financing story - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal-Aid Highway Act of 1956 signing and the interstate financing story - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The puzzle is not who dreamed of the highways. The technical planning had been complete for more than a decade, and the experiences usually offered as explanations, a 1919 Army convoy and the German autobahn, are documented facts that explain nothing about the timing. The puzzle is fiscal. What changed between 1944 and 1956 was not the map but the money, and the money changed in exactly two ways. First, the federal matching share for interstate construction rose from the ordinary fifty percent to ninety percent, so a state could obtain a limited access highway for a dime on the dollar while any alternative cost it fifty cents. Second, federal fuel and highway user taxes were dedicated to a Highway Trust Fund from which the spending would be drawn, under a pay as you go rule that barred spending in excess of receipts. Designation without money built six thousand uneven miles in twelve years. Designation with ninety-ten financing and a dedicated trust fund built the system.
 

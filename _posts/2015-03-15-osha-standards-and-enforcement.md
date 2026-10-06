@@ -3,21 +3,20 @@ title: "OSHA Standards and Enforcement: From Hazard to Citation"
 excerpt: "OSHA standards and enforcement: how hazards become binding rules, how inspections become citations, and what courts require before the agency can regulate."
 date: "2015-03-15"
 last_updated: "2015-03-15"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 category: "Industry"
 tags: ["US Legislation", "Occupational Safety and Health Act", "OSHA", "Supreme Court", "Administrative Law", "Labor Law"]
 keywords: "OSHA standards, OSHA enforcement, workplace safety rules, emergency temporary standard, OSHA citations, significant risk test"
 slug: "osha-standards-and-enforcement"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: "73"
+lang: en
 ---
-
-
 ## How a Workplace Hazard Becomes a Citation a Company Must Answer
 
 OSHA standards and enforcement decide what happens between the moment someone notices a danger at work and the moment a company answers for it. A safety professional who wants to fix a hazard, an employment lawyer advising a client after an inspection, and a union representative preparing to walk an inspection with a compliance officer all need the same thing: a working map of how a workplace hazard becomes a legally enforceable standard and then a citation a company must answer. This article draws that map. It traces the five mechanisms Congress built into the Occupational Safety and Health Act of 1970, Public Law 91-596, 84 Stat. 1590, signed December 29, 1970 from S. 2193 in the 91st Congress and effective April 28, 1971, codified at 29 U.S.C. 651 and following: the two-year startup shortcut that borrowed whole rulebooks from private standards organizations, the ordinary rulemaking process of section 6(b), the two Supreme Court decisions that together define what the agency must prove before regulating and what it need not, the emergency standard power whose record in the courts is poor enough that the agency uses it very rarely, and the enforcement chain that runs from inspection through citation to a contest decided by a body entirely separate from the agency that issued it.
 
-![How OSHA standards and enforcement turn a workplace hazard into a binding rule and then a citation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How OSHA standards and enforcement turn a workplace hazard into a binding rule and then a citation - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The reader who finishes this article will be able to do four things that the standard summaries do not teach. First, trace each stage of the hazard-to-citation pipeline and name the actor, the legal test, and the timeline at each step. Second, state the holdings of Industrial Union Dep't v. American Petroleum Inst., 448 U.S. 607 (1980), and American Textile Mfrs. Inst. v. Donovan, 452 U.S. 490 (1981), and explain why the two together make the agency prove the danger and then forbid it from trading that danger against cost. Third, explain why emergency temporary standards almost never survive review, by case outcomes rather than by characterization. Fourth, describe who actually decides a contested citation, and why that decider is not the agency that wrote the check it is being asked to cash.
 

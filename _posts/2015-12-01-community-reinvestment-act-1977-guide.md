@@ -6,15 +6,15 @@ date: "2015-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Community Reinvestment Act", "Bank Regulation", "Redlining", "Financial Crisis", "Fair Lending", "Federal Reserve"]
 excerpt: "The Community Reinvestment Act sets no quotas and no penalties. This profile explains the examination, the four ratings, and the merger gate behind its force."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2015-12-01"
+lang: en
 ---
-
 The Community Reinvestment Act of 1977 is one of the most argued about statutes in American banking law and one of the least understood. Its entire design can be stated in a single sentence. The law directs federal regulators to examine whether an insured bank is meeting the credit needs of its whole community, including its lower income neighborhoods, in a manner consistent with safe and sound operation, and then to take that examination record into account when the bank asks permission to merge, to acquire another institution, or to open a branch. That is the whole of it. There is no required volume of lending, no list of loan products a bank must offer, no quota for any neighborhood, and no civil penalty for a bad grade. The only thing the law withholds from a bank with a poor record is the regulator's blessing on the next deal it wants to do.
 
-![Community Reinvestment Act redlining history and bank rating mechanism guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Community Reinvestment Act redlining history and bank rating mechanism guide - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 Enacted as Title VIII of the Housing and Community Development Act of 1977, Public Law 95-128, and signed by President Jimmy Carter on October 12, 1977, the measure is codified at 12 U.S.C. sections 2901 to 2908. A reader who finishes this profile should be able to explain, without notes, that the statute contains no quotas, no penalties, and no lending requirements, and to assess the popular claim that it caused the 2008 financial crisis against what the evidence and the official inquiry actually found, keeping the majority conclusion and the dissent distinct and giving each its full weight.
 

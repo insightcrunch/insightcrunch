@@ -6,17 +6,17 @@ date: "2015-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Workplace Discrimination", "Employment Litigation", "Title VII", "ADEA", "Arbitration", "Class Actions"]
 excerpt: "Workplace discrimination court cases turn on procedure: causation standards, arbitration rules, class limits, and state immunity explained in one single guide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2015-04-15"
+lang: en
 ---
-
 ## The forum decides the case
 
 Most people who believe they were fired, demoted, or harassed for an unlawful reason ask what the law forbids. The question that decides the dispute is usually different: where the dispute will be heard, what proof standard will apply, and whether the forum permits the claim at all. In modern American employment law the substantive standard matters less than the forum, because arbitration agreements, class certification requirements, and immunity doctrines determine whether the substantive standard is ever applied. A reader who tracks only the discrimination doctrine is watching the wrong variable.
 
-![How federal courts decide workplace discrimination cases through causation standards, arbitration enforcement, and immunity rules - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How federal courts decide workplace discrimination cases through causation standards, arbitration enforcement, and immunity rules - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This article owns the cross-statute procedural questions and leaves the substantive holdings to the statute articles. The substantive holdings behind these procedural rules are treated in the statute articles themselves; what follows here is organized around four lines of decisions. The first is the causation patchwork: status discrimination under the civil rights title may be shown on a motivating-factor standard because Congress wrote that standard into the statute in 1991, retaliation under the same title requires but-for causation after a 2013 decision because the retaliation provision was never amended the same way, age claims require but-for causation after a 2009 decision for the same reason, and disability claims sit in a genuinely contested position. Four statutes, three standards, one explanation. The second is the arbitration line: the arbitration act has been held to reach most employment contracts, and agreements requiring individual arbitration were, as of this article's 2015 reference date, the subject of an unresolved fight over class and collective waivers, which is why a large share of employment claims never reaches a court at all. The third is the class action line: a 2011 decision on commonality decertified the largest employment class ever certified and reshaped what plaintiffs must show to aggregate claims, compounding the arbitration line's effect. The fourth is the sovereign immunity patchwork: state employees may sue their employer for damages under some federal employment statutes and not others, depending on whether the Court has found the statute a valid exercise of the enforcement power, producing a map in which the answer differs by statute and, under the leave statute, by which kind of leave was taken.
 

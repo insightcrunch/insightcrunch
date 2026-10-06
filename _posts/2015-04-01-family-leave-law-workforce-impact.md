@@ -6,17 +6,17 @@ date: "2015-04-01"
 categories: ["Industry"]
 tags: ["family-leave", "fmla", "paid-family-leave", "labor-economics", "employment-outcomes"]
 excerpt: "Evidence on family leave law shows short-run gains in time away and job continuity, a long-run earnings question, and little employer compliance difficulty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2015-04-01"
+lang: en
 ---
-
 ## What the evidence can and cannot tell us
 
 This is the evidence article in the family leave cluster. It asks what can be said, with named research and stated methods, about what the Family and Medical Leave Act of 1993 and the state paid programs that followed actually did: to time away from work, to whether new parents kept their jobs, to what employers experienced, and to earnings years later. The answer is less tidy than either side of the public argument would prefer. The strongest evidence concerns the immediate term, and it is mostly favorable. The strongest challenge concerns a decade later, and it is unfavorable. Any honest account holds both, and this one is built to do exactly that.
 
-![Researchers reviewing employment records and survey data to measure the effects of family leave law](/assets/images/blog/blog-01.webp)
+![Researchers reviewing employment records and survey data to measure the effects of family leave law](/assets/images/blog/blog-65.webp)
 
 A reader who finishes this article should be able to do three things. First, state what the evidence shows about leave-taking, employment continuity, and employer costs, with the study and the period attached to each claim. Second, explain why the federal statute's own effects resist clean measurement while the state paid programs, adopted on staggered dates, supply the natural experiments that researchers need. Third, describe without flinching the most uncomfortable finding in this literature: that a long-run study of the earliest state paid program found negative effects on mothers' subsequent employment and earnings. The credibility of this article depends entirely on giving that finding the same prominence and the same length as the favorable ones, and the structure below is arranged so that no reader can miss it.
 

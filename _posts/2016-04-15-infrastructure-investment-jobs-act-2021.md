@@ -6,15 +6,15 @@ date: "2016-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Infrastructure Policy", "Federal Funding", "Highway Trust Fund", "Amtrak"]
 excerpt: "Public Law 117-58 explained: the headline figure versus genuinely new spending, program-by-program sums, and the unusual path the bill took through Congress."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2016-04-15"
+lang: en
 ---
-
 The Infrastructure Investment and Jobs Act arrived with a number attached that did most of the public talking. National coverage called it a 1.2 trillion dollar measure, the figure appeared in headlines before many readers encountered the bill number, and the phrase stuck to the statute through its passage and signing. The number was real in the sense that official sources supplied it, and it was misleading in the sense that almost no headline explained what it counted. A reader who wants to understand Public Law 117-58, signed by President Joe Biden on November 15, 2021, must hold two figures in view at once: the widely quoted total and the roughly 550 billion dollars of genuinely new federal investment above the existing baseline. The distance between those two numbers is the single most useful correction this profile can make, and it shapes nearly everything else about the law.
 
-![Infrastructure Investment and Jobs Act statute profile](/assets/images/blog/blog-01.webp)
+![Infrastructure Investment and Jobs Act statute profile](/assets/images/blog/blog-65.webp)
 
 That distance also explains the statute's defining structural feature. The act is two bills in one wrapper: a routine five-year surface transportation reauthorization and a discretionary infrastructure package, enacted together in one vehicle. Division A, headed "DIVISION A--SURFACE TRANSPORTATION," continues the Federal-Aid Highway Program, transit programs, and highway safety programs for fiscal years 2022 through 2026, work Congress performs on a regular cycle and would have enacted in some form regardless of the larger negotiations. Around that reauthorization, the act layers new money for roads, bridges, passenger and freight rail, broadband, the electric grid, drinking water, transit, airports, ports, environmental cleanup, and vehicle charging. The two layers travel in one public law number and one Statutes at Large citation, 135 Stat. 429, but they answer to different logics. The reauthorization keeps existing programs running; the package adds new investment on top. A reader who does not separate the wrapper from its contents will misread the vote, the money, and the mechanics alike.
 

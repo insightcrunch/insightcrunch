@@ -6,15 +6,15 @@ date: "2015-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Disability Rights", "Rehabilitation Act", "Civil Rights", "Federal Funding", "Education Law"]
 excerpt: "Section 504 bars disability discrimination in federally funded programs: the copied sentence, the delayed rules, the occupation, and the court-built remedies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2015-07-01"
+lang: en
 ---
-
 The most consequential disability rights sentence in American law arrived without a hearing, without extended debate, and almost without anyone in Congress noticing it had been added. Section 504 of the Rehabilitation Act of 1973 provides that no otherwise qualified individual with a disability shall, solely by reason of disability, be excluded from participation in, denied the benefits of, or subjected to discrimination under any program or activity receiving federal financial assistance. The sentence was copied nearly word for word from the race provision of the Civil Rights Act of 1964 and the sex provision of the education amendments of 1972, with the protected characteristic swapped out. That copying is the single most important fact for understanding how the provision works, because the enforcement machinery of the older statutes traveled with their sentence structure, and the courts have read the copied sentence as carrying the interpretive freight of its parents.
 
-![The 1977 protests and regulations that gave Section 504 of the Rehabilitation Act its operative meaning - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1977 protests and regulations that gave Section 504 of the Rehabilitation Act its operative meaning - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The enacted text was nearly nothing by itself. For four years the section sat in the statute books with no implementing regulations, which meant no definitions, no compliance obligations spelled out, no enforcement machinery engaged, and no way for a program administrator to know what obedience required. What changed that was not a congressional amendment but a sustained campaign of protest in the spring of 1977, when demonstrators occupied offices of the Department of Health, Education, and Welfare in cities across the country and held the department's San Francisco regional office for twenty-five days, from April 5 to April 30. The department's secretary signed the final regulations on April 28, 1977, and they were published in the Federal Register on May 4. This article follows the one sentence from its drafting through its four-year limbo, its protest-forged implementation, its companion sections, its remedies and immunity rules, the Supreme Court cases that gave it shape, and the reason the later comprehensive disability statute did not replace it.
 

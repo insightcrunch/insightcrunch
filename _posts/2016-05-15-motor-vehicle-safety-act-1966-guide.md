@@ -6,16 +6,17 @@ date: "2016-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Motor Vehicle Safety", "NHTSA", "Federal Safety Standards", "Product Liability"]
 excerpt: "The Motor Vehicle Safety Act turned the second collision into law. This profile explains its standards, recall system, preemption doctrine, and measured record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2016-05-15"
+lang: en
 ---
 ## The crash is not the injury event
 
 The Motor Vehicle Safety Act was built on a single intellectual move that reclassified the automobile from a product of consumer preference to an instrument of public health. Before 1966, highway safety policy treated the crash as a failure of driver behavior and responded with campaigns aimed at education, enforcement, and moral suasion. The statute rejected that framing. It accepted the proposition that a crash involves two collisions, the first between the vehicle and an object and the second between the occupant and the vehicle interior, and that the second collision is the one that injures and kills. Once a legislature accepts that proposition, the design of the interior, the structure of the body, and the management of energy become matters for federal regulation rather than private taste. That is the thread that runs through every provision of the statute, from the standards that dictate how a steering column must collapse to the recall system that removes defective vehicles from the road to the preemption doctrine that decides whether a state jury may second-guess a federally compliant design.
 
-![Motor Vehicle Safety Act crash testing for second-collision occupant protection standards - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Motor Vehicle Safety Act crash testing for second-collision occupant protection standards - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The National Traffic and Motor Vehicle Safety Act of 1966, Public Law 89-563 (80 Stat. 718), was signed by President Lyndon B. Johnson on September 9, 1966, and is codified at 49 U.S.C. 30101 et seq. It was enacted as S.3005 of the 89th Congress, passed the Senate on June 24, 1966, and the House on August 17, 1966, in both chambers without a recorded dissent. The facts below are stated as they stood on May 15, 2016, the reference date of this article. Nothing in this account extends beyond that date, and every legal proposition is stated as the law stood then.
 

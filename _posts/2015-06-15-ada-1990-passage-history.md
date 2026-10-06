@@ -6,17 +6,17 @@ date: "2015-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "Disability Rights", "Congress", "Legislative Process", "Civil Rights"]
 excerpt: "The Americans with Disabilities Act passed Congress after a failed first bill, a Capitol protest, and a food handling fight that nearly killed it in conference."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: "84"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2015-06-15"
+lang: en
 ---
-
 ## The mandate that should have been impossible to pass
 
 The Americans with Disabilities Act is the rare federal statute that imposed a comprehensive civil rights mandate on virtually every employer, state and local government, and place of public accommodation in the country and still cleared both chambers of Congress by margins that read like acclamation. On September 7, 1989, the Senate passed S. 933 by 76 to 8. On May 22, 1990, the House recorded a 403 to 20 vote for the same legislative text. When the two chambers reconciled their differences that July, the conference report passed the House 377 to 28 and the Senate 91 to 6. Thirteen days after the second of those votes, the president signed the bill as Public Law 101-336. Tallies like these invite a simple explanation: the country agreed, and Congress ratified the agreement.
 
-![United States Capitol and the Americans with Disabilities Act passage history - Insight Crunch](/assets/images/blog/blog-01.webp)
+![United States Capitol and the Americans with Disabilities Act passage history - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The legislative record tells a harder and more instructive story. The bill that became law was the second attempt, not the first. The first attempt, introduced in 1988, was substantially broader in coverage, remedies, and compliance timelines, and it died without a markup or a floor vote in either chamber. The second attempt was renegotiated from the ground up, and the negotiations that narrowed it are visible in the enacted text: in the disability definition that requires an impairment to substantially limit a major life activity, in the public accommodations title that offers injunctive relief and attorney's fees instead of damages, in the phased compliance schedules that replaced a flat two year mandate, and in the food handling provision that nearly destroyed the conference agreement weeks before enactment. The supermajorities were real, and they were purchased. The price is written into the statute.
 

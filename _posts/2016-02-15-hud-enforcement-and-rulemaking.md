@@ -6,17 +6,17 @@ date: "2016-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing", "Civil Rights", "Housing Policy", "Supreme Court", "Study Guides"]
 excerpt: "How HUD enforces fair housing law: the filing clocks, the referral system, the court election and its remedies, and the full dated rulemaking chronology."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2016-02-15"
+lang: en
 ---
-
 ## How HUD Enforces Fair Housing Law: The System in One Picture
 
 A reader who wants to understand how HUD enforces fair housing law is really asking about a machine with moving parts, not a single rule. The machine begins with a statute that grants rights, and it ends with money changing hands, orders changing behavior, and penalties vindicating a public interest. Between those two points sits an administrative agency created in 1965, dozens of state and local partners operating under a federal assistance program, a referral system that decides who investigates a given complaint, a conciliation process that resolves most filings before any finding is made, a forum election that sends a case either to a federal courtroom or to an administrative hearing, and a body of rulemaking that has been issued, withdrawn, suspended, repealed, and reissued across successive administrations. This article traces a housing discrimination claim from filing through investigation to either a federal courtroom or an administrative hearing, names the two deadlines that end claims, and sets out the dated rulemaking chronology with each administration's stated rationale and no evaluation.
 
-![HUD fair housing enforcement: complaint pathways, court election, and civil penalties - Insight Crunch](/assets/images/blog/blog-01.webp)
+![HUD fair housing enforcement: complaint pathways, court election, and civil penalties - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The central claim of this article is that two clocks and an election decide more about the outcome of a housing discrimination claim than the underlying facts do. The statute gives an aggrieved person one year to file an administrative complaint and two years to file a private civil action, and the private route requires no administrative filing first. That single procedural fact is the most important in the field and the most often misunderstood. The referral system means the practical enforcer in a given place is often a state or local agency certified as substantially equivalent, not the federal department, and outcomes vary accordingly. And when the department finds reasonable cause and issues a charge, either side may elect within a short window to move the matter to federal district court with the Justice Department prosecuting, or to proceed before an administrative law judge, with different remedies in each forum. The complainant who misses the one year administrative window still has a year of private remedy that most people never learn about, and that asymmetry shapes everything.
 

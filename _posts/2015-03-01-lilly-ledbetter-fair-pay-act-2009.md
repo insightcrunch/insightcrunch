@@ -6,17 +6,17 @@ date: "2015-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Lilly Ledbetter Fair Pay Act", "Civil Rights", "Labor Law", "Supreme Court", "Pay Discrimination"]
 excerpt: "The Lilly Ledbetter Fair Pay Act of 2009 restarted the filing clock for pay claims with each paycheck, reversing Ledbetter v. Goodyear on timing alone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2015-03-01"
+lang: en
 ---
-
 ## The Question a Hidden Pay Gap Poses
 
 A supervisor at a tire plant in Alabama worked nearly twenty years, retired, and only then learned from an anonymous note that men doing comparable work had earned substantially more than she had for most of her career. When she sued, the courts agreed the pay gap was real and discriminatory, and then threw out her case anyway, because she had filed her complaint too late. Too late measured from when? That question is the entire subject of the Lilly Ledbetter Fair Pay Act of 2009, and the statute's answer is disarmingly narrow: the clock restarts with every paycheck. Almost everything else people believe about this law, that it redefined pay discrimination, that it made proving a case easier, that it equalized wages between men and women, is wrong. This article is a profile of a short statute whose reputation far exceeds its text, and its value lies in saying exactly what the text did, what it deliberately left alone, and why a single sentence at the end of a dissenting opinion became the blueprint for a law.
 
-![The Lilly Ledbetter Fair Pay Act and the paycheck accrual rule it created - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Lilly Ledbetter Fair Pay Act and the paycheck accrual rule it created - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The confusion around this statute is understandable because the story behind it is dramatic. A worker discovers a concealed pay disparity after the deadline has passed, the Supreme Court divides five to four, a dissenting justice reads her dissent aloud from the bench and ends it by telling Congress to fix the problem, and two years later Congress does exactly that, with the new President signing the bill as his first enactment. Drama of that kind invites the assumption that the resulting law must have been dramatic too, that it rewrote the rules of pay equity in America. It did not. It changed one rule, the rule that decides when a worker's time to complain starts running, and it changed that rule across four federal employment statutes at once. Everything in this article follows from holding that single change clearly in view and refusing to let the drama around it inflate what the text actually says.
 

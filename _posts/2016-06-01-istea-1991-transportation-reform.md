@@ -6,17 +6,17 @@ date: "2016-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "ISTEA", "Transportation", "Congress", "Legislative Process", "American History"]
 excerpt: "ISTEA moved transportation decisions from Washington to metro regions, tied federal plans to clean air law, and let highway funds pay for transit projects."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: "2016-06-01"
+lang: en
 ---
-
 ## Part One: The Hinge
 
 On December 18, 1991, President George H. W. Bush signed the Intermodal Surface Transportation Efficiency Act of 1991 in Euless, Texas. The ceremony closed the Interstate construction era and opened a different one. The statute arrived as Public Law 102-240, printed at 105 Stat. 1914, and it authorized six years of federal surface programs, fiscal 1992 through fiscal 1997, at a scale the Congressional Research Service later scored at 151 billion dollars. The namable claim of this profile is simple: "From building to allocating." For thirty five years federal transportation policy had meant one thing above all, financing the construction of a national highway network. This law redirected the federal role toward deciding how a completed system should be used, and it moved those decisions out of Washington into metropolitan regions.
 
-![Aerial view of a highway interchange representing the federal transportation system that ISTEA reshaped](/assets/images/blog/blog-01.webp)
+![Aerial view of a highway interchange representing the federal transportation system that ISTEA reshaped](/assets/images/blog/blog-69.webp)
 
 The country that received the statute was finishing the largest public works project in its history. A 1991 report from the General Accounting Office, numbered RCED-91-147, described an Interstate System of more than 44,000 miles and called it nearly complete. The final original segment, through Glenwood Canyon on Interstate 70 in Colorado, would open to traffic on October 14, 1992, ten months after the signing. Since 1956 Washington had paid roughly ninety percent of Interstate construction costs and left the building to state highway departments operating under federal standards. That bargain had been extraordinarily productive at pouring concrete and extraordinarily narrow in what it asked about the concrete. It did not ask whether a region needed a highway or a rail line. It did not ask whether a new road would help a region meet air quality standards. It asked whether the segment met the standards and whether the money was obligated. ISTEA asked the missing questions and rewrote the institutions that would answer them.
 

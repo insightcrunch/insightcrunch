@@ -6,17 +6,17 @@ date: "2016-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "interstate highway system", "transportation economics", "urban history", "federal policy", "infrastructure"]
 excerpt: "The interstate highway system raised productivity and remade freight, yet urban construction displaced over a million people. This review weighs both halves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2016-06-15"
+lang: en
 ---
-
 ## Part One: The Ledger Has Two Halves
 
 Few federal programs invite two completely different verdicts with equal confidence, and the national limited-access highway network built after 1956 is one of them. Ask an economist who studies productivity what the program accomplished, and the answer comes back in the language of measured gains: a one-time, unrepeatable boost to output per worker, concentrated in the vehicle-intensive industries that the new roads served best. Ask a historian who studies American cities what the same program accomplished, and the answer comes back in the language of measured losses: hundreds of thousands of homes destroyed, more than a million people displaced, with the damage concentrated in poor and Black neighborhoods that had little power to choose another route. Both answers are correct. Both rest on serious research. The honest accounting holds them at the same time, and this article is built to make that accounting possible.
 
-![Aerial view of a multi-lane interstate interchange showing the scale of the national limited-access highway network](/assets/images/blog/blog-01.webp)
+![Aerial view of a multi-lane interstate interchange showing the scale of the national limited-access highway network](/assets/images/blog/blog-66.webp)
 
 The statute at the center of this assessment is the [Federal-Aid Highway Act of 1956](/2016/04/01/federal-aid-highway-act-1956-guide/), designated in the legislative record as Public Law 84-627, together with the successive authorizations that carried the program forward. Construction was concentrated between the late 1950s and the early 1980s, the decades in which the core national network took shape. The findings below measure what that construction did, not what its sponsors hoped it would do. That distinction matters, because the series this article belongs to assesses each statute against two standards at once: the aims its drafters stated for themselves, and the consequences its drafters never measured. The 1956 act was sold principally as a national defense and commerce measure, a program to connect the country. Its economic returns turned out to be very large. Its urban costs turned out to be very large too, and nobody in Washington was keeping a ledger for those.
 

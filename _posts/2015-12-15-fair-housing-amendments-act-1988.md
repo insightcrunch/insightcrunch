@@ -6,15 +6,15 @@ date: "2015-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing Act", "Housing Law", "Civil Rights", "HUD", "Disability Rights"]
 excerpt: "The Fair Housing Amendments Act added disability and familial status protections, rebuilt enforcement, and set accessibility design rules for new apartments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2015-12-15"
+lang: en
 ---
-
 Twenty years after Congress outlawed housing discrimination based on race, color, religion and national origin, lawmakers returned to the same statute and gave it a sharper shape. The Fair Housing Amendments Act of 1988 added two new protected groups, rebuilt the enforcement machinery from a conciliation-only model into a system with real penalties, extended the time private plaintiffs had to sue, and wrote the first federal accessibility requirements for new apartment construction into housing law. A later 1995 statute refined one piece of that architecture, the exemption for older-persons housing, without touching the rest. This guide walks through the act section by section, using the exact statutory language where precision matters, and it treats the obligations of housing providers and the rights of tenants with the same care.
 
-![Alt Text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alt Text - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 To follow the longer study-notebook treatment of this statute alongside other federal laws, see the [federal legislation study notebook](https://vaultbook.net/tools/legislation-study-notebook.html) for a structured review of its key provisions, section by section, with the code citations collected in one place for reference.
 

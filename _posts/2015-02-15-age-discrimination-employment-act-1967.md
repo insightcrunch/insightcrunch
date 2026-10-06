@@ -6,15 +6,15 @@ date: "2015-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Age Discrimination in Employment Act", "Employment Law", "Civil Rights", "Supreme Court", "Statute Profile"]
 excerpt: "The Age Discrimination in Employment Act protects workers forty and over at employers with twenty or more staff, with but-for causation and strict waiver rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: "103"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2015-02-15"
+lang: en
 ---
-
 The Age Discrimination in Employment Act is the federal employment statute most American workers meet without ever learning its name. It arrives inside a severance packet, in pages of waiver language that federal law requires an employer to hand to every departing worker over forty, and it governs the layoff meeting, the promotion denied, the application that goes nowhere after a birth date appears on a form. Congress wrote the statute in 1967 as a companion to the Civil Rights Act of 1964, and the two laws have spent the decades since diverging in ways that decide real cases: different employer thresholds, different protected classes, different causation standards, different waiver rules. A reader who understands those divergences understands why employment discrimination law is not one body of rules but several, and why the comparison matters more here than any single narrative thread. The statute also illustrates a larger pattern in American lawmaking: the laws that shape ordinary working life are often not the famous ones. The 1964 act occupies the history books, while the 1967 statute occupies the severance packet, and the latter touches more workers in a given year through waiver reviews alone than the former does through filed charges. That quiet ubiquity is the reason a profile of this statute must carry the full apparatus, origins through litigation, in one place: for most readers, this article is the only sustained encounter they will have with the law that governs their layoff meeting.
 
-![Age Discrimination in Employment Act statute profile, origins coverage and waivers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Age Discrimination in Employment Act statute profile, origins coverage and waivers - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The test this profile applies can be stated in one sentence. A reader who finishes it can explain why age was left out of the 1964 civil rights statute and studied instead, can state the protected class and the employer threshold and say how both differ from the civil rights title, understands that the causation standard is stricter than for race or sex claims and can say why that difference exists, and knows the severance waiver rules that make this the employment statute most workers encounter in practice without realizing it. Because this is a profile with no specialist siblings, it carries origins, coverage, defenses, waivers, and litigation in one article, and it links across to the companion statutes rather than restating their fields.
 

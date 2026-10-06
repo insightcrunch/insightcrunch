@@ -6,15 +6,15 @@ date: "2015-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "Disability Rights", "Civil Rights", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Americans with Disabilities Act myths graded true, partly true, or false against the statute, regulations, and litigation data, with the damages driver named."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2015-10-15"
+lang: en
 ---
-
 Americans with Disabilities Act myths circulate in break rooms, comment sections, landlord meetings, and human resources trainings, and they circulate with unusual confidence. Few statutes generate as many confident false statements per page of enacted text. A restaurant owner repeats that a single complaint can produce a five figure payout. A hiring manager repeats that the law forces employers to hire people who cannot do the job. A landlord repeats that a building constructed before 1990 is exempt from every requirement. Each of these statements feels true to the person repeating it, because each one contains a fragment of something real. This article tests eight of the most durable claims against Public Law 101-336 as amended, the implementing regulations, and the litigation data, grading each one true, partly true, or false.
 
-![Americans with Disabilities Act myths examined claim by claim against the enacted text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Americans with Disabilities Act myths examined claim by claim against the enacted text - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The method is deliberately simple. Each claim is stated in the strongest form its holders would recognize, so that no one can object that a weak version was knocked down instead. The verdict is then tied to a specific statutory or regulatory provision or to a named dataset, and the verdict is graded on a three point scale rather than a two point one. Some claims are false. Some are true. Several are partly true, and those are the most instructive, because a partly true claim explains why the myth survives: the part that is true keeps getting mistaken for the whole. Where a question is genuinely contested, with reasonable readers able to weigh the same evidence differently, the article labels it contested and reports the evidence instead of imposing a verdict.
 

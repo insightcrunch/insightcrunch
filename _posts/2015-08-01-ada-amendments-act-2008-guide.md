@@ -6,16 +6,15 @@ date: "2015-08-01"
 categories: ["Industry"]
 tags: ["ADA", "disability law", "civil rights", "employment law", "ADA Amendments Act", "Supreme Court", "reasonable accommodation", "disability coverage"]
 excerpt: "The ADA Amendments Act rewrote the disability definition to overturn rulings that narrowed coverage, moving fights from who qualifies to the accommodation owed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2015-08-01"
+lang: en
 ---
-
-
 Few statutes in American civil rights law carry a legislative history that reads like an answer key. The ADA Amendments Act of 2008 is one of them. Congress did not merely change the definition of disability; it named the Supreme Court decisions it was reversing, quoted the reasoning it was rejecting, and wrote the replacement rules into the United States Code with a level of explicitness that leaves little room for the usual arguments about what the legislature intended. Public Law 110-325 was an override, and it behaved like one. It took a definition that courts had read narrowly for nine years and rebuilt it so that the reading could not be repeated, while leaving every duty, every defense, and every remedy exactly where the 1990 statute had put them. The result was not a new obligation for employers, governments, or businesses. It was a relocation of the fight, from the threshold question of who counts as disabled to the practical questions of who is qualified and what change is reasonable.
 
-![The ADA Amendments Act override guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The ADA Amendments Act override guide - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The story matters beyond disability law because it is a case study in how the American system corrects judicial narrowing without constitutional confrontation. Congress did not attack the Court. It did not strip jurisdiction or denounce the justices. It wrote a better definition, with findings that explained the disagreement and purposes that directed the new reading, and it passed the result with votes so lopsided that opposition was a rounding error. The override cycle, judicial narrowing followed by legislative restoration, is one of the recurring rhythms of civil rights legislation, and the 2008 act is among its cleanest examples. This guide follows that rhythm from the 1990 promise through the narrowing years to the restoration, keeping the statute's text at the center throughout.
 

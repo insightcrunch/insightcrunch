@@ -6,15 +6,15 @@ date: "2015-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Housing Act", "Urban Renewal", "Public Housing", "Berman v Parker", "Housing Policy"]
 excerpt: "The Housing Act promised a decent home for every American family, then financed urban renewal, the clearance program that razed hundreds of thousands of homes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2015-11-15"
+lang: en
 ---
-
 The Housing Act of 1949 is the rare federal statute whose opening sentence outlived its programs, out-argued its defenders, and reads, in retrospect, as an indictment of what followed. Congress declared a national objective of a decent home and a suitable living environment for every American family, then financed a clearance program that demolished hundreds of thousands of dwellings, displaced more than a million people, and built back only a fraction of what it tore down. The same law authorized one of the largest public housing commitments in American history and watched that commitment miss its schedule by decades. To understand the act is to hold both facts at once: the promise and the ledger.
 
-![Housing Act of 1949 urban renewal profile - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Housing Act of 1949 urban renewal profile - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 Because this statute has no specialist siblings in the series, this profile carries origins, provisions, implementation, litigation, and consequences in one article. The test it applies is deliberately narrow. After reading, a reader can state the goal that opens the act and has never been met, explain how a clearance program authorized in 1949 demolished far more housing than it built, describe the constitutional decision that made the taking of unblighted property lawful when the neighborhood as a whole was designated for redevelopment, and name the statute that replaced the program in 1974.
 

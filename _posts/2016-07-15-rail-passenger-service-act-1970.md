@@ -6,15 +6,15 @@ date: "2016-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Railroads", "Amtrak", "Transportation Law", "Deregulation", "Supreme Court"]
 excerpt: "The Rail Passenger Service Act created the national passenger railroad as a lawful exit for carriers, not an expansion. This profile explains the bargain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2016-07-15"
+lang: en
 ---
-
 Most statutes that create a national institution expand something. The Rail Passenger Service Act of 1970 did the opposite. It created the National Railroad Passenger Corporation, the entity the public knows by the trade name Amtrak, so that private railroads could lawfully stop running passenger trains. On the first morning of operation, May 1, 1971, the national intercity network shrank from 366 trains to 184. The law did not grow rail service. It managed its contraction, trading route mileage for legal relief, and every oddity in the corporation's structure, from its for-profit charter to the preference right that freight railroads still contest, descends from that original bargain. This profile is current through the reference date of July 15, 2016, and every figure in it carries a named source and a stated period.
 
-![Illustration for the Rail Passenger Service Act statute profile](/assets/images/blog/blog-01.webp)
+![Illustration for the Rail Passenger Service Act statute profile](/assets/images/blog/blog-91.webp)
 
 ## The statute that shrank the railroad map
 

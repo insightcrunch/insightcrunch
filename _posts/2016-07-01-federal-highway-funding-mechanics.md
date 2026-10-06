@@ -6,15 +6,15 @@ date: "2016-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Title 23", "Highway Trust Fund", "FHWA", "Apportionment", "Infrastructure"]
 excerpt: "Federal highway funding moves from user taxes to pavement through reimbursement, formulas and limits. This guide traces the dollar pathway stage by stage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2016-07-01"
+lang: en
 ---
-
 Federal highway funding follows a path that surprises almost everyone who has not worked inside a state transportation department. The money begins with taxes paid by highway users, travels into a dedicated trust fund, and is then divided among the states by formulas written into federal law. But the Washington end of the story stops there. No federal agency awards the paving contract. No federal crew lays the asphalt. No federal office maintains the finished road. This guide describes the program as it stood in mid-2016, under the FAST Act, and traces a single federal dollar from collection to the moment it reimburses a state for work already completed.
 
-![Aerial view of an interstate highway interchange showing multiple lanes and overpasses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Aerial view of an interstate highway interchange showing multiple lanes and overpasses - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The program at the center of this guide is the federal-aid highway program, authorized under Title 23 of the United States Code, the title of the code headed "Highways." Its core provisions sit in chapter 1 of that title, sections 101 through 610, cited by practitioners as 23 U.S.C., chapter 1 (Federal-Aid Highways). The money comes from the Highway Trust Fund. The Federal Highway Administration, known as FHWA, administers the programs, but it does so through the state departments of transportation, which are the entities that select projects, award contracts, supervise construction, and own and operate the finished roads. The collective name for these highway programs, as FHWA uses it, is the Federal-Aid Highway Program.
 

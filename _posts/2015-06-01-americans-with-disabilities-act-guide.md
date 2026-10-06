@@ -6,15 +6,15 @@ date: "2015-06-01"
 categories: ["Industry"]
 tags: ["ADA", "disability law", "civil rights", "employment law", "public accommodations", "reasonable accommodation", "disability rights"]
 excerpt: "A guide to the Americans with Disabilities Act: the five titles, the disability definition, reasonable accommodation, and the legal limits behind every dispute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: "84"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2015-06-01"
+lang: en
 ---
-
 The most persistent misunderstanding of the Americans with Disabilities Act is that it is a benefits law, a government program that pays money or funds services for people with disabilities. It is not. The statute creates no program, funds no checks, and builds no bureaucracy that distributes aid. It is a civil rights law in the same family as the Civil Rights Act of 1964: a set of prohibitions on discrimination, enforceable in court, that tells employers, governments, businesses, and telephone companies what they must not do and what changes they must make. Every dispute under the statute flows from that distinction. Readers who arrive expecting a benefits program misunderstand every argument about the law, because the law produces litigation rather than budget lines, court orders rather than appropriations.
 
-![The Americans with Disabilities Act statute guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Americans with Disabilities Act statute guide - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## The statute on its own terms
 

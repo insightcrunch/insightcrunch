@@ -6,15 +6,15 @@ date: "2015-08-15"
 categories: "[\"Industry\"]"
 tags: "[\"ADA\", \"Supreme Court\", \"disability law\", \"Olmstead\", \"sovereign immunity\", \"employment law\", \"civil rights\"]"
 excerpt: "How the Supreme Court shaped the Americans with Disabilities Act: the narrowed definition, the state immunity split, and the integration mandate explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "103"
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 last_updated: "2015-08-15"
+lang: en
 ---
-
 The Americans with Disabilities Act reached the Supreme Court within a decade of its signing, and the resulting decisions did more than resolve individual disputes. They narrowed who counted as disabled until Congress overrode the definition, split the question of state immunity along title and constitutional lines, and turned a nondiscrimination rule into the legal foundation for moving hundreds of thousands of people out of institutions. A reader who follows these cases can trace that arc from restriction to reset, and can see why a single misread holding in this cluster would stand out to every disability lawyer in the country. The test of this article is whether that reader, finishing the last section, can trace the narrowing and the override, explain the immunity split and the constitutional reasoning behind it, and state the integration holding that reshaped long-term services. Each line of decisions below is written to make one of those tasks possible.
 
-![The Supreme Court and the ADA](/assets/images/blog/blog-01.webp)
+![The Supreme Court and the ADA](/assets/images/blog/blog-52.webp)
 
 The statute at the center of this litigation arrived with unusual bipartisan force. The Americans with Disabilities Act of 1990, Public Law 101-336, was signed on July 26, 1990 by President George H. W. Bush after passing the House of Representatives 377 to 28 on July 12, 1990 and the Senate 91 to 6 on July 13, 1990. It built on an earlier funding-condition statute, Section 504 of the Rehabilitation Act of 1973, which had barred disability discrimination by programs receiving federal money. The 1990 law went further, extending the prohibition to private employers, state and local governments, and places of public accommodation regardless of federal funding. That breadth is what brought the law to the Court so quickly, because nearly every sector of American life had to work out what the new duties meant. The earlier statute did not disappear; it continued to operate alongside the new law, and its funding-condition structure would later supply an alternate route to the courthouse when the new statute's own abrogation of state immunity faltered. Understanding the two statutes together is essential, because several of the decisions below turn on the interaction between them. Section 504's model, nondiscrimination as a condition of federal money, differs structurally from the 1990 law's model, nondiscrimination as a freestanding legal duty, and the Supreme Court's treatment of each reflects that difference.
 

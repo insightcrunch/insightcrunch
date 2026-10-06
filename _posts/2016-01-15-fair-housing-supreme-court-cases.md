@@ -6,15 +6,15 @@ date: "2016-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing", "Supreme Court", "Civil Rights", "American History", "Study Guides"]
 excerpt: "Fair housing Supreme Court cases revived a Reconstruction-era statute and defined disparate impact. This guide compares the two housing laws and each holding."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2016-01-15"
+lang: en
 ---
-
 American fair housing law looks like one law to almost everyone who discusses it. The standard account describes the Fair Housing Act of 1968, its protected classes, its exemptions, and its enforcement machinery, and then treats the Supreme Court decisions as commentary on that single statute. The fair housing Supreme Court cases tell a different story, because they are decisions about two statutes, not one. The first is Title VIII of the Civil Rights Act of 1968, Public Law 90-284, signed by President Lyndon B. Johnson on April 11, 1968. The second is a single sentence of the Civil Rights Act of 1866, codified at 42 U.S.C. section 1982, which guarantees all citizens the same right as white citizens to inherit, purchase, lease, sell, hold, and convey real and personal property. Two months after the newer statute became law, the Supreme Court held in Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968), that the older statute bars all racial discrimination in property transactions, public and private, as an exercise of Congress's power to enforce the Thirteenth Amendment. That holding created a parallel fair housing regime with no exemptions, no administrative process, and narrower protected ground than the 1968 act, and the choice between the two has been a routine strategic decision in housing litigation ever since, even though public discussion almost never mentions it.
 
-![Fair housing Supreme Court cases from Jones to Inclusive Communities and the two statutes they construe - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fair housing Supreme Court cases from Jones to Inclusive Communities and the two statutes they construe - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This article assembles what no single page puts together. It compares the 1866 and 1968 statutes on coverage, exemptions, protected characteristics, process, and remedies. It traces the standing decisions of the 1970s and early 1980s that made organizational testing the backbone of enforcement. It explains why the Court's 1977 ruling that constitutional equal protection claims require proof of discriminatory purpose pushed plaintiffs toward statutory theories that do not. And it states precisely what the Court held in Texas Department of Housing and Community Affairs v. Inclusive Communities Project, Inc., 576 U.S. 519 (2015), about disparate impact, including the limits the majority attached to its own holding. Readers who work through the cases below will be able to explain the two-statute point, the standing line, the intent line, and the effects line, which is the complete judicial construction of American fair housing law.
 

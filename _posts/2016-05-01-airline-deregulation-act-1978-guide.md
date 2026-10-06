@@ -6,17 +6,17 @@ date: "2016-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Airline Deregulation", "Transportation Law", "Civil Aeronautics Board", "Federal Preemption", "Aviation Policy"]
 excerpt: "The Airline Deregulation Act ended CAB price and route control, abolished the board, kept safety rules intact, and wrote the preemption clause courts construe."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2016-05-01"
+lang: en
 ---
-
 ## What the Airline Deregulation Act of 1978 did, in one account
 
 The Airline Deregulation Act of 1978, Public Law 95-504, signed on October 24, 1978 and carried at 92 Stat. 1705, did two things at once, and confusing them is the source of most of the error that surrounds the statute. It removed federal government control over the prices that carriers could charge and the routes they could fly, phasing that control out on a fixed schedule. And it wrote the agency that had exercised that control, the Civil Aeronautics Board, out of existence on a second fixed schedule, ending with the board's termination effective at the start of 1985. What it did not do is touch the safety system at all. The declaration of policy written into the statute lists the maintenance of safety as the highest priority, the safety regulator kept every power it had held before, and the accident investigators already sat in an independent board of their own. A reader who finishes this article should be able to explain that a Democratic senator, an economist appointed by a Democratic president, and consumer advocates led the effort to dismantle economic regulation of the airline industry; that the statute abolished a federal agency outright, which has almost never happened; that safety regulation was never deregulated; and that the act's preemption clause quietly became one of the most litigated provisions in transportation law, drawing the line the Supreme Court's Morales and Wolens decisions set between state consumer protection enforcement and a passenger's right to sue on a contract.
 
-![The Airline Deregulation Act ended CAB economic control of fares and routes and left safety regulation untouched - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Airline Deregulation Act ended CAB economic control of fares and routes and left safety regulation untouched - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 That account is the one test for this profile. It matters because the familiar left-right expectations fail here completely. The push to scrap economic regulation came from liberal senators who had concluded that the board protected the incumbent carriers at the expense of the flying public, not from business lobbies asking for freedom from oversight. The chairman who executed the dismantling was an economist appointed by a Democratic president who believed the economics and then behaved accordingly, opening entry and loosening fares from inside the agency before the statute even took effect. And the piece of the statute that has produced the most courtroom argument is not the celebrated abolition at all but a preemption clause of a few lines, which bars the states from enforcing laws related to a price, route, or service of an air carrier. The Supreme Court has construed that clause in at least two major decisions, and the distinction the justices drew, between state-imposed consumer protection law and a contract claim that enforces the carrier's own promises, has decided passenger cases under the statute since then.
 

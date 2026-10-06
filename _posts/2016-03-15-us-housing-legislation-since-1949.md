@@ -6,15 +6,15 @@ date: "2016-03-15"
 categories: "[\"Industry\"]"
 tags: "[\"US Legislation\", \"Housing Policy\", \"HUD\", \"LIHTC\", \"Section 8\", \"Tax Policy\", \"Federal Housing Law\"]"
 excerpt: "US housing legislation promised every family a decent home, then migrated into the tax code. This era guide orders the major statutes and explains the shift."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: "79"
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 last_updated: "2016-03-15"
+lang: en
 ---
-
 Federal residential policy in the United States reads as one long migration. In 1949 Congress promised every American family a decent home and a suitable living environment, and it built that promise out of appropriations: money Congress voted each year to clear slums, renew cities, and build public housing. By the mid-2010s the largest federal interventions in the housing market were not appropriations at all. They were provisions of the Internal Revenue Code: a production credit allocated by state agencies and policed by the IRS, and a cluster of homeowner deductions that cost the Treasury more each year than the entire budget of the Department of Housing and Urban Development. The statutes in between, from 1949 to 2016, trace how that migration happened, statute by statute, mechanism by mechanism.
 
-![Federal housing legislation era guide](/assets/images/blog/blog-01.webp)
+![Federal housing legislation era guide](/assets/images/blog/blog-37.webp)
 
 ## The organizing argument
 

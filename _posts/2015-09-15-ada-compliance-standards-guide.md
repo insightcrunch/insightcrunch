@@ -6,17 +6,17 @@ date: "2015-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "ADA Standards", "disability law", "accessibility", "administrative rulemaking"]
 excerpt: "ADA Standards for Accessible Design: three tiers of duty for existing buildings, alterations, and new construction, a limited safe harbor, and three defenses."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2015-09-15"
+lang: en
 ---
-
 ## The civil rights statute that points to another document
 
 The Americans with Disabilities Act of 1990, Public Law 101-336, 104 Stat. 327, signed July 26, 1990 by the 101st Congress after passing as S. 933, codified at 42 U.S.C. sections 12101 and following and amended substantially in 2008, is the rare civil rights law whose operative content lives mostly outside its own text. The ADA Standards for Accessible Design are not a chapter of the statute. They are technical rules, measured in inches and pounds of force, adopted by the Department of Justice through notice and comment rulemaking and developed from guidelines issued by an independent federal board that most readers have never heard of. The statute says that places of public accommodation and public entities must not discriminate; the standards say how wide the door must be, how steep the ramp may run, and how high the counter may sit. A reader who wants to know what any given building must actually do will learn almost nothing from the statute alone and almost everything from the standards.
 
-![An architect reviewing accessibility design drawings for a public building entrance](/assets/images/blog/blog-01.webp)
+![An architect reviewing accessibility design drawings for a public building entrance](/assets/images/blog/blog-04.webp)
 
 That split, between the promise in the statute and the numbers in the standards, is the subject of this article. The design rules are where Congress delegated the hard decisions: how much access existing buildings owe, how far a renovation must reach, what counts as too costly, and which defenses excuse noncompliance. Five mechanisms do the work. A three-body structure divides guideline writing, standard setting, and enforcement among different actors. A three-tier obligation sorts every building into existing, altered, or new and assigns each a different duty. A safe harbor protects elements that satisfied earlier rules, within strict limits that are constantly overstated. Three defenses, constantly conflated, excuse different duties under different titles and are measured against different resources. And on websites, the highest volume compliance question in the field, the rules never arrived at all, leaving the courts to divide over first principles. This is the practitioner article for architects, facility managers, small business owners, and the lawyers who advise them. Its answer to the single test question, what any given facility must actually do, is that the answer depends on the tier, the defense, and the date, and that anyone offering a simpler answer has not read the regulations.
 

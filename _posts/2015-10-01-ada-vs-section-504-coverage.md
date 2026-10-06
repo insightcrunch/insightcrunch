@@ -6,15 +6,15 @@ date: "2015-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Section 504", "ADA", "disability rights", "coverage comparison", "civil rights"]
 excerpt: "ADA vs Section 504: which law reaches each defendant, why the standards align, and why the funding-triggered statute is the stronger route against states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: "63"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2015-10-01"
+lang: en
 ---
-
 ADA vs Section 504 is the comparison that working disability rights lawyers reach for more often than any other, because the two statutes protect the same people against the same kinds of exclusion and then behave like entirely different laws the moment a case is filed. One is a funding condition that Congress attached to federal money in 1973. The other is a civil rights mandate that Congress imposed on private employers, every state and local government, and defined categories of private business in 1990. The substantive duties they impose are deliberately aligned by express statutory instruction, so a covered entity generally owes the same core obligations under both. The routes to court are not aligned at all. Which statute reaches a given defendant, what remedy follows a violation, whether sovereign immunity blocks the claim, and what procedural steps must come before suit all turn on the choice between them. That choice is the subject of this article.
 
-![ADA vs Section 504 coverage comparison showing the five axes of trigger, standards, remedies, immunity, and procedure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![ADA vs Section 504 coverage comparison showing the five axes of trigger, standards, remedies, immunity, and procedure - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## The comparison every disability case starts with
 

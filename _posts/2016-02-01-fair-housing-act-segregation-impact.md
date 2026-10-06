@@ -6,15 +6,15 @@ date: "2016-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation: Fair Housing Act", "US Legislation: Segregation", "US Legislation: Homeownership Gap", "US Legislation: Paired Testing", "US Legislation: Fair Lending", "US Legislation: Moving to Opportunity"]
 excerpt: "The Fair Housing Act promised equal housing access. Did segregation fall and did the ownership gap close? An evidence review of five decades of outcomes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2016-02-01"
+lang: en
 ---
-
 Congress passed the Fair Housing Act as Title VIII of the Civil Rights Act of 1968, Public Law 90-284, signed by President Lyndon B. Johnson on April 11, 1968, and rebuilt its enforcement machinery twenty years later in the Fair Housing Amendments Act of 1988, Public Law 100-430, signed by President Ronald Reagan on September 13, 1988. The statute bars discrimination in the sale, rental and financing of housing on the basis of race, color, national origin and religion, with sex added by the Housing and Community Development Act of 1974, Public Law 93-383, and disability and familial status added by the 1988 amendments. Any honest accounting of what the law achieved has to begin with a distinction the enforcement record forces on the reader. The 1988 amendments supplied the enforcement scheme under which effects are measured: administrative complaints heard by administrative law judges, civil penalties, and injunctive authority for the Department of Justice. Before that change the original 1968 act depended largely on private lawsuits and a Department of Housing and Urban Development that could investigate and conciliate but not compel, which is why analysts date serious enforcement to 1988 rather than 1968. The question this article answers is the one the evidence can actually support: what measurably changed in residential segregation, homeownership and detected discrimination in the decades after enactment, which study series supplies the causal evidence, and what did not change despite the statute. Readers looking for the provisions themselves, the cases that construe them, and the full enforcement record should consult the companion pieces on this site: the provisions evaluated here are laid out in [the complete guide to the 1968 act](/2015/11/01/fair-housing-act-1968-complete-guide/), the doctrine that shapes what can be proved is traced in [the Supreme Court cases](/2016/01/15/fair-housing-supreme-court-cases/), and the lending record sits beside [the Community Reinvestment Act guide](/2015/12/01/community-reinvestment-act-1977-guide/).
 
-![Fair Housing Act segregation impact and homeownership outcomes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fair Housing Act segregation impact and homeownership outcomes - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The short answer, stated before the evidence that earns it, is that the Fair Housing Act worked best at the job it was written to do and least at the job later observers wished it had done. Paired testers sent into housing markets by four federal studies between 1977 and 2012 found that the bluntest form of discrimination, the flat refusal to do business with a minority homeseeker, declined from common to rare. The standard measure of black-white residential separation fell from roughly 80 percent in 1970 to roughly 55 percent in 2010, the lowest level since 1920, and declined in every one of the nation's 85 largest cities. The largest fair lending settlements in the country's history at the time, $335 million against Countrywide in December 2011 and $175 million against Wells Fargo in July 2012, followed the financial crisis and put dollar figures on patterns of steering and pricing discrimination the statute was designed to reach. Against those gains stands the field's most sobering statistic, and it must be stated with the precision the record demands because careless versions of it circulate widely. The black homeownership rate stood near 42 percent in 1970 and near 42 percent again in 2015, effectively flat across five decades. Because the white rate moved upward over the same span, the white-black ownership gap did not stand still; it widened, from roughly 25 percentage points in 1970 to roughly 30 percentage points in 2015. The rate is flat. The gap grew. Every rendering that says otherwise, including the familiar claim that the gap is unchanged from 1968, misreads the arithmetic, and this article treats the corrected version as the fact a reader must carry away.
 
@@ -173,7 +173,6 @@ The testing evidence also explains a feature of the enforcement record that othe
 Complaint counts understate discrimination because most victims never learn it happened. A homeseeker shown fewer units cannot know what the white tester was shown, so the injury stays invisible. Paired testing exists precisely to reveal what the complaint record cannot see on its own.
 
 
-
 ## Finding Four: The Complaint Record and Its Disability Majority
 
 The fact that surprises nearly every reader of the enforcement record is that the large majority of fair housing complaints filed each year concern disability rather than race. The in-horizon source is the National Fair Housing Alliance's Fair Housing Trends Report, 2015 edition, published in April 2015 and covering calendar year 2014. The report counted 14,272 instances of disability-based discrimination, 51.8 percent of all complaints nationwide, with race second at 22.0 percent, or 6,044 instances. Within the HUD-only portion of the data, the disability share was 53.2 percent. The article cites the 2015 edition and its 2014 data rather than the 2016 edition, whose 2015 data showed a disability share of 55.1 percent but which was published in April 2016, after the article's reference date. Corroboration comes from HUD's own Research Works publication, volume 6 number 7 in 2009, which reported that the majority, forty-two percent, of complaints from 2005 through 2008 were disability-based, and from the Congressional Research Service's report R44557, which notes that disability has been the largest single basis of complaints since fiscal year 2005. The CRS figure for fiscal year 2019, sixty-two percent, is outside the horizon and is not cited as a finding.
@@ -231,7 +230,6 @@ By the end of this article the reader should be able to do three things the one 
 ### What separates the raw denial ratio from the adjusted one?
 
 The raw ratio compares denial rates with no controls, so it mixes discrimination with every legitimate underwriting difference the data omit, especially credit history. The adjusted ratio adds measured controls, 38 loan-file variables in the Boston study, and the remaining gap, about 1.6 to 1, is the disparity the observable economics of the loans do not explain.
-
 
 
 ## Access improved; ownership did not

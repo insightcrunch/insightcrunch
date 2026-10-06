@@ -6,17 +6,17 @@ date: "2016-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Public Housing", "Housing Vouchers", "Section 8", "Faircloth Amendment", "Rental Assistance"]
 excerpt: "Public housing vs vouchers: the two models that house low income families, the statute that froze new building, and evidence on cost, neighborhoods, and rents."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "65"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2016-03-01"
+lang: en
 ---
-
 ## The Two Instruments: A Reader's Map of Federal Rental Aid
 
 Public housing vs vouchers is the comparison that determines how the United States houses its lowest-income renters, and it is usually argued as ideology when it should be argued as instrument choice. One model places government in the landlord role: local housing authorities own and operate developments under federal rules, and eligible households live in authority-owned buildings. The other model places government in the payer role: the household finds a unit in the private market, and a federal subsidy administered by the same kind of local authority covers most of the rent. A single statutory provision, added in 1998 and effective against a 1999 baseline, has barred net additions to the first model's stock ever since, which means the comparison is not really between two live options. This article reconstructs both models, states the cap precisely, weighs cost and neighborhood evidence from named studies, and delivers a verdict with its deciding factor named.
 
-![Public housing developments contrasted with housing voucher use in private rentals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Public housing developments contrasted with housing voucher use in private rentals - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The One Test for this article is demanding but concrete. After reading, a person should be able to explain the two ways the federal government houses low-income families, state the statutory provision that has made net new public housing effectively unlawful since 1999, weigh the evidence on cost and neighborhood outcomes, and reach a defended verdict whose deciding factor is named: whether the binding constraint in a given market is supply or access. Everything below is organized to make that test passable. Five axes carry the analysis: ownership and control, the legal cap, the stock, the evidence on cost and neighborhoods, and the countervailing evidence on rent capture. A comparison table midway through compresses those axes into a single glanceable artifact. The article then addresses the complication that the public housing model may never have received a fair retrial, and it closes with a verdict that refuses to be uniform across markets because the evidence refuses to be.
 

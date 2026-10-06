@@ -6,15 +6,15 @@ date: "2016-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Section 8", "Housing Choice Voucher", "Housing Policy", "HUD", "Provisions"]
 excerpt: "Section 8 vouchers bridge a tenant's 30 percent income share and a payment standard, but eligibility is not entitlement: appropriations decide who is served."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: "2016-01-01"
+lang: en
 ---
-
 Section 8 vouchers reduce what a qualifying low-income household pays for rent and utilities, and they do it through a formula that runs the entire program. A public housing agency calculates the household's total tenant payment, sets a payment standard tied to the area's fair market rent, and pays the difference between that standard and the household's share directly to the landlord through a housing assistance payment. Everything else in the statute, from inspections to waiting lists, hangs off that formula. The program created by Section 8 of the United States Housing Act of 1937, as added by the Housing and Community Development Act of 1974 and reshaped by the Quality Housing and Work Responsibility Act of 1998, is the largest federal rental assistance program, and its design answers two questions at once: how the money moves, and why the money reaches only a fraction of the households that qualify for it. Readers who finish this guide will be able to trace the path from income contribution through payment standard to inspection, and they will be able to state the fact that governs the program more than any other: eligibility for Section 8 creates no right to receive it.
 
-![Section 8 Housing Choice Voucher program mechanics explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 8 Housing Choice Voucher program mechanics explained - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The test this guide sets for itself is concrete. After reading it, a reader should be able to explain the program's mechanics precisely, from the income contribution through the payment standard to the inspection gate, and state without hesitation that the program is not an entitlement: eligibility confers no right to assistance, and most eligible households receive none. Six anchors carry the explanation. The first is the program's two branches, tenant based and project based. The second is the money: the tenant's share, the payment standard, and the agency's share. The third is the inspection gate that every unit must clear. The fourth is the willing landlord problem, which turns a federal subsidy into a local search. The fifth is rationing by appropriation. The sixth is the evidence from the Moving to Opportunity experiment and the long run research that followed it.
 
