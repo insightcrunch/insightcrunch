@@ -15,3 +15,7 @@
 ## why-media-companies-merge
 - _posts/2026-02-05-bollywood-vs-hollywood-action-films-compared.md — could carry: "Streaming platforms created distribution channels that bypass geographical barriers; our guide to why media companies merge explains the consolidation behind that shift."
 - _posts/2026-03-28-it-sector-layoffs-2026-global-analysis.md — could carry: "The same merger mechanics of financing, conditions, and integration risk apply in media; see why media companies keep merging."
+
+## how-vote-by-mail-works
+- _posts/2010-09-01-help-america-vote-act-2002-guide.md — could carry: "For how mailed ballots are requested, verified, and counted under these federal requirements, see how vote by mail works."
+- _posts/2010-09-15-national-voter-registration-act-1993.md — could carry: "Registration rolls are the foundation mail voting stands on; our guide to how vote by mail works traces the ballot journey from those rolls to the count."
