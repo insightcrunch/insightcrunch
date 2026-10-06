@@ -6,16 +6,17 @@ date: 2026-10-06
 categories: ["Analytics"]
 tags: ["election-administration", "vote-by-mail", "ballot-security", "voter-turnout", "absentee-voting", "us-elections"]
 excerpt: "How vote by mail works, from ballot request to final count: the verification at each stage, the documented fraud record, and what research shows about turnout."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "maya-chen"
 last_updated: 2026-10-06
+lang: en
 ---
 ## The One-Paragraph Answer
 
 A mailed ballot is a paper ballot that travels through the postal system instead of being handed to a voter at a polling place, and its security rests on a chain of layered checks rather than on any single safeguard. The voter requests or automatically receives a ballot, marks it in private, seals it in a signed envelope, and returns it by mail or to a secure drop box. Election workers then verify the signature against the registration record, open only the accepted envelopes, and count the ballots on the same tabulation equipment used for in-person votes, with the results checked afterward by audits. The accumulated research finds that mail voting raises turnout modestly, on the order of a few percentage points, and does not systematically favor either major party. Documented fraud exists but is rare, and the fiercest disputes about the practice are better understood as arguments about how much trust a voting system should require than as disputes about what the record shows.
 
-![A mailed ballot envelope moving through the verification and counting process at an election office - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A mailed ballot envelope moving through the verification and counting process at an election office - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The thesis is that vote-by-mail is a documented administrative process whose integrity comes from redundancy, meaning that no one step carries the whole burden of proof, and that the evidence consistently shows modest turnout gains without a partisan tilt, which makes the loudest fights about the practice arguments about institutional trust rather than about fraud the record can demonstrate. That claim is worth stating plainly because the public conversation usually collapses two different questions, how the machinery works and whether the machinery can be trusted, into a single slogan. The machinery is knowable. Election offices publish their procedures, researchers measure the outcomes, and the failure modes have names and dates. Trust is a separate question, and it cannot be settled by a procedure manual. The machinery is described in full below, with what the evidence shows about fraud and participation, the strongest version of the case against mail voting as well as the case for it, and then the reason the evidence has not settled the argument.
 
