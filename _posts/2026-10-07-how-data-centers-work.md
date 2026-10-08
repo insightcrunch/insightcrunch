@@ -6,17 +6,17 @@ date: 2026-10-07
 categories: ["Technology"]
 tags: ["data-centers", "cloud-infrastructure", "server-hardware", "network-architecture", "energy-efficiency", "power-and-cooling", "technology"]
 excerpt: "How data centers work: the path from grid power to server rack, cooling that removes the heat, the networks that carry traffic, and why location decides cost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-10-07
+lang: en
 ---
-
 ## The Building the Internet Lives In
 
 A data center works by gathering thousands of computers under one roof, feeding them electricity that never stops, pulling the heat they produce out of the air, and wiring them to the internet so that distant devices can borrow their work. Looked at closely, the building is a power and cooling plant that happens to perform computation: the job of removing heat and the guarantee of unbroken electricity decide where the facility is built, how its halls are arranged, and what it costs to run, before anyone asks about processors, memory, or software. The racks are the visible part; the substations, switchgear, battery rooms, diesel generators, chilled-water loops, and fiber entrances are the reason those racks can keep running at all.
 
-![Rows of server racks inside a large data center machine hall - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rows of server racks inside a large data center machine hall - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The metaphor of a building holding the internet is less fanciful than it sounds. Every message opened, every video streamed, every card payment authorized sends electrical signals to a concrete structure somewhere, where machines execute the request and return an answer in a fraction of a second. The work cannot happen entirely inside the device in a person's hand: a phone carries a small battery, has no air moving across its parts, and has nobody standing watch over it. Concentrating the machines in one place solves that problem by centralizing the three things a phone cannot carry: a power supply that does not sleep, a heat-removal system built at industrial scale, and engineers who keep both running. Luiz Barroso and Urs Hölzle gave this idea its canonical name in their 2009 book "The Datacenter as a Computer," where they described warehouse-scale computing, the treatment of an entire building as one computer; their finding was that at that scale, the economics of electricity and the handling of hardware failure dominate every design decision.
 
