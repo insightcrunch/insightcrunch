@@ -6,10 +6,11 @@ date: 2026-10-08
 categories: ["Analytics"]
 tags: ["chemistry", "organic-chemistry", "stereochemistry", "enantiomers", "drug-manufacturing", "molecular-structure", "analytics"]
 excerpt: "Chirality explains why mirror-image molecules differ in the body, how chemists build single-handed compounds, and where clean enantiomer separation breaks down."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "alex-rivera"
 last_updated: 2026-10-08
+lang: en
 ---
 ## Two Molecules, One Mirror, Different Fates
 
@@ -17,7 +18,7 @@ Chirality is the property of an object that cannot be superimposed on its mirror
 
 What follows explains what molecular handedness is, why it changes everything inside enzymes and receptors, how chemists learned to make one mirror image and exclude the other, and where the simple version of the story breaks down. Readers will find the full mechanism of asymmetric synthesis, the measurement methods that prove which hand was made, the regulatory history that followed the thalidomide tragedy, and an honest account of what is still unexplained about why life chose one hand at all. The evidence is drawn from the documented record of the field, from Pasteur's crystal separations of 1848 to the organocatalytic methods that won a Nobel Prize in 2021, with each contested question given the confidence the evidence actually supports.
 
-![Two hands reflected in a mirror beside ball-and-stick models of chiral molecules - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two hands reflected in a mirror beside ball-and-stick models of chiral molecules - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 A left hand and a right hand contain the same bones in the same arrangement, but no rotation in space will make a left glove fit a right hand. Molecules have the same property when a carbon atom carries four different groups arranged at the corners of a tetrahedron. The arrangement can be built in two mirror-image ways, and the two versions, designated R and S under the naming system of Cahn, Ingold and Prelog from 1966, interact differently with any other handed object. A receptor protein, an enzyme active site or a taste bud is itself a handed object, so it fits one enantiomer the way a right glove fits a right hand and treats the other as a stranger.
 
