@@ -27,3 +27,7 @@
 ## how-employment-green-card-sponsorship-works
 - _posts/2026-06-25-india-china-eb-backlog-after-pm-602-0199.md — could carry: "For the full sponsorship chain that produces these priority dates, from PERM recruitment to the I-140 petition, see how employer green card sponsorship works."
 - _posts/2026-10-03-how-deportation-united-states-works.md — could carry: "Sponsorship is the benefits system counterpart to enforcement; our guide to how employer green card sponsorship works explains the PERM and petition process."
+
+## chirality-molecular-handedness
+- _posts/2001-11-14-upsc-chemistry-optional.md — could carry: "For why mirror-image molecules behave differently in living systems and how chemists make only the single hand they want, see our guide to chirality and molecular handedness."
+- _posts/2001-04-03-upsc-science-technology-guide.md — could carry: "The same science of handedness sits behind modern drug manufacture, explained in our guide to chirality and molecular handedness."
