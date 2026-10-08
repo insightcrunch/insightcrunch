@@ -23,3 +23,7 @@
 ## how-data-centers-work
 - _posts/2022-01-17-azure-kubernetes-service-aks-explained.md — could carry: "Those orchestrated containers run on physical machines somewhere; our guide to how data centers work explains the power, cooling, and buildings underneath them."
 - _posts/2023-11-27-azure-vpn-gateway-deep-dive.md — could carry: "The encrypted tunnels terminate in real buildings; for how those buildings keep their machines powered, cooled, and connected, see how data centers work."
+
+## how-employment-green-card-sponsorship-works
+- _posts/2026-06-25-india-china-eb-backlog-after-pm-602-0199.md — could carry: "For the full sponsorship chain that produces these priority dates, from PERM recruitment to the I-140 petition, see how employer green card sponsorship works."
+- _posts/2026-10-03-how-deportation-united-states-works.md — could carry: "Sponsorship is the benefits system counterpart to enforcement; our guide to how employer green card sponsorship works explains the PERM and petition process."

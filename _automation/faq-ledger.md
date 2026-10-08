@@ -141,3 +141,27 @@ center-data-sit-some-underground-underwat | how-data-centers-work | Why Do Some 
 carri-hotel | how-data-centers-work | What Is a Carrier Hotel?
 center-damag-data-fire-server-suppres-without | how-data-centers-work | How Do Data Centers Suppress Fires Without Damaging Servers?
 between-coloca-difference-host-manag | how-data-centers-work | What Is the Difference Between Colocation and Managed Hosting?
+
+## law-employment-sponsorship
+
+### how-employment-green-card-sponsorship-works
+actual-perm-recruitment-step-work | how-employment-green-card-sponsorship-works | How does PERM recruitment actually work, step by step?
+determin-prevail-set-wage | how-employment-green-card-sponsorship-works | What is a prevailing wage determination and who sets it?
+certific-exempt-labor-need-worker | how-employment-green-card-sponsorship-works | Which workers need a labor certification and which are exempt?
+2-3-categori-difference-eb | how-employment-green-card-sponsorship-works | What is the difference between the EB-2 and EB-3 categories?
+date-determin-prior | how-employment-green-card-sponsorship-works | How is a priority date determined?
+bulletin-chart-read-s-two-visa-you | how-employment-green-card-sponsorship-works | How do you read the Visa Bulletin's two charts?
+card-countri-face-green-longer-much-other-some-wait | how-employment-green-card-sponsorship-works | Why do some countries face much longer green card waits than others?
+1b-card-green-h-play-proces-role-visa | how-employment-green-card-sponsorship-works | What role does the H-1B visa play in the green card process?
+1b-dual-h-holder-intent-mean | how-employment-green-card-sponsorship-works | What does dual intent mean for H-1B holders?
+1b-ac21-beyond-extension-h-limit-six-work-year | how-employment-green-card-sponsorship-works | How do AC21 extensions work beyond the six-year H-1B limit?
+classific-job-mean-occupational-portabil-same-similar | how-employment-green-card-sponsorship-works | What does same or similar occupational classification mean for job portability?
+140-date-employer-happen-i-if-prior-withdraw | how-employment-green-card-sponsorship-works | What happens to a priority date if the employer withdraws the I-140?
+occup-schedule | how-employment-green-card-sponsorship-works | What is a Schedule A occupation?
+interest-national-waiver | how-employment-green-card-sponsorship-works | What is the national interest waiver?
+audit-perm-trigger | how-employment-green-card-sponsorship-works | What triggers a PERM audit?
+abil-pay-requir-work | how-employment-green-card-sponsorship-works | How does the ability-to-pay requirement work?
+children-derivative-right-spous | how-employment-green-card-sponsorship-works | What rights do derivative spouses and children have?
+act-aging-child-children-protec-protect-statu | how-employment-green-card-sponsorship-works | How does the Child Status Protection Act protect aging-out children?
+denial-exist-option-perm | how-employment-green-card-sponsorship-works | What options exist after a PERM denial?
+adjustment-consular-differ-process-statu | how-employment-green-card-sponsorship-works | How does consular processing differ from adjustment of status?
