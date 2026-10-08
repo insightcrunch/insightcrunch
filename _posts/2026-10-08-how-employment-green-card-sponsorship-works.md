@@ -6,19 +6,19 @@ date: 2026-10-08
 categories: ["Analytics"]
 tags: ["immigration", "green-card-sponsorship", "perm-labor-certification", "h-1b-visa", "employment-based-immigration", "visa-bulletin"]
 excerpt: "Employer green card sponsorship is a three-part process: Labor certifies the market test, immigration judges the petition, State rations visas by priority date."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "maya-chen"
 last_updated: 2026-10-08
+lang: en
 ---
-
 ## The Three Desks Every Green Card Crosses
 
 Employer green card sponsorship is not one application. It is a chain of three separate government decisions, made by three different agencies, each of which can end the case on its own. The Department of Labor first certifies that hiring the foreign worker will not harm American workers. United States Citizenship and Immigration Services then decides whether the worker actually qualifies for the job and whether the employer can pay the wage. The Department of State finally decides when a visa number is available, rationing a fixed annual supply by category and by the worker's country of birth. The thesis here is that the waiting everyone associates with the system happens almost entirely at the third desk, while the scrutiny everyone fears happens at the first two, and confusing the two is the source of nearly every misunderstanding about how employment-based immigration works.
 
 A foreign engineer hired by an American company does not receive permanent residence when the company decides to sponsor. The company starts a legal process that typically runs through years of filings, a supervised test of the domestic labor market, and a queue measured not in months but in priority dates. Understanding the chain matters because each link has different rules, different risks, and different remedies, and advice that treats sponsorship as a single form misses the structure entirely.
 
-![A government building facade representing the federal agencies behind employment green card sponsorship - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A government building facade representing the federal agencies behind employment green card sponsorship - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 What follows traces the full mechanism: the five employment-based preference categories, the labor certification at the heart of the system, the petition that proves the worker's qualifications, the bulletin that rations visas, the temporary visa bridge that keeps workers employed during the wait, and the compliance obligations that bind the employer at every step.
 
