@@ -19,3 +19,7 @@
 ## how-vote-by-mail-works
 - _posts/2010-09-01-help-america-vote-act-2002-guide.md — could carry: "For how mailed ballots are requested, verified, and counted under these federal requirements, see how vote by mail works."
 - _posts/2010-09-15-national-voter-registration-act-1993.md — could carry: "Registration rolls are the foundation mail voting stands on; our guide to how vote by mail works traces the ballot journey from those rolls to the count."
+
+## how-data-centers-work
+- _posts/2022-01-17-azure-kubernetes-service-aks-explained.md — could carry: "Those orchestrated containers run on physical machines somewhere; our guide to how data centers work explains the power, cooling, and buildings underneath them."
+- _posts/2023-11-27-azure-vpn-gateway-deep-dive.md — could carry: "The encrypted tunnels terminate in real buildings; for how those buildings keep their machines powered, cooled, and connected, see how data centers work."

@@ -117,3 +117,27 @@ allow-ballot-mail-observe-process | how-vote-by-mail-works | Who is allowed to o
 ballot-early-elec-mail-official-return-urge-voter | how-vote-by-mail-works | Why do election officials urge voters to return mail ballots early?
 double-mail-person-prevent-stat-voting | how-vote-by-mail-works | How do states prevent double voting by mail and in person?
 arriv-ballot-exist-mail-never-option-request | how-vote-by-mail-works | What options exist when a requested mail ballot never arrives?
+
+## technology-data-centers
+
+### how-data-centers-work
+four-institute-level-mean-tier-uptime | how-data-centers-work | What Do the Four Uptime Institute Tier Levels Mean?
+backup-between-difference-generator-ups | how-data-centers-work | What Is the Difference Between a UPS and a Backup Generator?
+cool-immersion | how-data-centers-work | What Is Immersion Cooling?
+aisle-cold-contain-hot | how-data-centers-work | What Is Hot Aisle and Cold Aisle Containment?
+best-cool-free-work | how-data-centers-work | What Is Free Cooling and Where Does It Work Best?
+cloud-comput-diff-edge-hyperscale-latency | how-data-centers-work | How Does Edge Computing Differ From Hyperscale Cloud on Latency?
+happen-old-retir-server | how-data-centers-work | What Happens to Old Servers When They Are Retired?
+cent-certif-data-inspect | how-data-centers-work | Who Inspects or Certifies a Data Center?
+dark-fiber | how-data-centers-work | What Is Dark Fiber?
+meet-room | how-data-centers-work | What Is a Meet-Me Room?
+cabl-center-connect-data-subsea | how-data-centers-work | How Do Subsea Cables Connect to Data Centers?
+distribu-pdu-power-unit | how-data-centers-work | What Is a Power Distribution Unit (PDU)?
+built-center-cheap-data-electricity | how-data-centers-work | Why Are Data Centers Built Where Electricity Is Cheap?
+effectivenes-usage-water-wue | how-data-centers-work | What Is Water Usage Effectiveness (WUE)?
+mean-redundancy | how-data-centers-work | What Does N+1 Redundancy Mean?
+cent-data-modular | how-data-centers-work | What Is a Modular Data Center?
+center-data-sit-some-underground-underwat | how-data-centers-work | Why Do Some Data Centers Sit Underground or Underwater?
+carri-hotel | how-data-centers-work | What Is a Carrier Hotel?
+center-damag-data-fire-server-suppres-without | how-data-centers-work | How Do Data Centers Suppress Fires Without Damaging Servers?
+between-coloca-difference-host-manag | how-data-centers-work | What Is the Difference Between Colocation and Managed Hosting?
