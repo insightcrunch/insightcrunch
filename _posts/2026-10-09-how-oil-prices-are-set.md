@@ -6,17 +6,17 @@ date: 2026-10-09
 categories: ["Industry"]
 tags: ["oil-prices", "opec", "energy-markets", "futures-markets", "crude-oil", "economic-history", "gasoline-prices"]
 excerpt: "How oil prices are set, from the futures markets where paper barrels change hands to the benchmarks, refineries, and pump-price lags that translate each move."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-10-09
+lang: en
 ---
-
 ## Where the Barrel Gets Its Number
 
 The answer to how oil prices are determined surprises most people who assume the answer begins at the wellhead. A barrel of crude is not stamped with a number when it leaves the ground; its value is discovered where paper barrels change hands, in a thin futures market, and then translated by physical traders into the quotations refiners actually pay. In plain terms, a small crowd of futures contracts sets the number, physical traders translate it through benchmarks and quality differentials, and every spike is the lag between a futures repricing and a refinery's costs working through the chain. That is how oil prices are set: far from the rigs, closer to the trading screens.
 
-![An offshore oil platform at dusk with flare stacks burning, showing the physical supply behind the futures market that sets crude prices](/assets/images/blog/blog-01.webp)
+![An offshore oil platform at dusk with flare stacks burning, showing the physical supply behind the futures market that sets crude prices](/assets/images/blog/blog-74.webp)
 
 The plumbing has three layers. At the top sits the paper trade, where standardized futures contracts for two dominant references, ICE Brent and CME NYMEX WTI, are bought and sold in enormous volumes compared with the physical barrels that rarely change hands through them. A futures contract is simply an agreement to buy or sell a fixed quantity of crude for delivery in a named future month, and because these agreements are liquid and visible, they become the place where the commodity's value is continuously discovered. Beneath that sits the benchmark layer: the major regional references (Brent for the Atlantic basin, West Texas Intermediate for the United States, Dubai and Oman and Murban for the East) that anchor physical deals. A benchmark is a standard crude whose quotation other crudes are measured against. At the bottom sits the physical trade itself, where actual cargoes change hands for delivery weeks or months ahead.
 
