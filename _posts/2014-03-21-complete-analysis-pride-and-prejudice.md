@@ -5,11 +5,11 @@ page_title: "Complete Analysis of Pride and Prejudice: Why the 1813 Novel Is an 
 date: 2014-03-21
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "novel-analysis", "regency-england", "marriage-market", "classic-literature"]
-excerpt: "Pride and Prejudice is not a romance. It is an 1813 economic novel about the marriage market as labor market, with five daughters and an entailed estate."
+excerpt: "Decode Pride and Prejudice across themes, irony, and the social critique hidden in Austen's romantic comedy."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2014-03-21
+last_updated: 2026-10-09
 lang: en
 ---
 Jane Austen published Pride and Prejudice on January 28, 1813, and the reading public has been misreading it ever since. The conventional reception treats the novel as a love story between a witty woman and a proud man who learn to see each other clearly. The conventional reception is wrong, or at best incomplete in a way that amounts to distortion. Pride and Prejudice is an economic novel about the marriage market as labor market, and the love story is the reward Austen gave readers for sitting through the material analysis. Strip away the romance and what remains is a precise, unsentimental study of how five daughters, an entailed estate, and a narrow pool of eligible men produce five radically different life outcomes, outcomes that correlate with market position more tightly than they correlate with virtue.

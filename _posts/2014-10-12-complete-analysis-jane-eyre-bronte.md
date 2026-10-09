@@ -5,11 +5,11 @@ page_title: "Complete Analysis of Jane Eyre: Why the Novel's Politics Extend Bey
 date: 2014-10-12
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "victorian-novel", "feminist-literature", "imperial-critique", "classic-literature"]
-excerpt: "Often read as a marriage plot, Jane Eyre (1847) is Charlotte Brontë's pointed intervention in Victorian gender, class, religious, and imperial questions."
+excerpt: "Decode Jane Eyre as Charlotte Bronte's argument that a woman's interior life is sufficient material for a great novel."
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 74
 author: "emily-reed"
-last_updated: 2014-10-12
+last_updated: 2026-10-09
 lang: en
 ---
 Charlotte Brontë published Jane Eyre in October 1847 under the pseudonym Currer Bell, and within weeks the book was being read aloud in middle-class drawing rooms from Edinburgh to Bath. The reception was immediate, contested, and intense. Some reviewers called the title character a moral revolutionary; others called her dangerous; nobody called her uninteresting. What that contemporary reception caught, and what later popular readings flattened, was that the book is not simply a courtship narrative about a poor governess and a Byronic master. It is a claim. The argument runs across four distinct registers: female educational autonomy, class-marriage refusal, religious-moral independence, and the imperial-colonial conditions that quietly fund the entire genre of Victorian respectability.

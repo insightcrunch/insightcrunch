@@ -4,11 +4,11 @@ title: "Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in"
 date: 2016-10-13
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances..."
+excerpt: "ORA_HASH pitfalls in Type 2 Slowly Changing Dimensions. When the hash function produces unexpected results and how to avoid SCD tracking errors in ODI."
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 2
 author: "alex-cunningham"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances where even an useful function like ORA_HASH can have it's limitations. Let's take a look at how this function can act while implementing SCD2.

@@ -5,11 +5,11 @@ page_title: "Revenge and Love in Wuthering Heights - How Emily Bronte Made Destr
 date: 2014-09-22
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "revenge", "love", "themes", "literary-analysis", "gothic-fiction"]
-excerpt: "Revenge in Wuthering Heights is not love's opposite. It is the form love takes when class-property structures explicitly deny love its ordinary fulfillment."
+excerpt: "Decode revenge and love in Wuthering Heights as the same emotion dressed in different clothes from chapter to chapter."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "elena-wright"
-last_updated: 2014-09-22
+last_updated: 2026-10-09
 lang: en
 ---
 The most stubborn fact about Wuthering Heights is that it has been read for almost two centuries as a love story, and it has been read this way against substantial textual evidence that Emily Bronte was writing something else. Heathcliff's adult life is dominated by a project of methodical destruction aimed at two families. He degrades a child, imprisons a young woman, marries a sister he despises, and dies refusing food in a way that reads less like grief than like the closing of a settled account. None of these actions is what we ordinarily call love. They are also, in the novel's own logic, inseparable from his attachment to Catherine Earnshaw. The reading that calls the attachment love and the destruction its corruption has solved the problem too easily. This novel's argument is harder and darker, and recovering it is the work of this article.

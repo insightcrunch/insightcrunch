@@ -9,7 +9,7 @@ excerpt: "The interstate highway system raised productivity and remade freight, 
 image: "/assets/images/blog/blog-66.webp"
 reading_time: "75"
 author: "alex-cunningham"
-last_updated: "2016-06-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## Part One: The Ledger Has Two Halves

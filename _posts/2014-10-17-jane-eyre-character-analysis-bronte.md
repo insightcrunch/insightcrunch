@@ -5,11 +5,11 @@ page_title: "Jane Eyre Character Analysis: Why Her Moral Autonomy Is the Novel's
 date: 2014-10-17
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "jane-eyre-character", "moral-autonomy", "victorian-woman", "classic-literature"]
-excerpt: "Jane Eyre is not a romantic heroine accidentally given moral seriousness. Her moral autonomy is the novel's central and deliberate Victorian argument."
+excerpt: "Decode Jane Eyre as the prototype for the modern interior heroine, defined by what she refuses as much as what she wants."
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 83
 author: "claire-bennett"
-last_updated: 2014-10-17
+last_updated: 2026-10-09
 lang: en
 ---
 Jane Eyre is among the most discussed female characters in English literature, and almost every popular account of her gets something fundamental wrong. The popular reading treats her as a romantic heroine whose unusual moral seriousness is a charming personality quirk, an interesting decoration on the more central romantic plot with Edward Rochester. The argument of this analysis is the opposite. Jane's moral autonomy is not a personality quirk and is not decoration. It is the book's argument. Charlotte Brontë constructed the character to embody, demonstrate, and defend a particular claim about female interior life and ethical agency in 1847 Victorian England, and every major characterological feature, from the orphan childhood at Gateshead through the refusal at Thornfield to the eventual union at Ferndean, was built to make that claim visible.

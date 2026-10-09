@@ -9,7 +9,7 @@ excerpt: "The Motor Vehicle Safety Act turned the second collision into law. Thi
 image: "/assets/images/blog/blog-52.webp"
 reading_time: "75"
 author: "christopher-wells"
-last_updated: "2016-05-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The crash is not the injury event

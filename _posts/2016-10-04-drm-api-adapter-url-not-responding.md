@@ -4,11 +4,11 @@ title: "DRM API Adapter URL not responding"
 date: 2016-10-04
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this..."
+excerpt: "Oracle DRM API Adapter URL not responding: the web service endpoint essential for integrations. Diagnosis, Weblogic configuration, and restart steps."
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 1
 author: "andrew-price"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this Master Data Management tool for it to integrate and connect with other systems.

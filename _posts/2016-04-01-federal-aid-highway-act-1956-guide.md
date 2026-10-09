@@ -9,7 +9,7 @@ excerpt: "With a ninety-ten share and the Highway Trust Fund, the Federal-Aid Hi
 image: "/assets/images/blog/blog-86.webp"
 reading_time: "101"
 author: "jessica-kim"
-last_updated: "2016-04-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The question the Federal-Aid Highway Act answers

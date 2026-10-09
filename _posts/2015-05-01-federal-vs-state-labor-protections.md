@@ -9,7 +9,7 @@ excerpt: "Federal labor law sets wage and safety floors that states may exceed, 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: "81"
 author: "natalie-webb"
-last_updated: "2015-05-01"
+last_updated: 2026-10-09
 lang: en
 ---
 A warehouse worker takes a job in one state and receives no paid sick days and no required rest break during a ten hour shift. She moves to a neighboring state, does the same job for a similar employer, and now the law guarantees paid sick time, a meal period, and a higher minimum wage. Nothing about her changed. The employer did not become more generous. What changed was the jurisdiction, and the jurisdiction matters in American employment law more than in almost any other field of federal legislation. That single experience generates an enormous volume of practical searches, and it exposes the central confusion this article resolves: most people assume federal law is the main source of workplace rights and that subnational law merely fills in details. For wages, safety, discrimination, and leave, that description is roughly right. For breaks, paid sick time, paid family leave, and protection against dismissal without cause, it is wrong in a way that has real consequences, because on those protections there is no federal rule at all and everything depends on the law of the state where the work is performed.

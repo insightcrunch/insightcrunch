@@ -4,11 +4,11 @@ title: "Google Hiring Freeze 2022"
 date: 2015-05-14
 categories: ["Industry"]
 tags: ["Google"]
-excerpt: "Google is one of the largest organizations today in the technological world. In the current economic scenario, where there is a huge chance of a prolonged..."
+excerpt: "Google hiring freeze 2022: Alphabet slows recruitment amid recession fears. Which teams are affected, Sundar Pichai's messaging, and recovery outlook."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 8
 author: "ian-fletcher"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Background

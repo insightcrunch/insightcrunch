@@ -4,11 +4,11 @@ title: "Is Meta hiring freeze 2022?"
 date: 2014-04-17
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest technology corporations in the world today. Big companies around the world are preparing for a recession that might come in..."
+excerpt: "Meta hiring freeze 2022 confirmed: Zuckerberg pauses recruitment as the company prepares for economic headwinds and refocuses on efficiency."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 8
 author: "gregory-marsh"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Background

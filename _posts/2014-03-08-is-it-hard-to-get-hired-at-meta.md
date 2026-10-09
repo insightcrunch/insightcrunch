@@ -4,11 +4,11 @@ title: "Is it hard to get hired at Meta?"
 date: 2014-03-08
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest corporations in the world today in the software industry. One of the questions that is asked by all the aspirants who want to..."
+excerpt: "Getting hired at Meta is extremely competitive. The acceptance rate, interview difficulty, and what separates successful candidates from the rest."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 9
 author: "jason-mckenzie"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Background

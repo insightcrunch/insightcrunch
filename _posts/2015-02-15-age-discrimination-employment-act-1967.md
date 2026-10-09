@@ -9,7 +9,7 @@ excerpt: "The Age Discrimination in Employment Act protects workers forty and ov
 image: "/assets/images/blog/blog-33.webp"
 reading_time: "103"
 author: "patrick-dunn"
-last_updated: "2015-02-15"
+last_updated: 2026-10-09
 lang: en
 ---
 The Age Discrimination in Employment Act is the federal employment statute most American workers meet without ever learning its name. It arrives inside a severance packet, in pages of waiver language that federal law requires an employer to hand to every departing worker over forty, and it governs the layoff meeting, the promotion denied, the application that goes nowhere after a birth date appears on a form. Congress wrote the statute in 1967 as a companion to the Civil Rights Act of 1964, and the two laws have spent the decades since diverging in ways that decide real cases: different employer thresholds, different protected classes, different causation standards, different waiver rules. A reader who understands those divergences understands why employment discrimination law is not one body of rules but several, and why the comparison matters more here than any single narrative thread. The statute also illustrates a larger pattern in American lawmaking: the laws that shape ordinary working life are often not the famous ones. The 1964 act occupies the history books, while the 1967 statute occupies the severance packet, and the latter touches more workers in a given year through waiver reviews alone than the former does through filed charges. That quiet ubiquity is the reason a profile of this statute must carry the full apparatus, origins through litigation, in one place: for most readers, this article is the only sustained encounter they will have with the law that governs their layoff meeting.

@@ -9,7 +9,7 @@ excerpt: "Evidence on family leave law shows short-run gains in time away and jo
 image: "/assets/images/blog/blog-65.webp"
 reading_time: "80"
 author: "ian-fletcher"
-last_updated: "2015-04-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## What the evidence can and cannot tell us

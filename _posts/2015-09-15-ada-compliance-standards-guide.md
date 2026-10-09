@@ -9,7 +9,7 @@ excerpt: "ADA Standards for Accessible Design: three tiers of duty for existing 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: "80"
 author: "samantha-lee"
-last_updated: "2015-09-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The civil rights statute that points to another document

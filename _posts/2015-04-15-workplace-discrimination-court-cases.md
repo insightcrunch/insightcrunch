@@ -9,7 +9,7 @@ excerpt: "Workplace discrimination court cases turn on procedure: causation stan
 image: "/assets/images/blog/blog-89.webp"
 reading_time: "71"
 author: "benjamin-scott"
-last_updated: "2015-04-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The forum decides the case

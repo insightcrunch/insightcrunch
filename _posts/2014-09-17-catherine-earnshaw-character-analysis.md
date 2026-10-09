@@ -3,8 +3,8 @@ layout: post
 title: "Catherine Earnshaw Character Analysis"
 page_title: "Catherine Earnshaw in Wuthering Heights - Wildness, Self-Destruction, the Impossible Choice, and a Love That Destroys Everything It Touches"
 date: 2014-09-17
-last_updated: 2014-09-17
-excerpt: "Catherine is not torn between two loves. Her 'I am Heathcliff' articulates shared damage from childhood abuse, not the romantic transcendence readers assume."
+last_updated: 2026-10-09
+excerpt: "Decode Catherine Earnshaw in Wuthering Heights as a woman destroyed by the gap between what she wants and what she chooses."
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "catherine-earnshaw", "character-analysis", "literary-analysis", "classic-literature"]
 author: "lauren-hayes"

@@ -9,7 +9,7 @@ excerpt: "The Fair Housing Act bars bias on seven grounds; exemptions decide cas
 image: "/assets/images/blog/blog-20.webp"
 reading_time: "88"
 author: "michael-brooks"
-last_updated: "2015-11-01"
+last_updated: 2026-10-09
 lang: en
 ---
 The Fair Housing Act, enacted as Title VIII of the Civil Rights Act of 1968, is Public Law 90-284, 82 Stat. 73, signed on April 11, 1968 by the 90th Congress and codified at 42 U.S.C. sections 3601 and following, with the protected classes broadened by amendment in 1974 and again in 1988. Most readers meet it as a list: seven protected characteristics, a ban on discrimination in selling, renting, lending, and advertising, and a set of remedies for violations. This guide argues that the list is the least useful way to understand the measure. The operative structure is a different arrangement: seven prohibitions carrying different section numbers, an exemption scheme that removes a surprising share of the market from several of those prohibitions, one prohibition that admits no exemption at all, and a sleeper clause directing federal housing programs to be administered in a manner that affirmatively furthers the title's policies. The exemptions, not the prohibitions, decide most real cases, because the first question a practitioner asks about any claim under this law is whether the defendant was covered in the first place. A reader who finishes this guide can explain why the measure passed only after two years of defeat and one week after an assassination, can name the protected classes and the carve-outs that swallow part of the market, can state the one ban that reaches even otherwise exempt sellers, and can identify the quiet provision that imposes an affirmative obligation on recipients of federal housing money.

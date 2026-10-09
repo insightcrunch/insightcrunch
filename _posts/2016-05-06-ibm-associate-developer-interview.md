@@ -4,11 +4,11 @@ title: "IBM Associate Developer Interview"
 date: 2016-05-06
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM Associate Developer interview experience: selection process, coding test format, technical interview questions, and what IBM looks for in junior hires."
+excerpt: "How to crack the IBM Associate Developer interview. Process overview, technical question patterns, coding test difficulty, and preparation focus areas."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 2
 author: "gregory-marsh"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview

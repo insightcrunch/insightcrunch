@@ -9,7 +9,7 @@ excerpt: "Section 504 bars disability discrimination in federally funded program
 image: "/assets/images/blog/blog-18.webp"
 reading_time: "76"
 author: "patrick-dunn"
-last_updated: "2015-07-01"
+last_updated: 2026-10-09
 lang: en
 ---
 The most consequential disability rights sentence in American law arrived without a hearing, without extended debate, and almost without anyone in Congress noticing it had been added. Section 504 of the Rehabilitation Act of 1973 provides that no otherwise qualified individual with a disability shall, solely by reason of disability, be excluded from participation in, denied the benefits of, or subjected to discrimination under any program or activity receiving federal financial assistance. The sentence was copied nearly word for word from the race provision of the Civil Rights Act of 1964 and the sex provision of the education amendments of 1972, with the protected characteristic swapped out. That copying is the single most important fact for understanding how the provision works, because the enforcement machinery of the older statutes traveled with their sentence structure, and the courts have read the copied sentence as carrying the interpretive freight of its parents.

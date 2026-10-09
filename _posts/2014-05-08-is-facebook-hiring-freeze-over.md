@@ -4,11 +4,11 @@ title: "Is Facebook hiring freeze over?"
 date: 2014-05-08
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest corporations in the technology industry today. Due to an increase in competition from other apps like TikTok and Snapchat, Meta..."
+excerpt: "Is the Facebook/Meta hiring freeze over? Current status of recruitment, which teams are hiring again, and what the recovery timeline looks like."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 9
 author: "marcus-hall"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Background

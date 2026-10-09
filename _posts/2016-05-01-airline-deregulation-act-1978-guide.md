@@ -9,7 +9,7 @@ excerpt: "The Airline Deregulation Act ended CAB price and route control, abolis
 image: "/assets/images/blog/blog-35.webp"
 reading_time: "78"
 author: "christopher-wells"
-last_updated: "2016-05-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## What the Airline Deregulation Act of 1978 did, in one account

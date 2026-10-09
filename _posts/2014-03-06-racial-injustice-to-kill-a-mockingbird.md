@@ -5,11 +5,11 @@ page_title: "Racial Injustice in To Kill a Mockingbird - The Trial, Maycomb's So
 date: 2014-03-06
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "racial-injustice", "tom-robinson", "literary-analysis", "classic-literature"]
-excerpt: "How To Kill a Mockingbird confronts racial injustice - the trial, Maycomb's caste system, and its limitations."
+excerpt: "Decode race and justice in To Kill a Mockingbird, including the novel's progress and its modern critics."
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "sarah-mitchell"
-last_updated: 2014-03-06
+last_updated: 2026-10-09
 lang: en
 ---
 To Kill a Mockingbird treats racism as a problem of individual prejudice that individual moral heroism can address, and that treatment is simultaneously the source of the novel's 1960 power and its twenty-first-century limitation. Harper Lee published into a nation that was beginning to reckon with Jim Crow, and her novel gave white liberal readers exactly what they needed: a white hero who stands against racism, a Black defendant whose innocence is unambiguous, and a child narrator whose confusion at the verdict doubles as the reader's own moral clarity. The novel did genuine work in 1960. Alabama had not integrated its schools. The Greensboro sit-ins were five months old. White Americans who would never read a sociological study of racial oppression read Mockingbird and felt, many for the first time, the weight of a system that convicted innocent men because of their skin color. That achievement was real, and dismissing it is as analytically careless as ignoring the novel's limits.

@@ -9,7 +9,7 @@ excerpt: "Public housing vs vouchers: the two models that house low income famil
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "65"
 author: "alex-cunningham"
-last_updated: "2016-03-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The Two Instruments: A Reader's Map of Federal Rental Aid

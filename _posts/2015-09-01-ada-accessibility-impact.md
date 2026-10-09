@@ -9,7 +9,7 @@ excerpt: "The ADA's impact is settled in the built environment, transit and rela
 image: "/assets/images/blog/blog-81.webp"
 reading_time: "69"
 author: "robert-quinn"
-last_updated: "2015-09-01"
+last_updated: 2026-10-09
 lang: en
 ---
 A reader who finishes this article should be able to state four things without hesitation and one thing with deliberate humility. The four: the built environment changed materially over three decades, with curb ramps, accessible transit fleets, and accessible new construction arriving as a continuous, law-driven accumulation; telecommunications relay service grew from a statutory command into a national infrastructure, later extended to internet-based communications; long-term services for people with disabilities shifted measurably from institutions toward home and community settings, with the spending data to prove it; and all of this can be documented with named sources and dated periods. The fifth, the one that requires humility: whether the statute increased or reduced employment among people with disabilities is genuinely unresolved, because respected economists have published respected findings on both sides, and the identification problems that separate them have never been fully settled. That asymmetry, access settled and employment open, is the whole of this article. Every section below exists to earn it.

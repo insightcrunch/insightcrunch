@@ -4,11 +4,11 @@ title: "What is working at Meta like?"
 date: 2014-07-23
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest software organizations in the world today. Meta has been hiring a lot of engineers over the last few years. Due to the variety..."
+excerpt: "What is it like to work at Meta? Employee perspectives on culture, perks, work intensity, team dynamics, and the reality behind the famous campus."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 8
 author: "ryan-walsh"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Background

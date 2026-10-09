@@ -9,7 +9,7 @@ excerpt: "The Americans with Disabilities Act passed Congress after a failed fir
 image: "/assets/images/blog/blog-27.webp"
 reading_time: "84"
 author: "michael-brooks"
-last_updated: "2015-06-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The mandate that should have been impossible to pass

@@ -5,11 +5,11 @@ page_title: "Science and Ambition in Frankenstein - Creation Without Responsibil
 date: 2014-09-02
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "science", "ambition", "themes", "literary-analysis", "classic-literature"]
-excerpt: "Shelley targets ambition-without-responsibility, not ambition itself, through three parallel protagonists. The popular anti-science reading misses her argument."
+excerpt: "Decode science and ambition in Frankenstein as Shelley's permanent warning that capability is not authorization."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "lauren-hayes"
-last_updated: 2014-09-02
+last_updated: 2026-10-09
 lang: en
 ---
 Mary Shelley subtitled her 1818 masterwork "The Modern Prometheus," and most readers stop at the obvious reading: Victor Frankenstein steals fire from the gods, the gods punish him, the moral is that humanity should not reach too far. This reading is wrong. It is wrong because it treats the Prometheus myth as a simple prohibition against ambition, when the myth itself is more complicated than that, and it is wrong because Shelley's text does not support it. Frankenstein contains three ambitious protagonists, not one. Robert Walton pursues Arctic discovery with genuine passion. Victor Frankenstein pursues biological creation with consuming obsession. The Creature pursues companionship, acknowledgment, and paternal care with articulate determination. Shelley treats these three ambitions differently, and the differences are the substance of her argument. The popular reading that Frankenstein opposes scientific ambition collapses all three cases into one and loses everything the text actually says.

@@ -9,7 +9,7 @@ excerpt: "The Housing Act promised a decent home for every American family, then
 image: "/assets/images/blog/blog-51.webp"
 reading_time: "83"
 author: "maria-santos"
-last_updated: "2015-11-15"
+last_updated: 2026-10-09
 lang: en
 ---
 The Housing Act of 1949 is the rare federal statute whose opening sentence outlived its programs, out-argued its defenders, and reads, in retrospect, as an indictment of what followed. Congress declared a national objective of a decent home and a suitable living environment for every American family, then financed a clearance program that demolished hundreds of thousands of dwellings, displaced more than a million people, and built back only a fraction of what it tore down. The same law authorized one of the largest public housing commitments in American history and watched that commitment miss its schedule by decades. To understand the act is to hold both facts at once: the promise and the ledger.

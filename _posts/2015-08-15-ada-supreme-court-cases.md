@@ -9,7 +9,7 @@ excerpt: "How the Supreme Court shaped the Americans with Disabilities Act: the 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: "103"
 author: "insight-crunch-team"
-last_updated: "2015-08-15"
+last_updated: 2026-10-09
 lang: en
 ---
 The Americans with Disabilities Act reached the Supreme Court within a decade of its signing, and the resulting decisions did more than resolve individual disputes. They narrowed who counted as disabled until Congress overrode the definition, split the question of state immunity along title and constitutional lines, and turned a nondiscrimination rule into the legal foundation for moving hundreds of thousands of people out of institutions. A reader who follows these cases can trace that arc from restriction to reset, and can see why a single misread holding in this cluster would stand out to every disability lawyer in the country. The test of this article is whether that reader, finishing the last section, can trace the narrowing and the override, explain the immunity split and the constitutional reasoning behind it, and state the integration holding that reshaped long-term services. Each line of decisions below is written to make one of those tasks possible.

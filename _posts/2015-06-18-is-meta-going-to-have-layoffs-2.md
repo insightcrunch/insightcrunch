@@ -4,11 +4,11 @@ title: "Is Meta in trouble?"
 date: 2015-06-18
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest software companies in the world today. Meta is the parent company, which owns multiple products like Facebook, Instagram and..."
+excerpt: "Is Meta in trouble? Revenue declines, Metaverse uncertainty, TikTok competition, and whether Facebook's parent company faces a deeper structural crisis."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 4
 author: "david-thornton"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview

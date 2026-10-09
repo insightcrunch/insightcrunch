@@ -23741,6 +23741,12 @@ civil-rights-act-1964-titles-explained:
   category: industry
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: us-labor-legislation-since-1950
+  title: 'US labor legislation: the shift from collective bargaining to individual employment rights'
+  url: /2015/05/15/us-labor-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 how-much-does-amazon-pay-an-hour-online:
 - slug: how-much-does-amazon-pay-to-work-from-home
   title: How much does Amazon pay to work from home?
@@ -24197,12 +24203,6 @@ civil-rights-act-1991-amendments:
   category: industry
   image: /assets/images/blog/blog-09.webp
   lang: en
-- slug: family-medical-leave-act-1993-guide
-  title: 'Family and Medical Leave Act: The Unpaid Job Guarantee'
-  url: /2015/01/15/family-medical-leave-act-1993-guide/
-  category: labor law
-  image: /assets/images/blog/blog-109.webp
-  lang: en
 historical-materialism-vs-idealism:
 - slug: historical-materialism-exam-answers
   title: 'Historical Materialism: Exam Answer Guide'
@@ -24358,6 +24358,12 @@ civil-rights-act-1964-vote-breakdown:
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
   category: industry
   image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: istea-1991-transportation-reform
+  title: 'ISTEA: The Law That Moved Transportation Power to Regions'
+  url: /2016/06/01/istea-1991-transportation-reform/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 cricket-will-win:
 - slug: facebook-responds-to-open-letter-from-advocacy-groups
@@ -26450,17 +26456,17 @@ national-voter-registration-act-1993:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
+- slug: motor-vehicle-safety-act-1966-guide
+  title: 'Motor Vehicle Safety Act: The Second Collision Law'
+  url: /2016/05/15/motor-vehicle-safety-act-1966-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 - slug: endangered-species-act-1973-guide
   title: 'The Endangered Species Act: A Complete Guide to the Law'
   url: /2012/03/01/endangered-species-act-1973-guide/
   category: industry
   image: /assets/images/blog/blog-103.webp
-  lang: en
-- slug: national-environmental-policy-act-guide
-  title: National Environmental Policy Act Guide to Federal Review
-  url: /2012/02/01/national-environmental-policy-act-guide/
-  category: industry
-  image: /assets/images/blog/blog-45.webp
   lang: en
 tcs-ilp-at-infocity-gandhinagar:
 - slug: tcs-ilp-hyderabad
@@ -29492,12 +29498,6 @@ affordable-care-act-complete-guide:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: affordable-care-act-coverage-impact
-  title: What the Affordable Care Act Did to Health Coverage
-  url: /2011/06/15/affordable-care-act-coverage-impact/
-  category: '["industry"]'
-  image: /assets/images/blog/blog-42.webp
-  lang: en
 - slug: aca-exchange-implementation-guide
   title: 'Health Insurance Exchanges: Building the ACA Marketplaces'
   url: /2011/07/15/aca-exchange-implementation-guide/
@@ -29917,6 +29917,18 @@ citizen-kane-confrontation-susan-flat:
   image: /assets/images/blog/blog-108.webp
   lang: en
 affordable-care-act-coverage-impact:
+- slug: us-housing-legislation-since-1949
+  title: 'US Housing Legislation: Complete Era Guide to Federal Law'
+  url: /2016/03/15/us-housing-legislation-since-1949/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: ada-supreme-court-cases
+  title: The Supreme Court and the ADA
+  url: /2015/08/15/ada-supreme-court-cases/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 - slug: affordable-care-act-complete-guide
   title: 'The Affordable Care Act: The Complete Statute Guide'
   url: /2011/04/01/affordable-care-act-complete-guide/
@@ -29928,18 +29940,6 @@ affordable-care-act-coverage-impact:
   url: /2011/07/01/affordable-care-act-later-changes/
   category: industry
   image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: aca-supreme-court-challenges
-  title: Affordable Care Act Supreme Court Challenges Explained
-  url: /2011/06/01/aca-supreme-court-challenges/
-  category: industry
-  image: /assets/images/blog/blog-78.webp
-  lang: en
-- slug: medicare-catastrophic-coverage-act-1988
-  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
-  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
-  category: industry
-  image: /assets/images/blog/blog-113.webp
   lang: en
 citizen-kane-losing-the-election:
 - slug: citizen-kane-leland-kane-fallout
@@ -30577,12 +30577,6 @@ clean-air-act-complete-guide:
   url: /2011/12/15/clean-air-act-vs-clean-water-act/
   category: industry
   image: /assets/images/blog/blog-41.webp
-  lang: en
-- slug: occupational-safety-health-act-1970
-  title: 'OSH Act: Complete Guide to the Three Body Safety Statute'
-  url: /2015/01/01/occupational-safety-health-act-1970/
-  category: ''
-  image: /assets/images/blog/blog-74.webp
   lang: en
 tcs-vs-accenture-comparison-at-granular-level:
 - slug: accenture-vs-tcs
@@ -31745,6 +31739,18 @@ tcs-itis-and-itis-frequently-asked-questions:
   category: industry
   image: /assets/images/blog/blog-85.webp
   lang: en
+- slug: workplace-discrimination-court-cases
+  title: 'Workplace Discrimination in the Courts: Procedure Explained'
+  url: /2015/04/15/workplace-discrimination-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: why-media-companies-merge
+  title: 'Why Media Companies Merge: Consolidation Explained'
+  url: /2026/10/05/why-media-companies-merge/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
 resistance-front-trf-explained:
 - slug: pahalgam-attack-minute-by-minute
   title: Pahalgam Attack Minute by Minute
@@ -31908,23 +31914,23 @@ tva-v-hill-snail-darter-case:
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: civil-rights-act-supreme-court-cases
   title: The Cases That Shaped the Civil Rights Act
   url: /2010/03/01/civil-rights-act-supreme-court-cases/
   category: industry
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: aca-supreme-court-challenges
-  title: Affordable Care Act Supreme Court Challenges Explained
-  url: /2011/06/01/aca-supreme-court-challenges/
-  category: industry
-  image: /assets/images/blog/blog-78.webp
-  lang: en
-- slug: civil-rights-act-1964-myths
-  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
-  url: /2010/05/01/civil-rights-act-1964-myths/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
   lang: en
 khalistan-tiger-force-explained:
 - slug: hardeep-singh-nijjar-ktf-canada
@@ -32969,17 +32975,17 @@ erisa-1974-complete-guide:
   category: industry
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: airline-deregulation-act-1978-guide
+  title: 'Airline Deregulation Act: How Congress Abolished the CAB'
+  url: /2016/05/01/airline-deregulation-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 - slug: patriot-act-2001-passage-history
   title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
   url: /2014/03/15/patriot-act-2001-passage-history/
   category: industry
   image: /assets/images/blog/blog-93.webp
-  lang: en
-- slug: medicare-parts-a-b-statute-explained
-  title: 'Medicare Parts A and B: What the Statute Actually Covers'
-  url: /2010/12/01/medicare-parts-a-b-statute-explained/
-  category: industry
-  image: /assets/images/blog/blog-30.webp
   lang: en
 sirius-black-complete-character-analysis:
 - slug: james-potter-complete-character-analysis
@@ -33574,17 +33580,17 @@ pension-protection-act-2006-guide:
   category: industry
   image: /assets/images/blog/blog-45.webp
   lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 - slug: dodd-frank-act-complete-guide
   title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
   url: /2013/10/01/dodd-frank-act-complete-guide/
   category: industry
   image: /assets/images/blog/blog-103.webp
-  lang: en
-- slug: affordable-care-act-later-changes
-  title: How Congress Rewrote the Affordable Care Act After Passage
-  url: /2011/07/01/affordable-care-act-later-changes/
-  category: industry
-  image: /assets/images/blog/blog-55.webp
   lang: en
 dolores-umbridge-complete-character-analysis:
 - slug: kingsley-shacklebolt-complete-character-analysis
@@ -34061,11 +34067,11 @@ pension-vs-401k-law-shift:
   category: industry
   image: /assets/images/blog/blog-09.webp
   lang: en
-- slug: equal-pay-act-1963-guide
-  title: The Equal Pay Act of 1963 Explained
-  url: /2015/02/01/equal-pay-act-1963-guide/
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
   category: industry
-  image: /assets/images/blog/blog-74.webp
+  image: /assets/images/blog/blog-66.webp
   lang: en
 peter-pettigrew-complete-character-analysis:
 - slug: harry-potter-loyalty-betrayal-analysis
@@ -34674,6 +34680,12 @@ rufus-scrimgeour-complete-character-analysis:
   image: /assets/images/blog/blog-64.webp
   lang: en
 hart-celler-act-passage-history:
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: civil-rights-act-1964-passage-history
   title: How the Civil Rights Act of 1964 Passed
   url: /2010/01/15/civil-rights-act-1964-passage-history/
@@ -34691,12 +34703,6 @@ hart-celler-act-passage-history:
   url: /2013/03/01/immigration-act-1990-guide/
   category: industry
   image: /assets/images/blog/blog-84.webp
-  lang: en
-- slug: civil-rights-act-vs-voting-rights-act
-  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
-  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
   lang: en
 is-amazon-hard-to-get-hired-2:
 - slug: amazon-jobs-work-from-home
@@ -35048,11 +35054,11 @@ iirira-1996-immigration-act-guide:
   category: industry
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: immigration-nationality-act-1965-guide
-  title: 'Immigration and Nationality Act: What the Statute Did'
-  url: /2012/12/01/immigration-nationality-act-1965-guide/
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 how-can-i-start-working-at-amazon:
 - slug: amazon-force
@@ -35817,23 +35823,23 @@ immigration-law-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: endangered-species-act-1973-guide
   title: 'The Endangered Species Act: A Complete Guide to the Law'
   url: /2012/03/01/endangered-species-act-1973-guide/
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
-- slug: civil-rights-act-1991-amendments
-  title: The Civil Rights Act of 1991 and After
-  url: /2010/04/01/civil-rights-act-1991-amendments/
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
   category: industry
-  image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: voting-rights-act-1965-complete-guide
-  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
-  url: /2010/06/01/voting-rights-act-1965-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-107.webp
+  image: /assets/images/blog/blog-58.webp
   lang: en
 - slug: immigration-act-1965-demographic-impact
   title: How the Hart-Celler Act Reshaped American Demographics
@@ -36023,6 +36029,12 @@ refugee-act-1980-guide:
   category: industry
   image: /assets/images/blog/blog-84.webp
   lang: en
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: homeland-security-act-2002-guide
   title: 'Homeland Security Act: Complete Statute Profile and History'
   url: /2014/04/15/homeland-security-act-2002-guide/
@@ -36034,12 +36046,6 @@ refugee-act-1980-guide:
   url: /2014/09/01/every-student-succeeds-act-2015-guide/
   category: industry
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: immigration-nationality-act-1965-guide
-  title: 'Immigration and Nationality Act: What the Statute Did'
-  url: /2012/12/01/immigration-nationality-act-1965-guide/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
   lang: en
 - slug: sarbanes-oxley-act-2002-guide
   title: 'Sarbanes-Oxley Act Explained: Rules, Costs, and Aftermath'
@@ -38975,6 +38981,12 @@ dodd-frank-banking-impact:
   category: industry
   image: /assets/images/blog/blog-20.webp
   lang: en
+- slug: community-reinvestment-act-1977-guide
+  title: 'Community Reinvestment Act: Ratings, Enforcement, Evidence'
+  url: /2015/12/01/community-reinvestment-act-1977-guide/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 rosetta-stone-deciphering-egypt:
 - slug: napoleon-scholars-rediscovered-egypt
   title: 'Napoleon''s Scholars: The Army That Launched Egyptology'
@@ -40187,11 +40199,11 @@ homeland-security-act-2002-guide:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
-- slug: hart-celler-act-passage-history
-  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
-  url: /2012/12/15/hart-celler-act-passage-history/
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
   category: industry
-  image: /assets/images/blog/blog-25.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 sunrise-murnau-expressionism-in-hollywood:
 - slug: wings-aerial-cinematography-craft
@@ -41305,17 +41317,17 @@ surveillance-law-myths:
   category: industry
   image: /assets/images/blog/blog-22.webp
   lang: en
+- slug: ada-myths-examined
+  title: Americans with Disabilities Act Myths and Claims Tested
+  url: /2015/10/15/ada-myths-examined/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
 - slug: endangered-species-act-myths
   title: 'Endangered Species Act Myths: Examined and Corrected'
   url: /2012/06/15/endangered-species-act-myths/
   category: industry
   image: /assets/images/blog/blog-23.webp
-  lang: en
-- slug: immigration-law-supreme-court-cases
-  title: 'Immigration Law in the Supreme Court: Decisions Guide'
-  url: /2013/03/15/immigration-law-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-29.webp
   lang: en
 yosemite-hidden-gems:
 - slug: yosemite-waterfalls-guide
@@ -41799,29 +41811,29 @@ the-creature-frankenstein-analysis:
   image: /assets/images/blog/blog-78.webp
   lang: en
 every-student-succeeds-act-2015-guide:
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: refugee-act-1980-guide
   title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
   url: /2013/04/01/refugee-act-1980-guide/
   category: industry
   image: /assets/images/blog/blog-97.webp
   lang: en
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
 - slug: no-child-left-behind-outcomes
   title: 'No Child Left Behind Outcomes: What the Evidence Shows'
   url: /2014/11/01/no-child-left-behind-outcomes/
   category: industry
   image: /assets/images/blog/blog-51.webp
-  lang: en
-- slug: title-ix-1972-explained
-  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
-  url: /2014/10/15/title-ix-1972-explained/
-  category: industry
-  image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: iirira-1996-immigration-act-guide
-  title: 'IIRIRA Guide: How the Immigration Law Reshaped Deportation'
-  url: /2013/01/15/iirira-1996-immigration-act-guide/
-  category: industry
-  image: /assets/images/blog/blog-40.webp
   lang: en
 ismail-pasha-egypt-debt:
 - slug: muhammad-ali-pasha-of-egypt
@@ -41980,23 +41992,23 @@ higher-education-act-1965-guide:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 - slug: civil-rights-act-1964-impact
   title: What the Civil Rights Act Actually Changed
   url: /2010/03/15/civil-rights-act-1964-impact/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: no-child-left-behind-act-2001-guide
-  title: 'No Child Left Behind: The Complete Guide'
-  url: /2014/08/15/no-child-left-behind-act-2001-guide/
-  category: industry
-  image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: no-child-left-behind-outcomes
-  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
-  url: /2014/11/01/no-child-left-behind-outcomes/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
   lang: en
 it-happened-one-night-screwball-structure (1):
 - slug: it-happened-one-night-screwball-structure
@@ -42392,6 +42404,12 @@ title-ix-1972-explained:
   category: industry
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
 - slug: education-law-supreme-court-cases
   title: Federal Education Law in the Courts
   url: /2014/12/01/education-law-supreme-court-cases/
@@ -42403,12 +42421,6 @@ title-ix-1972-explained:
   url: /2014/10/01/idea-special-education-law-guide/
   category: industry
   image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: tax-reform-act-1986-complete-guide
-  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
-  url: /2013/05/01/tax-reform-act-1986-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-04.webp
   lang: en
 yosemite-with-kids:
 - slug: yosemite-easy-family-hikes
@@ -42660,12 +42672,6 @@ no-child-left-behind-outcomes:
   category: industry
   image: /assets/images/blog/blog-04.webp
   lang: en
-- slug: nclb-vs-essa-accountability
-  title: 'NCLB vs ESSA Compared: Which Accountability Model Works'
-  url: /2014/11/15/nclb-vs-essa-accountability/
-  category: law
-  image: /assets/images/blog/blog-103.webp
-  lang: en
 george-lennie-character-analysis:
 - slug: loneliness-of-mice-and-men-themes
   title: Loneliness in Of Mice and Men Explained
@@ -42792,6 +42798,12 @@ henry-v-olivier-wartime-british-cinema:
   image: /assets/images/blog/blog-48.webp
   lang: en
 nclb-vs-essa-accountability:
+- slug: federal-vs-state-labor-protections
+  title: 'Federal vs State Labor Protections: Floors, Ceilings, and Gaps'
+  url: /2015/05/01/federal-vs-state-labor-protections/
+  category: law
+  image: /assets/images/blog/blog-09.webp
+  lang: en
 - slug: no-child-left-behind-outcomes
   title: 'No Child Left Behind Outcomes: What the Evidence Shows'
   url: /2014/11/01/no-child-left-behind-outcomes/
@@ -42809,12 +42821,6 @@ nclb-vs-essa-accountability:
   url: /2014/10/01/idea-special-education-law-guide/
   category: industry
   image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 complete-analysis-fahrenheit-451:
 - slug: censorship-themes-fahrenheit-451
@@ -43348,6 +43354,12 @@ grand-canyon-on-a-budget:
   image: /assets/images/blog/blog-35.webp
   lang: en
 occupational-safety-health-act-1970:
+- slug: osha-standards-and-enforcement
+  title: 'OSHA Standards and Enforcement: From Hazard to Citation'
+  url: /2015/03/15/osha-standards-and-enforcement/
+  category: ''
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: immigration-nationality-act-1965-guide
   title: 'Immigration and Nationality Act: What the Statute Did'
   url: /2012/12/01/immigration-nationality-act-1965-guide/
@@ -43365,12 +43377,6 @@ occupational-safety-health-act-1970:
   url: /2010/04/01/civil-rights-act-1991-amendments/
   category: industry
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: title-vii-eeoc-enforcement-guide
-  title: Title VII and the EEOC in Practice
-  url: /2010/02/15/title-vii-eeoc-enforcement-guide/
-  category: industry
-  image: /assets/images/blog/blog-09.webp
   lang: en
 1984-vs-brave-new-world-vs-fahrenheit:
 - slug: brave-new-world-vs-1984-compared
@@ -43479,23 +43485,23 @@ family-medical-leave-act-1993-guide:
   category: industry
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: osha-standards-and-enforcement
+  title: 'OSHA Standards and Enforcement: From Hazard to Citation'
+  url: /2015/03/15/osha-standards-and-enforcement/
+  category: ''
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: equal-pay-act-1963-guide
   title: The Equal Pay Act of 1963 Explained
   url: /2015/02/01/equal-pay-act-1963-guide/
   category: industry
   image: /assets/images/blog/blog-74.webp
-  lang: en
-- slug: clean-water-act-1972-complete-guide
-  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
-  url: /2012/02/15/clean-water-act-1972-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: civil-rights-act-supreme-court-cases
-  title: The Cases That Shaped the Civil Rights Act
-  url: /2010/03/01/civil-rights-act-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-69.webp
   lang: en
 fantasia-music-and-sound-innovation:
 - slug: snow-white-first-animated-feature-making
@@ -43648,6 +43654,12 @@ comedy-against-fascism-dictator-lubitsch:
   image: /assets/images/blog/blog-94.webp
   lang: en
 equal-pay-act-1963-guide:
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 - slug: civil-rights-act-1964-titles-explained
   title: The Civil Rights Act of 1964 Title by Title
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
@@ -43665,12 +43677,6 @@ equal-pay-act-1963-guide:
   url: /2010/02/15/title-vii-eeoc-enforcement-guide/
   category: industry
   image: /assets/images/blog/blog-09.webp
-  lang: en
-- slug: refugee-act-1980-guide
-  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
-  url: /2013/04/01/refugee-act-1980-guide/
-  category: industry
-  image: /assets/images/blog/blog-97.webp
   lang: en
 grand-canyon-sunrise-sunset-viewpoints:
 - slug: where-to-stay-grand-canyon
@@ -43822,6 +43828,31 @@ power-corruption-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
+age-discrimination-employment-act-1967:
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 magnificent-ambersons-studio-cut:
 - slug: touch-of-evil-welles-studio-recut
   title: 'Touch of Evil: The Studio Recut and the Memo'
@@ -43971,6 +44002,31 @@ grand-canyon-with-kids:
   url: /2015/03/15/grand-canyon-north-vs-south-rim/
   category: travel
   image: /assets/images/blog/blog-61.webp
+  lang: en
+lilly-ledbetter-fair-pay-act-2009:
+- slug: civil-rights-act-1991-amendments
+  title: The Civil Rights Act of 1991 and After
+  url: /2010/04/01/civil-rights-act-1991-amendments/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 race-justice-american-novels:
 - slug: madness-sanity-classic-literature
@@ -44153,6 +44209,37 @@ meet-me-in-st-louis-integrated-musical:
   category: leisure
   image: /assets/images/blog/blog-52.webp
   lang: en
+osha-standards-and-enforcement:
+- slug: family-medical-leave-act-1993-guide
+  title: 'Family and Medical Leave Act: The Unpaid Job Guarantee'
+  url: /2015/01/15/family-medical-leave-act-1993-guide/
+  category: labor law
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: lilly-ledbetter-fair-pay-act-2009
+  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
+  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: financial-regulation-court-cases
+  title: 'Financial Regulation Court Challenges: A Complete History'
+  url: /2014/01/15/financial-regulation-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: massachusetts-v-epa-explained
+  title: Massachusetts v. EPA and the Clean Air Act Doctrine
+  url: /2011/11/01/massachusetts-v-epa-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: occupational-safety-health-act-1970
+  title: 'OSH Act: Complete Guide to the Three Body Safety Statute'
+  url: /2015/01/01/occupational-safety-health-act-1970/
+  category: ''
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 american-dream-classic-literature:
 - slug: american-dream-great-gatsby-analysis
   title: The American Dream in The Great Gatsby
@@ -44252,6 +44339,31 @@ nature-wilderness-classic-novels:
   url: /2014/04/25/complete-analysis-lord-of-the-flies/
   category: leisure
   image: /assets/images/blog/blog-102.webp
+  lang: en
+family-leave-law-workforce-impact:
+- slug: section-8-housing-voucher-law
+  title: How Section 8 Vouchers Work in Law
+  url: /2016/01/01/section-8-housing-voucher-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: family-based-i485-after-pm-602-0199
+  title: Family-Based I-485 After PM-602-0199
+  url: /2026/06/22/family-based-i485-after-pm-602-0199/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: h1b-fee-ruling-economic-stakes
+  title: 'H-1B Fee Ruling: The Economic Stakes the Court Weighed'
+  url: /2026/07/11/h1b-fee-ruling-economic-stakes/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
   lang: en
 lord-cromer-ruling-of-egypt:
 - slug: british-rule-good-or-bad-egypt
@@ -44428,6 +44540,31 @@ how-to-write-literary-analysis-essay:
   category: leisure
   image: /assets/images/blog/blog-102.webp
   lang: en
+workplace-discrimination-court-cases:
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: surveillance-law-court-cases
+  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
+  url: /2014/06/01/surveillance-law-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
 zion-bryce-5-day-itinerary:
 - slug: bryce-vs-zion-which-first
   title: 'Bryce Canyon vs Zion: Which First?'
@@ -44583,6 +44720,31 @@ ancient-egyptian-civilization-explained:
   url: /2015/07/01/nationalism-and-egyptian-identity/
   category: leisure
   image: /assets/images/blog/blog-46.webp
+  lang: en
+federal-vs-state-labor-protections:
+- slug: nclb-vs-essa-accountability
+  title: 'NCLB vs ESSA Compared: Which Accountability Model Works'
+  url: /2014/11/15/nclb-vs-essa-accountability/
+  category: law
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: erisa-1974-complete-guide
+  title: 'ERISA: How a Pension Statute Became America''s Health Law'
+  url: /2012/07/15/erisa-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: osha-standards-and-enforcement
+  title: 'OSHA Standards and Enforcement: From Hazard to Citation'
+  url: /2015/03/15/osha-standards-and-enforcement/
+  category: ''
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: family-medical-leave-act-1993-guide
+  title: 'Family and Medical Leave Act: The Unpaid Job Guarantee'
+  url: /2015/01/15/family-medical-leave-act-1993-guide/
+  category: labor law
+  image: /assets/images/blog/blog-109.webp
   lang: en
 gilda-rita-hayworth-femme-fatale:
 - slug: the-third-man-cinematography-noir-style
@@ -44759,6 +44921,31 @@ cleopatra-last-pharaoh-egypt:
   category: leisure
   image: /assets/images/blog/blog-27.webp
   lang: en
+us-labor-legislation-since-1950:
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: title-vii-eeoc-enforcement-guide
+  title: Title VII and the EEOC in Practice
+  url: /2010/02/15/title-vii-eeoc-enforcement-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: equal-pay-act-1963-guide
+  title: The Equal Pay Act of 1963 Explained
+  url: /2015/02/01/equal-pay-act-1963-guide/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 zion-kolob-hidden-gems:
 - slug: zion-national-park-complete-guide
   title: 'Zion National Park: The Complete Guide'
@@ -44858,6 +45045,31 @@ ancient-mesopotamia-civilization:
   url: /2015/06/04/roman-republic-to-empire-transition/
   category: leisure
   image: /assets/images/blog/blog-10.webp
+  lang: en
+americans-with-disabilities-act-guide:
+- slug: ada-amendments-act-2008-guide
+  title: 'ADA Amendments Act: How Congress Reopened the Definition of Disability'
+  url: /2015/08/01/ada-amendments-act-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ada-vs-section-504-coverage
+  title: 'ADA vs Section 504: Coverage, Remedies, and Route Selection'
+  url: /2015/10/01/ada-vs-section-504-coverage/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ada-myths-examined
+  title: Americans with Disabilities Act Myths and Claims Tested
+  url: /2015/10/15/ada-myths-examined/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
   lang: en
 saad-zaghloul-and-the-wafd:
 - slug: 1919-revolution-in-egypt
@@ -45008,6 +45220,31 @@ destruction-pompeii-vesuvius-79-ad:
   url: /2015/05/10/julius-caesar-life-assassination/
   category: leisure
   image: /assets/images/blog/blog-64.webp
+  lang: en
+ada-1990-passage-history:
+- slug: ada-myths-examined
+  title: Americans with Disabilities Act Myths and Claims Tested
+  url: /2015/10/15/ada-myths-examined/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 out-of-the-past-what-is-film-noir:
 - slug: the-third-man-cinematography-noir-style
@@ -45221,6 +45458,31 @@ nationalism-and-egyptian-identity:
   category: leisure
   image: /assets/images/blog/blog-112.webp
   lang: en
+rehabilitation-act-1973-section-504:
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: ada-vs-section-504-coverage
+  title: 'ADA vs Section 504: Coverage, Remedies, and Route Selection'
+  url: /2015/10/01/ada-vs-section-504-coverage/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 zion-narrows-angels-landing-guide:
 - slug: zion-best-hikes
   title: Zion Hikes From Easy Walks to Angels Landing
@@ -45345,6 +45607,31 @@ black-death-plague-explained:
   url: /2012/12/01/black-death-in-mamluk-egypt/
   category: leisure
   image: /assets/images/blog/blog-63.webp
+  lang: en
+ada-titles-explained:
+- slug: ada-compliance-standards-guide
+  title: 'ADA Compliance Standards: Three Tiers of Facility Duties'
+  url: /2015/09/15/ada-compliance-standards-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: ada-vs-section-504-coverage
+  title: 'ADA vs Section 504: Coverage, Remedies, and Route Selection'
+  url: /2015/10/01/ada-vs-section-504-coverage/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: americans-with-disabilities-act-guide
+  title: The Americans with Disabilities Act Guide
+  url: /2015/06/01/americans-with-disabilities-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ada-amendments-act-2008-guide
+  title: 'ADA Amendments Act: How Congress Reopened the Definition of Disability'
+  url: /2015/08/01/ada-amendments-act-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
   lang: en
 sunset-boulevard-hollywood-reception:
 - slug: double-indemnity-noir-screenplay-structure
@@ -45476,6 +45763,31 @@ medieval-feudalism-explained:
   url: /2010/06/01/tax-and-land-early-islamic-egypt/
   category: leisure
   image: /assets/images/blog/blog-62.webp
+  lang: en
+ada-amendments-act-2008-guide:
+- slug: americans-with-disabilities-act-guide
+  title: The Americans with Disabilities Act Guide
+  url: /2015/06/01/americans-with-disabilities-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: age-discrimination-employment-act-1967
+  title: Age Discrimination in Employment Act Explained
+  url: /2015/02/15/age-discrimination-employment-act-1967/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: ada-vs-section-504-coverage
+  title: 'ADA vs Section 504: Coverage, Remedies, and Route Selection'
+  url: /2015/10/01/ada-vs-section-504-coverage/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: civil-rights-act-supreme-court-cases
+  title: The Cases That Shaped the Civil Rights Act
+  url: /2010/03/01/civil-rights-act-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 detour-noir-fatalism-unreliable-narrator:
 - slug: double-indemnity-noir-screenplay-structure
@@ -45627,6 +45939,31 @@ protestant-reformation-explained:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
+ada-supreme-court-cases:
+- slug: us-housing-legislation-since-1949
+  title: 'US Housing Legislation: Complete Era Guide to Federal Law'
+  url: /2016/03/15/us-housing-legislation-since-1949/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: affordable-care-act-coverage-impact
+  title: What the Affordable Care Act Did to Health Coverage
+  url: /2011/06/15/affordable-care-act-coverage-impact/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: ada-amendments-act-2008-guide
+  title: 'ADA Amendments Act: How Congress Reopened the Definition of Disability'
+  url: /2015/08/01/ada-amendments-act-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: americans-with-disabilities-act-guide
+  title: The Americans with Disabilities Act Guide
+  url: /2015/06/01/americans-with-disabilities-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 bryce-vs-zion-which-first:
 - slug: zion-bryce-5-day-itinerary
   title: A 5-Day Zion and Bryce Canyon Itinerary
@@ -45776,6 +46113,31 @@ scientific-revolution-history-explained:
   url: /2015/08/08/the-renaissance-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+ada-accessibility-impact:
+- slug: ada-vs-section-504-coverage
+  title: 'ADA vs Section 504: Coverage, Remedies, and Route Selection'
+  url: /2015/10/01/ada-vs-section-504-coverage/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ada-titles-explained
+  title: 'ADA Title by Title: What Each of the Five Titles Requires'
+  url: /2015/07/15/ada-titles-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: ada-compliance-standards-guide
+  title: 'ADA Compliance Standards: Three Tiers of Facility Duties'
+  url: /2015/09/15/ada-compliance-standards-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
   lang: en
 cold-war-sci-fi-klaatu-vs-body-snatchers:
 - slug: star-wars-lucas-hero-journey-blockbuster
@@ -45927,6 +46289,31 @@ american-revolution-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
+ada-compliance-standards-guide:
+- slug: ada-titles-explained
+  title: 'ADA Title by Title: What Each of the Five Titles Requires'
+  url: /2015/07/15/ada-titles-explained/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ada-myths-examined
+  title: Americans with Disabilities Act Myths and Claims Tested
+  url: /2015/10/15/ada-myths-examined/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: ada-amendments-act-2008-guide
+  title: 'ADA Amendments Act: How Congress Reopened the Definition of Disability'
+  url: /2015/08/01/ada-amendments-act-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 smoky-mountains-family-7-day-itinerary:
 - slug: where-to-stay-smoky-mountains
   title: Where to Stay in the Smoky Mountains
@@ -46076,6 +46463,37 @@ haitian-revolution-explained:
   url: /2015/10/12/american-civil-war-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-31.webp
+  lang: en
+ada-vs-section-504-coverage:
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: americans-with-disabilities-act-guide
+  title: The Americans with Disabilities Act Guide
+  url: /2015/06/01/americans-with-disabilities-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ada-accessibility-impact
+  title: 'ADA Impact: Buildings, Transit, Care and the Jobs Debate'
+  url: /2015/09/01/ada-accessibility-impact/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
   lang: en
 all-that-heaven-allows-douglas-sirk:
 - slug: tree-of-life-malick-auteur-summit
@@ -46258,6 +46676,31 @@ american-civil-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-106.webp
   lang: en
+ada-myths-examined:
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 singin-in-the-rain-greatest-musical:
 - slug: meet-me-in-st-louis-integrated-musical
   title: Meet Me in St. Louis and the Integrated Musical
@@ -46382,6 +46825,31 @@ unification-germany-bismarck:
   url: /2015/09/17/industrial-revolution-explained/
   category: leisure
   image: /assets/images/blog/blog-89.webp
+  lang: en
+fair-housing-act-1968-complete-guide:
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
   lang: en
 modern-egypt-since-1952:
 - slug: 2011-egyptian-revolution
@@ -46614,6 +47082,31 @@ all-about-eve-screenplay-bette-davis:
   category: leisure
   image: /assets/images/blog/blog-97.webp
   lang: en
+housing-act-1949-urban-renewal:
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: public-housing-vs-vouchers-law
+  title: 'Public Housing vs Housing Vouchers: Which Model Wins?'
+  url: /2016/03/01/public-housing-vs-vouchers-law/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 smoky-mountains-best-hikes:
 - slug: smoky-mountains-wildlife-guide
   title: 'Smoky Mountains Wildlife: Bears, Elk and More'
@@ -46795,6 +47288,31 @@ cades-cove-roaring-fork-guide:
   category: travel
   image: /assets/images/blog/blog-64.webp
   lang: en
+community-reinvestment-act-1977-guide:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: gramm-leach-bliley-act-1999-guide
+  title: 'Gramm-Leach-Bliley Act: the Modernization Explained'
+  url: /2013/11/15/gramm-leach-bliley-act-1999-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: financial-crisis-legislation-2008
+  title: 'Financial Crisis Legislation: Rescue Laws Explained'
+  url: /2014/02/15/financial-crisis-legislation-2008/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 on-the-waterfront-brando-method-acting:
 - slug: streetcar-named-desire-williams-adaptation
   title: 'A Streetcar Named Desire: The Censored Adaptation'
@@ -46894,6 +47412,31 @@ tcs-hiring-steps:
   url: /2023/04/21/tcs-smart-hiring/
   category: industry
   image: /assets/images/blog/blog-67.webp
+  lang: en
+fair-housing-amendments-act-1988:
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: ada-1990-passage-history
+  title: 'Americans with Disabilities Act: How Congress Passed It'
+  url: /2015/06/15/ada-1990-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
   lang: en
 rebel-without-a-cause-james-dean-youth:
 - slug: casablanca-themes-sacrifice-ending
@@ -47076,6 +47619,37 @@ gamal-abdel-nasser-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-54.webp
   lang: en
+section-8-housing-voucher-law:
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: public-housing-vs-vouchers-law
+  title: 'Public Housing vs Housing Vouchers: Which Model Wins?'
+  url: /2016/03/01/public-housing-vs-vouchers-law/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: housing-act-1949-urban-renewal
+  title: 'Housing Act and Urban Renewal: The Complete Statute Profile'
+  url: /2015/11/15/housing-act-1949-urban-renewal/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: family-leave-law-workforce-impact
+  title: What Family Leave Law Did to Work
+  url: /2015/04/01/family-leave-law-workforce-impact/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 smoky-mountains-wildlife-guide:
 - slug: smoky-mountains-best-hikes
   title: Best Smoky Mountains Hikes for All Levels
@@ -47200,6 +47774,31 @@ ibm-interview-technical-questions:
   url: /2016/03/19/ibm-panel-interview/
   category: industry
   image: /assets/images/blog/blog-73.webp
+  lang: en
+fair-housing-supreme-court-cases:
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
   lang: en
 smoky-mountains-with-kids:
 - slug: smoky-mountains-hidden-gems
@@ -47351,6 +47950,31 @@ the-holocaust-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+fair-housing-act-segregation-impact:
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
 rocky-mountain-national-park-complete-guide:
 - slug: rocky-mountain-np-best-time-to-visit
   title: Best Time to Visit Rocky Mountain National Park
@@ -47500,6 +48124,31 @@ hiroshima-nagasaki-atomic-bombs:
   url: /2005/12/16/hiroshima-nagasaki-august-1945/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+hud-enforcement-and-rulemaking:
+- slug: fair-housing-supreme-court-cases
+  title: 'Fair Housing Supreme Court Cases: The Two-Statute Guide'
+  url: /2016/01/15/fair-housing-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: fair-housing-act-1968-complete-guide
+  title: 'The Fair Housing Act: Complete Statute Guide'
+  url: /2015/11/01/fair-housing-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: voting-rights-act-1965-complete-guide
+  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
+  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
   lang: en
 rocky-mountain-np-5-day-itinerary:
 - slug: rocky-mountain-national-park-complete-guide
@@ -47701,6 +48350,31 @@ paths-of-glory-kubrick-antiwar:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
+public-housing-vs-vouchers-law:
+- slug: section-8-housing-voucher-law
+  title: How Section 8 Vouchers Work in Law
+  url: /2016/01/01/section-8-housing-voucher-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: housing-act-1949-urban-renewal
+  title: 'Housing Act and Urban Renewal: The Complete Statute Profile'
+  url: /2015/11/15/housing-act-1949-urban-renewal/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 rocky-mountain-np-best-time-to-visit:
 - slug: rocky-mountain-national-park-complete-guide
   title: 'Rocky Mountain National Park: Complete Guide'
@@ -47851,6 +48525,31 @@ rocky-mountain-np-hidden-gems:
   category: travel
   image: /assets/images/blog/blog-56.webp
   lang: en
+us-housing-legislation-since-1949:
+- slug: affordable-care-act-coverage-impact
+  title: What the Affordable Care Act Did to Health Coverage
+  url: /2011/06/15/affordable-care-act-coverage-impact/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: ada-supreme-court-cases
+  title: The Supreme Court and the ADA
+  url: /2015/08/15/ada-supreme-court-cases/
+  category: '["industry"]'
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: section-8-housing-voucher-law
+  title: How Section 8 Vouchers Work in Law
+  url: /2016/01/01/section-8-housing-voucher-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: housing-act-1949-urban-renewal
+  title: 'Housing Act and Urban Renewal: The Complete Statute Profile'
+  url: /2015/11/15/housing-act-1949-urban-renewal/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 ibm-panel-interview:
 - slug: ibm-interview-questions
   title: IBM Interview Questions
@@ -47975,6 +48674,31 @@ anwar-sadat-and-camp-david:
   url: /2016/06/01/egypt-under-hosni-mubarak/
   category: leisure
   image: /assets/images/blog/blog-58.webp
+  lang: en
+federal-aid-highway-act-1956-guide:
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: federal-highway-funding-mechanics
+  title: 'Federal Highway Funding: How a Dollar Travels to the Road'
+  url: /2016/07/01/federal-highway-funding-mechanics/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: interstate-highway-system-impact
+  title: 'Interstate Highway System: High Returns, Heavy Urban Costs'
+  url: /2016/06/15/interstate-highway-system-impact/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
   lang: en
 media-demagoguery-sweet-smell-face-in-crowd:
 - slug: sunset-boulevard-hollywood-reception
@@ -48151,6 +48875,31 @@ bridge-on-the-river-kwai-blacklist-production:
   category: leisure
   image: /assets/images/blog/blog-16.webp
   lang: en
+infrastructure-investment-jobs-act-2021:
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: rail-passenger-service-act-1970
+  title: 'Rail Passenger Service Act: Why Congress Created Amtrak'
+  url: /2016/07/15/rail-passenger-service-act-1970/
+  category: industry
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: federal-highway-funding-mechanics
+  title: 'Federal Highway Funding: How a Dollar Travels to the Road'
+  url: /2016/07/01/federal-highway-funding-mechanics/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: airline-deregulation-act-1978-guide
+  title: 'Airline Deregulation Act: How Congress Abolished the CAB'
+  url: /2016/05/01/airline-deregulation-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 rocky-mountain-np-best-hikes:
 - slug: rocky-mountain-national-park-complete-guide
   title: 'Rocky Mountain National Park: Complete Guide'
@@ -48250,6 +48999,31 @@ fall-of-berlin-wall-1989-explained:
   url: /2008/04/10/jfk-berlin-wall-august-1961/
   category: leisure
   image: /assets/images/blog/blog-73.webp
+  lang: en
+airline-deregulation-act-1978-guide:
+- slug: rail-passenger-service-act-1970
+  title: 'Rail Passenger Service Act: Why Congress Created Amtrak'
+  url: /2016/07/15/rail-passenger-service-act-1970/
+  category: industry
+  image: /assets/images/blog/blog-91.webp
+  lang: en
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: motor-vehicle-safety-act-1966-guide
+  title: 'Motor Vehicle Safety Act: The Second Collision Law'
+  url: /2016/05/15/motor-vehicle-safety-act-1966-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
   lang: en
 trail-ridge-road-driving-guide:
 - slug: where-to-stay-rocky-mountain-np
@@ -48432,6 +49206,31 @@ rwandan-genocide-1994-explained:
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
+motor-vehicle-safety-act-1966-guide:
+- slug: airline-deregulation-act-1978-guide
+  title: 'Airline Deregulation Act: How Congress Abolished the CAB'
+  url: /2016/05/01/airline-deregulation-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: rail-passenger-service-act-1970
+  title: 'Rail Passenger Service Act: Why Congress Created Amtrak'
+  url: /2016/07/15/rail-passenger-service-act-1970/
+  category: industry
+  image: /assets/images/blog/blog-91.webp
+  lang: en
 some-like-it-hot-greatest-comedy:
 - slug: sunset-boulevard-hollywood-reception
   title: 'Sunset Boulevard: The Honored Indictment of Hollywood'
@@ -48607,6 +49406,31 @@ egypt-under-hosni-mubarak:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
+istea-1991-transportation-reform:
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 rocky-mountain-np-wildlife-photography:
 - slug: rocky-mountain-np-5-day-itinerary
   title: A 5-Day Rocky Mountain National Park Itinerary
@@ -48731,6 +49555,31 @@ war-on-terror-explained-complete:
   url: /2015/11/15/all-about-eve-screenplay-bette-davis/
   category: leisure
   image: /assets/images/blog/blog-37.webp
+  lang: en
+interstate-highway-system-impact:
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: federal-highway-funding-mechanics
+  title: 'Federal Highway Funding: How a Dollar Travels to the Road'
+  url: /2016/07/01/federal-highway-funding-mechanics/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: housing-act-1949-urban-renewal
+  title: 'Housing Act and Urban Renewal: The Complete Statute Profile'
+  url: /2015/11/15/housing-act-1949-urban-renewal/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
   lang: en
 rocky-mountain-np-with-kids:
 - slug: rocky-mountain-np-on-a-budget
@@ -48881,6 +49730,31 @@ brexit-explained-complete-guide:
   url: /2016/06/18/arab-spring-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-07.webp
+  lang: en
+federal-highway-funding-mechanics:
+- slug: federal-aid-highway-act-1956-guide
+  title: 'Federal-Aid Highway Act: Funding the Interstate System'
+  url: /2016/04/01/federal-aid-highway-act-1956-guide/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: interstate-highway-system-impact
+  title: 'Interstate Highway System: High Returns, Heavy Urban Costs'
+  url: /2016/06/15/interstate-highway-system-impact/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: rehabilitation-act-1973-section-504
+  title: 'Section 504: Disability Rights and Federal Funding Rules'
+  url: /2015/07/01/rehabilitation-act-1973-section-504/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
   lang: en
 in-the-heat-of-the-night-poitier-steiger:
 - slug: gilda-rita-hayworth-femme-fatale
@@ -49093,6 +49967,31 @@ pch-7-day-itinerary-sf-to-la:
   url: /2016/08/15/california-coast-hidden-gems/
   category: travel
   image: /assets/images/blog/blog-65.webp
+  lang: en
+rail-passenger-service-act-1970:
+- slug: infrastructure-investment-jobs-act-2021
+  title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
+  url: /2016/04/15/infrastructure-investment-jobs-act-2021/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: airline-deregulation-act-1978-guide
+  title: 'Airline Deregulation Act: How Congress Abolished the CAB'
+  url: /2016/05/01/airline-deregulation-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: education-law-supreme-court-cases
+  title: Federal Education Law in the Courts
+  url: /2014/12/01/education-law-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: surveillance-law-court-cases
+  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
+  url: /2014/06/01/surveillance-law-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
   lang: en
 deadliest-wars-history-ranked:
 - slug: history-of-democracy-explained
@@ -50048,12 +50947,6 @@ oracle-drm-version-level-specific-access-security-for-users:
   url: /2016/09/14/drm-internal-server-error/
   category: analytics
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: how-deportation-united-states-works
-  title: 'How Deportation Works: The US Removal System Explained'
-  url: /2026/10/03/how-deportation-united-states-works/
-  category: analytics
-  image: /assets/images/blog/blog-79.webp
   lang: en
 drm-ebs-integration-find-orphans-in-ebs:
 - slug: load-segment-values-and-hierarchies-drm-ebs-integration
@@ -58108,17 +59001,17 @@ us-extraordinary-rendition:
   category: industry
   image: /assets/images/blog/blog-101.webp
   lang: en
+- slug: fair-housing-act-segregation-impact
+  title: 'Fair Housing Act: Segregation Impact and Measured Effects'
+  url: /2016/02/01/fair-housing-act-segregation-impact/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: harvard-graduate-housing-guide
   title: Harvard Graduate Housing Guide
   url: /2019/03/20/harvard-graduate-housing-guide/
   category: industry
   image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: upsc-syllabus-prelims-mains
-  title: 'UPSC CSE Syllabus: Complete Prelims and Mains Decoded'
-  url: /2003/07/10/upsc-syllabus-prelims-mains/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
   lang: en
 oxford-vs-cambridge-student-life-accommodation:
 - slug: oxford-accommodation-complete-guide
@@ -67168,6 +68061,12 @@ azure-data-factory-complete-guide:
   url: /2022/01/10/azure-app-service-deep-dive/
   category: technology
   image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: how-data-centers-work
+  title: 'How Data Centers Work: Power, Cooling, and the Internet'
+  url: /2026/10/07/how-data-centers-work/
+  category: technology
+  image: /assets/images/blog/blog-28.webp
   lang: en
 is-great-gatsby-hard-to-read:
 - slug: great-gatsby-reading-order-pacing
@@ -76889,11 +77788,11 @@ tcs-coding-questions-guide:
   category: industry
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+- slug: mr-s-ramadorai-the-genius
+  title: 'Mr. S. Ramadorai : The Genius'
+  url: /2009/09/11/mr-s-ramadorai-the-genius/
   category: industry
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-58.webp
   lang: en
 gatsby-tragic-hero:
 - slug: gatsby-doomed-romantic-hero
@@ -77039,17 +77938,17 @@ tcs-codevita:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 - slug: it-and-itis-head-on-comparison
   title: 'IT and ITIS: Head-on Comparison'
   url: /2011/08/07/it-and-itis-head-on-comparison/
   category: industry
   image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: c-and-c-grade-colleges-getting-joining
+  title: C and C* grade colleges getting joining
+  url: /2010/09/07/c-and-c-grade-colleges-getting-joining/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 gaokao-zju-admission-guide:
 - slug: gaokao-nju-admission-guide
@@ -77932,12 +78831,6 @@ infytq-preparation-complete-guide:
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 - slug: infosys-coding-questions
   title: 'Infosys Coding Questions: Complete Programming Test Guide'
   url: /2021/08/30/infosys-coding-questions/
@@ -77949,6 +78842,12 @@ infytq-preparation-complete-guide:
   url: /2021/09/23/infosys-springboard-guide/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 aks-microservices-architecture:
 - slug: configure-aks-ingress-tls
@@ -97784,12 +98683,6 @@ h1b-fee-ruling-what-it-settles:
   category: industry
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: h1b-fee-ruling-economic-stakes
-  title: 'H-1B Fee Ruling: The Economic Stakes the Court Weighed'
-  url: /2026/07/11/h1b-fee-ruling-economic-stakes/
-  category: industry
-  image: /assets/images/blog/blog-103.webp
-  lang: en
 how-artists-get-booked-lollapalooza:
 - slug: what-booking-agents-look-for
   title: What Booking Agents Look For
@@ -102058,29 +102951,29 @@ polands-stake-in-ukraines-war:
   image: /assets/images/blog/blog-88.webp
   lang: en
 how-deportation-united-states-works:
+- slug: how-employment-green-card-sponsorship-works
+  title: How Employer Green Card Sponsorship Works in the U.S.
+  url: /2026/10/08/how-employment-green-card-sponsorship-works/
+  category: analytics
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: how-vote-by-mail-works
+  title: 'How Vote by Mail Works: Ballots, Security, and Turnout'
+  url: /2026/10/06/how-vote-by-mail-works/
+  category: analytics
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: chirality-molecular-handedness
+  title: 'Chirality Explained: Why Molecular Handedness Shapes Matter'
+  url: /2026/10/08/chirality-molecular-handedness/
+  category: analytics
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 - slug: oracle-drm-version-level-specific-access-security-for-users
   title: Oracle DRM Version Level Specific Access Security for Users
   url: /2016/09/25/oracle-drm-version-level-specific-access-security-for-users/
   category: analytics
   image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: drm-batch-client-scripting-for-automation
-  title: DRM Batch Client Scripting for Automation
-  url: /2016/09/25/drm-batch-client-scripting-for-automation/
-  category: analytics
-  image: /assets/images/blog/blog-08.webp
-  lang: en
-- slug: type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in
-  title: Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in
-  url: /2016/10/13/type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in/
-  category: analytics
-  image: /assets/images/blog/blog-117.webp
-  lang: en
-- slug: drm-error-file-does-not-exist
-  title: DRM Error - File Does not Exist
-  url: /2016/09/15/drm-error-file-does-not-exist/
-  category: analytics
-  image: /assets/images/blog/blog-37.webp
   lang: en
 how-government-cash-payments-work:
 - slug: social-security-poverty-impact
@@ -102156,6 +103049,131 @@ gatsby-vagueness-mystery:
   url: /2026/08/17/gatsby-gaps-ellipses/
   category: leisure
   image: /assets/images/blog/blog-25.webp
+  lang: en
+why-media-companies-merge:
+- slug: dhurandhar-media-real-killings
+  title: How Media Uses Dhurandhar for Killings
+  url: /2017/10/02/dhurandhar-media-real-killings/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: us-canada-pannun-nijjar
+  title: US Canada Pannun Nijjar Allegations
+  url: /2019/11/04/us-canada-pannun-nijjar/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: us-extraordinary-rendition
+  title: US Extraordinary Rendition Program
+  url: /2019/05/06/us-extraordinary-rendition/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: dhurandhar-memes-social-media-war
+  title: Dhurandhar Memes and Social Media War
+  url: /2017/12/18/dhurandhar-memes-social-media-war/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+how-vote-by-mail-works:
+- slug: how-deportation-united-states-works
+  title: 'How Deportation Works: The US Removal System Explained'
+  url: /2026/10/03/how-deportation-united-states-works/
+  category: analytics
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: how-employment-green-card-sponsorship-works
+  title: How Employer Green Card Sponsorship Works in the U.S.
+  url: /2026/10/08/how-employment-green-card-sponsorship-works/
+  category: analytics
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: oracle-drm-version-level-specific-access-security-for-users
+  title: Oracle DRM Version Level Specific Access Security for Users
+  url: /2016/09/25/oracle-drm-version-level-specific-access-security-for-users/
+  category: analytics
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in
+  title: Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in
+  url: /2016/10/13/type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in/
+  category: analytics
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+how-data-centers-work:
+- slug: azure-data-factory-complete-guide
+  title: 'Azure Data Factory: The Complete Guide'
+  url: /2022/04/18/azure-data-factory-complete-guide/
+  category: technology
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: azure-storage-accounts-complete-guide
+  title: 'Azure Storage Accounts: The Complete Guide'
+  url: /2022/01/31/azure-storage-accounts-complete-guide/
+  category: technology
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: azure-serverless-architecture
+  title: Serverless Architecture with Azure Functions
+  url: /2024/05/06/azure-serverless-architecture/
+  category: technology
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: hub-spoke-topology-explained
+  title: Azure Hub-Spoke Network Topology Explained
+  url: /2023/10/16/hub-spoke-topology-explained/
+  category: technology
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+chirality-molecular-handedness:
+- slug: how-deportation-united-states-works
+  title: 'How Deportation Works: The US Removal System Explained'
+  url: /2026/10/03/how-deportation-united-states-works/
+  category: analytics
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: drm-batch-client-credentials-configuration
+  title: DRM Batch Client Credentials Configuration
+  url: /2016/09/25/drm-batch-client-credentials-configuration/
+  category: analytics
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: ebs-drm-integration-for-account-type-and-summary-flag-attributes
+  title: EBS DRM Integration for Account Type and Summary Flag attributes
+  url: /2016/09/18/ebs-drm-integration-for-account-type-and-summary-flag-attributes/
+  category: analytics
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: which-tableau-certification-is-best
+  title: Which Tableau certification is best?
+  url: /2022/12/30/which-tableau-certification-is-best/
+  category: analytics
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+how-employment-green-card-sponsorship-works:
+- slug: how-deportation-united-states-works
+  title: 'How Deportation Works: The US Removal System Explained'
+  url: /2026/10/03/how-deportation-united-states-works/
+  category: analytics
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: how-vote-by-mail-works
+  title: 'How Vote by Mail Works: Ballots, Security, and Turnout'
+  url: /2026/10/06/how-vote-by-mail-works/
+  category: analytics
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: drm-hierarchy-error-string-was-not-recognized-as-a-valid-boolean
+  title: DRM Hierarchy Error - String was not recognized as a valid Boolean
+  url: /2016/09/16/drm-hierarchy-error-string-was-not-recognized-as-a-valid-boolean/
+  category: analytics
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: drm-web-client-http-503-error
+  title: DRM Web Client HTTP 503 Error
+  url: /2016/09/17/drm-web-client-http-503-error/
+  category: analytics
+  image: /assets/images/blog/blog-33.webp
   lang: en
 poland-as-ukraines-lifeline:
 - slug: polands-stake-in-ukraines-war

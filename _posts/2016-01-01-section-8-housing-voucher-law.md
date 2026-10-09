@@ -9,7 +9,7 @@ excerpt: "Section 8 vouchers bridge a tenant's 30 percent income share and a pay
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "75"
 author: "abigail-cooper"
-last_updated: "2016-01-01"
+last_updated: 2026-10-09
 lang: en
 ---
 Section 8 vouchers reduce what a qualifying low-income household pays for rent and utilities, and they do it through a formula that runs the entire program. A public housing agency calculates the household's total tenant payment, sets a payment standard tied to the area's fair market rent, and pays the difference between that standard and the household's share directly to the landlord through a housing assistance payment. Everything else in the statute, from inspections to waiting lists, hangs off that formula. The program created by Section 8 of the United States Housing Act of 1937, as added by the Housing and Community Development Act of 1974 and reshaped by the Quality Housing and Work Responsibility Act of 1998, is the largest federal rental assistance program, and its design answers two questions at once: how the money moves, and why the money reaches only a fraction of the households that qualify for it. Readers who finish this guide will be able to trace the path from income contribution through payment standard to inspection, and they will be able to state the fact that governs the program more than any other: eligibility for Section 8 creates no right to receive it.

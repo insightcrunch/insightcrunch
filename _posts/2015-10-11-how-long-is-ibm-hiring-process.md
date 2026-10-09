@@ -4,11 +4,11 @@ title: "How long is IBM hiring process?"
 date: 2015-10-11
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "One of the largest corporations today helping in the advancement of multiple fields of technology is IBM. Hundreds of thousands of candidates every year..."
+excerpt: "IBM hiring process timeline: from application to offer letter. How long each stage takes for technical, consulting, and entry-level positions at IBM."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 2
 author: "jason-mckenzie"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview

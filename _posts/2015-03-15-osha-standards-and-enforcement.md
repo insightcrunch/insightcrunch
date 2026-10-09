@@ -2,7 +2,7 @@
 title: "OSHA Standards and Enforcement: From Hazard to Citation"
 excerpt: "OSHA standards and enforcement: how hazards become binding rules, how inspections become citations, and what courts require before the agency can regulate."
 date: "2015-03-15"
-last_updated: "2015-03-15"
+last_updated: 2026-10-09
 author: "daniel-morgan"
 category: "Industry"
 tags: ["US Legislation", "Occupational Safety and Health Act", "OSHA", "Supreme Court", "Administrative Law", "Labor Law"]

@@ -9,7 +9,7 @@ excerpt: "The Lilly Ledbetter Fair Pay Act of 2009 restarted the filing clock fo
 image: "/assets/images/blog/blog-66.webp"
 reading_time: "73"
 author: "maria-santos"
-last_updated: "2015-03-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## The Question a Hidden Pay Gap Poses

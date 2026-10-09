@@ -9,7 +9,7 @@ excerpt: "Public Law 117-58 explained: the headline figure versus genuinely new 
 image: "/assets/images/blog/blog-65.webp"
 reading_time: "75"
 author: "michael-brooks"
-last_updated: "2016-04-15"
+last_updated: 2026-10-09
 lang: en
 ---
 The Infrastructure Investment and Jobs Act arrived with a number attached that did most of the public talking. National coverage called it a 1.2 trillion dollar measure, the figure appeared in headlines before many readers encountered the bill number, and the phrase stuck to the statute through its passage and signing. The number was real in the sense that official sources supplied it, and it was misleading in the sense that almost no headline explained what it counted. A reader who wants to understand Public Law 117-58, signed by President Joe Biden on November 15, 2021, must hold two figures in view at once: the widely quoted total and the roughly 550 billion dollars of genuinely new federal investment above the existing baseline. The distance between those two numbers is the single most useful correction this profile can make, and it shapes nearly everything else about the law.

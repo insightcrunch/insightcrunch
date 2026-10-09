@@ -2,13 +2,13 @@
 title: "Complete Analysis of Frankenstein"
 page_title: "Complete Analysis of Frankenstein - Creation, Responsibility, Monstrosity, and Why Mary Shelley's 1818 Novel Invented an Entire Genre"
 date: 2014-08-18
-last_updated: 2014-08-18
+last_updated: 2026-10-09
 author: "elena-wright"
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "novel-analysis", "literary-analysis", "gothic-fiction", "classic-literature"]
 reading_time: 70
 image: "/assets/images/blog/blog-36.webp"
-excerpt: "Frankenstein is not primarily anti-science. It is Mary Shelley's specific 1818 argument about paternal abandonment, creators' obligations, and moral failure."
+excerpt: "Decode Frankenstein as Shelley's warning that creating life is the easy part, and bearing it the hard one."
 lang: en
 ---
 Frankenstein is one of the most misread novels in the English language. Two centuries of stage productions, Hollywood films, and Halloween costumes have buried Mary Shelley's 1818 text beneath a mythology she did not write: the mad scientist, the bolt-necked monster, the torches-and-pitchforks mob, the cautionary fable about playing God. The actual text tells a different story. Shelley's Frankenstein is not primarily a warning against scientific ambition, though ambition is part of its fabric. It is a sustained argument about what happens when a creator abandons the being he has produced, about the moral obligations that attend the act of bringing sentient life into existence, and about the catastrophe that follows when those obligations are refused. The popular reading flattens the argument. The textual reading restores it.

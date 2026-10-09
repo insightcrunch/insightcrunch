@@ -4,11 +4,11 @@ title: "DRM EBS Integration - Unable to fetch list of Versions"
 date: 2016-09-14
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is..."
+excerpt: "Oracle DRM EBS integration fails to fetch version list. Troubleshooting the concurrent program that pulls data from DRM into Oracle General Ledger."
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 2
 author: "jason-mckenzie"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is supposed to pull data from DRM errors out with the message "Unable to fetch list of versions".

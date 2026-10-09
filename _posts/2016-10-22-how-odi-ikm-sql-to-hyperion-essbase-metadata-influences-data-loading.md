@@ -4,11 +4,11 @@ title: "How ODI IKM SQL to Hyperion Essbase (METADATA) influences data loading"
 date: 2016-10-22
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of..."
+excerpt: "ODI IKM SQL to Hyperion Essbase METADATA: how metadata KM settings affect data loading performance, outline structure, and cube build behavior."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 4
 author: "robert-quinn"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of options for us to customize the loading as we want. The IKM SQL to Hyperion Essbase (METADATA) is usually the starting point when we begin our activities, since first we will load the metadata and get the outline ready, then we can load the actual data.

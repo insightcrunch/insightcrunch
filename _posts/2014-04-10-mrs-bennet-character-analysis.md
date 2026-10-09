@@ -5,11 +5,11 @@ page_title: "Mrs. Bennet Character Analysis - The Embarrassing Mother Who Was Ac
 date: 2014-04-10
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "mrs-bennet", "character-analysis", "feminist-reading", "classic-literature"]
-excerpt: "Mrs. Bennet is mocked throughout Pride and Prejudice as foolish and embarrassing. She is also the only character who accurately reads the family's crisis."
+excerpt: "Decode Mrs. Bennet in Pride and Prejudice as more than comic relief: a mother fighting real legal precarity."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
 author: "lauren-hayes"
-last_updated: 2014-04-10
+last_updated: 2026-10-09
 lang: en
 ---
 Mrs. Bennet is the most mocked character in English literature who is right about nearly everything. For two centuries, readers have laughed at her nerves, winced at her vulgarity, and sided with her husband's witty contempt for her anxious scheming. Austen's narrator introduces her as a woman of limited intelligence and unstable temperament, and generations of literary criticism have taken this introduction at face value, treating Mrs. Bennet as the novel's comic engine, the character whose social blunders generate embarrassment and whose obsessive matchmaking provides the plot's forward energy without deserving the reader's respect. The conventional reading accepts the novel's framing without questioning it. That framing is wrong, or at the very least, it is incomplete in ways that matter enormously.

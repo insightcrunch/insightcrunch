@@ -9,7 +9,7 @@ excerpt: "Americans with Disabilities Act myths graded true, partly true, or fal
 image: "/assets/images/blog/blog-101.webp"
 reading_time: "78"
 author: "hannah-moore"
-last_updated: "2015-10-15"
+last_updated: 2026-10-09
 lang: en
 ---
 Americans with Disabilities Act myths circulate in break rooms, comment sections, landlord meetings, and human resources trainings, and they circulate with unusual confidence. Few statutes generate as many confident false statements per page of enacted text. A restaurant owner repeats that a single complaint can produce a five figure payout. A hiring manager repeats that the law forces employers to hire people who cannot do the job. A landlord repeats that a building constructed before 1990 is exempt from every requirement. Each of these statements feels true to the person repeating it, because each one contains a fragment of something real. This article tests eight of the most durable claims against Public Law 101-336 as amended, the implementing regulations, and the litigation data, grading each one true, partly true, or false.

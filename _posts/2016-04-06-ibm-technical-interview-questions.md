@@ -4,11 +4,11 @@ title: "IBM Technical Interview Questions"
 date: 2016-04-06
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM technical interview: programming questions, data structure problems, system design basics, and the technical depth IBM expects from candidates."
+excerpt: "What technical depth does IBM expect? Real interview questions from coding, DBMS, operating systems, and networking rounds with preparation guidance."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 3
 author: "benjamin-scott"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview

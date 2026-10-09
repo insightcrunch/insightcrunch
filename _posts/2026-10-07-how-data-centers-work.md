@@ -9,7 +9,7 @@ excerpt: "How data centers work: the path from grid power to server rack, coolin
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 82
 author: "alex-cunningham"
-last_updated: 2026-10-07
+last_updated: 2026-10-09
 lang: en
 ---
 ## The Building the Internet Lives In

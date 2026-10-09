@@ -9,7 +9,7 @@ excerpt: "The ADA Amendments Act rewrote the disability definition to overturn r
 image: "/assets/images/blog/blog-71.webp"
 reading_time: "80"
 author: "maria-santos"
-last_updated: "2015-08-01"
+last_updated: 2026-10-09
 lang: en
 ---
 Few statutes in American civil rights law carry a legislative history that reads like an answer key. The ADA Amendments Act of 2008 is one of them. Congress did not merely change the definition of disability; it named the Supreme Court decisions it was reversing, quoted the reasoning it was rejecting, and wrote the replacement rules into the United States Code with a level of explicitness that leaves little room for the usual arguments about what the legislature intended. Public Law 110-325 was an override, and it behaved like one. It took a definition that courts had read narrowly for nine years and rebuilt it so that the reading could not be repeated, while leaving every duty, every defense, and every remedy exactly where the 1990 statute had put them. The result was not a new obligation for employers, governments, or businesses. It was a relocation of the fight, from the threshold question of who counts as disabled to the practical questions of who is qualified and what change is reasonable.

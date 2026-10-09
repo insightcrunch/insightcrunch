@@ -4,11 +4,11 @@ title: "IBM Interview Technical Questions"
 date: 2016-01-12
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM technical interview questions: common programming, data structure, OS, and networking questions asked in IBM's technical screening rounds."
+excerpt: "What technical questions does IBM ask? Real interview topics covering programming fundamentals, algorithms, OS concepts, and database queries."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 2
 author: "abigail-cooper"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview

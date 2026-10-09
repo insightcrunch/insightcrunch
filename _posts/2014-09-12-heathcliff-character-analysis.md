@@ -2,9 +2,9 @@
 title: "Heathcliff Character Analysis"
 page_title: "Heathcliff Character Analysis: Why His Revenge Is Psychologically Coherent Child-Abuse Response Not Byronic Passion"
 date: 2014-09-12
-last_updated: 2014-09-12
+last_updated: 2026-10-09
 author: "sarah-mitchell"
-excerpt: "Heathcliff is not a Byronic hero. His revenge is a psychologically coherent response to the particular childhood abuse he suffered from Hindley Earnshaw."
+excerpt: "Decode Heathcliff in Wuthering Heights as the warning Emily Bronte built, not the love interest pop culture made."
 image: "/assets/images/blog/blog-78.webp"
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "heathcliff", "character-analysis", "trauma-response", "classic-literature"]

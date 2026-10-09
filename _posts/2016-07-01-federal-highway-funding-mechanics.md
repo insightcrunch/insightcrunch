@@ -9,7 +9,7 @@ excerpt: "Federal highway funding moves from user taxes to pavement through reim
 image: "/assets/images/blog/blog-66.webp"
 reading_time: "76"
 author: "jason-mckenzie"
-last_updated: "2016-07-01"
+last_updated: 2026-10-09
 lang: en
 ---
 Federal highway funding follows a path that surprises almost everyone who has not worked inside a state transportation department. The money begins with taxes paid by highway users, travels into a dedicated trust fund, and is then divided among the states by formulas written into federal law. But the Washington end of the story stops there. No federal agency awards the paving contract. No federal crew lays the asphalt. No federal office maintains the finished road. This guide describes the program as it stood in mid-2016, under the FAST Act, and traces a single federal dollar from collection to the moment it reimburses a state for work already completed.

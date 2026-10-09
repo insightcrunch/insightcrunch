@@ -3,11 +3,11 @@ layout: post
 title: "Miss Havisham Character Analysis"
 page_title: "Miss Havisham Character Analysis: Why Her Gothic Surface Obscures a Systematic Trauma-Response Study"
 date: 2014-10-07
-last_updated: 2014-10-07
+last_updated: 2026-10-09
 author: "sarah-mitchell"
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "miss-havisham", "character-analysis", "trauma-response", "classic-literature"]
-excerpt: "Miss Havisham is not a Gothic caricature. She is Dickens's coherent trauma-response study, showing what one betrayal produces inside one human personality."
+excerpt: "Decode Miss Havisham in Great Expectations as Dickens' portrait of grief weaponized into a multi-decade revenge plot."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 76
 lang: en

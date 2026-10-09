@@ -5,11 +5,11 @@ page_title: "Coming of Age in To Kill a Mockingbird - How Scout and Jem Lose The
 date: 2014-03-16
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "coming-of-age", "scout-finch", "jem-finch", "literary-analysis"]
-excerpt: "How Scout and Jem grow up in To Kill a Mockingbird - innocence lost, lessons learned, and empathy earned."
+excerpt: "Decode To Kill a Mockingbird as a coming-of-age novel through Scout and Jem's parallel paths to adulthood."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "emily-reed"
-last_updated: 2014-03-16
+last_updated: 2026-10-09
 lang: en
 ---
 To Kill a Mockingbird is taught in most American high schools as a coming-of-age story, and the coming-of-age protagonist is assumed to be Scout Finch, because Scout is the narrator, because Scout is six years old at the beginning and nine at the end, and because the final scene delivers her to the Radley porch where she can see Maycomb through Boo's eyes. That standard framing is wrong, or at best incomplete. Jem Finch is the character who actually comes of age in To Kill a Mockingbird. He is the one whose worldview breaks, whose body changes, whose moral framework is destroyed and rebuilt across the three years of the plot. Scout watches. Jem is transformed. The distinction between watching and being transformed is the distinction between narrating a bildungsroman and living one, and Harper Lee understood the difference even if decades of classroom instruction have blurred it.

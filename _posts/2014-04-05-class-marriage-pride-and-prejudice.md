@@ -5,11 +5,11 @@ page_title: "Class and Marriage in Pride and Prejudice - How Austen Exposed the 
 date: 2014-04-05
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "class", "marriage", "themes", "literary-analysis", "feminism"]
-excerpt: "Class and marriage in Pride and Prejudice are not separate themes but a single system. The five Bennet daughters are case studies in its harsh arithmetic."
+excerpt: "Decode the marriage economy of Pride and Prejudice as Austen's quiet indictment of female legal dependence."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2014-04-05
+last_updated: 2026-10-09
 lang: en
 ---
 Class and marriage in Pride and Prejudice are not two separate themes that Austen explores in parallel. They are a single system, examined from different angles, and the novel's plot is a series of case studies in how that system produces specific outcomes for specific women. Austen supplies the arithmetic with unusual precision: annual incomes, marriage settlements, the legal mechanism of the entail, the hierarchy of gentry and trade. Most popular treatments mention these numbers in passing and then return to the romance. This article does the opposite. It foregrounds the economics, reconstructs the arithmetic, and argues that the romance is what Austen gave readers to make the market study bearable.

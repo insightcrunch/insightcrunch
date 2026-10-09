@@ -5,11 +5,11 @@ page_title: "Tom Robinson in To Kill a Mockingbird - The Innocent Man Destroyed 
 date: 2014-03-11
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "tom-robinson", "character-analysis", "literary-analysis", "racial-injustice"]
-excerpt: "Complete analysis of Tom Robinson - his trial, dignity under persecution, and what his fate reveals about justice."
+excerpt: "Tom Robinson fully decoded in To Kill a Mockingbird: the man whose conviction is the novel's moral catastrophe."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2014-03-11
+last_updated: 2026-10-09
 lang: en
 ---
 Tom Robinson speaks for approximately two thousand words across Harper Lee's 281-page text, all of them in a courtroom, all of them in response to questions posed by attorneys, and none of them revealing what he thinks about the case that will cost him his life. He is the defendant around whom the moral architecture of To Kill a Mockingbird is constructed, and he is the defendant that architecture cannot afford to make fully human. His innocence must be total. His suffering must be visible to the audience. His interior must remain permanently sealed. That combination is not accidental; it is the condition that made Lee's 1960 white-liberal novel possible, and naming the condition is more productive than either canonizing the text or dismissing it.

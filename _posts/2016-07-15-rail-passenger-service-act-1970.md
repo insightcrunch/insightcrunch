@@ -9,7 +9,7 @@ excerpt: "The Rail Passenger Service Act created the national passenger railroad
 image: "/assets/images/blog/blog-91.webp"
 reading_time: "68"
 author: "jessica-kim"
-last_updated: "2016-07-15"
+last_updated: 2026-10-09
 lang: en
 ---
 Most statutes that create a national institution expand something. The Rail Passenger Service Act of 1970 did the opposite. It created the National Railroad Passenger Corporation, the entity the public knows by the trade name Amtrak, so that private railroads could lawfully stop running passenger trains. On the first morning of operation, May 1, 1971, the national intercity network shrank from 366 trains to 184. The law did not grow rail service. It managed its contraction, trading route mileage for legal relief, and every oddity in the corporation's structure, from its for-profit charter to the preference right that freight railroads still contest, descends from that original bargain. This profile is current through the reference date of July 15, 2016, and every figure in it carries a named source and a stated period.

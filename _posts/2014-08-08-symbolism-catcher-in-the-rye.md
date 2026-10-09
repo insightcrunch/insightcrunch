@@ -3,10 +3,10 @@ layout: post
 title: "Symbolism in The Catcher in the Rye"
 page_title: "Every Major Symbol in The Catcher in the Rye - The Red Hunting Hat, the Ducks, the Museum, the Carousel, and Holden's Fantasy of Catching Children"
 date: 2014-08-08
-last_updated: 2014-08-08
+last_updated: 2026-10-09
 categories: ["Leisure"]
 tags: ["catcher-in-the-rye", "jd-salinger", "symbolism", "literary-analysis", "classic-literature"]
-excerpt: "Every symbol in The Catcher in the Rye carries specific psychiatric content tied to Holden Caulfield's grief, trauma, and desperate wish to stop time."
+excerpt: "Decode the symbols of Catcher in the Rye as Salinger's quiet language for grief Holden can never name out loud."
 author: "olivia-grant"
 reading_time: 71
 image: "/assets/images/blog/blog-51.webp"

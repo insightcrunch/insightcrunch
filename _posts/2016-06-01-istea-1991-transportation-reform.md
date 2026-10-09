@@ -9,7 +9,7 @@ excerpt: "ISTEA moved transportation decisions from Washington to metro regions,
 image: "/assets/images/blog/blog-69.webp"
 reading_time: "71"
 author: "thomas-reid"
-last_updated: "2016-06-01"
+last_updated: 2026-10-09
 lang: en
 ---
 ## Part One: The Hinge

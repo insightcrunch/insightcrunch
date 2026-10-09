@@ -5,11 +5,11 @@ page_title: "Ralph in Lord of the Flies - The Democratic Leader Who Learns That 
 date: 2014-04-30
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "ralph", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Ralph is not the novel's moral center. He is the novel's argument that decent leadership collapses under sustained social pressure even in decent hands."
+excerpt: "Ralph fully decoded as Lord of the Flies' tragic protagonist, the boy who tried to keep the rules until the end."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 71
 author: "olivia-grant"
-last_updated: 2014-04-30
+last_updated: 2026-10-09
 lang: en
 ---
 Ralph is not the hero of Lord of the Flies in any conventional sense, and treating him as one flattens the hardest argument William Golding ever made about leadership, decency, and civilized authority. Golding's twelve-year-old elected leader is decent, reasonably competent, and recognizably good. He is also insufficient for the challenge the island places before him, and the insufficiency is the point.

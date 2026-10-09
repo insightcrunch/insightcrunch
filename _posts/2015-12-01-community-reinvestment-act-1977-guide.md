@@ -9,7 +9,7 @@ excerpt: "The Community Reinvestment Act sets no quotas and no penalties. This p
 image: "/assets/images/blog/blog-94.webp"
 reading_time: "72"
 author: "maria-santos"
-last_updated: "2015-12-01"
+last_updated: 2026-10-09
 lang: en
 ---
 The Community Reinvestment Act of 1977 is one of the most argued about statutes in American banking law and one of the least understood. Its entire design can be stated in a single sentence. The law directs federal regulators to examine whether an insured bank is meeting the credit needs of its whole community, including its lower income neighborhoods, in a manner consistent with safe and sound operation, and then to take that examination record into account when the bank asks permission to merge, to acquire another institution, or to open a branch. That is the whole of it. There is no required volume of lending, no list of loan products a bank must offer, no quota for any neighborhood, and no civil penalty for a bad grade. The only thing the law withholds from a bank with a poor record is the regulator's blessing on the next deal it wants to do.

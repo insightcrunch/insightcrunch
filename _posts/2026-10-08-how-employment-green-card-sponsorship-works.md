@@ -9,7 +9,7 @@ excerpt: "Employer green card sponsorship is a three-part process: Labor certifi
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 66
 author: "maya-chen"
-last_updated: 2026-10-08
+last_updated: 2026-10-09
 lang: en
 ---
 ## The Three Desks Every Green Card Crosses

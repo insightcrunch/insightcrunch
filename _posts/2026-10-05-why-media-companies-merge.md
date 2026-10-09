@@ -9,7 +9,7 @@ excerpt: "Why media companies merge: blockbuster costs stay fixed while audience
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 75
 author: "james-carter"
-last_updated: 2026-10-05
+last_updated: 2026-10-09
 lang: en
 ---
 ## The One-Paragraph Answer

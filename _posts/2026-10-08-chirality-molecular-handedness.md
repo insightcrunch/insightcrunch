@@ -9,7 +9,7 @@ excerpt: "Chirality explains why mirror-image molecules differ in the body, how 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 66
 author: "alex-rivera"
-last_updated: 2026-10-08
+last_updated: 2026-10-09
 lang: en
 ---
 ## Two Molecules, One Mirror, Different Fates

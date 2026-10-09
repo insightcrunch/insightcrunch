@@ -9,7 +9,7 @@ excerpt: "How vote by mail works, from ballot request to final count: the verifi
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 81
 author: "maya-chen"
-last_updated: 2026-10-06
+last_updated: 2026-10-09
 lang: en
 ---
 ## The One-Paragraph Answer

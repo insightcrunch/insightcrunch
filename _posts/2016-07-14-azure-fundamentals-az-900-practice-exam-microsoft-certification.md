@@ -4,11 +4,11 @@ title: "Azure Fundamentals AZ 900 Practice Exam Microsoft Certification"
 date: 2016-07-14
 categories: ["Industry"]
 tags: ["Exam"]
-excerpt: "Azure Fundamentals AZ-900 practice exam: cloud concepts, Azure services, security, pricing, and SLA questions to prepare for Microsoft certification."
+excerpt: "Ready for AZ-900? Practice questions covering Azure core services, cloud models, security compliance, pricing tiers, and the topics most candidates miss."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 32
 author: "benjamin-scott"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 What is AZ-900 Azure Fundamentals?

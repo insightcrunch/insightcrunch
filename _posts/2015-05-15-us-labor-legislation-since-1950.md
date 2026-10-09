@@ -9,7 +9,7 @@ excerpt: "A master guide to United States labor legislation, tracing the long sh
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "87"
 author: "david-thornton"
-last_updated: "2015-05-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## A Field That Changed Its Mind About Who the Law Protects

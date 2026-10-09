@@ -2,10 +2,10 @@
 title: "Alienation in The Catcher in the Rye"
 page_title: "Alienation in The Catcher in the Rye - Why Holden Caulfield Cannot Connect and What Salinger Is Really Saying About Growing Up"
 date: 2014-08-03
-last_updated: 2014-08-03
+last_updated: 2026-10-09
 author: "elena-wright"
 slug: "themes-alienation-catcher-in-the-rye"
-excerpt: "Holden's alienation reads as cultural critique on the surface. Underneath, it operates as psychological defense against grief and trauma Salinger encoded."
+excerpt: "Decode alienation in Catcher in the Rye as both Holden's defense mechanism and the source of his final breakdown."
 image: "/assets/images/blog/blog-53.webp"
 categories: ["Leisure"]
 tags: ["catcher-in-the-rye", "jd-salinger", "alienation", "themes", "literary-analysis", "coming-of-age"]

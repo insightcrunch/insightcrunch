@@ -5,11 +5,11 @@ page_title: "Mr. Darcy Character Analysis - Pride, Transformation, Class Conscio
 date: 2014-03-31
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "mr-darcy", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Mr. Darcy is not a proud man reformed by love. He is a propertied gentleman who reassesses Elizabeth Bennet's class position without revising his values."
+excerpt: "Decode Mr. Darcy in Pride and Prejudice beyond the love story, with the letter as the turning point of the novel."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2014-03-31
+last_updated: 2026-10-09
 lang: en
 ---
 Fitzwilliam Darcy is not a romantic hero who learns to be less proud. He is a man whose ten thousand pounds a year and ownership of Pemberley place him in a position where rudeness costs him nothing and politeness is a gift he can choose to bestow. His arc across Pride and Prejudice is not a journey from arrogance to humility but a reassessment of Elizabeth Bennet's rank compatibility once he gathers better evidence about her family connections. The difference between these two readings, the romantic-transformation version and the class-reassessment version, is the difference between reading Austen as a love story and reading her as the forensic class analyst she actually was. Claudia Johnson's scholarship on Austen's political intelligence and Tony Tanner's reading of the marriage market both point toward the class-reassessment interpretation that the popular reception, shaped by Colin Firth's wet shirt more than by Austen's prose, has progressively obscured.

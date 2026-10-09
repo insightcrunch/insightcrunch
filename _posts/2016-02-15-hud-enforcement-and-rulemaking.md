@@ -9,7 +9,7 @@ excerpt: "How HUD enforces fair housing law: the filing clocks, the referral sys
 image: "/assets/images/blog/blog-58.webp"
 reading_time: "83"
 author: "ian-fletcher"
-last_updated: "2016-02-15"
+last_updated: 2026-10-09
 lang: en
 ---
 ## How HUD Enforces Fair Housing Law: The System in One Picture

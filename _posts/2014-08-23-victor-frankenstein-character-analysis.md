@@ -5,11 +5,11 @@ page_title: "Victor Frankenstein Character Analysis - Ambition, Abandonment, Sel
 date: 2014-08-23
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "victor-frankenstein", "character-analysis", "paternal-abandonment", "classic-literature"]
-excerpt: "Victor Frankenstein's catastrophic error is not creating the Creature but abandoning him immediately. The scientific-hubris reading misses the argument."
+excerpt: "Decode Victor Frankenstein as the real monster of Shelley's novel, and the case for blaming the creator first."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2014-08-23
+last_updated: 2026-10-09
 lang: en
 ---
 Victor Frankenstein is one of the most misunderstood figures in Western literature. Popular culture has spent two centuries collapsing him into a cautionary archetype, the mad scientist who dared to play God and paid the price, but Mary Shelley's 1818 text constructs something far more particular and far more damning. Victor is not punished for creating life. He is punished for fleeing the room the moment that life opened its eyes. His catastrophic error is not ambition but abandonment, not the act of creation but the refusal to parent what he created. Reading him primarily through the scientific-hubris lens, as most competitor analyses do, flattens the moral argument Shelley built into every chapter of his arc and replaces it with a generic warning that tells us less than the text actually shows.

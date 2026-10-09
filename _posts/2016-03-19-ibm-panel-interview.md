@@ -4,11 +4,11 @@ title: "IBM Panel Interview"
 date: 2016-03-19
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM panel interview format: what to expect when multiple interviewers evaluate you simultaneously, common questions, and how to handle the panel dynamic."
+excerpt: "How to handle IBM's panel interview. What each panelist evaluates, how to address multiple interviewers, and the questions that come up most frequently."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 4
 author: "ian-fletcher"
-last_updated: 2026-04-01
+last_updated: 2026-10-09
 lang: en
 ---
 ## Overview
