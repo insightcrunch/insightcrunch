@@ -31,3 +31,7 @@
 ## chirality-molecular-handedness
 - _posts/2001-11-14-upsc-chemistry-optional.md — could carry: "For why mirror-image molecules behave differently in living systems and how chemists make only the single hand they want, see our guide to chirality and molecular handedness."
 - _posts/2001-04-03-upsc-science-technology-guide.md — could carry: "The same science of handedness sits behind modern drug manufacture, explained in our guide to chirality and molecular handedness."
+
+## how-oil-prices-are-set
+- _posts/2015-02-20-strait-of-hormuz-worlds-most-critical-chokepoint.md — could carry: "How the number on the barrel is actually set, from futures-market discovery through benchmarks to the Strait's disruption premium, is explained in the site's account of how oil prices are set."
+- _posts/2006-12-24-carter-malaise-speech-1979.md — could carry: "The mechanism behind the price moves Carter faced, from futures repricing through refineries to the pump, is explained in the site's account of how oil prices are set."

@@ -189,3 +189,27 @@ dynam-kinet-resolu | chirality-molecular-handedness | What is dynamic kinetic re
 chirality-flavor-fragranc | chirality-molecular-handedness | Do flavors and fragrances have chirality?
 chirality-exam-student-study | chirality-molecular-handedness | How should a student study chirality for an exam?
 chirality-claim-look-read-reader | chirality-molecular-handedness | What should a reader look for when reading a chirality claim?
+
+## economics-oil-prices
+
+### how-oil-prices-are-set
+determin-oil-price | how-oil-prices-are-set | How are oil prices determined?
+actual-barrel-market-oil-represent-term | how-oil-prices-are-set | What does a barrel of oil actually represent in market terms?
+contract-crude-futur-oil-work | how-oil-prices-are-set | How does a crude oil futures contract work?
+backwardat-market-mean-oil | how-oil-prices-are-set | What does backwardation mean in oil markets?
+2020-april-neg-oil-price-turn-wti | how-oil-prices-are-set | Why did the WTI oil price turn negative in April 2020?
+actual-control-opec | how-oil-prices-are-set | What is OPEC and what does it actually control?
+affect-crude-inventori-oil-price | how-oil-prices-are-set | How do oil inventories affect the price of crude?
+crack-spread | how-oil-prices-are-set | What is a crack spread?
+cost-crude-gallon-gasolin-oil-per | how-oil-prices-are-set | Why does gasoline cost more than crude oil per gallon?
+affect-chokepoint-oil-price-ship | how-oil-prices-are-set | How do shipping chokepoints affect oil prices?
+chang-crude-ga-price-pump-quickli-reach | how-oil-prices-are-set | How quickly do crude price changes reach the gas pump?
+2008-caus-oil-price-spike | how-oil-prices-are-set | What caused the 2008 oil price spike?
+2014-2016-caus-collaps-oil-price | how-oil-prices-are-set | What caused oil prices to collapse between 2014 and 2016?
+drive-oil-price-speculat | how-oil-prices-are-set | Do speculators drive oil prices?
+differenc-nominal-oil-price-real | how-oil-prices-are-set | What is the difference between nominal and real oil prices?
+affect-dollar-oil-price-us | how-oil-prices-are-set | How does the US dollar affect oil prices?
+capaciti-matter-production-spare | how-oil-prices-are-set | What is spare production capacity and why does it matter?
+crude-different-differential-grade-qualiti-set | how-oil-prices-are-set | How are quality differentials set for different crude grades?
+dai-move-much-oil-price-so | how-oil-prices-are-set | Why do oil prices move so much from day to day?
+interpret-new-oil-price-quot-reader-site | how-oil-prices-are-set | How should a reader interpret a quoted oil price on a news site?
