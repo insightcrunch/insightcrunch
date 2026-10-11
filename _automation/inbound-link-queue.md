@@ -39,3 +39,7 @@
 ## how-medieval-monasteries-worked
 - _posts/2009-01-01-rise-of-egyptian-monasticism.md — could carry: "For how monastic life grew from the desert fathers into the great medieval houses, see how medieval monasteries worked."
 - _posts/2015-08-13-protestant-reformation-explained.md — could carry: "The houses dissolved in the 1530s had run for centuries on prayer, labor, and land; our guide to how medieval monasteries worked explains the machinery."
+
+## how-alien-tort-statute-works
+- _posts/2016-02-24-nuremberg-trials-explained.md — could carry: "The criminal trials that established individual responsibility under international law have a civil counterpart; our guide to how the Alien Tort Statute works traces the lawsuits victims brought in American courts."
+- _posts/2019-05-27-saudi-khashoggi-killing.md — could carry: "When state violence crosses borders, the question of which court can hear the claim is answered in our guide to how the Alien Tort Statute works."
