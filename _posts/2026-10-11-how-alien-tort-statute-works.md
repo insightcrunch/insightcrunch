@@ -6,10 +6,11 @@ date: 2026-10-11
 categories: ["Analytics"]
 tags: ["international-law", "alien-tort-statute", "human-rights", "supreme-court", "extraterritorial", "transnational-litigation"]
 excerpt: "The Alien Tort Statute lets foreign victims sue in American courts for abuses abroad, but decades of rulings narrowed the door. Here is how the doctrine works."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-10-11
+lang: en
 ---
 ## What the Alien Tort Statute Lets an American Court Do
 
@@ -19,7 +20,7 @@ The thesis of this article is that the Alien Tort Statute's two-century arc prov
 
 The reader who finishes this article will be able to explain exactly who can sue whom in American courts for abuses committed abroad, why the answer narrowed with each decade, and what remedies remain for victims now that the statute's door has nearly closed. That is a map worth having, because the question underneath it never goes away: when the courts where the abuse happened cannot or will not act, where does the victim go.
 
-![Engraving of a federal courtroom representing the article's examination of transnational human rights litigation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Engraving of a federal courtroom representing the article's examination of transnational human rights litigation - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 ## The Thirty-Three Words, Read Closely
 
