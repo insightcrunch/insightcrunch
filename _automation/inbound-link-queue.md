@@ -35,3 +35,7 @@
 ## how-oil-prices-are-set
 - _posts/2015-02-20-strait-of-hormuz-worlds-most-critical-chokepoint.md — could carry: "How the number on the barrel is actually set, from futures-market discovery through benchmarks to the Strait's disruption premium, is explained in the site's account of how oil prices are set."
 - _posts/2006-12-24-carter-malaise-speech-1979.md — could carry: "The mechanism behind the price moves Carter faced, from futures repricing through refineries to the pump, is explained in the site's account of how oil prices are set."
+
+## how-medieval-monasteries-worked
+- _posts/2009-01-01-rise-of-egyptian-monasticism.md — could carry: "For how monastic life grew from the desert fathers into the great medieval houses, see how medieval monasteries worked."
+- _posts/2015-08-13-protestant-reformation-explained.md — could carry: "The houses dissolved in the 1530s had run for centuries on prayer, labor, and land; our guide to how medieval monasteries worked explains the machinery."

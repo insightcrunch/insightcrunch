@@ -213,3 +213,27 @@ capaciti-matter-production-spare | how-oil-prices-are-set | What is spare produc
 crude-different-differential-grade-qualiti-set | how-oil-prices-are-set | How are quality differentials set for different crude grades?
 dai-move-much-oil-price-so | how-oil-prices-are-set | Why do oil prices move so much from day to day?
 interpret-new-oil-price-quot-reader-site | how-oil-prices-are-set | How should a reader interpret a quoted oil price on a news site?
+
+## religion-medieval-monasteries
+
+### how-medieval-monasteries-worked
+awake-begin-matin-monk-night-stay-time | how-medieval-monasteries-worked | What time of night did Matins begin, and how did monks stay awake for it?
+join-man-marri-monastery-women | how-medieval-monasteries-worked | Could a married man join a monastery, and what about women?
+communicate-monk-really-silence-take-vow | how-medieval-monasteries-worked | Did monks really take a vow of silence, and how did they communicate?
+day-eat-monk-ordinary | how-medieval-monasteries-worked | What did monks eat on an ordinary day?
+book-copy-hand-long-one-take | how-medieval-monasteries-worked | How long did it take to copy one book by hand?
+all-benedictine-exist-monastery-other-rule | how-medieval-monasteries-worked | Were all monasteries Benedictine, or did other rules exist?
+between-canon-difference-friar-monk | how-medieval-monasteries-worked | What is the difference between a monk, a friar, and a canon?
+first-get-land-monastery-place | how-medieval-monasteries-worked | How did monasteries get their land in the first place?
+after-clos-dissolu-happen-hous-monk | how-medieval-monasteries-worked | What happened to the monks after the dissolution closed their houses?
+abbey-contain-english-many-minster-name-place | how-medieval-monasteries-worked | Why do so many English place names contain "minster" or "abbey"?
+ale-day-drink-every-monk-wine | how-medieval-monasteries-worked | Did monks drink ale or wine every day?
+child-choose-oblate-stay | how-medieval-monasteries-worked | What was an oblate, and could a child choose to stay?
+building-heat-monastery-winter | how-medieval-monasteries-worked | How did a monastery heat its buildings in winter?
+abbot-chosen-one | how-medieval-monasteries-worked | Who was the abbot, and how was one chosen?
+cloister-ever-leave-monk-travel | how-medieval-monasteries-worked | Did monks ever leave the cloister to travel?
+abbey-between-difference-priory | how-medieval-monasteries-worked | What is the difference between an abbey and a priory?
+bell-day-monk-often-ring | how-medieval-monasteries-worked | Why did monks ring bells so often during the day?
+change-dissolu-english-landscape | how-medieval-monasteries-worked | How did the dissolution change the English landscape?
+farm-land-monastery-still | how-medieval-monasteries-worked | Do monasteries still farm land?
+abbey-look-ruin-visitor-walk | how-medieval-monasteries-worked | What should a visitor look for when walking through an abbey ruin?
