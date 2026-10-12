@@ -6,19 +6,19 @@ date: 2026-10-12
 categories: ["Analytics"]
 tags: ["paleontology", "evolution", "cambrian-explosion", "fossils", "molecular-clocks", "deep-time", "geology"]
 excerpt: "Animals first fossilize about 574 million years ago, but genes suggest an older origin. How fossils, clocks and ancient chemistry date the dawn of animal life."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 67
-author: "Insight Crunch Team"
+author: "maya-chen"
 last_updated: 2026-10-12
+lang: en
 ---
-
 ## The Straight Answer on When Animals Began
 
 Animals first appear as unmistakable fossils about 574 million years ago, in rocks of the Ediacaran period, and then diversify spectacularly in the Cambrian explosion that begins 539 million years ago. Yet the genes of living animals tell an older story. Molecular clocks, which estimate the age of evolutionary splits from DNA differences, repeatedly place the origin of animals between 800 and 700 million years ago, deep in the Tonian period, long before the first fossil that anyone can confidently call an animal. A 2026 study in the journal Science Advances, led from the University of Oxford, argued that the fossil record's silence before 574 million years ago has been misread, and that the molecular estimate deserves more weight than paleontologists have traditionally given it.
 
 The thesis of this account is a single sentence: animals almost certainly originated tens to hundreds of millions of years before the first unmistakable animal fossils, because the fossil record before 574 million years ago measures the chemistry of preservation far more than it measures the history of life. Everything that follows defends that sentence, and one long section near the two-thirds mark argues against it as honestly as possible.
 
-![Fossil trilobites and Ediacaran impressions illustrating the deep-time evidence for when animals first evolved - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fossil trilobites and Ediacaran impressions illustrating the deep-time evidence for when animals first evolved - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The question matters beyond curiosity. The origin of animals calibrates the entire tree of life: every molecular date for every later split, from the first fish to the first primates, hangs on where the animal root is fixed. It also sets the template for how science handles the most common situation in deep-time research, which is two excellent kinds of evidence disagreeing with each other. The fossils say one date. The genes say another. The chemistry of ancient oceans and atmospheres says a third, quieter thing. Learning how specialists weigh these against one another is the real payoff, because the same weighing happens in every field that studies a past it cannot visit.
 
