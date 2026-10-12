@@ -43,3 +43,7 @@
 ## how-alien-tort-statute-works
 - _posts/2016-02-24-nuremberg-trials-explained.md — could carry: "The criminal trials that established individual responsibility under international law have a civil counterpart; our guide to how the Alien Tort Statute works traces the lawsuits victims brought in American courts."
 - _posts/2019-05-27-saudi-khashoggi-killing.md — could carry: "When state violence crosses borders, the question of which court can hear the claim is answered in our guide to how the Alien Tort Statute works."
+
+## when-animals-first-evolved
+- _posts/2026-10-08-chirality-molecular-handedness.md — could carry: "Molecular clocks built from these same biomolecules date the deepest splits in the tree of life; our account of when animals first evolved explains what those clocks say and why the fossils disagree."
+- _posts/2015-08-28-scientific-revolution-history-explained.md — could carry: "Few sciences have revised their timelines as dramatically as paleontology; our account of when animals first evolved traces how the fossil record's story changed from Darwin to the molecular era."
