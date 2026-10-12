@@ -6,17 +6,17 @@ date: "2018-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Sentencing Law", "Criminal Justice", "Federal Courts", "Prison Policy", "Congressional History"]
 excerpt: "The Sentencing Reform Act abolished federal parole and created binding sentencing guidelines. This guide traces its coalition, machinery, and legacy in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2018-01-01"
+lang: en
 ---
-
 ## Introduction
 
 On October 12, 1984, President Ronald Reagan signed a continuing appropriations resolution that carried, buried deep inside its second title, the most ambitious restructuring of federal punishment in the twentieth century. The Sentencing Reform Act of 1984 abolished federal parole, created the United States Sentencing Commission, ordered the Commission to write binding guidelines that would squeeze judicial discretion into a grid of months, and replaced early release with supervised release, a new form of court-imposed control that began only after the prison term ended. It became law without a separate floor vote in either chamber, riding a must-pass spending bill less than four weeks before a presidential election.
 
-![The Sentencing Reform Act of 1984: the Commission, the guidelines grid, and the end of parole - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Sentencing Reform Act of 1984: the Commission, the guidelines grid, and the end of parole - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The measure's parentage was its most striking feature. Its chief architect was Edward Kennedy, the liberal senator who saw unguided judicial discretion as a vehicle for racial and economic discrimination. Its indispensable champion was Strom Thurmond, the conservative senator who saw the same discretion as a vehicle for leniency. The two men agreed on the mechanism while disagreeing on the goal: Kennedy wanted uniformity to pull harsh outliers inward, Thurmond wanted uniformity to pull lenient outliers upward. Between them they built majorities neither could have assembled alone, and the machinery they built delivered the uniformity both demanded at a severity only one side had sought.
 

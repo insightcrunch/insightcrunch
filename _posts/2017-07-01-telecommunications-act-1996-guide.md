@@ -6,13 +6,15 @@ date: "2017-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Telecommunications", "Telecom Policy", "Media Law", "Internet Law"]
 excerpt: "The Telecommunications Act of 1996 amended rather than replaced the 1934 law, trading local access for long-distance entry while deregulating ownership."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2017-07-01"
+lang: en
 ---
-
 The Telecommunications Act of 1996 is the most consequential communications statute of the late twentieth century, and it is also one of the most misunderstood. Signed by President Bill Clinton on February 8, 1996 as Public Law 104-104, it did not replace the Communications Act of 1934. It rewrote that older law from the inside, inserting new duties, new definitions, and new deletions across its titles. This guide traces that amending relationship through the statute's five working machines: the local competition duties of sections 251 and 252, the Bell company entry bargain of section 271, the universal service rebuild of section 254, the ownership deregulation of section 202, and the late additions of Title V and section 706.
+
+![How the Telecommunications Act of 1996 Remade American Media - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The record divides along a single line. Provisions that deleted restrictions produced immediate, measurable change: radio ownership limits vanished and consolidation followed within months, while cable rate rules expired on their written sunset date. Provisions that tried to manufacture competition through sustained supervision produced a decade of rulemaking, remand, and litigation, and the unbundling regime was largely dismantled within ten years. Meanwhile the statute's quietest addition, the twenty-six words of section 230, became the legal foundation of the commercial internet, while its loudest, the indecency regime, was struck down within sixteen months.
 

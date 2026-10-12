@@ -6,17 +6,17 @@ date: "2018-04-01"
 categories: ["Industry"]
 tags: ["US Legislation Comparison", "US Legislation Crime Policy", "US Legislation Federalism", "US Legislation Sentencing", "US Legislation Criminal Justice", "US Legislation Study Guide"]
 excerpt: "The crime bill and the First Step Act are structural opposites: one spent billions in conditional grants on state systems, the other rewrote rules directly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: "65"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2018-04-01"
+lang: en
 ---
-
 ## The Comparison That Misleads
 
 In political argument, the Violent Crime Control and Law Enforcement Act of 1994 and the First Step Act of 2018 are treated as opposite answers to a single question. The earlier statute stands in for the punitive turn in American criminal justice policy, and the later statute stands in for its reversal. Commentators, advocates, and officeholders reach for the pairing to narrate an arc: the country built mass incarceration with one law and began dismantling it with the other. That telling has moral force but little structural content. The two statutes did not address the same population through the same instruments, and the comparison that matters is not between an era of severity and an era of mercy. It is between two different theories of what federal legislation can do about crime and punishment in a country where criminal law is enforced almost entirely by the states.
 
-![The 1994 crime bill and the First Step Act: two statutes, opposite directions, one structural limit - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1994 crime bill and the First Step Act: two statutes, opposite directions, one structural limit - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 Each statute arrived at the end of a long negotiation about federal power. The 1994 act was the product of years of bargaining over how Washington could respond to violent crime that was, by every measure, rising through the late 1980s and early 1990s. Its answer was money: a spending program on a scale no federal crime bill had attempted, aimed at state and local institutions that the federal government could fund but not command. The 2018 act arrived after years of debate about the federal prison population and the cost of incarcerating it. Its answer was administrative: changes to federal sentencing rules and to the operation of federal prisons, applied directly to the system Congress controls outright. Understood this way, the pairing stops being a morality play and starts being a map of the federal government's two levers: the spending power, which can influence the states, and direct legislation, which reaches only the federal system.
 

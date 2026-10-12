@@ -6,17 +6,17 @@ date: "2018-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "mandatory minimums", "federal sentencing", "841(b) drug quantity", "924(c) firearm"]
 excerpt: "Mandatory minimums set a federal floor that three exits can open. This guide explains each trigger, who controls every exit, and the history behind them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: "2018-02-01"
+lang: en
 ---
-
 ## How the Mandatory Minimum Machinery Works
 
 A federal mandatory minimum is a number that Congress writes directly into a criminal statute, and the number matters because a judge has no lawful authority to sentence beneath it. The minimum attaches when the elements the statute names are established: most often a drug type and a threshold quantity under 21 U.S.C. 841(b), the use or carrying of a firearm during and in relation to a federal drug or violent crime under 18 U.S.C. 924(c), or qualifying prior convictions formally noticed through the procedure at 21 U.S.C. 851. Once those elements are charged and either admitted or proved, the floor is fixed before the judge's sentencing discretion begins, and no ordinary reason can move the sentence below the statutory line, not sympathy for the defendant's role, not disagreement with the severity of the range, and not a guideline calculation pointing lower.
 
-![Mandatory minimum sentencing law triggers and exits - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mandatory minimum sentencing law triggers and exits - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 Only three exits lead beneath the floor, and the identity of the person holding each key is the mechanism that matters most. The substantial assistance motion under 18 U.S.C. 3553(e) can take any federal defendant below a minimum, but only the government may file it, so the most frequently used route is unavailable unless the prosecutor chooses to open it. The safety valve under 18 U.S.C. 3553(f) excuses qualifying drug defendants from the minimum entirely, and the judge decides whether the five statutory criteria are satisfied, with no government motion required. The 2018 expansion of that valve widened the criminal history gate and extended coverage to maritime drug offenses. Of the three, only the substantial assistance exit is one the defendant cannot initiate, a structural asymmetry that shapes every plea negotiation conducted under the threat of a minimum.
 

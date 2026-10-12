@@ -6,10 +6,11 @@ date: "2017-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Criminal Justice", "US Legislation Statute Profile", "US Legislation Law Enforcement", "US Legislation Surveillance", "US Legislation Supreme Court"]
 excerpt: "The Omnibus Crime Control Act built LEAA's block grant model, wrote federal Title III wiretap rules, and lost its own confession provision in Dickerson."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2017-12-15"
+lang: en
 ---
 The Omnibus Crime Control and Safe Streets Act of 1968, Public Law 90-351, 82 Stat. 197, signed by President Lyndon B. Johnson on June 19, 1968, was the largest federal intervention in state and local law enforcement ever attempted to that point. Conceived as an administration program of direct federal aid to local police, rewritten in the Senate into an eleven-title omnibus, and signed two weeks after the assassination of Senator Robert F. Kennedy, the statute rearranged the fiscal, procedural, and constitutional relationship between Washington and the thousands of police departments, courts, and correctional systems that handled the overwhelming share of criminal cases in the United States. The enrolled bill ran to one hundred ten pages, and the President who signed it protested two of its titles in the signing statement itself. This profile follows the act through the three titles that defined its afterlife.
 
@@ -21,7 +22,7 @@ Title II attempted what no statute can do. It enacted 18 U.S.C. 3501, a voluntar
 
 Three titles, three fates: an institution that outlived its agency, a procedure that outlived its technology, and a confrontation that collapsed on contact with the Constitution.
 
-![The Omnibus Crime Control Act: funding, wiretaps, and the Miranda confrontation](/assets/images/blog/blog-01.webp)
+![The Omnibus Crime Control Act: funding, wiretaps, and the Miranda confrontation](/assets/images/blog/blog-111.webp)
 
 ## A. Origins, Context, and Passage
 

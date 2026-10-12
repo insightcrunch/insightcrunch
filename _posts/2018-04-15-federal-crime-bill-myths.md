@@ -6,17 +6,17 @@ date: "2018-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Crime", "US Legislation Crime Bill", "US Legislation Sentencing", "US Legislation First Step Act", "US Legislation Firearms"]
 excerpt: "Federal crime bill myths meet the record: ten claims on mass incarceration, three strikes and mandatory minimums tested against statutes, roll calls and data."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: "74"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2018-04-15"
+lang: en
 ---
-
 ## Introduction
 
 A reader arrives at this article holding a claim. It might have surfaced in a debate, a headline, or a speech: that federal crime legislation created mass incarceration, that the 1994 statute invented three strikes or mandatory minimums, that Black leaders stood together against the bill or behind it, that the bill put one hundred thousand officers on the street, that the firearms ban was repealed, that the 2018 reform opened the gates to dangerous offenders, that the bill cut crime, that Congress could empty the prisons. This article takes each of these claims in its strongest form and runs it through the same two checks. The first is the denominator: whose prisoners, whose cases, whose law is actually being counted. The second is the date: when did the trend begin, and could the statute in question have caused it.
 
-![Federal crime bill myths: claims, verdicts, and the record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal crime bill myths: claims, verdicts, and the record - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The method is deliberately narrow. Verdicts rest on the text of the statutes, the recorded roll calls, and the official data series: the Bureau of Justice Statistics imprisonment figures, the FBI's crime reporting, the program evaluations from the Government Accountability Office and the National Institute of Justice, and the Department of Justice recidivism reports. Four verdicts are used. True means the record supports the claim as stated. Partly true means the claim holds in part and fails in part. False means the record contradicts it. Contested means serious evidence runs in both directions. The claim ledger below maps ten claims to their verdicts and the deciding sources, and each section then walks one claim through the evidence in full.
 

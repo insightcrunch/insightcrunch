@@ -6,15 +6,15 @@ date: "2016-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Energy", "US Legislation Efficiency", "US Legislation Biofuels", "US Legislation Petroleum", "US Legislation Policy Review"]
 excerpt: "US energy independence policy promised self-sufficiency for decades. This review measures what efficiency rules, the SPR, biofuels and synfuels delivered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: "2016-12-01"
+lang: en
 ---
-
 On the evening of November 7, 1973, Richard Nixon went on television and announced a national program called Project Independence, with the goal of meeting America's energy needs from American energy resources by 1980. The promise was not a one-time speech. Over the four decades that followed, nearly every president put his own version of the same goal on the record, and Congress built an entire architecture of energy security statutes around it: the 1975 crisis law that created fuel economy standards and the Strategic Petroleum Reserve, the 1980 synfuels corporation, the 2005 energy act, and the 2007 law that carried the phrase "energy independence" in its very title. Then, decades later, the United States actually did become a net energy exporter. The question this article answers is not whether the goal was reached. It is who, or what, reached it. The evidence shows that the decisive cause was a production technology that no statute specified and no energy law mandated, while the statutes' genuine and measurable achievements lie concentrated in a different place entirely: the efficiency rules that received a small fraction of the political attention. A reader who finishes this article can state that separation cleanly, with sources, which is the test of whether the article has done its job.
 
-![US energy independence laws and the shale boom explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![US energy independence laws and the shale boom explained - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The separation matters because the alternative is the confusion that has surrounded energy policy for decades. When the net exporter milestones arrived, they were claimed as vindication by supporters of every energy statute ever enacted, as if the trade figures retroactively validated the synfuels corporation, the cellulosic mandate, and the fuel economy standards alike. They were also dismissed by critics of government action as proof that policy never matters, as if the efficiency quads and the research base had nothing to do with the outcome. Both readings fail the evidence. The trade figures vindicate the research budgets and the tax credit in their enabling role, the efficiency standards in their measured savings, and nothing else. The statutes that promised production delivered the least. The statutes that constrained demand delivered the most. The technology that delivered the headline was specified by no statute at all. Holding those three sentences apart is the entire work of this article, and it is work the sources support.
 

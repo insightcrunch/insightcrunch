@@ -6,16 +6,15 @@ date: "2016-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "energy policy", "electric grid reliability", "renewable fuel standard", "nuclear power", "daylight saving time"]
 excerpt: "The Energy Policy Act of 2005 made grid reliability mandatory, repealed the utility holding company law, created the fuel standard, and moved the clocks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: "81"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2016-09-01"
+lang: en
 ---
-
-
 The Energy Policy Act of 2005 is the hardest statute in modern federal energy law to summarize in one sentence, which is exactly why it repays careful study. It is the law that made electric grid reliability standards mandatory after the worst blackout in American history, and it is also the law that repealed the New Deal era statute that had restricted utility corporate ownership for seventy years. It created the renewable fuel standard that put billions of gallons of ethanol into gasoline, and it carved hydraulic fracturing out of the drinking water statute's injection control program in a two sentence provision that became the most litigated and most searched part of the act. It extended accident liability coverage for nuclear plants, offered loan guarantees and production credits for new energy technology, and moved the nation's clocks. No competing summary explains why one omnibus measure contains provisions pointing in four directions at once. This article explains that the four directions are the point, because the statute is a coalition rendered as text, assembled by trading provisions across coalitions in a way that later energy legislation never repeated.
 
-![Power transmission lines against a dusk sky illustrating the Energy Policy Act of 2005 and its transformation of the American electric grid - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Power transmission lines against a dusk sky illustrating the Energy Policy Act of 2005 and its transformation of the American electric grid - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 A reader who finishes this article will be able to explain that Public Law 109-58 is widely described as the last major bipartisan energy statute before the partisan era, name the August 2003 blackout that produced its most consequential provision, identify the two sentence exclusion that shaped a decade of drilling litigation, and understand that a single act simultaneously deregulated utility ownership, created mandatory reliability enforcement, mandated renewable fuel blending, and moved the clocks. That is the One Test for this statute, and every section below serves it.
 

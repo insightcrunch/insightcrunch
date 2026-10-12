@@ -6,10 +6,11 @@ date: "2018-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Criminal Justice", "Crime Policy", "Sentencing Law", "Federal Grants", "Congressional History"]
 excerpt: "Did the crime bill cause mass incarceration? Evidence shows a real but modest role: a few billion in grants nudged state sentencing, never commanded it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2018-03-01"
+lang: en
 ---
 ## Introduction
 
@@ -17,7 +18,7 @@ The debate over the 1994 crime bill and incarceration runs on two powerful simpl
 
 The five findings below give the shape of the answer. The federal government confines about one in ten of the nation's prisoners, so its direct sentencing provisions reach only that slice. The truth-in-sentencing grants totaled about 2.7 billion dollars in actual awards, set against annual state corrections budgets in the tens of billions, and moved sentencing law at the margin rather than at the core. The incarceration rate had already doubled before the statute passed, which rules out any claim that the bill set the trend in motion. The National Research Council's 2014 consensus report attributes the long rise to sentencing policy choices at every level of government across four decades, not to any single enactment. And the violent crime decline that followed began in 1991, before the bill's programs reached the street, with the police hiring grants contributing a modest share.
 
-![How the 1994 crime bill affected incarceration through federal grants - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the 1994 crime bill affected incarceration through federal grants - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The question this article answers is the one the debate keeps getting wrong: how much a few billion conditional dollars moved decisions made by fifty legislatures spending far more, and what the crime and prison evidence shows about the size of that movement. The answer is real but modest, bounded on every side by the structure of American federalism.
 

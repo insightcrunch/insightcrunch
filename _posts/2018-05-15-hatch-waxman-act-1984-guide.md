@@ -6,16 +6,17 @@ date: "2018-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Hatch-Waxman", "US Legislation Generic Drugs", "US Legislation Drug Patents", "US Legislation FDA Approval", "US Legislation Patent Law"]
 excerpt: "Hatch-Waxman traded an abbreviated generic pathway for restored patent time. This profile walks the bargain, the certification fight, and the delay devices."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2018-05-15"
+lang: en
 ---
 ## Introduction
 
 In September 1984, Congress enacted a contract between two industries that had spent years blocking each other. The Drug Price Competition and Patent Term Restoration Act of 1984, Public Law 98-417, signed September 24, 1984, gave generic manufacturers an abbreviated path to market and gave brand manufacturers restored market time for the years regulatory review had consumed. Hatch-Waxman is the shorthand for that exchange, and the shorthand carries the design: the statute's two halves serve opposite constituencies, amend two different codes, and were joined only because neither half could have passed alone.
 
-![Hatch Waxman Act: the generic bargain, patent restoration, and the machinery of generic entry - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hatch Waxman Act: the generic bargain, patent restoration, and the machinery of generic entry - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This profile carries the deal, the mechanics, and the litigation in one article. The reader who works through it will be able to state both halves of the bargain precisely, explain the abbreviated approval pathway that made a generic industry possible, walk through the certification, stay, and exclusivity machinery that governs every generic launch, and identify the provisions designed to accelerate competition that have been repeatedly used to delay it. Generic penetration rose from roughly eighteen percent of prescriptions in 1984 to about nine in ten over the following decades, while brand effective market life lengthened, which is why the statute reads as a fulfilled bargain rather than a giveaway to either side. The namable claim runs through the whole account: every acceleration device became a delay device, because a statute that regulates two adversaries with the same instruments teaches both of them to play.
 

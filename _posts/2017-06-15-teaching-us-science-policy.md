@@ -6,13 +6,15 @@ date: "2017-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Science Policy", "US Legislation Teaching", "US Legislation Study Guide", "US Legislation Space", "US Legislation Research Funding"]
 excerpt: "US science policy taught as a classroom study guide: four instruments, six mark-deciding distinctions, and the four documents worth assigning to students."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: "67"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2017-06-15"
+lang: en
 ---
-
 This study guide is built around a single proposition about US science policy: every federal statute in the field is a choice among four instruments. The government performs research in its own laboratories, it funds research performed by others through grants and fellowships, it procures research and hardware through contracts for its own use, and it incentivises research performed at private expense through patent rights and tax credits. That four-instrument frame is the One Test answer for the whole field. When an exam asks what a statute does, the correct answer is which of the four instruments the statute selects, how money and authority flow through the choice, and what the government receives in return. Everything else in this unit, the chronology, the documents, the distinctions, hangs on that sorting step. The companion overview in the [US science policy legislation guide](/2017/06/01/us-science-policy-legislation/) supplies the statute-by-statute record this guide teaches from.
+
+![Teaching US Science Policy: A Classroom Study Guide - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The guide teaches the field in the order in which each settlement created the next problem. It opens with the four instruments, because mechanism is what makes the rest legible. It then walks the teaching order: the 1945 market failure report, the five-year fight over control, the 1958 pair of agency and pipeline, the government-title era and its licensing failure, the 1980 reversal, the authorization-appropriation gap, and the compliance layer. It then isolates the six distinctions that decide marks: authorization versus appropriation, basic versus applied versus development, grant versus cooperative agreement versus contract, agency versus contractor-operated laboratory, government title versus contractor title, and peer review as practice rather than statutory command. It closes with the documents, the errors, the honest data, and the contested questions.
 

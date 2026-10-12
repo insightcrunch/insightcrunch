@@ -6,17 +6,17 @@ date: "2016-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "PURPA", "Energy Law", "FERC", "Electric Utilities", "Independent Power"]
 excerpt: "PURPA forced utilities to buy power from qualifying small generators at avoided cost, and that single provision created the independent power industry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: "2016-11-01"
+lang: en
 ---
-
 ## PURPA and the Five Bill Energy Program
 
 PURPA is the statute that built an American industry by accident. The Public Utility Regulatory Policies Act of 1978, Public Law 95-617, was signed by President Jimmy Carter on November 9, 1978, as one of five energy bills enacted on the same day. As of November 2016, it stood on the books as amended, its most consequential provision, section 210, still governing how electric utilities purchase power from generators they do not own. A reader who finishes this profile should be able to explain three things without hesitation: that the independent power industry and the commercial market for renewable electricity in the United States both descend from a single 1978 provision requiring utilities to buy power from small generators at their own avoided cost, that this statute was one of five enacted the same day as a single presidential program split across committees, and that the same package contained a statute banning new gas fired power plants whose prohibitions had to be repealed within a decade. That is the whole story in one test, and every section that follows is scaffolding for it.
 
-![The 1978 National Energy Act package and the PURPA independent power industry - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1978 National Energy Act package and the PURPA independent power industry - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The strangeness of PURPA begins with its shape. It is at once a utility regulation statute, a ratemaking statute, and an industrial policy statute, and those identities do not sit together comfortably. Titles I and III directed state utility commissions to consider a list of federal ratemaking standards, which made the law look like a mild federal nudge toward better rate design. Title II, by contrast, contained section 210, the provision that ordered electric utilities to buy power from qualifying cogeneration and small power production facilities at a price tied to the utility's own cost of generating or buying that power elsewhere. The statute also carried a small hydroelectric program and gave the Federal Energy Regulatory Commission new authority over interconnection and wheeling. No single theory of energy policy unites those pieces. They were united by the legislative vehicle: a presidential energy program that had to be divided into pieces small enough to fit through different congressional committees, and PURPA was the piece that fit through the tax and utility committees rather than the energy committees. Understanding the law requires understanding that it was shaped by committee jurisdiction as much as by policy logic, a lesson the package section of this article develops in full.
 

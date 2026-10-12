@@ -6,17 +6,17 @@ date: "2016-12-15"
 categories: "Industry"
 tags: "US Legislation"
 excerpt: "FERC governs wholesale electricity and gas through commission orders, pipeline certificates, and reliability standards built on the Power Act rate standard."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2016-12-15"
+lang: en
 ---
-
 ## The Distance Between a Statutory Phrase and a Power Market
 
 The most consequential energy policy of the last thirty years was not written by Congress. It was written by a five member commission exercising a ratemaking power granted in 1935, in language inherited from nineteenth century railroad regulation. The Federal Energy Regulatory Commission built the modern American electricity market, order by order, out of the requirement that rates be just and reasonable and not unduly discriminatory. No statute ever instructed FERC to create open transmission access, to form regional markets, to pay demand response at market prices, or to plan transmission across state lines. FERC did all of those things anyway, and the courts upheld them. This article is the practitioner guide to how that happened, to the jurisdictional line that limits FERC, and to the four other instruments, certificates, reliability standards, oil pipeline rates, and the preemption doctrine, that complete its authority.
 
-![Energy regulation and rulemaking illustration](/assets/images/blog/blog-01.webp)
+![Energy regulation and rulemaking illustration](/assets/images/blog/blog-94.webp)
 
 That gap between the spare statutory text and the delivered policy is the widest point in this entire series. The Federal Power Act gives FERC jurisdiction over the transmission of electric energy in interstate commerce and the sale of electric energy at wholesale in interstate commerce, and it commands that rates and practices affecting those rates be just and reasonable. Out of that spare grant came the open access transmission tariff, the regional transmission organization, the organized wholesale auction, and the mandatory reliability standard. The Natural Gas Act gives FERC authority over interstate gas transportation and wholesale sales plus the certificate power over pipeline construction, and out of that grant came the modern interstate pipeline network, built on certificates that carry federal eminent domain authority. Understanding FERC means understanding instruments rather than statutes, because the instruments are where the law actually lives.
 

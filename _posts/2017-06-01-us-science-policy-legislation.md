@@ -6,12 +6,12 @@ date: "2017-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Science", "US Legislation Technology Policy", "US Legislation Research", "US Legislation Innovation", "US Legislation Space"]
 excerpt: "Why Congress authorizes science funding it never appropriates: a seventy-year tour of US science policy legislation, from the NSF Act to the COMPETES era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: "89"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2017-06-01"
+lang: en
 ---
-
 American science policy since 1950 has a split personality. One face appears in authorization statutes that promise sweeping national commitments to research, education, and exploration. The other face appears in appropriations bills, where those promises are trimmed, postponed, or quietly set aside. The plain claim of this guide is that the second face does most of the governing: Congress has repeatedly authorized ambitious scientific funding that it then declined to appropriate, so the operative science policy of the United States is written less in the famous organic acts than in the annual money bills that few historians of science ever open.
 
 Consider the pattern. The America COMPETES Act of 2007 set authorization levels for the National Science Foundation, the Department of Energy's Office of Science, and the laboratory accounts of the National Institute of Standards and Technology on a track that would have doubled their budgets in seven years, and the 2010 reauthorization kept the doubling goal alive. Appropriators funded those accounts well below the authorized curve in nearly every subsequent year, and the doubling never arrived. The authorization was the promise; the appropriation was the policy. That gap, between what Congress permits and what Congress pays for, is the thread running through seven decades of American science policy legislation, and it organizes this guide.
@@ -24,7 +24,7 @@ This inverts the civics-textbook story, in which authorization is the lawmaking 
 
 The turning points in this history are the moments when that subordination was briefly suspended. Three of them anchor the founding era covered here. The first was the wartime demonstration, between 1941 and 1945, that federally organized inquiry could yield radar, mass-produced penicillin, and the atomic bomb, converting science from a private pursuit into a candidate for permanent public investment. The second was the five-year political struggle that produced the National Science Foundation in 1950, a fight less about whether Washington should fund research than about who would control the purse. The third was the Soviet launch of Sputnik in October 1957, which fused scientific spending to national defense and unlocked the great postwar expansion, on the condition that science wear a uniform. Each of these moments left a statute behind, and each statute diverged from its drafters' design once appropriators and administrators got hold of it.
 
-![US science policy legislation since 1950 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![US science policy legislation since 1950 - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## Before 1950: Bush and the five-year fight
 

@@ -6,17 +6,17 @@ date: "2016-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Energy Policy", "Fuel Economy Standards", "Strategic Petroleum Reserve", "Crude Oil Exports", "Appliance Efficiency"]
 excerpt: "The Energy Policy and Conservation Act answered one oil shock with four instruments: a stockpile, mileage rules, appliance standards, and a 40-year export ban."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2016-10-01"
+lang: en
 ---
-
 ## The One Statute That Answered the First Oil Shock
 
 The Energy Policy and Conservation Act answered the first oil shock with four permanent instruments instead of one. Congress created a government-owned strategic petroleum reserve, wrote corporate average fuel economy targets directly into the statute books, started a federal appliance efficiency program, and gave the President authority to restrict exports of domestic crude oil. Every one of those instruments was aimed at the same emergency, the oil embargo of 1973 and 1974, and every one of them then lived a separate life across the next forty years.
 
-![The four instruments of the Energy Policy and Conservation Act explained, from the strategic reserve to the export ban - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The four instruments of the Energy Policy and Conservation Act explained, from the strategic reserve to the export ban - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That separation is what makes this statute worth reading closely. The four programs shared a birth certificate, Public Law 94-163, signed December 22, 1975, but they did not share a fate. Three of them remain central to American energy policy: the reserve anchors federal supply planning, the fuel economy program sets the terms on which automakers sell cars, and the appliance program shapes what efficiency means for household equipment. The fourth, the crude export restriction, survived four decades after the shortage that justified it and was repealed only in December 2015, in a year-end appropriations package rather than in an energy bill. A reader who finishes this article will be able to explain all four instruments, trace what happened to each across forty years, and state the claim this profile exists to support: this is the shortage statute that outlived the shortage, and the export ban's long afterlife is the clearest illustration in this series of how difficult it becomes to remove a statutory restriction once a constituency forms around it.
 

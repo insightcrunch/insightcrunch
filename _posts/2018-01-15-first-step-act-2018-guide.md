@@ -6,12 +6,12 @@ date: 2018-01-15
 categories: ["Industry"]
 tags: ["US Legislation", "First Step Act", "Criminal Justice", "Sentencing Reform", "Congress", "Supreme Court"]
 excerpt: "The First Step Act shortened federal drug sentences, created earned time credits for prison programming, and opened compassionate release to prisoner petitions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2018-01-15
+lang: en
 ---
-
 ## The question the statute answers
 
 The First Step Act answers a question Congress had asked in different ways for more than three decades: what should be done about a federal sentencing system that imposes the longest drug sentences in the industrialized world while housing only a fraction of the people imprisoned in the United States. The statute's answer was not a single reform but a bundle of them, and the most consequential part of the bundle was not the part its sponsors discussed most. The public debate centered on mandatory minimums for drug offenses, but the provision that ultimately released the most people was a quiet procedural amendment tucked into Title VI, which allowed federal prisoners to ask a court for compassionate release directly rather than waiting for the prison bureau to ask on their behalf.
@@ -20,7 +20,7 @@ That asymmetry is the key to reading the act. The sentencing changes were carefu
 
 This article carries the full treatment in one place because the statute profile framework requires it. It covers the act's identity, the conditions that produced it, how it moved through Congress, the architecture of the text title by title, who it covers and who it exempts, how the executive branch put it into practice, the litigation that has construed it, what changed in practice, and the honest account of what it did not do. Readers who want the comparison with the 1994 crime statute will find it in the companion comparison article; the provision made retroactive is treated at length in the article on the 2010 Fair Sentencing Act.
 
-![Alt Text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alt Text - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## The formal identity of the First Step Act
 

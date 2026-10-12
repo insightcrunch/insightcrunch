@@ -6,17 +6,17 @@ date: "2018-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Law", "US Legislation FDA Regulation", "US Legislation Kefauver Harris", "US Legislation Thalidomide", "US Legislation Drug Approval"]
 excerpt: "The Kefauver-Harris Amendments turned a failed drug-price bill into the law requiring drugs to prove they work, reshaping approval, testing, and safety."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: "2018-06-01"
+lang: en
 ---
-
 What makes an American drug have to work? Not the market, which rewards what sells, and not a physician's impression, which can mistake habit for evidence. What makes it have to work is a federal statute that bars any new medicine from sale until its maker proves, through adequate and well-controlled investigations, that the drug does what its labeling claims. That statute is the Drug Amendments of 1962, known ever since as the Kefauver-Harris Amendments, and it reorganized the relationship between drug makers, the drug agency, and prescribing physicians more thoroughly than any other single enactment in the history of American medicine. Its demand is simple to state and exacting to meet: safety is not enough, because a safe drug that does nothing still costs the patient money, time, and the chance of real treatment.
 
 The strange fact about the statute is that nobody wrote it to do this. It began as an antitrust bill about drug prices, the product of years of Senate hearings on pharmaceutical patents and promotion, and by the spring of 1962 it was dying in committee, stripped of the compulsory licensing provisions its sponsor cared about most. Then a birth defect catastrophe in Europe, a sedative marketed as exceptionally safe, and a stubborn agency medical officer who had refused to approve the American application collided with the stalled bill in a single summer. Newspaper coverage made the reviewer a national figure, the President honored her in August, and within weeks the dying price bill had been rewritten around proof of effectiveness and passed by Congress.
 
-![The Kefauver-Harris Amendments: how an antitrust bill became the law that made drugs prove they work - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Kefauver-Harris Amendments: how an antitrust bill became the law that made drugs prove they work - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article traces the statute from its antitrust origins through the thalidomide summer to the effectiveness standard that became the operating system of American drug regulation. It walks through the substantial evidence requirement, the shift from default approval to affirmative approval, the birth of the investigational drug process, the quieter provisions on consent, manufacturing, and advertising, the retroactive review of thousands of older drugs, the economic debate over whether the law slowed innovation, and the later statutes that renegotiated its trade-offs. The story begins where the bill did, in a Senate subcommittee investigating why Americans could not afford their medicine.
 

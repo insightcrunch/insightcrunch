@@ -6,17 +6,17 @@ date: "2018-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Controlled Substances", "US Legislation Criminal Law", "US Legislation Commerce Clause", "US Legislation Public Health"]
 excerpt: "The Controlled Substances Act rebuilt federal drug law on the commerce power, replacing tax-era statutes with schedules, registration, quotas, and penalties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2018-05-01"
+lang: en
 ---
-
 ## Introduction
 
 What makes a substance "controlled" under federal law? The question decides who may manufacture a drug, who may prescribe it, who may carry it across a state line, and what becomes of everyone who moves it outside the authorized channels. The Controlled Substances Act answers it with a single device: the schedule. A substance is controlled because the Attorney General, applying statutory criteria about abuse potential, accepted medical use, and dependence liability, has placed it on one of five lists, and nearly everything else in the statute, the registration of every handler, the quotas on lawful production, the prescription rules, the criminal penalties, keys off that placement. The schedules are the operating system of federal drug control, and the 1970 law that built them remains its foundation.
 
-![The Controlled Substances Act of 1970: the schedules, the closed system, and the commerce-power rebuild - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Controlled Substances Act of 1970: the schedules, the closed system, and the commerce-power rebuild - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Congress legislated against a regime that had stopped working on every front. For more than half a century, federal drug control had rested on the taxing power, beginning with the Harrison Narcotics Tax Act of 1914, which required dealers to register and pay a tax as a pretext for regulating a trade Congress did not believe it could reach directly. Layer upon layer of later statutes, the Marihuana Tax Act of 1937, the import and export acts, the 1951 and 1956 mandatory minimum laws, the 1965 dangerous-drug amendments, piled on without repealing what came before, dividing enforcement between the Treasury and the health bureaucracies. In 1969 the Supreme Court's decision in Leary v. United States knocked out the tax architecture's constitutional footing, holding that compelled registration under the Marihuana Tax Act violated the privilege against self-incrimination. Meanwhile marijuana, LSD, amphetamines, and heroin were spreading through a young population that the old laws had never contemplated, and federal narcotics arrests were climbing from under ten thousand a year in the late 1950s to more than one hundred sixty thousand by 1968.
 

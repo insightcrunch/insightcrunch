@@ -6,12 +6,15 @@ date: "2017-05-15"
 categories: ["Technology"]
 tags: ["us-legislation", "technology policy", "space act", "chips act", "industrial policy", "science policy"]
 excerpt: "The Space Act built an agency that bought missions; the CHIPS Act pays firms to build fabs. The deciding factor: whether the government is the customer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: "62"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2017-05-15"
+lang: en
 ---
 ## Introduction: The Space Act versus CHIPS Act model
+
+![The Space Act vs the CHIPS Act Model: Build or Subsidize - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The Space Act versus CHIPS Act model comparison asks a deceptively simple question. When the United States wants a technology to exist, does it build the capability to make it happen, or does it pay someone else to build it? The two statutes at the center of this article answer that question in opposite ways. [National Aeronautics and Space Act](/2017/02/01/national-aeronautics-space-act-1958/) of 1958, Public Law 85-568, created a civilian agency, hired the scientists and engineers, took title to the inventions, and bought spaceflight as a government mission. The CHIPS Act of 2022, Division A of Public Law 117-167, appropriated billions of dollars to persuade private semiconductor firms to build fabrication plants in the United States, with conditions attached, while leaving ownership, operation, and commercial risk in private hands. The full statutory anatomy appears in the [CHIPS and Science Act guide](/2017/03/15/chips-and-science-act-2022-guide/).
 

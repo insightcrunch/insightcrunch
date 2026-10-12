@@ -6,17 +6,17 @@ date: "2016-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Transportation Policy", "Congress", "American History", "Legislative Process", "Study Guides"]
 excerpt: "US infrastructure legislation moved in three phases: build the Interstate on dedicated taxes, deregulate carriers, then divide fixed revenue among claimants."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2016-08-15"
+lang: en
 ---
-
 ## US infrastructure legislation: the arc that organizes seventy years of law
 
 US infrastructure legislation across seven decades reads as a single story told in three acts. A reader who masters this domain can name the major federal transportation statutes since 1950 in order, explain the arc from building a national network to allocating a fixed revenue stream among competing uses, identify the parallel deregulation of the privately owned modes at the end of the 1970s, and recall the highway bill that Congress enacted over a presidential veto by a single vote. That test is the measure this article applies to itself. It is the master guide for the domain and the hub to which the cluster's specialist articles link back, so its job is orientation rather than duplication: it places every statute in sequence, states what each one did in one dense pass, and proposes a periodization that the rest of the cluster then refines.
 
-![The seventy-year arc of federal transportation law](/assets/images/blog/blog-01.webp)
+![The seventy-year arc of federal transportation law](/assets/images/blog/blog-48.webp)
 
 The organizing claim has a short name. Build, deregulate, allocate: American transportation legislation moved through three modes in sequence, constructing a network with dedicated taxes, then removing economic regulation from the privately owned modes, then arbitrating among competing claims on a revenue stream that stopped growing. The claim is stated here as an argument with named counterexamples, not as settled chronology, because the phases overlap. Construction continued after the allocation era nominally began, and reallocation began decades before it. The later section that tests the framing walks through both directions of the overlap so the reader can see where the model bends.
 

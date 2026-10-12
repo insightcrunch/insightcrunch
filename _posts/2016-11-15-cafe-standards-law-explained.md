@@ -6,15 +6,15 @@ date: "2016-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "CAFE Standards", "Fuel Economy", "Energy Policy", "Transportation Law", "Administrative Law"]
 excerpt: "CAFE standards grade fleets by a sales-weighted harmonic mean under 49 U.S.C. chapter 329: the formula, footprint targets, credits, penalties, and EPA overlap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: "68"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2016-11-15"
+lang: en
 ---
-
 The corporate average fuel economy (CAFE) program is the oldest and most misunderstood efficiency regime in American transportation law. It requires each automaker to meet a fleet-wide average measured in miles per gallon, but the operative policy lives in the arithmetic rather than the headline number. The statute sets the duty; the formula decides how the duty is satisfied. Corporate average fuel economy requirements live at 49 U.S.C. sections 32901 through 32919, Chapter 329 of Title 49, a title of the United States Code that originated in the energy legislation of 1975 and was substantially rewritten by the Energy Independence and Security Act of 2007. As of November 2016, that chapter governed every passenger car and light truck sold in the United States, and it did so through three devices that the rest of this article unpacks: a sales-weighted harmonic mean, separate fleets for cars and trucks, and, since 2007, targets that rise and fall with each vehicle's footprint.
 
-![An explainer on how CAFE fuel economy standards work](/assets/images/blog/blog-01.webp)
+![An explainer on how CAFE fuel economy standards work](/assets/images/blog/blog-04.webp)
 
 The program did not begin as environmental policy. It began as a response to an embargo. The Arab oil embargo of 1973 and 1974 tripled crude prices and exposed how thoroughly the American driving fleet depended on imported petroleum. New-car fleet economy had fallen from 14.8 miles per gallon in model year 1967 to 12.9 miles per gallon in 1974, and Congress concluded that the market alone would not rebuild the margin of safety. The answer became the [Energy Policy and Conservation Act of 1975](/2016/10/01/energy-policy-conservation-act-1975/), a broad energy-security statute whose purposes clause, codified at 42 U.S.C. section 6201, aimed at conservation and reduced dependence on imported oil. Fuel economy entered federal law as energy policy, and the environmental meaning of the program arrived decades later, layered on top by a second regulator acting under a different statute. Congress wrote the first decade's ambition directly into the statute: passenger-car targets of 18.0 miles per gallon for model year 1978, 19.0 for 1979, and 20.0 for 1980, a delegation to the Secretary of Transportation for the interim years, and a long-run mark of 27.5 for model year 1985 and thereafter.
 

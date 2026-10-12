@@ -6,17 +6,17 @@ date: "2018-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Supreme Court", "US Legislation Sentencing", "US Legislation Sixth Amendment", "US Legislation Eighth Amendment", "US Legislation Criminal Procedure"]
 excerpt: "Sentencing Law was remade by the jury trial right rather than the ban on cruel and unusual punishment. It traces the Sixth Amendment's reshaping of punishment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2018-03-15"
+lang: en
 ---
-
 ## Introduction
 
 A reader who follows the sentencing cases from In re Winship through Erlinger v. United States can trace the doctrinal line that reshaped American sentencing across two decades and identify which constitutional provision did the work. The answer surprises almost everyone. It was the jury trial right, not the prohibition on cruel and unusual punishment. The Eighth Amendment has done almost nothing for adult sentences, and the Sixth Amendment has done nearly everything, and understanding why explains the shape of modern sentencing law.
 
-![Sentencing law in the Supreme Court: the jury rights revolution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sentencing law in the Supreme Court: the jury rights revolution - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 Four doctrinal lines carry that story. The first runs from Winship's reasonable doubt standard through Mullaney and Patterson on who carries the burden, McMillan on the line between elements and sentencing factors, and Apprendi, Ring, Blakely, and Alleyne on who must find the facts that raise the ceiling or the floor of punishment, with the prior conviction exception as the one fact that never crossed to the jury's side. The second is the remedy: Booker severed the federal guidelines into an advisory system without invalidating the statute, and Rita, Gall, and Kimbrough defined reasonableness review. The third is the near silence of the Eighth Amendment, which struck down only one adult prison sentence on proportionality grounds and then spent two decades explaining why it would not strike down another, until the juvenile cases gave the doctrine its only substantial movement. The fourth runs through statutory construction, where Dorsey, Dillon, Concepcion, and Pulsifer reshaped who received relief under Congress's own reforms while leaving every statute standing. A [parallel constitutional line](/2021/07/01/second-amendment-supreme-court-cases/) shows how a different amendment handled firearms questions through its own doctrinal sequence.
 

@@ -6,13 +6,15 @@ date: "2017-05-01"
 categories: ["Industry"]
 tags: ["us-legislation", "research-funding", "uniform-guidance", "common-rule", "research-misconduct", "indirect-costs", "nih"]
 excerpt: "Federal research funding law governs how grants, contracts, and cooperative agreements are awarded, spent, and policed. A complete guide to the machinery."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: "2017-05-01"
+lang: en
 ---
-
 ## The machinery between the statute and the laboratory
+
+![Federal Research Funding Law: How Grants Are Really Governed - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This article is a practitioner article. It is written for the principal investigator who signed an award without reading the terms and conditions, for the research administrator who fields the same panicked questions every grant cycle, and for the journalist trying to report accurately on a research scandal, a funding freeze, or a new security rule. It consolidates material that is scattered across more than a dozen agency websites, the Code of Federal Regulations, agency policy manuals, and OMB guidance documents. The information exists in public. It does not exist in one place, and the people who need it most rarely know which pieces to look for. The NSF's Proposal and Award Policies and Procedures Guide runs to several hundred pages and changes annually; the NIH Grants Policy Statement is a separate, differently organized compendium; the Department of Energy publishes its own guides; and beneath all three sit the government-wide regulations at 2 CFR Part 200 and the FAR, each with agency supplements. A principal investigator working under two agencies is, in a real sense, working under two regulatory systems that share a vocabulary but differ in procedure. This article does not replace any of those sources, and it does not pretend that a single article could. Its purpose is orientation: a map of the whole terrain, drawn accurately enough that the reader can find the right document when it matters. Two boundaries are worth stating. This article covers the federal funding of research, not the parallel regimes of state law, institutional policy, or foreign funders, each of which adds its own layer. And it is descriptive rather than prescriptive: it explains what the law requires and how the machinery operates, leaving the reader's own compliance counsel to answer what a particular situation demands.
 

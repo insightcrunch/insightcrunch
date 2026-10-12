@@ -6,17 +6,17 @@ date: "2017-01-15"
 categories: "[\"Industry\"]"
 tags: "[\"US Legislation\", \"Energy Policy\", \"Nuclear Power\", \"Oil and Gas\", \"Fuel Economy\", \"Climate Policy\"]"
 excerpt: "US energy legislation has two tracks: security-driven production and deregulation versus environment-driven efficiency and subsidy, traced across seven decades."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: "92"
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 last_updated: "2017-01-15"
+lang: en
 ---
-
 ## The two tracks of American energy law
 
 A reader who finishes this guide should be able to do four things. Name the major federal energy statutes since 1950 in order, from the atomic statutes of the nineteen fifties through the recovery and export measures of the twenty tens. Explain the arc that runs from regulating prices to structuring markets to subsidising technologies. Identify the recurring pattern that organizes the field: supply crises produce production and deregulation statutes, while pollution and climate concern produce efficiency and technology-subsidy statutes. And recognise that the two tracks have almost never been reconciled inside a single law. That is the One Test for this article, and it is also the reason this article exists as the master guide for the domain. The cluster contains nine statute-level articles, each of which walks a single law in depth. This one supplies the domain-level view that makes each of those statutes legible, and it serves as the hub to which the cluster links back so that no single-statute article has to re-explain the whole field.
 
-![Timeline of major US energy statutes from 1954 to 2015](/assets/images/blog/blog-01.webp)
+![Timeline of major US energy statutes from 1954 to 2015](/assets/images/blog/blog-40.webp)
 
 Two tracks, rarely joined: American energy legislation runs on a security track that responds to supply shocks with production and deregulation and an environmental track that responds to pollution and climate with efficiency and technology subsidy, and the statutes that tried to serve both, in 1978 and 2005, are precisely the ones remembered as incoherent. That sentence is the namable claim of this guide, and everything that follows is the evidence for it. The security track begins with the decision to commercialise atomic power in 1954, runs through the emergency allocation machinery of 1973, the stockpile and fuel economy standards of 1975, the synthetic fuels gamble of 1980, and the long unwinding of price controls that ended with natural gas decontrol in 1989 and the crude export repeal in 2015. The environmental track begins with the review and clean-air statutes of 1969 and 1970, runs through the conservation and tax-credit measures of 1978, the renewable production credit of 1992, and the efficiency and fuel-mandate measures of 2007. The two tracks share the same decades, the same committees, and often the same bills, but they answer different questions. One asks how the nation keeps fuel flowing and prices bearable when supply is threatened. The other asks how the nation limits the damage that producing and burning fuel inflicts on air, land, and climate. Congress has answered the first question with production incentives and deregulation, and the second with efficiency standards and technology subsidy, with remarkable consistency across seventy years.
 
