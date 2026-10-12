@@ -261,3 +261,25 @@ case-file-long-plaintiff | how-alien-tort-statute-works | How long do plaintiffs
 case-compens-victim-win | how-alien-tort-statute-works | What compensation can victims win in these cases?
 critic-foreign-interfer-policy-say-statute | how-alien-tort-statute-works | Why do critics say the statute interferes with foreign policy?
 bring-case-else-human-right-victim-world | how-alien-tort-statute-works | Where else in the world can victims bring human rights cases?
+## science-animal-origins
+### when-animals-first-evolved
+animal-ever-fossil-found-oldest | when-animals-first-evolved | What is the oldest animal fossil ever found?
+ages-clock-estimate-evolutionary-molecular | when-animals-first-evolved | How do molecular clocks estimate evolutionary ages?
+cambrian-explo | when-animals-first-evolved | What was the Cambrian explosion?
+animal-date-different-dna-fossil-give-origin | when-animals-first-evolved | Why do fossils and DNA give different dates for the origin of animals?
+biota-matt-weng | when-animals-first-evolved | What is the Weng'an Biota and why does it matter?
+animal-conclude-origin-oxford-study | when-animals-first-evolved | What did the 2026 Oxford study conclude about animal origins?
+date-hundred-million-old-rock-scientist-year | when-animals-first-evolved | How do scientists date rocks that are hundreds of millions of years old?
+biota-ediacara | when-animals-first-evolved | What is the Ediacara biota?
+animal-first-spong | when-animals-first-evolved | Were sponges the first animals?
+animal-cambrian-difference-explo-origin | when-animals-first-evolved | What is the difference between the origin of animals and the Cambrian explosion?
+animal-earli-much-need-oxygen | when-animals-first-evolved | How much oxygen did the earliest animals need?
+earth-snowball | when-animals-first-evolved | What was Snowball Earth?
+animal-early-fossil-reveal-trace | when-animals-first-evolved | What are trace fossils and what do they reveal about early animals?
+burges-discover-shale | when-animals-first-evolved | Who discovered the Burgess Shale?
+cambrian-darwin-fossil-record-say | when-animals-first-evolved | What did Darwin say about the fossil record before the Cambrian?
+animal-evolu-gene-hox-matt | when-animals-first-evolved | What are Hox genes and why do they matter for animal evolution?
+ancient-biomarker-chemical-evidence-provide-spong | when-animals-first-evolved | How do chemical biomarkers provide evidence of ancient sponges?
+animal-cambrian-fossil | when-animals-first-evolved | Why are there so few animal fossils from before the Cambrian?
+animal-debate-evidence-originat-settle | when-animals-first-evolved | What evidence would settle the debate over when animals originated?
+evaluate-headline-life-next-non-origin-scientist | when-animals-first-evolved | How should a non-scientist evaluate the next headline about the origin of life?
