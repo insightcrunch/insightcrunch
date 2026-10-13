@@ -283,3 +283,27 @@ ancient-biomarker-chemical-evidence-provide-spong | when-animals-first-evolved |
 animal-cambrian-fossil | when-animals-first-evolved | Why are there so few animal fossils from before the Cambrian?
 animal-debate-evidence-originat-settle | when-animals-first-evolved | What evidence would settle the debate over when animals originated?
 evaluate-headline-life-next-non-origin-scientist | when-animals-first-evolved | How should a non-scientist evaluate the next headline about the origin of life?
+
+## technology-chiplets
+
+### how-chiplets-work
+chiplet-simple-term | how-chiplets-work | What is a chiplet in simple terms?
+chiplet-different-processor-processor-traditional | how-chiplets-work | How is a chiplet processor different from a traditional processor?
+bigger-chip-chiplet-instead-just-make-not-one-using | how-chiplets-work | Why not just make one bigger chip instead of using chiplets?
+chip-interposer-packag | how-chiplets-work | What is an interposer in chip packaging?
+chiplet-die-good-known-manufactur-mean | how-chiplets-work | What does known good die mean in chiplet manufacturing?
+chiplet-communicate-each-inside-other-package | how-chiplets-work | How do chiplets communicate with each other inside a package?
+advanc-chiplet-cost-if-money-more-packag-save | how-chiplets-work | Why do chiplets save money if advanced packaging costs more?
+chip-limit-manufactur-reticle | how-chiplets-work | What is the reticle limit in chip manufacturing?
+bandwidth-come-high-memory-stack | how-chiplets-work | What is high bandwidth memory and why does it come in stacks?
+be-chiplet-compani-different-mix-one-package | how-chiplets-work | Can chiplets from different companies be mixed in one package?
+2-3d-5d-between-chip-difference-packag | how-chiplets-work | What is the difference between 2.5D and 3D chip packaging?
+chip-chiplet-make-monolithic-processor-slower-than | how-chiplets-work | Do chiplets make a processor slower than a monolithic chip?
+accelerator-ai-bandwidth-chiplet-high-memory-together-use | how-chiplets-work | Why do AI accelerators use chiplets and high bandwidth memory together?
+chiplet-fail-finish-happen-if-inside-one-package | how-chiplets-work | What happens if one chiplet inside a finished package fails?
+approach-build-chiplet-invent-processor | how-chiplets-work | Who invented the chiplet approach to building processors?
+chip-chiplet-design-differ-system | how-chiplets-work | How does a system on chip differ from a chiplet design?
+chiplet-contain-cool-much-packag-silicon-so-they | how-chiplets-work | How are chiplet packages cooled when they contain so much silicon?
+chiplet-latency-memory-processor-show-uneven | how-chiplets-work | Why do chiplet processors show uneven memory latency?
+advanc-matter-packag-processor | how-chiplets-work | What is advanced packaging and why does it matter for processors?
+all-be-built-chiplet-eventually-processor-will | how-chiplets-work | Will all processors eventually be built from chiplets?

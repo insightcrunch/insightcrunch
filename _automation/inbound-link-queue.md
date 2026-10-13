@@ -47,3 +47,6 @@
 ## when-animals-first-evolved
 - _posts/2026-10-08-chirality-molecular-handedness.md — could carry: "Molecular clocks built from these same biomolecules date the deepest splits in the tree of life; our account of when animals first evolved explains what those clocks say and why the fossils disagree."
 - _posts/2015-08-28-scientific-revolution-history-explained.md — could carry: "Few sciences have revised their timelines as dramatically as paleontology; our account of when animals first evolved traces how the fossil record's story changed from Darwin to the molecular era."
+## how-chiplets-work
+- _posts/2026-10-07-how-data-centers-work.md — could carry: "The accelerators filling those racks are assembled from chiplets; our guide to how chiplets work explains the dies, interposers and memory stacks inside each package."
+- _posts/2026-10-04-how-contactless-payments-work.md — could carry: "A payment card trusts one tiny monolithic die, while large processors take the opposite path; see how chiplets work for the economics that split big chips into small dies."
