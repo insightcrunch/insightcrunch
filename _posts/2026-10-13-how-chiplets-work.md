@@ -6,19 +6,19 @@ date: 2026-10-13
 categories: ["Technology"]
 tags: ["semiconductors", "chiplets", "computer-processors", "advanced-packaging", "high-bandwidth-memory", "silicon-design"]
 excerpt: "A chiplet design divides one large processor into several small dies joined inside a single package, trading a hard manufacturing problem for an assembly one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2026-10-13
+lang: en
 ---
-
 ## Splitting the Chip Without Splitting the Computer
 
 Chiplets work by dividing the jobs of one processor among several small silicon dies and joining those dies inside a single package so the assembly operates as one chip. Each die handles a defined role, such as computation, memory control, or input and output, and short package links carry signals between dies at high speed. The chiplet turn changed the unit of manufacture from the largest die a factory could print to the smallest die a system could use, converting a yield problem into an assembly problem for designers at firms such as AMD and Intel.
 
 A monolithic processor places every transistor on one continuous piece of silicon, cut from one wafer and tested as one unit. A chiplet processor breaks that single expanse into separate pieces, each fabricated, tested, and selected on its own, and then mounts the chosen pieces side by side on a shared base. The base may be an organic substrate with dense wiring or a silicon interposer carrying finer traces, and tiny solder connections join each die to that base. Power enters through the package pins, spreads across the base, and reaches every die, while a metal lid spreads heat from the hottest dies toward a cooler mounted above the package.
 
-![Several small silicon dies joined on an interposer inside one processor package illustrating how chiplets work - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Several small silicon dies joined on an interposer inside one processor package illustrating how chiplets work - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 Software notices none of that division. An operating system loading onto an AMD EPYC server processor addresses one pool of cores and one memory space, because the dies coordinate through hardware links that hide the seams. A core on one die can fetch data held near a core on another die, and the request crosses the package through a defined protocol rather than through a cable or a board trace. Latency across a die boundary runs higher than latency along an on-die wire, so architects place cooperating functions close together and give each die enough local cache to keep most traffic at home.
 
