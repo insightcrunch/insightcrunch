@@ -9,7 +9,7 @@ excerpt: "Federal research funding law governs how grants, contracts, and cooper
 image: "/assets/images/blog/blog-35.webp"
 reading_time: "80"
 author: "ryan-walsh"
-last_updated: "2017-05-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## The machinery between the statute and the laboratory

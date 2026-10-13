@@ -9,7 +9,7 @@ excerpt: "The National Aeronautics and Space Act created a civilian NASA from NA
 image: "/assets/images/blog/blog-38.webp"
 reading_time: "84"
 author: "patrick-dunn"
-last_updated: "2017-02-01"
+last_updated: 2026-10-13
 lang: en
 ---
 The decision to make the American space agency civilian rather than military was itself a national security decision, and that single fact unlocks the whole statute. The National Aeronautics and Space Act of 1958 did not simply create a new agency and hand it the space mission. It made four deliberate design choices that still define the American space enterprise: it placed the new agency under civilian control for strategic reasons that included establishing the legal principle that satellites may lawfully overfly other nations; it absorbed a forty-three year old aeronautics research organization rather than building from nothing, which is why aeronautics precedes space in the agency's name; it declared that space activities shall be devoted to peaceful purposes for the benefit of all humankind while expressly preserving military space under the Defense Department, so the United States has run parallel civil and military programs since the beginning by statutory design; and it vested title to inventions made under its contracts in the government, a rule Congress would reverse for university research twenty-two years later. Most popular accounts narrate the shock of Sputnik and treat the statute as the inevitable response. This article explains the statutory design and why each choice was made, because a reader who can name the four decisions and the provisions that made them understands the Space Act in a way that no retelling of the satellite launch can supply.

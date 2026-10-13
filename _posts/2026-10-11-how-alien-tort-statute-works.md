@@ -9,7 +9,7 @@ excerpt: "The Alien Tort Statute lets foreign victims sue in American courts for
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
 author: "nina-petrova"
-last_updated: 2026-10-11
+last_updated: 2026-10-13
 lang: en
 ---
 ## What the Alien Tort Statute Lets an American Court Do

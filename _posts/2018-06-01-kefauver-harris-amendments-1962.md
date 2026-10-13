@@ -9,7 +9,7 @@ excerpt: "The Kefauver-Harris Amendments turned a failed drug-price bill into th
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "75"
 author: "david-thornton"
-last_updated: "2018-06-01"
+last_updated: 2026-10-13
 lang: en
 ---
 What makes an American drug have to work? Not the market, which rewards what sells, and not a physician's impression, which can mistake habit for evidence. What makes it have to work is a federal statute that bars any new medicine from sale until its maker proves, through adequate and well-controlled investigations, that the drug does what its labeling claims. That statute is the Drug Amendments of 1962, known ever since as the Kefauver-Harris Amendments, and it reorganized the relationship between drug makers, the drug agency, and prescribing physicians more thoroughly than any other single enactment in the history of American medicine. Its demand is simple to state and exacting to meet: safety is not enough, because a safe drug that does nothing still costs the patient money, time, and the chance of real treatment.

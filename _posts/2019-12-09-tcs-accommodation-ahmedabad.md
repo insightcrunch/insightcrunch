@@ -4,11 +4,11 @@ title: "TCS Accommodation Ahmedabad - Complete Hostel and Housing Guide"
 date: 2019-12-09
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Ahmedabad", "Gandhinagar", "Fresher", "Hostel", "Infocity", "Gujarat", "IT Career"]
-excerpt: "The complete guide to TCS accommodation in Ahmedabad for ILP associates. Covers the Infocity Gandhinagar campus, Vedika Happy Valley and studio apartment accommodation, the Gujarat dry state policy, Gujarati food culture, extreme climate considerations, room quality, costs, female associate housing, weekend destinations including the Rann of Kutch and Somnath, and everything you need to know before arriving for ILP in Gujarat's twin-city IT hub."
+excerpt: "Decode TCS housing in Ahmedabad across the Infocity campus, studio apartments, and Gujarat's twin-city IT hub."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 50
 author: "karthik-menon"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The first thing to understand about TCS ILP Ahmedabad is that it is not actually in Ahmedabad. The TCS ILP campus is located at Infocity in Gandhinagar, the capital city of Gujarat, which sits approximately 25 kilometres north of Ahmedabad. Gandhinagar is a planned city, laid out in numbered sectors with wide roads, abundant greenery, and a calm, ordered atmosphere that is the polar opposite of the dense, bustling energy of old Ahmedabad. This distinction matters because the accommodation, the food, the transport, and the daily experience are all shaped by the Gandhinagar environment rather than by Ahmedabad itself.

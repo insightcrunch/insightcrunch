@@ -9,7 +9,7 @@ excerpt: "The Omnibus Crime Control Act built LEAA's block grant model, wrote fe
 image: "/assets/images/blog/blog-111.webp"
 reading_time: "71"
 author: "christopher-wells"
-last_updated: "2017-12-15"
+last_updated: 2026-10-13
 lang: en
 ---
 The Omnibus Crime Control and Safe Streets Act of 1968, Public Law 90-351, 82 Stat. 197, signed by President Lyndon B. Johnson on June 19, 1968, was the largest federal intervention in state and local law enforcement ever attempted to that point. Conceived as an administration program of direct federal aid to local police, rewritten in the Senate into an eleven-title omnibus, and signed two weeks after the assassination of Senator Robert F. Kennedy, the statute rearranged the fiscal, procedural, and constitutional relationship between Washington and the thousands of police departments, courts, and correctional systems that handled the overwhelming share of criminal cases in the United States. The enrolled bill ran to one hundred ten pages, and the President who signed it protested two of its titles in the signing statement itself. This profile follows the act through the three titles that defined its afterlife.

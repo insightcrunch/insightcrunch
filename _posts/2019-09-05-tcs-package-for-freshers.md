@@ -5,11 +5,11 @@ page_title: "TCS Fresher Salary Package - Complete CTC Breakdown, In-Hand Salary
 date: 2019-09-05
 categories: ["Industry"]
 tags: ["TCS", "Fresher Salary", "CTC Breakdown", "Salary Package"]
-excerpt: "Tata Consultancy Services provides attractive package to thousands of software engineers every year. TCS conducts a variety of recruitment drives to..."
+excerpt: "TCS fresher salary package: CTC breakdown for Ninja, Digital, and Prime offers. In-hand pay, benefits, variable components, and what you actually receive."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 45
 author: "rajan-kumar"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The most common misconception freshers have about their TCS offer letter is this: they see the CTC (Cost to Company) figure and assume that number divided by twelve is their monthly take-home. It is not. The gap between what TCS pays as CTC and what lands in your bank account every month can be 25-35%, and understanding exactly where that gap comes from is essential before you plan your post-joining finances.

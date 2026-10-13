@@ -9,7 +9,7 @@ excerpt: "US infrastructure legislation moved in three phases: build the Interst
 image: "/assets/images/blog/blog-48.webp"
 reading_time: "80"
 author: "kevin-reeves"
-last_updated: "2016-08-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## US infrastructure legislation: the arc that organizes seventy years of law

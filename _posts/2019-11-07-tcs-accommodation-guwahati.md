@@ -4,11 +4,11 @@ title: "TCS Accommodation Guwahati - Complete Hostel and Housing Guide"
 date: 2019-11-07
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Guwahati", "Assam", "Northeast India", "Fresher", "Hostel", "Universal Ecogreens", "IT Career"]
-excerpt: "The complete guide to TCS accommodation in Guwahati for ILP associates. Covers the NEDFi House training center and IIT Guwahati campus, Universal Ecogreens accommodation at Betkuchi, the Brahmaputra riverside living experience, Assamese and northeast Indian food culture, the spectacular Shillong and Cherrapunji weekend destinations, the unique cultural immersion of northeast India, room quality, costs, female associate housing, monsoon considerations, and everything you need before arriving for ILP in India's gateway to the northeast."
+excerpt: "Decode TCS housing in Guwahati across the IIT Guwahati campus, Betkuchi accommodation, and northeast India life."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 50
 author: "pooja-gupta"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Guwahati is the TCS ILP city that changes how you think about India. For the majority of TCS freshers, who come from states south or west of Bengal, Guwahati is the first experience of northeast India, a region that is geographically, culturally, linguistically, and culinarily distinct from the India they have known. The Brahmaputra river, wider than any river most associates have seen, flows through the city with a power and presence that redefines what a river can be. The hills of Meghalaya rise on the southern horizon, promising weekend adventures to Shillong, Cherrapunji, and Dawki that are among the most visually stunning in the entire subcontinent.

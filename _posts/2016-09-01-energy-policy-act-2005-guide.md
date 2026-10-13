@@ -9,7 +9,7 @@ excerpt: "The Energy Policy Act of 2005 made grid reliability mandatory, repeale
 image: "/assets/images/blog/blog-25.webp"
 reading_time: "81"
 author: "maria-santos"
-last_updated: "2016-09-01"
+last_updated: 2026-10-13
 lang: en
 ---
 The Energy Policy Act of 2005 is the hardest statute in modern federal energy law to summarize in one sentence, which is exactly why it repays careful study. It is the law that made electric grid reliability standards mandatory after the worst blackout in American history, and it is also the law that repealed the New Deal era statute that had restricted utility corporate ownership for seventy years. It created the renewable fuel standard that put billions of gallons of ethanol into gasoline, and it carved hydraulic fracturing out of the drinking water statute's injection control program in a two sentence provision that became the most litigated and most searched part of the act. It extended accident liability coverage for nuclear plants, offered loan guarantees and production credits for new energy technology, and moved the nation's clocks. No competing summary explains why one omnibus measure contains provisions pointing in four directions at once. This article explains that the four directions are the point, because the statute is a coalition rendered as text, assembled by trading provisions across coalitions in a way that later energy legislation never repeated.

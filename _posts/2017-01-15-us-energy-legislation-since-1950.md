@@ -9,7 +9,7 @@ excerpt: "US energy legislation has two tracks: security-driven production and d
 image: "/assets/images/blog/blog-40.webp"
 reading_time: "92"
 author: "insight-crunch-team"
-last_updated: "2017-01-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## The two tracks of American energy law

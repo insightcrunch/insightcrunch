@@ -5,11 +5,11 @@ page_title: "How to Check Your TCS NQT Score - Step-by-Step Portal Navigation, L
 date: 2019-11-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Score Check", "Portal Guide"]
-excerpt: "How to check your TCS NQT score: step-by-step login process on the TCS portal, scorecard components, and what each section score means for your candidacy."
+excerpt: "TCS NQT score check guide: exact steps to view your result, understanding section-wise marks, and what percentile you need for the interview shortlist."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 You have taken the TCS NQT. The results window has arrived. Now you need to find your score - not a vague idea of whether you "passed," but the actual section-wise scorecard that tells you exactly where you stand and what it means for your TCS application.

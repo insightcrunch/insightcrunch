@@ -9,7 +9,7 @@ excerpt: "Animals first fossilize about 574 million years ago, but genes suggest
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 67
 author: "maya-chen"
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 lang: en
 ---
 ## The Straight Answer on When Animals Began

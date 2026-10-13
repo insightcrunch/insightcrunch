@@ -9,7 +9,7 @@ excerpt: "How oil prices are set, from the futures markets where paper barrels c
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 82
 author: "jason-mckenzie"
-last_updated: 2026-10-09
+last_updated: 2026-10-13
 lang: en
 ---
 ## Where the Barrel Gets Its Number

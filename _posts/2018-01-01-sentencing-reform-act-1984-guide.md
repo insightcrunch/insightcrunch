@@ -9,7 +9,7 @@ excerpt: "The Sentencing Reform Act abolished federal parole and created binding
 image: "/assets/images/blog/blog-49.webp"
 reading_time: "77"
 author: "patrick-dunn"
-last_updated: "2018-01-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

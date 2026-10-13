@@ -5,11 +5,11 @@ page_title: "SAT Coordinate Geometry and Circles Complete Guide: Distance, Midpo
 date: 2020-03-20
 categories: ["Industry"]
 tags: ['SAT Coordinate Geometry', 'SAT Circle Equations', 'SAT Distance Formula', 'SAT Midpoint Formula', 'SAT Coordinate Plane', 'SAT Circle Equation Standard Form', 'SAT Parallel Perpendicular Lines', 'SAT Circle Problems']
-excerpt: "Master every SAT coordinate geometry topic including distance and midpoint formulas, circle equations, line relationships, and transformations with worked examples."
+excerpt: "Decode SAT coordinate geometry with the distance, midpoint, and circle formulas plus worked transformation examples."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "patrick-dunn"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Coordinate geometry gives us the tools to describe shapes, distances, and relationships in the coordinate plane using algebra. On the SAT, this means the ability to move fluently between geometric descriptions ("two points form a line segment") and algebraic representations ("the slope of this segment is 3/4"). The Digital SAT tests coordinate geometry consistently across both Math modules, with questions ranging from straightforward reading of coordinates and applying the distance formula to sophisticated problems involving circle equations, intersections of lines and circles, and the algebraic meaning of geometric properties like perpendicularity.

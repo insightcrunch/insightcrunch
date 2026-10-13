@@ -5,11 +5,11 @@ page_title: "SAT Data Interpretation in Reading Passages: How to Read Charts, Ta
 date: 2020-02-17
 categories: ["Industry"]
 tags: ['SAT Data Interpretation', 'SAT Charts in Reading', 'SAT Graphs Reading', 'SAT Tables Reading', 'SAT Data Reading Passages', 'SAT Data Integration Questions', 'SAT Quantitative Information', 'SAT Data Evidence']
-excerpt: "Master SAT data interpretation within reading passages covering how to read charts, tables, and graphs, connect data to text claims, and answer data-based questions accurately."
+excerpt: "Decode SAT reading passages with embedded data using strategies for charts, tables, and quantitative inference."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 45
 author: "katherine-blake"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 # SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy

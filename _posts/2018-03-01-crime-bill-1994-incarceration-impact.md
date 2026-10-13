@@ -9,7 +9,7 @@ excerpt: "Did the crime bill cause mass incarceration? Evidence shows a real but
 image: "/assets/images/blog/blog-113.webp"
 reading_time: "80"
 author: "robert-quinn"
-last_updated: "2018-03-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

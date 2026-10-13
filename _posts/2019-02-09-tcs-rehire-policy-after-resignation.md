@@ -5,11 +5,11 @@ page_title: "TCS Rehire Policy After Resignation - Cooling Period, Eligibility C
 date: 2019-02-09
 categories: ["Industry"]
 tags: ["TCS", "Rehire Policy", "Resignation", "Re-Joining"]
-excerpt: "Tata Consultancy Services is one of the largest software services organization in the world. TCS employs close to a million employees and conducts..."
+excerpt: "TCS rehire policy after resignation: cooling period, eligibility criteria, application process, and whether TCS takes back former employees easily."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 45
 author: "shruti-agarwal"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 TCS's rehire policy is one of the most consequential and least understood aspects of the company's employment framework. Employees considering resignation who want to keep their options open, former employees hoping to return, and HR professionals advising on talent decisions all need accurate information about what TCS's policy actually says, when exceptions exist, and how the practical reality of re-joining differs from the written policy.

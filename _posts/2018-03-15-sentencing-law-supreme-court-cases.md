@@ -9,7 +9,7 @@ excerpt: "Sentencing Law was remade by the jury trial right rather than the ban 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: "77"
 author: "ian-fletcher"
-last_updated: "2018-03-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

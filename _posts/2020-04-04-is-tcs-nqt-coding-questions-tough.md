@@ -4,11 +4,11 @@ title: "Is TCS NQT Coding Questions tough?"
 date: 2020-04-04
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Is TCS NQT coding tough? Honest difficulty analysis of programming questions, language-wise comparison, and what level of preparation actually clears it."
+excerpt: "How hard are TCS NQT coding questions really? Difficulty compared to LeetCode, expected topics, and the minimum preparation that gets most people through."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 100
 author: "karthik-menon"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 render_with_liquid: false
 lang: en
 ---

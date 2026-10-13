@@ -4,11 +4,11 @@ title: "TCS Accommodation Complaints - How to Escalate Issues Effectively"
 date: 2019-08-19
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Complaints", "Escalation", "Hostel", "Fresher"]
-excerpt: "The complete guide to handling TCS accommodation complaints and escalations during ILP. Covers the four-level escalation path from accommodation admin to TCS HR, how to document issues effectively, common accommodation problems and their resolution timelines, what constitutes a valid complaint versus unrealistic expectations, the specific complaint processes at residential and non-residential postings, harassment and safety issue protocols, and the practical strategies that get problems resolved without damaging your ILP rating or professional reputation."
+excerpt: "Decode TCS ILP accommodation complaints across the escalation ladder with realistic resolution timelines."
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 40
 author: "siddharth-rao"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The TCS ILP accommodation is functional, not luxurious. It is designed to house thousands of associates across multiple cities at a cost that TCS can sustain within the ILP budget. This means that the accommodation will not match your home comfort, your college hostel's best features, or the hotel room you stayed in during that family vacation. Understanding this baseline is the first step toward effective complaint management: knowing what is a genuine problem that deserves resolution versus what is a preference that the system is not designed to accommodate.

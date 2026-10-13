@@ -5,11 +5,11 @@ page_title: "TCS NQT Results - How to Check Your Score, Interpret the Scorecard,
 date: 2019-10-18
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Results", "Scorecard"]
-excerpt: "TCS NQT results: when scores are released, how to check your result, what the scorecard shows, and next steps after qualifying the National Qualifier Test."
+excerpt: "When do TCS NQT results come out? Typical result timelines, how to access your scorecard, and what qualifying means for your TCS hiring journey."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 45
 author: "siddharth-rao"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The wait between completing the TCS NQT and receiving your results is one of the most anxiety-producing gaps in the entire hiring process. You cannot go back and change your answers. You cannot hurry the scoring process. All you can do is check the portal periodically and wonder where you stand.

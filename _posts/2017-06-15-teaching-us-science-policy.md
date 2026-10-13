@@ -9,7 +9,7 @@ excerpt: "US science policy taught as a classroom study guide: four instruments,
 image: "/assets/images/blog/blog-62.webp"
 reading_time: "67"
 author: "benjamin-scott"
-last_updated: "2017-06-15"
+last_updated: 2026-10-13
 lang: en
 ---
 This study guide is built around a single proposition about US science policy: every federal statute in the field is a choice among four instruments. The government performs research in its own laboratories, it funds research performed by others through grants and fellowships, it procures research and hardware through contracts for its own use, and it incentivises research performed at private expense through patent rights and tax credits. That four-instrument frame is the One Test answer for the whole field. When an exam asks what a statute does, the correct answer is which of the four instruments the statute selects, how money and authority flow through the choice, and what the government receives in return. Everything else in this unit, the chronology, the documents, the distinctions, hangs on that sorting step. The companion overview in the [US science policy legislation guide](/2017/06/01/us-science-policy-legislation/) supplies the statute-by-statute record this guide teaches from.

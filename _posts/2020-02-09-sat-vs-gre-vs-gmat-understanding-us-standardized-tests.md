@@ -5,11 +5,11 @@ page_title: "SAT vs GRE vs GMAT Complete Comparison: Purpose, Format, Content, S
 date: 2020-02-09
 categories: ["Industry"]
 tags: ['SAT vs GRE', 'SAT vs GMAT', 'GRE vs GMAT', 'US Standardized Tests', 'SAT GRE GMAT Comparison', 'SAT GRE GMAT Differences', 'American Standardized Tests', 'SAT GRE GMAT Guide']
-excerpt: "A comprehensive comparison of the SAT, GRE, and GMAT standardized tests covering their purpose, format, content, scoring, and where each fits in the US education system."
+excerpt: "Decode the SAT, GRE, and GMAT side by side with purpose-by-purpose analysis of what each test actually measures."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
 author: "maria-santos"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 # SAT vs GRE vs GMAT: Understanding US Standardized Tests

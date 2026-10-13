@@ -4,11 +4,11 @@ title: "How can I check my TCS NQT Results?"
 date: 2019-12-18
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Step-by-step guide to checking TCS NQT results on the official portal. Login process, scorecard interpretation, and what to do after you see your marks."
+excerpt: "Can't find your TCS NQT result? Here is exactly how to access your scorecard, what the different statuses mean, and the timeline from result to interview."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 2
 author: "meera-pillai"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 ## Overview

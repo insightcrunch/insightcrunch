@@ -4,11 +4,11 @@ title: "TCS ILP Hyderabad Experience"
 date: 2016-12-16
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest..."
+excerpt: "The most detailed TCS ILP Hyderabad post: day-by-day training account, hostel facilities, Hyderabad exploration, and advice for incoming batches."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 35
 author: "priya-mehta"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 *This is a guest post. The views expressed are of the author.*

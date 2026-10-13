@@ -9,7 +9,7 @@ excerpt: "The Inflation Reduction Act made climate policy from uncapped tax cred
 image: "/assets/images/blog/blog-34.webp"
 reading_time: "76"
 author: "hannah-moore"
-last_updated: "2016-10-15"
+last_updated: 2026-10-13
 lang: en
 ---
 The Inflation Reduction Act of 2022 is the largest climate statute in American history, and its defining feature is not what it regulates but what it pays for. The law contains almost no mandates on power plants, factories, or drivers. It instead rewrote the tax code to reward clean electricity, clean fuels, clean vehicles, clean manufacturing, and carbon capture, mostly through credits that have no aggregate ceiling. For reference, this profile describes the statute as enacted in August 2022, drawing on cost estimates published between 2022 and 2023, and it covers the energy and climate title only. The health provisions of Public Law 117-169 belong to a separate cluster and are not analyzed here.

@@ -5,11 +5,11 @@ page_title: "How to Get Into Harvard University: The Complete Application Guide 
 date: 2019-01-31
 categories: ["Industry"]
 tags: ["How to Get Into Harvard", "Harvard Application Guide", "Harvard Admissions", "Harvard Common App", "Harvard Personal Statement", "Harvard Interview", "Harvard Acceptance Rate"]
-excerpt: "The complete guide to getting into Harvard - undergraduate admissions through the Common App, what Harvard actually looks for, essays that work, interviews, extracurriculars, letters of recommendation, graduate admissions, and the honest truth about what makes Harvard applications succeed."
+excerpt: "Decode Harvard admissions across the Common App, essays, interviews, and the criteria that actually move decisions."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 56
 author: "hannah-moore"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Harvard University admits approximately 3-4% of undergraduate applicants each year - the lowest acceptance rate of any university in the United States. This number is simultaneously meaningful and misleading. It is meaningful because it reflects genuine extreme selectivity - the vast majority of applicants, including many who are academically exceptional, are not admitted. It is misleading because it implies that admission is primarily a numbers game, that the right combination of GPA and test scores determines the outcome, or that there is a formula that successful applicants have discovered and unsuccessful ones have missed.

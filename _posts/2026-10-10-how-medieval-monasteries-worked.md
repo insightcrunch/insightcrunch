@@ -9,7 +9,7 @@ excerpt: "How medieval monasteries actually worked: the eight daily offices, the
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 87
 author: "diana-patel"
-last_updated: 2026-10-10
+last_updated: 2026-10-13
 lang: en
 ---
 ## 1. The monastery as the medieval world's most complete institution

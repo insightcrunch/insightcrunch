@@ -9,7 +9,7 @@ excerpt: "Federal crime bill myths meet the record: ten claims on mass incarcera
 image: "/assets/images/blog/blog-72.webp"
 reading_time: "74"
 author: "jessica-kim"
-last_updated: "2018-04-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

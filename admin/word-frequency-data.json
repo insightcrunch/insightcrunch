@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-09T12:53:01Z",
+  "generated": "2026-10-13T13:52:41Z",
   "threshold": 50,
-  "totalPosts": 4316,
-  "flaggedPosts": 2706,
+  "totalPosts": 4351,
+  "flaggedPosts": 2720,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.4,
+  "avgTopCount": 165.8,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -130653,6 +130653,24 @@
       ]
     },
     {
+      "filename": "2016-08-01-highway-trust-fund-vs-general-fund.md",
+      "slug": "highway-trust-fund-vs-general-fund",
+      "title": "Highway Trust Fund vs General Fund: Paying for Roads",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9863,
+      "topWord": "tax",
+      "topCount": 193,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-08-01-highway-trust-fund-vs-general-fund.md"
+    },
+    {
       "filename": "2016-08-01-how-ancient-egypt-shapes-modern-egypt.md",
       "slug": "how-ancient-egypt-shapes-modern-egypt",
       "title": "How Ancient Egypt Still Shapes the Modern Egyptian Nation",
@@ -131165,6 +131183,112 @@
       ]
     },
     {
+      "filename": "2016-08-15-us-infrastructure-legislation-history.md",
+      "slug": "us-infrastructure-legislation-history",
+      "title": "US Infrastructure Legislation: Build, Deregulate, Allocate",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11299,
+      "topWord": "act",
+      "topCount": 278,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-08-15-us-infrastructure-legislation-history.md",
+      "flaggedWords": [
+        {
+          "word": "act",
+          "count": 278
+        }
+      ],
+      "top20": [
+        {
+          "word": "act",
+          "count": 278
+        },
+        {
+          "word": "highway",
+          "count": 171
+        },
+        {
+          "word": "transit",
+          "count": 150
+        },
+        {
+          "word": "fund",
+          "count": 125
+        },
+        {
+          "word": "federal",
+          "count": 113
+        },
+        {
+          "word": "phase",
+          "count": 103
+        },
+        {
+          "word": "transportation",
+          "count": 87
+        },
+        {
+          "word": "allocation",
+          "count": 84
+        },
+        {
+          "word": "article",
+          "count": 83
+        },
+        {
+          "word": "trust",
+          "count": 83
+        },
+        {
+          "word": "revenue",
+          "count": 79
+        },
+        {
+          "word": "program",
+          "count": 72
+        },
+        {
+          "word": "statute",
+          "count": 70
+        },
+        {
+          "word": "law",
+          "count": 69
+        },
+        {
+          "word": "sequence",
+          "count": 66
+        },
+        {
+          "word": "public",
+          "count": 66
+        },
+        {
+          "word": "share",
+          "count": 63
+        },
+        {
+          "word": "safety",
+          "count": 60
+        },
+        {
+          "word": "statutes",
+          "count": 59
+        },
+        {
+          "word": "reauthorization",
+          "count": 59
+        }
+      ]
+    },
+    {
       "filename": "2016-08-17-history-of-human-rights-explained.md",
       "slug": "history-of-human-rights-explained",
       "title": "The History of Human Rights Explained",
@@ -131409,6 +131533,24 @@
           "count": 24
         }
       ]
+    },
+    {
+      "filename": "2016-09-01-energy-policy-act-2005-guide.md",
+      "slug": "energy-policy-act-2005-guide",
+      "title": "Energy Policy Act: Bipartisan Energy Law, Four Directions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11742,
+      "topWord": "act",
+      "topCount": 225,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-01-energy-policy-act-2005-guide.md"
     },
     {
       "filename": "2016-09-01-pacific-coast-highway-on-a-budget.md",
@@ -131669,6 +131811,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-14-drm-internal-server-error.md"
+    },
+    {
+      "filename": "2016-09-15-atomic-energy-act-1954-guide.md",
+      "slug": "atomic-energy-act-1954-guide",
+      "title": "Atomic Energy Act: Private Nuclear Power Under Federal Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10781,
+      "topWord": "statute",
+      "topCount": 158,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-15-atomic-energy-act-1954-guide.md"
     },
     {
       "filename": "2016-09-15-drm-enterprise-manager-services-not-responding.md",
@@ -132543,6 +132703,24 @@
       ]
     },
     {
+      "filename": "2016-10-01-energy-policy-conservation-act-1975.md",
+      "slug": "energy-policy-conservation-act-1975",
+      "title": "Energy Policy and Conservation Act: Four Instruments",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10215,
+      "topWord": "program",
+      "topCount": 137,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-10-01-energy-policy-conservation-act-1975.md"
+    },
+    {
       "filename": "2016-10-01-odisqlunload-and-the-possibilities.md",
       "slug": "odisqlunload-and-the-possibilities",
       "title": "OdiSqlUnload and the Possibilities",
@@ -132849,6 +133027,24 @@
           "count": 2
         }
       ]
+    },
+    {
+      "filename": "2016-10-15-inflation-reduction-act-2022-energy.md",
+      "slug": "inflation-reduction-act-2022-energy",
+      "title": "Inflation Reduction Act Energy Credits: Structure and Cost",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11138,
+      "topWord": "credit",
+      "topCount": 180,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-10-15-inflation-reduction-act-2022-energy.md"
     },
     {
       "filename": "2016-10-15-odi-performance-tuning-using-indexes-and-keys.md",
@@ -133399,6 +133595,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-01-pacific-coast-highway-with-kids.md"
     },
     {
+      "filename": "2016-11-01-purpa-1978-energy-act-guide.md",
+      "slug": "purpa-1978-energy-act-guide",
+      "title": "PURPA: The Law That Accidentally Created Power Markets",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10630,
+      "topWord": "energy",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-01-purpa-1978-energy-act-guide.md"
+    },
+    {
       "filename": "2016-11-02-managing-bi-services-using-odi.md",
       "slug": "managing-bi-services-using-odi",
       "title": "Managing BI Services using ODI",
@@ -133433,6 +133647,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-05-oracle-bi-apps-dynamic-hierarchy-filtering-in-odi-incremental-load-plan.md"
+    },
+    {
+      "filename": "2016-11-15-cafe-standards-law-explained.md",
+      "slug": "cafe-standards-law-explained",
+      "title": "How CAFE Fuel Economy Standards Work: The Law Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9921,
+      "topWord": "section",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-15-cafe-standards-law-explained.md"
     },
     {
       "filename": "2016-11-15-lawrence-of-arabia-desert-epic-production.md",
@@ -133645,6 +133877,24 @@
           "count": 45
         }
       ]
+    },
+    {
+      "filename": "2016-12-01-energy-independence-policy-impact.md",
+      "slug": "energy-independence-policy-impact",
+      "title": "Energy Independence Laws: Did US Policy Deliver Results?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10804,
+      "topWord": "energy",
+      "topCount": 205,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-12-01-energy-independence-policy-impact.md"
     },
     {
       "filename": "2016-12-01-florida-family-vacation-complete-guide.md",
@@ -133863,6 +134113,112 @@
         {
           "word": "gangster",
           "count": 26
+        }
+      ]
+    },
+    {
+      "filename": "2016-12-15-ferc-energy-rulemaking-guide.md",
+      "slug": "ferc-energy-rulemaking-guide",
+      "title": "How FERC Implements Energy Statutes: Rulemaking Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11686,
+      "topWord": "commission",
+      "topCount": 456,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-12-15-ferc-energy-rulemaking-guide.md",
+      "flaggedWords": [
+        {
+          "word": "commission",
+          "count": 456
+        }
+      ],
+      "top20": [
+        {
+          "word": "commission",
+          "count": 456
+        },
+        {
+          "word": "market",
+          "count": 162
+        },
+        {
+          "word": "rate",
+          "count": 117
+        },
+        {
+          "word": "wholesale",
+          "count": 112
+        },
+        {
+          "word": "power",
+          "count": 103
+        },
+        {
+          "word": "transmission",
+          "count": 102
+        },
+        {
+          "word": "federal",
+          "count": 98
+        },
+        {
+          "word": "act",
+          "count": 97
+        },
+        {
+          "word": "certificate",
+          "count": 82
+        },
+        {
+          "word": "tariff",
+          "count": 80
+        },
+        {
+          "word": "section",
+          "count": 78
+        },
+        {
+          "word": "price",
+          "count": 75
+        },
+        {
+          "word": "orders",
+          "count": 65
+        },
+        {
+          "word": "energy",
+          "count": 64
+        },
+        {
+          "word": "rates",
+          "count": 63
+        },
+        {
+          "word": "standard",
+          "count": 62
+        },
+        {
+          "word": "gas",
+          "count": 61
+        },
+        {
+          "word": "pipeline",
+          "count": 60
+        },
+        {
+          "word": "retail",
+          "count": 60
+        },
+        {
+          "word": "review",
+          "count": 58
         }
       ]
     },
@@ -134183,6 +134539,24 @@
           "count": 15
         }
       ]
+    },
+    {
+      "filename": "2017-01-01-energy-act-2005-vs-ira-2022.md",
+      "slug": "energy-act-2005-vs-ira-2022",
+      "title": "Energy Policy Act vs Climate Law: A Durability Comparison",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9506,
+      "topWord": "statute",
+      "topCount": 138,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-01-energy-act-2005-vs-ira-2022.md"
     },
     {
       "filename": "2017-01-01-feluda-complete-guide-bn.md",
@@ -134575,6 +134949,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-15-orlando-central-florida-hidden-gems.md"
     },
     {
+      "filename": "2017-01-15-us-energy-legislation-since-1950.md",
+      "slug": "us-energy-legislation-since-1950",
+      "title": "US Energy Legislation: Two Tracks That Rarely Joined Forces",
+      "categories": [
+        "\\\"Industry\\"
+      ],
+      "lang": "en",
+      "wordCount": 12877,
+      "topWord": "act",
+      "topCount": 311,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-15-us-energy-legislation-since-1950.md",
+      "flaggedWords": [
+        {
+          "word": "act",
+          "count": 311
+        }
+      ],
+      "top20": [
+        {
+          "word": "act",
+          "count": 311
+        },
+        {
+          "word": "track",
+          "count": 191
+        },
+        {
+          "word": "energy",
+          "count": 184
+        },
+        {
+          "word": "price",
+          "count": 128
+        },
+        {
+          "word": "statute",
+          "count": 126
+        },
+        {
+          "word": "market",
+          "count": 126
+        },
+        {
+          "word": "environmental",
+          "count": 111
+        },
+        {
+          "word": "tax",
+          "count": 111
+        },
+        {
+          "word": "guide",
+          "count": 106
+        },
+        {
+          "word": "security",
+          "count": 99
+        },
+        {
+          "word": "subsidy",
+          "count": 89
+        },
+        {
+          "word": "statutes",
+          "count": 88
+        },
+        {
+          "word": "law",
+          "count": 84
+        },
+        {
+          "word": "gas",
+          "count": 76
+        },
+        {
+          "word": "tracks",
+          "count": 74
+        },
+        {
+          "word": "fuel",
+          "count": 74
+        },
+        {
+          "word": "decontrol",
+          "count": 70
+        },
+        {
+          "word": "federal",
+          "count": 68
+        },
+        {
+          "word": "oil",
+          "count": 66
+        },
+        {
+          "word": "title",
+          "count": 66
+        }
+      ]
+    },
+    {
       "filename": "2017-01-16-feluda-character-analysis-bn.md",
       "slug": "feluda-character-analysis-bn",
       "title": "ফেলুদা চরিত্রের গভীর বিশ্লেষণ",
@@ -134795,6 +135275,112 @@
         {
           "word": "কথক",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2017-02-01-national-aeronautics-space-act-1958.md",
+      "slug": "national-aeronautics-space-act-1958",
+      "title": "Space Act Design: Why America's Space Agency Stays Civilian",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10931,
+      "topWord": "space",
+      "topCount": 238,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-02-01-national-aeronautics-space-act-1958.md",
+      "flaggedWords": [
+        {
+          "word": "space",
+          "count": 238
+        }
+      ],
+      "top20": [
+        {
+          "word": "space",
+          "count": 238
+        },
+        {
+          "word": "agency",
+          "count": 167
+        },
+        {
+          "word": "statute",
+          "count": 152
+        },
+        {
+          "word": "act",
+          "count": 142
+        },
+        {
+          "word": "civilian",
+          "count": 134
+        },
+        {
+          "word": "section",
+          "count": 129
+        },
+        {
+          "word": "military",
+          "count": 114
+        },
+        {
+          "word": "government",
+          "count": 102
+        },
+        {
+          "word": "design",
+          "count": 91
+        },
+        {
+          "word": "research",
+          "count": 90
+        },
+        {
+          "word": "title",
+          "count": 90
+        },
+        {
+          "word": "congress",
+          "count": 83
+        },
+        {
+          "word": "program",
+          "count": 80
+        },
+        {
+          "word": "public",
+          "count": 68
+        },
+        {
+          "word": "mission",
+          "count": 63
+        },
+        {
+          "word": "aeronautics",
+          "count": 62
+        },
+        {
+          "word": "rule",
+          "count": 61
+        },
+        {
+          "word": "national",
+          "count": 60
+        },
+        {
+          "word": "defense",
+          "count": 58
+        },
+        {
+          "word": "law",
+          "count": 50
         }
       ]
     },
@@ -136613,6 +137199,112 @@
       ]
     },
     {
+      "filename": "2017-05-01-federal-research-funding-law.md",
+      "slug": "federal-research-funding-law",
+      "title": "Federal Research Funding Law: How Grants Are Really Governed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11963,
+      "topWord": "research",
+      "topCount": 256,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-01-federal-research-funding-law.md",
+      "flaggedWords": [
+        {
+          "word": "research",
+          "count": 256
+        }
+      ],
+      "top20": [
+        {
+          "word": "research",
+          "count": 256
+        },
+        {
+          "word": "federal",
+          "count": 179
+        },
+        {
+          "word": "agency",
+          "count": 150
+        },
+        {
+          "word": "award",
+          "count": 111
+        },
+        {
+          "word": "review",
+          "count": 98
+        },
+        {
+          "word": "costs",
+          "count": 87
+        },
+        {
+          "word": "rate",
+          "count": 86
+        },
+        {
+          "word": "grant",
+          "count": 82
+        },
+        {
+          "word": "funding",
+          "count": 78
+        },
+        {
+          "word": "data",
+          "count": 74
+        },
+        {
+          "word": "contract",
+          "count": 73
+        },
+        {
+          "word": "institution",
+          "count": 71
+        },
+        {
+          "word": "instrument",
+          "count": 67
+        },
+        {
+          "word": "agencies",
+          "count": 64
+        },
+        {
+          "word": "government",
+          "count": 63
+        },
+        {
+          "word": "public",
+          "count": 61
+        },
+        {
+          "word": "agreement",
+          "count": 61
+        },
+        {
+          "word": "cooperative",
+          "count": 59
+        },
+        {
+          "word": "cost",
+          "count": 58
+        },
+        {
+          "word": "compliance",
+          "count": 56
+        }
+      ]
+    },
+    {
       "filename": "2017-05-01-new-york-city-complete-travel-guide.md",
       "slug": "new-york-city-complete-travel-guide",
       "title": "New York City: The Complete Travel Guide",
@@ -136967,6 +137659,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-15-nyc-5-day-first-time-itinerary.md"
     },
     {
+      "filename": "2017-05-15-space-act-vs-chips-act-model.md",
+      "slug": "space-act-vs-chips-act-model",
+      "title": "The Space Act vs the CHIPS Act Model: Build or Subsidize",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 9315,
+      "topWord": "government",
+      "topCount": 199,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-15-space-act-vs-chips-act-model.md",
+      "flaggedWords": [
+        {
+          "word": "government",
+          "count": 199
+        }
+      ],
+      "top20": [
+        {
+          "word": "government",
+          "count": 199
+        },
+        {
+          "word": "model",
+          "count": 150
+        },
+        {
+          "word": "agency",
+          "count": 107
+        },
+        {
+          "word": "subsidy",
+          "count": 92
+        },
+        {
+          "word": "act",
+          "count": 82
+        },
+        {
+          "word": "conditions",
+          "count": 78
+        },
+        {
+          "word": "space",
+          "count": 63
+        },
+        {
+          "word": "customer",
+          "count": 61
+        },
+        {
+          "word": "program",
+          "count": 61
+        },
+        {
+          "word": "private",
+          "count": 57
+        },
+        {
+          "word": "statute",
+          "count": 57
+        },
+        {
+          "word": "federal",
+          "count": 57
+        },
+        {
+          "word": "mission",
+          "count": 56
+        },
+        {
+          "word": "semiconductor",
+          "count": 55
+        },
+        {
+          "word": "public",
+          "count": 53
+        },
+        {
+          "word": "capability",
+          "count": 52
+        },
+        {
+          "word": "procurement",
+          "count": 50
+        },
+        {
+          "word": "chips",
+          "count": 49
+        },
+        {
+          "word": "technology",
+          "count": 47
+        },
+        {
+          "word": "title",
+          "count": 46
+        }
+      ]
+    },
+    {
       "filename": "2017-05-24-obiee-dashboard-export-to-excel-pdf-html-using-custom-links.md",
       "slug": "obiee-dashboard-export-to-excel-pdf-html-using-custom-links",
       "title": "OBIEE Dashboard Export to Excel PDF HTML using Custom Links",
@@ -137213,6 +138011,24 @@
           "count": 48
         }
       ]
+    },
+    {
+      "filename": "2017-06-01-us-science-policy-legislation.md",
+      "slug": "us-science-policy-legislation",
+      "title": "US Science Policy Legislation: The Authorization Gap",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13034,
+      "topWord": "science",
+      "topCount": 236,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-01-us-science-policy-legislation.md"
     },
     {
       "filename": "2017-06-02-tcs-digital-interview-experience-2.md",
@@ -137675,6 +138491,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-15-nyc-hidden-gems.md"
     },
     {
+      "filename": "2017-06-15-teaching-us-science-policy.md",
+      "slug": "teaching-us-science-policy",
+      "title": "Teaching US Science Policy: A Classroom Study Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9722,
+      "topWord": "research",
+      "topCount": 169,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-15-teaching-us-science-policy.md"
+    },
+    {
       "filename": "2017-06-19-dhurandhar-vs-reality-fact-check.md",
       "slug": "dhurandhar-vs-reality-fact-check",
       "title": "Dhurandhar vs Reality Fact Check",
@@ -138027,6 +138861,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-07-01-star-wars-lucas-hero-journey-blockbuster.md"
+    },
+    {
+      "filename": "2017-07-01-telecommunications-act-1996-guide.md",
+      "slug": "telecommunications-act-1996-guide",
+      "title": "How the Telecommunications Act of 1996 Remade American Media",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11829,
+      "topWord": "act",
+      "topCount": 218,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-07-01-telecommunications-act-1996-guide.md"
     },
     {
       "filename": "2017-07-03-bollywood-counter-terror-films-ranked.md",
@@ -142331,6 +143183,24 @@
       ]
     },
     {
+      "filename": "2017-12-15-omnibus-crime-control-act-1968.md",
+      "slug": "omnibus-crime-control-act-1968",
+      "title": "Omnibus Crime Control Act: Wiretaps, Funding, and Miranda",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10180,
+      "topWord": "federal",
+      "topCount": 198,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-15-omnibus-crime-control-act-1968.md"
+    },
+    {
       "filename": "2017-12-18-dhurandhar-memes-social-media-war.md",
       "slug": "dhurandhar-memes-social-media-war",
       "title": "Dhurandhar Memes and Social Media War",
@@ -142585,6 +143455,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-25-dhurandhar-legacy-spy-cinema-future.md"
+    },
+    {
+      "filename": "2018-01-01-sentencing-reform-act-1984-guide.md",
+      "slug": "sentencing-reform-act-1984-guide",
+      "title": "Sentencing Reform Act: How Federal Punishment Was Reshaped",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10740,
+      "topWord": "commission",
+      "topCount": 192,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-01-sentencing-reform-act-1984-guide.md"
     },
     {
       "filename": "2018-01-01-terminator-robocop-cyborg-automation.md",
@@ -143055,6 +143943,112 @@
       ]
     },
     {
+      "filename": "2018-01-15-first-step-act-2018-guide.md",
+      "slug": "first-step-act-2018-guide",
+      "title": "The First Step Act Explained: Federal Sentencing Reform",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9659,
+      "topWord": "act",
+      "topCount": 206,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-15-first-step-act-2018-guide.md",
+      "flaggedWords": [
+        {
+          "word": "act",
+          "count": 206
+        }
+      ],
+      "top20": [
+        {
+          "word": "act",
+          "count": 206
+        },
+        {
+          "word": "federal",
+          "count": 135
+        },
+        {
+          "word": "bureau",
+          "count": 123
+        },
+        {
+          "word": "sentencing",
+          "count": 118
+        },
+        {
+          "word": "section",
+          "count": 113
+        },
+        {
+          "word": "prisoners",
+          "count": 106
+        },
+        {
+          "word": "statute",
+          "count": 97
+        },
+        {
+          "word": "release",
+          "count": 87
+        },
+        {
+          "word": "provision",
+          "count": 73
+        },
+        {
+          "word": "credits",
+          "count": 69
+        },
+        {
+          "word": "programming",
+          "count": 66
+        },
+        {
+          "word": "drug",
+          "count": 65
+        },
+        {
+          "word": "provisions",
+          "count": 61
+        },
+        {
+          "word": "credit",
+          "count": 57
+        },
+        {
+          "word": "sentences",
+          "count": 55
+        },
+        {
+          "word": "sentence",
+          "count": 55
+        },
+        {
+          "word": "offense",
+          "count": 52
+        },
+        {
+          "word": "prisoner",
+          "count": 48
+        },
+        {
+          "word": "offenses",
+          "count": 47
+        },
+        {
+          "word": "courts",
+          "count": 47
+        }
+      ]
+    },
+    {
       "filename": "2018-01-15-india-response-pahalgam-14-days.md",
       "slug": "india-response-pahalgam-14-days",
       "title": "India Response to Pahalgam 14 Days",
@@ -143373,6 +144367,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-01-las-vegas-day-trips.md"
     },
     {
+      "filename": "2018-02-01-mandatory-minimum-sentencing-law.md",
+      "slug": "mandatory-minimum-sentencing-law",
+      "title": "Mandatory Minimum Sentencing Law: Triggers and Exits",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10572,
+      "topWord": "minimum",
+      "topCount": 179,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-01-mandatory-minimum-sentencing-law.md"
+    },
+    {
       "filename": "2018-02-05-first-dogfight-nuclear-powers.md",
       "slug": "first-dogfight-nuclear-powers",
       "title": "First Dogfight Between Nuclear Powers",
@@ -143513,6 +144525,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-12-operation-bunyan-un-marsoos.md"
+    },
+    {
+      "filename": "2018-02-15-fair-sentencing-act-2010-guide.md",
+      "slug": "fair-sentencing-act-2010-guide",
+      "title": "The Fair Sentencing Act: How the 100 to 1 Ratio Fell",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9409,
+      "topWord": "crack",
+      "topCount": 228,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-15-fair-sentencing-act-2010-guide.md",
+      "flaggedWords": [
+        {
+          "word": "crack",
+          "count": 228
+        }
+      ],
+      "top20": [
+        {
+          "word": "crack",
+          "count": 228
+        },
+        {
+          "word": "commission",
+          "count": 155
+        },
+        {
+          "word": "sentencing",
+          "count": 150
+        },
+        {
+          "word": "congress",
+          "count": 148
+        },
+        {
+          "word": "act",
+          "count": 128
+        },
+        {
+          "word": "powder",
+          "count": 114
+        },
+        {
+          "word": "cocaine",
+          "count": 107
+        },
+        {
+          "word": "grams",
+          "count": 89
+        },
+        {
+          "word": "mandatory",
+          "count": 84
+        },
+        {
+          "word": "federal",
+          "count": 78
+        },
+        {
+          "word": "drug",
+          "count": 78
+        },
+        {
+          "word": "ratio",
+          "count": 77
+        },
+        {
+          "word": "five",
+          "count": 73
+        },
+        {
+          "word": "minimum",
+          "count": 70
+        },
+        {
+          "word": "law",
+          "count": 66
+        },
+        {
+          "word": "statute",
+          "count": 66
+        },
+        {
+          "word": "thresholds",
+          "count": 65
+        },
+        {
+          "word": "defendants",
+          "count": 57
+        },
+        {
+          "word": "sentences",
+          "count": 56
+        },
+        {
+          "word": "fair",
+          "count": 49
+        }
+      ]
     },
     {
       "filename": "2018-02-15-las-vegas-for-couples.md",
@@ -143995,6 +145113,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-26-weapons-systems-operation-sindoor.md"
     },
     {
+      "filename": "2018-03-01-crime-bill-1994-incarceration-impact.md",
+      "slug": "crime-bill-1994-incarceration-impact",
+      "title": "Crime Bill Incarceration Impact: What the Evidence Shows",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10819,
+      "topWord": "federal",
+      "topCount": 222,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-01-crime-bill-1994-incarceration-impact.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 222
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 222
+        },
+        {
+          "word": "crime",
+          "count": 164
+        },
+        {
+          "word": "sentencing",
+          "count": 155
+        },
+        {
+          "word": "states",
+          "count": 129
+        },
+        {
+          "word": "statute",
+          "count": 126
+        },
+        {
+          "word": "prison",
+          "count": 118
+        },
+        {
+          "word": "incarceration",
+          "count": 111
+        },
+        {
+          "word": "grants",
+          "count": 104
+        },
+        {
+          "word": "violent",
+          "count": 91
+        },
+        {
+          "word": "percent",
+          "count": 91
+        },
+        {
+          "word": "national",
+          "count": 86
+        },
+        {
+          "word": "money",
+          "count": 79
+        },
+        {
+          "word": "law",
+          "count": 75
+        },
+        {
+          "word": "truth",
+          "count": 70
+        },
+        {
+          "word": "decline",
+          "count": 70
+        },
+        {
+          "word": "bill",
+          "count": 68
+        },
+        {
+          "word": "report",
+          "count": 61
+        },
+        {
+          "word": "program",
+          "count": 58
+        },
+        {
+          "word": "rate",
+          "count": 56
+        },
+        {
+          "word": "laws",
+          "count": 56
+        }
+      ]
+    },
+    {
       "filename": "2018-03-01-historic-america-complete-travel-guide.md",
       "slug": "historic-america-complete-travel-guide",
       "title": "Historic America: The Complete Travel Guide",
@@ -144471,6 +145695,24 @@
       ]
     },
     {
+      "filename": "2018-03-15-sentencing-law-supreme-court-cases.md",
+      "slug": "sentencing-law-supreme-court-cases",
+      "title": "Sentencing Law Supreme Court: Jury Rights Remade Punishment",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11191,
+      "topWord": "sentencing",
+      "topCount": 198,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-15-sentencing-law-supreme-court-cases.md"
+    },
+    {
       "filename": "2018-03-18-excel-pivot-table-count-distinct-values-challenge-overcoming.md",
       "slug": "excel-pivot-table-count-distinct-values-challenge-overcoming",
       "title": "Excel Pivot Table Count Distinct Values Challenge Overcoming",
@@ -144637,6 +145879,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-26-kashmir-evacuation-civil-defense.md"
+    },
+    {
+      "filename": "2018-04-01-crime-bill-1994-vs-first-step-act.md",
+      "slug": "crime-bill-1994-vs-first-step-act",
+      "title": "Crime Bill vs First Step Act: Authority Versus Reach",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9509,
+      "topWord": "federal",
+      "topCount": 241,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-04-01-crime-bill-1994-vs-first-step-act.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 241
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 241
+        },
+        {
+          "word": "statute",
+          "count": 171
+        },
+        {
+          "word": "act",
+          "count": 131
+        },
+        {
+          "word": "law",
+          "count": 111
+        },
+        {
+          "word": "congress",
+          "count": 86
+        },
+        {
+          "word": "sentencing",
+          "count": 85
+        },
+        {
+          "word": "states",
+          "count": 74
+        },
+        {
+          "word": "money",
+          "count": 71
+        },
+        {
+          "word": "bill",
+          "count": 68
+        },
+        {
+          "word": "dollars",
+          "count": 62
+        },
+        {
+          "word": "crime",
+          "count": 58
+        },
+        {
+          "word": "step",
+          "count": 57
+        },
+        {
+          "word": "reach",
+          "count": 57
+        },
+        {
+          "word": "earlier",
+          "count": 55
+        },
+        {
+          "word": "prison",
+          "count": 54
+        },
+        {
+          "word": "violent",
+          "count": 53
+        },
+        {
+          "word": "grants",
+          "count": 53
+        },
+        {
+          "word": "percent",
+          "count": 50
+        },
+        {
+          "word": "prisoners",
+          "count": 47
+        },
+        {
+          "word": "criminal",
+          "count": 46
+        }
+      ]
     },
     {
       "filename": "2018-04-01-sophies-choice-meryl-streep-performance.md",
@@ -145287,6 +146635,24 @@
       ]
     },
     {
+      "filename": "2018-04-15-federal-crime-bill-myths.md",
+      "slug": "federal-crime-bill-myths",
+      "title": "Federal Crime Bill Myths: What the Record Actually Shows",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9994,
+      "topWord": "federal",
+      "topCount": 157,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-04-15-federal-crime-bill-myths.md"
+    },
+    {
       "filename": "2018-04-16-information-war-both-sides.md",
       "slug": "information-war-both-sides",
       "title": "Information War India Pakistan 2025",
@@ -145559,6 +146925,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2018-05-01-controlled-substances-act-1970-guide.md",
+      "slug": "controlled-substances-act-1970-guide",
+      "title": "Controlled Substances Act: Federal Drug Control Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11908,
+      "topWord": "act",
+      "topCount": 227,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-05-01-controlled-substances-act-1970-guide.md"
     },
     {
       "filename": "2018-05-07-bhadralok-detective-feluda-class-bn.md",
@@ -146009,6 +147393,116 @@
       ]
     },
     {
+      "filename": "2018-05-15-hatch-waxman-act-1984-guide.md",
+      "slug": "hatch-waxman-act-1984-guide",
+      "title": "Hatch-Waxman Act: The Generic Bargain and Patent Machinery",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10223,
+      "topWord": "patent",
+      "topCount": 276,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-05-15-hatch-waxman-act-1984-guide.md",
+      "flaggedWords": [
+        {
+          "word": "patent",
+          "count": 276
+        },
+        {
+          "word": "drug",
+          "count": 208
+        }
+      ],
+      "top20": [
+        {
+          "word": "patent",
+          "count": 276
+        },
+        {
+          "word": "drug",
+          "count": 208
+        },
+        {
+          "word": "generic",
+          "count": 184
+        },
+        {
+          "word": "brand",
+          "count": 121
+        },
+        {
+          "word": "approval",
+          "count": 114
+        },
+        {
+          "word": "application",
+          "count": 112
+        },
+        {
+          "word": "exclusivity",
+          "count": 107
+        },
+        {
+          "word": "statute",
+          "count": 89
+        },
+        {
+          "word": "regulatory",
+          "count": 82
+        },
+        {
+          "word": "applicant",
+          "count": 70
+        },
+        {
+          "word": "patents",
+          "count": 68
+        },
+        {
+          "word": "period",
+          "count": 64
+        },
+        {
+          "word": "act",
+          "count": 62
+        },
+        {
+          "word": "certification",
+          "count": 59
+        },
+        {
+          "word": "term",
+          "count": 58
+        },
+        {
+          "word": "abbreviated",
+          "count": 57
+        },
+        {
+          "word": "fda",
+          "count": 55
+        },
+        {
+          "word": "court",
+          "count": 49
+        },
+        {
+          "word": "infringement",
+          "count": 49
+        },
+        {
+          "word": "product",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2018-05-21-neelum-jhelum-hydropower-damage.md",
       "slug": "neelum-jhelum-hydropower-damage",
       "title": "Neelum Jhelum Hydropower Damage",
@@ -146455,6 +147949,112 @@
         {
           "word": "register",
           "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2018-06-01-kefauver-harris-amendments-1962.md",
+      "slug": "kefauver-harris-amendments-1962",
+      "title": "Kefauver-Harris Amendments: The Drug Effectiveness Standard",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10344,
+      "topWord": "drug",
+      "topCount": 280,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-06-01-kefauver-harris-amendments-1962.md",
+      "flaggedWords": [
+        {
+          "word": "drug",
+          "count": 280
+        }
+      ],
+      "top20": [
+        {
+          "word": "drug",
+          "count": 280
+        },
+        {
+          "word": "agency",
+          "count": 131
+        },
+        {
+          "word": "drugs",
+          "count": 126
+        },
+        {
+          "word": "effectiveness",
+          "count": 87
+        },
+        {
+          "word": "amendments",
+          "count": 80
+        },
+        {
+          "word": "evidence",
+          "count": 63
+        },
+        {
+          "word": "statute",
+          "count": 63
+        },
+        {
+          "word": "bill",
+          "count": 61
+        },
+        {
+          "word": "approval",
+          "count": 61
+        },
+        {
+          "word": "american",
+          "count": 60
+        },
+        {
+          "word": "market",
+          "count": 55
+        },
+        {
+          "word": "standard",
+          "count": 54
+        },
+        {
+          "word": "safety",
+          "count": 53
+        },
+        {
+          "word": "law",
+          "count": 47
+        },
+        {
+          "word": "application",
+          "count": 46
+        },
+        {
+          "word": "kefauver",
+          "count": 45
+        },
+        {
+          "word": "thalidomide",
+          "count": 45
+        },
+        {
+          "word": "clinical",
+          "count": 45
+        },
+        {
+          "word": "provisions",
+          "count": 44
+        },
+        {
+          "word": "act",
+          "count": 43
         }
       ]
     },
@@ -303499,6 +305099,60 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-08-how-employment-green-card-sponsorship-works.md"
     },
     {
+      "filename": "2026-10-09-how-oil-prices-are-set.md",
+      "slug": "how-oil-prices-are-set",
+      "title": "How Oil Prices Are Set: The Market Behind the Barrel",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10073,
+      "topWord": "crude",
+      "topCount": 143,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-09-how-oil-prices-are-set.md"
+    },
+    {
+      "filename": "2026-10-10-how-medieval-monasteries-worked.md",
+      "slug": "how-medieval-monasteries-worked",
+      "title": "How Medieval Monasteries Worked: Prayer, Labor, Power",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10253,
+      "topWord": "rule",
+      "topCount": 133,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-10-how-medieval-monasteries-worked.md"
+    },
+    {
+      "filename": "2026-10-11-how-alien-tort-statute-works.md",
+      "slug": "how-alien-tort-statute-works",
+      "title": "How the Alien Tort Statute Works: Suing for Abuses Abroad",
+      "categories": [
+        "Analytics"
+      ],
+      "lang": "en",
+      "wordCount": 8577,
+      "topWord": "law",
+      "topCount": 136,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-11-how-alien-tort-statute-works.md"
+    },
+    {
       "filename": "2026-10-11-poland-as-ukraines-lifeline.md",
       "slug": "poland-as-ukraines-lifeline",
       "title": "How Poland Became Ukraine's Lifeline",
@@ -303627,6 +305281,218 @@
         {
           "word": "compressed",
           "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-12-when-animals-first-evolved.md",
+      "slug": "when-animals-first-evolved",
+      "title": "When Animals First Evolved: Dating Life's Deep History",
+      "categories": [
+        "Analytics"
+      ],
+      "lang": "en",
+      "wordCount": 7540,
+      "topWord": "animals",
+      "topCount": 156,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-12-when-animals-first-evolved.md",
+      "flaggedWords": [
+        {
+          "word": "animals",
+          "count": 156
+        }
+      ],
+      "top20": [
+        {
+          "word": "animals",
+          "count": 156
+        },
+        {
+          "word": "million",
+          "count": 113
+        },
+        {
+          "word": "animal",
+          "count": 112
+        },
+        {
+          "word": "fossil",
+          "count": 87
+        },
+        {
+          "word": "fossils",
+          "count": 62
+        },
+        {
+          "word": "ago",
+          "count": 61
+        },
+        {
+          "word": "cambrian",
+          "count": 59
+        },
+        {
+          "word": "evidence",
+          "count": 51
+        },
+        {
+          "word": "record",
+          "count": 50
+        },
+        {
+          "word": "date",
+          "count": 49
+        },
+        {
+          "word": "origin",
+          "count": 48
+        },
+        {
+          "word": "molecular",
+          "count": 46
+        },
+        {
+          "word": "rocks",
+          "count": 45
+        },
+        {
+          "word": "sponges",
+          "count": 42
+        },
+        {
+          "word": "explosion",
+          "count": 35
+        },
+        {
+          "word": "dates",
+          "count": 34
+        },
+        {
+          "word": "clock",
+          "count": 33
+        },
+        {
+          "word": "oxygen",
+          "count": 33
+        },
+        {
+          "word": "deep",
+          "count": 31
+        },
+        {
+          "word": "weng",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-13-how-chiplets-work.md",
+      "slug": "how-chiplets-work",
+      "title": "How Chiplets Work: Big Chips Built From Small Dies",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 10430,
+      "topWord": "die",
+      "topCount": 319,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-13-how-chiplets-work.md",
+      "flaggedWords": [
+        {
+          "word": "die",
+          "count": 319
+        }
+      ],
+      "top20": [
+        {
+          "word": "die",
+          "count": 319
+        },
+        {
+          "word": "dies",
+          "count": 205
+        },
+        {
+          "word": "package",
+          "count": 177
+        },
+        {
+          "word": "memory",
+          "count": 117
+        },
+        {
+          "word": "silicon",
+          "count": 87
+        },
+        {
+          "word": "design",
+          "count": 86
+        },
+        {
+          "word": "chiplet",
+          "count": 71
+        },
+        {
+          "word": "inside",
+          "count": 70
+        },
+        {
+          "word": "wafer",
+          "count": 69
+        },
+        {
+          "word": "processor",
+          "count": 65
+        },
+        {
+          "word": "assembly",
+          "count": 57
+        },
+        {
+          "word": "power",
+          "count": 51
+        },
+        {
+          "word": "packaging",
+          "count": 51
+        },
+        {
+          "word": "single",
+          "count": 50
+        },
+        {
+          "word": "cost",
+          "count": 49
+        },
+        {
+          "word": "data",
+          "count": 47
+        },
+        {
+          "word": "product",
+          "count": 47
+        },
+        {
+          "word": "substrate",
+          "count": 45
+        },
+        {
+          "word": "process",
+          "count": 45
+        },
+        {
+          "word": "heat",
+          "count": 42
         }
       ]
     },

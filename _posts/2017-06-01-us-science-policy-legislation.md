@@ -9,7 +9,7 @@ excerpt: "Why Congress authorizes science funding it never appropriates: a seven
 image: "/assets/images/blog/blog-05.webp"
 reading_time: "89"
 author: "robert-quinn"
-last_updated: "2017-06-01"
+last_updated: 2026-10-13
 lang: en
 ---
 American science policy since 1950 has a split personality. One face appears in authorization statutes that promise sweeping national commitments to research, education, and exploration. The other face appears in appropriations bills, where those promises are trimmed, postponed, or quietly set aside. The plain claim of this guide is that the second face does most of the governing: Congress has repeatedly authorized ambitious scientific funding that it then declined to appropriate, so the operative science policy of the United States is written less in the famous organic acts than in the annual money bills that few historians of science ever open.

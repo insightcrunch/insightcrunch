@@ -9,7 +9,7 @@ excerpt: "The Atomic Energy Act of 1954 ended the federal monopoly on fissionabl
 image: "/assets/images/blog/blog-110.webp"
 reading_time: "78"
 author: "katherine-blake"
-last_updated: "2016-09-15"
+last_updated: 2026-10-13
 lang: en
 ---
 Few statutes have rebuilt a field of human endeavor from government monopoly into private enterprise while also inventing a category of secrecy found nowhere else in American law, and the Atomic Energy Act of 1954 did both in a single legislative instrument. Congress took the apparatus that had built the atomic bomb in secret, the laboratories, the production plants, the accumulated knowledge, and converted it into the legal foundation for commercial atomic power, licensed reactors, private utilities, and an industry that would generate electricity under federal license for decades. At the same moment, Congress wrote a rule that designated a class of information classified at the instant of its creation, regardless of who produced it, a rule that has no parallel in the rest of the information law of the United States. Understanding this statute means understanding three creations at once: an industry, a secrecy regime, and a federalism boundary that tells states exactly how far their authority extends and not one step further.

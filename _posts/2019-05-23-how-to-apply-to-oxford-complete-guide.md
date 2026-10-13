@@ -5,11 +5,11 @@ page_title: "How to Apply to Oxford University: The Complete Application Guide f
 date: 2019-05-23
 categories: ["Industry"]
 tags: ["How to Apply to Oxford", "Oxford Application", "Oxford UCAS", "Oxford Admissions", "Oxford Interview", "Oxford Personal Statement", "Oxford Entrance Tests", "Oxford Graduate Application"]
-excerpt: "Complete guide to applying to Oxford University - undergraduate UCAS application, personal statement, entrance tests, interviews, graduate application process, written work, references, and how admissions decisions are actually made."
+excerpt: "Decode Oxford admissions across undergraduate UCAS and graduate routes with the steps that actually move decisions."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 55
 author: "charlotte-davies"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Applying to Oxford University is a process that rewards preparation, self-awareness, and genuine intellectual engagement with a subject in ways that most university applications do not. Oxford does not simply want students who have the highest grades or the most impressive extracurricular portfolios. It wants students who can think - who have gone beyond what their school curriculum requires, who can engage with ideas at a level of rigour that the tutorial system demands, and who can demonstrate that enthusiasm in a written application, through entrance tests designed specifically to probe thinking rather than recall, and in interviews with academics who will probe their understanding in real time.

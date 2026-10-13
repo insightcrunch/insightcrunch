@@ -9,7 +9,7 @@ excerpt: "The crime bill and the First Step Act are structural opposites: one sp
 image: "/assets/images/blog/blog-71.webp"
 reading_time: "65"
 author: "samantha-lee"
-last_updated: "2018-04-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## The Comparison That Misleads

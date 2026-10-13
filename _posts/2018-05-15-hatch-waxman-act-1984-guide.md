@@ -9,7 +9,7 @@ excerpt: "Hatch-Waxman traded an abbreviated generic pathway for restored patent
 image: "/assets/images/blog/blog-11.webp"
 reading_time: "73"
 author: "christopher-wells"
-last_updated: "2018-05-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

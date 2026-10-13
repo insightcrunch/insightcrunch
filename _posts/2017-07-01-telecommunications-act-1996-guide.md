@@ -9,7 +9,7 @@ excerpt: "The Telecommunications Act of 1996 amended rather than replaced the 19
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 86
 author: "samantha-lee"
-last_updated: "2017-07-01"
+last_updated: 2026-10-13
 lang: en
 ---
 The Telecommunications Act of 1996 is the most consequential communications statute of the late twentieth century, and it is also one of the most misunderstood. Signed by President Bill Clinton on February 8, 1996 as Public Law 104-104, it did not replace the Communications Act of 1934. It rewrote that older law from the inside, inserting new duties, new definitions, and new deletions across its titles. This guide traces that amending relationship through the statute's five working machines: the local competition duties of sections 251 and 252, the Bell company entry bargain of section 271, the universal service rebuild of section 254, the ownership deregulation of section 202, and the late additions of Title V and section 706.

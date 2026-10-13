@@ -9,7 +9,7 @@ excerpt: "Mandatory minimums set a federal floor that three exits can open. This
 image: "/assets/images/blog/blog-37.webp"
 reading_time: "76"
 author: "andrew-price"
-last_updated: "2018-02-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## How the Mandatory Minimum Machinery Works

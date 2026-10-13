@@ -9,7 +9,7 @@ excerpt: "FERC governs wholesale electricity and gas through commission orders, 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: "82"
 author: "jason-mckenzie"
-last_updated: "2016-12-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## The Distance Between a Statutory Phrase and a Power Market

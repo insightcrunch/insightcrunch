@@ -9,7 +9,7 @@ excerpt: "CAFE standards grade fleets by a sales-weighted harmonic mean under 49
 image: "/assets/images/blog/blog-04.webp"
 reading_time: "68"
 author: "gregory-marsh"
-last_updated: "2016-11-15"
+last_updated: 2026-10-13
 lang: en
 ---
 The corporate average fuel economy (CAFE) program is the oldest and most misunderstood efficiency regime in American transportation law. It requires each automaker to meet a fleet-wide average measured in miles per gallon, but the operative policy lives in the arithmetic rather than the headline number. The statute sets the duty; the formula decides how the duty is satisfied. Corporate average fuel economy requirements live at 49 U.S.C. sections 32901 through 32919, Chapter 329 of Title 49, a title of the United States Code that originated in the energy legislation of 1975 and was substantially rewritten by the Energy Independence and Security Act of 2007. As of November 2016, that chapter governed every passenger car and light truck sold in the United States, and it did so through three devices that the rest of this article unpacks: a sales-weighted harmonic mean, separate fleets for cars and trucks, and, since 2007, targets that rise and fall with each vehicle's footprint.

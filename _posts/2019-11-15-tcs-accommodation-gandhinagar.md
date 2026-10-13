@@ -4,11 +4,11 @@ title: "TCS Accommodation Gandhinagar - Housing Guide Garima Park & GIFT City"
 date: 2019-11-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Gandhinagar", "Gujarat", "Garima Park", "GIFT City", "Infocity", "Fresher", "IT Career"]
-excerpt: "The complete guide to TCS accommodation in Gandhinagar for associates at the Garima Park SEZ campus and GIFT City office. Covers the 10,000-seat Garima Park delivery center, the GIFT City international financial hub, the Infocity ecosystem, long-term accommodation in India's greenest planned capital, the dry state policy, Gujarati food culture, PG and rental options across Gandhinagar sectors, and everything you need for both ILP and base branch living in Gujarat's capital."
+excerpt: "Decode TCS housing in Gandhinagar across the Garima Park SEZ, GIFT City, and India's greenest planned capital."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 50
 author: "nikhil-tiwari"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Gandhinagar is not just a TCS ILP city. It is one of TCS's largest campuses in western India, with a permanent workforce of over 8,000 professionals operating from the 10,000-seat Garima Park SEZ campus, the Infocity offices, and the newer GIFT City presence. For freshers who receive Gandhinagar as their base branch, this is not a temporary training posting but a long-term career location that offers a quality of life, a cost of living, and a cultural richness that are genuinely distinctive among Indian IT cities.

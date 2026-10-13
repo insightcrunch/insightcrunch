@@ -5,11 +5,11 @@ page_title: "SAT Preparation Mistakes That Cost Students 100 or More Points: The
 date: 2020-01-24
 categories: ["Industry"]
 tags: ['SAT Mistakes', 'SAT Preparation Mistakes', 'SAT Common Errors', 'SAT Test Mistakes', 'SAT Study Mistakes', 'SAT Mistakes to Avoid', 'SAT Wrong Strategy', 'SAT Costly Errors']
-excerpt: "The complete guide to the most damaging SAT preparation mistakes covering wrong study strategies, poor practice habits, test-day errors, and how each mistake costs real points."
+excerpt: "Decode the SAT prep mistakes that quietly cost real points and the simple corrections that recover them."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "patrick-dunn"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 # SAT Preparation Mistakes That Cost Students 100+ Points

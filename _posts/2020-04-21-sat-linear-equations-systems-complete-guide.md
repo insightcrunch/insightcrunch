@@ -5,11 +5,11 @@ page_title: "SAT Linear Equations and Systems Complete Guide: Solving, Graphing,
 date: 2020-04-21
 categories: ["Industry"]
 tags: ['SAT Linear Equations', 'SAT Systems of Equations', 'SAT Linear Functions', 'SAT Slope Intercept', 'SAT Solving Equations', 'SAT Linear Word Problems', 'SAT Systems No Solution', 'SAT Algebra Linear']
-excerpt: "Master every SAT linear equation and system question type including one-variable equations, two-variable systems, graphical solutions, word problem translations, and special cases."
+excerpt: "Decode every SAT linear equation and system question type with rule-by-rule walkthroughs and worked examples."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "michael-brooks"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Linear equations and systems of linear equations are the single most heavily tested mathematics topic on the Digital SAT. They appear across every difficulty level, in every module, and in more question variations than any other algebra topic. A student who has mastered linear equations thoroughly, from the simplest one-step equations to complex systems with special cases, has addressed the largest single source of available points in the SAT Math section. A student with gaps in linear equation understanding will encounter those gaps repeatedly throughout every SAT Math section they take.

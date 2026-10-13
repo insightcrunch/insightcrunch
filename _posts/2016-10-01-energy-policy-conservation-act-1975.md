@@ -9,7 +9,7 @@ excerpt: "The Energy Policy and Conservation Act answered one oil shock with fou
 image: "/assets/images/blog/blog-100.webp"
 reading_time: "73"
 author: "simon-hartley"
-last_updated: "2016-10-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## The One Statute That Answered the First Oil Shock

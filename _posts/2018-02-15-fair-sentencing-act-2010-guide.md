@@ -9,7 +9,7 @@ excerpt: "The Fair Sentencing Act cut the crack ratio from 100 to 1 to 18 to 1. 
 image: "/assets/images/blog/blog-107.webp"
 reading_time: "69"
 author: "christopher-wells"
-last_updated: "2018-02-15"
+last_updated: 2026-10-13
 lang: en
 ---
 In 1986, Congress wrote a number into federal law that would shape cocaine sentencing for a quarter century. Five grams of crack cocaine triggered the same mandatory prison term as five hundred grams of powder cocaine, a ratio of one hundred to one. The Fair Sentencing Act reduced that ratio to eighteen to one and eliminated the mandatory minimum for simple possession of crack, becoming the first federal statute in a generation to repeal a mandatory minimum drug sentence. The story of how the number got into the statute, why four expert reports failed to remove it, and what it took to finish the job belongs to the amendment stage of a statute's life, the long phase in which Congress revisits what it once wrote in haste.

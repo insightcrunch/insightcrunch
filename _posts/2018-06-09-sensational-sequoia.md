@@ -4,11 +4,11 @@ title: "Sensational Sequoia"
 date: 2018-06-09
 categories: ["Travel"]
 tags: ["Nature"]
-excerpt: "The exquisite Sierra Nevada, in the magnificent slopes of California, is the home to some of the oldest living things on earth – the dazzling Giant..."
+excerpt: "Giant Sequoia trees of California's Sierra Nevada: standing before 3,500-year-old living giants that make everything else feel impossibly small."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 2
 author: "amit-chatterjee"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The exquisite Sierra Nevada, in the magnificent slopes of California, is the home to some of the oldest living things on earth – the dazzling Giant Sequoia trees, some as old as 3500 years. The stunning facts of these exquisite trees were as overwhelming to me as a 10-year-old, as it is today – and the long dream of experiencing these breathtaking wildernesses came true few days back.

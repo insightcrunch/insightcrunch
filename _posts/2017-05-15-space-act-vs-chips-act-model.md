@@ -9,7 +9,7 @@ excerpt: "The Space Act built an agency that bought missions; the CHIPS Act pays
 image: "/assets/images/blog/blog-73.webp"
 reading_time: "62"
 author: "daniel-morgan"
-last_updated: "2017-05-15"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction: The Space Act versus CHIPS Act model

@@ -9,7 +9,7 @@ excerpt: "PURPA forced utilities to buy power from qualifying small generators a
 image: "/assets/images/blog/blog-60.webp"
 reading_time: "75"
 author: "james-carter"
-last_updated: "2016-11-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## PURPA and the Five Bill Energy Program

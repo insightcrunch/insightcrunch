@@ -5,11 +5,11 @@ page_title: "Harvard Off-Campus Housing: The Complete Guide to Renting in Cambri
 date: 2019-03-28
 categories: ["Industry"]
 tags: ["Harvard Off-Campus Housing", "Cambridge MA Apartments", "Harvard Graduate Housing", "Renting Near Harvard", "Cambridge Housing Guide", "Somerville Apartments Harvard", "Allston Housing Harvard"]
-excerpt: "Complete guide to Harvard off-campus housing - where to live in Cambridge, how to find apartments, what things cost, tenant rights in Massachusetts, the Cambridge rental market timeline, and everything you need to know before signing a lease near Harvard."
+excerpt: "Decode Harvard off-campus housing across the Cambridge market, tenant law, timing, and pre-lease checks."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 52
 author: "samantha-lee"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Most Harvard undergraduates live in Harvard-managed housing for all four years of the undergraduate experience, and the Harvard House system is comprehensive enough that relatively few undergraduates voluntarily leave it. Graduate students face a very different reality. Harvard's on-campus housing provision for graduate students covers only a fraction of the graduate student population, and most graduate students at every Harvard school - from the doctoral students in GSAS to the MBA candidates at HBS to the policy students at the Kennedy School - need to find private housing in Cambridge and the surrounding area.

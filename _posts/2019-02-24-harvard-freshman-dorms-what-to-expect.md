@@ -5,11 +5,11 @@ page_title: "Harvard Freshman Dorms: The Complete Guide to What to Expect in You
 date: 2019-02-24
 categories: ["Industry"]
 tags: ["Harvard Freshman Dorms", "Harvard Yard Dormitories", "Harvard First Year Housing", "Harvard Freshman Experience", "Harvard Yard", "Harvard Dorm Life", "Harvard Freshman Guide"]
-excerpt: "Complete guide to Harvard freshman dorms - every Yard dormitory described, what room assignment looks like, what to bring, what Annenberg dining is like, the proctor system, Freshers Week at Harvard, and exactly what to expect in your first year in Harvard Yard."
+excerpt: "Decode Harvard freshman year housing in the Yard with dorm-by-dorm notes and the full first-week reality."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 52
 author: "natalie-webb"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 Harvard Yard is where every Harvard undergraduate story begins. For four centuries, each new class of Harvard freshmen has arrived at the Yard's wrought-iron gates, found their assigned dormitory room, met their roommates, and started to understand what it means to be a Harvard student. The Yard's buildings range from Massachusetts Hall - constructed in 1720 and the second-oldest surviving college building in America - to the more modern residential constructions of the twentieth century. Living in this space for a year is one of the most historically dense residential experiences available to any undergraduate student anywhere in the world.

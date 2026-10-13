@@ -4,11 +4,11 @@ title: "TCS Accommodation Rules and Policies - Everything You Need to Know"
 date: 2019-09-12
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Rules", "Policies", "Fresher", "Hostel", "Dress Code"]
-excerpt: "The definitive guide to TCS accommodation rules and policies for ILP associates. Covers the accommodation deduction structure, residential vs non-residential ILP models, dress code enforcement, alcohol and substance policies, the dry state rules for Gujarat postings, curfew and gate timing, guest and visitor policies, cooking restrictions, laundry rules, photography prohibition on campus, room maintenance responsibilities, the accommodation switching process, leave policies during ILP, and the escalation path for accommodation complaints."
+excerpt: "Decode TCS ILP accommodation rules across deductions, behavior policies, residential models, and escalation paths."
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 40
 author: "meera-pillai"
-last_updated: 2026-04-01
+last_updated: 2026-10-13
 lang: en
 ---
 The TCS ILP accommodation rules are the framework that governs your living situation for three months, and understanding them before arrival prevents the friction, confusion, and occasionally serious consequences that come from violating policies you did not know existed. Past associates consistently report that the associates who read the rules before arriving spend their ILP focused on training and friendships, while those who learn the rules through violations spend their ILP navigating warnings, explanations, and the stress of corrective measures.

@@ -9,7 +9,7 @@ excerpt: "US energy independence policy promised self-sufficiency for decades. T
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "75"
 author: "david-thornton"
-last_updated: "2016-12-01"
+last_updated: 2026-10-13
 lang: en
 ---
 On the evening of November 7, 1973, Richard Nixon went on television and announced a national program called Project Independence, with the goal of meeting America's energy needs from American energy resources by 1980. The promise was not a one-time speech. Over the four decades that followed, nearly every president put his own version of the same goal on the record, and Congress built an entire architecture of energy security statutes around it: the 1975 crisis law that created fuel economy standards and the Strategic Petroleum Reserve, the 1980 synfuels corporation, the 2005 energy act, and the 2007 law that carried the phrase "energy independence" in its very title. Then, decades later, the United States actually did become a net energy exporter. The question this article answers is not whether the goal was reached. It is who, or what, reached it. The evidence shows that the decisive cause was a production technology that no statute specified and no energy law mandated, while the statutes' genuine and measurable achievements lie concentrated in a different place entirely: the efficiency rules that received a small fraction of the political attention. A reader who finishes this article can state that separation cleanly, with sources, which is the test of whether the article has done its job.

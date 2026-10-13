@@ -9,7 +9,7 @@ excerpt: "The Controlled Substances Act rebuilt federal drug law on the commerce
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "80"
 author: "michael-brooks"
-last_updated: "2018-05-01"
+last_updated: 2026-10-13
 lang: en
 ---
 ## Introduction

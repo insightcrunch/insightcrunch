@@ -9,7 +9,7 @@ excerpt: "The First Step Act shortened federal drug sentences, created earned ti
 image: "/assets/images/blog/blog-96.webp"
 reading_time: "69"
 author: "daniel-morgan"
-last_updated: 2018-01-15
+last_updated: 2026-10-13
 lang: en
 ---
 ## The question the statute answers

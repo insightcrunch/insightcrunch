@@ -2,7 +2,7 @@
 title: "Highway Trust Fund vs General Fund: Paying for Roads"
 excerpt: "General revenue has quietly filled the Highway Trust Fund gap. A comparison of user-pays and needs-based funding, ending with a verdict and deciding factor."
 date: "2016-08-01"
-last_updated: "2016-08-01"
+last_updated: 2026-10-13
 reading_time: "68"
 categories: "Industry"
 tags: "US Legislation, Highway Trust Fund, Transportation, Tax Policy, Infrastructure"
