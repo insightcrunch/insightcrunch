@@ -307,3 +307,27 @@ chiplet-contain-cool-much-packag-silicon-so-they | how-chiplets-work | How are c
 chiplet-latency-memory-processor-show-uneven | how-chiplets-work | Why do chiplet processors show uneven memory latency?
 advanc-matter-packag-processor | how-chiplets-work | What is advanced packaging and why does it matter for processors?
 all-be-built-chiplet-eventually-processor-will | how-chiplets-work | Will all processors eventually be built from chiplets?
+
+## film-restoration
+
+### how-film-restoration-works
+film-restoration-simple-term | how-film-restoration-works | What is film restoration in simple terms?
+different-film-from-preservation-restoration | how-film-restoration-works | How is film restoration different from film preservation?
+disappear-film-silent | how-film-restoration-works | Why did so many silent films disappear?
+revers-syndrome-vinegar | how-film-restoration-works | What is vinegar syndrome and can it be reversed?
+film-long-major-restoration-take | how-film-restoration-works | How long does a major film restoration take?
+cost-film-restor | how-film-restoration-works | How much does restoring a film cost?
+4k-actually-mean-restoration | how-film-restoration-works | What does a 4K restoration actually mean?
+camera-negative-original-prefer-restorer | how-film-restoration-works | Why do restorers prefer the original camera negative?
+film-if-lost-negative-restor | how-film-restoration-works | Can a film be restored if its negative is lost?
+gate-scan-used-wet | how-film-restoration-works | What is a wet gate scan and why is it used?
+color-fad-film-know-restorer | how-film-restoration-works | How do restorers know what color a faded film should be?
+film-look-restor-smooth-too-waxy | how-film-restoration-works | Why do some restored films look too smooth or waxy?
+footage-happen-metropoli-miss | how-film-restoration-works | What happened to the missing footage of Metropolis?
+censorship-change-film-survive-that-version | how-film-restoration-works | How did censorship change the versions of films that survive?
+between-cut-difference-director-restoration | how-film-restoration-works | What is the difference between a restoration and a director's cut?
+decid-like-look-restoration | how-film-restoration-works | Who decides what a restoration should look like?
+change-digital-film-restoration-too | how-film-restoration-works | Can digital restoration change a film too much?
+film-have-music-new-restor-silent-sometim | how-film-restoration-works | Why do restored silent films sometimes have new music?
+digitally-film-last-long-restor | how-film-restoration-works | How long will a digitally restored film last?
+film-ordinary-restor-see-viewer | how-film-restoration-works | Where can ordinary viewers see restored films?

@@ -50,3 +50,6 @@
 ## how-chiplets-work
 - _posts/2026-10-07-how-data-centers-work.md — could carry: "The accelerators filling those racks are assembled from chiplets; our guide to how chiplets work explains the dies, interposers and memory stacks inside each package."
 - _posts/2026-10-04-how-contactless-payments-work.md — could carry: "A payment card trusts one tiny monolithic die, while large processors take the opposite path; see how chiplets work for the economics that split big chips into small dies."
+## how-film-restoration-works
+- _posts/2015-07-01-maltese-falcon-first-film-noir-influence.md — could carry: "The Falcon that reaches a screen is itself a restored object, rebuilt from surviving elements; our guide to how film restoration works explains the search, comparison and repair behind every classic that survives."
+- _posts/2014-02-01-wings-aerial-cinematography-craft.md — could carry: "That a production from 1927 can still be watched at all is a restoration story; see how film restoration works for the archive search, physical repair and scanning that keep silent era films alive."
