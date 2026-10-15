@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "denver"]
 excerpt: "The 20 best singles events in Denver for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Denver: The Next Two Weeks
 
 Denver singles skew active, and the calendar shows it: speed dating in Denver from RiNo to Capitol Hill, a rooftop harvest mixer, a free dog-parent singles social, run clubs, salsa socials and two free fall festivals in the next two weeks. If you are looking for singles events in Denver or low-pressure ways to meet singles in Denver that do not involve shouting across a brewery, these twenty picks cover every age band from twenty-somethings to 50-plus.
 
-![Singles events in Denver - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Denver - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
