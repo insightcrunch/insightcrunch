@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "new-york-city"]
 excerpt: "The 20 best singles events in New York City for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in New York City: The Next Two Weeks
 
 New York rewards singles who show up. In any given fortnight the five boroughs run more speed dating nights, singles mixers and social events than most cities manage in a season, from marriage-minded speed dating in the East Village to gay men's speed dating in Harlem and trivia nights in Gowanus where half the room arrived solo. If you are searching for singles events in New York City, speed dating in NYC, or simply where to meet singles in New York without another evening of swiping, this list is the shortcut.
 
-![Singles events in New York City - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in New York City - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 

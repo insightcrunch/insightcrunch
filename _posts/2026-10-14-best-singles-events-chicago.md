@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "chicago"]
 excerpt: "The 20 best singles events in Chicago for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Chicago: The Next Two Weeks
 
 Chicago might be the easiest big city in America to date in, because Chicagoans actually go out. The next two weeks are stacked with speed dating in Chicago, from a singles mixer at the Four Seasons to sapphic speed dating at a Rogers Park tea bar, bookstore speed dating for queer women, singles bowling in Lakeview and trivia and salsa nights where nobody minds you arriving alone. If you want to meet singles in Chicago, this is your two-week plan.
 
-![Singles events in Chicago - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Chicago - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 

@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "dating", "nightlife"]
 excerpt: "The 200 best singles events in America for the next two weeks: speed dating, singles mixers and social nights in 10 cities where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## The 200 Best Singles Events in America Right Now
 
 Somewhere in the next two weeks, within a short drive of most single Americans, there is a room full of people who also deleted the apps in frustration. This guide finds those rooms. Below are the 200 best singles events in America's ten biggest dating cities for the next two weeks: speed dating nights, singles mixers, lock and key parties, trivia nights, run clubs, cooking classes and festivals where meeting a potential partner is the whole point, or at least the easiest thing in the world. Whether you search for singles events near you, dating events in your city, or simply where to meet singles without a screen, this is the list to work from.
 
-![Best singles events in America - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Best singles events in America - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026, and refreshes every Sunday** with a new rolling two-week window. Every city guide labels each pick a **Singles event** (organized for dating) or **Singles-friendly** (a social event where arriving solo is normal and conversation is easy), and carries the audience from the organizer's own listing: age ranges, LGBTQ+ nights, faith-based and cultural events included. Prices and times are as published by organizers; book ticketed events early, because the popular ones sell out fast.
 
