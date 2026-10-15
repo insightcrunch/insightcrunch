@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "houston"]
 excerpt: "The 20 best singles events in Houston for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Houston: The Next Two Weeks
 
 Houston's size works in a single person's favor: every neighborhood runs its own scene. The Heights, Montrose, Downtown and the Galleria area all host speed dating in Houston, singles mixers, salsa nights with free lessons, run clubs and trivia in the next two weeks, much of it free or close to it. If you are searching for singles events in Houston or wondering where to meet singles in Houston, this list covers the strongest options in the city.
 
-![Singles events in Houston - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Houston - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 

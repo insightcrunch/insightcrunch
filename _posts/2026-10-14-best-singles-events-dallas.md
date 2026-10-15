@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "dallas"]
 excerpt: "The 20 best singles events in Dallas for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Dallas: The Next Two Weeks
 
 Dallas singles have a genuinely busy fortnight coming. The State Fair of Texas is still running at Fair Park, the Dallas Museum of Art stays open late for jazz and a murder mystery night, and speed dating in Dallas runs from a live-matched game night in the Design District to Christian speed dating and rooftop mixers across the metroplex. If you are looking for singles events in Dallas or fresh ways to meet singles in Dallas, these twenty are the ones worth your evenings.
 
-![Singles events in Dallas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Dallas - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 

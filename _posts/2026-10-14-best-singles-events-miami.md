@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "miami"]
 excerpt: "The 20 best singles events in Miami for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Miami: The Next Two Weeks
 
 Miami does singles events with a skyline. Brickell rooftops, Wynwood art spaces, Coconut Grove patios and Coral Gables dining rooms host speed dating in Miami, singles mixers, salsa socials and run clubs all through the next two weeks, with Halloween season adding costume mixers to the calendar. If you are looking for singles events in Miami or new places to meet singles in Miami, these twenty events are where the city will be.
 
-![Singles events in Miami - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Miami - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 

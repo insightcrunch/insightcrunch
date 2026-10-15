@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "austin"]
 excerpt: "The 20 best singles events in Austin for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Austin: The Next Two Weeks
 
 Austin is built for meeting people, and the next two weeks prove it: a dense run of speed dating in Austin, Lock and Key parties, singles mixers and social run clubs, plus the Formula 1 United States Grand Prix weekend at Circuit of The Americas turning the whole city into one long conversation. If you are searching for singles events in Austin or where to meet singles in Austin that is not a dating app, this list is your next two weeks sorted.
 
-![Singles events in Austin - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Austin - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
