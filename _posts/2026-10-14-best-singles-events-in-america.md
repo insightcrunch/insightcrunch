@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "dating", "nightlife"]
 excerpt: "The 200 best singles events in America for the next two weeks: speed dating, singles mixers and social nights in 10 cities where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## The 200 Best Singles Events in America Right Now
 
 Somewhere in the next two weeks, within a short drive of most single Americans, there is a room full of people who also deleted the apps in frustration. This guide finds those rooms. The series you are reading is a standing weekly project: ten city guides, twenty verified events in each, two hundred chances in total to meet a potential partner face to face instead of through a screen. It covers the country's ten biggest dating cities, New York City, Los Angeles, Chicago, Houston, Dallas, Austin, Miami, San Francisco, Denver and Las Vegas, and it exists for one reason: the hardest part of offline dating is not courage, it is logistics. Knowing which rooms are worth your Friday night, which ones draw your age group, and which ones are actually organized for dating rather than merely full of people, is most of the battle. This hub pulls the whole series together so you can start from the national picture and land in the right city guide in one click.
 
-![Best singles events in America - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Best singles events in America - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026, and refreshes every Sunday** with a new rolling two-week window. Here is how to read every listing in the series. Each event is labeled a **Singles event** (organized for dating: speed dating, singles mixers, lock and key parties, matchmaking nights) or **Singles-friendly** (a social event, a run club, a cooking class, a museum late night, where arriving solo is normal and conversation comes easily). Each listing also carries the audience from the organizer's own page: the age band, and whether the night is built for a particular community, LGBTQ+ singles, Christian singles, South Asian singles, Black singles, dog parents, readers, dancers. Prices and times are as published by the organizers themselves. Every event in all ten guides was checked against its organizer's own listing before it made the cut: a real event, on a real date inside the window, at a real venue, in a format where a single person can plausibly leave with a phone number. If a listing could not be verified, it did not run.
 
