@@ -53,3 +53,7 @@
 ## how-film-restoration-works
 - _posts/2015-07-01-maltese-falcon-first-film-noir-influence.md — could carry: "The Falcon that reaches a screen is itself a restored object, rebuilt from surviving elements; our guide to how film restoration works explains the search, comparison and repair behind every classic that survives."
 - _posts/2014-02-01-wings-aerial-cinematography-craft.md — could carry: "That a production from 1927 can still be watched at all is a restoration story; see how film restoration works for the archive search, physical repair and scanning that keep silent era films alive."
+
+## how-ransomware-recovery-works
+- _posts/2023-07-03-configure-azure-vm-backup.md — could carry: "A backup job that reports success says nothing about survival under attack; our guide to how ransomware recovery works explains the isolation and identity separation a recoverable copy needs."
+- _posts/2024-07-22-azure-disaster-recovery-architecture.md — could carry: "Recovery objectives set the target, but an attacker who reaches the backup layer changes the problem; see how ransomware recovery works for the design that keeps one copy beyond reach."

@@ -331,3 +331,27 @@ change-digital-film-restoration-too | how-film-restoration-works | Can digital r
 film-have-music-new-restor-silent-sometim | how-film-restoration-works | Why do restored silent films sometimes have new music?
 digitally-film-last-long-restor | how-film-restoration-works | How long will a digitally restored film last?
 film-ordinary-restor-see-viewer | how-film-restoration-works | Where can ordinary viewers see restored films?
+
+## cybersecurity-ransomware
+
+### how-ransomware-recovery-works
+ransomware-recovery | how-ransomware-recovery-works | What is ransomware recovery?
+attack-attacker-backup-delete-dur-ransomware | how-ransomware-recovery-works | How do attackers delete backups during a ransomware attack?
+1-2-3-backup-rule | how-ransomware-recovery-works | What is the 3-2-1 rule for backups?
+air-backup-gapped | how-ransomware-recovery-works | What is an air-gapped backup?
+attacker-hypervisor-ransomware-target | how-ransomware-recovery-works | Why do ransomware attackers target hypervisors?
+attack-dwell-ransomware-time | how-ransomware-recovery-works | What is dwell time in a ransomware attack?
+backup-contain-ransomware | how-ransomware-recovery-works | Can backups contain ransomware?
+backup-between-difference-ransomware-replication | how-ransomware-recovery-works | What is the difference between backup and replication for ransomware?
+quickly-reinfection-restor-risk | how-ransomware-recovery-works | Why does restoring quickly risk reinfection?
+objective-plann-ransomware-recovery-time | how-ransomware-recovery-works | What is a recovery time objective in ransomware planning?
+objective-plann-point-ransomware-recovery | how-ransomware-recovery-works | What is a recovery point objective in ransomware planning?
+backup-be-often-restoration-tested | how-ransomware-recovery-works | How often should backup restoration be tested?
+double-extortion-ransomware | how-ransomware-recovery-works | What is double extortion in ransomware?
+data-guarantee-pay-ransom-recovery | how-ransomware-recovery-works | Does paying a ransom guarantee data recovery?
+attacker-backup-if-keep-online-organization-reach-them | how-ransomware-recovery-works | Why do organizations keep backups online if attackers can reach them?
+identity-play-ransomware-recovery-role | how-ransomware-recovery-works | What role does identity play in ransomware recovery?
+change-notpetya-plann-ransomware-recovery | how-ransomware-recovery-works | How did NotPetya change ransomware recovery planning?
+backup-be-long-ransomware-retained | how-ransomware-recovery-works | How long should ransomware backups be retained?
+backup-offline-still-stored-tape | how-ransomware-recovery-works | Why are offline backups still stored on tape?
+after-attack-be-first-ransomware-recovered | how-ransomware-recovery-works | What should be recovered first after a ransomware attack?
