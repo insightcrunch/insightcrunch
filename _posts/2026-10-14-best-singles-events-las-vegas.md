@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "las-vegas"]
 excerpt: "The 20 best singles events in Las Vegas for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 13
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Las Vegas: The Next Two Weeks
 
 Las Vegas is a singles city pretending to be a couples' resort town. Beyond the Strip, the Arts District, Downtown and neighborhood taverns run speed dating in Las Vegas, singles mixers, trivia nights and classes all fortnight, and this window lands on Las Vegas PRIDE weekend plus the Las Vegas Book Festival. If you are searching for singles events in Las Vegas or where locals actually meet singles in Las Vegas, this list skips the nightclub line and goes where the conversation is.
 
-![Singles events in Las Vegas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Las Vegas - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
