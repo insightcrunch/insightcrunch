@@ -6,15 +6,15 @@ date: "2019-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "TANF", "Welfare Reform", "Social Policy", "Legislative Process", "104th Congress"]
 excerpt: "The TANF block grant turns on four purposes in the statute, only two of them tied to need, plus a fixed grant and a caseload credit that sets real targets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: "90"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2019-10-01"
+lang: en
 ---
-
 Temporary Assistance for Needy Families is Title IV-A of the Social Security Act, as rewritten by Public Law 104-193 in 1996, codified at 42 U.S.C. 601 and following, and the TANF block grant created by that part places its demands first on states rather than on individual families. A state that accepts the grant must submit a plan built on outline and certification, must spend federal and counted state dollars only in a manner reasonably calculated to accomplish a statutory purpose, must engage a measured share of families receiving assistance in countable work activities, must spend state funds at a required maintenance of effort level, and must observe a federal limit on the use of federal funds for assistance after sixty months. An individual family, by contrast, receives no federal entitlement from the part itself, because section 601(b) states that the part is not to be interpreted to entitle any individual or family to assistance under a state program funded under the part. The statute therefore requires design, spending discipline, work measurement, and reporting from governments, while leaving the existence and level of a benefit to state law within the federal boundaries that the following sections describe.
 
-![TANF block grant statute text and the four purposes in Title IV-A - Insight Crunch](/assets/images/blog/blog-01.webp)
+![TANF block grant statute text and the four purposes in Title IV-A - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 After reading, a reader can name the four statutory purposes, notice that only two are means-tested, and describe the caseload reduction credit that decides whether the work requirement binds. Nearly every operative rule in Part A depends on distinctions stated early and applied later. The central claim has a short form that a reader can carry through every later provision: two of four purposes have no income test. Section 601(a) conditions the first purpose on need, since assistance is for needy families so that children may be cared for in their own homes or in the homes of relatives, and conditions the second purpose on need, since the end of dependence is framed for needy parents through job preparation, work, and marriage. The third purpose, prevention and reduction of out-of-wedlock pregnancies with annual numerical goals, contains no reference to need, and the fourth purpose, encouragement of the formation and maintenance of two-parent families, contains no reference to need either. A grant that appears at first sight to be a cash assistance program is therefore, on the face of the purposes clause, a broader family policy fund for a defined share of lawful spending.
 

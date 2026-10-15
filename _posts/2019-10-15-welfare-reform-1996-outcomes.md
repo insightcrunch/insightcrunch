@@ -6,15 +6,15 @@ date: "2019-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "Public Law 104-193", "Poverty Policy", "Social Policy"]
 excerpt: "Welfare reform outcomes measured across five findings: caseloads, employment, poverty, coverage and the recession test, with attribution disputes stated fully."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2019-10-15"
+lang: en
 ---
-
 What welfare reform did is a measurement question before a verdict question. The statute under examination is Public Law 104-193, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, which ended Aid to Families with Dependent Children and replaced an individual entitlement to cash assistance with the Temporary Assistance for Needy Families block grant. State programs under the block grant operated from 1997, and each state set benefit levels, eligibility rules, sanction rules, and time limits inside a federal funding structure that paid a fixed amount regardless of caseload movement. The treatment under examination therefore had no single start date and no single national form, because the federal government had approved state waiver experiments before enactment, and several waiver programs had tested work requirements, earnings disregards, and time limits under the predecessor program during the middle 1990s.
 
-![What welfare reform did to caseloads, employment and poverty - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What welfare reform did to caseloads, employment and poverty - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The provisions that produced the record are set out in [the guide to the welfare reform provisions and the TANF block grant](/2019/08/01/welfare-reform-act-1996-guide/), and the distinction that organizes the evidence is structural. Under the predecessor program, federal spending rose with eligible enrollment, and a family that met the governing tests held a claim that a state had to honor. Under the block grant, federal spending held at a fixed nominal amount, no individual entitlement survived, and a state gained discretion to narrow entry, reduce grants, divert applicants, and redirect funds toward child care, work programs, and administration. Every finding in the sections that follow traces back to that substitution, to the labor market that received the families affected, or to the tax and benefit programs that operated beside cash assistance.
 

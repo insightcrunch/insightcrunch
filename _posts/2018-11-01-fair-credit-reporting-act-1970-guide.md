@@ -6,17 +6,17 @@ date: "2018-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Fair Credit Reporting Act", "Financial Regulation", "Congress", "Supreme Court"]
 excerpt: "The Fair Credit Reporting Act governs consumer reports, credit bureau accuracy duties, dispute rights, permissible purposes, and remedies for violations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2018-11-01"
+lang: en
 ---
-
 ## The First Federal Information Privacy Law
 
 The question at the center of the Fair Credit Reporting Act was a question about power over a file. By 1970, a commercial company could assemble a dossier on an adult in the United States, sell descriptions of that person to lenders, insurers, and employers, and make consequential judgments possible without the person ever seeing the file, learning who had supplied its contents, or correcting an error that had entered it. Congress legislated against that arrangement. The statute answered with a proposition that had no earlier equivalent in federal law, namely that a private organization holding personal information for commercial decisions owed duties of accuracy, confidentiality, and fairness to the individual described in the record, even though that individual had never chosen the organization, paid the organization, or agreed to the creation of the file.
 
-![Fair Credit Reporting Act and the consumer credit file it brought under federal law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fair Credit Reporting Act and the consumer credit file it brought under federal law - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The formal identity of the statute can be stated in a single pass. The Fair Credit Reporting Act was added as Title VI of the Consumer Credit Protection Act by Public Law 91-508. President Richard Nixon signed Public Law 91-508 on October 26, 1970. The public law provided that Title VI took effect upon the expiration of one hundred and eighty days following the date of enactment, and federal regulators thereafter recorded the resulting effective date as April 25, 1971. The act was codified at sections 1681 and following of Title 15 of the United States Code. The parent act, the Consumer Credit Protection Act, had itself been enacted in 1968 as Public Law 90-321, so the Fair Credit Reporting Act entered federal law as an amendment that extended an existing consumer credit framework into a new subject, the files that made consumer credit decisions possible in the first place.
 

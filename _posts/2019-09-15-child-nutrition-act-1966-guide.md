@@ -6,15 +6,15 @@ date: "2019-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Child Nutrition Act", "School Meals", "WIC", "Nutrition Policy", "Education Policy"]
 excerpt: "The Child Nutrition Act built breakfast, milk aid, and WIC on the school lunch framework, and its entitlement line decides which programs survive tight budgets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: "91"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2019-09-15"
+lang: en
 ---
-
 The operative question behind the Child Nutrition Act was deceptively simple: when a child arrived at school hungry, which level of government paid for the meal, under what conditions, and with what degree of legal obligation? Congress legislated against a record in which that question had no stable answer. School feeding had grown from charity and local initiative into a patchwork of surplus commodity shipments, relief labor, and state authorization, and the patchwork fed children well in districts with wealth, organization, and kitchen capacity while leaving poor districts with the weakest facilities and the least margin. War gave the gap a manpower measure, because Selective Service examinations linked poor childhood diets to rejected recruits, and the National School Lunch Act of 1946 answered with a permanent program that declared school lunch a measure of national security. Two decades later, the lunch framework reached lunch and little else. Breakfast had no federal assistance. Milk ran on separate and expiring authority. Equipment money lagged behind need in the schools serving the poorest children. The claim that organizes the entire statute is plain: entitlement or appropriation decides everything.
 
-![Child Nutrition Act school meals and the entitlement line between programs - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Child Nutrition Act school meals and the entitlement line between programs - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 That claim explains why two programs inside the same statutory family could offer opposite levels of security to the families each program served. Under the lunch structure inherited from 1946, federal payment followed each qualifying meal that a participating school served. A school that served more eligible children generated more reimbursement, and the federal obligation arose from the act of service itself. Under the supplemental program added for women, infants, and children in 1972, federal money arrived as a grant fixed by an annual appropriation, divided among state agencies by formula, and translated by clinics into a funded caseload. Eligibility defined who could be served, and the appropriation defined how many would be served. The distinction between a reimbursement that follows service and a grant that precedes service runs through every later question in the field, from equipment aid for school kitchens to the survival of a program during a lapse in appropriations.
 

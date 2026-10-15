@@ -6,17 +6,17 @@ date: "2019-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Consumer Protection", "Federal Trade Commission", "Financial Regulation", "Supreme Court", "Study Guides"]
 excerpt: "Federal vs state consumer protection decides who a wronged consumer can sue, what damages are available, and why an arbitration clause can override the answers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: "90"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2019-02-01"
+lang: en
 ---
-
 ## Two Systems for One Wrong
 
 The comparison described as federal vs state consumer protection begins, in most instances, with a single transaction that went wrong. A buyer paid for a repair that a shop never completed, signed a credit contract whose price differed from the price quoted at the counter, or relied on an advertisement that described a product in terms the product could not meet. The loss is often modest, a few hundred dollars or a damaged credit record, and the conduct is rarely dramatic. The legal question, however, is structural. Two systems of consumer law claim authority over the same deception, one enacted by Congress and administered from Washington, the other enacted by fifty state legislatures and administered close to the place of sale. A consumer cheated in a transaction has to learn which body of law belongs to that consumer in a practical sense: which statute supplies a claim, which official can act on a complaint, and which forum will hear the dispute.
 
-![Federal vs state consumer protection compared across legislatures, agencies, and courts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal vs state consumer protection compared across legislatures, agencies, and courts - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 
 That choice confronts three distinct audiences. The injured consumer encounters the choice first, usually after a complaint to the seller has failed, when the issue is whether a court will recognize a personal claim or whether relief depends on persuading a public agency to take the matter up. The student encounters the choice as a problem of design, because the two systems were built in different periods and with different assumptions about who should enforce a prohibition on deception. The practitioner encounters the choice as a problem of selection, since pleadings, defenses, and settlement value all shift with the governing statute. A lawyer evaluating a deceptive practice in 2018, for example, had to decide whether to plead a state claim, a sectoral federal claim, or both, and had to anticipate motions addressed to preemption and to arbitration.

@@ -6,17 +6,17 @@ date: "2019-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Economic Opportunity Act", "War on Poverty", "Congress", "American History", "Legislative Process"]
 excerpt: "The Economic Opportunity Act built a presidential antipoverty office, funded community action, and left programs that outlived the agency itself by decades."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: "89"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2019-08-15"
+lang: en
 ---
-
 The Economic Opportunity Act opened with a puzzle of institutional design, and the puzzle explains the statute better than any list of programs. Why would Congress place an antipoverty command outside every existing department? The Department of Labor ran manpower training. The Department of Health, Education, and Welfare ran education, health, and public assistance programs. The Department of Agriculture ran rural credit and farm programs. Each department held one fragment of poverty, and each fragment came with a constituency, a bureaucracy, and a settled routine. A statute that divided new money among those departments would have reproduced the fragmentation that the Council of Economic Advisers had identified as a central defect, because a poor family met low schooling, poor health, racial exclusion, weak local labor demand, and inadequate income as one combined condition, not as separate departmental files. Congress instead created a new office, placed that office beside the President, and gave the office both programs of its own and a duty to pull the fragments into one campaign.
 
 The statute was the Economic Opportunity Act of 1964, Public Law 88-452, 78 Stat. 508, signed August 20, 1964, and codified at 42 U.S.C. 2701 et seq. before repeal. Its declaration of policy committed the nation to eliminate the paradox of poverty in the midst of plenty, and its titles built machinery for that commitment: employment and training for youth, community action in urban and rural areas, loans for farmers and small businesses, work experience for adults, and a domestic volunteer corps. Three words and a backlash supply the shortest accurate summary of the career that followed. The three words were maximum feasible participation, the phrase in section 202(a) requiring that a community action program be developed, conducted, and administered with the maximum feasible participation of residents of the areas and members of the groups served. The backlash came from mayors, governors, and members of Congress who learned that a federally funded local agency could organize poor residents, challenge municipal decisions, and answer to Washington rather than to city hall.
 
-![Office of Economic Opportunity community action programs and the maximum feasible participation fight - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Office of Economic Opportunity community action programs and the maximum feasible participation fight - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The design choice carried a second consequence that the sections below trace title by title. Because the new office owned programs rather than merely advising departments, each program acquired its own constituency, its own local institutions, and its own claim on appropriations. Community action agencies formed in cities and rural counties across the country. Head Start began in the summer of 1965 under community action authority, although the enacted text never named the program. Job Corps centers, legal services projects, community health centers, and volunteer placements each developed records and defenders separate from the office that had launched them. The contrast with the education legislation of the same period is instructive, because [the Elementary and Secondary Education Act of 1965](/2014/08/01/elementary-secondary-education-act-1965/) sent federal money through state and local education agencies, while community action deliberately built a channel that could run around established local government when local government was judged part of the problem.
 

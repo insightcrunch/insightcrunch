@@ -6,15 +6,15 @@ date: "2019-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Montgomery GI Bill", "Post-9/11 GI Bill", "GI Bill", "Veterans Benefits", "Education Benefits"]
 excerpt: "Montgomery vs Post-9/11 GI Bill compared on payment, election, transfer and online study, with the deciding factor named and the verdict defended in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2019-07-01"
+lang: en
 ---
-
 The Montgomery vs Post-9/11 GI Bill comparison is asked most sharply by a separating servicemember holding an election form, because for that reader the comparison is a signature rather than a topic. One program was purchased during the first year of service and pays a flat monthly stipend to the veteran. The other was earned by service alone and pays tuition to the school, a housing allowance to the veteran, and a smaller amount for books. Choosing between them requires pricing a course of study that has not begun, at a school that may not be chosen, in a town whose housing costs may not be known, and the election, once made, generally cannot be taken back.
 
-![Montgomery vs Post-9/11 GI Bill payment structures compared side by side - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Montgomery vs Post-9/11 GI Bill payment structures compared side by side - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The two programs compared here are the Montgomery GI Bill, established by the Montgomery GI Bill Act of 1984 as Title VII of the Department of Defense Authorization Act, 1985, Public Law 98-525, and codified at Chapter 30 of title 38, United States Code, and the Post-9/11 GI Bill, established by the Post-9/11 Veterans Educational Assistance Act of 2008 as Title V of the Supplemental Appropriations Act, 2008, Public Law 110-252, and codified at Chapter 33 of the same title. Each promises 36 months of educational assistance. Almost every other feature differs, and the differences run along five axes: how the money is paid, what entry costs, whether entitlement transfers to a spouse or child, how long entitlement lasts after separation, and whether a veteran must choose between the programs at all.
 

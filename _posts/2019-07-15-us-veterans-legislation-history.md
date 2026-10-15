@@ -6,17 +6,17 @@ date: "2019-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "Congress", "American History", "Education Policy", "Health Policy"]
 excerpt: "US Veterans Legislation explained: education, compensation, health care, presumptions and appeals, and the budget scoring that shaped each major expansion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "91"
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: "2019-07-15"
+lang: en
 ---
-
 ## The Arc of US Veterans Legislation and the Ratchet That Organizes the Field
 
 US veterans legislation follows a rhythm so regular that the rhythm itself explains the field better than any single statute does. A war creates a cohort whose service interrupted schooling, careers, and household formation, and Congress answers with a readjustment package built around education, housing credit, and cash compensation for disability. A scandal or an administrative breakdown follows, as a benefit designed in haste meets a bureaucracy asked to deliver it at scale, and Congress answers with tighter administration, clearer eligibility rules, and stronger controls on the institutions that receive federal money. A court decision, a claims backlog, or a newly recognized condition then exposes a gap between the promise in the statute and the experience of the claimant, and Congress answers again, almost always by widening the promise rather than by narrowing it. Wars expand the beneficiary class. Scandals reform the machinery. Exposure of an unmet need adds a benefit, a presumption, or a category of eligibility. Retrenchment, by contrast, has no comparable place in the sequence, and that asymmetry is the organizing fact of the domain.
 
-![US veterans legislation milestones and the title 38 statute book - Insight Crunch](/assets/images/blog/blog-01.webp)
+![US veterans legislation milestones and the title 38 statute book - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The claim can be stated in a form definite enough to test against the record assembled in the sections that follow. Benefits tied to service connected conditions operate as a one way ratchet with a scoring constraint. Once Congress recognizes a disability as connected to service, extends compensation to a class of survivors, or treats a condition as presumptively linked to a particular theater or exposure, later Congresses do not repeal the recognition, even when the fiscal cost grows far beyond the estimate attached at enactment. Political opposition therefore rarely decides outcomes in the manner familiar from tax or regulatory legislation, where organized interests line up on opposing sides and the losing side accepts a contraction of a program it opposed from the start. In veterans legislation the constituency for contraction is weak, diffuse, and reluctant to be recorded against claimants whose entitlement rests on service. The binding constraint is instead budget scoring: the projected cost of a proposal over the budget window, the offset demanded under congressional pay as you go practice, and the question of whether a benefit can be drafted narrowly enough to pass a cost estimate while broadly enough to satisfy the organizations pressing for it.
 

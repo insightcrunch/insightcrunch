@@ -6,15 +6,15 @@ date: "2018-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Sentencing Law", "US Legislation Crack Powder Ratio", "US Legislation Mandatory Minimums", "US Legislation Drug War Era"]
 excerpt: "The Anti-Drug Abuse Acts built federal drug sentencing around quantity tiers and a 100-to-1 crack powder ratio. This guide traces the thresholds and correction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: "73"
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: "2018-06-15"
+lang: en
 ---
-
 What happens when Congress sets the length of a prison sentence the way it sets a budget line, choosing the number first and defending it never? That is the operative question behind the Anti-Drug Abuse Act of 1986 and its successor of 1988, the two federal statutes that rebuilt drug sentencing around fixed quantity thresholds and let those thresholds govern federal courtrooms for a generation. In the autumn of 1986, between the death of a basketball star in June and a midterm election in November, the House and Senate wrote mandatory minimum prison terms into law for trafficking weights as small as five grams, and two years later they extended a five-year floor to simple possession itself.
 
-![Congressional debate over the Anti-Drug Abuse Acts and their sentencing thresholds - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Congressional debate over the Anti-Drug Abuse Acts and their sentencing thresholds - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The mechanism was deceptively simple. Once the charged weight of a drug crossed a statutory line, the sentencing judge lost the power to impose less than the floor Congress had set, with the single exception of a government motion for substantial assistance. Quantity became the proxy for culpability. Five grams of crack cocaine drew the same five-year minimum as five hundred grams of powder cocaine, because Congress treated the two forms of the same chemical as if one were one hundred times the other, and no committee ever held a hearing to test whether the numbers matched the offenders they were meant to catch. The Sentencing Commission spent the next two decades documenting what the compressed schedule of 1986 had made inevitable: the thresholds swept in low-level sellers, distributed their weight unevenly by race, and produced sentences judges themselves described as greater than necessary.
 

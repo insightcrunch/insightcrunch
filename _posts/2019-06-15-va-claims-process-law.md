@@ -6,17 +6,17 @@ date: "2019-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "VA Claims", "Administrative Law", "Veterans Affairs", "Legislative Process"]
 excerpt: "VA claims explained in full: filing dates, the duty to assist, examinations, rating decisions, the three review lanes, court review, fees, and the backlog."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2019-06-15"
+lang: en
 ---
-
 ## The Distance Between the Statute and the Decision
 
 VA claims enter the law as a short and generous promise. Under section 1110 of title 38, United States Code, Congress authorized compensation for disability resulting from personal injury suffered or disease contracted in the line of duty in active military, naval, or air service. Nothing in the operative text announces the intake centers, the records requests sent to federal agencies, the medical examinations, the rating schedules, or the years that can separate an application from a final answer. The distance between the statute and the decision is the subject of the administration of veterans benefits, and that distance is measured in procedure. A benefit authorized in a single sentence reaches a claimant through a claims file assembled piece by piece, an examination conducted by a clinician who makes no decision, a rating assigned by an adjudicator who conducted no examination, and review options whose deadlines carry real financial consequences.
 
-![VA claims process from intent to file through examination decision and review lanes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![VA claims process from intent to file through examination decision and review lanes - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The formal identity of the system explains part of that structure. Claims administration rests in chapter 51 of title 38, which governs claims, notice, the duty to assist, decisions, and effective dates in sections 5101 to 5110. Representation rests in chapter 59, covering agents and attorneys in sections 5901 to 5904. Review inside the Department of Veterans Affairs rests in chapter 71, which establishes the Board of Veterans' Appeals, and judicial review rests in chapter 72, which establishes the Court of Appeals for Veterans Claims. Two statutes rebuilt the machinery inside that frame. The Veterans Claims Assistance Act of 2000, Public Law 106-475, signed on November 9, 2000, rewrote the development duties in chapter 51 and eliminated the requirement that a claim be well grounded before the duty to assist arose. The Veterans Appeals Improvement and Modernization Act of 2017, Public Law 115-55, signed on August 23, 2017, and implemented on February 19, 2019, replaced the sequential appeal structure for decisions issued on or after that date with a choice among three review lanes.
 

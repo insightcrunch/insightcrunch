@@ -6,17 +6,17 @@ date: "2018-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Public Health", "US Legislation Food and Drug Law", "US Legislation Tax Policy", "US Legislation Rare Disease"]
 excerpt: "The Orphan Drug Act built a market for rare treatments from seven-year exclusivity, then watched those incentives copied worldwide and subdivided at home."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: "71"
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2018-07-01"
+lang: en
 ---
-
 ## Introduction
 
 The Orphan Drug Act of 1983 is the rare statute whose mechanism can be stated in one sentence and whose consequences took three decades to map. Congress diagnosed a market failure, not a scientific one: developing a drug cost roughly the same whether the patient population numbered a million people or a thousand, so conditions affecting small populations attracted almost no commercial development. The law answered without picking diseases or funding development directly. It granted seven years of market exclusivity that ran independently of the patent system, a tax credit for qualifying clinical testing, a waiver of application fees, research grants, and written agency guidance on trial design, with every benefit flowing from a single orphan designation.
 
-![Laboratory researcher reviewing rare disease treatment data under the Orphan Drug Act incentive framework](/assets/images/blog/blog-01.webp)
+![Laboratory researcher reviewing rare disease treatment data under the Orphan Drug Act incentive framework](/assets/images/blog/blog-112.webp)
 
 The statute worked on the measure that mattered. In the decade before its passage, roughly ten drugs for rare conditions reached American patients. Through the end of 2017, the Food and Drug Administration had granted nearly 4,500 orphan designations and approved more than 650 orphan drugs for conditions that previously had no treatments. Regulators in Europe and Japan built comparable regimes on the American template, and the statute is widely described as the model for orphan drug policy worldwide.
 

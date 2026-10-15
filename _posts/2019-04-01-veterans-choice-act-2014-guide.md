@@ -6,17 +6,17 @@ date: "2019-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Veterans Choice Act", "Veterans Health", "Congress", "Health Policy", "Accountability"]
 excerpt: "The Veterans Choice Act answered a scheduling scandal with a private care program built on a thirty day wait rule, a forty mile rule, and a fixed fund."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2019-04-01"
+lang: en
 ---
-
 ## The Question Behind the Statute
 
 What does a government owe patients when its own hospitals cannot see them in time, and what should Congress build in answer when delay itself becomes a form of denial? The Veterans Choice Act, enacted as the central part of the Veterans Access, Choice, and Accountability Act of 2014, Public Law 113-146, was the legislative reply to that question. The statute did not begin as an abstract debate about public medicine or private medicine. The statute began as an emergency response to a failure of access inside the Department of Veterans Affairs, a department charged with providing health care to men and women whose entitlement to that care rested on military service. The operative promise was simple to state and difficult to honor: a veteran enrolled in the system would receive timely care, in a department facility when the department could provide it, and through paid community care when the department could not.
 
-![Veterans Choice Act community care eligibility and the forty mile rule explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Veterans Choice Act community care eligibility and the forty mile rule explained - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 That promise carried a moral weight distinct from ordinary health policy. Veterans health care rests on a compact articulated across generations of law, from Civil War pensions through the creation of a cabinet level department. The compact holds that service connected injury, illness, and need create a direct obligation, and that obligation does not dissolve when an appointment desk falls behind. By the spring of 2014, reporting from Phoenix suggested that the obligation had been obscured by paperwork, that veterans waited on unofficial lists while official records showed prompt service. The allegation struck at competence and at honesty. A long wait can be explained by demand, funding, or staffing. A hidden wait suggests that the institution charged with measuring the problem had instead concealed the problem from oversight.
 

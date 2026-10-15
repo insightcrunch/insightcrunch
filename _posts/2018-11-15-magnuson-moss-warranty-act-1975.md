@@ -6,17 +6,17 @@ date: "2018-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Consumer Protection", "US Legislation Warranties", "US Legislation Federal Trade Commission", "US Legislation Magnuson-Moss Warranty Act", "US Legislation Consumer Law"]
 excerpt: "Magnuson-Moss Warranty Act explained: full and limited labels, disclosure before sale, implied warranty protection, tie-in limits, and attorney fee recovery."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2018-11-15"
+lang: en
 ---
-
 ## Introduction
 
 The operative question answered by the Magnuson-Moss Warranty Act is narrow. When a seller or manufacturer chooses to make a written promise about a consumer product, what must that promise disclose, how must the promise be labeled, what conditions may not be attached, and what happens when the promisor refuses to perform? Congress in 1974 legislated against a market in which the written warranty had become a selling device first and an enforceable commitment second. A warranty could be advertised in large type as comprehensive protection and then qualified in dense language that few purchasers read before sale and fewer could enforce after a defect appeared. Terms varied without a common vocabulary, so comparison rested on slogans rather than on coverage, duration, exclusions, and remedy. A seller could give a written warranty with one hand and disclaim the implied warranties arising under state law with the other, leaving a document that looked like protection and functioned as a limitation. For most individual purchases, suit over a breached warranty cost more than the loss, and that arithmetic made many written promises practically unenforceable regardless of the merits of a claim.
 
-![Magnuson-Moss Warranty Act: warranty designation, the tie-in prohibition, and FTC rulemaking - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Magnuson-Moss Warranty Act: warranty designation, the tie-in prohibition, and FTC rulemaking - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The House report that accompanied the legislation, House Report Number 93-1197 of the Ninety-third Congress, described the purpose in functional terms. The statute was meant to make warranties on consumer products more readily understood and more readily enforceable, and to give the Federal Trade Commission better means of protecting consumers against deceptive warranty practices. Hearings and reports before enactment returned repeatedly to complaints from owners of motor vehicles who alleged that manufacturers and dealers had failed to perform in accordance with the warranties issued at sale. The problem, as Congress framed the problem, was not an absence of warranties, which American firms issued in enormous numbers after the Second World War. The problem was asymmetry. The warrantor drafted the document, controlled the service network, and possessed the technical information, while a purchaser encountered the full terms often only after payment. Federal legislation answered that asymmetry by imposing disclosure, labeling, anti-conditioning, and enforcement rules on any warrantor that entered the written warranty market voluntarily.
 

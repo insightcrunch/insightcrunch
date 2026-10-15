@@ -6,15 +6,15 @@ date: "2018-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Controlled Substances Act", "US Legislation Drug Scheduling", "US Legislation DEA HHS Process", "US Legislation Federal Drug Law", "US Legislation Provisions and Text"]
 excerpt: "Drug scheduling decides where every substance sits and who may move it: five schedules, three findings, eight factors, and the binding HHS veto explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: "74"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2018-07-15"
+lang: en
 ---
-
 Who decides where a drug sits on the federal schedules, and what constrains that decision? Drug scheduling is the administrative process by which substances move onto, between, and off the five schedules of the Controlled Substances Act, and the answer to both halves of the question lies in a single unusual bargain struck in 1970. Congress divided the power between two agencies: the enforcement agency that initiates proceedings and writes the final orders, and the health agency whose scientific judgment can stop control cold but cannot compel it. The result is a system in which placement is never one office's call, in which the evidentiary demands are written into the statute itself, and in which international treaty commitments and an emergency lane for imminent hazards define the outer edges of what the domestic machinery may do and may undo.
 
-![How the five drug schedules and the federal scheduling process work - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the five drug schedules and the federal scheduling process work - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The placement of a substance carries consequences that reach far beyond a label. A schedule determines whether a drug may be prescribed at all, whether prescriptions may be refilled, what registration and security obligations manufacturers and researchers carry, and what criminal penalties attach to unauthorized distribution. Because so much turns on the outcome, the statute builds the decision the way it builds a trial: with named findings that must be made, an evidentiary checklist that must be worked through, a health agency whose negative verdict ends the matter, a hearing in which any affected interest may test the evidence, and a reviewing court that examines the record. This article walks that machinery in the order a proceeding actually travels. It opens with the statutory gate, the three findings that must be made for each schedule, and shows how the five schedules descend from prohibition to ordinary pharmacy practice. It then traces the three routes into a proceeding, the petitions any interested party may file, the health agency evaluation that follows, and the one-directional veto that evaluation carries. The eight factors the statute commands the agencies to consider come next, with the documented record of how each factor has been applied to real substances. From there the account turns to the two provisions that sit outside the ordinary machinery, temporary scheduling for imminent hazards and the treaty provision that limits how far control may be undone, and then to the most argued-about placement in the system, the Schedule I listing of cannabis, the circularity rescheduling petitioners identify in it, and the record of substances that have moved in both directions. The final section states the honest account: a system with genuine constraints that nonetheless moves downward far more slowly than it moves up, and explains why that tempo is a product of the statute's design.
 

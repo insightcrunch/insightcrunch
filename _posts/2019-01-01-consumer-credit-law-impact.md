@@ -6,15 +6,15 @@ date: "2019-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Consumer Credit", "Truth in Lending", "Credit Cards", "Financial Regulation", "Congress"]
 excerpt: "Consumer credit law promised informed borrowing through disclosure. The record shows weak comprehension, large card savings, and a contested access record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2019-01-01"
+lang: en
 ---
-
 The Truth in Lending Act of 1968 stated the aim of federal disclosure law in a single chain of reasoning. Meaningful disclosure of credit terms would create consumer awareness of the cost of credit, awareness would produce the informed use of credit, and informed use would strengthen competition among the firms extending credit. Federal consumer credit law rested on that chain. Congress did not set the price of a loan, cap an interest rate, or forbid a term in 1968. Congress standardized the description of the transaction, through the finance charge and the annual percentage rate, and assigned the discipline of the market to borrowers equipped with a common measure. The promise was precise enough to test. A borrower who received the same price language from every creditor could compare offers, reject expensive credit, and reward cheaper credit, and competition would perform the regulatory work that price control performed under older state usury regimes.
 
-![Consumer credit law measured effects and the statutes under review - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Consumer credit law measured effects and the statutes under review - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Whether the aim was met is a question about outcomes rather than intentions, and the federal record assembled between 1968 and the end of 2018 permits an unusually direct answer. Four statutory regimes generated measurable evidence. The Truth in Lending Act generated studies of reading, comprehension, and comparison. The Fair Credit Reporting Act generated a congressionally ordered measurement of error inside the credit file. The Fair Debt Collection Practices Act generated a complaint record of large volume and limited evidentiary meaning. The Credit Card Accountability Responsibility and Disclosure Act generated account level evidence on the effect of prohibiting charges that disclosure had described for decades. The ability to repay rules for mortgages generated a further record in which contraction was plain and causation remained disputed.
 

@@ -6,15 +6,15 @@ date: "2019-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "PRWORA", "Social Policy", "104th Congress"]
 excerpt: "Welfare reform replaced a federal entitlement to cash aid with a fixed block grant, time limits, and work rules that left eligibility to the states by design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: "93"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2019-08-01"
+lang: en
 ---
-
 The operative question in welfare reform was not how generous cash assistance to poor families ought to be, but whether a family that met eligibility rules held a legal right to receive assistance at all. Before August 1996, federal law answered that question in the affirmative for families covered by Aid to Families with Dependent Children, and federal money followed eligibility without a fixed ceiling. Congress legislated against a structure in which enrollment, expenditure, and federal obligation rose together by operation of law, in which receipt of benefits carried no federal lifetime limit, and in which work conditions operated inside an entitlement that a state lacked authority to end for a family that met the governing eligibility tests.
 
-![Welfare Reform Act signing and the end of the AFDC entitlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Welfare Reform Act signing and the end of the AFDC entitlement - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The statute that answered the question bears the formal name Personal Responsibility and Work Opportunity Reconciliation Act of 1996. Congress enacted the measure as H.R. 3734 in the 104th Congress, and the measure became Public Law 104-193 upon signature by President William J. Clinton on August 22, 1996, with publication at 110 Stat. 2105. The long title described a reconciliation bill, a procedural vehicle that limited Senate debate and required only a simple majority for passage. Title I carried the cash assistance provisions, and other titles addressed immigrant eligibility, child support, childhood disability, food assistance, child care, and child protection, so the statute reached far beyond the single program named in most public debate over enactment.
 

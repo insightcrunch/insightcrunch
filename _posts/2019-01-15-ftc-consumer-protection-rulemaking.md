@@ -6,15 +6,15 @@ date: "2019-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Federal Trade Commission", "Consumer Protection", "Administrative Law", "Rulemaking", "FTC Act"]
 excerpt: "FTC rulemaking explains why the Federal Trade Commission governs consumer protection mainly through enforcement cases rather than trade regulation rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2019-01-15"
+lang: en
 ---
-
 The principal federal consumer protection agency in the United States possesses authority broad enough to reach nearly every deceptive or unfair practice in commerce, and yet FTC rulemaking produced only a small body of binding consumer protection rules across the decades after Congress confirmed that authority in 1975. The operative question of the article is therefore a question about institutional design rather than about substantive ambition. Why did an agency armed with Section 5 of the Federal Trade Commission Act, a prohibition written as an open standard against unfair or deceptive acts or practices, govern markets principally through complaints, consent orders, and policy statements instead of through rules announced in advance for an entire industry? The answer carries a namable claim that recurs through every stage of the history. The Federal Trade Commission became, in practical terms, a rulemaking agency that cannot make rules, not because Congress withheld the power, and not because commissioners lacked subjects worthy of regulation, but because the procedure attached to the power priced each rule beyond the capacity of the institution to pay except in rare and protracted proceedings.
 
-![Federal Trade Commission consumer protection rulemaking and enforcement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal Trade Commission consumer protection rulemaking and enforcement - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The route through that history begins with the founding choice of 1914, when Congress enacted a standard rather than a catalogue of prohibited practices and assigned specification of the standard to case by case adjudication, a choice the Wheeler-Lea Act of 1938 extended by adding unfair or deceptive acts or practices beside unfair methods of competition. Definition arrived later and from an unexpected direction. The deception standard of 1983 and the unfairness standard first stated in 1980 gave Section 5 administrable tests, yet both standards lived in policy statements rather than in legislative rules, and Congress codified the unfairness test alone, at 15 U.S.C. 45(n), in 1994. Specification of substance therefore proceeded faster than specification through rules, because a policy statement required no hearing, no cross examination, and no record built for substantial evidence review.
 

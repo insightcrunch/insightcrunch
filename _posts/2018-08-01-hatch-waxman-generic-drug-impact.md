@@ -6,17 +6,17 @@ date: "2018-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Hatch-Waxman", "US Legislation Generic Drugs", "US Legislation Drug Prices", "US Legislation Pharmaceutical Policy", "US Legislation Antitrust"]
 excerpt: "The Hatch-Waxman generic drug market impact, measured against its aims: penetration, price collapse by entrant count, settlement costs, and shortages."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: "2018-08-01"
+lang: en
 ---
-
 ## Introduction
 
 The Hatch-Waxman generic drug market is the largest deliberate experiment in pharmaceutical competition that American law has run, and it produced the rare policy result that can be read off a chart. Before 1984, a generic copy of a brand drug was a legal possibility and an economic rarity. Within three decades of the Drug Price Competition and Patent Term Restoration Act, generic versions filled nine of every ten prescriptions in the United States while taking only a fifth of the money, and the mechanism that produced that inversion, the collapse of price as the number of competing manufacturers grows, is documented in the Food and Drug Administration's own price analyses. Measured against its stated aim of affordable medicines, the statute is the clearest success in American pharmaceutical policy.
 
-![Hatch-Waxman and the generic drug market: penetration, price collapse, and the shortage trade-off - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hatch-Waxman and the generic drug market: penetration, price collapse, and the shortage trade-off - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The same provisions also built the machinery of delay. The first-filer exclusivity that was designed to reward patent challenges created a duopoly window in which prices stay close to brand levels, and the settlement of patent litigation inside that window taught brand and generic firms that dividing a monopoly could pay better than competing for it, a practice the Federal Trade Commission priced at billions of dollars a year before the Supreme Court subjected it to antitrust scrutiny in 2013. On the brand half of the bargain, patent term restoration stabilized effective patent life while leaving the research question it was sold on permanently unanswerable, because the counterfactual cannot be observed. And the price competition that saved the money compressed margins until manufacturing consolidated, moved offshore, and left low priced essential medicines exposed to shortage. Success and gaming came from the same provisions, and an account that reports only one half is describing a different statute.
 

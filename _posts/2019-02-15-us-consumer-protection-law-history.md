@@ -6,15 +6,15 @@ date: "2019-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Consumer Protection", "Federal Trade Commission", "Consumer Credit", "Product Safety", "Privacy Law"]
 excerpt: "US consumer protection law grew statute by statute and industry by industry. The sequence from product safety to credit, privacy, and the consumer bureau."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: "93"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2019-02-15"
+lang: en
 ---
-
 US consumer protection law has no single founding statute. No act of Congress created a general right to safe products, honest selling, fair credit, or private information for every buyer in every market. Protection arrived instead after particular harms became impossible to ignore: a sweater that flashed into flame, a child trapped inside a discarded refrigerator, a poison stored under a sink without an adequate warning, a loan whose price could not be compared with the price of a rival loan, a credit file whose errors the subject of the file could neither see nor correct. Each harm produced a statute, and each statute reached the industry in which the harm had appeared and stopped at the boundary of that industry. The field therefore grew as a sequence of bounded answers rather than as a code written outward from a general principle, and the sequence, running from the first product statutes of the nineteen fifties to the creation of a dedicated financial regulator in 2010, supplies the structure of the account that follows. The pattern inside the sequence explains both the real strength of the protections that exist and the gaps a reader encounters between one protected transaction and a neighbouring transaction that no statute reached.
 
-![A mid-century American kitchen appliance beside a credit card, a warranty booklet, and a smartphone, arranged on a table](/assets/images/blog/blog-01.webp)
+![A mid-century American kitchen appliance beside a credit card, a warranty booklet, and a smartphone, arranged on a table](/assets/images/blog/blog-69.webp)
 
 The organising claim of the account can be named in a single phrase: protected by industry, not by right. A buyer in the American system held enforceable federal protection because a purchase fell inside a category Congress had legislated for, not because buyer status alone carried a bundle of federal rights into every transaction. A credit card holder received error resolution rights that a payer by another instrument lacked. A cable subscriber received privacy duties that a reader of books did not receive from any federal statute. A child received online privacy protection that ended at a thirteenth birthday. In each case the decisive legal question was classification: which product, which record, which seller, which channel. The harm a buyer suffered mattered less, as a matter of legal architecture, than the box into which the transaction fitted, and two buyers suffering closely similar harms could stand in entirely different legal positions because one transaction had attracted a statute and the other had not.
 

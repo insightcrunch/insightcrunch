@@ -6,15 +6,15 @@ date: "2019-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Food Stamp Act", "SNAP", "Farm Bill", "Legislative Process", "American History"]
 excerpt: "The Food Stamp Act created a food benefit bought with cash, then reshaped by national standards, electronic delivery, and a new name as the SNAP program."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "87"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2019-09-01"
+lang: en
 ---
-
 The Food Stamp Act of 1964 answers an operative question of institutional design: by what legal mechanism can the federal government raise the food purchasing power of low income households through ordinary grocery stores, at federal expense, under state administration, without converting food assistance into a general cash grant? Each operative element of the statute responds to a part of that question. Coupons restricted spending to food. A purchase charge required a household contribution scaled to ordinary food expenditure. State agencies certified households under standards approved in Washington. Federal appropriations, capped by fiscal year, limited the value of coupons issued beyond the charges collected from households. The sections that follow trace the statute from a Depression era surplus device to a permanent program, and the record assembled across those sections supports a single organizing claim about the source of durability.
 
-![Food Stamp Act of 1964 purchase requirement and the road to SNAP - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Food Stamp Act of 1964 purchase requirement and the road to SNAP - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Administration supplies the first part of the answer, because the statute divided responsibility between a federal government that financed benefits and set governing rules and state agencies that certified households and issued coupons through local offices. A companion treatment of [the legal structure of SNAP administration](/2019/12/01/snap-administration-law/) examines that division of labor in detail. The second part of the answer concerns legislative location. The program entered law as an instrument for moving agricultural abundance into consumption, and placement inside farm legislation joined nutrition spending to commodity policy inside a single recurring bill. The tension between those two halves of the farm bill receives separate treatment in [an analysis of commodity programs against nutrition programs in the farm bill](/2021/02/15/farm-bill-commodity-vs-nutrition/). Permanence, purchase, national standards, electronic delivery, and renaming each altered program design, and none of those alterations moved the jurisdictional address fixed at enactment.
 

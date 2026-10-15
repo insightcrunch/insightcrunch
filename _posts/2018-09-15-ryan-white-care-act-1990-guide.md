@@ -6,17 +6,17 @@ date: "2018-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation HIV Care", "US Legislation Public Health", "US Legislation Federal Grants", "US Legislation Health Policy", "US Legislation Appropriations"]
 excerpt: "The Ryan White CARE Act funds HIV care, drugs, and support for low income clients after every other payer has paid, through grants to cities and states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: "76"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2018-09-15"
+lang: en
 ---
-
 ## Introduction
 
 The operative question behind the Ryan White CARE Act is precise: who pays for HIV care when the person who needs that care has no insurance, holds insurance that excludes the decisive services, or earns too little to meet the cost sharing that stands between a prescription and the pharmacy counter? Congress legislated against a documented failure. Through the nineteen eighties, illness removed wages, loss of employment removed coverage, and Medicaid rules built around categorical tests excluded many adults with HIV who had not received an AIDS diagnosis. Public hospitals in the hardest hit cities absorbed the expense until the expense exceeded municipal capacity, and a year of the principal antiretroviral drug cost about eight thousand dollars at introduction. No dedicated federal care program existed for people with HIV who lacked insurance, and the fragments of federal support that did exist addressed research, prevention, and demonstration grants rather than the continuing cost of treatment.
 
-![Ryan White CARE Act grants, drug assistance, and payer of last resort rules - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ryan White CARE Act grants, drug assistance, and payer of last resort rules - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The statute that answered the question carries a formal identity that fixes the program in law. The Ryan White Comprehensive AIDS Resources Emergency Act of 1990, Public Law 101-381, at 104 Statutes at Large 576, was signed on August 18, 1990, and took effect as Title XXVI of the Public Health Service Act. The measure created the largest federal program dedicated to a single disease, a standing grant structure through which federal money reached cities, states, clinics, and community organizations that delivered outpatient care, medications, case management, and support services to low income people with HIV. The design contained a discipline that shaped every later development: grant funds paid last, behind Medicaid, Medicare, private insurance, and every other payer, so the program filled the space that other coverage left open rather than displacing that coverage.
 

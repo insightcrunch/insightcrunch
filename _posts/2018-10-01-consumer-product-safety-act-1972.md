@@ -6,17 +6,17 @@ date: "2018-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Consumer Protection", "US Legislation Product Safety", "US Legislation Administrative Law", "US Legislation Consumer Product Safety Commission", "US Legislation Regulation"]
 excerpt: "The Consumer Product Safety Act built a commission administering five statutes, policing products after sale through self-reporting and voluntary standards."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2018-10-01"
+lang: en
 ---
-
 ## Introduction
 
 What should happen when a household product injures people in a pattern, and no single existing law names the product, assigns the hazard to a regulator, or gives anyone power to pull the product from sale? The Consumer Product Safety Act answered that question by building an institution rather than by writing a rule for one product. Congress decided that the federal government needed a permanent, independent commission able to count injuries across the whole consumer marketplace, to set safety standards where counting revealed unreasonable risk, to force dangerous products out of homes and stores, and to do each of those things on a public record that courts could review.
 
-![Consumer Product Safety Act: the five statutes, the reporting duty, and the disclosure restriction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Consumer Product Safety Act: the five statutes, the reporting duty, and the disclosure restriction - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The problem behind the statute had a measurable shape and a structural cause. The National Commission on Product Safety reported in 1970 that consumer products were associated with an estimated 20 million injuries a year, 30,000 deaths a year, and 110,000 permanent disabilities a year, at an annual cost placed at 5.5 billion dollars. Those figures described burns from flammable fabrics, poisonings from household chemicals that children could open, suffocations inside latched refrigerators, and injuries from powered equipment, furniture, and toys that no federal standard governed at all. The structural cause was fragmentation. Authority sat inside departments built for other missions, enforcement followed the category into which a product happened to fall, and each new hazard pattern waited for a separate statute before a federal requirement could attach to it.
 

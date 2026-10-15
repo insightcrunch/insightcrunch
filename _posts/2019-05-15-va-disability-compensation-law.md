@@ -6,15 +6,15 @@ date: "2019-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "Disability Compensation", "Title 38", "Service Connection", "Veterans Law"]
 excerpt: "VA disability compensation law requires proof of a disability linked to service, and this explainer traces the elements, presumptions, ratings, and pay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: "77"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2019-05-15"
+lang: en
 ---
-
 The law of disability compensation requires the United States to pay a veteran only where a present disability resulted from injury or disease incurred or aggravated in line of duty during qualifying service, and the law requires the claimant to establish that chain through evidence while requiring the Department of Veterans Affairs to assist in developing the record and to resolve an approximate balance of evidence in favor of the claimant.
 
-![VA disability compensation law and the service connection elements - Insight Crunch](/assets/images/blog/blog-01.webp)
+![VA disability compensation law and the service connection elements - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 ## What the Law Requires and of Whom
 

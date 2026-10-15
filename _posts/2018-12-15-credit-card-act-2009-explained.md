@@ -6,17 +6,17 @@ date: "2018-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "CARD Act", "US Legislation Consumer Protection", "US Legislation Financial Regulation", "Truth in Lending Act", "US Legislation Study Guides"]
 excerpt: "A guide to the CARD Act rules on rate increases, penalty fees, payment allocation, billing timing, ability to pay and protections for younger cardholders."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2018-12-15"
+lang: en
 ---
-
 ## What the CARD Act Requires of the Companies That Issue Credit Cards
 
 The CARD Act requires a credit card issuer to deal with a balance already incurred under the price terms that governed that balance when the charge was made, except under a closed set of conditions written into federal law. That requirement, placed on issuers of open end consumer credit plans, is the center of the statute. Before February 2010, an issuer could reprice debt already incurred, raising the annual percentage rate on purchases a cardholder had completed months or years earlier under a lower rate, leaving the cardholder to pay the higher price for the old debt or close the account and pay the balance off under pressure. The statute replaced that freedom with a defined set of rules. It fixed the notice required before a rate increase, the circumstances under which an existing balance could be repriced at all, the order in which payments had to be applied among balances at different rates, the conditions for penalty fees and over limit fees, and the showing required about a consumer's ability to pay before an account was opened or a credit limit raised. Each rule binds the issuer rather than advising the consumer, and that direction of obligation separates the statute from the disclosure regime that preceded it.
 
-![Credit card statements and the rules the CARD Act sets for rates, fees and billing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Credit card statements and the rules the CARD Act sets for rates, fees and billing - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 ### The Formal Identity of the Statute
 

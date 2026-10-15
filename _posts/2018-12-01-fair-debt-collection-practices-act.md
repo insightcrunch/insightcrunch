@@ -6,15 +6,15 @@ date: "2018-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Fair Debt Collection Practices Act", "Consumer Credit Protection", "Debt Collection", "CFPB", "Consumer Law"]
 excerpt: "Fair Debt Collection Practices Act coverage, validation rules, communication limits, prohibited practices, court decisions, and consumer remedies explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2018-12-01"
+lang: en
 ---
-
 The operative question behind the Fair Debt Collection Practices Act was narrow, and Congress framed the question around a specific actor rather than around debt itself. When a consumer fell behind on a bill, the creditor often handed the account to an outside collection agency, and a stranger with no prior relationship to the household began demanding payment. Federal law before 1977 regulated what a creditor had to disclose when credit was extended, and federal law regulated how credit information was reported, but no federal statute set conduct rules for the independent collector who pursued the debt after default. The statute answered a gap question: what may a third party collector say and do, to the consumer and to everyone around the consumer, in the effort to collect money owed to somebody else? Every operative provision in the enacted text traces back to that framing, because Congress legislated against a defined set of collection behaviors rather than against indebtedness, default, or the underlying obligation to pay.
 
-![Fair Debt Collection Practices Act coverage, validation notice, and prohibited collection practices - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fair Debt Collection Practices Act coverage, validation notice, and prohibited collection practices - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The behaviors in the congressional record were concrete. Senate Report No. 95-382, the report of the Senate Committee on Banking, Housing, and Urban Affairs that accompanied the bill in 1977, cataloged collection abuse as a pattern of pressure tactics rather than as isolated rudeness. Collectors telephoned consumers late at night and in the early morning, rang telephones repeatedly with the intent to annoy, and used obscene and profane language on calls and in letters. Collectors threatened violence, threatened arrest on a civil debt, and threatened seizure of property or wages without legal authority to carry out the threat. Collectors impersonated attorneys, impersonated government officials, and sent documents designed to look like court process or official government forms. Collectors also carried the pressure beyond the household, disclosing debts to employers, telephoning neighbors and relatives, and using those contacts to shame a consumer into payment. The Senate report treated third person contacts as a distinct harm, stating that, apart from efforts to obtain location information, contact with friends, neighbors, relatives, or an employer served no legitimate collection purpose and produced serious invasions of privacy and the loss of jobs.
 

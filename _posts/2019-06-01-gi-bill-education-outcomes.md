@@ -6,17 +6,17 @@ date: "2019-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "GI Bill", "Veterans", "Education Policy", "American History", "Congress"]
 excerpt: "GI Bill education outcomes show large attainment gains, deep regional and racial gaps, and a large share of later spending captured by proprietary colleges."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: "79"
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2019-06-01"
+lang: en
 ---
-
 ## Readjustment Promised and Attainment Measured
 
 The long title of the Servicemen's Readjustment Act, signed by President Franklin D. Roosevelt on June 22, 1944 according to the Department of Veterans Affairs, stated the purpose in a single phrase: federal aid for the readjustment in civilian life of returning veterans of the Second World War. Readjustment was a deliberately practical word. The statute did not present education as an ornament or as a reward detached from economic life. Education and training sat inside a larger apparatus of transition that the Veterans Administration described as including loan guaranty for homes, farms, or businesses, unemployment pay, and assistance in finding work. The premise, stated plainly across the Roosevelt administration statements preserved by the Franklin D. Roosevelt Presidential Library and Museum, was that service had interrupted civilian lives, that many service members had forgone schooling or vocational training in order to serve, and that a return to civilian life without support risked both personal hardship and a disorderly postwar labor market. The education title therefore carried two burdens at once. For the individual veteran, a benefit was expected to restore lost time and lost opportunity. For the national economy, enrollment was expected to pace reentry into employment rather than force millions of discharged service members into competition for jobs in a single compressed period.
 
-![GI Bill education outcomes and the evidence across four generations of veterans - Insight Crunch](/assets/images/blog/blog-01.webp)
+![GI Bill education outcomes and the evidence across four generations of veterans - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 Measured against that stated aim, the short answer developed across the remainder of the article is mixed in a specific and documentable way. The readjustment aim was met in aggregate: enrollment absorbed returning veterans on a vast scale, attainment rose for the cohorts the statutes reached, and later Congresses repeated the basic design for successive generations of service. The Veterans Readjustment Assistance Act for Korean War veterans, the Veterans Readjustment Benefits Act associated with the Vietnam era, the Montgomery GI Bill for the post Vietnam force, and the Post-9/11 Veterans Educational Assistance Act each restated the same core proposition, that paid education eases a transition that military service itself had made harder. Yet aggregate success coexisted with unequal access to the colleges, training places, and administrative approvals through which the promise had to pass. The text of each statute spoke in general eligibility terms. The delivery passed through segregated colleges, underfunded institutions, local offices, admissions decisions, and family resources that differed sharply among veterans with identical legal entitlement. That tension organizes the evidence in the sections that follow, beginning with educational attainment, the outcome most directly tied to the education title itself.
 

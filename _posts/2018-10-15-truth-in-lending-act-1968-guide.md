@@ -6,17 +6,17 @@ date: "2018-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Truth in Lending Act", "Consumer Credit", "Financial Regulation", "Congress", "Supreme Court"]
 excerpt: "Truth in Lending defined how America discloses credit prices. This guide covers APR, finance charges, rescission rights, enforcement, and later amendments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: "92"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2018-10-15"
+lang: en
 ---
-
 ## Introduction
 
 The Truth in Lending Act answers a question that sounds simple and proved, in practice, to be anything but: what does a given extension of consumer credit actually cost? Before Congress acted, that question had no single answer, because American lenders did not describe the price of credit in a shared language. A borrower shopping for a loan in the middle of the twentieth century encountered a market in which the same economic transaction, borrowing a sum of money and repaying it over time with a charge for the privilege, could be priced in several incompatible vocabularies, each of them lawful, each of them capable of making an expensive loan sound cheap, and none of them readily convertible into the others by a person without training in the mathematics of interest. The statute that resulted from that condition does not set the price of credit. It standardizes the description of the price, and that distinction, between regulating what credit costs and regulating what a borrower is told about what credit costs, is the central fact about the law and the source of nearly everything that followed from it.
 
-![Truth in Lending Act disclosure rules, annual percentage rate, and the right of rescission - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Truth in Lending Act disclosure rules, annual percentage rate, and the right of rescission - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The incompatibility was structural rather than incidental. One lender might quote an add-on rate, a percentage applied to the original principal for the full term of the loan even though the balance declined with every payment, so that the stated figure understated the effective cost by a wide margin. Another might quote a discount rate, under which interest was calculated on the face amount and deducted in advance, leaving the borrower with less money in hand than the amount on which the charge had been computed. A third might quote a simple monthly rate, a small sounding fraction of one percent each month that concealed a much larger annual burden. A fourth might state a rate on the unpaid balance, the method closest to an honest annual measure. Presented with four offers, a borrower had four numbers that looked comparable and were not. Arithmetic that a finance company performed as routine office work was, for a household deciding between a refrigerator on installments and a bank loan, effectively inaccessible. Comparison, the mechanism on which competitive markets depend, could not operate where the units of comparison differed from seller to seller.
 

@@ -6,17 +6,17 @@ date: "2018-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Federalism", "US Legislation Drug Policy", "US Legislation Criminal Justice", "US Legislation Supreme Court", "US Legislation Study Guides"]
 excerpt: "Federal drug law prohibits marijuana while a state may permit the same conduct, and the comparison turns on doctrine, enforcement limits, and collateral rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: "72"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2018-09-01"
+lang: en
 ---
-
 ## Federal Drug Law and the State Legalization Question
 
 Federal drug law and state legalization law answered the same conduct in opposite ways on September 1, 2018, and the comparison between the two regimes confused readers who treated either regime as the whole law. A state statute in Colorado or Washington permitted licensed cultivation and retail sale under state conditions. A federal statute, the Controlled Substances Act of 1970, classified marijuana in Schedule I and prohibited manufacture, distribution, dispensing, and possession in every state. Neither statement cancelled the other. A license documented compliance with one sovereign and exposure under the law of the other, and a registered patient held a state authorization that supplied no federal defense. The comparison therefore began with a separation that ordinary political language obscured, because legalization described a change in state law and prohibition described a rule of federal law, and both descriptions were accurate at the same time.
 
-![Federal drug law vs state legalization: the doctrine, the rider, and the consequences that decide who governs - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal drug law vs state legalization: the doctrine, the rider, and the consequences that decide who governs - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The question reached several audiences in different forms, and each audience received a characteristic wrong answer. A student in a federalism course received the answer that the Supremacy Clause ended the inquiry, as if state repeal were a state attempt to override Congress. A journalist on a deadline received the answer that defiance explained the state programs, as if a legislature repealing a state penalty were a legislature nullifying a federal one. A business owner weighing a license application received the answer that a state license settled legality, as if one sovereign could issue immunity against the criminal code of another. An official administering a state program received the answer that federal enforcement policy settled the legal position, as if a memorandum from the Department of Justice had amended a statute. Each answer collapsed two legal systems into one, and each collapse produced a false prediction about arrest, banking, taxation, firearms, immigration, employment, housing, or research.
 

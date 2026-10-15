@@ -6,15 +6,15 @@ date: "2019-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "GI Bill", "Veterans", "Education Policy", "Congress", "National Security"]
 excerpt: "The Montgomery GI Bill pays a flat monthly stipend that service members buy with a pay reduction, under strict rules on eligibility, rates, and time limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: "87"
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: "2019-03-15"
+lang: en
 ---
-
 What should a peacetime volunteer earn for education after service, and should that volunteer pay part of the price before any classroom door opens? Congress faced that question after the draft had ended, after the benefit that had served the Vietnam era cohort had closed to new entrants, and after the savings program that replaced that benefit had failed to draw the recruits the all volunteer force required. The Montgomery GI Bill answered the question with a bargain that had no exact precedent in American veterans law: a generous flat monthly benefit, earned through qualifying service, that a service member first had to buy. The operative problem was manpower as much as education. Recruiting in the late nineteen seventies and the early nineteen eighties produced too few high school diploma graduates, too few recruits in the upper half of the aptitude distribution, and attrition high enough to force the services to recruit replacements for personnel already trained. An education benefit weak in value, deferred in use, and hard to explain at a recruiting station could not correct that condition, and the program on offer between nineteen seventy seven and nineteen eighty four had proved weak on each count.
 
-![Student veterans studying under the Montgomery GI Bill contributory benefit - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Student veterans studying under the Montgomery GI Bill contributory benefit - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The formal identity of the program removes any doubt about the legislative vehicle and the code home. The statute was the Veterans' Educational Assistance Act of 1984, enacted as Title VII of the Department of Defense Authorization Act, 1985, Public Law 98-525, signed on October 19, 1984, and codified at Chapter 30 of Title 38 of the United States Code. Congress enacted the program first as a test, covering persons who entered service during a defined window that opened on July 1, 1985. The test became permanent on June 1, 1987, when the New GI Bill Continuation Act, Public Law 100-48, removed the closing date. That continuation statute also gave the 1984 title the citation Montgomery GI Bill Act of 1984, a name honoring House Veterans' Affairs Committee Chairman G. V. "Sonny" Montgomery of Mississippi, the legislator who had carried the case for a peacetime benefit through committee, through a defense authorization conference, and through the continuation fight. Placement inside a defense act and codification inside veterans law expressed the dual character of the design: the Department of Defense paid for the basic benefit as a cost of recruiting, and the veterans agency administered the benefit as readjustment assistance.
 

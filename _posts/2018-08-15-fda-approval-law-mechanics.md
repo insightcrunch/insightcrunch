@@ -6,17 +6,17 @@ date: "2018-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation FDA Regulation", "US Legislation Drug Approval", "US Legislation FDA Approval", "US Legislation User Fees", "US Legislation Preemption"]
 excerpt: "FDA approval law turns two short statutory commands into a working system of trials, fees, review clocks, and liability rules. This guide maps the machinery."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: "85"
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: "2018-08-15"
+lang: en
 ---
-
 ## Introduction
 
 FDA approval law rests on a statutory foundation short enough to quote in a paragraph. Section 505 of the Federal Food, Drug, and Cosmetic Act, codified at 21 U.S.C. 355, forbids the marketing of a new drug unless an approved application is effective, and section 351 of the Public Health Service Act, codified at 42 U.S.C. 262, licenses biological products on a showing of safety, purity, and potency. Nothing in either provision describes a clinical trial phase, a review clock, an advisory vote, or a fee. The operating system that sponsors, patients, and courts actually encounter is implementation: regulations, guidance, fee legislation, review organization, and post-marketing enforcement built around those two short commands across nine decades.
 
-![FDA approval law: the review pathway, the user fee bargain, and the preemption divide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![FDA approval law: the review pathway, the user fee bargain, and the preemption divide - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This article traces that operating system the way a practitioner meets it. A reader who completes it can follow a drug from the investigational application through the phases to approval and into post-marketing obligations, can explain why a substantial share of the review budget arrives as fees paid by the industry under review and why Congress renews that arrangement every five years, can describe the expedited pathways and the withdrawal problem that accelerated approval creates, and can state the preemption asymmetry that decides whether an injured patient can sue at all. The governing theme is the gap between statutory text and delivered outcome. The most consequential liability rule in the field emerged from the interaction of two statutes, neither of which addressed liability, and the most consequential funding rule lives in commitment letters rather than in the approval standard itself.
 

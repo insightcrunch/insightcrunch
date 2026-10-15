@@ -6,19 +6,19 @@ date: "2019-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "VA MISSION Act", "Health Policy", "Congress", "American History", "Veterans Health"]
 excerpt: "VA MISSION Act of 2018 consolidated seven community care programs into one, set six eligibility criteria, and expanded caregiver support to older veterans."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "96"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2019-05-01"
+lang: en
 ---
-
 ## Introduction, Statutory Identity, Origins, and Passage
 
 Every system of veterans health care contains an allocation decision that is easy to state and difficult to govern. The Department of Veterans Affairs operated its own hospitals and clinics, employed its own clinicians, and carried a statutory duty to furnish care to enrolled veterans. Demand for that care, however, did not arrive evenly across geography or specialty, and departmental capacity did not expand or contract at the pace of individual need. A veteran living far from a departmental facility, or facing a long wait for an appointment at the nearest one, presented a practical problem that the existence of a public system alone did not solve. Private physicians and hospitals existed in the communities where veterans lived. The question was when the federal government should pay those outside providers, under what conditions, through which administrative machinery, and with what safeguards for coordination and quality. The VA MISSION Act of 2018 was the answer Congress gave to that question after four years of emergency improvisation, and the architecture of the statute cannot be understood apart from the scandal that forced the improvisation into being.
 
 The scandal broke in Phoenix in the spring of 2014. Reporting and whistleblower accounts described a scheduling system at the Phoenix VA Health Care System in which the official record of waiting times bore little relation to the waits veterans actually endured. Schedulers recorded desired appointment dates in ways that made reported waits appear short, while veterans whose names appeared on unofficial lists waited far longer for primary care. The gap between the two records mattered for more than bookkeeping. Performance measurement inside the department rested on reported access, and reported access rested on the very entries that investigators later found to have been manipulated. A system that measured itself through falsified data could congratulate itself on timeliness while the patients inside the system experienced delay, and that inversion of evidence and experience supplied the scandal with its enduring force in the legislative debates that followed between 2014 and 2018.
 
-![VA MISSION Act of 2018 community care consolidation and eligibility criteria explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![VA MISSION Act of 2018 community care consolidation and eligibility criteria explained - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The Office of Inspector General gave the allegations an official foundation in an interim report dated May 28, 2014. Investigators identified about 1,400 veterans in Phoenix who lacked a primary care appointment and were appropriately included on the official electronic wait list. Investigators identified about 1,700 additional veterans who were waiting for a primary care appointment and were absent from that official list altogether. The interim report substantiated that significant delays in access to care had negatively affected quality at the Phoenix system, described multiple scheduling practices that departed from Veterans Health Administration policy, and noted that the additional lists formed the basis for allegations about secret wait lists. Two days after the interim report appeared, on May 30, 2014, Secretary of Veterans Affairs Eric Shinseki resigned, and President Barack Obama accepted the resignation while describing systemic problems in the department as unacceptable.
 
