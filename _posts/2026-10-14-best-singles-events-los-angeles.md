@@ -6,17 +6,17 @@ date: 2026-10-14
 categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "los-angeles"]
 excerpt: "The 20 best singles events in Los Angeles for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-10-14
+lang: en
 ---
-
 ## Singles Events in Los Angeles: The Next Two Weeks
 
 Los Angeles dating has a reputation for being all apps and no eye contact, but the city's event calendar tells a different story. Run clubs in Santa Monica and West Hollywood, singles parties in North Hollywood, speed dating downtown and beach bonfires at Dockweiler pull thousands of single Angelenos into the same rooms every week. If you are looking for singles events in Los Angeles, speed dating in LA, or new ways to meet singles in Los Angeles beyond the apps, start here. This fortnight alone brings a game-based speed dating night downtown, a Halloween singles mixer in the Valley, queer speed dating in Lincoln Heights and Sawtelle, a picnic-blanket mixer in Exposition Park, salsa socials in Pasadena and Studio City, a risotto class in Century City, and a horror fans' coffee mixer on Fairfax. Twenty events, fourteen days, every corner of the county.
 
-![Singles events in Los Angeles - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Singles events in Los Angeles - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 **This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
