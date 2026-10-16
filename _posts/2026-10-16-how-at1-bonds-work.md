@@ -6,19 +6,19 @@ date: 2026-10-16
 categories: ["Industry"]
 tags: ["banking", "bank-capital", "bonds", "basel-iii", "financial-regulation", "bank-rescue"]
 excerpt: "How AT1 bonds work, from perpetual coupons and skipped payments to write-downs that absorb losses before depositors bear any cost in a bank rescue at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-10-16
+lang: en
 ---
-
 ## A Bond Designed to Vanish at the Moment of Failure
 
 Additional Tier 1 bonds, usually shortened to AT1 bonds, are perpetual securities issued by banks that count as regulatory capital because the contract behind each bond gives the issuing bank, and behind the bank its supervisor, the power to cancel interest payments, to convert the bond into common shares, or to write its principal down, in whole or in part, when the bank's capital weakens past a stated point. In ordinary times the instrument behaves like debt. The bank pays a coupon, the holder collects it, and the principal sits on the balance sheet as a long term obligation that carries no fixed repayment date and no maturity at which the bank must hand the money back.
 
 The design rests on a single bargain, stated in the prospectus and tested only in a crisis. AT1 bonds work only when the loss order promised in the contract is the loss order applied in the rescue, because the instrument is priced, sold and regulated on the assumption that equity absorbs losses before hybrid capital and that a write-down follows a stated trigger and a lawful process. Every other feature of the instrument, from its coupon to its place in the queue of creditors, is priced against that assumption, and a rescue that rearranges the order after losses arrive changes the value of every layer of bank capital at once.
 
-![Perpetual bank capital notes and a capital stack diagram prepared for AT1 bond analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Perpetual bank capital notes and a capital stack diagram prepared for AT1 bond analysis - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 In the queue of claims against a bank, an AT1 bond stands near the back. Depositors rank ahead of it, holders of senior unsecured debt rank ahead of it, and holders of Tier 2 subordinated debt rank ahead of it. Only common shareholders stand behind it, and common equity is the layer that the whole structure assumes will absorb losses first, because shareholders own the residual value of the bank and take the gains when lending goes well. The AT1 holder accepts the rear position in exchange for a coupon higher than the coupon on any safer layer of the same bank's funding, and the size of that extra coupon is the market price of standing close to the front of the loss line while standing near the back of the payment line.
 
