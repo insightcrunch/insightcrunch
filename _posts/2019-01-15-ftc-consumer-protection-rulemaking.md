@@ -9,7 +9,7 @@ excerpt: "FTC rulemaking explains why the Federal Trade Commission governs consu
 image: "/assets/images/blog/blog-64.webp"
 reading_time: "85"
 author: "maria-santos"
-last_updated: "2019-01-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The principal federal consumer protection agency in the United States possesses authority broad enough to reach nearly every deceptive or unfair practice in commerce, and yet FTC rulemaking produced only a small body of binding consumer protection rules across the decades after Congress confirmed that authority in 1975. The operative question of the article is therefore a question about institutional design rather than about substantive ambition. Why did an agency armed with Section 5 of the Federal Trade Commission Act, a prohibition written as an open standard against unfair or deceptive acts or practices, govern markets principally through complaints, consent orders, and policy statements instead of through rules announced in advance for an entire industry? The answer carries a namable claim that recurs through every stage of the history. The Federal Trade Commission became, in practical terms, a rulemaking agency that cannot make rules, not because Congress withheld the power, and not because commissioners lacked subjects worthy of regulation, but because the procedure attached to the power priced each rule beyond the capacity of the institution to pay except in rare and protracted proceedings.

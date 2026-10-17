@@ -9,7 +9,7 @@ excerpt: "Montgomery vs Post-9/11 GI Bill compared on payment, election, transfe
 image: "/assets/images/blog/blog-09.webp"
 reading_time: "85"
 author: "jason-mckenzie"
-last_updated: "2019-07-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Montgomery vs Post-9/11 GI Bill comparison is asked most sharply by a separating servicemember holding an election form, because for that reader the comparison is a signature rather than a topic. One program was purchased during the first year of service and pays a flat monthly stipend to the veteran. The other was earned by service alone and pays tuition to the school, a housing allowance to the veteran, and a smaller amount for books. Choosing between them requires pricing a course of study that has not begun, at a school that may not be chosen, in a town whose housing costs may not be known, and the election, once made, generally cannot be taken back.

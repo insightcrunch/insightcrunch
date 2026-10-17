@@ -9,7 +9,7 @@ excerpt: "How CBO scores a bill: the statutory baseline conventions, the ten yea
 image: "/assets/images/blog/blog-60.webp"
 reading_time: "92"
 author: "benjamin-scott"
-last_updated: "2020-05-15"
+last_updated: 2026-10-17
 lang: en
 ---
 A cost estimate is the number the budget process runs on. A bill can command speeches, hearings, and a majority in search of a path to passage, and a single figure attached by an estimating office can decide whether that path exists. The figure tests a bill against committee allocations and against the totals in a budget resolution. The figure decides whether a point of order lies against consideration on the floor and whether a waiver must be assembled under pressure. The figure certifies whether a committee has satisfied a reconciliation instruction or has fallen short of a directed change in revenues or spending. In the Senate, the figure also maps a bill against the Byrd rule, which reaches past the budget window and penalizes a measure that increases deficits in the years beyond that window. Passage, procedure, and price therefore arrive together, bound in one document that opponents and supporters must both use.

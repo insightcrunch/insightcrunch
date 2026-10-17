@@ -9,7 +9,7 @@ excerpt: "The Bipartisan Safer Communities Act created offenses for straw purcha
 image: "/assets/images/blog/blog-49.webp"
 reading_time: "92"
 author: "michael-brooks"
-last_updated: "2021-06-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The question the Bipartisan Safer Communities Act answers is a practical one. In a federal system built around chapter 44 of title 18, with definitions in section 921, prohibitions in section 922, and transfers conducted through licensees and a national background check system, what did Congress change when it enacted the first federal statute making significant changes to firearms law in nearly three decades? The answer is specific and bounded. Congress created two freestanding offenses, extended an existing prohibition to a new class of relationship, deepened and lengthened the check for one age group, rewrote the phrase that decides when a repetitive seller must hold a license, added a grant purpose for state crisis intervention proceedings, and appropriated money across three departments for mental health, school, records, and related programs. Each change operates through language inserted into law that predated the act, and each limit in the enacted text is as much a part of that answer as each operative provision.

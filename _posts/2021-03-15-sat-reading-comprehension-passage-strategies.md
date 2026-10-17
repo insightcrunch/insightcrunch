@@ -5,11 +5,11 @@ page_title: "SAT Reading Comprehension Strategies: How to Read Passages Efficien
 date: 2021-03-15
 categories: ["Industry"]
 tags: ['SAT Reading Comprehension', 'SAT Passage Strategies', 'SAT Reading Tips', 'SAT Main Idea Questions', 'SAT Inference Questions', 'SAT Evidence Questions', 'SAT Reading Speed', 'SAT Passage Types']
-excerpt: "Master SAT reading comprehension with proven strategies for passage reading, main idea identification, evidence analysis, inference questions, and every question type."
+excerpt: "Decode SAT reading comprehension across every passage type and question category with worked examples."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 45
 author: "michael-brooks"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # SAT Reading Comprehension: Passage Strategies That Work

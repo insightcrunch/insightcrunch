@@ -9,7 +9,7 @@ excerpt: "Freedom to Farm replaced price linked payments with fixed contract pay
 image: "/assets/images/blog/blog-69.webp"
 reading_time: "94"
 author: "jessica-kim"
-last_updated: "2020-12-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## What Freedom to Farm Changed: Fixed Payments in Place of Price Support

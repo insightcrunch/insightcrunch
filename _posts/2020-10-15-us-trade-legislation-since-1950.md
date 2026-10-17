@@ -9,7 +9,7 @@ excerpt: "US trade legislation since mid century follows one recurring pattern: 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: "98"
 author: "maria-santos"
-last_updated: "2020-10-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Pattern That Organizes the Field

@@ -9,7 +9,7 @@ excerpt: "The USMCA Implementation Act approved a renegotiated North American tr
 image: "/assets/images/blog/blog-46.webp"
 reading_time: "85"
 author: "simon-hartley"
-last_updated: "2020-07-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The operative question answered on July 1, 2020 was precise in form and large in consequence. What legal instrument replaced the North American Free Trade Agreement for the United States, and on what terms did the replacement take the place of the older arrangement? The answer was not a treaty in the constitutional sense, and it was not a mere executive announcement that an existing bargain had been revised. The replacement rested on a statute, enacted through the ordinary legislative process, that approved a negotiated text, approved a later amendment to that text, and made the changes in domestic law that the revised bargain required. As an act of implementation, it translated that commitment into rules that federal agencies, courts, importers, exporters, workers, and firms could apply within the legal system of the United States. The terms of replacement were the terms written into the approved text as amended, no more and no less, and the path to enactment left marks on the substance of the bargain itself.

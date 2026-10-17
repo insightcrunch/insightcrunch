@@ -9,7 +9,7 @@ excerpt: "The Ethics in Government Act built the federal ethics framework on pub
 image: "/assets/images/blog/blog-09.webp"
 reading_time: "83"
 author: "samantha-lee"
-last_updated: "2021-10-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The Ethics in Government Act of 1978 is the statute on which the federal government's ethics architecture rests, and the question the statute answers is how a government polices the financial interests and future ambitions of the officials who run it. The answer was structural rather than exhortatory. Instead of directing officials to behave well, the statute built machinery. It made senior officials disclose their finances to the public. It created an office charged with administering conflict of interest rules across the executive branch. It restricted the advocacy that former officials could sell after leaving office. It constructed a prosecutor who did not answer to the department whose senior figures that prosecutor might be called to investigate. Three of those four constructions endured as permanent features of federal government. The fourth produced the statute's constitutional climax and its most instructive ending, a provision the Supreme Court sustained and Congress then allowed to die.

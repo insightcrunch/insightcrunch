@@ -9,7 +9,7 @@ excerpt: "An account of federal crop insurance law: how premiums are subsidized,
 image: "/assets/images/blog/blog-28.webp"
 reading_time: "93"
 author: "samantha-lee"
-last_updated: "2021-01-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The statute for federal crop insurance requires a producer who seeks subsidized coverage to purchase a policy through an approved insurance provider, on federal policy forms and at federal rates, and it requires that provider to accept every eligible applicant. The largest federal farm support program sits in the insurance title rather than the commodity title, and its size follows from that legal design. The Federal Crop Insurance Corporation stands behind the policies, the Risk Management Agency administers the rates and rules, and private companies carry the contract to the farm.

@@ -9,7 +9,7 @@ excerpt: "The Anti-Drug Abuse Acts built federal drug sentencing around quantity
 image: "/assets/images/blog/blog-38.webp"
 reading_time: "73"
 author: "abigail-cooper"
-last_updated: "2018-06-15"
+last_updated: 2026-10-17
 lang: en
 ---
 What happens when Congress sets the length of a prison sentence the way it sets a budget line, choosing the number first and defending it never? That is the operative question behind the Anti-Drug Abuse Act of 1986 and its successor of 1988, the two federal statutes that rebuilt drug sentencing around fixed quantity thresholds and let those thresholds govern federal courtrooms for a generation. In the autumn of 1986, between the death of a basketball star in June and a midterm election in November, the House and Senate wrote mandatory minimum prison terms into law for trafficking weights as small as five grams, and two years later they extended a five-year floor to simple possession itself.

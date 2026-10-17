@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Houston for the next two weeks: speed da
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Houston: The Next Two Weeks

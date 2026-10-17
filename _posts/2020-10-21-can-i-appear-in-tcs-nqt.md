@@ -5,11 +5,11 @@ page_title: "Can You Appear in TCS NQT? Complete Eligibility Check - Academic Cr
 date: 2020-10-21
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility", "Who Can Apply"]
-excerpt: "Who can take TCS NQT? Eligibility criteria for the National Qualifier Test including degree requirements, year of passing, and percentage cutoffs."
+excerpt: "Am I eligible for TCS NQT? Complete eligibility breakdown covering education, branch, percentage, backlogs, and age limits for different categories."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 45
 author: "vikram-iyer"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 Before investing months of preparation in the TCS NQT, the first question to answer is whether you are eligible to take it. TCS's eligibility criteria are specific, and meeting them is not guaranteed simply by being an engineering graduate. This guide walks through every eligibility dimension so you know exactly where you stand before you begin.

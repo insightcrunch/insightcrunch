@@ -9,7 +9,7 @@ excerpt: "The TANF block grant turns on four purposes in the statute, only two o
 image: "/assets/images/blog/blog-26.webp"
 reading_time: "90"
 author: "benjamin-scott"
-last_updated: "2019-10-01"
+last_updated: 2026-10-17
 lang: en
 ---
 Temporary Assistance for Needy Families is Title IV-A of the Social Security Act, as rewritten by Public Law 104-193 in 1996, codified at 42 U.S.C. 601 and following, and the TANF block grant created by that part places its demands first on states rather than on individual families. A state that accepts the grant must submit a plan built on outline and certification, must spend federal and counted state dollars only in a manner reasonably calculated to accomplish a statutory purpose, must engage a measured share of families receiving assistance in countable work activities, must spend state funds at a required maintenance of effort level, and must observe a federal limit on the use of federal funds for assistance after sixty months. An individual family, by contrast, receives no federal entitlement from the part itself, because section 601(b) states that the part is not to be interpreted to entitle any individual or family to assistance under a state program funded under the part. The statute therefore requires design, spending discipline, work measurement, and reporting from governments, while leaving the existence and level of a benefit to state law within the federal boundaries that the following sections describe.

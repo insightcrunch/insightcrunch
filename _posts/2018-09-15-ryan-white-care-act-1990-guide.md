@@ -9,7 +9,7 @@ excerpt: "The Ryan White CARE Act funds HIV care, drugs, and support for low inc
 image: "/assets/images/blog/blog-56.webp"
 reading_time: "76"
 author: "samantha-lee"
-last_updated: "2018-09-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

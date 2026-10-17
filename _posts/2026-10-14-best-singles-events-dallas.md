@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Dallas for the next two weeks: speed dat
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Dallas: The Next Two Weeks

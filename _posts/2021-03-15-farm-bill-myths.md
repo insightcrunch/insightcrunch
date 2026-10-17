@@ -9,7 +9,7 @@ excerpt: "Farm bill myths graded one by one against the statutes and the data: t
 image: "/assets/images/blog/blog-71.webp"
 reading_time: "87"
 author: "nathan-cole"
-last_updated: "2021-03-15"
+last_updated: 2026-10-17
 lang: en
 ---
 Among farm bill myths, the claim that corn subsidies caused obesity carried the widest consequences, because the claim moved a public health crisis into the jurisdiction of agricultural legislation and assigned a remedy that agricultural legislation could not deliver. The claim had a plausible chain, and plausibility at every link explains the reach the claim achieved. Corn received public support. Support, in the chain, made corn artificially cheap. Cheap corn made high fructose corn syrup artificially cheap in turn. Manufacturers facing a cheap sweetener sweetened drinks and processed foods generously, enlarged sweetened portions, and saturated the food supply with inexpensive calories. Shoppers absorbed the surplus calories, and obesity followed as the harvest of a subsidy. Each step sounded reasonable in isolation, and repetition across commentary, classrooms and advocacy turned a chain of separate conjectures into a sequence that read as settled causation. A claim repeated in that manner acquired the authority of a finding without passing through the tests a finding has to survive.

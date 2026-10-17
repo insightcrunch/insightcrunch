@@ -9,7 +9,7 @@ excerpt: "The Trade Act of 1974 joined fast track, safeguards, retaliation, pref
 image: "/assets/images/blog/blog-25.webp"
 reading_time: "96"
 author: "daniel-morgan"
-last_updated: "2020-06-01"
+last_updated: 2026-10-17
 lang: en
 ---
 One test separates a passing familiarity with American trade law from a working command of the subject. The test asks whether a single statute can be identified that contains almost every instrument of modern American trade policy, from the procedure for negotiating agreements to the remedy for imports that break no rule at all. The Trade Act of 1974 passes that test. Congress passed the measure in December 1974, and President Gerald Ford signed the measure on January 3, 1975, so the year in the name of the statute and the year of signature differ, a distinction that precise citation preserves. The enacted text is Public Law 93-618, printed at 88 Stat. 1978, carried through the 93rd Congress as H.R. 10710.

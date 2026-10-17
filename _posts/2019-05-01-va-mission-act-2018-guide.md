@@ -9,7 +9,7 @@ excerpt: "VA MISSION Act of 2018 consolidated seven community care programs into
 image: "/assets/images/blog/blog-52.webp"
 reading_time: "96"
 author: "christopher-wells"
-last_updated: "2019-05-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction, Statutory Identity, Origins, and Passage

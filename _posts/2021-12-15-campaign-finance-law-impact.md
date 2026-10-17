@@ -9,7 +9,7 @@ excerpt: "Campaign finance law impact measured across five decades: spending ros
 image: "/assets/images/blog/blog-95.webp"
 reading_time: "97"
 author: "william-knight"
-last_updated: "2021-12-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## What Fifty Years of Regulation Did to the Money

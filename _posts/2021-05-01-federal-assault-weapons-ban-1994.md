@@ -9,7 +9,7 @@ excerpt: "The federal assault weapons ban sorted firearms by named models and co
 image: "/assets/images/blog/blog-35.webp"
 reading_time: "99"
 author: "daniel-morgan"
-last_updated: "2021-05-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The federal assault weapons ban answered a question that had no settled answer before Congress wrote one: which semiautomatic firearms, described by name or by a counted set of configuration features, would federal law bar from new manufacture, transfer, and possession, and which firearms already held under federal law would remain lawful to keep and to transfer. Congress legislated against a defined gap. A federal import action in 1989 had excluded listed foreign rifles under a sporting purposes standard, and domestic manufacture had remained untouched. A California statute from the same year had listed firearms by make and model under state law. Neither measure supplied a general domestic rule.

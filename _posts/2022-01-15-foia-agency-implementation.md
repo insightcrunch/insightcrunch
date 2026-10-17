@@ -9,7 +9,7 @@ excerpt: "A FOIA request lives or dies in processing: the right component, the t
 image: "/assets/images/blog/blog-49.webp"
 reading_time: "75"
 author: "jessica-kim"
-last_updated: "2022-01-15"
+last_updated: 2026-10-17
 lang: en
 ---
 A FOIA request enters a processing system with fixed legal stages, and the outcome of the request depends less on persistence alone than on fit between the request as drafted and the stages through which an agency must carry the request. The Freedom of Information Act grants any person a right to seek records from executive branch agencies, and the statute then governs every step that follows, from the description of records in the opening letter to the standard a court applies after litigation has begun. The central fact of the system, stated at the outset, is that the clock runs on a decision, not on delivery. An agency faces a twenty working day period for a determination whether to comply, while production of records after a favorable determination follows a separate promptness obligation. Confusion between those two events explains a large share of disappointment with the statute, and precision about the distinction gives a requester a realistic map of timing, cost, and leverage at each stage.

@@ -9,7 +9,7 @@ excerpt: "The assault weapons ban's government evaluations found small effects a
 image: "/assets/images/blog/blog-89.webp"
 reading_time: "97"
 author: "simon-hartley"
-last_updated: "2021-07-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Aim and the Mandated Evaluation

@@ -5,11 +5,11 @@ page_title: "SAT Advanced Math Complete Guide: Quadratic Equations, Polynomials,
 date: 2021-04-16
 categories: ["Industry"]
 tags: ['SAT Advanced Math', 'SAT Quadratic Equations', 'SAT Polynomials', 'SAT Exponential Functions', 'SAT Radicals', 'SAT Advanced Math Practice', 'SAT Factoring', 'SAT Completing the Square']
-excerpt: "Master every SAT Advanced Math topic including quadratics, polynomials, exponentials, rational expressions, and radicals with worked examples and score-boosting strategies."
+excerpt: "Decode SAT Advanced Math topics with rule-by-rule walkthroughs and the score-boosting strategies that work."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "patrick-dunn"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # SAT Advanced Math: Quadratics, Polynomials, and Beyond

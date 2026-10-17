@@ -9,7 +9,7 @@ excerpt: "Commodity titles vs nutrition titles in the farm bill, compared on mon
 image: "/assets/images/blog/blog-47.webp"
 reading_time: "80"
 author: "marcus-hall"
-last_updated: "2021-02-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Commodity Title and Nutrition Title Compared

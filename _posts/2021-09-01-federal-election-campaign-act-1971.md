@@ -9,7 +9,7 @@ excerpt: "The Federal Election Campaign Act built modern campaign finance law: d
 image: "/assets/images/blog/blog-56.webp"
 reading_time: "111"
 author: "katherine-blake"
-last_updated: "2021-09-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Federal Election Campaign Act of 1971 is the statute around which federal campaign finance law is organized, and the question at the center of the statute is how money raised and spent to elect candidates for federal office is to be disclosed, limited, and policed. The enacted text supplies a formal identity of unusual precision. The short title is the Federal Election Campaign Act of 1971, Public Law 92-225, printed at 86 Stat. 3. President Richard Nixon signed the enacted bill, S. 382 of the 92nd Congress, on February 7, 1972. The title therefore carries a year earlier than the signature, and precision on that point matters, because the act named for 1971 became law in 1972 and took effect on April 7, 1972.

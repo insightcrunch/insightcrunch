@@ -9,7 +9,7 @@ excerpt: "USDA food safety rules divide meat, poultry, and egg products from the
 image: "/assets/images/blog/blog-69.webp"
 reading_time: "105"
 author: "andrew-price"
-last_updated: "2021-02-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## A statute on paper and a system in operation

@@ -9,7 +9,7 @@ excerpt: "Trade promotion authority trades amendment at the end for objectives a
 image: "/assets/images/blog/blog-31.webp"
 reading_time: "79"
 author: "patrick-dunn"
-last_updated: "2020-08-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Bargain at the Center of the Procedure

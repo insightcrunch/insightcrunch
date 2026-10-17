@@ -9,7 +9,7 @@ excerpt: "US Veterans Legislation explained: education, compensation, health car
 image: "/assets/images/blog/blog-52.webp"
 reading_time: "91"
 author: "andrew-price"
-last_updated: "2019-07-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Arc of US Veterans Legislation and the Ratchet That Organizes the Field

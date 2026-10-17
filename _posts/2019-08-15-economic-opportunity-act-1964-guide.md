@@ -9,7 +9,7 @@ excerpt: "The Economic Opportunity Act built a presidential antipoverty office, 
 image: "/assets/images/blog/blog-10.webp"
 reading_time: "89"
 author: "samantha-lee"
-last_updated: "2019-08-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The Economic Opportunity Act opened with a puzzle of institutional design, and the puzzle explains the statute better than any list of programs. Why would Congress place an antipoverty command outside every existing department? The Department of Labor ran manpower training. The Department of Health, Education, and Welfare ran education, health, and public assistance programs. The Department of Agriculture ran rural credit and farm programs. Each department held one fragment of poverty, and each fragment came with a constituency, a bureaucracy, and a settled routine. A statute that divided new money among those departments would have reproduced the fragmentation that the Council of Economic Advisers had identified as a central defect, because a poor family met low schooling, poor health, racial exclusion, weak local labor demand, and inadequate income as one combined condition, not as separate departmental files. Congress instead created a new office, placed that office beside the President, and gave the office both programs of its own and a duty to pull the fragments into one campaign.

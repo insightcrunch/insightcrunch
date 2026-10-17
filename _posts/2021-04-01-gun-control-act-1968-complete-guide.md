@@ -9,7 +9,7 @@ excerpt: "The Gun Control Act of 1968 built firearms law around the licensed dea
 image: "/assets/images/blog/blog-76.webp"
 reading_time: "99"
 author: "michael-brooks"
-last_updated: "2021-04-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## What the Gun Control Act Does and the Design That Decides the Rest

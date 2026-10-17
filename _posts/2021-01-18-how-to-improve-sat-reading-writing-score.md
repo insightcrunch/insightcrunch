@@ -5,11 +5,11 @@ page_title: "How to Improve SAT Reading and Writing Score by 100 or More Points:
 date: 2021-01-18
 categories: ["Industry"]
 tags: ['SAT Reading Improvement', 'SAT Writing Score Boost', 'SAT Reading and Writing Tips', 'SAT Grammar Improvement', 'SAT Reading Speed', 'SAT Reading Practice Strategy', 'SAT Comprehension Improvement', 'SAT 100 Point Improvement']
-excerpt: "The complete guide to boosting your SAT Reading and Writing score by 100+ points through grammar mastery, reading technique improvement, and question-type strategy."
+excerpt: "Decode the path to a 100+ point SAT RW improvement with grammar mastery and reading technique upgrades."
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 45
 author: "katherine-blake"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # How to Improve Your SAT Reading and Writing Score by 100+ Points

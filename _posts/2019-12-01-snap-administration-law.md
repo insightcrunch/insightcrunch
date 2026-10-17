@@ -9,7 +9,7 @@ excerpt: "SNAP administration explained: how states determine eligibility, calcu
 image: "/assets/images/blog/blog-21.webp"
 reading_time: "108"
 author: "michael-brooks"
-last_updated: "2019-12-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Distance Between the Statute and the Supermarket

@@ -4,11 +4,11 @@ title: "The Elusive Paradox"
 date: 2021-02-12
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "..."
+excerpt: "Deriving metrics in Tableau when precision meets ambiguity. How to approach analytics when the simplest metrics hide complex calculation challenges."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 2
 author: "alex-rivera"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 ![](/assets/images/blog/blog-62.webp)

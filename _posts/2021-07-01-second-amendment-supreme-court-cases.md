@@ -9,7 +9,7 @@ excerpt: "Second Amendment Supreme Court cases from Miller through Rahimi, with 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: "94"
 author: "kevin-reeves"
-last_updated: "2021-07-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Question the Cases Answer

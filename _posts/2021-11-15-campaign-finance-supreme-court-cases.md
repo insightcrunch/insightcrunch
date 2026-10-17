@@ -9,7 +9,7 @@ excerpt: "Campaign finance Supreme Court cases turn on one distinction: limits o
 image: "/assets/images/blog/blog-75.webp"
 reading_time: "102"
 author: "james-carter"
-last_updated: "2021-11-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The constitutional question at the center of the campaign finance Supreme Court cases asks what limits a legislature may place on the money that funds election speech, and under what justification a court may sustain a limit after a challenger invokes the First Amendment. Money enters an election in distinct forms, and the decisions treat each form according to the relationship between the transfer and the communication the transfer makes possible. A contribution places funds under the control of a candidate, a party, or a committee. An expenditure purchases communication directly. A disclosure rule compels identification rather than prohibition. A public financing program offers a subsidy on stated conditions. The litigation traced in the sections that follow assigns each form a different measure of protection, a different standard of review, and a different fate, and the pattern of outcomes depends less on the amount of money involved than on the classification a court gives the regulated act. Two statutes supply the principal federal texts under construction. The decisions construe [the Federal Election Campaign Act of 1971](/2021/09/01/federal-election-campaign-act-1971/) as rebuilt by the amendments of 1974 and by the Bipartisan Campaign Reform Act of 2002, together with state statutes of the same kind that raised parallel questions under the First Amendment as applied to the states through the Fourteenth Amendment.

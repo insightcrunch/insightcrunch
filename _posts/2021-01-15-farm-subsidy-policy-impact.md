@@ -9,7 +9,7 @@ excerpt: "Farm subsidy impact research follows the money past the farm gate: con
 image: "/assets/images/blog/blog-25.webp"
 reading_time: "97"
 author: "william-knight"
-last_updated: "2021-01-15"
+last_updated: 2026-10-17
 lang: en
 ---
 Farm subsidy law begins with a promise that sounds narrow enough to test. The statutes that authorize federal farm support present the money as income support and stabilization for the farmers who produce the national food supply, delivered against a level of weather and price volatility that few other sectors match. A crop can be planted in a season of strong prices and harvested into a collapse that no decision on the farm caused, and a single drought, flood or freeze can erase a year of revenue across an entire region at once. The case written into the law is therefore not a case for generosity in the abstract. It is a case for a public instrument that steadies income when markets and weather move together against producers, keeps operations solvent through troughs they did not create, and preserves the capacity to plant the next crop. Whether the measured record shows the money landing on that aim is a separate question, and it is the question the evidence assembled here answers finding by finding.

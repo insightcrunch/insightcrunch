@@ -9,7 +9,7 @@ excerpt: "Welfare reform outcomes measured across five findings: caseloads, empl
 image: "/assets/images/blog/blog-102.webp"
 reading_time: "88"
 author: "william-knight"
-last_updated: "2019-10-15"
+last_updated: 2026-10-17
 lang: en
 ---
 What welfare reform did is a measurement question before a verdict question. The statute under examination is Public Law 104-193, the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, which ended Aid to Families with Dependent Children and replaced an individual entitlement to cash assistance with the Temporary Assistance for Needy Families block grant. State programs under the block grant operated from 1997, and each state set benefit levels, eligibility rules, sanction rules, and time limits inside a federal funding structure that paid a fixed amount regardless of caseload movement. The treatment under examination therefore had no single start date and no single national form, because the federal government had approved state waiver experiments before enactment, and several waiver programs had tested work requirements, earnings disregards, and time limits under the predecessor program during the middle 1990s.

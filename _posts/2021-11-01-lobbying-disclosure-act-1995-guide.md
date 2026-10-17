@@ -9,7 +9,7 @@ excerpt: "The Lobbying Disclosure Act sets the registration test, the time thres
 image: "/assets/images/blog/blog-99.webp"
 reading_time: "96"
 author: "christopher-wells"
-last_updated: "2021-11-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Lobbying Disclosure Act of 1995 answers a question that American law had fumbled for half a century: which paid efforts to influence the federal government must be disclosed to the public, and by whom. The statute's answer is built out of definitions rather than prohibitions. It forbids almost nothing. Instead it identifies a class of professional advocates, requires them to register with the two administrative officers of Congress, and obliges them to report, client by client, the issues they pressed, the institutions they approached, and the money the work involved. Everything in the regime depends on where the definitional lines fall, and the most consequential line is a proportion: an individual counts as a lobbyist only when lobbying activities reach at least a fifth of the time that individual spends serving a particular client. A reader who understands that threshold, and the registration and reporting machinery built around it, understands both what the disclosure system shows and what it structurally cannot show.

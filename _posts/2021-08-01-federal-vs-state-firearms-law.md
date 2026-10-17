@@ -9,7 +9,7 @@ excerpt: "Federal vs state firearms law divides the work: the federal layer lice
 image: "/assets/images/blog/blog-104.webp"
 reading_time: "95"
 author: "james-carter"
-last_updated: "2021-08-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Federal vs State Firearms Law: Two Layers, One Set of Rules

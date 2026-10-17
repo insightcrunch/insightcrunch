@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-13T13:52:26Z",
-  "total_posts": 4352,
-  "flagged_posts": 156,
-  "clean_posts": 4196,
+  "generated": "2026-10-17T10:22:41Z",
+  "total_posts": 4450,
+  "flagged_posts": 157,
+  "clean_posts": 4293,
   "posts": [
     {
       "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
@@ -29,6 +29,40 @@
           "type": "TITLE_KEYWORD_MISSING_FROM_BODY",
           "severity": "critical",
           "detail": "\"hp\" is in the title but never appears in the body",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        }
+      ],
+      "critical_count": 2,
+      "warning_count": 0
+    },
+    {
+      "filename": "2020-05-15-how-cbo-scores-legislation.md",
+      "slug": "how-cbo-scores-legislation",
+      "url": "/2020/05/15/how-cbo-scores-legislation/",
+      "title": "How CBO Scores a Bill: Baselines, Windows, and Estimates",
+      "page_title": "How CBO Scores a Bill: Congressional Budget Office Cost Estimates, the Statutory Baseline, the Ten Year Window, and Dynamic Scoring Explained",
+      "has_page_title": true,
+      "date": "2020-05-15",
+      "word_count": 24531,
+      "issues": [
+        {
+          "keyword": "windows",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"windows\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "windows",
+          "type": "TITLE_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"windows\" is in the title but never appears in the body",
           "in_slug": false,
           "in_title": true,
           "in_page_title": false,

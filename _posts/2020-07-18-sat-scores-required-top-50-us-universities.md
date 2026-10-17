@@ -5,11 +5,11 @@ page_title: "SAT Score Requirements for the Top 50 US Universities: Median Score
 date: 2020-07-18
 categories: ["Industry"]
 tags: ['SAT Scores Top Universities', 'SAT Scores Ivy League', 'SAT Scores Top 50', 'SAT Score Requirements Colleges', 'SAT Scores for Harvard', 'SAT Scores for Stanford', 'SAT Competitive Scores', 'SAT Scores by College']
-excerpt: "A comprehensive guide to SAT score expectations at the top 50 US universities covering median scores, competitive ranges, and how scores factor into admissions decisions at each tier."
+excerpt: "Decode SAT score ranges across the top 50 US universities with median, 25th, and 75th percentile data per school."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 45
 author: "christopher-wells"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 The SAT score ranges at the top fifty US universities represent one of the most practically useful pieces of information available to college applicants, yet they are also one of the most consistently misunderstood. Many applicants know that selective colleges have high score expectations but are unclear about what specific score ranges look like at specific institutions, how much variation exists within those ranges, and what a score above or below the published range actually means for their admission prospects. This guide addresses all of those questions systematically across four tiers of institutional selectivity.

@@ -9,7 +9,7 @@ excerpt: "The Brady Act built a federal check where none had existed, first as a
 image: "/assets/images/blog/blog-46.webp"
 reading_time: "84"
 author: "michael-brooks"
-last_updated: "2021-04-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## What the Brady Act Built

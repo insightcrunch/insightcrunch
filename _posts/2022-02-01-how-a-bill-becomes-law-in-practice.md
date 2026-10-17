@@ -9,7 +9,7 @@ excerpt: "How a bill becomes law in practice runs through committee gatekeepers,
 image: "/assets/images/blog/blog-40.webp"
 reading_time: "91"
 author: "nathan-cole"
-last_updated: "2022-02-01"
+last_updated: 2026-10-17
 lang: en
 ---
 In classrooms across the United States, a diagram on a wall or a page in a textbook explains how a bill becomes law through a sequence of clean boxes and arrows. A member introduces a proposal, a committee studies and amends it, one chamber debates and passes it, the second chamber repeats the process, a conference reconciles any differences, and the President signs the finished text. The diagram has the virtue of order. Every step follows the step before it, every measure receives the same treatment as every other measure, and the outcome appears to turn on the merits of the proposal and the votes of the members elected to judge it. Generations of students have memorized that sequence, reproduced it on examinations, and carried its logic into adult citizenship as the standard account of American lawmaking.

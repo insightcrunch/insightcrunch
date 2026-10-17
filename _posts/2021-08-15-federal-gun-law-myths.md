@@ -9,7 +9,7 @@ excerpt: "Federal gun law myths tested against the statute text: repeal, registr
 image: "/assets/images/blog/blog-64.webp"
 reading_time: "90"
 author: "christopher-wells"
-last_updated: "2021-08-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Federal Gun Law Myths and the Texts They Are Tested Against

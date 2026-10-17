@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in San Francisco for the next two weeks: sp
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in San Francisco: The Next Two Weeks

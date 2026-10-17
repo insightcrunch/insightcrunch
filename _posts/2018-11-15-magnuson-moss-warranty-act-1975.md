@@ -9,7 +9,7 @@ excerpt: "Magnuson-Moss Warranty Act explained: full and limited labels, disclos
 image: "/assets/images/blog/blog-106.webp"
 reading_time: "82"
 author: "samantha-lee"
-last_updated: "2018-11-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

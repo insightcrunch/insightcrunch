@@ -9,7 +9,7 @@ excerpt: "The Trade Expansion Act of 1962 joined formula tariff bargaining, a na
 image: "/assets/images/blog/blog-89.webp"
 reading_time: "99"
 author: "hannah-moore"
-last_updated: "2020-08-01"
+last_updated: 2026-10-17
 lang: en
 ---
 One test separates a passing familiarity with American trade law from a working command of the subject. The test asks whether a statute known almost entirely for a national security tariff provision can be recognized as a statute enacted to authorize a multilateral tariff cutting round. The Trade Expansion Act of 1962 passes that test in reverse. Later litigation and later presidential action attached the act to section 232, the provision under which a president may adjust imports that threaten to impair the national security. The Congress that enacted the statute had a different central purpose in view. The House of Representatives passed the bill on June 28, 1962, by a vote of 298 to 125, the Senate passed the bill on September 19, 1962, by a vote of 78 to 8, and President John F. Kennedy signed the act on October 11, 1962. The enacted text is Public Law 87-794, printed at 76 Stat. 872, carried through the 87th Congress as H.R. 11970, and codified at 19 U.S.C. ch. 7.

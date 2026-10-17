@@ -9,7 +9,7 @@ excerpt: "Permanent normal trade relations with China lowered no tariff. The law
 image: "/assets/images/blog-01.webp"
 reading_time: "84"
 author: "abigail-cooper"
-last_updated: "2020-07-15"
+last_updated: 2026-10-17
 lang: en
 ---
 Permanent Normal Trade Relations with China changed the legal footing of trade between the two countries without changing the tariff charged on a single shipment. For twenty years before permanent status took effect, goods from China entered the United States at normal column 1 rates because a president renewed a waiver each year. Those rates were real, and trade moved under them, but the authority behind them ran for one cycle at a time. The statute ended that yearly permission. After its central provision took effect, normal treatment rested on ordinary law, and no annual renewal stood between an importer and the rates printed in the schedule.

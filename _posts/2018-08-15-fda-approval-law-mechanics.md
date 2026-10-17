@@ -9,7 +9,7 @@ excerpt: "FDA approval law turns two short statutory commands into a working sys
 image: "/assets/images/blog/blog-83.webp"
 reading_time: "85"
 author: "thomas-reid"
-last_updated: "2018-08-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

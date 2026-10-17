@@ -9,7 +9,7 @@ excerpt: "The Veterans Choice Act answered a scheduling scandal with a private c
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "83"
 author: "simon-hartley"
-last_updated: "2019-04-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Question Behind the Statute

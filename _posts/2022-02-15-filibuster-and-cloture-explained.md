@@ -9,7 +9,7 @@ excerpt: "The filibuster and cloture rules decide how Senate debate ends, which 
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "96"
 author: "robert-quinn"
-last_updated: "2022-02-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The filibuster presents a test of how procedure becomes power. A measure with majority support can fail to reach a vote in the Senate, while a measure with identical support passes the House of Representatives and moves toward enactment. Explanation of that difference rests neither in the Constitution nor in a founding decision to protect unlimited debate. Senate practice acquired the opening for extended debate through an 1806 housekeeping revision that removed the previous question motion, the device by which a majority could end debate. Every later defense of unlimited debate built on that removal, and each later reform effort confronted a practice that had hardened around an absence in the rulebook.

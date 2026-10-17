@@ -5,11 +5,11 @@ page_title: "How Colleges Use SAT Scores: Inside the Admissions Process, Academi
 date: 2020-06-16
 categories: ["Industry"]
 tags: ['SAT Admissions Process', 'SAT Score Evaluation', 'SAT College Admissions', 'SAT Holistic Review', 'SAT Academic Index', 'SAT Admissions Weight', 'SAT Score Importance', 'SAT Role in Admissions']
-excerpt: "An insider guide to how college admissions offices actually evaluate SAT scores including academic index, holistic review, reader evaluation, and how scores interact with other application factors."
+excerpt: "Decode how admissions offices actually evaluate SAT scores within the larger holistic review process."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 45
 author: "katherine-blake"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 Most students applying to college have a mental model of how SAT scores are used that is significantly inaccurate. The most common misconception is that there is a score cutoff somewhere, a threshold below which applications are rejected and above which they receive full consideration. The second most common misconception is almost the opposite: that holistic review means scores matter very little and are just one of many equal factors. Neither picture is accurate, and both lead to poor preparation and application strategy decisions.

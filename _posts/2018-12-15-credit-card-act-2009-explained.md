@@ -9,7 +9,7 @@ excerpt: "A guide to the CARD Act rules on rate increases, penalty fees, payment
 image: "/assets/images/blog/blog-117.webp"
 reading_time: "80"
 author: "patrick-dunn"
-last_updated: "2018-12-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## What the CARD Act Requires of the Companies That Issue Credit Cards

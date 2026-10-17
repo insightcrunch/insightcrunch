@@ -9,7 +9,7 @@ excerpt: "The Child Nutrition Act built breakfast, milk aid, and WIC on the scho
 image: "/assets/images/blog/blog-22.webp"
 reading_time: "91"
 author: "michael-brooks"
-last_updated: "2019-09-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The operative question behind the Child Nutrition Act was deceptively simple: when a child arrived at school hungry, which level of government paid for the meal, under what conditions, and with what degree of legal obligation? Congress legislated against a record in which that question had no stable answer. School feeding had grown from charity and local initiative into a patchwork of surplus commodity shipments, relief labor, and state authorization, and the patchwork fed children well in districts with wealth, organization, and kitchen capacity while leaving poor districts with the weakest facilities and the least margin. War gave the gap a manpower measure, because Selective Service examinations linked poor childhood diets to rejected recruits, and the National School Lunch Act of 1946 answered with a permanent program that declared school lunch a measure of national security. Two decades later, the lunch framework reached lunch and little else. Breakfast had no federal assistance. Milk ran on separate and expiring authority. Equipment money lagged behind need in the schools serving the poorest children. The claim that organizes the entire statute is plain: entitlement or appropriation decides everything.

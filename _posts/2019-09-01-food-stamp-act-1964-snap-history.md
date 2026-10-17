@@ -9,7 +9,7 @@ excerpt: "The Food Stamp Act created a food benefit bought with cash, then resha
 image: "/assets/images/blog/blog-15.webp"
 reading_time: "87"
 author: "christopher-wells"
-last_updated: "2019-09-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Food Stamp Act of 1964 answers an operative question of institutional design: by what legal mechanism can the federal government raise the food purchasing power of low income households through ordinary grocery stores, at federal expense, under state administration, without converting food assistance into a general cash grant? Each operative element of the statute responds to a part of that question. Coupons restricted spending to food. A purchase charge required a household contribution scaled to ordinary food expenditure. State agencies certified households under standards approved in Washington. Federal appropriations, capped by fiscal year, limited the value of coupons issued beyond the charges collected from households. The sections that follow trace the statute from a Depression era surplus device to a permanent program, and the record assembled across those sections supports a single organizing claim about the source of durability.

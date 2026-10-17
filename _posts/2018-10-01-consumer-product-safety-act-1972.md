@@ -9,7 +9,7 @@ excerpt: "The Consumer Product Safety Act built a commission administering five 
 image: "/assets/images/blog/blog-34.webp"
 reading_time: "88"
 author: "maria-santos"
-last_updated: "2018-10-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

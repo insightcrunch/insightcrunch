@@ -5,11 +5,11 @@ page_title: "How to Improve Your SAT Score from 1000 to 1200: The Complete Found
 date: 2021-02-11
 categories: ["Industry"]
 tags: ['SAT Score Improvement', 'SAT 1000 to 1200', 'SAT Foundational Skills', 'SAT Score Jump', 'SAT Study Plan Beginner', 'SAT Low Score Improvement', 'SAT Basic Strategy', 'SAT 200 Point Improvement']
-excerpt: "The complete guide to improving from a 1000 to 1200 SAT score by building foundational skills in reading, grammar, and math with a structured practice plan."
+excerpt: "Decode the 1000 to 1200 SAT improvement path with foundational skill building across all sections."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "natalie-webb"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # How to Go from 1000 to 1200 on the SAT

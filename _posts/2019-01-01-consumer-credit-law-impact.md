@@ -9,7 +9,7 @@ excerpt: "Consumer credit law promised informed borrowing through disclosure. Th
 image: "/assets/images/blog/blog-61.webp"
 reading_time: "88"
 author: "gregory-marsh"
-last_updated: "2019-01-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Truth in Lending Act of 1968 stated the aim of federal disclosure law in a single chain of reasoning. Meaningful disclosure of credit terms would create consumer awareness of the cost of credit, awareness would produce the informed use of credit, and informed use would strengthen competition among the firms extending credit. Federal consumer credit law rested on that chain. Congress did not set the price of a loan, cap an interest rate, or forbid a term in 1968. Congress standardized the description of the transaction, through the finance charge and the annual percentage rate, and assigned the discipline of the market to borrowers equipped with a common measure. The promise was precise enough to test. A borrower who received the same price language from every creditor could compare offers, reject expensive credit, and reward cheaper credit, and competition would perform the regulatory work that price control performed under older state usury regimes.

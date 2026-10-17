@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Austin for the next two weeks: speed dat
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Austin: The Next Two Weeks

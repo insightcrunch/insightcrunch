@@ -9,7 +9,7 @@ excerpt: "NAFTA vs USMCA compared across five axes: tariffs barely moved, auto c
 image: "/assets/images/blog/blog-46.webp"
 reading_time: "92"
 author: "marcus-hall"
-last_updated: "2020-09-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The question behind NAFTA vs USMCA is asked in classrooms, in committee staff rooms, on factory floors, and in farm offices, and the question is rarely asked in the abstract. A student assigned North American trade law wants to know which text to read first and why the second text exists at all. A staffer preparing oversight material wants to know which obligations bind the United States after July 1, 2020 and which dates on the calendar will force decisions. A producer wants to know whether a shipment, a vehicle, or a milk powder consignment faces a different rule under the successor agreement than under the agreement that governed from January 1, 1994 until termination. Each version of the question sounds like a request for a single verdict, and each version conceals a choice about what to measure.

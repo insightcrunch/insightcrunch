@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Miami for the next two weeks: speed dati
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Miami: The Next Two Weeks

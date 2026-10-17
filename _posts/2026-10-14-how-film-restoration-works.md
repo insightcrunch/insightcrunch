@@ -9,7 +9,7 @@ excerpt: "Film restoration rebuilds a damaged or fading movie from its best surv
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 79
 author: "amanda-ross"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## A Restored Film Starts as a Search, Not a Scan

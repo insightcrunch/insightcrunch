@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in New York City for the next two weeks: sp
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in New York City: The Next Two Weeks

@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Las Vegas for the next two weeks: speed 
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Las Vegas: The Next Two Weeks

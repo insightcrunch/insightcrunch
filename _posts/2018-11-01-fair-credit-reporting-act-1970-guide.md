@@ -9,7 +9,7 @@ excerpt: "The Fair Credit Reporting Act governs consumer reports, credit bureau 
 image: "/assets/images/blog/blog-110.webp"
 reading_time: "82"
 author: "hannah-moore"
-last_updated: "2018-11-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The First Federal Information Privacy Law

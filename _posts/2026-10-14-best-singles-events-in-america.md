@@ -9,7 +9,7 @@ excerpt: "The 200 best singles events in America for the next two weeks: speed d
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## The 200 Best Singles Events in America Right Now

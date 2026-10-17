@@ -9,7 +9,7 @@ excerpt: "How the debt ceiling governs borrowing to pay enacted obligations, thr
 image: "/assets/images/blog/blog-45.webp"
 reading_time: "82"
 author: "william-knight"
-last_updated: "2020-04-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The debt ceiling decides whether the United States pays obligations that Congress has already enacted into law. The mechanism is a statutory limit at 31 U.S.C. 3101 on the face amount of obligations issued by the Treasury, and the outcome governed by that mechanism is payment itself. When enacted spending exceeds enacted receipts, borrowing fills the gap between the two totals. A ceiling that blocks borrowing therefore blocks the means of payment without removing a single obligation. The ceiling is best understood as a permission slip for bills already run up, since it controls whether the government may pay for spending Congress has already approved rather than controlling the spending itself.

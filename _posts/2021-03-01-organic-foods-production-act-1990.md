@@ -9,7 +9,7 @@ excerpt: "The Organic Foods Production Act of 1990 gave the word organic one nat
 image: "/assets/images/blog/blog-83.webp"
 reading_time: "92"
 author: "maria-santos"
-last_updated: "2021-03-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Word Congress Chose to Define

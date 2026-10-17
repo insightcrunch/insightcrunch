@@ -9,7 +9,7 @@ excerpt: "How FOIA Was Amended traces six major revision acts, from a veto overr
 image: "/assets/images/blog/blog-38.webp"
 reading_time: "87"
 author: "jessica-kim"
-last_updated: "2021-12-01"
+last_updated: 2026-10-17
 lang: en
 ---
 How FOIA Was Amended is best understood as a record of reaction rather than a record of steady expansion. Each major revision answered a defined failure in the statute as agencies, courts, and requesters had experienced that statute in practice. A judicial construction narrowed a right that Congress believed the text had granted. An administrative practice turned a deadline or a fee rule into a barrier that the text had not intended. A change in recordkeeping altered the material to which the entire scheme applied. The amendment pattern therefore reveals the operating condition of disclosure law between revisions: text enacted for one institutional environment had to be defended, corrected, or rebuilt when that environment changed.

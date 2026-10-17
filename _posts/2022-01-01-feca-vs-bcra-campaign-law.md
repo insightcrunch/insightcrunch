@@ -9,7 +9,7 @@ excerpt: "FECA vs McCain-Feingold compares two designs for regulating campaign m
 image: "/assets/images/blog/blog-80.webp"
 reading_time: "81"
 author: "simon-hartley"
-last_updated: "2022-01-01"
+last_updated: 2026-10-17
 lang: en
 ---
 FECA vs McCain-Feingold is the comparison that organizes modern American campaign finance law, because nearly every argument in the field is an argument about which of the two statutes understood the problem correctly. A student meeting the subject for the first time encounters two names and a shelf of cases and has to learn which law did what. A legislative staffer drafting a new proposal has to know which of the two designs the courts have permitted to operate and which they have dismantled. A journalist explaining a super PAC or a party account has to trace the money back through both statutes to say anything accurate about how it got there. The comparison is not a trivia question about dates. It is the field's working map.

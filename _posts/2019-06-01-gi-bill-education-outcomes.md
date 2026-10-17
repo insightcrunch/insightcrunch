@@ -9,7 +9,7 @@ excerpt: "GI Bill education outcomes show large attainment gains, deep regional 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: "79"
 author: "ian-fletcher"
-last_updated: "2019-06-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Readjustment Promised and Attainment Measured

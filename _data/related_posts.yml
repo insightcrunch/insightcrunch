@@ -27719,11 +27719,11 @@ medicare-1965-passage-history:
   category: industry
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: social-security-amendments-1965-medicare
-  title: Medicare and the Social Security Amendments of 1965
-  url: /2010/11/01/social-security-amendments-1965-medicare/
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
   category: industry
-  image: /assets/images/blog/blog-75.webp
+  image: /assets/images/blog-01.webp
   lang: en
 love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups:
 - slug: google-fills-my-world
@@ -28205,6 +28205,12 @@ medicare-catastrophic-coverage-act-1988:
   url: /2013/06/01/economic-recovery-tax-act-1981/
   category: industry
   image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: medicare-modernization-act-2003-part-d
+  title: Medicare Part D and the 2003 Modernization Act Explained
+  url: /2011/01/01/medicare-modernization-act-2003-part-d/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 lock-folders-and-hide-your-secret-files:
 - slug: how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them
@@ -28919,17 +28925,17 @@ medicaid-statute-structure-explained:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: chip-1997-guide
+  title: Children's Health Insurance Program Explained in Full
+  url: /2019/11/01/chip-1997-guide/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
 - slug: us-health-legislation-since-1950
   title: 'US Health Legislation Since 1950: Six Decades of Law'
   url: /2011/03/15/us-health-legislation-since-1950/
   category: industry
   image: /assets/images/blog/blog-61.webp
-  lang: en
-- slug: medicare-catastrophic-coverage-act-1988
-  title: 'Medicare Catastrophic Coverage Act: Enacted and Repealed'
-  url: /2010/12/15/medicare-catastrophic-coverage-act-1988/
-  category: industry
-  image: /assets/images/blog/blog-113.webp
   lang: en
 tcl-ilp-gandhinagar-experience-the-journey-begins:
 - slug: ilp-chalisa
@@ -29038,6 +29044,12 @@ cms-medicare-rulemaking-guide:
   category: us legislation
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: ftc-consumer-protection-rulemaking
+  title: 'How the FTC Writes Consumer Rules: Process and Enforcement'
+  url: /2019/01/15/ftc-consumer-protection-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 - slug: medicare-parts-a-b-statute-explained
   title: 'Medicare Parts A and B: What the Statute Actually Covers'
   url: /2010/12/01/medicare-parts-a-b-statute-explained/
@@ -29049,12 +29061,6 @@ cms-medicare-rulemaking-guide:
   url: /2011/12/01/epa-clean-air-act-rulemaking/
   category: industry
   image: /assets/images/blog/blog-52.webp
-  lang: en
-- slug: massachusetts-v-epa-explained
-  title: Massachusetts v. EPA and the Clean Air Act Doctrine
-  url: /2011/11/01/massachusetts-v-epa-explained/
-  category: industry
-  image: /assets/images/blog/blog-39.webp
   lang: en
 king-lear-character-analysis-deep-dive:
 - slug: goneril-king-lear-character-analysis
@@ -31061,6 +31067,12 @@ clean-air-act-vs-clean-water-act:
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: safe-drinking-water-act-guide
+  title: 'Safe Drinking Water Act: Tap Water Standards Explained Guide'
+  url: /2012/04/15/safe-drinking-water-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 is-it-hard-to-apply-at-amazon:
 - slug: is-it-hard-to-get-hired-at-amazon
   title: Is it hard to get hired at Amazon?
@@ -31242,6 +31254,12 @@ teaching-us-environmental-law:
   category: industry
   image: /assets/images/blog/blog-29.webp
   lang: en
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 - slug: civil-rights-act-vs-voting-rights-act
   title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
   url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
@@ -31253,12 +31271,6 @@ teaching-us-environmental-law:
   url: /2012/03/01/endangered-species-act-1973-guide/
   category: industry
   image: /assets/images/blog/blog-103.webp
-  lang: en
-- slug: us-infrastructure-legislation-history
-  title: 'US Infrastructure Legislation: Build, Deregulate, Allocate'
-  url: /2016/08/15/us-infrastructure-legislation-history/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
   lang: en
 good-looks-pay-off-in-the-outsourcing-world:
 - slug: why-do-one-blog
@@ -31691,12 +31703,6 @@ tcs-itis-and-itis-frequently-asked-questions:
   category: industry
   image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: kefauver-harris-amendments-1962
-  title: 'Kefauver-Harris Amendments: The Drug Effectiveness Standard'
-  url: /2018/06/01/kefauver-harris-amendments-1962/
-  category: industry
-  image: /assets/images/blog/blog-15.webp
-  lang: en
 - slug: why-media-companies-merge
   title: 'Why Media Companies Merge: Consolidation Explained'
   url: /2026/10/05/why-media-companies-merge/
@@ -31772,11 +31778,11 @@ endangered-species-act-1973-guide:
   category: industry
   image: /assets/images/blog/blog-23.webp
   lang: en
-- slug: voting-rights-act-1965-complete-guide
-  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
-  url: /2010/06/01/voting-rights-act-1965-complete-guide/
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
   category: industry
-  image: /assets/images/blog/blog-107.webp
+  image: /assets/images/blog/blog-110.webp
   lang: en
 - slug: tva-v-hill-snail-darter-case
   title: 'TVA v. Hill: The Snail Darter Case That Changed Everything'
@@ -32596,11 +32602,11 @@ endangered-species-act-myths:
   category: industry
   image: /assets/images/blog/blog-90.webp
   lang: en
-- slug: national-environmental-policy-act-guide
-  title: National Environmental Policy Act Guide to Federal Review
-  url: /2012/02/01/national-environmental-policy-act-guide/
+- slug: organic-foods-production-act-1990
+  title: 'Organic Foods Production Act of 1990: A Complete Guide'
+  url: /2021/03/01/organic-foods-production-act-1990/
   category: industry
-  image: /assets/images/blog/blog-45.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 harry-potter-complete-character-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
@@ -32927,17 +32933,17 @@ erisa-1974-complete-guide:
   category: industry
   image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: ferc-energy-rulemaking-guide
-  title: 'How FERC Implements Energy Statutes: Rulemaking Guide'
-  url: /2016/12/15/ferc-energy-rulemaking-guide/
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
   category: industry
-  image: /assets/images/blog/blog-94.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: us-health-legislation-since-1950
-  title: 'US Health Legislation Since 1950: Six Decades of Law'
-  url: /2011/03/15/us-health-legislation-since-1950/
+- slug: fda-approval-law-mechanics
+  title: 'FDA Approval Law: How the Review System Actually Works'
+  url: /2018/08/15/fda-approval-law-mechanics/
   category: industry
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 sirius-black-complete-character-analysis:
 - slug: james-potter-complete-character-analysis
@@ -33283,6 +33289,12 @@ india-defense-doctrine-post-pahalgam:
   image: /assets/images/blog/blog-02.webp
   lang: en
 supplemental-security-income-1972:
+- slug: social-security-amendments-1965-medicare
+  title: Medicare and the Social Security Amendments of 1965
+  url: /2010/11/01/social-security-amendments-1965-medicare/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
 - slug: ssa-benefit-administration-law
   title: How Social Security disability benefits reach claimants
   url: /2012/10/01/ssa-benefit-administration-law/
@@ -33300,12 +33312,6 @@ supplemental-security-income-1972:
   url: /2012/07/01/social-security-amendments-history/
   category: industry
   image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: crime-bill-1994-vs-first-step-act
-  title: 'Crime Bill vs First Step Act: Authority Versus Reach'
-  url: /2018/04/01/crime-bill-1994-vs-first-step-act/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
   lang: en
 minerva-mcgonagall-complete-character-analysis:
 - slug: harry-potter-mcgonagall-vs-umbridge-comparison
@@ -33520,29 +33526,29 @@ battle-of-ayn-jalut-mongols:
   image: /assets/images/blog/blog-19.webp
   lang: en
 pension-protection-act-2006-guide:
+- slug: crime-bill-1994-vs-first-step-act
+  title: 'Crime Bill vs First Step Act: Authority Versus Reach'
+  url: /2018/04/01/crime-bill-1994-vs-first-step-act/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: erisa-1974-complete-guide
   title: 'ERISA: How a Pension Statute Became America''s Health Law'
   url: /2012/07/15/erisa-1974-complete-guide/
   category: industry
   image: /assets/images/blog/blog-45.webp
   lang: en
+- slug: fair-debt-collection-practices-act
+  title: 'Fair Debt Collection Practices Act: Coverage and Rules'
+  url: /2018/12/01/fair-debt-collection-practices-act/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 - slug: secure-act-retirement-law-changes
   title: 'SECURE Act Retirement Changes: How Two Acts Reshaped Saving'
   url: /2012/11/01/secure-act-retirement-law-changes/
   category: industry
   image: /assets/images/blog/blog-45.webp
-  lang: en
-- slug: fair-housing-amendments-act-1988
-  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
-  url: /2015/12/15/fair-housing-amendments-act-1988/
-  category: industry
-  image: /assets/images/blog/blog-104.webp
-  lang: en
-- slug: dodd-frank-act-complete-guide
-  title: 'Dodd-Frank Act: Complete Guide to the Statute''s Architecture'
-  url: /2013/10/01/dodd-frank-act-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-103.webp
   lang: en
 dolores-umbridge-complete-character-analysis:
 - slug: kingsley-shacklebolt-complete-character-analysis
@@ -33995,6 +34001,12 @@ is-it-hard-to-get-hired-on-at-amazon:
   image: /assets/images/blog/blog-50.webp
   lang: en
 pension-vs-401k-law-shift:
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 - slug: civil-rights-act-1964-titles-explained
   title: The Civil Rights Act of 1964 Title by Title
   url: /2010/02/01/civil-rights-act-1964-titles-explained/
@@ -34012,12 +34024,6 @@ pension-vs-401k-law-shift:
   url: /2010/02/15/title-vii-eeoc-enforcement-guide/
   category: industry
   image: /assets/images/blog/blog-09.webp
-  lang: en
-- slug: lilly-ledbetter-fair-pay-act-2009
-  title: 'Lilly Ledbetter Fair Pay Act: What the Statute Changed'
-  url: /2015/03/01/lilly-ledbetter-fair-pay-act-2009/
-  category: industry
-  image: /assets/images/blog/blog-66.webp
   lang: en
 peter-pettigrew-complete-character-analysis:
 - slug: harry-potter-loyalty-betrayal-analysis
@@ -34182,17 +34188,17 @@ secure-act-retirement-law-changes:
   category: industry
   image: /assets/images/blog/blog-107.webp
   lang: en
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 - slug: ferc-energy-rulemaking-guide
   title: 'How FERC Implements Energy Statutes: Rulemaking Guide'
   url: /2016/12/15/ferc-energy-rulemaking-guide/
   category: industry
   image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: iirira-1996-immigration-act-guide
-  title: 'IIRIRA Guide: How the Immigration Law Reshaped Deportation'
-  url: /2013/01/15/iirira-1996-immigration-act-guide/
-  category: industry
-  image: /assets/images/blog/blog-40.webp
   lang: en
 nymphadora-tonks-complete-character-analysis:
 - slug: luna-lovegood-complete-character-analysis
@@ -34538,11 +34544,11 @@ immigration-nationality-act-1965-guide:
   category: industry
   image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: refugee-act-1980-guide
-  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
-  url: /2013/04/01/refugee-act-1980-guide/
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-97.webp
+  image: /assets/images/blog/blog-25.webp
   lang: en
 cornelius-fudge-complete-character-analysis:
 - slug: rufus-scrimgeour-complete-character-analysis
@@ -34638,11 +34644,11 @@ hart-celler-act-passage-history:
   category: industry
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: us-infrastructure-legislation-history
-  title: 'US Infrastructure Legislation: Build, Deregulate, Allocate'
-  url: /2016/08/15/us-infrastructure-legislation-history/
+- slug: congressional-budget-act-1974-guide
+  title: 'Congressional Budget Act Explained: How Congress Budgets'
+  url: /2020/01/01/congressional-budget-act-1974-guide/
   category: industry
-  image: /assets/images/blog/blog-48.webp
+  image: /assets/images/blog/blog-67.webp
   lang: en
 is-amazon-hard-to-get-hired-2:
 - slug: amazon-jobs-work-from-home
@@ -35769,17 +35775,17 @@ immigration-law-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: endangered-species-act-1973-guide
-  title: 'The Endangered Species Act: A Complete Guide to the Law'
-  url: /2012/03/01/endangered-species-act-1973-guide/
+- slug: second-amendment-supreme-court-cases
+  title: Second Amendment Supreme Court Cases and the Doctrine
+  url: /2021/07/01/second-amendment-supreme-court-cases/
   category: industry
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-17.webp
   lang: en
-- slug: hud-enforcement-and-rulemaking
-  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
-  url: /2016/02/15/hud-enforcement-and-rulemaking/
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-110.webp
   lang: en
 saleem-rehmani-profile:
 - slug: targeted-killings-pakistan-complete-timeline
@@ -36487,6 +36493,12 @@ harry-potter-redemption-arcs-analysis:
   image: /assets/images/blog/blog-98.webp
   lang: en
 tax-reform-act-1986-passage-history:
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 - slug: patriot-act-2001-passage-history
   title: 'PATRIOT Act Passage History: How Attack Became Law in Days'
   url: /2014/03/15/patriot-act-2001-passage-history/
@@ -36499,17 +36511,11 @@ tax-reform-act-1986-passage-history:
   category: industry
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: tax-reform-1986-vs-tcja-2017
-  title: 'Tax Reform Compared: Bipartisan Versus Party-Line Models'
-  url: /2013/09/01/tax-reform-1986-vs-tcja-2017/
+- slug: how-a-bill-becomes-law-in-practice
+  title: 'How a Bill Becomes Law in Practice: The Real Process'
+  url: /2022/02/01/how-a-bill-becomes-law-in-practice/
   category: industry
-  image: /assets/images/blog/blog-76.webp
-  lang: en
-- slug: tax-cuts-and-jobs-act-2017-guide
-  title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
-  url: /2013/06/15/tax-cuts-and-jobs-act-2017-guide/
-  category: industry
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
 jem-targets-compared:
 - slug: masood-azhar-network-under-siege
@@ -37498,17 +37504,17 @@ how-tax-bills-move-through-congress:
   category: industry
   image: /assets/images/blog/blog-66.webp
   lang: en
+- slug: how-cbo-scores-legislation
+  title: 'How CBO Scores a Bill: Baselines, Windows, and Estimates'
+  url: /2020/05/15/how-cbo-scores-legislation/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: tax-reform-act-1986-complete-guide
   title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
   url: /2013/05/01/tax-reform-act-1986-complete-guide/
   category: industry
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: tax-reform-act-1986-impact
-  title: 'Tax Reform Aftermath: What the Landmark Law Kept and Lost'
-  url: /2013/08/01/tax-reform-act-1986-impact/
-  category: industry
-  image: /assets/images/blog/blog-55.webp
   lang: en
 harry-potter-growing-up-maturity-analysis:
 - slug: harry-potter-father-figures-analysis
@@ -38373,6 +38379,12 @@ battle-of-the-pyramids:
   image: /assets/images/blog/blog-40.webp
   lang: en
 sarbanes-oxley-act-2002-guide:
+- slug: credit-card-act-2009-explained
+  title: 'What the CARD Act Requires: Rates, Fees and Billing Rules'
+  url: /2018/12/15/credit-card-act-2009-explained/
+  category: industry
+  image: /assets/images/blog/blog-117.webp
+  lang: en
 - slug: refugee-act-1980-guide
   title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
   url: /2013/04/01/refugee-act-1980-guide/
@@ -38390,12 +38402,6 @@ sarbanes-oxley-act-2002-guide:
   url: /2017/07/01/telecommunications-act-1996-guide/
   category: industry
   image: /assets/images/blog/blog-28.webp
-  lang: en
-- slug: dodd-frank-banking-impact
-  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
-  url: /2014/01/01/dodd-frank-banking-impact/
-  category: industry
-  image: /assets/images/blog/blog-109.webp
   lang: en
 harry-potter-dobby-vs-kreacher-comparison:
 - slug: kreacher-complete-character-analysis
@@ -38622,11 +38628,11 @@ cfpb-creation-and-powers:
   category: industry
   image: /assets/images/blog/blog-109.webp
   lang: en
-- slug: financial-regulation-court-cases
-  title: 'Financial Regulation Court Challenges: A Complete History'
-  url: /2014/01/15/financial-regulation-court-cases/
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
   category: industry
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-94.webp
   lang: en
 napoleon-scholars-rediscovered-egypt:
 - slug: rosetta-stone-deciphering-egypt
@@ -38909,6 +38915,12 @@ dodd-frank-banking-impact:
   category: industry
   image: /assets/images/blog/blog-20.webp
   lang: en
+- slug: how-at1-bonds-work
+  title: 'How AT1 Bonds Work: Bank Capital That Absorbs Losses First'
+  url: /2026/10/16/how-at1-bonds-work/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
 rosetta-stone-deciphering-egypt:
 - slug: napoleon-scholars-rediscovered-egypt
   title: 'Napoleon''s Scholars: The Army That Launched Egyptology'
@@ -39047,29 +39059,29 @@ complete-analysis-great-gatsby:
   image: /assets/images/blog/blog-104.webp
   lang: en
 financial-regulation-court-cases:
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: truth-in-lending-act-1968-guide
+  title: 'Truth in Lending Act: Complete Guide to Credit Disclosure'
+  url: /2018/10/15/truth-in-lending-act-1968-guide/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 - slug: massachusetts-v-epa-explained
   title: Massachusetts v. EPA and the Clean Air Act Doctrine
   url: /2011/11/01/massachusetts-v-epa-explained/
   category: industry
   image: /assets/images/blog/blog-39.webp
-  lang: en
-- slug: surveillance-law-court-cases
-  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
-  url: /2014/06/01/surveillance-law-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: immigration-law-supreme-court-cases
-  title: 'Immigration Law in the Supreme Court: Decisions Guide'
-  url: /2013/03/15/immigration-law-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: cfpb-creation-and-powers
-  title: 'CFPB Creation and Powers: How the Bureau Was Funded'
-  url: /2013/12/01/cfpb-creation-and-powers/
-  category: industry
-  image: /assets/images/blog/blog-45.webp
   lang: en
 jay-gatsby-character-analysis:
 - slug: real-models-for-gatsby
@@ -41245,11 +41257,11 @@ surveillance-law-myths:
   category: industry
   image: /assets/images/blog/blog-101.webp
   lang: en
-- slug: endangered-species-act-myths
-  title: 'Endangered Species Act Myths: Examined and Corrected'
-  url: /2012/06/15/endangered-species-act-myths/
+- slug: federal-gun-law-myths
+  title: 'Federal Gun Law Myths: Ten Claims Against the Text'
+  url: /2021/08/15/federal-gun-law-myths/
   category: industry
-  image: /assets/images/blog/blog-23.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
 yosemite-hidden-gems:
 - slug: yosemite-waterfalls-guide
@@ -41589,23 +41601,23 @@ no-child-left-behind-act-2001-guide:
   category: industry
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: child-nutrition-act-1966-guide
+  title: 'Child Nutrition Act: School Meals, WIC, and the Money'
+  url: /2019/09/15/child-nutrition-act-1966-guide/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: idea-special-education-law-guide
   title: 'IDEA and Special Education Law: The Complete Guide'
   url: /2014/10/01/idea-special-education-law-guide/
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: every-student-succeeds-act-2015-guide
-  title: Every Student Succeeds Act Explained
-  url: /2014/09/01/every-student-succeeds-act-2015-guide/
+- slug: veterans-choice-act-2014-guide
+  title: 'Veterans Choice Act: Access, Accountability, and Care'
+  url: /2019/04/01/veterans-choice-act-2014-guide/
   category: industry
-  image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
 - slug: federal-research-funding-law
   title: 'Federal Research Funding Law: How Grants Are Really Governed'
@@ -41751,17 +41763,17 @@ every-student-succeeds-act-2015-guide:
   category: industry
   image: /assets/images/blog/blog-97.webp
   lang: en
+- slug: veterans-choice-act-2014-guide
+  title: 'Veterans Choice Act: Access, Accountability, and Care'
+  url: /2019/04/01/veterans-choice-act-2014-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 - slug: rehabilitation-act-1973-section-504
   title: 'Section 504: Disability Rights and Federal Funding Rules'
   url: /2015/07/01/rehabilitation-act-1973-section-504/
   category: industry
   image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: no-child-left-behind-outcomes
-  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
-  url: /2014/11/01/no-child-left-behind-outcomes/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
   lang: en
 ismail-pasha-egypt-debt:
 - slug: muhammad-ali-pasha-of-egypt
@@ -41926,17 +41938,17 @@ higher-education-act-1965-guide:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
 - slug: infrastructure-investment-jobs-act-2021
   title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
   url: /2016/04/15/infrastructure-investment-jobs-act-2021/
   category: industry
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: civil-rights-act-1964-impact
-  title: What the Civil Rights Act Actually Changed
-  url: /2010/03/15/civil-rights-act-1964-impact/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 it-happened-one-night-screwball-structure (1):
 - slug: it-happened-one-night-screwball-structure
@@ -42193,6 +42205,12 @@ idea-special-education-law-guide:
   url: /2014/09/15/higher-education-act-1965-guide/
   category: ''
   image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: plcaa-2005-guide
+  title: 'PLCAA 2005 Guide: The Six Exceptions to the Federal Bar'
+  url: /2021/05/15/plcaa-2005-guide/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
   lang: en
 yosemite-climbing-adventure-guide:
 - slug: yosemite-waterfalls-guide
@@ -42588,11 +42606,11 @@ no-child-left-behind-outcomes:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: tax-reform-act-1986-complete-guide
-  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
-  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
   category: industry
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-116.webp
   lang: en
 george-lennie-character-analysis:
 - slug: loneliness-of-mice-and-men-themes
@@ -42888,11 +42906,11 @@ education-law-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: immigration-law-supreme-court-cases
-  title: 'Immigration Law in the Supreme Court: Decisions Guide'
-  url: /2013/03/15/immigration-law-supreme-court-cases/
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
   category: industry
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-104.webp
   lang: en
 grand-canyon-best-time-to-visit:
 - slug: grand-canyon-north-vs-south-rim
@@ -44269,6 +44287,12 @@ family-leave-law-workforce-impact:
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
+- slug: nafta-economic-impact
+  title: 'NAFTA Employment Impact: Jobs, Wages, and the Evidence'
+  url: /2020/09/01/nafta-economic-impact/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
 - slug: family-based-i485-after-pm-602-0199
   title: Family-Based I-485 After PM-602-0199
   url: /2026/06/22/family-based-i485-after-pm-602-0199/
@@ -44280,12 +44304,6 @@ family-leave-law-workforce-impact:
   url: /2026/07/11/h1b-fee-ruling-economic-stakes/
   category: industry
   image: /assets/images/blog/blog-103.webp
-  lang: en
-- slug: education-law-supreme-court-cases
-  title: Federal Education Law in the Courts
-  url: /2014/12/01/education-law-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-02.webp
   lang: en
 lord-cromer-ruling-of-egypt:
 - slug: british-rule-good-or-bad-egypt
@@ -44856,17 +44874,17 @@ us-labor-legislation-since-1950:
   category: industry
   image: /assets/images/blog/blog-09.webp
   lang: en
-- slug: equal-pay-act-1963-guide
-  title: The Equal Pay Act of 1963 Explained
-  url: /2015/02/01/equal-pay-act-1963-guide/
+- slug: nafta-economic-impact
+  title: 'NAFTA Employment Impact: Jobs, Wages, and the Evidence'
+  url: /2020/09/01/nafta-economic-impact/
   category: industry
-  image: /assets/images/blog/blog-74.webp
+  image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: age-discrimination-employment-act-1967
-  title: Age Discrimination in Employment Act Explained
-  url: /2015/02/15/age-discrimination-employment-act-1967/
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
   category: industry
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-46.webp
   lang: en
 zion-kolob-hidden-gems:
 - slug: zion-national-park-complete-guide
@@ -46055,17 +46073,17 @@ ada-accessibility-impact:
   category: industry
   image: /assets/images/blog/blog-30.webp
   lang: en
+- slug: nafta-economic-impact
+  title: 'NAFTA Employment Impact: Jobs, Wages, and the Evidence'
+  url: /2020/09/01/nafta-economic-impact/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
 - slug: ada-compliance-standards-guide
   title: 'ADA Compliance Standards: Three Tiers of Facility Duties'
   url: /2015/09/15/ada-compliance-standards-guide/
   category: industry
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: telecommunications-act-1996-guide
-  title: How the Telecommunications Act of 1996 Remade American Media
-  url: /2017/07/01/telecommunications-act-1996-guide/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
   lang: en
 cold-war-sci-fi-klaatu-vs-body-snatchers:
 - slug: star-wars-lucas-hero-journey-blockbuster
@@ -48060,17 +48078,17 @@ hud-enforcement-and-rulemaking:
   category: industry
   image: /assets/images/blog/blog-20.webp
   lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 - slug: fair-housing-amendments-act-1988
   title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
   url: /2015/12/15/fair-housing-amendments-act-1988/
   category: industry
   image: /assets/images/blog/blog-104.webp
-  lang: en
-- slug: voting-rights-act-1965-complete-guide
-  title: 'Voting Rights Act of 1965: The Complete Guide to the Law'
-  url: /2010/06/01/voting-rights-act-1965-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-107.webp
   lang: en
 rocky-mountain-np-5-day-itinerary:
 - slug: rocky-mountain-national-park-complete-guide
@@ -49335,23 +49353,23 @@ istea-1991-transportation-reform:
   category: industry
   image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: civil-rights-act-1964-vote-breakdown
-  title: Who Voted for the Civil Rights Act of 1964
-  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
   category: industry
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: civil-rights-act-1964-passage-history
-  title: How the Civil Rights Act of 1964 Passed
-  url: /2010/01/15/civil-rights-act-1964-passage-history/
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
   category: industry
-  image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: civil-rights-act-1964-myths
-  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
-  url: /2010/05/01/civil-rights-act-1964-myths/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
 rocky-mountain-np-wildlife-photography:
 - slug: rocky-mountain-np-5-day-itinerary
@@ -49903,17 +49921,17 @@ rail-passenger-service-act-1970:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
 - slug: education-law-supreme-court-cases
   title: Federal Education Law in the Courts
   url: /2014/12/01/education-law-supreme-court-cases/
   category: industry
   image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: surveillance-law-court-cases
-  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
-  url: /2014/06/01/surveillance-law-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-88.webp
   lang: en
 deadliest-wars-history-ranked:
 - slug: history-of-democracy-explained
@@ -50247,29 +50265,29 @@ saturday-night-sunday-morning-british-new-wave:
   image: /assets/images/blog/blog-01.webp
   lang: en
 us-infrastructure-legislation-history:
+- slug: filibuster-and-cloture-explained
+  title: 'Filibuster and Cloture Explained: How Senate Debate Ends'
+  url: /2022/02/15/filibuster-and-cloture-explained/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: istea-1991-transportation-reform
   title: 'ISTEA: The Law That Moved Transportation Power to Regions'
   url: /2016/06/01/istea-1991-transportation-reform/
   category: industry
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: civil-rights-act-1964-passage-history
-  title: How the Civil Rights Act of 1964 Passed
-  url: /2010/01/15/civil-rights-act-1964-passage-history/
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
   category: industry
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: teaching-us-environmental-law
-  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
-  url: /2012/01/15/teaching-us-environmental-law/
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
   category: industry
-  image: /assets/images/blog/blog-103.webp
-  lang: en
-- slug: civil-rights-act-1964-vote-breakdown
-  title: Who Voted for the Civil Rights Act of 1964
-  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
-  category: industry
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-45.webp
   lang: en
 history-of-human-rights-explained:
 - slug: history-of-democracy-explained
@@ -51801,17 +51819,17 @@ cafe-standards-law-explained:
   category: industry
   image: /assets/images/blog/blog-100.webp
   lang: en
+- slug: va-claims-process-law
+  title: 'How VA Claims Law Is Administered: Process and Review'
+  url: /2019/06/15/va-claims-process-law/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: energy-policy-act-2005-guide
   title: 'Energy Policy Act: Bipartisan Energy Law, Four Directions'
   url: /2016/09/01/energy-policy-act-2005-guide/
   category: industry
   image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: nepa-environmental-impact-statement
-  title: 'Environmental Impact Statement: How NEPA Reviews Work'
-  url: /2012/04/01/nepa-environmental-impact-statement/
-  category: industry
-  image: /assets/images/blog/blog-37.webp
   lang: en
 lawrence-of-arabia-desert-epic-production:
 - slug: ben-hur-chariot-race-craft
@@ -52045,23 +52063,23 @@ energy-act-2005-vs-ira-2022:
   category: industry
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: civil-rights-act-vs-voting-rights-act
-  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
-  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: istea-1991-transportation-reform
-  title: 'ISTEA: The Law That Moved Transportation Power to Regions'
-  url: /2016/06/01/istea-1991-transportation-reform/
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
   category: industry
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-104.webp
   lang: en
-- slug: ada-1990-passage-history
-  title: 'Americans with Disabilities Act: How Congress Passed It'
-  url: /2015/06/15/ada-1990-passage-history/
+- slug: us-tariff-law-administration
+  title: 'US Tariff Law Administration: Agencies, Remedies, Review'
+  url: /2020/10/01/us-tariff-law-administration/
   category: industry
-  image: /assets/images/blog/blog-27.webp
+  image: /assets/images/blog/blog-41.webp
   lang: en
 feluda-complete-guide-bn:
 - slug: feluda-character-analysis-bn
@@ -52386,6 +52404,12 @@ topshe-character-analysis-bn:
   image: /assets/images/blog/blog-25.webp
   lang: bn
 national-aeronautics-space-act-1958:
+- slug: post-911-gi-bill-2008-guide
+  title: 'Post-9/11 GI Bill: Complete Guide to Benefits and Rules'
+  url: /2019/03/01/post-911-gi-bill-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: us-science-policy-legislation
   title: 'US Science Policy Legislation: The Authorization Gap'
   url: /2017/06/01/us-science-policy-legislation/
@@ -52398,17 +52422,11 @@ national-aeronautics-space-act-1958:
   category: industry
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: surveillance-law-court-cases
-  title: 'Surveillance Law in the Courts: The Standing Wall Explained'
-  url: /2014/06/01/surveillance-law-court-cases/
+- slug: montgomery-gi-bill-1984-guide
+  title: 'Montgomery GI Bill: The Benefit Members Pay to Earn'
+  url: /2019/03/15/montgomery-gi-bill-1984-guide/
   category: industry
-  image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: usa-patriot-act-complete-guide
-  title: 'USA PATRIOT Act: The Complete Guide to the Omnibus Statute'
-  url: /2014/03/01/usa-patriot-act-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-05.webp
   lang: en
 orlando-on-a-budget-families:
 - slug: orlando-family-7-day-itinerary
@@ -53309,12 +53327,6 @@ dhurandhar-film-complete-analysis:
   category: industry
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: dhurandhar-pakistan-reaction-ban
-  title: Pakistan Reaction to Dhurandhar Film
-  url: /2017/07/24/dhurandhar-pakistan-reaction-ban/
-  category: industry
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 dhurandhar-characters-real-inspirations:
 - slug: dhurandhar-film-complete-analysis
   title: Dhurandhar Film Complete Analysis
@@ -53578,6 +53590,12 @@ telecommunications-act-1996-guide:
   category: industry
   image: /assets/images/blog/blog-107.webp
   lang: en
+- slug: ferc-energy-rulemaking-guide
+  title: 'How FERC Implements Energy Statutes: Rulemaking Guide'
+  url: /2016/12/15/ferc-energy-rulemaking-guide/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 - slug: infrastructure-investment-jobs-act-2021
   title: 'Infrastructure Investment and Jobs Act: Complete Statute Profile'
   url: /2016/04/15/infrastructure-investment-jobs-act-2021/
@@ -53589,12 +53607,6 @@ telecommunications-act-1996-guide:
   url: /2014/04/15/homeland-security-act-2002-guide/
   category: industry
   image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: tax-reform-act-1986-complete-guide
-  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
-  url: /2013/05/01/tax-reform-act-1986-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-04.webp
   lang: en
 bollywood-counter-terror-films-ranked:
 - slug: dhurandhar-baby-phantom-compared
@@ -55240,29 +55252,29 @@ las-vegas-with-kids:
   image: /assets/images/blog/blog-11.webp
   lang: en
 omnibus-crime-control-act-1968:
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
+  category: industry
+  image: /assets/images/blog/blog-85.webp
+  lang: en
 - slug: age-discrimination-employment-act-1967
   title: Age Discrimination in Employment Act Explained
   url: /2015/02/15/age-discrimination-employment-act-1967/
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 - slug: tcs-itis-and-itis-frequently-asked-questions
   title: TCS iTIS and iON Platforms - FAQ Guide
   url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
   category: industry
   image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: first-step-act-2018-guide
-  title: 'The First Step Act Explained: Federal Sentencing Reform'
-  url: /2018/01/15/first-step-act-2018-guide/
-  category: industry
-  image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: refugee-act-1980-guide
-  title: 'The Refugee Act Explained: Definition, Asylum, and Ceiling'
-  url: /2013/04/01/refugee-act-1980-guide/
-  category: industry
-  image: /assets/images/blog/blog-97.webp
   lang: en
 dhurandhar-memes-social-media-war:
 - slug: dhurandhar-media-real-killings
@@ -55383,11 +55395,11 @@ sentencing-reform-act-1984-guide:
   category: industry
   image: /assets/images/blog/blog-96.webp
   lang: en
-- slug: hart-celler-act-passage-history
-  title: 'Hart-Celler Act: How Congress Passed the Immigration Reform'
-  url: /2012/12/15/hart-celler-act-passage-history/
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-25.webp
+  image: /assets/images/blog/blog-76.webp
   lang: en
 terminator-robocop-cyborg-automation:
 - slug: the-matrix-bullet-time-sci-fi-landmark
@@ -55540,29 +55552,29 @@ back-to-the-future-recasting-time-travel:
   image: /assets/images/blog/blog-01.webp
   lang: en
 first-step-act-2018-guide:
-- slug: clean-water-act-1972-complete-guide
-  title: 'The Clean Water Act of 1972: Complete Guide to the Statute'
-  url: /2012/02/15/clean-water-act-1972-complete-guide/
+- slug: brady-act-1993-guide
+  title: 'The Brady Act of 1993: Background Checks Explained'
+  url: /2021/04/15/brady-act-1993-guide/
   category: industry
-  image: /assets/images/blog/blog-90.webp
+  image: /assets/images/blog/blog-46.webp
   lang: en
-- slug: endangered-species-act-1973-guide
-  title: 'The Endangered Species Act: A Complete Guide to the Law'
-  url: /2012/03/01/endangered-species-act-1973-guide/
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
   category: industry
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-104.webp
   lang: en
-- slug: sentencing-reform-act-1984-guide
-  title: 'Sentencing Reform Act: How Federal Punishment Was Reshaped'
-  url: /2018/01/01/sentencing-reform-act-1984-guide/
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
   category: industry
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: voting-rights-act-section-5-preclearance
-  title: Voting Rights Act Section 5 Preclearance Explained Fully
-  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+- slug: second-amendment-supreme-court-cases
+  title: Second Amendment Supreme Court Cases and the Doctrine
+  url: /2021/07/01/second-amendment-supreme-court-cases/
   category: industry
-  image: /assets/images/blog/blog-67.webp
+  image: /assets/images/blog/blog-17.webp
   lang: en
 india-response-pahalgam-14-days:
 - slug: pahalgam-2025-trigger-event
@@ -55746,23 +55758,23 @@ mandatory-minimum-sentencing-law:
   category: industry
   image: /assets/images/blog/blog-107.webp
   lang: en
+- slug: anti-drug-abuse-acts-1986-1988
+  title: 'Anti-Drug Abuse Acts: Thresholds, Ratio, and Reform'
+  url: /2018/06/15/anti-drug-abuse-acts-1986-1988/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: drug-scheduling-law-explained
+  title: 'Drug Scheduling Law Explained: Schedules and Process'
+  url: /2018/07/15/drug-scheduling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-44.webp
+  lang: en
 - slug: first-step-act-2018-guide
   title: 'The First Step Act Explained: Federal Sentencing Reform'
   url: /2018/01/15/first-step-act-2018-guide/
   category: industry
   image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: idea-special-education-law-guide
-  title: 'IDEA and Special Education Law: The Complete Guide'
-  url: /2014/10/01/idea-special-education-law-guide/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: us-health-legislation-since-1950
-  title: 'US Health Legislation Since 1950: Six Decades of Law'
-  url: /2011/03/15/us-health-legislation-since-1950/
-  category: industry
-  image: /assets/images/blog/blog-61.webp
   lang: en
 first-dogfight-nuclear-powers:
 - slug: ceasefire-aftermath-analysis
@@ -55845,6 +55857,12 @@ fair-sentencing-act-2010-guide:
   url: /2018/01/01/sentencing-reform-act-1984-guide/
   category: industry
   image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: anti-drug-abuse-acts-1986-1988
+  title: 'Anti-Drug Abuse Acts: Thresholds, Ratio, and Reform'
+  url: /2018/06/15/anti-drug-abuse-acts-1986-1988/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
   lang: en
 - slug: crime-bill-1994-incarceration-impact
   title: 'Crime Bill Incarceration Impact: What the Evidence Shows'
@@ -56033,17 +56051,17 @@ crime-bill-1994-incarceration-impact:
   category: industry
   image: /assets/images/blog/blog-107.webp
   lang: en
-- slug: federal-crime-bill-myths
-  title: 'Federal Crime Bill Myths: What the Record Actually Shows'
-  url: /2018/04/15/federal-crime-bill-myths/
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: first-step-act-2018-guide
-  title: 'The First Step Act Explained: Federal Sentencing Reform'
-  url: /2018/01/15/first-step-act-2018-guide/
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
   category: industry
-  image: /assets/images/blog/blog-96.webp
+  image: /assets/images/blog/blog-110.webp
   lang: en
 historic-america-complete-travel-guide:
 - slug: nyc-5-day-first-time-itinerary
@@ -56202,6 +56220,12 @@ sentencing-law-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-06.webp
   lang: en
+- slug: second-amendment-supreme-court-cases
+  title: Second Amendment Supreme Court Cases and the Doctrine
+  url: /2021/07/01/second-amendment-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
 - slug: first-step-act-2018-guide
   title: 'The First Step Act Explained: Federal Sentencing Reform'
   url: /2018/01/15/first-step-act-2018-guide/
@@ -56213,12 +56237,6 @@ sentencing-law-supreme-court-cases:
   url: /2014/06/01/surveillance-law-court-cases/
   category: industry
   image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: immigration-law-supreme-court-cases
-  title: 'Immigration Law in the Supreme Court: Decisions Guide'
-  url: /2013/03/15/immigration-law-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-29.webp
   lang: en
 excel-pivot-table-count-distinct-values-challenge-overcoming:
 - slug: coinbase-and-the-blockchain-revolution
@@ -56321,6 +56339,12 @@ kashmir-evacuation-civil-defense:
   image: /assets/images/blog/blog-12.webp
   lang: en
 crime-bill-1994-vs-first-step-act:
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
+  category: industry
+  image: /assets/images/blog/blog-85.webp
+  lang: en
 - slug: crime-bill-1994-incarceration-impact
   title: 'Crime Bill Incarceration Impact: What the Evidence Shows'
   url: /2018/03/01/crime-bill-1994-incarceration-impact/
@@ -56339,12 +56363,6 @@ crime-bill-1994-vs-first-step-act:
   category: industry
   image: /assets/images/blog/blog-96.webp
   lang: en
-- slug: omnibus-crime-control-act-1968
-  title: 'Omnibus Crime Control Act: Wiretaps, Funding, and Miranda'
-  url: /2017/12/15/omnibus-crime-control-act-1968/
-  category: industry
-  image: /assets/images/blog/blog-111.webp
-  lang: en
 - slug: help-america-vote-act-2002-guide
   title: 'Help America Vote Act of 2002: What It Required States to Do'
   url: /2010/09/01/help-america-vote-act-2002-guide/
@@ -56362,6 +56380,12 @@ crime-bill-1994-vs-first-step-act:
   url: /2012/10/15/pension-vs-401k-law-shift/
   category: industry
   image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: iirira-1996-immigration-act-guide
+  title: 'IIRIRA Guide: How the Immigration Law Reshaped Deportation'
+  url: /2013/01/15/iirira-1996-immigration-act-guide/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
   lang: en
 - slug: family-preference-visa-system-law
   title: 'Family Preference Visas: How the INA Allocates Green Cards'
@@ -56410,12 +56434,6 @@ crime-bill-1994-vs-first-step-act:
   url: /2018/03/15/sentencing-law-supreme-court-cases/
   category: industry
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: hatch-waxman-act-1984-guide
-  title: 'Hatch-Waxman Act: The Generic Bargain and Patent Machinery'
-  url: /2018/05/15/hatch-waxman-act-1984-guide/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
   lang: en
 sophies-choice-meryl-streep-performance:
 - slug: whiplash-simmons-mentor-performance
@@ -56766,29 +56784,29 @@ amadeus-forman-mozart-salieri-adaptation:
   image: /assets/images/blog/blog-97.webp
   lang: en
 controlled-substances-act-1970-guide:
-- slug: fair-sentencing-act-2010-guide
-  title: 'The Fair Sentencing Act: How the 100 to 1 Ratio Fell'
-  url: /2018/02/15/fair-sentencing-act-2010-guide/
+- slug: orphan-drug-act-1983-guide
+  title: 'Orphan Drug Act Guide: Rare Disease Incentives Explained'
+  url: /2018/07/01/orphan-drug-act-1983-guide/
   category: industry
-  image: /assets/images/blog/blog-107.webp
+  image: /assets/images/blog/blog-112.webp
   lang: en
-- slug: us-canada-pannun-nijjar
-  title: US Canada Pannun Nijjar Allegations
-  url: /2019/11/04/us-canada-pannun-nijjar/
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
   category: industry
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-85.webp
   lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
+- slug: drug-scheduling-law-explained
+  title: 'Drug Scheduling Law Explained: Schedules and Process'
+  url: /2018/07/15/drug-scheduling-law-explained/
   category: industry
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: safe-drinking-water-act-guide
-  title: 'Safe Drinking Water Act: Tap Water Standards Explained Guide'
-  url: /2012/04/15/safe-drinking-water-act-guide/
+- slug: anti-drug-abuse-acts-1986-1988
+  title: 'Anti-Drug Abuse Acts: Thresholds, Ratio, and Reform'
+  url: /2018/06/15/anti-drug-abuse-acts-1986-1988/
   category: industry
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-38.webp
   lang: en
 bhadralok-detective-feluda-class-bn:
 - slug: indigenizing-detective-genre-ray-bengali-bn
@@ -56891,6 +56909,18 @@ breakfast-club-john-hughes-teen-film:
   image: /assets/images/blog/blog-65.webp
   lang: en
 hatch-waxman-act-1984-guide:
+- slug: hatch-waxman-generic-drug-impact
+  title: 'Hatch-Waxman Generic Drug Market: Impact and Outcomes'
+  url: /2018/08/01/hatch-waxman-generic-drug-impact/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: fda-approval-law-mechanics
+  title: 'FDA Approval Law: How the Review System Actually Works'
+  url: /2018/08/15/fda-approval-law-mechanics/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 - slug: us-canada-pannun-nijjar
   title: US Canada Pannun Nijjar Allegations
   url: /2019/11/04/us-canada-pannun-nijjar/
@@ -56902,18 +56932,6 @@ hatch-waxman-act-1984-guide:
   url: /2019/05/06/us-extraordinary-rendition/
   category: industry
   image: /assets/images/blog/blog-111.webp
-  lang: en
-- slug: international-response-targeted-killings
-  title: International Response Targeted Killings
-  url: /2012/10/27/international-response-targeted-killings/
-  category: industry
-  image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: medicare-modernization-act-2003-part-d
-  title: Medicare Part D and the 2003 Modernization Act Explained
-  url: /2011/01/01/medicare-modernization-act-2003-part-d/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
   lang: en
 neelum-jhelum-hydropower-damage:
 - slug: operation-sindoor-complete-guide
@@ -57041,6 +57059,12 @@ blue-velvet-lynch-suburban-darkness:
   image: /assets/images/blog/blog-70.webp
   lang: en
 kefauver-harris-amendments-1962:
+- slug: fda-approval-law-mechanics
+  title: 'FDA Approval Law: How the Review System Actually Works'
+  url: /2018/08/15/fda-approval-law-mechanics/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 - slug: us-canada-pannun-nijjar
   title: US Canada Pannun Nijjar Allegations
   url: /2019/11/04/us-canada-pannun-nijjar/
@@ -57058,12 +57082,6 @@ kefauver-harris-amendments-1962:
   url: /2012/10/27/international-response-targeted-killings/
   category: industry
   image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: controlled-substances-act-1970-guide
-  title: 'Controlled Substances Act: Federal Drug Control Explained'
-  url: /2018/05/01/controlled-substances-act-1970-guide/
-  category: industry
-  image: /assets/images/blog/blog-15.webp
   lang: en
 kartarpur-corridor-during-conflict:
 - slug: us-role-india-pakistan-mediation
@@ -57164,6 +57182,31 @@ sensational-sequoia:
   url: /2017/08/29/the-fascinating-world-of-ford/
   category: travel
   image: /assets/images/blog/blog-80.webp
+  lang: en
+anti-drug-abuse-acts-1986-1988:
+- slug: fair-sentencing-act-2010-guide
+  title: 'The Fair Sentencing Act: How the 100 to 1 Ratio Fell'
+  url: /2018/02/15/fair-sentencing-act-2010-guide/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: controlled-substances-act-1970-guide
+  title: 'Controlled Substances Act: Federal Drug Control Explained'
+  url: /2018/05/01/controlled-substances-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: orphan-drug-act-1983-guide
+  title: 'Orphan Drug Act Guide: Rare Disease Incentives Explained'
+  url: /2018/07/01/orphan-drug-act-1983-guide/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
+  category: industry
+  image: /assets/images/blog/blog-85.webp
   lang: en
 scarface-de-palma-reappraisal-icon:
 - slug: whiplash-simmons-mentor-performance
@@ -57290,6 +57333,31 @@ brazil-gilliam-dystopian-satire:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+orphan-drug-act-1983-guide:
+- slug: controlled-substances-act-1970-guide
+  title: 'Controlled Substances Act: Federal Drug Control Explained'
+  url: /2018/05/01/controlled-substances-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: us-canada-pannun-nijjar
+  title: US Canada Pannun Nijjar Allegations
+  url: /2019/11/04/us-canada-pannun-nijjar/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: ryan-white-care-act-1990-guide
+  title: 'Ryan White CARE Act: Care Funded as Payer of Last Resort'
+  url: /2018/09/15/ryan-white-care-act-1990-guide/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
+  category: industry
+  image: /assets/images/blog/blog-85.webp
+  lang: en
 feluda-bengali-identity-bn:
 - slug: indigenizing-detective-genre-ray-bengali-bn
   title: গোয়েন্দা ধারার বাঙালিকরণ
@@ -57364,6 +57432,31 @@ snp_session-the-data-analysts-dream-table-of-oracle-data-integrator:
   url: /2016/11/05/oracle-bi-apps-dynamic-hierarchy-filtering-in-odi-incremental-load-plan/
   category: analytics
   image: /assets/images/blog/blog-44.webp
+  lang: en
+drug-scheduling-law-explained:
+- slug: controlled-substances-act-1970-guide
+  title: 'Controlled Substances Act: Federal Drug Control Explained'
+  url: /2018/05/01/controlled-substances-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: us-extraordinary-rendition
+  title: US Extraordinary Rendition Program
+  url: /2019/05/06/us-extraordinary-rendition/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: va-claims-process-law
+  title: 'How VA Claims Law Is Administered: Process and Review'
+  url: /2019/06/15/va-claims-process-law/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
   lang: en
 the-mission-morricone-greatest-score:
 - slug: the-graduate-simon-garfunkel-soundtrack
@@ -57502,6 +57595,31 @@ sialkot-jem-operations-hub:
   category: industry
   image: /assets/images/blog/blog-48.webp
   lang: en
+hatch-waxman-generic-drug-impact:
+- slug: hatch-waxman-act-1984-guide
+  title: 'Hatch-Waxman Act: The Generic Bargain and Patent Machinery'
+  url: /2018/05/15/hatch-waxman-act-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: us-extraordinary-rendition
+  title: US Extraordinary Rendition Program
+  url: /2019/05/06/us-extraordinary-rendition/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: orphan-drug-act-1983-guide
+  title: 'Orphan Drug Act Guide: Rare Disease Incentives Explained'
+  url: /2018/07/01/orphan-drug-act-1983-guide/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
 indie-surge-sex-lies-videotape-slacker:
 - slug: el-mariachi-rodriguez-microbudget-film
   title: 'El Mariachi: The $7,000 Micro-Budget Legend'
@@ -57633,6 +57751,31 @@ el-mariachi-rodriguez-microbudget-film:
   category: leisure
   image: /assets/images/blog/blog-93.webp
   lang: en
+fda-approval-law-mechanics:
+- slug: kefauver-harris-amendments-1962
+  title: 'Kefauver-Harris Amendments: The Drug Effectiveness Standard'
+  url: /2018/06/01/kefauver-harris-amendments-1962/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: hatch-waxman-act-1984-guide
+  title: 'Hatch-Waxman Act: The Generic Bargain and Patent Machinery'
+  url: /2018/05/15/hatch-waxman-act-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: us-extraordinary-rendition
+  title: US Extraordinary Rendition Program
+  url: /2019/05/06/us-extraordinary-rendition/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 feluda-vs-hercule-poirot-comparison-bn:
 - slug: reading-feluda-in-bengali-original-bn
   title: বাংলায় ফেলুদা পড়ার প্রতিদান
@@ -57732,6 +57875,31 @@ khyber-pakhtunkhwa-tribal-belt:
   url: /2012/02/04/lashkar-e-taiba-complete-guide/
   category: industry
   image: /assets/images/blog/blog-31.webp
+  lang: en
+federal-drug-law-vs-state-law:
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: omnibus-crime-control-act-1968
+  title: 'Omnibus Crime Control Act: Wiretaps, Funding, and Miranda'
+  url: /2017/12/15/omnibus-crime-control-act-1968/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: controlled-substances-act-1970-guide
+  title: 'Controlled Substances Act: Federal Drug Control Explained'
+  url: /2018/05/01/controlled-substances-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 goodfellas-scorsese-auteur-analysis:
 - slug: fargo-coen-brothers-crime-comedy
@@ -57858,6 +58026,31 @@ sindh-nawabshah-jud-network:
   category: industry
   image: /assets/images/blog/blog-90.webp
   lang: en
+ryan-white-care-act-1990-guide:
+- slug: orphan-drug-act-1983-guide
+  title: 'Orphan Drug Act Guide: Rare Disease Incentives Explained'
+  url: /2018/07/01/orphan-drug-act-1983-guide/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: controlled-substances-act-1970-guide
+  title: 'Controlled Substances Act: Federal Drug Control Explained'
+  url: /2018/05/01/controlled-substances-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: veterans-choice-act-2014-guide
+  title: 'Veterans Choice Act: Access, Accountability, and Care'
+  url: /2019/04/01/veterans-choice-act-2014-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: us-extraordinary-rendition
+  title: US Extraordinary Rendition Program
+  url: /2019/05/06/us-extraordinary-rendition/
+  category: industry
+  image: /assets/images/blog/blog-111.webp
+  lang: en
 silence-of-the-lambs-thriller-lecter:
 - slug: the-general-keaton-action-comedy-landmark
   title: 'The General: How Keaton Built the Action-Comedy'
@@ -57963,6 +58156,31 @@ loc-infiltration-routes-mapped:
   url: /2012/05/22/uri-attack-2016-explained/
   category: industry
   image: /assets/images/blog/blog-114.webp
+  lang: en
+consumer-product-safety-act-1972:
+- slug: us-consumer-protection-law-history
+  title: 'US Consumer Protection Law: Protection by Industry'
+  url: /2019/02/15/us-consumer-protection-law-history/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: ftc-consumer-protection-rulemaking
+  title: 'How the FTC Writes Consumer Rules: Process and Enforcement'
+  url: /2019/01/15/ftc-consumer-protection-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: magnuson-moss-warranty-act-1975
+  title: 'Magnuson-Moss Warranty Act: Full vs Limited Warranties'
+  url: /2018/11/15/magnuson-moss-warranty-act-1975/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: credit-card-act-2009-explained
+  title: 'What the CARD Act Requires: Rates, Fees and Billing Rules'
+  url: /2018/12/15/credit-card-act-2009-explained/
+  category: industry
+  image: /assets/images/blog/blog-117.webp
   lang: en
 jfk-oliver-stone-editing-conspiracy:
 - slug: silence-of-the-lambs-thriller-lecter
@@ -58145,6 +58363,31 @@ islamabad-diplomatic-terror-nexus:
   category: industry
   image: /assets/images/blog/blog-18.webp
   lang: en
+truth-in-lending-act-1968-guide:
+- slug: consumer-credit-law-impact
+  title: 'What Consumer Credit Law Changed: The Evidence Record'
+  url: /2019/01/01/consumer-credit-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: ethics-in-government-act-1978-guide
+  title: 'Ethics in Government Act: Disclosure and the Revolving Door'
+  url: /2021/10/15/ethics-in-government-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
 why-feluda-not-hindi-cinema-crossover-bn:
 - slug: feluda-para-culture-neighborhood-bn
   title: ফেলুদায় পাড়া সংস্কৃতি
@@ -58219,6 +58462,31 @@ quetta-balochistan-nexus:
   url: /2018/11/19/global-terror-safe-havens-compared/
   category: industry
   image: /assets/images/blog/blog-34.webp
+  lang: en
+fair-credit-reporting-act-1970-guide:
+- slug: truth-in-lending-act-1968-guide
+  title: 'Truth in Lending Act: Complete Guide to Credit Disclosure'
+  url: /2018/10/15/truth-in-lending-act-1968-guide/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: consumer-credit-law-impact
+  title: 'What Consumer Credit Law Changed: The Evidence Record'
+  url: /2019/01/01/consumer-credit-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: first-step-act-2018-guide
+  title: 'The First Step Act Explained: Federal Sentencing Reform'
+  url: /2018/01/15/first-step-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
   lang: en
 feluda-for-sherlock-holmes-fans-bn:
 - slug: feluda-puja-edition-tradition-bn
@@ -58319,6 +58587,31 @@ canada-uk-khalistan-safe-havens:
   url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
   category: industry
   image: /assets/images/blog/blog-54.webp
+  lang: en
+magnuson-moss-warranty-act-1975:
+- slug: ftc-consumer-protection-rulemaking
+  title: 'How the FTC Writes Consumer Rules: Process and Enforcement'
+  url: /2019/01/15/ftc-consumer-protection-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: consumer-product-safety-act-1972
+  title: 'Consumer Product Safety Act: Powers, Limits, and Design'
+  url: /2018/10/01/consumer-product-safety-act-1972/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: us-consumer-protection-law-history
+  title: 'US Consumer Protection Law: Protection by Industry'
+  url: /2019/02/15/us-consumer-protection-law-history/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
   lang: en
 thelma-and-louise-feminist-road-movie:
 - slug: blade-runner-what-is-human-deckard
@@ -58470,6 +58763,31 @@ dances-with-wolves-revisionist-western:
   category: leisure
   image: /assets/images/blog/blog-109.webp
   lang: en
+fair-debt-collection-practices-act:
+- slug: fair-housing-amendments-act-1988
+  title: 'Fair Housing Amendments Act: Protections, Rules and Guide'
+  url: /2015/12/15/fair-housing-amendments-act-1988/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: magnuson-moss-warranty-act-1975
+  title: 'Magnuson-Moss Warranty Act: Full vs Limited Warranties'
+  url: /2018/11/15/magnuson-moss-warranty-act-1975/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: cfpb-creation-and-powers
+  title: 'CFPB Creation and Powers: How the Bureau Was Funded'
+  url: /2013/12/01/cfpb-creation-and-powers/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 beauty-and-the-beast-disney-renaissance:
 - slug: snow-white-first-animated-feature-making
   title: 'Snow White (1937): The Gamble Behind Disney''s Folly'
@@ -58500,6 +58818,31 @@ beauty-and-the-beast-disney-renaissance:
   url: /2020/03/01/spirited-away-miyazaki-ghibli-influence/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+credit-card-act-2009-explained:
+- slug: truth-in-lending-act-1968-guide
+  title: 'Truth in Lending Act: Complete Guide to Credit Disclosure'
+  url: /2018/10/15/truth-in-lending-act-1968-guide/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: consumer-credit-law-impact
+  title: 'What Consumer Credit Law Changed: The Evidence Record'
+  url: /2019/01/01/consumer-credit-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: consumer-product-safety-act-1972
+  title: 'Consumer Product Safety Act: Powers, Limits, and Design'
+  url: /2018/10/01/consumer-product-safety-act-1972/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 why-feluda-endures-sixty-years-bn:
 - slug: feluda-puja-edition-tradition-bn
@@ -58606,6 +58949,31 @@ tcs-to-oxford-harvard-transition-guide:
   url: /2026/03/08/how-to-prepare-for-cat-exam-complete-guide/
   category: industry
   image: /assets/images/blog/blog-96.webp
+  lang: en
+consumer-credit-law-impact:
+- slug: truth-in-lending-act-1968-guide
+  title: 'Truth in Lending Act: Complete Guide to Credit Disclosure'
+  url: /2018/10/15/truth-in-lending-act-1968-guide/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: credit-card-act-2009-explained
+  title: 'What the CARD Act Requires: Rates, Fees and Billing Rules'
+  url: /2018/12/15/credit-card-act-2009-explained/
+  category: industry
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
   lang: en
 scream-craven-meta-horror-revival:
 - slug: hereditary-aster-elevated-horror
@@ -58731,6 +59099,31 @@ mossad-eichmann-capture:
   url: /2019/05/27/saudi-khashoggi-killing/
   category: industry
   image: /assets/images/blog/blog-92.webp
+  lang: en
+ftc-consumer-protection-rulemaking:
+- slug: us-consumer-protection-law-history
+  title: 'US Consumer Protection Law: Protection by Industry'
+  url: /2019/02/15/us-consumer-protection-law-history/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: magnuson-moss-warranty-act-1975
+  title: 'Magnuson-Moss Warranty Act: Full vs Limited Warranties'
+  url: /2018/11/15/magnuson-moss-warranty-act-1975/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: consumer-product-safety-act-1972
+  title: 'Consumer Product Safety Act: Powers, Limits, and Design'
+  url: /2018/10/01/consumer-product-safety-act-1972/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 harvard-vs-mit-vs-stanford-housing:
 - slug: oxford-college-accommodation-ranking
@@ -58907,6 +59300,31 @@ being-john-malkovich-kaufman-identity:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+federal-vs-state-consumer-protection:
+- slug: us-consumer-protection-law-history
+  title: 'US Consumer Protection Law: Protection by Industry'
+  url: /2019/02/15/us-consumer-protection-law-history/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: fair-credit-reporting-act-1970-guide
+  title: 'Fair Credit Reporting Act: Consumer Files and Rights'
+  url: /2018/11/01/fair-credit-reporting-act-1970-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: ftc-consumer-protection-rulemaking
+  title: 'How the FTC Writes Consumer Rules: Process and Enforcement'
+  url: /2019/01/15/ftc-consumer-protection-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: hud-enforcement-and-rulemaking
+  title: 'How HUD Enforces Fair Housing Law: Complaints and Courts'
+  url: /2016/02/15/hud-enforcement-and-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 us-drone-program-pakistan:
 - slug: us-drone-program-compared
   title: US Drone Program vs India Shadow War
@@ -59032,6 +59450,31 @@ trainspotting-boyle-soundtrack:
   category: leisure
   image: /assets/images/blog/blog-21.webp
   lang: en
+us-consumer-protection-law-history:
+- slug: federal-vs-state-consumer-protection
+  title: 'Federal vs State Consumer Protection: Which Law Applies'
+  url: /2019/02/01/federal-vs-state-consumer-protection/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: ftc-consumer-protection-rulemaking
+  title: 'How the FTC Writes Consumer Rules: Process and Enforcement'
+  url: /2019/01/15/ftc-consumer-protection-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: consumer-product-safety-act-1972
+  title: 'Consumer Product Safety Act: Powers, Limits, and Design'
+  url: /2018/10/01/consumer-product-safety-act-1972/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: consumer-credit-law-impact
+  title: 'What Consumer Credit Law Changed: The Evidence Record'
+  url: /2019/01/01/consumer-credit-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 harvard-hbs-accommodation-mba-guide:
 - slug: harvard-graduate-housing-guide
   title: Harvard Graduate Housing Guide
@@ -59131,6 +59574,31 @@ mi6-colonial-covert-operations:
   url: /2019/07/01/covert-ops-success-failure/
   category: industry
   image: /assets/images/blog/blog-99.webp
+  lang: en
+post-911-gi-bill-2008-guide:
+- slug: montgomery-gi-bill-1984-guide
+  title: 'Montgomery GI Bill: The Benefit Members Pay to Earn'
+  url: /2019/03/15/montgomery-gi-bill-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: montgomery-vs-post-911-gi-bill
+  title: 'Montgomery vs Post-9/11 GI Bill: Which One Pays More'
+  url: /2019/07/01/montgomery-vs-post-911-gi-bill/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
   lang: en
 usual-suspects-se7en-twist-thriller:
 - slug: blue-velvet-lynch-suburban-darkness
@@ -59281,6 +59749,31 @@ blair-witch-found-footage-marketing:
   url: /2015/02/15/magnificent-ambersons-studio-cut/
   category: leisure
   image: /assets/images/blog/blog-82.webp
+  lang: en
+montgomery-gi-bill-1984-guide:
+- slug: post-911-gi-bill-2008-guide
+  title: 'Post-9/11 GI Bill: Complete Guide to Benefits and Rules'
+  url: /2019/03/01/post-911-gi-bill-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: montgomery-vs-post-911-gi-bill
+  title: 'Montgomery vs Post-9/11 GI Bill: Which One Pays More'
+  url: /2019/07/01/montgomery-vs-post-911-gi-bill/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
   lang: en
 raw-bangladesh-1971:
 - slug: raw-sikkim-annexation-1975
@@ -59457,6 +59950,31 @@ raw-sikkim-annexation-1975:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
+veterans-choice-act-2014-guide:
+- slug: va-mission-act-2018-guide
+  title: 'VA MISSION Act of 2018: Community Care and Caregivers Guide'
+  url: /2019/05/01/va-mission-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 harvard-accommodation-costs-breakdown:
 - slug: oxford-accommodation-costs-breakdown
   title: Oxford Accommodation Costs - Complete Breakdown
@@ -59562,6 +60080,31 @@ fargo-coen-brothers-crime-comedy:
   url: /2020/04/01/no-country-for-old-men-fate-ending/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+pact-act-2022-guide:
+- slug: va-claims-process-law
+  title: 'How VA Claims Law Is Administered: Process and Review'
+  url: /2019/06/15/va-claims-process-law/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: va-disability-compensation-law
+  title: 'VA Disability Compensation Law: Elements, Ratings and Pay'
+  url: /2019/05/15/va-disability-compensation-law/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: montgomery-vs-post-911-gi-bill
+  title: 'Montgomery vs Post-9/11 GI Bill: Which One Pays More'
+  url: /2019/07/01/montgomery-vs-post-911-gi-bill/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
   lang: en
 targeted-killing-legal-debate:
 - slug: global-targeted-killing-legal-debate
@@ -59744,6 +60287,31 @@ boogie-nights-pta-long-take-craft:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+va-mission-act-2018-guide:
+- slug: veterans-choice-act-2014-guide
+  title: 'Veterans Choice Act: Access, Accountability, and Care'
+  url: /2019/04/01/veterans-choice-act-2014-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
 us-extraordinary-rendition:
 - slug: us-drone-program-pakistan
   title: US Drone Program in Pakistan
@@ -59763,11 +60331,11 @@ us-extraordinary-rendition:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: federal-crime-bill-myths
-  title: 'Federal Crime Bill Myths: What the Record Actually Shows'
-  url: /2018/04/15/federal-crime-bill-myths/
+- slug: hatch-waxman-generic-drug-impact
+  title: 'Hatch-Waxman Generic Drug Market: Impact and Outcomes'
+  url: /2018/08/01/hatch-waxman-generic-drug-impact/
   category: industry
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-27.webp
   lang: en
 oxford-vs-cambridge-student-life-accommodation:
 - slug: oxford-accommodation-complete-guide
@@ -59868,6 +60436,31 @@ oxford-student-life-what-nobody-tells-you:
   url: /2019/07/26/oxford-accommodation-costs-breakdown/
   category: industry
   image: /assets/images/blog/blog-14.webp
+  lang: en
+va-disability-compensation-law:
+- slug: va-claims-process-law
+  title: 'How VA Claims Law Is Administered: Process and Review'
+  url: /2019/06/15/va-claims-process-law/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: montgomery-gi-bill-1984-guide
+  title: 'Montgomery GI Bill: The Benefit Members Pay to Earn'
+  url: /2019/03/15/montgomery-gi-bill-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: pact-act-2022-guide
+  title: 'The PACT Act Explained: Toxic Exposure Presumptions'
+  url: /2019/04/15/pact-act-2022-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: montgomery-vs-post-911-gi-bill
+  title: 'Montgomery vs Post-9/11 GI Bill: Which One Pays More'
+  url: /2019/07/01/montgomery-vs-post-911-gi-bill/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
   lang: en
 turkey-pkk-cross-border-ops:
 - slug: afghan-border-terror-spillover
@@ -60025,6 +60618,31 @@ forrest-gump-hanks-performance:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+gi-bill-education-outcomes:
+- slug: post-911-gi-bill-2008-guide
+  title: 'Post-9/11 GI Bill: Complete Guide to Benefits and Rules'
+  url: /2019/03/01/post-911-gi-bill-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: montgomery-gi-bill-1984-guide
+  title: 'Montgomery GI Bill: The Benefit Members Pay to Earn'
+  url: /2019/03/15/montgomery-gi-bill-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 cold-war-spy-assassinations:
 - slug: kgb-assassination-history
   title: KGB Assassination Operations History
@@ -60149,6 +60767,31 @@ schindlers-list-spielberg-holocaust:
   url: /2018/11/15/thelma-and-louise-feminist-road-movie/
   category: leisure
   image: /assets/images/blog/blog-51.webp
+  lang: en
+va-claims-process-law:
+- slug: va-disability-compensation-law
+  title: 'VA Disability Compensation Law: Elements, Ratings and Pay'
+  url: /2019/05/15/va-disability-compensation-law/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: us-tariff-law-administration
+  title: 'US Tariff Law Administration: Agencies, Remedies, Review'
+  url: /2020/10/01/us-tariff-law-administration/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: pact-act-2022-guide
+  title: 'The PACT Act Explained: Toxic Exposure Presumptions'
+  url: /2019/04/15/pact-act-2022-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: how-a-bill-becomes-law-in-practice
+  title: 'How a Bill Becomes Law in Practice: The Real Process'
+  url: /2022/02/01/how-a-bill-becomes-law-in-practice/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
   lang: en
 oxford-accommodation-freshers-what-to-expect:
 - slug: oxford-accommodation-complete-guide
@@ -60306,6 +60949,31 @@ la-confidential-ellroy-neo-noir:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+montgomery-vs-post-911-gi-bill:
+- slug: post-911-gi-bill-2008-guide
+  title: 'Post-9/11 GI Bill: Complete Guide to Benefits and Rules'
+  url: /2019/03/01/post-911-gi-bill-2008-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: montgomery-gi-bill-1984-guide
+  title: 'Montgomery GI Bill: The Benefit Members Pay to Earn'
+  url: /2019/03/15/montgomery-gi-bill-1984-guide/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: us-veterans-legislation-history
+  title: 'US Veterans Legislation: Benefits, Rights and Reform'
+  url: /2019/07/15/us-veterans-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 oxford-accommodation-international-students:
 - slug: oxford-private-renting-guide-students
   title: Oxford Private Renting Guide for Students
@@ -60405,6 +61073,31 @@ gladiator-ridley-scott-epic-revival:
   url: /2018/05/15/breakfast-club-john-hughes-teen-film/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+us-veterans-legislation-history:
+- slug: gi-bill-education-outcomes
+  title: 'GI Bill Education Outcomes: What the Evidence Shows'
+  url: /2019/06/01/gi-bill-education-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: va-mission-act-2018-guide
+  title: 'VA MISSION Act of 2018: Community Care and Caregivers Guide'
+  url: /2019/05/01/va-mission-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
   lang: en
 women-in-intelligence-operations:
 - slug: israel-india-intelligence-partnership
@@ -60593,6 +61286,31 @@ saving-private-ryan-combat-realism:
   category: leisure
   image: /assets/images/blog/blog-115.webp
   lang: en
+welfare-reform-act-1996-guide:
+- slug: tanf-block-grant-structure
+  title: 'How the TANF Block Grant Is Written: Purposes and Rules'
+  url: /2019/10/01/tanf-block-grant-structure/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: welfare-reform-1996-outcomes
+  title: 'What Welfare Reform Actually Did: Evidence and Outcomes'
+  url: /2019/10/15/welfare-reform-1996-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: welfare-reform-myths
+  title: 'Welfare Reform Myths: Eight Claims Tested Against Evidence'
+  url: /2019/12/15/welfare-reform-myths/
+  category: industry
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: afdc-vs-tanf-welfare-models
+  title: 'AFDC vs TANF: Entitlement Versus Block Grant, Explained'
+  url: /2019/11/15/afdc-vs-tanf-welfare-models/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 oxford-college-accommodation-ranking:
 - slug: oxford-accommodation-freshers-what-to-expect
   title: Oxford Accommodation for Freshers - What to Expect
@@ -60698,6 +61416,31 @@ american-beauty-reappraisal:
   url: /2014/06/01/wizard-of-oz-meaning-allegory-analysis/
   category: leisure
   image: /assets/images/blog/blog-117.webp
+  lang: en
+economic-opportunity-act-1964-guide:
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: congressional-budget-act-1974-guide
+  title: 'Congressional Budget Act Explained: How Congress Budgets'
+  url: /2020/01/01/congressional-budget-act-1974-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
   lang: en
 tcs-nqt-mock-test:
 - slug: tcs-nqt-mock-strategy
@@ -60823,6 +61566,31 @@ tcs-ilp-weekend-life:
   url: /2025/10/08/tcs-ilp-experience-day-by-day-breakdown/
   category: industry
   image: /assets/images/blog/blog-99.webp
+  lang: en
+food-stamp-act-1964-snap-history:
+- slug: snap-administration-law
+  title: 'SNAP Administration: How Benefits Are Calculated and Paid'
+  url: /2019/12/01/snap-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
   lang: en
 shawshank-redemption-hope-themes:
 - slug: lady-bird-gerwig-coming-of-age
@@ -60999,6 +61767,31 @@ braveheart-horner-score-epic:
   category: leisure
   image: /assets/images/blog/blog-71.webp
   lang: en
+child-nutrition-act-1966-guide:
+- slug: no-child-left-behind-act-2001-guide
+  title: 'No Child Left Behind: The Complete Guide'
+  url: /2014/08/15/no-child-left-behind-act-2001-guide/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: civil-rights-act-1964-impact
+  title: What the Civil Rights Act Actually Changed
+  url: /2010/03/15/civil-rights-act-1964-impact/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: idea-special-education-law-guide
+  title: 'IDEA and Special Education Law: The Complete Guide'
+  url: /2014/10/01/idea-special-education-law-guide/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: no-child-left-behind-outcomes
+  title: 'No Child Left Behind Outcomes: What the Evidence Shows'
+  url: /2014/11/01/no-child-left-behind-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 pathankot-2016-turning-point:
 - slug: uri-surgical-strikes-new-doctrine
   title: Uri to Surgical Strikes New Doctrine
@@ -61149,6 +61942,31 @@ heat-casino-1995-crime-epics:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+tanf-block-grant-structure:
+- slug: welfare-reform-act-1996-guide
+  title: 'Welfare Reform Act: How One Sentence Ended the Entitlement'
+  url: /2019/08/01/welfare-reform-act-1996-guide/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: welfare-reform-1996-outcomes
+  title: 'What Welfare Reform Actually Did: Evidence and Outcomes'
+  url: /2019/10/15/welfare-reform-1996-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: welfare-reform-myths
+  title: 'Welfare Reform Myths: Eight Claims Tested Against Evidence'
+  url: /2019/12/15/welfare-reform-myths/
+  category: industry
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: afdc-vs-tanf-welfare-models
+  title: 'AFDC vs TANF: Entitlement Versus Block Grant, Explained'
+  url: /2019/11/15/afdc-vs-tanf-welfare-models/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 tcs-accommodation-indore:
 - slug: tcs-accommodation-nagpur
   title: TCS Accommodation Nagpur - Complete Housing Guide
@@ -61280,6 +62098,31 @@ titanic-cameron-production-blockbuster:
   category: leisure
   image: /assets/images/blog/blog-23.webp
   lang: en
+welfare-reform-1996-outcomes:
+- slug: welfare-reform-act-1996-guide
+  title: 'Welfare Reform Act: How One Sentence Ended the Entitlement'
+  url: /2019/08/01/welfare-reform-act-1996-guide/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: welfare-reform-myths
+  title: 'Welfare Reform Myths: Eight Claims Tested Against Evidence'
+  url: /2019/12/15/welfare-reform-myths/
+  category: industry
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: tanf-block-grant-structure
+  title: 'How the TANF Block Grant Is Written: Purposes and Rules'
+  url: /2019/10/01/tanf-block-grant-structure/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: afdc-vs-tanf-welfare-models
+  title: 'AFDC vs TANF: Entitlement Versus Block Grant, Explained'
+  url: /2019/11/15/afdc-vs-tanf-welfare-models/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
 tcs-nqt-results-2023:
 - slug: tcs-nqt-results-2022-date
   title: TCS NQT Results Date - When to Expect
@@ -61405,6 +62248,31 @@ tcs-accommodation-coimbatore:
   category: industry
   image: /assets/images/blog/blog-47.webp
   lang: en
+chip-1997-guide:
+- slug: us-health-legislation-since-1950
+  title: 'US Health Legislation Since 1950: Six Decades of Law'
+  url: /2011/03/15/us-health-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: medicaid-statute-structure-explained
+  title: 'The Medicaid Statute Explained: How Title XIX Actually Works'
+  url: /2011/02/01/medicaid-statute-structure-explained/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: veterans-choice-act-2014-guide
+  title: 'Veterans Choice Act: Access, Accountability, and Care'
+  url: /2019/04/01/veterans-choice-act-2014-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 us-canada-pannun-nijjar:
 - slug: canada-secondary-theater
   title: Canada as Secondary Shadow War Theater
@@ -61504,6 +62372,31 @@ pahalgam-2025-trigger-event:
   url: /2018/06/25/operation-sindoor-vs-balakot/
   category: industry
   image: /assets/images/blog/blog-79.webp
+  lang: en
+afdc-vs-tanf-welfare-models:
+- slug: filibuster-and-cloture-explained
+  title: 'Filibuster and Cloture Explained: How Senate Debate Ends'
+  url: /2022/02/15/filibuster-and-cloture-explained/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: us-infrastructure-legislation-history
+  title: 'US Infrastructure Legislation: Build, Deregulate, Allocate'
+  url: /2016/08/15/us-infrastructure-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: tanf-block-grant-structure
+  title: 'How the TANF Block Grant Is Written: Purposes and Rules'
+  url: /2019/10/01/tanf-block-grant-structure/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
   lang: en
 tcs-accommodation-gandhinagar:
 - slug: tcs-accommodation-ahmedabad
@@ -61680,6 +62573,31 @@ lord-of-the-rings-effects-motion-capture:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+snap-administration-law:
+- slug: food-stamp-act-1964-snap-history
+  title: 'Food Stamp Act Guide: Purchase Rule to SNAP Explained'
+  url: /2019/09/01/food-stamp-act-1964-snap-history/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
 tcs-accommodation-bhubaneswar:
 - slug: tcs-accommodation-chennai
   title: TCS Accommodation Chennai - Complete Hostel and Housing Guide
@@ -61804,6 +62722,31 @@ memento-nolan-backward-structure:
   url: /2021/01/15/the-dark-knight-superhero-landmark/
   category: leisure
   image: /assets/images/blog/blog-72.webp
+  lang: en
+welfare-reform-myths:
+- slug: welfare-reform-1996-outcomes
+  title: 'What Welfare Reform Actually Did: Evidence and Outcomes'
+  url: /2019/10/15/welfare-reform-1996-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-102.webp
+  lang: en
+- slug: tanf-block-grant-structure
+  title: 'How the TANF Block Grant Is Written: Purposes and Rules'
+  url: /2019/10/01/tanf-block-grant-structure/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: budget-process-reform-impact
+  title: 'Budget Process Reform: Did the Rules Control Spending?'
+  url: /2020/04/15/budget-process-reform-impact/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: snap-administration-law
+  title: 'SNAP Administration: How Benefits Are Calculated and Paid'
+  url: /2019/12/01/snap-administration-law/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
   lang: en
 what-comes-next-shadow-war:
 - slug: future-india-counter-terror-doctrine
@@ -61960,6 +62903,37 @@ american-psycho-bale-yuppie-satire:
   url: /2019/06/01/forrest-gump-hanks-performance/
   category: leisure
   image: /assets/images/blog/blog-98.webp
+  lang: en
+congressional-budget-act-1974-guide:
+- slug: budget-process-reform-impact
+  title: 'Budget Process Reform: Did the Rules Control Spending?'
+  url: /2020/04/15/budget-process-reform-impact/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: civil-rights-act-1964-passage-history
+  title: How the Civil Rights Act of 1964 Passed
+  url: /2010/01/15/civil-rights-act-1964-passage-history/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: civil-rights-act-1964-vote-breakdown
+  title: Who Voted for the Civil Rights Act of 1964
+  url: /2010/04/15/civil-rights-act-1964-vote-breakdown/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: sequestration-vs-paygo
+  title: 'Sequestration vs PAYGO: Rule, Remedy, and Enforcement'
+  url: /2020/05/01/sequestration-vs-paygo/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
   lang: en
 stopping-elite-strikers-complete-guide:
 - slug: stopping-elite-wingers-complete-guide
@@ -62611,6 +63585,31 @@ sat-ratios-percentages-proportions-guide:
   category: industry
   image: /assets/images/blog/blog-85.webp
   lang: en
+debt-ceiling-law-explained:
+- slug: how-a-bill-becomes-law-in-practice
+  title: 'How a Bill Becomes Law in Practice: The Real Process'
+  url: /2022/02/01/how-a-bill-becomes-law-in-practice/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: budget-process-reform-impact
+  title: 'Budget Process Reform: Did the Rules Control Spending?'
+  url: /2020/04/15/budget-process-reform-impact/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 how-to-stop-robert-lewandowski:
 - slug: how-to-stop-mohamed-salah
   title: How to Stop Mohamed Salah
@@ -62741,6 +63740,31 @@ sat-quadratic-functions-equations-complete-guide:
   url: /1997/07/29/sat-math-systems-no-infinite-solutions/
   category: industry
   image: /assets/images/blog/blog-88.webp
+  lang: en
+budget-process-reform-impact:
+- slug: congressional-budget-act-1974-guide
+  title: 'Congressional Budget Act Explained: How Congress Budgets'
+  url: /2020/01/01/congressional-budget-act-1974-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: how-a-bill-becomes-law-in-practice
+  title: 'How a Bill Becomes Law in Practice: The Real Process'
+  url: /2022/02/01/how-a-bill-becomes-law-in-practice/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: istea-1991-transportation-reform
+  title: 'ISTEA: The Law That Moved Transportation Power to Regions'
+  url: /2016/06/01/istea-1991-transportation-reform/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 how-to-stop-victor-osimhen:
 - slug: how-to-stop-julian-alvarez
@@ -62892,6 +63916,31 @@ mystic-river-million-dollar-baby-eastwood:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+sequestration-vs-paygo:
+- slug: congressional-budget-act-1974-guide
+  title: 'Congressional Budget Act Explained: How Congress Budgets'
+  url: /2020/01/01/congressional-budget-act-1974-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: budget-process-reform-impact
+  title: 'Budget Process Reform: Did the Rules Control Spending?'
+  url: /2020/04/15/budget-process-reform-impact/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 sat-khan-academy-complete-usage-guide:
 - slug: sat-prep-apps-ranked
   title: SAT Prep Apps Ranked and Reviewed
@@ -62991,6 +64040,31 @@ haaland-vs-mbappe-harder-to-defend:
   url: /2020/03/01/kylian-mbappe-weaknesses-explained/
   category: leisure
   image: /assets/images/blog/blog-38.webp
+  lang: en
+how-cbo-scores-legislation:
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: us-infrastructure-legislation-history
+  title: 'US Infrastructure Legislation: Build, Deregulate, Allocate'
+  url: /2016/08/15/us-infrastructure-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: filibuster-and-cloture-explained
+  title: 'Filibuster and Cloture Explained: How Senate Debate Ends'
+  url: /2022/02/15/filibuster-and-cloture-explained/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 is-tcs-nqt-exam-free:
 - slug: tcs-nqt-registration-last-date
@@ -63117,6 +64191,37 @@ there-will-be-blood-pta-day-lewis:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
+trade-act-1974-complete-guide:
+- slug: trade-expansion-act-1962-guide
+  title: 'Trade Expansion Act of 1962: Section 232 and Kennedy Round'
+  url: /2020/08/01/trade-expansion-act-1962-guide/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
+- slug: farm-subsidy-policy-impact
+  title: 'Farm Subsidy Impact: Who Receives Payments and Land Effects'
+  url: /2021/01/15/farm-subsidy-policy-impact/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 sat-score-benchmarks-by-college-tier:
 - slug: sat-engineering-programs-scores
   title: SAT Scores for Top Engineering Programs
@@ -63191,6 +64296,31 @@ how-to-stop-lionel-messi:
   url: /2020/07/01/lionel-messi-weaknesses-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+nafta-implementation-act-1993-guide:
+- slug: nafta-vs-usmca-changes
+  title: 'NAFTA vs USMCA: What Changed Between the Two Agreements'
+  url: /2020/09/15/nafta-vs-usmca-changes/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
   lang: en
 the-departed-scorsese-crime-remake:
 - slug: heat-casino-1995-crime-epics
@@ -63329,6 +64459,31 @@ lionel-messi-weaknesses-explained:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
+usmca-implementation-act-2020-guide:
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: nafta-vs-usmca-changes
+  title: 'NAFTA vs USMCA: What Changed Between the Two Agreements'
+  url: /2020/09/15/nafta-vs-usmca-changes/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
 sat-scores-for-merit-scholarships:
 - slug: sat-financial-aid-scholarships
   title: SAT Scores and Financial Aid
@@ -63403,6 +64558,31 @@ interacting-with-enhanced-data-interpretations:
   url: /2022/12/26/tableau-certified-data-analyst-salary/
   category: analytics
   image: /assets/images/blog/blog-45.webp
+  lang: en
+china-pntr-2000-guide:
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: trade-expansion-act-1962-guide
+  title: 'Trade Expansion Act of 1962: Section 232 and Kennedy Round'
+  url: /2020/08/01/trade-expansion-act-1962-guide/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
   lang: en
 defenders-who-stopped-messi:
 - slug: stopping-garrincha
@@ -63554,6 +64734,31 @@ cristiano-ronaldo-tactical-profile:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
+trade-expansion-act-1962-guide:
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 sat-guide-for-parents:
 - slug: sat-for-parents-complete-guide
   title: 'SAT for Parents: The Complete Guide'
@@ -63691,6 +64896,31 @@ how-to-stop-cristiano-ronaldo:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
+trade-promotion-authority-explained:
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
 sat-for-homeschooled-students:
 - slug: sat-guide-for-canadian-students
   title: SAT Guide for Canadian Students
@@ -63791,6 +65021,31 @@ harry-potter-franchise-adaptation:
   category: leisure
   image: /assets/images/blog/blog-97.webp
   lang: en
+nafta-economic-impact:
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: nafta-vs-usmca-changes
+  title: 'NAFTA vs USMCA: What Changed Between the Two Agreements'
+  url: /2020/09/15/nafta-vs-usmca-changes/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
 sat-guide-for-chinese-students:
 - slug: sat-guide-for-japanese-students
   title: SAT Guide for Japanese Students
@@ -63865,6 +65120,31 @@ messi-vs-ronaldo-harder-to-defend:
   url: /2020/10/01/messi-ronaldo-aging-comparison/
   category: leisure
   image: /assets/images/blog/blog-58.webp
+  lang: en
+nafta-vs-usmca-changes:
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: us-tariff-law-administration
+  title: 'US Tariff Law Administration: Agencies, Remedies, Review'
+  url: /2020/10/01/us-tariff-law-administration/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
   lang: en
 the-avengers-mcu-cinematic-universe:
 - slug: black-panther-representation-blockbuster
@@ -64022,6 +65302,31 @@ spider-verse-animation-revolution:
   category: leisure
   image: /assets/images/blog/blog-94.webp
   lang: en
+us-tariff-law-administration:
+- slug: nafta-implementation-act-1993-guide
+  title: 'NAFTA Implementation Act: How the Agreement Became Law'
+  url: /2020/06/15/nafta-implementation-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: nafta-vs-usmca-changes
+  title: 'NAFTA vs USMCA: What Changed Between the Two Agreements'
+  url: /2020/09/15/nafta-vs-usmca-changes/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: us-trade-legislation-since-1950
+  title: US Trade Legislation Across Seven Decades of Delegation
+  url: /2020/10/15/us-trade-legislation-since-1950/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 sat-accommodations-extended-time-guide:
 - slug: sat-for-students-with-adhd-accommodations
   title: SAT for Students With ADHD
@@ -64128,6 +65433,31 @@ training-to-contain-a-superstar:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+us-trade-legislation-since-1950:
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: trade-expansion-act-1962-guide
+  title: 'Trade Expansion Act of 1962: Section 232 and Kennedy Round'
+  url: /2020/08/01/trade-expansion-act-1962-guide/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
 can-i-appear-in-tcs-nqt:
 - slug: tcs-nqt-eligibility
   title: TCS NQT Eligibility - Edge Cases Covered
@@ -64208,6 +65538,31 @@ sat-test-day-complete-guide:
   url: /1996/06/23/sat-state-requirements/
   category: industry
   image: /assets/images/blog/blog-06.webp
+  lang: en
+farm-bill-history-and-structure:
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: federal-crop-insurance-law
+  title: 'How Federal Crop Insurance Law Works: Premiums and Risk'
+  url: /2021/01/01/federal-crop-insurance-law/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 greatest-strikers-how-defenders-coped:
 - slug: greatest-dribblers-how-to-contain
@@ -64309,6 +65664,31 @@ sat-vs-act-which-test-should-you-take:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
+food-safety-modernization-act-2011:
+- slug: usda-food-safety-rulemaking
+  title: 'USDA Food Safety Rules: How Inspection Law Really Works'
+  url: /2021/02/01/usda-food-safety-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
 interstellar-zimmer-score-space:
 - slug: inception-nolan-auteur-analysis
   title: 'Inception: Nolan''s Auteur Vision Explained'
@@ -64408,6 +65788,31 @@ sat-adaptive-module-strategy:
   url: /1996/11/01/sat-retake-strategy/
   category: industry
   image: /assets/images/blog/blog-48.webp
+  lang: en
+agricultural-act-1949-permanent-law:
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: debt-ceiling-law-explained
+  title: 'The Debt Ceiling Explained: Law, Limits and Practice'
+  url: /2020/04/01/debt-ceiling-law-explained/
+  category: industry
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
   lang: en
 casino-royale-skyfall-bond-reinvention:
 - slug: jaws-spielberg-summer-blockbuster-birth
@@ -64514,6 +65919,31 @@ how-many-times-should-you-take-the-sat:
   url: /1996/07/02/sat-score-choice/
   category: industry
   image: /assets/images/blog/blog-22.webp
+  lang: en
+freedom-to-farm-act-1996-guide:
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
   lang: en
 mad-max-fury-road-practical-production:
 - slug: mad-max-road-warrior-australian-new-wave
@@ -64640,6 +66070,31 @@ sat-1-month-crash-course:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+federal-crop-insurance-law:
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 inception-nolan-auteur-analysis:
 - slug: interstellar-zimmer-score-space
   title: 'Interstellar: Scoring the Cosmos as a Cathedral'
@@ -64751,6 +66206,31 @@ sat-6-month-preparation-plan:
   url: /1995/12/26/sat-study-groups-how-to-run-them/
   category: industry
   image: /assets/images/blog/blog-54.webp
+  lang: en
+farm-subsidy-policy-impact:
+- slug: trade-act-1974-complete-guide
+  title: 'Trade Act of 1974: Complete Guide to Every Trade Tool'
+  url: /2020/06/01/trade-act-1974-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: usmca-implementation-act-2020-guide
+  title: 'USMCA Implementation Act: Protocol, Labor Rules, Sunset'
+  url: /2020/07/01/usmca-implementation-act-2020-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: china-pntr-2000-guide
+  title: Permanent Normal Trade Relations With China Explained
+  url: /2020/07/15/china-pntr-2000-guide/
+  category: industry
+  image: /assets/images/blog-01.webp
+  lang: en
+- slug: trade-expansion-act-1962-guide
+  title: 'Trade Expansion Act of 1962: Section 232 and Kennedy Round'
+  url: /2020/08/01/trade-expansion-act-1962-guide/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
   lang: en
 stopping-andriy-shevchenko:
 - slug: stopping-thierry-henry
@@ -64939,6 +66419,31 @@ stopping-gabriel-batistuta:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
+usda-food-safety-rulemaking:
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: civil-rights-act-1964-myths
+  title: 'Civil Rights Act of 1964 Myths: What''s True and What''s Not'
+  url: /2010/05/01/civil-rights-act-1964-myths/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
 how-to-go-from-1200-to-1400-on-sat:
 - slug: sat-score-prediction
   title: SAT Score Prediction Before Test Day
@@ -65045,6 +66550,31 @@ boyhood-linklater-twelve-year-structure:
   category: leisure
   image: /assets/images/blog/blog-104.webp
   lang: en
+farm-bill-commodity-vs-nutrition:
+- slug: farm-bill-myths
+  title: 'Farm Bill Myths Examined: What the Record Supports'
+  url: /2021/03/15/farm-bill-myths/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: federal-crop-insurance-law
+  title: 'How Federal Crop Insurance Law Works: Premiums and Risk'
+  url: /2021/01/01/federal-crop-insurance-law/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: how-cbo-scores-legislation
+  title: 'How CBO Scores a Bill: Baselines, Windows, and Estimates'
+  url: /2020/05/15/how-cbo-scores-legislation/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 stopping-marco-van-basten:
 - slug: stopping-ronaldo-nazario
   title: How Defenders Stopped Ronaldo Nazario
@@ -65119,6 +66649,31 @@ sat-expression-of-ideas-complete-guide:
   url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-103.webp
+  lang: en
+organic-foods-production-act-1990:
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: federal-crop-insurance-law
+  title: 'How Federal Crop Insurance Law Works: Premiums and Risk'
+  url: /2021/01/01/federal-crop-insurance-law/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
   lang: en
 stopping-gerd-muller:
 - slug: stopping-samuel-etoo
@@ -65225,6 +66780,31 @@ tcs-resume-and-cv-review:
   url: /2023/08/19/tcs-nqt-advanced-coding-guide/
   category: industry
   image: /assets/images/blog/blog-106.webp
+  lang: en
+farm-bill-myths:
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: agricultural-act-1949-permanent-law
+  title: 'Agricultural Act of 1949: The Permanent Law Backstop'
+  url: /2020/12/01/agricultural-act-1949-permanent-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: federal-crop-insurance-law
+  title: 'How Federal Crop Insurance Law Works: Premiums and Risk'
+  url: /2021/01/01/federal-crop-insurance-law/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 get-out-peele-social-horror:
 - slug: psycho-hitchcock-shower-scene-taboo
@@ -65376,6 +66956,31 @@ call-me-by-your-name-adaptation:
   category: leisure
   image: /assets/images/blog/blog-12.webp
   lang: en
+gun-control-act-1968-complete-guide:
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: assault-weapons-ban-outcomes
+  title: 'What the Assault Weapons Ban Did: Evidence and Effects'
+  url: /2021/07/15/assault-weapons-ban-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 stopping-elite-wingers-complete-guide:
 - slug: stopping-elite-strikers-complete-guide
   title: 'Stopping Elite Strikers: The Complete Guide'
@@ -65425,6 +67030,31 @@ sat-problem-solving-data-analysis-complete-guide:
   url: /2020/04/05/sat-statistics-probability-data-analysis-guide/
   category: industry
   image: /assets/images/blog/blog-73.webp
+  lang: en
+brady-act-1993-guide:
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: first-step-act-2018-guide
+  title: 'The First Step Act Explained: Federal Sentencing Reform'
+  url: /2018/01/15/first-step-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: civil-rights-act-vs-voting-rights-act
+  title: 'Civil Rights Act vs Voting Rights Act: Key Differences'
+  url: /2010/05/15/civil-rights-act-vs-voting-rights-act/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
   lang: en
 hereditary-aster-elevated-horror:
 - slug: fitzcarraldo-herzog-production-saga
@@ -65575,6 +67205,31 @@ ex-machina-garland-ai-consciousness:
   url: /2018/02/01/et-spielberg-auteur-childhood-wonder/
   category: leisure
   image: /assets/images/blog/blog-79.webp
+  lang: en
+federal-assault-weapons-ban-1994:
+- slug: assault-weapons-ban-outcomes
+  title: 'What the Assault Weapons Ban Did: Evidence and Effects'
+  url: /2021/07/15/assault-weapons-ban-outcomes/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: second-amendment-supreme-court-cases
+  title: Second Amendment Supreme Court Cases and the Doctrine
+  url: /2021/07/01/second-amendment-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
   lang: en
 vinicius-junior-weaknesses-explained:
 - slug: erling-haaland-weaknesses-explained
@@ -65751,6 +67406,31 @@ moonlight-jenkins-best-picture:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+plcaa-2005-guide:
+- slug: tax-reform-act-1986-complete-guide
+  title: 'Tax Reform Act: Complete Guide to the Landmark Statute'
+  url: /2013/05/01/tax-reform-act-1986-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: earned-income-tax-credit-law
+  title: 'Earned Income Tax Credit: Law, Structure, and Evidence Guide'
+  url: /2013/07/01/earned-income-tax-credit-law/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: title-ix-1972-explained
+  title: 'Title IX Explained: What the Thirty-Seven Word Statute Says'
+  url: /2014/10/15/title-ix-1972-explained/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 infosys-resignation-process:
 - slug: infosys-hiring-process
   title: Infosys Hiring Process
@@ -65800,6 +67480,31 @@ infosys-pf-withdrawal-gratuity:
   url: /2010/11/02/a-story-between-tcs-and-infosys/
   category: industry
   image: /assets/images/blog/blog-109.webp
+  lang: en
+bipartisan-safer-communities-act-2022:
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: va-mission-act-2018-guide
+  title: 'VA MISSION Act of 2018: Community Care and Caregivers Guide'
+  url: /2019/05/01/va-mission-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: food-safety-modernization-act-2011
+  title: 'Food Safety Modernization Act of 2011: The Prevention Law'
+  url: /2020/11/15/food-safety-modernization-act-2011/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
   lang: en
 lady-bird-gerwig-coming-of-age:
 - slug: moonlight-jenkins-best-picture
@@ -65951,6 +67656,31 @@ la-la-land-chazelle-modern-musical:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+nics-background-check-law:
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: brady-act-1993-guide
+  title: 'The Brady Act of 1993: Background Checks Explained'
+  url: /2021/04/15/brady-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: bipartisan-safer-communities-act-2022
+  title: 'Bipartisan Safer Communities Act: Provisions and Limits'
+  url: /2021/06/01/bipartisan-safer-communities-act-2022/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 infosys-salary-hike-increment:
 - slug: what-is-infosys-campus-connect
   title: What is Infosys Campus Connect?
@@ -66076,6 +67806,31 @@ romero-night-dawn-modern-zombie:
   category: leisure
   image: /assets/images/blog/blog-05.webp
   lang: en
+second-amendment-supreme-court-cases:
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: first-step-act-2018-guide
+  title: 'The First Step Act Explained: Federal Sentencing Reform'
+  url: /2018/01/15/first-step-act-2018-guide/
+  category: industry
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 infosys-lateral-hiring-guide:
 - slug: infosys-hiring-process
   title: Infosys Hiring Process
@@ -66150,6 +67905,31 @@ infosys-fresher-first-90-days:
   url: /2024/04/20/infosys-salary-structure-complete-guide/
   category: industry
   image: /assets/images/blog/blog-62.webp
+  lang: en
+assault-weapons-ban-outcomes:
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
   lang: en
 how-to-stop-rafael-leao:
 - slug: show-inside-or-outside-defending
@@ -66250,6 +68030,31 @@ infosys-background-verification-process:
   url: /2024/04/20/infosys-salary-structure-complete-guide/
   category: industry
   image: /assets/images/blog/blog-62.webp
+  lang: en
+federal-vs-state-firearms-law:
+- slug: federal-gun-law-myths
+  title: 'Federal Gun Law Myths: Ten Claims Against the Text'
+  url: /2021/08/15/federal-gun-law-myths/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: brady-act-1993-guide
+  title: 'The Brady Act of 1993: Background Checks Explained'
+  url: /2021/04/15/brady-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: teaching-us-environmental-law
+  title: 'Teaching US Environmental Law: A Complete Classroom Guide'
+  url: /2012/01/15/teaching-us-environmental-law/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
   lang: en
 how-to-stop-kvaratskhelia:
 - slug: how-to-stop-bukayo-saka
@@ -66401,6 +68206,31 @@ defending-inverted-wingers-1v1:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+federal-gun-law-myths:
+- slug: federal-vs-state-firearms-law
+  title: 'Federal vs State Firearms Law: Who Makes the Rules'
+  url: /2021/08/01/federal-vs-state-firearms-law/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: brady-act-1993-guide
+  title: 'The Brady Act of 1993: Background Checks Explained'
+  url: /2021/04/15/brady-act-1993-guide/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gun-control-act-1968-complete-guide
+  title: 'Gun Control Act of 1968: The Complete Federal Guide'
+  url: /2021/04/01/gun-control-act-1968-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: federal-assault-weapons-ban-1994
+  title: 'The 1994 Federal Assault Weapons Ban: A Statute Profile'
+  url: /2021/05/01/federal-assault-weapons-ban-1994/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 north-by-northwest-spy-thriller-template:
 - slug: rear-window-hitchcock-pov-craft
   title: 'Rear Window: The Complicit Camera Explained'
@@ -66476,6 +68306,31 @@ infosys-coding-questions:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
+federal-election-campaign-act-1971:
+- slug: campaign-finance-law-impact
+  title: 'Campaign Finance Law Impact: Did the Money Ever Shrink'
+  url: /2021/12/15/campaign-finance-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: bipartisan-campaign-reform-act-2002
+  title: 'McCain-Feingold Act of 2002: Provisions, Passage, and Courts'
+  url: /2021/09/15/bipartisan-campaign-reform-act-2002/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: feca-vs-bcra-campaign-law
+  title: 'FECA vs McCain-Feingold: Two Designs for Campaign Money'
+  url: /2022/01/01/feca-vs-bcra-campaign-law/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
 greatest-dribblers-how-to-contain:
 - slug: greatest-strikers-how-defenders-coped
   title: The Greatest Strikers and How Defenders Coped
@@ -66550,6 +68405,31 @@ infosys-aptitude-questions-answers:
   url: /2021/12/20/infosys-salary-structure/
   category: industry
   image: /assets/images/blog/blog-17.webp
+  lang: en
+bipartisan-campaign-reform-act-2002:
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: feca-vs-bcra-campaign-law
+  title: 'FECA vs McCain-Feingold: Two Designs for Campaign Money'
+  url: /2022/01/01/feca-vs-bcra-campaign-law/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: campaign-finance-law-impact
+  title: 'Campaign Finance Law Impact: Did the Money Ever Shrink'
+  url: /2021/12/15/campaign-finance-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: ethics-in-government-act-1978-guide
+  title: 'Ethics in Government Act: Disclosure and the Revolving Door'
+  url: /2021/10/15/ethics-in-government-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
   lang: en
 infosys-placement-papers:
 - slug: infosys-hiring-process-complete-guide
@@ -66701,6 +68581,31 @@ cool-hand-luke-newman-performance:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+freedom-of-information-act-1966-guide:
+- slug: foia-agency-implementation
+  title: 'How Agencies Handle FOIA Requests: A Processing Guide'
+  url: /2022/01/15/foia-agency-implementation/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: foia-amendments-history
+  title: 'How FOIA Was Amended: Six Rounds of Reform Over Decades'
+  url: /2021/12/01/foia-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
 hackwithinfy-preparation:
 - slug: hackwithinfy-preparation-complete-guide
   title: 'HackWithInfy: How to Reach the Finals and Win Power Programmer'
@@ -66775,6 +68680,31 @@ infytq-preparation-guide:
   url: /2015/11/13/tcs-nqt-pattern/
   category: industry
   image: /assets/images/blog/blog-86.webp
+  lang: en
+ethics-in-government-act-1978-guide:
+- slug: lobbying-disclosure-act-1995-guide
+  title: 'Lobbying Disclosure Act of 1995: Complete Statute Profile'
+  url: /2021/11/01/lobbying-disclosure-act-1995-guide/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: bipartisan-campaign-reform-act-2002
+  title: 'McCain-Feingold Act of 2002: Provisions, Passage, and Courts'
+  url: /2021/09/15/bipartisan-campaign-reform-act-2002/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: voting-rights-act-section-5-preclearance
+  title: Voting Rights Act Section 5 Preclearance Explained Fully
+  url: /2010/07/01/voting-rights-act-section-5-preclearance/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
   lang: en
 gone-with-the-wind-epic-controversy:
 - slug: wizard-of-oz-meaning-allegory-analysis
@@ -66901,6 +68831,31 @@ tcs-nqt-salary:
   category: industry
   image: /assets/images/blog/blog-58.webp
   lang: en
+lobbying-disclosure-act-1995-guide:
+- slug: ethics-in-government-act-1978-guide
+  title: 'Ethics in Government Act: Disclosure and the Revolving Door'
+  url: /2021/10/15/ethics-in-government-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: usda-food-safety-rulemaking
+  title: 'USDA Food Safety Rules: How Inspection Law Really Works'
+  url: /2021/02/01/usda-food-safety-rulemaking/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: economic-opportunity-act-1964-guide
+  title: 'Economic Opportunity Act: The War on Poverty Statute'
+  url: /2019/08/15/economic-opportunity-act-1964-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 princess-bride-cult-fantasy-adaptation:
 - slug: the-departed-scorsese-crime-remake
   title: 'The Departed: A Remake That Became a Landmark'
@@ -67026,6 +68981,31 @@ infosys-for-non-it-branches:
   category: industry
   image: /assets/images/blog/blog-57.webp
   lang: en
+campaign-finance-supreme-court-cases:
+- slug: campaign-finance-law-impact
+  title: 'Campaign Finance Law Impact: Did the Money Ever Shrink'
+  url: /2021/12/15/campaign-finance-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: bipartisan-campaign-reform-act-2002
+  title: 'McCain-Feingold Act of 2002: Provisions, Passage, and Courts'
+  url: /2021/09/15/bipartisan-campaign-reform-act-2002/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: second-amendment-supreme-court-cases
+  title: Second Amendment Supreme Court Cases and the Doctrine
+  url: /2021/07/01/second-amendment-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
 easy-rider-counterculture-cinema:
 - slug: bonnie-and-clyde-new-hollywood
   title: 'Bonnie and Clyde: How It Launched New Hollywood'
@@ -67132,6 +69112,31 @@ infosys-vs-wipro-vs-cognizant:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+foia-amendments-history:
+- slug: freedom-of-information-act-1966-guide
+  title: 'Freedom of Information Act: The Complete Statute Profile'
+  url: /2021/10/01/freedom-of-information-act-1966-guide/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: foia-agency-implementation
+  title: 'How Agencies Handle FOIA Requests: A Processing Guide'
+  url: /2022/01/15/foia-agency-implementation/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: affordable-care-act-later-changes
+  title: How Congress Rewrote the Affordable Care Act After Passage
+  url: /2011/07/01/affordable-care-act-later-changes/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: freedom-to-farm-act-1996-guide
+  title: 'Freedom to Farm Act of 1996: The Reform and Its Reversal'
+  url: /2020/12/15/freedom-to-farm-act-1996-guide/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 seven-samurai-kurosawa-influence:
 - slug: saving-private-ryan-combat-realism
   title: 'Saving Private Ryan: Combat Realism and Its Legacy'
@@ -67232,6 +69237,31 @@ infosys-career-growth:
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
+campaign-finance-law-impact:
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: bipartisan-campaign-reform-act-2002
+  title: 'McCain-Feingold Act of 2002: Provisions, Passage, and Courts'
+  url: /2021/09/15/bipartisan-campaign-reform-act-2002/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: feca-vs-bcra-campaign-law
+  title: 'FECA vs McCain-Feingold: Two Designs for Campaign Money'
+  url: /2022/01/01/feca-vs-bcra-campaign-law/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: campaign-finance-supreme-court-cases
+  title: 'Campaign Finance Supreme Court Cases: The Complete Guide'
+  url: /2021/11/15/campaign-finance-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
 mulholland-drive-lynch-reappraisal:
 - slug: blue-velvet-lynch-suburban-darkness
   title: Blue Velvet and the Birth of the Lynchian Nightmare
@@ -67331,6 +69361,31 @@ infosys-salary-structure:
   url: /2021/07/05/infosys-lateral-hiring-guide/
   category: industry
   image: /assets/images/blog/blog-97.webp
+  lang: en
+feca-vs-bcra-campaign-law:
+- slug: bipartisan-campaign-reform-act-2002
+  title: 'McCain-Feingold Act of 2002: Provisions, Passage, and Courts'
+  url: /2021/09/15/bipartisan-campaign-reform-act-2002/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: federal-election-campaign-act-1971
+  title: 'Federal Election Campaign Act of 1971: The Complete Guide'
+  url: /2021/09/01/federal-election-campaign-act-1971/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: campaign-finance-law-impact
+  title: 'Campaign Finance Law Impact: Did the Money Ever Shrink'
+  url: /2021/12/15/campaign-finance-law-impact/
+  category: industry
+  image: /assets/images/blog/blog-95.webp
+  lang: en
+- slug: campaign-finance-supreme-court-cases
+  title: 'Campaign Finance Supreme Court Cases: The Complete Guide'
+  url: /2021/11/15/campaign-finance-supreme-court-cases/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
   lang: en
 seventh-seal-bergman-mortality:
 - slug: brazil-gilliam-dystopian-satire
@@ -67556,6 +69611,31 @@ romeo-and-juliet-love-story-or-warning:
   url: /2022/05/06/could-romeo-and-juliet-end-happily/
   category: leisure
   image: /assets/images/blog/blog-14.webp
+  lang: en
+foia-agency-implementation:
+- slug: freedom-of-information-act-1966-guide
+  title: 'Freedom of Information Act: The Complete Statute Profile'
+  url: /2021/10/01/freedom-of-information-act-1966-guide/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: foia-amendments-history
+  title: 'How FOIA Was Amended: Six Rounds of Reform Over Decades'
+  url: /2021/12/01/foia-amendments-history/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: nics-background-check-law
+  title: 'How the NICS Background Check Law Works: A Complete Guide'
+  url: /2021/06/15/nics-background-check-law/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: ethics-in-government-act-1978-guide
+  title: 'Ethics in Government Act: Disclosure and the Revolving Door'
+  url: /2021/10/15/ethics-in-government-act-1978-guide/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
   lang: en
 nashville-altman-ensemble-music:
 - slug: american-graffiti-film-school-generation
@@ -67844,6 +69924,31 @@ godfather-part-ii-sequel-debate:
   category: leisure
   image: /assets/images/blog/blog-92.webp
   lang: en
+how-a-bill-becomes-law-in-practice:
+- slug: filibuster-and-cloture-explained
+  title: 'Filibuster and Cloture Explained: How Senate Debate Ends'
+  url: /2022/02/15/filibuster-and-cloture-explained/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: farm-bill-history-and-structure
+  title: 'Farm Bill Explained: How the Omnibus Law Actually Works'
+  url: /2020/11/01/farm-bill-history-and-structure/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: istea-1991-transportation-reform
+  title: 'ISTEA: The Law That Moved Transportation Power to Regions'
+  url: /2016/06/01/istea-1991-transportation-reform/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: budget-process-reform-impact
+  title: 'Budget Process Reform: Did the Rules Control Spending?'
+  url: /2020/04/15/budget-process-reform-impact/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 romeo-and-juliet-fate-or-character-tragedy:
 - slug: is-romeo-impulsive-or-doomed
   title: Is Romeo Impulsive or Doomed? His Real Choices
@@ -67999,6 +70104,31 @@ great-gatsby-symbols-complete-guide:
   url: /2022/01/03/great-gatsby-complete-analytical-guide/
   category: leisure
   image: /assets/images/blog/blog-14.webp
+  lang: en
+filibuster-and-cloture-explained:
+- slug: us-infrastructure-legislation-history
+  title: 'US Infrastructure Legislation: Build, Deregulate, Allocate'
+  url: /2016/08/15/us-infrastructure-legislation-history/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: how-a-bill-becomes-law-in-practice
+  title: 'How a Bill Becomes Law in Practice: The Real Process'
+  url: /2022/02/01/how-a-bill-becomes-law-in-practice/
+  category: industry
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: trade-promotion-authority-explained
+  title: 'Trade Promotion Authority Explained: The Fast Track Bargain'
+  url: /2020/08/15/trade-promotion-authority-explained/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: farm-bill-commodity-vs-nutrition
+  title: 'Commodity Titles vs Nutrition Titles: Farm Bill Debate'
+  url: /2021/02/15/farm-bill-commodity-vs-nutrition/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
   lang: en
 fitzcarraldo-herzog-production-saga:
 - slug: ten-commandments-demille-epic-spectacle
@@ -80811,6 +82941,12 @@ azure-disaster-recovery-architecture:
   category: technology
   image: /assets/images/blog/blog-76.webp
   lang: en
+- slug: how-ransomware-recovery-works
+  title: 'How Ransomware Recovery Works: Backups That Survive Attack'
+  url: /2026/10/15/how-ransomware-recovery-works/
+  category: technology
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 moral-decay-great-gatsby:
 - slug: great-gatsby-motifs-inventory
   title: 'The Great Gatsby Motifs: The Complete Inventory'
@@ -84455,11 +86591,11 @@ making-money-in-college-guide:
   category: industry
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
+- slug: harvard-accommodation-costs-breakdown
+  title: Harvard Accommodation Costs - Complete Breakdown
+  url: /2019/04/05/harvard-accommodation-costs-breakdown/
   category: industry
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-17.webp
   lang: en
 gaokao-solid-geometry-guide:
 - slug: gaokao-math-preparation-complete-guide
@@ -89898,6 +92034,12 @@ complete-history-bollywood-action-cinema:
   url: /2026/02/20/best-bollywood-gangster-films-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: how-film-restoration-works
+  title: 'How Film Restoration Works: Saving Movies From Decay'
+  url: /2026/10/14/how-film-restoration-works/
+  category: leisure
+  image: /assets/images/blog/blog-95.webp
   lang: en
 best-offline-note-taking-apps-for-sensitive-data-a-security-first-comparison:
 - slug: the-honest-problems-with-every-popular-note-taking-app
@@ -95616,12 +97758,6 @@ best-lollapalooza-era:
   url: /2026/06/12/lollapalooza-most-talked-about-sets/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: lollapalooza-memorabilia-collecting
-  title: Collecting Lollapalooza Memorabilia
-  url: /2026/06/29/lollapalooza-memorabilia-collecting/
-  category: leisure
-  image: /assets/images/blog/blog-02.webp
   lang: en
 genres-at-lollapalooza:
 - slug: lollapalooza-evolution-of-sound
@@ -103738,11 +105874,11 @@ how-government-cash-payments-work:
   category: industry
   image: /assets/images/blog/blog-74.webp
   lang: en
-- slug: tcs-may-stretch-working-hours-by-half-an-hour
-  title: TCS Work Hours Policy Explained for Employees
-  url: /2009/02/11/tcs-may-stretch-working-hours-by-half-an-hour/
+- slug: economic-opportunity-act-1964-guide
+  title: 'Economic Opportunity Act: The War on Poverty Statute'
+  url: /2019/08/15/economic-opportunity-act-1964-guide/
   category: industry
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-10.webp
   lang: en
 how-contactless-payments-work:
 - slug: entra-app-registrations-explained
@@ -103801,12 +105937,6 @@ why-media-companies-merge:
   category: industry
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
-  category: industry
-  image: /assets/images/blog/blog-111.webp
-  lang: en
 - slug: dhurandhar-memes-social-media-war
   title: Dhurandhar Memes and Social Media War
   url: /2017/12/18/dhurandhar-memes-social-media-war/
@@ -103818,6 +105948,12 @@ why-media-companies-merge:
   url: /2009/07/25/tcs-ranks-top-amongst-global-and-indian-cos/
   category: industry
   image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 how-vote-by-mail-works:
 - slug: how-deportation-united-states-works
@@ -104099,6 +106235,380 @@ how-chiplets-work:
   url: /2026/02/20/best-ai-tools-small-business/
   category: technology
   image: /assets/images/blog/blog-38.webp
+  lang: en
+best-singles-events-austin:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-las-vegas
+  title: 'Best Singles Events in Las Vegas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-las-vegas/
+  category: leisure
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+best-singles-events-chicago:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+best-singles-events-dallas:
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+best-singles-events-denver:
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-dallas
+  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-dallas/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+best-singles-events-houston:
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-las-vegas
+  title: 'Best Singles Events in Las Vegas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-las-vegas/
+  category: leisure
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: best-singles-events-new-york-city
+  title: 'Best Singles Events in New York City: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-new-york-city/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: best-singles-events-san-francisco
+  title: 'Best Singles Events in San Francisco: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-san-francisco/
+  category: leisure
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+best-singles-events-in-america:
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+best-singles-events-las-vegas:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+best-singles-events-los-angeles:
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+best-singles-events-miami:
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-dallas
+  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-dallas/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: best-singles-events-in-america
+  title: 'Best Singles Events in America: 200 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-in-america/
+  category: leisure
+  image: /assets/images/blog/blog-117.webp
+  lang: en
+- slug: best-singles-events-los-angeles
+  title: 'Best Singles Events in Los Angeles: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-los-angeles/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+best-singles-events-new-york-city:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-las-vegas
+  title: 'Best Singles Events in Las Vegas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-las-vegas/
+  category: leisure
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+best-singles-events-san-francisco:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+how-film-restoration-works:
+- slug: complete-history-bollywood-action-cinema
+  title: History of Bollywood Action Cinema
+  url: /2026/03/05/complete-history-bollywood-action-cinema/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: maltese-falcon-first-film-noir-influence
+  title: 'The Maltese Falcon: How It Launched Film Noir'
+  url: /2015/07/01/maltese-falcon-first-film-noir-influence/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: lollapalooza-memorabilia-collecting
+  title: Collecting Lollapalooza Memorabilia
+  url: /2026/06/29/lollapalooza-memorabilia-collecting/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: out-of-the-past-what-is-film-noir
+  title: 'Out of the Past: What Is Film Noir?'
+  url: /2015/06/15/out-of-the-past-what-is-film-noir/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+how-ransomware-recovery-works:
+- slug: azure-disaster-recovery-architecture
+  title: Disaster Recovery Architecture on Azure
+  url: /2024/07/22/azure-disaster-recovery-architecture/
+  category: technology
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: configure-azure-site-recovery
+  title: Set Up Azure Site Recovery for DR
+  url: /2023/07/10/configure-azure-site-recovery/
+  category: technology
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: azure-sql-security-guide
+  title: 'Azure SQL Security: Auth and Encryption'
+  url: /2024/02/26/azure-sql-security-guide/
+  category: technology
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: entra-conditional-access-patterns
+  title: 'Entra Conditional Access Patterns: A Baseline Catalog'
+  url: /2024/04/08/entra-conditional-access-patterns/
+  category: technology
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+how-at1-bonds-work:
+- slug: dodd-frank-banking-impact
+  title: 'Dodd-Frank Banking Impact: What Changed, What Is Untested'
+  url: /2014/01/01/dodd-frank-banking-impact/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dodd-frank-rollback-2018
+  title: Dodd-Frank Rollback and the Re-Tiering of Bank Rules
+  url: /2013/12/15/dodd-frank-rollback-2018/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: dhurandhar-pakistan-reaction-ban
+  title: Pakistan Reaction to Dhurandhar Film
+  url: /2017/07/24/dhurandhar-pakistan-reaction-ban/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: glass-steagall-repeal-vs-dodd-frank
+  title: 'Glass-Steagall vs Dodd-Frank: Separation or Capital Rules?'
+  url: /2014/02/01/glass-steagall-repeal-vs-dodd-frank/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
   lang: en
 jazz-age-great-gatsby:
 - slug: 1920s-explain-gatsby

@@ -9,7 +9,7 @@ excerpt: "Congressional Budget Act gave Congress its own budget committees, esti
 image: "/assets/images/blog/blog-67.webp"
 reading_time: "93"
 author: "daniel-morgan"
-last_updated: "2020-01-01"
+last_updated: 2026-10-17
 lang: en
 ---
 How could a legislature that voted on spending bill by bill, program by program and session by session, using numbers prepared by the president, ever control a budget as a whole? The Congressional Budget Act exists because Congress, by the early 1970s, could not answer that question with the machinery then in place. Members could amend a line item, defeat an appropriation, raise a tax or lower a tax, and each act carried real consequences. Added together, the acts produced a total that no member had voted on, supported by estimates that no congressional office had prepared, under a calendar that expired before the work was finished. Control of the parts coexisted with loss of the whole.

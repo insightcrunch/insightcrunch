@@ -9,7 +9,7 @@ excerpt: "Budget Process Reform bound annual discretionary spending under caps, 
 image: "/assets/images/blog/blog-46.webp"
 reading_time: "82"
 author: "jason-mckenzie"
-last_updated: "2020-04-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The question posed by budget reform after [the Congressional Budget and Impoundment Control Act of 1974](/2020/01/01/congressional-budget-act-1974-guide/) was never whether Congress could write a rule. Congress wrote rules in abundance across the decades that followed, in statutes that set targets, imposed caps, created scorecards, and threatened automatic cuts when political agreement failed. The harder question, and the question that decides whether budget reform controlled spending, was whether a rule written into law could change the arithmetic that the rule confronted. That arithmetic had two parts. One part arrived on the floor each year in appropriations bills that members debated, amended, and passed or failed to pass before a deadline. The other part arrived without a floor vote at all, in benefit payments determined by eligibility formulas enacted in earlier decades, in health care payments determined by program rules and medical prices, and in interest payments determined by debt accumulated in earlier years. A process that governed the first part with precision could leave the second part untouched, and a record across forty five fiscal years tests how much of the federal budget any procedural regime actually reached.

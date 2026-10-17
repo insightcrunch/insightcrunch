@@ -9,7 +9,7 @@ excerpt: "VA claims explained in full: filing dates, the duty to assist, examina
 image: "/assets/images/blog/blog-63.webp"
 reading_time: "88"
 author: "alex-cunningham"
-last_updated: "2019-06-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Distance Between the Statute and the Decision

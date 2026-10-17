@@ -9,7 +9,7 @@ excerpt: "US consumer protection law grew statute by statute and industry by ind
 image: "/assets/images/blog/blog-69.webp"
 reading_time: "93"
 author: "kevin-reeves"
-last_updated: "2019-02-15"
+last_updated: 2026-10-17
 lang: en
 ---
 US consumer protection law has no single founding statute. No act of Congress created a general right to safe products, honest selling, fair credit, or private information for every buyer in every market. Protection arrived instead after particular harms became impossible to ignore: a sweater that flashed into flame, a child trapped inside a discarded refrigerator, a poison stored under a sink without an adequate warning, a loan whose price could not be compared with the price of a rival loan, a credit file whose errors the subject of the file could neither see nor correct. Each harm produced a statute, and each statute reached the industry in which the harm had appeared and stopped at the boundary of that industry. The field therefore grew as a sequence of bounded answers rather than as a code written outward from a general principle, and the sequence, running from the first product statutes of the nineteen fifties to the creation of a dedicated financial regulator in 2010, supplies the structure of the account that follows. The pattern inside the sequence explains both the real strength of the protections that exist and the gaps a reader encounters between one protected transaction and a neighbouring transaction that no statute reached.

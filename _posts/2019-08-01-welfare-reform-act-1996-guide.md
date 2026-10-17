@@ -9,7 +9,7 @@ excerpt: "Welfare reform replaced a federal entitlement to cash aid with a fixed
 image: "/assets/images/blog/blog-87.webp"
 reading_time: "93"
 author: "maria-santos"
-last_updated: "2019-08-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The operative question in welfare reform was not how generous cash assistance to poor families ought to be, but whether a family that met eligibility rules held a legal right to receive assistance at all. Before August 1996, federal law answered that question in the affirmative for families covered by Aid to Families with Dependent Children, and federal money followed eligibility without a fixed ceiling. Congress legislated against a structure in which enrollment, expenditure, and federal obligation rose together by operation of law, in which receipt of benefits carried no federal lifetime limit, and in which work conditions operated inside an entitlement that a state lacked authority to end for a family that met the governing eligibility tests.

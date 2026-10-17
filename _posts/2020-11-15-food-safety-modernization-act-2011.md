@@ -9,7 +9,7 @@ excerpt: "The Food Safety Modernization Act replaced reaction with prevention, g
 image: "/assets/images/blog/blog-68.webp"
 reading_time: "80"
 author: "michael-brooks"
-last_updated: "2020-11-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Food Safety Modernization Act and the Shift From Reaction to Prevention

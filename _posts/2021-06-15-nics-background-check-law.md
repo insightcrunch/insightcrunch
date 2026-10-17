@@ -9,7 +9,7 @@ excerpt: "A NICS background check explained through its mandate, three databases
 image: "/assets/images/blog/blog-110.webp"
 reading_time: "91"
 author: "samantha-lee"
-last_updated: "2021-06-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Requirement Before a Transfer May Be Completed

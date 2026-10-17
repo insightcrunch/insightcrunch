@@ -9,7 +9,7 @@ excerpt: "Welfare reform myths tested against statutes, caseload data and named 
 image: "/assets/images/blog/blog-77.webp"
 reading_time: "90"
 author: "robert-quinn"
-last_updated: "2019-12-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Welfare Reform Myths and the Word That Carries Too Much

@@ -9,7 +9,7 @@ excerpt: "Truth in Lending defined how America discloses credit prices. This gui
 image: "/assets/images/blog/blog-08.webp"
 reading_time: "92"
 author: "michael-brooks"
-last_updated: "2018-10-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

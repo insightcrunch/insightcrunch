@@ -9,7 +9,7 @@ excerpt: "Fair Debt Collection Practices Act coverage, validation rules, communi
 image: "/assets/images/blog/blog-81.webp"
 reading_time: "83"
 author: "daniel-morgan"
-last_updated: "2018-12-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The operative question behind the Fair Debt Collection Practices Act was narrow, and Congress framed the question around a specific actor rather than around debt itself. When a consumer fell behind on a bill, the creditor often handed the account to an outside collection agency, and a stranger with no prior relationship to the household began demanding payment. Federal law before 1977 regulated what a creditor had to disclose when credit was extended, and federal law regulated how credit information was reported, but no federal statute set conduct rules for the independent collector who pursued the debt after default. The statute answered a gap question: what may a third party collector say and do, to the consumer and to everyone around the consumer, in the effort to collect money owed to somebody else? Every operative provision in the enacted text traces back to that framing, because Congress legislated against a defined set of collection behaviors rather than against indebtedness, default, or the underlying obligation to pay.

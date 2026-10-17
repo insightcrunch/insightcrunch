@@ -9,7 +9,7 @@ excerpt: "US tariff law is administered by four agencies with separate mandates,
 image: "/assets/images/blog/blog-41.webp"
 reading_time: "90"
 author: "jason-mckenzie"
-last_updated: "2020-10-01"
+last_updated: 2026-10-17
 lang: en
 ---
 US tariff law begins as a line in a schedule. A rate printed beside a description of goods states a percentage or a specific amount, and that printed figure appears complete on the page. Administration gives that figure a second existence. A tariff exists twice, once as a rate in a schedule and once as an administered system of agencies, investigations, deposits, reviews, and a court. The second existence decides what an importer pays on a particular shipment, because a rate reaches a shipment only after classification, valuation, origin, and column selection have placed the shipment under one rate line rather than another.

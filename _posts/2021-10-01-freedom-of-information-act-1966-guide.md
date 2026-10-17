@@ -9,7 +9,7 @@ excerpt: "The Freedom of Information Act reversed who must justify secrecy: agen
 image: "/assets/images/blog/blog-13.webp"
 reading_time: "86"
 author: "hannah-moore"
-last_updated: "2021-10-01"
+last_updated: 2026-10-17
 lang: en
 ---
 The Freedom of Information Act is the statute that decides what the federal executive branch must show the public and what it may keep back, and its operative idea is an allocation of burden rather than a grant of permission. The enacted text supplies a formal identity of unusual precision. The Freedom of Information Act, Public Law 89-487, printed at 80 Stat. 250, was signed by President Lyndon B. Johnson on July 4, 1966, took effect one year later, and is codified at 5 U.S.C. 552. The act amended section 3 of the Administrative Procedure Act of 1946, the public information provision whose standards it displaced, and before the new text took effect Congress restated it in a June 1967 enactment, Public Law 90-23, so the section entered the Code in restated form.

@@ -9,7 +9,7 @@ excerpt: "The McCain-Feingold Act banned party soft money, regulated pre-electio
 image: "/assets/images/blog/blog-71.webp"
 reading_time: "80"
 author: "christopher-wells"
-last_updated: "2021-09-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The Bipartisan Campaign Reform Act of 2002, enacted as Public Law 107-155 and printed at 116 Stat. 81, reached the statute books through H.R. 2356 of the 107th Congress, the House vehicle known by the names of its principal sponsors, Representatives Christopher Shays of Connecticut, a Republican, and Martin Meehan of Massachusetts, a Democrat. Its Senate companion, S. 27, carried the names of Senators John McCain of Arizona, a Republican, and Russ Feingold of Wisconsin, a Democrat, a pairing that gave the entire enterprise its more familiar shorthand, McCain-Feingold, in the Senate and Shays-Meehan in the House. President George W. Bush signed the measure on March 27, 2002, completing a legislative sequence that had consumed the better part of a decade and had survived repeated failure in one chamber or the other before a procedural maneuver in the House and a direct Senate vote on the House text finally placed an identical bill on a president's desk for signature.

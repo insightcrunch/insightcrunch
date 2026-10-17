@@ -9,7 +9,7 @@ excerpt: "The Orphan Drug Act built a market for rare treatments from seven-year
 image: "/assets/images/blog/blog-112.webp"
 reading_time: "71"
 author: "katherine-blake"
-last_updated: "2018-07-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

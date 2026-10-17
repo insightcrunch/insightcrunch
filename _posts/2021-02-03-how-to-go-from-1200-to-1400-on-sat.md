@@ -5,11 +5,11 @@ page_title: "How to Improve Your SAT Score from 1200 to 1400: Intermediate Strat
 date: 2021-02-03
 categories: ["Industry"]
 tags: ['SAT 1200 to 1400', 'SAT Score Improvement', 'SAT 1400 Strategy', 'SAT Mid Range Improvement', 'SAT Plateau Breakthrough', 'SAT Intermediate Strategy', 'SAT Targeted Practice', 'SAT Weakness Analysis']
-excerpt: "The complete guide to improving from a 1200 to 1400 SAT score by targeting specific weaknesses, refining strategies, and building test-taking precision."
+excerpt: "Decode the 1200 to 1400 SAT improvement path with the topic gaps and strategy upgrades that bridge the gap."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "christopher-wells"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # How to Go from 1200 to 1400 on the SAT

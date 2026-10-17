@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Denver for the next two weeks: speed dat
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Denver: The Next Two Weeks

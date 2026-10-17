@@ -9,7 +9,7 @@ excerpt: "The Agricultural Act of 1949 never expires, so every farm bill suspend
 image: "/assets/images/blog/blog-103.webp"
 reading_time: "99"
 author: "natalie-webb"
-last_updated: "2020-12-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Agricultural Act as Permanent Law

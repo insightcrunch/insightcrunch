@@ -9,7 +9,7 @@ excerpt: "How ransomware recovery works: clean copies kept beyond attacker reach
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 82
 author: "benjamin-scott"
-last_updated: 2026-10-15
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Recovery Problem Stated Plainly

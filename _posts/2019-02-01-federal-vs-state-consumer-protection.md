@@ -9,7 +9,7 @@ excerpt: "Federal vs state consumer protection decides who a wronged consumer ca
 image: "/assets/images/blog/blog-94.webp"
 reading_time: "90"
 author: "ian-fletcher"
-last_updated: "2019-02-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Two Systems for One Wrong

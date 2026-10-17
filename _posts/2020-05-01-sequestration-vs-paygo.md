@@ -9,7 +9,7 @@ excerpt: "Sequestration cancels budgetary resources after a fiscal rule is breac
 image: "/assets/images/blog/blog-21.webp"
 reading_time: "78"
 author: "benjamin-scott"
-last_updated: "2020-05-01"
+last_updated: 2026-10-17
 lang: en
 ---
 Fiscal commentary, graduate seminars, and committee staff rooms return to a single comparison, sequestration against pay-as-you-go, as if the two terms named rival instruments built for the same job. Students meet the pair in textbooks, staff meet the pair in drafting sessions, and commentators meet the pair whenever a deficit debate turns from promises to enforcement. The comparison sounds tidy, and the tidiness misleads. Sequestration names a remedy, an automatic cancellation of budgetary resources that follows a measured breach of a fiscal rule. Pay-as-you-go names a rule, a requirement that legislated changes to mandatory spending and revenues not increase the deficit. Placing a remedy beside a rule produces confident verdicts about toughness that the statutes do not support, because the severity of a cancellation says nothing about the standard the cancellation serves, the moment the breach gets measured, or the accounts the cancellation reaches. The architecture that joined the pair appears in [the guide to the Budget Enforcement Act](/2020/02/01/budget-enforcement-act-1990-paygo/), the statute that first paired discretionary spending caps with the pay-as-you-go scorecard and placed the same remedy behind each instrument.

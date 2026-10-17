@@ -9,7 +9,7 @@ excerpt: "VA disability compensation law requires proof of a disability linked t
 image: "/assets/images/blog/blog-37.webp"
 reading_time: "77"
 author: "gregory-marsh"
-last_updated: "2019-05-15"
+last_updated: 2026-10-17
 lang: en
 ---
 The law of disability compensation requires the United States to pay a veteran only where a present disability resulted from injury or disease incurred or aggravated in line of duty during qualifying service, and the law requires the claimant to establish that chain through evidence while requiring the Department of Veterans Affairs to assist in developing the record and to resolve an approximate balance of evidence in favor of the claimant.

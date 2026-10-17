@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Los Angeles for the next two weeks: spee
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Los Angeles: The Next Two Weeks

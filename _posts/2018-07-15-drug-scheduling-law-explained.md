@@ -9,7 +9,7 @@ excerpt: "Drug scheduling decides where every substance sits and who may move it
 image: "/assets/images/blog/blog-44.webp"
 reading_time: "74"
 author: "simon-hartley"
-last_updated: "2018-07-15"
+last_updated: 2026-10-17
 lang: en
 ---
 Who decides where a drug sits on the federal schedules, and what constrains that decision? Drug scheduling is the administrative process by which substances move onto, between, and off the five schedules of the Controlled Substances Act, and the answer to both halves of the question lies in a single unusual bargain struck in 1970. Congress divided the power between two agencies: the enforcement agency that initiates proceedings and writes the final orders, and the health agency whose scientific judgment can stop control cold but cannot compel it. The result is a system in which placement is never one office's call, in which the evidentiary demands are written into the statute itself, and in which international treaty commitments and an emergency lane for imminent hazards define the outer edges of what the domestic machinery may do and may undo.

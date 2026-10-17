@@ -9,7 +9,7 @@ excerpt: "The Montgomery GI Bill pays a flat monthly stipend that service member
 image: "/assets/images/blog/blog-05.webp"
 reading_time: "87"
 author: "alex-cunningham"
-last_updated: "2019-03-15"
+last_updated: 2026-10-17
 lang: en
 ---
 What should a peacetime volunteer earn for education after service, and should that volunteer pay part of the price before any classroom door opens? Congress faced that question after the draft had ended, after the benefit that had served the Vietnam era cohort had closed to new entrants, and after the savings program that replaced that benefit had failed to draw the recruits the all volunteer force required. The Montgomery GI Bill answered the question with a bargain that had no exact precedent in American veterans law: a generous flat monthly benefit, earned through qualifying service, that a service member first had to buy. The operative problem was manpower as much as education. Recruiting in the late nineteen seventies and the early nineteen eighties produced too few high school diploma graduates, too few recruits in the upper half of the aptitude distribution, and attrition high enough to force the services to recruit replacements for personnel already trained. An education benefit weak in value, deferred in use, and hard to explain at a recruiting station could not correct that condition, and the program on offer between nineteen seventy seven and nineteen eighty four had proved weak on each count.

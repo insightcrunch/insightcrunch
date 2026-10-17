@@ -9,7 +9,7 @@ excerpt: "NAFTA employment impact research found small national effects and seve
 image: "/assets/images/blog/blog-13.webp"
 reading_time: "91"
 author: "benjamin-scott"
-last_updated: "2020-09-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The Promise and the Baseline: What the Agreement Was Supposed to Do

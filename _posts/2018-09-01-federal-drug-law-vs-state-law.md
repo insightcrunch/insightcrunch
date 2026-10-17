@@ -9,7 +9,7 @@ excerpt: "Federal drug law prohibits marijuana while a state may permit the same
 image: "/assets/images/blog/blog-85.webp"
 reading_time: "72"
 author: "kevin-reeves"
-last_updated: "2018-09-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Federal Drug Law and the State Legalization Question

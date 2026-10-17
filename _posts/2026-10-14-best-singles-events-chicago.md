@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Chicago for the next two weeks: speed da
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2026-10-14
+last_updated: 2026-10-17
 lang: en
 ---
 ## Singles Events in Chicago: The Next Two Weeks

@@ -9,7 +9,7 @@ excerpt: "The NAFTA Implementation Act made a continental trade bargain domestic
 image: "/assets/images/blog/blog-73.webp"
 reading_time: "105"
 author: "samantha-lee"
-last_updated: "2020-06-15"
+last_updated: 2026-10-17
 lang: en
 ---
 ## The NAFTA Implementation Act and the Question It Answers

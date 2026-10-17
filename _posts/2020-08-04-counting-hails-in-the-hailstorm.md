@@ -4,11 +4,11 @@ title: "Counting hails in the hailstorm"
 date: 2020-08-04
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed..."
+excerpt: "Using Tableau to analyze complex, messy datasets. A practical approach to finding structure in chaotic data using visualization and analytics tools."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "maya-chen"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed before. As analytics continues to evolve at a blistering pace, it brings with it the ability to take decisions that affects the lives of millions around us. Out of seeming nothingness we get concrete patterns that could only have been imagined few decades back.

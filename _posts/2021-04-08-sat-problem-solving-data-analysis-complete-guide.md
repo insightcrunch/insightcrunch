@@ -5,11 +5,11 @@ page_title: "SAT Problem Solving and Data Analysis Guide: Ratios, Percentages, S
 date: 2021-04-08
 categories: ["Industry"]
 tags: ['SAT Problem Solving', 'SAT Data Analysis', 'SAT Statistics', 'SAT Probability', 'SAT Ratios', 'SAT Percentages', 'SAT Data Interpretation', 'SAT Scatter Plots']
-excerpt: "Master every SAT Problem Solving and Data Analysis topic including ratios, percentages, statistics, probability, and data interpretation with worked examples."
+excerpt: "Decode SAT Problem Solving and Data Analysis topics with rule-by-rule walkthroughs and worked examples."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
 author: "katherine-blake"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # SAT Problem Solving and Data Analysis: The Complete Guide

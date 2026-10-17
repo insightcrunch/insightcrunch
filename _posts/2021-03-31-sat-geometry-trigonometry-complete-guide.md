@@ -5,11 +5,11 @@ page_title: "SAT Geometry and Trigonometry Complete Guide: Angles, Triangles, Ci
 date: 2021-03-31
 categories: ["Industry"]
 tags: ['SAT Geometry', 'SAT Trigonometry', 'SAT Triangles', 'SAT Circles', 'SAT Coordinate Geometry', 'SAT Geometry Practice', 'SAT Trig Ratios', 'SAT Area Volume']
-excerpt: "Master every SAT Geometry and Trigonometry topic including triangles, circles, coordinate geometry, volume, and trigonometric ratios with worked examples."
+excerpt: "Decode SAT Geometry and Trig topics across every question type with formula references and worked examples."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "michael-brooks"
-last_updated: 2026-04-01
+last_updated: 2026-10-17
 lang: en
 ---
 # SAT Geometry and Trigonometry: Every Topic Explained

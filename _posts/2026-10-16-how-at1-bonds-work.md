@@ -9,7 +9,7 @@ excerpt: "How AT1 bonds work, from perpetual coupons and skipped payments to wri
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 84
 author: "nathan-cole"
-last_updated: 2026-10-16
+last_updated: 2026-10-17
 lang: en
 ---
 ## A Bond Designed to Vanish at the Moment of Failure

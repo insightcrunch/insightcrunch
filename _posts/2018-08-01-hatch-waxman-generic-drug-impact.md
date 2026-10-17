@@ -9,7 +9,7 @@ excerpt: "The Hatch-Waxman generic drug market impact, measured against its aims
 image: "/assets/images/blog/blog-27.webp"
 reading_time: "77"
 author: "nathan-cole"
-last_updated: "2018-08-01"
+last_updated: 2026-10-17
 lang: en
 ---
 ## Introduction

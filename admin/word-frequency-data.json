@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-13T13:52:41Z",
+  "generated": "2026-10-17T10:23:02Z",
   "threshold": 50,
-  "totalPosts": 4351,
-  "flaggedPosts": 2720,
+  "totalPosts": 4449,
+  "flaggedPosts": 2760,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 165.8,
+  "avgTopCount": 167.4,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -148315,6 +148315,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-06-09-sensational-sequoia.md"
     },
     {
+      "filename": "2018-06-15-anti-drug-abuse-acts-1986-1988.md",
+      "slug": "anti-drug-abuse-acts-1986-1988",
+      "title": "Anti-Drug Abuse Acts: Thresholds, Ratio, and Reform",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10291,
+      "topWord": "drug",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-06-15-anti-drug-abuse-acts-1986-1988.md",
+      "flaggedWords": [
+        {
+          "word": "drug",
+          "count": 215
+        }
+      ],
+      "top20": [
+        {
+          "word": "drug",
+          "count": 215
+        },
+        {
+          "word": "crack",
+          "count": 150
+        },
+        {
+          "word": "act",
+          "count": 137
+        },
+        {
+          "word": "federal",
+          "count": 116
+        },
+        {
+          "word": "sentencing",
+          "count": 106
+        },
+        {
+          "word": "cocaine",
+          "count": 101
+        },
+        {
+          "word": "five",
+          "count": 95
+        },
+        {
+          "word": "statute",
+          "count": 95
+        },
+        {
+          "word": "congress",
+          "count": 92
+        },
+        {
+          "word": "grams",
+          "count": 91
+        },
+        {
+          "word": "commission",
+          "count": 90
+        },
+        {
+          "word": "mandatory",
+          "count": 89
+        },
+        {
+          "word": "ratio",
+          "count": 81
+        },
+        {
+          "word": "powder",
+          "count": 71
+        },
+        {
+          "word": "minimum",
+          "count": 68
+        },
+        {
+          "word": "quantity",
+          "count": 65
+        },
+        {
+          "word": "offense",
+          "count": 53
+        },
+        {
+          "word": "law",
+          "count": 51
+        },
+        {
+          "word": "possession",
+          "count": 51
+        },
+        {
+          "word": "minimums",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2018-06-15-scarface-de-palma-reappraisal-icon.md",
       "slug": "scarface-de-palma-reappraisal-icon",
       "title": "Scarface: From Condemned to Crowned",
@@ -148757,6 +148863,116 @@
       ]
     },
     {
+      "filename": "2018-07-01-orphan-drug-act-1983-guide.md",
+      "slug": "orphan-drug-act-1983-guide",
+      "title": "Orphan Drug Act Guide: Rare Disease Incentives Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9537,
+      "topWord": "drug",
+      "topCount": 237,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-07-01-orphan-drug-act-1983-guide.md",
+      "flaggedWords": [
+        {
+          "word": "drug",
+          "count": 237
+        },
+        {
+          "word": "orphan",
+          "count": 208
+        }
+      ],
+      "top20": [
+        {
+          "word": "drug",
+          "count": 237
+        },
+        {
+          "word": "orphan",
+          "count": 208
+        },
+        {
+          "word": "rare",
+          "count": 129
+        },
+        {
+          "word": "statute",
+          "count": 107
+        },
+        {
+          "word": "disease",
+          "count": 101
+        },
+        {
+          "word": "designation",
+          "count": 92
+        },
+        {
+          "word": "drugs",
+          "count": 81
+        },
+        {
+          "word": "approval",
+          "count": 76
+        },
+        {
+          "word": "act",
+          "count": 63
+        },
+        {
+          "word": "development",
+          "count": 63
+        },
+        {
+          "word": "patient",
+          "count": 60
+        },
+        {
+          "word": "approved",
+          "count": 58
+        },
+        {
+          "word": "market",
+          "count": 56
+        },
+        {
+          "word": "cost",
+          "count": 55
+        },
+        {
+          "word": "exclusivity",
+          "count": 54
+        },
+        {
+          "word": "law",
+          "count": 53
+        },
+        {
+          "word": "condition",
+          "count": 52
+        },
+        {
+          "word": "conditions",
+          "count": 49
+        },
+        {
+          "word": "fda",
+          "count": 46
+        },
+        {
+          "word": "diseases",
+          "count": 43
+        }
+      ]
+    },
+    {
       "filename": "2018-07-05-feluda-bengali-identity-bn.md",
       "slug": "feluda-bengali-identity-bn",
       "title": "ফেলুদা ও বাঙালি পরিচয়",
@@ -148993,6 +149209,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-07-11-snp_session-the-data-analysts-dream-table-of-oracle-data-integrator.md"
+    },
+    {
+      "filename": "2018-07-15-drug-scheduling-law-explained.md",
+      "slug": "drug-scheduling-law-explained",
+      "title": "Drug Scheduling Law Explained: Schedules and Process",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10812,
+      "topWord": "schedule",
+      "topCount": 288,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-07-15-drug-scheduling-law-explained.md",
+      "flaggedWords": [
+        {
+          "word": "schedule",
+          "count": 288
+        }
+      ],
+      "top20": [
+        {
+          "word": "schedule",
+          "count": 288
+        },
+        {
+          "word": "abuse",
+          "count": 139
+        },
+        {
+          "word": "drug",
+          "count": 135
+        },
+        {
+          "word": "substance",
+          "count": 126
+        },
+        {
+          "word": "scheduling",
+          "count": 121
+        },
+        {
+          "word": "medical",
+          "count": 121
+        },
+        {
+          "word": "control",
+          "count": 104
+        },
+        {
+          "word": "general",
+          "count": 94
+        },
+        {
+          "word": "agency",
+          "count": 93
+        },
+        {
+          "word": "statute",
+          "count": 91
+        },
+        {
+          "word": "attorney",
+          "count": 91
+        },
+        {
+          "word": "health",
+          "count": 87
+        },
+        {
+          "word": "evidence",
+          "count": 83
+        },
+        {
+          "word": "schedules",
+          "count": 77
+        },
+        {
+          "word": "record",
+          "count": 77
+        },
+        {
+          "word": "substances",
+          "count": 73
+        },
+        {
+          "word": "findings",
+          "count": 69
+        },
+        {
+          "word": "scientific",
+          "count": 68
+        },
+        {
+          "word": "potential",
+          "count": 68
+        },
+        {
+          "word": "factors",
+          "count": 67
+        }
+      ]
     },
     {
       "filename": "2018-07-15-the-mission-morricone-greatest-score.md",
@@ -149545,6 +149867,112 @@
       ]
     },
     {
+      "filename": "2018-08-01-hatch-waxman-generic-drug-impact.md",
+      "slug": "hatch-waxman-generic-drug-impact",
+      "title": "Hatch-Waxman Generic Drug Market: Impact and Outcomes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11334,
+      "topWord": "generic",
+      "topCount": 266,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-08-01-hatch-waxman-generic-drug-impact.md",
+      "flaggedWords": [
+        {
+          "word": "generic",
+          "count": 266
+        }
+      ],
+      "top20": [
+        {
+          "word": "generic",
+          "count": 266
+        },
+        {
+          "word": "brand",
+          "count": 164
+        },
+        {
+          "word": "drug",
+          "count": 155
+        },
+        {
+          "word": "patent",
+          "count": 154
+        },
+        {
+          "word": "price",
+          "count": 145
+        },
+        {
+          "word": "entry",
+          "count": 94
+        },
+        {
+          "word": "market",
+          "count": 79
+        },
+        {
+          "word": "competition",
+          "count": 74
+        },
+        {
+          "word": "prices",
+          "count": 68
+        },
+        {
+          "word": "exclusivity",
+          "count": 64
+        },
+        {
+          "word": "product",
+          "count": 61
+        },
+        {
+          "word": "approval",
+          "count": 56
+        },
+        {
+          "word": "products",
+          "count": 56
+        },
+        {
+          "word": "restoration",
+          "count": 55
+        },
+        {
+          "word": "statute",
+          "count": 55
+        },
+        {
+          "word": "period",
+          "count": 53
+        },
+        {
+          "word": "food",
+          "count": 50
+        },
+        {
+          "word": "administration",
+          "count": 50
+        },
+        {
+          "word": "research",
+          "count": 49
+        },
+        {
+          "word": "manufacturers",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2018-08-01-indie-surge-sex-lies-videotape-slacker.md",
       "slug": "indie-surge-sex-lies-videotape-slacker",
       "title": "sex, lies, and videotape and Slacker: The Indie Surge",
@@ -149995,6 +150423,24 @@
       ]
     },
     {
+      "filename": "2018-08-15-fda-approval-law-mechanics.md",
+      "slug": "fda-approval-law-mechanics",
+      "title": "FDA Approval Law: How the Review System Actually Works",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12450,
+      "topWord": "agency",
+      "topCount": 221,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-08-15-fda-approval-law-mechanics.md"
+    },
+    {
       "filename": "2018-08-19-feluda-vs-hercule-poirot-comparison-bn.md",
       "slug": "feluda-vs-hercule-poirot-comparison-bn",
       "title": "ফেলুদা বনাম এরকুল পোয়ারো",
@@ -150339,6 +150785,112 @@
       ]
     },
     {
+      "filename": "2018-09-01-federal-drug-law-vs-state-law.md",
+      "slug": "federal-drug-law-vs-state-law",
+      "title": "Federal Drug Law vs State Legalization: Who Governs What",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10625,
+      "topWord": "federal",
+      "topCount": 364,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-01-federal-drug-law-vs-state-law.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 364
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 364
+        },
+        {
+          "word": "marijuana",
+          "count": 194
+        },
+        {
+          "word": "law",
+          "count": 182
+        },
+        {
+          "word": "act",
+          "count": 119
+        },
+        {
+          "word": "states",
+          "count": 109
+        },
+        {
+          "word": "congress",
+          "count": 97
+        },
+        {
+          "word": "conduct",
+          "count": 86
+        },
+        {
+          "word": "controlled",
+          "count": 81
+        },
+        {
+          "word": "prohibition",
+          "count": 80
+        },
+        {
+          "word": "medical",
+          "count": 77
+        },
+        {
+          "word": "enforcement",
+          "count": 68
+        },
+        {
+          "word": "section",
+          "count": 59
+        },
+        {
+          "word": "drug",
+          "count": 58
+        },
+        {
+          "word": "statute",
+          "count": 57
+        },
+        {
+          "word": "substances",
+          "count": 56
+        },
+        {
+          "word": "court",
+          "count": 54
+        },
+        {
+          "word": "rider",
+          "count": 51
+        },
+        {
+          "word": "schedule",
+          "count": 44
+        },
+        {
+          "word": "united",
+          "count": 41
+        },
+        {
+          "word": "guidance",
+          "count": 40
+        }
+      ]
+    },
+    {
       "filename": "2018-09-01-goodfellas-scorsese-auteur-analysis.md",
       "slug": "goodfellas-scorsese-auteur-analysis",
       "title": "Goodfellas: Scorsese's Auteur Vision Explained",
@@ -150613,6 +151165,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-10-sindh-nawabshah-jud-network.md"
     },
     {
+      "filename": "2018-09-15-ryan-white-care-act-1990-guide.md",
+      "slug": "ryan-white-care-act-1990-guide",
+      "title": "Ryan White CARE Act: Care Funded as Payer of Last Resort",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10984,
+      "topWord": "services",
+      "topCount": 147,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-15-ryan-white-care-act-1990-guide.md"
+    },
+    {
       "filename": "2018-09-15-silence-of-the-lambs-thriller-lecter.md",
       "slug": "silence-of-the-lambs-thriller-lecter",
       "title": "The Silence of the Lambs: How It Elevated the Thriller",
@@ -150859,6 +151429,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-24-loc-infiltration-routes-mapped.md"
+    },
+    {
+      "filename": "2018-10-01-consumer-product-safety-act-1972.md",
+      "slug": "consumer-product-safety-act-1972",
+      "title": "Consumer Product Safety Act: Powers, Limits, and Design",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12779,
+      "topWord": "product",
+      "topCount": 276,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-01-consumer-product-safety-act-1972.md",
+      "flaggedWords": [
+        {
+          "word": "product",
+          "count": 276
+        }
+      ],
+      "top20": [
+        {
+          "word": "product",
+          "count": 276
+        },
+        {
+          "word": "commission",
+          "count": 247
+        },
+        {
+          "word": "section",
+          "count": 241
+        },
+        {
+          "word": "act",
+          "count": 177
+        },
+        {
+          "word": "consumer",
+          "count": 171
+        },
+        {
+          "word": "safety",
+          "count": 171
+        },
+        {
+          "word": "products",
+          "count": 93
+        },
+        {
+          "word": "statute",
+          "count": 90
+        },
+        {
+          "word": "federal",
+          "count": 83
+        },
+        {
+          "word": "standard",
+          "count": 77
+        },
+        {
+          "word": "public",
+          "count": 76
+        },
+        {
+          "word": "agency",
+          "count": 71
+        },
+        {
+          "word": "information",
+          "count": 71
+        },
+        {
+          "word": "injury",
+          "count": 69
+        },
+        {
+          "word": "congress",
+          "count": 67
+        },
+        {
+          "word": "standards",
+          "count": 64
+        },
+        {
+          "word": "hazard",
+          "count": 58
+        },
+        {
+          "word": "children",
+          "count": 57
+        },
+        {
+          "word": "risk",
+          "count": 55
+        },
+        {
+          "word": "law",
+          "count": 53
+        }
+      ]
     },
     {
       "filename": "2018-10-01-jfk-oliver-stone-editing-conspiracy.md",
@@ -151435,6 +152111,112 @@
       ]
     },
     {
+      "filename": "2018-10-15-truth-in-lending-act-1968-guide.md",
+      "slug": "truth-in-lending-act-1968-guide",
+      "title": "Truth in Lending Act: Complete Guide to Credit Disclosure",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13282,
+      "topWord": "credit",
+      "topCount": 276,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-15-truth-in-lending-act-1968-guide.md",
+      "flaggedWords": [
+        {
+          "word": "credit",
+          "count": 276
+        }
+      ],
+      "top20": [
+        {
+          "word": "credit",
+          "count": 276
+        },
+        {
+          "word": "consumer",
+          "count": 183
+        },
+        {
+          "word": "disclosure",
+          "count": 180
+        },
+        {
+          "word": "charge",
+          "count": 161
+        },
+        {
+          "word": "act",
+          "count": 140
+        },
+        {
+          "word": "rate",
+          "count": 134
+        },
+        {
+          "word": "creditor",
+          "count": 125
+        },
+        {
+          "word": "finance",
+          "count": 124
+        },
+        {
+          "word": "title",
+          "count": 118
+        },
+        {
+          "word": "section",
+          "count": 101
+        },
+        {
+          "word": "loan",
+          "count": 86
+        },
+        {
+          "word": "regulation",
+          "count": 85
+        },
+        {
+          "word": "statute",
+          "count": 84
+        },
+        {
+          "word": "amount",
+          "count": 78
+        },
+        {
+          "word": "federal",
+          "count": 75
+        },
+        {
+          "word": "cost",
+          "count": 71
+        },
+        {
+          "word": "mortgage",
+          "count": 70
+        },
+        {
+          "word": "law",
+          "count": 66
+        },
+        {
+          "word": "lending",
+          "count": 64
+        },
+        {
+          "word": "price",
+          "count": 64
+        }
+      ]
+    },
+    {
       "filename": "2018-10-18-why-feluda-not-hindi-cinema-crossover-bn.md",
       "slug": "why-feluda-not-hindi-cinema-crossover-bn",
       "title": "ফেলুদা কেন হিন্দিতে আসেনি",
@@ -151579,6 +152361,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-29-quetta-balochistan-nexus.md"
+    },
+    {
+      "filename": "2018-11-01-fair-credit-reporting-act-1970-guide.md",
+      "slug": "fair-credit-reporting-act-1970-guide",
+      "title": "Fair Credit Reporting Act: Consumer Files and Rights",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11346,
+      "topWord": "consumer",
+      "topCount": 288,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-01-fair-credit-reporting-act-1970-guide.md",
+      "flaggedWords": [
+        {
+          "word": "consumer",
+          "count": 288
+        }
+      ],
+      "top20": [
+        {
+          "word": "consumer",
+          "count": 288
+        },
+        {
+          "word": "report",
+          "count": 175
+        },
+        {
+          "word": "section",
+          "count": 171
+        },
+        {
+          "word": "information",
+          "count": 168
+        },
+        {
+          "word": "credit",
+          "count": 138
+        },
+        {
+          "word": "agency",
+          "count": 133
+        },
+        {
+          "word": "reporting",
+          "count": 128
+        },
+        {
+          "word": "act",
+          "count": 114
+        },
+        {
+          "word": "federal",
+          "count": 107
+        },
+        {
+          "word": "file",
+          "count": 91
+        },
+        {
+          "word": "bureau",
+          "count": 80
+        },
+        {
+          "word": "dispute",
+          "count": 79
+        },
+        {
+          "word": "statute",
+          "count": 69
+        },
+        {
+          "word": "law",
+          "count": 64
+        },
+        {
+          "word": "furnisher",
+          "count": 60
+        },
+        {
+          "word": "reports",
+          "count": 57
+        },
+        {
+          "word": "accuracy",
+          "count": 54
+        },
+        {
+          "word": "period",
+          "count": 54
+        },
+        {
+          "word": "disclosure",
+          "count": 53
+        },
+        {
+          "word": "duties",
+          "count": 52
+        }
+      ]
     },
     {
       "filename": "2018-11-01-feluda-for-sherlock-holmes-fans-bn.md",
@@ -151743,6 +152631,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-12-canada-uk-khalistan-safe-havens.md"
+    },
+    {
+      "filename": "2018-11-15-magnuson-moss-warranty-act-1975.md",
+      "slug": "magnuson-moss-warranty-act-1975",
+      "title": "Magnuson-Moss Warranty Act: Full vs Limited Warranties",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11368,
+      "topWord": "warranty",
+      "topCount": 379,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-15-magnuson-moss-warranty-act-1975.md",
+      "flaggedWords": [
+        {
+          "word": "warranty",
+          "count": 379
+        }
+      ],
+      "top20": [
+        {
+          "word": "warranty",
+          "count": 379
+        },
+        {
+          "word": "section",
+          "count": 225
+        },
+        {
+          "word": "consumer",
+          "count": 165
+        },
+        {
+          "word": "federal",
+          "count": 144
+        },
+        {
+          "word": "commission",
+          "count": 143
+        },
+        {
+          "word": "warrantor",
+          "count": 111
+        },
+        {
+          "word": "service",
+          "count": 92
+        },
+        {
+          "word": "product",
+          "count": 91
+        },
+        {
+          "word": "implied",
+          "count": 91
+        },
+        {
+          "word": "law",
+          "count": 86
+        },
+        {
+          "word": "act",
+          "count": 85
+        },
+        {
+          "word": "rule",
+          "count": 79
+        },
+        {
+          "word": "trade",
+          "count": 71
+        },
+        {
+          "word": "warranties",
+          "count": 70
+        },
+        {
+          "word": "rules",
+          "count": 58
+        },
+        {
+          "word": "full",
+          "count": 57
+        },
+        {
+          "word": "title",
+          "count": 54
+        },
+        {
+          "word": "court",
+          "count": 54
+        },
+        {
+          "word": "duration",
+          "count": 49
+        },
+        {
+          "word": "parts",
+          "count": 49
+        }
+      ]
     },
     {
       "filename": "2018-11-15-thelma-and-louise-feminist-road-movie.md",
@@ -152301,6 +153295,116 @@
       ]
     },
     {
+      "filename": "2018-12-01-fair-debt-collection-practices-act.md",
+      "slug": "fair-debt-collection-practices-act",
+      "title": "Fair Debt Collection Practices Act: Coverage and Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11766,
+      "topWord": "debt",
+      "topCount": 330,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-12-01-fair-debt-collection-practices-act.md",
+      "flaggedWords": [
+        {
+          "word": "debt",
+          "count": 330
+        },
+        {
+          "word": "consumer",
+          "count": 242
+        }
+      ],
+      "top20": [
+        {
+          "word": "debt",
+          "count": 330
+        },
+        {
+          "word": "consumer",
+          "count": 242
+        },
+        {
+          "word": "section",
+          "count": 224
+        },
+        {
+          "word": "collection",
+          "count": 211
+        },
+        {
+          "word": "collector",
+          "count": 206
+        },
+        {
+          "word": "act",
+          "count": 124
+        },
+        {
+          "word": "creditor",
+          "count": 115
+        },
+        {
+          "word": "communication",
+          "count": 91
+        },
+        {
+          "word": "law",
+          "count": 81
+        },
+        {
+          "word": "person",
+          "count": 77
+        },
+        {
+          "word": "court",
+          "count": 73
+        },
+        {
+          "word": "federal",
+          "count": 71
+        },
+        {
+          "word": "congress",
+          "count": 67
+        },
+        {
+          "word": "statute",
+          "count": 67
+        },
+        {
+          "word": "debts",
+          "count": 64
+        },
+        {
+          "word": "notice",
+          "count": 60
+        },
+        {
+          "word": "practices",
+          "count": 58
+        },
+        {
+          "word": "credit",
+          "count": 58
+        },
+        {
+          "word": "agency",
+          "count": 52
+        },
+        {
+          "word": "information",
+          "count": 51
+        }
+      ]
+    },
+    {
       "filename": "2018-12-15-beauty-and-the-beast-disney-renaissance.md",
       "slug": "beauty-and-the-beast-disney-renaissance",
       "title": "Beauty and the Beast and the Disney Renaissance",
@@ -152403,6 +153507,112 @@
         {
           "word": "broadway",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2018-12-15-credit-card-act-2009-explained.md",
+      "slug": "credit-card-act-2009-explained",
+      "title": "What the CARD Act Requires: Rates, Fees and Billing Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11170,
+      "topWord": "rate",
+      "topCount": 227,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-12-15-credit-card-act-2009-explained.md",
+      "flaggedWords": [
+        {
+          "word": "rate",
+          "count": 227
+        }
+      ],
+      "top20": [
+        {
+          "word": "rate",
+          "count": 227
+        },
+        {
+          "word": "act",
+          "count": 212
+        },
+        {
+          "word": "balance",
+          "count": 178
+        },
+        {
+          "word": "fee",
+          "count": 131
+        },
+        {
+          "word": "card",
+          "count": 117
+        },
+        {
+          "word": "account",
+          "count": 115
+        },
+        {
+          "word": "issuer",
+          "count": 112
+        },
+        {
+          "word": "payment",
+          "count": 110
+        },
+        {
+          "word": "credit",
+          "count": 104
+        },
+        {
+          "word": "consumer",
+          "count": 95
+        },
+        {
+          "word": "section",
+          "count": 92
+        },
+        {
+          "word": "rule",
+          "count": 88
+        },
+        {
+          "word": "increase",
+          "count": 85
+        },
+        {
+          "word": "cardholder",
+          "count": 81
+        },
+        {
+          "word": "limit",
+          "count": 78
+        },
+        {
+          "word": "statute",
+          "count": 75
+        },
+        {
+          "word": "required",
+          "count": 73
+        },
+        {
+          "word": "cycle",
+          "count": 69
+        },
+        {
+          "word": "date",
+          "count": 61
+        },
+        {
+          "word": "interest",
+          "count": 61
         }
       ]
     },
@@ -152757,6 +153967,24 @@
           "count": 40
         }
       ]
+    },
+    {
+      "filename": "2019-01-01-consumer-credit-law-impact.md",
+      "slug": "consumer-credit-law-impact",
+      "title": "What Consumer Credit Law Changed: The Evidence Record",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13036,
+      "topWord": "credit",
+      "topCount": 194,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-01-01-consumer-credit-law-impact.md"
     },
     {
       "filename": "2019-01-01-scream-craven-meta-horror-revival.md",
@@ -153125,6 +154353,112 @@
         {
           "word": "surveillance",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2019-01-15-ftc-consumer-protection-rulemaking.md",
+      "slug": "ftc-consumer-protection-rulemaking",
+      "title": "How the FTC Writes Consumer Rules: Process and Enforcement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11689,
+      "topWord": "commission",
+      "topCount": 285,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-01-15-ftc-consumer-protection-rulemaking.md",
+      "flaggedWords": [
+        {
+          "word": "commission",
+          "count": 285
+        }
+      ],
+      "top20": [
+        {
+          "word": "commission",
+          "count": 285
+        },
+        {
+          "word": "section",
+          "count": 186
+        },
+        {
+          "word": "rule",
+          "count": 119
+        },
+        {
+          "word": "practice",
+          "count": 111
+        },
+        {
+          "word": "court",
+          "count": 111
+        },
+        {
+          "word": "federal",
+          "count": 107
+        },
+        {
+          "word": "act",
+          "count": 92
+        },
+        {
+          "word": "trade",
+          "count": 91
+        },
+        {
+          "word": "consumer",
+          "count": 90
+        },
+        {
+          "word": "rulemaking",
+          "count": 83
+        },
+        {
+          "word": "consumers",
+          "count": 82
+        },
+        {
+          "word": "standard",
+          "count": 70
+        },
+        {
+          "word": "congress",
+          "count": 66
+        },
+        {
+          "word": "agency",
+          "count": 65
+        },
+        {
+          "word": "statement",
+          "count": 65
+        },
+        {
+          "word": "unfair",
+          "count": 63
+        },
+        {
+          "word": "conduct",
+          "count": 61
+        },
+        {
+          "word": "practices",
+          "count": 56
+        },
+        {
+          "word": "deceptive",
+          "count": 53
+        },
+        {
+          "word": "authority",
+          "count": 52
         }
       ]
     },
@@ -153707,6 +155041,112 @@
       ]
     },
     {
+      "filename": "2019-02-01-federal-vs-state-consumer-protection.md",
+      "slug": "federal-vs-state-consumer-protection",
+      "title": "Federal vs State Consumer Protection: Which Law Applies",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13107,
+      "topWord": "federal",
+      "topCount": 297,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-02-01-federal-vs-state-consumer-protection.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 297
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 297
+        },
+        {
+          "word": "consumer",
+          "count": 245
+        },
+        {
+          "word": "law",
+          "count": 224
+        },
+        {
+          "word": "act",
+          "count": 156
+        },
+        {
+          "word": "section",
+          "count": 133
+        },
+        {
+          "word": "arbitration",
+          "count": 124
+        },
+        {
+          "word": "statute",
+          "count": 115
+        },
+        {
+          "word": "protection",
+          "count": 113
+        },
+        {
+          "word": "private",
+          "count": 98
+        },
+        {
+          "word": "general",
+          "count": 97
+        },
+        {
+          "word": "court",
+          "count": 88
+        },
+        {
+          "word": "damages",
+          "count": 87
+        },
+        {
+          "word": "enforcement",
+          "count": 86
+        },
+        {
+          "word": "class",
+          "count": 84
+        },
+        {
+          "word": "action",
+          "count": 82
+        },
+        {
+          "word": "claim",
+          "count": 81
+        },
+        {
+          "word": "statutes",
+          "count": 76
+        },
+        {
+          "word": "commission",
+          "count": 76
+        },
+        {
+          "word": "credit",
+          "count": 75
+        },
+        {
+          "word": "deceptive",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2019-02-04-us-drone-program-pakistan.md",
       "slug": "us-drone-program-pakistan",
       "title": "US Drone Program in Pakistan",
@@ -154069,6 +155509,24 @@
       ]
     },
     {
+      "filename": "2019-02-15-us-consumer-protection-law-history.md",
+      "slug": "us-consumer-protection-law-history",
+      "title": "US Consumer Protection Law: Protection by Industry",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13749,
+      "topWord": "act",
+      "topCount": 246,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-02-15-us-consumer-protection-law-history.md"
+    },
+    {
       "filename": "2019-02-16-harvard-hbs-accommodation-mba-guide.md",
       "slug": "harvard-hbs-accommodation-mba-guide",
       "title": "Harvard HBS Accommodation - MBA Housing Guide",
@@ -154415,6 +155873,24 @@
           "count": 29
         }
       ]
+    },
+    {
+      "filename": "2019-03-01-post-911-gi-bill-2008-guide.md",
+      "slug": "post-911-gi-bill-2008-guide",
+      "title": "Post-9/11 GI Bill: Complete Guide to Benefits and Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13174,
+      "topWord": "service",
+      "topCount": 247,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-01-post-911-gi-bill-2008-guide.md"
     },
     {
       "filename": "2019-03-01-usual-suspects-se7en-twist-thriller.md",
@@ -154991,6 +156467,24 @@
           "count": 22
         }
       ]
+    },
+    {
+      "filename": "2019-03-15-montgomery-gi-bill-1984-guide.md",
+      "slug": "montgomery-gi-bill-1984-guide",
+      "title": "Montgomery GI Bill: The Benefit Members Pay to Earn",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12085,
+      "topWord": "program",
+      "topCount": 209,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-15-montgomery-gi-bill-1984-guide.md"
     },
     {
       "filename": "2019-03-18-raw-bangladesh-1971.md",
@@ -155587,6 +157081,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-01-raw-sikkim-annexation-1975.md"
     },
     {
+      "filename": "2019-04-01-veterans-choice-act-2014-guide.md",
+      "slug": "veterans-choice-act-2014-guide",
+      "title": "Veterans Choice Act: Access, Accountability, and Care",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11374,
+      "topWord": "department",
+      "topCount": 260,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-01-veterans-choice-act-2014-guide.md",
+      "flaggedWords": [
+        {
+          "word": "department",
+          "count": 260
+        },
+        {
+          "word": "care",
+          "count": 252
+        }
+      ],
+      "top20": [
+        {
+          "word": "department",
+          "count": 260
+        },
+        {
+          "word": "care",
+          "count": 252
+        },
+        {
+          "word": "veterans",
+          "count": 221
+        },
+        {
+          "word": "section",
+          "count": 152
+        },
+        {
+          "word": "choice",
+          "count": 127
+        },
+        {
+          "word": "program",
+          "count": 118
+        },
+        {
+          "word": "veteran",
+          "count": 101
+        },
+        {
+          "word": "act",
+          "count": 99
+        },
+        {
+          "word": "health",
+          "count": 71
+        },
+        {
+          "word": "distance",
+          "count": 67
+        },
+        {
+          "word": "secretary",
+          "count": 60
+        },
+        {
+          "word": "facility",
+          "count": 59
+        },
+        {
+          "word": "service",
+          "count": 58
+        },
+        {
+          "word": "fund",
+          "count": 56
+        },
+        {
+          "word": "eligibility",
+          "count": 54
+        },
+        {
+          "word": "statute",
+          "count": 52
+        },
+        {
+          "word": "dollars",
+          "count": 52
+        },
+        {
+          "word": "congress",
+          "count": 50
+        },
+        {
+          "word": "title",
+          "count": 50
+        },
+        {
+          "word": "community",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2019-04-05-harvard-accommodation-costs-breakdown.md",
       "slug": "harvard-accommodation-costs-breakdown",
       "title": "Harvard Accommodation Costs - Complete Breakdown",
@@ -155937,6 +157541,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2019-04-15-pact-act-2022-guide.md",
+      "slug": "pact-act-2022-guide",
+      "title": "The PACT Act Explained: Toxic Exposure Presumptions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12916,
+      "topWord": "veterans",
+      "topCount": 232,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-15-pact-act-2022-guide.md"
     },
     {
       "filename": "2019-04-15-targeted-killing-legal-debate.md",
@@ -156441,6 +158063,116 @@
       ]
     },
     {
+      "filename": "2019-05-01-va-mission-act-2018-guide.md",
+      "slug": "va-mission-act-2018-guide",
+      "title": "VA MISSION Act of 2018: Community Care and Caregivers Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13241,
+      "topWord": "care",
+      "topCount": 458,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-01-va-mission-act-2018-guide.md",
+      "flaggedWords": [
+        {
+          "word": "care",
+          "count": 458
+        },
+        {
+          "word": "department",
+          "count": 292
+        }
+      ],
+      "top20": [
+        {
+          "word": "care",
+          "count": 458
+        },
+        {
+          "word": "department",
+          "count": 292
+        },
+        {
+          "word": "veterans",
+          "count": 217
+        },
+        {
+          "word": "program",
+          "count": 184
+        },
+        {
+          "word": "veteran",
+          "count": 167
+        },
+        {
+          "word": "community",
+          "count": 147
+        },
+        {
+          "word": "section",
+          "count": 139
+        },
+        {
+          "word": "act",
+          "count": 116
+        },
+        {
+          "word": "service",
+          "count": 98
+        },
+        {
+          "word": "choice",
+          "count": 96
+        },
+        {
+          "word": "facility",
+          "count": 89
+        },
+        {
+          "word": "medical",
+          "count": 87
+        },
+        {
+          "word": "statute",
+          "count": 83
+        },
+        {
+          "word": "standards",
+          "count": 82
+        },
+        {
+          "word": "secretary",
+          "count": 78
+        },
+        {
+          "word": "health",
+          "count": 77
+        },
+        {
+          "word": "eligibility",
+          "count": 74
+        },
+        {
+          "word": "title",
+          "count": 72
+        },
+        {
+          "word": "access",
+          "count": 70
+        },
+        {
+          "word": "mission",
+          "count": 65
+        }
+      ]
+    },
+    {
       "filename": "2019-05-06-us-extraordinary-rendition.md",
       "slug": "us-extraordinary-rendition",
       "title": "US Extraordinary Rendition Program",
@@ -156887,6 +158619,116 @@
         {
           "word": "environment",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2019-05-15-va-disability-compensation-law.md",
+      "slug": "va-disability-compensation-law",
+      "title": "VA Disability Compensation Law: Elements, Ratings and Pay",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10503,
+      "topWord": "service",
+      "topCount": 302,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-15-va-disability-compensation-law.md",
+      "flaggedWords": [
+        {
+          "word": "service",
+          "count": 302
+        },
+        {
+          "word": "disability",
+          "count": 245
+        }
+      ],
+      "top20": [
+        {
+          "word": "service",
+          "count": 302
+        },
+        {
+          "word": "disability",
+          "count": 245
+        },
+        {
+          "word": "section",
+          "count": 151
+        },
+        {
+          "word": "evidence",
+          "count": 134
+        },
+        {
+          "word": "disease",
+          "count": 111
+        },
+        {
+          "word": "claim",
+          "count": 107
+        },
+        {
+          "word": "percent",
+          "count": 95
+        },
+        {
+          "word": "claimant",
+          "count": 92
+        },
+        {
+          "word": "condition",
+          "count": 92
+        },
+        {
+          "word": "medical",
+          "count": 73
+        },
+        {
+          "word": "compensation",
+          "count": 70
+        },
+        {
+          "word": "connected",
+          "count": 67
+        },
+        {
+          "word": "rating",
+          "count": 61
+        },
+        {
+          "word": "injury",
+          "count": 58
+        },
+        {
+          "word": "records",
+          "count": 58
+        },
+        {
+          "word": "title",
+          "count": 57
+        },
+        {
+          "word": "veterans",
+          "count": 55
+        },
+        {
+          "word": "evaluation",
+          "count": 54
+        },
+        {
+          "word": "rule",
+          "count": 52
+        },
+        {
+          "word": "department",
+          "count": 51
         }
       ]
     },
@@ -157447,6 +159289,112 @@
       ]
     },
     {
+      "filename": "2019-06-01-gi-bill-education-outcomes.md",
+      "slug": "gi-bill-education-outcomes",
+      "title": "GI Bill Education Outcomes: What the Evidence Shows",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11926,
+      "topWord": "veterans",
+      "topCount": 297,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-01-gi-bill-education-outcomes.md",
+      "flaggedWords": [
+        {
+          "word": "veterans",
+          "count": 297
+        }
+      ],
+      "top20": [
+        {
+          "word": "veterans",
+          "count": 297
+        },
+        {
+          "word": "black",
+          "count": 130
+        },
+        {
+          "word": "benefit",
+          "count": 129
+        },
+        {
+          "word": "percent",
+          "count": 122
+        },
+        {
+          "word": "college",
+          "count": 108
+        },
+        {
+          "word": "institutions",
+          "count": 104
+        },
+        {
+          "word": "education",
+          "count": 103
+        },
+        {
+          "word": "service",
+          "count": 102
+        },
+        {
+          "word": "bill",
+          "count": 93
+        },
+        {
+          "word": "south",
+          "count": 91
+        },
+        {
+          "word": "veteran",
+          "count": 87
+        },
+        {
+          "word": "gi",
+          "count": 87
+        },
+        {
+          "word": "bound",
+          "count": 86
+        },
+        {
+          "word": "benefits",
+          "count": 85
+        },
+        {
+          "word": "turner",
+          "count": 84
+        },
+        {
+          "word": "attainment",
+          "count": 72
+        },
+        {
+          "word": "reported",
+          "count": 71
+        },
+        {
+          "word": "enrollment",
+          "count": 70
+        },
+        {
+          "word": "student",
+          "count": 66
+        },
+        {
+          "word": "dollars",
+          "count": 65
+        }
+      ]
+    },
+    {
       "filename": "2019-06-03-cold-war-spy-assassinations.md",
       "slug": "cold-war-spy-assassinations",
       "title": "Cold War Spy Assassinations Ranked",
@@ -157623,6 +159571,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-15-schindlers-list-spielberg-holocaust.md"
+    },
+    {
+      "filename": "2019-06-15-va-claims-process-law.md",
+      "slug": "va-claims-process-law",
+      "title": "How VA Claims Law Is Administered: Process and Review",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11872,
+      "topWord": "claim",
+      "topCount": 210,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-15-va-claims-process-law.md"
     },
     {
       "filename": "2019-06-16-oxford-accommodation-freshers-what-to-expect.md",
@@ -158007,6 +159973,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2019-07-01-montgomery-vs-post-911-gi-bill.md",
+      "slug": "montgomery-vs-post-911-gi-bill",
+      "title": "Montgomery vs Post-9/11 GI Bill: Which One Pays More",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11251,
+      "topWord": "chapter",
+      "topCount": 202,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-01-montgomery-vs-post-911-gi-bill.md"
     },
     {
       "filename": "2019-07-02-oxford-accommodation-international-students.md",
@@ -158453,6 +160437,112 @@
       ]
     },
     {
+      "filename": "2019-07-15-us-veterans-legislation-history.md",
+      "slug": "us-veterans-legislation-history",
+      "title": "US Veterans Legislation: Benefits, Rights and Reform",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12930,
+      "topWord": "veterans",
+      "topCount": 333,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-15-us-veterans-legislation-history.md",
+      "flaggedWords": [
+        {
+          "word": "veterans",
+          "count": 333
+        }
+      ],
+      "top20": [
+        {
+          "word": "veterans",
+          "count": 333
+        },
+        {
+          "word": "service",
+          "count": 169
+        },
+        {
+          "word": "act",
+          "count": 143
+        },
+        {
+          "word": "law",
+          "count": 130
+        },
+        {
+          "word": "statute",
+          "count": 112
+        },
+        {
+          "word": "care",
+          "count": 106
+        },
+        {
+          "word": "benefits",
+          "count": 94
+        },
+        {
+          "word": "public",
+          "count": 88
+        },
+        {
+          "word": "veteran",
+          "count": 87
+        },
+        {
+          "word": "program",
+          "count": 76
+        },
+        {
+          "word": "secretary",
+          "count": 70
+        },
+        {
+          "word": "congress",
+          "count": 69
+        },
+        {
+          "word": "education",
+          "count": 69
+        },
+        {
+          "word": "benefit",
+          "count": 69
+        },
+        {
+          "word": "department",
+          "count": 69
+        },
+        {
+          "word": "title",
+          "count": 58
+        },
+        {
+          "word": "war",
+          "count": 57
+        },
+        {
+          "word": "eligibility",
+          "count": 57
+        },
+        {
+          "word": "health",
+          "count": 56
+        },
+        {
+          "word": "claim",
+          "count": 53
+        }
+      ]
+    },
+    {
       "filename": "2019-07-15-women-in-intelligence-operations.md",
       "slug": "women-in-intelligence-operations",
       "title": "Women in Intelligence Operations",
@@ -158765,6 +160855,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2019-08-01-welfare-reform-act-1996-guide.md",
+      "slug": "welfare-reform-act-1996-guide",
+      "title": "Welfare Reform Act: How One Sentence Ended the Entitlement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12560,
+      "topWord": "assistance",
+      "topCount": 183,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-01-welfare-reform-act-1996-guide.md"
     },
     {
       "filename": "2019-08-03-oxford-college-accommodation-ranking.md",
@@ -159127,6 +161235,24 @@
       ]
     },
     {
+      "filename": "2019-08-15-economic-opportunity-act-1964-guide.md",
+      "slug": "economic-opportunity-act-1964-guide",
+      "title": "Economic Opportunity Act: The War on Poverty Statute",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13364,
+      "topWord": "community",
+      "topCount": 198,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-15-economic-opportunity-act-1964-guide.md"
+    },
+    {
       "filename": "2019-08-16-tcs-nqt-mock-test.md",
       "slug": "tcs-nqt-mock-test",
       "title": "TCS NQT Mock Tests - Practice Resources",
@@ -159485,6 +161611,112 @@
         {
           "word": "associates",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2019-09-01-food-stamp-act-1964-snap-history.md",
+      "slug": "food-stamp-act-1964-snap-history",
+      "title": "Food Stamp Act Guide: Purchase Rule to SNAP Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12413,
+      "topWord": "food",
+      "topCount": 335,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-01-food-stamp-act-1964-snap-history.md",
+      "flaggedWords": [
+        {
+          "word": "food",
+          "count": 335
+        }
+      ],
+      "top20": [
+        {
+          "word": "food",
+          "count": 335
+        },
+        {
+          "word": "program",
+          "count": 169
+        },
+        {
+          "word": "act",
+          "count": 138
+        },
+        {
+          "word": "nutrition",
+          "count": 132
+        },
+        {
+          "word": "stamp",
+          "count": 118
+        },
+        {
+          "word": "federal",
+          "count": 112
+        },
+        {
+          "word": "household",
+          "count": 111
+        },
+        {
+          "word": "agriculture",
+          "count": 108
+        },
+        {
+          "word": "households",
+          "count": 100
+        },
+        {
+          "word": "fiscal",
+          "count": 93
+        },
+        {
+          "word": "farm",
+          "count": 91
+        },
+        {
+          "word": "bill",
+          "count": 83
+        },
+        {
+          "word": "service",
+          "count": 78
+        },
+        {
+          "word": "income",
+          "count": 72
+        },
+        {
+          "word": "eligibility",
+          "count": 68
+        },
+        {
+          "word": "assistance",
+          "count": 66
+        },
+        {
+          "word": "benefit",
+          "count": 66
+        },
+        {
+          "word": "law",
+          "count": 61
+        },
+        {
+          "word": "department",
+          "count": 59
+        },
+        {
+          "word": "purchase",
+          "count": 57
         }
       ]
     },
@@ -160077,6 +162309,112 @@
       ]
     },
     {
+      "filename": "2019-09-15-child-nutrition-act-1966-guide.md",
+      "slug": "child-nutrition-act-1966-guide",
+      "title": "Child Nutrition Act: School Meals, WIC, and the Money",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13162,
+      "topWord": "school",
+      "topCount": 313,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-15-child-nutrition-act-1966-guide.md",
+      "flaggedWords": [
+        {
+          "word": "school",
+          "count": 313
+        }
+      ],
+      "top20": [
+        {
+          "word": "school",
+          "count": 313
+        },
+        {
+          "word": "program",
+          "count": 250
+        },
+        {
+          "word": "child",
+          "count": 171
+        },
+        {
+          "word": "act",
+          "count": 161
+        },
+        {
+          "word": "lunch",
+          "count": 153
+        },
+        {
+          "word": "food",
+          "count": 148
+        },
+        {
+          "word": "nutrition",
+          "count": 144
+        },
+        {
+          "word": "service",
+          "count": 141
+        },
+        {
+          "word": "children",
+          "count": 138
+        },
+        {
+          "word": "federal",
+          "count": 132
+        },
+        {
+          "word": "schools",
+          "count": 116
+        },
+        {
+          "word": "meals",
+          "count": 108
+        },
+        {
+          "word": "meal",
+          "count": 102
+        },
+        {
+          "word": "section",
+          "count": 93
+        },
+        {
+          "word": "free",
+          "count": 91
+        },
+        {
+          "word": "assistance",
+          "count": 80
+        },
+        {
+          "word": "eligibility",
+          "count": 79
+        },
+        {
+          "word": "law",
+          "count": 79
+        },
+        {
+          "word": "percent",
+          "count": 79
+        },
+        {
+          "word": "programs",
+          "count": 76
+        }
+      ]
+    },
+    {
       "filename": "2019-09-16-pathankot-2016-turning-point.md",
       "slug": "pathankot-2016-turning-point",
       "title": "Pathankot 2016 the Turning Point",
@@ -160275,6 +162613,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-01-heat-casino-1995-crime-epics.md"
+    },
+    {
+      "filename": "2019-10-01-tanf-block-grant-structure.md",
+      "slug": "tanf-block-grant-structure",
+      "title": "How the TANF Block Grant Is Written: Purposes and Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11988,
+      "topWord": "assistance",
+      "topCount": 228,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-01-tanf-block-grant-structure.md"
     },
     {
       "filename": "2019-10-06-tcs-accommodation-indore.md",
@@ -160637,6 +162993,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2019-10-15-welfare-reform-1996-outcomes.md",
+      "slug": "welfare-reform-1996-outcomes",
+      "title": "What Welfare Reform Actually Did: Evidence and Outcomes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12147,
+      "topWord": "families",
+      "topCount": 224,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-15-welfare-reform-1996-outcomes.md"
     },
     {
       "filename": "2019-10-18-tcs-nqt-results-2023.md",
@@ -161089,6 +163463,116 @@
       ]
     },
     {
+      "filename": "2019-11-01-chip-1997-guide.md",
+      "slug": "chip-1997-guide",
+      "title": "Children's Health Insurance Program Explained in Full",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13793,
+      "topWord": "children",
+      "topCount": 297,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-11-01-chip-1997-guide.md",
+      "flaggedWords": [
+        {
+          "word": "children",
+          "count": 297
+        },
+        {
+          "word": "program",
+          "count": 284
+        }
+      ],
+      "top20": [
+        {
+          "word": "children",
+          "count": 297
+        },
+        {
+          "word": "program",
+          "count": 284
+        },
+        {
+          "word": "federal",
+          "count": 254
+        },
+        {
+          "word": "coverage",
+          "count": 238
+        },
+        {
+          "word": "medicaid",
+          "count": 195
+        },
+        {
+          "word": "states",
+          "count": 153
+        },
+        {
+          "word": "health",
+          "count": 152
+        },
+        {
+          "word": "percent",
+          "count": 138
+        },
+        {
+          "word": "child",
+          "count": 128
+        },
+        {
+          "word": "income",
+          "count": 97
+        },
+        {
+          "word": "law",
+          "count": 95
+        },
+        {
+          "word": "enrollment",
+          "count": 93
+        },
+        {
+          "word": "title",
+          "count": 85
+        },
+        {
+          "word": "allotment",
+          "count": 79
+        },
+        {
+          "word": "act",
+          "count": 78
+        },
+        {
+          "word": "xxi",
+          "count": 71
+        },
+        {
+          "word": "families",
+          "count": 71
+        },
+        {
+          "word": "entitlement",
+          "count": 70
+        },
+        {
+          "word": "funding",
+          "count": 68
+        },
+        {
+          "word": "budget",
+          "count": 64
+        }
+      ]
+    },
+    {
       "filename": "2019-11-04-us-canada-pannun-nijjar.md",
       "slug": "us-canada-pannun-nijjar",
       "title": "US Canada Pannun Nijjar Allegations",
@@ -161427,6 +163911,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-11-11-pahalgam-2025-trigger-event.md"
+    },
+    {
+      "filename": "2019-11-15-afdc-vs-tanf-welfare-models.md",
+      "slug": "afdc-vs-tanf-welfare-models",
+      "title": "AFDC vs TANF: Entitlement Versus Block Grant, Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13833,
+      "topWord": "federal",
+      "topCount": 359,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-11-15-afdc-vs-tanf-welfare-models.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 359
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 359
+        },
+        {
+          "word": "program",
+          "count": 186
+        },
+        {
+          "word": "grant",
+          "count": 180
+        },
+        {
+          "word": "assistance",
+          "count": 161
+        },
+        {
+          "word": "families",
+          "count": 140
+        },
+        {
+          "word": "states",
+          "count": 124
+        },
+        {
+          "word": "entitlement",
+          "count": 117
+        },
+        {
+          "word": "family",
+          "count": 106
+        },
+        {
+          "word": "afdc",
+          "count": 98
+        },
+        {
+          "word": "fixed",
+          "count": 93
+        },
+        {
+          "word": "tanf",
+          "count": 85
+        },
+        {
+          "word": "matching",
+          "count": 81
+        },
+        {
+          "word": "caseload",
+          "count": 77
+        },
+        {
+          "word": "block",
+          "count": 75
+        },
+        {
+          "word": "eligibility",
+          "count": 73
+        },
+        {
+          "word": "percent",
+          "count": 69
+        },
+        {
+          "word": "structure",
+          "count": 68
+        },
+        {
+          "word": "dollars",
+          "count": 68
+        },
+        {
+          "word": "benefit",
+          "count": 67
+        },
+        {
+          "word": "aid",
+          "count": 65
+        }
+      ]
     },
     {
       "filename": "2019-11-15-tcs-accommodation-gandhinagar.md",
@@ -162003,6 +164593,24 @@
       ]
     },
     {
+      "filename": "2019-12-01-snap-administration-law.md",
+      "slug": "snap-administration-law",
+      "title": "SNAP Administration: How Benefits Are Calculated and Paid",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 14753,
+      "topWord": "household",
+      "topCount": 289,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-12-01-snap-administration-law.md"
+    },
+    {
       "filename": "2019-12-01-tcs-accommodation-bhubaneswar.md",
       "slug": "tcs-accommodation-bhubaneswar",
       "title": "TCS Accommodation Bhubaneswar - Complete Hostel and Housing Guide",
@@ -162451,6 +165059,24 @@
           "count": 27
         }
       ]
+    },
+    {
+      "filename": "2019-12-15-welfare-reform-myths.md",
+      "slug": "welfare-reform-myths",
+      "title": "Welfare Reform Myths: Eight Claims Tested Against Evidence",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12321,
+      "topWord": "assistance",
+      "topCount": 224,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-12-15-welfare-reform-myths.md"
     },
     {
       "filename": "2019-12-16-what-comes-next-shadow-war.md",
@@ -162917,6 +165543,112 @@
         {
           "word": "keeps",
           "count": 26
+        }
+      ]
+    },
+    {
+      "filename": "2020-01-01-congressional-budget-act-1974-guide.md",
+      "slug": "congressional-budget-act-1974-guide",
+      "title": "Congressional Budget Act Explained: How Congress Budgets",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12759,
+      "topWord": "budget",
+      "topCount": 323,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-01-01-congressional-budget-act-1974-guide.md",
+      "flaggedWords": [
+        {
+          "word": "budget",
+          "count": 323
+        }
+      ],
+      "top20": [
+        {
+          "word": "budget",
+          "count": 323
+        },
+        {
+          "word": "fiscal",
+          "count": 201
+        },
+        {
+          "word": "resolution",
+          "count": 174
+        },
+        {
+          "word": "congressional",
+          "count": 164
+        },
+        {
+          "word": "act",
+          "count": 151
+        },
+        {
+          "word": "congress",
+          "count": 150
+        },
+        {
+          "word": "committee",
+          "count": 129
+        },
+        {
+          "word": "law",
+          "count": 100
+        },
+        {
+          "word": "enacted",
+          "count": 100
+        },
+        {
+          "word": "office",
+          "count": 98
+        },
+        {
+          "word": "president",
+          "count": 96
+        },
+        {
+          "word": "committees",
+          "count": 95
+        },
+        {
+          "word": "bill",
+          "count": 92
+        },
+        {
+          "word": "statute",
+          "count": 87
+        },
+        {
+          "word": "appropriations",
+          "count": 85
+        },
+        {
+          "word": "authority",
+          "count": 85
+        },
+        {
+          "word": "spending",
+          "count": 79
+        },
+        {
+          "word": "title",
+          "count": 68
+        },
+        {
+          "word": "section",
+          "count": 65
+        },
+        {
+          "word": "senate",
+          "count": 60
         }
       ]
     },
@@ -165345,6 +168077,24 @@
       ]
     },
     {
+      "filename": "2020-04-01-debt-ceiling-law-explained.md",
+      "slug": "debt-ceiling-law-explained",
+      "title": "The Debt Ceiling Explained: Law, Limits and Practice",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10977,
+      "topWord": "borrowing",
+      "topCount": 180,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-01-debt-ceiling-law-explained.md"
+    },
+    {
       "filename": "2020-04-01-how-to-stop-robert-lewandowski.md",
       "slug": "how-to-stop-robert-lewandowski",
       "title": "How to Stop Robert Lewandowski",
@@ -165787,6 +168537,116 @@
         {
           "word": "axis",
           "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2020-04-15-budget-process-reform-impact.md",
+      "slug": "budget-process-reform-impact",
+      "title": "Budget Process Reform: Did the Rules Control Spending?",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11179,
+      "topWord": "fiscal",
+      "topCount": 412,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-15-budget-process-reform-impact.md",
+      "flaggedWords": [
+        {
+          "word": "fiscal",
+          "count": 412
+        },
+        {
+          "word": "budget",
+          "count": 335
+        }
+      ],
+      "top20": [
+        {
+          "word": "fiscal",
+          "count": 412
+        },
+        {
+          "word": "budget",
+          "count": 335
+        },
+        {
+          "word": "office",
+          "count": 167
+        },
+        {
+          "word": "congressional",
+          "count": 161
+        },
+        {
+          "word": "act",
+          "count": 146
+        },
+        {
+          "word": "percent",
+          "count": 127
+        },
+        {
+          "word": "enacted",
+          "count": 99
+        },
+        {
+          "word": "spending",
+          "count": 93
+        },
+        {
+          "word": "dollars",
+          "count": 89
+        },
+        {
+          "word": "billion",
+          "count": 83
+        },
+        {
+          "word": "law",
+          "count": 82
+        },
+        {
+          "word": "caps",
+          "count": 81
+        },
+        {
+          "word": "discretionary",
+          "count": 79
+        },
+        {
+          "word": "public",
+          "count": 79
+        },
+        {
+          "word": "record",
+          "count": 78
+        },
+        {
+          "word": "deficit",
+          "count": 77
+        },
+        {
+          "word": "domestic",
+          "count": 75
+        },
+        {
+          "word": "appropriations",
+          "count": 73
+        },
+        {
+          "word": "product",
+          "count": 71
+        },
+        {
+          "word": "recorded",
+          "count": 70
         }
       ]
     },
@@ -166367,6 +169227,24 @@
       ]
     },
     {
+      "filename": "2020-05-01-sequestration-vs-paygo.md",
+      "slug": "sequestration-vs-paygo",
+      "title": "Sequestration vs PAYGO: Rule, Remedy, and Enforcement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10549,
+      "topWord": "budget",
+      "topCount": 158,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-01-sequestration-vs-paygo.md"
+    },
+    {
       "filename": "2020-05-07-sat-khan-academy-complete-usage-guide.md",
       "slug": "sat-khan-academy-complete-usage-guide",
       "title": "SAT Khan Academy: How to Use It for Maximum Score Improvement",
@@ -166813,6 +169691,24 @@
           "count": 34
         }
       ]
+    },
+    {
+      "filename": "2020-05-15-how-cbo-scores-legislation.md",
+      "slug": "how-cbo-scores-legislation",
+      "title": "How CBO Scores a Bill: Baselines, Windows, and Estimates",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12297,
+      "topWord": "budget",
+      "topCount": 204,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-15-how-cbo-scores-legislation.md"
     },
     {
       "filename": "2020-05-20-is-tcs-nqt-exam-free.md",
@@ -167277,6 +170173,112 @@
       ]
     },
     {
+      "filename": "2020-06-01-trade-act-1974-complete-guide.md",
+      "slug": "trade-act-1974-complete-guide",
+      "title": "Trade Act of 1974: Complete Guide to Every Trade Tool",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13245,
+      "topWord": "trade",
+      "topCount": 323,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-01-trade-act-1974-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "trade",
+          "count": 323
+        }
+      ],
+      "top20": [
+        {
+          "word": "trade",
+          "count": 323
+        },
+        {
+          "word": "act",
+          "count": 161
+        },
+        {
+          "word": "authority",
+          "count": 132
+        },
+        {
+          "word": "congress",
+          "count": 128
+        },
+        {
+          "word": "section",
+          "count": 125
+        },
+        {
+          "word": "title",
+          "count": 99
+        },
+        {
+          "word": "states",
+          "count": 99
+        },
+        {
+          "word": "united",
+          "count": 97
+        },
+        {
+          "word": "statute",
+          "count": 95
+        },
+        {
+          "word": "congressional",
+          "count": 94
+        },
+        {
+          "word": "president",
+          "count": 92
+        },
+        {
+          "word": "law",
+          "count": 82
+        },
+        {
+          "word": "agreement",
+          "count": 77
+        },
+        {
+          "word": "research",
+          "count": 74
+        },
+        {
+          "word": "assistance",
+          "count": 65
+        },
+        {
+          "word": "service",
+          "count": 65
+        },
+        {
+          "word": "agreements",
+          "count": 61
+        },
+        {
+          "word": "foreign",
+          "count": 60
+        },
+        {
+          "word": "american",
+          "count": 58
+        },
+        {
+          "word": "public",
+          "count": 58
+        }
+      ]
+    },
+    {
       "filename": "2020-06-08-sat-score-benchmarks-by-college-tier.md",
       "slug": "sat-score-benchmarks-by-college-tier",
       "title": "SAT Score Benchmarks by College Tier and Major",
@@ -167603,6 +170605,112 @@
         {
           "word": "box",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2020-06-15-nafta-implementation-act-1993-guide.md",
+      "slug": "nafta-implementation-act-1993-guide",
+      "title": "NAFTA Implementation Act: How the Agreement Became Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 14682,
+      "topWord": "agreement",
+      "topCount": 322,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-15-nafta-implementation-act-1993-guide.md",
+      "flaggedWords": [
+        {
+          "word": "agreement",
+          "count": 322
+        }
+      ],
+      "top20": [
+        {
+          "word": "agreement",
+          "count": 322
+        },
+        {
+          "word": "states",
+          "count": 174
+        },
+        {
+          "word": "united",
+          "count": 172
+        },
+        {
+          "word": "trade",
+          "count": 140
+        },
+        {
+          "word": "law",
+          "count": 139
+        },
+        {
+          "word": "chapter",
+          "count": 128
+        },
+        {
+          "word": "mexico",
+          "count": 100
+        },
+        {
+          "word": "labor",
+          "count": 98
+        },
+        {
+          "word": "domestic",
+          "count": 93
+        },
+        {
+          "word": "american",
+          "count": 89
+        },
+        {
+          "word": "act",
+          "count": 79
+        },
+        {
+          "word": "bill",
+          "count": 78
+        },
+        {
+          "word": "text",
+          "count": 71
+        },
+        {
+          "word": "congress",
+          "count": 69
+        },
+        {
+          "word": "president",
+          "count": 69
+        },
+        {
+          "word": "canada",
+          "count": 69
+        },
+        {
+          "word": "signed",
+          "count": 64
+        },
+        {
+          "word": "agreements",
+          "count": 63
+        },
+        {
+          "word": "goods",
+          "count": 63
+        },
+        {
+          "word": "statute",
+          "count": 62
         }
       ]
     },
@@ -168073,6 +171181,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-01-lionel-messi-weaknesses-explained.md"
     },
     {
+      "filename": "2020-07-01-usmca-implementation-act-2020-guide.md",
+      "slug": "usmca-implementation-act-2020-guide",
+      "title": "USMCA Implementation Act: Protocol, Labor Rules, Sunset",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11816,
+      "topWord": "labor",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-01-usmca-implementation-act-2020-guide.md"
+    },
+    {
       "filename": "2020-07-02-sat-scores-for-merit-scholarships.md",
       "slug": "sat-scores-for-merit-scholarships",
       "title": "SAT Scores for Scholarships: How to Earn Merit-Based Financial Aid",
@@ -168305,6 +171431,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-13-interacting-with-enhanced-data-interpretations.md"
+    },
+    {
+      "filename": "2020-07-15-china-pntr-2000-guide.md",
+      "slug": "china-pntr-2000-guide",
+      "title": "Permanent Normal Trade Relations With China Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11321,
+      "topWord": "china",
+      "topCount": 211,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-15-china-pntr-2000-guide.md"
     },
     {
       "filename": "2020-07-15-defenders-who-stopped-messi.md",
@@ -168783,6 +171927,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-01-cristiano-ronaldo-tactical-profile.md"
     },
     {
+      "filename": "2020-08-01-trade-expansion-act-1962-guide.md",
+      "slug": "trade-expansion-act-1962-guide",
+      "title": "Trade Expansion Act of 1962: Section 232 and Kennedy Round",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12497,
+      "topWord": "trade",
+      "topCount": 157,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-01-trade-expansion-act-1962-guide.md"
+    },
+    {
       "filename": "2020-08-03-sat-guide-for-parents.md",
       "slug": "sat-guide-for-parents",
       "title": "SAT Guide for Parents: How to Support Your Child's Preparation",
@@ -169229,6 +172391,24 @@
       ]
     },
     {
+      "filename": "2020-08-15-trade-promotion-authority-explained.md",
+      "slug": "trade-promotion-authority-explained",
+      "title": "Trade Promotion Authority Explained: The Fast Track Bargain",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10540,
+      "topWord": "bill",
+      "topCount": 168,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-15-trade-promotion-authority-explained.md"
+    },
+    {
       "filename": "2020-08-19-sat-for-homeschooled-students.md",
       "slug": "sat-for-homeschooled-students",
       "title": "SAT for Homeschooled Students: Registration and Preparation Guide",
@@ -169589,6 +172769,24 @@
       ]
     },
     {
+      "filename": "2020-09-01-nafta-economic-impact.md",
+      "slug": "nafta-economic-impact",
+      "title": "NAFTA Employment Impact: Jobs, Wages, and the Evidence",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12410,
+      "topWord": "agreement",
+      "topCount": 233,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-09-01-nafta-economic-impact.md"
+    },
+    {
       "filename": "2020-09-04-sat-guide-for-chinese-students.md",
       "slug": "sat-guide-for-chinese-students",
       "title": "SAT Guide for Chinese Students: US College Prep",
@@ -169931,6 +173129,112 @@
         {
           "word": "plan",
           "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2020-09-15-nafta-vs-usmca-changes.md",
+      "slug": "nafta-vs-usmca-changes",
+      "title": "NAFTA vs USMCA: What Changed Between the Two Agreements",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12314,
+      "topWord": "agreement",
+      "topCount": 355,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-09-15-nafta-vs-usmca-changes.md",
+      "flaggedWords": [
+        {
+          "word": "agreement",
+          "count": 355
+        }
+      ],
+      "top20": [
+        {
+          "word": "agreement",
+          "count": 355
+        },
+        {
+          "word": "earlier",
+          "count": 127
+        },
+        {
+          "word": "successor",
+          "count": 123
+        },
+        {
+          "word": "text",
+          "count": 107
+        },
+        {
+          "word": "chapter",
+          "count": 100
+        },
+        {
+          "word": "labor",
+          "count": 97
+        },
+        {
+          "word": "trade",
+          "count": 91
+        },
+        {
+          "word": "review",
+          "count": 82
+        },
+        {
+          "word": "domestic",
+          "count": 82
+        },
+        {
+          "word": "states",
+          "count": 80
+        },
+        {
+          "word": "party",
+          "count": 74
+        },
+        {
+          "word": "united",
+          "count": 73
+        },
+        {
+          "word": "government",
+          "count": 71
+        },
+        {
+          "word": "value",
+          "count": 64
+        },
+        {
+          "word": "panel",
+          "count": 63
+        },
+        {
+          "word": "content",
+          "count": 61
+        },
+        {
+          "word": "percent",
+          "count": 61
+        },
+        {
+          "word": "enforcement",
+          "count": 59
+        },
+        {
+          "word": "canada",
+          "count": 59
+        },
+        {
+          "word": "force",
+          "count": 57
         }
       ]
     },
@@ -170591,6 +173895,24 @@
       ]
     },
     {
+      "filename": "2020-10-01-us-tariff-law-administration.md",
+      "slug": "us-tariff-law-administration",
+      "title": "US Tariff Law Administration: Agencies, Remedies, Review",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12066,
+      "topWord": "rate",
+      "topCount": 172,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-10-01-us-tariff-law-administration.md"
+    },
+    {
       "filename": "2020-10-06-sat-accommodations-extended-time-guide.md",
       "slug": "sat-accommodations-extended-time-guide",
       "title": "SAT Accommodations: Extended Time and Support Services Guide",
@@ -170939,6 +174261,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-10-15-training-to-contain-a-superstar.md"
     },
     {
+      "filename": "2020-10-15-us-trade-legislation-since-1950.md",
+      "slug": "us-trade-legislation-since-1950",
+      "title": "US Trade Legislation Across Seven Decades of Delegation",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13221,
+      "topWord": "trade",
+      "topCount": 386,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-10-15-us-trade-legislation-since-1950.md",
+      "flaggedWords": [
+        {
+          "word": "trade",
+          "count": 386
+        },
+        {
+          "word": "act",
+          "count": 306
+        }
+      ],
+      "top20": [
+        {
+          "word": "trade",
+          "count": 386
+        },
+        {
+          "word": "act",
+          "count": 306
+        },
+        {
+          "word": "congress",
+          "count": 211
+        },
+        {
+          "word": "authority",
+          "count": 170
+        },
+        {
+          "word": "agreement",
+          "count": 169
+        },
+        {
+          "word": "agreements",
+          "count": 151
+        },
+        {
+          "word": "section",
+          "count": 111
+        },
+        {
+          "word": "statute",
+          "count": 110
+        },
+        {
+          "word": "round",
+          "count": 102
+        },
+        {
+          "word": "nineteen",
+          "count": 96
+        },
+        {
+          "word": "president",
+          "count": 91
+        },
+        {
+          "word": "tariff",
+          "count": 86
+        },
+        {
+          "word": "negotiation",
+          "count": 82
+        },
+        {
+          "word": "grant",
+          "count": 78
+        },
+        {
+          "word": "executive",
+          "count": 71
+        },
+        {
+          "word": "negotiating",
+          "count": 69
+        },
+        {
+          "word": "law",
+          "count": 69
+        },
+        {
+          "word": "states",
+          "count": 67
+        },
+        {
+          "word": "multilateral",
+          "count": 65
+        },
+        {
+          "word": "delegation",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2020-10-21-can-i-appear-in-tcs-nqt.md",
       "slug": "can-i-appear-in-tcs-nqt",
       "title": "Can You Take TCS NQT? Eligibility Check",
@@ -171269,6 +174701,112 @@
         {
           "word": "check",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2020-11-01-farm-bill-history-and-structure.md",
+      "slug": "farm-bill-history-and-structure",
+      "title": "Farm Bill Explained: How the Omnibus Law Actually Works",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13720,
+      "topWord": "farm",
+      "topCount": 277,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-11-01-farm-bill-history-and-structure.md",
+      "flaggedWords": [
+        {
+          "word": "farm",
+          "count": 277
+        }
+      ],
+      "top20": [
+        {
+          "word": "farm",
+          "count": 277
+        },
+        {
+          "word": "bill",
+          "count": 272
+        },
+        {
+          "word": "act",
+          "count": 258
+        },
+        {
+          "word": "title",
+          "count": 157
+        },
+        {
+          "word": "nutrition",
+          "count": 150
+        },
+        {
+          "word": "program",
+          "count": 146
+        },
+        {
+          "word": "law",
+          "count": 145
+        },
+        {
+          "word": "commodity",
+          "count": 136
+        },
+        {
+          "word": "food",
+          "count": 128
+        },
+        {
+          "word": "agriculture",
+          "count": 116
+        },
+        {
+          "word": "programs",
+          "count": 115
+        },
+        {
+          "word": "assistance",
+          "count": 102
+        },
+        {
+          "word": "support",
+          "count": 101
+        },
+        {
+          "word": "permanent",
+          "count": 81
+        },
+        {
+          "word": "vehicle",
+          "count": 79
+        },
+        {
+          "word": "conservation",
+          "count": 77
+        },
+        {
+          "word": "agricultural",
+          "count": 75
+        },
+        {
+          "word": "congress",
+          "count": 72
+        },
+        {
+          "word": "combined",
+          "count": 72
+        },
+        {
+          "word": "titles",
+          "count": 71
         }
       ]
     },
@@ -171617,6 +175155,112 @@
         {
           "word": "concordance",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2020-11-15-food-safety-modernization-act-2011.md",
+      "slug": "food-safety-modernization-act-2011",
+      "title": "Food Safety Modernization Act of 2011: The Prevention Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11171,
+      "topWord": "food",
+      "topCount": 355,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-11-15-food-safety-modernization-act-2011.md",
+      "flaggedWords": [
+        {
+          "word": "food",
+          "count": 355
+        }
+      ],
+      "top20": [
+        {
+          "word": "food",
+          "count": 355
+        },
+        {
+          "word": "section",
+          "count": 146
+        },
+        {
+          "word": "safety",
+          "count": 114
+        },
+        {
+          "word": "act",
+          "count": 111
+        },
+        {
+          "word": "produce",
+          "count": 105
+        },
+        {
+          "word": "rule",
+          "count": 92
+        },
+        {
+          "word": "statute",
+          "count": 89
+        },
+        {
+          "word": "facility",
+          "count": 73
+        },
+        {
+          "word": "controls",
+          "count": 70
+        },
+        {
+          "word": "preventive",
+          "count": 67
+        },
+        {
+          "word": "facilities",
+          "count": 66
+        },
+        {
+          "word": "federal",
+          "count": 62
+        },
+        {
+          "word": "recall",
+          "count": 61
+        },
+        {
+          "word": "drug",
+          "count": 58
+        },
+        {
+          "word": "agency",
+          "count": 56
+        },
+        {
+          "word": "qualified",
+          "count": 56
+        },
+        {
+          "word": "verification",
+          "count": 53
+        },
+        {
+          "word": "inspection",
+          "count": 51
+        },
+        {
+          "word": "program",
+          "count": 51
+        },
+        {
+          "word": "plan",
+          "count": 50
         }
       ]
     },
@@ -172065,6 +175709,24 @@
       ]
     },
     {
+      "filename": "2020-12-01-agricultural-act-1949-permanent-law.md",
+      "slug": "agricultural-act-1949-permanent-law",
+      "title": "Agricultural Act of 1949: The Permanent Law Backstop",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12986,
+      "topWord": "farm",
+      "topCount": 250,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-12-01-agricultural-act-1949-permanent-law.md"
+    },
+    {
       "filename": "2020-12-01-casino-royale-skyfall-bond-reinvention.md",
       "slug": "casino-royale-skyfall-bond-reinvention",
       "title": "Casino Royale and Skyfall: Reinventing James Bond",
@@ -172411,6 +176073,24 @@
           "count": 35
         }
       ]
+    },
+    {
+      "filename": "2020-12-15-freedom-to-farm-act-1996-guide.md",
+      "slug": "freedom-to-farm-act-1996-guide",
+      "title": "Freedom to Farm Act of 1996: The Reform and Its Reversal",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12966,
+      "topWord": "payment",
+      "topCount": 257,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-12-15-freedom-to-farm-act-1996-guide.md"
     },
     {
       "filename": "2020-12-15-mad-max-fury-road-practical-production.md",
@@ -172963,6 +176643,24 @@
       ]
     },
     {
+      "filename": "2021-01-01-federal-crop-insurance-law.md",
+      "slug": "federal-crop-insurance-law",
+      "title": "How Federal Crop Insurance Law Works: Premiums and Risk",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13011,
+      "topWord": "insurance",
+      "topCount": 230,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-01-01-federal-crop-insurance-law.md"
+    },
+    {
       "filename": "2021-01-01-inception-nolan-auteur-analysis.md",
       "slug": "inception-nolan-auteur-analysis",
       "title": "Inception: Nolan's Auteur Vision Explained",
@@ -173397,6 +177095,24 @@
           "count": 42
         }
       ]
+    },
+    {
+      "filename": "2021-01-15-farm-subsidy-policy-impact.md",
+      "slug": "farm-subsidy-policy-impact",
+      "title": "Farm Subsidy Impact: Who Receives Payments and Land Effects",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13943,
+      "topWord": "payment",
+      "topCount": 246,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-01-15-farm-subsidy-policy-impact.md"
     },
     {
       "filename": "2021-01-15-stopping-andriy-shevchenko.md",
@@ -174069,6 +177785,112 @@
       ]
     },
     {
+      "filename": "2021-02-01-usda-food-safety-rulemaking.md",
+      "slug": "usda-food-safety-rulemaking",
+      "title": "USDA Food Safety Rules: How Inspection Law Really Works",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 14990,
+      "topWord": "inspection",
+      "topCount": 371,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-02-01-usda-food-safety-rulemaking.md",
+      "flaggedWords": [
+        {
+          "word": "inspection",
+          "count": 371
+        }
+      ],
+      "top20": [
+        {
+          "word": "inspection",
+          "count": 371
+        },
+        {
+          "word": "food",
+          "count": 280
+        },
+        {
+          "word": "product",
+          "count": 258
+        },
+        {
+          "word": "service",
+          "count": 187
+        },
+        {
+          "word": "federal",
+          "count": 144
+        },
+        {
+          "word": "meat",
+          "count": 138
+        },
+        {
+          "word": "establishment",
+          "count": 134
+        },
+        {
+          "word": "act",
+          "count": 127
+        },
+        {
+          "word": "safety",
+          "count": 117
+        },
+        {
+          "word": "products",
+          "count": 106
+        },
+        {
+          "word": "agency",
+          "count": 103
+        },
+        {
+          "word": "slaughter",
+          "count": 84
+        },
+        {
+          "word": "poultry",
+          "count": 84
+        },
+        {
+          "word": "drug",
+          "count": 83
+        },
+        {
+          "word": "establishments",
+          "count": 82
+        },
+        {
+          "word": "statute",
+          "count": 79
+        },
+        {
+          "word": "administration",
+          "count": 72
+        },
+        {
+          "word": "egg",
+          "count": 71
+        },
+        {
+          "word": "recall",
+          "count": 67
+        },
+        {
+          "word": "plant",
+          "count": 67
+        }
+      ]
+    },
+    {
       "filename": "2021-02-03-how-to-go-from-1200-to-1400-on-sat.md",
       "slug": "how-to-go-from-1200-to-1400-on-sat",
       "title": "How to Go from 1200 to 1400 on the SAT",
@@ -174413,6 +178235,112 @@
       ]
     },
     {
+      "filename": "2021-02-15-farm-bill-commodity-vs-nutrition.md",
+      "slug": "farm-bill-commodity-vs-nutrition",
+      "title": "Commodity Titles vs Nutrition Titles: Farm Bill Debate",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11499,
+      "topWord": "nutrition",
+      "topCount": 234,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-02-15-farm-bill-commodity-vs-nutrition.md",
+      "flaggedWords": [
+        {
+          "word": "nutrition",
+          "count": 234
+        }
+      ],
+      "top20": [
+        {
+          "word": "nutrition",
+          "count": 234
+        },
+        {
+          "word": "bill",
+          "count": 191
+        },
+        {
+          "word": "farm",
+          "count": 185
+        },
+        {
+          "word": "commodity",
+          "count": 134
+        },
+        {
+          "word": "fiscal",
+          "count": 122
+        },
+        {
+          "word": "title",
+          "count": 98
+        },
+        {
+          "word": "program",
+          "count": 90
+        },
+        {
+          "word": "congressional",
+          "count": 88
+        },
+        {
+          "word": "budget",
+          "count": 87
+        },
+        {
+          "word": "combined",
+          "count": 85
+        },
+        {
+          "word": "votes",
+          "count": 84
+        },
+        {
+          "word": "agriculture",
+          "count": 82
+        },
+        {
+          "word": "dollars",
+          "count": 82
+        },
+        {
+          "word": "act",
+          "count": 80
+        },
+        {
+          "word": "food",
+          "count": 76
+        },
+        {
+          "word": "billion",
+          "count": 74
+        },
+        {
+          "word": "assistance",
+          "count": 73
+        },
+        {
+          "word": "prices",
+          "count": 73
+        },
+        {
+          "word": "office",
+          "count": 72
+        },
+        {
+          "word": "baseline",
+          "count": 71
+        }
+      ]
+    },
+    {
       "filename": "2021-02-15-stopping-marco-van-basten.md",
       "slug": "stopping-marco-van-basten",
       "title": "How Defenders Stopped Marco van Basten",
@@ -174553,6 +178481,24 @@
           "count": 41
         }
       ]
+    },
+    {
+      "filename": "2021-03-01-organic-foods-production-act-1990.md",
+      "slug": "organic-foods-production-act-1990",
+      "title": "Organic Foods Production Act of 1990: A Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12260,
+      "topWord": "organic",
+      "topCount": 167,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-03-01-organic-foods-production-act-1990.md"
     },
     {
       "filename": "2021-03-01-stopping-gerd-muller.md",
@@ -174891,6 +178837,112 @@
         {
           "word": "format",
           "count": 28
+        }
+      ]
+    },
+    {
+      "filename": "2021-03-15-farm-bill-myths.md",
+      "slug": "farm-bill-myths",
+      "title": "Farm Bill Myths Examined: What the Record Supports",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12360,
+      "topWord": "farm",
+      "topCount": 294,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-03-15-farm-bill-myths.md",
+      "flaggedWords": [
+        {
+          "word": "farm",
+          "count": 294
+        }
+      ],
+      "top20": [
+        {
+          "word": "farm",
+          "count": 294
+        },
+        {
+          "word": "claim",
+          "count": 130
+        },
+        {
+          "word": "bill",
+          "count": 127
+        },
+        {
+          "word": "food",
+          "count": 117
+        },
+        {
+          "word": "act",
+          "count": 108
+        },
+        {
+          "word": "price",
+          "count": 100
+        },
+        {
+          "word": "percent",
+          "count": 100
+        },
+        {
+          "word": "support",
+          "count": 90
+        },
+        {
+          "word": "production",
+          "count": 88
+        },
+        {
+          "word": "title",
+          "count": 82
+        },
+        {
+          "word": "nutrition",
+          "count": 74
+        },
+        {
+          "word": "program",
+          "count": 74
+        },
+        {
+          "word": "payment",
+          "count": 73
+        },
+        {
+          "word": "record",
+          "count": 72
+        },
+        {
+          "word": "payments",
+          "count": 70
+        },
+        {
+          "word": "share",
+          "count": 68
+        },
+        {
+          "word": "commodity",
+          "count": 61
+        },
+        {
+          "word": "list",
+          "count": 61
+        },
+        {
+          "word": "research",
+          "count": 59
+        },
+        {
+          "word": "law",
+          "count": 59
         }
       ]
     },
@@ -175451,6 +179503,24 @@
       ]
     },
     {
+      "filename": "2021-04-01-gun-control-act-1968-complete-guide.md",
+      "slug": "gun-control-act-1968-complete-guide",
+      "title": "Gun Control Act of 1968: The Complete Federal Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12723,
+      "topWord": "section",
+      "topCount": 234,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-04-01-gun-control-act-1968-complete-guide.md"
+    },
+    {
       "filename": "2021-04-01-stopping-elite-wingers-complete-guide.md",
       "slug": "stopping-elite-wingers-complete-guide",
       "title": "Stopping Elite Wingers: The Complete Guide",
@@ -175573,6 +179643,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-04-08-sat-problem-solving-data-analysis-complete-guide.md"
+    },
+    {
+      "filename": "2021-04-15-brady-act-1993-guide.md",
+      "slug": "brady-act-1993-guide",
+      "title": "The Brady Act of 1993: Background Checks Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10916,
+      "topWord": "federal",
+      "topCount": 180,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-04-15-brady-act-1993-guide.md"
     },
     {
       "filename": "2021-04-15-hereditary-aster-elevated-horror.md",
@@ -175957,6 +180045,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2021-05-01-federal-assault-weapons-ban-1994.md",
+      "slug": "federal-assault-weapons-ban-1994",
+      "title": "The 1994 Federal Assault Weapons Ban: A Statute Profile",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12643,
+      "topWord": "section",
+      "topCount": 173,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-05-01-federal-assault-weapons-ban-1994.md"
     },
     {
       "filename": "2021-05-01-vinicius-junior-weaknesses-explained.md",
@@ -176525,6 +180631,24 @@
       ]
     },
     {
+      "filename": "2021-05-15-plcaa-2005-guide.md",
+      "slug": "plcaa-2005-guide",
+      "title": "PLCAA 2005 Guide: The Six Exceptions to the Federal Bar",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13971,
+      "topWord": "action",
+      "topCount": 227,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-05-15-plcaa-2005-guide.md"
+    },
+    {
       "filename": "2021-05-18-infosys-resignation-process.md",
       "slug": "infosys-resignation-process",
       "title": "Infosys Resignation Process: Complete Step-by-Step Guide",
@@ -176743,6 +180867,24 @@
           "count": 49
         }
       ]
+    },
+    {
+      "filename": "2021-06-01-bipartisan-safer-communities-act-2022.md",
+      "slug": "bipartisan-safer-communities-act-2022",
+      "title": "Bipartisan Safer Communities Act: Provisions and Limits",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12113,
+      "topWord": "section",
+      "topCount": 239,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-06-01-bipartisan-safer-communities-act-2022.md"
     },
     {
       "filename": "2021-06-01-lady-bird-gerwig-coming-of-age.md",
@@ -177225,6 +181367,24 @@
       ]
     },
     {
+      "filename": "2021-06-15-nics-background-check-law.md",
+      "slug": "nics-background-check-law",
+      "title": "How the NICS Background Check Law Works: A Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11813,
+      "topWord": "licensee",
+      "topCount": 204,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-06-15-nics-background-check-law.md"
+    },
+    {
       "filename": "2021-06-19-infosys-salary-hike-increment.md",
       "slug": "infosys-salary-hike-increment",
       "title": "Infosys Salary Hike and Increment: Complete Guide",
@@ -177497,6 +181657,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2021-07-01-second-amendment-supreme-court-cases.md",
+      "slug": "second-amendment-supreme-court-cases",
+      "title": "Second Amendment Supreme Court Cases and the Doctrine",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12438,
+      "topWord": "court",
+      "topCount": 184,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-07-01-second-amendment-supreme-court-cases.md"
     },
     {
       "filename": "2021-07-05-infosys-lateral-hiring-guide.md",
@@ -177819,6 +181997,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2021-07-15-assault-weapons-ban-outcomes.md",
+      "slug": "assault-weapons-ban-outcomes",
+      "title": "What the Assault Weapons Ban Did: Evidence and Effects",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13013,
+      "topWord": "gun",
+      "topCount": 162,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-07-15-assault-weapons-ban-outcomes.md"
     },
     {
       "filename": "2021-07-15-how-to-stop-rafael-leao.md",
@@ -178245,6 +182441,120 @@
         {
           "word": "status",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2021-08-01-federal-vs-state-firearms-law.md",
+      "slug": "federal-vs-state-firearms-law",
+      "title": "Federal vs State Firearms Law: Who Makes the Rules",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12675,
+      "topWord": "federal",
+      "topCount": 436,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-08-01-federal-vs-state-firearms-law.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 436
+        },
+        {
+          "word": "law",
+          "count": 348
+        },
+        {
+          "word": "states",
+          "count": 320
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 436
+        },
+        {
+          "word": "law",
+          "count": 348
+        },
+        {
+          "word": "states",
+          "count": 320
+        },
+        {
+          "word": "firearms",
+          "count": 148
+        },
+        {
+          "word": "permit",
+          "count": 114
+        },
+        {
+          "word": "local",
+          "count": 110
+        },
+        {
+          "word": "check",
+          "count": 93
+        },
+        {
+          "word": "firearm",
+          "count": 91
+        },
+        {
+          "word": "section",
+          "count": 90
+        },
+        {
+          "word": "preemption",
+          "count": 81
+        },
+        {
+          "word": "statute",
+          "count": 78
+        },
+        {
+          "word": "rule",
+          "count": 76
+        },
+        {
+          "word": "carry",
+          "count": 73
+        },
+        {
+          "word": "purchase",
+          "count": 72
+        },
+        {
+          "word": "person",
+          "count": 71
+        },
+        {
+          "word": "layer",
+          "count": 69
+        },
+        {
+          "word": "subject",
+          "count": 69
+        },
+        {
+          "word": "transfer",
+          "count": 66
+        },
+        {
+          "word": "possession",
+          "count": 57
+        },
+        {
+          "word": "categories",
+          "count": 56
         }
       ]
     },
@@ -178809,6 +183119,112 @@
       ]
     },
     {
+      "filename": "2021-08-15-federal-gun-law-myths.md",
+      "slug": "federal-gun-law-myths",
+      "title": "Federal Gun Law Myths: Ten Claims Against the Text",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12069,
+      "topWord": "federal",
+      "topCount": 273,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-08-15-federal-gun-law-myths.md",
+      "flaggedWords": [
+        {
+          "word": "federal",
+          "count": 273
+        }
+      ],
+      "top20": [
+        {
+          "word": "federal",
+          "count": 273
+        },
+        {
+          "word": "law",
+          "count": 176
+        },
+        {
+          "word": "transfer",
+          "count": 160
+        },
+        {
+          "word": "check",
+          "count": 129
+        },
+        {
+          "word": "licensee",
+          "count": 126
+        },
+        {
+          "word": "private",
+          "count": 108
+        },
+        {
+          "word": "firearm",
+          "count": 96
+        },
+        {
+          "word": "section",
+          "count": 96
+        },
+        {
+          "word": "gun",
+          "count": 90
+        },
+        {
+          "word": "record",
+          "count": 79
+        },
+        {
+          "word": "buyer",
+          "count": 72
+        },
+        {
+          "word": "transaction",
+          "count": 69
+        },
+        {
+          "word": "claim",
+          "count": 66
+        },
+        {
+          "word": "provision",
+          "count": 63
+        },
+        {
+          "word": "channel",
+          "count": 61
+        },
+        {
+          "word": "act",
+          "count": 58
+        },
+        {
+          "word": "states",
+          "count": 57
+        },
+        {
+          "word": "assertion",
+          "count": 57
+        },
+        {
+          "word": "title",
+          "count": 55
+        },
+        {
+          "word": "person",
+          "count": 54
+        }
+      ]
+    },
+    {
       "filename": "2021-08-15-north-by-northwest-spy-thriller-template.md",
       "slug": "north-by-northwest-spy-thriller-template",
       "title": "North by Northwest: The Chase Thriller Template",
@@ -178953,6 +183369,24 @@
           "count": 22
         }
       ]
+    },
+    {
+      "filename": "2021-09-01-federal-election-campaign-act-1971.md",
+      "slug": "federal-election-campaign-act-1971",
+      "title": "Federal Election Campaign Act of 1971: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 14697,
+      "topWord": "campaign",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-09-01-federal-election-campaign-act-1971.md"
     },
     {
       "filename": "2021-09-01-greatest-dribblers-how-to-contain.md",
@@ -179275,6 +183709,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2021-09-15-bipartisan-campaign-reform-act-2002.md",
+      "slug": "bipartisan-campaign-reform-act-2002",
+      "title": "McCain-Feingold Act of 2002: Provisions, Passage, and Courts",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11351,
+      "topWord": "federal",
+      "topCount": 160,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-09-15-bipartisan-campaign-reform-act-2002.md"
     },
     {
       "filename": "2021-09-15-infosys-placement-papers.md",
@@ -179741,6 +184193,112 @@
       ]
     },
     {
+      "filename": "2021-10-01-freedom-of-information-act-1966-guide.md",
+      "slug": "freedom-of-information-act-1966-guide",
+      "title": "Freedom of Information Act: The Complete Statute Profile",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12454,
+      "topWord": "agency",
+      "topCount": 310,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-10-01-freedom-of-information-act-1966-guide.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 310
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 310
+        },
+        {
+          "word": "exemption",
+          "count": 187
+        },
+        {
+          "word": "information",
+          "count": 173
+        },
+        {
+          "word": "statute",
+          "count": 155
+        },
+        {
+          "word": "act",
+          "count": 139
+        },
+        {
+          "word": "public",
+          "count": 120
+        },
+        {
+          "word": "disclosure",
+          "count": 117
+        },
+        {
+          "word": "records",
+          "count": 108
+        },
+        {
+          "word": "material",
+          "count": 105
+        },
+        {
+          "word": "withholding",
+          "count": 86
+        },
+        {
+          "word": "record",
+          "count": 78
+        },
+        {
+          "word": "government",
+          "count": 77
+        },
+        {
+          "word": "freedom",
+          "count": 74
+        },
+        {
+          "word": "law",
+          "count": 74
+        },
+        {
+          "word": "congress",
+          "count": 73
+        },
+        {
+          "word": "exemptions",
+          "count": 73
+        },
+        {
+          "word": "court",
+          "count": 71
+        },
+        {
+          "word": "requester",
+          "count": 68
+        },
+        {
+          "word": "request",
+          "count": 67
+        },
+        {
+          "word": "agencies",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2021-10-01-hackwithinfy-preparation.md",
       "slug": "hackwithinfy-preparation",
       "title": "HackWithInfy Preparation: Rounds and Strategy",
@@ -179969,6 +184527,24 @@
           "count": 35
         }
       ]
+    },
+    {
+      "filename": "2021-10-15-ethics-in-government-act-1978-guide.md",
+      "slug": "ethics-in-government-act-1978-guide",
+      "title": "Ethics in Government Act: Disclosure and the Revolving Door",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11823,
+      "topWord": "office",
+      "topCount": 211,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-10-15-ethics-in-government-act-1978-guide.md"
     },
     {
       "filename": "2021-10-15-gone-with-the-wind-epic-controversy.md",
@@ -180441,6 +185017,24 @@
       ]
     },
     {
+      "filename": "2021-11-01-lobbying-disclosure-act-1995-guide.md",
+      "slug": "lobbying-disclosure-act-1995-guide",
+      "title": "Lobbying Disclosure Act of 1995: Complete Statute Profile",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13078,
+      "topWord": "lobbying",
+      "topCount": 259,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-11-01-lobbying-disclosure-act-1995-guide.md"
+    },
+    {
       "filename": "2021-11-01-princess-bride-cult-fantasy-adaptation.md",
       "slug": "princess-bride-cult-fantasy-adaptation",
       "title": "The Princess Bride: A Cult Fairy Tale Adaptation",
@@ -180895,6 +185489,24 @@
       ]
     },
     {
+      "filename": "2021-11-15-campaign-finance-supreme-court-cases.md",
+      "slug": "campaign-finance-supreme-court-cases",
+      "title": "Campaign Finance Supreme Court Cases: The Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 14811,
+      "topWord": "candidate",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-11-15-campaign-finance-supreme-court-cases.md"
+    },
+    {
       "filename": "2021-11-15-easy-rider-counterculture-cinema.md",
       "slug": "easy-rider-counterculture-cinema",
       "title": "Easy Rider: Counterculture Cinema and New Hollywood",
@@ -181327,6 +185939,24 @@
       ]
     },
     {
+      "filename": "2021-12-01-foia-amendments-history.md",
+      "slug": "foia-amendments-history",
+      "title": "How FOIA Was Amended: Six Rounds of Reform Over Decades",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12393,
+      "topWord": "agency",
+      "topCount": 196,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-12-01-foia-amendments-history.md"
+    },
+    {
       "filename": "2021-12-01-seven-samurai-kurosawa-influence.md",
       "slug": "seven-samurai-kurosawa-influence",
       "title": "Seven Samurai: The Template the World Borrowed",
@@ -181489,6 +186119,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-12-12-infosys-career-growth.md"
+    },
+    {
+      "filename": "2021-12-15-campaign-finance-law-impact.md",
+      "slug": "campaign-finance-law-impact",
+      "title": "Campaign Finance Law Impact: Did the Money Ever Shrink",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13349,
+      "topWord": "money",
+      "topCount": 237,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2021-12-15-campaign-finance-law-impact.md"
     },
     {
       "filename": "2021-12-15-mulholland-drive-lynch-reappraisal.md",
@@ -182027,6 +186675,24 @@
           "count": 28
         }
       ]
+    },
+    {
+      "filename": "2022-01-01-feca-vs-bcra-campaign-law.md",
+      "slug": "feca-vs-bcra-campaign-law",
+      "title": "FECA vs McCain-Feingold: Two Designs for Campaign Money",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11333,
+      "topWord": "election",
+      "topCount": 192,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-01-01-feca-vs-bcra-campaign-law.md"
     },
     {
       "filename": "2022-01-01-seventh-seal-bergman-mortality.md",
@@ -182721,6 +187387,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-01-14-romeo-and-juliet-love-story-or-warning.md"
+    },
+    {
+      "filename": "2022-01-15-foia-agency-implementation.md",
+      "slug": "foia-agency-implementation",
+      "title": "How Agencies Handle FOIA Requests: A Processing Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10267,
+      "topWord": "agency",
+      "topCount": 295,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-01-15-foia-agency-implementation.md",
+      "flaggedWords": [
+        {
+          "word": "agency",
+          "count": 295
+        }
+      ],
+      "top20": [
+        {
+          "word": "agency",
+          "count": 295
+        },
+        {
+          "word": "requester",
+          "count": 176
+        },
+        {
+          "word": "request",
+          "count": 171
+        },
+        {
+          "word": "records",
+          "count": 150
+        },
+        {
+          "word": "determination",
+          "count": 103
+        },
+        {
+          "word": "court",
+          "count": 99
+        },
+        {
+          "word": "search",
+          "count": 86
+        },
+        {
+          "word": "appeal",
+          "count": 82
+        },
+        {
+          "word": "processing",
+          "count": 81
+        },
+        {
+          "word": "review",
+          "count": 75
+        },
+        {
+          "word": "information",
+          "count": 72
+        },
+        {
+          "word": "foia",
+          "count": 71
+        },
+        {
+          "word": "public",
+          "count": 66
+        },
+        {
+          "word": "statute",
+          "count": 64
+        },
+        {
+          "word": "record",
+          "count": 61
+        },
+        {
+          "word": "office",
+          "count": 59
+        },
+        {
+          "word": "exemption",
+          "count": 55
+        },
+        {
+          "word": "fee",
+          "count": 54
+        },
+        {
+          "word": "component",
+          "count": 53
+        },
+        {
+          "word": "period",
+          "count": 49
+        }
+      ]
     },
     {
       "filename": "2022-01-15-nashville-altman-ensemble-music.md",
@@ -183465,6 +188237,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-02-01-godfather-part-ii-sequel-debate.md"
     },
     {
+      "filename": "2022-02-01-how-a-bill-becomes-law-in-practice.md",
+      "slug": "how-a-bill-becomes-law-in-practice",
+      "title": "How a Bill Becomes Law in Practice: The Real Process",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12349,
+      "topWord": "measure",
+      "topCount": 243,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-02-01-how-a-bill-becomes-law-in-practice.md"
+    },
+    {
       "filename": "2022-02-04-romeo-and-juliet-fate-or-character-tragedy.md",
       "slug": "romeo-and-juliet-fate-or-character-tragedy",
       "title": "Romeo and Juliet: Tragedy of Fate or of Character?",
@@ -183935,6 +188725,24 @@
           "count": 35
         }
       ]
+    },
+    {
+      "filename": "2022-02-15-filibuster-and-cloture-explained.md",
+      "slug": "filibuster-and-cloture-explained",
+      "title": "Filibuster and Cloture Explained: How Senate Debate Ends",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12856,
+      "topWord": "debate",
+      "topCount": 224,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2022-02-15-filibuster-and-cloture-explained.md"
     },
     {
       "filename": "2022-02-15-fitzcarraldo-herzog-production-saga.md",
@@ -305493,6 +310301,526 @@
         {
           "word": "heat",
           "count": 42
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-austin.md",
+      "slug": "best-singles-events-austin",
+      "title": "Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7905,
+      "topWord": "dating",
+      "topCount": 128,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-austin.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-chicago.md",
+      "slug": "best-singles-events-chicago",
+      "title": "Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8167,
+      "topWord": "dating",
+      "topCount": 138,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-chicago.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-dallas.md",
+      "slug": "best-singles-events-dallas",
+      "title": "Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7605,
+      "topWord": "dallas",
+      "topCount": 123,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-dallas.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-denver.md",
+      "slug": "best-singles-events-denver",
+      "title": "Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8147,
+      "topWord": "singles",
+      "topCount": 105,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-denver.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-houston.md",
+      "slug": "best-singles-events-houston",
+      "title": "Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7883,
+      "topWord": "night",
+      "topCount": 107,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-houston.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-in-america.md",
+      "slug": "best-singles-events-in-america",
+      "title": "Best Singles Events in America: 200 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8372,
+      "topWord": "dating",
+      "topCount": 183,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-in-america.md",
+      "flaggedWords": [
+        {
+          "word": "dating",
+          "count": 183
+        },
+        {
+          "word": "october",
+          "count": 170
+        }
+      ],
+      "top20": [
+        {
+          "word": "dating",
+          "count": 183
+        },
+        {
+          "word": "october",
+          "count": 170
+        },
+        {
+          "word": "singles",
+          "count": 137
+        },
+        {
+          "word": "night",
+          "count": 116
+        },
+        {
+          "word": "city",
+          "count": 112
+        },
+        {
+          "word": "speed",
+          "count": 98
+        },
+        {
+          "word": "fortnight",
+          "count": 82
+        },
+        {
+          "word": "events",
+          "count": 78
+        },
+        {
+          "word": "room",
+          "count": 78
+        },
+        {
+          "word": "guide",
+          "count": 75
+        },
+        {
+          "word": "rooms",
+          "count": 72
+        },
+        {
+          "word": "nights",
+          "count": 60
+        },
+        {
+          "word": "runs",
+          "count": 58
+        },
+        {
+          "word": "mixer",
+          "count": 58
+        },
+        {
+          "word": "calendar",
+          "count": 53
+        },
+        {
+          "word": "series",
+          "count": 52
+        },
+        {
+          "word": "chicago",
+          "count": 49
+        },
+        {
+          "word": "houston",
+          "count": 45
+        },
+        {
+          "word": "event",
+          "count": 44
+        },
+        {
+          "word": "austin",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-las-vegas.md",
+      "slug": "best-singles-events-las-vegas",
+      "title": "Best Singles Events in Las Vegas: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8357,
+      "topWord": "singles",
+      "topCount": 173,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-las-vegas.md",
+      "flaggedWords": [
+        {
+          "word": "singles",
+          "count": 173
+        }
+      ],
+      "top20": [
+        {
+          "word": "singles",
+          "count": 173
+        },
+        {
+          "word": "vegas",
+          "count": 107
+        },
+        {
+          "word": "las",
+          "count": 99
+        },
+        {
+          "word": "room",
+          "count": 95
+        },
+        {
+          "word": "event",
+          "count": 89
+        },
+        {
+          "word": "dating",
+          "count": 86
+        },
+        {
+          "word": "night",
+          "count": 80
+        },
+        {
+          "word": "mixer",
+          "count": 79
+        },
+        {
+          "word": "events",
+          "count": 64
+        },
+        {
+          "word": "festival",
+          "count": 61
+        },
+        {
+          "word": "crowd",
+          "count": 51
+        },
+        {
+          "word": "date",
+          "count": 46
+        },
+        {
+          "word": "pm",
+          "count": 46
+        },
+        {
+          "word": "conversation",
+          "count": 44
+        },
+        {
+          "word": "october",
+          "count": 43
+        },
+        {
+          "word": "speed",
+          "count": 42
+        },
+        {
+          "word": "trivia",
+          "count": 40
+        },
+        {
+          "word": "bar",
+          "count": 39
+        },
+        {
+          "word": "fortnight",
+          "count": 37
+        },
+        {
+          "word": "class",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-los-angeles.md",
+      "slug": "best-singles-events-los-angeles",
+      "title": "Best Singles Events in Los Angeles: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7997,
+      "topWord": "event",
+      "topCount": 140,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-los-angeles.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-miami.md",
+      "slug": "best-singles-events-miami",
+      "title": "Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8132,
+      "topWord": "miami",
+      "topCount": 141,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-miami.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-new-york-city.md",
+      "slug": "best-singles-events-new-york-city",
+      "title": "Best Singles Events in New York City: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7753,
+      "topWord": "room",
+      "topCount": 113,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-new-york-city.md"
+    },
+    {
+      "filename": "2026-10-14-best-singles-events-san-francisco.md",
+      "slug": "best-singles-events-san-francisco",
+      "title": "Best Singles Events in San Francisco: 20 Ways to Meet Someone in the Next Two Weeks",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7846,
+      "topWord": "dating",
+      "topCount": 105,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-san-francisco.md"
+    },
+    {
+      "filename": "2026-10-14-how-film-restoration-works.md",
+      "slug": "how-film-restoration-works",
+      "title": "How Film Restoration Works: Saving Movies From Decay",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10440,
+      "topWord": "film",
+      "topCount": 146,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-how-film-restoration-works.md"
+    },
+    {
+      "filename": "2026-10-15-how-ransomware-recovery-works.md",
+      "slug": "how-ransomware-recovery-works",
+      "title": "How Ransomware Recovery Works: Backups That Survive Attack",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 10268,
+      "topWord": "recovery",
+      "topCount": 198,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-15-how-ransomware-recovery-works.md"
+    },
+    {
+      "filename": "2026-10-16-how-at1-bonds-work.md",
+      "slug": "how-at1-bonds-work",
+      "title": "How AT1 Bonds Work: Bank Capital That Absorbs Losses First",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10439,
+      "topWord": "bank",
+      "topCount": 263,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-16-how-at1-bonds-work.md",
+      "flaggedWords": [
+        {
+          "word": "bank",
+          "count": 263
+        }
+      ],
+      "top20": [
+        {
+          "word": "bank",
+          "count": 263
+        },
+        {
+          "word": "tier",
+          "count": 208
+        },
+        {
+          "word": "capital",
+          "count": 193
+        },
+        {
+          "word": "additional",
+          "count": 120
+        },
+        {
+          "word": "equity",
+          "count": 119
+        },
+        {
+          "word": "trigger",
+          "count": 102
+        },
+        {
+          "word": "common",
+          "count": 88
+        },
+        {
+          "word": "loss",
+          "count": 84
+        },
+        {
+          "word": "instruments",
+          "count": 81
+        },
+        {
+          "word": "losses",
+          "count": 79
+        },
+        {
+          "word": "resolution",
+          "count": 76
+        },
+        {
+          "word": "instrument",
+          "count": 70
+        },
+        {
+          "word": "india",
+          "count": 69
+        },
+        {
+          "word": "coupon",
+          "count": 66
+        },
+        {
+          "word": "ratio",
+          "count": 64
+        },
+        {
+          "word": "basel",
+          "count": 61
+        },
+        {
+          "word": "authority",
+          "count": 60
+        },
+        {
+          "word": "bonds",
+          "count": 55
+        },
+        {
+          "word": "european",
+          "count": 52
+        },
+        {
+          "word": "billion",
+          "count": 51
         }
       ]
     },
