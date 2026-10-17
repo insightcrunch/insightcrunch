@@ -61,3 +61,7 @@
 ## how-at1-bonds-work
 - _posts/2014-01-01-dodd-frank-banking-impact.md — could carry: "The capital that post-crisis rules required banks to hold against failure includes a layer designed to be wiped out in a rescue; our guide to how AT1 bonds work explains the trigger, the write-down and the loss order."
 - _posts/2014-02-15-financial-crisis-legislation-2008.md — could carry: "The rescues of 2008 were paid for with public money because bank capital could not absorb the losses; our guide to how AT1 bonds work explains the instrument later created to impose those losses on private creditors first."
+
+- _posts/2026-10-17-how-birthright-citizenship-works.md — new article: how birthright citizenship works
+  - _posts/2013-04-15-us-immigration-law-myths.md — could carry: "One claim tested there concerns citizenship at birth; the full doctrine, from the Citizenship Clause to its codification and the 2026 reaffirmation, is set out in how birthright citizenship works."
+  - _posts/2026-10-08-how-employment-green-card-sponsorship-works.md — could carry: "Sponsorship governs admission and residence for workers, while membership itself for a child born on United States soil follows a different rule entirely, explained in how birthright citizenship works."
