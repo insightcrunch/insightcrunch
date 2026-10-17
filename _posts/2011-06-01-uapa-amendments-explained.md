@@ -6,15 +6,15 @@ date: 2011-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "Anti-Terror Law", "Criminal Law", "Parliament", "Judiciary"]
 excerpt: "UAPA amendments explained in sequence: what each amendment added to the 1967 Act, which safeguard arrived alongside it, and the power Parliament refused."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2011-06-01
+lang: en
 ---
-
 The story told by the UAPA amendments is a story of movement in one clear direction, away from a narrow statute concerned with associations and towards a far broader instrument. That movement can only be measured properly if the starting point is held firmly in view. A reader who begins with the later shape of the legislation risks treating that shape as natural, as if the text had always carried the weight it carries after successive changes. A reader who begins with the enactment of 1967 sees something quite different. The original measure was limited in its object, restrained in its machinery and silent on subjects that later came to dominate debate about it. The distance between those two positions is the real subject of an amendment trail, and it is a considerable distance.
 
-![The UAPA power ledger: four amendments traced from the 1967 associations statute to the designation of individuals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The UAPA power ledger: four amendments traced from the 1967 associations statute to the designation of individuals - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 Direction matters as much as distance. The drift was not random, and it was not a matter of tidying language or correcting drafting slips across the decades. Each stage of change pulled the statute away from a single preoccupation, the protection of the sovereignty and integrity of India against organised advocacy of separation, and pushed it towards territory that the framers of the original text had left untouched. The measure that received assent at the end of 1967 was not a general security code. It was a preventive measure aimed at particular kinds of activity, carried out through a particular device, the declaration that an association was unlawful, and surrounded by a particular safeguard, confirmation by a Tribunal presided over by a judge of a High Court.
 

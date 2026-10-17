@@ -6,15 +6,15 @@ date: 2010-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Indian Evidence Act", "Criminal Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Indian Evidence Act 1872 explained: how relevancy, admissibility, confessions, dying declarations, presumptions and the certificate rule filter proof."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-12-01
+lang: en
 ---
-
 Every contested trial in India is, before it is anything else, an argument about what the judge is allowed to hear. The parties arrive with a story, with documents, with recordings, with witnesses who remember and witnesses who have been rehearsed, and between all of that material and the court's mind stands a filter built in 1872. The Indian Evidence Act is that filter. It does not define offences, create rights, or prescribe punishments. It performs the prior and quieter function of deciding what counts as material from which a court may reason at all, and on what terms the material that passes must then be proved. A litigant can hold the decisive fact in hand, in the form of a confession, a letter, a recording, or a dying man's last words, and still lose everything at the filter, because the confession was made to a police officer, the letter is a copy whose original nobody can account for, the recording carries no certificate, or the words were spoken by someone whose knowledge the Act does not allow a court to use. The statute is best understood not as a list of rules but as a sequence of gates, and this article works through those gates in the order in which evidence meets them.
 
-![The Indian Evidence Act 1872 as a filter between the raw material of a dispute and the mind of the court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Indian Evidence Act 1872 as a filter between the raw material of a dispute and the mind of the court - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The sequence matters because each gate asks a different question, and collapsing the questions is the single most common error in arguments about this statute. The first question is relevancy: is this fact the kind of fact the law permits a court to reason from at all? The second is admissibility in the strict sense: even among relevant facts, does some specific rule of exclusion, privilege, or form keep this item out? The third is proof: the item having been let in, has it actually been established in the manner the Act requires, by primary evidence where primary evidence is demanded, by a witness who speaks from personal knowledge, under a burden of proof that someone had to discharge? A fact can be relevant and yet inadmissible, as a confession to a police officer is. A document can be admissible in form and yet unproved, as a photocopy casually tendered without the groundwork the Act requires is. A fact can sail through both gates and still fail at appreciation, the final weighing in which a court decides what the admitted and proved material is worth. The Act was drafted to keep these operations separate, and its three parts map onto them with unusual fidelity. That architecture, and the case law that has grown over its pressure points, is the subject of what follows. The companion codes that supply the substantive and procedural halves of a criminal trial, the [Indian Penal Code](/2010/11/01/indian-penal-code-complete-guide/) on the side of liability and the criminal procedure code on the side of process, both presuppose this filter at every step, because neither of them decides what a court may hear.
 

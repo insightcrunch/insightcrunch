@@ -6,15 +6,15 @@ date: 2011-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "TADA", "POTA", "Anti-Terror Law", "Criminal Law", "Civil Liberties"]
 excerpt: "A TADA POTA UAPA comparison across confessions, bail, custody, presumptions, proscription and time limits, ending in a verdict on which law is harshest."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2011-08-01
+lang: en
 ---
-
 Every debate about anti-terror legislation in India eventually arrives at the same question, and the TADA POTA UAPA comparison is usually conducted as if it had a one-word answer. Is the law in force harsher than the laws that came before it, or milder? Those who want a stronger statute say the Unlawful Activities (Prevention) Act is a diluted successor that dropped the powers which made the Terrorist and Disruptive Activities (Prevention) Act and the Prevention of Terrorism Act effective. Those who want the statute curbed say the UAPA is TADA and POTA combined and worse, a permanent code assembled from the harshest parts of two discredited experiments. A TADA POTA UAPA comparison conducted power by power shows that both camps are describing the same statute from different rows of it. On the row that decides whether an innocent person is convicted, the statute in force is the mildest of the three. On the rows that decide how long an unconvicted person waits in custody, it is at least as severe as either predecessor and in one respect more severe than both. The verdict of this article is therefore a split verdict, and the deciding factor can be named exactly: it is which of two distinct harms, wrongful conviction or wrongful detention, the reader treats as the graver injury. Everything that follows is the evidence for that verdict, set out power by power so the reader can reweigh it.
 
-![The three-statute power matrix comparing TADA, POTA and the UAPA across confessions, bail and custody - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The three-statute power matrix comparing TADA, POTA and the UAPA across confessions, bail and custody - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 The comparison has a discipline that most versions of it lack. A statute is not harsh or mild in the abstract; it is harsh or mild at a specific point of operation, in what it lets the police record as evidence, in how long it lets the state hold a suspect before committing itself to a charge, in what a judge must be persuaded of before releasing that suspect, in what the prosecution is relieved of proving, and in how long the statute itself is permitted to live. Comparing the three laws at those points, rather than trading impressions of their reputations, produces a picture that neither political camp quotes whole. It also produces a practical map. A legislator asked to restore a repealed power can see what restoration would actually add. An advocate with a live case under any of the three statutes, and prosecutions under the repealed laws remain in the system decades after those laws ended, can see which procedural rules govern it. An aspirant can see why the examination version of this comparison, which usually presents a simple progression from strict to stricter, is wrong on the row that matters most.
 

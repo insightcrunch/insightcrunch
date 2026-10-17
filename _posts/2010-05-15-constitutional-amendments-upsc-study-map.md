@@ -6,15 +6,15 @@ date: 2010-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "UPSC", "Constitutional Law", "Parliament", "Judiciary"]
 excerpt: "Constitutional amendments for UPSC, organised by route and function: the heavy amendments, the four leading cases, the confusions, and a lattice for revision."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2010-05-15
+lang: en
 ---
-
 Constitutional amendments for UPSC preparation are usually taught in the worst possible order. The candidate is handed a numbered sequence running past one hundred, told that the list is important, and left to discover alone which of those numbers carry a doctrine, which carry a schedule, which changed the balance between the Union and the states, and which were housekeeping measures that no examiner will ever build a serious question around. The predictable result is a particular kind of fragile knowledge: a candidate who can recite that the 73rd Amendment concerns panchayats falls silent when the question instead asks why local government needed a constitutional amendment at all, or which route that amendment travelled, or what would have happened to it in the Rajya Sabha had the states objected. The number was memorised. The amendment was never understood, and the examination is designed, with some care, to find exactly that gap.
 
-![Constitutional amendments for UPSC shown as a study map organised by Article 368 route and function - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Constitutional amendments for UPSC shown as a study map organised by Article 368 route and function - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This study map reverses the order. Its claim, stated plainly at the outset so that everything after it can be tested against the claim, is route before number: classify a constitutional amendment first by the route it had to travel under the Constitution and by the function it performs in the constitutional scheme, and the number and the content become far easier to hold, to retrieve under pressure, and to reconstruct when memory partially fails. An amendment is not a fact floating free. It is a legal event with a procedure, a political cause, a textual consequence, and usually a judicial afterlife, and every one of those four elements is a hook on which the fact can be hung. A candidate who knows that an amendment sits in the ratification family already knows something examinable about it before recalling a single detail of its text, because the Constitution reserves ratification for changes that touch the federal distribution of power, and an examiner who asks about such an amendment is almost always testing the federal point in disguise.
 

@@ -6,18 +6,18 @@ date: 2010-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Indian Penal Code", "Criminal Law", "Sedition", "Judiciary", "Parliament", "Law Students"]
 excerpt: "The Indian Penal Code explained as a designed system: Macaulay's architecture, the general exceptions, sedition, and the provisions the courts removed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 108
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2010-11-01
+lang: en
 ---
-
 ## Why British India needed one penal code
 
 ### Why did British India need a single penal code in the 1830s?
 British India needed the Indian Penal Code because criminal law varied by place and community, leaving punishment uncertain and unequal. A single code promised clear definitions, consistent penalties, and rules that officials across distant districts could apply in the same way to the same act.
 
-![The Indian Penal Code as a designed code: Macaulay's architecture of definitions, exceptions and graded offences - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Indian Penal Code as a designed code: Macaulay's architecture of definitions, exceptions and graded offences - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 Before codification, a person accused of wrongdoing in British India did not face a single body of criminal law that applied in the same terms across the territory. The law that governed the case depended heavily on where the act had taken place, which court heard the matter, and which source of law that court treated as authoritative for the question before it. In the presidency towns, English criminal law occupied a prominent place, carried into India through the institutions that served those towns and applied by judges whose training and habits of reasoning were shaped by English practice. Outside those towns, in the mofussil, the position was different. Regulations issued for the administration of the provinces supplied much of the criminal law, and those regulations did not always reproduce the English rules that applied in the presidency towns. Alongside both stood uncodified Hindu and Islamic criminal law, still relied upon for many questions and administered unevenly from place to place. The result was not a system in any coherent sense. It was an accumulation of sources, each with its own history, its own language, and its own method of interpretation, brought together by administrative necessity rather than by design.
 

@@ -6,14 +6,15 @@ date: 2011-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Investigation Agency", "NIA Act 2008", "Federalism", "CBI", "Special Courts"]
 excerpt: "NIA Act 2008 explained: how the National Investigation Agency investigates scheduled offences without state consent, and why that divides Union and states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2011-06-15
+lang: en
 ---
 The National Investigation Agency is the institution the Indian Constitution appears to forbid and the Indian state decided it could not do without. Police and public order are subjects the Constitution assigns to the states. Investigation of crime is, in the ordinary scheme of the Seventh Schedule, the work of a state police force answerable to a state government. Yet the National Investigation Agency Act, 2008 created a central police agency whose officers exercise police powers throughout India, which can be directed by the Central Government to take an investigation out of the hands of a state police force, and whose entry into a case requires the consent of no state at all. The Agency has operated on that basis since the Act came into force on the last day of 2008. Its constitutionality has been challenged by a state government in an original suit before the Supreme Court, and the challenge goes to the foundations of the federal design rather than to any detail of drafting.
 
-![The National Investigation Agency Act 2008 and the federal design of a central investigation agency - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Investigation Agency Act 2008 and the federal design of a central investigation agency - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 An institution profile in this series asks a single question: what was the body designed to be able to do? The answer here is unusual, because the design choice that matters most in the National Investigation Agency Act is an omission. The statute nowhere requires the Central Government to seek, or the Agency to obtain, the agreement of the state in whose territory a scheduled offence was committed before the Agency investigates it. That absence is not an oversight. It is the deliberate point of contrast with the Central Bureau of Investigation, which works under a statutory consent regime that states can and do withdraw. Consent, as the comparison section of this profile argues, is the whole difference between the two agencies, and it explains almost every federalism dispute about central investigation in India. Everything else in the Act, the Schedule of offences, the fifteen-day direction mechanism, the Special Courts and the appeal structure, is machinery built around that single design decision.
 

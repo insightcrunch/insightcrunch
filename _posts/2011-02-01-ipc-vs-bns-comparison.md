@@ -6,19 +6,19 @@ date: "2011-02-01"
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Nyaya Sanhita", "Indian Penal Code", "Criminal Law", "Parliament", "Judiciary", "Law Students"]
 excerpt: "IPC vs BNS compared head to head: a full translation table, the sentencing shift, sedition's successor, the new offences, and the honest verdict on reform."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2011-02-01"
+lang: en
 ---
-
 ## The Question Every Court and Classroom Is Arguing About
 
 The IPC vs BNS question faces anyone who has to charge, defend, prosecute, teach or study a criminal offence in India with a practical decision before it becomes an abstract one. Which code supplies the language of the case, and which account of the change between them deserves to be believed? On one side stands the claim that the Bharatiya Nyaya Sanhita, 2023 is a reform, a deliberate break with a colonial inheritance. On the other side stands the claim that the Sanhita is principally a renumbering, the Indian Penal Code, 1860 carried forward under a new name with its sections rearranged and its language largely retained. Between those descriptions lies a body of text that can be checked, and checking it is the only way to answer the argument without repeating a slogan.
 
 This article answers that question provision by provision. It does not treat the fall in the number of sections as if that fall were itself a verdict. It follows the two codes through structure and general principles, definitions and general exceptions, offences against the body, offences against women and children, property, offences against the state, new categories with no equivalent in the older code, sentencing policy, punishment types and omissions. At the end it names the deciding factor, the place where change is most systematic and most likely to be felt in outcomes, and defends that identification from the provisions themselves. A reader who disagrees should be able to point to the provision where the reasoning fails.
 
-![IPC vs BNS comparison chart showing the structure of the two codes side by side - Insight Crunch](/assets/images/blog/blog-01.webp)
+![IPC vs BNS comparison chart showing the structure of the two codes side by side - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The stakes are not confined to examination halls. A student who learned that murder was punished under Section 302 of the Penal Code must learn that the punishment now sits in Section 103(1) of the Sanhita, while the definitions of culpable homicide and murder in Sections 299 and 300 sit in Sections 100 and 101. An advocate, a police officer framing a charge and a magistrate deciding what law governs an act committed before the new code commenced all face the same translation problem, and an error can misstate a maximum punishment, miss a mandatory minimum or invoke a provision Parliament omitted. Section 358 of the Sanhita preserves pending investigations, proceedings and liabilities under the Penal Code, and Article 20(1) of the Constitution bars applying new code punishments to acts committed before commencement. Two codes will therefore govern side by side for a considerable period, divided by the date of the act.
 

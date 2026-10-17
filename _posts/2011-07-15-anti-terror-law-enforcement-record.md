@@ -6,15 +6,15 @@ date: 2011-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "Anti-Terror Laws", "NCRB", "Criminal Law", "Civil Liberties", "Judiciary"]
 excerpt: "The anti-terror law enforcement record turns on four denominators: registered cases, arrested persons, charge sheets and convictions measure different things."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2011-07-15
+lang: en
 ---
-
 Few figures in Indian public life are quoted as confidently, and read as carelessly, as the conviction rate under the anti-terror law. A percentage circulates on social media, stripped of its period, its source and the thing it divides by, and is deployed to prove both that the Unlawful Activities (Prevention) Act is an instrument of mass wrongful detention and that the same law is working exactly as intended. The anti-terror law enforcement record is not short of data. It is short of readers who know what each figure counts. Both uses of the circulating percentage draw on the same pool of official numbers, and both are wrong in ways that a careful reader can detect without any special access, because the error is arithmetic rather than ideological.
 
-![The anti-terror law enforcement record and the four denominators behind the conviction rate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The anti-terror law enforcement record and the four denominators behind the conviction rate - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The argument of this article can be stated plainly, and everything that follows is the evidence for it. There are four different things that get called the record: the number of cases registered, the number of persons arrested, the number of persons charge-sheeted, and the number of persons convicted. Each is compiled by a different process, each measures something different, and each fails in a different way when it is used as the denominator for a conviction rate. The single most repeated figure in the public debate, an annual conviction percentage obtained by dividing the persons convicted in a calendar year by the persons arrested in that same calendar year, is not a conviction rate at all. It is a ratio of two flows from different cohorts, and it measures the speed of the disposal system more than it measures the accuracy of the prosecutions. That correction does not make the underlying facts less troubling. It makes them honest, and the honest version turns out to be enough to carry a serious argument about what the statute does in practice.
 

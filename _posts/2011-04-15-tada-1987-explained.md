@@ -6,15 +6,15 @@ date: 2011-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "TADA", "Anti-Terror Laws", "Criminal Law", "Civil Liberties", "Parliament", "Judiciary"]
 excerpt: "TADA Act 1987 explained: how a two-year anti-terror statute was renewed for a decade, what its confession rule changed, and why Parliament let it lapse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2011-04-15
+lang: en
 ---
-
 The Terrorist and Disruptive Activities (Prevention) Act, the statute everyone calls TADA, was Parliament's answer to a genuine emergency, and it was written to die young. The TADA Act 1987 carried its own expiry date in its first section: two years of life, and no more. A sunset clause of that kind is a promise made in advance. It tells the citizen that extraordinary powers are being taken for a stated season, that the season will end, and that anyone who wants the powers continued must return to the legislature and argue for them in the open. TADA kept that promise in form and broke it in substance. The two-year statute was renewed in 1989, renewed again in 1991, and renewed again in 1993, so that a law sold to Parliament as a brief emergency measure governed Indian criminal justice for ten years, from 1985 to 1995, and its prosecutions ran for decades beyond its death.
 
-![A timeline of TADA enactments, renewals and lapse between 1985 and 1995 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A timeline of TADA enactments, renewals and lapse between 1985 and 1995 - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The history of TADA is therefore two histories at once. It is the history of a set of legal devices: a definition of terrorism wide enough to cover a speech, a confession rule that reversed a century of evidence law, Designated Courts sitting behind closed doors, a bail test turned on its head, presumptions that did the prosecution's work for it. And it is the history of a renewal machine, a sequence of parliamentary decisions, each individually defensible, which together converted a temporary exception into a standing feature of the legal order. To understand how Indian anti-terror law developed afterwards, through POTA and into the UAPA amendments, the second history matters as much as the first. The sunset that never set is the claim that organises everything that follows, and the renewal record is the evidence for it.
 

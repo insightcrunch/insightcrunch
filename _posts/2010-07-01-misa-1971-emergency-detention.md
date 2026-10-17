@@ -6,15 +6,15 @@ date: 2010-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "MISA", "Civil Liberties", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "MISA 1971 explained: how Section 16A, the Ninth Schedule and a suspended habeas corpus remedy turned a detention law into the Emergency's central instrument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-07-01
+lang: en
 ---
-
 Few statutes in the Republic's record carry a heavier charge in political argument than the Maintenance of Internal Security Act, and few are described with less precision. To one side of the argument, MISA 1971 is the legal face of the Emergency, the instrument by which a government imprisoned its opponents without charge, without disclosure and without any court able to intervene. To the other side, it was a detention law of a familiar Indian type, enacted four years before the Emergency for reasons unconnected with it, equipped with the safeguards the Constitution itself prescribes for preventive detention, and abused, if it was abused, by the men and women who operated it rather than by anything in its text. Both accounts contain something the record supports, and both, stated without qualification, misdescribe the statute. The disagreement worth having is narrower and harder than either slogan. It is about the distance between the Act Parliament passed in 1971 and the Act that was actually in force between June 1975 and March 1977, and about which legal steps, each identifiable and each reversible, travelled that distance.
 
-![MISA 1971 and the Emergency detentions, showing how the Maintenance of Internal Security Act was hardened between 1975 and 1976 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MISA 1971 and the Emergency detentions, showing how the Maintenance of Internal Security Act was hardened between 1975 and 1976 - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 That distance is the subject here. The method follows the order this framework requires. The statute is set out first as a text, stripped of characterisation, so that a reader can see what Parliament enacted in 1971 and what was later inserted into it. The case for the law is then stated at its strongest, in the terms its defenders used and still use, before the case against it is stated at its strongest in the terms of the official inquiry that examined its working. The factual disputes, which are real and which explain why reference works contradict one another on basic points such as the year of repeal, are separated from the value disputes, which no accumulation of evidence can settle. A verdict is offered at the end on what is settled, and it rests on a single organising claim that the whole record supports. A detention statute becomes an instrument of mass detention when four things happen in sequence: the grounds of detention are withheld from the detenu, the disclosure of those grounds is barred by law, the statute is placed beyond challenge for violating fundamental rights, and the habeas corpus remedy is suspended in practice. Call it the four-step closure. Each step on its own leaves a safeguard standing somewhere else in the system. All four together leave none. MISA is the only Indian detention statute in which all four steps were completed, and that, rather than anything in the character of the 1971 text, is what separates it from the preventive detention laws that came before it and after it.
 

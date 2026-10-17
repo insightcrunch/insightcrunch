@@ -6,15 +6,15 @@ date: 2010-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "ADM Jabalpur", "Constitutional Law", "Judiciary", "Civil Liberties", "UPSC"]
 excerpt: "ADM Jabalpur explained: the narrow question the Court answered, why four judges shut the courtroom door on detenus, and how the ruling was finally undone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-07-15
+lang: en
 ---
-
 ADM Jabalpur is remembered as a verdict about everything: the Emergency, the courage of one judge, the failure of four others, and the fragility of liberty under pressure. That memory is not wrong, but it is imprecise, and the imprecision matters because the case decided far less than the memory suggests and, in deciding that little, managed to do extraordinary damage. Additional District Magistrate, Jabalpur v Shivkant Shukla, decided on 28 April 1976 by a Constitution Bench of five judges of the Supreme Court of India, answered one framed question about who could approach a court, and on what grounds, while a Presidential Order suspending the enforcement of three fundamental rights remained in force. The Court was not asked whether the Emergency was justified. It was not asked whether the detentions that filled the prisons of the country were wise, or proportionate, or even honestly ordered in the individual cases that came before the High Courts. It was asked whether a person detained under the Maintenance of Internal Security Act could go to a High Court under Article 226 and say that the order against him was not an order under that Act at all, or was passed for reasons the Act did not permit, and whether the High Court could listen. Four judges said the High Court could not listen. One judge said it must. Everything else that the case has come to stand for flows from that single fork in the reasoning.
 
-![ADM Jabalpur and the Habeas Corpus Case, showing the Supreme Court's answer on whether a detenu could move a High Court during the Emergency - Insight Crunch](/assets/images/blog/blog-01.webp)
+![ADM Jabalpur and the Habeas Corpus Case, showing the Supreme Court's answer on whether a detenu could move a High Court during the Emergency - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This article works through the case the way a judicial interpretation study should: the provision and the ambiguity inside it first, then the route by which the question travelled from detention orders in district towns to a Constitution Bench in Delhi, then the leading decision analysed properly, judge by judge, with the facts, the framed question, the holding, the reasoning, and the limits of what was decided. It then turns to the dissent that has outlived the judgment, to the strongest honest version of the majority's position, because a criticism that cannot state its opponent's argument fairly has understood nothing, and finally to the long undoing: the stages by which a decision that was politically discredited within two years of its delivery waited forty-one years for a court to overrule it in terms. That interval is the article's central claim, and it deserves a name. Call it the forty-one-year overrule. Between discredit and overruling, the decision stood on the record as technically good law that no advocate would cite and no bench would follow, and the history of Indian liberty in those four decades is partly the history of institutions working around a precedent they had not yet formally buried.
 

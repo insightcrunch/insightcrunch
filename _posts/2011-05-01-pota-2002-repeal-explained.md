@@ -6,15 +6,15 @@ date: 2011-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "POTA", "Prevention of Terrorism Act 2002", "Anti-Terror Laws", "Joint Sitting", "UAPA", "Constitutional Law"]
 excerpt: "POTA 2002 explained: how a rare joint sitting passed India's anti-terror law, why misuse claims ended it, and why the repeal changed so little in substance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2011-05-01
+lang: en
 ---
-
 On the bare skeleton of the Prevention of Terrorism Act, 2002, the two sides of India's longest running argument about security law agree completely. Both accept that POTA was passed at a joint sitting of Parliament, a device the Constitution reserves for deadlock between the two Houses and one that had been used only twice before in the history of the Republic. Both accept that the Act governed India's response to terrorism for less than three years, that allegations of misuse gathered around it from its first months, that a change of government in 2004 brought its repeal, and that on the very day the repeal took effect the core of the statute was written into another Act, where its substance remains. The disagreement begins only when these agreed facts are characterised. To one side, POTA was a necessary law destroyed by politics, enacted in the shadow of an attack on Parliament itself and repealed as an act of appeasement that weakened the state's defences. To the other side, it was a draconian law whose repeal was overdue, a statute that armed the police against the citizen and was predictably turned against minorities, political opponents and the poor. Each characterisation cannot survive contact with the agreed skeleton, and the reason is the same in both cases. A repeal that re-enacts the repealed law's substance on the same day is not the weakening of a state's defences, and a law whose substance the repealing government chose to preserve was not, in that government's own judgment, intolerable in substance either. What the record shows is narrower and stranger than either slogan. Call it the joint sitting that changed nothing: the most extraordinary legislative procedure the Constitution offers was deployed to enact a statute whose penal core outlived its own repeal without interruption, so that the fiercest parliamentary fight in the history of Indian security law settled almost nothing about the power the state actually holds.
 
-![POTA 2002 and the third joint sitting of Parliament, showing the passage, misuse controversy and repeal of the Prevention of Terrorism Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![POTA 2002 and the third joint sitting of Parliament, showing the passage, misuse controversy and repeal of the Prevention of Terrorism Act - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This account follows the order the controversy requires. The passage record is set out first, because the joint sitting is the fact about POTA that every other account assumes and few explain. The statute is then described as a text, in the terms in which Parliament enacted it, so that the arguments can be tested against provisions rather than reputations. The case for the Act is stated at its strongest, in the voice of the government that piloted it, and the case against it at its strongest, in the voices of the parliamentarians, litigants and official bodies that opposed it. The misuse record is then separated into what the Review Committees and the courts established and what remains allegation, before the repeal and the same day transplant are examined together, which is the only honest way to examine either. A verdict follows on what the record settles, what it leaves factually contested, and what it cannot settle because the underlying dispute is about values rather than facts.
 

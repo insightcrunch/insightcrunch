@@ -6,15 +6,15 @@ date: 2011-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Criminal Law Reform", "Criminal Law", "Bharatiya Nyaya Sanhita", "UPSC", "Judiciary", "Law Students"]
 excerpt: "Criminal law reform for examinations is a retrieval problem: hold offences by their elements and chapter position, and both codes become one readable map."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2011-03-15
+lang: en
 ---
-
 Criminal law reform is the subject on which well-prepared candidates lose marks they did not need to lose. The candidate who understood murder, arrest and the burden of proof perfectly well under the old codes opens a paper that cites the new ones, reaches for a section number that has moved, and writes a confident answer about the wrong provision. The knowledge was there. The retrieval failed. That distinction, between not knowing the law and not being able to find it under examination pressure, is the whole subject of this guide, because the replacement of the Indian Penal Code, the Code of Criminal Procedure and the Indian Evidence Act by the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam changed the map of Indian criminal law far more than it changed the territory.
 
-![A dual-code revision lattice for the criminal law reform examination syllabus - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A dual-code revision lattice for the criminal law reform examination syllabus - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The method defended here can be stated in one sentence: hold every offence and doctrine by its elements and its chapter position, and treat both numbering systems as lookups against that structure. A candidate who knows that murder is the aggravated form of culpable homicide, sitting in the part of the code that deals with offences against the human body, next to attempt and abetment of suicide and causing death by negligence, can find the provision in either code in seconds. A candidate who memorised a bare list of numbers owns a list that the renumbering has just halved in value. Everything that follows is an unpacking of that sentence: the three-code spine, the four moments that organise the field, the lattice that joins the two systems row by row, the small set of numbers that function as names and must be carried in the head, the judgments whose propositions carry the marks, and the transitional rule that examiners can test from either direction.
 

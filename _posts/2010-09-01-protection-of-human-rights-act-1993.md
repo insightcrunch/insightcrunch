@@ -6,15 +6,15 @@ date: 2010-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Protection of Human Rights Act", "NHRC", "Civil Liberties", "Judiciary", "UPSC"]
 excerpt: "The Protection of Human Rights Act 1993 gives a complainant a full route map: where to file, the one year limit, and what a recommendation can deliver."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2010-09-01
+lang: en
 ---
-
 A family reaches a police station to collect a relative taken in for questioning the night before, and is told that the relative has died, or has been beaten so badly that hospital admission must come first, and in that moment the question is not abstract, because the family must decide where a complaint can go, who will hear it, and whether any institution exists whose only job is to look at what the state has done to a person in its custody, and the Protection of Human Rights Act 1993 is the statute built to answer exactly that question.
 
-![A complainant's route through the Protection of Human Rights Act 1993, from the first complaint to the final remedy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A complainant's route through the Protection of Human Rights Act 1993, from the first complaint to the final remedy - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The same doorway is meant to serve the person whose home has been demolished by a public authority without a hearing, the person who was picked up and then cannot be traced, the prisoner who says that food, medical care or protection from violence inside custody has been denied, and the worker who says that a public employer has treated her in a way that strips away equality and dignity at once. Yet a doorway is not a guarantee of entry, and a hearing is not a guarantee of relief. Every complaint in this system is governed by two hard limits, the one-year cliff and the recommendation ceiling. The one-year cliff means that a complaint must be brought within one year of the act complained of, so that a grievance left unfiled while a family pursues informal assurances, departmental promises or a slow local inquiry can fall out of the system on time alone, even when the underlying facts are grave. The recommendation ceiling means that the best outcome a commission can produce is a recommendation, not an order, so that even a complaint that is fully heard, fully investigated and fully believed ends in a direction that a government or authority is asked to accept rather than a command that a court bailiff can enforce in the ordinary way. Choosing a forum without accounting for both limits is the commonest reason a genuine grievance goes nowhere, because a complainant who files late in the wrong place, or who files in time but expects a binding decree from a body that can only recommend, has spent energy, money and hope on a route that was never designed to deliver what was asked of it.
 

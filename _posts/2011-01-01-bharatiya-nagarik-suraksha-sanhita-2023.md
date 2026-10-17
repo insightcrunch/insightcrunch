@@ -6,15 +6,15 @@ date: 2011-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Nagarik Suraksha Sanhita", "Criminal Law", "Judiciary", "Parliament", "Law Students"]
 excerpt: "The Bharatiya Nagarik Suraksha Sanhita 2023 replaced the CrPC. Its timelines, zero FIR and custody rules are tested here for the consequences they carry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2011-01-01
+lang: en
 ---
-
 A criminal case in India is shaped less by the offence it alleges than by the procedure that carries it, and on 1 July 2024 that procedure changed hands. The Bharatiya Nagarik Suraksha Sanhita, 2023, Act 46 of 2023, repealed the Code of Criminal Procedure, 1973 and took its place as the code that governs how information reaches the police, how investigation is conducted, how custody is authorised, how a trial is run and how a judgment is delivered. The Sanhita was advertised on two promises: speed, delivered through a dense network of statutory timelines, and modernisation, delivered through electronic process and forensic science. Whether those promises bind anyone is a different question, and it is the question this article tests provision by provision, because a procedural reform is only as real as the consequence that follows when it is ignored.
 
-![Inside the Bharatiya Nagarik Suraksha Sanhita 2023 and its replacement of the Code of Criminal Procedure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Inside the Bharatiya Nagarik Suraksha Sanhita 2023 and its replacement of the Code of Criminal Procedure - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The distinction that organises everything that follows is between a duty and a direction. Much of what the Sanhita announces was already the law before it was enacted, stated by the Supreme Court in decisions that police forces and trial courts were expected to obey and frequently did not. Codifying a judicial direction into a statute changes its source; it does not by itself change the behaviour of the institution that was disregarding it. Other parts of the Sanhita are genuinely new law, and some of those change the position of an accused person in ways that matter from the first week of custody. Sorting the first category from the second, and then asking of every new period the statute prescribes whether anything happens when the period expires, is the only honest way to read this code.
 

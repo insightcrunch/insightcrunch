@@ -6,14 +6,15 @@ date: 2011-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "TADA", "POTA", "anti-terror law", "National Investigation Agency"]
 excerpt: "India has run three anti-terror statutes, yet the operative power barely moved: this lineage follows each provision from UAPA to TADA to POTA and back."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 109
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2011-04-01
+lang: en
 ---
 The statute book offers three names, and the three names suggest three separate stories. The Unlawful Activities (Prevention) Act of 1967, usually shortened to the UAPA, stands as permanent legislation without a built-in date of expiry. The Terrorist and Disruptive Activities (Prevention) Act, usually shortened to TADA, entered as temporary legislation in 1985, was renewed in successive forms, and lapsed in 1995 after Parliament declined further renewal. The Prevention of Terrorism Act of 2002, usually shortened to POTA, also entered as temporary legislation, and Parliament repealed the legislation in 2004. Read through the operative provisions, the sequence reads differently from the surface story of creation, experiment, and rejection. One statute survived every political turn. Two statutes were built to die, and did die. The puzzle sits in the distance between those facts: the names disappeared, while much of the legal machinery assembled under the names remained available to the state through another door.
 
-![Anti-terror laws in India, tracing the lineage from the UAPA of 1967 through TADA and POTA and the transplant chart of contested powers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Anti-terror laws in India, tracing the lineage from the UAPA of 1967 through TADA and POTA and the transplant chart of contested powers - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 That distance matters because anti-terror law is not ordinary criminal law with a louder title. The field governs the definition of a terrorist act, the proscription of an organisation, the forfeiture of property, the admissibility of statements, the grant or refusal of bail, the length of custody before charge, the protection of witnesses, and the forum of trial. A change in any one provision alters the balance between investigation and liberty. The definition decides which conduct leaves the ordinary law of offence and enters a regime of aggravated punishment. The proscription power decides whether membership, support, or fundraising can become criminal conduct in itself. When a statute lapses or stands repealed, the first question is therefore not whether a title has vanished. The first question is whether those operative powers vanished with the title, moved to another statute, or stayed exactly where earlier legislation had placed them.
 

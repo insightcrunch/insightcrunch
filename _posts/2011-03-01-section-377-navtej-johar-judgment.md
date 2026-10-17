@@ -6,17 +6,17 @@ date: 2011-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Section 377", "Indian Penal Code", "Civil Liberties", "Judiciary", "Constitutional Law"]
 excerpt: "The Navtej Singh Johar judgment read Section 377 down in 2018, preserving offences against non-consenting adults that Parliament later dropped from the code."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2011-03-01
+lang: en
 ---
-
 ## The interpretive question Section 377 left to the courts
 
 Section 377 posed a question that its own words could not answer, and the Navtej Singh Johar judgment is best understood as an attempt to answer that question with precision rather than with breadth. What exactly did the Supreme Court decide in 2018, what part of the provision did it deliberately leave standing, and why does that distinction between decision and remainder matter so much for an understanding of the offence? Those are the questions around which an account of the case must be organised, because the judgment did not simply erase a section from the Indian Penal Code. It read the section down, it preserved a residue that the Court treated as severable and defensible, and it left that residue in force as law. A later act of Parliament then altered the picture again, for the replacement code of 2023 repealed the whole section and carried none of the preserved residue forward. The interpretive problem, the judicial response to that problem, and the legislative sequel therefore have to be kept distinct. If they are collapsed into a single story of repeal, the care with which the Court drew its line is lost, and the quite different character of what Parliament did afterwards is obscured.
 
-![Section 377 and the Navtej Singh Johar judgment read down by the Supreme Court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 377 and the Navtej Singh Johar judgment read down by the Supreme Court - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The starting point is the difference between a provision as written and a provision as applied. A criminal section speaks in general terms, through a form of words chosen long before the disputes that test it arise, and it leaves to courts the work of saying what those words cover in a particular prosecution and what they cannot lawfully cover at all. With Section 377 that gap between text and application was unusually wide. The central phrase in the section, carnal intercourse against the order of nature, was not defined anywhere in the Code, and no accompanying definition elsewhere in the Code supplied the missing content. The phrase carried an appearance of moral certainty while offering no legal test by which a citizen, a police officer, or a judge could determine its boundaries with confidence. To ask what Section 377 meant was therefore to ask a question that the enacted text directed away from itself and towards a body of judicial interpretation built up over time. The interpretive question left to the courts was not a peripheral difficulty in an otherwise clear offence. It was the centre of the offence, and any constitutional challenge to the section had to confront the way in which meaning had been supplied, extended, and contested through interpretation rather than through legislative definition.
 

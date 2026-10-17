@@ -6,15 +6,15 @@ date: 2010-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Preventive Detention", "Constitutional Law", "Civil Liberties", "Judiciary", "UPSC"]
 excerpt: "Preventive detention law in India explained: how Article 22 switches off ordinary arrest rights, how the Advisory Board gate works, and which statutes detain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2010-06-01
+lang: en
 ---
-
 Preventive detention law in India begins with a paradox that no summary of a single statute can capture. A person may be taken into custody without charge, without trial, and without any offence having been proved, on the satisfaction of an executive authority that the person is likely to act in a manner prejudicial to specified public interests. In most constitutional democracies that power either does not exist in peacetime or survives only as an emergency residue hedged by judicial control. In India it is written into the fundamental rights chapter of the Constitution itself, in Article 22, and it is surrounded there by a set of safeguards whose most protective clauses are expressly withdrawn from the very class of persons the power targets. Understanding this field means understanding that architecture as a system: a constitutional root, a legislative split between the Union and the states, a family of central and state statutes built on top, and a supervision layer made of Advisory Boards and constitutional courts. Any single detention order, passed under any of these statutes in any part of the country, occupies a determinate place in that system, and the reader who can see the system can place the order, identify the safeguards that apply to it, and judge whether they were honoured.
 
-![Preventive detention law in India and the Article 22 architecture of safeguards, Advisory Boards and court supervision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Preventive detention law in India and the Article 22 architecture of safeguards, Advisory Boards and court supervision - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The namable claim of this guide is the three-month clock and the twin exclusion. Every question in this field reduces to two constitutional facts. The first is that Article 22, clause (3), switches off the ordinary arrest protections of clauses (1) and (2) for a person held under a detention law, so the detenu has no constitutional right under that Article to be told the grounds of arrest as an arrested person is, no right under that Article to consult and be defended by a legal practitioner of choice, and no right under that Article to be produced before a magistrate within twenty-four hours. The second is that Article 22, clause (4), sets a clock of three months, beyond which detention may continue only if an Advisory Board, a body of persons of High Court judicial standing, reports that there is sufficient cause, so the authorisation for longer custody comes from a board and not from a court. Get those two facts right and the rest of the field, the statutes, the grounds, the procedure, and the case law, arranges itself around them. Get either of them wrong, as most short accounts do, and everything built on top is wrong as well.
 

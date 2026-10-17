@@ -6,15 +6,15 @@ date: 2011-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Sakshya Adhiniyam", "Indian Evidence Act", "Criminal Law", "Judiciary", "Law Students", "UPSC"]
 excerpt: "The Bharatiya Sakshya Adhiniyam 2023 replaced the Indian Evidence Act: the certificate survived, the numbering changed, and most doctrine crossed over."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2011-01-15
+lang: en
 ---
-
 The Bharatiya Sakshya Adhiniyam 2023 is the statute that replaced the Indian Evidence Act, 1872, and the first thing to understand about it is how little of the law of evidence it actually changed. On 1 July 2024 the Adhiniyam came into force as Act 47 of 2023, and the Evidence Act, which had governed what Indian courts may receive as proof and how they must reason from it for a century and a half, stood repealed. Yet a lawyer who opens the new statute looking for a new law of evidence will mostly find the old one, renumbered. The relevancy scheme is the scheme of 1872. The confession rules are the confession rules of 1872, compressed into fewer sections. The dying declaration, the burden of proof, the presumptions, the law of witnesses and their examination all crossed over in substance. What genuinely changed is concentrated in one place, the treatment of electronic records, and even there the change is double-edged: electronic records were written into the heart of the Act as documents in their own right, and at the same time the certificate requirement that had generated a decade of appellate litigation was carried across, given a prescribed form, and made in one respect harder to satisfy than before.
 
-![A courtroom file of documentary and electronic evidence under the Bharatiya Sakshya Adhiniyam 2023 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A courtroom file of documentary and electronic evidence under the Bharatiya Sakshya Adhiniyam 2023 - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 This article separates the three things the Adhiniyam did, because accounts that collapse them into a single claim misdescribe the statute. The first was an act of retention on a very large scale, in which the doctrines worked out under the 1872 Act were carried forward under new section numbers. The second was a small set of genuine changes, of which the electronic records provisions are the largest and a handful of others, on absconding co-accused, on accomplice corroboration, and on the definition of secondary evidence, are worth knowing precisely. The third was an act of renumbering, and renumbering is not free. Where a successor provision reproduces its predecessor in substance, every existing judgment remains good law, but every citation has to be translated, so the immediate cost of the new evidence statute is a decade of double citation in pleadings, in textbooks, and in examination answers. That cost, which this article calls the renumbering tax, is paid by the profession whether or not the reform delivers anything in return. The honest assessment of the Adhiniyam turns on whether the electronic records changes are worth that tax, and on whether the certificate problem that the old law bequeathed has been solved or merely re-enacted in a new number.
 

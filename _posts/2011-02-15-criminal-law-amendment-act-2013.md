@@ -6,15 +6,15 @@ date: 2011-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Criminal Law Amendment Act 2013", "Criminal Law", "Parliament", "Judiciary", "Civil Liberties", "UPSC"]
 excerpt: "Criminal Law Amendment Act 2013 rewrote the law on sexual offences: what the Verma Committee proposed, what the ordinance altered, and what Parliament enacted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2011-02-15
+lang: en
 ---
-
 The distance between a reform report and the statute it produces is usually invisible, because only the statute survives in the law reports and only the statute is ever read. The Criminal Law Amendment Act 2013 is the rare Indian amendment whose full trail survives in public: a committee report written in thirty days under street pressure, an ordinance promulgated eleven days after that report, and an Act passed by Parliament seven weeks later which differed from both. The three documents can be laid side by side, recommendation by recommendation, and the differences measured. That measurement is the subject of this article, and it supports a claim worth naming at the outset. The narrowing sequence is this: at each step from report to ordinance to Act, the recommendations that carried the highest political cost were the ones most likely to be dropped, softened, or reversed, while the recommendations that cost the political system little, the new offences and the higher punishments, passed through almost intact and were in one case strengthened beyond what the committee had proposed. The 2013 amendment is therefore not only a change in the law of sexual offences. It is a calibrated record of what Indian legislative reform can absorb when public pressure is at its maximum, and of what it cannot absorb even then.
 
-![The Parliament of India and the passage of the Criminal Law Amendment Act 2013 after the Verma Committee report - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Parliament of India and the passage of the Criminal Law Amendment Act 2013 after the Verma Committee report - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 A reader who finishes this article will be able to perform that measurement unaided. The article traces the state of the law before December 2012, the constitution and method of the Justice J S Verma Committee, the full spread of its recommendations, the respects in which the ordinance of February 2013 departed from the report it claimed to implement, and the further respects in which the Act of March and April 2013 departed from the ordinance. It then works through the enacted law itself: the new offences in Sections 354A to 354D of the Indian Penal Code, the acid attack and trafficking provisions, the rewritten definition of rape in Section 375, the punishment ladder in Sections 376 to 376E, the procedural and evidentiary changes in the Code of Criminal Procedure and the Indian Evidence Act, and the sequel in the courts and in the amendment of 2018. The refusals receive the same space as the enactments, because in an amendment trail the refusals are data of the same quality as the text. The marital rape exception that the committee asked Parliament to delete, the sanction shield for armed forces personnel that the committee asked Parliament to lower, the command responsibility it proposed, and the death penalty it expressly advised against and Parliament enacted anyway, together describe the outer boundary of the possible in 2013 more precisely than any list of new sections can.
 

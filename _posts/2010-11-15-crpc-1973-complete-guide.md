@@ -6,19 +6,19 @@ date: 2010-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Code of Criminal Procedure", "Criminal Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Code of Criminal Procedure 1973 explained end to end: FIR, arrest and Section 41A, remand and default bail, charge sheet, cognizance, bail and quashing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2010-11-15
+lang: en
 ---
-
 Every criminal case in India moves through a sequence of decision points, and almost every one of those decision points is governed by a single statute, the Code of Criminal Procedure 1973. A report reaches a police station and someone must decide whether it becomes a first information report. A suspect is identified and someone must decide whether arrest is necessary or whether a written notice will do. Days pass in custody and a magistrate must decide, at fixed intervals, whether detention continues. An investigation ends and a court must decide whether the material justifies putting a person on trial at all. The Code of Criminal Procedure 1973 is the text that disciplines each of these decisions, attaching a provision, an actor and very often a time limit to every step between the first report of a crime and the final judgment. The substantive offences themselves, the acts the criminal law forbids and the punishments it prescribes, live in a companion statute, [the Indian Penal Code, whose complete guide is the substantive half of this pair](/2010/11/01/indian-penal-code-complete-guide/); the Code of Criminal Procedure supplies the machinery through which those offences are investigated, charged and tried.
 
 The brief's central image for this statute deserves to be stated at the outset, because it organises everything that follows. The Code is a clock with two hands. One hand measures the investigation against the default bail deadline, the period within which the police must complete their work and file their report or lose the accused to bail by right. The other hand measures the liberty of the accused against the remand cycle, the rhythm of production before a magistrate at which custody must be justified again and again rather than assumed. Almost every contested criminal proceeding in India is, underneath its facts, a fight over which hand runs out first. A prosecution that treats the investigation deadline as elastic discovers that the statute converts its delay into the accused's release. A defence that ignores the remand cycle discovers that custody, once authorised mechanically, hardens into months of undertrial detention that no later acquittal can give back. Reading the Code as a clock rather than as an index of sections is the difference between knowing its contents and understanding its operation.
 
 One structural achievement stands above the rest, and it is the reform that summaries of this statute most often omit. The Code of Criminal Procedure 1973 separated the judiciary from the executive. Under the Code it replaced, the district magistrate, an executive officer answerable to the state government, stood at the head of criminal justice in the district and magistrates who tried cases were part of an administrative hierarchy the executive controlled. The 1973 Code broke that arrangement. Judicial Magistrates, who conduct trials and decide custody, were placed under the control of the High Court, while Executive Magistrates, who handle preventive and administrative functions, remained under the state government. That division, recommended by the Law Commission and rooted in the directive principle in Article 50 of the Constitution, is the single feature that most distinguishes the 1973 Code from the Code of 1898, and it shapes everything from bail hearings to prohibitory orders. This article follows the Code from the first information report to judgment as that sequence of timed decision points, explains the separation and where it remained incomplete, and traces the statute through its amendments to its replacement by a successor code in 2024, after which it continues to govern the large body of cases that were already pending.
 
-![The Code of Criminal Procedure 1973 and the journey of a criminal case from first information report to judgment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Code of Criminal Procedure 1973 and the journey of a criminal case from first information report to judgment - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## What Existed Before the Code of Criminal Procedure 1973
 

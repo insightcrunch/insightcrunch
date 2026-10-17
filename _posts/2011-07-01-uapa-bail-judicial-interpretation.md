@@ -6,15 +6,15 @@ date: 2011-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "Criminal Law", "Civil Liberties", "Judiciary", "Constitutional Law"]
 excerpt: "UAPA bail is governed by the prima facie bar in Section 43D(5), but the courts apply it on two tracks, one on the merits and one on delay and custody."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2011-07-01
+lang: en
 ---
-
 The history of UAPA bail begins with a puzzle of proportion, because Section 43D(5) of the Unlawful Activities (Prevention) Act, 1967 occupies only a small space in the statute book, and its operative proviso is shorter still, yet within six years the Supreme Court gave that proviso several distinct readings, each reading altering what a court was permitted to look at, how closely it was permitted to look, and what it was permitted to do with what it saw. A provision drafted as a threshold condition for release became, through interpretation, a contest about the nature of judging at the bail stage, about the weight to be given to the prosecution case before any evidence has been tested, and about the place of liberty in such a prosecution. The words themselves did not change in that period, so the movement in the law has to be explained by the way different benches understood the same sentence, the same materials, and the same instruction to form an opinion about an accusation. That is the interpretive tension with which any account of the provision has to begin, because the difficulty has almost always been about how a court is to obey the section in a concrete case where a person remains in custody, the investigation papers are before the court, and the accusation has not yet been put to proof at a trial.
 
-![UAPA bail and the judicial reading of Section 43D(5), from Watali to the two-track test - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UAPA bail and the judicial reading of Section 43D(5), from Watali to the two-track test - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 ## The statute the courts were given: Section 43D and the architecture of the bar
 

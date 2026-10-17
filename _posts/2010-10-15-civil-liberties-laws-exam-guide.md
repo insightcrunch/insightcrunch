@@ -6,15 +6,15 @@ date: 2010-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Civil Liberties", "Constitutional Law", "Preventive Detention", "UPSC", "Judiciary"]
 excerpt: "Civil liberties laws for UPSC and judiciary exams, organised by clause, statute and case: Article 22, the detention chain, AFSPA, NHRC and a revision lattice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2010-10-15
+lang: en
 ---
-
 Examinations on this subject rarely reward the candidate who knows the most names. They reward the candidate who can place a proposition in its correct legal home before reaching for authority, and civil liberties laws are tested in precisely that discriminating way. A question may present a person taken into custody, a period of detention, a board that has or has not reported, or a representation that has or has not been considered, and the marks turn on a prior and quieter act of identification. Which clause governs this situation, which statute if any operates under that clause, and which decided case if any supports the proposition being advanced. That order is the namable claim on which sound answers in this area rest, and it deserves to be stated plainly at the outset. Clause first, statute second, case third. The candidate who reverses the order, reasoning backwards from a remembered case to a provision never properly identified, may write fluently and still answer a question that was not asked.
 
-![Civil liberties laws examination guide built on the Article 22 clause map and the detention statute chain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil liberties laws examination guide built on the Article 22 clause map and the detention statute chain - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The loss of marks follows a recognisable pattern. A candidate memorises case names and statute names as though they were self-sufficient units of learning, detached from the text that gives them meaning. The names are retained, often accurately, but the relationship between them is not understood, so a safeguard belonging to arrest is offered as an answer about detention, or a proposition drawn from one factual setting is transferred without examination to another setting where the governing clause has switched the safeguard off. The examiner does not need to set an obscure question to expose that weakness. An ordinary question, framed around an ordinary distinction, is enough, because the distinction between arrest and preventive detention runs through the whole area and governs which rights exist, which authority must act, within what period, and by what procedure. A candidate who has not fixed that distinction in advance must improvise it under examination pressure, and improvisation tends to reproduce the most familiar phrase rather than the correct clause.
 

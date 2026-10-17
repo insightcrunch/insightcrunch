@@ -6,15 +6,15 @@ date: 2010-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Nyaya Sanhita", "Indian Penal Code", "Criminal Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The Bharatiya Nyaya Sanhita 2023 replaced the Indian Penal Code: what it kept, what it dropped, what it added, and how pending IPC cases cross over in law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2010-12-15
+lang: en
 ---
-
 The Bharatiya Nyaya Sanhita 2023 is the statute that ended the Indian Penal Code. On 1 July 2024 the Sanhita came into force as Act 45 of 2023, and the Penal Code of 1860, which had defined the substantive criminal law of India for well over a century and a half, stood repealed. Yet a repeal of this kind is not an ending in any simple sense. The Sanhita is best understood as three distinct analytical moves performed at once: a large act of retention, in which the architecture and much of the substance of the old code were carried across under new numbers; a smaller act of deletion, in which nineteen provisions of the Penal Code were dropped, one of them against the express written advice of the parliamentary committee that examined the bill; and a set of additions, twenty new offences together with a new punishment, which changed the sentencing policy of the code even where its text remained familiar. Accounts that collapse those three moves into a single claim, whether the claim is that everything changed or that nothing did, misdescribe the statute. This article separates them.
 
-![Parliament House in New Delhi and the replacement of the Indian Penal Code by the Bharatiya Nyaya Sanhita 2023 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Parliament House in New Delhi and the replacement of the Indian Penal Code by the Bharatiya Nyaya Sanhita 2023 - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The reader who works through what follows will be able to say, provision by provision, which of the three moves any given part of the Sanhita represents. That reader will also understand the transitional position, which is the part of the replacement that matters most in practice: because the repeal was accompanied by a savings provision, the Indian Penal Code continues to govern every offence committed before 1 July 2024, and it will go on deciding real cases in real courtrooms for years after its formal repeal. A new code, in other words, is not a new beginning. It is a repeal, a set of savings, a transitional period measured in years, and a series of choices about what not to carry forward, and the choices about omission turn out to matter more than the renaming.
 

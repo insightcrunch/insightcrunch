@@ -6,15 +6,15 @@ date: 2010-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Preventive Detention", "Civil Liberties", "Constitutional Law", "Criminal Law", "Judiciary"]
 excerpt: "Preventive detention vs arrest in India: one answers a past offence before a court, the other prevents a feared act on an officer's satisfaction alone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2010-10-01
+lang: en
 ---
-
 The comparison between preventive detention vs arrest is not an academic distinction, and it is usually learned at the worst possible moment: in a police station corridor, on the telephone to a lawyer, in the first confused hours after a person has been taken away and nobody in the family can say under what power. The two regimes look alike from the corridor. In both, uniformed officers take a person into custody. In both, the person is lodged in a jail or a lock-up. In both, the family is told to wait. Yet almost everything that follows from that moment, the rights the person holds, the documents that must exist, the forum that can be approached, the clock that is running and the way release is obtained, depends entirely on which of the two regimes is in operation, and the two regimes share almost nothing beyond the physical fact of custody.
 
-![Preventive detention vs arrest in India compared through the detention order, the grounds and the two regimes of Article 22 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Preventive detention vs arrest in India compared through the detention order, the grounds and the two regimes of Article 22 - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 An arrest is the opening move of a prosecution. It asserts that an offence has been committed, that this person is suspected of committing it, and that a court will in due course decide whether the assertion is true. Preventive detention is not the opening move of anything. It asserts no offence, begins no prosecution and promises no trial. It rests on a prediction: an executive authority is satisfied that a person is likely to act in a manner prejudicial to public order, to the security of the State or to some other protected interest, and that the person must be confined now to prevent the predicted act. The first regime looks backward to a deed and forward to a verdict. The second looks only forward, to a deed that has not happened, and it ends not with a verdict but with the expiry of a fixed period. Getting the regime wrong in the first forty-eight hours wastes the only period in which anything can be done quickly, because the remedies are not interchangeable. A bail application filed in a detention matter is a document addressed to a court that has no case before it. A family that waits for a charge sheet in a detention matter is waiting for a document the law never requires anyone to file.
 
