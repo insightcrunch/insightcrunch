@@ -6,15 +6,15 @@ date: "2021-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Federal Election Campaign Act", "Campaign Finance", "Congress", "Supreme Court", "American History"]
 excerpt: "The Federal Election Campaign Act built modern campaign finance law: disclosure, contribution limits, public financing, an enforcement body, and court review."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: "111"
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2021-09-01"
+lang: en
 ---
-
 The Federal Election Campaign Act of 1971 is the statute around which federal campaign finance law is organized, and the question at the center of the statute is how money raised and spent to elect candidates for federal office is to be disclosed, limited, and policed. The enacted text supplies a formal identity of unusual precision. The short title is the Federal Election Campaign Act of 1971, Public Law 92-225, printed at 86 Stat. 3. President Richard Nixon signed the enacted bill, S. 382 of the 92nd Congress, on February 7, 1972. The title therefore carries a year earlier than the signature, and precision on that point matters, because the act named for 1971 became law in 1972 and took effect on April 7, 1972.
 
-![The Federal Election Campaign Act of 1971, the statute that rebuilt federal campaign finance law around disclosure, limits, public financing, and an enforcement commission](/assets/images/blog/blog-01.webp)
+![The Federal Election Campaign Act of 1971, the statute that rebuilt federal campaign finance law around disclosure, limits, public financing, and an enforcement commission](/assets/images/blog/blog-56.webp)
 
 The act signed in 1972 was principally a disclosure statute with ceilings on media spending. Political committees registered and reported, contributions above stated thresholds entered a public record, and spending on communications media stood under a formula ceiling. The act imposed no general contribution limits on individuals, created no enforcement commission, and created no public financing. The architecture associated with the name arrived with the Federal Election Campaign Act Amendments of 1974, Public Law 93-443, printed at 88 Stat. 1263 and signed on October 15, 1974, by President Gerald Ford. The amendments added contribution limits, expenditure limits, a commission, and a completed system of presidential public financing, and the limits provisions took effect on January 1, 1975. Attribution that credits the 1971 enactment with the whole structure misstates the sequence that the statute book records.
 

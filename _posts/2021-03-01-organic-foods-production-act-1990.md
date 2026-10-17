@@ -6,17 +6,17 @@ date: "2021-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Organic Foods Production Act", "Agriculture Policy", "Legislative Process", "Environmental Law"]
 excerpt: "The Organic Foods Production Act of 1990 gave the word organic one national meaning, a citizen board to guard it, and exceptions that expire unless renewed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: "92"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2021-03-01"
+lang: en
 ---
-
 ## The Word Congress Chose to Define
 
 A statute can regulate a substance, a practice, a place, or a transaction, and each choice carries a different legal meaning. The Organic Foods Production Act belongs to a less familiar category. Its central object was a word. The question Congress answered was what the term on a food label could lawfully signify in American commerce, what conditions had to stand behind that term before a seller could use it, and who could rely on the term once it appeared in the marketplace. Before November 1990, the answer depended on geography and on the private or public body whose standard happened to govern a particular sale. After enactment, the answer was to be supplied by federal law. That shift, from many local answers to one national answer, is the act in its simplest form, and every other feature of the statute follows from it.
 
-![The Organic Foods Production Act of 1990 and the national standard behind the organic label - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Organic Foods Production Act of 1990 and the national standard behind the organic label - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The formal identity of the measure can be stated completely in a single sentence, and precision about that identity matters because the statute is often described loosely as a general food law. The Organic Foods Production Act of 1990 is Title XXI of the Food, Agriculture, Conservation, and Trade Act of 1990, Public Law 101-624, signed on November 28, 1990 by President George H. W. Bush, comprising sections 2101 to 2123 of the Act and codified at 7 U.S.C. 6501 and following. The placement carried significance of its own. The definition did not arrive as a freestanding consumer measure detached from agricultural law. It arrived inside a farm act, as a title concerned with certification, and its home in the United States Code placed it among the agricultural statutes administered through the Department of Agriculture. Form, placement, and codification all pointed in the same direction. Congress had written a marketing standard for agricultural products, housed where agricultural marketing law belonged.
 

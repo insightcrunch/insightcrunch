@@ -6,17 +6,17 @@ date: "2021-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Farm Subsidies", "Agricultural Policy", "Congress", "Trade Policy", "Environmental Law", "American History"]
 excerpt: "Farm subsidy impact research follows the money past the farm gate: concentrated payments, rents captured by landowners, and measured planting effects."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: "97"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2021-01-15"
+lang: en
 ---
-
 Farm subsidy law begins with a promise that sounds narrow enough to test. The statutes that authorize federal farm support present the money as income support and stabilization for the farmers who produce the national food supply, delivered against a level of weather and price volatility that few other sectors match. A crop can be planted in a season of strong prices and harvested into a collapse that no decision on the farm caused, and a single drought, flood or freeze can erase a year of revenue across an entire region at once. The case written into the law is therefore not a case for generosity in the abstract. It is a case for a public instrument that steadies income when markets and weather move together against producers, keeps operations solvent through troughs they did not create, and preserves the capacity to plant the next crop. Whether the measured record shows the money landing on that aim is a separate question, and it is the question the evidence assembled here answers finding by finding.
 
 The first difficulty in answering it is that the check and the benefit are not the same thing. A payment is made to a named recipient, recorded against a farm or a person, and reported in program statistics by the amount that left the Treasury. The economic benefit of that payment, however, travels. It can travel to the landowner who raises the rent once a reliable payment stream attaches to the land, to the seller who prices the expected stream into an acre offered for sale, to the lender whose loan becomes safer, or to consumers and competitors in other countries when support changes what is planted and at what price world markets clear. The record reviewed here follows the money past the farm gate and past the name on the payment, because the gap between the two is where the largest findings sit. Effects measured across the commodity, crop insurance and conservation titles of the recurring farm bills, in the form enacted by the Agriculture Improvement Act of 2018, Public Law 115-334, show a system that reaches the stated aim in part and misses it in part, and the pattern of the misses is consistent enough to name.
 
-![Farm subsidy impact evidence on payments, land values, and production - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Farm subsidy impact evidence on payments, land values, and production - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The organizing claim that the findings support is that federal farm support operates, in substantial part, as support for land, not for farmers. The distinction is not rhetorical. A payment keyed to acres, to historical production on those acres and to the value of what those acres produce will settle where the acres settle, in the ownership and rental structure of American farmland, and it will reward scale in proportion to scale. A payment that raises the return to owning farmland raises the price of farmland and the rent charged for its use, so a share of every dollar appropriated for operator income becomes a higher entry cost for the next operator. A payment designed to leave planting decisions untouched can approach that goal closely when it is genuinely detached from current prices and plantings, while a payment delivered through subsidized insurance changes the economics of marginal acres in ways the detached payment does not. Read together, the five findings describe a support system whose benefits concentrate, capitalize and leak in predictable directions, and whose clearest successes lie where the payment buys a defined outcome, such as retired fragile land, rather than where it supplements income in general.
 

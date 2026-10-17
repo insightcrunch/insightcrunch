@@ -6,15 +6,15 @@ date: "2020-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Debt Ceiling", "Congress", "Legislative Process", "American History"]
 excerpt: "How the debt ceiling governs borrowing to pay enacted obligations, through extraordinary measures, suspensions, and the exhaustion date in practice and law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2020-04-01"
+lang: en
 ---
-
 The debt ceiling decides whether the United States pays obligations that Congress has already enacted into law. The mechanism is a statutory limit at 31 U.S.C. 3101 on the face amount of obligations issued by the Treasury, and the outcome governed by that mechanism is payment itself. When enacted spending exceeds enacted receipts, borrowing fills the gap between the two totals. A ceiling that blocks borrowing therefore blocks the means of payment without removing a single obligation. The ceiling is best understood as a permission slip for bills already run up, since it controls whether the government may pay for spending Congress has already approved rather than controlling the spending itself.
 
-![The United States Capitol and the statutory debt ceiling that governs federal borrowing to pay enacted obligations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The United States Capitol and the statutory debt ceiling that governs federal borrowing to pay enacted obligations - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That separation organizes every episode in the record. Appropriations acts supply authority for agencies to incur obligations for stated purposes. Mandatory spending laws create obligations by formula and by eligibility rule. Tax laws determine the receipts that reach the Treasury through rates, bases, deductions, and credits. None of those decisions originates in section 3101. Section 3101 enters after the other decisions have combined to produce a financing need, and section 3101 answers a narrower question, whether the Treasury may issue obligations in an amount sufficient to meet the need. Confusion about the instrument almost always begins with a collapse of that sequence into a single decision.
 

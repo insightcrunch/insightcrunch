@@ -6,17 +6,17 @@ date: "2021-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Brady Act", "Criminal Justice", "Congress", "American History"]
 excerpt: "A NICS background check explained through its mandate, three databases, three responses, default proceed clock, record destruction rule, and state division."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: "91"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2021-06-15"
+lang: en
 ---
-
 ## The Requirement Before a Transfer May Be Completed
 
 Before a licensed dealer may hand over a firearm to a buyer who holds no license, a federal background check must occur. The transfer does not rest on the judgment of the dealer alone or on a representation by the buyer alone. Federal law interposes a system outside the transaction, and it requires the licensee to consult that system before the transfer is completed. The firearm may change hands only after the consultation has produced the result the statute specifies, or after the waiting interval the statute specifies has elapsed without a notification that receipt would be unlawful, and only after the licensee has verified the identity of the person at the counter through a photo identification document. The sequence matters as much as the substance, because the check belongs to the interval between agreement and completion, while the licensee retains the power to stop the transaction altogether.
 
-![Licensed dealer initiating a NICS background check while a buyer completes the federal firearms transaction record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Licensed dealer initiating a NICS background check while a buyer completes the federal firearms transaction record - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The operative question the provision answers is therefore narrow and concrete. The question is whether a licensed importer, manufacturer, or dealer may complete a transfer of a firearm to a person who is not a licensee, and if so, what must happen first. The answer is structured as a prohibition with conditions. The licensee may not transfer unless the stated steps occur before completion. Every later feature of the system, from the databases consulted to the responses returned to the records retained or destroyed, exists to serve that single gating function. A check that produces no bar permits the transfer to proceed under the terms of the provision. A check that produces a notification of unlawfulness closes the gate. A check that produces neither outcome within the statutory interval leaves the gate in the position the statute defines for that circumstance. The provision does not create a general licensing scheme for buyers. The duty attaches to a defined class of transferors, acting in a defined kind of transaction, before completion rather than after.
 

@@ -6,17 +6,17 @@ date: "2021-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Federal Crop Insurance Act", "Agriculture Policy", "Farm Bill", "Legislative Process", "Congress"]
 excerpt: "An account of federal crop insurance law: how premiums are subsidized, how companies deliver policies, and how reinsurance shares the underlying risk."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: "93"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2021-01-01"
+lang: en
 ---
-
 The statute for federal crop insurance requires a producer who seeks subsidized coverage to purchase a policy through an approved insurance provider, on federal policy forms and at federal rates, and it requires that provider to accept every eligible applicant. The largest federal farm support program sits in the insurance title rather than the commodity title, and its size follows from that legal design. The Federal Crop Insurance Corporation stands behind the policies, the Risk Management Agency administers the rates and rules, and private companies carry the contract to the farm.
 
 The same statute requires the federal government to pay a large share of the price of that coverage and to pay the companies that deliver it. Premium subsidies under section 1508(e) of title 7 averaged about 62 percent of total premiums across the periods measured by the Government Accountability Office and the Congressional Budget Office, and a separate reimbursement stream paid companies for selling, servicing, and adjusting the policies. A producer therefore bought a contract whose price, delivery, and risk had each been divided between the farm and the federal government before a loss occurred.
 
-![How federal crop insurance law works through premium subsidies, company delivery, and revenue protection - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How federal crop insurance law works through premium subsidies, company delivery, and revenue protection - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The sections that follow trace that division through the text of the statute, from its definitions and subsidy schedule to its delivery structure, its products, and its place beside the limited payment programs of the commodity title.
 

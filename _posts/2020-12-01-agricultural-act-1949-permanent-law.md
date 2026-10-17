@@ -6,19 +6,19 @@ date: "2020-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Agricultural Act of 1949", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The Agricultural Act of 1949 never expires, so every farm bill suspends its parity supports and dairy purchases instead of repealing the permanent law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: "99"
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2020-12-01"
+lang: en
 ---
-
 ## The Agricultural Act as Permanent Law
 
 The Agricultural Act of 1949 occupies a position unlike that of an ordinary authorization statute. Congress enacted it without an expiration date, and the generations of farm legislation that followed did not repeal it. Each successive farm bill instead suspended its operation for a defined period, leaving the text in place while a different commodity program governed in its stead. The consequence of that arrangement appears only when the sequence breaks. If a farm bill lapses and no successor or extension takes its place, the suspension lapses with it, and the older statute revives by its own force. Revival would not restore a modest safety net written for contemporary conditions. It would restore mandatory price supports calculated from parity, a standard anchored to the relationship between prices farmers received and prices farmers paid during the years from 1910 to 1914, before the First World War transformed American agriculture. A failure of legislative timing would therefore produce a substantive change in farm policy, returning the Department of Agriculture to formulas, allotments, quotas, and purchase obligations that Congress had kept dormant for decades precisely because their operation would be so disruptive.
 
 The formality of that identity matters because the statute is often treated in debate as a background abstraction rather than as a specific enactment with a citation that can be checked. The Agricultural Act of 1949 is Public Law 81-439, published at 63 Stat. 1051, signed by President Harry S. Truman on October 31, 1949, and enacted by the 81st Congress. Its provisions are codified principally at 7 U.S.C. 1421 and following, a placement explained by the location of its general and Commodity Credit Corporation provisions in title IV of the act, even though its price support titles sit at 7 U.S.C. 1441 and following. The 1949 act does not stand alone as permanent law. Together with the Agricultural Adjustment Act of 1938, Public Law 75-430, and the Commodity Credit Corporation Charter Act of 1948, Public Law 80-806, it forms the permanent law from which farm commodity program authority derives, a formulation the Congressional Research Service used in describing the commodity provisions of the farm bill enacted in 2014. Those three enactments supply the enduring statutory foundation, and each farm bill builds a temporary structure on top of that foundation rather than replacing the foundation itself.
 
-![Dairy cattle and grain fields under a wide sky on an American farm - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dairy cattle and grain fields under a wide sky on an American farm - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 That layered structure explains why expiration carries a meaning in farm legislation that expiration does not carry in most other fields of federal law. In an ordinary program statute, the end of an authorization period leaves a gap. Agencies lose authority to undertake new obligations under the expired provisions, programs wind down or wait for appropriations and reauthorization, and the legal condition after expiration is an absence. Under the farm bill structure, the condition after a lapse is not an absence but a substitution in reverse. The temporary program recedes and the permanent program advances, because the permanent program never left. The suspension language had held it back, and the suspension language was written to last only as long as the farm bill that contained it. What returns is not a general authority to support farm income by whatever means the Secretary of Agriculture considers sensible. What returns is a detailed and mandatory code, written for the commodity economy of the middle of the twentieth century, prescribing support levels as percentages of parity and attaching production controls to some of the highest levels of support.
 

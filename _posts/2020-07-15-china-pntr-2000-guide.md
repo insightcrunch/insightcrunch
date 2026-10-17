@@ -8,11 +8,13 @@ tags: ["US Legislation", "Trade Policy", "China Trade", "Congress", "American Hi
 excerpt: "Permanent normal trade relations with China lowered no tariff. The law ended the annual waiver vote and removed the threat of much higher rates behind it."
 image: "/assets/images/blog-01.webp"
 reading_time: "84"
-author: "InsightCrunch Editorial"
+author: "abigail-cooper"
 last_updated: "2020-07-15"
+lang: en
 ---
-
 Permanent Normal Trade Relations with China changed the legal footing of trade between the two countries without changing the tariff charged on a single shipment. For twenty years before permanent status took effect, goods from China entered the United States at normal column 1 rates because a president renewed a waiver each year. Those rates were real, and trade moved under them, but the authority behind them ran for one cycle at a time. The statute ended that yearly permission. After its central provision took effect, normal treatment rested on ordinary law, and no annual renewal stood between an importer and the rates printed in the schedule.
+
+![Permanent Normal Trade Relations With China Explained - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The formal measure was the United States-China Relations Act of 2000, Public Law 106-286, 114 Stat. 880, enacted as H.R. 4444 and signed by President Bill Clinton on October 10, 2000. Its official title described a law to authorize extension of nondiscriminatory treatment, called normal trade relations treatment, to the People's Republic of China and to establish a framework for relations between the two countries. Section 101 terminated the application of chapter 1 of title IV of the Trade Act of 1974 to China. Section 102 tied that termination to a condition outside the statute itself: accession by China to the World Trade Organization. The law therefore decided the domestic question in 2000, while the change in treatment waited for the international step that the text required.
 

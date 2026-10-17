@@ -6,18 +6,17 @@ date: "2020-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "NAFTA", "USMCA", "Congress", "Legislative Process"]
 excerpt: "NAFTA vs USMCA compared across five axes: tariffs barely moved, auto content and labor enforcement changed fundamentally, and the deal now also expires."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: "92"
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: "2020-09-15"
+lang: en
 ---
-
-
 The question behind NAFTA vs USMCA is asked in classrooms, in committee staff rooms, on factory floors, and in farm offices, and the question is rarely asked in the abstract. A student assigned North American trade law wants to know which text to read first and why the second text exists at all. A staffer preparing oversight material wants to know which obligations bind the United States after July 1, 2020 and which dates on the calendar will force decisions. A producer wants to know whether a shipment, a vehicle, or a milk powder consignment faces a different rule under the successor agreement than under the agreement that governed from January 1, 1994 until termination. Each version of the question sounds like a request for a single verdict, and each version conceals a choice about what to measure.
 
 The comparison that follows refuses the single verdict and names the measure instead. Five axes organize the measurement: market access, rules of origin, labor enforcement, investment, and duration and review. On the first axis, the price of crossing the border, the successor agreement changed little, because the earlier agreement had eliminated tariffs on substantially all goods by the end of the transition in 2008 and left a duty free baseline for the successor to inherit. On the remaining axes, the successor agreement changed the conditions attached to that baseline: higher content thresholds, a wage condition inside the origin rules, labor obligations moved into the main text with a facility specific mechanism attached, an investor remedy withdrawn or narrowed, and an expiry date placed on an arrangement that had carried no term.
 
-![NAFTA vs USMCA compared across tariffs, auto content, labor enforcement, investment, and the new expiry date - Insight Crunch](/assets/images/blog/blog-01.webp)
+![NAFTA vs USMCA compared across tariffs, auto content, labor enforcement, investment, and the new expiry date - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Holding both answers together is the discipline of the comparison. A reader who measures only border prices will describe the replacement as modest, and the description fits the tariff evidence. A reader who measures who may complain, about what, before which body, and with what consequence will describe the replacement as large, and that description fits the enforcement evidence. The sections that follow take the axes in order, state the earlier rule and the successor rule on each axis at full strength, and reserve the combined verdict for the close, where the deciding factor, the measure chosen, is stated in terms rather than assumed.
 

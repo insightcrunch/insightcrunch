@@ -6,15 +6,15 @@ date: "2021-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "Government Transparency", "Congress", "Administrative Law", "American History"]
 excerpt: "The Freedom of Information Act reversed who must justify secrecy: agencies disclose records unless one of nine exemptions applies, and the burden is theirs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: "86"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2021-10-01"
+lang: en
 ---
-
 The Freedom of Information Act is the statute that decides what the federal executive branch must show the public and what it may keep back, and its operative idea is an allocation of burden rather than a grant of permission. The enacted text supplies a formal identity of unusual precision. The Freedom of Information Act, Public Law 89-487, printed at 80 Stat. 250, was signed by President Lyndon B. Johnson on July 4, 1966, took effect one year later, and is codified at 5 U.S.C. 552. The act amended section 3 of the Administrative Procedure Act of 1946, the public information provision whose standards it displaced, and before the new text took effect Congress restated it in a June 1967 enactment, Public Law 90-23, so the section entered the Code in restated form.
 
-![The Freedom of Information Act of 1966, the statute that moved the burden of justifying secrecy from the requester to the agency](/assets/images/blog/blog-01.webp)
+![The Freedom of Information Act of 1966, the statute that moved the burden of justifying secrecy from the requester to the agency](/assets/images/blog/blog-13.webp)
 
 The measure of the statute is the exchange it reversed. Under the provision it replaced, a person seeking a government record had to show a proper and direct concern in the subject, and an agency could withhold for good cause found, a pair of standards that left the decision effectively with the institution holding the paper. Under the statute that took its place, any person may obtain agency records without stating any reason at all, an agency may refuse only by fitting the record within one of nine enumerated exemptions, and the agency carries the burden of justifying the refusal, in its own administrative process and again in federal court if the requester sues. The right to ask changed little in the asking. What changed was who had to explain a refusal, and to what standard.
 

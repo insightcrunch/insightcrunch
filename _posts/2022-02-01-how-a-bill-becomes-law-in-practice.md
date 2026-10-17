@@ -6,15 +6,15 @@ date: "2022-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Legislative Process", "Congress", "House of Representatives", "Senate", "American History"]
 excerpt: "How a bill becomes law in practice runs through committee gatekeepers, floor scheduling, Senate consent, and must-pass vehicles, not the textbook steps."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: "91"
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: "2022-02-01"
+lang: en
 ---
-
 In classrooms across the United States, a diagram on a wall or a page in a textbook explains how a bill becomes law through a sequence of clean boxes and arrows. A member introduces a proposal, a committee studies and amends it, one chamber debates and passes it, the second chamber repeats the process, a conference reconciles any differences, and the President signs the finished text. The diagram has the virtue of order. Every step follows the step before it, every measure receives the same treatment as every other measure, and the outcome appears to turn on the merits of the proposal and the votes of the members elected to judge it. Generations of students have memorized that sequence, reproduced it on examinations, and carried its logic into adult citizenship as the standard account of American lawmaking.
 
-![How a bill becomes law in practice on the House floor, where scheduling decisions and consent agreements decide which measures advance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How a bill becomes law in practice on the House floor, where scheduling decisions and consent agreements decide which measures advance - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The misconception the diagram plants is not that those steps exist. Each step exists, and each enacted law passes through some recognizable version of the constitutional sequence at its end. The misconception is that the sequence describes the process that decides outcomes, as though introduction set a measure on a track and the track carried the measure forward unless a majority voted it down. Practice runs in the opposite direction. Most measures never move at all, and movement itself is a scarce resource that gatekeepers grant or withhold. A proposal that no committee chair schedules, that no leader places on a calendar, that no senator allows to proceed by consent, and that no larger measure carries as cargo has no path, whatever its support among members and whatever its performance would be in a vote that never occurs. The textbook sequence names the formal stations. It omits the decisions that determine whether a measure reaches any station beyond the first.
 

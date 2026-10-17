@@ -6,19 +6,19 @@ date: "2021-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "Study Guides"]
 excerpt: "Commodity titles vs nutrition titles in the farm bill, compared on money, constituency, volatility, and jurisdiction, with the split test and a verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: "2021-02-15"
+lang: en
 ---
-
 ## Commodity Title and Nutrition Title Compared
 
 The commodity title and the nutrition title compared side by side present the central puzzle of the farm bill, because the two halves share one statute, one pair of authorizing committees, and one vote on the floor of each chamber while serving different populations through different mechanisms. Students encountering the statute in a classroom, staffers drafting amendments during a reauthorization, journalists explaining a failed vote to readers, and advocates preparing testimony for a hearing all confront the same question in different forms. Each group asks why programs that support farm income sit inside the same law as programs that support household food budgets, and each group inherits the harder question of whether the two halves belong together at all. The phrasing changes with the audience. A student asks how the pairing began and whether the pairing followed any logic at the time of origin. A staffer asks whether the pairing can survive a difficult count of votes in a chamber where neither side commands a majority alone. A journalist asks who gains and who loses if the pairing breaks apart. An advocate asks which half carries the other through the legislative process and which half absorbs the greater risk in a separation. Underneath the varied phrasing sits one comparison, and the comparison returns in every reauthorization cycle because the underlying tension receives a temporary settlement in each enactment rather than a permanent resolution.
 
 The recurrence follows from the structure of the vehicle itself. A farm bill authorizes its major programs for a limited period, roughly five years under the pattern established across the decades before the Agriculture Improvement Act of 2018, and expiration forces Congress to revisit the entire package on a recurring schedule. Each revisit reopens every settled bargain inside the package, including the bargain between commodity support and nutrition assistance. Budget baselines drawn for each new cycle also restate the relative size of the two halves under fresh economic conditions, and a restated share invites a fresh argument. The question acquired an empirical edge in the 2013 cycle, when the House of Representatives passed a farm only bill and a nutrition only bill as separate measures and neither separated bill became law, while the recombined conference report of January 2014 passed both chambers and became the Agricultural Act of 2014. That sequence converted an abstract design question into a tested proposition, and the test result entered every later discussion of separation as evidence that advocates on both sides had to answer.
 
-![Farm bill commodity titles and nutrition title compared on spending, constituency, volatility, and jurisdiction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Farm bill commodity titles and nutrition title compared on spending, constituency, volatility, and jurisdiction - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 ### What the Commodity Side Contains
 

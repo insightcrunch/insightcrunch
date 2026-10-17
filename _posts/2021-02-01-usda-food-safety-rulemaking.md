@@ -6,19 +6,19 @@ date: "2021-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Food Safety", "Health Policy", "Congress", "Legislative Process", "Supreme Court", "American History"]
 excerpt: "USDA food safety rules divide meat, poultry, and egg products from the wider food supply, shaping inspection, labels, recalls, and enforcement duties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: "105"
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: "2021-02-01"
+lang: en
 ---
-
 ## A statute on paper and a system in operation
 
 USDA food safety begins on paper, in statutory definitions enacted decades apart, and ends in operation, in whether an inspector stands on a slaughter line during every operating hour, and whether an agency can order contaminated product removed from commerce or can only ask the establishment that made the product to remove it. The distance between those two points is large. Enacted text supplies tidy categories, naming meat, poultry, and egg products on one side and assigning the remainder of the food supply to a general food statute on the other side. Operating reality supplies establishments that make both kinds of product under one roof, recipes that cross a jurisdictional threshold by a few percentage points, and hazards that no examination of a carcass can detect.
 
 The two agency split is the first expression of that gap. The Food Safety and Inspection Service, inside the Department of Agriculture, administers the inspection statutes for meat, poultry, and processed egg products. The Food and Drug Administration, inside the Department of Health and Human Services, administers the Federal Food, Drug, and Cosmetic Act for most other food. The Government Accountability Office, in report GAO-17-74 issued in 2016, described the Food and Drug Administration as responsible for roughly four fifths of the United States food supply and the inspection service as responsible for roughly one fifth, while the two agencies received close to the same food safety funding. The disparity in resources follows from a disparity in legal duty. The smaller share carries a statutory obligation of continuous presence in slaughter establishments, with examination of animals before slaughter and of every carcass and its parts after slaughter, while the larger share is overseen through periodic, risk based inspection of facilities.
 
-![USDA food safety rules and the split between continuous meat inspection and periodic food facility inspection - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USDA food safety rules and the split between continuous meat inspection and periodic food facility inspection - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The statutory inheritance behind the split explains its shape. Congress enacted the Federal Meat Inspection Act on June 30, 1906, the Poultry Products Inspection Act on August 28, 1957, and the Egg Products Inspection Act on December 29, 1970, each statute placing a defined product class inside the Agriculture Department inspection system. Shell eggs remained under the Food and Drug Administration, while eggs removed from the shell and processed as liquid, frozen, or dried products moved to the inspection service. Siluriformes fish, including catfish, moved to the inspection service under the farm act of 2008, while all other seafood remained with the Food and Drug Administration. Each assignment rested on the commodity Congress addressed at the moment of enactment, and endured through later amendment, so that jurisdiction came to follow ingredient, form, and statutory history more faithfully than hazard.
 

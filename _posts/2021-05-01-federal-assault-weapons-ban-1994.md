@@ -6,15 +6,15 @@ date: "2021-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Violent Crime Control Act", "Congress", "Criminal Justice", "American History", "Supreme Court"]
 excerpt: "The federal assault weapons ban sorted firearms by named models and counted features, grandfathered the stock in private hands, and ended on its own schedule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: "99"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2021-05-01"
+lang: en
 ---
-
 The federal assault weapons ban answered a question that had no settled answer before Congress wrote one: which semiautomatic firearms, described by name or by a counted set of configuration features, would federal law bar from new manufacture, transfer, and possession, and which firearms already held under federal law would remain lawful to keep and to transfer. Congress legislated against a defined gap. A federal import action in 1989 had excluded listed foreign rifles under a sporting purposes standard, and domestic manufacture had remained untouched. A California statute from the same year had listed firearms by make and model under state law. Neither measure supplied a general domestic rule.
 
-![Semiautomatic rifles and the features the 1994 federal assault weapons ban counted, named models and feature tests explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Semiautomatic rifles and the features the 1994 federal assault weapons ban counted, named models and feature tests explained - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The formal identity of the measure was the Public Safety and Recreational Firearms Use Protection Act, enacted as Subtitle A of Title XI of the Violent Crime Control and Law Enforcement Act of 1994, Public Law 103-322, signed by President Bill Clinton on September 13, 1994, and codified in former sections of chapter 44 of title 18. Subtitle A took effect on enactment. It amended the Gun Control Act framework rather than creating a separate firearms code, placing a definition of semiautomatic assault weapon, a definition of large capacity ammunition feeding device, two prohibitions, marking requirements, and penalty references inside the chapter that already contained the general federal rules for firearms.
 

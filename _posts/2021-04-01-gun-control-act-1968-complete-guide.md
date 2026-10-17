@@ -6,17 +6,17 @@ date: "2021-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Gun Control Act", "Criminal Justice", "Congress", "American History"]
 excerpt: "The Gun Control Act of 1968 built firearms law around the licensed dealer: its licensing and records system, prohibited persons, transfer rules, and amendments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: "99"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2021-04-01"
+lang: en
 ---
-
 ## What the Gun Control Act Does and the Design That Decides the Rest
 
 When a firearm changes hands in the United States, which federal rules attach to the transaction, and why do the same rules fall silent when the setting changes from a dealer's counter to a transfer between two private individuals in the same state? That operative question, rather than the identity of the firearm itself, organizes the statute examined in this article. A sale by a licensed dealer carries a federal license behind it, a set of records created at the moment of transfer, conditions on the age and residence of the buyer, and a bar on delivery to a person within a prohibited category. A transfer between two nonlicensees who reside in the same state carries almost none of that federal apparatus. The difference does not turn on the weapon, on its price, or on whether money changed hands at all. The difference turns on the channel through which the firearm moves and on the licensed status of the person who transfers it. Every later provision in the statute, from the definition of engaging in the business to the import standard and the amendments enacted eighteen years after passage, returns to that initial allocation of duties between a regulated commercial channel and everything that lies outside it.
 
-![Licensed firearms dealer completing a federal transaction record under the Gun Control Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Licensed firearms dealer completing a federal transaction record under the Gun Control Act - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 The formal identity of the statute is exact. The Gun Control Act of 1968, Public Law 90-618, published at 82 Stat. 1213, was signed on October 22, 1968, by President Lyndon B. Johnson and enacted by the 90th Congress as H.R. 17735, a bill introduced by Representative Emanuel Celler on June 10, 1968. The act is codified principally at chapter 44 of title 18 of the United States Code, sections 921 to 931. Title I of the act, titled State Firearms Control Assistance, wrote chapter 44. Title II amended the National Firearms Act, the registration and transfer tax regime codified at chapter 53 of title 26. Title III amended the Omnibus Crime Control and Safe Streets Act of 1968, including possession provisions that had stood in an appendix to title 18. Section 101 of the act stated the purpose of the title in two parts held together in a single clause. The purpose was to provide support to federal, state, and local law enforcement officials in their fight against crime and violence. The purpose was expressly not to place any undue or unnecessary federal restrictions or burdens on law abiding citizens in acquiring, possessing, or using firearms for lawful purposes. That second statement belongs to the enacted text rather than to later commentary, and the structure of chapter 44 gives it operational meaning, because the burdens the statute imposed fell in the first instance on persons engaged in a business rather than on persons acquiring firearms for the lawful purposes the clause named.
 

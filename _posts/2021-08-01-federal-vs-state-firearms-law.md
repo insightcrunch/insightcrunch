@@ -6,17 +6,17 @@ date: "2021-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Firearms Law", "Congress", "Supreme Court", "Criminal Justice", "Legislative Process"]
 excerpt: "Federal vs state firearms law divides the work: the federal layer licenses commerce while states govern conduct, and the deciding layer is usually state."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: "95"
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: "2021-08-01"
+lang: en
 ---
-
 ## Federal vs State Firearms Law: Two Layers, One Set of Rules
 
 The comparison between federal and state firearms law begins with a practical question rather than an abstract one. A purchaser at a licensed dealer's counter, a carrier preparing to cross a state line, a student opening a statute book for the first time, and a resident of a city that maintains an ordinance of its own all confront versions of the same underlying problem. Each asks, in a different setting, which law applies to a particular purchase, a particular journey, a particular act of possession, or a particular address. The question sounds simple, and the structure that answers it is orderly, but the answer rarely comes from a single source. Two layers of law operate at the same time, each written by a different legislature, each enforced through its own institutions, and each capable of imposing a condition that the other layer does not impose. A third layer, the law of a city or county, enters the picture in some places and adds a further question about the relationship between local rules and the state law above them.
 
-![Federal vs state firearms law and the division between commerce and conduct - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal vs state firearms law and the division between commerce and conduct - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 Formally, the comparison has a precise identity. On one side stands the federal framework, chapter 44 of title 18 of the United States Code, a body of law built on the Gun Control Act of 1968 and administered largely through licensees, the federally licensed manufacturers, importers, and dealers who form the commercial channel through which firearms move in commerce. On the other side stand the firearms statutes of the fifty states and the District of Columbia, fifty one separate bodies of law, each enacted by its own legislature and each reflecting its own choices about permits, transfers, carrying, storage, and the categories of firearms and persons that its law addresses. The federal side is a single system, uniform in text across the country. The state side is a collection of systems, similar in architecture from state to state yet different in detail at almost every point where a legislature has exercised the choices open to it.
 

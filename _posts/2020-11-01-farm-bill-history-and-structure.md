@@ -6,13 +6,15 @@ date: "2020-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The farm bill is an omnibus reauthorization whose largest title is nutrition, held together by an urban and rural coalition and a permanent law deadline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: "94"
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: "2020-11-01"
+lang: en
 ---
-
 On December 20, 2018, the President signed the Agriculture Improvement Act of 2018, Public Law 115-334, and a legislative process that had consumed the 115th Congress reached a formal end in a single signature. The act had arrived in Congress as H.R. 2. The Senate had approved the conference report by 87 to 13 on December 11, 2018, and the House had approved the conference report by 369 to 47 on December 12, 2018. The signature gave the act a coverage period running from fiscal 2019 through 2023, with authorizations running through September 30, 2023, and closed a cycle that had survived a failed House passage vote on May 18, 2018, and passed the House on June 21, 2018, by a margin of two votes, 213 to 211. A bill that had fallen short in one chamber during the spring ended the year with overwhelming majorities in both chambers, and that contrast framed the central puzzle of the vehicle that the signature brought into law.
+
+![Farm Bill Explained: How the Omnibus Law Actually Works - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 ![Farm fields and a grain elevator in the American Midwest]({{ site.baseurl }}/assets/images/blog/blog-01.webp)
 

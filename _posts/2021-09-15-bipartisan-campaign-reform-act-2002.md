@@ -6,17 +6,17 @@ date: "2021-09-15"
 categories: ["Industry"]
 tags: ["US Legislation", "McCain-Feingold Act", "Campaign Finance", "Congress", "Supreme Court", "American History"]
 excerpt: "The McCain-Feingold Act banned party soft money, regulated pre-election broadcast ads, raised and indexed contribution limits, and met four court tests."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2021-09-15"
+lang: en
 ---
-
 The Bipartisan Campaign Reform Act of 2002, enacted as Public Law 107-155 and printed at 116 Stat. 81, reached the statute books through H.R. 2356 of the 107th Congress, the House vehicle known by the names of its principal sponsors, Representatives Christopher Shays of Connecticut, a Republican, and Martin Meehan of Massachusetts, a Democrat. Its Senate companion, S. 27, carried the names of Senators John McCain of Arizona, a Republican, and Russ Feingold of Wisconsin, a Democrat, a pairing that gave the entire enterprise its more familiar shorthand, McCain-Feingold, in the Senate and Shays-Meehan in the House. President George W. Bush signed the measure on March 27, 2002, completing a legislative sequence that had consumed the better part of a decade and had survived repeated failure in one chamber or the other before a procedural maneuver in the House and a direct Senate vote on the House text finally placed an identical bill on a president's desk for signature.
 
 The statute rested on two central provisions that together defined its purpose and its controversy. The first barred national party committees from raising and spending soft money, the funds raised outside the limits and source prohibitions of the Federal Election Campaign Act of 1971, and it extended parallel restrictions to federal candidates and officeholders and to the financing of federal election activity by state and local parties. The second regulated electioneering communications, broadcast advertising that referred to a clearly identified federal candidate within defined periods before a primary or a general election, and barred corporations and labor organizations from paying for such communications from general treasury funds. Those two provisions emerged from a seven year effort that began in 1995, when McCain and Feingold issued a joint call for reform, and that proceeded through committee investigations, failed cloture votes, two House passages that died in the Senate, a presidential campaign that carried the issue to a national audience, and a corporate scandal in the final months that contemporaneous reporting credited with pushing the bill forward.
 
-![The McCain-Feingold Act of 2002, the statute that banned national party soft money and regulated pre-election broadcast advertising - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The McCain-Feingold Act of 2002, the statute that banned national party soft money and regulated pre-election broadcast advertising - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 A profile of this statute must therefore carry three intertwined accounts rather than a single story of enactment. It must explain the two titles in their statutory detail, the soft money prohibition and the electioneering communication regime that Congress constructed in response to the financing practices of the 1996 and 2000 election cycles. It must reconstruct the procedure that forced enactment after ordinary committee and leadership channels had produced an unfavorable report and a rival bill, a discharge petition that assembled a majority of the House against the preferences of its leadership. And it must trace the judicial arc that followed, in which a closely divided Supreme Court sustained the central provisions in *McConnell v. FEC* in 2003 and later decisions narrowed or invalidated parts of the structure Congress had built, leaving the soft money ban in force on its enacted text while the advertising restrictions underwent substantial revision in subsequent litigation.
 

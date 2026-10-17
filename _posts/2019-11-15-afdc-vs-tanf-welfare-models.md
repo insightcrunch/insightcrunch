@@ -6,15 +6,15 @@ date: "2019-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "Social Security Act", "Congress", "American History", "Study Guides"]
 excerpt: "AFDC vs TANF compared across entitlement, funding, recession response, and state discretion, with a four-axis table and the evidence behind each model."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: "99"
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2019-11-15"
+lang: en
 ---
-
 AFDC vs TANF names a comparison between two machines for paying cash assistance to families with children, built inside the same statutory frame and engineered to opposite specifications. The first machine, Aid to Families with Dependent Children, began as Aid to Dependent Children under Title IV of the Social Security Act of 1935 and carried the longer name from 1962 onward. The second machine, Temporary Assistance for Needy Families, entered the same Title IV, Part A in 1996 and displaced the first in the same statutory space. A shared address makes the comparison unavoidable, because each program answered the same public question about aid to needy children in parental care. Opposite engineering makes the comparison instructive, because each program answered that question with a different legal commitment, a different funding formula, a different response to economic contraction, and a different allocation of decision authority between the federal government and the states.
 
-![AFDC vs TANF welfare models compared, entitlement against block grant - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AFDC vs TANF welfare models compared, entitlement against block grant - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The change from one machine to the other arrived through a single statute. The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Public Law 104-193, signed on August 22, 1996, repealed the AFDC program, rewrote Title IV, Part A of the Social Security Act, disclaimed an individual entitlement to assistance in the new text, and substituted a fixed federal block grant for open ended federal matching. A change of that scale rewards close reading of the statute itself, and the statute receives a dedicated treatment in [the welfare reform act guide](/2019/08/01/welfare-reform-act-1996-guide/). Each element of the substitution carried a consequence that the sections ahead trace in sequence: a right became a grant, a formula became a sum, an automatic response became a series of decisions, and a federally defined program paid at state rates became a state program financed under federal purposes and conditions.
 

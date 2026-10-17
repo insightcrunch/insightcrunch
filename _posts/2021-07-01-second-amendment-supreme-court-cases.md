@@ -6,19 +6,19 @@ date: "2021-07-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Second Amendment", "Supreme Court", "Criminal Justice", "American History", "Congress"]
 excerpt: "Second Amendment Supreme Court cases from Miller through Rahimi, with each holding, the qualifying passages the opinions carry, and the test courts apply."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: "94"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2021-07-01"
+lang: en
 ---
-
 ## The Question the Cases Answer
 
 The Second Amendment Supreme Court cases answer a question that the constitutional text alone leaves open. The amendment states a right in a single sentence, pairs an operative clause declaring the right of the people to keep and bear arms with a prefatory clause concerning a well regulated militia, and supplies no standard for judging a challenged regulation. A court therefore requires a method, and the sequence from 1939 through 2024 is a sequence of methods as much as a sequence of outcomes. Each decision identifies protected conduct, assigns the burden of justification, and specifies the kind of reason that can carry that burden.
 
 The first decision in the sequence, *United States v. Miller* in 1939, answered a narrow question on an empty evidentiary record. The Court sustained the National Firearms Act as applied to an unregistered short-barreled shotgun because no evidence showed that the weapon bore a reasonable relationship to the preservation or efficiency of a well regulated militia. Lower courts then read that weapon focused ruling as a militia service rule for seven decades, and no further Supreme Court decision on the amendment arrived until 2008. The long interval matters because a precedent confined to one weapon and to an absence of evidence acquired, through lower court reception, the force of a general theory that the opinion itself had never announced in those terms.
 
-![The Supreme Court building and the text of the Second Amendment, the decisions that defined the right to keep and bear arms - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court building and the text of the Second Amendment, the decisions that defined the right to keep and bear arms - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 In 2008, *District of Columbia v. Heller* held that the operative clause protects an individual right to possess a firearm for traditionally lawful purposes, such as self-defense in the home, and that the prefatory clause announces a purpose without limiting or expanding that right. *McDonald v. City of Chicago* held in 2010 that the right applies fully against the states through the Fourteenth Amendment. *Caetano v. Massachusetts* held in 2016 that each ground on which a state court had sustained a stun gun prohibition contradicted *Heller*. Between 2008 and 2022, the courts of appeals generally judged regulations through a two step framework that paired a historical scope inquiry with means-end scrutiny, and under that framework the large majority of challenged regulations survived.
 

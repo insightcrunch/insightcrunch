@@ -6,17 +6,17 @@ date: "2020-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Congressional Budget Act", "Budget Process", "Legislative Process", "Congress", "American History"]
 excerpt: "Congressional Budget Act gave Congress its own budget committees, estimates, timetable and impoundment rules. This guide traces each creation and its record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: "93"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2020-01-01"
+lang: en
 ---
-
 How could a legislature that voted on spending bill by bill, program by program and session by session, using numbers prepared by the president, ever control a budget as a whole? The Congressional Budget Act exists because Congress, by the early 1970s, could not answer that question with the machinery then in place. Members could amend a line item, defeat an appropriation, raise a tax or lower a tax, and each act carried real consequences. Added together, the acts produced a total that no member had voted on, supported by estimates that no congressional office had prepared, under a calendar that expired before the work was finished. Control of the parts coexisted with loss of the whole.
 
 The statute that closed the distance was the Congressional Budget and Impoundment Control Act of 1974, Public Law 93-344, 88 Stat. 297, signed on July 12, 1974, codified principally at 2 U.S.C. sections 601 and following, with the impoundment title at 2 U.S.C. sections 681 and following. Enactment joined two reforms that a single confrontation had fused together. One reform was internal, addressed to the way Congress decided: committees charged with totals, an office charged with estimates, a resolution stating a complete fiscal position, allocations carrying that position down to the committees that drafted bills, and points of order policing the result. The other reform was external, addressed to the way the executive executed: procedures governing presidential withholding of enacted funds, so that an appropriation enacted over a presidential veto could not be set aside by administrative refusal to spend.
 
-![How the Congressional Budget Act gave Congress its own budget numbers, its own timetable and control over impoundment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Congressional Budget Act gave Congress its own budget numbers, its own timetable and control over impoundment - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The internal problem had a shape that ordinary diligence could not cure. Appropriations bills moved through subcommittees organized around departments and agencies. Revenue bills moved through the tax committees. Authorizing committees created programs, and a growing share of spending arose outside the annual bills altogether, through entitlement formulas, contract authority that obligated the Treasury in advance of an appropriation, and borrowing authority that financed activity without an annual vote. No stage of that sequence required a decision on total spending, total revenue, the deficit or surplus, or the public debt. Each committee answered for a jurisdiction. No committee answered for the aggregate, and the aggregate was where fiscal policy lived. Layered over the fragmentation stood dependence on executive arithmetic. The Budget and Accounting Act of 1921 had given the president a consolidated budget and a budget bureau to prepare the document, so debate about a presidential program began from presidential figures, forecasts and cost estimates. Disputing a number is a weaker act than producing a rival number by a stated method, maintained across bills and years by an office answerable to the legislature.
 

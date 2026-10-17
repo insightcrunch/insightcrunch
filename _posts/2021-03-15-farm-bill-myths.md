@@ -6,13 +6,15 @@ date: "2021-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "Farm bill myths graded one by one against the statutes and the data: the welfare bill, rich farmers, cheap food, obesity, expiry and the organic label."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: "87"
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: "2021-03-15"
+lang: en
 ---
-
 Among farm bill myths, the claim that corn subsidies caused obesity carried the widest consequences, because the claim moved a public health crisis into the jurisdiction of agricultural legislation and assigned a remedy that agricultural legislation could not deliver. The claim had a plausible chain, and plausibility at every link explains the reach the claim achieved. Corn received public support. Support, in the chain, made corn artificially cheap. Cheap corn made high fructose corn syrup artificially cheap in turn. Manufacturers facing a cheap sweetener sweetened drinks and processed foods generously, enlarged sweetened portions, and saturated the food supply with inexpensive calories. Shoppers absorbed the surplus calories, and obesity followed as the harvest of a subsidy. Each step sounded reasonable in isolation, and repetition across commentary, classrooms and advocacy turned a chain of separate conjectures into a sequence that read as settled causation. A claim repeated in that manner acquired the authority of a finding without passing through the tests a finding has to survive.
+
+![Farm Bill Myths Examined: What the Record Supports - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The consequences of error ran in both directions. A false account of obesity directed attention and reform energy toward a lever connected weakly, if at all, to calorie consumption, and away from causes with stronger evidence behind them. The same habit of repetition protected weaker claims on every other subject the farm bill touched. A share of spending quoted without a baseline became the identity of a statute. A payment total accumulated across two decades became a description of a single year. A support price that never operated in a market became a price shoppers supposedly paid. Against that background, Abigail M. Okrent and Julian M. Alston tested the obesity chain directly in the American Journal of Agricultural Economics in 2012 and found that eliminating farm subsidies entirely would have very limited impact on calorie consumption. A chain that survived repetition collapsed under measurement, and the contrast between repetition and measurement supplies the reason for the treatment applied to every claim in the sections that follow.
 

@@ -6,19 +6,19 @@ date: "2020-11-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Food Safety Modernization Act", "Health Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The Food Safety Modernization Act replaced reaction with prevention, giving the food agency written preventive controls, produce standards, and recall power."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: "80"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2020-11-15"
+lang: en
 ---
-
 ## The Food Safety Modernization Act and the Shift From Reaction to Prevention
 
 The operative question behind the Food Safety Modernization Act was whether federal food law should wait for contaminated food to reach consumers and cause illness before the full weight of government action applied, or whether the law should require the firms that manufacture, process, pack, and hold food to identify hazards in advance and control those hazards before distribution. That question shaped every major choice in the statute. The older framework had treated adulteration largely as a condition to be proved after food had entered commerce. The new framework treated prevention as a legal obligation in its own right, placed on the regulated facility rather than left to inspection, seizure, and recall after a failure had occurred.
 
 The formal identity of the measure is exact. The FDA Food Safety Modernization Act, Public Law 111-353, was signed by President Barack Obama on January 4, 2011. The statute amended the Federal Food, Drug, and Cosmetic Act of 1938, the central federal law governing food, drugs, and cosmetics, and it worked within that older structure rather than replacing the structure outright. The amendment changed the premise of federal food regulation under the 1938 act. Where the earlier law had supplied tools for responding to food that was already adulterated, the 2011 act added a system of mandated prevention, built around hazard analysis, preventive controls, produce standards, import verification, and a recall authority that no longer depended entirely on voluntary cooperation.
 
-![Food Safety Modernization Act of 2011 and the Shift from Reaction to Prevention in Federal Food Law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Food Safety Modernization Act of 2011 and the Shift from Reaction to Prevention in Federal Food Law - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The distinction between response and prevention sounds abstract until the mechanics of the two systems are placed side by side. A reactive system asks whether a particular article of food is adulterated and whether the government can assemble the evidence and the legal process needed to remove that article from the market. A preventive system asks an earlier question. A preventive system asks what hazards are known or reasonably foreseeable in a facility, what controls will reduce or eliminate those hazards, how the controls will be monitored, what corrective action will follow when a control fails, and how the facility will verify that the whole arrangement works. The Food Safety Modernization Act moved the second set of questions to the center of federal food law.
 

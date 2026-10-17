@@ -6,15 +6,15 @@ date: "2020-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Tariff Law", "Legislative Process", "Congress"]
 excerpt: "US tariff law is administered by four agencies with separate mandates, four remedy tracks with different triggers, and duties finally settled after entry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: "90"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2020-10-01"
+lang: en
 ---
-
 US tariff law begins as a line in a schedule. A rate printed beside a description of goods states a percentage or a specific amount, and that printed figure appears complete on the page. Administration gives that figure a second existence. A tariff exists twice, once as a rate in a schedule and once as an administered system of agencies, investigations, deposits, reviews, and a court. The second existence decides what an importer pays on a particular shipment, because a rate reaches a shipment only after classification, valuation, origin, and column selection have placed the shipment under one rate line rather than another.
 
-![How US tariff law is administered across four agencies and four remedy tracks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How US tariff law is administered across four agencies and four remedy tracks - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Four bodies divide that administered system. Customs and Border Protection classifies goods, determines customs value and origin, and collects duties at entry. The International Trade Commission publishes the Harmonized Tariff Schedule of the United States and determines material injury in trade remedy cases. The Department of Commerce, through the Enforcement and Compliance unit of the International Trade Administration, calculates dumping margins and subsidy rates as the statutory administering authority. The Office of the United States Trade Representative conducts investigations of foreign acts, policies, or practices under section 301 of the Trade Act of 1974. Each body applies a different standard to a different question, and no single body performs the whole sequence from schedule to collection.
 

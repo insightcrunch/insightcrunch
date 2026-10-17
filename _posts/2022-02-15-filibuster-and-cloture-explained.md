@@ -6,17 +6,17 @@ date: "2022-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Senate Rules", "Legislative Process", "Congress", "American History", "Study Guides"]
 excerpt: "The filibuster and cloture rules decide how Senate debate ends, which measures need sixty votes, and which escape extended debate by statute or precedent."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: "96"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2022-02-15"
+lang: en
 ---
-
 The filibuster presents a test of how procedure becomes power. A measure with majority support can fail to reach a vote in the Senate, while a measure with identical support passes the House of Representatives and moves toward enactment. Explanation of that difference rests neither in the Constitution nor in a founding decision to protect unlimited debate. Senate practice acquired the opening for extended debate through an 1806 housekeeping revision that removed the previous question motion, the device by which a majority could end debate. Every later defense of unlimited debate built on that removal, and each later reform effort confronted a practice that had hardened around an absence in the rulebook.
 
 In law, the filibuster is not a single rule. Practice under Senate Rule XXII supplies the central procedure, called cloture, through which debate can be closed by three fifths of senators duly chosen and sworn on most matters. Precedents set by majority votes on appeals from rulings of the chair modify how that rule operates, most visibly for nominations after 2013 and 2017. Statutes add a third layer, exempting defined classes of business from extended debate or limiting debate by hours. A reader who treats any one layer as the whole system misunderstands the structure of Senate procedure.
 
-![Filibuster and cloture in the United States Senate, where the vote required to end debate decides what a majority can pass - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Filibuster and cloture in the United States Senate, where the vote required to end debate decides what a majority can pass - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The threshold table presented in this article functions as the central artifact for keeping those layers separate. Categories of business carry different debate limits, different votes to end debate, and different sources for the requirement that governs them. Most legislation requires sixty votes to close debate in a full Senate, while a change to the Senate rules requires two thirds of senators present and voting. Nominations require only a majority after the precedents of 2013, 2017, and 2019 altered practice without amending rule text. Budget resolutions, reconciliation bills, disapproval resolutions under the Congressional Review Act, trade implementing bills, and specified resolutions on war powers and arms sales operate under statutory limits instead.
 

@@ -6,17 +6,17 @@ date: "2020-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Budget Process", "Sequestration", "PAYGO", "Congress", "Legislative Process"]
 excerpt: "Sequestration cancels budgetary resources after a fiscal rule is breached, while PAYGO requires enacted law not to raise the deficit on the scorecard."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2020-05-01"
+lang: en
 ---
-
 Fiscal commentary, graduate seminars, and committee staff rooms return to a single comparison, sequestration against pay-as-you-go, as if the two terms named rival instruments built for the same job. Students meet the pair in textbooks, staff meet the pair in drafting sessions, and commentators meet the pair whenever a deficit debate turns from promises to enforcement. The comparison sounds tidy, and the tidiness misleads. Sequestration names a remedy, an automatic cancellation of budgetary resources that follows a measured breach of a fiscal rule. Pay-as-you-go names a rule, a requirement that legislated changes to mandatory spending and revenues not increase the deficit. Placing a remedy beside a rule produces confident verdicts about toughness that the statutes do not support, because the severity of a cancellation says nothing about the standard the cancellation serves, the moment the breach gets measured, or the accounts the cancellation reaches. The architecture that joined the pair appears in [the guide to the Budget Enforcement Act](/2020/02/01/budget-enforcement-act-1990-paygo/), the statute that first paired discretionary spending caps with the pay-as-you-go scorecard and placed the same remedy behind each instrument.
 
 The confusion matters because enforcement history reads differently once rule and remedy stand apart. A cancellation that enforced fixed deficit targets belongs to a different design from a cancellation that enforced an appropriations cap, and both differ from a cancellation that was supposed to enforce a cumulative scorecard. [The Gramm-Rudman-Hollings guide](/2020/01/15/gramm-rudman-hollings-1985-guide/) traces the first sequester design, in which the remedy stood behind deficit targets that Congress set in 1985 and revised in 1987 after the Supreme Court decision in Bowsher v. Synar moved the trigger determination to the Office of Management and Budget. Against that history, cap sequesters were ordered and executed, while a pay-as-you-go sequester was never carried out under either statutory regime, because Congress excluded, shifted, or zeroed scorecard debits before an order could issue. A reader who treats the remedy as the rule misses that record entirely. A reader who separates the two can ask the question that decides the comparison, whether the accounts exposed to cancellation are the accounts controlled by the decision the rule polices.
 
-![Sequestration and PAYGO enforcement compared in the federal budget process - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sequestration and PAYGO enforcement compared in the federal budget process - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 ## A Rule and a Remedy, Not Two Rules
 

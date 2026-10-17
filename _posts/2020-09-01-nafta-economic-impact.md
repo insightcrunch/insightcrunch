@@ -6,19 +6,19 @@ date: "2020-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "NAFTA", "Trade Policy", "Employment", "Labor Economics", "American History"]
 excerpt: "NAFTA employment impact research found small national effects and severe local ones: the models, the wage studies, and the certified worker count compared."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: "91"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2020-09-01"
+lang: en
 ---
-
 ## The Promise and the Baseline: What the Agreement Was Supposed to Do
 
 The North American Free Trade Agreement entered political argument through a promise before the agreement entered force through law. Sponsors in the administration of President Bill Clinton presented the trilateral pact as a route to expanded exports, to job creation, and to rising living standards in the United States. The claim joined three distinct expectations about NAFTA employment impact into a single case for approval. Expanded exports would open larger markets for American producers in Mexico and Canada. Job creation would follow from that expansion as firms serving those markets hired additional workers. Rising living standards would complete the sequence as trade raised productivity, widened consumer choice, and lowered prices. Judged against that stated aim, the record assembled in the research literature supports only a qualified verdict. The pact did expand trade within North America, and the aggregate gains for the United States were positive in the leading general equilibrium estimates, but the gains were small relative to the size of the American economy. The promise of a broad national transformation, stated in the language of a campaign for ratification, was not met at the scale at which the promise had been made.
 
 The qualified verdict requires the second half of the sentence as well. A small aggregate effect describes an average across an entire economy, and an average can conceal concentrated losses in particular industries, occupations, and places. The evidence on the North American agreement contains both patterns at once. National welfare effects were modest, and employment effects at the national level were modest, while wage effects for less educated workers in the industries and localities most exposed to tariff reduction were severe. The thread that holds the findings together, and the claim that organizes the assessment that follows, is small in aggregate, severe in place. Neither half of that claim cancels the other half. The first half answers the sponsors on their own chosen ground, the performance of the national economy as a whole. The second half answers a different question, the distribution of gains and losses across workers who faced very different exposure to the same change in tariff protection. An honest measurement has to keep both questions in view at the same time, because the political history of the pact turned on the gap between them.
 
-![NAFTA employment impact evidence from the studies and the certified worker count - Insight Crunch](/assets/images/blog/blog-01.webp)
+![NAFTA employment impact evidence from the studies and the certified worker count - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The warnings offered against ratification in 1992 and 1993 described the opposite geography of effects. Ross Perot, campaigning for the presidency in 1992, warned of a giant sucking sound as American production moved south toward lower Mexican wages. The phrase survived the campaign because the image compressed a specific fear into a memorable form. Production that had located in the United States, on that account, would relocate across the border once tariff protection and other barriers fell, and American workers would lose employment not through gradual competition but through a direct transfer of plants and orders to Mexico. Organized labor advanced a related displacement fear through the ratification debate. Union opposition rested on the proposition that firms would use access to lower wage labor, combined with duty free return of finished goods to the American market, to pressure American wages downward and to move work out of unionized plants. Stated as attributed positions, the warnings and the promises defined the terms on which the agreement would later be judged, and the research record assembled over the following two decades gave each side a portion of the evidence and denied each side the whole of it.
 

@@ -6,12 +6,12 @@ date: "2021-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Brady Act", "Congress", "Supreme Court", "Criminal Justice", "Legislative Process"]
 excerpt: "The Brady Act built a federal check where none had existed, first as a five day wait run by local officers and then as an instant system run by the FBI."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: "84"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2021-04-15"
+lang: en
 ---
-
 ## What the Brady Act Built
 
 ### What problem was the Brady Act written to solve?
@@ -20,7 +20,7 @@ The Brady Act was written to replace a paper certification with a verification p
 
 Before November 30, 1993, the federal screen at a licensed dealer's counter rested on the buyer. A handgun buyer at a licensed importer, manufacturer, or dealer signed a certification of falling outside the prohibited categories: no felony indictment or conviction, no status as a fugitive from justice, no unlawful use of a controlled substance, no adjudication as a mental defective and no commitment to a mental institution, no unlawful alien status, no dishonorable discharge, and no renunciation of citizenship. The dealer took the signature, and the transaction proceeded. No federal provision required the dealer, a state officer, or a federal agency to test the answers against any record system before the handgun left the counter.
 
-![Brady Act background checks, the interim waiting period and the permanent instant check system - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Brady Act background checks, the interim waiting period and the permanent instant check system - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The consequences of that design were structural. A false statement exposed the buyer to prosecution once the falsity came to light, and possession by a prohibited person exposed the possessor to prosecution once the possession was discovered, but both forms of enforcement operated after the transfer had occurred. Between signature and discovery the statute interposed nothing: no waiting interval keyed to a records search, no official charged with checking the answers, and no federal database built to answer a dealer's inquiry. Federal law defined who could not lawfully receive a handgun and punished false claims to eligibility, yet the law supplied no procedure for testing eligibility at the only moment when a test could prevent the transfer, the moment before the licensed sale was completed.
 

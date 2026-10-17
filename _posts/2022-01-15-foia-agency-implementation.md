@@ -6,15 +6,15 @@ date: "2022-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "FOIA Requests", "Administrative Law", "Government Transparency", "American History"]
 excerpt: "A FOIA request lives or dies in processing: the right component, the twenty day decision clock, the fee category, and the appeal route decide the outcome."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2022-01-15"
+lang: en
 ---
-
 A FOIA request enters a processing system with fixed legal stages, and the outcome of the request depends less on persistence alone than on fit between the request as drafted and the stages through which an agency must carry the request. The Freedom of Information Act grants any person a right to seek records from executive branch agencies, and the statute then governs every step that follows, from the description of records in the opening letter to the standard a court applies after litigation has begun. The central fact of the system, stated at the outset, is that the clock runs on a decision, not on delivery. An agency faces a twenty working day period for a determination whether to comply, while production of records after a favorable determination follows a separate promptness obligation. Confusion between those two events explains a large share of disappointment with the statute, and precision about the distinction gives a requester a realistic map of timing, cost, and leverage at each stage.
 
-![How agencies handle FOIA requests, from drafting and routing through the determination clock, fees, appeals, and litigation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How agencies handle FOIA requests, from drafting and routing through the determination clock, fees, appeals, and litigation - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The governing statute is [the Freedom of Information Act of 1966](/2021/10/01/freedom-of-information-act-1966-guide/), codified at 5 U.S.C. 552, as amended across later decades. Companion transparency statutes operate beside the Act in adjacent fields, including the regime for [financial disclosure records under the ethics in government framework](/2021/10/15/ethics-in-government-act-1978-guide/), and comparison among those regimes shows a shared pattern: a right stated in broad terms becomes practical only through definitions, deadlines, fee rules, and review procedures written in operational detail. The present article is general information about how the statute works rather than legal advice for any specific request. A specific request turns on the records sought, the component holding the records, the category claimed, and the administrative record created during processing, and advice about a specific dispute requires examination of that record by a qualified professional. General information has a different use. General information explains the machinery in advance, so that drafting choices, fee decisions, and appeal arguments can be made with knowledge of the stage that follows each choice.
 
@@ -368,7 +368,6 @@ The administrative record decides the fourth outcome, because appeal and litigat
 A reader who wants to go deeper has a defined study path. The first step is close reading of the statutory text at 5 U.S.C. 552, supported by guidance on [reading a federal statute as an integrated scheme](/2022/05/01/how-to-read-a-federal-statute/), with attention to the determination sentence, the fee paragraphs, the expedition provision, and the foreseeable harm standard at section 552(a)(8). The second step is comparison across the wider series through [the structured study path for the legislation series](/2022/06/15/us-legislation-study-guide/), connecting the Act to neighboring transparency statutes and to the amendment history that produced the twenty day period. The third step is practice with the pathway as examinable material, using [VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html) and [ReportMedic](https://reportmedic.org/tools/us-government-civics-study.html) as companion study tools for the request pathway and fee categories as standard examinable material in administrative law and journalism coursework. Mastery of the pathway rests on sequence: describe precisely, file with the right component, watch the determination clock, document category and waiver at the outset, and appeal on a complete record.
 
 ## Frequently Asked Questions
-
 
 
 ### Q: How do you write a FOIA request that works?

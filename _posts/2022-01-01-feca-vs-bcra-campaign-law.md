@@ -6,15 +6,15 @@ date: "2022-01-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Campaign Finance", "Federal Election Campaign Act", "McCain-Feingold Act", "Congress", "Supreme Court"]
 excerpt: "FECA vs McCain-Feingold compares two designs for regulating campaign money: what each targeted, what each built, what the courts left standing, and why."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: "81"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2022-01-01"
+lang: en
 ---
-
 FECA vs McCain-Feingold is the comparison that organizes modern American campaign finance law, because nearly every argument in the field is an argument about which of the two statutes understood the problem correctly. A student meeting the subject for the first time encounters two names and a shelf of cases and has to learn which law did what. A legislative staffer drafting a new proposal has to know which of the two designs the courts have permitted to operate and which they have dismantled. A journalist explaining a super PAC or a party account has to trace the money back through both statutes to say anything accurate about how it got there. The comparison is not a trivia question about dates. It is the field's working map.
 
-![Two campaign finance statutes compared axis by axis, the Federal Election Campaign Act and the Bipartisan Campaign Reform Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two campaign finance statutes compared axis by axis, the Federal Election Campaign Act and the Bipartisan Campaign Reform Act - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The earlier statute is the Federal Election Campaign Act of 1971, Public Law 92-225, signed on February 7, 1972. Standing alone, the 1971 act tightened disclosure and limited media spending. The statute that governs the field is that act as Congress rebuilt it in the Federal Election Campaign Act Amendments of 1974, Public Law 93-443, which imposed contribution limits and expenditure ceilings, created the Federal Election Commission, and built a system of public financing for presidential elections, and as Congress adjusted it again in the amendments of 1979, Public Law 96-187. The later statute is the Bipartisan Campaign Reform Act of 2002, Public Law 107-155, signed on March 27, 2002, with its core provisions in force from November 6, 2002. It did not replace the earlier act. It amended it, layering a second regulatory design on top of the first, which is why the two are so often confused and why the comparison has to be drawn structurally rather than chronologically.
 

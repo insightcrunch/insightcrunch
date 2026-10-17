@@ -6,17 +6,17 @@ date: "2020-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "American History", "Legislative History"]
 excerpt: "The Trade Act of 1974 joined fast track, safeguards, retaliation, preferences, an emigration condition and adjustment assistance in one enacted text of law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: "96"
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2020-06-01"
+lang: en
 ---
-
 One test separates a passing familiarity with American trade law from a working command of the subject. The test asks whether a single statute can be identified that contains almost every instrument of modern American trade policy, from the procedure for negotiating agreements to the remedy for imports that break no rule at all. The Trade Act of 1974 passes that test. Congress passed the measure in December 1974, and President Gerald Ford signed the measure on January 3, 1975, so the year in the name of the statute and the year of signature differ, a distinction that precise citation preserves. The enacted text is Public Law 93-618, printed at 88 Stat. 1978, carried through the 93rd Congress as H.R. 10710.
 
 The statute earns the distinction through combination rather than through any single provision. Title I created fast track, the procedure at sections 151 to 154 under which Congress commits in advance to vote on an implementing bill without amendment and under debate limits, a commitment later renewed under the name examined in [the history of trade promotion authority](/2020/08/15/trade-promotion-authority-explained/). Title III created the unfair practices authority at section 301, directed at foreign acts, policies or practices that are unjustifiable or unreasonable and that burden or restrict United States commerce. Title II carried the safeguard at section 201 for industries seriously injured by fairly traded imports and, in separate chapters, trade adjustment assistance for workers, firms and communities displaced by imports. Title V created the Generalized System of Preferences, extending duty free treatment to eligible articles from designated developing countries. Title IV, at section 402, wrote the Jackson-Vanik emigration condition into trade law, barring nondiscriminatory treatment and federal credits for non-market economy countries that denied freedom of emigration. The namable claim of the statute is "One statute, every tool."
 
-![Trade Act of 1974 and the Instruments of American Trade Policy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Trade Act of 1974 and the Instruments of American Trade Policy - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The occasion for consolidation was a negotiation that the older machinery could not serve. Ministers launched a new round of multilateral negotiations at Tokyo in September 1973, directed at nontariff barriers that a presidential proclamation could not implement, while import competition in steel, textiles, footwear and consumer electronics built congressional support for restriction and organized labor withdrew from the postwar liberalization consensus. The monetary crisis of 1971 and the temporary import surcharge of that year had demonstrated both the leverage of unilateral pressure and the cost of improvisation. A statute written for that moment had to authorize negotiation and discipline pressure at the same time, and had to carry constituencies that could each have blocked a narrower bill. Exporters received the negotiating authority, import sensitive industries received the safeguard, labor received assistance and the unfair practices remedy, and members concerned with Soviet emigration received Title IV.
 

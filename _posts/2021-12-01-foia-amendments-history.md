@@ -6,17 +6,17 @@ date: "2021-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "FOIA Amendments", "Congress", "Government Transparency", "Administrative Law"]
 excerpt: "How FOIA Was Amended traces six major revision acts, from a veto override that gave the statute teeth to a foreseeable harm standard for withholding records."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: "87"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2021-12-01"
+lang: en
 ---
-
 How FOIA Was Amended is best understood as a record of reaction rather than a record of steady expansion. Each major revision answered a defined failure in the statute as agencies, courts, and requesters had experienced that statute in practice. A judicial construction narrowed a right that Congress believed the text had granted. An administrative practice turned a deadline or a fee rule into a barrier that the text had not intended. A change in recordkeeping altered the material to which the entire scheme applied. The amendment pattern therefore reveals the operating condition of disclosure law between revisions: text enacted for one institutional environment had to be defended, corrected, or rebuilt when that environment changed.
 
 The baseline was the Freedom of Information Act enacted in 1966 as Public Law 89-487 and codified at 5 U.S.C. 552. That statute replaced a withholding oriented provision of the Administrative Procedure Act with a general right of access to agency records, qualified by nine exemptions and enforceable in federal court. The baseline account in [the original Freedom of Information Act profile](/2021/10/01/freedom-of-information-act-1966-guide/) sets out the original design in full. The design contained a central tension from enactment. Exemptions drawn in broad category language required later specification, procedures stated without precise consequences invited delay, and judicial review depended on powers that the text described only in general terms. Each later round returned to one of those points of weakness and rewrote the governing language.
 
-![How the Freedom of Information Act was amended over decades, from the veto override that gave the statute teeth to the foreseeable harm standard - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the Freedom of Information Act was amended over decades, from the veto override that gave the statute teeth to the foreseeable harm standard - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The major revision sequence contains six acts. In order, the sequence comprises the amendments of 1974; the Government in the Sunshine Act of 1976; the Freedom of Information Reform Act of 1986; the Electronic Freedom of Information Act Amendments of 1996; the OPEN Government Act of 2007; the Freedom of Information Act Improvement Act of 2016. Treated together, the six acts altered deadlines, fees, exemptions, formats, mediation, proactive disclosure, and the standard for withholding. Treated separately, each act preserved the circumstances of enactment in statutory form, because the wording of each revision answered the particular decision, scandal, backlog, or technology that had exposed the weakness in the preceding text.
 

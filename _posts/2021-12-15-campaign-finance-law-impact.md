@@ -6,10 +6,11 @@ date: "2021-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Campaign Finance", "Federal Election Commission", "Congress", "Supreme Court", "American History"]
 excerpt: "Campaign finance law impact measured across five decades: spending rose, money moved between channels, disclosure thinned, and access proved the surest return."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: "97"
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: "2021-12-15"
+lang: en
 ---
 ## What Fifty Years of Regulation Did to the Money
 
@@ -17,7 +18,7 @@ Campaign finance law invites a simple question with a difficult answer: whether 
 
 The architecture against which the record gets measured began with [the Federal Election Campaign Act of 1971](/2021/09/01/federal-election-campaign-act-1971/), the statute that supplied the foundation on which later amendments built the modern system. That system combined contribution limits, compulsory disclosure, public financing for presidential elections, and enforcement through a dedicated commission, and each element carried a distinct promise. Limitation promised that the size of a gift to a candidate or a committee would stop at a boundary set by law. Disclosure promised that the sources behind election spending would enter a public record open to voters, journalists, rival campaigns, and enforcement officials. Public financing promised an alternative supply of money for presidential candidates, offered in exchange for limits accepted voluntarily. Enforcement promised that the other promises would rest on investigation and sanction rather than on voluntary compliance alone.
 
-![Campaign finance law impact traced through the channels money took after each regulatory closure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Campaign finance law impact traced through the channels money took after each regulatory closure - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The limitation promise met a constitutional boundary early, and the boundary shaped everything that followed. Contribution limits survived judicial review and remained a durable feature of the system across the whole period. Expenditure limits fared differently, and money spent independently of a candidate occupied a far less restricted position from the nineteen seventies onward. That asymmetry explains much of the later history without recourse to evasion or bad faith. A rise in independent spending therefore tested the design of the boundary as much as the force of any single prohibition, and the sections that follow treat movement across that boundary as evidence about design rather than as evidence of lawlessness.
 

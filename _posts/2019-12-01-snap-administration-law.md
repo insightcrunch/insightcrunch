@@ -6,17 +6,17 @@ date: "2019-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "SNAP", "Food and Nutrition Act", "Legislative Process", "American History"]
 excerpt: "SNAP administration explained: how states determine eligibility, calculate benefits from the Thrifty Food Plan, run quality control, and issue benefits by EBT."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: "108"
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: "2019-12-01"
+lang: en
 ---
-
 ## The Distance Between the Statute and the Supermarket
 
 A statute does not hand food to anybody. The Food and Nutrition Act, codified in title 7 of the United States Code, declares in Washington that a household meeting the statutory conditions holds a claim to nutrition assistance, sets the terms on which that claim arises, and appropriates federal money to pay for the benefits that follow from it. Between that declaration and a completed purchase at a supermarket checkout stand a long chain of institutions, decisions, documents, computer systems, and deadlines, almost none of which the statutory text describes in operational detail and almost all of which determine whether the claim written into federal law becomes food in a household kitchen. The Supplemental Nutrition Assistance Program is therefore two things at once. In legal form, the program is a single national entitlement, uniform in its core eligibility rules and its benefit formula. In lived operation, the program is fifty three separate administrative systems, each translating the same federal text through a different agency structure, a different eligibility computer platform, a different network of local offices, and a different set of choices about staffing, verification, and service. Administration is not a footnote to the program. Administration is the mechanism by which the program either reaches a household or fails to reach that household, and the distance between the statute and the supermarket is the distance that administration has to cross.
 
-![SNAP administration: how benefits are calculated, quality control, and state delivery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![SNAP administration: how benefits are calculated, quality control, and state delivery - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The scale of that crossing is large enough to make small administrative failures visible in national totals. According to data collected by the Food and Nutrition Service of the United States Department of Agriculture and reported in the Economic Research Service Food Assistance Landscape series, an average of 35.7 million people participated in the program in each month of fiscal 2019, and federal spending on the program totaled 60.4 billion dollars in that fiscal year. In fiscal 2018, the same data series recorded average monthly participation of 40.3 million people and federal spending of 65.0 billion dollars. Both figures stood well below the program peak recorded in fiscal 2013, when average monthly participation reached 47.6 million people and federal spending reached 79.9 billion dollars, totals that the Economic Research Service identified as the historical high for the program in the Food Assistance Landscape series. Behind each annual total stood tens of millions of individual administrative acts performed under state and county authority: applications taken, interviews conducted, pay records verified, benefit amounts computed, electronic benefit transfer accounts loaded, changes processed, and certifications renewed or closed. A program operating at that scale does not experience administration as overhead surrounding the real work. At that scale, administration is the real work, repeated monthly for every participating household, and the quality of that work decides whether national totals reflect the population Congress made eligible or only the portion of that population that a particular state system managed to process accurately and on time.
 

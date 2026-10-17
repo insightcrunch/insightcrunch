@@ -6,15 +6,15 @@ date: "2020-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Congressional Budget Office", "Legislative Process", "Congress", "Tax Policy", "Study Guides"]
 excerpt: "How CBO scores a bill: the statutory baseline conventions, the ten year window, the split with the Joint Committee on Taxation, and the accuracy record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: "92"
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: "2020-05-15"
+lang: en
 ---
-
 A cost estimate is the number the budget process runs on. A bill can command speeches, hearings, and a majority in search of a path to passage, and a single figure attached by an estimating office can decide whether that path exists. The figure tests a bill against committee allocations and against the totals in a budget resolution. The figure decides whether a point of order lies against consideration on the floor and whether a waiver must be assembled under pressure. The figure certifies whether a committee has satisfied a reconciliation instruction or has fallen short of a directed change in revenues or spending. In the Senate, the figure also maps a bill against the Byrd rule, which reaches past the budget window and penalizes a measure that increases deficits in the years beyond that window. Passage, procedure, and price therefore arrive together, bound in one document that opponents and supporters must both use.
 
-![How CBO scores a bill, from the statutory baseline to the ten year estimate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How CBO scores a bill, from the statutory baseline to the ten year estimate - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The measuring rod behind the figure carries the central claim of the account that follows. The baseline is written in statute, not chosen. Congress enacted the conventions that govern the projection against which every bill is measured, specifying how expiring programs, expiring tax provisions, and annual appropriations are treated before any estimator examines any particular proposal. A familiar complaint in budget debate holds that the assumptions behind an estimate are unrealistic, that a tax provision certain of extension ought to be treated as permanent, or that a large program facing a scheduled end ought to be treated as finished. Each complaint sounds like an objection to an analyst and lands, on inspection, on a convention Congress enacted and Congress alone can amend. An estimator who abandoned the statutory background in favor of a more plausible background would replace a public rule with a private judgment, and every score built on that substitution would lose the comparability that a fixed rod supplies.
 

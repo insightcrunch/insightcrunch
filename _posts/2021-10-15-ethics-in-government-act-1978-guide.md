@@ -6,15 +6,15 @@ date: "2021-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Ethics in Government Act", "Government Ethics", "Congress", "Supreme Court", "American History"]
 excerpt: "The Ethics in Government Act built the federal ethics framework on public disclosure, an ethics office, revolving door bars, and an outside prosecutor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: "83"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2021-10-15"
+lang: en
 ---
-
 The Ethics in Government Act of 1978 is the statute on which the federal government's ethics architecture rests, and the question the statute answers is how a government polices the financial interests and future ambitions of the officials who run it. The answer was structural rather than exhortatory. Instead of directing officials to behave well, the statute built machinery. It made senior officials disclose their finances to the public. It created an office charged with administering conflict of interest rules across the executive branch. It restricted the advocacy that former officials could sell after leaving office. It constructed a prosecutor who did not answer to the department whose senior figures that prosecutor might be called to investigate. Three of those four constructions endured as permanent features of federal government. The fourth produced the statute's constitutional climax and its most instructive ending, a provision the Supreme Court sustained and Congress then allowed to die.
 
-![The Ethics in Government Act of 1978, the post-Watergate statute that built federal ethics law on disclosure, an ethics office, post-employment bars, and the independent counsel](/assets/images/blog/blog-01.webp)
+![The Ethics in Government Act of 1978, the post-Watergate statute that built federal ethics law on disclosure, an ethics office, post-employment bars, and the independent counsel](/assets/images/blog/blog-09.webp)
 
 The formal identity is exact. The Ethics in Government Act of 1978 is Public Law 95-521, printed at 92 Stat. 1824 and signed on October 26, 1978, by President Jimmy Carter. The statute arrived as one instrument in a family of post-scandal reforms that included the [Federal Election Campaign Act](/2021/09/01/federal-election-campaign-act-1971/), the companion statute that rebuilt the rules governing money in federal elections, and it shared with that statute a founding judgment formed by the Watergate investigations: misconduct flourishes in unwatched spaces, and the durable remedy is to build the watching into the structure. Where the campaign finance statute watched money moving toward officeholders, the ethics statute watched the officeholders, their assets, their outside ties, and their conduct after the office had been surrendered.
 
@@ -377,7 +377,6 @@ The replacement arrangement sharpens rather than softens the lesson. A special c
 The disclosure habit the statute normalized extends beyond the officeholders it first covered, and a reader tracing the wider transparency architecture of the same era will find the pattern repeated. The [Lobbying Disclosure Act](/2021/11/01/lobbying-disclosure-act-1995-guide/) applies the publicity logic to the advocates who approach the government from outside, requiring registration and reporting from those paid to influence it, while the [Freedom of Information Act](/2021/10/01/freedom-of-information-act-1966-guide/) supplies the general instrument by which citizens obtain the records that disclosure regimes and ordinary administration generate. Together the three statutes describe a single governing instinct applied to three different subjects: money in elections, influence over officials, and the finances of the officials themselves. For a route through the full series, the [US legislation study guide](/2022/06/15/us-legislation-study-guide/) sets the study path, and a reader assembling the primary materials for this statute, the enacted text at 92 Stat. 1824, the Morrison majority and dissent, the 1999 regulations and the STOCK Act amendments, can [keep filings, case notes, and statutory timelines organized free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html). The statute's three surviving pillars reward that assembly, because each operates in the open and leaves a public record to study. The fourth pillar rewards it for the opposite reason. Its record closed in 1999, and the closed record is the evidence.
 
 
-
 ## Frequently Asked Questions
 
 ### Q: What did the Ethics in Government Act require officials to disclose?
@@ -459,5 +458,4 @@ The office created in 1978 carried the name special prosecutor, the title inheri
 ### Q: How can a student remember the structure of the Ethics in Government Act?
 
 The reliable mnemonic is the four pillar frame used throughout this profile: disclosure, office, door, counsel. Disclosure points to the public financial reports required by the first three titles, one title for each branch. Office points to the Office of Government Ethics created by Title IV, the advisory institution that administers the system. Door points to the revolving door bars of Title V, the permanent, two year and one year restrictions on post-employment advocacy. Counsel points to the independent counsel of Title VI, the pillar that was litigated in Morrison v. Olson and allowed to expire in 1999. A student who can state what each pillar did, which titles carried it, and which three pillars survived can reconstruct the statute on an examination without memorizing the seven titles in sequence, and can then attach the details: the 1978 enactment date, the 1988 decision, the 1999 lapse and the 2012 STOCK Act amendments to the disclosure pillar.
-
 

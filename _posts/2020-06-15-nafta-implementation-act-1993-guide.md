@@ -6,19 +6,19 @@ date: "2020-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "NAFTA", "Trade Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The NAFTA Implementation Act made a continental trade bargain domestic law by simple majorities, carrying its chapters, side agreements, and roll calls."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: "105"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2020-06-15"
+lang: en
 ---
-
 ## The NAFTA Implementation Act and the Question It Answers
 
 How did a bargain that reorganized trade among three countries become law inside the United States without passing through the treaty process? The NAFTA Implementation Act supplies the answer, and the answer takes the form of an ordinary statute. A signed international bargain, standing alone, changes no tariff rate, opens no customs house, and binds no importer or exporter in an American proceeding. Tariffs, customs procedures, agricultural programs, and procurement rules inside the United States rest on statutes enacted by Congress, and only Congress could rewrite those statutes. The problem confronting the legislators of 1993 was therefore double. A continental agreement had been negotiated and signed, yet the agreement possessed no domestic machinery of its own. Unless Congress supplied that machinery through legislation, the signatures of three heads of government would remain an international promise with no operative rules at the border, in the customs territory, or before an agency.
 
 The formal identity of the measure is compact. The NAFTA Implementation Act is Public Law 103-182, enacted as H.R. 3450 in the 103rd Congress, signed by President Bill Clinton on December 8, 1993, and codified principally at 19 U.S.C. 3301 and following. Through that statute Congress approved the North American Free Trade Agreement, an instrument signed on December 17, 1992 and in force from January 1, 1994, and Congress enacted the changes to domestic law that the agreement required in order to operate. Not a treaty and never was. The Senate gave no advice and consent, no two thirds vote occurred in either chamber, and the House of Representatives, excluded from the treaty process by constitutional design, cast a decisive vote on the bill.
 
-![NAFTA Implementation Act congressional approval and the trilateral trade text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![NAFTA Implementation Act congressional approval and the trilateral trade text - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The choice of form governed every later event in the history of the agreement. A treaty would have required two thirds of the Senate and would have given the House no vote at all. A statute required a majority of the House, a majority of the Senate, and a presidential signature, the same combination that enacts an appropriations measure or a tax bill. Section 101 of the act approved the agreement and the Statement of Administrative Action that accompanied the implementing bill. Section 102 then confined the result, providing that no provision of the agreement inconsistent with United States law would have effect and that no person other than the United States would hold a cause of action under the agreement. Approval and limitation arrived in the same enactment, and the domestic life of the agreement ran through the statute rather than around it.
 

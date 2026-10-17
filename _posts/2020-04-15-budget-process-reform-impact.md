@@ -6,15 +6,15 @@ date: "2020-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Budget Process Reform", "Congress", "Federal Budget", "Legislative Process", "American History"]
 excerpt: "Budget Process Reform bound annual discretionary spending under caps, while mandatory spending, waivers and resets left deficits and public debt rising."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: "82"
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2020-04-15"
+lang: en
 ---
-
 The question posed by budget reform after [the Congressional Budget and Impoundment Control Act of 1974](/2020/01/01/congressional-budget-act-1974-guide/) was never whether Congress could write a rule. Congress wrote rules in abundance across the decades that followed, in statutes that set targets, imposed caps, created scorecards, and threatened automatic cuts when political agreement failed. The harder question, and the question that decides whether budget reform controlled spending, was whether a rule written into law could change the arithmetic that the rule confronted. That arithmetic had two parts. One part arrived on the floor each year in appropriations bills that members debated, amended, and passed or failed to pass before a deadline. The other part arrived without a floor vote at all, in benefit payments determined by eligibility formulas enacted in earlier decades, in health care payments determined by program rules and medical prices, and in interest payments determined by debt accumulated in earlier years. A process that governed the first part with precision could leave the second part untouched, and a record across forty five fiscal years tests how much of the federal budget any procedural regime actually reached.
 
-![Budget process reform records, scorecards and federal spending totals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Budget process reform records, scorecards and federal spending totals - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The central claim that organizes the aggregate evidence carries a short form suitable for citation. Rules bind the annual vote and not the automatic one. The sentence describes a structural division inside federal spending rather than a judgment about the sincerity of any Congress or administration. Annual appropriations for defense, for domestic agencies, for foreign operations, and for the operations of government itself require affirmative action, and a cap or a target or a sequestration threat can raise the cost of that action or block it altogether. Mandatory spending requires no comparable action. Social Security benefits, Medicare payments, Medicaid matching payments, federal retirement payments, and net interest flow under permanent law, and a budget resolution or a discretionary cap leaves the formulas that generate those payments exactly as earlier statutes left them. A PAYGO scorecard can record the cost of a tax reduction and threaten a sequester in response, and Congress can also waive the scorecard, shift the debit beyond the budget window, or designate the measure an emergency, each by a vote taken under the same authority that created the rule. The aggregate record therefore has to be read at the level of totals, because totals reveal whether binding the voted portion of the budget was sufficient to control a budget in which the unvoted portion grew decade after decade.
 

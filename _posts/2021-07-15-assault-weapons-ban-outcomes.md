@@ -6,17 +6,17 @@ date: "2021-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Violent Crime Control Act", "Congress", "Criminal Justice", "American History", "Legislative Process"]
 excerpt: "The assault weapons ban's government evaluations found small effects at most, and the RAND review rates the evidence inconclusive on most major outcomes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: "97"
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: "2021-07-15"
+lang: en
 ---
-
 ## The Aim and the Mandated Evaluation
 
 The federal assault weapons ban stated its purpose in functional terms. The prohibition aimed to reduce the criminal use of the semiautomatic firearms and the large capacity ammunition feeding devices that the statute covered. That aim differed from a broader ambition to reduce gun violence in general, and the difference matters for every judgment that follows in this article. A statute can succeed against the narrower target named in its own text and register little movement against the wider category, or it can miss the narrower target while wider trends move for unrelated reasons. The evidence assembled under the statute's own evaluation mandate answers the narrower question and the wider question unevenly, and the unevenness is not a defect in the record.
 
-![Evidence assembled on the federal assault weapons ban and its measured effects - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Evidence assembled on the federal assault weapons ban and its measured effects - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The statute's formal identity fixes the boundaries of that record. The ban was Subtitle A of Title XI of the Violent Crime Control and Law Enforcement Act of 1994, Public Law 103-322. It was in force from September 13, 1994 to September 13, 2004, a full decade bounded by dates written into the law at enactment. The prohibition ended by its own sunset. It was not repealed, and its expiration was not a later verdict delivered by a subsequent Congress on the evidence. The sunset operated on the schedule the enacting Congress had set, which means the ten year lifespan was part of the design from the first day.
 

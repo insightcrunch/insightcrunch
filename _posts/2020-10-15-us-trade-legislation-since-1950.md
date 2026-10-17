@@ -6,19 +6,19 @@ date: "2020-10-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "Legislative Process", "American History"]
 excerpt: "US trade legislation since mid century follows one recurring pattern: Congress delegates its duty power to the President, then objects to the use made of it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: "98"
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: "2020-10-15"
+lang: en
 ---
-
 ## The Pattern That Organizes the Field
 
 American trade legislation after the middle of the twentieth century told a single story in many different statutory forms, and the story had a structure that repeated with enough regularity to give the field its shape. Congress delegates and then objects. The short sentence named a cycle rather than a single event. Congress held the constitutional power over tariffs and over commerce with foreign nations. Congress transferred part of the exercise of that power to the President and to agencies acting under presidential direction. The executive branch used the transferred authority to negotiate with foreign governments, to proclaim rate changes, to investigate injury and unfair practices, and to adjust imports under conditions that Congress had specified in advance. Members of Congress then complained, in hearings, in floor debate, in renewal fights, and in proposals to amend or withdraw the delegation, that the authority had been used too freely, or too narrowly, or in favor of the wrong industries, or at the expense of workers and firms that a different use would have protected. The complaint, examined closely, was a complaint about a delegation that Congress itself had written and, in most periods, had renewed. That tension between grant and regret did not mark a failure to understand the system. The tension was the system. It explained why trade statutes so often combined broad grants of negotiating or adjustment authority with detailed procedures, reporting requirements, investigations, findings, and opportunities for congressional intervention, and it explained why the history of the subject read less as a steady movement toward openness or toward protection and more as a continuing negotiation within the United States government about who would make trade decisions and under what constraints.
 
 The turning point that organized the field came before the period opened, and an account that began in 1950 without looking backward would mistake a mature arrangement for a new invention. Two statutes framed the choice that later Congresses inherited. The Smoot-Hawley Tariff Act of 1930 represented congressional rate setting in its most complete form, with Congress fixing individual rates in the statute itself, product by product, after committee bargaining. The Reciprocal Trade Agreements Act of 1934 represented the alternative, with Congress authorizing the President to negotiate reciprocal reductions and to put the results into effect by proclamation without further legislation. Every major statute after 1934 operated in the space between those two models, closer to one pole or the other in particular titles and particular years, but never returning in full to the method of 1930 and never severing the connection to the delegation of 1934. The postwar extensions, the large acts of 1962 and 1974, the implementing bills for multilateral and bilateral agreements, the preference programs, and the renewals of negotiating authority in 2002 and 2015 all presupposed that the President would negotiate and that Congress would set the terms on which negotiation occurred and would judge the results. The prehistory therefore mattered as more than background. The prehistory supplied the constitutional problem, the institutional alternative that the problem produced, and the vocabulary of grant, condition, finding, and renewal in which later disputes were conducted.
 
-![US trade legislation since 1950 and the delegation arc from the reciprocal agreements statute to the modern remedy statutes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![US trade legislation since 1950 and the delegation arc from the reciprocal agreements statute to the modern remedy statutes - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 ## The Constitutional Baseline
 

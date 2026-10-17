@@ -6,17 +6,17 @@ date: "2019-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "Public Law 104-193", "Legislative Process", "American History"]
 excerpt: "Welfare reform myths tested against statutes, caseload data and named research: eight claims, eight verdicts, and the denominators that decide each one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: "90"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2019-12-15"
+lang: en
 ---
-
 ## Welfare Reform Myths and the Word That Carries Too Much
 
 The most consequential of the welfare reform myths holds that a single statute ended welfare in the United States, and the claim spread because a real and dramatic contraction stood behind the slogan. A presidential pledge promised an ending, a caseload fell by roughly three quarters across the following two decades, and a program that had anchored public discussion of poverty for two generations shrank to a minor place in the federal budget. Each element was visible. Newspaper accounts could print the pledge, chart the falling caseload, and describe closed or quieter welfare offices, and a reader supplied with those three facts had little reason to ask whether the word welfare in the slogan named the same thing as the word welfare in the budget. The misunderstanding therefore had a structure rather than a single author. A legal term with a narrow statutory meaning traveled into general speech, gathered programs the statute had never governed, and carried a verdict about the whole safety net that the evidence supported for one component alone.
 
-![The Personal Responsibility and Work Opportunity Reconciliation Act and the welfare reform myths examined against its record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Personal Responsibility and Work Opportunity Reconciliation Act and the welfare reform myths examined against its record - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The statute at the center of every claim in this article has a precise identity. The governing law is the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Public Law 104-193, 110 Stat. 2105, signed August 22, 1996, principally codified in Title IV-A of the Social Security Act at 42 U.S.C. 601 and following. That act repealed Aid to Families with Dependent Children, created Temporary Assistance for Needy Families as a fixed block grant to states, imposed work participation standards and a federal time limit on federally funded assistance, and restricted benefit eligibility for noncitizens through separate provisions codified elsewhere in Title 8. Precision about that identity matters because several claims fail at the level of attribution. A rule about cash assistance gets credited with changes in food assistance. A restriction written into immigration law gets described as a rule of the block grant. A spending total for every means tested program gets quoted as the cost of monthly checks to families. Naming the statute, the title, and the codified section at the start removes a class of error before any figure enters the argument.
 

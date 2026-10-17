@@ -6,17 +6,17 @@ date: "2020-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Expansion Act", "Congress", "American History", "Legislative History"]
 excerpt: "The Trade Expansion Act of 1962 joined formula tariff bargaining, a national security import power and the first adjustment assistance in one statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: "99"
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2020-08-01"
+lang: en
 ---
-
 One test separates a passing familiarity with American trade law from a working command of the subject. The test asks whether a statute known almost entirely for a national security tariff provision can be recognized as a statute enacted to authorize a multilateral tariff cutting round. The Trade Expansion Act of 1962 passes that test in reverse. Later litigation and later presidential action attached the act to section 232, the provision under which a president may adjust imports that threaten to impair the national security. The Congress that enacted the statute had a different central purpose in view. The House of Representatives passed the bill on June 28, 1962, by a vote of 298 to 125, the Senate passed the bill on September 19, 1962, by a vote of 78 to 8, and President John F. Kennedy signed the act on October 11, 1962. The enacted text is Public Law 87-794, printed at 76 Stat. 872, carried through the 87th Congress as H.R. 11970, and codified at 19 U.S.C. ch. 7.
 
 The occasion was a change in the organization of the European market. The European Economic Community, created by the Treaty of Rome in 1957, was forming a customs union with a common external tariff, and the administration argued that the United States needed authority of a new scale to negotiate with the bloc and keep American goods from being shut out of the European market. The prior authority descended from the Reciprocal Trade Agreements Act of 1934, renewed 11 times, under which bargaining proceeded item by item. The Dillon Round of 1960 to 1961, conducted under the old method, produced limited results. The long title stated the combination directly, describing a measure to promote the general welfare, foreign policy, and security of the United States through international trade agreements and through adjustment assistance to domestic industry, agriculture, and labor.
 
-![Trade Expansion Act of 1962 and the Instruments of American Trade Policy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Trade Expansion Act of 1962 and the Instruments of American Trade Policy - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The first instrument was the negotiating authority at section 201. For five years, running to June 30, 1967, the president could enter trade agreements and proclaim reductions of up to 50 percent of the duty rates in effect on July 1, 1962. No limit applied to reductions of duties already at or below 5 percent ad valorem. A special authority allowed elimination of duties entirely on categories of articles in which the United States and the European Economic Community together accounted for at least 80 percent of world trade, with agricultural products excepted from that rule. Across the board, or linear, percentage reductions replaced product by product bargaining as the negotiating design. The act also created the office of Special Representative for Trade Negotiations, the predecessor of the modern United States Trade Representative. The Kennedy Round, the negotiation the authority enabled, opened at Geneva in May 1964 under the General Agreement on Tariffs and Trade, drew about 50 participating countries, and concluded with agreements signed on June 30, 1967, the last day of the authority. American linear cuts averaged about 35 percent and covered about 64 percent of non-agricultural dutiable imports, foreign reductions averaged about 34 percent. Agriculture produced limited results, and the round also produced the GATT Antidumping Code of 1967 and a grains arrangement with a food aid program.
 

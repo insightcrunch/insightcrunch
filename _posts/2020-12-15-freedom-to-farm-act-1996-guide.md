@@ -6,17 +6,17 @@ date: "2020-12-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Freedom to Farm Act", "Farm Policy", "Agriculture", "Congress", "American History"]
 excerpt: "Freedom to Farm replaced price linked payments with fixed contract payments, freed planting choices, and then faced emergency aid when prices collapsed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: "94"
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: "2020-12-15"
+lang: en
 ---
-
 ## What Freedom to Farm Changed: Fixed Payments in Place of Price Support
 
 The operative question behind the Freedom to Farm Act was a test of what farm support becomes when a payment stops following price. For decades before 1996, federal support for the major field crops had moved in the opposite direction from the market. When market prices fell below a target set in law, the government paid the difference. When market prices rose, the payment shrank or disappeared. The Freedom to Farm Act broke that linkage for the crops at the center of the program and substituted a payment written into the statute in advance, in fixed dollar amounts, paid without regard to the price a producer received in any given year. The change altered not only the size of the check but the decisions the check rewarded, the land it touched, and the obligations that came with enrollment.
 
-![Freedom to Farm Act of 1996 fixed farm payments and planting flexibility - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Freedom to Farm Act of 1996 fixed farm payments and planting flexibility - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The statute that carried the change was the Federal Agriculture Improvement and Reform Act of 1996, Public Law 104-127, 110 Stat. 888, signed on April 4, 1996 by President Bill Clinton. Title I of the statute, the Agricultural Market Transition Act, contained the new payment system and was codified principally at 7 U.S.C. 7201 et seq. The popular name Freedom to Farm described Title I in political debate, and the name attached to the whole reform effort because the contract system in Title I was the part that redefined the relationship between the Treasury, the producer, and the market. Other titles addressed trade, conservation, nutrition assistance, promotion, credit, and rural development, but the break with price linked support occurred in Title I, principally in Subtitle B, which created production flexibility contracts.
 

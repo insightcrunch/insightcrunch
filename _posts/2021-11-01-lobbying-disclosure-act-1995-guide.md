@@ -6,15 +6,15 @@ date: "2021-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Lobbying Disclosure Act", "Congress", "Legislative Process", "Supreme Court", "American History"]
 excerpt: "The Lobbying Disclosure Act sets the registration test, the time threshold, the reporting duties, and the enforcement path for paid federal lobbying work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: "96"
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: "2021-11-01"
+lang: en
 ---
-
 The Lobbying Disclosure Act of 1995 answers a question that American law had fumbled for half a century: which paid efforts to influence the federal government must be disclosed to the public, and by whom. The statute's answer is built out of definitions rather than prohibitions. It forbids almost nothing. Instead it identifies a class of professional advocates, requires them to register with the two administrative officers of Congress, and obliges them to report, client by client, the issues they pressed, the institutions they approached, and the money the work involved. Everything in the regime depends on where the definitional lines fall, and the most consequential line is a proportion: an individual counts as a lobbyist only when lobbying activities reach at least a fifth of the time that individual spends serving a particular client. A reader who understands that threshold, and the registration and reporting machinery built around it, understands both what the disclosure system shows and what it structurally cannot show.
 
-![The Lobbying Disclosure Act of 1995, the statute that defined federal lobbying registration by a time threshold and built the modern disclosure record](/assets/images/blog/blog-01.webp)
+![The Lobbying Disclosure Act of 1995, the statute that defined federal lobbying registration by a time threshold and built the modern disclosure record](/assets/images/blog/blog-99.webp)
 
 The formal identity is exact. The short title is the Lobbying Disclosure Act of 1995, Public Law 104-65, printed at 109 Stat. 691 and codified at title 2 of the United States Code, sections 1601 to 1614. The enacted bill was S. 1060 of the 104th Congress. President Bill Clinton signed it on December 19, 1995, and section 24 of the act set its effective date at January 1, 1996. The statute repealed the Federal Regulation of Lobbying Act of 1946, the narrower registration law it replaced, and it was substantially amended once, by the Honest Leadership and Open Government Act of 2007, Public Law 110-81, which moved reporting to a quarterly calendar, added a semiannual report on political contributions, raised the penalties, and assigned the Government Accountability Office an annual audit of compliance. As a statute profile, this article carries the whole subject in one place: the predecessor and its judicial narrowing, the definitions and the threshold they create, the registration and reporting system, the amendments, the enforcement record, and the separate registration regime for agents of foreign principals with which this act is persistently confused. For a reader working through the subject systematically, the natural companion habit is to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html) while moving between the act's text, its reports, and its oversight literature.
 
