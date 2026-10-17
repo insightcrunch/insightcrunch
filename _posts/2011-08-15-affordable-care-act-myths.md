@@ -8,10 +8,10 @@ tags: ["US Legislation", "Affordable Care Act", "Health Policy", "Congress", "Su
 excerpt: "Ten claims about the Affordable Care Act, from death panels to the mandate, are tested against the statute and the record, with errors corrected on every side."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: "69"
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2011-08-15"
+lang: en
 ---
-
 ## The Affordable Care Act and the symmetry test
 
 Few federal statutes have generated as many durable false claims, from as many directions, as the Patient Protection and Affordable Care Act. Within four years of its enactment, the law had been described as creating panels to decide whether elderly patients receive care, as a government takeover of American medicine, as a bill that nobody read before voting on it, and as a measure that bypassed the ordinary legislative process entirely. Its defenders, meanwhile, promised without qualification that everyone who liked a health plan could keep it, an assurance the statute's own grandfathering rules could not sustain. A reader who arrives at this article holding any one of these claims should leave knowing exactly what the text, the votes, and the record support, and precisely where each claim's line falls between the verified fact and the false frame.

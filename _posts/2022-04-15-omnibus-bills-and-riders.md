@@ -6,19 +6,19 @@ date: "2022-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Appropriations", "Legislative Process", "Omnibus Bills", "Riders", "Continuing Resolutions", "Congressional Procedure"]
 excerpt: "Omnibus bills and riders explained: how packaged spending measures form, why rules against riders bend, what the rider ledger records, and what packaging costs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: "93"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2022-04-15"
+lang: en
 ---
-
 The annual appropriations process was built to run as twelve separate bills. Under the framework set by the Congressional Budget Act of 1974, effective for fiscal 1977, each of the twelve bills was to be enacted on its own before the fiscal year opened on October 1, so that each part of the federal government received its funding through a measure that had been reported, debated, and passed as a distinct piece of legislation. The record of that design is a record of rare completion. The Congressional Research Service counts only four years since fiscal 1977 in which all of the regular appropriations acts were enacted by the start of the fiscal year: fiscal 1977, fiscal 1989, fiscal 1995, and fiscal 1997. In every other year, some or all of the twelve bills missed the deadline, and the work of funding the government fell to substitute vehicles that combined unfinished business into a single enactment.
 
 The omnibus bill is that standing substitute. An omnibus appropriations act joins most or all of the remaining annual bills into one measure, often with other matter attached, and presents the combined result for a single vote in each chamber and a single signature from the president. Where separate bills would have allowed separate judgments, the package allows one judgment only, taken on the whole. The practice reshaped more than the calendar. Because a spending bill must pass if the government is to keep operating, provisions that might not have passed as freestanding legislation could be carried on a funding measure and renewed there year after year, held in place by the need to enact the bill that carried them. The article's central claim can be stated in a short thesis sentence: Policy by annual rider. Much of the durable policy found in modern appropriations law arrived not through permanent statutes debated on their own terms, but through provisions attached to annual funding acts, where they were renewed as part of the package rather than reconsidered as independent measures.
 
 This article works through that record in sequence. It begins with the reasons the package exists and with the vocabulary of packaging, the terms that separate an omnibus from a consolidated act, a minibus, and a continuing resolution, since the labels mark real differences in scale and function. It then traces the package era through its main anchors, from the full-year continuing resolution that closed fiscal 1988 to the Consolidated Appropriations Act, 2022, which carried all twelve bills and was signed on March 15, 2022. The account turns next to the rules that were supposed to keep legislation off appropriations bills, House Rule XXI and Senate Rule XVI, and to the waivers and silences that let legislative provisions through despite them. A rider ledger follows, cataloguing the long-running provisions treated in the article, each with its subject, its first year, and the article in this series that covers its substance. The article then examines the leverage a package creates for the leaders who assemble it and for a president who must accept or reject it whole, weighs the counter-reading that packaging is simply how a divided government finishes necessary work, and sets out the costs in amendment opportunities, review time, and the written record. It closes with the return of earmarks for fiscal 2022, after a moratorium that ran from 2011, as Community Project Funding in the Consolidated Appropriations Act, 2022. The sections that follow begin with the reasons the package exists at all, in Why the Package Exists.
 
-![Study notes for an omnibus appropriations act, showing its divisions, its limitation riders, and its explanatory statements](/assets/images/blog/blog-01.webp)
+![Study notes for an omnibus appropriations act, showing its divisions, its limitation riders, and its explanatory statements](/assets/images/blog/blog-56.webp)
 
 ## Why the Package Exists
 

@@ -6,15 +6,15 @@ date: "2022-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Conference Committee", "Legislative Process", "Bicameralism", "Congress", "American History"]
 excerpt: "A conference committee reconciles House and Senate versions of a bill into one identical text, but three blockable Senate motions priced the route out of use."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: "78"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2022-03-15"
+lang: en
 ---
-
 Every law that Congress enacts begins as two acts of approval, one in the House of Representatives and one in the Senate, and the Constitution counts the work as finished only when the two approvals attach to exactly the same words. A conference committee is the formal instrument Congress built for the frequent case in which the two chambers approve different words: a temporary joint committee, drawn from both chambers, that negotiates a single text and returns it to each floor for an unamendable vote. When the instrument functioned as designed, the final bargain of a major measure took written form as a conference report, signed by a majority of the managers of each House and explained in a joint statement that later readers could consult.
 
-![Conference committees and amendments between the houses, where conferees reconcile House and Senate versions into identical text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Conference committees and amendments between the houses, where conferees reconcile House and Senate versions into identical text - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The authority under examination is procedural rather than statutory. Article I of the Constitution supplies the destination, the requirement that the House and the Senate approve the same bill in precisely the same form before presentment to the President. The machinery belongs to the chambers: House Rule XXII governs conferences and amendments between the houses in the House of Representatives, and Senate Rule XXVIII performs the same office in the Senate. The Congressional Research Service reports cited throughout the account, including Report RL34611 on resolving legislative differences and Report RS20454 on going to conference in the Senate, supply the procedural record on which the account rests.
 

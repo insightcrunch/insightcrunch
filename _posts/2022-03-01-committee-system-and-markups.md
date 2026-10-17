@@ -6,15 +6,15 @@ date: "2022-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Congress", "Committees", "Legislative Process", "House of Representatives", "Senate"]
 excerpt: "The committee markup is where most bills end and operative text is set: referral, the chairman's mark, amendment votes, the report, and the chair's veto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: "88"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2022-03-01"
+lang: en
 ---
-
 A committee markup is the working session at which a congressional committee takes a measure apart and puts it back together, and the committee system that surrounds that session decides which measures receive one. Nearly every bill and resolution introduced in Congress is referred to a committee, and nearly every referred measure receives nothing further: no hearing, no markup, no vote, and no explanation. The measures that matter pass through a single scheduled event, the markup, at which members consider a prepared text, offer amendments, record votes, and decide whether the measure advances to the chamber. Between referral and that event stands one decision, taken by one officeholder, against which the rules of either chamber provide almost no recourse. The chair of the committee decides whether a markup is scheduled at all, and a measure the chair declines to schedule has, for practical purposes, been disposed of as completely as a measure voted down on the floor, except that no vote, no record, and no stated reason mark its end.
 
-![Committee markup and the gatekeeping process in Congress - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Committee markup and the gatekeeping process in Congress - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The standing committee system that gives the chair that power took its durable shape in the Legislative Reorganization Act of 1946, which consolidated dozens of overlapping panels into a smaller number of standing committees, assigned each committee a written jurisdiction, and made the committee the chamber's instrument for examining legislation in depth. The committee stage sits inside the longer route traced in [the full account of how a bill becomes law in practice](/2022/02/01/how-a-bill-becomes-law-in-practice/), and within that route the committee stage carries a distinctive weight. Hearings gather testimony, floor debate argues merits, and conference committees reconcile texts, but the markup is where the operative language of a bill is usually fixed, and the committee report that follows the markup is the document later interpreters, from agencies to courts, consult first when the enacted words require explanation. A reader who understands the markup, the gate that controls whether it happens, and the report it produces holds the key to the committee system, and a reader who also grasps how much significant legislation routes around the committee entirely holds the key to the system's limits.
 

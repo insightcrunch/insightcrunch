@@ -6,15 +6,15 @@ date: "2022-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Legislative Process", "Congress", "House of Representatives", "Senate", "American History"]
 excerpt: "The veto override is the Constitution's answer to a presidential veto: two thirds of each chamber, voting by name, can enact a returned bill into law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: "101"
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: "2022-04-01"
+lang: en
 ---
-
 A measure that has passed the House of Representatives and the Senate in identical form arrives, at presentment, at a fork that a single constitutional sentence built in advance. Article I, Section 7 of the Constitution assigns every presented bill one of a small set of endings, and the assignment depends on acts and conditions that the sentence specifies with unusual completeness. Signature makes the measure law. Return with objections sends the measure back to the chamber where the measure originated, where the objections enter the journal at large and reconsideration begins under a threshold of two thirds. Silence produces opposite results on opposite conditions, because inaction across ten days, Sundays excepted, enacts a bill that Congress could have received back and defeats a bill that adjournment placed beyond return. The mechanism decides outcomes before any argument about a particular measure begins, since the clock, the journal, and the threshold are fixed features of the procedure rather than terms open to negotiation in a given contest.
 
-![The veto and override at the close of the legislative process, where presentment, the ten day clock, and the two thirds threshold decide whether a returned bill becomes law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The veto and override at the close of the legislative process, where presentment, the ten day clock, and the two thirds threshold decide whether a returned bill becomes law - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The fork matters because the presidential negative under Section 7 is a qualified negative rather than an absolute one. A returned bill carries a path back to enactment inside the same provision that authorizes the return, and that path runs through recorded votes in both chambers, with the names of the persons voting for and against the measure entered on the journal of each chamber respectively. The Constitution therefore builds accountability into the act of enactment over objection. A member who votes to pass a bill over a veto votes in public, by name, on a question framed by stated presidential objections that the originating chamber has placed on the permanent record. The design raises the price of override in visibility as well as in numbers, and the historical record reflects that combined price, because overrides have remained rare across more than two centuries of regular vetoes even in periods of open conflict between a president and a congressional majority.
 

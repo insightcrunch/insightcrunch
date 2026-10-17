@@ -6,15 +6,15 @@ date: "2022-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Code", "Legislative Process", "Study Guides", "Congress"]
 excerpt: "Reading a federal statute begins with its definitions, its numbering hierarchy and citations, and with separating text that commands from text that explains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: "90"
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: "2022-05-01"
+lang: en
 ---
-
 A researcher opening a federal statute for the first time often expects a single document that states a complete rule from a clear beginning to a clear end. That expectation fails against the structure of enacted federal law. The same law exists in three forms, each form prepared for a different purpose, and a citation to one form does not replace the record held in another form. Most of the text in a large act does not state a freestanding rule at all. Most of the text amends other text, adds a unit to an earlier section, strikes language from an earlier provision, or redesignates units that other provisions cite. Operative meaning also sits scattered across an act and beyond an act, in a definitions section that assigns content to familiar words, in a numbering hierarchy that fixes the reach of a condition, and in statutory notes that carry effective dates and transitional law beneath a Code section. Reading therefore begins before interpretation, with location, identification, and reconstruction of the text that governs a question.
 
-![Reading a federal statute through its definitions, numbering and citations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reading a federal statute through its definitions, numbering and citations - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The central claim of the guide can be stated plainly. Most statutes are instructions, not rules, meaning the majority of enacted federal text tells a reader to change other text, and the skill that separates a competent reader from a confused one is finding the statute being amended and applying the instruction. A rule states conduct directly, in a sentence that names an actor and orders, forbids, permits, or empowers an act. An instruction states a change directly, in a sentence that names a target provision and directs a strike, an insertion, an addition, a replacement, or a redesignation. The instruction has no complete meaning apart from the target. The target has no complete meaning after enactment apart from the instruction. Competent reading holds both texts together and produces the executed result, the provision as amended, before any argument about meaning begins.
 

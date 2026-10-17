@@ -6,15 +6,15 @@ date: "2022-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Study Guides", "Legislative Process", "Congress", "American History", "Supreme Court"]
 excerpt: "This US legislation study guide organizes federal statutes into eight analytical frames, a reading order, the distinctions that decide marks, and a claim test."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: "104"
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2022-06-15"
+lang: en
 ---
-
 Students consistently get a particular thing wrong about federal statutes, and the error appears before any statute has been opened. A US legislation study guide that began with dates and titles would repeat the error, because memorization treats each enactment as an isolated item on a list, detached from the money, the procedure, and the institutional choices that gave the item legal force. A date can be recalled without any understanding of whether a statute commanded conduct directly, offered money on conditions, delegated a decision to an agency, or expired under a term written into the enactment itself. Titles accumulate while the mechanisms remain invisible, and a changed fact in an examination question defeats an answer built from fragments.
 
-![US legislation study guide: the eight analytical frames mapped across the statute clusters of the collection - Insight Crunch](/assets/images/blog/blog-01.webp)
+![US legislation study guide: the eight analytical frames mapped across the statute clusters of the collection - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 Frames before facts is the claim on which the whole guide rests. A frame is a recurring structural pattern, a way that statutes organize money, authority, procedure, interpretation, or time. Eight frames organize the collection, covering conditions attached to federal funds, the relation between federal and state standards, the separation between authorization and appropriation, delegation and the devices that recover delegated power, the contrast between entitlement and block grant financing, the power of procedure to edit substance, the cycle in which Congress answers a judicial construction, and the choice between sunset and permanence. Recognition of a frame tells a reader which questions to ask of an unfamiliar statute: whether acceptance of funds created the obligation, whether a state standard may rise above a federal floor, whether an authorized figure was ever appropriated, and whether a provision carries a terminal date. Facts then enter an ordered inquiry instead of arriving as disconnected items.
 

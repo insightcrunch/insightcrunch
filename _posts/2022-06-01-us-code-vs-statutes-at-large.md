@@ -6,15 +6,15 @@ date: "2022-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "US Code", "Legal Research", "Legislative Process", "Supreme Court", "Study Guides"]
 excerpt: "The US Code vs Statutes at Large distinction decides which text a court treats as the law itself, and which counts only as evidence of it, title by title."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: "75"
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: "2022-06-01"
+lang: en
 ---
-
 A researcher with a question about federal law opens the United States Code. The instinct is universal and justified: the Code gathers the general and permanent law of the United States under subject headings, integrates two centuries of amendments into readable text, and answers in minutes a question that the raw record of enactment would take days to yield. Clients, courts, agencies, and students all read federal law in that arranged form, and the citation in nearly every brief and opinion points to a title and section of the Code. The comparison named US Code vs Statutes at Large therefore sounds, at first hearing, like a choice between two editions of the same book, a bound set for the library shelf and a working set for the desk.
 
-![The Statutes at Large volumes beside the arranged titles of the United States Code, the two official forms of federal law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Statutes at Large volumes beside the arranged titles of the United States Code, the two official forms of federal law - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The two publications are not two editions of one book, and Congress has legislated the difference. A provision of Title 1 of the Code, section 112, designates the Statutes at Large, the chronological compilation in which every enacted law is printed exactly as Congress passed it, as legal evidence of the laws it contains. A second provision, section 204(a), assigns the Code a lesser weight for most of its titles: the matter set forth in the Code establishes the laws of the United States prima facie, as evidence accepted until contradicted, and only the titles Congress has separately enacted into positive law carry the status of legal evidence themselves. The book a researcher reads every day is therefore, for a large share of its titles, evidence about the law rather than the law itself, and the enacted text in the chronological compilation controls whenever the two diverge.
 
