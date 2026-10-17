@@ -57,3 +57,7 @@
 ## how-ransomware-recovery-works
 - _posts/2023-07-03-configure-azure-vm-backup.md — could carry: "A backup job that reports success says nothing about survival under attack; our guide to how ransomware recovery works explains the isolation and identity separation a recoverable copy needs."
 - _posts/2024-07-22-azure-disaster-recovery-architecture.md — could carry: "Recovery objectives set the target, but an attacker who reaches the backup layer changes the problem; see how ransomware recovery works for the design that keeps one copy beyond reach."
+
+## how-at1-bonds-work
+- _posts/2014-01-01-dodd-frank-banking-impact.md — could carry: "The capital that post-crisis rules required banks to hold against failure includes a layer designed to be wiped out in a rescue; our guide to how AT1 bonds work explains the trigger, the write-down and the loss order."
+- _posts/2014-02-15-financial-crisis-legislation-2008.md — could carry: "The rescues of 2008 were paid for with public money because bank capital could not absorb the losses; our guide to how AT1 bonds work explains the instrument later created to impose those losses on private creditors first."
