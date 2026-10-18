@@ -6,15 +6,15 @@ date: 2014-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Air Act 1981", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "The Air Act 1981 explained: how consent, control areas and emission standards govern industry, and why vehicles, dust and stubble burning sit outside it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-09-01
+lang: en
 ---
-
 The Air Act 1981 carries the most misleading short title in Indian environmental law. A reader who opens it expecting a statute about the air will find instead a statute about industrial plants: about the chimney, the duct and the flue, about consent obtained before a plant is established in a declared area, and about standards measured at the point where smoke leaves a factory outlet. Almost everything else that determines what an Indian city breathes, the exhaust of its vehicles, the dust of its construction sites and roads, the smoke of its burning waste and of the crop residue fired in the fields beyond its edge, is governed somewhere else: under motor vehicle law, under rules made beneath an umbrella statute passed five years later, under municipal bye-laws, or under orders of courts that grew tired of waiting for the machinery of 1981 to reach sources it was never drafted to touch.
 
-![The Air Act 1981 and the sources of Indian air pollution it does and does not reach - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Air Act 1981 and the sources of Indian air pollution it does and does not reach - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That gap between title and text is not a drafting accident, and this article treats it as the central fact about the statute. The Air (Prevention and Control of Pollution) Act, 1981, Act 14 of 1981, was built quickly, on borrowed institutions, for the pollution problem that was visible in 1981: the factory stack. It has been amended twice in ways that matter, once in 1987 to widen its definitions and arm its boards with a power of direction, and once through the decriminalising statute of 2023 to replace most of its prison sentences with money penalties assessed by executive officers. Its consent machinery still runs the daily compliance life of Indian industry, and no plant manager in a declared control area can ignore it. But the honest map of Indian air quality law is a map on which this Act occupies one province, and the article that follows draws that map: what the Act says, how its machinery works, where its writ stops, and which other instruments, institutions and courts took over the rest of the sky.
 

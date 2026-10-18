@@ -6,17 +6,17 @@ date: 2015-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Mental Healthcare Act", "Health Law", "Disability Rights", "Human Rights", "Judiciary", "UPSC"]
 excerpt: "The Mental Healthcare Act 2017 put capacity before custody: advance directives, nominated representatives, enforceable rights and district review boards."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-09-15
+lang: en
 ---
-
 ## The Question the Mental Healthcare Act 2017 Answers
 
 The Mental Healthcare Act 2017 begins from a proposition that the law it replaced never entertained: a person with mental illness is presumed able to decide about their own treatment, and anyone who says otherwise must prove it. Every structure in the Act, the advance directive, the nominated representative, the chapter of enforceable rights, the rules on admission, the review boards, is machinery built around that single presumption. The statute this article explains is therefore best read backwards from its premise. Under the Mental Health Act 1987, the operative legal question was how a person could lawfully be taken into a psychiatric hospital and kept there. Under the Act of 2017, the operative question is whether the person can decide, and only after that question is answered against the person does any machinery of compulsion come into play, fenced with time limits, reporting duties and review. That reversal, from custody to capacity, is the claim on which the whole statute stands, and it is the thread this article follows through the text, the institutions, the enforcement record and the honest limits of what the Act has delivered.
 
-![The Mental Healthcare Act 2017 and the shift from custody to capacity, consent and enforceable rights - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mental Healthcare Act 2017 and the shift from custody to capacity, consent and enforceable rights - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 A note on method before the substance. This article states the law from the text of the Act, citing the section for every proposition that carries weight, and it attributes every figure about the world outside the text to the source that published it: the parliamentary answers are identified by their question numbers and dates, the survey figures to the National Mental Health Survey, and the litigation submissions as submissions. Where the Act's text contains the occasional imperfect cross-reference, of which the definition of the Board and the emergency treatment reference inside the advance directive chapter are examples, the article follows the operative provision rather than the cross-reference a point the article does not labour, since the substance is not in doubt. Readers who work with the Act professionally will find that habit, trusting the operative section over the stray reference, is the one the courts and the Boards themselves have had to adopt.
 

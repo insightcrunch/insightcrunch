@@ -6,17 +6,17 @@ date: 2014-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Water Act 1974", "Environment Law", "Pollution Control", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Water Act 1974 built the pollution control boards and the consent regime for every discharge; the 2024 amendment is recasting its penalties state by state."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-08-15
+lang: en
 ---
-
 The Water Act 1974 is the statute that built the institutional skeleton on which almost all Indian environmental regulation hangs. Before it, no Indian law created a specialised regulator for pollution of any kind. After it, every state had a board, every significant discharge needed that board's written consent, and a factory that poured untreated effluent into a river was committing an offence against a named prohibition rather than merely behaving badly. The Act did something else that turned out to matter even more than its water provisions: it invented the pollution control board as an institution, and that institution was later handed the Air Act to administer, made the consent authority under the umbrella environment statute's rules, and given the day-to-day running of hazardous waste, biomedical waste, plastic waste and electronic waste regulation. A statute about rivers became the operating system of Indian environmental law, and it remains the place where the system's characteristic strengths and characteristic failures are most clearly visible.
 
 It also carries a distinction no other major Indian statute shares. The Act was enacted by Parliament under Article 252 of the Constitution, on the strength of resolutions passed by state legislatures, because water is a state subject and Parliament had no independent power to legislate on it for the states. That origin has a consequence which is not historical at all. When Parliament amended the Act in 2024 to decriminalise most of its offences and replace imprisonment with monetary penalties, the amendment could not simply extend across India. It took effect in the first instance in Himachal Pradesh and Rajasthan, the two states whose assemblies had passed resolutions asking for it, and in the Union territories, and it reaches every other state only when that state's legislature passes a resolution adopting it. The result is that the same discharge of polluting matter is a crime punishable with a minimum of eighteen months in prison in most of India and a monetary penalty in two states and the Union territories, and the map changes each time another assembly resolves to adopt the amendment. No account of the Water Act that misses this mechanism understands the statute, because the mechanism is the statute's deepest feature: it is a central law whose very text is a record of state consent, given state by state, and alterable only in the same way.
 
-![The Water Act 1974 and the pollution control boards it created, showing the consent regime for industrial discharge and the two penalty regimes produced by the 2024 amendment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Water Act 1974 and the pollution control boards it created, showing the consent regime for industrial discharge and the two penalty regimes produced by the 2024 amendment - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 ## What stood in place of the Act before 1974
 

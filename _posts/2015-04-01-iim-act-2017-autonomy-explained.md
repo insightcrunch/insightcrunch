@@ -6,15 +6,15 @@ date: 2015-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "IIM Act 2017", "Higher Education", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The IIM Act 2017 gave the institutes degrees to award and boards that answered to themselves; the 2023 amendment handed the key appointments to a Visitor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-04-01
+lang: en
 ---
-
 The Indian Institutes of Management Act, 2017 is the only Indian higher education statute in which the same government first wrote the executive almost entirely out of an institution's governance and then, within six years, wrote it back in. The IIM Act 2017 did not merely adjust the relationship between the management institutes and the ministry that funds them. It abolished that relationship in its older form, made each institute a body corporate governed by a board that appointed its own chairperson and its own director, and gave the institutes a power they had sought for half a century, the power to grant degrees. The amendment of 2023 then reversed the centre of that design without touching a single provision about teaching, admissions or research. It moved the appointment of the chairperson, the approval of the director's appointment and removal, the power of inquiry and the power to dissolve the board itself into the hands of a Visitor, the President of India acting on the advice of the government of the day. Anyone who wants to understand how institutional autonomy in India is actually conferred and withdrawn should read these two statutes together, because between them they isolate the mechanism. Autonomy did not move when the objects clause changed, or when the declaration of national importance was made, or when the degree power was granted. It moved when four appointment clauses changed.
 
-![The IIM Act 2017 and the autonomy its boards held before the 2023 amendment returned appointments to the Visitor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The IIM Act 2017 and the autonomy its boards held before the 2023 amendment returned appointments to the Visitor - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 That is the argument of this article, and it is a testable one, because the two texts are short enough to compare provision by provision. The article therefore does three things. It sets out what the institutes were before Parliament legislated, as registered societies awarding diplomas under the eye of a ministry that appointed their directors and chairpersons. It then reads the 2017 Act as it was enacted, in the order of its operative provisions, and the amendment of 2023 in the same way, so that the reader can see precisely which words moved. Finally it states the argument about those words at full strength on both sides, because the government's case, that publicly funded bodies cannot be accountable to nobody, is a serious one, and the counter-case, that appointment power over an institution's head is the principal lever over everything the institution does, is equally serious. The verdict offered at the end is the one the texts themselves support.
 

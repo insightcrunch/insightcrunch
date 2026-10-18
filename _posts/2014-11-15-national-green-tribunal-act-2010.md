@@ -6,15 +6,15 @@ date: 2014-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Green Tribunal", "Environment Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "National Green Tribunal Act 2010 explained: the schedule that fixes its jurisdiction, its expert members, its relief powers and its short limitation periods."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2014-11-15
+lang: en
 ---
-
 The National Green Tribunal is best understood by starting with what it cannot hear. A dispute about effluent discharged by a factory into a river belongs to it, decided by a bench on which a scientist sits beside a judge. A dispute about the diversion of a tiger reserve, or about felling governed by the forest law of 1927, does not belong to it at all, and must travel instead to a High Court bench with no statutory claim to environmental expertise. That inversion is not an accident of drafting discovered later. It is built into the National Green Tribunal Act, 2010 itself, in a schedule that lists seven enactments and omits two of the most consequential environmental statutes in the country. Everything else about the institution, its composition, its remedial powers, its clocks and its appeal route, follows from understanding that the tribunal's jurisdiction was defined by a list rather than by a subject.
 
-![The National Green Tribunal under the Act of 2010, showing the schedule that defines its jurisdiction and the statutes left outside it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Green Tribunal under the Act of 2010, showing the schedule that defines its jurisdiction and the statutes left outside it - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 An institution profile has to answer a design question before it answers any other: what was this body built to be able to do, and what structural choices determine what it actually does. For the tribunal the design choices are unusually legible. Parliament gave it original jurisdiction over civil cases raising a substantial question relating to the environment, appellate jurisdiction over a specified set of orders made under the scheduled enactments, power to award compensation and to order restitution of damaged property and of the environment itself, and a statutory instruction to decide by applying three named principles, sustainable development, the precautionary principle and the polluter pays principle. Parliament also gave it benches composed in equal numbers of judicial and expert members, limitation periods measured in months rather than years, and an appeal that runs directly to the Supreme Court. Set against those gifts, Parliament withheld the Wild Life (Protection) Act, 1972 and the Indian Forest Act, 1927, the two statutes through which the state governs wildlife and the classical forest estate. The profile that follows is the story of a powerful forum with a schedule-shaped hole in its mandate, and of the consequences that flow from the hole for litigants, for conservation and for the tribunal's own record.
 

@@ -6,15 +6,15 @@ date: 2015-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "UGC Act 1956", "Higher Education", "Parliament", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The UGC Act 1956 explained: how the Commission's degree monopoly, grant power and regulations govern Indian universities, and why the reform bills stall."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-02-15
+lang: en
 ---
-
 The University Grants Commission Act, 1956 has been marked for abolition by expert committees, by a government draft bill and by a national education policy, and it remains the statute under which Indian higher education is governed. That survival is the puzzle this article explains. The UGC Act 1956 endures because the two powers that give the Commission its real grip on the system are not the powers its critics usually attack. The Commission is attacked as a funder, accused of running an inspection regime and of writing micro-managerial rules. Its grip, however, comes from a monopoly and a pen: the statutory rule that nobody outside a closed list of institutions may confer a degree, and the power to make regulations that carry the force of law on qualifications, standards and the conditions on which institutions may teach. Every proposal to abolish the Commission has foundered on the same unasked question, which is who would hold those two powers the morning after abolition, and under what statute.
 
-![The UGC Act 1956 and the University Grants Commission, showing the degree monopoly and regulation power that govern Indian universities - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The UGC Act 1956 and the University Grants Commission, showing the degree monopoly and regulation power that govern Indian universities - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The article that follows is the pillar treatment of the statute for this cluster. It reads the Act as a working machine rather than as a chapter list: the constitutional entry that lets Parliament legislate on university standards at all, the composition of the Commission and the constraints built into that composition, the functions provision in Section 12 and the grant machinery that runs off it, the inspection power and its deliberately weak sanction, the degree provisions in Sections 22 to 24 that decide what a qualification legally is, the deemed university route in Section 3 and the scandal and litigation it produced, the rule and regulation powers in Sections 25 and 26 and the large body of subordinate legislation made under them, the fee provision inserted in 1984 and the reasons it has slept, the case law that fixed the boundary between the Commission and the states, and the seventy-year argument about whether the body should exist at all. The claim to hold throughout is the one the brief for this article names: the power is in the degree, not the grant.
 

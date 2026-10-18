@@ -6,15 +6,15 @@ date: 2015-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Health Law", "Public Health", "Constitutional Law", "Federalism", "UPSC", "Law Students"]
 excerpt: "Health laws in India have no framework statute. This guide maps every major Act on hospitals, doctors, drugs, food and outbreaks, and names each regulator."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-06-01
+lang: en
 ---
-
 Health laws in India do not begin with a health Act, because at the level of the Union there is none. No statute of Parliament states what the state owes a person who falls ill, creates a general duty to provide care, or organises the health system as a whole. What exists instead is a field of narrow, subject-specific statutes written decades apart, each answering a particular scandal, technology or administrative problem: a statute for drugs, a statute for doctors, a statute for medical colleges, a statute for the hospitals that some states have agreed to register, statutes for transplants, terminations, mental illness and surrogacy, and a four-section statute from 1897 that still carries the law of epidemics. A reader who understands that single fact, that the field has no framework and was never designed as a system, understands the shape of Indian health law better than a reader who has memorised the titles of thirty Acts.
 
-![Health laws in India mapped across the Constitution, showing the statutes and regulators for hospitals, doctors, drugs and outbreaks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Health laws in India mapped across the Constitution, showing the statutes and regulators for hospitals, doctors, drugs and outbreaks - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The reason for the shape is constitutional, and it is the subject of the first part of this guide. Public health is primarily a state subject, so the Union has entered the field sideways, through the entries the Constitution does give it: the professions, medical education, drugs, food standards and the prevention of disease crossing state borders. Two of the field's principal statutes were not even enacted under those entries. They were passed under Article 252, on the resolutions of a handful of state legislatures, and they apply only where a state has asked for them or later adopted them, which means that the map of Indian health law is not one map but several, overlapping at different depths in different states. The right to health, meanwhile, exists in India as a judicial construction built on the right to life, not as a legislative entitlement, and the framework statute that would have changed that has been drafted twice, in 2009 and again in 2017, and introduced in Parliament never. This guide maps the whole field: the constitutional division, the colonial skeleton, the product and professional statutes, the facility and practice statutes, the outbreak framework, the case law, the missing framework Act, and the large layer of schemes that govern much of Indian health care without being law at all. Each statute named here is treated at headline depth and signposted to the article in this series that owns it, because the purpose of a map is to show where everything is and how the pieces connect.
 

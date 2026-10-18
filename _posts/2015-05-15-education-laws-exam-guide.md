@@ -6,15 +6,15 @@ date: 2015-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Education Law", "RTE Act", "Constitutional Law", "UPSC", "Law Students"]
 excerpt: "Education laws for UPSC and teaching examinations, mapped by provision, statute and case, with the traps that cost marks and the policy items that are not law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-05-15
+lang: en
 ---
-
 Education laws are tested in competitive examinations as constitutional law wearing an education vocabulary, and the candidate who prepares them as a list of schemes and announcements prepares the wrong subject. The questions that recur across the civil services papers, the state services papers and the teaching eligibility tests are built from a small and stable set of materials: a handful of constitutional provisions, seven statutes, eight judgments and one distinction, between law and policy, that separates the answers examiners reward from the answers they mark down. Almost everything else in the education pages of a newspaper is perishable. Cabinet announcements perish. Committee recommendations perish. Draft bills perish, most of them in committee. The provisions, the statutes and the judgments do not perish, because changing them requires a constitutional amendment, an Act of Parliament or a larger bench, and none of those happens quietly.
 
-![Education laws for examinations, showing the constitutional provisions, statutes and judgments that carry the marks in this subject - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Education laws for examinations, showing the constitutional provisions, statutes and judgments that carry the marks in this subject - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The discipline this guide teaches is therefore a sorting discipline. Every item in the education universe belongs in one of five boxes: a constitutional provision, an enacted statute, a subordinate instrument made under a statute, a policy recommendation, or an unenacted proposal. The boxes carry different marks. A constitutional provision can be quoted, relied on and enforced. A statute can be cited by its Act number and its operative section. A subordinate instrument, a regulation or a notification, binds only because a statute empowers it. A policy recommendation binds nobody, however eminent the document that carries it. An unenacted proposal binds nobody either, and may never bind anybody, because most bills introduced in Parliament are never passed. The candidate who writes about all five as though they were one undifferentiated thing called education reform has made the error this subject punishes hardest, and has usually made it in the first paragraph.
 

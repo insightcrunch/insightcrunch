@@ -6,15 +6,15 @@ date: 2015-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Medical Termination of Pregnancy Act", "Health Law", "Criminal Law", "Judiciary", "Social Justice", "UPSC"]
 excerpt: "The Medical Termination of Pregnancy Act 1971 explained: why it protects the doctor rather than the woman, and how its conditions actually work in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-08-01
+lang: en
 ---
-
 Almost every account of abortion law in India begins with a sentence the statute does not support: that the Medical Termination of Pregnancy Act gives women a right to end a pregnancy. It does not, and the distance between that sentence and the text explains nearly everything that confuses readers, patients and practitioners about how termination of pregnancy actually works in India. Causing a miscarriage is an offence under the general criminal law of India, and it was an offence long before 1971. The 1971 statute did not repeal that offence, did not create a competing entitlement, and did not transfer any decision to the pregnant woman. What it did was narrower and, in its consequences, larger: it built a carefully fenced exception inside the offence, available to one class of person, the registered medical practitioner, who acts within defined conditions. The legal question the statute poses is therefore never whether a woman has a right. It is whether a practitioner has a defence.
 
-![The Medical Termination of Pregnancy Act 1971, showing how termination operates as an exception to the criminal offence of causing miscarriage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Medical Termination of Pregnancy Act 1971, showing how termination operates as an exception to the criminal offence of causing miscarriage - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 That single design choice, a shield drafted for the doctor rather than an entitlement drafted for the woman, is the key to the whole field. It explains why the grounds for termination are framed as medical opinions rather than as reasons a woman may give. It explains why the statute speaks of pregnancies that "may be terminated by" practitioners rather than of pregnancies a woman may choose to end. It explains why the characteristic failures of the system are refusal, referral and delay rather than prohibition, because a defence that a practitioner is unsure of is a defence the practitioner may decline to rely on, and the statute gives the woman no lever with which to compel reliance. And it explains why, half a century after enactment, the litigation in this field consists so often of women petitioning constitutional courts for permission the statute itself contains no machinery to grant. This article sets out the statute as it was designed and as it operates: the offence it displaces, the committee whose public health reasoning produced it, the conditions in Section 3, the consent rules, the approved place machinery, the paperwork and secrecy regime, the emergency exception, the penalties that surround the shield, the constitutional reading the courts have layered over the text, and the neighbouring statutes whose enforcement chills the very conduct this Act protects. The gestational limits and the changes made in 2021 are stated here only in outline, because that ground belongs to the companion treatment of the amendment; the pillar's subject is the architecture of the 1971 Act itself. The wider statutory landscape of which this Act forms part is mapped in the series guide to [health legislation in India](/2015/06/01/health-laws-india-complete-guide/), and this article stays inside its own statute.
 

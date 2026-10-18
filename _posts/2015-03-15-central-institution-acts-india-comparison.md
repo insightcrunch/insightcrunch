@@ -6,15 +6,15 @@ date: 2015-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Higher Education", "Central Universities", "Constitutional Law", "Federalism", "UPSC", "Law Students"]
 excerpt: "Central institution Acts compared on the questions that decide real autonomy: who appoints the head, who sits on the board, who grants degrees, and who pays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-03-15
+lang: en
 ---
-
 Every argument about the autonomy of an Indian public institution is, underneath the rhetoric, an argument about a small number of clauses in a small number of statutes. The central institution Acts that govern the central universities, the Indian Institutes of Technology, the National Institutes of Technology and the Indian Institutes of Management all speak warmly of academic freedom, and they speak in almost identical words. What differs between them, sharply and measurably, is the appointment machinery: who selects the head of the institution, who selects the people who select the head, and how many of the seats around the governing table are filled from outside the institution and by whom. This comparison reads the four statutes side by side on the dimensions that decide the question, and its conclusion can be stated at the outset. Autonomy in Indian higher education law is an appointments question. A statute that proclaims freedom in its objects clause and retains the appointments in its operative clauses has granted nothing that a determined government cannot take back without amending a word of the freedom language, because the people appointed under the retained power will do the taking themselves.
 
-![Central institution Acts compared, showing who appoints the head and the governing body under the Central Universities, IIT, NIT and IIM statutes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Central institution Acts compared, showing who appoints the head and the governing body under the Central Universities, IIT, NIT and IIM statutes - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 That claim is testable, and this article tests it provision by provision. The comparison covers the degree-granting power, the architecture of the governing body, the role of the Visitor, the funding route, the councils that sit above the individual institutions, and the ease or difficulty of changing the rules themselves. Two cautions govern everything that follows. The first is that a model is not uniform inside its own statute: the central university sector contains universities governed by the single Act of 2009 and older universities governed by their own Acts reaching back a century, and the differences inside the model matter and are flagged where they arise. The second is that the management institute model changed fundamentally in 2023, only six years after it was created, and any comparison that quotes the 2017 text without the amendment is describing a statute that no longer operates. The depth of the management statute and its amendment belongs to the dedicated article on that Act; here it is summarised and linked, as the comparison requires, but not duplicated.
 

@@ -6,15 +6,15 @@ date: 2015-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Education Act", "Social Justice", "Constitutional Law", "Federalism", "UPSC"]
 excerpt: "The RTE 25 percent quota in action: how Section 12(1)(c) admissions, lotteries and reimbursement actually work, and why so many reserved seats stay empty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-02-01
+lang: en
 ---
-
 The RTE 25 percent quota is the most quoted number in Indian education law and the least examined one. Section 12(1)(c) of the Right of Children to Free and Compulsory Education Act, 2009 obliges every unaided non-minority school to fill at least a quarter of its entry class with children from disadvantaged groups and weaker sections in the neighbourhood, free of charge, and the Supreme Court has upheld that obligation against constitutional challenge. Yet in state after state the seats the provision creates have gone unfilled in large proportion, and the argument about why has been conducted largely in slogans: schools are accused of prejudice, governments of indifference, and the provision itself of being unworkable. The record supports a colder diagnosis. The entitlement is legally sound and judicially secure. What fails is the machinery around it, above all the money: reimbursement fixed by formula below the fee a school actually charges, paid years late when it is paid, and eligibility definitions written by states in terms that exclude many of the children the provision was drafted for. The scheme fails at the till, not at the door.
 
-![Children entering a private school under the RTE 25 percent quota, the admission and reimbursement machinery examined - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Children entering a private school under the RTE 25 percent quota, the admission and reimbursement machinery examined - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ## The RTE 25 percent quota: what Section 12(1)(c) actually obliges a school to do
 

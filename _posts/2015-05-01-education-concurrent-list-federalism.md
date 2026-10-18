@@ -6,15 +6,15 @@ date: 2015-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Education Law", "Federalism", "Constitutional Law", "Concurrent List", "UPSC", "Law Students"]
 excerpt: "Education on the Concurrent List explained: how Entry 25, the Union standards entry and Article 254 decide who governs India's schools and universities."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-05-01
+lang: en
 ---
-
 Education on the Concurrent List is the single most consequential placement in the Seventh Schedule, because it decides who may govern the institutions through which almost every Indian family passes. When a state government and the Union government disagree about a vice chancellor, an entrance test, a language formula or a textbook, the quarrel is rarely about education in the abstract. It is a quarrel about a boundary written into the constitutional text: the boundary between setting standards, which the Constitution reserves to the Union in terms, and administering institutions, which the states insist never left their hands. Every dispute in this field is, at bottom, an argument about which side of that boundary a contested decision sits on, and the argument cannot be settled by pointing to the year 1976 alone.
 
-![Education on the Concurrent List, showing how the 42nd Amendment transfer, the Union standards entry and Article 254 shape the contest between the Centre and the states over universities - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Education on the Concurrent List, showing how the 42nd Amendment transfer, the Union standards entry and Article 254 shape the contest between the Centre and the states over universities - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The familiar story is that education was a state subject until the Emergency, when the Constitution (Forty-second Amendment) Act, 1976 moved it to the Concurrent List, and that centralisation followed from that move. The familiar story is wrong in the way that matters. The transfer of 1976 changed who could legislate on education generally, and it mattered a great deal for school education, for teacher training and for the volume of central legislation that followed. But the deepest centralising instrument in Indian education was never the transfer. It is an entry that has sat in the Union List since 1950, untouched by the Forty-second Amendment and older than the transfer by a generation: Entry 66 of List I, which gives Parliament exclusive power over the co-ordination and determination of standards in institutions for higher education or research and scientific and technical institutions. Every central regulator that the states complain about, the University Grants Commission, the technical education council, the teacher education council and the medical commission, draws its authority from that entry or from the concurrent power read with it, and the states lost the decisive argument not in 1976 but on each occasion when a court accepted that a contested matter was a standard rather than an act of administration.
 

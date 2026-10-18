@@ -6,15 +6,15 @@ date: 2015-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Public Examinations Act 2024", "Education Law", "Criminal Law", "Judiciary", "UPSC"]
 excerpt: "Exam malpractice law in India explained: what the Public Examinations Act 2024 punishes, whom it deliberately leaves out, and the leaks it cannot reach."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-04-15
+lang: en
 ---
-
 Almost everyone who argues about examination malpractice law in India argues about a statute that does not exist. One side of the argument assumes that the Public Examinations (Prevention of Unfair Means) Act, 2024 sends cheating candidates to prison for years, and denounces it for cruelty. The other side assumes the same thing, and praises it for toughness. Both are describing a law Parliament did not pass. The statute enacted in February 2024 aims its prison terms at the people who leak, sell, solve, impersonate, and organise, and it deliberately leaves the candidate outside its own punishments. The disagreement worth having is not about that imaginary law. It is about the real one, and the real disagreement can be stated in terms both camps accept: whether a criminal statute aimed at the supply side of cheating can protect examinations whose failures are, on the record of 2024 itself, substantially failures of administration.
 
-![Exam malpractice law in India, showing what the Public Examinations Act 2024 punishes and whom it leaves out - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Exam malpractice law in India, showing what the Public Examinations Act 2024 punishes and whom it leaves out - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 Stated fairly, the case for the Act is that organised paper leaking had become an industry, prosecuted before 2024 under general offences of cheating, forgery, and criminal conspiracy that were never designed for it, and that a dedicated statute with heavy fines, property forfeiture, and debarment of complicit firms was the missing instrument. Stated fairly, the case against is that leaks are produced by a system: a single agency conducting high-stakes examinations for lakhs of candidates, logistics and technology outsourced to private firms, question papers moving through long physical chains, and no statutory standard of examination security imposed on anyone. On that view the Act punishes the symptom with great severity and the cause not at all. Both statements are made by serious people, and this article gives each its strongest form before reaching a verdict.
 

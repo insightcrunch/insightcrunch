@@ -6,15 +6,15 @@ date: 2014-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Wildlife Protection Act", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "Wildlife Protection Act 1972 explained: the hunting ban, the four schedules, protected areas, tiger reserves and penalties for wildlife crime in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-10-15
+lang: en
 ---
-
 The Wild Life (Protection) Act, 1972 rests on a single, radical legal move: it treats a wild animal not as a resource waiting to be used, nor as a pest waiting to be destroyed, but as property of the government, placed beyond private taking altogether. From that one move everything else in the Wildlife Protection Act follows. Hunting a scheduled animal is a criminal offence rather than a regulated sport. A trophy or an animal article belongs to the state unless a citizen holds a certificate saying otherwise. Trade in the most protected species is prohibited outright. And the habitat of those animals is fenced off, in law if not always on the ground, by a graded system of protected areas that reaches from the strict national park down to the community reserve declared over private land with its owners' consent.
 
-![The Wildlife Protection Act 1972, its hunting ban, schedules and protected area network explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Wildlife Protection Act 1972, its hunting ban, schedules and protected area network explained - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Yet the statute carries a tension it has never resolved, and the tension is the key to reading it well. The Act was drafted in 1972 against a single, identifiable enemy: the hunter, the poacher and the trader, who between them had driven the tiger, the elephant, the rhinoceros and dozens of other species towards disappearance. Against that enemy the Act is complete and severe. The threat that defines wildlife policy in practice is a different one: the leopard that takes livestock at the edge of a village, the elephant herd that flattens a paddy field in a night, the wild pig that makes a smallholding uneconomic to farm. For that threat the Act has almost nothing. Its only instruments addressed to an animal living among people are a permission to kill it, granted case by case by the chief wildlife warden, and a power in the Central Government to strip a whole species of protection in a named area by declaring it vermin. Compensation for the farmer who loses a crop belongs to state schemes that sit outside the Act entirely.
 

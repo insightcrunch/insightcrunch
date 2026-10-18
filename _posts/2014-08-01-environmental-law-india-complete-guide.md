@@ -6,15 +6,15 @@ date: 2014-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Environment Law", "Constitutional Law", "Pollution Control", "Judiciary", "UPSC", "Law Students"]
 excerpt: "Environmental law in India explained through its constitutional routes: how Articles 252 and 253 shaped the Water Act, Air Act and Environment Protection Act."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-08-01
+lang: en
 ---
-
 Environmental law in India is usually described as a single body of law, and the description misleads from the first sentence. There is no environmental code. There is no single statute that a reader can open to find the law of pollution, forests, wildlife and biodiversity set out in one ordered scheme. What exists is a collection of statutes passed half a century apart, each resting on a different constitutional foundation, each applying to a different map of the country at the moment of its birth, and each administered in practice by institutions that were designed for one of them and then borrowed by all the others. A reader who does not know which foundation a statute stands on will misunderstand where it applies, who enforces it, what happens when a state disagrees with it, and even whether breaking it is a crime.
 
-![Environmental law in India, showing the constitutional routes behind the Water Act, Air Act and Environment Protection Act and the boards that administer them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Environmental law in India, showing the constitutional routes behind the Water Act, Air Act and Environment Protection Act and the boards that administer them - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The organising fact of the whole field can be stated in one sentence: the route determined the reach. Water and wildlife were subjects the Constitution gave to the states, so when Parliament first legislated on them it could do so only for states whose legislatures asked it to, and the resulting statutes spread across the country state by state, by consent and adoption. Air pollution and the general environment reached the statute book by a different door: Parliament used its power to legislate for implementing an international agreement, and a law made through that door applies to the whole territory of India from the day it commences, with no state consent required and none sought. Between those two doors sits a constitutional amendment that moved forests and wildlife onto shared ground, and underneath all of them sits a single set of pollution control boards, created under the Water Act, deemed to exist under the Air Act, and used in practice to run much of the umbrella statute as well. The field is not a system designed at one moment. It is a sediment of constitutional opportunities, laid down in the order in which the opportunities appeared.
 

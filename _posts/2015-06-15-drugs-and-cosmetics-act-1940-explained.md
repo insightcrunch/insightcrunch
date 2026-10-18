@@ -6,15 +6,15 @@ date: 2015-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Drugs and Cosmetics Act", "Criminal Law", "Federalism", "Parliament", "UPSC"]
 excerpt: "The Drugs and Cosmetics Act 1940 explained: central approval of new drugs, state licensing of manufacture and sale, and the penalties for spurious medicines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-06-15
+lang: en
 ---
-
 Every medicine sold in India, from a strip of paracetamol at a village chemist to a patented oncology injection in a metropolitan hospital, passes through a single statutory doorway: the Drugs and Cosmetics Act 1940. The Act decides what may be imported, what may be manufactured, what may be sold, by whom, under what conditions, and with what consequences when the product on the shelf is not what its label claims. Yet the statute most readers imagine, a single regulator guarding a single gate, does not exist. In its place stands a divided machine. A new medicine is approved once, at the Centre, by the Central Drugs Standard Control Organisation headed by the Drugs Controller General of India. The licence to manufacture that same medicine is then granted state by state, and the licence to sell it is granted state by state again. Approval is national; permission to make and permission to sell are local. Almost everything that is distinctive about Indian drug regulation, its reach, its unevenness, and its recurring quality scandals, follows from that one structural fact.
 
-![The Drugs and Cosmetics Act 1940 and the divided approval and licensing structure it created for medicines in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Drugs and Cosmetics Act 1940 and the divided approval and licensing structure it created for medicines in India - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The claim this article defends, and returns to at each stage, can be stated in one line: a medicine in India is approved once and licensed thirty-six times, so the quality of what reaches a patient depends less on the approval the product received than on the capacity of the licensing authority in the state where it was made. Twenty-eight states and eight union territories each run a licensing jurisdiction under the Act. The Centre writes the standards, approves the new molecule, and controls the border. The states license the factory and the shop. When a batch fails, the failure is almost always located in the second half of that sentence. This article is the statute pillar for the drug-regulation cluster within the wider account of [health legislation in India](/2015/06/01/health-laws-india-complete-guide/), and it takes the Act apart in the order a reader needs it: what came before, how the text is organised, the definitions that decide prosecutions, the institutions, the approval machine, the licensing machine, the schedules where practice actually lives, the penalty ladder, the courts, the two great official indictments of the system, and the replacement statute that has been drafted and not enacted.
 

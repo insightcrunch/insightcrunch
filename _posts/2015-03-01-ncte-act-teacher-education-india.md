@@ -6,15 +6,15 @@ date: 2015-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "NCTE Act", "Teacher Education", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "The NCTE Act 1993 explained: how teacher education institutions win and lose recognition, who sets teacher qualifications and what the eligibility test decides."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-03-01
+lang: en
 ---
-
 Every schoolteacher in India holds a qualification whose legal worth is decided by a statute most teachers never read. The National Council for Teacher Education Act, 1993, the NCTE Act, determines which institutions may train teachers, which courses a recognised institution may run, what qualifications a person must hold to be recruited as a teacher, and what follows when any link in that chain is missing. A degree earned in good faith, after years of study and fees paid, can turn out to be legally worthless for the only purpose it was obtained, employment as a teacher, because the institution that awarded it lacked a permission the holder never knew to ask about. The Act is therefore best understood not as an education measure in the abstract but as a validity machine: it takes an enormous, decentralised training sector and sorts its output into qualifications the state will honour and qualifications it will not.
 
-![The NCTE Act 1993 and teacher education in India, showing how recognition of training institutions decides whether a teaching qualification is valid for employment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The NCTE Act 1993 and teacher education in India, showing how recognition of training institutions decides whether a teaching qualification is valid for employment - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The statute also carries a contradiction at its centre, and the contradiction is the reason this pillar exists. The recognition regime was built to discipline a private training sector that had expanded without planning or standards, and the regulated private sector, by and large, submits to it: private colleges apply, are inspected, are refused, appeal, and sometimes close. The most conspicuous breach of the regime, when it came to light, was not by a private college at all. Institutions funded by the Central Government, by state governments and by Union territory administrations had admitted students to teacher education courses for years without the recognition the Act required, and the qualifications those students earned were invalid by the statute's own terms. Parliament's response, in 2019, was not enforcement against its own institutions. It was a retrospective amendment that declared the institutions recognised all along. The state broke its own recognition rule and then legalised the breach, and any honest account of this Act has to hold both halves of that sentence together: the students caught in the breach were blameless and deserved rescue, and a regime whose violations are cured by legislation has announced the price of violating it.
 

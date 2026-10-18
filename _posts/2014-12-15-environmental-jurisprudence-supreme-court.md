@@ -6,15 +6,15 @@ date: 2014-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Environment Law", "Judiciary", "Constitutional Law", "Supreme Court", "UPSC"]
 excerpt: "Environmental jurisprudence in India explained: how the Supreme Court built absolute liability, polluter pays, precaution and public trust from Article 21."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-12-15
+lang: en
 ---
-
 A reader who opens India's environmental statutes looking for the rules that decide environmental cases will not find them there. The rules are in the case law, in environmental jurisprudence, the body of doctrine the courts constructed around the statutes. The Environment (Protection) Act, 1986 empowers the Central Government to take all measures it deems necessary for protecting the environment, and then leaves the content of those measures to notification. The Water Act and the Air Act create boards, consent procedures and offences, but neither statute states who bears the burden of proof when the science is uncertain, what a polluter must pay for beyond a fine, whether a hazardous enterprise can escape liability by pointing to a stranger's act, or what the state may not do with a river or a forest. Those questions are the substance of environmental litigation, and every one of them was answered by a court. The body of answers, built case by case over four decades, is what environmental jurisprudence in India actually consists of, and it is the subject of this article.
 
-![Environmental jurisprudence of the Supreme Court of India, showing the four judge-made doctrines of absolute liability, polluter pays, precaution and public trust - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Environmental jurisprudence of the Supreme Court of India, showing the four judge-made doctrines of absolute liability, polluter pays, precaution and public trust - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The interpretive problem at the centre of the field can be stated plainly. Parliament legislated a framework and delegated its substance. The executive, which was to supply the substance through standards, consents and enforcement, chronically under-supplied it: boards were understaffed, prosecutions were rare, and the standards that existed were enforced unevenly against the industries they governed. Into that gap came the constitutional courts, equipped with two things the statutes did not give the regulators: a right, the right to life in Article 21, capacious enough to hold an environmental content once a bench chose to read it that way, and a procedure, the public interest petition, loose enough to let almost anyone invoke it. The doctrines that followed were not interpretations of statutory language in the ordinary sense. They were constructions placed on constitutional silence, and their authority rests on the law-declaring power of the Supreme Court under Article 141 rather than on any enacted text. That origin explains both their strength and their vulnerability, and it frames the two questions this article keeps separate throughout: what exactly did the courts hold, and was it theirs to hold.
 

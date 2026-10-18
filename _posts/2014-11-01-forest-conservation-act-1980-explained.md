@@ -6,15 +6,15 @@ date: 2014-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Forest Conservation Act", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "Forest (Conservation) Act 1980 explained: how one prior approval rule, a court-given definition of forest and two levies govern the diversion of forest land."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-11-01
+lang: en
 ---
-
 The Forest (Conservation) Act 1980 is the shortest statute in Indian environmental law and, hectare for hectare, the most consequential. As enacted it ran to five sections, of which only one does operative work, yet that single section placed a lock on every forest in the country: no state government, and no authority acting under one, may de-reserve a reserved forest, use forest land for a non-forest purpose, lease forest land outside government control, or clear naturally grown trees even for reafforestation, unless the Central Government has approved the order in advance. A mine, a dam, a highway, a transmission line, a cement plant, an iron ore beneficiation unit, a township: anything that needs forest land must pass through that gate in New Delhi, and the gate has shaped the geography of Indian development for over four decades.
 
-![Forest (Conservation) Act 1980 and the prior approval gate, showing how one section and a court-supplied definition decide which land needs central clearance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Forest (Conservation) Act 1980 and the prior approval gate, showing how one section and a court-supplied definition decide which land needs central clearance - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The paradox at the centre of the Act explains both its power and its controversy. Parliament wrote a brief brake on state governments and omitted to define the statute's central word. The Act nowhere says what a forest is. For sixteen years that omission mattered less than it might, because administrators read the Act against the forest classifications of the Indian Forest Act 1927 and state records. In December 1996 the Supreme Court, in proceedings begun by a landowner from the Nilgiris named T. N. Godavarman Thirumulpad, held that forest bears its dictionary meaning, that the Act reaches every tract answering that description whatever its ownership or classification, and that any area recorded as forest in government records is forest land for the Act whether or not a tree stands on it. One interpretive sentence converted a statute about notified forests into a statute about every wooded tract in India, produced the category administrators call deemed forest, and drew private estates, community forests of the North-East, revenue land with tree cover, and plantations into a clearance regime designed for government forest departments.
 

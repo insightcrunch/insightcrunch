@@ -6,15 +6,15 @@ date: 2015-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Medical Commission Act", "Medical Education", "Health Law", "Judiciary", "UPSC"]
 excerpt: "The National Medical Commission Act 2019 repealed the Indian Medical Council Act 1956 and rebuilt medical regulation around four boards. The design is mapped."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-07-01
+lang: en
 ---
-
 The National Medical Commission Act 2019 did something no Indian health statute had done before: it abolished the regulator of the medical profession outright and built a differently constituted one in its place, rather than amending the old body into a new shape. The Indian Medical Council Act 1956, under which the Medical Council of India had regulated medical education and practice for over six decades, was repealed by Section 60 of the new Act with effect from 25 September 2020, and the Council stood dissolved on the same day. In its place stands a Commission of thirty-three persons, none of them elected by the profession, working through four autonomous boards that divide the work the single Council once held together: undergraduate education, postgraduate education, the assessment and rating of institutions, and ethics with registration. Around that architecture the Act rearranged the profession's gateways. One entrance test governs admission. One exit test was designed to govern the licence to practise, admission to postgraduate study and the recognition of foreign graduates at a single stroke. A fee guideline power reaches into half the seats of every private medical institution and deemed university. A limited licence creates a category of mid-level practitioner the profession had resisted for a generation. This article is about what the replacement statute actually built, provision by provision, and about the two provisions that drew the fiercest professional opposition, one of which had still not been brought into operation years after the rest of the Act was working.
 
-![The National Medical Commission Act 2019 and the four autonomous boards that replaced the Medical Council of India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Medical Commission Act 2019 and the four autonomous boards that replaced the Medical Council of India - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 A reader who wants the head-to-head verdict on the old body against the new one, scored point by point, should go to [the comparison of the Medical Council and the National Medical Commission](/2015/07/15/mci-vs-nmc-comparison/), which owns that question in this series. The task here is different and prior to it: the repeal and replacement itself, what the new law kept, what it discarded, what it added, and how its machinery is arranged, because most public argument about the National Medical Commission proceeds from a description of the Act that the Act does not support. The exit test has not been held. The fee power is a power to frame guidelines for a defined proportion of seats, not a power to fix the fees of every private seat. The state medical councils were not abolished. Each of those corrections matters, and each is made from the text in what follows.
 

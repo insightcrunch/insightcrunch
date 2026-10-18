@@ -6,15 +6,15 @@ date: 2014-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bhopal Disaster", "Environment Law", "Environment Protection Act", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Bhopal disaster legislation traced in full: the claims Act, the umbrella environment statute, factory safety reform, no-fault relief and the missing tribunal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-10-01
+lang: en
 ---
-
 In the night of 2 and 3 December 1984, methyl isocyanate gas escaped from a pesticide plant operated in Bhopal by Union Carbide India Limited, the Indian subsidiary of the Union Carbide Corporation of the United States, which held 50.9 per cent of the subsidiary's shares. The Bhopal disaster killed thousands of people in the surrounding settlements within days. The Government of Madhya Pradesh confirmed 3,787 deaths as related to the gas release, and every other count in circulation, from the figures in the Supreme Court's settlement reasoning to the estimates of victims' organisations, is a rival number that this article keeps separate, because the quarrel over the count became part of the legal history itself. What followed the leak, over nearly four decades, was not one legal response but a sequence of them, and the sequence is the subject here: a statute that took every victim's claim away from the victim and gave it to the state, an umbrella environmental statute enacted within eighteen months, a new chapter on hazardous processes in factory law, a doctrine of absolute liability announced in a different city's case, a no-fault insurance statute, a compensation tribunal that Parliament created on paper and the executive never brought into existence, and a compensation question that the Supreme Court finally closed in March 2023.
 
-![Bhopal disaster and the environmental legislation it produced, tracing the claims Act, the umbrella statute and the tribunal that never sat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bhopal disaster and the environmental legislation it produced, tracing the claims Act, the umbrella statute and the tribunal that never sat - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 The test this history has to pass is a tracing test. A reader who finishes it should be able to say which instrument answered which failure, in which order, and which of the answers never operated at all. Four statutes and one doctrine came out of Bhopal. One of the statutes was repealed fifteen years after its enactment without having been in force for a single day. The criminal case ended, twenty-six years after the leak, in a two-year sentence under a negligence provision. The compensation case ended, thirty-nine years after the leak, with a Constitution Bench declining to reopen a settlement that had been struck in 1989 on assumptions about the dead and the injured that the claims process itself later disproved. Each element of that sequence has a statutory or judicial anchor, and each anchor is set out in turn.
 

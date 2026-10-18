@@ -6,15 +6,15 @@ date: 2015-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Right to Education", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The 86th Amendment and Article 21A explained: how the courts created the right to education, how Parliament narrowed it, and why it slept for seven years."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-01-15
+lang: en
 ---
-
 The 86th Amendment is the rare constitutional change whose text is the least interesting thing about it. Three short clauses, inserted, substituted and added in December 2002, did less work than the decade of litigation that forced them into being and the seven years of executive silence that followed them. The interpretive question at the centre of this article is one the constitutional text left entirely open: where does a fundamental right come from when the Constitution, as adopted, does not contain it? For education, the answer given by the Supreme Court was that it had been inside the right to life all along. The answer given by Parliament, a decade later, was narrower, more conditional, and, for more than seven years, purely theoretical, because the amendment that carried the right into Part Three of the Constitution also carried a commencement clause that left its arrival to a government notification.
 
-![The 86th Amendment and Article 21A, tracing how the Supreme Court built the right to education inside Article 21 before Parliament rewrote it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 86th Amendment and Article 21A, tracing how the Supreme Court built the right to education inside Article 21 before Parliament rewrote it - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 That sequence, creation by judgment, restriction by judgment, codification by amendment, and commencement by notification, is the spine of what follows. Each stage changed not only what the right to education was but who held it against whom. A reader who follows the sequence carefully ends with something more valuable than the holdings themselves: a working map of how fundamental rights actually arrive in the Indian legal order, which is rarely by the front door of the constitutional text and often by a side entrance that a court opens and a legislature then rebuilds to its own dimensions. The private education sector, whose admission fees started the whole story in a Karnataka medical college, appears at every stage, and its position at the end of the sequence is very different from its position at the start.
 

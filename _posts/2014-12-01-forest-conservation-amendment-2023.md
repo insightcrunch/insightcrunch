@@ -6,15 +6,15 @@ date: 2014-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Forest Conservation Act", "Environment Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "The Forest (Conservation) Amendment Act 2023 narrowed the Act to notified and recorded forest land, yet the Supreme Court kept the 1996 definition in force."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-12-01
+lang: en
 ---
-
 The Forest (Conservation) Amendment Act 2023 did something no earlier amendment in this series has done. It was passed, assented to, and brought into force, and its central provision then stopped governing. Parliament rewrote the coverage clause of the forest statute so that the Act would reach only land that a legal notification or a government record identifies as forest. The Supreme Court, hearing a challenge to that rewrite, declined to stay the amendment, declined to strike any part of it down, and instead directed every state and Union territory to go on applying the older and wider judicial definition of forest until an administrative exercise in the states is complete. That exercise is not complete. The result is a statute with two operative definitions: the one Parliament enacted, which is law, and the one the Court directed everyone to use, which is practice. The amendment trail, which usually records how a text drifted across decades, here records a text that arrived and was then held in suspension by the branch of government it was designed to displace.
 
-![The Forest (Conservation) Amendment Act 2023 and the contest between the recorded definition and the dictionary meaning of forest - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Forest (Conservation) Amendment Act 2023 and the contest between the recorded definition and the dictionary meaning of forest - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 This article traces the whole trail. It sets out the principal Act as enacted in 1980, the single earlier amendment of 1988, and the judicial expansion of 1996 that functioned for twenty seven years as an amendment without a legislature. It then follows the 2023 Bill through its committee stage and its passage, takes the amending text apart provision by provision, states the government's case and the petitioners' case at the strength their authors gave them, and ends with the procedural position that produces the paradox: a definition that is in force, has not been held invalid, and is not the definition being applied to any parcel of land in the country.
 

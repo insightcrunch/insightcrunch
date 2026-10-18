@@ -6,15 +6,15 @@ date: 2014-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Environment Protection Act", "Environmental Law", "EIA Notification", "Pollution Control", "UPSC"]
 excerpt: "Environment Protection Act 1986 explained: the umbrella statute whose sections delegate nearly every environmental standard in India to gazette notifications."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2014-09-15
+lang: en
 ---
-
 The Environment Protection Act 1986 is the statute under which almost every operative environmental rule in India is made, and it is also a statute that contains almost none of those rules itself. It runs to twenty-six sections. It fixes no emission limit for any factory, prescribes no effluent standard for any river, names no substance whose discharge it forbids in any quantity, and sets no procedure by which a factory, mine, port or housing project must obtain permission to exist. Every one of those things is done elsewhere, in notifications and rules issued by the Central Government in the Gazette of India under the powers this Act confers. A reader who masters the twenty-six sections has therefore mastered the skeleton of Indian environmental law and nearly nothing of its flesh. The flesh is delegated legislation, and it can be rewritten by the executive without a bill, without a debate and without a vote.
 
-![The Environment Protection Act 1986 and the notifications made under it, showing how the umbrella statute delegates its substance to the gazette - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Environment Protection Act 1986 and the notifications made under it, showing how the umbrella statute delegates its substance to the gazette - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 That arrangement is not an accident of drafting, and it is not a loophole that later governments discovered in an innocent text. It is the design. Parliament in 1986 wanted a law that could reach any environmental problem, including problems nobody had yet named, and it chose reach over specification: a definition of the environment wide enough to cover water, air, land and the relationships among them, a power in the Central Government to take all such measures as it deems necessary or expedient, and a set of prohibitions that bite only when a standard has been prescribed somewhere else. The consequence, forty years on, is that the most consequential environmental decisions in India, the impact assessment regime that decides which projects may proceed, the coastal rules that decide what may be built within five hundred metres of the sea, and every waste stream rule from hospital refuse to discarded phones, were made and repeatedly remade by notification. This article explains the Act section by section, maps the instruments that carry its substance, states the enforcement and penalty system as the Jan Vishwas amendments rebuilt it, and then takes up the argument the structure forces: whether environmental law by gazette is a sensible accommodation with technical government, or a standing transfer of the legislative function that no Parliament should have made.
 

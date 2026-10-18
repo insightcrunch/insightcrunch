@@ -6,15 +6,15 @@ date: 2015-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Education Act", "Social Justice", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The Right to Education Act 2009 explained in full: what it entitles every child to, the norms a school must meet, and what a school is forbidden to do."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-01-01
+lang: en
 ---
-
 The Right to Education Act, formally the Right of Children to Free and Compulsory Education Act, 2009, is the statute that converted a constitutional promise into an enforceable claim a parent can make at the gate of a school. It is also a statute with unusually precise edges. Inside those edges it is generous and detailed: it fixes the size of a class, the hours of a school year, the qualifications of a teacher and the acts a school is forbidden to perform. Outside those edges it is silent, and the silence is deliberate. A child of five has no claim under it. A child of fifteen has no claim under it. A child studying in a minority institution has, by judicial construction, no claim under it at all. The claim this article defends throughout is the one the text supports: this is a right with two open ends and one large exemption, a guarantee of eight years of schooling for children between six and fourteen in a defined subset of the schools of the country.
 
-![The Right to Education Act 2009, showing the entitlement of children aged six to fourteen, the norms binding every school and the prohibitions a parent can enforce - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Right to Education Act 2009, showing the entitlement of children aged six to fourteen, the norms binding every school and the prohibitions a parent can enforce - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 That shape produces the practical questions the Act generates every admission season. A parent is told a seat cannot be given because a birth certificate is missing, although the statute forbids exactly that refusal. A school demands a donation at admission under another name, although the statute makes the demand punishable. A teacher is sent away on administrative work for weeks, although the statute confines such deployment to three named purposes. A child reaches the end of class eight and the family discovers that the entitlement they relied upon has simply run out, because the statute ends where secondary education begins. Each of those situations is governed by a specific provision, and the purpose of a statute pillar is to put the provision, its limits and its enforcement route in one place. What follows reads the Act as a working instrument: the entitlement first, then the duties it casts on governments, schools and teachers, then the prohibitions and the complaint machinery, then the courts that redrew its reach, and finally the amendments and the record.
 

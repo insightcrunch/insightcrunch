@@ -6,15 +6,15 @@ date: 2015-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Surrogacy Law", "Assisted Reproduction", "Reproductive Rights", "Health Law", "Family Law"]
 excerpt: "The Surrogacy Act and the ART Act replaced an open commercial market with altruistic surrogacy, narrow eligibility, and a donor gamete rule hidden in a form."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2015-10-01
+lang: en
 ---
-
 On 25 January 2022, two statutes commenced on the same morning and between them redrew the legal map of how a child may be conceived in India with medical help. The Surrogacy Act 2021, formally the Surrogacy (Regulation) Act, 2021, Act 47 of 2021, abolished the commercial surrogacy market outright and replaced it with an altruistic model hedged by certificates, age bands and criminal penalties. Its companion, the Assisted Reproductive Technology (Regulation) Act, 2021, Act 42 of 2021, subjected every fertility clinic and gamete bank in the country to registration, national oversight and a detailed code of clinical duties. Read together, the two Acts took a field that had operated for two decades under professional guidelines, with no statute at all, and converted it into one of the most restrictive assisted reproduction regimes in the world, in a single step, with almost no transitional space between the old world and the new one.
 
-![A statute book and medical file resting beside a newborn's blanket, representing the meeting of surrogacy law and clinical practice in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A statute book and medical file resting beside a newborn's blanket, representing the meeting of surrogacy law and clinical practice in India - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The size of that step is the first thing to grasp, because nearly every dispute the two statutes have generated since commencement is a dispute about the step rather than about the destination. A couple who had frozen embryos in 2021 and crossed a statutory age line before their surrogacy could be arranged found that the ground had moved under a process they had lawfully begun. A woman born without a uterus, whose only route to a genetically related child ran through a donor egg, found that route closed not by Parliament but by the amendment of a paragraph in a form appended to the rules, and then partly reopened eleven months later by the amendment of the same paragraph. A divorced man who watched divorced women qualify as intending women under the surrogacy statute asked the Supreme Court why the same door was shut to him. Each of these contests is examined in this article on its verified record. The statutes themselves are stated from their enacted text: the eligibility certificates, the age bands, the offences, the registration machinery and the shared regulators are set out provision by provision, because the practical question almost every reader brings to this subject is a narrow one, namely whether a particular person, in a particular family situation, qualifies under one statute or the other or under neither.
 

@@ -6,15 +6,15 @@ date: 2015-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "MTP Act", "Health Law", "Social Justice", "Judiciary", "Parliament", "UPSC"]
 excerpt: "The MTP Amendment Act 2021 explained: the raised gestational limits, the categories prescribed by the Rules, Medical Boards and the new privacy offence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-08-15
+lang: en
 ---
-
 For fifty years the Medical Termination of Pregnancy Act, 1971 was amended once, in a modest housekeeping exercise, and otherwise left to be stretched by courts deciding one desperate petition at a time. The MTP Amendment Act 2021 is the amendment that ended that arrangement. It moved the outer gestational limit from twenty weeks to twenty four for a prescribed list of women, created a Medical Board in every State and Union territory to decide cases of substantial foetal abnormality beyond any limit, rewrote the confidentiality position with a criminal penalty, and replaced the words "married woman" and "her husband" with "any woman" and "her partner" in the ground that has carried the largest share of lawful terminations. It did all of this while deliberately refusing the simpler course of raising the limit for everyone, and that refusal is the fact about the amendment from which most of its later history, including a major Supreme Court judgment and an unusual recall proceeding, has flowed.
 
-![The MTP Amendment Act 2021 and its gestational limits, prescribed categories and Medical Boards - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The MTP Amendment Act 2021 and its gestational limits, prescribed categories and Medical Boards - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 This article follows the amendment as a trail: what the statute said before, what pressure accumulated against it, what the amending Act changed clause by clause, what the rules made under it added within weeks of commencement, and what the courts have done with the new structure since. The base statute itself, its grounds, its place and consent provisions and its interaction with the criminal law, belongs to [the pillar article on the Medical Termination of Pregnancy Act](/2015/08/01/mtp-act-abortion-law-india/), and the account here concentrates on the 2021 changes and their consequences. Where the trail reaches contested ground, the contest is stated in the terms its participants use, because in this field the disagreement is not a distraction from the law. It is the environment in which the law operates.
 

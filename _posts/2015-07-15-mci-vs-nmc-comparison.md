@@ -6,15 +6,15 @@ date: 2015-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Medical Commission", "Medical Education", "Parliament", "UPSC", "Law Students"]
 excerpt: "MCI vs NMC compared on the seven dimensions that decide the question: elections, inspections, fees, the exit test and state voice, with a verdict and limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2015-07-15
+lang: en
 ---
-
 Every doctor who registered in India before September 2020 holds a qualification recognised, and a name entered on a register maintained, under one statute, and practises under another. The MCI vs NMC question is therefore not antiquarian. It decides who may open a medical college, who fixes what that college may charge, who can strike a doctor off the register, and whose examination stands between a graduate and a licence. Two bodies have held those powers in succession, built on opposite theories of where trust in a regulator should come from, and the argument between their defenders is usually conducted as a quarrel about character: the old council was corrupt, the new commission is controlled. This article refuses that framing. It tests the replacement the way the series tests every institutional replacement, by asking whether each change made in 2019 maps onto a failure of the predecessor that somebody had documented, in a court record, a committee report, or a statute book, before the change was made.
 
-![MCI vs NMC comparison of the elected Medical Council of India and the nominated National Medical Commission across seven dimensions of medical regulation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MCI vs NMC comparison of the elected Medical Council of India and the nominated National Medical Commission across seven dimensions of medical regulation - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The comparison sits inside a larger body of law, and the reader who wants the full map of statutes governing hospitals, drugs, public health and the profession should begin with the framework treatment of [health legislation in India](/2015/06/01/health-laws-india-complete-guide/) before returning here for the head-to-head. The anatomy of the successor statute itself, its boards, its registers and its offences, belongs to the article on [the National Medical Commission Act 2019](/2015/07/01/national-medical-commission-act-2019/), whose record of Act numbers, commencement dates and enacted provisions this comparison follows and does not reopen. What this article owns is the verdict, and the verdict is derived, not asserted. Seven dimensions decide the question. For each, the comparison table at the centre of this article records whether the change addressed a documented failure of the Medical Council of India, addressed a failure that was asserted but not documented, or changed something no identified failure had called in question. Counting that column is the verdict. A reader in a hurry may go straight to the table and the count; a reader who wants to know whether the count is fair has to walk through the record first, because every cell of the verdict column is a claim about evidence.
 
