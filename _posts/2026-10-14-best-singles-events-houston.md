@@ -9,7 +9,7 @@ excerpt: "The 20 best singles events in Houston for the next two weeks: speed da
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2026-10-17
+last_updated: 2026-10-18
 lang: en
 ---
 ## Singles Events in Houston: The Next Two Weeks
@@ -18,11 +18,11 @@ Houston's size works in a single person's favor: every neighborhood runs its own
 
 ![Singles events in Houston - Insight Crunch](/assets/images/blog/blog-31.webp)
 
-**This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
+**This edition covers Monday, October 19 to Sunday, November 1, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
 Here is how to use the guide. The first ten listings are dedicated singles events: speed dating nights, hosted mixers and structured formats where everyone in the room is there to meet someone. The second ten are singles-friendly nights: dance socials, a run club, trivia, a seated dinner, a bar crawl and a moonlit hike, where the activity does the introducing and nobody needs a wingman. Each listing gives you the format in detail, the feel of the room, who typically shows up, and one specific way to make that particular night work for you. After the listings you will find neighborhood guides, a decoder for the different kinds of rooms, tactics for succeeding at each format, honest advice on handling a no-match night, and a look at Houston's cross-cultural dating scene.
 
-A word on how these events were chosen. Every listing was verified against its organizer's own page, with a real date inside the October 15 to 28 window, a real venue, and a format where a person arriving alone can plausibly leave with a new connection. Pure spectator events did not make the cut. Neither did anything that requires you to already have a date. What survived is a fortnight with genuine range: a Thursday night of algorithm-matched mini-dates in the Heights, a Saturday so crowded with options that you will have to choose, quiet Sunday afternoon conversations in Montrose, and a hike under the full moon to close the second week. Pick two or three that fit your age band and your side of town, book the ticketed ones early, and treat the free recurring nights as your standing practice. That is a complete two-week plan, and it starts below.
+A word on how these events were chosen. Every listing was verified against its organizer's own page, with a real date inside the October 19 to November 1 window, a real venue, and a format where a person arriving alone can plausibly leave with a new connection. Pure spectator events did not make the cut. Neither did anything that requires you to already have a date. What survived is a fortnight with genuine range: a Monday night of classic speed dating in Greenway, a Saturday so crowded with options that you will have to choose, a Sunday evening of modern speed dating downtown, and a hike under the full moon in the second week. Pick two or three that fit your age band and your side of town, book the ticketed ones early, and treat the free recurring nights as your standing practice. That is a complete two-week plan, and it starts below.
 
 ## How Dating Works in Houston
 
@@ -30,7 +30,7 @@ Houston does not have one dating scene. It has a dozen, sorted by neighborhood a
 
 The inner Loop holds the densest scene. Inside that ring, the Washington Avenue corridor and the Heights run polished and social, Montrose runs artsy and dinner-focused, Midtown runs young-professional and patio-heavy, and Downtown has quietly built an after-work circuit along Main and Congress where the happy hour crowd and the event crowd overlap. Beyond the Loop, the scene changes character rather than disappearing: Spring Branch and the Memorial area host the ice houses and the older age bands, Rice Village draws the university and medical crowd, and the East End is growing its own bar scene along Navigation Boulevard. This fortnight's listings touch nearly all of those worlds, which is exactly what Houston dating looks like when it is working.
 
-Notice the age bands, because they tell you something true about this city: Houston dates at every age, openly and in organized ways. This window has matched speed dating for 27 to 42 year olds downtown, coffee-shop speed dating for 30 to 45, two Pre-Dating nights for the 34 to 49 and 42 to 58 crowds, a hosted happy hour built specifically for 40 to 55, and Cityswoon matching 45 to 59 year olds in a downtown bar. Nobody in Houston apologizes for being single at 45, and the event calendar reflects a metro where careers in energy, medicine, engineering and education keep people marrying later and dating longer. Whatever band you fall in, there is a room in this list where you are the exact demographic the organizer built the night for.
+Notice the age bands, because they tell you something true about this city: Houston dates at every age, openly and in organized ways. This window has matched speed dating for 27 to 42 year olds downtown, coffee-shop speed dating for 30 to 45, two Pre-Dating nights for the 34 to 49 and 42 to 58 crowds, Christian speed dating for singles in their 20s and 30s, two SpeedTexas rooms for 36 to 48 and 27 to 42, and Cityswoon matching 45 to 59 year olds in a downtown bar and 30 to 45 year olds in the Heights. Nobody in Houston apologizes for being single at 45, and the event calendar reflects a metro where careers in energy, medicine, engineering and education keep people marrying later and dating longer. Whatever band you fall in, there is a room in this list where you are the exact demographic the organizer built the night for.
 
 The working rhythm of the city shapes the timings. Most ticketed events start between 6:30 and 8:00 PM, late enough for a commute from the Energy Corridor or the Medical Center, early enough for a weeknight. Weekend afternoons are the sleeper category: a Saturday coffee-shop speed date at 3 PM and a Sunday mixer at 2 PM catch people who are done with bars entirely, and the rooms tend to be calmer and more conversation-friendly than anything at night. Houston also socializes around food and patios in a way northern cities do not. Beer gardens, ice houses with food trucks, seated group dinners and cafe socials fill this list because October in Houston is patio season, when the heat finally breaks and every venue with outdoor space becomes the best room in town.
 
@@ -42,92 +42,15 @@ The listings come first. The strategy sections after them will show you how to w
 
 | Event | Date | Type | Cost |
 |---|---|---|---|
-| Matched Speed Dating in The Heights - Cityswoon - Ages 38-52 | Thu, Oct 15 | Singles event | not listed |
-| Houston Halloween Singles Mixer 2026 | Sat, Oct 17 | Singles event | From $9.30 |
-| Pitch Your Single Friend at Axelrad | Sat, Oct 17 | Singles event | From $22.79 (viewer tickets $18 and presenter-pair tickets $30 before fees) |
-| Houston Singles Event: Happy Hour (Ages 40-55) | Sat, Oct 17 | Singles event | not listed |
-| South Asian Singles Mixer for Marriage-Minded Professionals - Ages 25-45 | Sun, Oct 18 | Singles event | From $33.85 (tickets listed at $33.85–$44.52) |
+| Houston Speed Dating Event for Singles Age 42-58 by Pre-Dating | Mon, Oct 19 | Singles event | $35 via the organizer site (Eventbrite lists from $42.42) |
+| Midweek Speed Dating in Downtown - Cityswoon - Ages 45-59 | Wed, Oct 21 | Singles event | not listed |
+| Houston Christian Speed Dating - IYKYK Dating - 20s-30s | Thu, Oct 22 | Singles event | From $49.25 |
+| Houston Singles Event: Speed Dating (Ages 30-45) at Coffee Shop | Sat, Oct 24 | Singles event | not listed |
+| Houston Singles Event: Sunset Speed Dating (Spooky Edition) Ages 30-45 | Sat, Oct 24 | Singles event | not listed |
 
 ## Singles Events in Houston (Dating Events and Mixers)
 
-### 1. Matched Speed Dating in The Heights | Cityswoon | Ages 38-52
-
-**When:** Thursday, October 15, 2026, 8:00 PM · **Where:** Puttery, Washington Avenue corridor / The Heights (1818 Washington Avenue) · **Cost:** not listed
-**Type:** Singles event · **Good for:** Ages 38–52
-
-Singles check in by phone and are algorithm-matched into a series of roughly eight live mini-dates, with one free drink on arrival and open mingling afterward.
-
-Cityswoon's format replaces the old speed dating rotation, where everyone met everyone in a fixed circle, with live matching: you check in on your phone, the system pairs you round by round, and you get roughly eight mini-dates across the evening with people the algorithm thinks fit. The practical effect is a room that feels curated rather than random, and a pace that keeps each conversation short, warm and low-stakes. The free drink on arrival is not a detail; it gives your hands something to do during the first awkward minutes, and the open mingling after the structured rounds is where the evening actually pays off, because that is when the person you clicked with in round three is standing at the bar with no bell about to ring.
-
-Puttery sets a tone that helps. It is an adult mini-golf venue on the Washington Avenue corridor, which means the room has a playful, design-forward energy instead of a banquet-hall feel, and the game running alongside the dates gives every conversation a shared backdrop. The crowd for a 38 to 52 night in the Heights skews established: professionals who are done with the apps, many of them divorced or long-single by circumstance rather than by choice, dressed well and mildly nervous in the same way you are. That shared nervousness is the icebreaker. Nobody at a matched dating night is pretending they wandered in by accident.
-
-The concrete move here: during the mingling, go back to your best mini-date first, before you make a polite lap of the room. Say the simple thing, that their round was your favorite, and ask one real question you did not get to finish. Eight dates will blur together for everyone; the person who follows up in the room, kindly and promptly, is the one who gets remembered when the matches land.
-
-[Event details and tickets](https://allevents.in/houston/matched-speed-dating-in-the-heights-cityswoon-ages-38-52/100002001079495639)
-
-### 2. Houston Halloween Singles Mixer 2026
-
-**When:** Saturday, October 17, 2026, 7:00 PM · **Where:** By The Wayside, Second Ward / East End (5644 Navigation Boulevard) · **Cost:** From $9.30
-**Type:** Singles event · **Good for:** All singles
-
-A Halloween-themed singles mixer hosted by organizer Date Faster where singles mingle at an East End bar venue.
-
-This is the loosest format on the list, and for the right person that is praise. A Date Faster mixer has no rotations, no scorecards and no host steering you from table to table: it is a room full of single people in Halloween mode at an East End bar, with the shared understanding that talking to strangers is the entire point of the evening. The ticket starts under ten dollars, which makes it the cheapest real singles event in the fortnight and a genuinely low-risk way to spend a Saturday night. If structured dating formats make you stiff, or if you simply trust your own conversation more than an algorithm, this is your event.
-
-Halloween does real work at a mixer. A costume is a pre-written opening line in both directions: people will comment on yours, and you have a standing invitation to comment on everyone else's. The trick is to choose something legible at ten feet and easy to talk in. Elaborate masks and full-face paint fight the format, because the point of the night is faces and conversation. A clever, simple costume that references something you actually like does double duty, since it filters for people who share your sense of humor before you have said a word.
-
-By The Wayside sits on Navigation Boulevard in the Second Ward, in the middle of the East End's ongoing reinvention, and the crowd at an all-ages, all-singles Halloween mixer there will be broader and younger-skewing than the age-banded speed dating nights. The concrete tip: work the edges of the room and the bar queue rather than planting yourself in one group. Mixers reward circulation. Set yourself a gentle target of five real conversations, and when one catches fire, let it run long. The night is a success if you leave with one phone number and a reason to use it, not if you talked to everybody.
-
-One more structural truth about unstructured mixers: they reward the first hour and punish the last. Early, everyone is circulating and introductions are cheap; late, groups harden, pairs form, and the people still working the room are visibly working it. So front-load your effort. Arrive near seven, do your real circulating while the room is liquid, and let the later stretch of the night belong to the best conversation you started rather than to fresh attempts. If the mixer works for you, it will almost always have worked by nine.
-
-[Event details and tickets](https://www.eventbrite.com.au/d/tx--houston/meetup-singles/)
-
-### 3. Pitch Your Single Friend at Axelrad
-
-**When:** Saturday, October 17, 2026, 7:30 PM · **Where:** Axelrad Beer Garden, Midtown (1517 Alabama Street) · **Cost:** From $22.79 (viewer tickets $18 and presenter-pair tickets $30 before fees)
-**Type:** Singles event · **Good for:** 21+ (per event FAQ)
-
-In this "Spooky Edition" of the Pitch-A-Match format, 12 presenters give five-minute PowerPoint pitches selling their single friend to the room, followed by a social hour to mingle; costumes are encouraged.
-
-This is the most original format in the fortnight, and it works because it outsources the hardest part of dating, talking yourself up, to the person who does it best: your friend. Twelve presenters get five minutes and a PowerPoint deck to make the case for their single friend to a beer garden full of potential matches, in this case with a Halloween "Spooky Edition" twist and costumes encouraged. As a viewer, you get something no app or mixer can offer: a character reference, delivered live, with jokes, by someone who knows the person well. As the friend being pitched, you get to be the subject of a loving roast and then spend the social hour meeting people who already know your dog's name, your job and your best qualities.
-
-Axelrad is one of Midtown's defining social spaces, a beer garden built for lingering, with the crowd spread across outdoor tables in prime October weather. The pitch format front-loads the entertainment, so even in the worst case you have watched twelve funny presentations with a drink in your hand, and the social hour afterward has a room full of shared material. Everyone present has opinions about the pitches, which means nobody is standing around wondering how to start.
-
-The concrete tip depends on your seat. If you are being pitched, brief your friend like it matters: three true strengths, one funny flaw, and one specific thing you are looking for, because specificity is what makes a stranger think "that is my person." If you are watching, skip the generic compliment afterward and cite a detail from the pitch itself. "Your friend said you make a legendary gumbo" opens a real conversation; "nice pitch" opens nothing.
-
-[Event details and tickets](https://www.eventbrite.com/e/pitch-your-single-friend-at-axelrad-tickets-2002595533148?aff=ebdssbdestsearch)
-
-### 4. Houston Singles Event: Happy Hour (Ages 40-55)
-
-**When:** Saturday, October 17, 2026, 7:00 PM · **Where:** Aye Candy, Spring Branch (1849 Bingle Road) · **Cost:** not listed
-**Type:** Singles event · **Good for:** Ages 40–55
-
-A host-led Jigsaw Dating happy hour where singles aged 40–55 check in, get a team assignment, and rotate through trivia rounds and open mix-and-mingle time.
-
-Jigsaw built its name on a simple insight: people over 40 do not want to be herded through a rotation like a job fair, so its events put a host in charge and an activity in the middle. Here, you check in, receive a team assignment, and spend part of the evening rotating through trivia rounds with your team before the night opens into free mix-and-mingle time. The team structure matters more than it sounds. It guarantees your first conversations happen in a group, with a game to carry the silences, and it quietly sorts the room: by the time open mingling starts, you already have teammates to return to, inside jokes to build on, and a read on who you actually want to talk to one on one.
-
-The setting does a lot of work too. Aye Candy is out in Spring Branch, on the west side of the city, and that geography shapes the room: this is a crowd of west-side and Memorial-area professionals in the 40 to 55 band, the Energy Corridor and suburbs crowd, people for whom an inner-Loop bar night means an hour of logistics. Hosting the event in their part of town is the point. The ambience of a neighborhood spot is warmer and less performative than a downtown showcase bar, and the conversation tends to run toward real life: houses, kids, careers, the stuff this age band actually dates around.
-
-The concrete tip: stay for the open mingling, and use the trivia as your material. The worst move at a hosted event is leaving when the structure ends, because the structure is the warm-up and the mingling is the match. When the rounds finish, find the person from another team whose answers impressed you and say exactly that. A compliment about someone's mind, earned over a game you both just played, lands differently from anything you could say across a bar.
-
-[Event details and tickets](https://www.eventbrite.com.au/d/tx--houston/meetup-singles/)
-
-### 5. South Asian Singles Mixer for Marriage-Minded Professionals | Ages 25-45
-
-**When:** Sunday, October 18, 2026, 2:00 PM · **Where:** Sophie, Montrose (910 Westheimer Road) · **Cost:** From $33.85 (tickets listed at $33.85–$44.52)
-**Type:** Singles event · **Good for:** South Asian singles, ages 25–45
-
-The afternoon opens with a Never Have I Ever icebreaker, moves into a bingo mixer with ten-minute one-on-one conversations, and closes with open mingling.
-
-Everything about this event is deliberately designed, starting with the hour. A Sunday 2 PM start at a Montrose restaurant on Westheimer is a statement of intent: no bar noise, no late night, no ambiguity about why anyone is there. The listing says marriage-minded and means it, and that clarity is the product. The afternoon opens with a Never Have I Ever icebreaker played to the whole room, which loosens everyone up and gives you early reads on personality, then moves into a bingo mixer built around ten-minute one-on-one conversations. Ten minutes is the generous end of structured dating, long enough to get past the resume questions and into actual conversation, and the bingo mechanic makes sure you talk to people you might not have picked from across the room. The afternoon closes with open mingling, where the structured rounds pay off.
-
-The crowd is South Asian professionals aged 25 to 45, and the event sits inside a real Houston story: the city has one of the largest and most established South Asian communities in the country, concentrated in and around the southwest side and Sugar Land but socializing all over the inner Loop. Community-specific events like this one exist because many people want a partner who already understands the family culture, the food, the holidays and the expectations, without any of it needing explanation on a first date. You will find a fuller discussion of that dynamic in the Dating Across Cultures section below.
-
-The concrete tip: use the ten minutes well by asking one question that invites a real answer, something about what they are looking for at this stage of life, which is a question this room, uniquely, is built to welcome. And because the event ends in open mingling in the middle of a Sunday afternoon, have a light plan for after: the person you click with can be asked, on the spot, to continue the conversation over coffee nearby. Daytime events make that ask easy and natural.
-
-[Event details and tickets](https://www.eventbrite.com/e/1999393223955?aff=oddtdtcreator)
-
-### 6. Houston Speed Dating Event for Singles Age 42-58 by Pre-Dating
+### 1. Houston Speed Dating Event for Singles Age 42-58 by Pre-Dating
 
 **When:** Monday, October 19, 2026, 6:30 PM · **Where:** Holey Moley Golf Club Houston, Greenway / Upper Kirby (3839 Weslayan Street) · **Cost:** $35 via the organizer site (Eventbrite lists from $42.42)
 **Type:** Singles event · **Good for:** Ages 42–58
@@ -143,8 +66,7 @@ The concrete tip is about the scorecard, because Pre-Dating matches are made or 
 Logistics deserve a sentence, because Monday events live or die on them. A 6:30 PM start in Greenway is calibrated for people coming from offices near the Galleria, downtown and the Medical Center, and the venue sits close to the Southwest Freeway corridor, so most of the inner city can reach it without a heroic drive. Eat something light beforehand: twelve dates on an empty stomach makes the last three conversations unfairly hard, and a playful venue means you will be on your feet with a drink in hand rather than sitting down to dinner. Plan the evening as one complete unit, unhurried in, twelve honest chances at connection, and a matches email to look forward to, and it will feel like one.
 
 [Event details and tickets](https://www.pre-dating.com/houston-speed-dating/)
-
-### 7. Midweek Speed Dating in Downtown | Cityswoon | Ages 45-59
+### 2. Midweek Speed Dating in Downtown | Cityswoon | Ages 45-59
 
 **When:** Wednesday, October 21, 2026, 8:00 PM · **Where:** Angel Share, Downtown (924 Congress Street) · **Cost:** not listed
 **Type:** Singles event · **Good for:** Ages 45–59
@@ -158,8 +80,21 @@ Angel Share, on Congress Street, also appears later in this guide as the startin
 The concrete tip: because the matching happens in the room and the mingling follows, guard your energy for the end of the night rather than the start. Arrive rested, pace the drinks across eight dates instead of front-loading them, and when the rounds finish, resist the urge to debrief with the friend you came with. The mingling after a midweek event is short and golden. The person across the room is making the same calculation you are, and a simple "I was hoping our paths would cross after my round" gives you both permission to have the conversation you actually came for.
 
 [Event details and tickets](https://allevents.in/houston/midweek-speed-dating-in-downtown-cityswoon-ages-45-59/100002000999761151)
+### 3. Houston Christian Speed Dating | IYKYK Dating | 20s-30s
 
-### 8. Houston Singles Event: Speed Dating (Ages 30-45) at Coffee Shop
+**When:** Thursday, October 22, 2026, 6:30 PM · **Where:** Sunday Press | Garden Oaks, 3315 Ella Boulevard · **Cost:** From $49.25 (tickets listed at $49.25-$103.49)
+**Type:** Singles event · **Good for:** Christian singles, 20s-30s
+
+A faith-based speed dating night by IYKYK Dating for Christian singles in their 20s and 30s at a Garden Oaks cafe venue.
+
+Shared faith changes the opening minutes of a speed date in a useful way. At a general room, values are something you probe for carefully across several conversations; at a Christian speed dating night in Garden Oaks, that foundation is the stated premise of the room, so conversations can move sooner to the ordinary, revealing material: work, family, neighborhoods, and what each person is actually hoping the next few years look like. IYKYK Dating runs this Houston edition at Sunday Press, and the listing bands it plainly for singles in their 20s and 30s, which keeps the life-stage conversation coherent as well.
+
+Sunday Press in Garden Oaks gives the night a calmer ambience than a downtown bar. Garden Oaks is a leafy, residential pocket just north of the Heights, and a cafe setting there reads as intentional rather than performative: daylight-adjacent, conversation-volume, and comfortable for attendees who would not choose a late bar night as their way to meet someone. That setting also suits a faith-forward room, where the appeal is clarity about purpose rather than spectacle. Expect a younger professional crowd for whom church, community and family are live parts of the week, not background details.
+
+The concrete tip is to be specific about community, not abstract about belief. Mentioning the congregation, small group, service project or family tradition that actually shapes your week gives a date something real to respond to, and asking the same in return opens the most natural conversation this room offers. Arrive a little early, settle in before the rotations start, and treat each short date as a complete, kind conversation rather than an audition. If a connection clicks, name a simple next step before the evening disperses.
+
+[Event details and tickets](https://allevents.in/houston/meetups?page=2)
+### 4. Houston Singles Event: Speed Dating (Ages 30-45) at Coffee Shop
 
 **When:** Saturday, October 24, 2026, 3:00 PM · **Where:** Wolfsmiths, Independence Heights (201 Woodard Street) · **Cost:** not listed
 **Type:** Singles event · **Good for:** Ages 30–45
@@ -173,8 +108,35 @@ The crowd reflects the format: 30 to 45 year olds who self-select for substance,
 The concrete tip: afternoon events reward a different conversation than night events. Skip the polished bar material and talk about your actual life, your work, your neighborhood, the coffee in front of you, because in daylight, authenticity reads as confidence. And plan for the ending: if a date goes well, the natural next step is a walk or a second coffee nearby, and suggesting it while you are both still in a Saturday afternoon frame is the easiest ask in this entire guide.
 
 [Event details and tickets](https://www.eventbrite.com.au/d/tx--houston/meetup-singles/)
+### 5. Houston Singles Event: Sunset Speed Dating (Spooky Edition) Ages 30-45
 
-### 9. Houston Speed Dating Event for Singles Age 34-49 by Pre-Dating
+**When:** Saturday, October 24, 2026, time not listed · **Where:** Bayou Heights Bier Garten, 3905 Washington Avenue · **Cost:** not listed
+**Type:** Singles event · **Good for:** Ages 30-45
+
+A Halloween-season, spooky-edition sunset speed dating session for ages 30 to 45 at a Washington Avenue beer garden.
+
+Saturday already holds this guide's calmest daytime dating room, the coffee-shop speed date in Independence Heights, and this listing gives the same date a second, moodier register. A spooky edition timed around sunset at Bayou Heights Bier Garten takes the familiar speed dating rotation and dresses it for Halloween week, when Houston is already in costume mode and a themed room lowers the cost of every introduction. The 30 to 45 band is the guide's broadest professional band, and a beer garden setting keeps the format social rather than stiff: rotations in the middle, open air and drinks around the edges, and a Washington Avenue crowd that knows this corridor well.
+
+The ambience is the point of difference. Bayou Heights sits on Washington Avenue, the corridor that has anchored Houston's young-professional nightlife for years, and a bier garten format means picnic-table sociability, room to circulate between rounds, and an outdoor October evening doing much of the atmosphere work for free. Costume-adjacent dressing is welcome in spirit during Halloween week, but the same rule as any mixer applies: keep it legible and easy to talk in, because the dates, not the outfit, are the event. A small, clever seasonal touch starts more conversations than an elaborate mask ever will.
+
+The concrete tip is to use the sunset timing. Arrive before the light goes, when the room is still forming and introductions are cheapest, and let the shift from daylight to evening mark the shift from rotations to mingling. If you also attended the afternoon coffee-shop session, this is a genuinely different second room on the same day, not a repeat; pace yourself, eat between the two, and bring the one good question the afternoon taught you into the evening rounds.
+
+[Event details and tickets](https://www.eventbrite.com/d/tx--houston/singles-party/)
+### 6. SpeedTexas Dating | Ages 36-48 | Houston's Modern Speed Dating
+
+**When:** Sunday, October 25, 2026, 7:00 PM · **Where:** Henke & Pillot, 809 Congress Street, Downtown · **Cost:** From $35.67 (tickets listed at $35.67-$38.97)
+**Type:** Singles event · **Good for:** Ages 36-48
+
+A modern SpeedTexas speed dating night for ages 36 to 48 downtown, with digital picks and same-night matching.
+
+This edition gains a second SpeedTexas room, and it lands on a Sunday evening, which changes who can use it. A 7 PM Sunday start on Congress Street suits the 36 to 48 band precisely: established professionals who want a structured dating night that still leaves the working week intact, in a downtown venue a short walk from the Angel Share corner that anchors so much of this guide's downtown circuit. The format follows the SpeedTexas model described later in this list for Wednesday's younger room: short one-on-one dates, picks recorded digitally, and matching resolved the same night rather than by a later email.
+
+Henke & Pillot, at 809 Congress Street, is a downtown bar with the grown-up, conversation-volume character this age band prefers, and a Sunday room there filters for intention the way midweek rooms do. Nobody drifts into downtown speed dating on a Sunday night by accident; the people present chose it over an early night before Monday, and that shared intention tends to make the conversations direct and unhurried at once. Expect downtown, Midtown and Medical Center professionals, many dating again after long relationships, dressed for a nice bar rather than a club.
+
+The concrete tip mirrors the other SpeedTexas night but with a Sunday twist: because results resolve tonight, stay for the full post-date window, but keep Monday in mind and make any plan you propose specific and near-term, a coffee or a walk later in the week, rather than vague. A same-night match followed by a concrete, modest invitation is the strongest close this format offers, and on a Sunday it signals exactly the steadiness this room is shopping for.
+
+[Event details and tickets](https://allevents.in/houston/meetups?page=2)
+### 7. Houston Speed Dating Event for Singles Age 34-49 by Pre-Dating
 
 **When:** Monday, October 26, 2026, 7:00 PM · **Where:** Kirby Ice House – Gessner, Spring Branch / Memorial area (1015 Gessner Road) · **Cost:** $35 via the organizer site (Eventbrite lists from $42.42)
 **Type:** Singles event · **Good for:** Ages 34–49
@@ -188,8 +150,7 @@ The full bar and food truck matter more than they appear to. A food truck gives 
 The concrete tip mirrors the October 19 Pre-Dating night but with a west-side twist: because this crowd is local, talk geography early. Mentioning your actual neighborhood, your regular spots, your side of town is not small talk here, it is compatibility data, and a match who lives twelve minutes away is worth three matches across the city. Be generous with your yeses, note one shared detail per date, and let the food truck line do what it does.
 
 [Event details and tickets](https://www.pre-dating.com/houston-speed-dating/)
-
-### 10. SpeedTexas Dating | Ages 27–42 | Houston's Modern Speed Dating
+### 8. SpeedTexas Dating | Ages 27–42 | Houston's Modern Speed Dating
 
 **When:** Wednesday, October 28, 2026, 7:00 PM · **Where:** The Rig Restaurant & Bar, Downtown (1314 Texas Street) · **Cost:** not listed
 **Type:** Singles event · **Good for:** Ages 27–42
@@ -203,57 +164,38 @@ The 27 to 42 band downtown draws the young professional core of the city: downto
 The concrete tip: since matching resolves tonight, do not leave early, and do not spend the post-date window on your phone reading results in a corner. Stay in the room. If you matched, find them and say something simple and true. If you did not, understand that a same-night no in this format usually means the algorithm of two people's preferences did not overlap tonight, in this room, and it says nothing about next Wednesday. The fortnight refreshes on Sunday, and so does the room.
 
 [Event details and tickets](https://www.eventbrite.sg/d/tx--houston/meetup-singles/?page=3)
+### 9. Date Night in The Heights | Cityswoon | Ages 30-45
+
+**When:** Thursday, October 29, 2026, 7:00 PM · **Where:** Eight Row Flint (Heights), 1039 Yale Street, The Heights · **Cost:** $43.45
+**Type:** Singles event · **Good for:** Ages 30-45
+
+Cityswoon matched speed dating returns to the Heights, with phone check-in and roughly eight algorithm-selected mini-dates, followed by open mingling.
+
+The Heights gets its Cityswoon night back in this edition, in a new room and a younger band than the downtown edition earlier in the window. Eight Row Flint on Yale Street hosts the Thursday, October 29 session for ages 30 to 45, and the format is the matched model Houston regulars know: complete a short profile, check in on your phone, and let the system select a series of mini-dates round by round from the room, rather than rotating through everyone in a fixed circle. The practical effect is curation. Your dates are the people the algorithm judges most compatible, and the open mingling afterward lets you test that judgment against your own instincts.
+
+Eight Row Flint suits the format in a specifically Heights way. It is an upscale ice house on Yale, spacious and relaxed, built around whiskey, margaritas and a food truck, with the kind of indoor-outdoor room that lets a structured event breathe. The Heights crowd in the 30 to 45 band skews established and local: professionals who live in the Heights, Garden Oaks and the Washington corridor, and who would plainly like their dating life to happen inside their own village of the city. That locality is an asset, because a match here usually means a second meeting measured in minutes, not freeways.
+
+The concrete tip is the Cityswoon tip, applied on a Thursday: guard your best energy for the mingling. Eight matched dates will blur, and everyone in the room knows it, so the person who returns promptly and kindly to their favorite date, names the unfinished conversation, and asks one real follow-up question is the person the matches email will remember. Book early, because Heights editions of this format are among the first in the city to balance out and close a gender's tickets.
+
+[Event details and tickets](https://allevents.in/houston/meetups?page=2)
+### 10. FREE Spooky Singles Mixer at The Kennedy
+
+**When:** Thursday, October 29, 2026, time not listed · **Where:** The Kennedy, 3210 West Dallas Street · **Cost:** Free
+**Type:** Singles event · **Good for:** All singles
+
+A free, Halloween-season singles mixer at The Kennedy on West Dallas Street, listed for the night of October 29.
+
+Every edition of this guide needs one room where the barrier to entry is zero, and in Halloween week that room is a spooky singles mixer with free admission. A mixer is the unstructured counterpart to the night's other Thursday event, the matched speed dating in the Heights: no rotations, no scorecards and no algorithm, just a room on West Dallas Street full of single people who chose a Halloween mixer over staying home, with the shared understanding that starting conversations is the entire purpose of the evening. If structured formats make you stiff, or if you simply trust your own conversation, this is the lowest-risk ticket in the fortnight, because there is no ticket price at all.
+
+The Kennedy sits on West Dallas, on the downtown edge below Montrose, in a corridor of bars and restaurants that draws a broad central-Houston crowd. A Halloween-week mixer there will skew social and varied, and the season does real work: a costume or a single seasonal detail is a pre-written opening line in both directions, giving strangers a standing reason to speak to you and you to them. Choose something legible at ten feet and easy to talk in. The point of the night is faces and conversation, and elaborate masks fight both.
+
+The concrete tip is the mixer tip, sharpened for a free event. Free rooms fill unevenly, so arrive in the first hour, when circulation is liquid and introductions are cheap, rather than late, when groups have hardened. Set a gentle target of five real conversations, work the bar queue and the edges of the room instead of planting yourself with the first friendly group, and when one conversation catches fire, let it run long. Leaving with one number and a reason to use it is a complete success for a free Thursday night.
+
+[Event details and tickets](https://www.eventbrite.com/d/tx--houston/singles-party/)
 
 ## Singles-Friendly Events in Houston (Social Nights Where Meeting People Is Easy)
 
-### 11. INOLVIDABLE THURSDAYS @ MAMAJUANA | Salsa, Bachata, Live Music, Free Lesson
-
-**When:** Thursday, October 15, 2026, 7:30 PM (recurs weekly on Thursdays) · **Where:** Mamajuana Cafe, Downtown (909 Texas Street) · **Cost:** not listed (the listing title advertises a free lesson)
-**Type:** Singles-friendly · **Good for:** All singles
-
-A Thursday Latin night with a free salsa/bachata lesson followed by live music and social dancing.
-
-Of all the formats in this guide, social dancing has the highest meeting density per hour, and it is not close. A salsa night builds the introductions into the music: you rotate partners through the lesson, you ask and get asked for dances all night, and every interaction has a natural beginning, a natural end and a built-in topic. Inolvidable Thursdays at Mamajuana Cafe on Texas Street downtown runs the ideal sequence for a newcomer: a free lesson first, where being a beginner is the norm and the rotation introduces you to a dozen people in forty minutes, then live music and open social dancing where those same faces are now familiar. The name of the night translates to "unforgettable," and the structure earns it.
-
-The ambience is a downtown Latin cafe and restaurant turned dance floor, warm, loud in the good way, and gloriously unbothered by the usual bar hierarchies. Dancing redistributes status: the best dancer in the room is the most interesting person in it, whatever their job is, and a willing beginner who smiles and keeps the beat outranks a polished conversationalist standing on the wall. The crowd mixes committed salseros, lesson regulars and curious newcomers across a wide age range, and because the night recurs every Thursday, it has regulars, which is the single most valuable feature a singles-friendly event can have.
-
-The concrete tip is simple: attend the lesson, even if you have danced before. The lesson is not primarily instruction; it is the introduction engine, and the people you rotate through there are the people who will ask you to dance at 10 PM. After the lesson, stay for at least the first hour of social dancing, and if someone teaches you a step mid-song, you have been given a gift: ask their name and return the favor by asking them to dance later. Thursday nights at Mamajuana are also a rehearsal for the two bigger dance nights later in this list, on Sunday and Tuesday, and the three together form a ready-made weekly circuit.
-
-Notice, too, what the free lesson does to the room's mix of people. Because the teaching costs nothing and the start time is early, these Thursdays pull in coworkers who came straight from downtown offices, friends who dragged a skeptical single along, and newcomers testing the city's scene for the first time. That inflow keeps the room from closing into a clique, which is the long-term risk of every recurring night, and it means a first-timer on any given Thursday is one of many. Blend in, take the lesson, and you are a regular by the second song of the social.
-
-[Event details and tickets](https://www.eventbrite.fi/d/tx--houston/salsa-club/)
-
-### 12. ZFT Run Club at Bayou Park
-
-**When:** Saturday, October 17, 2026, 8:00 AM (recurs weekly on Saturdays) · **Where:** Bayou Park at East River, east of Downtown (2810 Riverby Road) · **Cost:** Free
-**Type:** Singles-friendly · **Good for:** All singles
-
-A free community run club meetup with a structured warm-up and pace leaders for runners, joggers, and walkers of all levels, with time to socialize over food and drinks at East River afterward.
-
-Run clubs have quietly become one of the most effective dating formats in American cities, and the ZFT meetup at Bayou Park shows why the model works. It is free, it meets every Saturday at 8 AM, it is structured with a warm-up and pace leaders so that runners, joggers and walkers all have a group at their level, and it ends the way every good format should: with time to socialize over food and drinks at East River afterward. The run sorts people gently by pace, which turns out to be a fine sorting mechanism for conversation, because the people beside you for three miles are the people whose company you have already tested at the exact level of effort small talk requires.
-
-Do not let the word "run" screen you out. The listing explicitly welcomes walkers, and every run club regular knows the social center of gravity sits in the walking group and the post-run gathering, not at the front of the fast pack. The ambience is early-morning Houston at its best: bayou-side air before the day heats up, a crowd in athletic gear with the status signals of nightlife stripped away, and an easy, healthy earnestness that makes talking to strangers feel like the most normal thing in the world. Because it runs weekly, it rewards the second and third visit enormously; run clubs are where familiar faces compound.
-
-The concrete tip: pick a pace group slightly below your fitness so you can actually hold a conversation, and protect the post-run social time like it is the event itself, because it is. Introduce yourself to your pace leader by name, since leaders know everyone and a leader who knows you becomes an introduction service. Then do the simplest powerful thing in this entire guide: come back next Saturday. Same time, same place, same faces, one week more familiar.
-
-[Event details and tickets](https://www.papercitymag.com/events/zft-run-club-at-bayou-park-4/)
-
-### 13. Sunday Funday 2026: Bachata & Salsa Night In Rice Village!
-
-**When:** Sunday, October 18, 2026, 6:00 PM (recurs weekly on Sundays) · **Where:** Simone on Sunset, Rice Village (2418 Sunset Boulevard) · **Cost:** $25 for one class; $40 for both classes (social dancing included)
-**Type:** Singles-friendly · **Good for:** All singles
-
-An all-levels bachata class at 6 PM and salsa class at 7 PM, followed by social dancing until midnight; no partner is needed since dancers rotate during lessons.
-
-Sunday Funday is the anchor dance night of the week in Rice Village, and its pricing tells you it takes itself seriously as instruction: $25 for one class, $40 for both, social dancing included, with bachata at 6 PM and salsa at 7 PM and the floor open until midnight. The two-class structure is a gift to a newcomer. Bachata, slower and more forgiving, warms you up and teaches you the mechanics of leading and following; salsa then raises the tempo and the energy, and by the time the social starts you have rotated through two full rooms of partners and the floor is full of people whose names you know. No partner is needed and none is expected: rotation is the design, which means the event has quietly solved the couples problem that keeps singles out of dance venues.
-
-Simone on Sunset sits in Rice Village, the walkable shopping and dining district next to Rice University, and the crowd mixes Village regulars, university-adjacent young professionals and a devoted Sunday dance community that treats this night as the week's social center. The ambience is more polished than a bar social: people come to dance, the floor etiquette is real, and asking someone for a dance is a normal, bounded, low-risk interaction with clear rules, which is precisely why dance socials outperform bars for shy people. A song is three or four minutes. A bad one ends. A good one gets a second.
-
-The concrete tip: take both classes rather than one. The two-class ticket is the best money in this guide, because it doubles your rotations and puts you on the floor at 8 PM with momentum instead of cold at 9. Learn the basic steps of saying thank you and asking again later in the night; the second dance with the same person is where conversations start, and it is earned by being a courteous, improving partner in the first one.
-
-[Event details and tickets](https://www.salsavida.com/event/texas/houston/sunday-funday-bachata-salsa-night-in-rice-village/)
-
-### 14. Trivia Night at Bayou Park
+### 11. Trivia Night at Bayou Park
 
 **When:** Tuesday, October 20, 2026, 7:00 PM (recurs weekly on Tuesdays) · **Where:** Bayou Park at East River, east of Downtown (2950 Riverby Road) · **Cost:** Free
 **Type:** Singles-friendly · **Good for:** All singles
@@ -269,8 +211,7 @@ The concrete tip is the oldest play in this guide and still the best: arrive a l
 There is also a quieter play available at trivia that no other format offers: the long look. A weekly trivia night lets you observe the same people across several Tuesdays before you ever commit to a real conversation, learning who is funny under pressure, who is generous to their team, who arrives with a crowd and who arrives solo, like you. By the third week, an introduction is no longer cold. You share a league, a rival team and three weeks of material. Few formats anywhere offer that kind of runway, and it costs nothing but Tuesdays.
 
 [Event details and tickets](https://www.eventbrite.com/e/trivia-night-tickets-2001954121669)
-
-### 15. CULTURE BEAT TUESDAYS at Distrito Federal Downtown – Live Band + DJ + Lesson
+### 12. CULTURE BEAT TUESDAYS at Distrito Federal Downtown – Live Band + DJ + Lesson
 
 **When:** Tuesday, October 20, 2026, 7:30 PM (lesson at 8:30 PM; recurs weekly on Tuesdays) · **Where:** Distrito Federal, Downtown (114 Main Street) · **Cost:** Free (no cover; lessons free)
 **Type:** Singles-friendly · **Good for:** All singles
@@ -284,8 +225,7 @@ The sequence deserves attention because it improves on the usual format. The les
 The concrete tip: a free night tempts people to treat it casually, so invert that. Arrive before the lesson, take the lesson seriously, and plan to stay for the band's first set. The dancers who get asked back are the ones still there, improving visibly, when the music turns live. And because it is free and weekly, this is the ideal low-stakes practice night before Sunday Funday: learn on Tuesday, shine on Sunday, and watch the same community start to recognize you in both rooms.
 
 [Event details and tickets](https://www.eventbrite.com/e/culture-beat-tuesdays-at-distrito-federal-downtown-live-band-dj-lesson-tickets-370973871837)
-
-### 16. Pasta & Pizza Upscale Dinner Social
+### 13. Pasta & Pizza Upscale Dinner Social
 
 **When:** Wednesday, October 21, 2026, 7:00 PM · **Where:** Rosie Cannonball, Montrose (1620 Westheimer Road) · **Cost:** not listed
 **Type:** Singles-friendly · **Good for:** All singles
@@ -301,23 +241,51 @@ The concrete tip: at a seated social, your job is to be a great table citizen. D
 A note on what this format is not: it is not speed dating with food. Nobody rotates, nobody scores you, and the group's friendship-first framing is genuine, which paradoxically makes it one of the better dating rooms in the guide. Relationships that begin as unhurried table conversation skip the performance anxiety that sinks more theatrical formats, and the Meetup structure makes the sequel automatic: the group will post another dinner, another outing, another room where the person from Rosie Cannonball is likely to be sitting three seats down. Play the long game here, and the long game tends to play back.
 
 [Event details and tickets](https://www.meetup.com/htmfaaahouston/events/316585663/)
+### 14. INOLVIDABLE THURSDAYS @ MAMAJUANA | Salsa, Bachata, Live Music, Free Lesson
 
-### 17. Wear Plaid Bar Crawl
+**When:** Thursday, October 22, 2026, 7:30 PM (recurs weekly on Thursdays) · **Where:** Mamajuana Cafe, Downtown (909 Texas Street) · **Cost:** not listed (the listing title advertises a free lesson)
+**Type:** Singles-friendly · **Good for:** All singles
+
+A Thursday Latin night with a free salsa/bachata lesson followed by live music and social dancing.
+
+Of all the formats in this guide, social dancing has the highest meeting density per hour, and it is not close. A salsa night builds the introductions into the music: you rotate partners through the lesson, you ask and get asked for dances all night, and every interaction has a natural beginning, a natural end and a built-in topic. Inolvidable Thursdays at Mamajuana Cafe on Texas Street downtown runs the ideal sequence for a newcomer: a free lesson first, where being a beginner is the norm and the rotation introduces you to a dozen people in forty minutes, then live music and open social dancing where those same faces are now familiar. The name of the night translates to "unforgettable," and the structure earns it.
+
+The ambience is a downtown Latin cafe and restaurant turned dance floor, warm, loud in the good way, and gloriously unbothered by the usual bar hierarchies. Dancing redistributes status: the best dancer in the room is the most interesting person in it, whatever their job is, and a willing beginner who smiles and keeps the beat outranks a polished conversationalist standing on the wall. The crowd mixes committed salseros, lesson regulars and curious newcomers across a wide age range, and because the night recurs every Thursday, it has regulars, which is the single most valuable feature a singles-friendly event can have.
+
+The concrete tip is simple: attend the lesson, even if you have danced before. The lesson is not primarily instruction; it is the introduction engine, and the people you rotate through there are the people who will ask you to dance at 10 PM. After the lesson, stay for at least the first hour of social dancing, and if someone teaches you a step mid-song, you have been given a gift: ask their name and return the favor by asking them to dance later. Thursday nights at Mamajuana are also a rehearsal for the other dance nights in this list, on Sunday and Tuesday, and the three together form a ready-made weekly circuit.
+
+Notice, too, what the free lesson does to the room's mix of people. Because the teaching costs nothing and the start time is early, these Thursdays pull in coworkers who came straight from downtown offices, friends who dragged a skeptical single along, and newcomers testing the city's scene for the first time. That inflow keeps the room from closing into a clique, which is the long-term risk of every recurring night, and it means a first-timer on any given Thursday is one of many. Blend in, take the lesson, and you are a regular by the second song of the social.
+
+[Event details and tickets](https://www.eventbrite.fi/d/tx--houston/salsa-club/)
+### 15. Wear Plaid Bar Crawl
 
 **When:** Friday, October 23, 2026, 7:00 PM · **Where:** Starts at Angel Share, Downtown (924 Congress Street), then bar-hopping on Main Street · **Cost:** not listed (attendees pay for their own food and drinks; event is 21+)
 **Type:** Singles-friendly · **Good for:** 21+
 
 A plaid-themed Meetup social where the group starts at Angel Share and hops between Main Street bars together from 7 to 10 PM.
 
-Themed crawls look like the lightest item in this guide and are secretly one of the best engineered. The Wear Plaid Bar Crawl starts at Angel Share, the same Congress Street bar hosting Cityswoon's midweek speed dating two nights earlier, and moves along Main Street from 7 to 10 PM, with everyone paying their own way and everyone, crucially, wearing plaid. The theme is not decoration. It is a uniform, and a uniform does two jobs: it makes the group instantly identifiable across a crowded bar, so no one is ever stranded, and it gives every attendee a standing opening line with every other attendee. You will never wonder how to start. "Nice plaid" starts it.
+Themed crawls look like the lightest item in this guide and are secretly one of the best engineered. The Wear Plaid Bar Crawl starts at Angel Share, the same Congress Street bar hosting Cityswoon's midweek speed dating two nights earlier in this edition's calendar, and moves along Main Street from 7 to 10 PM, with everyone paying their own way and everyone, crucially, wearing plaid. The theme is not decoration. It is a uniform, and a uniform does two jobs: it makes the group instantly identifiable across a crowded bar, so no one is ever stranded, and it gives every attendee a standing opening line with every other attendee. You will never wonder how to start. "Nice plaid" starts it.
 
 Movement is the crawl's second mechanic. A static mixer traps you in whatever conversation you start with; a crawl resets the room every forty minutes or so, and each move reshuffles the walking groups, which is where crawls do their real matching. The person you walk beside between bars gets an unhurried, side-by-side conversation, the easiest kind there is, and a dud pairing at one stop costs you nothing because the next stop starts fresh. Downtown Main Street on a Friday night supplies the backdrop, busy and well-lit, with the crawl providing a moving island of pre-vetted sociability inside it.
 
 The concrete tip: commit to the plaid properly. The half-hearted attendee in a vaguely checkered shirt gets half the benefit; the one in unmistakable plaid becomes a minor celebrity of the evening and collects conversations without trying. Walk in the middle of the group when you move, not at the front with the organizers or trailing on your phone, and treat the final bar as the main event rather than the afterthought: by the last stop, the group has a shared night behind it, and suggesting the survivors get food nearby is the easiest group plan in the world to say yes to.
 
 [Event details and tickets](https://www.meetup.com/hard-to-make-friends-as-an-adult-houston/join/)
+### 16. ZFT Run Club at Bayou Park
 
-### 18. Matcha + Meetup: Houston
+**When:** Saturday, October 24, 2026, 8:00 AM (recurs weekly on Saturdays) · **Where:** Bayou Park at East River, east of Downtown (2810 Riverby Road) · **Cost:** Free
+**Type:** Singles-friendly · **Good for:** All singles
+
+A free community run club meetup with a structured warm-up and pace leaders for runners, joggers, and walkers of all levels, with time to socialize over food and drinks at East River afterward.
+
+Run clubs have quietly become one of the most effective dating formats in American cities, and the ZFT meetup at Bayou Park shows why the model works. It is free, it meets every Saturday at 8 AM, it is structured with a warm-up and pace leaders so that runners, joggers and walkers all have a group at their level, and it ends the way every good format should: with time to socialize over food and drinks at East River afterward. The run sorts people gently by pace, which turns out to be a fine sorting mechanism for conversation, because the people beside you for three miles are the people whose company you have already tested at the exact level of effort small talk requires.
+
+Do not let the word "run" screen you out. The listing explicitly welcomes walkers, and every run club regular knows the social center of gravity sits in the walking group and the post-run gathering, not at the front of the fast pack. The ambience is early-morning Houston at its best: bayou-side air before the day heats up, a crowd in athletic gear with the status signals of nightlife stripped away, and an easy, healthy earnestness that makes talking to strangers feel like the most normal thing in the world. Because it runs weekly, it rewards the second and third visit enormously; run clubs are where familiar faces compound.
+
+The concrete tip: pick a pace group slightly below your fitness so you can actually hold a conversation, and protect the post-run social time like it is the event itself, because it is. Introduce yourself to your pace leader by name, since leaders know everyone and a leader who knows you becomes an introduction service. Then do the simplest powerful thing in this entire guide: come back next Saturday. Same time, same place, same faces, one week more familiar.
+
+[Event details and tickets](https://www.papercitymag.com/events/zft-run-club-at-bayou-park-4/)
+### 17. Matcha + Meetup: Houston
 
 **When:** Saturday, October 24, 2026, 12:00 PM · **Where:** Cafe of the Day, Bellaire West (Corporate Drive) · **Cost:** From $12.51
 **Type:** Singles-friendly · **Good for:** All singles
@@ -331,8 +299,7 @@ The cafe format has a built-in grace that bars cannot copy: leaving is easy and 
 The concrete tip: treat the smallness as the feature. Arrive on time, because midday cafe socials front-load their mingling, and put yourself in the conversation flow rather than at a side table with your cup as a shield. Ask people how they found the event and what else they have tried in the city; at a meetup for meeting people, comparing notes on the scene is the home topic, and it hands you ready-made plans: the events others recommend are the ones worth attending together next.
 
 [Event details and tickets](https://www.eventbrite.com.au/d/tx--houston/meetup-singles/)
-
-### 19. ULTIMATE BAR GAME NIGHT at Social Beer Garden
+### 18. ULTIMATE BAR GAME NIGHT at Social Beer Garden
 
 **When:** Saturday, October 24, 2026, 8:00 PM · **Where:** Social Beer Garden HTX, Midtown (3101 San Jacinto Street) · **Cost:** not listed
 **Type:** Singles-friendly · **Good for:** All singles
@@ -346,7 +313,20 @@ The psychology deserves a sentence of its own: side-by-side beats face-to-face. 
 The concrete tip: be the person who starts games. Carry a low-stakes invitation, "I need a second for air hockey, you in?", and rotate through two or three games with different people rather than camping on one table. Modesty about skill is charming here, and visible improvement across a rematch is a genuine narrative arc for an evening. If a rivalry gets fun, name the rematch for next time before you leave; the best exit line at a game night is a standing appointment.
 
 [Event details and tickets](https://www.meetup.com/find/us--tx--houston/fun-jewish-singles-events/)
+### 19. Sunday Funday 2026: Bachata & Salsa Night In Rice Village!
 
+**When:** Sunday, October 25, 2026, 6:00 PM (recurs weekly on Sundays) · **Where:** Simone on Sunset, Rice Village (2418 Sunset Boulevard) · **Cost:** $25 for one class; $40 for both classes (social dancing included)
+**Type:** Singles-friendly · **Good for:** All singles
+
+An all-levels bachata class at 6 PM and salsa class at 7 PM, followed by social dancing until midnight; no partner is needed since dancers rotate during lessons.
+
+Sunday Funday is the anchor dance night of the week in Rice Village, and its pricing tells you it takes itself seriously as instruction: $25 for one class, $40 for both, social dancing included, with bachata at 6 PM and salsa at 7 PM and the floor open until midnight. The two-class structure is a gift to a newcomer. Bachata, slower and more forgiving, warms you up and teaches you the mechanics of leading and following; salsa then raises the tempo and the energy, and by the time the social starts you have rotated through two full rooms of partners and the floor is full of people whose names you know. No partner is needed and none is expected: rotation is the design, which means the event has quietly solved the couples problem that keeps singles out of dance venues.
+
+Simone on Sunset sits in Rice Village, the walkable shopping and dining district next to Rice University, and the crowd mixes Village regulars, university-adjacent young professionals and a devoted Sunday dance community that treats this night as the week's social center. The ambience is more polished than a bar social: people come to dance, the floor etiquette is real, and asking someone for a dance is a normal, bounded, low-risk interaction with clear rules, which is precisely why dance socials outperform bars for shy people. A song is three or four minutes. A bad one ends. A good one gets a second.
+
+The concrete tip: take both classes rather than one. The two-class ticket is the best money in this guide, because it doubles your rotations and puts you on the floor at 8 PM with momentum instead of cold at 9. Learn the basic steps of saying thank you and asking again later in the night; the second dance with the same person is where conversations start, and it is earned by being a courteous, improving partner in the first one.
+
+[Event details and tickets](https://www.salsavida.com/event/texas/houston/sunday-funday-bachata-salsa-night-in-rice-village/)
 ### 20. Full Moon Hike
 
 **When:** Monday, October 26, 2026, 6:45 PM · **Where:** Rally Pavilion at the Running Center, Memorial Park · **Cost:** not listed
@@ -370,23 +350,23 @@ Houston rewards people who date by neighborhood. The city is too big for a singl
 
 ### The Heights and the Washington Avenue Corridor
 
-The Heights is Houston's front porch: bungalow streets, bikeable pockets, and a social life that runs along 19th Street and spills south into the Washington Avenue corridor, where the city's young-professional bar scene first took off. The ambience is polished but relaxed, patios and string lights, people in their thirties and forties who have graduated from the club years and want a scene with better drinks and earlier nights. This fortnight, the corridor hosts the Cityswoon matched speed dating at Puttery, and the neighborhood itself supplies the before and after: dinner on Washington, a walk along the bayou trails, coffee the next morning. Dating here runs on proximity and repetition, because the same crowd circulates through the same few blocks weekly. If you live anywhere near the northwest inner Loop, this is the scene to adopt as your home base, and the Independence Heights coffee-shop speed date at Wolfsmiths, just north of the Heights proper, belongs to the same world: historic, local, and proud of its neighborhood feel.
+The Heights is Houston's front porch: bungalow streets, bikeable pockets, and a social life that runs along 19th Street and spills south into the Washington Avenue corridor, where the city's young-professional bar scene first took off. The ambience is polished but relaxed, patios and string lights, people in their thirties and forties who have graduated from the club years and want a scene with better drinks and earlier nights. This fortnight, the corridor hosts the Cityswoon matched speed dating at Eight Row Flint on Yale Street and the sunset spooky speed dating at Bayou Heights Bier Garten on Washington Avenue, and the neighborhood itself supplies the before and after: dinner on Washington, a walk along the bayou trails, coffee the next morning. Dating here runs on proximity and repetition, because the same crowd circulates through the same few blocks weekly. If you live anywhere near the northwest inner Loop, this is the scene to adopt as your home base, and the Independence Heights coffee-shop speed date at Wolfsmiths, just north of the Heights proper, belongs to the same world: historic, local, and proud of its neighborhood feel.
 
 ### Montrose
 
-Montrose is Houston's bohemian heart and has been for fifty years: the museum district's edge, the city's historic LGBTQ+ center, and a dense tangle of restaurants, cafes, galleries and bars along Westheimer where every subculture in Houston overlaps. The ambience is eclectic and unpretentious, and the dating style matches: Montrose people lead with their interests. Two of this fortnight's best events sit on Westheimer itself, the South Asian marriage-minded mixer at Sophie and the seated dinner social at Rosie Cannonball, and that is no accident. Westheimer is a conversation street, full of places where a meal or a coffee can stretch for hours. The crowd is the most varied in the city by age, background and orientation, and the neighborhood rewards the curious: ask about the art, the food, the weird little shop you passed, and you are speaking Montrose's native language.
+Montrose is Houston's bohemian heart and has been for fifty years: the museum district's edge, the city's historic LGBTQ+ center, and a dense tangle of restaurants, cafes, galleries and bars along Westheimer where every subculture in Houston overlaps. The ambience is eclectic and unpretentious, and the dating style matches: Montrose people lead with their interests. One of this fortnight's best conversation events sits on Westheimer itself, the seated dinner social at Rosie Cannonball, and that is no accident. Westheimer is a conversation street, full of places where a meal or a coffee can stretch for hours. The crowd is the most varied in the city by age, background and orientation, and the neighborhood rewards the curious: ask about the art, the food, the weird little shop you passed, and you are speaking Montrose's native language.
 
 ### Downtown and Main Street
 
-Downtown Houston spent decades emptying at 6 PM, and its reinvention as a social district is one of the city's better recent stories. The blocks around Main and Congress now run a genuine circuit: Angel Share on Congress hosts both a Cityswoon speed dating night and the start of the plaid bar crawl, Mamajuana brings Latin dancing to Texas Street, Distrito Federal anchors Main with its free Tuesday dance night, and The Rig closes the fortnight with SpeedTexas on Texas Street. The ambience is after-work grown-up: professionals from the towers, residents of the downtown lofts, and a bar scene at conversation volume. For a single person, downtown's gift is density. Four of this guide's twenty events happen within a few blocks of each other, which means a downtown regular can build a real social orbit inside a single neighborhood, and the crawl between them is short, lit and full of other people doing the same thing.
+Downtown Houston spent decades emptying at 6 PM, and its reinvention as a social district is one of the city's better recent stories. The blocks around Main and Congress now run a genuine circuit: Angel Share on Congress hosts both a Cityswoon speed dating night and the start of the plaid bar crawl, Mamajuana brings Latin dancing to Texas Street, Distrito Federal anchors Main with its free Tuesday dance night, The Rig hosts SpeedTexas on Texas Street, and Henke & Pillot on Congress hosts a second SpeedTexas room for 36 to 48 year olds on Sunday, October 25. The ambience is after-work grown-up: professionals from the towers, residents of the downtown lofts, and a bar scene at conversation volume. For a single person, downtown's gift is density. Five of this guide's twenty events happen within a few blocks of each other, which means a downtown regular can build a real social orbit inside a single neighborhood, and the crawl between them is short, lit and full of other people doing the same thing.
 
 ### Midtown
 
-Midtown is where Houston's young professionals live stacked on top of each other, and its dating scene has the energy of that density. Axelrad's beer garden, hosting the Pitch Your Single Friend night, and Social Beer Garden HTX, hosting the bar game night, are both Midtown institutions built on the same insight: big, casual, outdoor-forward spaces where groups mix easily and nobody has to commit to a table. The ambience is festival casual, hammocks and picnic tables, live music drifting, a crowd in its twenties and thirties that treats weeknights as social time. Midtown is the easiest neighborhood in Houston in which to be new. Nobody is from here, everybody arrived for work in the last five years, and the entire social infrastructure assumes you are looking to build a circle. If you have just moved to the city, start in Midtown; the learning curve is the gentlest in town.
+Midtown is where Houston's young professionals live stacked on top of each other, and its dating scene has the energy of that density. Social Beer Garden HTX, hosting the bar game night, is a Midtown institution built on the same insight: big, casual, outdoor-forward spaces where groups mix easily and nobody has to commit to a table. The ambience is festival casual, hammocks and picnic tables, live music drifting, a crowd in its twenties and thirties that treats weeknights as social time. Midtown is the easiest neighborhood in Houston in which to be new. Nobody is from here, everybody arrived for work in the last five years, and the entire social infrastructure assumes you are looking to build a circle. If you have just moved to the city, start in Midtown; the learning curve is the gentlest in town.
 
 ### The East End and Second Ward
 
-East of downtown, the Second Ward and the wider East End are Houston's frontier: Navigation Boulevard's Mexican restaurants and bakeries, a growing bar and arts scene, and venues like By The Wayside hosting this fortnight's Halloween mixer. The ambience is unpolished in the best way, cheaper drinks, bigger characters, and a crowd that mixes longtime neighborhood residents with the young renters colonizing the old warehouse districts. The East River development, just east of downtown, belongs to this world's orbit too, hosting both the Saturday run club and Tuesday trivia at Bayou Park, which gives the east side something rare: a recurring weekly campus where the same singles gather for a run, a game and a drink. Dating on the east side has a house-party looseness the polished west side sometimes lacks, and people who find the Heights scene too curated often discover their people here.
+East of downtown, the Second Ward and the wider East End are Houston's frontier: Navigation Boulevard's Mexican restaurants and bakeries, a growing bar and arts scene, and The ambience is unpolished in the best way, cheaper drinks, bigger characters, and a crowd that mixes longtime neighborhood residents with the young renters colonizing the old warehouse districts. The East River development, just east of downtown, belongs to this world's orbit too, hosting both the Saturday run club and Tuesday trivia at Bayou Park, which gives the east side something rare: a recurring weekly campus where the same singles gather for a run, a game and a drink. Dating on the east side has a house-party looseness the polished west side sometimes lacks, and people who find the Heights scene too curated often discover their people here.
 
 ### Rice Village and the University District
 
@@ -398,7 +378,7 @@ The Greenway and Upper Kirby district, where the October 19 Pre-Dating night run
 
 ### Spring Branch and the Memorial Area
 
-West of the Loop, Spring Branch and the Memorial area run the most suburban scene in this guide, and in some ways the most honest one. The ice houses, like Kirby Ice House on Gessner, are the district's living rooms: big patios, cold drinks, food trucks, kids and dogs at the edges of the afternoon crowd, and a come-as-you-are warmth that the polished districts cannot fake. Both of this fortnight's west-side events, the Jigsaw happy hour at Aye Candy on Bingle and the Pre-Dating night at Kirby Ice House, target the 34 to 55 bands, and that is the story of the area: established adults, many dating again, who want their social life close to home and their evenings home by ten. Do not mistake the lower polish for lower stakes. The west side is where a lot of Houston's second-chapter dating happens, and its rooms are full of people who know exactly what they are looking for and are refreshingly direct about it.
+West of the Loop, Spring Branch and the Memorial area run the most suburban scene in this guide, and in some ways the most honest one. The ice houses, like Kirby Ice House on Gessner, are the district's living rooms: big patios, cold drinks, food trucks, kids and dogs at the edges of the afternoon crowd, and a come-as-you-are warmth that the polished districts cannot fake. This fortnight's west-side speed dating night, the Pre-Dating event at Kirby Ice House, targets the 34 to 49 band, and that is the story of the area: established adults, many dating again, who want their social life close to home and their evenings home by ten. Do not mistake the lower polish for lower stakes. The west side is where a lot of Houston's second-chapter dating happens, and its rooms are full of people who know exactly what they are looking for and are refreshingly direct about it.
 
 Read the eight worlds together and a pattern emerges: Houston's dating map is a set of villages, each with a gate that is easy to walk through and regulars who will learn your name. The strategic conclusion is unfashionable and true. Pick the village nearest your life, geographically and temperamentally, and become a regular in it, rather than sampling the whole city's scene like a tourist. Attraction in Houston is largely a function of repeated, unforced presence in the right small world, and this fortnight's twenty events are best read as eight doors. Choose one door, walk through it twice, and the city starts introducing you to people on its own.
 
@@ -406,15 +386,15 @@ Read the eight worlds together and a pattern emerges: Houston's dating map is a 
 
 Every listing in this guide carries a hidden variable that matters as much as the format: the room itself. The same person can be charming in one ambience and mute in another, and half of dating strategy is simply choosing rooms that flatter who you are. Here is what the six kinds of spaces in this fortnight actually feel like from inside.
 
-**The game venue.** Puttery, Holey Moley and Social Beer Garden's upstairs share a design: an activity with lights on it. These rooms are loud with laughter rather than music, and they hand you a role, player, that is easier to wear than the role of dater. If you are funnier in motion than across a table, game venues are your natural habitat.
+**The game venue.** Holey Moley and Social Beer Garden's upstairs share a design: an activity with lights on it. These rooms are loud with laughter rather than music, and they hand you a role, player, that is easier to wear than the role of dater. If you are funnier in motion than across a table, game venues are your natural habitat.
 
-**The ice house and the beer garden.** Kirby Ice House, Axelrad and Aye Candy's neighborhood-bar world run on patio time: picnic tables, food trucks, drinks in hand, conversations that expand and contract as people drift between groups. The ambience forgives everything except standing apart. In these rooms you do not join conversations so much as pull up a chair near one, and the dress code is Houston casual at its most honest.
+**The ice house and the beer garden.** Kirby Ice House, Eight Row Flint and Bayou Heights Bier Garten's neighborhood-bar world run on patio time: picnic tables, food trucks, drinks in hand, conversations that expand and contract as people drift between groups. The ambience forgives everything except standing apart. In these rooms you do not join conversations so much as pull up a chair near one, and the dress code is Houston casual at its most honest.
 
 **The dance floor.** Mamajuana, Distrito Federal and Simone on Sunset run the most structured ambience of all, because the music and the rotation choreograph your evening for you. These rooms feel warm, physical and surprisingly formal in their etiquette: you ask, you dance one song, you thank, you move on. For people who trust their presence more than their patter, the dance floor is the fairest room in the city.
 
 **The coffee shop and the cafe.** Wolfsmiths at 3 PM and the matcha meetup at noon invert the bar's rules: daylight, caffeine, low voices, early endings. The ambience is a job interview's friendlier cousin, and it rewards exactly what bars punish: thoughtfulness, listening, being interesting at normal volume. If your friends describe you as better one on one than in a crowd, these are your rooms.
 
-**The restaurant table.** Sophie and Rosie Cannonball seat you and keep you: a meal's length of conversation with the people the evening assigned you. The ambience is civilized and a little exposing, because a table shows character, how you order, how you share, how you treat staff, faster than any icebreaker. Choose it when you are ready to be known a little.
+**The restaurant table.** Rosie Cannonball seats you and keeps you: a meal's length of conversation with the people the evening assigned you. The ambience is civilized and a little exposing, because a table shows character, how you order, how you share, how you treat staff, faster than any icebreaker. Choose it when you are ready to be known a little.
 
 **The trail and the park.** The run club at Bayou Park and the full moon hike in Memorial Park strip ambience down to weather, light and motion. There is nothing to hide behind and nothing to perform; you are simply a person walking or jogging beside other people, in a body, in the world. For many singles these are the least anxious rooms in Houston, because the setting does the romantic work and leaves you only the talking.
 
@@ -432,9 +412,9 @@ One more discipline separates the successful from the frustrated at every one of
 
 ### Succeeding at mixers and hosted nights
 
-The unstructured nights, the Halloween mixer in the East End, Jigsaw's hosted happy hour in Spring Branch, and the pitch night at Axelrad, reward a different skill set: circulation with intent. Give yourself a quota of real conversations, four or five, and a rule against spending the whole night with the first friendly group that adopts you. Open with the room, not with yourself: the costume, the pitch, the trivia question on the screen, anything you are both looking at. Houston rooms run warm, and a comment offered with a smile is received as hospitality rather than intrusion, which makes this the easiest city in America to practice in.
+The unstructured and hosted nights in this edition, above all the free Spooky Singles Mixer at The Kennedy, reward a different skill set: circulation with intent. Give yourself a quota of real conversations, four or five, and a rule against spending the whole night with the first friendly group that adopts you. Open with the room, not with yourself: the costume, the sunset, the trivia question on the screen, anything you are both looking at. Houston rooms run warm, and a comment offered with a smile is received as hospitality rather than intrusion, which makes this the easiest city in America to practice in.
 
-Use the hosts. Jigsaw puts a host in the room precisely so that a quiet attendee can be introduced rather than stranded, and asking a host "who should I meet?" is a professional request, not a confession. At the pitch night, let the presentations do your screening and choose your social-hour targets while the show runs. And everywhere, master the graceful exit and the deliberate return: "I promised my friend a round, but I want to hear the rest of that story" gives you both an easy out and a reason to come back, and the return, chosen freely, is the strongest signal of interest a mixer allows.
+Use the hosts where a format provides them. Hosted rooms put a host in the room precisely so that a quiet attendee can be introduced rather than stranded, and asking a host "who should I meet?" is a professional request, not a confession. At the Kennedy mixer, let the Halloween theme do your screening and choose your conversations while the room is still circulating. And everywhere, master the graceful exit and the deliberate return: "I promised my friend a round, but I want to hear the rest of that story" gives you both an easy out and a reason to come back, and the return, chosen freely, is the strongest signal of interest a mixer allows.
 
 ### Succeeding at activity events
 
@@ -458,7 +438,7 @@ And remember the deepest fact in this guide: everyone at these events has a no-m
 
 Houston is routinely counted among the most diverse large cities in America, a place where a huge share of the population was born in another country and where entire commercial districts run in Spanish, Vietnamese, Mandarin, Hindi and more. Dating here happens inside that diversity whether you plan for it or not, and this fortnight's listings give you three honest windows into how Houston's communities organize their own romantic lives.
 
-The clearest window is the South Asian singles mixer in Montrose, and everything about it is instructive. It is community-specific, age-banded, held on a Sunday afternoon in a restaurant, and advertised without embarrassment as marriage-minded. In many South Asian families, marriage is understood as a union that joins families as well as individuals, and a partner who already shares the culture, the festivals, the food and the expectations around parents and elders removes a whole layer of translation from a relationship. An event like this one is not exclusion; it is efficiency plus comfort, built by a community for its own members, the same way the city's other communities build theirs. The respectful takeaway for everyone is that Houston dating runs on many tracks at once, and the listings' audience labels are information, not obstacles: choose the rooms that invite you, and you will find rooms built with exactly your background in mind, because in this city, every background has one.
+The clearest window is the pair of Christian singles events in this edition, the IYKYK speed dating night in Garden Oaks for singles in their 20s and 30s and the wider faith-based singles scene it belongs to. Both are community-specific and advertised without embarrassment as intentional: in many Christian families and congregations, a partner who already shares the faith, the rhythms of the week and the expectations around family removes a whole layer of translation from a relationship. An event like this one is not exclusion; it is efficiency plus comfort, built by a community for its own members, the same way the city's other communities build theirs. The respectful takeaway for everyone is that Houston dating runs on many tracks at once, and the listings' audience labels are information, not obstacles: choose the rooms that invite you, and you will find rooms built with exactly your background in mind, because in this city, every background has one.
 
 The second window is the dance floor. Three of this guide's nights, Mamajuana's Thursdays, Culture Beat Tuesdays and Sunday Funday in Rice Village, run on salsa and bachata, partner dances with roots in Cuba, the Dominican Republic and the wider Latino world, now danced all over Houston by people of every background. Social dance culture carries its own etiquette, and learning it is a form of respect: dances are one song long, asking is normal and impersonal, a no is accepted without negotiation, and the lesson's rotation means everyone dances with everyone. Newcomers who arrive humble, take the free lesson and let the community teach them are welcomed warmly; the dance floor has absorbed generations of beginners. Show up as a student of the culture rather than a tourist in it, and these rooms will teach you more than steps.
 
@@ -468,21 +448,21 @@ One practical habit ties the three windows together: learn a little on purpose. 
 
 ## This Fortnight in Houston
 
-Every two-week window has a personality, and this one belongs to October. The brutal part of the Houston year is over, the evenings have turned patio-worthy, and the social calendar responds exactly the way this list shows: beer gardens, ice house patios, outdoor runs and a night hike all become first-choice venues. If there is a single best fortnight of the Houston year to be single in, it is one like this, and the listings lean into it.
+Every two-week window has a personality, and this one belongs to late October. The brutal part of the Houston year is over, the evenings have turned patio-worthy, and the social calendar responds exactly the way this list shows: beer gardens, ice house patios, outdoor runs and a night hike all become first-choice venues. If there is a single best fortnight of the Houston year to be single in, it is one like this, and the listings lean into it.
 
-Halloween owns the first weekend. Saturday, October 17 is the fortnight's peak, a day so crowded it becomes a strategy problem: the run club in the morning, then a genuine three-way choice at night between the costume mixer in the East End, the Spooky Edition pitch night at Axelrad, and the hosted Jigsaw happy hour in Spring Branch, with the Sunday recovery options being a Montrose afternoon mixer and a Rice Village dance night. Costumes do social work all weekend, lowering the cost of every introduction, and the pitch night's spooky edition gives Halloween a second, funnier register than the standard party. The smart play for a free Saturday is to choose by format, not by hype: structure if you want dates, the mixer if you want freedom, the happy hour if you want a host's help, and know that any of the three puts you in a room full of people who chose to spend the year's most social Saturday looking for exactly what you are looking for.
+The window opens with structure. Monday, October 19 starts with classic Pre-Dating speed dating for 42 to 58 year olds in Greenway, Tuesday pairs Bayou Park trivia with the free Culture Beat dance night downtown, and Wednesday doubles up with Cityswoon's downtown room for 45 to 59 year olds and the seated pasta and pizza dinner in Montrose. Thursday, October 22 then offers three different doors at once: Christian speed dating in Garden Oaks, Mamajuana's free-lesson Latin night downtown, and the first of the edition's Heights rooms. None of those nights requires a costume, a team or a partner, and together they make the first week unusually easy to start.
 
-The middle Saturday, October 24, makes the opposite argument from the first: range. Within a single day the city offers a noon matcha social out west, coffee-shop speed dating in Independence Heights at 3 PM, and a bar game night in Midtown at 8, three events with nothing in common except that all of them work. It is the fortnight's best day for experimenting with a format you have never tried, precisely because the stakes of any single one are low and the day lets you stack a gentle experiment in front of an evening event.
+Saturday, October 24 is the fortnight's peak, a day so crowded it becomes a strategy problem: the ZFT run club in the morning, the matcha social at noon, coffee-shop speed dating at 3 PM, sunset spooky speed dating on Washington Avenue, and the bar game night in Midtown at 8. Halloween does social work all day, lowering the cost of every introduction, and the smart play is to choose by format, not by hype: the run if you want repetition, the coffee shop if you want calm, the sunset session if you want the season, and the game night if you want an activity to carry the conversation. Sunday, October 25 recovers with Sunday Funday's dance classes in Rice Village and a second SpeedTexas room downtown for 36 to 48 year olds.
 
-The second week deepens rather than repeats. The two Pre-Dating Mondays bookend it, the dance circuit runs its full Tuesday, Thursday, Sunday rotation, and the window closes with two events of unusual charm: the full moon hike through Memorial Park on Monday, October 26, timed to the month's full moon, when a guided night walk turns the city's great urban forest into the most atmospheric room in this guide, and SpeedTexas's same-night matching downtown on Wednesday the 28th, which resolves the fortnight's last questions before it ends. Treat the window as an arc: go wide in week one, go deep in week two, and let the recurring nights carry your momentum between the ticketed peaks.
+The second week deepens rather than repeats. Monday, October 26 pairs the second Pre-Dating night, for 34 to 49 year olds in Spring Branch, with the full moon hike through Memorial Park, timed to the month's full moon, when a guided night walk turns the city's great urban forest into the most atmospheric room in this guide. Wednesday, October 28 brings SpeedTexas's same-night matching downtown for 27 to 42 year olds, and Thursday, October 29 closes the ticketed calendar with a genuine Halloween-week choice: Cityswoon matched dating in the Heights for 30 to 45 year olds, or the free Spooky Singles Mixer at The Kennedy for anyone who prefers an unstructured room. The window then runs through Sunday, November 1, which is the right moment to turn a match from the fortnight into a first real date while the recurring circuit, trivia, dance nights and the Saturday run, carries your momentum into the next edition. Treat the window as an arc: go wide in week one, go deep in week two, and let the recurring nights carry you between the ticketed peaks.
 
 ## What a Fortnight of Dating Events Costs in Houston
 
-The honest headline is that this fortnight can be run nearly free, and the listings prove it. Three of the strongest recurring events charge nothing at all: the ZFT run club on Saturday mornings, trivia at Bayou Park on Tuesdays, and Culture Beat Tuesdays downtown, which bundles a free lesson, a live band and a DJ into a zero-cover night. At the low end of the paid scale, the Halloween mixer starts at $9.30 and the matcha meetup at $12.51, either of which buys a full social evening for the price of a sandwich.
+The honest headline is that this fortnight can still be run nearly free, and the listings prove it. Four of the strongest events charge nothing at all: the free Spooky Singles Mixer at The Kennedy, the ZFT run club on Saturday mornings, trivia at Bayou Park on Tuesdays, and Culture Beat Tuesdays downtown, which bundles a free lesson, a live band and a DJ into a zero-cover night. At the low end of the paid scale, the matcha meetup starts at $12.51, which buys a full social afternoon for the price of a sandwich.
 
-The middle of the market is where the structured dating lives. The pitch night starts at $22.79, with viewer tickets at $18. Sunday Funday's dance classes run $25 for one and $40 for both. Pre-Dating's two Houston nights are $35 each through the organizer's site, the best-documented bargain in the speed dating category, and the South Asian mixer in Montrose tops the list at $33.85 to $44.52, a reflection of its restaurant setting and its deliberately small, curated room. Several formats, both Cityswoon nights, both Jigsaw events, SpeedTexas, Mamajuana's Thursday and the dinner and hike, do not publish a price in the listing itself, so check the event page before assuming; in the Meetup cases you are typically paying your own way for food and drink rather than a ticket.
+The middle of the market is where the structured dating lives. Sunday Funday's dance classes run $25 for one and $40 for both. Pre-Dating's two Houston nights are $35 each through the organizer's site, the best-documented bargain in the speed dating category, and the Sunday SpeedTexas room for 36 to 48 year olds lists tickets at $35.67 to $38.97. Cityswoon's Heights night on October 29 is $43.45, and the Christian speed dating night in Garden Oaks tops the list at $49.25 to $103.49, a reflection of its smaller, faith-specific room. Several formats, both other Cityswoon nights, the Jigsaw coffee-shop session, SpeedTexas on October 28, the sunset spooky session, Mamajuana's Thursday and the dinner and hike, do not publish a price in the listing itself, so check the event page before assuming; in the Meetup cases you are typically paying your own way for food and drink rather than a ticket.
 
-Three sample budgets make the landscape concrete. The free route, run club, trivia, Culture Beat, plus the $9.30 mixer and your own drinks, runs a full social fortnight for under $40. The balanced route adds one Pre-Dating night, one dance class and the pitch night, landing near $110 for two weeks with four structured dating outings. The all-in route, both Pre-Dating nights, both classes at Sunday Funday, the Montrose mixer, the pitch night and the mixer, still totals under $220. By the standards of a single month of premium app subscriptions plus two first dates at a nice restaurant, Houston's event scene is not just more human. It is cheaper.
+Three sample budgets make the landscape concrete. The free route, run club, trivia, Culture Beat, plus the free Kennedy mixer and your own drinks, runs a full social fortnight for under $40. The balanced route adds one Pre-Dating night, one dance class and a SpeedTexas night, landing near $110 for two weeks with several structured dating outings. The all-in route, both Pre-Dating nights, both classes at Sunday Funday, the Cityswoon Heights night and the Christian speed dating night, still totals under $260. By the standards of a single month of premium app subscriptions plus two first dates at a nice restaurant, Houston's event scene is not just more human. It is cheaper.
 
 ## The Standing Scene: Houston Institutions That Run All Year
 
@@ -490,7 +470,7 @@ Beneath the fortnight's one-off events sits the machinery that actually runs Hou
 
 The weekly anchors form a circuit you could set your watch by. Thursday belongs to Mamajuana's Latin night downtown. Saturday morning belongs to the ZFT run club at East River. Sunday evening belongs to Sunday Funday's classes and social in Rice Village. Tuesday is double-booked in the best way, trivia at Bayou Park and Culture Beat's free dance night downtown, an east side and a center city option running in parallel. A Houston single can build an entire social life on those five standing appointments alone, and the second-order effect is the one that matters: recurring rooms create regulars, regulars create recognition, and recognition is the raw material of attraction.
 
-The organizers are institutions too. Cityswoon runs its matched format in Houston with the polish of a national operation. Pre-Dating's Monday rhythm and scorecard simplicity have made it the default first speed dating experience for two age bands in this list alone. Jigsaw has carved out the hosted, activity-centered niche for the over-30 crowd. Bayou City Outdoors has been turning Houston's trails and waterways into a social club for years, and the Hard To Make Friends As An Adult group has built a whole community on admitting the problem in its name. When you attend any event in this guide, you are not just attending a night. You are auditioning an institution, and the ones that fit deserve a permanent slot in your week, because in Houston, the standing scene is where strangers reliably become something more.
+The organizers are institutions too. Cityswoon runs its matched format in Houston with the polish of a national operation. Pre-Dating's Monday rhythm and scorecard simplicity have made it the default first speed dating experience for two age bands in this list alone. Jigsaw has carved out the hosted, activity-centered niche for the over-30 crowd, SpeedTexas runs its modern same-night format in two downtown rooms in this edition alone, and IYKYK Dating serves the city's Christian singles with age-banded, faith-specific nights. Bayou City Outdoors has been turning Houston's trails and waterways into a social club for years, and the Hard To Make Friends As An Adult group has built a whole community on admitting the problem in its name. When you attend any event in this guide, you are not just attending a night. You are auditioning an institution, and the ones that fit deserve a permanent slot in your week, because in Houston, the standing scene is where strangers reliably become something more.
 
 This is also the reason this guide refreshes every Sunday without losing its soul. The one-off events rotate, the seasons change the patios, but the standing scene underneath, the Thursday dance floor, the Saturday run, the Tuesday games, persists through all of it, holding the city's singles in a loose, friendly orbit. New readers arrive for the ticketed nights. They stay, and succeed, because of the institutions. Join one, and the fortnight stops being a list you read and becomes a life you are visibly living, which is, in the end, the most attractive thing a person can bring to any room in this guide.
 
@@ -524,7 +504,7 @@ It is not just okay; it is the design. Nearly everyone at these events arrives s
 Match the room, then go one notch above it. Bars, ice houses and beer gardens: clean, fitted casual, with real shoes. Restaurant and hotel-adjacent events like the Montrose mixer: smart casual, the kind of outfit you would wear to a nice dinner you cared about. Dance nights: shoes you can move in and clothes that survive a warm floor. Coffee shop and daytime events: your best ordinary clothes, neat and comfortable. October evenings cool down enough for a light layer, which in Houston counts as a style opportunity.
 
 **Are the age ranges at Houston singles events strict?**
-Mostly, yes, and that is a feature. Organizers band their rooms so that everyone present is dating in a compatible stage of life, and the band on the listing is the band they check at the door or at booking. If you fall a year or two outside a band, ask the organizer rather than crashing; many will tell you which of their other nights fits. This fortnight alone covers 25 to 59 across its ticketed events, so there is a correctly banded room for nearly everyone.
+Mostly, yes, and that is a feature. Organizers band their rooms so that everyone present is dating in a compatible stage of life, and the band on the listing is the band they check at the door or at booking. If you fall a year or two outside a band, ask the organizer rather than crashing; many will tell you which of their other nights fits. This fortnight alone covers singles in their 20s through 59 across its ticketed events, so there is a correctly banded room for nearly everyone.
 
 **How many events should I go to in a week?**
 Two is the sweet spot for most people: one structured or ticketed event where meeting people is the explicit purpose, and one recurring friendly event, a run club, a trivia team, a dance night, that you attend every week until the room knows your name. Three is fine in a big week like this one. More than that and fatigue starts to read on your face, and tired daters underperform. The goal is a rhythm you can sustain for months, because the person you are looking for is on a rhythm too, and your calendars have to overlap twice.
@@ -534,6 +514,6 @@ Every Sunday. Expired events are removed, recurring events roll to their next da
 
 ## Make This the Fortnight You Actually Go
 
-Everything in this guide reduces to one decision: pick your rooms and show up. Choose one ticketed event in your age band, one recurring night you could plausibly attend weekly, and one wildcard, the hike, the pitch night, the costume mixer, that is outside your usual pattern. Book the ticketed one today, while your nerve is up. Houston has built you a fortnight with a free dance lesson, a moonlit trail, a dozen structured chances and a hundred small ones, spread across every neighborhood and every age from 25 to 59. The only version of this list that cannot work is the one you only read. The city is doing its part, on patios and dance floors and trails all over town. Do yours, and go.
+Everything in this guide reduces to one decision: pick your rooms and show up. Choose one ticketed event in your age band, one recurring night you could plausibly attend weekly, and one wildcard, the hike, the sunset spooky session, the free costume-season mixer, that is outside your usual pattern. Book the ticketed one today, while your nerve is up. Houston has built you a fortnight with a free dance lesson, a moonlit trail, a dozen structured chances and a hundred small ones, spread across every neighborhood and every age from the 20s to 59. The only version of this list that cannot work is the one you only read. The city is doing its part, on patios and dance floors and trails all over town. Do yours, and go.
 
-*Last updated October 14, 2026. Event details can change; confirm time, venue and availability on the organizer's page before heading out.*
+*Last updated October 18, 2026. Event details can change; confirm time, venue and availability on the organizer's page before heading out.*
