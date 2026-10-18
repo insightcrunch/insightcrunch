@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "Public Law 104-193", "Poverty Policy", "Social Policy"]
 excerpt: "Welfare reform outcomes measured across five findings: caseloads, employment, poverty, coverage and the recession test, with attribution disputes stated fully."
 image: "/assets/images/blog/blog-102.webp"
-reading_time: "88"
+reading_time: 99
 author: "william-knight"
 last_updated: 2026-10-17
 lang: en

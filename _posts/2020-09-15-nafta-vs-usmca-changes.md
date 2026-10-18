@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "NAFTA", "USMCA", "Congress", "Legislative Process"]
 excerpt: "NAFTA vs USMCA compared across five axes: tariffs barely moved, auto content and labor enforcement changed fundamentally, and the deal now also expires."
 image: "/assets/images/blog/blog-46.webp"
-reading_time: "92"
+reading_time: 103
 author: "marcus-hall"
 last_updated: 2026-10-17
 lang: en

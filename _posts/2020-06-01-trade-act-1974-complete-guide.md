@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "American History", "Legislative History"]
 excerpt: "The Trade Act of 1974 joined fast track, safeguards, retaliation, preferences, an emigration condition and adjustment assistance in one enacted text of law."
 image: "/assets/images/blog/blog-25.webp"
-reading_time: "96"
+reading_time: 109
 author: "daniel-morgan"
 last_updated: 2026-10-17
 lang: en

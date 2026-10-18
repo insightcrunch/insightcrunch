@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "Public Law 104-193", "Legislative Process", "American History"]
 excerpt: "Welfare reform myths tested against statutes, caseload data and named research: eight claims, eight verdicts, and the denominators that decide each one."
 image: "/assets/images/blog/blog-77.webp"
-reading_time: "90"
+reading_time: 102
 author: "robert-quinn"
 last_updated: 2026-10-17
 lang: en

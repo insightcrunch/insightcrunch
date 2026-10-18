@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "TANF", "PRWORA", "Social Policy", "104th Congress"]
 excerpt: "Welfare reform replaced a federal entitlement to cash aid with a fixed block grant, time limits, and work rules that left eligibility to the states by design."
 image: "/assets/images/blog/blog-87.webp"
-reading_time: "93"
+reading_time: 104
 author: "maria-santos"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "NAFTA", "Trade Policy", "Employment", "Labor Economics", "American History"]
 excerpt: "NAFTA employment impact research found small national effects and severe local ones: the models, the wage studies, and the certified worker count compared."
 image: "/assets/images/blog/blog-13.webp"
-reading_time: "91"
+reading_time: 103
 author: "benjamin-scott"
 last_updated: 2026-10-17
 lang: en

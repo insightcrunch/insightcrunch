@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Food Stamp Act", "SNAP", "Farm Bill", "Legislative Process", "American History"]
 excerpt: "The Food Stamp Act created a food benefit bought with cash, then reshaped by national standards, electronic delivery, and a new name as the SNAP program."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "87"
+reading_time: 98
 author: "christopher-wells"
 last_updated: 2026-10-17
 lang: en

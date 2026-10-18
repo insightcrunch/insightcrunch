@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "USMCA", "Congress", "Labor Law", "American History"]
 excerpt: "The USMCA Implementation Act approved a renegotiated North American trade agreement after a protocol rewrote labor enforcement and added a sunset clause."
 image: "/assets/images/blog/blog-46.webp"
-reading_time: "85"
+reading_time: 96
 author: "simon-hartley"
 last_updated: 2026-10-17
 lang: en

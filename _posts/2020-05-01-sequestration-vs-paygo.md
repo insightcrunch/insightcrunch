@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Budget Process", "Sequestration", "PAYGO", "Congress", "Legislative Process"]
 excerpt: "Sequestration cancels budgetary resources after a fiscal rule is breached, while PAYGO requires enacted law not to raise the deficit on the scorecard."
 image: "/assets/images/blog/blog-21.webp"
-reading_time: "78"
+reading_time: 89
 author: "benjamin-scott"
 last_updated: 2026-10-17
 lang: en

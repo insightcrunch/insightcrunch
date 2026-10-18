@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "Legislative Process", "American History"]
 excerpt: "US trade legislation since mid century follows one recurring pattern: Congress delegates its duty power to the President, then objects to the use made of it."
 image: "/assets/images/blog/blog-39.webp"
-reading_time: "98"
+reading_time: 110
 author: "maria-santos"
 last_updated: 2026-10-17
 lang: en

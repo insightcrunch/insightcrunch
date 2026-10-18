@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "NAFTA", "Trade Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The NAFTA Implementation Act made a continental trade bargain domestic law by simple majorities, carrying its chapters, side agreements, and roll calls."
 image: "/assets/images/blog/blog-73.webp"
-reading_time: "105"
+reading_time: 117
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

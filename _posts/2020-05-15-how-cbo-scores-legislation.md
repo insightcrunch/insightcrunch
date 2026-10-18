@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Congressional Budget Office", "Legislative Process", "Congress", "Tax Policy", "Study Guides"]
 excerpt: "How CBO scores a bill: the statutory baseline conventions, the ten year window, the split with the Joint Committee on Taxation, and the accuracy record."
 image: "/assets/images/blog/blog-60.webp"
-reading_time: "92"
+reading_time: 104
 author: "benjamin-scott"
 last_updated: 2026-10-17
 lang: en

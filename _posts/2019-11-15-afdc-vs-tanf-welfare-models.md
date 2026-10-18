@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Welfare Reform", "Social Security Act", "Congress", "American History", "Study Guides"]
 excerpt: "AFDC vs TANF compared across entitlement, funding, recession response, and state discretion, with a four-axis table and the evidence behind each model."
 image: "/assets/images/blog/blog-52.webp"
-reading_time: "99"
+reading_time: 113
 author: "katherine-blake"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Debt Ceiling", "Congress", "Legislative Process", "American History"]
 excerpt: "How the debt ceiling governs borrowing to pay enacted obligations, through extraordinary measures, suspensions, and the exhaustion date in practice and law."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: "82"
+reading_time: 92
 author: "william-knight"
 last_updated: 2026-10-17
 lang: en

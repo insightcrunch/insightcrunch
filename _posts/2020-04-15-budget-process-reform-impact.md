@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Budget Process Reform", "Congress", "Federal Budget", "Legislative Process", "American History"]
 excerpt: "Budget Process Reform bound annual discretionary spending under caps, while mandatory spending, waivers and resets left deficits and public debt rising."
 image: "/assets/images/blog/blog-46.webp"
-reading_time: "82"
+reading_time: 92
 author: "jason-mckenzie"
 last_updated: 2026-10-17
 lang: en

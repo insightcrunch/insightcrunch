@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Child Nutrition Act", "School Meals", "WIC", "Nutrition Policy", "Education Policy"]
 excerpt: "The Child Nutrition Act built breakfast, milk aid, and WIC on the school lunch framework, and its entitlement line decides which programs survive tight budgets."
 image: "/assets/images/blog/blog-22.webp"
-reading_time: "91"
+reading_time: 102
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

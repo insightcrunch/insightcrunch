@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Tariff Law", "Legislative Process", "Congress"]
 excerpt: "US tariff law is administered by four agencies with separate mandates, four remedy tracks with different triggers, and duties finally settled after entry."
 image: "/assets/images/blog/blog-41.webp"
-reading_time: "90"
+reading_time: 101
 author: "jason-mckenzie"
 last_updated: 2026-10-17
 lang: en

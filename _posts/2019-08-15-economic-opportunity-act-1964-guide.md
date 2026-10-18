@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Economic Opportunity Act", "War on Poverty", "Congress", "American History", "Legislative Process"]
 excerpt: "The Economic Opportunity Act built a presidential antipoverty office, funded community action, and left programs that outlived the agency itself by decades."
 image: "/assets/images/blog/blog-10.webp"
-reading_time: "89"
+reading_time: 103
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

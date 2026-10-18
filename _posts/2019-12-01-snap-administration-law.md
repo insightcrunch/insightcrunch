@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "SNAP", "Food and Nutrition Act", "Legislative Process", "American History"]
 excerpt: "SNAP administration explained: how states determine eligibility, calculate benefits from the Thrifty Food Plan, run quality control, and issue benefits by EBT."
 image: "/assets/images/blog/blog-21.webp"
-reading_time: "108"
+reading_time: 120
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

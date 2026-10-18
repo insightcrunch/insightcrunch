@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "TANF", "Welfare Reform", "Social Policy", "Legislative Process", "104th Congress"]
 excerpt: "The TANF block grant turns on four purposes in the statute, only two of them tied to need, plus a fixed grant and a caseload credit that sets real targets."
 image: "/assets/images/blog/blog-26.webp"
-reading_time: "90"
+reading_time: 100
 author: "benjamin-scott"
 last_updated: 2026-10-17
 lang: en

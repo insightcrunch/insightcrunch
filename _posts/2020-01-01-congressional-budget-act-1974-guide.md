@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Congressional Budget Act", "Budget Process", "Legislative Process", "Congress", "American History"]
 excerpt: "Congressional Budget Act gave Congress its own budget committees, estimates, timetable and impoundment rules. This guide traces each creation and its record."
 image: "/assets/images/blog/blog-67.webp"
-reading_time: "93"
+reading_time: 107
 author: "daniel-morgan"
 last_updated: 2026-10-17
 lang: en

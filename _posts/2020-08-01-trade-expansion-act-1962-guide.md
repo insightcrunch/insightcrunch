@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Expansion Act", "Congress", "American History", "Legislative History"]
 excerpt: "The Trade Expansion Act of 1962 joined formula tariff bargaining, a national security import power and the first adjustment assistance in one statute."
 image: "/assets/images/blog/blog-89.webp"
-reading_time: "99"
+reading_time: 109
 author: "hannah-moore"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "Legislative Process", "American History"]
 excerpt: "Trade promotion authority trades amendment at the end for objectives at the start, with notice, consultation, publication and a guaranteed vote in between."
 image: "/assets/images/blog/blog-31.webp"
-reading_time: "79"
+reading_time: 90
 author: "patrick-dunn"
 last_updated: 2026-10-17
 lang: en

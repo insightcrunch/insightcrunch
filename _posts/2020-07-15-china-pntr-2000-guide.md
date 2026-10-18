@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "China Trade", "Congress", "American History", "Legislative History"]
 excerpt: "Permanent normal trade relations with China lowered no tariff. The law ended the annual waiver vote and removed the threat of much higher rates behind it."
 image: "/assets/images/blog-01.webp"
-reading_time: "84"
+reading_time: 96
 author: "abigail-cooper"
 last_updated: 2026-10-17
 lang: en
