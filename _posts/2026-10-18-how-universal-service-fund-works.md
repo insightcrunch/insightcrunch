@@ -6,19 +6,19 @@ date: 2026-10-18
 categories: ["Industry"]
 tags: ["telecommunications", "universal-service-fund", "fcc", "section-254", "telecom-policy", "administrative-law"]
 excerpt: "How the Universal Service Fund works: carriers contribute a share of interstate revenue, and the fund pays for rural networks, school connections and discounts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2026-10-18
+lang: en
 ---
-
 ## A Charge on the Bill and a Fund Behind It
 
 The Universal Service Fund collects a percentage of the interstate revenues earned by telecommunications carriers and pays that money out to support service in places and for institutions where the market price alone would leave service unaffordable or unavailable. Carriers report the revenues that form the base, a contribution factor converts that base into a quarterly obligation, and the pooled money flows back out as support for networks, low income subscribers, schools, libraries, and rural health care providers. The charge on a telephone bill and the payment to a rural carrier are two ends of one machine.
 
 The fund converts a subsidy that once hid inside monopoly telephone rates into an explicit levy and payment system, and every legal challenge attacks that conversion point. Under the older arrangement, regulators tolerated high prices on some services and routes so that other services and routes could be priced below cost, and the transfer stayed invisible inside a single rate structure. The fund separates the transfer from the rate. Money is collected under a stated formula, held in a dedicated fund administered for the Federal Communications Commission, and disbursed under program rules that name the recipient, the purpose, and the amount.
 
-![Universal Service Fund contribution and support flow - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Universal Service Fund contribution and support flow - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Four programs carry the disbursements. The High Cost program supports carriers serving rural, insular, and high cost areas where the cost of building and maintaining a network exceeds what local subscribers can reasonably pay. The Lifeline program lowers the monthly price of telephone or broadband service for qualifying low income households. The Schools and Libraries program, called E-Rate, discounts the telecommunications and internet services bought by eligible schools and libraries. The Rural Health Care program discounts the connectivity bought by eligible rural health care providers, including support for broadband networks that connect multiple providers.
 
