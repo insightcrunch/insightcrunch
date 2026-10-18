@@ -6,17 +6,17 @@ date: "2020-01-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Gramm-Rudman-Hollings", "Budget Deficit", "Sequestration", "Bowsher v. Synar", "Federal Budget Process"]
 excerpt: "Gramm-Rudman-Hollings fixed deficit targets, threatened automatic sequestration, fell in Bowsher v. Synar, and gave way to caps and PAYGO enforcement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: "2020-01-15"
+lang: en
 ---
-
 On December 12, 1985, President Ronald Reagan signed the Balanced Budget and Emergency Deficit Control Act of 1985, Public Law 99-177, the statute known by the names of its Senate sponsors as Gramm-Rudman-Hollings. Enactment closed a year in which the fiscal 1985 unified deficit in the Office of Management and Budget Historical Tables had reached $212 billion, equal to 5.1 percent of gross domestic product, and in which a budget resolution had assumed a lower figure while requiring $55.5 billion of reduction legislation that Congress never enacted. A legislature tried to legislate an outcome. Congress wrote a descending schedule of maximum deficit amounts into law, attached an automatic cancellation of budgetary resources to any estimated breach of the schedule, and presented the arrangement as a path to a balanced budget on a date fixed in advance.
 
 The sponsors who carried the measure gave that ambition a cross party form. Senator Phil Gramm, a Republican of Texas, Senator Warren B. Rudman, a Republican of New Hampshire, and Senator Ernest F. Hollings, a Democrat of South Carolina, lent their names to a discipline that restrained congressional discretion and executive discretion alike. The Senate added their amendment to H.J.Res. 372, a measure raising the statutory debt limit to $2.079 trillion, so the deficit regime traveled on borrowing authority that the government required rather than on a freestanding bill that either chamber could postpone. Conference and an amendment exchange between the chambers produced the final text, the House approved the measure by 271 to 154, the Senate approved the measure by 61 to 31, and the signature followed one day after congressional agreement on December 11, 1985.
 
-![Gramm-Rudman-Hollings deficit targets and sequestration process diagram](/assets/images/blog/blog-01.webp)
+![Gramm-Rudman-Hollings deficit targets and sequestration process diagram](/assets/images/blog/blog-22.webp)
 
 The schedule at the center of the statute descended in stated steps. The maximum amount was $171.9 billion for fiscal 1986 and $144.0 billion for fiscal 1987, followed by $108.0 billion, $72.0 billion, and $36.0 billion, with balance at zero for fiscal 1991. A margin of $10 billion applied in the intervening years, so an estimate could exceed a printed ceiling by that amount without triggering cancellation. The trigger itself ran on an estimate prepared before the fiscal year began, assembled through reports from the Office of Management and Budget, the Congressional Budget Office, and the Comptroller General, and converted into a presidential sequestration order. Sequestration meant automatic cancellation of budgetary resources, split equally between defense and nondefense categories and applied as a uniform percentage within each category, while more than half of federal spending stood exempt or protected outside the base.
 

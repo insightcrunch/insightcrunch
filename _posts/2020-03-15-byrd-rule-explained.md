@@ -6,15 +6,15 @@ date: "2020-03-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Byrd Rule", "Legislative Process", "Congress", "Budget Process", "Senate"]
 excerpt: "The Byrd rule decides what a Senate reconciliation bill may carry through six tests, a sixty vote waiver, and a phrase Congress never defined in the statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: "2020-03-15"
+lang: en
 ---
-
 Reconciliation lets a Senate majority legislate with fifty-one votes, and one section of the Congressional Budget Act decides what that majority may carry. That section is the Byrd rule, a definition of extraneous matter joined to a point of order any senator may raise. A bill traveling under reconciliation receives twenty hours of debate, protection against extended delay, and passage by simple majority. The Byrd rule prices those advantages. A provision that earns a place in the bill through a genuine change in outlays or revenues keeps the expedited timetable, and a provision that borrows the timetable for a purpose the budget cannot measure loses the timetable and faces removal.
 
-![The Byrd rule and the six tests that decide what a Senate reconciliation bill may carry - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Byrd rule and the six tests that decide what a Senate reconciliation bill may carry - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The rule in force on March 15, 2020 was section 313 of the Congressional Budget and Impoundment Control Act of 1974, codified at 2 U.S.C. 644, added in temporary form by the Consolidated Omnibus Budget Reconciliation Act of 1985 and made permanent by the Budget Enforcement Act of 1990 as Title XIII of Public Law 101-508. Senator Robert C. Byrd of West Virginia proposed the rule in October 1985 after counting 122 extraneous items in a pending reconciliation bill. The rule applies in the Senate alone, applies only to measures considered under the reconciliation authority of section 310, and operates as a point of order rather than as a prohibition, so extraneous matter may be drafted and reported and reaches removal only when a senator invokes the rule and the presiding officer sustains the objection.
 

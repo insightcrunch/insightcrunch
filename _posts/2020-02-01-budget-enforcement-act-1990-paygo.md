@@ -6,12 +6,12 @@ date: "2020-02-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Budget Enforcement Act", "Congress", "Legislative Process", "American History"]
 excerpt: "Budget Enforcement Act replaced deficit targets with caps on appropriations and a pay-as-you-go rule for legislation, and reformed federal credit accounting."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2020-02-01"
+lang: en
 ---
-
 ## The Statute That Stopped Chasing the Deficit
 
 The operative question behind the Budget Enforcement Act of 1990 was narrower and harder than the question Congress had been asking during the preceding five years. The earlier question concerned an outcome: how large would the federal deficit be in a given fiscal year, and how quickly would that figure fall toward balance under a schedule written into law. The newer question concerned conduct: what limits would bind Congress at the moment Congress acted, when it voted an appropriation, when it expanded a benefit program, or when it cut a tax. That shift from outcome to conduct supplied the statute with its logic, its enforcement machinery, and its durability during the decade that followed enactment. A law that punished Congress for a deficit figure produced in large part by an economy no legislator controlled invited evasion, optimistic forecasting, and emergency spending that escaped the accounting altogether. A law that measured Congress against its own recorded votes promised a different kind of discipline, because the conduct being judged and the institution being judged were the same. The distance between those two designs explains why the 1985 experiment failed on its own terms and why the 1990 replacement, although less dramatic in its stated ambition, proved harder to circumvent in ordinary legislative practice.
@@ -20,7 +20,7 @@ The operative question behind the Budget Enforcement Act of 1990 was narrower an
 
 It replaced fixed deficit targets with enforceable limits on discretionary appropriations and a pay-as-you-go rule for new mandatory spending and revenue laws, preserved the deficit reduction enacted in its parent reconciliation act, and backed both controls with automatic sequestration when Congress breached a limit or recorded a scorecard debit.
 
-![Budget Enforcement Act of 1990 discretionary spending caps and PAYGO scorecard - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Budget Enforcement Act of 1990 discretionary spending caps and PAYGO scorecard - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The formal identity of the statute deserves precision, because the short title concealed the size of the vehicle that carried it into law. The Budget Enforcement Act of 1990 formed Title XIII of the Omnibus Budget Reconciliation Act of 1990, cited as Public Law 101-508 and printed at 104 Stat. 1388. President George H. W. Bush signed the reconciliation act on November 5, 1990, and the measure had been enacted by the 101st Congress after a negotiation and a legislative collapse that tested the agreement before final passage. In legal terms, the enforcement title amended two earlier frameworks rather than creating a free standing budget code. It rewrote central parts of the Balanced Budget and Emergency Deficit Control Act of 1985, the deficit control statute associated with Senators Phil Gramm, Warren Rudman, and Ernest Hollings, and it amended the Congressional Budget Act of 1974, the statute that had created the House and Senate Budget Committees, the Congressional Budget Office, and the annual budget resolution process. The placement mattered. Because the new controls lived inside the 1985 act as amended, sequestration, the automatic cancellation of budgetary resources used to enforce a breach, retained a statutory home with definitions, exemptions, and reporting duties that the Office of Management and Budget and the Congressional Budget Office could administer without building an enforcement bureaucracy from nothing. Because the reconciliation act itself carried the tax increases and spending reductions negotiated during 1990, the enforcement title could perform the task assigned to it in the same law that created the savings worth protecting.
 

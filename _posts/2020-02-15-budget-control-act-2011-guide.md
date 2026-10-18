@@ -6,15 +6,15 @@ date: "2020-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Budget Control Act", "Federal Budget", "Debt Limit", "Sequestration", "Congress"]
 excerpt: "Budget Control Act caps and sequestration explained, from the debt limit trade and supercommittee failure to the cap raising deals and scheduled expiry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: "2020-02-15"
+lang: en
 ---
-
 The Budget Control Act entered law as a bargain struck at a deadline, and the bargain carried a warning about the institution that struck it. Designed to be intolerable and tolerated anyway. That phrase describes the enforcement theory at the center of the statute, because the automatic reductions that followed failure were drawn to damage priorities on both sides, on the assumption that such damage would force a negotiated settlement. The settlement never arrived at the scale the statute demanded. The reductions took effect, the caps were raised by later agreement, and large amounts of defense funding passed outside the caps altogether.
 
-![Budget Control Act discretionary caps, sequestration and the cap raising deals - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Budget Control Act discretionary caps, sequestration and the cap raising deals - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The statutory identity is exact. The Budget Control Act of 2011, Public Law 112-25, 125 Stat. 240, signed August 2, 2011, was enacted as S. 365 on the date the Treasury Department had projected for exhaustion of federal borrowing capacity. The act answered a confrontation over [the debt ceiling mechanism in law and practice](/2020/04/01/debt-ceiling-law-explained/), a confrontation that had run from a Treasury letter in January of that year through failed negotiations between the President and the Speaker of the House. Treasury measures extended borrowing capacity to August 2, and enactment on that date removed the immediate danger of a missed payment. Three days later, Standard and Poor's lowered the sovereign rating by one notch, citing the scale of the agreed savings and the conduct of the process that produced the agreement.
 

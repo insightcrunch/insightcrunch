@@ -6,17 +6,17 @@ date: "2020-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Budget Reconciliation", "Congressional Budget Act", "Legislative Process", "Congress", "Budget Process"]
 excerpt: "Budget reconciliation lets a Senate majority pass budget legislation without a filibuster. This guide walks the pipeline from instruction to enactment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2020-03-01"
+lang: en
 ---
-
 Most legislation in the Senate can be talked to death. A measure that cannot attract sixty votes to close debate cannot reach a final vote at all, and the arithmetic of extended debate has ended more major bills than any vote on passage. Budget reconciliation is the standing exception to that arithmetic. It is an optional procedure written into section 310 of the Congressional Budget and Impoundment Control Act of 1974, and it carries a measure from an instruction inside a budget resolution to the President's desk under a statutory ceiling on debate, so that a simple majority of senators, voting after a fixed allowance of hours, decides the outcome. First used in 1980, the procedure has since carried deficit reduction acts, tax reductions and tax increases, a restructuring of federal cash welfare, a health coverage expansion and the largest tax revision of its decade, and the statutes that owe their existence to it rank among the most consequential fiscal laws of the modern Congress.
 
 The exception is narrow by design, and its narrowness is the subject of much of what follows. Reconciliation opens only when an adopted budget resolution instructs committees to use it. It carries only changes to spending, revenues and the debt limit. A separate Senate rule strips out matter judged extraneous to those budgetary purposes, one entire program, Social Security, sits beyond its reach altogether, and the President's veto waits at the end of the road exactly as it does for any other bill. Within those boundaries, though, the procedure has become the principal instrument by which narrow Senate majorities enact their central fiscal measures, which is why a rule drafted to discipline deficits ended up shaping the substantive output of the modern Senate. The sections that follow walk the pipeline stage by stage, then test the design against four decades of use.
 
-![How budget reconciliation moves a measure from budget resolution instruction to enactment in the Senate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How budget reconciliation moves a measure from budget resolution instruction to enactment in the Senate - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 ## Where Budget Reconciliation Comes From
 
