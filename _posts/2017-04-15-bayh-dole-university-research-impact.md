@@ -6,12 +6,12 @@ date: "2017-04-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Bayh-Dole Act", "University Research", "Technology Transfer", "Patents", "Licensing"]
 excerpt: "Bayh-Dole reshaped university handling of federally funded inventions. This review measures the patenting surge, revenue concentration, and the causal limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2017-04-15"
+lang: en
 ---
-
 ## The Law That Acquired a Reputation Larger Than Its Record
 
 Few American statutes have collected as much credit and as much blame as the law Congress passed in December 1980 under Public Law 96-517, known by the names of its Senate sponsors, Birch Bayh and Robert Dole. In the telling of its admirers, the statute unlocked the American biotechnology industry, turned university laboratories into engines of commercial invention, and stands as the most productive piece of innovation policy the country ever enacted. In the telling of its critics, the same statute handed publicly funded discoveries to private firms, enabled the patent monopolies behind expensive prescription drugs, and corrupted the open culture of academic science. Both tellings cannot be fully true at the same time, and the remarkable thing about this statute is how long both have survived without being checked against the record in the same place. This article is that check.
@@ -22,7 +22,7 @@ That question turns out to have five answers, not one. First, university patenti
 
 A reader who works through this article should be able to state each of those five findings, name the researchers on each side of the causal dispute, distinguish the trend from the treatment, and evaluate the claim about drug prices without leaning on either advocacy position. That is the entire ambition of this piece. The statute deserves an evidence ledger, and this is it.
 
-![What Bayh-Dole did to university research - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What Bayh-Dole did to university research - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 ### What conditions came with electing to keep title?
 

@@ -6,16 +6,15 @@ date: "2017-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Bayh-Dole", "Patent Law", "Technology Transfer", "Innovation Policy", "Federal Research"]
 excerpt: "The Bayh-Dole Act let universities keep title to federally funded inventions, kept a worldwide government licence, and created march-in rights never once used."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: "2017-03-01"
+lang: en
 ---
-
-
 A fair question to put to this statute at the start is whether it is even worth studying. The Patent and Trademark Law Amendments Act of 1980, Public Law 96-517, is a short law by the standards of modern legislation, codified as 35 U.S.C. sections 200 through 212, and its core command can be stated in a single sentence: inventions made with federal money belong first to the people who made them, not to the government that paid for them. Universities and small businesses were permitted to keep title to federally funded inventions and to patent and license them, subject to conditions. That sounds like a technical fix to a procurement rule, the sort of thing that should have vanished into the archives after a few quiet years of implementation. It did not. It became one of the most consequential and most argued-over economic statutes of the late twentieth century, and the argument has not let up.
 
-![](/assets/images/blog/blog-01.webp)
+![](/assets/images/blog/blog-05.webp)
 
 ## The bill that flipped the patent ledger and the fight over a power never fired
 

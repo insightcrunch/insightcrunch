@@ -6,17 +6,17 @@ date: "2017-02-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Education Policy", "Student Loans", "National Security", "Cold War"]
 excerpt: "National Defense Education Act passed loans, fellowships, and language centers through a defense framing after Sputnik, igniting the loyalty oath fight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 108
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: "2017-02-15"
+lang: en
 ---
-
 The National Defense Education Act of 1958 was the first substantial federal aid to American education since the veterans' benefits of the 1940s, and it passed only because Congress declined to call it school aid. For a decade, general aid bills had died on three questions that no majority could answer: race, religion, and federal control. The Soviet launch of Sputnik on October 4, 1957, changed the question. Framed as an emergency defense measure, the bill moved through the 85th Congress in under eleven months. President Eisenhower signed it on September 2, 1958, five weeks after he signed the [companion statute that created the civilian space agency](/2017/02/01/national-aeronautics-space-act-1958/). Seven years later, Congress would solve the same deadlock from the opposite direction, passing general aid in [the statute that funded the schools directly](/2014/08/01/elementary-secondary-education-act-1965/).
 
 What the statute built outlasted the emergency that authorized it. Title II created the federal student loan program, campus-based revolving loans whose terms and machinery later statutes carried into the Higher Education Act and its successors. Title VI created the language and area studies centers that still anchor the study of world regions in American universities. And Section 1001(f), which conditioned aid on an oath of allegiance and a disclaimer affidavit disavowing belief in, membership in, and support of organizations advocating violent overthrow, provoked the sharpest campus controversy of the early Cold War. Barnard, Yale, and Princeton were the first institutions to refuse the program under its conditions, and by 1962 the American Association of University Professors listed 153 institutions as non-participating or disapproving. Congress repealed the affidavit that fall and kept the oath. The defense framing was the passkey. The programs it unlocked remade American education.
 
-![](/assets/images/blog/blog-01.webp)
+![](/assets/images/blog/blog-62.webp)
 
 ## The decade the school aid bills died
 
