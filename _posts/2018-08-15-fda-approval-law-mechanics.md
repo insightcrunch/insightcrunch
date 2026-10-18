@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation FDA Regulation", "US Legislation Drug Approval", "US Legislation FDA Approval", "US Legislation User Fees", "US Legislation Preemption"]
 excerpt: "FDA approval law turns two short statutory commands into a working system of trials, fees, review clocks, and liability rules. This guide maps the machinery."
 image: "/assets/images/blog/blog-83.webp"
-reading_time: "85"
+reading_time: 98
 author: "thomas-reid"
 last_updated: 2026-10-17
 lang: en

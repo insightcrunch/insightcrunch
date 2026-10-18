@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Hatch-Waxman", "US Legislation Generic Drugs", "US Legislation Drug Prices", "US Legislation Pharmaceutical Policy", "US Legislation Antitrust"]
 excerpt: "The Hatch-Waxman generic drug market impact, measured against its aims: penetration, price collapse by entrant count, settlement costs, and shortages."
 image: "/assets/images/blog/blog-27.webp"
-reading_time: "77"
+reading_time: 91
 author: "nathan-cole"
 last_updated: 2026-10-17
 lang: en

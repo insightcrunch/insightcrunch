@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Veterans Choice Act", "Veterans Health", "Congress", "Health Policy", "Accountability"]
 excerpt: "The Veterans Choice Act answered a scheduling scandal with a private care program built on a thirty day wait rule, a forty mile rule, and a fixed fund."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "83"
+reading_time: 93
 author: "simon-hartley"
 last_updated: 2026-10-17
 lang: en

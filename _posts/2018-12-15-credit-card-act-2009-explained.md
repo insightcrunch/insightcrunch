@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "CARD Act", "US Legislation Consumer Protection", "US Legislation Financial Regulation", "Truth in Lending Act", "US Legislation Study Guides"]
 excerpt: "A guide to the CARD Act rules on rate increases, penalty fees, payment allocation, billing timing, ability to pay and protections for younger cardholders."
 image: "/assets/images/blog/blog-117.webp"
-reading_time: "80"
+reading_time: 94
 author: "patrick-dunn"
 last_updated: 2026-10-17
 lang: en

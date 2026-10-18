@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Consumer Credit", "Truth in Lending", "Credit Cards", "Financial Regulation", "Congress"]
 excerpt: "Consumer credit law promised informed borrowing through disclosure. The record shows weak comprehension, large card savings, and a contested access record."
 image: "/assets/images/blog/blog-61.webp"
-reading_time: "88"
+reading_time: 102
 author: "gregory-marsh"
 last_updated: 2026-10-17
 lang: en

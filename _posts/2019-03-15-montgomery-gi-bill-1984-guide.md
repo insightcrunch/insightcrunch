@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "GI Bill", "Veterans", "Education Policy", "Congress", "National Security"]
 excerpt: "The Montgomery GI Bill pays a flat monthly stipend that service members buy with a pay reduction, under strict rules on eligibility, rates, and time limits."
 image: "/assets/images/blog/blog-05.webp"
-reading_time: "87"
+reading_time: 99
 author: "alex-cunningham"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Consumer Protection", "Federal Trade Commission", "Consumer Credit", "Product Safety", "Privacy Law"]
 excerpt: "US consumer protection law grew statute by statute and industry by industry. The sequence from product safety to credit, privacy, and the consumer bureau."
 image: "/assets/images/blog/blog-69.webp"
-reading_time: "93"
+reading_time: 106
 author: "kevin-reeves"
 last_updated: 2026-10-17
 lang: en

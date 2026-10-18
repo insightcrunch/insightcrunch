@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Consumer Protection", "Federal Trade Commission", "Financial Regulation", "Supreme Court", "Study Guides"]
 excerpt: "Federal vs state consumer protection decides who a wronged consumer can sue, what damages are available, and why an arbitration clause can override the answers."
 image: "/assets/images/blog/blog-94.webp"
-reading_time: "90"
+reading_time: 101
 author: "ian-fletcher"
 last_updated: 2026-10-17
 lang: en

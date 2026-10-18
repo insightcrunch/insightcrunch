@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Consumer Protection", "US Legislation Product Safety", "US Legislation Administrative Law", "US Legislation Consumer Product Safety Commission", "US Legislation Regulation"]
 excerpt: "The Consumer Product Safety Act built a commission administering five statutes, policing products after sale through self-reporting and voluntary standards."
 image: "/assets/images/blog/blog-34.webp"
-reading_time: "88"
+reading_time: 99
 author: "maria-santos"
 last_updated: 2026-10-17
 lang: en

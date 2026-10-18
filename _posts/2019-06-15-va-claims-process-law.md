@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "VA Claims", "Administrative Law", "Veterans Affairs", "Legislative Process"]
 excerpt: "VA claims explained in full: filing dates, the duty to assist, examinations, rating decisions, the three review lanes, court review, fees, and the backlog."
 image: "/assets/images/blog/blog-63.webp"
-reading_time: "88"
+reading_time: 99
 author: "alex-cunningham"
 last_updated: 2026-10-17
 lang: en

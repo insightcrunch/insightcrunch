@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Controlled Substances Act", "US Legislation Drug Scheduling", "US Legislation DEA HHS Process", "US Legislation Federal Drug Law", "US Legislation Provisions and Text"]
 excerpt: "Drug scheduling decides where every substance sits and who may move it: five schedules, three findings, eight factors, and the binding HHS veto explained."
 image: "/assets/images/blog/blog-44.webp"
-reading_time: "74"
+reading_time: 90
 author: "simon-hartley"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Federal Trade Commission", "Consumer Protection", "Administrative Law", "Rulemaking", "FTC Act"]
 excerpt: "FTC rulemaking explains why the Federal Trade Commission governs consumer protection mainly through enforcement cases rather than trade regulation rules."
 image: "/assets/images/blog/blog-64.webp"
-reading_time: "85"
+reading_time: 95
 author: "maria-santos"
 last_updated: 2026-10-17
 lang: en

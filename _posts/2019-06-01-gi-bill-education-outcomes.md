@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "GI Bill", "Veterans", "Education Policy", "American History", "Congress"]
 excerpt: "GI Bill education outcomes show large attainment gains, deep regional and racial gaps, and a large share of later spending captured by proprietary colleges."
 image: "/assets/images/blog/blog-116.webp"
-reading_time: "79"
+reading_time: 91
 author: "ian-fletcher"
 last_updated: 2026-10-17
 lang: en

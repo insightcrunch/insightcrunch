@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Consumer Protection", "US Legislation Warranties", "US Legislation Federal Trade Commission", "US Legislation Magnuson-Moss Warranty Act", "US Legislation Consumer Law"]
 excerpt: "Magnuson-Moss Warranty Act explained: full and limited labels, disclosure before sale, implied warranty protection, tie-in limits, and attorney fee recovery."
 image: "/assets/images/blog/blog-106.webp"
-reading_time: "82"
+reading_time: 94
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

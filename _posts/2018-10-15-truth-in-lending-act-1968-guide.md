@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Truth in Lending Act", "Consumer Credit", "Financial Regulation", "Congress", "Supreme Court"]
 excerpt: "Truth in Lending defined how America discloses credit prices. This guide covers APR, finance charges, rescission rights, enforcement, and later amendments."
 image: "/assets/images/blog/blog-08.webp"
-reading_time: "92"
+reading_time: 107
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

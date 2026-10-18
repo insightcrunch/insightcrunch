@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation HIV Care", "US Legislation Public Health", "US Legislation Federal Grants", "US Legislation Health Policy", "US Legislation Appropriations"]
 excerpt: "The Ryan White CARE Act funds HIV care, drugs, and support for low income clients after every other payer has paid, through grants to cities and states."
 image: "/assets/images/blog/blog-56.webp"
-reading_time: "76"
+reading_time: 87
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

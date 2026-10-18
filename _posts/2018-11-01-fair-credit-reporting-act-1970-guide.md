@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Fair Credit Reporting Act", "Financial Regulation", "Congress", "Supreme Court"]
 excerpt: "The Fair Credit Reporting Act governs consumer reports, credit bureau accuracy duties, dispute rights, permissible purposes, and remedies for violations."
 image: "/assets/images/blog/blog-110.webp"
-reading_time: "82"
+reading_time: 93
 author: "hannah-moore"
 last_updated: 2026-10-17
 lang: en

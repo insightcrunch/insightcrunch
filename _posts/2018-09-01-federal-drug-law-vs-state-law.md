@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Federalism", "US Legislation Drug Policy", "US Legislation Criminal Justice", "US Legislation Supreme Court", "US Legislation Study Guides"]
 excerpt: "Federal drug law prohibits marijuana while a state may permit the same conduct, and the comparison turns on doctrine, enforcement limits, and collateral rules."
 image: "/assets/images/blog/blog-85.webp"
-reading_time: "72"
+reading_time: 84
 author: "kevin-reeves"
 last_updated: 2026-10-17
 lang: en

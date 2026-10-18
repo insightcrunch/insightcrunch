@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Fair Debt Collection Practices Act", "Consumer Credit Protection", "Debt Collection", "CFPB", "Consumer Law"]
 excerpt: "Fair Debt Collection Practices Act coverage, validation rules, communication limits, prohibited practices, court decisions, and consumer remedies explained."
 image: "/assets/images/blog/blog-81.webp"
-reading_time: "83"
+reading_time: 96
 author: "daniel-morgan"
 last_updated: 2026-10-17
 lang: en

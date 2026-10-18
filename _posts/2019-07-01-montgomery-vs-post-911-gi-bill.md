@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Montgomery GI Bill", "Post-9/11 GI Bill", "GI Bill", "Veterans Benefits", "Education Benefits"]
 excerpt: "Montgomery vs Post-9/11 GI Bill compared on payment, election, transfer and online study, with the deciding factor named and the verdict defended in full."
 image: "/assets/images/blog/blog-09.webp"
-reading_time: "85"
+reading_time: 97
 author: "jason-mckenzie"
 last_updated: 2026-10-17
 lang: en

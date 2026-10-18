@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "Disability Compensation", "Title 38", "Service Connection", "Veterans Law"]
 excerpt: "VA disability compensation law requires proof of a disability linked to service, and this explainer traces the elements, presumptions, ratings, and pay."
 image: "/assets/images/blog/blog-37.webp"
-reading_time: "77"
+reading_time: 89
 author: "gregory-marsh"
 last_updated: 2026-10-17
 lang: en

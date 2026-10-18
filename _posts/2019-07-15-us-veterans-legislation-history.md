@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Veterans Benefits", "Congress", "American History", "Education Policy", "Health Policy"]
 excerpt: "US Veterans Legislation explained: education, compensation, health care, presumptions and appeals, and the budget scoring that shaped each major expansion."
 image: "/assets/images/blog/blog-52.webp"
-reading_time: "91"
+reading_time: 106
 author: "andrew-price"
 last_updated: 2026-10-17
 lang: en

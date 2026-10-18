@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Public Health", "US Legislation Food and Drug Law", "US Legislation Tax Policy", "US Legislation Rare Disease"]
 excerpt: "The Orphan Drug Act built a market for rare treatments from seven-year exclusivity, then watched those incentives copied worldwide and subdivided at home."
 image: "/assets/images/blog/blog-112.webp"
-reading_time: "71"
+reading_time: 83
 author: "katherine-blake"
 last_updated: 2026-10-17
 lang: en
