@@ -6,15 +6,15 @@ date: 2012-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Companies Act 2013", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "Companies Act 2013 explained as a governance statute: independent directors, auditor rotation, class actions, the NFRA and Section 447 fraud in full detail."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-02-01
+lang: en
 ---
-
 The Companies Act 2013 is easiest to misunderstand as a bigger rulebook for registering and running companies. It does contain that rulebook, and company secretaries earn their living from it, but the statute Parliament enacted in 2013 was designed around a different diagnosis. Its premise is that Indian corporate failure is a governance failure before it is a disclosure failure: companies did not collapse because too little paper was filed with the Registrar, but because boards did not challenge promoters, auditors did not challenge boards, and shareholders who saw the damage coming had no remedy proportionate to the harm. A law written on that premise does not merely ask companies to report more. It reaches into the composition of the boardroom, fixes who may audit and for how long, gives classes of shareholders a collective remedy, builds regulators that did not exist, and attaches its most feared criminal provision to a definition of fraud wide enough to cover much of the conduct the earlier regime had treated as irregularity.
 
-![Companies Act 2013 as a governance statute, showing board composition, auditor rotation and the new institutions it created - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Companies Act 2013 as a governance statute, showing board composition, auditor rotation and the new institutions it created - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 That design choice is the thread running through everything the Act does, and it is the thread this article follows. The reader who finishes it should be able to say which institutions the Act created that had no equivalent in the Companies Act 1956, which obligations bind which class of company, what the codified duties of a director actually require, how the fraud provision is framed and why it attracted the criticism it did, and which parts of the original criminal enforcement model survived the decriminalisation amendments of 2019 and 2020. The statute is long, and much of it is machinery, but its argument is short: change who sits in the room, change who checks the room, and give the people harmed by the room a way to answer back.
 

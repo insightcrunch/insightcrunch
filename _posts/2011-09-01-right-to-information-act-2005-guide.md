@@ -6,15 +6,15 @@ date: 2011-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Information Act 2005", "Transparency", "Information Commissions", "Administrative Law", "Civil Liberties"]
 excerpt: "The Right to Information Act 2005 explained: its sections and exemptions, who counts as a public authority, and how its override defeats official secrecy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2011-09-01
+lang: en
 ---
-
 The question that decides whether a citizen learns anything from the state is not, in the first instance, a question about paper or about procedure. It is a question about who carries the burden of justification. Under a regime of official secrecy, the citizen carries that burden. The citizen must explain why a file should be opened, why a decision should be explained and why a record that public money created and public authority holds should be seen by the public at all. The Right to Information Act 2005 reversed the direction of that burden in Indian law. Under its scheme, the citizen asks, and the state answers, or the state refuses and must ground the refusal in the statute itself. That reversal sounds simple when stated in one sentence. Its consequences run through every part of the Act, because a reversal of burden changes who waits, who reasons, who appeals and who must prove that a denial was justified when the matter reaches a Commission.
 
-![The Right to Information Act 2005 decision structure, from public authority to disclosure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Right to Information Act 2005 decision structure, from public authority to disclosure - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 Section 6(2) gives the reversal its first and plainest form by providing that an applicant shall not be required to give any reason for requesting information or any other personal details except those that may be necessary for contacting him. The provision removes curiosity as a ground of suspicion. A request does not improve because its motive is respectable, and it does not weaken because its motive is inconvenient, political, commercial, personal or obscure. The public authority is not invited to grade the citizen before it searches the record. It is directed to the record itself, to the exemptions that Parliament enacted and to the time limits that govern its response. Section 19(5) completes the same movement at the appellate stage by placing the onus to prove that a denial was justified on the Public Information Officer who denied the request. Between those two provisions lies the moral centre of the legislation. At the point of asking, no reason is demanded. At the point of refusal, a reason is compulsory, and the officer who refuses carries the burden of defending it.
 

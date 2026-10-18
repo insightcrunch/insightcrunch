@@ -6,17 +6,17 @@ date: 2012-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Companies Act 2013", "Companies Act 1956", "Corporate Law", "Parliament", "Judiciary", "Law Students"]
 excerpt: "Companies Act 1956 vs 2013 compared honestly: fewer sections but more law, the real changes by subject, and a defended verdict on the reform as a whole."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2012-03-01
+lang: en
 ---
-
 The Companies Act 1956 vs 2013 comparison is the most repeated exercise in Indian company law, and it is usually performed badly. The standard version counts sections, announces that 658 became roughly 470, and concludes that India obtained a shorter and simpler statute. That conclusion survives only because the counting stops at the boundary of the Act itself. The reader who has to decide something real, whether the reform delivered what it promised, whether an old precedent still governs a new petition, whether a private company gained or lost room to operate, needs a different comparison: one that follows the detail into the rules, tests each subject against the benchmark the reformers set for themselves, and ends with a verdict that names its deciding factor.
 
 That is the comparison this article performs. The benchmark is not imported from commentary. It is the stated objective of the Expert Committee on Company Law chaired by Dr J. J. Irani, whose report of 31 May 2005 supplied the architecture of the 2013 Act: a compact statute, stripped of redundant provisions, with the operative detail moved into delegated legislation so that the law could adapt without returning to Parliament for every adjustment. Measured against that objective, the verdict of this article can be stated at the outset and then earned in the sections that follow. The reform delivered a genuinely new governance architecture and failed its own test of brevity and simplicity, because the detail it removed from the statute did not disappear. It moved, into rules, forms and notifications that are longer in aggregate than the sections they replaced and that change far more often. Shorter statute, longer law. The deciding factor in every dimension examined below is where the detail went.
 
-![The Companies Act 1956 and the Companies Act 2013 compared, showing why a shorter statute produced a longer body of law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Companies Act 1956 and the Companies Act 2013 compared, showing why a shorter statute produced a longer body of law - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 Two cautions govern everything that follows. The first is about the older Act's reputation. The Companies Act 1956 is routinely described as a colonial survival, which it was not: it was enacted by the Parliament of independent India as Act 1 of 1956, on the design of the Bhabha Committee, and it was amended so often across fifty-seven years that the statute in force in 2012 was in substance a different instrument from the one that commenced on 1 April 1956. The second caution is the mirror image. The Companies Act 2013 is routinely described as a clean break, which it also was not: very large parts of it re-enact the 1956 text in reorganised form, and for several years after its enactment the two statutes operated side by side, each governing a different slice of corporate life. A comparison that begins from either slogan will mislead. The full account of how the older statute declined and why Parliament chose replacement over further amendment belongs to [the article on the replacement of the Companies Act 1956](/2012/02/15/companies-act-1956-replacement/), and the full account of what the 2013 Act requires belongs to [the complete guide to the Companies Act 2013](/2012/02/01/companies-act-2013-complete-guide/). This article owns only the comparison between them, and the decision it supports.
 

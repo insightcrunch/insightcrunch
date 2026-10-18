@@ -6,15 +6,15 @@ date: 2011-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Internal Security", "UAPA", "AFSPA", "UPSC", "Constitutional Law", "Civil Liberties"]
 excerpt: "Internal security laws in UPSC Mains reward the answer that cites the trade-off, pricing each statute by its judgments and its evidence, each with its source."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 113
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2011-08-15
+lang: en
 ---
-
 Internal security laws are tested in the Mains examination less as a store of sections to be recited than as a discipline of judgment, because the examiner is rarely asking whether an aspirant can name a statute and is almost always asking whether the aspirant can weigh what that statute does. A provision that widens the power to detain, to proscribe an organisation, to intercept a communication, or to deploy a force in a disturbed area purchases a capability for the state, and it purchases that capability at a price, paid in the currency of liberty, of federal balance, of procedural protection, or of public trust. The answers that score name both sides of that transaction in the same breath. They state the capability plainly, they state the price plainly, and they refuse the two easy escapes that weak answers take, the escape of pretending that the price is zero and the escape of pretending that the capability is worthless. An answer that treats a security provision as costless reads as advocacy rather than analysis, and an answer that treats a security provision as purposeless reads in the same way, because both have abandoned the weighing exercise that the question set out to test.
 
-![Internal security laws for UPSC Mains: the statutes, judgments and evidence an answer must carry - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Internal security laws for UPSC Mains: the statutes, judgments and evidence an answer must carry - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Marks are lost in predictable places, and the first of them is the editorial habit, the habit of writing about a security law as though the answer booklet were a newspaper column open to a general opinion on the state of the nation. An editorial can afford a single sustained mood, whether that mood is alarm at the reach of the state or impatience with those who question that reach, while a Mains answer cannot afford a mood at all. It needs a structure that the examiner can follow under time pressure: a short opening that frames the issue and defines its terms, a body that separates the provision from its safeguards and its safeguards from its record in operation, and a closing that returns to the precise demand of the question rather than to a general sentiment. The second place where marks leak away is the bare statistic, the figure dropped into an answer without a source in the argument, without a comparison that would give it meaning, and without any indication of what the figure is meant to prove. A number that carries no reasoning earns no more credit than an adjective, and often earns less, because it signals that the aspirant reached for decoration when analysis was required. The third place is a confusion of categories, above all the confusion of detention with prosecution, two instruments that differ in purpose, in procedure, and in the kind of justification each one owes to a court and to the citizen.
 

@@ -6,15 +6,15 @@ date: 2012-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Whistle Blowers Protection Act", "Civil Liberties", "Parliament", "Judiciary", "Law Students"]
 excerpt: "The Whistle Blowers Protection Act, 2014 explained: its disclosure machinery, its penalties, and why the Act has never been brought into force in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2012-01-01
+lang: en
 ---
-
 The Whistle Blowers Protection Act occupies a position no other Indian statute quite shares. It was debated and passed by both Houses of Parliament, it received the assent of the President on 9 May 2014, it was published in the Gazette of India on 12 May 2014 as Act 17 of 2014, and it has never operated for a single day. Its first section leaves its commencement to a date the Central Government may appoint by notification, and that notification has never been issued. A person searching for the law that protects someone who reports corruption by a public servant will find this Act described in textbooks, in examination guides and in government statements as though it were a working part of the legal system. It is not. It is a complete protective code, with designated authorities, an inquiry procedure, identity safeguards, anti-victimisation directions and criminal penalties, that exists entirely on paper.
 
-![The Whistle Blowers Protection Act, 2014 and the protection it was designed to give a person who discloses corruption by a public servant - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Whistle Blowers Protection Act, 2014 and the protection it was designed to give a person who discloses corruption by a public servant - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The distinction matters because the question a potential discloser actually asks is not what Parliament enacted but what protection exists when a disclosure is made. Those are different questions in India, and this Act is the reason they are different. The reader who finishes this article will be able to explain the mechanism by which a fully enacted statute can remain inoperative for over a decade, describe the scheme Parliament designed in 2014 and the genuine defects inside that scheme, trace the amendment bill that was offered as the reason for waiting and then allowed to lapse, and state accurately what protects a whistleblower in the Act's absence: an interim vigilance resolution from 2004, a set of sectoral mechanisms that cover different populations for different wrongs, a witness protection scheme that applies only inside criminal proceedings, and the writ jurisdiction of the constitutional courts. None of those substitutes is the statute. Saying so plainly is the beginning of accuracy on this subject, and most published accounts of the Act fail at exactly that point by describing it in the present tense as a functioning remedy.
 

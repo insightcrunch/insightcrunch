@@ -6,15 +6,15 @@ date: 2012-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The IBC implementation record, read through the Insolvency and Bankruptcy Board's own ratios, shows strong realisation against asset values and weak timelines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-04-15
+lang: en
 ---
-
 The IBC implementation record is usually argued from a single number, and the number is almost always the haircut. A commentator takes the admitted claims of creditors in cases that produced a resolution plan, takes what the plan paid, divides the second by the first, and announces that the Insolvency and Bankruptcy Code, 2016 has returned roughly a third of what was owed and destroyed the rest. The arithmetic is not wrong. The inference is, because the admitted claim measures what a failed company's creditors were promised across years of lending against deteriorating security, while the plan's payment measures what the company's assets could fetch in a market sale conducted under time pressure after the failure had already happened. Between those two figures sits the entire history of the company's decline, almost none of which occurred inside the process being judged. An implementation record cannot be read off one ratio, and the regulator that administers the Code, the Insolvency and Bankruptcy Board of India, does not publish one ratio. It publishes several, against different denominators, and the discipline of keeping them apart is the whole of the method this article applies.
 
-![The IBC implementation record and the four ratios used to judge insolvency recovery in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The IBC implementation record and the four ratios used to judge insolvency recovery in India - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That discipline produces a verdict in three parts, and the parts point in different directions. Measured against what liquidation of the same companies would have realised, the Code's resolution process has performed strongly and consistently, returning substantially more than the break-up value of the assets in case after case. Measured against the clock the statute itself set, the record is poor and has deteriorated, with average completion times running at close to double the outer limit the law prescribes and rising rather than falling across successive reporting periods. Measured by the effect the Code was most deliberately designed to produce, the change in debtor behaviour before a case is admitted at all, the record is very strong, with tens of thousands of applications withdrawn before admission against underlying defaults measured in lakh of crore of rupees. Each of those findings is documented in the Board's own published reporting, attributed to a named source and a stated period in what follows. None of them can be merged into a single percentage without destroying the information the others carry, and the habit of merging them is responsible for most of the confident nonsense written about this statute in both directions.
 

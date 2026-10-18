@@ -6,15 +6,15 @@ date: 2012-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "SICA", "Corporate Law", "Parliament", "Judiciary", "Law Students"]
 excerpt: "SICA 1985 explained: how the BIFR and Section 22 sheltered sick companies, why the statutory repeal waited thirteen years, and what replaced the regime."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2012-06-01
+lang: en
 ---
-
 Few Indian statutes have died as strangely as SICA 1985, the Sick Industrial Companies (Special Provisions) Act. Parliament passed the Act that repealed it in 2003, and the President assented to that repealing Act on 1 January 2004. The repeal then waited. For thirteen years the supposedly repealed statute continued to run the entire law of industrial sickness in India: companies kept filing references under it, its tribunal kept hearing them, and its famous stay provision kept freezing the claims of banks, tax authorities and landlords against hundreds of failing firms. When the end finally came on 1 December 2016, the repealing Act had itself been amended, before spending a single day in force, by the Insolvency and Bankruptcy Code of 2016, the very statute whose arrival made the repeal possible. A law had been repealed, in other words, by a successor that did not exist when the repeal was enacted, and the repeal could not be switched on until the successor was ready to receive the cases the old regime would leave behind.
 
-![The Board for Industrial and Financial Reconstruction under SICA 1985 and the shelter Section 22 gave sick companies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Board for Industrial and Financial Reconstruction under SICA 1985 and the shelter Section 22 gave sick companies - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This article reconstructs that whole arc. It explains what the Sick Industrial Companies (Special Provisions) Act set out to do and how its machinery actually worked in the sections: the balance-sheet definition of sickness, the compulsory reference to the Board for Industrial and Financial Reconstruction, the inquiry, the sanctioned scheme, and the Section 22 stay that suspended nearly every form of enforcement against a sick company. It then examines why the design failed on its own terms, how three successive attempts to replace it were drafted, and why the repeal enacted in 2003 could not commence until December 2016. The argument running through the account is that the thirteen-year gap was not simple administrative neglect. It was a case of repeal by dependency: a repeal whose commencement was hostage to the existence of a replacement tribunal, and that tribunal spent more than a decade trapped in litigation about its own constitution. Telling that kind of gap apart from deliberate inaction matters, because the two failures have different causes and deserve different verdicts.
 

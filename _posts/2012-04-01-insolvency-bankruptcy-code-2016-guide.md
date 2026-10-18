@@ -6,17 +6,17 @@ date: 2012-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "The Insolvency and Bankruptcy Code 2016 explained as a transfer of control: how a corporate insolvency process runs, and which parts were never switched on."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2012-04-01
+lang: en
 ---
-
 The Insolvency and Bankruptcy Code 2016 is usually introduced as a recovery law, and that introduction explains most of the confusion that follows. The Code is not principally a machine for getting money back, although money sometimes comes back through it. It is a machine for changing who decides. On the day a corporate insolvency process is admitted, the directors of a defaulting company lose control of it, an outside professional takes charge of its affairs, and its financial creditors, sitting as a committee, decide whether the business continues under a new plan and new ownership or is closed and sold. Everything else in the statute, the moratorium, the timelines, the eligibility bars, the distribution order, exists to serve that single transfer of control and to make it happen quickly enough that the business still has value when the decision is taken.
 
 That design was a deliberate break with everything that came before it. For decades, Indian insolvency law left a failing company's management in possession while proceedings drifted, and distributed the decision among forums that could each block the others. The Code reversed both choices at once. It put creditors in control, it imposed a clock, and it made the tribunal a gatekeeper and referee rather than the decision-maker. The Bankruptcy Law Reforms Committee, whose report is the Code's intellectual foundation, stated the principle plainly in its reasoning: the question whether a business can be saved should be answered by the people with money at stake in the answer, not by a court reconstructing commercial judgment it does not have.
 
-![The Insolvency and Bankruptcy Code 2016, showing how admission of a corporate insolvency case transfers control from directors to creditors - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Insolvency and Bankruptcy Code 2016, showing how admission of a corporate insolvency case transfers control from directors to creditors - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 There is a second fact about the Code that matters almost as much as the first, and it is the fact most general guides leave out. The Code was enacted as a complete insolvency law for companies, firms and individuals, but it has never been switched on in full. The corporate provisions began operating in December 2016, within months of enactment. The provisions for individuals and partnership firms were notified only for one narrow class, personal guarantors to corporate debtors, in December 2019. The Fresh Start Process, the part of the Code written for debtors with the smallest incomes and assets, has never been brought into force at all. A reader who does not know which parts of the statute are live law and which are still dormant text cannot know who can actually use the Code, and that question, who can use it, is where any honest account of the statute has to begin.
 

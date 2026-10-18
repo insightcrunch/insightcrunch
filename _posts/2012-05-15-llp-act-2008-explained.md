@@ -6,19 +6,19 @@ date: 2012-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Limited Liability Partnership Act 2008", "Corporate Law", "Companies Act 2013", "Law Students"]
 excerpt: "Limited Liability Partnership Act 2008 explained: how an LLP is formed and taxed, what limited liability covers, and when a company is the better vehicle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2012-05-15
+lang: en
 ---
-
 Two founders sit with an adviser and ask which form their new venture should take, and the adviser opens a feature list. The list compares incorporation cost, annual filings, audit thresholds and a dozen other items, and it is nearly useless, because both forms on the table give the founders the one thing they think they are choosing between. A limited liability partnership and a private limited company both shield the personal assets of the people behind them. The Limited Liability Partnership Act 2008 was not enacted to sell that shield a second time. It was enacted because a large class of Indian businesses, professional firms above all, needed the shield without the machinery that company law bolts onto it, and because the ordinary partnership firm, the only alternative, exposed every partner to unlimited personal liability for the defaults of the others.
 
 The choice between the two forms therefore turns on three questions that feature lists rarely ask in the right order. Will the business ever need to raise equity from outsiders who expect shares, a valuation and an exit? How will the tax system treat the profits when they reach the founders' hands under each form? And how much statutory compliance can the business actually carry, year after year, with the people it has? Get those three answers right and the form chooses itself. Get them wrong, and the founders discover the error at the worst possible moment: when an investor's term sheet arrives for a business that has no shares to issue, or when a dormant entity that nobody bothered to close has quietly accumulated years of per-day filing fees.
 
 This article is the complete treatment of the statute that created the LLP form: what it built, how its parts work, where its liability shield stops, how conversion into it works and why conversion out of it barely does, what the 2021 amendment changed, and how the three deciding questions should be answered on real facts. The comparison it defends throughout is a narrow one. The LLP is a compliance and tax choice, not a liability choice, and a founder who picks it for the protection alone has answered a question that was never really open.
 
-![The Limited Liability Partnership Act 2008 and the decision between an LLP and a private limited company - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Limited Liability Partnership Act 2008 and the decision between an LLP and a private limited company - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 ## Why India needed a fourth business form
 

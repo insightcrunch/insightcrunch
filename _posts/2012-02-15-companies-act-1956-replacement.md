@@ -6,15 +6,15 @@ date: 2012-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Companies Act 1956", "Companies Act 2013", "Corporate Law", "Parliament", "Law Students"]
 excerpt: "Companies Act 1956 replacement explained: why amendment failed, how three bills, a tribunal that never sat and a staged repeal produced the Companies Act 2013."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2012-02-15
+lang: en
 ---
-
 The Companies Act 1956 was not repealed on a day. It was dismantled in stages over nearly three years, section by section, notification by notification, while parts of it continued to govern real companies, real proceedings and real disputes long after its replacement had received presidential assent. That is the first thing to understand about the replacement of India's principal company law statute, because almost every short account of it gets the mechanics wrong. There was no morning on which practitioners woke to a new code and a dead one. There was a long overlap in which two statutes stood side by side, each governing a different slice of corporate life, and in which the answer to the elementary question "which Act applies" depended on the subject matter, the date the proceeding began, and in some corners of the law on provisions of the old statute that were still operating years after the repeal.
 
-![The replacement of the Companies Act 1956, showing the staged repeal and the move to the Companies Act 2013 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The replacement of the Companies Act 1956, showing the staged repeal and the move to the Companies Act 2013 - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The second thing to understand is why replacement, rather than one more amendment, was the chosen route at all. By the time the decision was taken, the Companies Act 1956 had been amended twenty-four times. It had absorbed a committee-driven overhaul in 1988, a governance overhaul in 2000, an electronic filing overhaul in 2006, and in 2002 an amendment so ambitious that it attempted to rebuild the adjudicatory architecture of Indian company law in a single stroke. That 2002 amendment created a National Company Law Tribunal on paper, abolished two existing bodies on paper, and inserted a complete code for the revival of sick industrial companies on paper. Almost none of it was ever brought into force. The tribunal provisions were challenged, held defective in their design of appointments and qualifications, and never notified; the tribunal itself was constituted only in 2016, under the successor statute, fourteen years after Parliament first created it. A statute whose most recent major surgery had failed to take effect was a statute that amendment had demonstrably failed to fix. The nine years between the expert committee that designed the replacement in 2005 and the final transfer of proceedings in 2014 and after are the record of that conclusion being reached, resisted, legislated and then slowly executed.
 

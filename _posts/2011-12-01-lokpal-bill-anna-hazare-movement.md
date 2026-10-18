@@ -6,15 +6,15 @@ date: 2011-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Lokpal", "Anna Hazare", "Parliament", "Civil Liberties", "Social Justice"]
 excerpt: "The Lokpal Bill failed for forty-five years, then passed inside two: how the Anna Hazare movement moved Parliament's calendar, and which demands survived."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2011-12-01
+lang: en
 ---
-
 The Lokpal Bill holds a record no other Indian measure quite matches. It was introduced in Parliament, in one form or another, for forty-five years without becoming law, and then, inside two years of a street movement forming around it, it was passed by both Houses and signed into the statute book. The easy version of that story credits the movement with writing the law, and the cynical version credits it with nothing but noise. The passage record supports neither. What the movement changed was the political cost of delay: it converted a bill that governments could let die quietly, session after session, into a bill whose failure was televised, counted and punished. What it could not change was the drafting table itself, where its most ambitious clauses were negotiated away by the ordinary machinery of committees, cabinets and floor arithmetic. A reader who finishes this article should be able to say precisely which of the movement's demands survived into the Lokpal and Lokayuktas Act, 2013, which were diluted, and which were dropped altogether, and to explain why the same Parliament that could not pass the bill in four decades passed it in a single week in December 2013.
 
-![The Lokpal Bill and the Anna Hazare movement, from the failed bills and committee rooms to the fasts that forced passage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Lokpal Bill and the Anna Hazare movement, from the failed bills and committee rooms to the fasts that forced passage - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That distinction, between forcing a vote and dictating a text, is the analytical thread of everything that follows. Legislative history is usually written from the statute backwards, as if the enacted text had been inevitable. The Lokpal's history runs the other way: the text is the residue of a contest, and the contest is only visible if the failed drafts, the abandoned committees and the promises made under pressure are kept in view alongside the Act. The movement's own account of its role, in which a united people imposed its draft on a reluctant state, is part of that record and is treated here as what it is, a participant's account, valuable and contested in equal measure.
 

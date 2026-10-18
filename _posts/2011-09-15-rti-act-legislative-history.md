@@ -6,15 +6,15 @@ date: 2011-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Information Act", "RTI Act", "Civil Liberties", "Parliament", "Social Justice"]
 excerpt: "The Right to Information Act has a legislative history unlike any other Indian statute: a wage movement, nine state laws and a stillborn predecessor made it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2011-09-15
+lang: en
 ---
-
 The legislative history of the Right to Information Act, 2005 contains an episode with no close parallel in Indian lawmaking. Three years before the Act was passed, Parliament had already enacted a transparency statute, the Freedom of Information Act, 2002. That statute received the President's assent, entered the statute book, and was never brought into force. No citizen ever filed a request under it, no officer was ever directed to answer under it, and in 2005 Parliament quietly repealed it in the same Act that replaced it. A legislature had passed a law and the executive had simply declined to switch it on. Everything distinctive about the statute that followed, its fixed commencement date, its independent commissions, its penalty on the individual officer, its reach into every state, makes sense only when read against that failure and against the fifteen years of agitation that preceded it, because the Right to Information Act was not drafted in a ministry and handed down. It was assembled from below: from wage records read aloud in Rajasthani villages, from nine state statutes of very uneven quality, from two civil society drafts, and from a parliamentary committee stage that rewrote the government's own bill almost beyond recognition. The [complete guide to the Right to Information Act 2005](/2011/09/01/right-to-information-act-2005-guide/) sets out what the statute requires; this article explains how that text came to exist, who fought over each part of it, and what the passage record reveals about the way laws are actually made in India.
 
-![A village public hearing in Rajasthan where muster rolls were read aloud, the jan sunwai method from which the Right to Information Act grew - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A village public hearing in Rajasthan where muster rolls were read aloud, the jan sunwai method from which the Right to Information Act grew - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The sequence matters because each stage left a deposit in the final text. The courts supplied the constitutional premise, that a citizen's right to know is part of the freedom of speech and expression, decades before Parliament acted. A rural labour organisation supplied the method, the public audit of official records, and the political pressure. The states supplied working prototypes, some instructive and some cautionary. The Freedom of Information Act supplied the negative lesson, a demonstration that a weak text combined with a commencement clause left to executive discretion could be nullified without a single vote being cast against it. The National Advisory Council supplied an unusual channel through which campaign drafts could reach the Cabinet table. And the Parliamentary Standing Committee on Personnel, Public Grievances, Law and Justice supplied the mechanism by which a bill introduced as a modest central measure emerged as a national statute. To read the Act's sections without this record is to miss why the penalty falls on the officer rather than the department, why the appeal runs outside the department altogether, why the definition of information expressly includes opinions and advices, and why the commencement provision counts days from enactment instead of waiting for a notification that might never come.
 

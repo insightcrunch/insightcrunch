@@ -6,15 +6,15 @@ date: 2012-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Company Law Tribunal", "Companies Act 2013", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary"]
 excerpt: "National Company Law Tribunal and NCLAT explained: their company and insolvency cases, member selection, the fourteen-year wait, and the capacity question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2012-05-01
+lang: en
 ---
-
 The National Company Law Tribunal is the clearest case in Indian legislation of a reform whose fate was decided entirely by the forum question. Parliament decided in 2002 that company disputes should leave the High Courts, the Company Law Board and the sickness machinery of the Board for Industrial and Financial Reconstruction, and gather in one specialist tribunal with an appellate tribunal above it. The substantive law was never the obstacle. What consumed the next fourteen years was a constitutional argument about who may staff such a body, who may choose its members, and on what tenure, and that argument had to be fought twice, through two statutes, before a single bench could sit. When the Tribunal was finally constituted on 1 June 2016, it inherited the combined dockets of the bodies it replaced, and within six months the Insolvency and Bankruptcy Code handed it a second, larger jurisdiction on top of the first. The institution that company law reform waited fourteen years for became, in the same year, the institution on which insolvency reform depends for its timelines.
 
-![The National Company Law Tribunal building its benches, showing the constitution of the NCLT and NCLAT and the fourteen-year litigation that preceded it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Company Law Tribunal building its benches, showing the constitution of the NCLT and NCLAT and the fourteen-year litigation that preceded it - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 That double history is what an institution profile of the Tribunal has to explain. The design question comes first: what was this body built to do, and why did its designers believe a tribunal could do it better than the courts it displaced? The record question comes second: what has the body actually been able to do, given the strength at which it has been staffed and the volume that has been routed to it? The two questions have the same answer at different dates. In 2002 the constraint was that the appointment provisions could not survive constitutional scrutiny. After 2016 the constraint is that the benches sanctioned for the work have never matched the work assigned. The argument of this article is the claim the brief for it names: the Tribunal was the bottleneck twice, first by its absence and then by its capacity, and every reform that adds jurisdiction to it without adding capacity repeats the original error in a new form.
 

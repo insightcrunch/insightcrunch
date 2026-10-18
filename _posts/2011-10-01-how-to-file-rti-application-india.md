@@ -6,15 +6,15 @@ date: 2011-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Information Act", "RTI", "Civil Liberties", "Judiciary", "Law Students"]
 excerpt: "How to file an RTI application that gets an answer: the fee, the thirty-day clock, the first and second appeals, and the four dates that decide the file."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 106
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2011-10-01
+lang: en
 ---
-
 A pension file can sit in an office for months without moving, and the person who depends on that pension is often the last to learn why. The file exists, the noting exists, the order that stopped or delayed payment exists, yet none of it is visible from outside the office where it is held. Learning how to file an RTI application begins in precisely that situation, with a record that a government office holds and a citizen who needs to see it. The same shape recurs across ordinary dealings with the state. A ration card decision is taken somewhere, on some paper, for some reason recorded at the time. An application is rejected, and the rejection rests on a noting, an inspection, a report, or an order that the applicant has never been shown. In each case the difficulty is not a lack of entitlement to the record.
 
-![How to file an RTI application: the record, the fee and the four dates under the Right to Information Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to file an RTI application: the record, the fee and the four dates under the Right to Information Act - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That framing carries the whole application, and it rests on a claim that can be stated plainly at the outset. Ask for a record, not an answer. The single most reliable predictor of success under the Right to Information Act, 2005 is whether the application asks for a document that exists rather than a question that must be answered. An office can retrieve a register, copy an order, and produce a noting because those things are already in its custody, in a form that an officer can locate and hand over. An office asked to explain itself, to justify a delay, or to say when a grievance will be resolved is being asked to compose something that does not yet exist, and a request framed in that way invites a vague reply or a refusal on the ground that no such information is held. A question invites a reply composed for the occasion, shaped by the person replying. A record request compels production of material created before the request arrived, in the ordinary course of the office's own work, whose contents cannot be adjusted for the applicant's benefit or disadvantage.
 

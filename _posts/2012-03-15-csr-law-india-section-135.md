@@ -6,15 +6,15 @@ date: 2012-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Companies Act 2013", "Corporate Social Responsibility", "Corporate Law", "Parliament", "Law Students"]
 excerpt: "CSR under Section 135 explained: the thresholds that trigger the duty, the two per cent computation, the deadlines for unspent money, and the civil penalty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2012-03-15
+lang: en
 ---
-
 For a finance director or a company secretary, CSR under Section 135 of the Companies Act, 2013 presents itself as a deceptively simple instruction: spend two per cent of average net profits on a list of approved activities. Almost everything about that sentence is more complicated than it looks. The two per cent is computed on a profit figure that the Act defines for itself and that matches neither the tax computation nor the number at the foot of the profit and loss account. The approved activities are broad in words and narrow in exclusions. The obligation is triggered by any one of three financial tests, so a modest business with a single profitable year can be caught while a far larger business trading at a loss escapes. Above all, the consequence of failing to spend has been rewritten twice in quick succession, and a large share of the guidance in circulation still describes a legal position that either never operated or has since been replaced.
 
-![CSR under Section 135 of the Companies Act, 2013, showing the thresholds, the two per cent computation and the unspent amount deadlines - Insight Crunch](/assets/images/blog/blog-01.webp)
+![CSR under Section 135 of the Companies Act, 2013, showing the thresholds, the two per cent computation and the unspent amount deadlines - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 This article is written for the reader who has to operate the provision rather than merely describe it. It works through the questions in the order a compliance team meets them. Does the obligation attach to this company at all? On what profit figure is the amount calculated, and who inside the company owns each step? What may the money lawfully buy, and what does it stop being once it is spent through an agency or locked into an asset? What must happen, by what date, to any part of the amount that remains unspent when the financial year closes? And what precisely follows if the company gets any of this wrong? The answers changed materially between 2019 and 2021, so the article treats the amendment record as part of the law itself, because a provision that has moved from explanation to escrow to penalty inside seven years cannot be understood from its text alone.
 

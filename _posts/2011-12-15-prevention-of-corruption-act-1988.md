@@ -6,15 +6,15 @@ date: 2011-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Prevention of Corruption Act", "Criminal Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "The Prevention of Corruption Act 1988 explained in full: the offences it creates, how the 2018 amendment rebalanced it, and where its discretion sits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2011-12-15
+lang: en
 ---
-
 The Prevention of Corruption Act 1988 is the statute under which India prosecutes bribery in public office, and it contains a paradox that most summaries flatten into a single direction. In July 2018 Parliament amended the Act in ways that pulled it both ways at once. For the first time, giving a bribe became a substantive offence in its own right, carrying up to seven years of imprisonment, and companies became liable when persons associated with them bribed a public servant to win or keep business. In the same amending Act, the definition of criminal misconduct was cut down to two categories, a limb under which a public servant could be prosecuted for abusing his position to secure a benefit for another person was deleted, and a new provision, Section 17A, barred the police from even beginning an enquiry or investigation into an offence connected with an official decision until the government employing the official had given its approval. The statute after 2018 therefore reaches more people than it reached before, and is harder to set in motion against the one category of person it was written for.
 
-![The Prevention of Corruption Act 1988 and the two directions of its 2018 amendment, giver criminalised and investigation gated - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Prevention of Corruption Act 1988 and the two directions of its 2018 amendment, giver criminalised and investigation gated - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 That double movement is the fact to hold on to, because nearly every public account of the 2018 amendment reports only half of it. Accounts written from the enforcement side describe a tightening: supply-side bribery criminalised, corporate liability introduced, punishments severe, trials put on a statutory clock. Accounts written from the administration side describe a necessary loosening: honest officials protected from prosecution over decisions that later look wrong, a filter against frivolous complaints, an end to the paralysis that senior civil servants had protested against for decades. Both accounts are accurate about the provisions they cite and wrong about the amendment as a whole. Only a provision-by-provision reading shows the shape of the trade Parliament actually made, and that reading is what this article performs. It states what the Act criminalises in its present form, reconstructs what the law was before 2018 and why it changed, examines the two gates the statute places in front of an investigation and a prosecution, compares Section 17A with the earlier prior-approval provision that the Supreme Court struck down in 2014, and closes with an assessment of which failure mode the amended Act handles well and which it handles badly: the corrupt decision or the harassed official. Where the argument turns on a contested question, both sides are given in their strongest form and attributed to the people and institutions that actually make them.
 
