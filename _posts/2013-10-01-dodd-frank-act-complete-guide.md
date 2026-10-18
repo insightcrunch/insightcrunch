@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Dodd-Frank Act", "Financial Regulation", "Volcker Rule", "Consumer Financial Protection Bureau", "Banking Law"]
 excerpt: "Dodd-Frank is less a rulebook than an instruction manual: sixteen titles allocate rulemaking power and create three new institutions to watch the system."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "81"
+reading_time: 95
 author: "samantha-lee"
 last_updated: 2026-10-05
 lang: en

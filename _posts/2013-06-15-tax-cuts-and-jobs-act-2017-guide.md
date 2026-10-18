@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Cuts and Jobs Act", "Federal Tax Policy", "Tax Reform", "Reconciliation", "Corporate Tax"]
 excerpt: "The 2017 tax act made its corporate cut permanent and its individual cuts temporary because Senate procedure demanded it. Every provision group, explained."
 image: "/assets/images/blog/blog-66.webp"
-reading_time: "78"
+reading_time: 93
 author: "christopher-wells"
 last_updated: 2026-10-05
 lang: en

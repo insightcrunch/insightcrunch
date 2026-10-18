@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "tax myths", "Sixteenth Amendment", "corporate tax", "payroll tax", "marginal rates"]
 excerpt: "US tax law myths persist because the code is long and the stakes feel personal, so this piece tests eleven claims against statutes, decisions, and data."
 image: "/assets/images/blog/blog-22.webp"
-reading_time: "73"
+reading_time: 87
 author: "abigail-cooper"
 last_updated: 2026-10-05
 lang: en

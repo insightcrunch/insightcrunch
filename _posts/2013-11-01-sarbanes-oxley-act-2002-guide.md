@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Corporate Governance", "Securities Regulation", "Auditing Standards", "Financial Reform", "Investor Protection"]
 excerpt: "Sarbanes-Oxley Act explained: executive and auditor duties, the costly internal control audit, the court challenge, and how later laws reshaped the statute."
 image: "/assets/images/blog/blog-53.webp"
-reading_time: "69"
+reading_time: 80
 author: "natalie-webb"
 last_updated: 2026-10-05
 lang: en

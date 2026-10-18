@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Reform Act", "Tax Policy", "Revenue Legislation", "Public Finance", "Economic Impact"]
 excerpt: "Tax reform cut rates that vanished within seven years while base broadening endured. A review of the achievements, the reversals, and the research record."
 image: "/assets/images/blog/blog-55.webp"
-reading_time: "85"
+reading_time: 101
 author: "patrick-dunn"
 last_updated: 2026-10-05
 lang: en

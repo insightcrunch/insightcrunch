@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Legislation", "Congressional Procedure", "Reconciliation", "Byrd Rule", "Tax Policy"]
 excerpt: "How tax bills move through Congress: the Origination Clause, committee markup, official scoring, reconciliation, the Byrd rule, and retroactive effective dates."
 image: "/assets/images/blog/blog-110.webp"
-reading_time: "78"
+reading_time: 93
 author: "william-knight"
 last_updated: 2026-10-05
 lang: en

@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Tax Reform", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "How the Tax Reform Act traded eliminated preferences for a twenty-eight percent top individual rate: the closed-system statute guide with the trade table."
 image: "/assets/images/blog/blog-04.webp"
-reading_time: "94"
+reading_time: 108
 author: "jessica-kim"
 lang: en
 ---

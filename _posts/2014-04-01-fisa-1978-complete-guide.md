@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "FISA", "FISA Court", "Foreign Intelligence Surveillance", "Surveillance Law", "Intelligence Oversight"]
 excerpt: "The Foreign Intelligence Surveillance Act restrains power rather than granting it. This guide explains its origins, court, status test, and minimization."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: "73"
+reading_time: 87
 author: "jessica-kim"
 last_updated: 2026-10-05
 lang: en

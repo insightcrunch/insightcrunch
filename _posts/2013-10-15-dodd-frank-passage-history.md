@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Dodd-Frank Act", "Financial Regulation", "Congressional Procedure", "Legislative History", "Senate Cloture"]
 excerpt: "Dodd-Frank took two hundred thirty-one days to pass, from a House vote with no minority support to Senate votes that depended on minority senators at each turn."
 image: "/assets/images/blog/blog-20.webp"
-reading_time: "84"
+reading_time: 95
 author: "michael-brooks"
 last_updated: 2026-10-05
 lang: en

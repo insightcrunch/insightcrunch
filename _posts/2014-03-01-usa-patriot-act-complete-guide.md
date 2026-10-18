@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "FISA", "Surveillance Law", "Banking Regulation", "National Security Letters"]
 excerpt: "The PATRIOT Act is an omnibus amendment package, not a surveillance statute. This guide maps its four groups, the two-word amendment, and the sunset record."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "77"
+reading_time: 90
 author: "simon-hartley"
 last_updated: 2026-10-05
 lang: en

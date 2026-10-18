@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Visa Policy", "Congress", "INA", "Statutory History"]
 excerpt: "Immigration amendments reshaped American admission, creating the diversity lottery, temporary protected status and a new employment-based visa system."
 image: "/assets/images/blog/blog-84.webp"
-reading_time: "68"
+reading_time: 81
 author: "ian-fletcher"
 lang: en
 ---

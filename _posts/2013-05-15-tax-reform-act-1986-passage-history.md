@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Reform", "Congress", "Senate Finance", "Ways and Means", "Legislative History"]
 excerpt: "The Tax Reform Act survived three declared deaths, a failed House rule, and a collapsed Senate markup to pass by lopsided margins in both chambers of Congress."
 image: "/assets/images/blog/blog-01.webp"
-reading_time: "74"
+reading_time: 88
 author: "jessica-kim"
 lang: en
 ---

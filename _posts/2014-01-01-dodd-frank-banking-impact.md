@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Banking", "Dodd-Frank", "Financial Regulation", "Financial Crisis"]
 excerpt: "Dodd-Frank promised safer banks and no bailouts. This review measures capital, consolidation, community bank burden and mortgage credit against stated aims."
 image: "/assets/images/blog/blog-109.webp"
-reading_time: "73"
+reading_time: 85
 author: "alex-cunningham"
 last_updated: 2026-10-05
 lang: en

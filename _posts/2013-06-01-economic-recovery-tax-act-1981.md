@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "ERTA", "Bracket Indexation", "Tax Reform", "Reagan Administration"]
 excerpt: "The Economic Recovery Tax Act cut rates across the board, indexed brackets to inflation, and lost its business provisions to reversal within thirteen months."
 image: "/assets/images/blog/blog-27.webp"
-reading_time: "72"
+reading_time: 87
 author: "jessica-kim"
 lang: en
 ---

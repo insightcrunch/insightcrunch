@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Homeland Security", "Statute Profiles", "Immigration Law", "Counterterrorism Law", "Federal Reorganization"]
 excerpt: "The Homeland Security Act merged twenty-two agencies into one department, split immigration three ways, and left intelligence untouched for two years. Profile."
 image: "/assets/images/blog/blog-06.webp"
-reading_time: "76"
+reading_time: 90
 author: "natalie-webb"
 last_updated: 2026-10-05
 lang: en

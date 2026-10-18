@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "CFPB", "Dodd-Frank Act", "Consumer Protection", "Title X", "Financial Regulation", "UDAAP"]
 excerpt: "The CFPB moved consumer finance rules from seven regulators to one bureau with independent funding and a novel abusiveness standard. Its design and court tests."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: "70"
+reading_time: 83
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en

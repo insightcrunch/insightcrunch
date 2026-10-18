@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Glass-Steagall", "Dodd-Frank", "Banking Regulation", "Financial Crisis", "Regulatory Comparison"]
 excerpt: "Glass-Steagall split banks from securities firms; Dodd-Frank lets them combine under capital rules. This comparison weighs both models and reaches a verdict."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "76"
+reading_time: 89
 author: "abigail-cooper"
 last_updated: 2026-10-05
 lang: en

@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration", "Supreme Court", "Constitutional Law", "Congress", "Study Guides"]
 excerpt: "Immigration law in the Supreme Court runs on the plenary power doctrine. This guide traces the doctrine from its roots and states each holding that governs."
 image: "/assets/images/blog/blog-29.webp"
-reading_time: "85"
+reading_time: 101
 author: "william-knight"
 lang: en
 ---

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Glass-Steagall", "Financial Holding Companies", "Banking Law", "Consumer Privacy", "Financial Crisis"]
 excerpt: "The Gramm-Leach-Bliley Act repealed half of Glass-Steagall, created the financial holding company, and added a national privacy regime for American finance."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "77"
+reading_time: 89
 author: "patrick-dunn"
 last_updated: 2026-10-05
 lang: en

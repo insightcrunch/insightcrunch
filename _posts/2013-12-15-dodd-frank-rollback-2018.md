@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Banking Regulation", "Dodd-Frank", "Financial Services", "Congress", "Bank Supervision"]
 excerpt: "The Dodd-Frank rollback left every major authority intact and re-tiered which banks face the toughest rules. The thresholds, the vote, the contested legacy."
 image: "/assets/images/blog/blog-71.webp"
-reading_time: "82"
+reading_time: 95
 author: "kevin-reeves"
 last_updated: 2026-10-05
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "Legislative History", "Passage History", "Senate Procedure"]
 excerpt: "The PATRIOT Act passage history: a unanimous committee bill, a floor substitution, one Senate dissent, and sunsets that made emergency speed acceptable."
 image: "/assets/images/blog/blog-93.webp"
-reading_time: "79"
+reading_time: 90
 author: "patrick-dunn"
 last_updated: 2026-10-05
 lang: en

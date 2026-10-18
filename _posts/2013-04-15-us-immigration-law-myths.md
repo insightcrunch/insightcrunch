@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Immigration and Nationality Act", "Birthright Citizenship", "DACA", "Sanctuary Policies"]
 excerpt: "US immigration law myths tested against the statutes, the cases and the research: what circulating claims about the rules get right, get wrong, and leave open."
 image: "/assets/images/blog/blog-14.webp"
-reading_time: "71"
+reading_time: 82
 author: "natalie-webb"
 lang: en
 ---

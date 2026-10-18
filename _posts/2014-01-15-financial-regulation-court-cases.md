@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Financial Regulation", "Administrative Law", "Supreme Court", "SEC", "CFPB"]
 excerpt: "Why financial regulation loses in court more than any other field: history of cost-benefit review, removal and funding fights, and the end of Chevron deference."
 image: "/assets/images/blog/blog-05.webp"
-reading_time: "75"
+reading_time: 90
 author: "benjamin-scott"
 last_updated: 2026-10-05
 lang: en

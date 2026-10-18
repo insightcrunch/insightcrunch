@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "TARP", "Financial Crisis", "Housing Policy", "Stimulus", "Banking Regulation"]
 excerpt: "Financial crisis legislation is remembered by authorizations, not outcomes. This hub traces each rescue statute with sourced figures, votes, and verdicts."
 image: "/assets/images/blog/blog-76.webp"
-reading_time: "79"
+reading_time: 90
 author: "robert-quinn"
 last_updated: 2026-10-05
 lang: en

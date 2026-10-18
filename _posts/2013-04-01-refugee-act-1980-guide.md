@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Refugee Act", "Immigration Law", "Asylum", "INA", "Statute Profile"]
 excerpt: "A full statute profile of the Refugee Act: the convention definition it imported, the two doors of admission and asylum, the ceiling, and the case law."
 image: "/assets/images/blog/blog-97.webp"
-reading_time: "71"
+reading_time: 82
 author: "katherine-blake"
 lang: en
 ---
