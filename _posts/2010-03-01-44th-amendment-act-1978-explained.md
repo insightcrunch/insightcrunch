@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Emergency Provisions", "Fundamental Rights", "UPSC"]
 excerpt: "The 44th Amendment Act 1978 rolled back the Emergency. One safeguard it enacted was never notified and does not operate at all. Here is the full record."
 image: "/assets/images/blog/blog-55.webp"
-reading_time: 68
+reading_time: 70
 author: "kavita-sharma"
 last_updated: 2026-08-05
 lang: en
@@ -561,3 +561,19 @@ They can force the House to sit and consider the question, which is the practica
 ### Q: Is the 43rd Amendment the same as the 44th Amendment?
 
 No, and conflating them is the commonest error in writing on this period. The 43rd Amendment was the first instalment of the restoration project, assented to by President Neelam Sanjiva Reddy on 13 April 1978 and in force the same day. It repealed the anti-national activities provision inserted in 1976 and restored the powers of the Supreme Court and the High Courts to determine questions of constitutional validity. The 44th Amendment, assented to on 30 April 1979, dealt with the Emergency machinery in Articles 352, 356, 358, 359 and 360, the terms of legislatures, ministerial advice under Article 74, and the relocation of the right to property. Treating the reversal as one event destroys the information the sequencing carries.
+
+### Q: What is Article 134A and why did the 44th Amendment insert it?
+
+The 44th Amendment inserted Article 134A into the Constitution. The article deals with the certificate a High Court gives when a case is fit for appeal to the Supreme Court. It fixes the stage for that decision: the High Court is to consider the question either on its own motion or on an oral application made by or on behalf of the party aggrieved immediately after the judgment, decree or final order is passed. The point is timing rather than principle. If the certificate question is left over, the appeal route can close by inadvertence. By requiring the High Court to address certification at the moment of judgment, Article 134A preserves the route for a party who acts at once and gives the Supreme Court a clearer record of why the case was, or was not, certified as fit for appeal.
+
+### Q: What did the 44th Amendment change about a financial Emergency under Article 360?
+
+Article 360 allows a proclamation where the financial stability or credit of India, or of any part of its territory, is threatened. The 44th Amendment reworked the approval and duration requirements that attach to such a proclamation, in the same spirit as its changes to Article 352, so that parliamentary control over the power became tighter than the original drafting had provided. The provision is also notable for its record of non-use. No financial Emergency has ever been proclaimed under Article 360, through balance of payments crises and other periods of fiscal difficulty. The amended controls therefore stand in the same position as the amended Article 352 safeguards: clearly drafted, in force, and untested in practice.
+
+### Q: What did the 44th Amendment do to Article 257A?
+
+Article 257A had been inserted by the 42nd Amendment to enable the Union to deploy its armed forces or other forces in a state in aid of the civil power. The 44th Amendment omitted the article altogether, so the provision ceased to form part of the Constitution. The omission belongs with the other reversals of the Emergency-era expansion of Union power over the states, alongside the omission of Article 329A and the constraints placed again on central rule. It is recorded in the restoration ledger in this article as gone, rather than as modified. Unlike the clauses on Article 31C, Article 368 and the tribunals Part, the omission was carried through both Houses and took effect, so no judicial ruling was needed to remove it.
+
+### Q: What did the final section of the 44th Amendment do to the 42nd Amendment Act?
+
+The final section works on the 42nd Amendment Act of 1976 rather than directly on the text of the Constitution. It provides that ten specified sections of the 1976 Act shall be omitted. The reason lies in commencement. The 1976 Act, like the 1978 Act, allowed different sections to be brought into force on different notified dates, and some of its sections had not yet done their work when the 44th Amendment was passed. Deleting an instruction that has not been carried out is cleaner than reversing an effect that has not happened. The trap for researchers is real: an unamended print of the 1976 Act still shows provisions that were removed before they ever took effect.

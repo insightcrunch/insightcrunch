@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The First Amendment Act 1951 answered three lost cases at once. The passage record, the select committee dissents and what changed before it became law."
 image: "/assets/images/blog/blog-60.webp"
-reading_time: 69
+reading_time: 71
 author: "deepika-joshi"
 last_updated: 2026-08-05
 lang: en
@@ -537,3 +537,19 @@ Thirteen, all of them agrarian. The original list carried statutes from Bihar, B
 ### Q: Which parts of the First Amendment remain in force?
 
 Almost all of it, which is the fact that disposes of any suggestion that the amendment was later repudiated. Article 15(4) remains the constitutional basis for special provision in education. The replaced Article 19(2) governs every free speech case decided in India, and its reasonableness limb is the most litigated phrase in the provision. The amended Article 19(6) continues to protect state trading and nationalisation. Article 31A remains, as does Article 31B and the Ninth Schedule, though the immunity conferred on statutes added after the dividing line the courts fixed is no longer absolute. The only part of the architecture the amendment touched that has gone is Article 31 itself, repealed later when the right to property was moved out of Part III.
+
+### Q: What did the First Amendment change in Article 19(6) on state trading?
+
+The amendment added a saving to Article 19(6) for laws relating to the carrying on by the state, or by a corporation owned or controlled by the state, of any trade, business, industry or service, whether to the exclusion of citizens or otherwise. Before the change, a private operator shut out by a state monopoly in fields such as road transport or commodity distribution could argue that exclusion was not a restriction on the right to trade under Article 19(1)(g) but its complete extinction, and therefore unreasonable. The new saving removed that objection at the threshold, so a state monopoly no longer had to be justified as a reasonable restriction on the trade of those it excluded.
+
+### Q: Why did the Bihar land reforms litigation turn on equality rather than compensation?
+
+The Bihar Land Reforms Act classified proprietors by the size of annual income from the estate and applied sharply different compensation multipliers to each class, so larger holders received proportionately far less than smaller ones. The Patna High Court treated that graduated structure as a violation of the equality guarantee in Article 14, holding that the classification bore no defensible relation to the object of compensating owners for property taken. The attack therefore bypassed the property provisions, which had been drafted to keep the adequacy of compensation away from judicial assessment. Because every abolition statute with a graduated formula faced the same exposure, Articles 31A and 31B were drafted to shield listed laws from challenge under Part III as a whole.
+
+### Q: What was Jawaharlal Nehru's main argument in defence of the First Amendment Bill?
+
+Nehru argued on the floor that the Constitution was a working instrument rather than scripture, and that its first year had produced results its authors had not intended. Land reform, the central redistributive commitment of the new state, was held up by litigation, while the free speech clause as interpreted left the state unable to act against speech inciting murder or inflaming communal feeling in a country that had passed through partition. His narrower argument was that the property compromise in the Constituent Assembly had been designed to permit agrarian legislation of the kind under challenge, so the courts had disturbed a settlement rather than protected one, and the amendment restored the arrangement that had been agreed.
+
+### Q: Did the First Amendment require ratification by the state legislatures?
+
+No. Ratification by the legislatures of not less than one half of the states is required only where an amendment changes the provisions listed in the proviso to Article 368, such as the election of the President, the distribution of legislative powers, the lists in the Seventh Schedule, the representation of states in Parliament, or Article 368 itself. The First Amendment altered none of those provisions. Its changes to Articles 15, 19 and 31, its machinery corrections, and its insertion of Articles 31A and 31B and the Ninth Schedule could therefore be made by the special majority prescribed for a constitutional amendment bill, without reference to the states, and presidential assent completed the process on 18 June 1951.

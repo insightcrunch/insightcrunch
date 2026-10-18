@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The 42nd vs 44th Amendment comparison, row by row: what Parliament reversed, what the Supreme Court struck down, and which Emergency changes still stand."
 image: "/assets/images/blog/blog-79.webp"
-reading_time: 60
+reading_time: 62
 author: "kavita-sharma"
 last_updated: 2026-08-05
 lang: en
@@ -487,3 +487,19 @@ Yes, two of consequence. It removed the right to property from the fundamental r
 ### Q: Has the 42nd or the 44th Amendment had more effect on Centre-state relations?
 
 The 42nd Amendment, and the gap is not close. Its transfer of education, forests, weights and measures, protection of wild animals and birds, and the administration of subordinate courts from the State List to the Concurrent List altered the distribution of legislative competence permanently, and that distribution is litigated and argued about constantly. Its freeze on the allocation of Lok Sabha seats among states has held the relative weight of states in Parliament constant across decades of divergent population growth. The 44th Amendment made almost no change to the federal balance; its reversals concerned emergency powers, tenure and rights. This is why the most durable effect of the Emergency amendments is federal rather than personal.
+
+### Q: How do the 42nd and 44th Amendments differ as pieces of legislative drafting?
+
+The contrast is between omnibus drafting and conditional drafting. The 42nd Amendment amended many articles in a single instrument, used broad enabling language, and often left the operative choice to the executive or to a later Parliament: the tribunal articles, for example, authorised the creation of classes of tribunal rather than designing any tribunal in the constitutional text. The 44th Amendment worked differently. It generally left the underlying power in place and attached conditions to its exercise, through written advice, shorter approval deadlines, special majorities and periodic renewal. The article draws a durability lesson from that contrast: each condition must be defended in public if a later government wishes to remove it, while a broad grant invites a court to read the enabling words down in the light of their stated purpose.
+
+### Q: Did the 44th Amendment remove the directive principles on legal aid, workers and the environment added by the 42nd Amendment?
+
+No. The 42nd Amendment added three directive principles: equal justice and free legal aid, participation of workers in the management of industry, and protection and improvement of the environment, including forests and wildlife. The 44th Amendment did not delete, narrow or qualify any of them, and the 43rd Amendment did not touch them either. They remain in Part IV as non-enforceable directions to the state in making laws. Their survival matters to the comparison because it shows the restoring amendments concentrated on emergency machinery and rights, not on reversing every policy choice made in 1976. The legal aid principle later supported the statutory legal services framework, and the environment principle has been cited repeatedly in environmental cases.
+
+### Q: Did the 44th Amendment lift the freeze on Lok Sabha seat allocation imposed by the 42nd Amendment?
+
+No. The 42nd Amendment froze both the allocation of seats in the Lok Sabha among the states and the division of states into territorial constituencies on the basis of the 1971 census. The 44th Amendment left that freeze undisturbed, and a later amendment extended it rather than allowing it to lapse. The result is a surviving Emergency-era change with large federal consequences: states retain the relative weight in the Lok Sabha fixed by an old population count, despite decades of uneven population growth. In the scorecard this row belongs with the changes nobody reversed, alongside the Preamble words, the fundamental duties and the Concurrent List transfers, rather than with the emergency machinery that Parliament dismantled.
+
+### Q: Did the 44th Amendment remove the power to proclaim an Emergency for only part of India?
+
+No. The 42nd Amendment made it possible for a proclamation of Emergency to be issued for the whole of India or for a specified part of its territory. The 44th Amendment tightened the ground and the procedure for a proclamation, substituting armed rebellion for internal disturbance and requiring written Cabinet advice and approval by a special majority, but it did not remove the part-territory possibility. That power therefore survives as an untouched row in the comparison. Its practical history is limited, since the article notes that it has not been used since its insertion, which is a reminder that a provision surviving in the text and a provision shaping events are not always the same thing.

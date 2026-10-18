@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Panchayati Raj", "Constitutional Amendments", "Federalism", "Constitutional Law", "UPSC"]
 excerpt: "The 73rd and 74th Amendments made local elections compulsory and local power optional, and India's devolution record follows from that drafting choice."
 image: "/assets/images/blog/blog-53.webp"
-reading_time: 68
+reading_time: 69
 author: "deepika-joshi"
 last_updated: 2026-08-05
 lang: en
@@ -587,3 +587,11 @@ It would remove the principal legal obstacle and create three new problems. Remo
 ### Q: Which states have devolved most power to panchayats, and why?
 
 Three patterns explain most of the variation. States that had functioning local government before 1993, including those that had operated district bodies with real budgets since the 1960s or legislated ambitious panchayat systems in the 1980s, generally continued to have it afterwards, because the amendments consolidated something already present. States that made a deliberate fiscal decision to route a large share of plan funds to local bodies as untied money, accompanied by participatory planning and substantial training, produced real devolution under the same constitutional text everyone else has. And states that carried out genuine activity mapping produced measurable transfer, while those that transferred subjects without mapping produced none. Prior commitment, untied money and activity mapping are the three predictors.
+
+### Q: What did states have to do to bring their existing local government laws into line with the amendments?
+
+Article 243N gave every state one year from the commencement of Part IX to bring its existing panchayat laws into conformity with the new Part, after which an inconsistent law would cease to be in force. Article 243ZF made equivalent provision for municipal law under Part IXA. The clause forced every state to legislate within a fixed period, and states responded in three broad ways. Some rewrote their local government law substantially, mainly states that already had functioning local bodies. Most passed minimal amendments that inserted the mandatory provisions on terms, elections, reservation and commissions while leaving the older relationship with line departments untouched. A third group listed schedule subjects as devolved in a new statute without activity mapping, staff transfer or fund devolution, producing paper transfer from the start.
+
+### Q: What does Article 243-O prevent courts from doing in panchayat and municipal elections?
+
+Article 243-O, and the equivalent provision in Part IXA for municipalities, bars a court from interfering with the delimitation of constituencies or the allotment of seats to them, and provides that an election to a panchayat may be questioned only by an election petition presented to the authority and in the manner that state law provides. The design is borrowed from Article 329, which performs the same function for parliamentary and assembly elections. Its practical effect is to limit pre-election litigation and to channel disputes about a completed election into a single statutory forum, where limitation periods are short and strictly enforced. A challenge brought in the wrong forum, or after the period has run, fails regardless of its merits.

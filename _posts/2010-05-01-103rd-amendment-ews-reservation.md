@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Social Justice", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The 103rd Amendment and EWS reservation explained: what Articles 15(6) and 16(6) enable, and how the Supreme Court split three to two on the challenge."
 image: "/assets/images/blog/blog-42.webp"
-reading_time: 68
+reading_time: 70
 author: "anita-das"
 last_updated: 2026-08-05
 lang: en
@@ -569,3 +569,11 @@ As a decision of a five-judge Constitution Bench delivered on 7 November 2022, u
 ### Q: Why is the 103rd Amendment described as short but contested?
 
 Because the disproportion between its text and its consequences is unusual. It inserts two clauses of a few lines each, in language that follows the established pattern of carve-outs from the equality guarantee, and neither clause creates a right or compels any government to do anything. Yet it produced a five-opinion judgment, a three to two split on a Constitution Bench, a continuing political argument, and a body of commentary far larger than the text could suggest. Everything contested about it lives in two words, "other than", which define the category by excluding the classes already covered. The text is trivially short; the record around it is where the substance is.
+
+### Q: Who counts as family when EWS eligibility is assessed?
+
+Eligibility is assessed on the income and assets of the family rather than on those of the applicant alone. Under the criteria notified for central institutions and services, family includes the applicant, their parents, their siblings below a specified age, and their spouse and children below that age. The income and assets of everyone within that definition are aggregated and tested against the notified income ceiling and the asset exclusions covering agricultural land, residential flats and residential plots. The breadth of the definition surprises many applicants and is a common source of rejected claims, because a parent's income or an unmarried sibling's assets can take a household outside the scheme even where the applicant personally has little. The definition sits in executive notification rather than in the Constitution, so the detail can differ between the central scheme and individual state schemes.
+
+### Q: Can an individual claim an EWS seat or post as a matter of right?
+
+No. Articles 15(6) and 16(6) are enabling provisions addressed to the state, in the same manner as the other reservation provisions in Part III of the Constitution. They provide that nothing in the equality articles prevents the state from making special provision for economically weaker sections, but they create no entitlement that an individual can enforce on their own. A candidate can take the benefit only where a government has chosen to implement the provision, only within the percentage that government has adopted up to the ten per cent maximum, and only by satisfying the notified income and asset criteria and producing a certificate from the designated authority. If a government has made no provision, the clauses themselves give the candidate nothing to claim.

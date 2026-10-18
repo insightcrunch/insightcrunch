@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "The basic structure doctrine explained through the cases that built it, what Kesavananda held by seven to six, and why the list of features stays open."
 image: "/assets/images/blog/blog-38.webp"
-reading_time: 68
+reading_time: 70
 author: "deepika-joshi"
 last_updated: 2026-08-05
 lang: en
@@ -572,3 +572,19 @@ Yes. Parliament amended the Constitution to replace the collegium system with a 
 ### Q: What is the difference between damaging the basic structure and merely altering it?
 
 It is the difference that decides almost every case. Every constitutional amendment alters something, and alteration is exactly what the amending power exists to permit, so a challenge that establishes only alteration establishes nothing. The Kesavananda formulation requires damage or destruction, which means the impairment must reach the essence of the feature rather than its incidents. In practice this is why amendments transferring legislative subjects, restructuring taxation, reorganising states or extending reservation survive despite plainly affecting features described as basic, while amendments that oust judicial review, decide a pending dispute, or entrench the amending power against being checked do not. Most public argument asserts destruction and demonstrates alteration.
+
+### Q: How did Sajjan Singh foreshadow the basic structure doctrine?
+
+Sajjan Singh v State of Rajasthan, decided in 1965, concerned the Seventeenth Amendment and a further expansion of the Ninth Schedule. The majority followed Shankari Prasad and held that a constitutional amendment is not law within the meaning of Article 13, so the amending power remained unlimited in substance. The lasting importance of the case lies in two separate opinions. Hidayatullah J and Mudholkar J each recorded doubts about the proposition that the fundamental rights were entirely at the mercy of a two-thirds majority. Mudholkar J went further and raised, in terms, the question whether the Constitution possesses basic features that an amendment cannot alter. That suggestion, made in a separate opinion rather than in a holding, is the earliest recognisable ancestor of the doctrine that Kesavananda adopted eight years later.
+
+### Q: What did Indira Nehru Gandhi v Raj Narain decide about the Thirty-ninth Amendment?
+
+The case arose after the Allahabad High Court set aside the Prime Minister's election on grounds of electoral malpractice. While the appeal was pending in the Supreme Court, Parliament enacted the Thirty-ninth Amendment, whose clause 4 provided that the election of a person holding the office of Prime Minister or Speaker could not be called in question in any court, that the pending proceedings would abate, and that the election would be deemed valid. The Supreme Court struck the clause down in 1975, the first time an amendment was invalidated on basic structure grounds. The reasoning treated free and fair elections and the judicial resolution of election disputes as part of the democratic structure, and held that a legislature which decides a pending case in favour of one party acts judicially rather than as an amending authority.
+
+### Q: What was the second limb of Article 31C and why did Kesavananda strike it down?
+
+Article 31C was inserted by the Twenty-fifth Amendment. Its first limb gave primacy to laws giving effect to the directive principles on distribution of material resources and prevention of concentration of wealth, so that such laws could not be challenged under the equality and freedom guarantees. Kesavananda upheld that limb. The second limb was different in kind. It provided that a law containing a declaration that it was made for those purposes could not be called in question in any court on the ground that it did not give effect to that policy. In other words, the legislature could immunise a statute by declaring its own purpose, and no court could test whether the declaration was true. Kesavananda struck the second limb down because it ousted judicial review rather than regulating rights.
+
+### Q: What was the supersession of judges that followed the Kesavananda judgment?
+
+Two days after the judgment was delivered on 24 April 1973, the government appointed a new Chief Justice of India. Three judges who had supported the basic structure limitation, and who were senior to the judge appointed, were passed over. All three resigned. The appointments broke the convention of seniority in choosing the head of the judiciary, which had been observed since the Supreme Court was constituted. The episode is treated in accounts of the doctrine as evidence of what was at stake, because the government had understood the decision as a defeat. Its practical effect ran the other way. A bench that had seen three senior colleagues resign over the limitation treated the doctrine as an institutional commitment, and later benches applied and refined it instead of narrowing it.

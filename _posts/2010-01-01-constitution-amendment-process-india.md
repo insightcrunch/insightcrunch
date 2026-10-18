@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
 excerpt: "The constitutional amendment process in India has three routes and four gates, and this guide shows how to classify any change and what each route demands."
 image: "/assets/images/blog/blog-73.webp"
-reading_time: 77
+reading_time: 79
 author: "deepika-joshi"
 last_updated: 2026-08-05
 lang: en
@@ -491,3 +491,15 @@ An amendment bill can contain provisions that would individually fall in differe
 ### Q: Does the Constitution place any provision permanently beyond amendment?
 
 No. There is no eternity clause in the Indian Constitution, meaning no provision is declared unamendable by any procedure, and this distinguishes the document from several constitutions that place identified articles permanently out of reach. Every provision, including the fundamental rights chapter, the Preamble and Article 368 itself, can be amended by the procedure that applies to it. The limitation the courts have developed operates differently: it does not protect listed provisions but prevents amendments that damage or destroy structural features of the constitutional order, which may be expressed across several provisions or in none in particular. That is why an amendment altering a single word can be vulnerable while an amendment rewriting an entire Part can be valid, and why the substantive limit does not track the procedural hierarchy.
+
+### Q: When does a constitutional amendment come into force after the President gives assent?
+
+On assent the Constitution stands amended in accordance with the terms of the bill, so the amendment Act itself decides when its provisions operate. Some amendments commence at once on assent. Others name a future date in the Act. Many provide that the Act shall come into force on a date appointed by the Central Government by notification, and different dates may be appointed for different provisions. An amendment may therefore be enacted and printed in the Constitution while a provision in it is not yet in force, or is in force only in part. Anyone stating what the Constitution requires on a point should check the commencement provision and any notification issued under it, rather than relying on the date of assent alone.
+
+### Q: How does a state legislature ratify a constitutional amendment?
+
+By passing a resolution to that effect, and by nothing else. Ratification is not a law, so it needs no assent, creates no rights and follows none of the ordinary legislative process in the state. The motion is usually moved by the chief minister or the minister holding the relevant portfolio, debated and carried, in practice in the legislative assembly even in states with two chambers. The resolution is on the bill exactly as Parliament passed it, so the state cannot alter, qualify or partly accept the text. It ratifies or it does not, which is why bargaining over the text has to finish before parliamentary passage. A state that refuses faces no penalty, and the amendment still binds it if half the states agree.
+
+### Q: Does a proclamation of Emergency change the procedure for amending the Constitution?
+
+No. Article 368 contains no exception for a period of Emergency. The same introduction in either House, the same two-part special majority in each House, the same ratification proviso for federal provisions and the same mandatory presidential assent apply whether or not a proclamation is in operation, and a proclamation confers no additional constituent authority. What a proclamation can change is the composition of the body exercising the power, through a provision elsewhere in the Constitution. The life of the Lok Sabha may be extended by law during an Emergency, for not more than one year at a time, so a House whose electoral mandate has expired may continue to sit and to exercise constituent power while a general election stands deferred.

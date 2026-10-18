@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "GST", "Constitutional Amendments", "Taxation", "Federalism", "UPSC"]
 excerpt: "The 101st Amendment created Article 246A and the GST Council: how the voting arithmetic works, and what the Supreme Court held about its recommendations."
 image: "/assets/images/blog/blog-05.webp"
-reading_time: 77
+reading_time: 79
 author: "kavita-sharma"
 last_updated: 2026-08-05
 lang: en
@@ -640,3 +640,11 @@ Because of a transitional provision in the amending Act rather than a policy cho
 ### Q: Is GST listed in the Seventh Schedule?
 
 No, and this surprises readers who look for it there. Every other head of taxing power in the Constitution sits in an entry in the Union List or the State List, with Article 246 determining who may legislate on it. Goods and services tax is allocated directly by Article 246A without any corresponding entry, which is one of the features that makes the article unlike anything else in the constitutional scheme. What the amendment did to the Seventh Schedule was subtractive rather than additive: it narrowed the central excise entry to five petroleum products and tobacco, omitted the entry tax and advertisement tax entries, narrowed the state sales tax entry, and confined the entertainment tax entry to local bodies.
+
+### Q: What matters does the GST Council make recommendations on?
+
+Article 279A lists the matters on which the Council is to make recommendations to the Union and the states. They cover the taxes, cesses and surcharges to be subsumed in the tax, the goods and services that may be subjected to it or exempted from it, and model laws with the principles of levy, apportionment of the integrated tax and place of supply. They also cover the threshold turnover below which goods and services may be exempted, the rates including floor rates with bands, and special rates for a specified period to raise additional resources during a natural calamity or disaster. The list ends with special provision for a named group of north-eastern and hill states, the date for levying the tax on the five petroleum products, and any other matter the Council decides to take up. In making its recommendations the Council is to be guided by the need for a harmonised structure and a harmonised national market.
+
+### Q: How does Article 366 define services for goods and services tax?
+
+Article 366(26A) defines services simply as anything other than goods. It is a residual definition, and its width is deliberate. Rather than listing the activities that count as services, the amendment leaves goods as the only counterpart and sweeps every other supply into services, so a transaction that is not a supply of goods is a supply of services for the purposes of the tax. Read with the definition of goods and services tax in Article 366(12A) as a tax on the supply of goods or services or both, except taxes on the supply of alcoholic liquor for human consumption, the drafting fixes supply as the taxable event. That is why the older dispute over whether a single transaction was a sale of goods or a provision of service lost its constitutional importance: either characterisation leads to the same tax.

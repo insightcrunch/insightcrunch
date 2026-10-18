@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
 excerpt: "The 42nd Amendment Act 1976 is widely treated as cancelled. Most of it still operates. What was struck down, what was repealed, and what quietly survived."
 image: "/assets/images/blog/blog-63.webp"
-reading_time: 68
+reading_time: 70
 author: "anita-das"
 last_updated: 2026-08-05
 lang: en
@@ -587,3 +587,19 @@ Yes, expressly. Before the amendment the provision stated that there shall be a 
 ### Q: What did the 43rd Amendment repeal from the 42nd Amendment?
 
 The 43rd Amendment, enacted in 1977 by the Janata government, was the first instalment of the restoration project and is omitted from most accounts. It repealed the provision concerning anti-national activities and associations, and it restored the powers of the Supreme Court and the High Courts to determine questions of constitutional validity that the 42nd Amendment had constrained, including the restrictions on writ jurisdiction and the requirements about bench strength and majorities. The Emergency machinery proper, including the six-year terms and the emergency proclamation provisions, was addressed separately by the 44th Amendment in 1978. Treating the reversal as a single act by a single amendment is the commonest error in this area.
+
+### Q: What new directive principles did the 42nd Amendment insert?
+
+Three new directive principles were inserted. Article 39A directed the state to secure that the operation of the legal system promotes justice on a basis of equal opportunity, and in particular to provide free legal aid so that opportunities for securing justice are not denied by reason of economic or other disabilities. Article 43A directed the state to take steps to secure the participation of workers in the management of industries. Article 48A directed the state to endeavour to protect and improve the environment and to safeguard the forests and wildlife of the country. None of the three was repealed by Parliament or struck down by the courts. Read with the fundamental duty concerning the natural environment, inserted by the same amendment, Article 48A later supplied interpretive support for environmental litigation and for regulatory statutes.
+
+### Q: What did Article 31D, inserted by the 42nd Amendment, empower Parliament to do?
+
+It inserted Article 31D, which empowered Parliament to make laws against activities and associations described in the provision as anti-national, and provided that such a law could not be challenged on the ground that it violated the freedoms of speech, assembly or association. The provision did not itself ban any activity or association. Its significance lay in its structure. The content of the category was left to be defined by later ordinary legislation, while the immunity from rights challenge was fixed in the Constitution itself. No major statute was enacted in reliance on it during its short life, and no substantial body of litigation arose under it. The Forty-third Amendment repealed Article 31D in 1977.
+
+### Q: What did the 42nd Amendment change about the duration of President's Rule?
+
+It lengthened the period for which President's Rule could continue in a state. Under Article 356, the Union may assume the functions of a state government where the government of that state cannot be carried on in accordance with the Constitution, and a proclamation to that effect operates only for a limited period, extendable with parliamentary approval up to an outer limit. By extending that structure, the amendment allowed central administration to displace an elected state government for longer before control had to be returned to it. The change belonged to the Emergency machinery, because its practical effect was to postpone the restoration of elected government in a state. The Forty-fourth Amendment constrained the extended position in 1978.
+
+### Q: What did Article 257A, inserted by the 42nd Amendment, allow the Union to do?
+
+It inserted Article 257A, which empowered the Union to deploy armed forces of the Union, or any other force subject to the control of the Union, in a state to deal with a grave situation of law and order in that state. The provision gave the Union a direct instrument within a field ordinarily administered by the state, without first assuming the functions of the state government under a proclamation of President's Rule. It therefore sat with the Emergency machinery of the amendment rather than with its transfer of legislative subjects between the lists in the Seventh Schedule. The Forty-fourth Amendment repealed Article 257A in 1978, so the deployment power in that constitutional form did not survive the restoration amendments.
