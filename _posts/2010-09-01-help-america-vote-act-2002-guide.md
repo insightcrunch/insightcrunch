@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Help America Vote Act", "Election Administration", "Voting Rights", "Election Reform"]
 excerpt: "The Help America Vote Act set floors for voting equipment, provisional ballots, statewide registration lists, and disability access in federal elections."
 image: "/assets/images/blog/blog-37.webp"
-reading_time: "70"
+reading_time: 84
 author: "maria-santos"
 last_updated: 2026-09-29
 lang: en

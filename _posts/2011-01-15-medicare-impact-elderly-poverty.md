@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Elderly Poverty", "Health Policy", "Social Security"]
 excerpt: "Medicare elderly poverty is often miscast: the law insured the old against ruinous bills, not lower poverty or mortality. This account weighs the evidence."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "71"
+reading_time: 82
 author: "ian-fletcher"
 last_updated: 2026-10-01
 lang: en

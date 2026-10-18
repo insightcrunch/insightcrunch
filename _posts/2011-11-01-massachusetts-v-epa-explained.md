@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Supreme Court", "Environmental Litigation", "Administrative Law", "EPA Rulemaking"]
 excerpt: "Massachusetts v. EPA made greenhouse gases Clean Air Act pollutants; the cases around it priced the statute's breadth from Chevron to the major questions era."
 image: "/assets/images/blog/blog-39.webp"
-reading_time: "70"
+reading_time: 84
 author: "maria-santos"
 last_updated: 2026-10-01
 lang: en

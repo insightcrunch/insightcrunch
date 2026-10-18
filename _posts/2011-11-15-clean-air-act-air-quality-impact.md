@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Air Quality", "EPA", "Environmental Law", "Benefit Cost Analysis"]
 excerpt: "The Clean Air Act cut air pollution while the economy grew: combined emissions fell nearly four fifths, blood lead fell 93 percent, and cleaner air saved lives."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "81"
+reading_time: 94
 author: "maria-santos"
 last_updated: 2026-10-01
 lang: en

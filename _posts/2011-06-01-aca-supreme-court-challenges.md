@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Supreme Court", "Health Care Law", "Taxing Power", "Religious Liberty"]
 excerpt: "Seven Supreme Court cases tested the Affordable Care Act in turn. Each holding is stated from the opinions, with the three-theory pattern mapped throughout."
 image: "/assets/images/blog/blog-78.webp"
-reading_time: "69"
+reading_time: 85
 author: "hannah-moore"
 last_updated: 2026-10-01
 lang: en

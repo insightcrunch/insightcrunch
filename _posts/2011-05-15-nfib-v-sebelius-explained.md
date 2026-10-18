@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "NFIB v. Sebelius", "Constitutional Law", "Health Law", "Federal Courts"]
 excerpt: "NFIB v. Sebelius was undecided in the spring, with district courts split and appeals pending. This guide maps the suits, the four questions, and the arguments."
 image: "/assets/images/blog/blog-68.webp"
-reading_time: "70"
+reading_time: 82
 author: "patrick-dunn"
 last_updated: 2026-10-01
 lang: en

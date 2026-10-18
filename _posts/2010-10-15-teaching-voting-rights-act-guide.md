@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Teaching Guide", "Fifteenth Amendment", "Preclearance", "Reauthorization"]
 excerpt: "Teaching the Voting Rights Act starts with the century of evasion, then preclearance mechanics, the reauthorizations, primary documents, and exam strategy."
 image: "/assets/images/blog/blog-33.webp"
-reading_time: "78"
+reading_time: 78
 author: "katherine-blake"
 last_updated: 2026-09-29
 lang: en

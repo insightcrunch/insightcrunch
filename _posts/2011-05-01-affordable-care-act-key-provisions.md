@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Law", "Insurance Regulation", "Tax Code", "Statutory Duties"]
 excerpt: "The Affordable Care Act binds insurers, employers, individuals, and states. This reference maps each duty to its statute, threshold, exemption, and enforcer."
 image: "/assets/images/blog/blog-68.webp"
-reading_time: "70"
+reading_time: 83
 author: "samantha-lee"
 last_updated: 2026-10-01
 lang: en

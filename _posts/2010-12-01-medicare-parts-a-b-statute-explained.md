@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Title XVIII", "Health Policy", "Statutory Interpretation"]
 excerpt: "Medicare Parts A and B are two statutory programs: hospital insurance earned through work history, and voluntary medical insurance bought by enrollment."
 image: "/assets/images/blog/blog-30.webp"
-reading_time: "69"
+reading_time: 79
 author: "marcus-hall"
 last_updated: 2026-10-01
 lang: en

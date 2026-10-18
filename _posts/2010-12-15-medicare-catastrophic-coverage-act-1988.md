@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Medicaid", "Health Policy", "Reagan Administration", "Tax Policy"]
 excerpt: "The Medicare Catastrophic Coverage Act expanded Medicare, then was repealed over its beneficiary surtax. What it did, why seniors revolted, and what survived."
 image: "/assets/images/blog/blog-113.webp"
-reading_time: "71"
+reading_time: 80
 author: "natalie-webb"
 last_updated: 2026-10-01
 lang: en

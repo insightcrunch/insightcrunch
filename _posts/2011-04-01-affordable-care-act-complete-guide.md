@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Law", "Insurance Regulation", "Medicare", "Medicaid", "Tax Policy"]
 excerpt: "The Affordable Care Act is two statutes, not one. This guide maps its five machines: insurance rules, exchanges, Medicaid expansion, financing, and delivery."
 image: "/assets/images/blog/blog-73.webp"
-reading_time: "80"
+reading_time: 89
 author: "jessica-kim"
 last_updated: 2026-10-01
 lang: en

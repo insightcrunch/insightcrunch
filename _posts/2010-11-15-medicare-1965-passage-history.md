@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Congress", "Legislative History", "Social Security", "Great Society", "Lyndon Johnson"]
 excerpt: "How did Medicare finally pass Congress? The history of the committee blockade, the election that broke it, and the three-part bargain that became law."
 image: "/assets/images/blog/blog-05.webp"
-reading_time: "70"
+reading_time: 82
 author: "william-knight"
 last_updated: 2026-10-01
 lang: en

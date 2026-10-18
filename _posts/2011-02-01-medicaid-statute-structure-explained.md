@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicaid", "Title XIX", "Health Policy", "Social Security Act", "state plans", "FMAP"]
 excerpt: "The Medicaid statute turns federal money into state-run health coverage. This guide maps Title XIX state plans, FMAP rates, eligibility, benefits, and waivers."
 image: "/assets/images/blog/blog-101.webp"
-reading_time: "69"
+reading_time: 81
 author: "michael-brooks"
 last_updated: 2026-10-01
 lang: en

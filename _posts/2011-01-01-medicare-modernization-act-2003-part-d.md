@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Medicare Part D", "Prescription Drug Coverage", "Health Legislation", "Statute Explained"]
 excerpt: "Medicare Part D covers outpatient drugs through private plans, with a noninterference clause, a three-hour House vote, and a cost fight that shaped the benefit."
 image: "/assets/images/blog/blog-28.webp"
-reading_time: "70"
+reading_time: 82
 author: "michael-brooks"
 last_updated: 2026-10-01
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Policy", "Congress", "Supreme Court", "Study Guides"]
 excerpt: "Ten claims about the Affordable Care Act, from death panels to the mandate, are tested against the statute and the record, with errors corrected on every side."
 image: "/assets/images/blog/blog-01.webp"
-reading_time: "69"
+reading_time: 84
 author: "samantha-lee"
 last_updated: "2011-08-15"
 lang: en

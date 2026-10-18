@@ -6,7 +6,7 @@ date: "2011-02-15"
 categories: "US Legislation"
 excerpt: "CMS Medicare rules turn statutes into payment rates and coverage decisions. This guide traces rulemaking, coverage determinations, guidance, and appeals ladder."
 image: "/assets/images/blog/blog-106.webp"
-reading_time: "78"
+reading_time: 91
 author: "insight-crunch-team"
 last_updated: 2026-10-01
 tags: ["US Legislation", "CMS", "Medicare", "Rulemaking", "Administrative Law", "Coverage Determinations", "Appeals"]

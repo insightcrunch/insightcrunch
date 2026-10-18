@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "NAAQS", "EPA", "Air Quality", "Environmental Law"]
 excerpt: "National Ambient Air Quality Standards cap six pollutants nationwide. This guide explains listing, standard setting, designations, state plans, and enforcement."
 image: "/assets/images/blog/blog-64.webp"
-reading_time: "75"
+reading_time: 89
 author: "maria-santos"
 last_updated: 2026-10-01
 lang: en

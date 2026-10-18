@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Law", "Tax Law", "Statutory Amendments", "Congress"]
 excerpt: "The Affordable Care Act was never repealed, but Congress rewrote it piece by piece: one title, one board, three taxes, a zeroed payment, and enlarged credits."
 image: "/assets/images/blog/blog-55.webp"
-reading_time: "72"
+reading_time: 87
 author: "natalie-webb"
 last_updated: 2026-10-01
 lang: en

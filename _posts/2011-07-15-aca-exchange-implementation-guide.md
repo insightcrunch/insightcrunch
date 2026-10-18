@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Health Insurance Exchanges", "Implementation", "HealthCare.gov", "Public Policy"]
 excerpt: "Health insurance exchanges were the ACA's delivery engine. This guide traces the inversion, the launch failure, the recovery, the risk programs, and the legacy."
 image: "/assets/images/blog/blog-73.webp"
-reading_time: "68"
+reading_time: 81
 author: "michael-brooks"
 last_updated: 2026-10-01
 lang: en

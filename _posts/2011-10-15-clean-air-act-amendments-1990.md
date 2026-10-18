@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "EPA", "Air Quality", "Acid Rain Program"]
 excerpt: "The 1990 Clean Air Act amendments rewrote US air law with graded ozone deadlines, cleaner fuels, rebuilt toxics rules, acid rain trading, and operating permits."
 image: "/assets/images/blog/blog-96.webp"
-reading_time: "71"
+reading_time: 86
 author: "natalie-webb"
 last_updated: 2026-10-01
 lang: en

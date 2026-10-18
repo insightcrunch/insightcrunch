@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Congressional Roll Calls", "Health Care Law", "Senate Votes", "House Votes"]
 excerpt: "The Affordable Care Act passed with zero minority-party votes in either chamber and survived repeal by one vote. Every roll call in both sequences, broken down."
 image: "/assets/images/blog/blog-04.webp"
-reading_time: "69"
+reading_time: 83
 author: "katherine-blake"
 lang: en
 ---

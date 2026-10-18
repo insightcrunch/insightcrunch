@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "EPA", "Air Quality", "Statute Guide"]
 excerpt: "The Clean Air Act sets health targets first and weighs cost second. This complete guide explains the six machines turning targets into enforceable duties."
 image: "/assets/images/blog/blog-102.webp"
-reading_time: "78"
+reading_time: 93
 author: "samantha-lee"
 last_updated: 2026-10-01
 lang: en

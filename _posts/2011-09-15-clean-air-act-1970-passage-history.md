@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "Congressional History", "Edmund Muskie", "Richard Nixon"]
 excerpt: "Clean Air Act passage history: how a rivalry for ownership pushed the bill toward stringency and produced a statute stronger than either side first proposed."
 image: "/assets/images/blog/blog-26.webp"
-reading_time: "72"
+reading_time: 84
 author: "michael-brooks"
 lang: en
 ---

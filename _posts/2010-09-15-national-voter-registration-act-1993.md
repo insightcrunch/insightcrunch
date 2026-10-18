@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Voter Registration", "Motor Voter", "Election Law", "List Maintenance"]
 excerpt: "The National Voter Registration Act made motor vehicle offices, mail forms, and public agencies offer registration while limiting how states purge their rolls."
 image: "/assets/images/blog/blog-107.webp"
-reading_time: "68"
+reading_time: 81
 author: "simon-hartley"
 last_updated: 2026-09-29
 lang: en

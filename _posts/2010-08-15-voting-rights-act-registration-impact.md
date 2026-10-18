@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Voter Registration", "Fifteenth Amendment", "Election Law", "Civil Rights"]
 excerpt: "The Voting Rights Act impact was swift: Black registration tripled in two years where suppression was worst, and officeholding gains followed over decades."
 image: "/assets/images/blog/blog-76.webp"
-reading_time: 69
+reading_time: 82
 author: "hannah-moore"
 last_updated: 2026-09-29
 lang: en

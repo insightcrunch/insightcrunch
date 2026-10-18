@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Health Policy", "Medicare", "Medicaid", "Federal Statutes", "Health Reform"]
 excerpt: "US health legislation follows one logic across six decades: each statute attacked the gap its predecessors left, from hospital building to market rules."
 image: "/assets/images/blog/blog-61.webp"
-reading_time: "68"
+reading_time: 80
 author: "kevin-reeves"
 last_updated: 2026-10-01
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Medicaid", "Social Security Act", "Health Law", "Dual Eligibility"]
 excerpt: "Medicare vs Medicaid: six legal axes decide which statute answers your question, from entitlement and financing to long-term care and the courthouse door."
 image: "/assets/images/blog/blog-07.webp"
-reading_time: "69"
+reading_time: 81
 author: "simon-hartley"
 last_updated: 2026-10-01
 lang: en

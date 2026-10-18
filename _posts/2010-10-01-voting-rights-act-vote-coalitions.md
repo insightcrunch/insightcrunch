@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Roll Call Votes", "Congressional Coalitions", "Fifteenth Amendment"]
 excerpt: "Voting Rights Act votes built the coalition roll call by roll call: a filibuster beaten on procedure and a unanimous finale hiding a live fight over coverage."
 image: "/assets/images/blog/blog-104.webp"
-reading_time: 69
+reading_time: 73
 author: "natalie-webb"
 last_updated: 2026-09-29
 lang: en
