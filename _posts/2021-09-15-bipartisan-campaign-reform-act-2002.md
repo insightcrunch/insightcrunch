@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "McCain-Feingold Act", "Campaign Finance", "Congress", "Supreme Court", "American History"]
 excerpt: "The McCain-Feingold Act banned party soft money, regulated pre-election broadcast ads, raised and indexed contribution limits, and met four court tests."
 image: "/assets/images/blog/blog-71.webp"
-reading_time: "80"
+reading_time: 93
 author: "christopher-wells"
 last_updated: 2026-10-17
 lang: en

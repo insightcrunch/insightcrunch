@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The farm bill is an omnibus reauthorization whose largest title is nutrition, held together by an urban and rural coalition and a permanent law deadline."
 image: "/assets/images/blog/blog-29.webp"
-reading_time: "94"
+reading_time: 109
 author: "gregory-marsh"
 last_updated: 2026-10-17
 lang: en

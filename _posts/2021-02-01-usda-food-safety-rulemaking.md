@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Food Safety", "Health Policy", "Congress", "Legislative Process", "Supreme Court", "American History"]
 excerpt: "USDA food safety rules divide meat, poultry, and egg products from the wider food supply, shaping inspection, labels, recalls, and enforcement duties."
 image: "/assets/images/blog/blog-69.webp"
-reading_time: "105"
+reading_time: 119
 author: "andrew-price"
 last_updated: 2026-10-17
 lang: en

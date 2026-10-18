@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Violent Crime Control Act", "Congress", "Criminal Justice", "American History", "Legislative Process"]
 excerpt: "The assault weapons ban's government evaluations found small effects at most, and the RAND review rates the evidence inconclusive on most major outcomes."
 image: "/assets/images/blog/blog-89.webp"
-reading_time: "97"
+reading_time: 109
 author: "simon-hartley"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Freedom to Farm Act", "Farm Policy", "Agriculture", "Congress", "American History"]
 excerpt: "Freedom to Farm replaced price linked payments with fixed contract payments, freed planting choices, and then faced emergency aid when prices collapsed."
 image: "/assets/images/blog/blog-69.webp"
-reading_time: "94"
+reading_time: 103
 author: "jessica-kim"
 last_updated: 2026-10-17
 lang: en

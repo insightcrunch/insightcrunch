@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Farm Subsidies", "Agricultural Policy", "Congress", "Trade Policy", "Environmental Law", "American History"]
 excerpt: "Farm subsidy impact research follows the money past the farm gate: concentrated payments, rents captured by landowners, and measured planting effects."
 image: "/assets/images/blog/blog-25.webp"
-reading_time: "97"
+reading_time: 111
 author: "william-knight"
 last_updated: 2026-10-17
 lang: en

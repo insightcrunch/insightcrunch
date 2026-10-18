@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "Study Guides"]
 excerpt: "Commodity titles vs nutrition titles in the farm bill, compared on money, constituency, volatility, and jurisdiction, with the split test and a verdict."
 image: "/assets/images/blog/blog-47.webp"
-reading_time: "80"
+reading_time: 93
 author: "marcus-hall"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Violent Crime Control Act", "Congress", "Criminal Justice", "American History", "Supreme Court"]
 excerpt: "The federal assault weapons ban sorted firearms by named models and counted features, grandfathered the stock in private hands, and ended on its own schedule."
 image: "/assets/images/blog/blog-35.webp"
-reading_time: "99"
+reading_time: 110
 author: "daniel-morgan"
 last_updated: 2026-10-17
 lang: en

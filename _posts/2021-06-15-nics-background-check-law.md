@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Brady Act", "Criminal Justice", "Congress", "American History"]
 excerpt: "A NICS background check explained through its mandate, three databases, three responses, default proceed clock, record destruction rule, and state division."
 image: "/assets/images/blog/blog-110.webp"
-reading_time: "91"
+reading_time: 104
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

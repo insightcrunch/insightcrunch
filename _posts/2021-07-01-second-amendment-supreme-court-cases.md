@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Second Amendment", "Supreme Court", "Criminal Justice", "American History", "Congress"]
 excerpt: "Second Amendment Supreme Court cases from Miller through Rahimi, with each holding, the qualifying passages the opinions carry, and the test courts apply."
 image: "/assets/images/blog/blog-17.webp"
-reading_time: "94"
+reading_time: 107
 author: "kevin-reeves"
 last_updated: 2026-10-17
 lang: en

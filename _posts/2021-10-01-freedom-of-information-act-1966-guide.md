@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "Government Transparency", "Congress", "Administrative Law", "American History"]
 excerpt: "The Freedom of Information Act reversed who must justify secrecy: agencies disclose records unless one of nine exemptions applies, and the burden is theirs."
 image: "/assets/images/blog/blog-13.webp"
-reading_time: "86"
+reading_time: 101
 author: "hannah-moore"
 last_updated: 2026-10-17
 lang: en

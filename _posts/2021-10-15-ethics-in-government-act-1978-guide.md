@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Ethics in Government Act", "Government Ethics", "Congress", "Supreme Court", "American History"]
 excerpt: "The Ethics in Government Act built the federal ethics framework on public disclosure, an ethics office, revolving door bars, and an outside prosecutor."
 image: "/assets/images/blog/blog-09.webp"
-reading_time: "83"
+reading_time: 97
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

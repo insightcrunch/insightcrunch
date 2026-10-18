@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Agricultural Act of 1949", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The Agricultural Act of 1949 never expires, so every farm bill suspends its parity supports and dairy purchases instead of repealing the permanent law."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "99"
+reading_time: 112
 author: "natalie-webb"
 last_updated: 2026-10-17
 lang: en

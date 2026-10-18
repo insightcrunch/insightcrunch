@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Firearms Law", "Gun Control Act", "Supreme Court", "Criminal Justice", "Legislative Process"]
 excerpt: "Federal gun law myths tested against the statute text: repeal, registry, online sales, immunity, storage, and court rulings examined claim by claim closely."
 image: "/assets/images/blog/blog-64.webp"
-reading_time: "90"
+reading_time: 102
 author: "christopher-wells"
 last_updated: 2026-10-17
 lang: en

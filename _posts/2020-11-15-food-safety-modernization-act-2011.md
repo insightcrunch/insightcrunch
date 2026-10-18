@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Food Safety Modernization Act", "Health Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "The Food Safety Modernization Act replaced reaction with prevention, giving the food agency written preventive controls, produce standards, and recall power."
 image: "/assets/images/blog/blog-68.webp"
-reading_time: "80"
+reading_time: 92
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

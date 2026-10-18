@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Farm Bill", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
 excerpt: "Farm bill myths graded one by one against the statutes and the data: the welfare bill, rich farmers, cheap food, obesity, expiry and the organic label."
 image: "/assets/images/blog/blog-71.webp"
-reading_time: "87"
+reading_time: 99
 author: "nathan-cole"
 last_updated: 2026-10-17
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Gun Control Act", "Criminal Justice", "Congress", "American History"]
 excerpt: "The Gun Control Act of 1968 built firearms law around the licensed dealer: its licensing and records system, prohibited persons, transfer rules, and amendments."
 image: "/assets/images/blog/blog-76.webp"
-reading_time: "99"
+reading_time: 111
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

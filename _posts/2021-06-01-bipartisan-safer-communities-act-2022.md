@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Bipartisan Safer Communities Act", "Criminal Justice", "Health Policy", "Congress", "American History"]
 excerpt: "The Bipartisan Safer Communities Act created offenses for straw purchasing and trafficking, extended a prohibition to dating partners, and funded programs."
 image: "/assets/images/blog/blog-49.webp"
-reading_time: "92"
+reading_time: 104
 author: "michael-brooks"
 last_updated: 2026-10-17
 lang: en

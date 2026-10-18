@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Federal Election Campaign Act", "Campaign Finance", "Congress", "Supreme Court", "American History"]
 excerpt: "The Federal Election Campaign Act built modern campaign finance law: disclosure, contribution limits, public financing, an enforcement body, and court review."
 image: "/assets/images/blog/blog-56.webp"
-reading_time: "111"
+reading_time: 124
 author: "katherine-blake"
 last_updated: 2026-10-17
 lang: en

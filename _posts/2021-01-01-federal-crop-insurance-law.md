@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Federal Crop Insurance Act", "Agriculture Policy", "Farm Bill", "Legislative Process", "Congress"]
 excerpt: "An account of federal crop insurance law: how premiums are subsidized, how companies deliver policies, and how reinsurance shares the underlying risk."
 image: "/assets/images/blog/blog-28.webp"
-reading_time: "93"
+reading_time: 106
 author: "samantha-lee"
 last_updated: 2026-10-17
 lang: en

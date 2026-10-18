@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Firearms Law", "Congress", "Supreme Court", "Criminal Justice", "Legislative Process"]
 excerpt: "Federal vs state firearms law divides the work: the federal layer licenses commerce while states govern conduct, and the deciding layer is usually state."
 image: "/assets/images/blog/blog-104.webp"
-reading_time: "95"
+reading_time: 107
 author: "james-carter"
 last_updated: 2026-10-17
 lang: en
