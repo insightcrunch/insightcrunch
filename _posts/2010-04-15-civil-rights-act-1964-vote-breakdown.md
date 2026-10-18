@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Civil Rights", "Legislative Process", "American History"]
 excerpt: "Civil Rights Act of 1964 vote breakdown: all four roll calls by party and by region, the named opponents, and what the tallies do and do not establish."
 image: "/assets/images/blog/blog-29.webp"
-reading_time: 68
+reading_time: 70
 author: "daniel-morgan"
 last_updated: 2026-08-05
 lang: en
@@ -576,3 +576,19 @@ The 1965 margins were wider. The Senate passed the voting rights bill 77 to 19 a
 ### Q: Who managed the Civil Rights Act of 1964 on the Senate floor?
 
 Hubert Humphrey of Minnesota, then the Democratic whip, was the principal floor manager, paired with Thomas Kuchel of California as the Republican floor manager. The pairing was deliberate, because a bill requiring two-thirds in a chamber where one party held well under that share could not be managed by a single caucus. Mike Mansfield, the majority leader, made the procedural decision to keep the bill off the Judiciary Committee calendar, and Everett Dirksen, the Republican leader, delivered the Republican votes through the substitute text that carries his name. Richard Russell of Georgia directed the opposition as a coordinated procedural campaign.
+
+### Q: How did southern Republicans vote on the Civil Rights Act of 1964?
+
+Southern Republicans opposed the bill without exception in the recorded votes reported in this article. In the House, the eleven states of the former Confederacy sent ten Republican members, and all ten voted against passage on February 10, 1964. No southern Republican voted in favor. In the Senate, the region had a single Republican senator, John Tower of Texas, and he voted against cloture on June 10 and against passage on June 19. The pattern matters because it shows that southern opposition crossed party lines. A Republican delegation drawn from the same states as the southern Democratic bloc produced the same voting result, which supports the article's finding that region, rather than party label, predicted a member's position on this bill.
+
+### Q: Why was the Senate passage tally higher than the cloture tally?
+
+The Senate passed the bill by 73 to 27 on June 19, 1964, two votes higher than the 71 to 29 tally for cloture on June 10. The article explains the gap as a difference between procedure and substance rather than a change of mind about the bill itself. A senator could oppose cutting off debate on institutional grounds, holding that discussion should be allowed to continue, and then support the bill once debate had ended and a final decision was before the chamber. That combination was a recognized position. The reverse combination, voting to end debate and then voting against passage, was rarer. The small movement between the tallies therefore reflects how members treated the two questions, not a late shift in support.
+
+### Q: How did the border-state delegations vote on the Civil Rights Act of 1964?
+
+The six border-state delegations divided on the bill rather than voting as a bloc. Kentucky, Oklahoma, West Virginia, Maryland, Delaware and Missouri were excluded from this article's definition of the South, which covers the eleven states of the former Confederacy. Their members voted in a pattern closer to the rest of the country than to the eleven-state bloc, although they supplied a larger share of no votes than the northern average. That mixed record matters for reading regional percentages. Adding the border states to the southern group raises the southern support rate and narrows the regional gap, while the gap remains very large and region continues to predict votes better than party on each roll call.
+
+### Q: Why do the House roll-call totals fall short of 435 members?
+
+The House totals fall short of 435 because a roll call records only members who cast a vote. On February 10, 1964, the tally of 290 in favor and 130 against accounts for 420 members, leaving the remainder absent, not voting, or holding seats that were vacant. On July 2, the tally of 289 to 126 accounts for 415 members. An absence carries no recorded position, and treating a missing member as a silent no vote misreads the record. Published sources can also differ because live pairs and announced positions appear in the Congressional Record without forming part of the raw tally. This article uses the recorded roll call, so its totals follow the votes cast in the chamber.

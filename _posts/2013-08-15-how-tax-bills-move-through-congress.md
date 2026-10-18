@@ -34,7 +34,7 @@ The pipeline begins with a single sentence in Article I, section 7 of the Consti
 
 The framers borrowed the principle from English practice, where money bills originated in the House of Commons, and they fitted it to a republican theory of representation. Members of the House stood for election every two years, which made the lower chamber the body closest to the people, and the chamber closest to the people would have the first word on taking the people's money. The Senate of the founding era was a different institution. Its members were chosen by state legislatures rather than by popular vote, and they served six-year terms, which put distance between senators and the electorate by design. Giving the House the first word on revenue was a way of keeping the taxing power near the voters. The compromise also formed part of the Great Compromise that made the Constitution possible. The large states, which accepted equal representation of the states in the Senate, received in return the assurance that revenue measures would originate in the chamber where representation tracked population.
 
-### Q: Why must a revenue measure start in the House, and what is the Senate's workaround?
+### Why must a revenue measure start in the House, and what is the Senate's workaround?
 
 The Constitution's Origination Clause gives the House the first word on revenue bills, because its members face election every two years. When the Senate wants to drive the substance, it takes an unrelated House-passed revenue bill as a vehicle, strikes everything after the enacting clause, and substitutes its own text, satisfying the clause in form while writing the substance.
 
@@ -46,7 +46,7 @@ The workaround deserves a close look, because it is the mechanism by which sever
 
 That the Senate may go this far rests on the second half of the clause, which provides that the Senate may propose or concur with amendments as on other bills. The framers debated whether to limit the Senate's amendment power over revenue bills and decided against any limit. A narrow reading would have confined the Senate to tinkering with House language. The broad power the clause actually grants lets the Senate replace the House's language wholesale. The choice was deliberate, and it reflects the same compromise that produced the clause itself. The House would have the first word, but the Senate would have a full and equal say in the final text, and a full and equal say can mean a complete rewrite.
 
-### Q: How does the Senate drive the substance of a revenue bill?
+### How does the Senate drive the substance of a revenue bill?
 
 The Senate takes a revenue bill the House has already passed, strikes all text after the enacting clause, and substitutes its own complete draft as an amendment in the nature of a substitute. The House number satisfies the Origination Clause in form, and the Senate's broad amendment power supplies the substance.
 
@@ -72,7 +72,7 @@ The Senate counterpart is the Committee on Finance, created in 1815, which holds
 
 That concentration of power is reinforced by the procedure under which tax bills typically reach the House floor. Most major legislation comes to the floor under a special rule reported by the Committee on Rules, and for tax bills that rule is usually a closed rule, which bars floor amendments entirely, or a structured rule, which permits only a handful of specified amendments. The closed rule means that the full House votes the committee's product up or down without being able to change a comma. The justification is practical. Tax legislation is an intricate lattice in which each provision interacts with the others, and opening such a bill to hundreds of floor amendments would produce chaos and unravel the bargains the committee struck. The effect is to concentrate power in the committee and its leadership. The floor retains the final say, but only in the blunt form of acceptance or rejection.
 
-### Q: Why do tax measures reach the House floor under rules that forbid amendments?
+### Why do tax measures reach the House floor under rules that forbid amendments?
 
 Tax legislation is an intricate lattice where each provision interacts with the others, so opening it to hundreds of floor amendments would unravel the bargains struck in committee. The Rules Committee therefore typically reports a closed rule barring amendments, which concentrates drafting power in Ways and Means and gives the full House only an up-or-down vote.
 
@@ -104,7 +104,7 @@ The Congressional Budget Office, created by the Congressional Budget Act of 1974
 
 The distinction matters because the two kinds of estimates answer different questions and rest on different conventions. A revenue estimate asks how a change in tax law would change federal receipts, holding the rest of the economy's structure as modeled. A spending estimate asks how a change in law would change federal outlays, often by modeling how many people would qualify for a benefit and what the benefit would cost. The techniques overlap, the staffs consult, and the numbers must be consistent with each other, but the institutional responsibility is divided, and the division is statutory and customary rather than accidental. The series carries a full account of the budget office's methods, and readers who want the spending side of the comparison should consult the companion article on [how the Congressional Budget Office scores legislation](https://insightcrunch.com/2020/05/15/how-cbo-scores-legislation/).
 
-### Q: Which office produces the official revenue estimate for a tax measure, and how does its job differ from the spending scorekeeper's?
+### Which office produces the official revenue estimate for a tax measure, and how does its job differ from the spending scorekeeper's?
 
 The Joint Committee on Taxation, created in 1926, produces the official revenue estimates for tax legislation, and only its numbers count for procedural purposes. The Congressional Budget Office, created in 1974, scores spending and produces baseline budget projections. When a bill contains both, the Joint Committee prices the tax side and the budget office prices the spending side.
 
@@ -172,11 +172,11 @@ The window governs the policy: in modern practice the budget window and the Byrd
 
 Everything in the reconciliation track flows from that sentence. The budget resolution sets the window. The estimators score the provisions against it. The parliamentarian applies the rule. And the drafters, knowing all of this in advance, write sunsets into provisions they would prefer to make permanent, because a temporary provision that passes is worth more than a permanent provision that is struck. The procedure does not merely constrain the policy. It authors the statute's architecture.
 
-### Q: Why do reconciliation tax bills carry expiration dates?
+### Why do reconciliation tax bills carry expiration dates?
 
 The Byrd rule bars any reconciliation provision that increases the deficit beyond the budget window, conventionally ten years, and waiving the rule takes sixty votes. Drafters therefore expire provisions at the window's edge, so the official score shows no deficit increase beyond it. The sunsets are procedural artifacts, not judgments about how long a cut should last.
 
-### Q: What does the Byrd rule remove from a reconciliation bill?
+### What does the Byrd rule remove from a reconciliation bill?
 
 The Byrd rule removes extraneous matter from reconciliation bills. Among the six tests, it strikes provisions that change no outlays or revenues, provisions whose budgetary effect is merely incidental to a nonbudgetary purpose, provisions outside the reporting committee's jurisdiction, and provisions that increase deficits beyond the budget window.
 
@@ -264,7 +264,7 @@ The constitutional starting point is the distinction between criminal and civil 
 
 The leading modern statement came in United States v. Carlton, decided in 1994. The case concerned an amendment to the estate tax deduction for sales of employer securities to employee stock ownership plans, enacted in 1987 and applied retroactively to transactions after 1986. The taxpayer argued that the retroactive application violated due process. The Court upheld the statute, emphasizing that the retroactivity was modest in length, that Congress had acted promptly to correct what it viewed as a drafting error, and that the amendment was rationally related to a legitimate legislative purpose. The decision did not give Congress a blank check. It tied the permissibility of retroactivity to its justification and its scope, and it left open the possibility that a more extreme retroactive reach, one extending many years back without a corrective rationale, might fail the test. But within those limits, the Court confirmed what Congress had long assumed. Tax legislation may operate retroactively, and effective dates earlier than enactment are constitutionally sound.
 
-### Q: Can Congress make a tax change apply to transactions that occurred before enactment?
+### Can Congress make a tax change apply to transactions that occurred before enactment?
 
 Yes, within limits the Supreme Court has sustained. Retroactive tax provisions are civil rather than criminal, so the ex post facto prohibition does not apply, and the Court upheld a retroactive estate tax amendment in United States v. Carlton in 1994 where the retroactivity was modest and rationally related to a legitimate purpose. Extreme retroactivity without justification remains untested.
 

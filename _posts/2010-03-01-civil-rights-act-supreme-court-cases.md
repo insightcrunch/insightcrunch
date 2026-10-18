@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Supreme Court", "Congress", "American History"]
 excerpt: "Civil Rights Act Supreme Court cases in order: what Heart of Atlanta, Griggs, Wards Cove, Ledbetter and Bostock held, and which rulings Congress reversed."
 image: "/assets/images/blog/blog-69.webp"
-reading_time: 68
+reading_time: 70
 author: "natalie-webb"
 last_updated: 2026-08-05
 lang: en
@@ -441,3 +441,19 @@ Ricci v. DeStefano, 557 U.S. 557 (2009), held that before an employer may take a
 ### Q: Did Title VII ever fail to protect Americans working overseas?
 
 Yes, between March 1991 and November 1991. In EEOC v. Arabian American Oil Co., 499 U.S. 244 (1991), the Court held that Title VII did not apply to United States citizens employed by American companies outside the United States, applying the presumption that federal statutes do not operate extraterritorially unless Congress says so clearly. The decision issued while the legislative response to the 1989 employment cases was already in progress, and the Civil Rights Act of 1991 extended the title's coverage to American citizens employed abroad by American-controlled employers, subject to an exception where compliance would violate the law of the country where the workplace is located.
+
+### Q: What did Katzenbach v. McClung decide about a local restaurant under Title II?
+
+Katzenbach v. McClung, 379 U.S. 294 (1964), decided the same day as Heart of Atlanta Motel, tested Title II against a harder set of facts. Ollie's Barbecue was a family restaurant in Birmingham, Alabama, eleven blocks from an interstate highway, serving a largely local clientele with few interstate travelers. Its connection to commerce was the food itself, a substantial portion of which had moved in interstate commerce before reaching the kitchen. The Court held that Congress may reach such a restaurant, because Congress had a rational basis for finding that discrimination in restaurants, taken in the aggregate, burdens interstate commerce in food and in travel. Coverage for restaurants therefore turned on the supply chain rather than on the customer base.
+
+### Q: What did Connecticut v. Teal hold about the bottom-line defense under Title VII?
+
+Connecticut v. Teal, 457 U.S. 440 (1982), rejected an employer's attempt to answer a disparate impact claim with favorable overall results. The employer argued that its promotion process as a whole produced a favorable rate for Black candidates, so the exclusion caused by one written test within that multi-step process should create no liability. The Court held that Title VII protects individuals rather than groups, and that a balanced bottom line does not immunize a particular selection device that excludes candidates on a prohibited basis. Each step in a hiring or promotion sequence therefore became independently reviewable, which is why compliance review in this area proceeds step by step rather than by aggregate outcomes alone.
+
+### Q: What standard did Burlington Northern v. White set for Title VII retaliation claims?
+
+Burlington Northern and Santa Fe Railway Co. v. White, 548 U.S. 53 (2006), set the standard for retaliation under section 704(a) of Title VII, the provision barring discrimination against a person who opposed an unlawful practice or participated in an investigation or proceeding. The Court held that the retaliation provision is not confined to actions affecting the terms and conditions of employment. The test is whether the employer's action might well have dissuaded a reasonable worker from making or supporting a charge. A lateral reassignment to a less desirable job, or a suspension later reversed with back pay, can therefore support a retaliation claim even though the same action would not support a discrimination claim.
+
+### Q: What did Fort Bend County v. Davis hold about the Title VII charge-filing requirement?
+
+Fort Bend County v. Davis, decided in 2019, addressed the character of Title VII's charge-filing requirement rather than the merits of a discrimination claim. The Court held that the requirement that a plaintiff file a charge with the Equal Employment Opportunity Commission before suing is a claim-processing rule rather than a jurisdictional one. The distinction decides who may raise a defect and when. A jurisdictional defect may be raised at any stage, while an employer that fails to raise a charge-filing defect in time forfeits that objection. The decision changed no substantive standard for proving discrimination, but it changed the calendar and the pleading practice in a meaningful number of employment cases.

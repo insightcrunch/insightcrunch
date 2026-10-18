@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "American History"]
 excerpt: "The Civil Rights Act of 1964 explained title by title: what each provision requires, who it covers, who it exempts, and how the whole statute is enforced."
 image: "/assets/images/blog/blog-86.webp"
-reading_time: 76
+reading_time: 79
 author: "natalie-webb"
 last_updated: 2026-08-05
 lang: en
@@ -515,3 +515,19 @@ Give the short title, the public law number, the enactment date and the principa
 ### Q: What should a student know about the Civil Rights Act of 1964 for an exam?
 
 Five things carry most of the marks. The formal identity: Public Law 88-352, signed July 2, 1964, from H.R. 7152 in the 88th Congress. The constitutional problem: the Civil Rights Cases of 1883 pushed Congress to the Commerce Clause for private businesses, and Heart of Atlanta Motel and Katzenbach v. McClung upheld that choice in December 1964. The title map: Title II public accommodations, Title VI federal funding, Title VII employment, with different protected characteristics in each. The enforcement design: the Equal Employment Opportunity Commission could not sue until 1972. And the gaps: voting waited for 1965 and housing for 1968. Answers that treat the act as a single undifferentiated prohibition lose marks on every one of these.
+
+### Q: What does Title III of the Civil Rights Act of 1964 authorize the Attorney General to do?
+
+Title III addresses access to public facilities owned, operated or managed by or on behalf of a state or its subdivisions, other than public schools, which Title IV handles separately. It does not create a new private right of action, because a claim under the Fourteenth Amendment already existed. Instead, it allows the Attorney General to bring a civil action in the name of the United States after receiving a signed written complaint alleging denial of access on the ground of race, color, religion or national origin. The Attorney General must certify that the signers are unable to bear the cost of litigation or would face economic or other injury by suing themselves, and that the action would materially further the orderly progress of desegregation.
+
+### Q: What did Title VIII of the Civil Rights Act of 1964 require on voting statistics?
+
+Title VIII directed the compilation and publication of registration and voting statistics by race and color in geographic areas identified by the Commission on Civil Rights. It was a data provision rather than an enforcement provision. It did not suspend a literacy test, send federal registrars into a county, or require a jurisdiction to obtain approval before changing an election rule. Its function was to build a factual record on how registration operated in practice and how large the gap between eligible voters and registered voters had become. The registration figures produced through this kind of counting helped make the coverage formula of the Voting Rights Act of 1965 defensible when Congress enacted that separate statute a year later.
+
+### Q: What is the Community Relations Service created by Title X of the Civil Rights Act of 1964?
+
+Title X created the Community Relations Service and placed it, as originally enacted, in the Department of Commerce, from which it was later transferred to the Department of Justice. Its function is to provide assistance to communities and persons in resolving disputes, disagreements or difficulties relating to discriminatory practices based on race, color or national origin that impair rights or affect interstate commerce. The Service has no enforcement power, and its proceedings are confidential by statute. It operates through mediation and conciliation rather than through charges, orders or lawsuits. Its inclusion in a statute built largely around litigation and funding conditions reflects an expectation that some local conflicts would be resolved better by a federal conciliator than by a court decree obtained after prolonged litigation.
+
+### Q: What jury trial right does Title XI of the Civil Rights Act of 1964 provide in criminal contempt cases?
+
+Title XI provides that in a criminal contempt proceeding arising under the act, the accused is entitled to a jury trial, with a limit on the fine and the term of imprisonment that may be imposed without one. Jury trial in criminal contempt had been the most contested procedural issue in the Civil Rights Act of 1957, because a jury drawn from a county where registration was being obstructed was unlikely to convict a local official. In the 1964 act the guarantee reappeared in narrowed form, applying to criminal contempt and not to civil contempt or to injunction proceedings. Title XI also carries a rule of construction preserving rights and authority of the Attorney General and the United States under other law, so the act supplements rather than displaces the Reconstruction era statutes.
