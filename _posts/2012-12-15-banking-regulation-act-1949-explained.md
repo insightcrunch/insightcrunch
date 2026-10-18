@@ -6,15 +6,15 @@ date: 2012-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Banking Regulation Act 1949", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "Banking Regulation Act 1949 explained: the licence every bank needs, the Reserve Bank's direction and board powers, and the moratorium that resolves a failure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2012-12-15
+lang: en
 ---
-
 Every argument about an Indian bank in trouble is really an argument about one statute. When depositors queue outside a branch, when a board is swept away overnight, when withdrawals are capped at a figure that will not cover a month of household expenses, the legal instrument being operated is almost never the law the public names. It is not the insolvency code, which does not touch banks. It is not company law, which governs banks only at the margins. It is the Banking Regulation Act 1949, a statute most readers meet for the first time on the worst day of their relationship with their bank, and meet in the form of a one-page notice pasted on a shuttered branch door.
 
-![The Banking Regulation Act 1949, showing the licensing gate, the Reserve Bank's direction powers and the moratorium used to resolve a failing bank - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Banking Regulation Act 1949, showing the licensing gate, the Reserve Bank's direction powers and the moratorium used to resolve a failing bank - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The statute wears a misleading face. Read quickly, it looks like a licensing law: it defines banking, says who may carry it on, prescribes the business a bank may and may not do, and sets the balance-sheet disciplines a bank must observe. That reading is accurate and incomplete. The provisions that decide what actually happens in a banking crisis sit in a small minority of its text, concentrated in the part of the Act that hands the Reserve Bank of India a set of intervention powers of escalating severity, ending in a moratorium and a scheme of reconstruction or amalgamation prepared by the regulator itself and sanctioned by the Central Government. The series thesis for this pillar can be stated in one sentence: the Act reads as a licensing law and operates as a resolution law. Everything in the pages that follow is organised around that gap between the text's centre of gravity and the record's.
 

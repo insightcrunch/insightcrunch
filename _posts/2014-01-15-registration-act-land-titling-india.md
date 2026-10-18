@@ -6,15 +6,15 @@ date: 2014-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Registration Act 1908", "Land Records", "Property Law", "Judiciary", "UPSC"]
 excerpt: "Registration Act 1908 explained: what registering a deed proves, why Indian title remains presumptive, and what conclusive titling would demand of states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2014-01-15
+lang: en
 ---
-
 Every year, in thousands of Sub-Registrar offices across India, the same quiet transaction takes place under the Registration Act 1908. A seller and a buyer appear before an officer, photographs and fingerprints are taken, a fee and a stamp duty are collected, a document is copied into a register book, and the parties leave with a registered sale deed that both of them believe settles the question of ownership. It does not. The registered deed proves, with the full authority of the state behind the proof, that a particular document was executed by a particular person on a particular day. It proves nothing whatever about whether that person owned the property the document purports to sell. The officer who registered it was forbidden by the design of his own office from asking that question, because the statute that employs him treats the answer as none of his business.
 
-![A registered sale deed under the Registration Act 1908, showing why deed registration proves execution rather than ownership - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A registered sale deed under the Registration Act 1908, showing why deed registration proves execution rather than ownership - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 That single fact explains more about Indian civil litigation than any other. The Registration Act 1908, Act 16 of 1908, built a machine for recording transactions in land, and it built that machine well: the machine has run for well over a century, it processes an enormous volume of documents, its records are public, its priorities are clear, and its outputs are admissible in every court in the country. What the machine was never built to do is the thing every buyer asks of it. India registers deeds, not owners. The state maintains a record of transactions and leaves the ownership those transactions assert to be proved, contested, and re-proved in courtrooms, generation after generation. Title in India is therefore presumptive: a registered deed is evidence from which ownership may be inferred, assembled by tracing a chain of documents backwards through decades of transfers, and even the most careful tracing ends in a probability rather than a guarantee, because the state guarantees nothing.
 

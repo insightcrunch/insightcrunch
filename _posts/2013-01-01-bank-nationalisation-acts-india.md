@@ -6,15 +6,15 @@ date: 2013-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bank Nationalisation", "Banking Regulation", "Constitutional Law", "Parliament", "UPSC"]
 excerpt: "Bank nationalisation in India, explained through its Acts: the 1969 ordinance, the fourteen banks, the judgment, the re-enactment and the 1980 second round."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-01-01
+lang: en
 ---
-
 On the evening of Saturday, 19 July 1969, the Government of India took ownership of the fourteen largest Indian commercial banks by the signature of a single ordinance, and it did so roughly forty-eight hours before Parliament was due to assemble for its monsoon session. Bank nationalisation, the shorthand name for that acquisition and for the second, smaller acquisition that followed in 1980, was therefore not merely an economic decision. It was a legislative event of a very particular kind: a law made at the one moment when no legislature was sitting, defended afterwards on the ground that surprise was of its essence, struck down by the Supreme Court within seven months, re-enacted in corrected form within weeks of the judgment, and finally placed beyond the reach of the same challenge by a constitutional amendment. A reader who can narrate that sequence, and who understands why each step followed from the step before, understands the single most instructive episode in the legislative history of independent India.
 
-![Bank nationalisation in India, showing the 1969 ordinance, the fourteen banks taken over and the re-enactment that followed the Supreme Court judgment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bank nationalisation in India, showing the 1969 ordinance, the fourteen banks taken over and the re-enactment that followed the Supreme Court judgment - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The stakes at the time were concrete rather than rhetorical. Commercial banking in India served a narrow geography and a narrow clientele. The Reserve Bank's figures record 8,262 bank offices in the whole country in June 1969, of which only 1,833 stood in rural areas, and the average office served a population of about 64,000 people. Aggregate deposits of the commercial banks stood at about Rs 4,646 crore in June 1969 on the Reserve Bank's figures, a small sum for an economy of India's size, and the flow of institutional credit to agriculture and small industry was a small fraction of the whole. The largest banks were intertwined with the largest industrial houses, whose directors sat on bank boards and whose concerns drew credit on terms unavailable to a cultivator or a small manufacturer. Whether ownership was the right instrument for changing that pattern is a question this article treats as genuinely open, because the evidence supports a serious case on each side. What is not open is the sequence of legal events, and the sequence is the subject here.
 

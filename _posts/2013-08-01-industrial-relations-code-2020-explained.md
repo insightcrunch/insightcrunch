@@ -6,15 +6,15 @@ date: 2013-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Industrial Relations Code 2020", "Indian Labour Law", "Trade Unions", "Retrenchment", "Fixed Term Employment"]
 excerpt: "The Industrial Relations Code 2020 replaced three labour laws, tripled the retrenchment permission threshold and rewrote the rules of strikes and bargaining."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2013-08-01
+lang: en
 ---
-
 Most accounts of the Industrial Relations Code, 2020 describe it as a deregulatory statute, and most union accounts describe it as an anti-worker one, and both descriptions fail the same test: neither can say, item by item, what the Code handed to employers and what it handed to workers. That itemised account is the only honest way to read this statute, because the Code moved in both directions inside a single text. The same Act that raised the threshold for prior government permission before lay-off, retrenchment and closure from one hundred workers to three hundred also imposed a strike notice requirement on every industrial establishment in India, a restriction that the repealed law had confined to public utility services. The same Act that wrote fixed term employment into the statute book also attached to it a parity condition and an accelerated gratuity entitlement that no earlier central law had contained. Flexibility and restriction were not traded across different statutes or different years. They arrived together, in one enactment, as the two halves of a single settlement.
 
-![Industrial Relations Code 2020 explained - a factory workforce under the statute governing strikes, retrenchment, standing orders and collective bargaining in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Industrial Relations Code 2020 explained - a factory workforce under the statute governing strikes, retrenchment, standing orders and collective bargaining in India - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The claim this article advances can be stated in one line: flexibility bought with process. The Code gave employers the threshold change they had campaigned for since 1976, and it gave workers a statutory bargaining agent and direct access to adjudication that the old regime had withheld, and it paid for both concessions by making lawful strike action conditional on advance notice everywhere in the country. Read that way, the statute is not a one-directional transfer of power. It is a settlement between organised interests in which each side received something it had sought for decades and surrendered something it had defended for just as long, and in which the price of the whole arrangement was spontaneity: the unannounced stoppage, the instant walkout, the strike called on the morning it begins. Whether that price was fairly charged is the argument the rest of this article works through, provision by provision, before reaching a verdict.
 

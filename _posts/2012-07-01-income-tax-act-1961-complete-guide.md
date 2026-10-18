@@ -6,15 +6,15 @@ date: 2012-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Income-tax Act 1961", "Taxation", "Parliament", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Income-tax Act 1961 explained: its five heads of income, its assessment and appeal machinery, GAAR, faceless assessment and its replacement set out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-07-01
+lang: en
 ---
-
 The Income-tax Act 1961 is the statute through which the Indian state makes its largest single claim on private resources, and it is also the statute that Parliament has altered more often than any other on the book. Every other Indian Act can be read, with effort, as a document that was enacted on a date and then amended from time to time. This one cannot. It has been amended in substance by the Finance Act of almost every year since it commenced, so that the text a reader opens is a sediment of more than six decades of budgets, each layer laid down for the fiscal and political reasons of its own year and rarely removed when those reasons expired. To understand the Act is therefore to understand two things at once: the machine its sections build for charging, computing, collecting and disputing a tax on income, and the annual process that kept rebuilding that machine while it was running.
 
-![The Income-tax Act 1961 and the architecture of its five heads of income, assessment machinery and annual amendment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Income-tax Act 1961 and the architecture of its five heads of income, assessment machinery and annual amendment - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The position a reader must fix first is the succession. The Income-tax Act, 2025, Act 30 of 2025, received the assent of the President on 21 August 2025 and operates from 1 April 2026, replacing the 1961 Act for the tax years that begin on or after that date. The repeal does not erase the older statute. Income earned in any period up to 31 March 2026 is charged, assessed, appealed and penalised under the 1961 Act, and every proceeding relating to those periods continues under it.
 

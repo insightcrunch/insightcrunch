@@ -6,15 +6,15 @@ date: 2013-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "SARFAESI Act", "Corporate Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The SARFAESI Act 2002 lets a lender seize and sell secured property without a court order. The notice, the clock and the borrower's remedies, explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-02-15
+lang: en
 ---
-
 The SARFAESI Act 2002 did something no Indian statute had done before it: it handed a private lender the power to seize a borrower's property and sell it to a stranger, without first persuading any judge that the debt was due. Under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, once a loan account is classified as non-performing, the secured creditor issues a notice, waits sixty days, and may then take possession of the secured assets, take over the management of the borrower's business, appoint a manager to run it, or intercept money owed to the borrower by third parties. The borrower who objects does so afterwards, before a tribunal, against a process that is already moving. Enforcement first, adjudication later: that reversal of the ordinary sequence of Indian civil justice is the whole statute in one sentence, and everything else in the Act is machinery built around it or safeguards built against it.
 
-![The SARFAESI Act 2002 and enforcement of security interest without court intervention, showing the sixty-day notice and the borrower's tribunal remedies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The SARFAESI Act 2002 and enforcement of security interest without court intervention, showing the sixty-day notice and the borrower's tribunal remedies - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The reversal was deliberate, and it answered a real failure. A secured lender in the India of the 1990s held security that was, in practical terms, an ornament. The mortgage deed said the bank could enforce; the civil courts said the bank could wait. A recovery suit travelled through pleadings, issues, evidence, decree, execution proceedings and appeals, and a decade could pass between default and realisation, during which the machinery rusted, the stock vanished and the borrower's other creditors helped themselves to whatever remained. Security that cannot be realised does not lower the price of credit; it merely decorates the loan file. Every borrower in the country, including every honest one, paid for that delay in higher interest and scarcer loans, because a lender who cannot recover from the defaulting few must charge the performing many. The Act's wager was that the cost of credit is set at the margin of recovery, and that making security real would cheapen borrowing for everyone. Whether that wager has paid off, and what it has cost the borrowers caught inside the machinery, is the honest argument this article has to hold open while it explains the machine itself.
 

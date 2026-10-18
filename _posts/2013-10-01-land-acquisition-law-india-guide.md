@@ -6,15 +6,15 @@ date: 2013-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Land Acquisition", "Constitutional Law", "Federalism", "UPSC", "Law Students"]
 excerpt: "Land acquisition law in India is a map of regimes, not one Act: the general law, thirteen special statutes, state laws, and the rules that route a taking."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-10-01
+lang: en
 ---
-
 Land acquisition law in India is not one law. A farmer whose field is notified for a highway, a family whose plot is taken for a metro line, a factory owner whose premises are requisitioned during an emergency and a village whose common land is absorbed into an industrial estate may all describe their experience in the same words, that the government took the land, yet each of them stands inside a different legal regime, with a different compensation formula, a different set of procedural safeguards, a different forum for complaint and, in some regimes, no right to object at all. The first and most consequential question in any Indian acquisition is therefore not how much will be paid. It is which law is doing the taking. Everything else, the consent threshold, the impact assessment, the multiplier, the solatium, the rehabilitation package, the authority that hears the dispute, follows from that routing decision, and the routing decision is made by the acquiring government when it chooses its instrument, usually before the landowner hears of the project at all.
 
-![Land acquisition law in India mapped across the general Act, the Fourth Schedule special statutes and state laws - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Land acquisition law in India mapped across the general Act, the Fourth Schedule special statutes and state laws - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The shape of the field is this. At the centre stands a general acquisition law, for a hundred and twenty years the Land Acquisition Act, 1894, and since 1 January 2014 the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, known in practice as the LARR Act. Around that general law stands a ring of special statutes, each written for one sector, each carrying its own acquisition code: thirteen of them are listed in the Fourth Schedule to the 2013 Act, covering national highways, railways, metro railways, coal bearing areas, atomic energy, electricity, petroleum and minerals pipelines, ancient monuments, the Damodar Valley Corporation, mines, tramways, the resettlement of displaced persons and the requisitioning and acquisition of immovable property. Beneath and beside those central laws sits a third layer, the acquisition statutes of the states, industrial development Acts, highways Acts, housing Acts and town planning Acts, together with state amendments to the central law itself, because acquisition of property is a Concurrent List subject on which both Parliament and the state legislatures may legislate. A fourth route exists alongside all three: the state may skip compulsion entirely and buy, or assemble land through negotiated purchase and land pooling, in which case the acquisition statutes never switch on at all and the transaction is governed by consent, contract and the price the parties can agree.
 

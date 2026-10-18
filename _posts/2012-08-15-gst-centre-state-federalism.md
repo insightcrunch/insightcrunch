@@ -6,15 +6,15 @@ date: 2012-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "GST", "Federalism", "Taxation", "Constitutional Law", "UPSC", "Law Students"]
 excerpt: "GST federalism in India examined: the taxing powers states surrendered, the compensation guarantee they won in return, and the dispute that tested the bargain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-08-15
+lang: en
 ---
-
 GST federalism is usually debated as a slogan. One side says the states of the Indian Union were reduced by the goods and services tax to spending agencies of the Centre, governments that distribute money they no longer raise. The other side answers that the states hold two-thirds of the voting weight in the body that sets the tax, a share no federation anywhere else gives its constituent units over a national levy, and that they consented to the arrangement through their own legislatures. Both slogans contain a fragment of the record, and neither survives contact with it. What the states actually did in 2016 and 2017 was sign a bargain of a specific and unusually explicit kind. They surrendered permanent taxing powers of their own, and in exchange they received protections of defined content: a compensation guarantee written into the constitutional amendment itself, a collective voting weight larger than the Union's, a set of carve-outs that kept their most dependable revenue lines outside the shared tax, and the retention of several older levies the amendment never touched. A bargain of that kind is tested not when it is signed but when the money runs short, and the Indian bargain was tested within three years of its making, when the compensation fund could not pay what the guarantee promised and the two levels of government had to decide what a federal promise is worth in a revenue collapse. That dispute, narrated precisely, tells a reader more about the federalism of the tax than the amendment's text does.
 
-![GST federalism in India, showing what states surrendered under the 101st Amendment and the compensation guarantee that tested the bargain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![GST federalism in India, showing what states surrendered under the 101st Amendment and the compensation guarantee that tested the bargain - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The verdict this article reaches, after setting out both cases at full strength, is a divided one, and the division matters. On design, the charge of hollowing out is weaker than its proponents claim: the states were not dispossessed by stealth but bought out at a price they negotiated, and the price included the only statutory revenue guarantee any Indian state has ever held against the Union. On operation, the charge is stronger than the design suggests, because the protections turned out to be of unequal durability. The voting weight cannot be used by any state alone and has almost never been used at all. The carve-outs endure, but they endure precisely because the Union depends on them too. The guarantee, the one protection that operated automatically rather than at anyone's discretion, was for five years exactly what it promised to be, and then, at the moment of maximum stress, its financing was converted from a payment obligation into a borrowing arrangement whose debt the states carry on their own accounts while the Centre services it from a cess the states no longer control. What states gave was permanent. What they received was a mixture of the permanent and the time-limited, and the time-limited part was the part written in the largest figures.
 

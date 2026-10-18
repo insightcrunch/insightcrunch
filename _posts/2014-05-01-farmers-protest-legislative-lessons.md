@@ -6,15 +6,15 @@ date: 2014-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Farm Laws", "Farmers' Protest", "Parliament", "Judiciary", "Federalism", "UPSC"]
 excerpt: "The farmers' protest is read here as a failure of legislative process: three farm laws moved from ordinance to repeal without a committee or a counted vote."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-05-01
+lang: en
 ---
-
 The farmers' protest that held the borders of Delhi for a little over a year is usually argued about as a verdict on agricultural policy, and that argument has never been settled and probably cannot be. This article treats the episode as something narrower and more answerable: a failure of legislative process, in which three statutes travelled from ordinance to enactment to repeal without passing through most of the checkpoints the parliamentary system maintains for exactly such laws. Between June 2020 and December 2021, the three farm laws were promulgated as ordinances while Parliament was not sitting, converted into Acts in a monsoon session marked by a refused division and suspended members, stayed by the Supreme Court without any finding on their validity, and finally repealed by a bill that neither House debated. At every stage, an institution reached for the instrument that ended discussion fastest. The question this article answers is the one that matters for every future law of consequence: which specific stage of the process, had it been used, would most likely have prevented the confrontation?
 
-![Farmers' protest at the Delhi borders and the legislative process lessons of the farm laws episode - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Farmers' protest at the Delhi borders and the legislative process lessons of the farm laws episode - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The disagreement itself can be stated in terms neither side would reject. The Union government held that Indian agriculture was trapped in a regulated marketing system that depressed farm incomes, that the three laws merely added choices alongside that system rather than replacing it, and that a determined minority of farmers, concentrated in the states that benefit most from public procurement, had been permitted to veto a reform Parliament had enacted. The farm unions held that the laws were drafted without consulting those they governed, that they dismantled the only marketing and price structure Punjab and Haryana farmers could rely on, that they offered no statutory assurance of any price in return, and that the manner of their passage, by ordinance first and by voice vote later, showed a legislature unwilling to hear the people its law would govern. Both statements contain claims of fact, and both contain judgments of value. The sections below separate the two, give each side's case in the strongest form its own holders have given it, and then turn to the machinery: the committee that never met, the division that was never taken, the stay that decided nothing, and the repeal that debated nothing.
 

@@ -6,15 +6,15 @@ date: 2013-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Prevention of Money Laundering Act", "Criminal Law", "Enforcement Directorate", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Prevention of Money Laundering Act 2002 explained in full detail: the offence, proceeds of crime, the Schedule, attachment, arrest, bail and the trial."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2013-03-01
+lang: en
 ---
-
 Almost every argument about the Prevention of Money Laundering Act 2002 begins at the wrong end. The public argument is about who has been raided, arrested or attached, and it is conducted as if the statute were simply a power the Enforcement Directorate holds. It is not. It is a machine with a dependency built into its centre, and everything about how it behaves in real cases follows from that dependency. The offence of money laundering is a standalone offence, with its own definition, its own punishment and its own courts, yet it cannot exist at all unless a completely different crime, listed in a schedule at the back of the Act and usually investigated by a completely different agency, has first generated property. Remove the other crime and the offence collapses, the attachment falls, and the prosecution has nothing to prosecute. Keep that single structural fact in view and the rest of the statute, its extraordinary powers, its reversed burdens, its strange procedural habits and its political charge, becomes intelligible. Lose sight of it and every debate about the Act degenerates into competing descriptions of the same raids.
 
-![The Prevention of Money Laundering Act 2002 and the dependency chain running from the scheduled offence through attachment to trial - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Prevention of Money Laundering Act 2002 and the dependency chain running from the scheduled offence through attachment to trial - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 This article is the pillar treatment of the statute. It sets out what the Act was built to do and why it was built under external pressure rather than domestic demand, how its seventy-five sections are organised, which provisions carry the weight, how attachment rather than conviction became its operative sanction, what the courts have settled about its working parts and what they have left open, and how the strongest case for the design and the strongest case against it each run. The constitutional litigation over the Act is owned by the companion article on the Supreme Court judgment, and the amendment history is summarised here only where the operative text cannot be understood without it. What follows concentrates on the statute as a working system: the dependency chain that drives it, the timelines that govern it, and the points at which a real case is actually won or lost.
 

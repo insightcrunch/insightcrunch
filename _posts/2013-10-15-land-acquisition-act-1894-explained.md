@@ -6,15 +6,15 @@ date: 2013-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Land Acquisition Act 1894", "Land Acquisition", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The Land Acquisition Act 1894 governed compulsory acquisition in India for 119 years: its procedure, urgency clause, compensation and repeal explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2013-10-15
+lang: en
 ---
-
 The Land Acquisition Act 1894 ended the way it had lived, by an act of state power exercised over people who had no vote in the matter. A statute written for a colonial government that answered to London was repealed by the Parliament of a democratic republic only after one hundred and nineteen years of continuous operation, during sixty-six of which the republic itself had been the acquiring authority and had used the statute more heavily than the empire ever did. The repeal therefore poses two questions at once. The first is mechanical: how did this law work, step by step, from the first notification to the final vesting of land in the government. The second is political, and it is the harder one: why did a free country keep a law like this for two-thirds of a century, and what finally made its replacement unavoidable.
 
-![The Land Acquisition Act 1894 and the acquisition sequence from notification to vesting, showing where the urgency clause removed the landowner hearing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Land Acquisition Act 1894 and the acquisition sequence from notification to vesting, showing where the urgency clause removed the landowner hearing - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The mechanical answer can be given in a sentence, and this article will spend most of its length unpacking it. The Act allowed the appropriate government to acquire any land needed for a public purpose or for a company through a sequence of notification, objection, declaration, enquiry, award and possession, paying compensation measured by the market value of the land on the day the process began. Inside that sequence sat one provision that mattered more than all the others. Section 17, the urgency clause, allowed the government to direct that the single hearing the statute gave a landowner should not take place at all, and to take possession of the land fifteen days after notice, before any award had fixed what the land was worth. A law whose only pre-award protection could be switched off by the party it protected against is a law whose real character is set by that switch, and the history of land acquisition in India is largely the history of how readily governments used it.
 

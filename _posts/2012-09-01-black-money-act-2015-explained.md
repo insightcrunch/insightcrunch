@@ -6,15 +6,15 @@ date: 2012-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Black Money Act", "Tax Law", "Foreign Assets", "Compliance Window", "Schedule FA"]
 excerpt: "The Black Money Act 2015 taxes undisclosed foreign income and assets at a flat thirty percent, adds a penalty of three times the tax, and reaches back."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2012-09-01
+lang: en
 ---
-
 Most tax statutes tax a flow. A salary is taxed as it is earned, a profit as it is made, a gain as it is realised, and when the flow stops the charge stops with it. The Black Money Act 2015 broke with that design at its foundation. Enacted as the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, it charges tax not only on undisclosed foreign income but on the value of an undisclosed foreign asset itself, on the stock of wealth rather than the stream it produces, at a flat rate of thirty percent, with a penalty of three times the tax on top and imprisonment behind the penalty. A bank account opened decades before the statute existed, fed by money earned in another century of a family's history, could be charged on its computed value in the year the tax department found it. That single design choice, taxing the asset rather than the income, is what makes the Act one of the most severe fiscal statutes on the Indian book, and it is also what makes the Act reach far beyond the small class of deliberate offshore concealers it was announced against.
 
-![Blog Image](/assets/images/blog/blog-01.webp)
+![Blog Image](/assets/images/blog/blog-19.webp)
 
 The severity is not hidden in the fine print. It sits in the arithmetic. Tax at thirty percent of the value of the asset, and a penalty equal to three times the tax computed, produces a combined exaction of one hundred and twenty percent of the asset's value for a person assessed after the one-time compliance window closed, a sum that can exceed everything the asset is worth and can exceed, in the case of a bank account, every balance the account ever held at a single moment, because the rules value a bank account by adding up the deposits made into it since it was opened. For the asset classes the statute was aimed at, concealed fortunes parked in secrecy jurisdictions by residents who had never declared them, that arithmetic was the point. For the much wider population the statute also touches, the salaried employee whose employer granted shares in a foreign parent company, the returning emigrant who kept a pension account from years of work abroad, the heir who inherited a parent's account in another country and left it unreported because nobody in the family understood the return form, the same architecture applies with the same absence of gradation. The Act contains no de minimis threshold of its own beyond a narrow bank account carve-out, and its flat penalty for a disclosure failure in the return is ten lakh rupees whether the account held the equivalent of a fortune or of a modest savings balance.
 

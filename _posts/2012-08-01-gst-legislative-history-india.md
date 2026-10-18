@@ -6,15 +6,15 @@ date: 2012-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "GST", "Taxation", "Federalism", "Parliament", "Constitutional Amendments", "UPSC"]
 excerpt: "GST legislative history explained: the Kelkar proposal, the Empowered Committee, the lapsed bill and the five concessions that bought the states' consent."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-08-01
+lang: en
 ---
-
 GST legislative history is usually told as a story about delay, as if a sound reform sat in a drawer for seventeen years while politicians dithered. The passage record tells a different and more precise story. A goods and services tax levied on the destination principle does not merely simplify a tax system; it moves revenue. Under the arrangements it replaced, the state where a good was produced collected tax at the point of origin through instruments such as the central sales tax, while under a destination-based tax the revenue travels to the state where the good is consumed. Producing states therefore stood to lose, in identifiable amounts, from the first day of the reform, and consuming states stood to gain. Every year of the seventeen was spent arguing about that transfer: who would bear it, who would insure against it, and what the insurance would cost.
 
-![GST legislative history in India, showing the seventeen-year negotiation between the Union and the states over the design of the tax - Insight Crunch](/assets/images/blog/blog-01.webp)
+![GST legislative history in India, showing the seventeen-year negotiation between the Union and the states over the design of the tax - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The scale of what was being negotiated should be fixed before the chronology begins. On the usual count, the tax that resulted subsumed some seventeen Union and state levies, among them the Union's excise duty and service tax and the states' value added tax, central sales tax, entry tax, octroi, purchase tax, luxury tax and entertainment tax, and it replaced them with a single levy on the supply of goods and services, collected at destination and credited through the chain. For the Union, the surrender was of two of its three great indirect taxes. For each state, the surrender was of the tax that supplied the largest share of its own revenue, set at rates its legislature had chosen, year by year, since the Constitution began. No other Indian reform has asked so many governments to give up so much of their fiscal substance at one stroke, and none had previously been attempted by a method that required each of them to agree twice, once in Parliament's ratification arithmetic and once in their own assemblies.
 

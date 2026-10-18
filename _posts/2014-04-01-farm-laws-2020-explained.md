@@ -6,15 +6,15 @@ date: 2014-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Farm Laws 2020", "Agriculture", "Parliament", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The farm laws 2020 explained from the statutory text itself: what the three Acts did, how Parliament passed them, and why no court ruled on their validity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-04-01
+lang: en
 ---
-
 The farm laws 2020 were three short statutes that between them ran to fewer than sixty pages, and they produced the largest legislative confrontation of their decade: a year of protest camps on the borders of the national capital, a Supreme Court stay within four months of enactment, and a repeal announced by the Prime Minister who had championed them. Yet the argument about the three Acts was conducted, on both sides, largely about texts that few of the arguers had read. The laws were said to have abolished the regulated market yards called mandis. They did not. They were said to have abolished the minimum support price. They did not mention it. They were said to have handed farmland to corporations. One of them prohibited exactly that. The distance between what the farm laws 2020 said and what they were described as saying is the subject of this article, because that distance, more than any single provision, explains why a set of marketing reforms that expert committees had recommended for two decades ended in repeal without ever operating at scale.
 
-![The farm laws 2020, the three Acts of September 2020 and the trade area they created outside the state mandis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The farm laws 2020, the three Acts of September 2020 and the trade area they created outside the state mandis - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The legislative history matters here in a way it does not for most statutes, because the laws were made twice. They were made once as ordinances on 5 June 2020, when Parliament was not in session and the country was in the first phase of the pandemic lockdown, and they were made again as Acts of Parliament in September 2020, in a passage so hurried and so contested that the procedure became a second controversy laid over the first. A reader who wants to understand the episode has to hold three records apart: the record of the policy, which was old and heavily documented; the record of the texts, which were precise and narrower than the argument about them; and the record of the passage, which was the point at which a policy dispute became a dispute about the legitimacy of the lawmaking itself. This article takes the three records in that order, states the case for the laws and the case against them at full strength, and ends at the one point on which the record is unambiguous: the constitutional question at the heart of the episode was argued before the Supreme Court, was never decided, and remains undecided, because the laws were stayed and then repealed before any court ruled on their validity.
 

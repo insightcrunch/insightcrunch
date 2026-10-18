@@ -6,15 +6,15 @@ date: 2013-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "LARR Act 2013", "Land Acquisition", "Social Justice", "Parliament", "UPSC", "Law Students"]
 excerpt: "The LARR Act 2013 explained in full: who must consent before land is acquired, how compensation and solatium are built, and what displaced families are owed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-11-01
+lang: en
 ---
-
 The most repeated sentence about the LARR Act 2013 is wrong. It says that land in India cannot be acquired without the consent of seventy or eighty per cent of the people losing it. That is true only when the government acquires land for somebody else. When the government acquires land for its own use, hold and control, the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 requires no consent from anyone, and the family facing displacement has exactly the same experience of loss in both cases. Everything else in this statute, the Social Impact Assessment, the multiplied compensation, the rehabilitation owed to people who own nothing at all, has to be read through that first design choice, because the applicability provision decides how much of the Act a given project ever meets.
 
-![The LARR Act 2013 and its consent, assessment and rehabilitation machinery, showing how the identity of the acquirer decides which safeguards apply - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The LARR Act 2013 and its consent, assessment and rehabilitation machinery, showing how the identity of the acquirer decides which safeguards apply - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The Act is formally the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Act 30 of 2013. It received the assent of the President on 26 September 2013 and came into force on 1 January 2014, repealing the Land Acquisition Act, 1894, the colonial statute under which India had taken land for one hundred and twenty years. It runs to one hundred and fourteen sections and four schedules. Its long title promises what its three innovations attempt to deliver: a humane, participative, informed and transparent process for acquisition, fair compensation to owners, and rehabilitation and resettlement as an entitlement rather than an act of administrative grace. This article explains how the machine is built, which parts of it carry the weight, where it does not reach, and what the record of argument about it actually supports.
 

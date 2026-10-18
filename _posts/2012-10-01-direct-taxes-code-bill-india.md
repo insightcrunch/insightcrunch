@@ -6,15 +6,15 @@ date: 2012-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Direct Taxes Code", "Taxation", "Parliament", "Income Tax", "Law Students"]
 excerpt: "The Direct Taxes Code Bill promised to replace the Income-tax Act 1961 with a modern code. It lapsed unenacted, and a narrower rewrite passed in 2025."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2012-10-01
+lang: en
 ---
-
 Twice in fifteen years the Indian state set out to replace the Income-tax Act 1961 with a modern direct tax code, and the two attempts ended in opposite ways. The Direct Taxes Code Bill, introduced in the Lok Sabha in August 2010 with a government majority behind it, a full committee examination ahead of it and a commencement date printed in its own text, was never put to a vote and died with the House that received it. The Income-tax Bill of February 2025, by contrast, was introduced, examined, withdrawn, reintroduced and enacted inside six months, and its text operates from 1 April 2026 as the Income-tax Act 2025. The puzzle is not why one government was stronger than the other, because the failed attempt also had its numbers. The puzzle is what the two drafts asked Parliament to approve, and the answer is the most transferable lesson in this cluster of articles: the first draft asked the House to approve a new text and a new tax policy in the same vote, while the second asked it to approve a new text and nothing else.
 
-![The Direct Taxes Code Bill and the failed replacement of the Income-tax Act 1961 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Direct Taxes Code Bill and the failed replacement of the Income-tax Act 1961 - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This article tells the story of the replacement that never happened and the replacement that did, and it argues a single claim throughout. The Direct Taxes Code failed because it bundled structural rewriting with substantive policy change, so that every constituency injured by any one proposal had a reason to fight the entire Bill, and the opposition of the parts accumulated faster than the government could settle them. The Income-tax Act 2025 succeeded because it unbundled the two tasks, promised in advance that rates, slabs, exemptions and the framework of liability would stay where they stood, and thereby left no injured constituency anything to organise against. That claim, stated here so the reader can test it against the record that follows, is a rule about legislative design in a system with many veto points, and it reaches well beyond taxation.
 

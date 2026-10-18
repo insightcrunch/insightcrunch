@@ -6,15 +6,15 @@ date: 2012-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Benami Transactions Act", "Taxation", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Benami Transactions Act explained: why the original prohibition stood unenforced for decades, what the amendment built, and what the courts left open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2012-09-15
+lang: en
 ---
-
 The Benami Transactions Act rests on a simple and uncomfortable fact about Indian property holding: the name in the deed and the person who paid for the property are very often not the same person, and for most of the legal history of the subject the law had no reliable way of separating the innocent version of that arrangement from the fraudulent one. A father buys a house in his daughter's name out of taxed income and family affection. A trader buys the same house in his driver's name out of unaccounted cash so that no creditor, tax officer or estranged partner can find it. On paper the two transactions look identical, and a legal system that cannot tell them apart will either punish the father or license the trader. The statute examined here is Parliament's attempt, made twice, twenty eight years apart, to draw that line: first in 1988, when it prohibited benami transactions without building anything that could enforce the prohibition, and again in 2016, when it returned with a definition, a set of authorities, a power of attachment and confiscation, and criminal penalties of real severity.
 
-![The Benami Transactions Act explained, from a dormant prohibition to the machinery of the amendment and the recalled Supreme Court judgment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Benami Transactions Act explained, from a dormant prohibition to the machinery of the amendment and the recalled Supreme Court judgment - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The second attempt is the one that matters in practice, and its story has a third act that most accounts get wrong. Armed with the machinery of 2016, the Income Tax Department attached property across the country, including property bought long before the amendment existed. In August 2022 the Supreme Court held in Union of India v. Ganpati Dealcom Pvt. Ltd. that the criminal provision of the original Act was unconstitutional and that the confiscation machinery could operate only prospectively. In October 2024 the same Court recalled that judgment in its entirety, because the constitutional question had been decided without ever having been argued, and restored the appeal for a fresh hearing. The consequence is a position of unusual honesty for a legal system: the two questions on which the whole enforcement edifice rests, whether the criminal provision is valid and whether confiscation can reach transactions completed before November 2016, are open questions, and any account that presents either answer as settled is misleading its reader. This pillar sets out the statute in full: what benami holding was before it was prohibited, what the 1988 Act said and why it could not act, what the 2016 amendment built, how a case moves through the machinery, what the courts decided and then undecided, and what a person holding family property in another's name can and cannot rely upon.
 

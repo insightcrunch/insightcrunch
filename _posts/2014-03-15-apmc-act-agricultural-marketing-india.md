@@ -6,15 +6,15 @@ date: 2014-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "APMC Act", "Agricultural Marketing", "Federalism", "UPSC", "Law Students"]
 excerpt: "The APMC Act is a family of state laws, not a central statute. How their mandis, market fees, licences and model Acts shape the price a farmer receives."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-03-15
+lang: en
 ---
-
 There is no APMC Act. Anyone searching for a single central statute that governs how Indian farmers sell their produce is looking for something that has never existed, because the APMC Act is not one law but a family of state statutes, each enacted by a state legislature, each administered by that state's market committees, and each different from its neighbours in the fees it charges, the commodities it covers and the intermediaries it licences. That single fact explains more about Indian agricultural marketing than any other, and it is the fact most often got wrong. Commentators speak of "the APMC Act" being reformed, defied or abolished as though it were a law of Parliament. What they mean is one member of a family of more than two dozen state laws, and the member they mean changes with the state they are standing in.
 
-![The APMC Acts and the mandi system in India, showing how state market laws, market committees and licences govern the sale of farm produce - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The APMC Acts and the mandi system in India, showing how state market laws, market committees and licences govern the sale of farm produce - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The family resemblance across these statutes is real, and it is strong enough that a reader who understands one member understands the design of all of them. Each state Act performs the same five moves. It empowers the state government to declare an area a market area and to specify the agricultural produce to which the Act applies there. It requires the first wholesale transaction in that notified produce to take place inside a market yard or sub-yard run under the Act. It constitutes a market committee, part elected and part nominated, to administer that yard, build and maintain its infrastructure, and enforce the rules of trade inside it. It confines the business of buying, selling and intermediating to persons the committee has licensed. And it funds the whole arrangement by a market fee levied on the transactions the statute has channelled into the yard. Around those five moves, states have built very different systems: the procurement-integrated mandis of Punjab, the large commodity yards of Maharashtra, the electronically unified markets of Karnataka. But the skeleton is the same everywhere, and the skeleton is where the argument lives.
 

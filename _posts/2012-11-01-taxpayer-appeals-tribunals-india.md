@@ -6,15 +6,15 @@ date: 2012-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Taxation", "Income-tax Act 1961", "GST", "Judiciary", "UPSC", "Law Students"]
 excerpt: "Taxpayer appeals and tribunals in India: the income tax and GST appeal ladders, limitation periods, pre-deposits, stays, faceless hearings and settlements."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2012-11-01
+lang: en
 ---
-
 A tax dispute in India begins in a deceptively quiet way. No summons arrives, no courtroom fills. A notice of demand is served, an intimation appears in an online account, or an order is uploaded to a portal, and from the date of that service a clock starts running. Miss the period the clock measures and the order hardens into a liability that recovery officers may enforce against bank accounts and refunds, whatever the merits of the underlying assessment. This is the moment for which taxpayer appeals and tribunals exist. The taxpayer holding that order usually has a good legal remedy. What they frequently lack is a map: which forum hears the first challenge, how many days remain, what must be paid before the door opens, and what the forum at each stage is actually empowered to decide. This article maps that machinery, across both the direct tax system governed by the Income-tax Act 1961 and the indirect tax system governed by the goods and services tax statutes, because the two ladders differ at almost every rung and advice that confuses them is worse than no advice at all.
 
-![Taxpayer appeals and tribunals in India, showing the income tax and GST appeal ladders from the first appeal to the Supreme Court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Taxpayer appeals and tribunals in India, showing the income tax and GST appeal ladders from the first appeal to the Supreme Court - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 The promise of the statutory scheme is generous on paper. An assessment can be appealed to an appellate authority inside the tax administration, then to an independent tribunal that is the final judge of fact, then to a High Court on questions of law, and finally to the Supreme Court. Alongside that ladder stand parallel routes that can shorten or bypass it: a dispute resolution panel for transfer pricing and foreign company cases, rectification for mistakes apparent from the record, revision by a Commissioner, advance rulings for transactions not yet taxed, a dispute resolution committee for small taxpayers, and periodic settlement schemes under which the state offers to close a dispute for a defined payment. The difficulty is not the absence of remedies. The difficulty is that each remedy has its own trigger, its own period, its own price of entry, and its own limits, and the forums themselves have repeatedly been delayed, redesigned, or struck down and rebuilt. The right of appeal exists in the statute. Whether a forum exists to hear it, staffed and constituted in time, is a separate question that the record answers less reassuringly.
 

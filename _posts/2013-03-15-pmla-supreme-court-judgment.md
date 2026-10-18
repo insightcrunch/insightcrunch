@@ -6,15 +6,15 @@ date: 2013-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "PMLA", "Money Laundering", "Judiciary", "Constitutional Law", "Criminal Law", "UPSC"]
 excerpt: "The Vijay Madanlal Choudhary judgment upheld nearly the whole PMLA, yet the Supreme Court flagged two of its own holdings for reconsideration within a month."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-03-15
+lang: en
 ---
-
 On 27 July 2022, a three-judge bench of the Supreme Court of India delivered the judgment in Vijay Madanlal Choudhary v Union of India and, in a single ruling of more than five hundred pages, upheld almost every contested provision of the Prevention of Money Laundering Act, 2002. The powers of the Directorate of Enforcement to attach property before trial, to search premises and persons, to arrest without a prior judicial warrant, to summon any person and record a statement usable in evidence, to hold an accused to bail conditions that reverse the ordinary presumption of innocence, and to place the burden of disproving the character of attached property on the accused were all sustained. Then, on 25 August 2022, twenty-nine days later, a bench presided over by the Chief Justice of India issued notice on review petitions against that very judgment and recorded that at least two of its conclusions appeared to require reconsideration. A judgment that upheld a statute across the board was therefore flagged by the institution that delivered it, within a month, as partly unsettled. Understanding the Vijay Madanlal Choudhary judgment means holding both of those facts at once, and it also means understanding the argument about conviction rates that surrounds the statute, an argument in which both sides quote true numbers that appear to contradict each other and do not.
 
-![The Vijay Madanlal Choudhary judgment on the PMLA, showing the Supreme Court upholding the Enforcement Directorate's powers while flagging two holdings for reconsideration - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Vijay Madanlal Choudhary judgment on the PMLA, showing the Supreme Court upholding the Enforcement Directorate's powers while flagging two holdings for reconsideration - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The interpretive question at the centre of the case was not whether money laundering should be an offence. No petitioner argued that. The question was whether a statute built to trace concealed money could lawfully be operated through machinery that departs from the ordinary criminal process at almost every point: investigation by officers who are not police officers, an initiating document the accused has no right to see, statements recorded under compulsion that remain admissible, property frozen on an officer's recorded belief before any court has heard the matter, arrest on the same belief, bail available only when the court is satisfied the accused is not guilty, and a trial at which the accused carries the burden of proving that property is untainted. The statutory text created each of those departures distinctly enough; what it did not settle was whether the Constitution permits them, singly and in combination. That is the question the bench of Justices A. M. Khanwilkar, Dinesh Maheshwari and C. T. Ravikumar, in a judgment authored by Justice Khanwilkar, had to answer, and it answered it, provision by provision, largely in the statute's favour.
 

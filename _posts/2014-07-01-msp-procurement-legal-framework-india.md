@@ -6,15 +6,15 @@ date: 2014-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Minimum Support Price", "Agriculture", "Social Justice", "Federalism", "Parliament", "UPSC"]
 excerpt: "Minimum support price explained: an executive announcement with no statute behind it, who fixes it, who buys at it, and what a legal guarantee would take."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-07-01
+lang: en
 ---
-
 A farmer who carries a harvest to a market yard in most of India performs an act of faith in a number. The number is the minimum support price, announced with ceremony before the sowing seasons, printed in newspapers, debated in Parliament and treated in public argument as though it were a floor written into law beneath every transaction in farm produce. When the auction at the yard opens below that number, as it does for most crops in most districts in most seasons, the farmer discovers the fact that this article exists to state precisely: there is no law behind the number. No Act of Parliament creates the minimum support price, prescribes how it is calculated, obliges any buyer to pay it, or gives the farmer who is paid less any remedy arising from the announcement itself. The price is an executive decision, taken by the Cabinet Committee on Economic Affairs on the recommendation of the Commission for Agricultural Costs and Prices, a body that is itself not a statutory body but an attached office of the agriculture ministry created by a government resolution. The most argued-about figure in Indian agriculture is, in the strict legal sense, an announcement.
 
-![Minimum support price and the procurement framework, showing why the announced price carries no statutory obligation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Minimum support price and the procurement framework, showing why the announced price carries no statutory obligation - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 That single fact reorganises every other question in the debate. It explains why a farmer paid below the announced price has no cause of action founded on the price. It explains why the demand that survived the farm laws agitation and the repeal of the three farm laws of 2020 was not a demand to enforce an existing entitlement but a demand to create one that has never existed. It explains why governments can promise the price in one season and under-deliver it in the next without breaking any legal obligation, because the only obligation the announcement creates is political. And it explains why the argument about a legal guarantee has run for years without producing a bill: converting an announcement into an entitlement requires answering drafting questions of genuine difficulty, about whom the duty binds, in what form, for which crops, in what quantity, at whose cost and with what consequence when the guaranteed price sits above the market price for an entire harvest. Those questions are set out in the design table later in this article, because they are the substance that the slogan conceals.
 

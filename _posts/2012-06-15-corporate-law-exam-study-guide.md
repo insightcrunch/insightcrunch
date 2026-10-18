@@ -6,15 +6,15 @@ date: 2012-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Corporate Law", "Companies Act 2013", "Insolvency and Bankruptcy Code", "UPSC", "Law Students"]
 excerpt: "Corporate law for examinations is four regimes, not one statute: learn the Acts cold, verify every threshold against the rules, and revise by structure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2012-06-15
+lang: en
 ---
-
 Corporate law defeats more candidates by volume than by difficulty. The subject arrives as one enormous company statute, a second statute on insolvency that behaves like a code of civil procedure wearing commercial dress, a tribunal system borrowed from neither, and a shorter partnership statute that examiners treat as an afterthought until the year it carries a full question. Candidates respond to the volume in the only way that feels safe, which is to memorise, and the subject punishes memorisation more reliably than any other in this series, because the governing text changes by notification several times a year and a memorised threshold has a shorter life than the preparation cycle that produced it. The candidate who fails this subject rarely fails for ignorance of the law. The failure is architectural: one undifferentiated mass of provisions, held at one level of confidence, revised in the order the textbook happened to print them.
 
-![Corporate law examination study, showing the four regimes of the Companies Act, the insolvency code, the tribunals and the LLP Act held as one map - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Corporate law examination study, showing the four regimes of the Companies Act, the insolvency code, the tribunals and the LLP Act held as one map - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The repair begins with a refusal. Corporate law for examination purposes is not one statute plus appendages; it is four connected regimes, each with its own text, its own forum habits and its own rhythm of change, and the candidate's first task is to hold the four separately before connecting them deliberately. The company statute governs formation, capital and governance. The insolvency code governs distress and exit. The tribunal structure adjudicates both. The limited liability partnership statute supplies the alternative vehicle that company law is perpetually compared against. A candidate who can say, of any provision put to them, which regime it belongs to, which forum would hear a dispute under it, and which layer of the text, Act or rules, carries its operative numbers, has already secured the structure on which every specific answer in this subject is built. What follows is a method for the whole subject: the map, the spine, the small set of numbers that function as names, the distinction between the Act and its rules that generates more lost marks than any other, the four historical moments that organise revision, the case law discipline, and a revision method designed for a text that moves.
 

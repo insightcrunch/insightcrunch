@@ -6,15 +6,15 @@ date: 2014-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Land Acquisition Act 1894", "LARR Act 2013", "Social Justice", "Judiciary", "UPSC", "Law Students"]
 excerpt: "Land Acquisition Act 1894 vs 2013, compared on consent, compensation, rehabilitation and urgency, with a worked parcel and a verdict for the landowner."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2014-02-15
+lang: en
 ---
-
 Every argument about Indian land acquisition law eventually becomes an argument about two statutes: the Land Acquisition Act, 1894, Act 1 of 1894, which governed the taking of land for well over a century, and the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Act 30 of 2013, which repealed it and took its place from 1 January 2014. The argument is usually conducted by slogan. One side says the new Act pays four times the market value and asks what more a landowner could want. The other side says the new Act made land impossible to acquire and asks what more an investor could fear. Both slogans describe the same statute, and both are wrong in the same way: each takes one feature of the 2013 settlement, prices it at its maximum, and treats the result as the whole.
 
-![Land acquisition under the 1894 Act and the LARR Act 2013 compared dimension by dimension, showing what changed for the person losing land - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Land acquisition under the 1894 Act and the LARR Act 2013 compared dimension by dimension, showing what changed for the person losing land - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 This comparison proceeds differently. It sets the two statutes side by side across the twelve dimensions that decide what happens to a person whose land is taken, it runs one identical parcel of land through both compensation codes so that the money difference is a matter of arithmetic rather than adjectives, and it then asks the harder question the slogans avoid: whether the better statute actually governed the acquisitions that happened after it was passed. The verdict defended here is the one the brief for this article names, and the evidence supports it. On every dimension that can be compared, the 2013 Act treats the person losing land more generously than its predecessor did. The observable consequence, however, was that acquisition migrated toward the routes the 2013 Act did not reach: the exempted special statutes, direct purchase outside acquisition altogether, land pooling, and State amendments that recreated the exemptions the Centre had failed to enact. The reform improved the terms of acquisition and reduced the share of acquisition conducted on those terms. That is the phenomenon of diversion, and it is the deciding factor in this comparison, because a landowner's real position depends not on which statute is kinder in the abstract but on which statute governs his field.
 

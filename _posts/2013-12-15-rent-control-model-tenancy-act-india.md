@@ -6,15 +6,15 @@ date: 2013-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Rent Control", "Model Tenancy Act", "Delhi Rent Act", "Landlord and Tenant", "Social Justice", "UPSC"]
 excerpt: "Rent control in India explained: standard rent, eviction grounds, heritable tenancies, the Delhi Rent Act that never commenced, and the Model Tenancy Act."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-12-15
+lang: en
 ---
-
 Rent control in India is a body of law that answers a simple question with an increasingly indefensible answer: what may a landlord charge, and on what terms may a tenant be made to leave? In the old commercial quarters of Delhi and Mumbai, the answer was settled decades ago and has barely moved since. Rents fixed by reference to the cost of constructing a building in the middle of the twentieth century, or to the rent a premises fetched in 1940, continue to govern shops and homes whose market value has multiplied many times over. The tenant in occupation cannot be removed except on grounds a statute lists and a tribunal accepts. The tenancy itself may pass to the tenant's family when the tenant dies. Around this frozen core, a modern rental market of eleven-month agreements, heavy security deposits and informal arrangements has grown up outside the statute book, because the statute book stopped describing the market it governs.
 
-![Rent control in India, showing frozen standard rents in old city markets and the Model Tenancy Act proposed as the replacement settlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rent control in India, showing frozen standard rents in old city markets and the Model Tenancy Act proposed as the replacement settlement - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 This article is the pillar for that body of law. It explains the architecture the states built after Independence, provision by provision: the standard rent mechanism and why it froze, the closed list of eviction grounds and the bona fide requirement at its centre, the heritability of tenancy that converts a lease into something close to a family asset, and the two worked examples that show the system in its most developed forms, the Delhi Rent Control Act, 1958 and the Maharashtra Rent Control Act, 1999. It then turns to the single most extraordinary episode in the legislative record this series covers. In 1995 Parliament passed a new rent law for Delhi. The President assented to it. The statute sits on the statute book as Act 33 of 1995, complete and enacted, and no government has ever brought it into force. When the refusal was challenged, the Union government defended it in court as a matter of executive policymaking into which judicial direction would intrude, and that defence, stated in an affidavit rather than left as unspoken practice, is the document that converts a habit this series has traced across many statutes into an articulated constitutional position. Finally, the article examines the Model Tenancy Act, 2021, the Union Cabinet's answer to the frozen settlement: a model law with no force of its own, which states may enact or adapt, and whose deliberate exclusion of existing tenancies decides how much of the problem it can reach.
 

@@ -6,15 +6,15 @@ date: 2014-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Food Security Act", "Public Distribution System", "Food Security", "Social Justice", "UPSC"]
 excerpt: "NFSA implementation in practice: how a census-frozen coverage ceiling, portability, biometric authentication and layered free grain shape the ration record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-06-01
+lang: en
 ---
-
 The National Food Security Act, 2013 made a promise of unusual precision. It did not promise that no Indian would go hungry, which no statute could deliver on its own. It promised something more mechanical and therefore more testable: that identified persons, up to a stated share of the population, would receive a stated quantity of grain at stated prices through a stated network of fair price shops, and that a stated machinery of grievance officers, food commissions and social audits would watch over the delivery. NFSA implementation can be judged against that promise almost clause by clause, and the record that emerges is neither the triumph of the government's telling nor the failure of the critics' telling. The shops largely work. The grain largely moves. What does not move is the number at the top of the system: the count of persons the law covers, which was fixed by a census and has been overtaken by the population it was meant to describe.
 
-![NFSA implementation record, showing a fair price shop transaction and the four gaps between the food security entitlement and its delivery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![NFSA implementation record, showing a fair price shop transaction and the four gaps between the food security entitlement and its delivery - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 This article applies to the food security statute the same discipline this series has applied to enforcement statistics elsewhere. In the record of the anti-terror laws, the governing lesson was that an arrest figure and a conviction figure measure different things and cannot be traded for one another, a point set out in [the implementation record of the anti-terror laws](/2011/07/15/anti-terror-law-enforcement-record/). In the insolvency cluster, the lesson was that a recovery percentage means nothing until the denominator, admitted claims or liquidation value, is named, as [the record of the Insolvency and Bankruptcy Code's implementation](/2012/04/15/ibc-implementation-record/) shows in detail. The food security record raises the same problem in a sharper form. Here the contested figures, how many people are excluded, how much grain leaks, how many cards were bogus, all depend on a denominator, and in this statute the denominator itself is the story: coverage is a percentage of a population figure that has not been revised since the census of 2011. Every gap examined in this article is measured against that frozen base, and the largest of them is created by it.
 

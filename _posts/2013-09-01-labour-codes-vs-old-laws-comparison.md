@@ -6,15 +6,15 @@ date: 2013-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Labour Codes", "Labour Law", "Industrial Relations", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Labour codes vs old laws compared statute by statute: the twenty-nine to four map, the rights gained and lost, and a verdict that names its deciding factor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-09-01
+lang: en
 ---
-
 The labour codes vs old laws argument has been running for years in a form that guarantees it can never be settled. One side announces that the four codes are the largest dilution of worker protection since independence. The other announces that they are the largest extension of worker welfare ever attempted. Both announcements are made about the same four statutes, by people who have read them, and both can be supported by quoting real provisions. The reason the argument never resolves is that each side is describing a different worker. The union speaker is describing the permanent factory worker in a large establishment, the person the old law protected most deeply. The government speaker is describing the gig worker, the migrant and the unorganised worker, the people the old law barely reached. Until the comparison is run worker by worker and statute by statute, the question "are the codes pro-worker or pro-employer" has no answer, because it has no fixed subject. This article runs the comparison that way, and its verdict follows from the count.
 
-![Labour codes vs old laws compared across the twenty-nine subsumed statutes, with the direction of travel for worker protection marked on each - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Labour codes vs old laws compared across the twenty-nine subsumed statutes, with the direction of travel for worker protection marked on each - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The method matters as much as the conclusion, so it is stated at the start. Every one of the twenty-nine central statutes subsumed by the four codes is mapped in the table later in this article to the code that absorbed it, with a finding on whether its substance was retained, changed or dropped, and a direction marker recording whether the change expanded worker protection, contracted it, moved in both directions at once, or was neutral. The verdict in this article is not an impression laid over that map. It is the map, counted. Where the prose asserts that a threshold rose or a right is new, the provision is identified and the figure is one that the statute itself carries. Where a matter belongs to a specialist article in this cluster, the article says so and links there rather than re-answering the question: the Code on Wages, the Industrial Relations Code and the Code on Social Security each have their own treatment, and this article's business is the contrast between the two regimes, not the internal anatomy of either.
 

@@ -6,15 +6,15 @@ date: 2012-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Taxation", "GST", "Income-tax Act 1961", "Federalism", "UPSC", "Law Students"]
 excerpt: "Tax laws in the UPSC economy papers test federalism and public finance, not arithmetic: the statutes, the Council and the federal bargain are the syllabus."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2012-11-15
+lang: en
 ---
-
 Tax laws frighten aspirants out of proportion to the marks they carry, and they do so for a reason that has almost nothing to do with taxation. The candidate opens a preparation book, finds page after page of slab tables, exemption lists and rate schedules, and concludes that the subject is accounting wearing a legal coat. The conclusion is wrong, and it is expensive. In the general studies papers of the civil services examination, a tax question is almost never a request for a number. It is a question about who may tax what, on what constitutional authority, with what consequences for the Union, for the states and for the citizen, and the candidate who answers it with a rate chart has answered a question nobody asked. The statutes are the text of this subject; the federal bargain, the reform sequence and the implementation record are what an answer is marked on.
 
-![Tax laws for the UPSC economy papers, showing taxation tested as federalism and public finance rather than computation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tax laws for the UPSC economy papers, showing taxation tested as federalism and public finance rather than computation - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article is a study guide for that subject, written for the aspirant who has to convert a cluster of tax statutes into examination marks, for the teacher who has to teach taxation without teaching accounting, and for the researcher who wants a compact map of the field before going deeper. Its claim can be stated in one sentence, and the whole article is an unpacking of it: answer the federalism, not the arithmetic. Everything that follows is organised around the distinction that generates the marks. Some questions in this area are tax policy questions, asking about the base of a tax, its rate structure, its incidence and its buoyancy. Others are tax law questions, asking about competence, procedure and forum. The two families look alike on the printed page and are answered in opposite ways, and the candidate who cannot tell them apart at sight will spend the words that should have carried the analysis on material the examiner did not request.
 

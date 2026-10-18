@@ -6,15 +6,15 @@ date: 2014-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Farm Laws", "Agriculture", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The Farm Laws Repeal Act 2021 explained: three sections that repealed the farm laws in a day, restored the Essential Commodities Act, and settled nothing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-04-15
+lang: en
 ---
-
 The Farm Laws Repeal Act 2021 did something Indian legislatures almost never do: it took a flagship economic reform of a government with a comfortable majority, a reform defended in Parliament, in court and in eleven rounds of negotiation for over a year, and erased it from the statute book in a single working day. Repeals of major legislation are rare in India, and repeals extracted by street pressure are rarer still. Yet the genuinely unusual feature of this repeal is not that Parliament reversed itself. It is that Parliament reversed itself by exactly the procedure that had been the central objection to the original enactment. The three farm laws of 2020 were passed by voice vote, over a demand for a counted division, without examination by any parliamentary committee. The Act that repealed them in 2021 was passed without a word of debate, over a demand for discussion, without examination by any committee either. Both the making and the unmaking skipped the deliberative stage entirely, and understanding that symmetry is the key to understanding what the repeal did, what it did not do, and why almost nothing about the underlying dispute was settled by it.
 
-![The Farm Laws Repeal Act 2021 and the repeal of the three farm laws, showing the mirrored passage of September 2020 and November 2021 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Farm Laws Repeal Act 2021 and the repeal of the three farm laws, showing the mirrored passage of September 2020 and November 2021 - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 A repeal article in this series asks two questions: what ended, and what replaced it. The first answer here is precise. Three statutes enacted in September 2020 ceased to exist, and a fourth and older statute, the Essential Commodities Act of 1955, was restored to the form it had before 2020 by the deletion of a single sub-section. The second answer is equally precise and much stranger. Nothing replaced them. No alternative marketing law was enacted, no price assurance framework was substituted, no statutory guarantee of the minimum support price was created, and the one constitutional question the episode had squarely raised, whether Parliament was competent to legislate on agricultural trade in the manner it chose, was left undecided when the challenges to the farm laws collapsed for want of a subject. The repeal is therefore best read as a restoration rather than a settlement: it returned Indian agricultural marketing law to the position of June 2020, and it left every substantive argument that had been running since June 2020 exactly where it had been.
 

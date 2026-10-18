@@ -6,15 +6,15 @@ date: 2013-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Minimum Wages Act 1948", "Labour Law", "Social Justice", "UPSC", "Law Students"]
 excerpt: "The Minimum Wages Act 1948 explained: why the wage floor binds only scheduled work, how rates are fixed and revised, and what an underpaid worker can claim."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2013-06-15
+lang: en
 ---
-
 Ask what the Minimum Wages Act 1948 guarantees and most accounts give the same answer: a legal floor below which no employer may push a wage. That answer is half right, and the half it misses is the half that governed the working lives of most Indians for seven decades. The Act makes the obligation to pay a minimum wage unusually absolute. It overrides contracts, it disregards the employer's capacity to pay, and the Supreme Court has held that paying less than the minimum is forced labour within the meaning of the Constitution. But the obligation switches on only for work that a government has chosen to list. A worker whose occupation stands in the Schedule to the Act, or in an employment added to it by notification, holds a right that no bargain can remove. A worker in an occupation nobody has scheduled holds no statutory minimum wage at all, whatever the poverty of the wage actually paid. Coverage, not the level of the rate, was always the real question in this statute, and the whole history of the Act, from its drafting in the 1940s to its replacement by the Code on Wages in 2019, is the history of that scheduling gate and the long argument about whether to remove it.
 
-![The Minimum Wages Act 1948, showing how the wage floor depends on scheduled employments and how rates are fixed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Minimum Wages Act 1948, showing how the wage floor depends on scheduled employments and how rates are fixed - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This is a pillar article on the statute. It sets out what the Act requires and of whom, explains the two mechanisms by which a rate comes into existence, reconstructs the need-based benchmark against which every rate is judged and found short, states the constitutional principle that makes the duty absolute, and gives an honest account of the enforcement record, which is where the statute is weakest. It also explains why a country with this Act had thousands of different minimum wages and no national minimum wage, and what changed when Parliament replaced the scheduling model with a universal floor. The wider field of Indian labour legislation, of which this Act is one of the founding statutes, is mapped in [the guide to India's labour law framework](/2013/05/01/indian-labour-law-framework-guide/), and this article stays inside its own ground: one Act, its machinery, its case law and its limits.
 

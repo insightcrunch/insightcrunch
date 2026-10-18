@@ -6,15 +6,15 @@ date: 2014-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Food Security Act", "Social Justice", "Parliament", "UPSC", "Law Students"]
 excerpt: "The National Food Security Act turned welfare schemes into legal entitlements to foodgrain, meals and maternity benefit, with a remedy when supply fails."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-05-15
+lang: en
 ---
-
 The National Food Security Act, 2013 is the statute that converted India's food welfare schemes into legal entitlements, and the conversion is the whole story. Before it, a family that was refused grain at a ration shop had been denied a benefit that a government had chosen to give and could choose to withdraw. After it, the same family is denied something the law says it is owed, and the law itself supplies the remedy: a cash allowance for the grain that did not arrive, a named officer who must hear the complaint, and a commission that can penalise the official who ignores that officer. Whether those remedies work as designed is a separate question, and it belongs to the record of implementation. What the statute did on its face is not in doubt. It took the targeted public distribution system, the anganwadi meal, the school midday meal and a maternity benefit, and rewrote them as rights held by identified persons against the state.
 
-![The National Food Security Act 2013 and the entitlements it created, showing what a household is owed and the remedy when supply fails - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Food Security Act 2013 and the entitlements it created, showing what a household is owed and the remedy when supply fails - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The Act does this through one design choice that determines almost everything else about it, and a reader who grasps that choice understands the statute. Coverage is fixed as a percentage of the population. Section 3(2) extends the grain entitlement to up to seventy-five per cent of the rural population and up to fifty per cent of the urban population, and section 9 has the Central Government determine, state by state, how many persons that percentage yields. Eligibility is therefore not a finding that a household is poor. It is a finding that a household falls inside a numerical allocation that its state received. The Act creates a genuine legal entitlement, enforceable in ways this article sets out in detail, but the holder of the entitlement is selected administratively, by a list drawn up inside a quota. That is the namable claim of the statute, and every operational controversy it has generated, about exclusion, about the frozen census, about the deserving and the undeserving, is a working out of that single decision.
 

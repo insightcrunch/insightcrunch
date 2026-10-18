@@ -6,15 +6,15 @@ date: 2013-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "SEBI Act 1992", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
 excerpt: "The SEBI Act 1992 explained: how an administrative arrangement became a statutory securities regulator armed to investigate, debar, penalise and settle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-04-01
+lang: en
 ---
-
 Most regulators punish. The Securities and Exchange Board of India, created by the SEBI Act 1992, does something more fundamental: it excludes. Its decisive instrument is not the fine, not the prosecution, and not the adverse finding after a long inquiry. It is the direction, issued by the regulator's own order, that restrains a person from accessing the securities market or from buying, selling or dealing in securities at all, and that direction can be issued on an interim basis, before any final finding has been recorded against the person restrained. For a broker, a merchant banker, a listed company promoter or an investment adviser, exclusion from the market is not a sanction that follows the destruction of a business. It is the destruction of the business, administered in advance of adjudication and reviewed only afterwards. Understanding that single design choice, a power to exclude before adjudication, explains both why this regulator is regarded as the most effective in the Indian regulatory state and why every serious criticism of it concentrates on the same point.
 
-![The SEBI Act 1992 and the design of India's securities regulator, whose debarment power excludes a person from the market before adjudication - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The SEBI Act 1992 and the design of India's securities regulator, whose debarment power excludes a person from the market before adjudication - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The institution profile question for this series is what a body was designed to be able to do. SEBI was designed, across a decade of statutory construction between 1992 and 2014, to be able to do four things without asking a court first: to compel information from anyone, registered or not; to freeze a market participant out of the market while an investigation runs; to take away the profits of a violation and to fine the violator through its own adjudication; and to close a proceeding by settlement without ever deciding what happened. Each of those powers was conferred at a different moment, usually after a scandal exposed the absence of the power that was then supplied. The result is a body that began life in 1988 as an administrative arrangement with no statutory authority of any kind, a secretariat with a name, and became within a generation the regulator against which every other Indian regulator in this series is measured. The comparison is not accidental. Parliament kept returning to this statute and adding powers to it, because the market kept producing misconduct that moved at trading speed while the ordinary legal process moved at litigation speed, and the gap between those two speeds is the space this institution was built to occupy.
 

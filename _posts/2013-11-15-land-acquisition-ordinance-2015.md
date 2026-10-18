@@ -6,15 +6,15 @@ date: 2013-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Land Acquisition", "LARR Act 2013", "Parliament", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The land acquisition ordinance explained: what the five exempted categories changed, why the amendment bill failed, and how its aims arrived by other routes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-11-15
+lang: en
 ---
-
 The land acquisition ordinance of December 2014 is usually remembered in one sentence, and the sentence is a verdict rather than a description: a government tried to take farmers' land for industry, farmers resisted, and the government was forced to retreat. Every element of that sentence corresponds to something real, and the sentence as a whole is misleading, because it describes only the parliamentary stage of the episode and says nothing about the outcome. The amendment failed in Parliament, completely and publicly. Much of what it proposed is nonetheless law in large parts of India, delivered by state legislatures acting under a proviso of the Constitution and by a Constitution Bench of the Supreme Court reading a single provision of the unamended Act. This article is an account of the whole arc, from an ordinance promulgated on the last day of 2014 through its successive re-promulgations to its lapse in August 2015, and then through the three routes by which its objectives were pursued after its death.
 
-![The land acquisition ordinance of 2015, showing the five exempted categories, the failed amendment bill and the routes by which its objectives were delivered - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The land acquisition ordinance of 2015, showing the five exempted categories, the failed amendment bill and the routes by which its objectives were delivered - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Stated in terms both sides would accept, the disagreement was this. The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 had made acquisition slower and more conditional than at any earlier point in Indian law, by requiring a social impact assessment before acquisition, the consent of a stated proportion of affected families where land was taken for private companies or public private partnerships, and compensation at multiples of market value with a full rehabilitation and resettlement package. The government of the day maintained that these conditions, applied to defence projects, rural roads, electrification, affordable housing and industrial corridors, would obstruct purposes that almost nobody opposed in principle, and that the Act needed a set of exemptions for such projects. Its opponents maintained that the exemptions were drawn widely enough to swallow the rule, that a project list covering most of what governments acquire for would leave the consent and assessment safeguards operating only at the margins, and that in any event a contested change of this size ought not to be carried by ordinance at all. Both of those positions were held by serious people, both were argued in Parliament and outside it, and the episode cannot be understood by adopting either side's summary of the other.
 

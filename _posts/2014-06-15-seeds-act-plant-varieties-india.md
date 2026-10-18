@@ -6,17 +6,17 @@ date: 2014-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Seeds Act 1966", "Plant Varieties", "Farmers Rights", "Agriculture", "Judiciary", "UPSC"]
 excerpt: "The Seeds Act 1966 in India explained: how seed quality is regulated in the market, and how the plant varieties Act protects breeders and farmers together."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-06-15
+lang: en
 ---
-
 Every bag of seed sold in India raises two entirely different legal questions, and Indian law answers them in two entirely different statutes that public discussion persistently confuses. The first question, the one the Seeds Act 1966 exists to answer, is whether the seed is any good: whether it will germinate, whether it is what the label claims, whether the farmer who buys it in the planting season is being sold the variety named on the packet or a substitute that will fail in the field when it is too late to do anything about the failure. The second question is whose the variety is: whether the genetic material inside the seed belongs, in the eyes of the law, to a breeder who spent years developing it, to the farming communities that selected and conserved its ancestors over generations, or to no one at all. The Seeds Act 1966 answers the first question and only the first. The Protection of Plant Varieties and Farmers' Rights Act 2001 answers the second, and answers it in a way no other country has attempted.
 
 The argument of this article is that the 2001 Act is a genuine conceptual innovation with a permanent internal tension built into it, and that it cannot be understood by reading either of its two rights in isolation. The statute grants a breeder an exclusive right over a registered variety, of the kind that intellectual property law grants over an invention or a book, and in the same statute it grants every farmer the right to save seed of that protected variety, sow it, resow it, exchange it, share it and sell it, subject to a single restriction about branded seed. The value of the breeder's right depends on how much of the market the farmers' exemption occupies, and the farmers' exemption is not a grudging exception carved out of the right but a co-equal grant stated in the statute's own non obstante clause. Where the boundary between the two grants actually sits has been worked out in one high-profile dispute about a potato, and that dispute, followed carefully, teaches more about the statute than the text alone does.
 
-![The Seeds Act 1966 and plant variety protection in India, showing the quality regime of the Seeds Act and the two rights of the plant varieties statute - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Seeds Act 1966 and plant variety protection in India, showing the quality regime of the Seeds Act and the two rights of the plant varieties statute - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The confusion between the two statutes matters practically and not merely taxonomically. A farmer who saves seed of a protected variety and sells the harvest as grain commits no legal wrong at all, yet the belief that seed saving infringes the breeder's right is widespread enough to have shaped real litigation and real fear in real villages. A seed dealer who sells substandard seed of a notified kind faces a quality prosecution under a statute passed in 1966, with penalties that were modest when enacted and are derisory decades later, yet accounts of seed regulation regularly describe the trade as governed by a modern registration law that Parliament has in fact never passed. A third regime, covering genetically modified crops, is governed by neither statute, and the public argument about seed sovereignty constantly imports assumptions from that separate debate into this one. Separating the regimes is the necessary first step, and this article keeps them separate throughout.
 

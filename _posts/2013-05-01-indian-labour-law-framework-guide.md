@@ -6,15 +6,15 @@ date: 2013-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Labour Law", "Labour Codes", "Industrial Relations", "Seventh Schedule", "UPSC", "Law Students"]
 excerpt: "The Indian labour law framework explained: the Concurrent List basis, the worker thresholds that decide which statutes apply, and what the four codes changed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-05-01
+lang: en
 ---
-
 Ask a simple question of Indian labour law, such as what an employer must do before closing a workshop with forty workers, and the answer refuses to be simple. It depends on which state the workshop stands in, on whether the workers are counted on the muster roll or engaged through a contractor, on whether the establishment crossed a headcount line last year or the year before, and on which of several dozen statutes happens to switch on at that size. The Indian labour law framework is not one law. It is an architecture, built over a century and a half out of central statutes, state statutes, state amendments to central statutes, and state rules framed under central statutes, and it cannot be understood statute by statute. It can only be understood by grasping the two structural features that produced the accumulation and that survive every reform of it: labour is a subject on which both Parliament and the state legislatures may legislate, and almost every labour statute applies only above a numerical threshold of workers. Whoever holds those two keys can read the whole body of law. Whoever lacks them will keep mistaking a pile of statutes for a system.
 
-![The Indian labour law framework, showing the Concurrent List foundation and the threshold architecture that decides which statutes apply to a workplace - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Indian labour law framework, showing the Concurrent List foundation and the threshold architecture that decides which statutes apply to a workplace - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 This article is the map of that architecture. It explains why India accumulated dozens of central labour statutes and hundreds of state enactments instead of one labour law, how the constitutional settlement in the Seventh Schedule made that accumulation inevitable, how the threshold mechanism decides whether any given statute reaches any given workplace at all, what the courts did to widen the perimeter of the field, and what the consolidation of twenty-nine central statutes into four labour codes changed and conspicuously did not change. The detailed treatment of individual statutes belongs to the specialist articles in this cluster, and this article links down to them rather than repeating them. What it owns is the connective structure, because in this field the connective structure is where the law actually lives.
 

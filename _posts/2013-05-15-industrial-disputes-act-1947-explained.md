@@ -6,15 +6,15 @@ date: 2013-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Industrial Disputes Act", "Labour Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "The Industrial Disputes Act 1947 explained in full: the fight over the definition of industry, the Chapter VB permission regime, and retrenchment compensation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-05-15
+lang: en
 ---
-
 For over seven decades, the Industrial Disputes Act 1947 decided a question that sounds simple and is not: when a worker and an employer fall out, who gets to decide the quarrel, and by what rules? The statute built a complete alternative world of labour justice, with its own forums, its own vocabulary and its own arithmetic of compensation, and it placed the government of the day at the gate of that world, deciding which disputes would be adjudicated at all. Almost everything else in Indian labour law, from the size of factories to the survival of sick mills, was shaped by how this one Act answered its opening questions.
 
-![The Industrial Disputes Act 1947, showing the definition of industry dispute and the machinery of adjudication it created - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Industrial Disputes Act 1947, showing the definition of industry dispute and the machinery of adjudication it created - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 One fact about the Act is stranger than anything in its text, and it organises everything this article has to say. The single most important word in the statute is "industry", because the whole machinery switches on only where an industry exists. In 1978 the Supreme Court gave that word a very wide meaning. In 1982 Parliament enacted a narrower meaning and voted the wider one down. The executive then declined, for forty-four years, to bring Parliament's narrower meaning into force, and the courts went on applying the meaning Parliament had rejected. A statute whose central term was governed by a definition the legislature had disowned is a fair emblem of the Act itself: powerful, contested, and administered for most of its life in a state of suspension between what Parliament said and what governments were willing to do.
 

@@ -6,15 +6,15 @@ date: 2013-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Labour Codes", "Labour Law", "Implementation", "Parliament", "UPSC"]
 excerpt: "The labour codes implementation delay explained: why four codes enacted in 2019 and 2020 commenced only in November 2025, before their rules were ready."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-09-15
+lang: en
 ---
-
 A statute can clear every constitutional hurdle and still govern nothing. It can be passed by both Houses of Parliament, receive the assent of the President, be printed in the Gazette of India with an Act number of its own, be summarised in textbooks and taught in examination halls, and yet impose no obligation on any employer and confer no enforceable right on any worker, because one further step remains untaken: the executive has not appointed the day on which it is to come into force. The labour codes implementation delay is the largest modern demonstration of that gap in Indian lawmaking. Four codes, enacted in 2019 and 2020 to replace twenty-nine central labour statutes, waited more than five years for their appointed day, and when the day came on 21 November 2025, it arrived before the rules that make the codes operable, so that the long wait for commencement was followed immediately by a second wait of a different kind.
 
-![The labour codes implementation delay, showing four enacted codes awaiting commencement and then awaiting their rules - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The labour codes implementation delay, showing four enacted codes awaiting commencement and then awaiting their rules - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That sequence is what makes this the most instructive commencement story in the series. Other clusters in this series record statutes that were never notified at all, statutes notified in fragments, and statutes in force on paper while the institutions they created stood unbuilt. The labour codes supply the inverse case and complete the taxonomy: a reform whose stated obstacle for five years was that the subordinate legislation was not ready, commenced on a single day with most of that subordinate legislation still not ready, and held together in the interval by the device of applying rules framed under repealed statutes to the statutes that replaced them. A reader who understands why that happened, and what law actually governed an employer and a worker at each stage, understands something general about how Indian legislation behaves between enactment and operation, which is the stretch of a statute's life that most commentary skips.
 

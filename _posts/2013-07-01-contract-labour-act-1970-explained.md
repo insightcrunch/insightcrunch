@@ -6,15 +6,15 @@ date: 2013-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Contract Labour Act 1970", "Labour Law", "Labour Codes", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Contract Labour Act 1970 explained: registration, licensing, the Section 10 prohibition power, and why abolition never brought absorption for its workers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-07-01
+lang: en
 ---
-
 The Contract Labour Act 1970 carries its ambition in its title and its disappointment in its text. The full name is the Contract Labour (Regulation and Abolition) Act, 1970, and a reader who takes the second half of that name at face value will expect a statute that ends the practice of engaging workers through contractors, at least in the work that an establishment performs all year round. What the statute actually built was a licensing and welfare regime for the practice it named itself against, together with a power, handed to governments and hedged with conditions, to prohibit contract labour in a particular process. Then, three decades after enactment, a Constitution Bench of the Supreme Court settled the question the text had left open, and settled it against the workers: when a government does prohibit contract labour in a process, the workers engaged in that process do not become employees of the establishment. They simply cease to be engaged. The abolition limb of the statute therefore removes jobs rather than converting them, and everything else in this article follows from understanding why that is so and what, if anything, a contract worker can do instead.
 
-![The Contract Labour Act 1970, showing how a statute named for abolition built a regime of regulation instead - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Contract Labour Act 1970, showing how a statute named for abolition built a regime of regulation instead - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 That single point is the one test this article sets itself. A reader who finishes it should be able to explain the whole working model of the Act: which establishments and contractors it binds, what registration and licensing require, what the prohibition power in Section 10 actually examines, who must provide the canteen and the drinking water and the wages when each actor in the chain defaults, what penalties stand behind the scheme, and how the courts first promised absorption and then withdrew the promise. The reader should also be able to explain the structural point that matters more than any single provision: contract labour in India grew enormously under a statute enacted to abolish it, and it grew because the surrounding body of labour law made direct employment expensive and rigid at defined thresholds while contracting avoided those thresholds altogether. The statute did not fail to notice this. It was designed as a compromise, and compromises of this kind regulate the thing they cannot bring themselves to forbid.
 

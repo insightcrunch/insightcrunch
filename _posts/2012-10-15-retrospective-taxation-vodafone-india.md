@@ -6,15 +6,15 @@ date: 2012-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Income-tax Act 1961", "Taxation", "Judiciary", "Constitutional Law", "Parliament"]
 excerpt: "Retrospective taxation explained through the Vodafone dispute: the Supreme Court judgment, the legislative reversal, the arbitrations and the withdrawal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2012-10-15
+lang: en
 ---
-
 In February 2007, two companies incorporated outside India agreed the sale of a single share in a third company incorporated in the Cayman Islands, and on the face of the documents no asset located in India changed hands at all. Whether the Income-tax Act, 1961 could nevertheless reach the gain on that offshore exchange is the interpretive question from which the Indian law of retrospective taxation, in the form that made it internationally notorious, descends. The Supreme Court answered it one way in January 2012. Parliament answered it the other way within months, writing its answer back to the first day of April 1962, the day the Act itself had commenced half a century earlier. Two international tribunals then held that the second answer breached treaties India had signed, and in 2021 Parliament withdrew the demand it had so carefully constructed, on conditions, without conceding that the construction had been unlawful.
 
-![Retrospective taxation in India and the Vodafone indirect transfer dispute, showing the Supreme Court judgment and its legislative reversal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Retrospective taxation in India and the Vodafone indirect transfer dispute, showing the Supreme Court judgment and its legislative reversal - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 The episode is usually told as a morality play, and the moral is usually drawn too large. Retrospective taxation was not abolished in India in 2021, because nothing in the statute book ever forbade it and nothing in the withdrawing statute forbids it either. What happened is narrower and more instructive. A court read a charging provision and found that it did not extend to a class of transaction. A legislature, constitutionally entitled to legislate backwards in fiscal matters, extended it backwards over a decided case. The extension collided not with the Constitution but with investment treaties, and the eventual retreat was a settlement priced in refunds, forgone interest and abandoned claims rather than a confession of legal error. Tracing that sequence accurately, with the demand stated in its components rather than in the headline figures that newspapers preferred, is the work of this article.
 

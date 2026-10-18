@@ -6,15 +6,15 @@ date: 2014-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Agriculture Legislation", "Seventh Schedule", "Farm Laws", "Food Security", "UPSC"]
 excerpt: "Agriculture legislation for UPSC is a federalism test in disguise: the Seventh Schedule entries, the statutes to hold cold, and the method that scores."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2014-07-15
+lang: en
 ---
-
 Agriculture legislation is the cluster in which the civil services examination most reliably separates the candidate who understands the Constitution from the candidate who has memorised a controversy. The questions arrive dressed as economy questions, carrying the vocabulary of prices, procurement and markets, and the candidate who answers them in that vocabulary alone writes a competent newspaper paragraph and scores in the middle of the field. The candidate who scores is the one who sees that nearly every agriculture question is, underneath the dressing, a question about who holds the power to act: which legislature may enact the rule, which entry of the Seventh Schedule authorises it, which institution administers it, and which level of government pays for it. Agriculture is a state subject that the Union influences constantly and commands rarely, and the examination is built to detect whether the candidate knows the difference.
 
-![Agriculture legislation study guide for UPSC, mapping the Seventh Schedule entries to the statute set and the answer method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Agriculture legislation study guide for UPSC, mapping the Seventh Schedule entries to the statute set and the answer method - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 That single recognition reorganises the whole subject. The statute list stops being a pile of Acts to memorise and becomes the working record of a constitutional division of labour: marketing law belongs to the states because the entries say so, food distribution law belongs to both levels because a different entry says so, and the support price belongs to neither legislature in statutory form because no legislature has enacted it. An answer built on that record reads as analysis. An answer built on the merits of a policy, however well informed, reads as opinion, and opinion is the one currency the mains examination does not accept. This guide works through the cluster the way a teacher would build it for a serious aspirant: the syllabus map first, then the constitutional entries that generate the questions, then the statute set with its names and years fixed accurately, then the four moments that organise the field in memory, then the institutions candidates confuse, the support price correction, the confusions that cost marks, the shapes in which questions are framed, a worked approach to a typical demand, the technique for writing on the farm laws episode without either partisanship or evasion, the evidence discipline, and a revision structure that holds the whole cluster together.
 

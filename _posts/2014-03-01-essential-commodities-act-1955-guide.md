@@ -6,15 +6,15 @@ date: 2014-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Essential Commodities Act", "Social Justice", "Federalism", "Parliament", "UPSC"]
 excerpt: "The Essential Commodities Act 1955 explained: how Section 3 control orders, stock limits, licensing, confiscation and penalties govern trade in essentials."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2014-03-01
+lang: en
 ---
-
 The Essential Commodities Act 1955 is the strangest statute in Indian economic law, because a person who reads it from the first section to the last learns almost nothing about what the law forbids, requires, or punishes in any actual market. The Act fixes no price, sets no stock limit, names no licence condition, and prohibits no transaction. What it does instead is confer power: a single wide power on the Central Government to make orders, and a machinery for enforcing whatever those orders say. Every operative rule that has ever governed the trade in foodgrains, sugar, edible oils, drugs, fertilisers, kerosene or jute textiles under this statute has lived not in the Act but in a control order, a licensing order, or a Gazette notification issued under it, and every such rule could be, and frequently was, rewritten overnight without Parliament being asked. That design is the whole subject of this article, because it explains both why governments of every persuasion have kept the Act for seven decades and why traders, economists and courts have argued about it for just as long.
 
-![The Essential Commodities Act 1955 and the control order system, showing how Section 3 delegated power governs food, fuel and medicine markets - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Essential Commodities Act 1955 and the control order system, showing how Section 3 delegated power governs food, fuel and medicine markets - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The claim this article defends is a simple one about where law lives. The Essential Commodities Act is a statute made entirely of delegated power: scarcely any rule in it binds anyone directly, its whole content is a permission for the executive to make rules that do, and therefore the record of orders is the real law and the Act itself is a heading under which that law is filed. A trader who wants to know what the law requires must read the Gazette, not the statute book. A researcher who wants to understand the controlled economy must read the orders, because the Act will tell them only who held the pen. And a citizen who wants to know why a government can cap the stock of onions in a warehouse within days of a price spike, while a change to the Act itself would take a parliamentary session, has to understand that this asymmetry was not an accident of drafting. It was the deliberate constitutional and legislative choice of 1954 and 1955, made by a state that had known famine, war rationing and scarcity, and that wanted a standing emergency power in permanent form.
 

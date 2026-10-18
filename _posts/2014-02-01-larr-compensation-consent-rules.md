@@ -6,15 +6,15 @@ date: 2014-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "LARR Act 2013", "Land Acquisition", "Social Justice", "Judiciary", "UPSC", "Law Students"]
 excerpt: "LARR compensation and consent rules for landowners: how the award is computed step by step, how consent is counted, and how to challenge an award in time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2014-02-01
+lang: en
 ---
-
 A landowner who has just been served with an acquisition notice under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 does not need a lecture on eminent domain. The landowner needs the LARR compensation and consent rules as machinery to be operated, and needs them in a particular order: the arithmetic by which the compensation on the notice will be turned into an award, so the figure can be checked line by line; the consent position, so it is known whether the acquisition needed anybody's agreement and whether that agreement was properly counted; the remedy route, with its clocks, so a wrong figure can be carried to the forum that can correct it before the time for doing so expires; and the answer to the question that has generated more land litigation in India than any other in this statute, which is whether an old acquisition under the repealed 1894 Act has lapsed, so that the land must be given back or acquired afresh. This article works through that machinery in that order.
 
-![LARR compensation and consent rules, showing the computation of an award, the counting of consent and the route of a reference to the Authority - Insight Crunch](/assets/images/blog/blog-01.webp)
+![LARR compensation and consent rules, showing the computation of an award, the counting of consent and the route of a reference to the Authority - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The statute underneath the machinery is Act 30 of 2013, which received the assent of the President on 26 September 2013 and came into force on 1 January 2014. Its structure, its passage record and its design choices are treated in [the pillar account of the LARR Act 2013 explained](/2013/11/01/larr-act-2013-explained/), which owns the statute as a whole. What belongs here is the operative layer: Sections 26 to 30 and the First Schedule, which build the money; the proviso to Section 2(2), which builds the consent; Chapter VIII, which builds the forum; and Section 24, which governs the border with the old law and produced the litigation. A reader who finishes this article should be able to take an award, recompute it, identify which of its components is wrong if one is wrong, and state exactly which application, to which officer, within how many weeks, puts the error before the body empowered to correct it.
 

@@ -6,15 +6,15 @@ date: 2012-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "GST", "Taxation", "Federalism", "Judiciary", "Parliament", "Law Students"]
 excerpt: "GST Acts India explained: the CGST, IGST, SGST and Compensation Acts, the input tax credit chain, registration thresholds and the long-missing tribunal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2012-07-15
+lang: en
 ---
-
 The Goods and Services Tax is usually described as one tax, and in economic substance it is: a single destination-based levy on consumption, charged at every stage of a supply chain and credited at every stage after the first, so that the tax sticks only to the value each business adds. But a reader who goes looking for the statute that creates this one tax will not find it, because no such single statute exists. The GST Acts are a family: four Acts of Parliament, a matching Act in every state legislature and in the Union territories with legislatures of their own, and a compensation statute standing behind the whole arrangement, more than thirty enactments that must move in step for the single tax to work at all. This article is the pillar treatment of that family: what each statute levies, how the credit chain that justifies the design actually operates, where the litigation concentrates, and why a taxpayer who received a disputed order in the tax's early years had, for a very long time, no tribunal to appeal it to.
 
-![The GST Acts India explained, mapping the CGST, IGST, SGST, UTGST and Compensation Acts and the input tax credit chain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The GST Acts India explained, mapping the CGST, IGST, SGST, UTGST and Compensation Acts and the input tax credit chain - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 Three features of the design explain nearly everything that follows. The first is duplication by design: the Centre and each state tax the same transaction at the same time, under separate statutes, because neither level of government would surrender the revenue base to the other. The second is the credit chain: tax paid on inputs is set off against tax charged on outputs, across Centre and state lines and across state borders, which is the mechanism that removes the cascading that disfigured the older system. The third is delegation by design: the Acts are comparatively short, and the operative law, the rates, the thresholds, the exemptions, the return formats and much of the procedure, sits in rules, notifications and circulars issued under them, which is why the practical law of GST is something a practitioner tracks weekly rather than reads once.
 

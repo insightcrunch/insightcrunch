@@ -6,15 +6,15 @@ date: 2013-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Factories Act 1948", "Labour Law", "Occupational Safety", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Factories Act 1948 explained: the ten and twenty worker test for coverage, the occupier, the post-Bhopal chapter, working hours, overtime and leave."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-06-01
+lang: en
 ---
-
 Ask a room of Indian manufacturers which safety statute governed their working lives for three quarters of a century and the answer comes back without hesitation: the Factories Act 1948. Ask the same room a harder question, which premises the Act actually reached, and the confidence dissolves. The Factories Act 1948 was the central statute of Indian industrial safety from its commencement on 1 April 1949 until the labour codes displaced it, and everything about its operation, who had to register, who could be prosecuted, which workers could claim a canteen, a crèche, an ambulance room or a weekly holiday, turned on a single anterior question that most accounts of the Act treat as a formality. Was the premises a factory? That question was answered not by examining what the premises did, how dangerous its processes were or how likely its workers were to be hurt, but by counting heads and asking whether power was used. Ten workers with power, twenty without: cross either line and the full weight of the statute landed. Stay below both and almost none of it applied, whatever was being made and however it was being made. This article is a complete account of the Act built around that design choice, because the design choice is the Act.
 
-![The Factories Act 1948 and the headcount definition that decided which Indian premises counted as a factory - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Factories Act 1948 and the headcount definition that decided which Indian premises counted as a factory - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The argument running through what follows can be stated plainly. The Factories Act 1948 regulated by headcount, not by hazard. Its reach was determined by how many workers a premises employed and whether a manufacturing process was carried on with the aid of power, not by how dangerous the process was. The consequence, visible in every chapter of the Act and in every debate about its failure, is that a small unit handling genuinely hazardous chemicals could sit outside the statute entirely while a large, low-risk assembly operation sat squarely inside it, and no amendment, not even the extensive reconstruction that followed the Bhopal disaster of December 1984, changed that basic architecture. The 1987 amendment wrote an entire chapter on hazardous processes into the Act, imposed disclosure duties that reached beyond the factory gate to the general public living nearby, and multiplied the penalties many times over. It did all of that inside the same definitional fence. A reader who understands the fence understands the Act: why its protections were real for the workers they reached, why so much of Indian manufacturing was never reached at all, why the inspectorate could be simultaneously intrusive and ineffective, and why the successor code's most consequential single change was to move the fence outward by doubling the numbers.
 

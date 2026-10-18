@@ -6,15 +6,15 @@ date: 2013-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Urban Land Ceiling Act", "Land Reforms", "Federalism", "Social Justice", "UPSC"]
 excerpt: "Urban Land Ceiling Act repeal explained: why the ceiling law could be undone only state by state under Article 252, and what the repeal saved and abated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-12-01
+lang: en
 ---
-
 The Urban Land Ceiling Act repeal is the strangest repeal in the Indian statute book, because it is a repeal that did not finish. In 1999 Parliament passed a short Act of five sections repealing the Urban Land (Ceiling and Regulation) Act, 1976, the Emergency-era law that had capped how much vacant urban land any person could hold. An ordinary repeal ends a statute on a date. This one ended the ceiling law in two states and the Union territories on a date deemed to be 11 January 1999, and in every other state only on the day that state's own legislature chose to agree, which in one large state meant a wait of more than eight years, and in a few states has meant no agreement at all. A law repealed at the Centre went on being administered, litigated and complied with in parts of India long after Parliament had declared it gone.
 
-![The Urban Land Ceiling Act and its state-by-state repeal under Article 252 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Urban Land Ceiling Act and its state-by-state repeal under Article 252 - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The reason is constitutional, and it is the whole subject of this article. Land is a state subject. Parliament had no power of its own to impose a ceiling on urban land, and it acquired the power in 1976 only because eleven state legislatures passed resolutions under Article 252 of the Constitution asking Parliament to legislate for them. What consent gave, only consent could take away. Article 252 carries a second clause that receives a fraction of the attention given to the first: an Act passed on the strength of state resolutions may be amended or repealed, for a state that adopted it, only by another Act passed in the same consenting manner. The ceiling law was therefore repealed twice over in form and many times over in fact, once by Parliament in 1999 and then again, state by state, as each legislature passed the resolution that alone could switch the statute off in its territory.
 

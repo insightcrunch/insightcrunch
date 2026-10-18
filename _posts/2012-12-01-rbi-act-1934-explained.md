@@ -6,15 +6,15 @@ date: 2012-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Reserve Bank of India Act", "Banking and Finance", "Monetary Policy", "UPSC", "Law Students"]
 excerpt: "The Reserve Bank of India Act 1934 explained: note issue, Section 7 directions, the Monetary Policy Committee and the statutory line on the independence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2012-12-01
+lang: en
 ---
-
 The Reserve Bank of India Act 1934 is the statute that creates India's central bank, and everything about the institution that public argument treats as a matter of status or personality is, in the text, a matter of legal drafting. The Bank is not a constitutional body. No article of the Constitution establishes it, guarantees its tenure, or places its functions beyond the reach of an ordinary Act of Parliament. It exists because a statute of 1934 says it exists, it holds the powers that statute confers, and it operates inside boundaries that the same statute draws, including one boundary that surprises almost every reader who encounters it for the first time: a provision under which the Central Government may direct the Bank, after consulting its Governor, on anything the government considers necessary in the public interest.
 
-![The Reserve Bank of India Act 1934 and the statutory boundary between the central bank and the government - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Reserve Bank of India Act 1934 and the statutory boundary between the central bank and the government - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 That provision, Section 7, is the pressure point around which every serious argument about the Bank turns, and it cannot be understood in isolation. It has to be read alongside the appointment provisions, which give the government the choice of the Governor and Deputy Governors; alongside the composition of the Central Board, which the government substantially nominates; alongside the surplus provision, which sends the Bank's profits to the government each year; and alongside the monetary policy framework inserted in 2016, which gave the Bank a statutory objective for the first time in its eighty-two years of existence, assigned the setting of that objective to the government, and left the choice of instruments to a committee on which the government appoints half the voting members. The argument of this article, stated in advance so that the reader can test it against the text, is that the Reserve Bank's independence is operational rather than structural. The statute gives the elected government the objective-setting power, the direction power, and the larger share of the appointments. What protects the Bank in practice is convention, transparency, and the political cost of using powers that are plainly there. That is a defensible constitutional design, and several respected central banks work under versions of it, but it is a design in which the line between the bank and the government sits where politics places it, not where the law fixes it.
 

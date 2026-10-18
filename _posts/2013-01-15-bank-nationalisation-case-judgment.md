@@ -6,15 +6,15 @@ date: 2013-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bank Nationalisation", "Constitutional Law", "Judiciary", "Fundamental Rights", "UPSC"]
 excerpt: "Bank Nationalisation Case: how Cooper struck down the 1969 banking Act on equality and compensation, and recast the law of fundamental rights in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-01-15
+lang: en
 ---
-
 The Bank Nationalisation Case is filed in the memory of the legal profession as a case about property, and it is usually taught as the high-water mark of judicial resistance to economic legislation. That filing is wrong, and it conceals what the eleven judges who decided Rustom Cavasjee Cooper v Union of India on 10 February 1970 actually did. The nationalisation they struck down was re-enacted within weeks and never seriously disturbed again. The compensation doctrine they applied was removed from the Constitution by amendment within two years and the property right itself within eight. What survived, and what grew, was a holding about method: a holding about how a court is to test a law against the fundamental rights chapter, and about whether those rights stand in separate compartments or answer to one another. The interpretive question the case posed was never really about banks. It was about whether a statute that expropriates property is to be judged only by the article that governs expropriation, or by every right its operation in fact invades.
 
-![The Bank Nationalisation Case, showing the Cooper judgment, the eleven-judge bench and the effect test - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Bank Nationalisation Case, showing the Cooper judgment, the eleven-judge bench and the effect test - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 That question mattered because the answer given twenty years earlier, in A.K. Gopalan v State of Madras, had organised the whole of Indian fundamental rights law around separation. Under Gopalan, each right in Part III occupied its own compartment, a law was classified by its object and its pith and substance, and once classified it was tested against the one article that governed its subject and against no other. A preventive detention law was tested against Article 22 and not against the freedoms in Article 19. A property law was tested against Article 31 and not against the equality guarantee read with the freedoms of trade and of holding property. The Cooper bench, by ten votes to one, discarded that architecture. In its place the Court laid down that the rights are not mutually exclusive, that a law is to be judged by its direct operation and effect on the rights of the person before the court, and that a petitioner is entitled to have the statute measured against every guarantee its working actually touches. Every later expansion of rights in India, from the widening of the right to life in Maneka Gandhi to the recognition of privacy in Puttaswamy, runs on rails that Cooper laid. The banking case changed the constitution of the rights chapter while appearing to decide a dispute about compensation for fourteen banks.
 

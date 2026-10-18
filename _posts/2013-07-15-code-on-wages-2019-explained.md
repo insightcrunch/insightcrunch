@@ -6,15 +6,15 @@ date: 2013-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Code on Wages 2019", "Labour Law", "Labour Codes", "Minimum Wages", "Social Justice", "UPSC"]
 excerpt: "The Code on Wages 2019 explained: universal minimum wages, the floor wage, and the wages definition that resets provident fund and gratuity on every salary."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2013-07-15
+lang: en
 ---
-
 The Code on Wages 2019 was sold to Parliament and to the public as a consolidation, a tidying of four ageing wage statutes into a single orderly text. Consolidation it certainly is. But a reader who stops at the tidying misses the statute. Buried in the definitions clause of the Code on Wages 2019 sit two changes that reach further than anything else in the four labour codes: a minimum wage that for the first time attaches to every employee in India rather than only to those whose work a government has listed, and a single definition of wages whose proviso quietly rewrites the arithmetic of every salary structure built on a small basic pay. The first change is the headline. The second is the reform. This article works through both, provision by provision, and tests the Code against the four statutes it repealed.
 
-![The Code on Wages 2019 and how its definition of wages resets salary structures across India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Code on Wages 2019 and how its definition of wages resets salary structures across India - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The four repealed statutes were each built for a different decade and a different problem, and none of them spoke to the others. The Payment of Wages Act, 1936 regulated the manner and timing of wage payment for a relatively narrow class of employees, fixing wage periods, pay days and the permissible deductions from a pay packet. The [Minimum Wages Act 1948](/2013/06/15/minimum-wages-act-1948-explained/) empowered governments to fix floor rates, but only for employments entered in a schedule, so that coverage depended on an administrative act of listing rather than on the fact of employment. The Payment of Bonus Act, 1965 distributed a share of profits through the machinery of allocable surplus, confined to establishments above a size threshold and to employees below a wage ceiling. The Equal Remuneration Act, 1976 required equal pay for men and women for the same work or work of a similar nature and barred discrimination in recruitment. Four statutes meant four definitions of the central concept, wages, each drawn for its own purpose, and an employer of any size maintained parallel computations under each.
 

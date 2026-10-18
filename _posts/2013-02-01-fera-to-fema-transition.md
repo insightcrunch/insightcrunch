@@ -6,15 +6,15 @@ date: 2013-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "FEMA", "FERA", "Foreign Exchange", "Reserve Bank of India", "UPSC", "Law Students"]
 excerpt: "The FERA to FEMA transition replaced a criminal foreign exchange law with a civil one: most restrictions stayed, but the consequences changed entirely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2013-02-01
+lang: en
 ---
-
 The FERA to FEMA transition is usually told as a story about freedom, and it did set people free of something. In legal fact it began, on 1 June 2000, as a change of consequences: from that morning, a person who broke India's foreign exchange rules stopped being a criminal. The transaction itself did not change. Holding a bank account abroad without permission, paying a person outside India through an unauthorised channel, failing to bring export earnings home: each of these was forbidden on 31 May 2000 and remained forbidden on 1 June 2000. What changed overnight was the legal character of the act and the consequence of being caught. The day before, the act was an offence that could end in a prison term imposed by a criminal court. The day after, it was a contravention that could end in a money penalty imposed by an adjudicating officer. The FERA to FEMA transition, the replacement of the Foreign Exchange Regulation Act 1973 by the Foreign Exchange Management Act 1999, is remembered in business folklore as the moment India deregulated foreign exchange. The statute book tells a narrower and more interesting story, and this article tells it from the texts.
 
-![The FERA to FEMA transition and the replacement of a criminal foreign exchange law with a civil one in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The FERA to FEMA transition and the replacement of a criminal foreign exchange law with a civil one in India - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The claim defended through the article is a single one. The replacement changed the character of liability rather than the extent of regulation. Parliament kept the architecture of control almost intact: the channel through which foreign exchange must move, the duty to bring earnings home, the prohibition on holding assets abroad except as permitted, and the state's grip on capital movements across the border all survived the repeal. What Parliament discarded was the criminal machinery wrapped around that architecture, the prison sentence, the presumption of a guilty mind, the power of arrest, and the reach of the statute over citizens wherever on earth they lived. A reader who assumes that foreign exchange became unregulated in 2000 because it stopped being criminal has drawn exactly the wrong conclusion, and the error is not academic. The civil regime reaches into ordinary remittances, student accounts, inherited property abroad and the savings of returning migrants, and it is administered by the same enforcement agency that runs the criminal money laundering statute, so that a single set of facts can still produce two proceedings of entirely different characters.
 
