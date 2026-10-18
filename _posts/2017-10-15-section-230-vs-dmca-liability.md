@@ -6,15 +6,15 @@ date: "2017-10-15"
 categories: ["Technology"]
 tags: ["US Legislation", "Section 230", "DMCA", "Internet Law", "Copyright Law", "Tech Policy"]
 excerpt: "Section 230 grants immunity for third-party content; the DMCA offers only a conditional safe harbor. Five axes divide them, and this article names the verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: "2017-10-15"
+lang: en
 ---
-
 A technology lawyer receives two letters about the same video on the same platform. The first says the video defames a local business owner. The second says the video contains fifteen seconds of a copyrighted song. The platform leaves the first video up indefinitely and removes the second within hours. The client wants to know why the platform is allowed to do one and required to do the other, and whether the difference reflects company policy or law. The answer is law, and it is the comparison this article sets out: the communications liability rule that shields the platform without asking it to do anything, and the copyright rule that shields the platform only if it does a list of things. The two statutes are read about constantly and compared almost never, which is why working professionals misstate both. The full text treatment of the first statute is in the series article on [section 230](/2017/07/15/section-230-explained/), and the full profile of the second is in the series article on [the Digital Millennium Copyright Act](/2017/08/01/digital-millennium-copyright-act-1998/). This article exists for the comparison itself: the nature of each protection, what each demands of a service, what notice does under each, what claims each covers, why two regimes were needed, and what follows for anyone who wants to reform them. A creator whose work is taken down, a startup counsel building a compliance plan, a journalist covering platform behavior, and a staffer drafting a bill all need the same map, because the asymmetry between the two regimes explains platform conduct more reliably than any theory about company incentives. The map starts with the two statutes stated on their own terms.
 
-![Section 230 vs DMCA: the two liability regimes compared side by side - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 230 vs DMCA: the two liability regimes compared side by side - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## The immunity: 47 U.S.C. 230 as automatic protection
 

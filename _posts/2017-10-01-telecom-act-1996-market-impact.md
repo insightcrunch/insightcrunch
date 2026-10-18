@@ -6,13 +6,15 @@ date: "2017-10-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Telecom Policy", "Market Impact", "Deregulation", "Media Law", "Internet Law"]
 excerpt: "Telecom Act market impact, measured: radio consolidated, local phone entry died in court, cable prices rose faster than inflation, and schools got wired."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: "2017-10-01"
+lang: en
 ---
-
 ## The Telecommunications Act and the Irony of Its Market Legacy
+
+![Telecom Act Market Impact: What the Big Law Did to Markets - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The Telecommunications Act of 1996 was signed into law on February 8, 1996, by President Bill Clinton, becoming Public Law 104-104, according to the legislative record on Congress.gov. The signing, held at the Library of Congress, marked the first major rewrite of communications law in 62 years, as the Congressional Record noted at the time. The conference report described the measure as a pro-competitive, deregulatory national framework designed to open every telecommunications market to competition by stripping away regulatory barriers to entry. Few statutes of the decade carried larger ambitions, and few passed with such lopsided bipartisan majorities. The statute belonged to the deregulatory era surveyed in [US infrastructure legislation history](/2016/08/15/us-infrastructure-legislation-history/), which traces how Washington rewrote market rules across industries in those years. The Senate agreed to the conference report by 91 votes to 5 and the House by 414 to 16 on February 1, 1996, according to the Congress.gov legislative record. A week later the president signed the bill at the Library of Congress with a digital pen, the first bill signing ever staged there, while comedian Lily Tomlin performed her classic telephone-operator routine updated from "one ringy-dingy" to "one gigabyte," as the Congressional Record recounted. The conference report stated the objective plainly: "to provide for a pro-competitive, de-regulatory national policy framework designed to accelerate rapidly private sector deployment of advanced information technologies and services to all Americans by opening all telecommunications markets to competition." At the signing the president said the law would bring the future to every doorstep, in the account of the American Enterprise Institute's history of the statute. Congress set out to do what the courts had only begun: to shatter the remaining local telephone monopolies, to invite cable companies into telephony and telephone companies into video, and to replace a regulatory order built for monopoly with one built for rivalry. A companion [Telecommunications Act of 1996 guide](/2017/07/01/telecommunications-act-1996-guide/) sets out the statute's full provisions; what follows evaluates what those provisions did to markets.
 

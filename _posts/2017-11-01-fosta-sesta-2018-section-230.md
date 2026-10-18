@@ -6,15 +6,15 @@ date: "2017-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "FOSTA-SESTA", "Section 230", "Internet Law", "Platform Liability", "Sex Trafficking"]
 excerpt: "FOSTA-SESTA added the only exception ever made to Section 230 immunity, yet prosecutions under its new offense have been rare. The full story follows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2017-11-01"
+lang: en
 ---
-
 FOSTA-SESTA, signed as Public Law 115-164 in April 2018, stands as the only substantive narrowing of Section 230 platform immunity that Congress has ever enacted. The statute's nickname is longer than its operative text is broad: it adds a three-part exception to the immunity at 47 U.S.C. 230(e)(5), covering federal civil trafficking claims, state criminal trafficking charges, and state criminal charges under a brand-new federal offense, and it creates that offense at 18 U.S.C. 2421A, aimed at operators who run online services with the intent to promote or facilitate prostitution. Everything else about the immunity survives untouched: the republication shield for every other category of claim, and the good-faith moderation shield, both remain. That is the One Test answer in brief. A reader who finishes this article can explain the only substantive narrowing of platform immunity ever enacted, describe exactly which claims it exposes platforms to, and confront the two facts that dominate every serious assessment of it.
 
-![FOSTA-SESTA Section 230 platform immunity amendment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![FOSTA-SESTA Section 230 platform immunity amendment - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The first fact is timing. Federal authorities seized Backpage.com, the classified advertising site whose conduct had motivated the legislation, on April 6, 2018, and a 93-count federal indictment of its founders and executives followed within days, all brought under pre-existing law, five days before the President signed the bill. The second fact is enforcement. The Government Accountability Office, in the review the statute itself mandated, published its study in June 2021 and found that federal prosecutors had brought exactly one criminal case under the new offense in three years, and that no restitution had been sought and no civil damages had been awarded under its new remedies. This article traces how the statute was drafted, how it became law by votes of 388 to 25 and 97 to 2, how the courts upheld it only after narrowing its reach to criminal acts rather than speech, and what the documented record says about its consequences, with the survivor-advocacy and safety-advocacy accounts each presented at full strength and the empirical question labeled open where the evidence runs out.
 
@@ -67,7 +67,6 @@ The mental-state ladder the statute builds is deliberate, and it is worth laying
 One more provision of the enacted text deserves mention because it became a flashpoint. The Act's effective-date clause provides that the amendments take effect on the date of enactment and that the immunity exception applies regardless of whether the conduct alleged occurred before, on, or after that date. Supporters described this as clarification: in their telling, Section 230 was never intended to shield trafficking-related conduct, so applying the exception to earlier conduct merely confirmed what the law had always meant. Dissenters read the same clause as punishment for past conduct under a new standard; Representative Justin Amash, voting no in the House, publicly called the bill an ex post facto law, invoking the constitutional prohibition on laws that criminalize conduct retroactively. The enacted text does not resolve that characterization; it simply states the temporal reach, and the constitutional question belongs to courts, not to the statute's drafters. What the clause unambiguously does is open the civil exception to claims arising from conduct that predated the signing, which is why the retroactivity fight attached to the victim-remedy provisions as much as to the criminal ones.
 
 The breadth objection the dissenters raised during passage did not end when the President signed the bill; it moved from floor speeches into case law, and it is addressed in the series article on [constitutional litigation over internet law](/2017/09/15/internet-law-supreme-court-cases/).
-
 
 
 ## How FOSTA-SESTA Became Law

@@ -6,13 +6,15 @@ date: "2017-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Telecommunications", "Internet Law", "First Amendment", "Legislative History", "Congress"]
 excerpt: "The Communications Decency Act paired a Senate ban on indecency with House immunity for intermediaries. The Supreme Court struck the ban and kept the immunity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: "2017-09-01"
+lang: en
 ---
-
 ## The Statute That Punished One Thing and Protected Another
+
+![How the Communications Decency Act Survived Its Own Design - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 A statute named for decency is remembered for a provision that protects platforms from liability. The Communications Decency Act, enacted as Title V of the Telecommunications Act of 1996 (Public Law 104-104, signed February 8, 1996), set out to criminalize the transmission of indecent material to minors on the Internet. What endured was something else entirely: 47 U.S.C. 230, the immunity provision that shields online services from liability for content created by third parties. The law's title describes what Congress tried to ban; its legacy describes what Congress allowed to live.
 

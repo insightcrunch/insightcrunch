@@ -6,13 +6,15 @@ date: "2017-08-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Cable Television", "FCC", "Media Law", "Privacy Law", "Consumer Protection"]
 excerpt: "The Cable Communications Policy Act deregulated cable rates through a definition, then lost that regime to re-regulation while its privacy title endured."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2017-08-15"
+lang: en
 ---
-
 The Cable Communications Policy Act of 1984 is best understood as a bargain whose terms were rewritten by a definition. Congress struck a deal between cities and cable operators. Local governments received federal confirmation of their franchising authority, a franchise fee capped at 5 percent of gross revenues, and the power to demand public, educational, and governmental channels. The industry received legal certainty after decades of jurisdictional improvisation and freedom from rate regulation for any system facing effective competition. The statute left those two words undefined, and the Federal Communications Commission supplied a meaning that made them nearly meaningless: three unduplicated broadcast signals available throughout the community. That definition deregulated rates in roughly 97 percent of franchises without Congress ever voting to abolish rate regulation.
+
+![The Cable Communications Policy Act and Its Reversal - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The consequences arrived in the monthly bills. Government surveys recorded average basic cable rates rising roughly three times faster than inflation across the years after deregulation, while the promised competition never materialized in the wired market. The backlash moved through hearings, failed bills, and finally the Cable Television Consumer Protection and Competition Act of 1992, which wrote the definition of competition into the statute itself, rebuilt rate regulation around federal benchmarks, and gave broadcast stations a triennial choice between mandatory carriage and negotiated retransmission consent. President George H. W. Bush vetoed the measure on October 3, 1992, and Congress overrode him two days later, the only override of his presidency. The rate experiment was over, and the cycle turned a third time with [the later deregulation under the 1996 act](/2017/07/01/telecommunications-act-1996-guide/).
 

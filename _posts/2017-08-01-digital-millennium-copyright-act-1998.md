@@ -6,13 +6,15 @@ date: "2017-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "DMCA", "Copyright Law", "Internet Law", "Intellectual Property", "Technology Policy"]
 excerpt: "The Digital Millennium Copyright Act is two laws in one: teeth for digital locks, shelter for services. Both halves, the exemptions, and the cases explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: "2017-08-01"
+lang: en
 ---
-
 On October 28, 1998, President Bill Clinton signed Public Law 105-304, the Digital Millennium Copyright Act, a single statute that reads like two different laws because it was written as the settlement of two different fights. One fight was about locks. Copyright owners wanted the force of law behind the technological measures guarding digital works, so that defeating a lock would itself be a legal wrong rather than merely a step toward infringement. The other fight was about shelter. The companies carrying traffic and hosting user material on the early commercial internet wanted protection from crushing liability for infringements committed by their subscribers. Title I gave the first fight to the owners, writing anticircumvention rules into 17 U.S.C. 1201 through 1205. Title II gave the second fight to the intermediaries, writing conditional liability limits into 17 U.S.C. 512. Each side accepted the other's title as the price of its own, which is why the statute carries the divided personality it has carried ever since.
+
+![Digital Millennium Copyright Act: The Complete Guide - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The claim this article defends is the namable claim in plain form: two statutes in one title, the circumvention provisions and the safe harbor provisions serving opposite constituencies and sharing only a bill number. A reader who finishes here will be able to explain both halves of the bargain, describe the notice-and-takedown machinery that processes billions of removals a year, walk through the triennial exemption process that decides who may legally fix the devices they own, and account for the court decisions that drew the statute's working boundaries, from the item-specific knowledge rule to the repeat infringer forfeiture. The sections that follow mirror the statute's split, taking the locks first and the shields second, because only that structure keeps each half's logic and each half's constituency in view.
 

@@ -6,13 +6,15 @@ date: "2017-09-15"
 categories: ["Technology"]
 tags: ["US Legislation", "Internet Law", "First Amendment", "Supreme Court", "Content Moderation", "Section 230"]
 excerpt: "Five lines of decisions built American internet law: Reno, the funding split, Packingham, the moderation cases, and the liability statute never construed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: "2017-09-15"
+lang: en
 ---
-
 ## The First Amendment Does the Work: The One Test Answer for American Internet Law
+
+![Internet Law and the Supreme Court: Five Lines of Decisions - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 American internet law is built from court opinions more than from statutes. The First Amendment does more work in the field than any enacted text, because the single liability provision Congress wrote for the network has been applied in thousands of lawsuits without ever receiving an authoritative construction from the Supreme Court. The rules that determine what governments may require of platforms, what states may forbid on the network, and what pressure officials may apply to intermediaries come from five lines of Supreme Court decisions that run from Reno v. American Civil Liberties Union in 1997 to the paired content moderation rulings of 2024.
 

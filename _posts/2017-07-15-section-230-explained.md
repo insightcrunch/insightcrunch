@@ -6,12 +6,12 @@ date: "2017-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Internet Law", "US Legislation Section 230", "US Legislation Telecommunications", "US Legislation Liability", "US Legislation Online Speech"]
 excerpt: "Section 230 holds two protections: 26 words bar treating providers and users as publishers of others' content, plus a second shielding good-faith moderation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: "2017-07-15"
+lang: en
 ---
-
 Section 230 of the Communications Act carries more public argument per word than almost any other provision in federal law. The core of the provision, the sentence that does most of the work, runs to twenty-six words: no provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider. Around those words has grown a debate conducted largely without them. The provision is described as a single immunity, as a special privilege for large technology companies, as an absolute shield against liability for harmful content, and as the legal basis for every content moderation decision. None of those descriptions survives contact with the text. The statute contains two distinct protections rather than one. It names individual users alongside providers in both. It conditions the take-down protection on good faith while imposing no motive requirement on the leave-up protection. It defines the two terms that decide most cases, and it lists the categories of law it does not touch.
 
 This article reads the provision the way a researcher reads a statute: in order, with the words doing the work. The first task is placement. The provision did not arrive as a freestanding declaration about the internet. It arrived as section 509 of the Telecommunications Act of 1996, inside a title of that act that mostly restricted speech, and its survival when the rest of that title fell tells something important about what it is. The second task is the twenty-six words themselves, read clause by clause, because the disputes that sound the most dramatic usually turn on the plainest terms. The third is the distributor question, the early interpretive fight that fixed the breadth of the leave-up protection. The fourth is the pair of definitions in subsection (f) that determine when the protection is lost.
@@ -20,7 +20,7 @@ Then come the second protection, the exclusions, and the user half of the statut
 
 Congress wrote the provision to solve a specific problem. In the first half of the 1990s, two courts reached opposite conclusions about online services that hosted user content. The service that did not moderate was treated as a mere distributor with light liability, while the service that screened its forums was treated as a publisher with heavy liability. The law rewarded passivity and punished cleanup. The amendment that became section 230 broke that incentive by protecting services both for what their users post and for what the services take down. The two purposes sit side by side in the statute's own policy statement, and the two operative subsections give each purpose its own legal form. Most error about the law comes from confusing the two.
 
-![Section 230 explained: the twenty-six words and the two protections in the statute's text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 230 explained: the twenty-six words and the two protections in the statute's text - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## Section 230: Where the Provision Sits in the Statute
 

@@ -6,15 +6,15 @@ date: "2017-12-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Crime Bill", "COPS Program", "Violent Crime", "Sentencing Law", "Statute Guide"]
 excerpt: "The complete guide to the crime bill, the largest federal crime statute: police hiring grants, prison money with sentencing strings, and federal commands."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: "2017-12-01"
+lang: en
 ---
-
 The crime bill signed on September 13, 1994, is the largest crime statute in the nation's history. Its official title is the Violent Crime Control and Law Enforcement Act of 1994, and its citation, Public Law 103-322 at 108 Statutes at Large 1796, appears in thousands of later opinions, briefs, and studies. Public debate has treated the measure as a single decision that remade American punishment, as though one vote in Washington reordered who went to prison and for how long across all fifty states. The text tells a more complicated story, and the complication is structural rather than accidental: the statute mixed federal commands with conditional grants, and the two kinds of power reached very different parts of the country.
 
-![The Violent Crime Control and Law Enforcement Act complete statute guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Violent Crime Control and Law Enforcement Act complete statute guide - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The 103rd Congress built the statute from H.R. 3355, and press accounts that September placed the authorized total at about 30.2 billion dollars over six years. Authorization is not spending. The money still required annual appropriation, and the White House planned to offset the cost through a Violent Crime Reduction Trust Fund created by reducing the federal workforce. That three-part structure, authorization, appropriation, and offset, is worth holding in mind, because much of the argument about the bill's cost confuses the ceiling Congress approved with the dollars Congress actually spent.
 

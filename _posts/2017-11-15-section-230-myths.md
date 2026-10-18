@@ -6,13 +6,15 @@ date: "2017-11-15"
 categories: ["Technology"]
 tags: ["US Legislation", "Section 230", "Internet Law", "Platform Liability", "First Amendment", "Content Moderation"]
 excerpt: "Section 230 draws more myths per word than any federal law. Eight circulating claims are tested against the text, the case law, and First Amendment doctrine."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: "2017-11-15"
+lang: en
 ---
-
 ## How to read the claim ledger
+
+![Section 230 Myths: Eight Claims Tested Against the Text - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 Few provisions of federal law have generated more argument per word than the twenty-six words of 47 U.S.C. 230(c)(1). The provision occupies less than a page of the United States Code, yet the claims made about it fill volumes of commentary, testimony, and argument across every medium. This article adds no new theory of what the provision ought to do. It tests eight claims that circulate about it against three kinds of authority: the statutory text, the case law construing that text, and the constitutional doctrine that operates alongside it.
 
