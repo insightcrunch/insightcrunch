@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "Disability Rights", "Civil Rights", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Americans with Disabilities Act myths graded true, partly true, or false against the statute, regulations, and litigation data, with the damages driver named."
 image: "/assets/images/blog/blog-101.webp"
-reading_time: "78"
+reading_time: 91
 author: "hannah-moore"
 last_updated: 2026-10-09
 lang: en

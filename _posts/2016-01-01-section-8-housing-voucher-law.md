@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Section 8", "Housing Choice Voucher", "Housing Policy", "HUD", "Provisions"]
 excerpt: "Section 8 vouchers bridge a tenant's 30 percent income share and a payment standard, but eligibility is not entitlement: appropriations decide who is served."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "75"
+reading_time: 88
 author: "abigail-cooper"
 last_updated: 2026-10-09
 lang: en

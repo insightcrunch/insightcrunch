@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "ISTEA", "Transportation", "Congress", "Legislative Process", "American History"]
 excerpt: "ISTEA moved transportation decisions from Washington to metro regions, tied federal plans to clean air law, and let highway funds pay for transit projects."
 image: "/assets/images/blog/blog-69.webp"
-reading_time: "71"
+reading_time: 83
 author: "thomas-reid"
 last_updated: 2026-10-09
 lang: en

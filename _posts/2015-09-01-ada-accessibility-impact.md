@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "ada-accessibility-impact", "disability-rights-law", "employment-economics", "ada-litigation", "community-care-services", "telecommunications-relay"]
 excerpt: "The ADA's impact is settled in the built environment, transit and relay services, while its employment effect stays genuinely unresolved among economists."
 image: "/assets/images/blog/blog-81.webp"
-reading_time: "69"
+reading_time: 81
 author: "robert-quinn"
 last_updated: 2026-10-09
 lang: en

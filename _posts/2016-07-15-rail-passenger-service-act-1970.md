@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Railroads", "Amtrak", "Transportation Law", "Deregulation", "Supreme Court"]
 excerpt: "The Rail Passenger Service Act created the national passenger railroad as a lawful exit for carriers, not an expansion. This profile explains the bargain."
 image: "/assets/images/blog/blog-91.webp"
-reading_time: "68"
+reading_time: 79
 author: "jessica-kim"
 last_updated: 2026-10-09
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights", "Housing Policy", "Fair Housing", "Congress", "HUD", "Supreme Court"]
 excerpt: "The Fair Housing Act bars bias on seven grounds; exemptions decide cases. This guide covers prohibitions, carve-outs, the ad ban, and affirmative duty."
 image: "/assets/images/blog/blog-20.webp"
-reading_time: "88"
+reading_time: 99
 author: "michael-brooks"
 last_updated: 2026-10-09
 lang: en

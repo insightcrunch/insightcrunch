@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing", "Supreme Court", "Civil Rights", "American History", "Study Guides"]
 excerpt: "Fair housing Supreme Court cases revived a Reconstruction-era statute and defined disparate impact. This guide compares the two housing laws and each holding."
 image: "/assets/images/blog/blog-42.webp"
-reading_time: "68"
+reading_time: 83
 author: "jason-mckenzie"
 last_updated: 2026-10-09
 lang: en

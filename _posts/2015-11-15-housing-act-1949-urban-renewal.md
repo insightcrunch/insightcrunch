@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Housing Act", "Urban Renewal", "Public Housing", "Berman v Parker", "Housing Policy"]
 excerpt: "The Housing Act promised a decent home for every American family, then financed urban renewal, the clearance program that razed hundreds of thousands of homes."
 image: "/assets/images/blog/blog-51.webp"
-reading_time: "83"
+reading_time: 95
 author: "maria-santos"
 last_updated: 2026-10-09
 lang: en

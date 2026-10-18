@@ -7,7 +7,7 @@ excerpt: "The Americans with Disabilities Act is five statutes in one; this titl
 categories: ["Industry"]
 tags: ["US Legislation", "ADA", "disability law", "Title I", "Title II", "Title III", "statutory interpretation"]
 image: "/assets/images/blog/blog-30.webp"
-reading_time: "83"
+reading_time: 96
 slug: "ada-titles-explained"
 permalink: "https://insightcrunch.com/2015/07/15/ada-titles-explained/"
 author: "kevin-reeves"

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "interstate highway system", "transportation economics", "urban history", "federal policy", "infrastructure"]
 excerpt: "The interstate highway system raised productivity and remade freight, yet urban construction displaced over a million people. This review weighs both halves."
 image: "/assets/images/blog/blog-66.webp"
-reading_time: "75"
+reading_time: 86
 author: "alex-cunningham"
 last_updated: 2026-10-09
 lang: en

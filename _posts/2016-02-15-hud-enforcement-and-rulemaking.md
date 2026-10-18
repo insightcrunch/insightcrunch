@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing", "Civil Rights", "Housing Policy", "Supreme Court", "Study Guides"]
 excerpt: "How HUD enforces fair housing law: the filing clocks, the referral system, the court election and its remedies, and the full dated rulemaking chronology."
 image: "/assets/images/blog/blog-58.webp"
-reading_time: "83"
+reading_time: 99
 author: "ian-fletcher"
 last_updated: 2026-10-09
 lang: en

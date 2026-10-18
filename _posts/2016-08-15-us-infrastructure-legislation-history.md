@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Transportation Policy", "Congress", "American History", "Legislative Process", "Study Guides"]
 excerpt: "US infrastructure legislation moved in three phases: build the Interstate on dedicated taxes, deregulate carriers, then divide fixed revenue among claimants."
 image: "/assets/images/blog/blog-48.webp"
-reading_time: "80"
+reading_time: 93
 author: "kevin-reeves"
 last_updated: 2026-10-13
 lang: en

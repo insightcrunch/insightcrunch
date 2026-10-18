@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Infrastructure Policy", "Federal Funding", "Highway Trust Fund", "Amtrak"]
 excerpt: "Public Law 117-58 explained: the headline figure versus genuinely new spending, program-by-program sums, and the unusual path the bill took through Congress."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: "75"
+reading_time: 89
 author: "michael-brooks"
 last_updated: 2026-10-09
 lang: en

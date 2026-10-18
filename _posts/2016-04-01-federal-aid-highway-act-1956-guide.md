@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Infrastructure Policy", "Highway Trust Fund", "Federal Funding", "Interstate Highways"]
 excerpt: "With a ninety-ten share and the Highway Trust Fund, the Federal-Aid Highway Act turned a paper network into the largest public works program in history."
 image: "/assets/images/blog/blog-86.webp"
-reading_time: "101"
+reading_time: 113
 author: "jessica-kim"
 last_updated: 2026-10-09
 lang: en

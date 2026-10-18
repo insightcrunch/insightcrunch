@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Title 23", "Highway Trust Fund", "FHWA", "Apportionment", "Infrastructure"]
 excerpt: "Federal highway funding moves from user taxes to pavement through reimbursement, formulas and limits. This guide traces the dollar pathway stage by stage."
 image: "/assets/images/blog/blog-66.webp"
-reading_time: "76"
+reading_time: 87
 author: "jason-mckenzie"
 last_updated: 2026-10-09
 lang: en

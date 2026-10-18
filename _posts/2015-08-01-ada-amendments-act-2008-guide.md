@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["ADA", "disability law", "civil rights", "employment law", "ADA Amendments Act", "Supreme Court", "reasonable accommodation", "disability coverage"]
 excerpt: "The ADA Amendments Act rewrote the disability definition to overturn rulings that narrowed coverage, moving fights from who qualifies to the accommodation owed."
 image: "/assets/images/blog/blog-71.webp"
-reading_time: "80"
+reading_time: 90
 author: "maria-santos"
 last_updated: 2026-10-09
 lang: en

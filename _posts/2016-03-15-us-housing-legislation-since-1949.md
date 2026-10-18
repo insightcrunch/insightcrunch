@@ -7,7 +7,7 @@ categories: "[\"Industry\"]"
 tags: "[\"US Legislation\", \"Housing Policy\", \"HUD\", \"LIHTC\", \"Section 8\", \"Tax Policy\", \"Federal Housing Law\"]"
 excerpt: "US housing legislation promised every family a decent home, then migrated into the tax code. This era guide orders the major statutes and explains the shift."
 image: "/assets/images/blog/blog-37.webp"
-reading_time: "79"
+reading_time: 91
 author: "insight-crunch-team"
 last_updated: 2026-10-09
 lang: en

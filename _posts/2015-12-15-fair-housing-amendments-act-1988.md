@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Fair Housing Act", "Housing Law", "Civil Rights", "HUD", "Disability Rights"]
 excerpt: "The Fair Housing Amendments Act added disability and familial status protections, rebuilt enforcement, and set accessibility design rules for new apartments."
 image: "/assets/images/blog/blog-104.webp"
-reading_time: "76"
+reading_time: 85
 author: "natalie-webb"
 last_updated: 2026-10-09
 lang: en

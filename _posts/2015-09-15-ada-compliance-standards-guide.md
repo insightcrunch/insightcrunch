@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "ADA Standards", "disability law", "accessibility", "administrative rulemaking"]
 excerpt: "ADA Standards for Accessible Design: three tiers of duty for existing buildings, alterations, and new construction, a limited safe harbor, and three defenses."
 image: "/assets/images/blog/blog-04.webp"
-reading_time: "80"
+reading_time: 92
 author: "samantha-lee"
 last_updated: 2026-10-09
 lang: en

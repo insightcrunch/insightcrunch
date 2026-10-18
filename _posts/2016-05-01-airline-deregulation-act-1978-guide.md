@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Airline Deregulation", "Transportation Law", "Civil Aeronautics Board", "Federal Preemption", "Aviation Policy"]
 excerpt: "The Airline Deregulation Act ended CAB price and route control, abolished the board, kept safety rules intact, and wrote the preemption clause courts construe."
 image: "/assets/images/blog/blog-35.webp"
-reading_time: "78"
+reading_time: 90
 author: "christopher-wells"
 last_updated: 2026-10-09
 lang: en

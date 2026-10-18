@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Disability Rights", "Rehabilitation Act", "Civil Rights", "Federal Funding", "Education Law"]
 excerpt: "Section 504 bars disability discrimination in federally funded programs: the copied sentence, the delayed rules, the occupation, and the court-built remedies."
 image: "/assets/images/blog/blog-18.webp"
-reading_time: "76"
+reading_time: 88
 author: "patrick-dunn"
 last_updated: 2026-10-09
 lang: en

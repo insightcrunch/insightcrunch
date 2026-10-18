@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Transportation Law", "Motor Vehicle Safety", "NHTSA", "Federal Safety Standards", "Product Liability"]
 excerpt: "The Motor Vehicle Safety Act turned the second collision into law. This profile explains its standards, recall system, preemption doctrine, and measured record."
 image: "/assets/images/blog/blog-52.webp"
-reading_time: "75"
+reading_time: 87
 author: "christopher-wells"
 last_updated: 2026-10-09
 lang: en

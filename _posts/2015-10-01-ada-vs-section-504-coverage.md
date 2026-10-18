@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Section 504", "ADA", "disability rights", "coverage comparison", "civil rights"]
 excerpt: "ADA vs Section 504: which law reaches each defendant, why the standards align, and why the funding-triggered statute is the stronger route against states."
 image: "/assets/images/blog/blog-93.webp"
-reading_time: "63"
+reading_time: 74
 author: "kevin-reeves"
 last_updated: 2026-10-09
 lang: en

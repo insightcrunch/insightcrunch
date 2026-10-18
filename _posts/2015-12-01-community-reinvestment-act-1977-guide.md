@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Community Reinvestment Act", "Bank Regulation", "Redlining", "Financial Crisis", "Fair Lending", "Federal Reserve"]
 excerpt: "The Community Reinvestment Act sets no quotas and no penalties. This profile explains the examination, the four ratings, and the merger gate behind its force."
 image: "/assets/images/blog/blog-94.webp"
-reading_time: "72"
+reading_time: 84
 author: "maria-santos"
 last_updated: 2026-10-09
 lang: en

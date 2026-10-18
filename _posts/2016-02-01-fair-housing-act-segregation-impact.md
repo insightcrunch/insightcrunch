@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation: Fair Housing Act", "US Legislation: Segregation", "US Legislation: Homeownership Gap", "US Legislation: Paired Testing", "US Legislation: Fair Lending", "US Legislation: Moving to Opportunity"]
 excerpt: "The Fair Housing Act promised equal housing access. Did segregation fall and did the ownership gap close? An evidence review of five decades of outcomes."
 image: "/assets/images/blog/blog-49.webp"
-reading_time: "76"
+reading_time: 89
 author: "natalie-webb"
 last_updated: 2026-10-09
 lang: en
