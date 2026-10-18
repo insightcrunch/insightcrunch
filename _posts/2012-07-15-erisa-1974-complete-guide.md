@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "ERISA", "Pensions", "Health Coverage", "Preemption", "Fiduciary Duties"]
 excerpt: "ERISA began as pension reform and became the law of employer health coverage. This guide covers fiduciary duties, preemption, remedy limits, and insurance."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: "72"
+reading_time: 83
 author: "william-knight"
 last_updated: 2026-10-01
 lang: en

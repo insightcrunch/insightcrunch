@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Environmental Law", "Study Guides", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Master US environmental law teaching: the four regulatory technologies, the statute sequence, key Supreme Court cases, and exam-ready study checkpoints."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "63"
+reading_time: 77
 author: "ryan-walsh"
 last_updated: 2026-10-01
 lang: en

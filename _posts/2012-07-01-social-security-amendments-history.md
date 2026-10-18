@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Social Security Act", "OASDI", "Amendments", "Flemming v. Nestor"]
 excerpt: "The full history of Social Security amendments: coverage expansion, disability insurance, automatic adjustments, the great financing rescue, and later reforms."
 image: "/assets/images/blog/blog-86.webp"
-reading_time: "77"
+reading_time: 90
 author: "maria-santos"
 last_updated: 2026-10-01
 lang: en

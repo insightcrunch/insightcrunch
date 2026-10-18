@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Congressional History", "Civil Rights Era", "Legislative Process", "Public Policy"]
 excerpt: "The Hart-Celler Act ended national origins quotas after decades of failed reform. This history traces the trades, predictions, and what the record shows."
 image: "/assets/images/blog/blog-25.webp"
-reading_time: "69"
+reading_time: 81
 author: "simon-hartley"
 lang: en
 ---

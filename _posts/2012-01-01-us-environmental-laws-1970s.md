@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "environmental laws", "Clean Air Act", "Clean Water Act", "NEPA", "Superfund"]
 excerpt: "How the environmental laws of modern America were written in one eleven-year burst: each statute, its technique, and the votes behind the lopsided margins."
 image: "/assets/images/blog/blog-110.webp"
-reading_time: "78"
+reading_time: 93
 author: "jessica-kim"
 last_updated: 2026-10-01
 lang: en

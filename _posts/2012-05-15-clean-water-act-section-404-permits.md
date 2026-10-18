@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "Section 404", "Wetlands Permits", "Army Corps of Engineers", "Environmental Law"]
 excerpt: "Section 404 wetlands permits govern dredge and fill under the Clean Water Act. This guide explains permit types, the mitigation ladder and certification rules."
 image: "/assets/images/blog/blog-23.webp"
-reading_time: "71"
+reading_time: 85
 author: "natalie-webb"
 last_updated: 2026-10-01
 lang: en

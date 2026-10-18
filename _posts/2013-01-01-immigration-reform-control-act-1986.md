@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Employer Sanctions", "Legalization Programs", "Border Enforcement", "Worksite Verification"]
 excerpt: "The law that paired legalization for millions with first-time employer sanctions kept only half its bargain. The missing half shaped every later debate."
 image: "/assets/images/blog/blog-27.webp"
-reading_time: "70"
+reading_time: 82
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en

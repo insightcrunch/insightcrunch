@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Old-Age Poverty", "Poverty Measurement", "Benefit Expansions", "Policy Evaluation"]
 excerpt: "Social Security drove the decline in elderly poverty, but the famous headcount is a static counterfactual. The arithmetic and the evidence are separated here."
 image: "/assets/images/blog/blog-99.webp"
-reading_time: "68"
+reading_time: 82
 author: "marcus-hall"
 last_updated: 2026-10-01
 lang: en

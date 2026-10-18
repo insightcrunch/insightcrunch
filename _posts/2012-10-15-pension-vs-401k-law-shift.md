@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Retirement Policy", "Pension Law", "Defined Contribution", "Employee Benefits", "Labor Law"]
 excerpt: "A history of how Congress moved retirement risk from employers to workers: the pension statute that priced the promise and the rule that created the account."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: "65"
+reading_time: 78
 author: "gregory-marsh"
 last_updated: 2026-10-01
 lang: en

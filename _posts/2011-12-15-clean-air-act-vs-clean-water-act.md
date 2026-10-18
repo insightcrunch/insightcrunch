@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Clean Water Act", "Environmental Law", "EPA", "Comparison"]
 excerpt: "Clean Air Act vs Clean Water Act: which should you study first? Five axes, logic, permits, federalism, jurisdiction, deadlines, resolve into a verdict."
 image: "/assets/images/blog/blog-41.webp"
-reading_time: "61"
+reading_time: 73
 author: "hannah-moore"
 last_updated: 2026-10-01
 lang: en

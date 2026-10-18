@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Act", "IIRIRA", "Deportation Law", "Unlawful Presence", "Statute Profile"]
 excerpt: "IIRIRA rebuilt removal law inside an appropriations bill, creating the unlawful presence bars, expedited removal, and a retroactive aggravated felony category."
 image: "/assets/images/blog/blog-40.webp"
-reading_time: "85"
+reading_time: 97
 author: "michael-brooks"
 lang: en
 ---

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Endangered Species Act", "Environmental Law", "Wildlife Law", "Section 7 Consultation", "Legal Myths"]
 excerpt: "Seven myths about the Endangered Species Act, tested against the statute's text, the consultation record, and attributed research, with each verdict sourced."
 image: "/assets/images/blog/blog-23.webp"
-reading_time: "74"
+reading_time: 85
 author: "michael-brooks"
 last_updated: 2026-10-01
 lang: en

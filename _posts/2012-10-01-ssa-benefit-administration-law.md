@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Disability Benefits", "Administrative Law", "SSA", "Judicial Review"]
 excerpt: "Social Security disability benefits are defined by statute but delivered through a vast administrative pipeline, from state examiners to federal court review."
 image: "/assets/images/blog/blog-64.webp"
-reading_time: "69"
+reading_time: 79
 author: "james-carter"
 last_updated: 2026-10-01
 lang: en

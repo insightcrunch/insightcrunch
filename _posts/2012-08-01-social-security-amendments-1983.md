@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Greenspan Commission", "Legislative History", "Bipartisan Deals", "Entitlement Reform"]
 excerpt: "The Social Security Amendments rescue is credited to a commission that deadlocked. This legislative history follows the secret backchannel deal Congress passed."
 image: "/assets/images/blog/blog-42.webp"
-reading_time: "70"
+reading_time: 82
 author: "gregory-marsh"
 last_updated: 2026-10-01
 lang: en

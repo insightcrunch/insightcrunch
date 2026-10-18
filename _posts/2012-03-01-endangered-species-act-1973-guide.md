@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Endangered Species Act", "Environmental Law", "Supreme Court", "Congress", "Wildlife Conservation"]
 excerpt: "The Endangered Species Act is America's strongest wildlife law. This guide explains listing, take prohibition, critical habitat, section 7, and enforcement."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "73"
+reading_time: 85
 author: "daniel-morgan"
 last_updated: 2026-10-01
 lang: en

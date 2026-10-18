@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "SECURE Act", "Retirement Law", "Required Minimum Distributions", "401k Plans", "IRA Rules"]
 excerpt: "The SECURE Act and its sequel rewrote retirement law, moving distribution ages by birth cohort, ending the stretch IRA, and adding auto-enrollment in new plans."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: 68
+reading_time: 81
 author: "christopher-wells"
 last_updated: 2026-10-01
 lang: en

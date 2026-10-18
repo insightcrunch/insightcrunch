@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Supplemental Security Income", "Title XVI", "Social Security Act", "Disability Benefits", "Means-Tested Programs"]
 excerpt: "Supplemental Security Income is a cash floor for the aged, blind, and disabled, born of failed guaranteed income and distinct from Social Security in financing."
 image: "/assets/images/blog/blog-50.webp"
-reading_time: "73"
+reading_time: 83
 author: "christopher-wells"
 last_updated: 2026-10-01
 lang: en

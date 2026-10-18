@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Hart-Celler Act", "Immigration Demographics", "Census Data", "Economic Effects", "Immigration Research"]
 excerpt: "How the Hart-Celler Act reshaped demographics: the census record, the statutory mechanism, and the line between settled facts and contested economics."
 image: "/assets/images/blog/blog-52.webp"
-reading_time: "80"
+reading_time: 90
 author: "samantha-lee"
 lang: en
 ---

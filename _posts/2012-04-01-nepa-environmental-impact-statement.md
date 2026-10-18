@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "NEPA", "Environmental Law", "Environmental Impact Statement", "Administrative Law", "Federal Permitting"]
 excerpt: "An environmental impact statement anchors federal review. This guide explains the tiers, the document sequence, deadlines, and why the record decides cases."
 image: "/assets/images/blog/blog-37.webp"
-reading_time: "69"
+reading_time: 87
 author: "thomas-reid"
 last_updated: 2026-10-01
 lang: en

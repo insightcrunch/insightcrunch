@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "National Environmental Policy Act", "NEPA", "Environmental Law", "Federal Agencies", "Study Guide"]
 excerpt: "The National Environmental Policy Act requires agencies to study effects before acting. This guide covers NEPA tiers, section 102(2)(C), and key decisions."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: "88"
+reading_time: 100
 author: "patrick-dunn"
 last_updated: 2026-10-01
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "TVA v. Hill", "Endangered Species Act", "Snail Darter", "Tellico Dam", "Supreme Court"]
 excerpt: "TVA v. Hill held the Endangered Species Act barred Tellico Dam whatever the cost. Congress built the God Squad, which denied exemption, and a rider finished it."
 image: "/assets/images/blog/blog-92.webp"
-reading_time: "69"
+reading_time: 84
 author: "daniel-morgan"
 last_updated: 2026-10-01
 lang: en

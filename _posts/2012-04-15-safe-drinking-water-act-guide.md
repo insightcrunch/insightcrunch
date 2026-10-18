@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Safe Drinking Water Act", "Drinking Water Standards", "EPA", "Environmental Law", "Public Health"]
 excerpt: "The Safe Drinking Water Act pairs a health goal with an enforceable limit for each tap contaminant. This guide explains the design, coverage, and Flint lesson."
 image: "/assets/images/blog/blog-35.webp"
-reading_time: "68"
+reading_time: 82
 author: "hannah-moore"
 last_updated: 2026-10-01
 lang: en

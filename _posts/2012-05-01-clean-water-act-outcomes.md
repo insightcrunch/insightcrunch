@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "water quality", "EPA", "environmental economics", "impact and outcomes"]
 excerpt: "A Clean Water Act outcomes assessment: pollution cuts downstream of grant-funded plants, missed deadlines, and the measurement gap behind benefit-cost ratios."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "76"
+reading_time: 91
 author: "christopher-wells"
 last_updated: 2026-10-01
 lang: en

@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Statute Guide", "Visa Categories", "Hemispheric Caps", "Legislative History"]
 excerpt: "The Immigration and Nationality Act, as amended, governs every visa issued. This guide explains the quota repeal, the new preferences, and both ceilings."
 image: "/assets/images/blog/blog-03.webp"
-reading_time: "77"
+reading_time: 90
 author: "simon-hartley"
 lang: en
 ---

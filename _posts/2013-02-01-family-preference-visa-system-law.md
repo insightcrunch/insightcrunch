@@ -8,7 +8,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Family Visas", "Visa Bulletin", "Per-Country Ceiling", "CSPA"]
 excerpt: "Family preference categories decide which relatives may immigrate, and how the flat per-country ceiling shapes every family queue under immigration law."
 image: "/assets/images/blog/blog-86.webp"
-reading_time: "73"
+reading_time: 83
 author: "alex-cunningham"
 lang: en
 ---

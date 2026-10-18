@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Social Security", "Teaching Guide", "Civics Education", "Exam Strategy", "Policy Analysis"]
 excerpt: "Teaching Social Security policy: the constitutional basis, benefit formula, Flemming case, trust fund mechanics, and dated solvency framing for classroom exams."
 image: "/assets/images/blog/blog-82.webp"
-reading_time: "68"
+reading_time: 82
 author: "nathan-cole"
 last_updated: 2026-10-01
 lang: en

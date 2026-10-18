@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Superfund", "CERCLA", "SARA", "Environmental Law", "Toxics Release Inventory"]
 excerpt: "Superfund liability is strict, retroactive, and joint and several. The SARA amendments added a disclosure title that outperformed the entire cleanup program."
 image: "/assets/images/blog/blog-95.webp"
-reading_time: "72"
+reading_time: 86
 author: "david-thornton"
 last_updated: 2026-10-01
 lang: en

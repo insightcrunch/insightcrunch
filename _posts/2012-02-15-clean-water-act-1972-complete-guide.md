@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Clean Water Act", "Environmental Law", "Congress", "Supreme Court", "Water Policy"]
 excerpt: "The Clean Water Act explained: the discharge ban, the permit system, the four definitions that decide cases, and the fight over which waters it reaches."
 image: "/assets/images/blog/blog-90.webp"
-reading_time: "70"
+reading_time: 85
 author: "christopher-wells"
 last_updated: 2026-10-01
 lang: en

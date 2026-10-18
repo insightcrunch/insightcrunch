@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Pension Protection Act", "ERISA", "401(k)", "Retirement Saving", "Behavioral Economics"]
 excerpt: "The Pension Protection Act rewrote retirement via defaults, not commands. A guide to safe harbors, funding rules, and how a pension law built the 401(k) era."
 image: "/assets/images/blog/blog-84.webp"
-reading_time: "68"
+reading_time: 81
 author: "daniel-morgan"
 last_updated: 2026-10-01
 lang: en
