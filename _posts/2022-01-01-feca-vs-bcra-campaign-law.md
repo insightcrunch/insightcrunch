@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Campaign Finance", "Federal Election Campaign Act", "McCain-Feingold Act", "Congress", "Supreme Court"]
 excerpt: "FECA vs McCain-Feingold compares two designs for regulating campaign money: what each targeted, what each built, what the courts left standing, and why."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "81"
+reading_time: 94
 author: "simon-hartley"
 last_updated: 2026-10-17
 lang: en

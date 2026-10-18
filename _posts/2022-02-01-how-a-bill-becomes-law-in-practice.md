@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Legislative Process", "Congress", "House of Representatives", "Senate", "American History"]
 excerpt: "How a bill becomes law in practice runs through committee gatekeepers, floor scheduling, Senate consent, and must-pass vehicles, not the textbook steps."
 image: "/assets/images/blog/blog-40.webp"
-reading_time: "91"
+reading_time: 104
 author: "nathan-cole"
 last_updated: 2026-10-17
 lang: en

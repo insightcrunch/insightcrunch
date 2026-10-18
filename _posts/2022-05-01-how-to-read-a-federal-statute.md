@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Code", "Legislative Process", "Study Guides", "Congress"]
 excerpt: "Reading a federal statute begins with its definitions, its numbering hierarchy and citations, and with separating text that commands from text that explains."
 image: "/assets/images/blog/blog-74.webp"
-reading_time: "90"
+reading_time: 101
 author: "andrew-price"
 last_updated: "2022-05-01"
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Senate Rules", "Legislative Process", "Congress", "American History", "Study Guides"]
 excerpt: "The filibuster and cloture rules decide how Senate debate ends, which measures need sixty votes, and which escape extended debate by statute or precedent."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "96"
+reading_time: 107
 author: "robert-quinn"
 last_updated: 2026-10-17
 lang: en

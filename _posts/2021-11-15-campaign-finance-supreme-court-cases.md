@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Citizens United", "Campaign Finance", "Supreme Court", "First Amendment", "American History"]
 excerpt: "Campaign finance Supreme Court cases turn on one distinction: limits on contributions to candidates are sustained, while limits on independent spending fall."
 image: "/assets/images/blog/blog-75.webp"
-reading_time: "102"
+reading_time: 115
 author: "james-carter"
 last_updated: 2026-10-17
 lang: en

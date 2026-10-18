@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Legislative History", "Congress", "Legislative Process", "Congressional Record", "Study Guides"]
 excerpt: "Legislative history research locates the bill versions, committee reports, hearings and floor debate behind a statute, then weighs each source properly."
 image: "/assets/images/blog/blog-32.webp"
-reading_time: "90"
+reading_time: 102
 author: "ryan-walsh"
 last_updated: "2022-05-15"
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "FOIA Requests", "Administrative Law", "Government Transparency", "American History"]
 excerpt: "A FOIA request lives or dies in processing: the right component, the twenty day decision clock, the fee category, and the appeal route decide the outcome."
 image: "/assets/images/blog/blog-49.webp"
-reading_time: "75"
+reading_time: 86
 author: "jessica-kim"
 last_updated: 2026-10-17
 lang: en

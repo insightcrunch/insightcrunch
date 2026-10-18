@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Lobbying Disclosure Act", "Congress", "Legislative Process", "Supreme Court", "American History"]
 excerpt: "The Lobbying Disclosure Act sets the registration test, the time threshold, the reporting duties, and the enforcement path for paid federal lobbying work."
 image: "/assets/images/blog/blog-99.webp"
-reading_time: "96"
+reading_time: 108
 author: "christopher-wells"
 last_updated: 2026-10-17
 lang: en

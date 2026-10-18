@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Campaign Finance", "Federal Election Commission", "Congress", "Supreme Court", "American History"]
 excerpt: "Campaign finance law impact measured across five decades: spending rose, money moved between channels, disclosure thinned, and access proved the surest return."
 image: "/assets/images/blog/blog-95.webp"
-reading_time: "97"
+reading_time: 109
 author: "william-knight"
 last_updated: 2026-10-17
 lang: en

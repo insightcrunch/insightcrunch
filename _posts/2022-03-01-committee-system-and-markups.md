@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Congress", "Committees", "Legislative Process", "House of Representatives", "Senate"]
 excerpt: "The committee markup is where most bills end and operative text is set: referral, the chairman's mark, amendment votes, the report, and the chair's veto."
 image: "/assets/images/blog/blog-59.webp"
-reading_time: "88"
+reading_time: 99
 author: "kevin-reeves"
 last_updated: "2022-03-01"
 lang: en

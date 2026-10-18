@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Freedom of Information Act", "FOIA Amendments", "Congress", "Government Transparency", "Administrative Law"]
 excerpt: "How FOIA Was Amended traces six major revision acts, from a veto override that gave the statute teeth to a foreseeable harm standard for withholding records."
 image: "/assets/images/blog/blog-38.webp"
-reading_time: "87"
+reading_time: 101
 author: "jessica-kim"
 last_updated: 2026-10-17
 lang: en

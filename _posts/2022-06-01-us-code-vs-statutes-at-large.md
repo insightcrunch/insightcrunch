@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Code", "Legal Research", "Legislative Process", "Supreme Court", "Study Guides"]
 excerpt: "The US Code vs Statutes at Large distinction decides which text a court treats as the law itself, and which counts only as evidence of it, title by title."
 image: "/assets/images/blog/blog-112.webp"
-reading_time: "75"
+reading_time: 85
 author: "ryan-walsh"
 last_updated: "2022-06-01"
 lang: en

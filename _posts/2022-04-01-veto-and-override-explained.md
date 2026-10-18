@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Legislative Process", "Congress", "House of Representatives", "Senate", "American History"]
 excerpt: "The veto override is the Constitution's answer to a presidential veto: two thirds of each chamber, voting by name, can enact a returned bill into law."
 image: "/assets/images/blog/blog-29.webp"
-reading_time: "101"
+reading_time: 114
 author: "robert-quinn"
 last_updated: "2022-04-01"
 lang: en

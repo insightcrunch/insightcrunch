@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Study Guides", "Legislative Process", "Congress", "American History", "Supreme Court"]
 excerpt: "This US legislation study guide organizes federal statutes into eight analytical frames, a reading order, the distinctions that decide marks, and a claim test."
 image: "/assets/images/blog/blog-12.webp"
-reading_time: "104"
+reading_time: 115
 author: "kevin-reeves"
 last_updated: "2022-06-15"
 lang: en

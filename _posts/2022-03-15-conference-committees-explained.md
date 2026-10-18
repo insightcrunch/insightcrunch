@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Conference Committee", "Legislative Process", "Bicameralism", "Congress", "American History"]
 excerpt: "A conference committee reconciles House and Senate versions of a bill into one identical text, but three blockable Senate motions priced the route out of use."
 image: "/assets/images/blog/blog-45.webp"
-reading_time: "78"
+reading_time: 89
 author: "robert-quinn"
 last_updated: "2022-03-15"
 lang: en

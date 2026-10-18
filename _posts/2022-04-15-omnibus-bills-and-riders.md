@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Appropriations", "Legislative Process", "Omnibus Bills", "Riders", "Continuing Resolutions", "Congressional Procedure"]
 excerpt: "Omnibus bills and riders explained: how packaged spending measures form, why rules against riders bend, what the rider ledger records, and what packaging costs."
 image: "/assets/images/blog/blog-56.webp"
-reading_time: "93"
+reading_time: 104
 author: "robert-quinn"
 last_updated: "2022-04-15"
 lang: en
