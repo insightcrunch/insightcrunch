@@ -403,3 +403,26 @@ acquir-away-birth-citizenship-taken | how-birthright-citizenship-works | Can cit
 national-noncitizen-stat-unit | how-birthright-citizenship-works | What is a noncitizen national of the United States?
 besid-birth-by-citizenship-countri-grant-soil-stat-unconditional-unit | how-birthright-citizenship-works | Which countries besides the United States grant unconditional citizenship by birth on soil?
 change-citizenship-clause-itself-take | how-birthright-citizenship-works | What would it take to change the Citizenship Clause itself?
+## law-universal-service-fund
+
+### how-universal-service-fund-works
+fund-servic-universal | how-universal-service-fund-works | What is the Universal Service Fund?
+come-fund-monei-servic-universal | how-universal-service-fund-works | Where does the money in the Universal Service Fund come from?
+contribution-factor-quarter-set | how-universal-service-fund-works | What is the contribution factor and how is it set each quarter?
+usac | how-universal-service-fund-works | What is USAC and what does it do?
+four-program-servic-universal | how-universal-service-fund-works | What are the four universal service programs?
+bill-charg-servic-show-telephon-universal | how-universal-service-fund-works | Why do telephone bills show a universal service charge?
+cost-differenc-high-lifelin-program | how-universal-service-fund-works | What is the difference between the High Cost program and Lifeline?
+decid-discount-e-larg-rate-receiv-school | how-universal-service-fund-works | How does E-Rate decide how large a discount a school receives?
+broadband-expensiv-provid-rural-servic-telephon | how-universal-service-fund-works | Why is rural telephone and broadband service more expensive to provide?
+2025-about-court-decid-fund-suprem | how-universal-service-fund-works | What did the Supreme Court decide about the fund in 2025?
+2026-about-circuit-decid-fifth-usac | how-universal-service-fund-works | What did the Fifth Circuit decide about USAC in 2026?
+budget-federal-fund-part-servic-universal | how-universal-service-fund-works | Is the Universal Service Fund part of the federal budget?
+hidden-insid-rate-servic-telephon-universal-us | how-universal-service-fund-works | Why did universal service used to be hidden inside telephone rates?
+carrier-eligibl-telecommunic | how-universal-service-fund-works | What is an eligible telecommunications carrier?
+e-monei-rate-stop-wast | how-universal-service-fund-works | What stops E-Rate money from being wasted?
+countri-fund-run-servic-universal | how-universal-service-fund-works | Do other countries run universal service funds?
+base-fund-pai-revenu-shrink | how-universal-service-fund-works | Why is the base of revenues that pay for the fund shrinking?
+board-federal-joint-servic-state-universal | how-universal-service-fund-works | What is the Federal-State Joint Board on Universal Service?
+broadband-different-fund-servic-telephon-treat | how-universal-service-fund-works | How does the fund treat broadband differently from telephone service?
+fund-general-happen-if-instead-paid-taxat | how-universal-service-fund-works | What would happen if the fund were paid for from general taxation instead?

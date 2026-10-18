@@ -65,3 +65,7 @@
 - _posts/2026-10-17-how-birthright-citizenship-works.md — new article: how birthright citizenship works
   - _posts/2013-04-15-us-immigration-law-myths.md — could carry: "One claim tested there concerns citizenship at birth; the full doctrine, from the Citizenship Clause to its codification and the 2026 reaffirmation, is set out in how birthright citizenship works."
   - _posts/2026-10-08-how-employment-green-card-sponsorship-works.md — could carry: "Sponsorship governs admission and residence for workers, while membership itself for a child born on United States soil follows a different rule entirely, explained in how birthright citizenship works."
+
+## how-universal-service-fund-works
+- _posts/2017-07-01-telecommunications-act-1996-guide.md — could carry: "The statute's universal service machine is examined as a working system of contributions, programs and court challenges in how the Universal Service Fund works."
+- _posts/2026-10-03-how-government-cash-payments-work.md — could carry: "Government also moves money through carriers and institutions rather than households; how the Universal Service Fund works traces that indirect design and the legal fights it attracts."
