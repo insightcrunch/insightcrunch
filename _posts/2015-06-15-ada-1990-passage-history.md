@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "Disability Rights", "Congress", "Legislative Process", "Civil Rights"]
 excerpt: "The Americans with Disabilities Act passed Congress after a failed first bill, a Capitol protest, and a food handling fight that nearly killed it in conference."
 image: "/assets/images/blog/blog-27.webp"
-reading_time: "84"
+reading_time: 98
 author: "michael-brooks"
 last_updated: 2026-10-09
 lang: en

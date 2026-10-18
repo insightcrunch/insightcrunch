@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Workplace Discrimination", "Employment Litigation", "Title VII", "ADEA", "Arbitration", "Class Actions"]
 excerpt: "Workplace discrimination court cases turn on procedure: causation standards, arbitration rules, class limits, and state immunity explained in one single guide."
 image: "/assets/images/blog/blog-89.webp"
-reading_time: "71"
+reading_time: 82
 author: "benjamin-scott"
 last_updated: 2026-10-09
 lang: en

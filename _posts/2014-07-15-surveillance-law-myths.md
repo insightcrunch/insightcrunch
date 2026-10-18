@@ -6,7 +6,7 @@ last_updated: 2026-10-05
 framework: "Myths & claims"
 angle: "Myths, misreadings and contested claims"
 word_count: "17066"
-reading_time: "72"
+reading_time: 85
 excerpt: "Twelve persistent claims about American surveillance law, checked against statutes, declassified opinions and reports, with sourced verdicts for each."
 internal_links: "/2014/05/15/fisa-section-702-explained/, /2014/03/01/usa-patriot-act-complete-guide/, /2014/06/15/patriot-act-civil-liberties-impact/, /2014/06/01/surveillance-law-court-cases/, /2014/07/01/fisa-vs-patriot-act-authorities/"
 companion_tools: "https://vaultbook.net/tools/legislation-study-notebook.html"

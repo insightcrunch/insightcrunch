@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Education Law", "Supreme Court", "Litigation", "Title IX", "IDEA"]
 excerpt: "Federal education law in court: Rodriguez denied an education right so finance cases went to state courts and claims need statutes creating enforceable rights."
 image: "/assets/images/blog/blog-02.webp"
-reading_time: "83"
+reading_time: 102
 author: "william-knight"
 last_updated: 2026-10-05
 lang: en

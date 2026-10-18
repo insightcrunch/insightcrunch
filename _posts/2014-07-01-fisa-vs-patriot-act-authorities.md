@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "FISA", "PATRIOT Act", "Surveillance Law", "Title 50", "Legal History"]
 excerpt: "FISA is the framework statute for foreign-intelligence surveillance; the PATRIOT Act is the amendment package that rewrote its purpose standard and rules."
 image: "/assets/images/blog/blog-72.webp"
-reading_time: "70"
+reading_time: 81
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "civil liberties", "surveillance law", "FISA", "oversight", "intelligence"]
 excerpt: "The PATRIOT Act's tools were judged by official watchdogs. This article gathers inspector general and oversight board findings on effectiveness and compliance."
 image: "/assets/images/blog/blog-105.webp"
-reading_time: "71"
+reading_time: 85
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en

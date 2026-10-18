@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "FISA", "Surveillance Law", "Foreign Intelligence", "Privacy", "National Security"]
 excerpt: "This FISA surveillance guide explains targeting rules, incidental collection, and query practices of the foreign collection authority, with later changes dated."
 image: "/assets/images/blog/blog-62.webp"
-reading_time: "80"
+reading_time: 94
 author: "kevin-reeves"
 last_updated: 2026-10-05
 lang: en

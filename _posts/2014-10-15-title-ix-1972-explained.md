@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Title IX", "Education Law", "Civil Rights", "Federal Statutes", "Policy Analysis"]
 excerpt: "Title IX bars sex bias in funded schools, yet the short law never mentions sports, because every famous rule under it was built later by regulation and courts."
 image: "/assets/images/blog/blog-25.webp"
-reading_time: "76"
+reading_time: 88
 author: "gregory-marsh"
 last_updated: 2026-10-05
 lang: en

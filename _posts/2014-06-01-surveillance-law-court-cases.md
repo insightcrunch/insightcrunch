@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "National Security", "Supreme Court", "Surveillance Law", "Fourth Amendment"]
 excerpt: "This guide to surveillance law in the courts explains the standing wall, the Keith warrant rule, and the Carpenter shift that narrowed the third party doctrine."
 image: "/assets/images/blog/blog-88.webp"
-reading_time: "72"
+reading_time: 85
 author: "william-knight"
 last_updated: 2026-10-05
 lang: en

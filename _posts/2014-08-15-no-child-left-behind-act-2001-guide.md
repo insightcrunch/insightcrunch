@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "No Child Left Behind", "Education Policy", "Accountability", "Federal Law", "ESEA"]
 excerpt: "No Child Left Behind promised universal proficiency, then let each state define it. This guide traces the testing mandate, the ladder, and the waiver era."
 image: "/assets/images/blog/blog-31.webp"
-reading_time: "78"
+reading_time: 88
 author: "david-thornton"
 last_updated: 2026-10-05
 lang: en

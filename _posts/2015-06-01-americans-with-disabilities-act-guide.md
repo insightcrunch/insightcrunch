@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["ADA", "disability law", "civil rights", "employment law", "public accommodations", "reasonable accommodation", "disability rights"]
 excerpt: "A guide to the Americans with Disabilities Act: the five titles, the disability definition, reasonable accommodation, and the legal limits behind every dispute."
 image: "/assets/images/blog/blog-10.webp"
-reading_time: "84"
+reading_time: 95
 author: "michael-brooks"
 last_updated: 2026-10-09
 lang: en

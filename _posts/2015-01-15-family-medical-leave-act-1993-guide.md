@@ -7,7 +7,7 @@ categories: ["Labor Law"]
 tags: ["US Legislation", "Family and Medical Leave Act", "Labor Law", "Employment Leave", "Supreme Court"]
 excerpt: "The Family and Medical Leave Act secures a job rather than an income. This profile explains the eligibility screens, the unpaid guarantee, and the two vetoes."
 image: "/assets/images/blog/blog-109.webp"
-reading_time: "71"
+reading_time: 84
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en

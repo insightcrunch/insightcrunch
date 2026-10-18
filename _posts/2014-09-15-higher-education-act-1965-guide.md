@@ -9,7 +9,7 @@ tags: ["US Legislation", "Higher Education", "Student Loans", "Education Policy"
 keywords: "Higher Education Act, Pell Grant, student loans, accreditation, Title IV, federal student aid"
 slug: "higher-education-act-1965-guide"
 image: "/assets/images/blog/blog-64.webp"
-reading_time: "89"
+reading_time: 103
 lang: en
 ---
 ## The Statute Behind the Financial Aid Office

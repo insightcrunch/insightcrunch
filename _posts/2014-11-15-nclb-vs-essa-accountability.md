@@ -7,7 +7,7 @@ categories: ["Law"]
 tags: ["US Legislation", "Education Policy", "Federal Education Law", "NCLB", "ESSA", "Policy Comparison", "Civic Study"]
 excerpt: "Same tests, opposite consequences: how No Child Left Behind and ESSA differ, which rules survived the rewrite, and what the research says about each model."
 image: "/assets/images/blog/blog-103.webp"
-reading_time: "75"
+reading_time: 89
 author: "insight-crunch-team"
 last_updated: 2026-10-05
 lang: en

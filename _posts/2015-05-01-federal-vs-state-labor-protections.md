@@ -7,7 +7,7 @@ categories: "Law"
 tags: "US Legislation, Labor Law, Employment Law, Federalism, Preemption, Fair Labor Standards Act, ERISA, OSHA, NLRA, Title VII, FMLA"
 excerpt: "Federal labor law sets wage and safety floors that states may exceed, blocks state benefit mandates, and stays silent on breaks and paid leave, so rights vary."
 image: "/assets/images/blog/blog-09.webp"
-reading_time: "81"
+reading_time: 96
 author: "natalie-webb"
 last_updated: 2026-10-09
 lang: en

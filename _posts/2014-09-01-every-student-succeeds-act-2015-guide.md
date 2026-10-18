@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Every Student Succeeds Act", "Education Law", "Statute Profile", "Accountability", "Elementary and Secondary Education Act"]
 excerpt: "The Every Student Succeeds Act kept annual testing, ended adequate yearly progress, and wrote express limits on the Secretary of Education into federal statute."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: "77"
+reading_time: 88
 author: "daniel-morgan"
 last_updated: 2026-10-05
 lang: en

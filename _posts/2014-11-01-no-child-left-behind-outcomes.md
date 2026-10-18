@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "No Child Left Behind", "Education Policy", "Education Law", "Policy Analysis", "Federal Statutes"]
 excerpt: "No Child Left Behind outcomes divide opinion, but the evidence is measurable: modest math gains, flat reading, narrowed curriculum, and inflated state scores."
 image: "/assets/images/blog/blog-51.webp"
-reading_time: "70"
+reading_time: 86
 author: "alex-cunningham"
 last_updated: 2026-10-05
 lang: en

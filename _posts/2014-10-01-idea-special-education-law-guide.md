@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Special Education", "IDEA", "Education Policy", "Federal Statutes"]
 excerpt: "IDEA and special education law: courtroom origins, the six governing principles, IEP and hearing rules, landmark cases, and the funding promise never kept."
 image: "/assets/images/blog/blog-50.webp"
-reading_time: "73"
+reading_time: 86
 author: "benjamin-scott"
 last_updated: 2026-10-05
 lang: en

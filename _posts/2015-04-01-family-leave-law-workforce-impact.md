@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["family-leave", "fmla", "paid-family-leave", "labor-economics", "employment-outcomes"]
 excerpt: "Evidence on family leave law shows short-run gains in time away and job continuity, a long-run earnings question, and little employer compliance difficulty."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: "80"
+reading_time: 91
 author: "ian-fletcher"
 last_updated: 2026-10-09
 lang: en

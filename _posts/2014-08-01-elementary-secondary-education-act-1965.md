@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Federal Aid", "Statute History"]
 excerpt: "The Elementary and Secondary Education Act ended a twenty-year deadlock and passed in under three months: the three obstacles and the device that broke each."
 image: "/assets/images/blog/blog-41.webp"
-reading_time: "73"
+reading_time: 87
 author: "jessica-kim"
 last_updated: 2026-10-05
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Equal Pay Act", "Employment Discrimination", "Wage and Hour Law", "EEOC", "Labor Law"]
 excerpt: "The Equal Pay Act was the first ban on sex-based wage discrimination. This guide covers the equal work test, the four defenses, and the filing deadlines."
 image: "/assets/images/blog/blog-74.webp"
-reading_time: "76"
+reading_time: 89
 author: "michael-brooks"
 last_updated: 2026-10-05
 lang: en

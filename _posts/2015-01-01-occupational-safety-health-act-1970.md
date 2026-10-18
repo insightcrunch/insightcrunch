@@ -9,7 +9,7 @@ tags: "OSHA, OSH Act, labor law, workplace safety, statute guide"
 keywords: "occupational safety health act 1970, OSHA statute guide, general duty clause, OSHA coverage, OSHA penalties"
 slug: "occupational-safety-health-act-1970"
 image: "/assets/images/blog/blog-74.webp"
-reading_time: "93"
+reading_time: 106
 lang: en
 ---
 The Occupational Safety and Health Act of 1970 is one of the few federal statutes whose institutional design is more important than its prohibitions. Most workplace laws create one agency and tell it to do a job. This statute created three separate bodies, put them in different departments, and arranged them so that no single one could both discover a hazard and conclusively punish it. Congress then capped the penalties at levels that have barely moved in more than five decades and left one duty, the general duty clause, to cover every hazard no specific rule reaches. To understand American workplace safety law is to understand that architecture, not merely the agency that wears its name.

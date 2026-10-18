@@ -9,7 +9,7 @@ tags: ["US Legislation", "Occupational Safety and Health Act", "OSHA", "Supreme 
 keywords: "OSHA standards, OSHA enforcement, workplace safety rules, emergency temporary standard, OSHA citations, significant risk test"
 slug: "osha-standards-and-enforcement"
 image: "/assets/images/blog/blog-63.webp"
-reading_time: "73"
+reading_time: 85
 lang: en
 ---
 ## How a Workplace Hazard Becomes a Citation a Company Must Answer

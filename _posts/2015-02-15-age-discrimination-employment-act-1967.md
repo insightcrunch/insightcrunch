@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Age Discrimination in Employment Act", "Employment Law", "Civil Rights", "Supreme Court", "Statute Profile"]
 excerpt: "The Age Discrimination in Employment Act protects workers forty and over at employers with twenty or more staff, with but-for causation and strict waiver rules."
 image: "/assets/images/blog/blog-33.webp"
-reading_time: "103"
+reading_time: 114
 author: "patrick-dunn"
 last_updated: 2026-10-09
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Surveillance Law", "FISA", "Section 215", "Civil Liberties", "Congress"]
 excerpt: "The USA FREEDOM Act ended government-held bulk telephone metadata collection, replacing it with provider-held records approved by the surveillance court."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "73"
+reading_time: 88
 author: "hannah-moore"
 last_updated: 2026-10-05
 lang: en

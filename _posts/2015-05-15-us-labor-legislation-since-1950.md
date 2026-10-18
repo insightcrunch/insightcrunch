@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Labor Legislation", "Employment Rights", "Labor Law History", "Union History", "Workplace Protections"]
 excerpt: "A master guide to United States labor legislation, tracing the long shift from collective bargaining law to individual employment rights across seven decades."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "87"
+reading_time: 102
 author: "david-thornton"
 last_updated: 2026-10-09
 lang: en

@@ -9,7 +9,7 @@ tags: "education law, conditional spending, teaching guide, certification exam, 
 keywords: "teaching federal education policy, conditional spending, education law study guide"
 slug: "teaching-federal-education-policy"
 image: "/assets/images/blog/blog-27.webp"
-reading_time: "78"
+reading_time: 89
 lang: en
 ---
 Conditions, not commands. Every federal education statute is an offer rather than an order, and students who internalize that single sentence answer both the doctrinal and the policy questions correctly, while students who do not will misdescribe every statute in the field. This page exists so that a teacher can build a defensible unit and a student can prepare for an exam from this page alone, because it supplies the single organizing frame that makes the whole field coherent, conditional spending, along with the teaching order, the distinctions that decide marks, the documents worth assigning, and the errors that cost credit.
