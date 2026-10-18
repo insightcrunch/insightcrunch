@@ -338,82 +338,82 @@ The statute's durability owes less to coherent design than to shrewd assembly. T
 
 ## Frequently Asked Questions
 
-### What is Medicare and when did it start?
+### Q: What is Medicare and when did it start?
 
 Medicare is the federal health insurance program created by Title XVIII of the Social Security Act, enacted through the Social Security Amendments of 1965. President Lyndon B. Johnson signed it into law on July 30, 1965, in Independence, Missouri. Medicare provides health coverage mainly to Americans age 65 and older. The original law created two parts: Hospital Insurance (Part A), covering inpatient hospital care and financed by payroll taxes, and Supplementary Medical Insurance (Part B), a voluntary plan covering physician services, financed by enrollee premiums plus general federal revenues. Benefits began on July 1, 1966. By the launch date roughly 19.1 million people were enrolled, including about 18.9 million in hospital insurance and 17.6 million in Part B. Medicare stands separate from Medicaid (Title XIX), the companion program for people with low incomes.
 
-### Which president signed Medicare into law?
+### Q: Which president signed Medicare into law?
 
 Lyndon B. Johnson signed Medicare into law. As president, he made hospital insurance for the elderly the centerpiece of his Great Society domestic agenda, and the Democratic victories of the 1964 elections gave supporters the majorities needed in the House and Senate. On July 30, 1965, Johnson traveled to Independence, Missouri, to sign H.R. 6675, the Social Security Amendments of 1965, at a ceremony honoring former President Harry S. Truman, who had proposed national health insurance in the 1940s. Johnson presented Truman and his wife Bess with the first two Medicare cards, recognizing Truman's early advocacy. Johnson's backing, combined with the legislative strategy of House Ways and Means Chairman Wilbur Mills, turned a proposal that had failed for years into law within months of the new Congress convening.
 
-### What is the public law number for Medicare?
+### Q: What is the public law number for Medicare?
 
 Medicare was enacted as Public Law 89-97, the Social Security Amendments of 1965. The number 89 refers to the 89th Congress, and 97 means it was the 97th public law passed by that Congress. The bill originated in the House of Representatives as H.R. 6675 and moved through the House Ways and Means Committee under Chairman Wilbur Mills. It was published in volume 79 of the United States Statutes at Large as 79 Stat. 286. The statute added Title XVIII (Medicare) and Title XIX (Medicaid) to the Social Security Act. Citing the law as Public Law 89-97 is the standard way legal and historical references identify the original Medicare legislation, distinguishing it from the many later amendments Congress has added to the program over the years.
 
-### Where is Medicare in the US Code?
+### Q: Where is Medicare in the US Code?
 
 Medicare appears in the United States Code at 42 U.S.C. 1395 et seq., which is Title XVIII of the Social Security Act. The notation et seq. means the Medicare provisions begin at section 1395 and continue through the sections that follow. The opening provision, Section 1801 of the Social Security Act (codified at 42 U.S.C. 1395), declares that nothing in the title shall authorize federal supervision or control over the practice of medicine or the manner in which medical services are provided. The Hospital Insurance provisions, including the Federal Hospital Insurance Trust Fund, sit at 42 U.S.C. 1395i (section 1817 of the act), while the Supplementary Medical Insurance Trust Fund provisions are at 42 U.S.C. 1395t (section 1841). Medicaid, the companion program, is found at 42 U.S.C. 1396 et seq.
 
-### Why was Medicare created?
+### Q: Why was Medicare created?
 
 Medicare was created because most older Americans could not obtain adequate health insurance in the early 1960s. Roughly half of those over 65 had no hospital insurance at all, and private insurers largely avoided older applicants because their medical costs were high and their incomes low. A single hospital stay could wipe out the savings of a retiree living on a fixed income. President Harry Truman had proposed national health insurance in the 1940s, and advocates pushed a hospital insurance bill through the 1950s and early 1960s without success. The Kerr-Mills program of 1960 tried to fill the gap with state-run medical aid for the needy elderly, but enrollment and benefits varied widely by state. After the 1964 elections gave supporters decisive majorities, Congress acted to give virtually all older Americans a federal guarantee of hospital coverage.
 
-### How is Medicare funded?
+### Q: How is Medicare funded?
 
 Medicare is funded from several sources, divided between its two original parts. Hospital Insurance (Part A) is financed primarily by a payroll tax paid by employers and employees on covered wages, with the revenue deposited into the Federal Hospital Insurance Trust Fund established by section 1817 of the Social Security Act (42 U.S.C. 1395i). The tax rate and the taxable wage base are set by law. Supplementary Medical Insurance (Part B) is financed differently: enrolled beneficiaries pay monthly premiums, and the federal government contributes a matching share from general tax revenues, with both streams flowing into the Federal Supplementary Medical Insurance Trust Fund (section 1841, 42 U.S.C. 1395t). Because Part B is voluntary, only those who enroll and pay premiums draw on that fund, while Part A draws on the payroll taxes of current workers.
 
-### What is a short summary of the Medicare law?
+### Q: What is a short summary of the Medicare law?
 
 The Medicare law, Title XVIII of the Social Security Act as added by the Social Security Amendments of 1965, creates a federal health insurance program for people age 65 and older. It establishes Hospital Insurance (Part A), which pays for inpatient hospital stays, skilled nursing facility care after hospitalization, and related services, financed through payroll taxes paid into the Hospital Insurance Trust Fund. It also creates Supplementary Medical Insurance (Part B), a voluntary program covering physicians' services and other medical care, financed by enrollee premiums and general federal revenues. The law prohibits federal control over how medicine is practiced (section 1801). Administration runs through the Social Security Administration, with private insurers serving as intermediaries and carriers to process claims. The same 1965 statute also created Medicaid (Title XIX) for people with low incomes.
 
-### Did Medicare and Medicaid pass in the same law?
+### Q: Did Medicare and Medicaid pass in the same law?
 
 Yes. Medicare and Medicaid were both created by the same statute, the Social Security Amendments of 1965 (Public Law 89-97), signed on July 30, 1965. Title XVIII of the Social Security Act established Medicare, the federal health insurance program for people 65 and older, with its Part A and Part B structure. Title XIX established Medicaid, a joint federal-state program providing medical assistance to people with low incomes. The two titles were deliberately paired: Medicare addressed the lack of health insurance among the elderly, while Medicaid expanded and federalized the patchwork of state medical aid that had grown out of the Kerr-Mills program. Although they share an origin, they have always been separate programs with different eligibility rules, financing methods, and administrative structures.
 
-### How is Title XVIII of the Social Security Act organized?
+### Q: How is Title XVIII of the Social Security Act organized?
 
 Title XVIII is organized into two benefit parts plus administrative rules. Part A, Hospital Insurance for the Aged, covers inpatient hospital services, skilled nursing facility care following a hospital stay, and home health services; it is financed by payroll taxes paid into the Hospital Insurance Trust Fund. Part B, Supplementary Medical Insurance for the Aged, is a voluntary program covering physicians' services and other outpatient care, financed by enrollee premiums and general federal revenues through the Supplementary Medical Insurance Trust Fund. The title then sets out payment and administrative provisions: how hospitals, nursing facilities, and other providers qualify for payment, the roles of intermediaries and carriers in processing claims, and the rights of beneficiaries to appeal denied claims. Section 1801 prohibits federal interference in the practice of medicine. This two-part framework was the core of the original 1965 design.
 
-### What was the King-Anderson bill and why did it fail before 1965?
+### Q: What was the King-Anderson bill and why did it fail before 1965?
 
 The King-Anderson bill, introduced in the early 1960s by Representative Cecil King and Senator Clinton Anderson, proposed hospital insurance for Social Security beneficiaries as a limited forerunner of Medicare. It failed for several reasons. The American Medical Association mounted an intense lobbying campaign, warning that government health insurance was a step toward socialized medicine. Conservative majorities in Congress, reinforced by the House Ways and Means Committee under Chairman Wilbur Mills, blocked action through the early 1960s. President Kennedy endorsed the idea but could not break the legislative logjam. The political picture changed with the 1964 elections: Lyndon Johnson's landslide victory and large Democratic gains in Congress produced the votes supporters needed. In 1965 Mills crafted a compromise combining the King-Anderson approach, Kerr-Mills medical assistance, and a Republican alternative into the structure that became law.
 
-### What happened to the Kerr-Mills program after 1965?
+### Q: What happened to the Kerr-Mills program after 1965?
 
 The Kerr-Mills program, created in 1960, offered federal matching funds to states for medical care for the needy elderly, but states set their own eligibility and benefit standards, producing wide variation. By 1965 about 40 states had implemented Kerr-Mills programs, yet many older people remained uncovered or received only limited care. The 1965 amendments folded its purpose into Title XIX (Medicaid), which replaced Kerr-Mills with a broader, more uniform program of federal-state medical assistance for people with low incomes, not only the elderly. Medicaid expanded the categories of people covered and imposed stronger federal requirements on participating states. Kerr-Mills ended as a separate program, but its basic model of shared federal-state financing carried forward into the design of Medicaid, which continues to operate on that federal-state partnership model.
 
-### Why was Harry Truman the first person enrolled in Medicare?
+### Q: Why was Harry Truman the first person enrolled in Medicare?
 
 Harry Truman received the first Medicare card because of his historic role in advocating national health insurance. In 1945 and again in 1947, Truman asked Congress to enact a national health insurance program, making him the first president to propose such a plan; Congress rejected it amid opposition from the medical profession and others. Two decades later, President Lyndon Johnson chose to sign the Social Security Amendments of 1965 at the Truman Library in Independence, Missouri, as a tribute to Truman's early efforts. At the ceremony Johnson presented Truman with Medicare card number one and Bess Truman with card number two. The gesture acknowledged Truman as the program's spiritual father and linked Medicare to the long struggle for health security that began under his administration in the 1940s.
 
-### What are the Medicare trust funds and how do they work?
+### Q: What are the Medicare trust funds and how do they work?
 
 Medicare holds its dedicated revenues in two trust funds. The Federal Hospital Insurance Trust Fund, created by section 1817 of the Social Security Act (42 U.S.C. 1395i), receives payroll tax revenues and pays for Part A hospital benefits and related services. The Federal Supplementary Medical Insurance Trust Fund, created by section 1841 (42 U.S.C. 1395t), receives beneficiary premiums and general-revenue contributions and pays for Part B physician and outpatient benefits. Each fund is held by the Treasury, invested in special federal securities, and overseen by a board of trustees that reports annually on its financial condition. The funds are accounting devices that track earmarked income against benefit spending, and they cannot be used for other purposes. Their long-run solvency depends on the balance between incoming revenues and the growth of health care costs over time.
 
-### Why is Medicare eligibility tied to Social Security work history?
+### Q: Why is Medicare eligibility tied to Social Security work history?
 
 Medicare eligibility is tied to Social Security work history because the program was designed as social insurance earned through payroll contributions, not as a welfare program. Hospital Insurance (Part A) is financed by payroll taxes on covered employment, and the law grants premium-free Part A to people who have worked long enough in covered jobs to qualify for Social Security retirement benefits, along with their spouses and people already receiving Social Security or Railroad Retirement benefits at 65. This design reflected the political strategy of the 1960s: linking Medicare to the popular, contributory Social Security system gave it legitimacy as an earned benefit. People without sufficient work history could still buy into Part A by paying premiums, preserving the contributory principle for the whole program.
 
-### Did the original 1965 Medicare law cover people under age 65?
+### Q: Did the original 1965 Medicare law cover people under age 65?
 
 No. The original 1965 law covered only people age 65 and older, along with certain people already receiving Social Security disability or retirement benefits. Younger people with disabilities and people with end-stage renal disease were not included until the Social Security Amendments of 1972 extended Medicare to them: people receiving Social Security disability benefits became eligible after a 24-month waiting period, and people with end-stage renal disease qualified regardless of age. The 1965 Congress had debated broader coverage but limited the program to the elderly to hold down costs and to secure the votes needed for passage. The under-65 expansion therefore came seven years after Medicare began paying benefits, not in the original act, and it remains one of the most significant early changes to the program.
 
-### How did the original Medicare law pay hospitals and doctors?
+### Q: How did the original Medicare law pay hospitals and doctors?
 
 The 1965 law paid hospitals and doctors using two different cost-based methods. Hospitals and other institutional providers were reimbursed for the reasonable cost of services furnished to Medicare beneficiaries, as defined in section 1861(v) of the Social Security Act. This meant Medicare paid essentially what it cost the hospital to treat the patient, a generous approach chosen to win hospital cooperation. Physicians were paid on a reasonable charge basis: the customary charge for the service in the area, with safeguards against excessive billing. Beneficiaries could also accept assignment, letting the doctor bill Medicare directly and accept its approved amount as payment in full. These methods mirrored existing private-insurance practices and avoided government fee schedules, reassuring providers that the program would not dictate the terms of medical practice.
 
-### Why did Medicare use private insurance companies to process claims?
+### Q: Why did Medicare use private insurance companies to process claims?
 
 Medicare used private insurance companies as intermediaries and carriers because the federal government lacked the administrative capacity to process millions of health claims when benefits began on July 1, 1966. Private insurers already had claims-processing systems, provider relationships, and experience paying hospitals and doctors. Under the law, intermediaries (often Blue Cross plans) handled Part A hospital claims, while carriers (often Blue Shield plans or commercial insurers) handled Part B physician claims. The arrangement also served a political purpose: it reassured the medical community and the insurance industry that Medicare would operate through familiar private channels rather than a new federal bureaucracy. Section 1801's ban on federal control of medicine reinforced this design, keeping the day-to-day work of paying claims in private hands from the start.
 
-### Could beneficiaries appeal denied claims under the original 1965 act?
+### Q: Could beneficiaries appeal denied claims under the original 1965 act?
 
 Yes. The original 1965 act gave beneficiaries the right to challenge claim denials. For Part A hospital insurance, the law provided hearing rights when claims were denied, allowing beneficiaries to seek review of adverse decisions through administrative hearings. For Part B supplementary medical insurance, disputes went through a fair hearing conducted by the carrier that had processed the claim. These early appeal rights were modest by later standards, and the Part A and Part B processes were not unified; a single consolidated appeals system developed only through much later legislation. But the principle that a beneficiary could contest a denial was present from the start, reflecting the program's roots in Social Security's tradition of administrative due process for benefit claims.
 
-### Did doctors have to participate in Medicare?
+### Q: Did doctors have to participate in Medicare?
 
 No. Doctors were not required to participate in Medicare. The 1965 law made participation voluntary for physicians, a deliberate concession to win the support, or at least the neutrality, of the American Medical Association, which had fiercely opposed government health insurance. Section 1801 explicitly barred federal supervision or control over the practice of medicine, reinforcing that doctors remained free practitioners. Physicians could choose whether to accept assignment of Medicare claims, agreeing to take Medicare's approved charge as payment in full, or bill patients directly. In the program's early years, roughly 57 percent of physician claims in the year ending June 30, 1968 were paid on assignment. Doctors who declined assignment could still treat Medicare patients, but the patient paid the bill and then sought reimbursement.
 
-### Is Medicare part of Social Security?
+### Q: Is Medicare part of Social Security?
 
 Medicare is part of the Social Security Act but is a separate program from Social Security itself. The Social Security Amendments of 1965 added Title XVIII (Medicare) and Title XIX (Medicaid) to the Social Security Act of 1935, so Medicare shares the act's legal framework and much of its administration. Eligibility for premium-free Part A is linked to Social Security work credits, and the Social Security Administration handled Medicare enrollment and much of its early administration. But the programs have distinct purposes, financing, and trust funds: Social Security (Old-Age, Survivors, and Disability Insurance) pays monthly cash benefits, while Medicare pays for health care services. The distinction matters legally and financially, even though the public often treats Medicare as simply part of Social Security.

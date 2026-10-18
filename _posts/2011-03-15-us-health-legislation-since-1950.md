@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Health Policy", "Medicare", "Medicaid", "Federal Statutes", "Health Reform"]
 excerpt: "US health legislation follows one logic across six decades: each statute attacked the gap its predecessors left, from hospital building to market rules."
 image: "/assets/images/blog/blog-61.webp"
-reading_time: 80
+reading_time: 81
 author: "kevin-reeves"
 last_updated: 2026-10-01
 lang: en
@@ -395,82 +395,82 @@ Readers working through this six-decade sequence can organize the statutes, mech
 
 ## Frequently Asked Questions
 
-**What are the most important US health care laws?**
+### Q: What are the most important US health care laws?
 
 The most important US health care laws, for the purposes of this article, are the fourteen statutes in its legislative sequence, running from the Hospital Survey and Construction Act of 1946 through the two 2010 statutes. The 1946 act funded hospital construction. The 1965 Social Security Amendments created Medicare and Medicaid. The 1972 amendments extended Medicare to the disabled and to kidney disease patients. The 1983 amendments replaced cost based hospital payment with prospective payment. The 1989 budget act installed the physician fee schedule. The 1996 portability act standardized movement between plans. The 1997 budget act created the children's program. The 2003 act added the Medicare drug benefit. The 2010 statutes imposed market rules and subsidies. Each addressed the gap its predecessor left open.
 
-**What is the timeline of major US health legislation?**
+### Q: What is the timeline of major US health legislation?
 
 The timeline this article follows runs across six decades, from 1946 through March 2011. The 1946 hospital construction act begins the sequence. The 1960 Kerr-Mills amendments attempted elderly coverage through welfare style grants. The 1965 amendments created Medicare and Medicaid. The 1972 amendments extended Medicare to the disabled and kidney patients, and the 1973 HMO act seeded prepaid practice. The 1974 pension law preempted state regulation of employer plans. The 1983 amendments set hospital prospective payment, and the 1989 act set the physician fee schedule. The 1985 reconciliation act carried continuation coverage and the emergency treatment mandate. The 1996 act added portability, the 1997 act added the children's program, the 2003 act added the drug benefit, and the 2010 statutes closed the sequence.
 
-**What was the HMO Act of 1973?**
+### Q: What was the HMO Act of 1973?
 
 The Health Maintenance Organization Act of 1973, Public Law 93-222, was Congress's attempt to seed an alternative to fee for service medicine. It provided federal support and a certification process for health maintenance organizations, which delivered care through prepaid group practice rather than billing for each service. The theory was that prepaid plans would have an incentive to keep patients healthy and to control utilization, since the plan kept the difference between the fixed payment and the cost of care. The act belongs to the article's second era because it arrived as coverage expansion was producing fiscal pressure, and it represents the era's late recognition that delivery design mattered alongside eligibility. Its practical reach was limited, but it established the federal vocabulary of managed care that later statutes would reuse.
 
-**What is EMTALA and when was it passed?**
+### Q: What is EMTALA and when was it passed?
 
 The Emergency Medical Treatment and Active Labor Act was enacted as section 9121 of the Consolidated Omnibus Budget Reconciliation Act of 1985, Public Law 99-272, enacted April 7, 1986. It requires Medicare participating hospitals with emergency departments to provide an appropriate medical screening examination to anyone who presents for emergency care, and to stabilize any emergency medical condition within the hospital's capabilities before transfer, regardless of the patient's insurance status or ability to pay. It was a response to patient dumping, the practice of turning away uninsured patients or transferring them without treatment. The duty is enforced through the Medicare provider agreement, which gives it national reach without a separate regulatory apparatus.
 
-**What did HIPAA actually do?**
+### Q: What did HIPAA actually do?
 
 The Health Insurance Portability and Accountability Act of 1996, Public Law 104-191, did two main things, in that order. First, it made health insurance portable: it limited preexisting condition exclusions in group plans, recognized prior creditable coverage, created special enrollment rights, and restricted nonrenewal in the group market. Second, it directed national standards for electronic health transactions and for the privacy and security of health information, alongside fraud and abuse controls. The popular association of the law with privacy reverses its structure. Privacy and security arrived through the administrative simplification title. Portability was the lead purpose. The statute worked inside the employment based system, reducing the penalty for changing jobs rather than creating a new insurance program.
 
-**How did COBRA continuation coverage become law?**
+### Q: How did COBRA continuation coverage become law?
 
 Continuation coverage became law as Title X of the Consolidated Omnibus Budget Reconciliation Act of 1985, Public Law 99-272, enacted April 7, 1986. Congress used budget reconciliation as the vehicle because it moved under expedited procedures with limited amendment rights, allowing provisions that might have stalled as standalone bills to ride along. Title X required employers with twenty or more employees to offer departing workers and certain dependents the right to continue group health coverage at their own expense for up to eighteen months after a qualifying event. The worker paid the full premium, but could remain in the employer's risk pool instead of entering the individual market. The provision took the name of the reconciliation bill itself.
 
-**Why does the US not have national health insurance?**
+### Q: Why does the US not have national health insurance?
 
 This article does not answer that question directly, but its sequence suggests part of the explanation. Congress consistently chose group by group, program by program expansion over unified coverage: Kerr-Mills for the aged poor in 1960, Medicare for the elderly and Medicaid for the poor in 1965, Medicare extensions for the disabled and kidney patients in 1972, a children's program in 1997, a drug benefit for seniors in 2003, and market rules with subsidies in 2010. Each statute left a residual population uncovered, and each created constituencies attached to the program that covered them. The article's failed universalism reading argues that this pattern was structural: the subdivided architecture made comprehensive reform harder by giving every group a separate stake. The incremental reading answers that each step was the most that could pass.
 
-**Which federal health law covered the most people?**
+### Q: Which federal health law covered the most people?
 
 On the terms this article uses, the Social Security Amendments of 1965 covered the most people, because Medicare extended federal health financing to nearly the entire elderly population at once, and Medicaid created a nationwide program for the poor that states then implemented. No other single statute in the sequence added as many beneficiaries in one enactment. The 2010 statutes addressed a larger uninsured population in principle, but through market rules and subsidies whose enrollment effects depended on later implementation that falls outside this article's date wall. Within the article's frame, the 1965 amendments remain the largest single coverage expansion, measured by the population brought into a federal health program by one law.
 
-**How did Kerr-Mills differ from the Medicare benefit that replaced it?**
+### Q: How did Kerr-Mills differ from the Medicare benefit that replaced it?
 
 Kerr-Mills and Medicare differed in financing, eligibility, and federal control. Kerr-Mills, the Social Security Amendments of 1960, offered federal grants to states for medical assistance to the aged, with states designing programs within federal rules and applicants facing a means test. Participation was optional for states and limited for the elderly, so only a fraction enrolled. Medicare, created by the 1965 amendments, made coverage for Americans sixty-five and older a federal entitlement, financed through payroll taxes and general revenue, with eligibility based on age rather than income. The difference was structural: Kerr-Mills extended welfare financing to a new category, while Medicare created an insurance entitlement administered at the federal level. The article treats the contrast as the lesson of the first era's end, that state-run, means-tested grants could not reach the population that a national entitlement could.
 
-**What did Hill-Burton actually require of hospitals that took its money?**
+### Q: What did Hill-Burton actually require of hospitals that took its money?
 
 Hill-Burton, the Hospital Survey and Construction Act of 1946, subsidized hospital construction through federal grants and loans, and the statute attached conditions to the money. Hospitals that accepted funds were expected to provide a reasonable volume of services to people unable to pay, the free care obligation, and to make their services available to the community without discrimination. The article treats these conditions as secondary to the construction purpose: Congress was buying beds, and the service obligations were the price of the subsidy. Enforcement of the obligations was uneven in practice, but the statutory bargain was clear. Federal money built the facility, and the facility owed something back to the community that the money was meant to serve.
 
-**Who gained Medicare coverage under the 1972 amendments?**
+### Q: Who gained Medicare coverage under the 1972 amendments?
 
 The Social Security Amendments of 1972 extended Medicare to two new populations: disabled beneficiaries who had received disability benefits for a qualifying period, and patients with end stage renal disease, regardless of age. The kidney disease provision is the article's purest example of the second era's method, because it identified a visible population facing catastrophic costs and folded it into an existing program rather than redesigning coverage. The 1972 amendments belong to the extend coverage era because they widened eligibility without changing the payment or delivery structure. They also illustrated the political logic of incrementalism: a sympathetic group with undeniable costs could win inclusion even when broader reform could not pass.
 
-**What do the savings and deemer clauses do inside ERISA's preemption scheme?**
+### Q: What do the savings and deemer clauses do inside ERISA's preemption scheme?
 
 Section 514 of the Employee Retirement Income Security Act of 1974, codified at 29 U.S.C. section 1144, provides that the statute supersedes state laws insofar as they relate to employee benefit plans. The savings clause preserves state regulation of insurance, but the deemer clause provides that an employee benefit plan is not deemed an insurer, so self funded employer plans escape state insurance rules. The result is that large employers that self fund their health coverage operate under federal law rather than under fifty state regulatory regimes. Congress wrote these provisions for pension uniformity, and they applied to health benefits as well, which is why the article calls ERISA the accidental health law of the third era.
 
-**What changed in hospital payment under the 1983 prospective payment system?**
+### Q: What changed in hospital payment under the 1983 prospective payment system?
 
 Before 1983, Medicare reimbursed hospitals for the reasonable costs they incurred treating beneficiaries, a method that rewarded higher spending. Title VI of the Social Security Amendments of 1983 replaced that method with prospective payment: a predetermined amount per hospital discharge, set by the diagnosis related group into which the case fell. The hospital kept the difference when its costs fell below the payment and absorbed the loss when they exceeded it. Payment levels reflected national average costs with adjustments for wages, teaching, and low income patient share. The change converted Medicare hospital payment from open ended reimbursement to administered prices, and it created the annual apparatus of weight recalibration and coding review that price setting requires.
 
-**How did the 1989 act change physician payment under Medicare?**
+### Q: How did the 1989 act change physician payment under Medicare?
 
 The Omnibus Budget Reconciliation Act of 1989 replaced Medicare's customary, prevailing, and reasonable charge system for physicians with a fee schedule built on the resource based relative value scale. Each service received a relative value reflecting physician work, practice expense, and malpractice cost, multiplied by geographic adjustments and a conversion factor to set the payment. The schedule phased in during the 1990s until it governed essentially all physician payment under the program. The design compressed the gap between procedural and cognitive services, because the work component rested on research into the time and skill each service required. The 1989 act thus extended the administered pricing that the 1983 amendments had applied to hospitals.
 
-**What were the two health riders on the 1985 budget reconciliation bill?**
+### Q: What were the two health riders on the 1985 budget reconciliation bill?
 
 The Consolidated Omnibus Budget Reconciliation Act of 1985, Public Law 99-272, carried two lasting health provisions as riders. Title X created continuation coverage, requiring employers with twenty or more employees to let departing workers and certain dependents stay in the group plan at their own expense for up to eighteen months. Section 9121 created the Emergency Medical Treatment and Active Labor Act, requiring Medicare participating hospitals to screen and stabilize emergency patients regardless of ability to pay. Neither provision spent federal money directly, which made them congenial to a reconciliation vehicle, but both imposed continuing obligations on private actors. The episode demonstrates the article's claim that major health regulation can be enacted without a standalone health bill.
 
-**How did states use the flexibility Title XXI gave them in designing CHIP programs?**
+### Q: How did states use the flexibility Title XXI gave them in designing CHIP programs?
 
 Title XXI gave states three design options within federal rules. A state could expand its Medicaid program to cover the new population, create a separate children's health insurance program with its own benefit package and cost-sharing rules, or combine the two approaches. The enhanced federal matching rate applied whichever option the state chose, which made participation financially attractive while preserving state administrative control. Federal rules set boundaries: eligibility had to target children in families above Medicaid income limits, and separate programs had to meet benefit and cost-sharing standards. But the details of enrollment, outreach, provider networks, and benefit design remained state decisions. The article presents this federalism as deliberate, Congress buying national coverage of children with federal dollars while leaving implementation to the governments that already ran Medicaid.
 
-**What was Medicare+Choice and why did the 1997 act create it?**
+### Q: What was Medicare+Choice and why did the 1997 act create it?
 
 Medicare+Choice, also called Medicare Part C, was the private plan option inside Medicare created by the Balanced Budget Act of 1997. It allowed beneficiaries to receive Medicare benefits through private health plans rather than only through traditional fee for service Medicare. Congress created it as part of the same statute that reduced provider payments, pairing fiscal restraint with a delivery experiment. The design introduced plan competition and alternative delivery structures into Medicare without dismantling the underlying entitlement. The article places Medicare+Choice in the third era because it treated Medicare as both a coverage program and a budgetary commitment, and because it extended the era's faith in managed mechanisms to the program's delivery structure.
 
-**What did the 2003 noninterference clause actually prohibit?**
+### Q: What did the 2003 noninterference clause actually prohibit?
 
 The noninterference clause of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 barred the government from negotiating prescription drug prices directly with manufacturers in the manner the statute assigned to private plans. The clause defined the boundary of the Part D model: the federal government set plan standards, subsidized premiums and cost sharing, and oversaw enrollment, while private drug plans negotiated with pharmacies and manufacturers. The provision was integral to the design Congress selected, not an afterthought. This article describes the clause in the statute's own terms and does not evaluate later proposals to change it, because such proposals fall outside the article's date wall of March 2011.
 
-**What does the four era periodization claim about American health legislation?**
+### Q: What does the four era periodization claim about American health legislation?
 
 The periodization claims that federal health statutes from 1946 through March 2011 form four eras: build capacity from 1946 to 1960, extend coverage from 1965 to 1973, control cost from 1974 to 1997, and regulate price from 2003 to 2010. Each era is defined by the dominant problem Congress addressed and the mechanism it chose, and each ends when its mechanism reached its limit. The article also advances a recurring pattern: every cost control statute makes spending legible, which creates the constituency for the next coverage statute. The periodization is offered as an interpretation with evidence for and against it, not as settled history, and the verdict section specifies what evidence would support or weaken each reading.
 
-**Did HIPAA's privacy rules or its portability rules matter more?**
+### Q: Did HIPAA's privacy rules or its portability rules matter more?
 
 The question assumes a ranking the statute itself does not supply. Portability was the lead purpose: the 1996 act limited preexisting condition exclusions, protected creditable coverage, and created special enrollment rights so workers could change jobs without losing insurance. Privacy and security standards arrived through the administrative simplification title, supplying national rules for electronic transactions and health information. The portability rules directly changed what insurers and plans could do to mobile workers. The administrative standards changed how information moved through the system. This article treats portability as the statute's contribution to the coverage sequence and the privacy provisions as infrastructure, because that ordering matches the statute's structure and its coalition's purpose.

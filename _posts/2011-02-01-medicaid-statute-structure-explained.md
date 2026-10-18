@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Medicaid", "Title XIX", "Health Policy", "Social Security Act", "state plans", "FMAP"]
 excerpt: "The Medicaid statute turns federal money into state-run health coverage. This guide maps Title XIX state plans, FMAP rates, eligibility, benefits, and waivers."
 image: "/assets/images/blog/blog-101.webp"
-reading_time: 81
+reading_time: 82
 author: "michael-brooks"
 last_updated: 2026-10-01
 lang: en
@@ -288,82 +288,82 @@ The larger lesson of this article is that the Medicaid statute rewards the reade
 
 ## Frequently Asked Questions
 
-### How is the Medicaid statute structured?
+### Q: How is the Medicaid statute structured?
 
 Medicaid is Title XIX of the Social Security Act, codified at 42 U.S.C. 1396 and following. Congress organized it as a cooperative federal-state grant program rather than a directly administered federal benefit. The statute opens with the authorization for federal appropriations and then lays down the conditions a state must meet to receive them. The center of the structure is section 1902, 42 U.S.C. 1396a, which lists the required contents of a state plan. Around that core the statute arranges the categories of people a state may or must cover, the medical services that are mandatory or optional, the federal payment formula keyed to the federal medical assistance percentage, and the waiver authorities in sections 1115, 1915(b), and 1915(c) that let the Secretary excuse compliance with specified requirements. Because federal money flows only through an approved state plan, every substantive duty in Title XIX is expressed as a condition of participation.
 
-### What is FMAP in Medicaid?
+### Q: What is FMAP in Medicaid?
 
 The federal medical assistance percentage, abbreviated FMAP, is the share of a state's Medicaid service expenditures paid by the federal government. It appears at 42 U.S.C. 1396d(b), section 1905(b) of the Social Security Act. The statute ties the percentage inversely to state per capita income, so states with lower average incomes draw a higher federal match and wealthier states draw a lower one. Congress placed a floor and a ceiling on the rate: no state receives less than 50 percent or more than 83 percent federal funding for covered services. The FMAP applies to most medical assistance spending, while the statute assigns fixed higher rates to certain specified services and administrative activities. Because the percentage moves with relative state income, a state's federal share reflects its fiscal capacity rather than a uniform national rate.
 
-### Which Medicaid benefits are mandatory and which are optional?
+### Q: Which Medicaid benefits are mandatory and which are optional?
 
 Section 1902 obliges every state plan to cover a defined set of mandatory services. Those include inpatient and outpatient hospital services, physician services, laboratory and x-ray services, nursing facility services for beneficiaries age 21 and older, home health services, family planning services and supplies, the early and periodic screening, diagnostic, and treatment benefit for beneficiaries under 21, rural health clinic and federally qualified health center services, nurse-midwife and nurse practitioner services, and pregnancy-related services. Beyond that floor, the statute permits states to add optional benefits through their state plans. The optional category includes prescription drugs, dental services, personal care services, physical therapy, eyeglasses, and prosthetic devices. The mandatory list establishes the national minimum every participating state must furnish, while the optional list gives states room to tailor coverage to their populations and budgets, subject to Secretarial approval of the state plan.
 
-### What is a Medicaid state plan?
+### Q: What is a Medicaid state plan?
 
 A state plan is the written document in which a state describes how it will administer its Medicaid program, required by section 1902 of the Social Security Act, 42 U.S.C. 1396a. The statute lists the provisions the plan must contain, including the three core requirements of statewideness, comparability, and freedom of choice of provider, along with the eligibility groups and benefit package the jurisdiction has chosen. The plan functions as both the jurisdiction's application for federal funds and its binding commitment to operate the program as described. The Secretary of Health and Human Services must approve a plan that satisfies the statutory requirements, and federal matching payments flow only under an approved plan. When a state changes eligibility, benefits, or payment methods, it submits a state plan amendment for Secretarial review before the change takes effect.
 
-### What is a section 1115 Medicaid waiver?
+### Q: What is a section 1115 Medicaid waiver?
 
 A section 1115 waiver, authorized at 42 U.S.C. 1315, lets the Secretary of Health and Human Services set aside specified Medicaid requirements for an experimental, pilot, or demonstration project that, in the Secretary's judgment, is likely to promote the objectives of the program. The waiver suspends the ordinary rules only within the terms and conditions the Secretary approves, so the demonstration operates under a negotiated framework rather than under the standard state plan. Arizona's program illustrates the device: when Arizona joined Medicaid in 1982, it did so through a section 1115 demonstration called the Arizona Health Care Cost Containment System, or AHCCCS, which became the first statewide managed-care Medicaid program in the country. Section 1115 thus gives states a path to test delivery and financing models the statute would otherwise forbid, with the Secretary acting as gatekeeper.
 
-### What is EPSDT in Medicaid?
+### Q: What is EPSDT in Medicaid?
 
 EPSDT stands for early and periodic screening, diagnostic, and treatment, a mandatory Medicaid benefit for beneficiaries under age 21. Congress designed it as a comprehensive child health benefit rather than a narrow list of covered services. The screening component calls for regular examinations of physical and mental health, vision, hearing, and dental health on a schedule the jurisdiction establishes. When a screening reveals a condition, the diagnostic and treatment components require the jurisdiction to furnish the care needed to correct or ameliorate it, even if the particular service falls outside the jurisdiction's standard benefit package for adults. In practice this makes EPSDT the broadest benefit in the Medicaid statute for children, because coverage turns on medical necessity for the child rather than on whether the service appears on the adult list.
 
-### Can you sue a state over Medicaid?
+### Q: Can you sue a state over Medicaid?
 
 A beneficiary may sue only in narrow circumstances. Because Medicaid is Spending Clause legislation, its provisions are generally understood as conditions on federal funding rather than as rights enforceable by private plaintiffs. The Supreme Court's pre-2011 framework begins with Blessing v. Freestone, decided in 1997, which set the test for when a Spending Clause provision creates an enforceable right, and continues through Gonzaga v. Doe, decided in 2002, which held that a private suit under 42 U.S.C. 1983 requires a right unambiguously conferred on the individual by the statute. Most Medicaid requirements, including the broad state plan duties, fail that test because they speak to what the jurisdiction must do to keep federal funds rather than to what the individual may demand in court. The Secretary's remedy for a noncompliant state is administrative, principally the withholding of federal matching funds.
 
-### Which state joined Medicaid last?
+### Q: Which state joined Medicaid last?
 
 Arizona was the last state to join Medicaid, entering the program in 1982. Rather than adopting a conventional fee-for-service program, Arizona launched the Arizona Health Care Cost Containment System, known as AHCCCS, in October 1982 under a section 1115 demonstration waiver. The demonstration made Arizona the first state to run its entire Medicaid program through managed care, with the jurisdiction contracting with health plans to deliver services instead of paying providers directly for each service. The 1115 authority allowed this departure from the ordinary requirements, and the Secretary approved the demonstration as a test of whether managed care could control costs while preserving access. Every other state had joined Medicaid before Arizona, making its 1982 entry the close of the program's original state-by-state adoption.
 
-### What does the statewideness requirement demand?
+### Q: What does the statewideness requirement demand?
 
 The statewideness requirement, at 42 U.S.C. 1396a(a)(1), provides that the state plan must be in effect in all political subdivisions of the state. In ordinary terms, a state may not offer Medicaid in only some counties or regions while excluding others. Whatever eligibility rules and benefit package the jurisdiction adopts must apply uniformly across the state, so a beneficiary's access does not depend on where within the state the beneficiary lives. The requirement guards against a patchwork program in which wealthier or more urban areas receive coverage that rural or poorer areas do not. A state that wishes to test a different arrangement in part of the state, such as a pilot program in a few counties, must seek a waiver of this requirement, most commonly under section 1115 or section 1915(b).
 
-### What does comparability require of Medicaid benefits?
+### Q: What does comparability require of Medicaid benefits?
 
 The comparability requirement, at 42 U.S.C. 1396a(a)(10)(B), provides that the medical assistance available to any categorically needy individual may not be less in amount, duration, or scope than what is available to any other categorically needy individual. Once a state covers a service for one group of mandatory beneficiaries, it must furnish that service on equal terms to the others. The rule prevents a state from, for example, covering robust physician services for children while offering only a thin version to aged or disabled beneficiaries within the mandatory population. Comparability does not require the jurisdiction to cover every optional service, but it does require evenhandedness for the services the jurisdiction chooses to cover. States seeking to vary benefits among populations, as in a targeted managed-care or home-based program, typically need a waiver of this provision.
 
-### What does freedom of choice of provider guarantee beneficiaries?
+### Q: What does freedom of choice of provider guarantee beneficiaries?
 
 The freedom-of-choice requirement, at 42 U.S.C. 1396a(a)(23), guarantees that a Medicaid beneficiary may obtain covered services from any qualified provider willing to furnish them. A state may not confine beneficiaries to a closed panel of providers or steer them away from a qualified hospital, physician, or clinic that accepts Medicaid payment. The provision protects the beneficiary's side of the transaction: the jurisdiction sets the payment rates and the qualifications, but the choice of which qualified provider to see belongs to the patient. This requirement is one of the principal obstacles to mandatory managed care, because assigning beneficiaries to a single plan or network restricts the very choice the statute protects. States that wish to require managed-care enrollment therefore seek a waiver of this provision, most often under section 1915(b).
 
-### What is the medically needy option?
+### Q: What is the medically needy option?
 
 The medically needy option lets a state extend Medicaid to people who meet the nonfinancial criteria for coverage but whose income or resources exceed the limits for the mandatory groups. Under this option, the jurisdiction counts the medical expenses the person incurs against the excess income, a process often called spend-down. Once the incurred expenses reduce countable income to the jurisdiction's medically needy threshold, the person qualifies for coverage. Congress made the option voluntary: a state may cover the medically needy, but the statute does not require it. States that adopt it must define the income standard and apply it evenhandedly, and the option gives states a way to reach people, such as those facing prolonged nursing facility or hospital stays, whose medical costs dwarf their incomes.
 
-### What is a section 1915(b) waiver used for?
+### Q: What is a section 1915(b) waiver used for?
 
 A section 1915(b) waiver, authorized at 42 U.S.C. 1396n, lets a state set aside the statewideness, comparability, and freedom-of-choice requirements to implement managed care and related delivery reforms. The typical use is to require beneficiaries to enroll in managed-care plans or to receive services through a limited network of providers, arrangements the unwaived statute would forbid. States also use 1915(b) authority for selective contracting with providers and for central enrollment brokers that assign beneficiaries to plans. Unlike a section 1115 demonstration, a 1915(b) waiver does not suspend the statute's eligibility or benefit rules; it changes how services are delivered and how providers are chosen. The Secretary approves these waivers for limited periods, and the jurisdiction must show that the arrangement serves the program's objectives without reducing access.
 
-### Who can receive services under a section 1915(c) waiver?
+### Q: Who can receive services under a section 1915(c) waiver?
 
 A section 1915(c) waiver serves people who would otherwise require the level of care furnished in an institution, such as a hospital or nursing facility, but who can be served safely in the home or community. The waiver targets beneficiaries whose needs would ordinarily lead to institutional placement: older adults needing nursing facility care, people with physical disabilities, and individuals who would otherwise enter long-term institutions. To qualify, the person must meet the jurisdiction's criteria for the institutional level of care the waiver substitutes for, and the home and community services must be an appropriate alternative. Congress also required the jurisdiction to show that serving these beneficiaries in the community costs no more than serving them in the institution, a cost-neutrality condition that keeps the waiver from becoming an open-ended expansion. The provision thus redirects institutional spending toward home-based care for a defined population.
 
-### Why do some services receive a higher federal match than the FMAP?
+### Q: Why do some services receive a higher federal match than the FMAP?
 
 Congress did not apply the FMAP to every dollar a state spends. For certain services and administrative activities that lawmakers wanted to encourage, the statute assigns fixed federal percentages above the jurisdiction's FMAP. The design uses the matching rate as a policy lever: a higher federal share lowers the jurisdiction's cost of the favored activity and nudges states toward it. The FMAP itself remains the rate for most medical assistance, moving inversely with state per capita income between the 50 percent floor and the 83 percent ceiling, while the enhanced rates operate as exceptions written directly into the payment provisions. A state therefore faces a blended federal share across its program, with the enhanced categories drawing more federal money per dollar spent than the services paid at the ordinary FMAP.
 
-### What happens when the Secretary disapproves a state plan amendment?
+### Q: What happens when the Secretary disapproves a state plan amendment?
 
 When the Secretary disapproves a state plan amendment, the proposed change does not take effect and the jurisdiction receives no federal matching funds for it. Disapproval follows a finding that the amendment fails one or more of the requirements in section 1902, such as the statewideness, comparability, or freedom-of-choice provisions. The statute gives the jurisdiction procedural protections: the jurisdiction is entitled to notice of the reasons for disapproval and an opportunity for a hearing before the decision becomes final. In practice, disapproval often opens a negotiation in which the jurisdiction revises the amendment to satisfy the Secretary's objections and resubmits it. A state that believes the disapproval is unlawful may seek judicial review of the final agency action. The process underscores that the Secretary, not the jurisdiction alone, determines whether a plan change comports with Title XIX.
 
-### How does Title XIX differ structurally from Title XVIII?
+### Q: How does Title XIX differ structurally from Title XVIII?
 
 Title XIX and Title XVIII of the Social Security Act create mirror-image structures. Title XIX establishes Medicaid as a cooperative federal-state program: states administer the program under Secretarially approved state plans, set eligibility and benefits within statutory bounds, and receive federal matching payments keyed to the FMAP. Title XVIII establishes Medicare as a federally administered program: the federal government sets uniform national rules, contracts directly with providers and plans, and pays claims without state intermediation. Medicaid's duties therefore run through the state plan mechanism, with the three core requirements of statewideness, comparability, and freedom of choice constraining state design, while Medicare's duties run directly between the federal government and providers. The two titles share the Social Security Act as their vehicle but assign the states fundamentally different roles.
 
-### Must every state cover prescription drugs?
+### Q: Must every state cover prescription drugs?
 
 No. Prescription drugs are an optional Medicaid benefit, so the statute does not require any state to cover them. A state that wishes to cover outpatient drugs adds the benefit through its state plan, subject to Secretarial approval, and a state that declines the benefit remains in full compliance with Title XIX. This surprises many observers because drug coverage feels like a core part of health insurance, but the mandatory benefit list Congress wrote into section 1902 does not include it. The optional status gives states budgetary control: drugs are a large expenditure, and a state may define the scope of coverage, such as formularies and prior authorization, within its plan. The consequence is variation, with drug coverage differing from state to state rather than guaranteed nationally.
 
-### What does the reasonable-promptness requirement guarantee?
+### Q: What does the reasonable-promptness requirement guarantee?
 
 The reasonable-promptness requirement obliges a state to furnish Medicaid assistance to eligible individuals without undue delay. Once a person is determined eligible, the jurisdiction may not leave the application languishing or postpone covered services indefinitely. The provision addresses the gap between eligibility on paper and care in fact: a benefit that arrives months late is little better than no benefit for a person needing treatment. Courts and the Secretary have read the requirement to forbid both bureaucratic foot-dragging in eligibility determinations and unreasonable waits for covered services once eligibility is established. The standard is reasonableness rather than immediacy, so the jurisdiction may take the time genuinely needed to verify eligibility and arrange care, but it may not use administrative backlog as a reason to withhold what the statute promises.
 
-### Why is Medicaid called a federal-state partnership?
+### Q: Why is Medicaid called a federal-state partnership?
 
 Medicaid earns the partnership label because neither level of government runs it alone. Congress set the program's requirements and pays a share of its costs through the FMAP, which ranges from 50 to 83 percent depending on state per capita income. The states administer the program day to day, determine eligibility under their approved state plans, pay providers, and contribute the nonfederal share. Within the federal guardrails, states choose which optional eligibility groups to cover and which optional benefits, such as prescription drugs, to include. The Secretary of Health and Human Services oversees the arrangement by approving state plans and plan amendments and by granting waivers that let states depart from specified requirements. The result is fifty-plus distinct programs operating under one federal statute, which is why descriptions of Medicaid's rules must always be qualified by state.
