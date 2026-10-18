@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Law", "US Legislation FDA Regulation", "US Legislation Kefauver Harris", "US Legislation Thalidomide", "US Legislation Drug Approval"]
 excerpt: "The Kefauver-Harris Amendments turned a failed drug-price bill into the law requiring drugs to prove they work, reshaping approval, testing, and safety."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "75"
+reading_time: 87
 author: "david-thornton"
 last_updated: 2026-10-13
 lang: en

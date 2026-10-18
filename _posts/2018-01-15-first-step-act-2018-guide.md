@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "First Step Act", "Criminal Justice", "Sentencing Reform", "Congress", "Supreme Court"]
 excerpt: "The First Step Act shortened federal drug sentences, created earned time credits for prison programming, and opened compassionate release to prisoner petitions."
 image: "/assets/images/blog/blog-96.webp"
-reading_time: "69"
+reading_time: 81
 author: "daniel-morgan"
 last_updated: 2026-10-13
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Sentencing Law", "Criminal Justice", "Federal Courts", "Prison Policy", "Congressional History"]
 excerpt: "The Sentencing Reform Act abolished federal parole and created binding sentencing guidelines. This guide traces its coalition, machinery, and legacy in full."
 image: "/assets/images/blog/blog-49.webp"
-reading_time: "77"
+reading_time: 89
 author: "patrick-dunn"
 last_updated: 2026-10-13
 lang: en

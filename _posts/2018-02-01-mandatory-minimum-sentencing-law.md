@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "mandatory minimums", "federal sentencing", "841(b) drug quantity", "924(c) firearm"]
 excerpt: "Mandatory minimums set a federal floor that three exits can open. This guide explains each trigger, who controls every exit, and the history behind them."
 image: "/assets/images/blog/blog-37.webp"
-reading_time: "76"
+reading_time: 91
 author: "andrew-price"
 last_updated: 2026-10-13
 lang: en

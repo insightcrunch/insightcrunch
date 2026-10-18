@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Inflation Reduction Act", "Energy Tax Credits", "Climate Policy", "Budget Reconciliation", "Industrial Policy"]
 excerpt: "The Inflation Reduction Act made climate policy from uncapped tax credits, direct pay, and stacked bonuses. This profile maps the credits and the disputed cost."
 image: "/assets/images/blog/blog-34.webp"
-reading_time: "76"
+reading_time: 87
 author: "hannah-moore"
 last_updated: 2026-10-13
 lang: en

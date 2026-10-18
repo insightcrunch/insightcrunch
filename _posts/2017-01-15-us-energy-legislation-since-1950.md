@@ -7,7 +7,7 @@ categories: "[\"Industry\"]"
 tags: "[\"US Legislation\", \"Energy Policy\", \"Nuclear Power\", \"Oil and Gas\", \"Fuel Economy\", \"Climate Policy\"]"
 excerpt: "US energy legislation has two tracks: security-driven production and deregulation versus environment-driven efficiency and subsidy, traced across seven decades."
 image: "/assets/images/blog/blog-40.webp"
-reading_time: "92"
+reading_time: 104
 author: "insight-crunch-team"
 last_updated: 2026-10-13
 lang: en

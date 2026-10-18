@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Science", "US Legislation Technology Policy", "US Legislation Research", "US Legislation Innovation", "US Legislation Space"]
 excerpt: "Why Congress authorizes science funding it never appropriates: a seventy-year tour of US science policy legislation, from the NSF Act to the COMPETES era."
 image: "/assets/images/blog/blog-05.webp"
-reading_time: "89"
+reading_time: 103
 author: "robert-quinn"
 last_updated: 2026-10-13
 lang: en

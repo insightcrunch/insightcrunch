@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Hatch-Waxman", "US Legislation Generic Drugs", "US Legislation Drug Patents", "US Legislation FDA Approval", "US Legislation Patent Law"]
 excerpt: "Hatch-Waxman traded an abbreviated generic pathway for restored patent time. This profile walks the bargain, the certification fight, and the delay devices."
 image: "/assets/images/blog/blog-11.webp"
-reading_time: "73"
+reading_time: 86
 author: "christopher-wells"
 last_updated: 2026-10-13
 lang: en

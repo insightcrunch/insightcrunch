@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation Comparison", "US Legislation Crime Policy", "US Legislation Federalism", "US Legislation Sentencing", "US Legislation Criminal Justice", "US Legislation Study Guide"]
 excerpt: "The crime bill and the First Step Act are structural opposites: one spent billions in conditional grants on state systems, the other rewrote rules directly."
 image: "/assets/images/blog/blog-71.webp"
-reading_time: "65"
+reading_time: 78
 author: "samantha-lee"
 last_updated: 2026-10-13
 lang: en

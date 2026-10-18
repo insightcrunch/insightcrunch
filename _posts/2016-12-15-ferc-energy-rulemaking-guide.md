@@ -7,7 +7,7 @@ categories: "Industry"
 tags: "US Legislation"
 excerpt: "FERC governs wholesale electricity and gas through commission orders, pipeline certificates, and reliability standards built on the Power Act rate standard."
 image: "/assets/images/blog/blog-94.webp"
-reading_time: "82"
+reading_time: 95
 author: "jason-mckenzie"
 last_updated: 2026-10-13
 lang: en

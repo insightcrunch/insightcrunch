@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Sentencing Law", "Drug Policy", "Criminal Justice", "Fair Sentencing Act", "Mandatory Minimums"]
 excerpt: "The Fair Sentencing Act cut the crack ratio from 100 to 1 to 18 to 1. This guide traces the number from its origin through four warnings to the retroactive fix."
 image: "/assets/images/blog/blog-107.webp"
-reading_time: "69"
+reading_time: 82
 author: "christopher-wells"
 last_updated: 2026-10-13
 lang: en

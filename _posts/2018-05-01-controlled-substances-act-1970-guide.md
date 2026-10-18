@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Controlled Substances", "US Legislation Criminal Law", "US Legislation Commerce Clause", "US Legislation Public Health"]
 excerpt: "The Controlled Substances Act rebuilt federal drug law on the commerce power, replacing tax-era statutes with schedules, registration, quotas, and penalties."
 image: "/assets/images/blog/blog-15.webp"
-reading_time: "80"
+reading_time: 93
 author: "michael-brooks"
 last_updated: 2026-10-13
 lang: en

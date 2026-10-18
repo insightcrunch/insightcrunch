@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Criminal Justice", "US Legislation Statute Profile", "US Legislation Law Enforcement", "US Legislation Surveillance", "US Legislation Supreme Court"]
 excerpt: "The Omnibus Crime Control Act built LEAA's block grant model, wrote federal Title III wiretap rules, and lost its own confession provision in Dickerson."
 image: "/assets/images/blog/blog-111.webp"
-reading_time: "71"
+reading_time: 81
 author: "christopher-wells"
 last_updated: 2026-10-13
 lang: en

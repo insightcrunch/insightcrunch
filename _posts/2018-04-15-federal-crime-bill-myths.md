@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Crime", "US Legislation Crime Bill", "US Legislation Sentencing", "US Legislation First Step Act", "US Legislation Firearms"]
 excerpt: "Federal crime bill myths meet the record: ten claims on mass incarceration, three strikes and mandatory minimums tested against statutes, roll calls and data."
 image: "/assets/images/blog/blog-72.webp"
-reading_time: "74"
+reading_time: 84
 author: "jessica-kim"
 last_updated: 2026-10-13
 lang: en

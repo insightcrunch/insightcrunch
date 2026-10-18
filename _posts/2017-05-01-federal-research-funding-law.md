@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["us-legislation", "research-funding", "uniform-guidance", "common-rule", "research-misconduct", "indirect-costs", "nih"]
 excerpt: "Federal research funding law governs how grants, contracts, and cooperative agreements are awarded, spent, and policed. A complete guide to the machinery."
 image: "/assets/images/blog/blog-35.webp"
-reading_time: "80"
+reading_time: 93
 author: "ryan-walsh"
 last_updated: 2026-10-13
 lang: en

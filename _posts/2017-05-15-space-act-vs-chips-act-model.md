@@ -7,7 +7,7 @@ categories: ["Technology"]
 tags: ["us-legislation", "technology policy", "space act", "chips act", "industrial policy", "science policy"]
 excerpt: "The Space Act built an agency that bought missions; the CHIPS Act pays firms to build fabs. The deciding factor: whether the government is the customer."
 image: "/assets/images/blog/blog-73.webp"
-reading_time: "62"
+reading_time: 77
 author: "daniel-morgan"
 last_updated: 2026-10-13
 lang: en

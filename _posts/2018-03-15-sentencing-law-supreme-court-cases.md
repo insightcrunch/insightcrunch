@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Supreme Court", "US Legislation Sentencing", "US Legislation Sixth Amendment", "US Legislation Eighth Amendment", "US Legislation Criminal Procedure"]
 excerpt: "Sentencing Law was remade by the jury trial right rather than the ban on cruel and unusual punishment. It traces the Sixth Amendment's reshaping of punishment."
 image: "/assets/images/blog/blog-04.webp"
-reading_time: "77"
+reading_time: 91
 author: "ian-fletcher"
 last_updated: 2026-10-13
 lang: en

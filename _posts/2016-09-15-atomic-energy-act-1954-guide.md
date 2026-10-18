@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Energy Policy", "Federalism", "Administrative Law", "Liability", "Nuclear Regulation"]
 excerpt: "The Atomic Energy Act of 1954 ended the federal monopoly on fissionable material, created private commercial power, and wrote born-classified secrecy into law."
 image: "/assets/images/blog/blog-110.webp"
-reading_time: "78"
+reading_time: 90
 author: "katherine-blake"
 last_updated: 2026-10-13
 lang: en

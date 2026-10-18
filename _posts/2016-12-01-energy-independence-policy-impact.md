@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Energy", "US Legislation Efficiency", "US Legislation Biofuels", "US Legislation Petroleum", "US Legislation Policy Review"]
 excerpt: "US energy independence policy promised self-sufficiency for decades. This review measures what efficiency rules, the SPR, biofuels and synfuels delivered."
 image: "/assets/images/blog/blog-80.webp"
-reading_time: "75"
+reading_time: 89
 author: "david-thornton"
 last_updated: 2026-10-13
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "PURPA", "Energy Law", "FERC", "Electric Utilities", "Independent Power"]
 excerpt: "PURPA forced utilities to buy power from qualifying small generators at avoided cost, and that single provision created the independent power industry."
 image: "/assets/images/blog/blog-60.webp"
-reading_time: "75"
+reading_time: 89
 author: "james-carter"
 last_updated: 2026-10-13
 lang: en

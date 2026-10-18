@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Criminal Justice", "Crime Policy", "Sentencing Law", "Federal Grants", "Congressional History"]
 excerpt: "Did the crime bill cause mass incarceration? Evidence shows a real but modest role: a few billion in grants nudged state sentencing, never commanded it."
 image: "/assets/images/blog/blog-113.webp"
-reading_time: "80"
+reading_time: 91
 author: "robert-quinn"
 last_updated: 2026-10-13
 lang: en

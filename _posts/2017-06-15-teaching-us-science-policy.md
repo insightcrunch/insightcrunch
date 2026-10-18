@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Science Policy", "US Legislation Teaching", "US Legislation Study Guide", "US Legislation Space", "US Legislation Research Funding"]
 excerpt: "US science policy taught as a classroom study guide: four instruments, six mark-deciding distinctions, and the four documents worth assigning to students."
 image: "/assets/images/blog/blog-62.webp"
-reading_time: "67"
+reading_time: 80
 author: "benjamin-scott"
 last_updated: 2026-10-13
 lang: en

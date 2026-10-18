@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Space Policy", "NASA", "National Security", "Technology Policy", "Federal Science"]
 excerpt: "The National Aeronautics and Space Act created a civilian NASA from NACA, split civil and military space, and vested contract invention title in the government."
 image: "/assets/images/blog/blog-38.webp"
-reading_time: "84"
+reading_time: 95
 author: "patrick-dunn"
 last_updated: 2026-10-13
 lang: en

@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Telecommunications", "Telecom Policy", "Media Law", "Internet Law"]
 excerpt: "The Telecommunications Act of 1996 amended rather than replaced the 1934 law, trading local access for long-distance entry while deregulating ownership."
 image: "/assets/images/blog/blog-28.webp"
-reading_time: 86
+reading_time: 98
 author: "samantha-lee"
 last_updated: 2026-10-13
 lang: en

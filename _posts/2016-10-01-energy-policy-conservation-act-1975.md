@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Energy Policy", "Fuel Economy Standards", "Strategic Petroleum Reserve", "Crude Oil Exports", "Appliance Efficiency"]
 excerpt: "The Energy Policy and Conservation Act answered one oil shock with four instruments: a stockpile, mileage rules, appliance standards, and a 40-year export ban."
 image: "/assets/images/blog/blog-100.webp"
-reading_time: "73"
+reading_time: 86
 author: "simon-hartley"
 last_updated: 2026-10-13
 lang: en

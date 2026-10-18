@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "US Legislation Drug Policy", "US Legislation Sentencing Law", "US Legislation Crack Powder Ratio", "US Legislation Mandatory Minimums", "US Legislation Drug War Era"]
 excerpt: "The Anti-Drug Abuse Acts built federal drug sentencing around quantity tiers and a 100-to-1 crack powder ratio. This guide traces the thresholds and correction."
 image: "/assets/images/blog/blog-38.webp"
-reading_time: "73"
+reading_time: 84
 author: "abigail-cooper"
 last_updated: 2026-10-17
 lang: en

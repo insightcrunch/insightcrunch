@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "CAFE Standards", "Fuel Economy", "Energy Policy", "Transportation Law", "Administrative Law"]
 excerpt: "CAFE standards grade fleets by a sales-weighted harmonic mean under 49 U.S.C. chapter 329: the formula, footprint targets, credits, penalties, and EPA overlap."
 image: "/assets/images/blog/blog-04.webp"
-reading_time: "68"
+reading_time: 79
 author: "gregory-marsh"
 last_updated: 2026-10-13
 lang: en
