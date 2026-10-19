@@ -4,8 +4,8 @@ title: "The SEBI Act 1992: Powers of India's Securities Regulator"
 page_title: "SEBI Act 1992 Explained: The Securities and Exchange Board of India's Mandate, Board Composition, Investigation and Search Powers, Debarment Directions, Penalties, Disgorgement, Settlement under Section 15JB, and Appeals to the Securities Appellate Tribunal"
 date: 2013-04-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "SEBI Act 1992", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "The SEBI Act 1992 explained: how an administrative arrangement became a statutory securities regulator armed to investigate, debar, penalise and settle."
+tags: ["Indian Legislation", "SEBI Act", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
+excerpt: "The SEBI Act explained: how an administrative arrangement became a statutory securities regulator armed to investigate, debar, penalise and settle disputes."
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 73
 author: "anita-das"

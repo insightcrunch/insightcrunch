@@ -4,7 +4,7 @@ title: "CSR in India: Section 135 Duties, Deadlines and Penalties"
 page_title: "CSR under Section 135 of the Companies Act, 2013: Applicability Thresholds, the Two Per Cent Computation, Unspent Amount Transfers, Schedule VII Activities, Penalties and Tax Treatment Explained"
 date: 2012-03-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Companies Act 2013", "Corporate Social Responsibility", "Corporate Law", "Parliament", "Law Students"]
+tags: ["Indian Legislation", "Companies Act", "Corporate Social Responsibility", "Corporate Law", "Parliament", "Law Students"]
 excerpt: "CSR under Section 135 explained: the thresholds that trigger the duty, the two per cent computation, the deadlines for unspent money, and the civil penalty."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 81

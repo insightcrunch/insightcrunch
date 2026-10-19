@@ -4,7 +4,7 @@ title: "Taxpayer Appeals and Tribunals in India, Fully Explained"
 page_title: "Taxpayer Appeals and Tribunals in India: Income Tax and GST Appeal Forums, Limitation Periods, Fees, Pre-Deposits, Stay of Demand, Faceless Appeals, Settlement Schemes and the Taxpayers' Charter"
 date: 2012-11-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Taxation", "Income-tax Act 1961", "GST", "Judiciary", "UPSC", "Law Students"]
+tags: ["Indian Legislation", "Taxation", "Income-tax Act", "GST", "Judiciary", "UPSC", "Law Students"]
 excerpt: "Taxpayer appeals and tribunals in India: the income tax and GST appeal ladders, limitation periods, pre-deposits, stays, faceless hearings and settlements."
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 82

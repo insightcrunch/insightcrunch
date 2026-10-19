@@ -5,7 +5,7 @@ page_title: "Insolvency and Bankruptcy Code 2016: Complete Guide to the Corporat
 date: 2012-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "The Insolvency and Bankruptcy Code 2016 explained as a transfer of control: how a corporate insolvency process runs, and which parts were never switched on."
+excerpt: "The Insolvency and Bankruptcy Code explained as a transfer of control: how a corporate insolvency process runs, the moratorium, and parts never switched on."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 92
 author: "deepika-joshi"

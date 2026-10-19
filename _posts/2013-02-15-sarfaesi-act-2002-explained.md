@@ -5,7 +5,7 @@ page_title: "SARFAESI Act 2002 Explained: How a Secured Creditor Takes Possessio
 date: 2013-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "SARFAESI Act", "Corporate Law", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The SARFAESI Act 2002 lets a lender seize and sell secured property without a court order. The notice, the clock and the borrower's remedies, explained."
+excerpt: "The SARFAESI Act lets a lender seize and sell secured property without a court order. The notice, the clock and the borrower's tribunal remedies, explained."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 92
 author: "anita-das"

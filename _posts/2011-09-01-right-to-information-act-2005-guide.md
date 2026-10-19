@@ -4,8 +4,8 @@ title: "The Right to Information Act 2005: A Complete Guide"
 page_title: "Right to Information Act 2005: The Complete Guide to Its Sections, Exemptions, Public Authorities, Information Commissions, Penalties, and the Amendments That Narrowed the Right"
 date: 2011-09-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Right to Information Act 2005", "Transparency", "Information Commissions", "Administrative Law", "Civil Liberties"]
-excerpt: "The Right to Information Act 2005 explained: its sections and exemptions, who counts as a public authority, and how its override defeats official secrecy."
+tags: ["Indian Legislation", "Right to Information Act", "Transparency", "Information Commissions", "Administrative Law", "Civil Liberties"]
+excerpt: "The Right to Information Act explained: its sections and exemptions, who counts as a public authority, and how its override defeats official secrecy law."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 100
 author: "hannah-moore"

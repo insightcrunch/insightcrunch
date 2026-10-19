@@ -4,8 +4,8 @@ title: "Banking Regulation Act 1949: Licensing to Resolution"
 page_title: "Banking Regulation Act 1949 Explained: Licensing under Section 22, RBI Directions under Section 35A, Board Supersession, the Section 45 Moratorium and Amalgamation Scheme, Co-operative Banks after the 2020 Amendment, and What Happens to Depositors When a Bank Fails"
 date: 2012-12-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Banking Regulation Act 1949", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "Banking Regulation Act 1949 explained: the licence every bank needs, the Reserve Bank's direction and board powers, and the moratorium that resolves a failure."
+tags: ["Indian Legislation", "Banking Regulation Act", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
+excerpt: "Banking Regulation Act explained: the licence every bank needs, the Reserve Bank's direction and board powers, and the moratorium that resolves a failure."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 91
 author: "deepika-joshi"

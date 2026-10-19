@@ -4,8 +4,8 @@ title: "Companies Act 2013: India's Complete Governance Guide"
 page_title: "Companies Act 2013 Complete Guide: Sections, Independent Directors, Woman Directors, Key Managerial Personnel, Auditor Rotation, Class Action, NFRA, SFIO, Section 447 Fraud and the Decriminalisation Amendments Explained"
 date: 2012-02-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Companies Act 2013", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "Companies Act 2013 explained as a governance statute: independent directors, auditor rotation, class actions, the NFRA and Section 447 fraud in full detail."
+tags: ["Indian Legislation", "Companies Act", "Corporate Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
+excerpt: "Companies Act explained as a governance statute: independent directors, woman directors, auditor rotation, class actions, the NFRA and Section 447 fraud."
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 88
 author: "anita-das"

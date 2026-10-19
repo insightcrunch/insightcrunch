@@ -5,7 +5,7 @@ page_title: "Bank Nationalisation Acts in India: The 1969 Ordinance and the Four
 date: 2013-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bank Nationalisation", "Banking Regulation", "Constitutional Law", "Parliament", "UPSC"]
-excerpt: "Bank nationalisation in India, explained through its Acts: the 1969 ordinance, the fourteen banks, the judgment, the re-enactment and the 1980 second round."
+excerpt: "Bank nationalisation in India, explained through its Acts: the ordinance, the fourteen banks, the Cooper judgment, the re-enactment and the second round."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 84
 author: "kavita-sharma"

@@ -5,7 +5,7 @@ page_title: "Bank Nationalisation Case: R.C. Cooper v Union of India (1970), the
 date: 2013-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bank Nationalisation", "Constitutional Law", "Judiciary", "Fundamental Rights", "UPSC"]
-excerpt: "Bank Nationalisation Case: how Cooper struck down the 1969 banking Act on equality and compensation, and recast the law of fundamental rights in India."
+excerpt: "Bank Nationalisation Case: how Cooper struck down the banking Act on equality and compensation grounds, and recast the law of fundamental rights in India."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 79
 author: "anita-das"

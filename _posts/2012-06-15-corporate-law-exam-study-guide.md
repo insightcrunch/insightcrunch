@@ -4,7 +4,7 @@ title: "Corporate Law Exam Study Guide: The Moving-Target Method"
 page_title: "Corporate Law Exam Study Guide: How to Study the Companies Act 2013, the Insolvency and Bankruptcy Code, the NCLT and the LLP Act as Four Connected Regimes, With the Sections Worth Memorising, the Judgments That Carry the Marks and the Moving-Target Revision Method"
 date: 2012-06-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Corporate Law", "Companies Act 2013", "Insolvency and Bankruptcy Code", "UPSC", "Law Students"]
+tags: ["Indian Legislation", "Corporate Law", "Companies Act", "Insolvency and Bankruptcy Code", "UPSC", "Law Students"]
 excerpt: "Corporate law for examinations is four regimes, not one statute: learn the Acts cold, verify every threshold against the rules, and revise by structure."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 84

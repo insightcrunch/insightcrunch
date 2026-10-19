@@ -5,7 +5,7 @@ page_title: "Black Money Act 2015 Explained: Undisclosed Foreign Income and Asse
 date: 2012-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Black Money Act", "Tax Law", "Foreign Assets", "Compliance Window", "Schedule FA"]
-excerpt: "The Black Money Act 2015 taxes undisclosed foreign income and assets at a flat thirty percent, adds a penalty of three times the tax, and reaches back."
+excerpt: "The Black Money Act taxes undisclosed foreign income and assets at a flat thirty percent, adds a penalty of three times the tax, prosecution, and reaches back."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 93
 author: "daniel-morgan"

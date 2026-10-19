@@ -5,7 +5,7 @@ page_title: "Whistle Blowers Protection Act, 2014 Explained: Disclosure Machiner
 date: 2012-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Whistle Blowers Protection Act", "Civil Liberties", "Parliament", "Judiciary", "Law Students"]
-excerpt: "The Whistle Blowers Protection Act, 2014 explained: its disclosure machinery, its penalties, and why the Act has never been brought into force in India."
+excerpt: "The Whistle Blowers Protection Act explained: its disclosure machinery, its penalties, and why the Act has never been brought into force in India after passage."
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 92
 author: "jessica-kim"

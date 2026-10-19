@@ -4,7 +4,7 @@ title: "Retrospective Taxation and the Vodafone Case in India"
 page_title: "Retrospective Taxation in India: The Vodafone Judgment, the Finance Act 2012 Reversal, the Cairn Arbitration, and What the Taxation Laws (Amendment) Act 2021 Withdrew"
 date: 2012-10-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Income-tax Act 1961", "Taxation", "Judiciary", "Constitutional Law", "Parliament"]
+tags: ["Indian Legislation", "Income-tax Act", "Taxation", "Judiciary", "Constitutional Law", "Parliament"]
 excerpt: "Retrospective taxation explained through the Vodafone dispute: the Supreme Court judgment, the legislative reversal, the arbitrations and the withdrawal."
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 87

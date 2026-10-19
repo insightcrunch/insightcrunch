@@ -5,7 +5,7 @@ page_title: "Reserve Bank of India Act 1934 Explained: Section 7 Directions, the
 date: 2012-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Reserve Bank of India Act", "Banking and Finance", "Monetary Policy", "UPSC", "Law Students"]
-excerpt: "The Reserve Bank of India Act 1934 explained: note issue, Section 7 directions, the Monetary Policy Committee and the statutory line on the independence."
+excerpt: "The Reserve Bank of India Act explained: note issue, Section 7 directions, the Monetary Policy Committee and the statutory line on independence of the Bank."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 87
 author: "kavita-sharma"

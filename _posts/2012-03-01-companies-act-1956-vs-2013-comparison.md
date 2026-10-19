@@ -4,8 +4,8 @@ title: "Companies Act 1956 vs 2013: Which Law Actually Changed?"
 page_title: "Companies Act 1956 vs 2013 Comparison: Section Count and Rules, Directors Duties, Audit Reform, Class Action, CSR, Winding Up Under the IBC, and a Defended Verdict on Which Act Changed Indian Company Law"
 date: 2012-03-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Companies Act 2013", "Companies Act 1956", "Corporate Law", "Parliament", "Judiciary", "Law Students"]
-excerpt: "Companies Act 1956 vs 2013 compared honestly: fewer sections but more law, the real changes by subject, and a defended verdict on the reform as a whole."
+tags: ["Indian Legislation", "Companies Act", "Corporate Law", "Parliament", "Judiciary", "Law Students"]
+excerpt: "Companies Act old versus new compared honestly: fewer sections but more law, the real changes by subject, and a defended verdict on the reform as a whole."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 79
 author: "christopher-wells"

@@ -5,7 +5,7 @@ page_title: "Prevention of Money Laundering Act 2002: Complete Guide to the Offe
 date: 2013-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Prevention of Money Laundering Act", "Criminal Law", "Enforcement Directorate", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Prevention of Money Laundering Act 2002 explained in full detail: the offence, proceeds of crime, the Schedule, attachment, arrest, bail and the trial."
+excerpt: "The Prevention of Money Laundering Act explained in detail: the offence, proceeds of crime, the Schedule, attachment, arrest, bail, trial and confiscation."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 89
 author: "deepika-joshi"

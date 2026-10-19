@@ -4,8 +4,8 @@ title: "The Lokpal and Lokayuktas Act 2013: A Complete Guide"
 page_title: "Lokpal and Lokayuktas Act 2013 Explained: Composition and Selection Committee, Jurisdiction Over the Prime Minister, Inquiry and Prosecution Wings, Section 44 Asset Declarations, State Lokayuktas and the Five Years the Body Stood Empty"
 date: 2011-11-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Lokpal and Lokayuktas Act 2013", "Lokpal", "Parliament", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Lokpal and Lokayuktas Act 2013 explained in full: its composition, its jurisdiction over the Prime Minister, and the five years the body stood empty."
+tags: ["Indian Legislation", "Lokpal and Lokayuktas Act", "Lokpal", "Parliament", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The Lokpal and Lokayuktas Act explained: its composition, its jurisdiction over the Prime Minister, its inquiry wing, and the five years the body stood empty."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 88
 author: "deepika-joshi"

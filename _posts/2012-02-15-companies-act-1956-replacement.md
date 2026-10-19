@@ -4,8 +4,8 @@ title: "The Companies Act 1956 Replacement: Nine Years, Three Bills"
 page_title: "Companies Act 1956 Replacement Explained: Why Amendment Failed, the Irani Committee Blueprint, Three Companies Bills, the Tribunal That Never Sat, Section 465 Savings and the Staged Move to the Companies Act 2013"
 date: 2012-02-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Companies Act 1956", "Companies Act 2013", "Corporate Law", "Parliament", "Law Students"]
-excerpt: "Companies Act 1956 replacement explained: why amendment failed, how three bills, a tribunal that never sat and a staged repeal produced the Companies Act 2013."
+tags: ["Indian Legislation", "Companies Act", "Corporate Law", "Parliament", "Law Students"]
+excerpt: "Companies Act replacement explained: why amendment failed, how three bills over nine years, a tribunal that never sat, and a repeal produced the Companies Act."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 81
 author: "natalie-webb"

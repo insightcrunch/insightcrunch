@@ -4,7 +4,7 @@ title: "The National Company Law Tribunal and NCLAT Explained"
 page_title: "National Company Law Tribunal and NCLAT Explained: Jurisdiction, Member Appointments, Appeal Periods, the Fourteen-Year Wait for Constitution and the Capacity Question"
 date: 2012-05-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "National Company Law Tribunal", "Companies Act 2013", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary"]
+tags: ["Indian Legislation", "National Company Law Tribunal", "Companies Act", "Insolvency and Bankruptcy Code", "Corporate Law", "Judiciary"]
 excerpt: "National Company Law Tribunal and NCLAT explained: their company and insolvency cases, member selection, the fourteen-year wait, and the capacity question."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 73

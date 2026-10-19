@@ -4,7 +4,7 @@ title: "Tax Laws for the UPSC Economy Papers: A Study Guide"
 page_title: "Tax Laws for UPSC Economy Papers: How Taxation Is Tested in General Studies, the Statute Set to Know by Name and Year, the GST Council and Finance Commission Distinction, and the Answer Method That Scores"
 date: 2012-11-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Taxation", "GST", "Income-tax Act 1961", "Federalism", "UPSC", "Law Students"]
+tags: ["Indian Legislation", "Taxation", "GST", "Income-tax Act", "Federalism", "UPSC", "Law Students"]
 excerpt: "Tax laws in the UPSC economy papers test federalism and public finance, not arithmetic: the statutes, the Council and the federal bargain are the syllabus."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 84

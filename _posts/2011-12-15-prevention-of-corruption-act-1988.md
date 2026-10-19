@@ -5,7 +5,7 @@ page_title: "Prevention of Corruption Act 1988: Complete Guide to the Offences, 
 date: 2011-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Prevention of Corruption Act", "Criminal Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "The Prevention of Corruption Act 1988 explained in full: the offences it creates, how the 2018 amendment rebalanced it, and where its discretion sits."
+excerpt: "The Prevention of Corruption Act explained in full: the offences it creates, how the amendment rebalanced it, bribe giving, and where its discretion sits."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 88
 author: "kavita-sharma"

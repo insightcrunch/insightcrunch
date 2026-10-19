@@ -4,8 +4,8 @@ title: "The Factories Act 1948 Explained: Safety Law by Headcount"
 page_title: "The Factories Act 1948 Explained: Section 2(m) Factory Definition, the Occupier, the Post-Bhopal Hazardous Processes Chapter, Working Hours, Overtime, Leave and the OSH Code Succession"
 date: 2013-06-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Factories Act 1948", "Labour Law", "Occupational Safety", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Factories Act 1948 explained: the ten and twenty worker test for coverage, the occupier, the post-Bhopal chapter, working hours, overtime and leave."
+tags: ["Indian Legislation", "Factories Act", "Labour Law", "Occupational Safety", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The Factories Act explained: the ten and twenty worker test for coverage, the occupier, the post-Bhopal chapter, working hours, overtime and annual leave."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 96
 author: "kavita-sharma"

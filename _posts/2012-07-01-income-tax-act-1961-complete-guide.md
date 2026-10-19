@@ -4,8 +4,8 @@ title: "Income-tax Act 1961: The Complete Guide to India's Tax Code"
 page_title: "Income-tax Act 1961: Complete Guide to the Five Heads of Income, the Charge and Residence Provisions, Deductions, Assessment and Reassessment, GAAR, Faceless Assessment, Penalties, the Appeals Ladder and the Transition to the Income-tax Act 2025"
 date: 2012-07-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Income-tax Act 1961", "Taxation", "Parliament", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Income-tax Act 1961 explained: its five heads of income, its assessment and appeal machinery, GAAR, faceless assessment and its replacement set out."
+tags: ["Indian Legislation", "Income-tax Act", "Taxation", "Parliament", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The Income-tax Act explained: its five heads of income, its assessment and appeal machinery, GAAR, faceless assessment, penalties and its replacement set out."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 92
 author: "anita-das"

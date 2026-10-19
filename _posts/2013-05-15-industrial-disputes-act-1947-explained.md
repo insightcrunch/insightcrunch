@@ -5,7 +5,7 @@ page_title: "Industrial Disputes Act 1947 Explained: The Definition of Industry,
 date: 2013-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Industrial Disputes Act", "Labour Law", "Judiciary", "Parliament", "UPSC"]
-excerpt: "The Industrial Disputes Act 1947 explained in full: the fight over the definition of industry, the Chapter VB permission regime, and retrenchment compensation."
+excerpt: "The Industrial Disputes Act explained in full: the fight over the definition of industry, the Chapter VB permission regime, and retrenchment compensation law."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 91
 author: "kavita-sharma"

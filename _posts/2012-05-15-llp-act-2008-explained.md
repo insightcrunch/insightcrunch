@@ -4,8 +4,8 @@ title: "The Limited Liability Partnership Act 2008 Explained"
 page_title: "Limited Liability Partnership Act 2008 Explained: Formation, Designated Partners, Liability, Tax, Conversion, and the LLP or Private Limited Company Decision"
 date: 2012-05-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Limited Liability Partnership Act 2008", "Corporate Law", "Companies Act 2013", "Law Students"]
-excerpt: "Limited Liability Partnership Act 2008 explained: how an LLP is formed and taxed, what limited liability covers, and when a company is the better vehicle."
+tags: ["Indian Legislation", "Limited Liability Partnership Act", "Corporate Law", "Companies Act", "Law Students"]
+excerpt: "Limited Liability Partnership Act explained in India: how an LLP is formed and taxed, what limited liability covers, and when a company is the better vehicle."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 88
 author: "hannah-moore"

@@ -5,7 +5,7 @@ page_title: "Direct Taxes Code Bill India: Why the 2010 Code Lapsed Unenacted, W
 date: 2012-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Direct Taxes Code", "Taxation", "Parliament", "Income Tax", "Law Students"]
-excerpt: "The Direct Taxes Code Bill promised to replace the Income-tax Act 1961 with a modern code. It lapsed unenacted, and a narrower rewrite passed in 2025."
+excerpt: "The Direct Taxes Code Bill promised to replace the Income-tax Act with a modern code. It lapsed unenacted, and a narrower rewrite passed without repricing."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 80
 author: "ryan-walsh"

@@ -5,7 +5,7 @@ page_title: "SICA 1985 and the BIFR Explained: The Sick Industrial Company Defin
 date: 2012-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "SICA", "Corporate Law", "Parliament", "Judiciary", "Law Students"]
-excerpt: "SICA 1985 explained: how the BIFR and Section 22 sheltered sick companies, why the statutory repeal waited thirteen years, and what replaced the regime."
+excerpt: "SICA explained: how the BIFR and Section 22 sheltered sick companies, why the statutory repeal waited thirteen years, and what the IBC put in its place."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 84
 author: "nathan-cole"

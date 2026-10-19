@@ -4,8 +4,8 @@ title: "RTI Amendment Act 2019: How the RTI Act Was Narrowed Twice"
 page_title: "RTI Amendment Act 2019 Explained: Sections 13, 16 and 27, the Three-Year Term in the 2019 Rules, and How Section 44(3) of the DPDP Act Substituted Section 8(1)(j)"
 date: 2011-11-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Right to Information Act", "RTI Amendment Act 2019", "Data Protection", "Parliament", "Civil Liberties"]
-excerpt: "The RTI Amendment Act 2019 moved tenure and pay into rules, and a data protection clause later rewrote the personal information exemption in the RTI Act."
+tags: ["Indian Legislation", "Right to Information Act", "RTI Amendment Act", "Data Protection", "Parliament", "Civil Liberties"]
+excerpt: "The RTI Amendment Act moved tenure and pay into executive rules, and a data protection clause later rewrote the personal information exemption in the RTI Act."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
 author: "michael-brooks"
