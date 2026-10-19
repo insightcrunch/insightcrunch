@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Age Discrimination in Employment Act Explained"
+title: "Age Discrimination in Employment Act: Who Is Protected"
 page_title: "Age Discrimination in Employment Act (ADEA): Protected Workers, Employer Threshold, But-For Causation, and Severance Waiver Rules"
 date: "2015-02-15"
 categories: ["Industry"]

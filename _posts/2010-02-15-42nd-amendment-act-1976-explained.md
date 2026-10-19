@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
 excerpt: "The 42nd Amendment Act is widely treated as cancelled. Most of it still operates. What was struck down, what was repealed, and what survived, Preamble included."
 image: "/assets/images/blog/blog-63.webp"
-reading_time: 70
+reading_time: 71
 author: "anita-das"
 last_updated: 2026-08-05
 lang: en
@@ -349,6 +349,10 @@ It did not change the fundamental rights chapter itself in the sense of removing
 And it did not entrench itself against ordinary amendment. The provisions extending terms, expanding Article 31C, and creating the ouster clauses were themselves amendable by the ordinary procedure, which is how the 43rd and 44th Amendments were able to reverse much of the package with nothing more than the required majorities.
 
 None of this is a defence of the amendment. It is a specification of what the strong criticism actually concerns, and the specification matters, because an argument that overstates what happened is easy to dismiss and dismissing it becomes a way of avoiding the parts that are accurate.
+
+### What did the 42nd Amendment not attempt to change?
+
+It did not abolish elections or remove the right to move the Supreme Court for enforcement of fundamental rights. It did not reorganise the states or delete guarantees from the rights chapter, and it left itself open to ordinary amendment by the required majorities in Parliament.
 
 ## The counterfactual: an India where the amendment had survived intact
 

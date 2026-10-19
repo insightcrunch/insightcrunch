@@ -86,7 +86,7 @@ Employment among single mothers rose sharply during the 1990s, and argument in t
 
 The labor market condition was exceptional. The Bureau of Labor Statistics, in State and Regional Unemployment, 2000 Annual Averages, published in 2001, reported that the national unemployment rate averaged 4.2 percent in 1999 and 4.0 percent in 2000. The Bureau of Labor Statistics, in "The Employment Situation: April 2000," published in 2000, reported a seasonally adjusted rate of 3.9 percent in April 2000, the first rate below 4.0 percent since January 1970. The tax condition changed on a parallel track. The Congressional Research Service, in The Earned Income Tax Credit (EITC): A Brief Legislative History, report R44825, published in 2017, recorded a maximum credit for a family with two children of 1,384 dollars in 1992, against 1,324 dollars for a family with one child. The Congressional Research Service, in report R44825, published in 2017, recorded that the expansion enacted in the Omnibus Budget Reconciliation Act of 1993 raised the maximum for a family with two children to 2,528 dollars by 1994, with the schedule reaching the enacted level by 1996. The legislative path of that credit is traced in [the account of the earned income tax credit law](/2013/07/01/earned-income-tax-credit-law/).
 
-### Was it welfare reform or the economy?
+### What did the tight labor market supply that neither the statute nor the tax credit could?
 
 Employment rose under all three forces at once. The 1996 statute, state waivers, and time limits pushed toward work, the 1993 earned income tax credit expansion paid for work, and the tight late 1990s labor market supplied jobs, so no single cause accounts for the full increase in the evidence reviewed through 2019.
 
@@ -136,7 +136,7 @@ Deep poverty had a precise definition, distinct from both poverty and the extrem
 
 The increase appeared with particular clarity among the families most directly subject to the 1996 law. A Center on Budget and Policy Priorities analysis of the same 1995 to 2005 comparison reported that deep poverty rose from 5.4 percent to 7.4 percent among children in single mother families, corresponding to 300,000 additional children in deep poverty in 2005. Trisi and Sherman, in a separate 2016 analysis titled Incomes Fell for Poorest Children of Single Mothers in Welfare Law First Decade, found that average family income for the poorest tenth of children in single mother families fell by nearly 2,400 dollars, or 18 percent, between 1995 and 2005, while income rose for every other group of children of single mothers in the same analysis. Trisi and Sherman attributed the decline for the poorest tenth to a fall of about 2,800 dollars in cash assistance through Temporary Assistance for Needy Families. Related measures pointed in the same direction. Pamela Loprest and Austin Nichols of the Urban Institute defined disconnected single mothers as low income single mothers with no earnings, no cash benefit from Temporary Assistance for Needy Families or Supplemental Security Income, and no enrollment in school, and estimated, in the summary given in later literature, that one in eight low income single mothers met that definition in 1996, while one in five met that definition during the years from 2004 to 2008.
 
-### Did welfare reform increase deep poverty?
+### How did Edin and Shaefer build the two-dollars-a-day estimate?
 
 On cash income measures from household surveys, deep poverty among families with children rose after 1996, and the sharpest increases appeared among single mother families. On consumption measures and on income measures corrected with administrative records, the same increase became smaller, disappeared, or reversed. Researchers disputed the measure, not only the trend.
 
@@ -180,7 +180,7 @@ The caseload reduction credit supplied the fourth mechanism, operating on state 
 
 These mechanisms altered the default rather than mandating restriction, and several states widened entry at particular points, as the recession evidence below shows. Under AFDC the default fiscal response to a larger eligible caseload was larger federal spending, against the background of an individual entitlement that eligible families could enforce. Under TANF the default response was no change in federal spending, expansion required money from inside a fixed envelope or added state money, and no individual entitlement to cash assistance existed. The financing rule helps explain why the ratio could keep falling when poverty was falling. Between 2010 and 2015, on the Center series, families with children in poverty declined from 7,263,610 to 6,477,753, while families receiving assistance declined faster, from 1,984,080 to 1,510,211.
 
-### Did welfare reform work during the recession?
+### Why did TANF caseloads surge in some states and fall in others during the same recession?
 
 Between December 2007 and December 2009, TANF caseloads rose 13 percent in the Center on Budget and Policy Priorities state collected series, while SNAP caseloads rose 45 percent and the number of unemployed persons doubled, so cash assistance responded weakly compared with food assistance and with need.
 
@@ -270,7 +270,7 @@ Disconnected status gave the post 2000 record a population that neither the empl
 
 Evidence on children arrived through studies of programs that predated or paralleled the 1996 law more often than through a direct national evaluation of the law, and MDRC synthesis work made that limitation explicit. Pamela Morris, Aletha Huston, Greg Duncan, Danielle Crosby, and Johannes Bos, in a 2001 MDRC synthesis of random assignment programs, found that programs raising both parental employment and family income through earnings supplements improved school achievement among elementary school age children, in the measures reported. The same synthesis found that programs mandating employment activities, raising employment without raising income, produced few effects on elementary school age children. Lisa Gennetian and coauthors, in an MDRC synthesis of eight studies of sixteen programs for adolescents aged 12 years to 18 years at survey, found that parents in the programs reported worse school performance, a higher rate of grade repetition, and greater use of special educational services for adolescents than control group parents reported, with no overall difference in dropout, suspension, completion, or childbearing. No MDRC synthesis cited in this section claimed a direct estimate of the effect of the 1996 statute alone on a national cohort followed into adulthood by 2019.
 
-### Do researchers agree about welfare reform results?
+### How much of the single mothers' employment rise did studies credit to the reform itself?
 
 Researchers agreed on several recorded movements and disagreed on causes and measurement. Caseload decline and coverage decline rested on administrative counts. Employment rise rested on survey records. Attribution among reform, expansion, and earnings supplements stayed contested, and deep poverty estimates depended on income reporting and benefit counting choices in surveys.
 

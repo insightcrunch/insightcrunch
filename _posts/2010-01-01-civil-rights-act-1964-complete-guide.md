@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Civil Rights Act of 1964: Complete Guide"
+title: "The Civil Rights Act of 1964: Complete Guide to Its Titles"
 page_title: "Civil Rights Act of 1964 Explained: All Eleven Titles, Coverage, Exemptions, Enforcement Levers and Constitutional Authority in One Complete Guide"
 date: 2010-01-01
 categories: ["Industry"]

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Federal Education Law in the Courts"
+title: "Federal Education Law in the Courts: Landmark Holdings"
 page_title: "Federal Education Law in the Courts: Supreme Court Holdings on School Finance, Title IX, Special Education, and Religious School Aid"
 date: "2014-12-01"
 categories: ["Industry"]

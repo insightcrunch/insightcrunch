@@ -28,7 +28,7 @@ The phrasing of the promise matters as much as its content. The goal is describe
 
 The emergency had specific, measurable dimensions that the statute's drafters recited. Wartime rent controls, imposed to protect defense workers, had discouraged maintenance and new construction for the better part of a decade. Building materials had been rationed for military use, and the construction labor force had been depleted by the draft. When the controls and rationing ended, the accumulated deficit confronted a surge of household formation: marriages postponed by the war, veterans claiming their place in civilian life, and a baby boom already underway. The result was a sellers' market of historic intensity, in which landlords could command high rents for deteriorating units and families accepted overcrowding as the price of shelter. The 1949 Congress legislated against this backdrop of visible, undeniable shortage, which is why the act's ambitions seemed proportionate to its authors even as they look staggering in retrospect.
 
-### What did Section 2 of the Housing Act of 1949 actually promise?
+### Why did Congress keep the Section 2 promise in the statute instead of repealing it?
 
 Section 2 promised the realization as soon as feasible of a decent home and a suitable living environment for every American family, language Congress placed at the head of the statute and never withdrew. The promise was national in scope, moral in tone, and unenforceable in court, so it functioned as a standard of judgment rather than a legal command.
 
@@ -62,7 +62,7 @@ The financial heart of the 1949 statute was the write-down. Land in a deteriorat
 
 Section 103(a) provided that the aggregate of federal capital grants for a local public agency's projects could not exceed two-thirds of the aggregate net project costs. Net project cost meant the total cost of acquiring and clearing the land minus the proceeds from selling or leasing it for redevelopment. If a city spent $3 million buying and demolishing a district and resold the cleared parcels for $1 million, the net cost was $2 million and the federal grant covered up to two-thirds of it. The grants were made, in the statute's words, to enable local agencies to make land in project areas available for redevelopment at its fair value for the uses specified in the redevelopment plans. The formula turned federally subsidized land assembly into the engine of the program.
 
-### How did the two-thirds write-down function in practice?
+### Why did Washington raise its write-down share to three-quarters for smaller communities?
 
 A local public agency designated a project area, acquired the parcels through purchase or eminent domain, demolished the structures, and resold the cleared land to developers at its fair reuse value. The federal government paid up to two-thirds of the difference between acquisition and clearance costs and resale proceeds, absorbing the loss that made private assembly uneconomical.
 
@@ -229,7 +229,7 @@ The first account comes from Martin Anderson's December 4, 1969 memorandum to Pr
 
 The second account comes from a peer-reviewed RSF Journal article drawing on HUD's 1972 figures. It reports that urban renewal displaced around 334,000 families and 169,000 single-person households, or approximately 1.36 million individuals, between 1950 and mid-1971. About 60 percent of those displaced were nonwhite, and roughly the same share were tenants. The RSF figures cover a defined period and a defined universe, which makes them the more careful of the two measures, and their racial composition aligns with Anderson's rougher estimate that over half the displaced were Black.
 
-### Did urban renewal target Black neighborhoods?
+### What did the Yale study find about race and clearance decisions?
 
 The record shows a racial disparity produced through local project selection: about 60 percent of the displaced were nonwhite (HUD 1972 figures via the RSF Journal), and a Yale study found high-Black-share neighborhoods more than twice as likely to be cleared, conditional on blight. Washington did not order the pattern; local agencies selecting inexpensive, powerless areas produced it.
 
@@ -371,7 +371,7 @@ The Housing and Community Development Act of 1974, Public Law 93-383, signed by 
 
 The shift reflected a quarter century of accumulated disillusionment. Anderson's memorandum had urged repeal in 1969; congressional hearings had aired the displacement record through the early 1970s; the Nixon administration had imposed a moratorium on new project approvals while it designed the replacement. By 1974, the coalition that sustained categorical renewal had dissolved. Liberals who once championed federal urban aid had been alienated by the displacement record; conservatives who distrusted federal planning had never supported the program's premises. The block grant offered both camps something: local control for the decentralizers, continued federal money for the cities.
 
-### What replaced urban renewal in 1974?
+### Who gained decision-making power when block grants replaced project approvals?
 
 The Housing and Community Development Act of 1974 terminated urban renewal and consolidated it with seven other categorical programs into Community Development Block Grants. The block grant replaced project-by-project federal approvals with formula allocations, shifting power from Washington project reviewers to local elected officials.
 

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Federal vs State Labor Protections: Floors, Ceilings, and Gaps"
+title: "Federal vs State Labor Protections: Floors and Ceilings"
 page_title: "Federal vs State Labor Protections: Floors, Ceilings, and Gaps in American Employment Law Compared"
 date: "2015-05-01"
 categories: ["Industry"]

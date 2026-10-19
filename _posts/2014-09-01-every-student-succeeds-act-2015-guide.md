@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Every Student Succeeds Act Explained"
+title: "Every Student Succeeds Act: Testing and Accountability"
 page_title: "Every Student Succeeds Act Explained: Testing, Accountability, and the Statutory Limits on the Secretary of Education"
 date: "2014-09-01"
 categories: ["Industry"]

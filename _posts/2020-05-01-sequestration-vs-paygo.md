@@ -32,7 +32,7 @@ Confusion persists in part because fame attaches unevenly to the parts of the en
 
 Commentary compounds the confusion by treating the sanction as if the sanction were the standard. A debate framed as a choice between sequestration and pay-as-you-go in fact compares a punishment with one of several rules that the punishment has served. The comparison also distorts evaluation of severity. A harsh remedy attached to a narrow rule may bind lightly in practice, because the rule reaches few decisions or because the accounts available for cancellation bear little relation to the decisions that created a breach. A milder remedy attached to a well aligned rule may bind firmly, because the actors who make a decision also control the accounts that bear the consequence. Judging the remedy alone, without identifying the rule and without tracing the accounts exposed to the remedy, produces a verdict about a label rather than about an enforcement design.
 
-### Is sequestration a rule or a remedy?
+### What three findings identify a sequestration episode?
 
 Sequestration is a remedy, not a rule. A rule states what enacted law must achieve, while sequestration is the automatic cancellation of budgetary resources ordered after a rule has been breached. The cancellation enforces the rule without changing the rule itself or rewriting the underlying legislation that produced a deficit effect.
 

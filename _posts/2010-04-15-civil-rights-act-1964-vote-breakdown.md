@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who Voted for the Civil Rights Act of 1964"
+title: "Who Voted for the Civil Rights Act of 1964, Party by Party"
 page_title: "Civil Rights Act of 1964 Vote Breakdown: All Four Roll Calls by Party and by Region, the Named Opponents, and What the Numbers Do and Do Not Show"
 date: 2010-04-15
 categories: ["Industry"]
@@ -307,6 +307,10 @@ Across both titles, the substitute added language limiting the reach of the proh
 The trade is visible in the arithmetic. Twenty-seven Republican senators voted for cloture. Supporters had estimated they needed about twenty-five. The substitute converted a coalition that was short of the threshold into one that exceeded it by four, and the price was an enforcement design that Congress spent the next twenty-seven years amending. That sequence, from procedural threshold to weakened enforcement to legislative correction, is set out in [the amendments that rebuilt the statute](/2010/04/01/civil-rights-act-1991-amendments/).
 
 Two observations follow for a reader interested in votes rather than in doctrine. The first is that a roll call showing a comfortable margin can conceal a bill that was substantially rewritten to obtain that margin, so margin is a poor measure of how contested a measure was. The second is that the members whose votes were purchased are identifiable, since they are the Republicans who voted for cloture after having stated objections to the original text, and the price they extracted is readable in the enrolled statute.
+
+### What did the Dirksen substitute change to win cloture votes?
+
+It gave state and local agencies a first chance to resolve complaints before federal action, narrowed the Attorney General power to sue to pattern or practice cases, and limited the employment commission to investigation and conciliation. It barred any reading that required preferential treatment to correct a workforce imbalance.
 
 ## The vote against the constituencies
 

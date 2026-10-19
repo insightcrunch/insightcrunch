@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "How Section 8 Vouchers Work in Law"
+title: "How Section 8 Vouchers Work in Law: Rules and Funding"
 page_title: "How Section 8 Vouchers Work in Law: Housing Choice Voucher Rules, Payment Standards, and the Appropriation That Controls Them"
 date: "2016-01-01"
 categories: ["Industry"]

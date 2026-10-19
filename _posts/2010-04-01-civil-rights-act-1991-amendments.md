@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Civil Rights Act of 1991 and After"
+title: "How the Civil Rights Act of 1991 Rewrote the 1964 Act"
 page_title: "Civil Rights Act of 1991 Amendments Explained: How the 1972, 1978, 1988, 1991 and 2009 Statutes Rewrote the Civil Rights Act of 1964 and What the Law Requires Now"
 date: 2010-04-01
 categories: ["Industry"]

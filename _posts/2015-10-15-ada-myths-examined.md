@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Americans with Disabilities Act", "Disability Rights", "Civil Rights", "Supreme Court", "Congress", "Legislative Process"]
 excerpt: "Americans with Disabilities Act myths graded true, partly true, or false against the statute, regulations, and litigation data, with the damages driver named."
 image: "/assets/images/blog/blog-101.webp"
-reading_time: 91
+reading_time: 92
 author: "hannah-moore"
 last_updated: 2026-10-09
 lang: en
@@ -46,7 +46,7 @@ The third concerns the difference between a claim about the law and a claim abou
 
 The claim, in its strongest form, runs like this. A person with a disability can walk into a business, find a barrier, file a lawsuit, and collect a large sum of money, and this happens routinely enough that it constitutes a business model. The federal statute is said to authorize the payout. Versions of this claim appear in news coverage of serial filings, in small business association materials, and in casual conversation, and the claim draws its force from something observable: lawsuits are in fact filed in large numbers against small businesses, and money does in fact change hands.
 
-### Can a customer sue a business for money under the Americans with Disabilities Act?
+### What relief does the federal public accommodations title give a private plaintiff?
 
 Partly true, and the true part is not where most tellings place it. Under the federal public accommodations title, a private plaintiff can obtain only injunctive relief and discretionary attorney fees, never damages. Money enters the picture through California statutes, which set minimum per violation damages and treat federal access violations as state violations automatically.
 
@@ -76,7 +76,7 @@ Verdict: partly true. False as to the federal statute, under which private publi
 
 The claim, in its strongest form, runs like this. The statute requires employers to hire people with disabilities even when those people cannot perform the job, which means qualifications no longer control hiring and employers must subordinate merit to mandate. The claim draws force from a genuine anxiety: hiring is the highest stakes decision most managers make, and any rule that appears to override qualifications threatens the core of managerial judgment. It also draws force from a real feature of the law, which is that the statute does regulate hiring decisions and does require employers to consider adjustments before rejecting a candidate.
 
-### Does the Americans with Disabilities Act require hiring unqualified workers?
+### Why is an unqualified applicant outside the ADA's protected class?
 
 No. The statute protects only a qualified individual, defined at 42 U.S.C. 12111(8) as someone who can perform the essential functions of the position with or without reasonable accommodation, and that qualification requirement is the structural answer to this claim.
 
@@ -110,7 +110,7 @@ Verdict: false. The qualified individual requirement of 42 U.S.C. 12111(8), the 
 
 The claim, in its strongest form, runs like this. Small businesses are exempt from the statute, so a neighborhood shop with a handful of employees has nothing to fear and nothing to do. The claim circulates among small business owners as reassurance and among critics of the law as an accusation of sorts, each side using the same supposed exemption for opposite purposes. Like the damages claim, it is true of one part of the statute and false of another, and the confusion is entirely a matter of titles.
 
-### Are small businesses exempt from the Americans with Disabilities Act?
+### Why is a small business outside the employment title yet fully covered by the public accommodations title?
 
 Partly true. The employment title applies only to employers with fifteen or more employees, so a very small employer sits outside Title I. The public accommodations title has no size threshold at all, so the same small business is fully covered as a place of public accommodation.
 
@@ -146,7 +146,7 @@ Verdict: partly true. True of the employment title above the fifteen employee th
 
 The claim, in its strongest form, runs like this. Buildings constructed before the statute took effect are grandfathered, meaning their owners need do nothing and cannot be sued over features that predate the law. The claim has intuitive appeal because grandfathering is a familiar legislative technique: new codes routinely exempt existing structures from new requirements, applying the new rules only to new construction. The claim is also convenient, because it converts the age of a building into a complete defense. It is wrong, and the way in which it is wrong reveals the structure of the physical access duties.
 
-### Are old buildings grandfathered under the Americans with Disabilities Act?
+### Why does the barrier-removal duty have to be reevaluated as circumstances change?
 
 No. No provision of the statute exempts older facilities from its requirements. Existing facilities face a continuing duty to remove architectural barriers where removal is readily achievable, and the safe harbor that does exist is a narrower transition rule, not a grandfather clause.
 
@@ -178,7 +178,7 @@ Verdict: false. The continuing barrier removal duty of 42 U.S.C. 12182(b)(2)(A)(
 
 The claim, in its strongest form, runs like this. Any animal that provides emotional comfort qualifies as a service animal, so businesses must admit dogs, cats, rabbits, birds, and reptiles when the owner says the animal helps with anxiety or depression, and staff may not question the claim. The claim draws force from real experiences: people do derive genuine therapeutic benefit from animals, health professionals do write letters documenting that benefit, and housing providers and airlines have in fact operated under rules that recognize such animals. The error is not in believing that support animals matter. The error is in attributing every animal rule in American disability law to this one statute.
 
-### Are emotional support animals covered as service animals under the Americans with Disabilities Act?
+### Why doesn't emotional support count as work or a task under the service animal definition?
 
 No. The regulation defines a service animal as a dog individually trained to do work or perform tasks for a person with a disability, with a separate provision for miniature horses. Emotional support, comfort, and companionship, without trained task work, do not satisfy the definition; the broader housing and air travel rules belong to different statutes.
 
@@ -216,7 +216,7 @@ Verdict: false. The regulatory definition at 28 C.F.R. 36.104 limits service ani
 
 The claim, in its strongest form, runs like this. The statute provides disability benefits: monthly checks, income support, a safety net payment for people who cannot work. The claim appears in casual conversation, in misdirected applications to the wrong agency, and in the occasional news story that describes the law as part of the disability benefits system. It is one of the most common misunderstandings of the statute, and it persists because the phrase disability benefits is doing ambiguous work.
 
-### Does the Americans with Disabilities Act pay disability benefits?
+### Which federal programs pay the cash benefits the ADA is often confused with?
 
 No. The statute provides no cash benefits, no income support, and no monthly payments of any kind. It is a civil rights statute that prohibits discrimination and requires access. Cash disability benefits come from entirely separate programs administered by a different agency under different statutes.
 
@@ -250,7 +250,7 @@ Verdict: false. The statute authorizes no cash or income benefits; cash disabili
 
 The claim, in its strongest form, runs like this. Once a person with a disability requests an accommodation, the employer or business must grant it, exactly as requested, without pushback and without alternatives. The claim appears in employee trainings as an oversimplification, in break room advice as a certainty, and in management fears as a loss of control: whatever is asked for must be given. The claim takes a real duty, the duty of reasonable accommodation, and deletes the two words that limit it.
 
-### Must an employer grant every accommodation an employee requests?
+### When may an employer offer a different accommodation than the one the employee requested?
 
 No. The duty is to provide a reasonable accommodation absent undue hardship, under 42 U.S.C. 12111(9) and 12111(10), arrived at through the interactive process described in 29 C.F.R. 1630.2(o)(3). The employer may offer an effective alternative rather than granting the specific accommodation the employee requested.
 
@@ -286,7 +286,7 @@ Verdict: false. The accommodation duty is limited to reasonable accommodations a
 
 The claim, in its strongest form, runs like this. The statute produced a wave of abusive litigation: thousands of meritless lawsuits filed by a small number of repeat plaintiffs and firms, targeting small businesses over trivial or technical violations, extracting settlements through the cost of defense rather than the merit of the claims. This is the most emotionally charged of the eight claims, the one that generates the most news coverage and the most legislative proposals, and it is the one this article treats as contested rather than grading true or false, because the underlying facts support more than one reasonable reading.
 
-### Did the Americans with Disabilities Act cause a wave of abusive lawsuits?
+### Why doesn't the surge in Title III filings by itself prove the lawsuits are abusive?
 
 Contested. Federal Title III filings rose sharply in the measured period, and contemporaneous courts and commentators noted recurring plaintiffs and firms, but whether the pattern constitutes abuse or enforcement depends on how one weighs the violations found against the economics of the filings.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "What the Civil Rights Act Actually Changed"
+title: "How the Civil Rights Act of 1964 Changed American Life"
 page_title: "Civil Rights Act of 1964 Impact: What Measurably Changed in Public Accommodations, Schools and Employment, and Which Effects Economists Still Dispute"
 date: 2010-03-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Education Policy", "American History"]
 excerpt: "Civil Rights Act impact assessed by domain: change in public accommodations and southern schools, and employment effects disputed, with Title VI money at work."
 image: "/assets/images/blog/blog-59.webp"
-reading_time: 70
+reading_time: 71
 author: "simon-hartley"
 last_updated: 2026-08-05
 lang: en
@@ -443,6 +443,10 @@ The Civil Rights Restoration Act of 1987, enacted in 1988 over a veto, restored 
 The Civil Rights Act of 1991 added damages and jury trials to Title VII for intentional discrimination. That change addresses the incentive to bring and to defend claims rather than the substantive standard, and it reflects a judgment that the remedial structure was too weak to drive behavior. The full sequence of amendments, what each responded to, and what the operative law looks like afterward are the subject of [the amendments that rebuilt this statute](/2010/04/01/civil-rights-act-1991-amendments/).
 
 Read together, three decades of amendment activity concentrate almost entirely on enforcement machinery, coverage thresholds and remedies, and almost not at all on the substantive prohibitions. Whatever one concludes about the size of the act's effects, the legislative record shows successive Congresses locating the constraint in the same place this article locates it.
+
+### What did later Congresses change when they returned to the act?
+
+Congress in 1972 lowered the employer threshold, extended coverage to public employers and educational institutions, and gave the enforcement agency authority to sue. It later restored institution wide coverage for the funding condition and in 1991 added damages and jury trials, addressing machinery and remedies rather than the prohibitions.
 
 ## What the record supports
 

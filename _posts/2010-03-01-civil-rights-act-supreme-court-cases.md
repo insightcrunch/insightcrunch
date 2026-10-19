@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Cases That Shaped the Civil Rights Act"
+title: "The Supreme Court Cases That Shaped the Civil Rights Act"
 page_title: "Civil Rights Act Supreme Court Cases Explained: Heart of Atlanta, Griggs, Wards Cove, Ledbetter and Bostock, and Which Holdings Congress Later Overrode"
 date: 2010-03-01
 categories: ["Industry"]

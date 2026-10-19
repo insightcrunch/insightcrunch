@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Consumer Protection", "Federal Trade Commission", "Financial Regulation", "Supreme Court", "Study Guides"]
 excerpt: "Federal vs state consumer protection decides who a wronged consumer can sue, what damages are available, and why an arbitration clause can override the answers."
 image: "/assets/images/blog/blog-94.webp"
-reading_time: 101
+reading_time: 102
 author: "ian-fletcher"
 last_updated: 2026-10-17
 lang: en
@@ -159,7 +159,7 @@ The multistate action converted those individual offices into a national institu
 Mortgage servicing after the financial crisis of 2007 to 2009 supplied the clearest consumer protection example. On February 9, 2012, the federal government and the attorneys general of forty-nine states announced the National Mortgage Settlement with the five largest mortgage servicers, Bank of America, JPMorgan Chase, Wells Fargo, Citigroup, and Ally Financial. The settlement was valued at approximately twenty-five billion dollars, composed of about twenty billion dollars in financial relief for homeowners and five billion dollars in payments to state and federal governments, and Oklahoma reached a separate agreement. Consent judgments filed in the United States District Court for the District of Columbia imposed national servicing standards covering single points of contact, communication with borrowers, and standards for executing foreclosure documents, with compliance tested by an independent monitor. A later joint settlement followed the same pattern: on December 19, 2013, Ocwen Financial Corporation agreed with forty-nine states, the District of Columbia, and the Bureau to a settlement valued at 2.1 billion dollars, including two billion dollars in first lien principal reduction and 125 million dollars in cash payments to borrowers, to resolve allegations of servicing misconduct and unlawful foreclosures. On May 12, 2015, the attorneys general of all fifty states and the District of Columbia, together with the Bureau and the Federal Communications Commission, announced settlements with Sprint and Verizon Wireless totaling 158 million dollars, with Sprint paying 68 million dollars and Verizon paying 90 million dollars, to resolve allegations of mobile cramming, meaning the placement of unauthorized third party charges on consumer telephone bills.
 
 
-### Can state attorneys general enforce federal consumer protection law?
+### What notice must precede a state attorney general's Title X enforcement suit?
 
 Yes, within limits set by Congress. A state attorney general may bring a civil action to enforce Title X of the Dodd-Frank Act of 2010 and regulations issued under it, after giving notice to the Bureau. Against national banks, however, the action may enforce Bureau regulations only.
 
@@ -193,7 +193,7 @@ The employment parallel arrived in Epic Systems Corp. v. Lewis, decided on May 2
 
 The mechanism by which arbitration clauses decide outcomes operates through procedure rather than through any ruling on the merits. A typical consumer contract for a credit card, a bank account, a mobile telephone plan, or a consumer loan contains a predispute arbitration agreement: a clause, accepted before any dispute exists, under which the consumer agrees to resolve future disputes in arbitration and waives the right to participate in a class action in court or a class proceeding in arbitration. When a consumer nevertheless files a class action, the defendant moves to compel arbitration under Sections 3 and 4 of the Arbitration Act, and the court, applying Concepcion and Italian Colors, ordinarily stays or dismisses the court case and orders the named plaintiff to arbitrate on an individual basis. The class allegations do not transfer to the arbitral forum, because the waiver bars class arbitration as well as class litigation. Each consumer in the putative class is remitted to a separate, individual proceeding. At that point the substantive law, federal or state, remains formally intact: the prohibition on the defendant's conduct reads the same, and the statutory damages read the same. What changes is the arithmetic of enforcement. An individual arbitration requires a filing, a presentation of evidence, and, in cases that turn on expert proof or on records held by the defendant, an investment of time and money that bears no proportion to a claim worth thirty dollars, or three hundred dollars, or, in a great many consumer cases, less than one thousand dollars. Rational claimants abandon such claims, and rational lawyers decline to represent such claimants. The clause therefore decides the outcome in the only sense that matters: the federal or state rule is neither vindicated nor rejected, because the case in which the rule would have applied does not proceed.
 
-### Do arbitration clauses defeat consumer protection claims?
+### What did the CFPB arbitration study find about consumers who arbitrated alone?
 
 In many small value cases, the practical answer is yes. A clause with a class waiver leaves each consumer to arbitrate alone, and the cost of proving a claim often exceeds any individual recovery. Larger claims, public enforcement actions, and statutory exceptions remain outside that result in defined settings.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kesavananda and the Basic Structure Doctrine"
+title: "Kesavananda and the Basic Structure Doctrine Explained"
 page_title: "The Basic Structure Doctrine Explained: What Kesavananda Bharati Actually Decided, the Cases That Built the Test, and Why the List of Basic Features Was Never Closed"
 date: 2010-02-01
 categories: ["Industry"]
