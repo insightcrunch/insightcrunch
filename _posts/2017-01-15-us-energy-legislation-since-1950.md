@@ -292,7 +292,7 @@ The subsidy record is equally untidy. The Energy Tax Act of 1978 created both th
 
 Two counterexamples cut deeper because they challenge the track assignments themselves. The CAFE standards, the environmental track's signature efficiency instrument, were an energy-security response to the embargo, not an environmental measure; Congress wanted fewer oil imports, and cleaner air was a side effect the environmental coalition welcomed but did not drive. Assigning CAFE to the environmental track, as this guide's table does by classifying the 2007 act as technology subsidy, is defensible but not innocent: the standards' parentage is security, their upbringing environmental. And NEPA and the 1970 Clean Air Act amendments predate the supply crises entirely, which means the environmental track's founding statutes cannot be explained as responses to energy shortage. The track has independent causes, and any history that derives environmental law from energy crisis has the causation backwards for the two most important environmental statutes in the sequence.
 
-### Did price regulation and subsidy ever truly take turns?
+### Did price regulation and subsidy ever alternate in practice?
 
 No. The 1975 act extended price controls while creating efficiency standards, the 1978 tax title paired a gas-guzzler tax with energy credits, and fossil tax preferences never lapsed during decontrol. The phases overlapped for the entire seventy-year span of the sequence.
 

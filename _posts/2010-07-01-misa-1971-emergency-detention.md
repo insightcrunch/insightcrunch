@@ -272,7 +272,7 @@ MISA was repealed by the Janata government through the Maintenance of Internal S
 
 The Shah Commission of Inquiry, appointed by the Janata government in 1977 under Justice J. C. Shah, found from the Government's own records that the provisions of the Maintenance of Internal Security Act and the Defence of India Rules were not followed in operation but were abused in order to damage political opponents. It recorded that decisions to arrest and to release particular persons were taken entirely on political considerations intended to favour the ruling party, and it documented detention orders made in batches, on transmitted lists, with formulaic grounds, in some instances backdated. It also found that the Emergency itself had been decided by the Prime Minister alone, without Cabinet consultation and without a law and order crisis to justify it.
 
-### Q: Is there any law like MISA in force today?
+### Q: Is there any law like MISA still in force?
 
 No statute in force reproduces MISA in its Emergency form, because the defining feature of that form was the combination of features no successor combines. Preventive detention statutes exist, the National Security Act, 1980 chief among them, together with state public safety and goonda Acts and the economic detention statute COFEPOSA. Those laws retain the Article 22 architecture of communicated grounds, representation and Advisory Board review, under which orders are regularly challenged and quashed in the High Courts. None has been amended to disapply its own safeguards for a declared class of detenu, none stands in the Ninth Schedule, and Articles 20 and 21 can no longer be suspended in an emergency. The resemblance is in the foundation, not in the closure.
 
