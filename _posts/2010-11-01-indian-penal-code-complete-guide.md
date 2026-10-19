@@ -310,7 +310,7 @@ The Code arranged 511 sections in twenty-three chapters. It opened with prelimin
 
 Chapter IV of the Code, Sections 76 to 106, stated the defences once and made them available against every offence in the statute. An accused could answer a charge by showing the act was done under a mistake of fact, by accident, from necessity, in infancy or insanity, under compulsion, with consent, or in private defence of body or property. The exceptions did not need the prosecution to disprove them in advance: the accused established the exception on a preponderance of probabilities, and the court then read the charge subject to it, so a killing in genuine private defence was no offence at all.
 
-### Q: Is the Indian Penal Code still applicable to any case today?
+### Q: Is the Indian Penal Code still applicable to any case?
 
 Yes, to every case whose facts predate the changeover. The Bharatiya Nyaya Sanhita repealed the Penal Code from 1 July 2024, but Article 20(1) of the Constitution bars conviction for an act that was not an offence when committed and bars any heavier penalty than the one then in force, and the Sanhita's repeal and savings provision preserves proceedings and liabilities under the old Code. An offence committed before that date is therefore investigated, charged, tried and sentenced under the Indian Penal Code, and courts will apply it alongside its successor for years while the older cases work through.
 

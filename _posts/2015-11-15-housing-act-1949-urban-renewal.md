@@ -42,7 +42,7 @@ The statute's structure also embedded a consequential silence. Title I required 
 
 ## The Coalition That Built the Two Titles
 
-The Housing Act of 1949 did not emerge from consensus; it emerged from a bargain between camps that distrusted each other and a fight against opponents who wanted neither title. Understanding the bargain explains why the statute took the shape it did, with a clearance program and a construction program yoked together but never truly integrated.
+The Housing Act of 1949 did not emerge from consensus; it emerged from a bargain between camps that distrusted each other and a fight against opponents who wanted neither title. Understanding the bargain explains why the statute took the shape it did, with a clearance program and a construction program yoked together but never combined into one program.
 
 The bill's lineage ran back to the Taft-Ellender-Wagner housing bill, introduced in 1945 and debated through the late 1940s. That earlier bill had combined slum clearance aid with a large public housing authorization, and it had drawn the battle lines that the 1949 act inherited. On one side stood public housing advocates, labor organizations, and urban mayors who argued that only publicly owned rental housing could serve families the private market ignored. On the other stood the real estate industry, organized through the National Association of Real Estate Boards, which denounced public housing as a step toward socialized housing and lobbied relentlessly against it. Between them stood a newer constituency: downtown business interests and city planners who wanted federal help clearing deteriorated districts near the central business core but had little interest in building low-rent housing.
 
