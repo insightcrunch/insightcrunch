@@ -366,7 +366,7 @@ Against the Social Security Amendments of 1965 establishing Medicare, the struct
 
 Against the Fair Housing Act of 1968, the pattern is closer to 1964 but with a weaker coalition, a narrower margin and a cloture fight that came far nearer to failing. Comparing the two shows what happens when the same coalition is asked to legislate on a subject where the costs fall on constituents outside the South as well as inside it, and the answer is visible in the vote totals.
 
-The general observation is that a roll call is a measure of a bill as much as of a chamber. Where the burden of a statute falls on an identifiable region, the vote will be regional. Where it falls on an economic sector or on a general theory of government, the vote will be partisan or ideological. Reading a vote pattern backward to a claim about the parties requires knowing which kind of bill produced it, and the 1964 act produced the first kind.
+The general observation is that a roll call is a measure of a bill as much as it is of a chamber. Where the burden of a statute falls on an identifiable region, the vote will be regional. Where it falls on an economic sector or on a general theory of government, the vote will be partisan or ideological. Reading a vote pattern backward to a claim about the parties requires knowing which kind of bill produced it, and the 1964 act produced the first kind.
 
 ## This vote in the context of the 88th Congress
 

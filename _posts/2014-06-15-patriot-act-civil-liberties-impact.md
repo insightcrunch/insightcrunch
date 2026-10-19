@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "PATRIOT Act", "civil liberties", "surveillance law", "FISA", "oversight", "intelligence"]
 excerpt: "The PATRIOT Act's tools were judged by official watchdogs. This article gathers inspector general and oversight board findings on effectiveness and compliance."
 image: "/assets/images/blog/blog-105.webp"
-reading_time: 85
+reading_time: 86
 author: "maria-santos"
 last_updated: 2026-10-05
 lang: en
@@ -292,7 +292,7 @@ The 3 to 2 vote on the oversight board's legal conclusion about the section 215 
 
 An oversight finding reported without its dissent is a stronger claim than the finding actually is. A reader told that the board found the program lacked legal foundation will reasonably understand that as the board's institutional view. A reader told that a divided majority found so, over the dissent of two members, understands the finding's exact weight: significant, but contested within the reviewing body itself. The difference between those two understandings is the difference between being informed and being managed. This article's neutrality rules require the fuller version, because selective presentation of official findings is a form of advocacy even when the findings are real.
 
-The dissent also clarifies the relationship between the board's two conclusions about the telephone records program. The effectiveness finding, that the program made no concrete difference in any counterterrorism investigation, and the recommendation to end the program, carried the board's institutional weight. The legal conclusion carried a divided vote. A careful reader can therefore distinguish the parts of the report that commanded consensus from the parts that did not, and can give each part its due. The effectiveness finding is the load-bearing element of the board's case against the program, and it does not depend on the contested legal analysis. Even a reader who sides with the dissenters on the legal question must reckon with the effectiveness finding, which is where the report's force truly lies.
+The dissent also clarifies the relationship between the board's two conclusions about the telephone records program. The effectiveness finding, that the program made no concrete difference in any counterterrorism investigation, and the recommendation to end the program, carried the board's institutional weight. The legal conclusion carried a divided vote. A careful reader can therefore distinguish the parts of the report that commanded consensus from the parts that did not, and can give each part its due. The effectiveness finding is the load-bearing element of the board's case against the program, and it does not depend on the contested legal analysis. Even a reader who sides with the dissenters on the legal question must reckon with the effectiveness finding, which is where the report's force lies, in a finding that commanded consensus while the legal conclusion did not.
 
 The contrast with the July 2014 section 702 report sharpens the point. There, the value finding was unanimous, 5 to 0, with no dissent to report. The same members who divided over the telephone program's legal foundation agreed completely on the targeted program's value. That pattern, division on one legal question and unanimity on a different program's value, is itself evidence of the board's analytic seriousness. A body voting its sympathies would not split this way. A body following the evidence would, because the evidence pointed in different directions for different programs.
 
