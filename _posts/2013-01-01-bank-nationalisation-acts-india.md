@@ -285,7 +285,7 @@ Parliament re-enacted the acquisition in corrected form. The Supreme Court decla
 
 Six banks, under the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980, which took effect from 15 April 1980: the Andhra Bank, the Corporation Bank, the New Bank of India, the Oriental Bank of Commerce, the Punjab and Sind Bank, and the Vijaya Bank. Each was an Indian banking company whose demand and time liabilities, measured as on 14 March 1980, were not less than Rs 200 crore. The 1980 round followed the 1970 Act's template, with corresponding new banks, a First Schedule of names, and compensation fixed as amounts in a Second Schedule, and it was not disturbed by litigation, since the constitutional ground on which the 1969 Act had fallen had been removed by amendment in 1972.
 
-### Q: How many nationalised banks remain today?
+### Q: How many nationalised banks remain?
 
 Stated durably, India has twelve public sector banks, a position produced by the amalgamations completed on 1 April 2020 and unchanged unless a further amalgamation or a privatisation alters it. The twelve include the State Bank of India and eleven banks descending from the acquisition Acts. Of the fourteen banks of 1969, ten survive in their own names; the Allahabad Bank, the Syndicate Bank, the United Bank of India, the Oriental Bank of Commerce, and the Dena Bank were amalgamated into other public sector banks. Of the six banks of 1980, only the Punjab and Sind Bank survives unamalgamated in name; the New Bank of India was merged into the Punjab National Bank in 1993, and the Andhra Bank, the Corporation Bank, and the Vijaya Bank were absorbed in the amalgamations of 2019 and 2020.
 
