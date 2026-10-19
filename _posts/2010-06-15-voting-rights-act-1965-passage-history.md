@@ -5,7 +5,7 @@ page_title: "Voting Rights Act of 1965 Passage: The Full Legislative History, Fr
 date: "2010-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights", "Civil Rights", "Senate Procedure", "Legislative History", "Lyndon Johnson"]
-excerpt: "Selma to signature in five months: the Voting Rights Act of 1965 passage through filibuster, Rules blockade, and compromise, from S. 1564 to Public Law 89-110."
+excerpt: "Selma to signature in five months: the Voting Rights Act passage through filibuster, Rules blockade, and compromise, from S. 1564 to Public Law 89-110."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
 author: "michael-brooks"

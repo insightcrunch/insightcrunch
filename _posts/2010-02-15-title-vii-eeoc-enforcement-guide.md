@@ -5,7 +5,7 @@ page_title: "Title VII and the EEOC in Practice: The Charge Process, Filing Dead
 date: 2010-02-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Labor Law", "Civil Rights", "Congress", "American History"]
-excerpt: "Title VII and the EEOC in practice: the charge process stage by stage, the deadlines that end claims, and why the agency could not sue anyone until 1972."
+excerpt: "Title VII and the EEOC in practice: the charge process stage by stage, the deadlines that end claims, and why the agency could not sue anyone or order relief."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 68
 author: "jessica-kim"

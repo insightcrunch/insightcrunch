@@ -5,7 +5,7 @@ page_title: "Civil Rights Act of 1964 Vote Breakdown: All Four Roll Calls by Par
 date: 2010-04-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Civil Rights", "Legislative Process", "American History"]
-excerpt: "Civil Rights Act of 1964 vote breakdown: all four roll calls by party and by region, the named opponents, and what the tallies do and do not establish."
+excerpt: "Civil Rights Act vote breakdown: four roll calls by party and by region, the named opponents, the cloture count, and what the tallies do and do not establish."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "daniel-morgan"

@@ -4,8 +4,8 @@ title: "The Criminal Law Amendment Act 2013 and What It Changed"
 page_title: "Criminal Law Amendment Act 2013 Explained: How the Verma Committee Report Became an Ordinance and Then an Act, the New Offences, the Redefined Section 375, the Enhanced Punishments, and the Recommendations Parliament Refused"
 date: 2011-02-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Criminal Law Amendment Act 2013", "Criminal Law", "Parliament", "Judiciary", "Civil Liberties", "UPSC"]
-excerpt: "Criminal Law Amendment Act 2013 rewrote the law on sexual offences: what the Verma Committee proposed, what the ordinance altered, and what Parliament enacted."
+tags: ["Indian Legislation", "Criminal Law Amendment Act", "Criminal Law", "Parliament", "Judiciary", "Civil Liberties", "UPSC"]
+excerpt: "Criminal Law Amendment Act rewrote the law on sexual offences: what the Verma Committee proposed, what the ordinance altered, and what Parliament enacted."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 82
 author: "anita-das"

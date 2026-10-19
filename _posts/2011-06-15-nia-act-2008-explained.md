@@ -4,8 +4,8 @@ title: "NIA Act 2008 Explained: The Agency That Needs No Consent"
 page_title: "National Investigation Agency Act 2008 Explained: How the NIA Takes Over Scheduled Offences Without State Consent, the Special Courts and Two-Judge Bench Appeals, the 2019 Amendment and the Chhattisgarh Federalism Challenge"
 date: 2011-06-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "National Investigation Agency", "NIA Act 2008", "Federalism", "CBI", "Special Courts"]
-excerpt: "NIA Act 2008 explained: how the National Investigation Agency investigates scheduled offences without state consent, and why that divides Union and states."
+tags: ["Indian Legislation", "National Investigation Agency", "NIA Act", "Federalism", "CBI", "Special Courts"]
+excerpt: "NIA Act explained: how the National Investigation Agency investigates scheduled offences without state consent, and why that divides Union and states."
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 74
 author: "patrick-dunn"

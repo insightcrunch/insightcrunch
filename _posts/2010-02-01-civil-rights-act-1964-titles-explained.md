@@ -5,7 +5,7 @@ page_title: "The Civil Rights Act of 1964 Title by Title: Covered Entities, Prot
 date: 2010-02-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Labor Law", "American History"]
-excerpt: "The Civil Rights Act of 1964 title by title: the covered entities, thresholds, express exemptions and defenses that decide any real coverage question."
+excerpt: "The Civil Rights Act title by title: the covered entities, thresholds, express exemptions and defenses that decide coverage questions in employment and beyond."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 68
 author: "michael-brooks"

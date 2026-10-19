@@ -5,7 +5,7 @@ page_title: "Civil Rights Act vs Voting Rights Act: How the 1964 Statute's Remed
 date: "2010-05-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Voting Rights Act", "Supreme Court", "Congress", "Legislative Process"]
-excerpt: "Civil Rights Act vs Voting Rights Act: the 1964 act remedied discrimination after the fact, while the 1965 act stopped voting changes before they took effect."
+excerpt: "Civil Rights Act vs Voting Rights Act: the earlier act remedied discrimination after the fact, while the later act stopped voting changes before taking effect."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "hannah-moore"

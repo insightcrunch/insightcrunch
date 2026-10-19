@@ -5,7 +5,7 @@ page_title: "TADA Act 1987 Explained: Section 15 Police Confessions, Designated 
 date: 2011-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "TADA", "Anti-Terror Laws", "Criminal Law", "Civil Liberties", "Parliament", "Judiciary"]
-excerpt: "TADA Act 1987 explained: how a two-year anti-terror statute was renewed for a decade, what its confession rule changed, and why Parliament let it lapse."
+excerpt: "TADA Act explained: how a two-year anti-terror statute was renewed for a decade, what its Section 15 confession rule changed, and why Parliament let it lapse."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 83
 author: "daniel-morgan"

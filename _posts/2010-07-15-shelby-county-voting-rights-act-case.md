@@ -5,7 +5,7 @@ page_title: "Shelby County Voting Rights Act Challenge: The Pending Lawsuit Agai
 date: "2010-07-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Voting Rights Act", "Shelby County", "Section 5 Preclearance", "Fifteenth Amendment", "Constitutional Law"]
-excerpt: "Shelby County sued in April 2010 to void the Voting Rights Act coverage formula and preclearance. Both sides of the pending challenge, and what is at stake."
+excerpt: "Shelby County sued in April to void the Voting Rights Act coverage formula and preclearance. Both sides of the pending challenge, and what is at stake."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 77
 author: "maria-santos"

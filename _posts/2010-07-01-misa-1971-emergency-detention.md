@@ -5,7 +5,7 @@ page_title: "MISA 1971 and the Emergency Detentions: How the Maintenance of Inte
 date: 2010-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "MISA", "Civil Liberties", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
-excerpt: "MISA 1971 explained: how Section 16A, the Ninth Schedule and a suspended habeas corpus remedy turned a detention law into the Emergency's central instrument."
+excerpt: "MISA explained: how Section 16A, the Ninth Schedule and a suspended habeas corpus remedy turned a detention law into the Emergency's central instrument."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 81
 author: "deepika-joshi"

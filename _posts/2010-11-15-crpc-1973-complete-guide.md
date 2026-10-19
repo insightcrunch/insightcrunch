@@ -5,7 +5,7 @@ page_title: "Code of Criminal Procedure 1973 Complete Guide: FIR and Section 154
 date: 2010-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Code of Criminal Procedure", "Criminal Law", "Judiciary", "Parliament", "UPSC"]
-excerpt: "Code of Criminal Procedure 1973 explained end to end: FIR, arrest and Section 41A, remand and default bail, charge sheet, cognizance, bail and quashing."
+excerpt: "Code of Criminal Procedure explained end to end: FIR, arrest and Section 41A, remand and default bail, charge sheet, cognizance, bail, quashing and appeal."
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 95
 author: "kavita-sharma"

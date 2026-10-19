@@ -5,7 +5,7 @@ page_title: "National Security Act 1980 Explained: Section 3 Grounds and Detaini
 date: 2010-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Security Act", "Civil Liberties", "Constitutional Law", "Judiciary", "UPSC"]
-excerpt: "National Security Act 1980 explained in full: Section 3 grounds, the detention clock, Advisory Board review, the A K Roy judgment and the twelve month cap."
+excerpt: "National Security Act explained in full: Section 3 grounds, the detention clock, Advisory Board review, the A K Roy judgment and the twelve month cap."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 152
 author: "anita-das"

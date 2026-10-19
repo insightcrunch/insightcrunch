@@ -5,7 +5,7 @@ page_title: "Preventive Detention Act 1950 Explained: How Sardar Patel Piloted I
 date: 2010-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Preventive Detention Act", "Civil Liberties", "Constitutional Law", "Parliament", "Judiciary"]
-excerpt: "The Preventive Detention Act 1950 was passed weeks after the Constitution began, defended as a temporary necessity, and then extended for two decades."
+excerpt: "The Preventive Detention Act was passed weeks after the Constitution began, defended as a temporary necessity, and then extended for two decades, without trial."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 81
 author: "hannah-moore"

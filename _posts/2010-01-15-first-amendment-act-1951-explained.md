@@ -5,7 +5,7 @@ page_title: "The First Amendment Act 1951 Explained: The Judgments That Triggere
 date: 2010-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
-excerpt: "The First Amendment Act 1951 answered three lost cases at once. The passage record, the select committee dissents and what changed before it became law."
+excerpt: "The First Amendment Act answered three lost cases at once. The passage record, the select committee dissents and what changed in speech and property law."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 71
 author: "deepika-joshi"

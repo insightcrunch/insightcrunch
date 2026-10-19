@@ -5,7 +5,7 @@ page_title: "The 42nd Amendment Act 1976 Explained: What It Changed, What the Co
 date: 2010-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Parliament", "Federalism", "UPSC"]
-excerpt: "The 42nd Amendment Act 1976 is widely treated as cancelled. Most of it still operates. What was struck down, what was repealed, and what quietly survived."
+excerpt: "The 42nd Amendment Act is widely treated as cancelled. Most of it still operates. What was struck down, what was repealed, and what survived, Preamble included."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
 author: "anita-das"

@@ -5,7 +5,7 @@ page_title: "How the Civil Rights Act of 1964 Passed Congress: The Discharge Pet
 date: 2010-01-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Legislative Process", "Civil Rights", "American History"]
-excerpt: "How the Civil Rights Act of 1964 passed Congress: the six procedural gates H.R. 7152 cleared and the enforcement power it traded away for cloture votes."
+excerpt: "How the Civil Rights Act passed Congress: the six procedural gates H.R. 7152 cleared and the enforcement power it traded away to win Senate cloture votes."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 71
 author: "michael-brooks"

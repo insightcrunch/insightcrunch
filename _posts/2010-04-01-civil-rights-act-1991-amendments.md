@@ -5,7 +5,7 @@ page_title: "Civil Rights Act of 1991 Amendments Explained: How the 1972, 1978, 
 date: 2010-04-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "Labor Law"]
-excerpt: "Civil Rights Act of 1991 amendments explained, with the 1972, 1978, 1988 and 2009 statutes that rewrote the 1964 act and what the law actually requires now."
+excerpt: "Civil Rights Act amendments explained, with the later statutes that rewrote the original act on damages, jury trials, pregnancy coverage and pay claims."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 68
 author: "patrick-dunn"

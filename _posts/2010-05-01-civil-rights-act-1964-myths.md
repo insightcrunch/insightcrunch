@@ -5,7 +5,7 @@ page_title: "Civil Rights Act of 1964 Myths Debunked: Affirmative Action, Quotas
 date: "2010-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Congress", "Supreme Court", "Legislative Process", "American History"]
-excerpt: "Do the Civil Rights Act of 1964 myths hold up? We test the filibuster, quota, wrecking-amendment, and court-gutting claims against the text, votes, and dates."
+excerpt: "Do the Civil Rights Act myths hold up? We test the filibuster, quota, wrecking-amendment, and court-gutting claims against the text, votes, and dates."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 89
 author: "samantha-lee"

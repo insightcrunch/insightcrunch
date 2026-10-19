@@ -4,8 +4,8 @@ title: "POTA 2002 Explained: Joint Sitting, Misuse and Repeal"
 page_title: "Prevention of Terrorism Act 2002 (POTA) Explained: The Third Joint Sitting of Parliament, the Misuse Controversy, the PUCL Judgment, the 2004 Repeal and the Transplant of Its Provisions into the UAPA"
 date: 2011-05-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "POTA", "Prevention of Terrorism Act 2002", "Anti-Terror Laws", "Joint Sitting", "UAPA", "Constitutional Law"]
-excerpt: "POTA 2002 explained: how a rare joint sitting passed India's anti-terror law, why misuse claims ended it, and why the repeal changed so little in substance."
+tags: ["Indian Legislation", "POTA", "Prevention of Terrorism Act", "Anti-Terror Laws", "Joint Sitting", "UAPA", "Constitutional Law"]
+excerpt: "POTA explained: how a rare joint sitting passed India's anti-terror law, why misuse claims ended it, and why the repeal changed so little in substance."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 85
 author: "hannah-moore"

@@ -5,7 +5,7 @@ page_title: "Navtej Singh Johar Judgment Explained: What Section 377 Decided, Wh
 date: 2011-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Section 377", "Indian Penal Code", "Civil Liberties", "Judiciary", "Constitutional Law"]
-excerpt: "The Navtej Singh Johar judgment read Section 377 down in 2018, preserving offences against non-consenting adults that Parliament later dropped from the code."
+excerpt: "The Navtej Singh Johar judgment read Section 377 down, preserving offences against non-consenting adults that Parliament later dropped from the new code."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 86
 author: "william-knight"

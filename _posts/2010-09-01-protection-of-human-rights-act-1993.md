@@ -5,7 +5,7 @@ page_title: "Protection of Human Rights Act 1993 Explained: How to File an NHRC 
 date: 2010-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Protection of Human Rights Act", "NHRC", "Civil Liberties", "Judiciary", "UPSC"]
-excerpt: "The Protection of Human Rights Act 1993 gives a complainant a full route map: where to file, the one year limit, and what a recommendation can deliver."
+excerpt: "The Protection of Human Rights Act gives a complainant a full route map: where to file, the one year limit, and what a recommendation can and cannot deliver."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 96
 author: "deepika-joshi"

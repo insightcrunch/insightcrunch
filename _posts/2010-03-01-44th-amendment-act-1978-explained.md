@@ -5,7 +5,7 @@ page_title: "The 44th Amendment Act 1978 Explained: What It Restored, How the Ra
 date: 2010-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Amendments", "Constitutional Law", "Emergency Provisions", "Fundamental Rights", "UPSC"]
-excerpt: "The 44th Amendment Act 1978 rolled back the Emergency. One safeguard it enacted was never notified and does not operate at all. Here is the full record."
+excerpt: "The 44th Amendment Act rolled back the Emergency and removed property from fundamental rights. One safeguard it enacted was never notified and does not operate."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "kavita-sharma"

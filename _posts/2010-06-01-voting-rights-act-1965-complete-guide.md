@@ -5,7 +5,7 @@ page_title: "Voting Rights Act of 1965: The Complete Guide to the Burden-Shift D
 date: "2010-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights", "Voting Rights", "Fifteenth Amendment", "Supreme Court", "Congress"]
-excerpt: "The Voting Rights Act of 1965 replaced slow lawsuits with a burden-shift: covered jurisdictions had to prove voting changes clean before they took effect."
+excerpt: "The Voting Rights Act replaced slow lawsuits with a burden-shift: covered jurisdictions had to prove voting changes clean in advance under preclearance."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 78
 author: "samantha-lee"

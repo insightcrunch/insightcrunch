@@ -5,7 +5,7 @@ page_title: "Indian Evidence Act 1872 Explained: The Complete Guide to Relevancy
 date: 2010-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Indian Evidence Act", "Criminal Law", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Indian Evidence Act 1872 explained: how relevancy, admissibility, confessions, dying declarations, presumptions and the certificate rule filter proof."
+excerpt: "The Indian Evidence Act explained: how relevancy, admissibility, confessions, dying declarations, presumptions and the certificate rule filter proof at trial."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 90
 author: "deepika-joshi"

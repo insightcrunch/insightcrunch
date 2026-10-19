@@ -5,7 +5,7 @@ page_title: "Bharatiya Nagarik Suraksha Sanhita 2023 Explained: Zero FIR, e-FIR,
 date: 2011-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Nagarik Suraksha Sanhita", "Criminal Law", "Judiciary", "Parliament", "Law Students"]
-excerpt: "The Bharatiya Nagarik Suraksha Sanhita 2023 replaced the CrPC. Its timelines, zero FIR and custody rules are tested here for the consequences they carry."
+excerpt: "The Bharatiya Nagarik Suraksha Sanhita replaced the CrPC. Its timelines, zero FIR, custody and forensic rules are tested here for the consequences they carry."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 83
 author: "kevin-reeves"

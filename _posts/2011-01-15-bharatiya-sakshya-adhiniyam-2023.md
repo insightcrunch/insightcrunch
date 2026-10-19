@@ -5,7 +5,7 @@ page_title: "Bharatiya Sakshya Adhiniyam 2023 Explained: How the New Evidence La
 date: 2011-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Sakshya Adhiniyam", "Indian Evidence Act", "Criminal Law", "Judiciary", "Law Students", "UPSC"]
-excerpt: "The Bharatiya Sakshya Adhiniyam 2023 replaced the Indian Evidence Act: the certificate survived, the numbering changed, and most doctrine crossed over."
+excerpt: "The Bharatiya Sakshya Adhiniyam replaced the Indian Evidence Act: the certificate survived, the numbering changed, and most doctrine on proof crossed over."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 82
 author: "anita-das"

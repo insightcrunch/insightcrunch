@@ -5,7 +5,7 @@ page_title: "Civil Rights Act of 1964 Impact: What Measurably Changed in Public 
 date: 2010-03-15
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Education Policy", "American History"]
-excerpt: "Civil Rights Act of 1964 impact assessed by domain: fast change in public accommodations and southern schools, and employment effects economists dispute."
+excerpt: "Civil Rights Act impact assessed by domain: change in public accommodations and southern schools, and employment effects disputed, with Title VI money at work."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "simon-hartley"

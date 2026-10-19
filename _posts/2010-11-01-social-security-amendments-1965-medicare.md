@@ -5,7 +5,7 @@ page_title: "Medicare Explained: How the Social Security Amendments of 1965 Buil
 date: "2010-11-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Medicare", "Social Security Act", "Medicaid", "Health Policy", "Title XVIII"]
-excerpt: "Medicare is Title XVIII of the Social Security Amendments of 1965: payroll-tax hospital insurance and voluntary medical insurance, with Medicaid as Title XIX."
+excerpt: "Medicare is Title XVIII of the Social Security Amendments: payroll-tax hospital insurance and voluntary medical insurance, with Medicaid as Title XIX."
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 90
 author: "daniel-morgan"

@@ -5,7 +5,7 @@ page_title: "UAPA 1967 Complete Guide: The Unlawful Activities (Prevention) Act 
 date: 2011-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "Anti-Terror Law", "Civil Liberties", "Criminal Law", "Judiciary"]
-excerpt: "UAPA 1967 complete guide to both halves of the Act: Tribunal-confirmed association bans, terrorist offences, the four Schedules and individual designation."
+excerpt: "UAPA complete guide to both halves of the Act: Tribunal-confirmed association bans, terrorist offences, the four Schedules and individual designation."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 101
 author: "jessica-kim"

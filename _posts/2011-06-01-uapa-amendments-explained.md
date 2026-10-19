@@ -5,7 +5,7 @@ page_title: "UAPA Amendments Explained: What the 2004, 2008, 2012 and 2019 Amend
 date: 2011-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "UAPA", "Anti-Terror Law", "Criminal Law", "Parliament", "Judiciary"]
-excerpt: "UAPA amendments explained in sequence: what each amendment added to the 1967 Act, which safeguard arrived alongside it, and the power Parliament refused."
+excerpt: "UAPA amendments explained in sequence: what each amendment added to the Act, which safeguard arrived alongside it, and the one power Parliament refused."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 84
 author: "ryan-walsh"

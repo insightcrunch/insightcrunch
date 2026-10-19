@@ -5,7 +5,7 @@ page_title: "Civil Rights Act of 1964 Explained: All Eleven Titles, Coverage, Ex
 date: 2010-01-01
 categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "American History"]
-excerpt: "The Civil Rights Act of 1964 explained title by title: what each provision requires, who it covers, who it exempts, and how the whole statute is enforced."
+excerpt: "The Civil Rights Act explained title by title: what it requires, who it covers, who it exempts, and how enforcement works, from lawsuits to funding cutoffs."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 79
 author: "natalie-webb"

@@ -5,7 +5,7 @@ page_title: "Bharatiya Nyaya Sanhita 2023 Explained: How the New Penal Code Repl
 date: 2010-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Bharatiya Nyaya Sanhita", "Indian Penal Code", "Criminal Law", "Parliament", "Judiciary", "UPSC"]
-excerpt: "The Bharatiya Nyaya Sanhita 2023 replaced the Indian Penal Code: what it kept, what it dropped, what it added, and how pending IPC cases cross over in law."
+excerpt: "The Bharatiya Nyaya Sanhita replaced the Indian Penal Code: what it kept, what it dropped, what it added, and how pending IPC cases cross over in law."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 83
 author: "kavita-sharma"
