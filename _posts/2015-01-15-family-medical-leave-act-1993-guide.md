@@ -3,7 +3,7 @@ layout: "post"
 title: "Family and Medical Leave Act: The Unpaid Job Guarantee"
 page_title: "Family and Medical Leave Act Statute Profile: Eligibility Screens, the Unpaid Guarantee, the Two Vetoes, and the Court Decisions Explained"
 date: "2015-01-15"
-categories: ["Labor Law"]
+categories: ["Industry"]
 tags: ["US Legislation", "Family and Medical Leave Act", "Labor Law", "Employment Leave", "Supreme Court"]
 excerpt: "The Family and Medical Leave Act secures a job rather than an income. This profile explains the eligibility screens, the unpaid guarantee, and the two vetoes."
 image: "/assets/images/blog/blog-109.webp"

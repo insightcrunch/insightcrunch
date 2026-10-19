@@ -4,7 +4,7 @@ title: "Elementary and Secondary Education Act: A Full Guide"
 page_title: "Elementary and Secondary Education Act: The Three Deadlocks, the Devices That Broke Them, and the Conditional Spending Frame"
 date: "2014-08-01"
 categories: ["Industry"]
-tags: ["US Legislation", "Federal Aid", "Statute History"]
+tags: ["US Legislation", "Federal Aid", "Statute History", "Title I", "Education Policy"]
 excerpt: "The Elementary and Secondary Education Act ended a twenty-year deadlock and passed in under three months: the three obstacles and the device that broke each."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 87

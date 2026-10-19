@@ -1,15 +1,17 @@
 ---
+layout: "post"
 title: "OSHA Standards and Enforcement: From Hazard to Citation"
-excerpt: "OSHA standards and enforcement: how hazards become binding rules, how inspections become citations, and what courts require before the agency can regulate."
+page_title: "OSHA Standards and Enforcement Explained: How Hazards Become Binding Workplace Rules, How Inspections Become Citations, and the Significant Risk Showing Courts Demand"
 date: "2015-03-15"
-last_updated: 2026-10-09
-author: "daniel-morgan"
-category: "Industry"
+categories: ["Industry"]
 tags: ["US Legislation", "Occupational Safety and Health Act", "OSHA", "Supreme Court", "Administrative Law", "Labor Law"]
-keywords: "OSHA standards, OSHA enforcement, workplace safety rules, emergency temporary standard, OSHA citations, significant risk test"
-slug: "osha-standards-and-enforcement"
+excerpt: "OSHA standards and enforcement: how hazards become binding rules, how inspections become citations, and what courts require before the agency can regulate."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 85
+author: "daniel-morgan"
+last_updated: 2026-10-09
+keywords: "OSHA standards, OSHA enforcement, workplace safety rules, emergency temporary standard, OSHA citations, significant risk test"
+slug: "osha-standards-and-enforcement"
 lang: en
 ---
 ## How a Workplace Hazard Becomes a Citation a Company Must Answer

@@ -3,8 +3,8 @@ layout: "post"
 title: "Federal vs State Labor Protections: Floors, Ceilings, and Gaps"
 page_title: "Federal vs State Labor Protections: Floors, Ceilings, and Gaps in American Employment Law Compared"
 date: "2015-05-01"
-categories: "Law"
-tags: "US Legislation, Labor Law, Employment Law, Federalism, Preemption, Fair Labor Standards Act, ERISA, OSHA, NLRA, Title VII, FMLA"
+categories: ["Industry"]
+tags: ["US Legislation", "Labor Law", "Employment Law", "Federalism", "Preemption", "Fair Labor Standards Act", "ERISA"]
 excerpt: "Federal labor law sets wage and safety floors that states may exceed, blocks state benefit mandates, and stays silent on breaks and paid leave, so rights vary."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 96

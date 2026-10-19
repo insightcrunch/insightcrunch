@@ -3,8 +3,8 @@ layout: "post"
 title: "US Energy Legislation: Two Tracks That Rarely Joined Forces"
 page_title: "US Energy Legislation: The Two-Track History from the Atomic Energy Act to Climate Subsidies"
 date: "2017-01-15"
-categories: "[\"Industry\"]"
-tags: "[\"US Legislation\", \"Energy Policy\", \"Nuclear Power\", \"Oil and Gas\", \"Fuel Economy\", \"Climate Policy\"]"
+categories: ["Industry"]
+tags: ["US Legislation", "Energy Policy", "Nuclear Power", "Oil and Gas", "Fuel Economy", "Climate Policy"]
 excerpt: "US energy legislation has two tracks: security-driven production and deregulation versus environment-driven efficiency and subsidy, traced across seven decades."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 104

@@ -3,7 +3,7 @@ layout: "post"
 title: "NCLB vs ESSA Compared: Which Accountability Model Works"
 page_title: "NCLB vs ESSA: Which Accountability Model Surfaces Inequity and Designs Better Responses"
 date: "2014-11-15"
-categories: ["Law"]
+categories: ["Industry"]
 tags: ["US Legislation", "Education Policy", "Federal Education Law", "NCLB", "ESSA", "Policy Comparison", "Civic Study"]
 excerpt: "Same tests, opposite consequences: how No Child Left Behind and ESSA differ, which rules survived the rewrite, and what the research says about each model."
 image: "/assets/images/blog/blog-103.webp"

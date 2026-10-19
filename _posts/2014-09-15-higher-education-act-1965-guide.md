@@ -1,15 +1,17 @@
 ---
+layout: "post"
 title: "Higher Education Act: The Architecture of American Student Aid"
-excerpt: "The Higher Education Act built American college finance: grants, loans, accreditation rules, forgiveness programs and reauthorization gridlock explained."
+page_title: "Higher Education Act Explained: Pell Grants, Title IV Student Loans, Accreditation Gatekeeping, Forgiveness Programs, and the Federal Student Aid Architecture"
 date: "2014-09-15"
-last_updated: 2026-10-05
-author: "maria-santos"
-category: "US Legislation"
+categories: ["Industry"]
 tags: ["US Legislation", "Higher Education", "Student Loans", "Education Policy", "Federal Funding", "College Access", "Accreditation"]
-keywords: "Higher Education Act, Pell Grant, student loans, accreditation, Title IV, federal student aid"
-slug: "higher-education-act-1965-guide"
+excerpt: "The Higher Education Act built American college finance: grants, loans, accreditation rules, forgiveness programs and reauthorization gridlock explained."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 103
+author: "maria-santos"
+last_updated: 2026-10-05
+keywords: "Higher Education Act, Pell Grant, student loans, accreditation, Title IV, federal student aid"
+slug: "higher-education-act-1965-guide"
 lang: en
 ---
 ## The Statute Behind the Financial Aid Office

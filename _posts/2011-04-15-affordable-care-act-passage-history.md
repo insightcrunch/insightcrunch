@@ -3,13 +3,13 @@ layout: "post"
 title: "How the Affordable Care Act Passed: The Two-Bill Maneuver"
 page_title: "How the Affordable Care Act Passed Congress: The Senate Shell Bill, the Lost Sixtieth Vote, and the Two-Bill Maneuver That Carried Health Reform Into Law"
 date: "2011-04-15"
-categories: "US Legislation"
+categories: ["Industry"]
+tags: ["US Legislation", "Affordable Care Act", "Legislative History", "Senate Procedure", "Reconciliation", "Health Care Reform"]
 excerpt: "How did the Affordable Care Act pass? A history of the shell bill, the lost sixtieth vote, and the two-bill maneuver that carried the Senate draft into law."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 85
 author: "simon-hartley"
 last_updated: 2026-10-01
-tags: ["US Legislation", "Affordable Care Act", "Legislative History", "Senate Procedure", "Reconciliation", "Health Care Reform"]
 lang: en
 ---
 ![The Affordable Care Act passage history](/assets/images/blog/blog-70.webp)

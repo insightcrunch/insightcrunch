@@ -3,8 +3,8 @@ layout: "post"
 title: "US Housing Legislation: Complete Era Guide to Federal Law"
 page_title: "US Housing Legislation: An Era Guide to Federal Housing Statutes"
 date: "2016-03-15"
-categories: "[\"Industry\"]"
-tags: "[\"US Legislation\", \"Housing Policy\", \"HUD\", \"LIHTC\", \"Section 8\", \"Tax Policy\", \"Federal Housing Law\"]"
+categories: ["Industry"]
+tags: ["US Legislation", "Housing Policy", "HUD", "LIHTC", "Section 8", "Tax Policy", "Federal Housing Law"]
 excerpt: "US housing legislation promised every family a decent home, then migrated into the tax code. This era guide orders the major statutes and explains the shift."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 91

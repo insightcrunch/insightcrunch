@@ -1,16 +1,17 @@
 ---
+layout: "post"
 title: "ADA Title by Title: What Each of the Five Titles Requires"
 page_title: "ADA Title by Title: The Five Titles of the Americans with Disabilities Act Explained, Duties, Defenses, and Remedies"
 date: "2015-07-15"
-last_updated: 2026-10-09
-excerpt: "The Americans with Disabilities Act is five statutes in one; this title-by-title guide states each title's trigger, duty, defense, enforcing agency, and remedy."
 categories: ["Industry"]
 tags: ["US Legislation", "ADA", "disability law", "Title I", "Title II", "Title III", "statutory interpretation"]
+excerpt: "The Americans with Disabilities Act is five statutes in one; this title-by-title guide states each title's trigger, duty, defense, enforcing agency, and remedy."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 96
+author: "kevin-reeves"
+last_updated: 2026-10-09
 slug: "ada-titles-explained"
 permalink: "https://insightcrunch.com/2015/07/15/ada-titles-explained/"
-author: "kevin-reeves"
 lang: en
 ---
 ## The single name that hides five statutes

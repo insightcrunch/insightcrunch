@@ -3,8 +3,8 @@ layout: "post"
 title: "What the Affordable Care Act Did to Health Coverage"
 page_title: "What the Affordable Care Act Did to Health Coverage: Uninsured Rates, Medicaid Expansion Evidence, Medical Debt, Mortality Findings, and Premium Trends"
 date: "2011-06-15"
-categories: "[\"Industry\"]"
-tags: "[\"US Legislation\", \"Affordable Care Act\", \"Health Coverage\", \"Medicaid Expansion\", \"Health Policy\", \"Impact and Outcomes\"]"
+categories: ["Industry"]
+tags: ["US Legislation", "Affordable Care Act", "Health Coverage", "Medicaid Expansion", "Health Policy", "Impact and Outcomes"]
 excerpt: "The Affordable Care Act cut the uninsured rate mainly through Medicaid expansion, reduced medical debt, and saw premiums stabilize after early turbulence."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 86

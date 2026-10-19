@@ -3,8 +3,8 @@ layout: "post"
 title: "How FERC Implements Energy Statutes: Rulemaking Guide"
 page_title: "FERC Implementation and Rulemaking: The Jurisdictional Line, Market Orders, Pipeline Certificates, and Reliability Standards"
 date: "2016-12-15"
-categories: "Industry"
-tags: "US Legislation"
+categories: ["Industry"]
+tags: ["US Legislation", "Federal Energy Regulatory Commission", "Energy Regulation", "Rulemaking", "Administrative Law", "Energy Policy"]
 excerpt: "FERC governs wholesale electricity and gas through commission orders, pipeline certificates, and reliability standards built on the Power Act rate standard."
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 95

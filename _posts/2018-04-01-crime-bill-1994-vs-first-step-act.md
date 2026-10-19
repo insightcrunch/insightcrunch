@@ -4,7 +4,7 @@ title: "Crime Bill vs First Step Act: Authority Versus Reach"
 page_title: "Crime Bill vs First Step Act: Federal Authority Against Reach"
 date: "2018-04-01"
 categories: ["Industry"]
-tags: ["US Legislation Comparison", "US Legislation Crime Policy", "US Legislation Federalism", "US Legislation Sentencing", "US Legislation Criminal Justice", "US Legislation Study Guide"]
+tags: ["US Legislation", "Crime Policy", "Federalism", "Sentencing", "Criminal Justice", "Study Guide"]
 excerpt: "The crime bill and the First Step Act are structural opposites: one spent billions in conditional grants on state systems, the other rewrote rules directly."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 78

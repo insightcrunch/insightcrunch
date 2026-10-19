@@ -3,11 +3,11 @@ layout: post
 title: "How Deportation Works: The US Removal System Explained"
 page_title: "How Deportation Works in the United States: Removal Proceedings, Expedited Removal, Detention, Defenses, Appeals, and the Plenary Power Doctrine Under Immigration Law"
 date: 2026-10-03
-categories: ["Analytics"]
-tags: ["Immigration Law", "Deportation Law", "Immigration and Nationality Act", "Asylum", "Supreme Court", "Constitutional Law", "US Legislation"]
+categories: ["Industry"]
+tags: ["US Legislation", "Immigration Law", "Deportation Law", "Immigration and Nationality Act", "Asylum", "Supreme Court", "Constitutional Law"]
 excerpt: "How deportation works in the United States: removal tracks, immigration court hearings, detention and bond, defenses, appeals, and execution of orders."
 image: "/assets/images/blog/blog-79.webp"
-reading_time: 78
+reading_time: 79
 author: "jessica-kim"
 last_updated: 2026-10-05
 lang: en
