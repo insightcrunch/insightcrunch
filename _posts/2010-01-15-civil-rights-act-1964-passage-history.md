@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the Civil Rights Act of 1964 Passed"
+title: "How the Civil Rights Act of 1964 Passed the Filibuster"
 page_title: "How the Civil Rights Act of 1964 Passed Congress: The Discharge Petition, the Judiciary Committee Bypass, the Filibuster and the Cloture Bargain That Broke It"
 date: 2010-01-15
 categories: ["Industry"]
@@ -76,7 +76,7 @@ What broke the blockade was the combination of the petition's approaching viabil
 
 This gate cost the bill nothing in substance, which distinguishes it from the others. Smith extracted no amendments in exchange for releasing the rule. What it cost was two months, and in a Congress with a fixed calendar and an election in November, two months is a real price.
 
-### How did the Civil Rights Act of 1964 get out of the House Rules Committee?
+### Why did Chairman Smith end his blockade of the bill in January 1964?
 
 Chairman Howard W. Smith refused to schedule the rule that would send the bill to the floor. Emanuel Celler filed a discharge petition on December 9, 1963, and as signatures approached the 218 needed to strip the committee of the bill, Smith scheduled hearings and reported the rule in January 1964 rather than lose control entirely.
 
@@ -130,7 +130,7 @@ Fourth, the Attorney General's litigating discretion was narrowed across several
 
 What the substitute did not do is equally important, because accounts of the negotiation sometimes imply the bill was hollowed out. Every title survived. Public accommodations coverage was not reduced to a token. The fund-termination lever in Title VI, which turned out to be the act's most efficient provision, came through intact. The word "sex" stayed in the employment title. The bill that emerged from Dirksen's office was weaker in enforcement and identical in scope, which is a meaningful distinction: Congress preserved the reach of the prohibitions and reduced the government's ability to enforce them directly.
 
-### What was the Dirksen substitute in the Civil Rights Act of 1964?
+### Which enforcement powers did the Dirksen substitute strip from the bill?
 
 It was the Mansfield-Dirksen amendment offered in the Senate in late May 1964, replacing the House-passed text. It preserved every title while reducing federal enforcement authority, most notably by denying the new employment commission any power to sue or issue orders, and by requiring deference to state enforcement agencies. Because the House later accepted the Senate text, this substitute is the enacted law.
 
@@ -261,7 +261,7 @@ The outside coalition supplied pressure and intelligence. The Leadership Confere
 
 Two Presidents occupied the position that sets the agenda and cannot compel a vote. Kennedy decided to send a broad bill and could not move it past the Rules Committee. Johnson made passage the central legislative commitment of his first months and could not have obtained cloture without Dirksen. Presidential commitment is a necessary condition for a bill of this size and it is not a mechanism.
 
-### Who was the Senate floor manager for the Civil Rights Act of 1964?
+### How did the floor managers keep enough supporters present through the long debate?
 
 Hubert H. Humphrey of Minnesota, then the Democratic whip, managed the bill on the Senate floor, with Thomas H. Kuchel of California serving as Republican co-manager. They assigned a Democratic and a Republican captain to each title of the bill and ran a bipartisan quorum-duty roster that kept supporters present throughout the debate.
 

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Fair Housing Act: Complete Statute Guide"
+title: "The Fair Housing Act of 1968: Complete Statute Guide"
 page_title: "The Fair Housing Act of 1968: Full Guide to Prohibitions, Protected Classes, Exemptions, and Enforcement"
 date: "2015-11-01"
 categories: ["Industry"]

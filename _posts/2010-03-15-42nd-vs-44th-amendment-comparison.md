@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "42nd vs 44th Amendment: What Was Restored"
+title: "42nd vs 44th Amendment: Restored, Struck, Still Standing"
 page_title: "42nd vs 44th Amendment Compared: What Was Restored, What the Supreme Court Struck Down, and What Still Stands"
 date: 2010-03-15
 categories: ["Industry"]
@@ -106,7 +106,7 @@ The second was the insertion of clauses (4) and (5) into Article 368. Clause (4)
 
 In Minerva Mills Ltd v Union of India, decided in 1980, the Supreme Court struck down both. The reasoning on Article 368 is the part that is quoted; the reasoning on Article 31C is the part that mattered more to litigants. The Court held that limited amending power is itself part of the basic structure, so a provision purporting to remove the limitation is a provision that destroys the thing it claims to enlarge, and that the balance between fundamental rights and directive principles cannot be dissolved in favour of one side by making the rights defeasible at legislative option. The doctrinal detail, the earlier decisions it rests on, and the later cases that qualify it belong to [the article on the basic structure doctrine](/2010/02/01/basic-structure-doctrine-explained/), which owns that ground in this series.
 
-### Was it Parliament or the courts that undid the Emergency amendments?
+### Why did the judicial part of the restoration come only in 1980, after the Janata government had left office?
 
 Both, on different items. Parliament reversed the emergency machinery and the tenure extension through the 43rd and 44th Amendments. The Supreme Court removed the widened Article 31C and the Article 368 ouster clauses in Minerva Mills in 1980, after the restoring government had lost office. Neither institution touched the transfer of subjects to the Concurrent List.
 
@@ -250,7 +250,7 @@ The case against return is that qualifications are portable and students are mob
 
 The factual position, which is what this article can settle, is narrower. Education is on the Concurrent List. It got there in 1976. Neither restoring amendment proposed moving it back. Repugnancy applies, so a central law prevails over an inconsistent state law on the same subject unless the state law has been reserved for and received presidential assent. Any change would require a constitutional amendment with the full Article 368 special majority, and there has never been a parliamentary majority for one. Whether the position ought to change is a question about the right distribution of authority in a federation, and it is treated at length in the article on education and the Concurrent List rather than here.
 
-### Do the tribunals created during the Emergency still exist?
+### Which part of the tribunal scheme did the Supreme Court strike down in 1997?
 
 Yes. Articles 323A and 323B remain in the Constitution and the tribunal system built under them has grown considerably. What did not survive was the attempt to exclude the High Courts from reviewing tribunal decisions, which the Supreme Court held in 1997 to be beyond the amending power.
 

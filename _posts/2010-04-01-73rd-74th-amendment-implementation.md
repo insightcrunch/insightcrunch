@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 73rd and 74th Amendments in Practice"
+title: "The 73rd and 74th Amendments: Local Elections, Local Power"
 page_title: "The 73rd and 74th Amendments in Practice: Why Local Elections Became Mandatory and Local Power Stayed Optional"
 date: 2010-04-01
 categories: ["Industry"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Civil Rights Act of 1964 Title by Title"
+title: "The Civil Rights Act of 1964 Title by Title Explained"
 page_title: "The Civil Rights Act of 1964 Title by Title: Covered Entities, Protected Classes, Thresholds, Exemptions, Defenses and Remedies in Titles I Through XI"
 date: 2010-02-01
 categories: ["Industry"]
@@ -40,7 +40,7 @@ Three definitions carry most of the weight.
 
 A fourth definitional point applies across the whole act and is easy to miss: the protected characteristics are not uniform. Title II reaches race, color, religion and national origin. Title VI reaches race, color and national origin. Title VII reaches race, color, religion, sex and national origin. Any sentence that begins "the Civil Rights Act of 1964 prohibits discrimination on the basis of" and then gives one list is inaccurate unless it names the title.
 
-### Which protected classes does each title of the act cover?
+### Why did later Congresses have to legislate separately for education and housing?
 
 They differ by title. Title II covers race, color, religion and national origin in public accommodations. Title VI covers race, color and national origin in federally assisted programs. Title VII covers race, color, religion, sex and national origin in employment. Sex appears only in the employment title, which is why later Congresses enacted separate statutes for education and housing.
 
@@ -154,7 +154,7 @@ The twenty-week duration element is a real limit that most descriptions omit. An
 
 The 1964 definition also excluded the United States, corporations wholly owned by the United States, Indian tribes, departments and agencies of the District of Columbia subject to civil service, and bona fide private membership clubs exempt from taxation. Federal employment was addressed by executive order until 1972 brought it within the title under a separate section with its own procedures.
 
-### How many employees must a company have for Title VII to apply?
+### How did Title VII's employee threshold change between 1964 and 1972?
 
 As enacted in 1964, coverage began at one hundred or more employees and phased down annually to twenty-five or more by the fourth year, with the prohibitions themselves taking effect on July 2, 1965. The familiar fifteen-employee threshold came from the Equal Employment Opportunity Act of 1972, which also extended the title to state and local governments and educational institutions.
 

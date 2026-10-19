@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Amendment Act 1951: Why It Came So Fast"
+title: "The First Amendment Act of 1951: Why It Came So Fast"
 page_title: "The First Amendment Act 1951 Explained: The Judgments That Triggered It, the Provisional Parliament Debate, the Ninth Schedule and What Changed Between Bill and Act"
 date: 2010-01-15
 categories: ["Industry"]

@@ -29,7 +29,7 @@ The operative text for Temporary Assistance for Needy Families sits at the openi
 
 The text arrived through [the 1996 welfare reform statute that created the block grant](/2019/08/01/welfare-reform-act-1996-guide/), the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, enacted on August 22, 1996 as Public Law 104-193. The opening title of that act struck the prior Part A and inserted a new Part A headed as block grants to states for temporary assistance for needy families. The Congressional Research Service, in a legislative history published in 2016, recorded that states were required to implement the new program by July 1, 1997, with an option to implement earlier upon submission of a state plan. Between August 1996 and July 1997, states drafted plans under a purposes clause that had replaced a more detailed federal framework. The 1996 act repealed that earlier architecture and substituted a grant whose federal definition consisted, in large part, of four purposes and a set of state obligations stated elsewhere in the part.
 
-### What are the four purposes of TANF?
+### Which of TANF's four purposes is tied to annual numerical goals?
 
 The statute lists four purposes in sequence: assistance for needy families so children can live at home or with relatives; an end to dependence of needy parents through job preparation, work, and marriage; prevention and reduction of out-of-wedlock pregnancies, with annual numerical goals; and encouragement of two-parent families.
 
@@ -140,7 +140,7 @@ The core and supplemental distinction divided the statutory list into two tiers.
 
 Limits qualified the bare list. The Congressional Research Service, in its 2006 guide to the new definitions of work participation, recorded that job search and job readiness assistance counted for a limited number of weeks in a fiscal year, that vocational educational training counted for 12 months in the lifetime of the recipient, and that a cap limited the share of a caseload that could count through vocational educational training and teen school attendance combined.
 
-### What is the caseload reduction credit in TANF?
+### How could a large caseload decline reduce a state's effective work standard to zero?
 
 The caseload reduction credit is the reduction in a state target rate under section 607 equal to the percentage decline in average monthly caseload between the base year and the comparison year, after excluding declines caused by federal or state eligibility changes.
 
@@ -176,7 +176,7 @@ The strictest federal rules in the Temporary Assistance for Needy Families progr
 
 Congress used the term assistance repeatedly in the 1996 Act, in sections 601 to 619 of title 42, United States Code, without supplying a full definition in the statutory text. The Department of Health and Human Services supplied the definition in the final regulation published on April 12, 1999, and codified at section 260.31 of title 45, Code of Federal Regulations. A regulatory definition recorded an administrative judgment about which benefits resembled the cash aid paid under the former Aid to Families with Dependent Children program closely enough to carry the new rules, and which differed enough in purpose, duration, or form to sit outside those rules. The Congressional Research Service, in its primer, described the same point: the term is used throughout the statute, the statute does not define the term, and the Department defined the term in regulation.
 
-### What is the difference between assistance and non-assistance in TANF?
+### Which rules attach to a benefit only if it counts as assistance?
 
 Assistance means benefits designed to meet ongoing basic needs, while non-assistance means excluded help such as short term crisis benefits, work supports for employed families, employer subsidies, refundable tax credits, and services without basic income support, under the regulation issued by the Department of Health and Human Services in 1999.
 
@@ -228,7 +228,7 @@ The two readings of the distinction, stated with attribution, reflect that repor
 
 The federal grant was only half of the financing bargain. The other half was a condition placed on state budgets, enforced through penalties, and visible only when federal and state dollars were counted together. A state could design benefit levels and service programs with wide discretion, but a state could not withdraw its own money and keep the federal grant intact. The maintenance of effort requirement fixed a floor under state spending, the penalty provisions at 42 U.S.C. 609 supplied the sanctions for missing the floor or the work participation rates, and the financial reports filed with the Administration for Children and Families recorded what the combined pool purchased.
 
-### What is maintenance of effort in TANF?
+### Why does the maintenance-of-effort floor not guarantee any level of cash benefits?
 
 Maintenance of effort is the minimum amount of state money a state must spend each year on qualified activities for needy families to receive a full federal TANF grant, set at 80 percent of state spending in fiscal 1994, or 75 percent when both work rates are met.
 
@@ -292,7 +292,7 @@ The third reading held that the five year limit ended all help to a family at si
 
 The first provision concerned the definition of assistance, a term defined in regulation at 45 C.F.R. 260.31 around payments directed at ongoing basic needs. Benefits classified as non assistance did not start the same clock. The clearest category, described in Congressional Research Service analysis of the program during the recession following the financial crisis of 2008, was the nonrecurrent short term benefit: aid designed to deal with a specific crisis situation or episode of need, not intended to meet recurrent or ongoing needs, and not extending beyond four months. A family that received only such a benefit was not, by that receipt alone, subject to the time limit, was not included in the work participation calculation, and was not placed under the child support assignment rules that attached to assistance. The second provision was the hardship exemption in section 408. Federal law permitted a state to continue federally funded assistance beyond sixty months on the basis of hardship, as defined by the state, or where a family included an individual who had been battered or subjected to extreme cruelty, for up to 20 percent of the average monthly number of families receiving assistance, an allowance implemented at 45 C.F.R. 264.1 against the caseload of the fiscal year or of the preceding fiscal year, at state election. The third provision concerned the source of funds. Federal law explicitly allowed a state to use state funds counted toward the maintenance of effort requirement to aid a family beyond the time limit, and the Congressional Research Service primer recorded practice built on that allowance, including assistance continued with state funds in New York and assistance continued on behalf of children alone after aid on behalf of adults ended in California. The sixty month figure was therefore a federal funding rule with a defined term, a statutory exemption for a fifth of the caseload, and a state funding route around it.
 
-### Has the TANF grant amount changed since enactment?
+### How far had the grant's real value fallen by fiscal 2018?
 
 The basic grant amount set in the 1996 law remained fixed in nominal terms through fiscal 2018, apart from a small reduction beginning in fiscal 2017 to finance research. Congressional Research Service tables updated on July 1, 2019, placed the fiscal 2018 grant 36.2 percent below fiscal 1997 in real terms.
 

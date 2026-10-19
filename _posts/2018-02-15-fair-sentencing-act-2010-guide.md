@@ -186,7 +186,7 @@ That episode captured the mechanism of delay that had operated since 1986. A man
 
 The mechanics played out in ordinary cases. A prosecutor's decision about what drug quantity to allege determined whether a five year or ten year floor applied, and once that floor applied, the judge's assessment of the defendant's role, history, or circumstances could not lower the sentence below it. The Commission had no seat at that table. Its guidelines could recommend a range, and after the Supreme Court's 2005 decision in United States v. Booker judges treated the guidelines as advisory rather than mandatory, but no advisory system could override a statutory minimum. The 1995 rejection had also fixed the politics. By publicly overruling its own expert agency, Congress signaled that the crack issue was radioactive, and legislators who might otherwise have followed the Commission's data faced the prospect of being cast as soft on the drug trade. Reform bills accumulated in every Congress from 1993 through 2009, and the pile grew without a single enactment. The Commission could advise, study, count, and warn, and it did all four. What it could not do was rewrite the statute that made its advice irrelevant at the moment of sentencing.
 
-### What do the Commission's own data show about who served crack sentences?
+### Why were crack offenders almost all citizens while powder offenders often were not?
 
 The Commission's data show that federal crack defendants were overwhelmingly Black in every year studied: 88.3 percent in fiscal year 1993, 91.4 percent in 1992, and 84.7 percent in 2000. Powder cocaine defendants looked markedly different, mostly white or Hispanic, and crack defendants served substantially longer average sentences, 115 months against 77 months for powder cocaine.
 
@@ -228,7 +228,7 @@ Crack alone had been carved out of that uniform treatment. The Anti-Drug Abuse A
 
 Section 3 of the Fair Sentencing Act removed that anomaly by striking the sentence in Section 844(a) that began "Notwithstanding the preceding sentence," the clause that had imposed the crack specific minimum. Once that sentence was gone, simple possession of crack reverted to the same baseline that governed every other drug: up to one year in prison for a first offense, with escalating penalties for repeat offenders. The repeal did not decriminalize crack possession, and it did not remove all consequences. It simply returned the offense to the ordinary misdemeanor framework, ending the situation in which a person holding a small amount of crack for personal use faced a mandatory five year federal prison term while a person holding any amount of powder cocaine for personal use faced at most one year.
 
-### Was the Fair Sentencing Act retroactive?
+### When did Congress finally extend relief to defendants sentenced under the old crack thresholds?
 
 No. The statute contained no retroactivity provision, so defendants already sentenced under the old thresholds received no relief from it. The act applied only to future offenses and to cases still pending when it took effect. Congress did not address already imposed crack sentences until the First Step Act of 2018.
 
@@ -238,7 +238,7 @@ The Supreme Court addressed the boundary of the new law in Dorsey v. United Stat
 
 Relief for the already sentenced did not arrive for another eight years. Section 404 of the First Step Act of 2018 made the Fair Sentencing Act's threshold changes retroactive, permitting defendants convicted and sentenced before August 3, 2010, to petition a court for resentencing as if the new thresholds had applied at the time. The Sentencing Commission later reported thousands of sentence reductions granted under that provision. That later development belongs to a different chapter of the story. Within the four corners of the 2010 act itself, there was no retroactivity, and that absence was not an oversight the drafters later regretted in print. It was part of the price of passage: a bill that reopened final sentences would have faced far stiffer resistance, and the coalition behind the Fair Sentencing Act chose a reform that looked forward only.
 
-### How did the Fair Sentencing Act pass Congress without a single recorded vote against it?
+### What did unanimous consent on a drug sentencing bill signal about how the politics had shifted?
 
 The Senate cleared S. 1789 by unanimous consent on March 17, 2010, meaning no senator objected, and the House passed it by voice vote on July 28, 2010, with no recorded tally. President Barack Obama signed it on August 3, 2010, as Public Law 111-220. Not one member went on record against it.
 

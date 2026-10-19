@@ -274,7 +274,7 @@ The gap is often misdescribed as a judgment about how dangerous Salmonella is. N
 
 The most consequential limit on the Food Safety and Inspection Service is a power the service never received. The Federal Meat Inspection Act, enacted on June 30, 1906, and substantially amended by the Wholesome Meat Act of 1967, authorized inspection before and after slaughter. The Poultry Products Inspection Act of August 28, 1957, and the Egg Products Inspection Act of December 29, 1970, extended a parallel structure to poultry and to liquid, frozen, and dried egg products. None of those statutes, in the form in force on February 1, 2021, authorized the Secretary of Agriculture to order an establishment to remove product from commerce. Because a direct order was unavailable, the service built a practice of requested recalls and a set of adjacent tools that acted on product inside a plant, product in commerce, imports at the border, and the inspection status on which an establishment depended for lawful operation. Together, those tools supplied substantial leverage, but none of them was a recall order, and the distance between leverage and authority became the central dispute in repeated congressional debate.
 
-### Can the Secretary order a meat plant to recall its product?
+### What does the inspection service do when a meat plant decides to recall its own product?
 
 No. Under the meat, poultry, and egg statutes in force on February 1, 2021, the Secretary of Agriculture had no power to order a recall. A recall remained the establishment's voluntary decision, often made after a request from the Food Safety and Inspection Service, which then classified, publicized, and verified the action.
 
@@ -322,7 +322,7 @@ The ordinary road for a binding FSIS regulation runs through the Administrative 
 
 A final rule published in the Federal Register responds to the significant comments received, explains departures from the proposal, and states an effective date and, where retooling a plant process requires time, compliance dates set out in the rule itself. That discipline does substantive work, because many FSIS rules turn on contested technical judgments: whether a pathogen should be treated as an adulterant, whether a sampling frequency verifies a process or merely measures incoming material, whether a sorting task can move from a federal inspector to a trained establishment employee without weakening the carcass by carcass determination the statutes require. A court reads the preamble against the comment record, and an agency that has ignored a substantial objection invites reversal or remand. The procedure also sets a slow tempo: a major rule must be drafted, cleared inside the department, reviewed outside it when significant, published for comment, reconsidered, cleared again, and published in final form. Each stage protects participation, reasoned decision, and fair notice, and each gives opponents a point at which to press an objection or prepare litigation. The status quo therefore holds the advantage of already being codified.
 
-### Who reviews USDA rules before they are issued?
+### What two layers of review must a major food safety rule clear before it issues?
 
 The Secretary of Agriculture issues Food Safety and Inspection Service rules after proposal and comment under the Administrative Procedure Act, with significant rules reviewed by the Office of Information and Regulatory Affairs and major rules also reviewed within the Department of Agriculture by the Office of the Chief Economist and its risk analysis office.
 

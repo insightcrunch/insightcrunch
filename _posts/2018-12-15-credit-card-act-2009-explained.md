@@ -52,7 +52,7 @@ A promotional rate is a temporary rate offered for a defined period and disclose
 
 A penalty fee is a fee imposed for a violation of the account terms, as distinct from a finance charge imposed as the price of borrowing or a fee charged for a service or a feature of the account. The examples in the statute are the late payment fee, the over limit fee, and the returned payment fee. Title I of the Act required penalty fees to be reasonable and proportional to the violation, a standard that took effect on August 22, 2010. Congress wrote the standard into the statute and left the dollar amounts to regulation. The Federal Reserve's rule in 2010 set safe harbor amounts of 25 dollars for a first violation and 35 dollars for a subsequent violation of the same type during the same billing cycle or one of the next six billing cycles, and barred a penalty fee exceeding the dollar amount of the violation. Those figures are regulatory safe harbors rather than statutory figures.
 
-### Does the CARD Act cap credit card interest rates?
+### What freedom to set interest rates did card issuers keep under the CARD Act?
 
 The CARD Act does not impose a cap or ceiling on credit card interest rates. Issuers retained the power to set rates and to reprice new charges after the required notice. The statute instead restricted repricing of balances already incurred and placed defined conditions on timing, notice, fees, and account changes.
 
@@ -144,7 +144,7 @@ The special statutory rule addressed that narrow situation. Where a deferred int
 
 The design of the exception reflects a judgment about which cost mattered most at a particular moment. For most of a promotional period, the highest stated rate identified the most expensive balance with reasonable accuracy. Near the end of a deferred interest period, the stated rate understated the true exposure, because the cost of leaving even a small part of that balance unpaid was not limited to interest on the small remainder. Directing the entire excess toward that balance during the final two cycles allowed a cardholder to eliminate the exposure before the deadline passed. The Bureau biennial reviews of the Act later flagged deferred interest promotions among the areas that continued to warrant attention, consistently with the care the original statute took to treat the category separately.
 
-### What is double cycle billing and why did the Act prohibit it?
+### How could double cycle billing charge interest on money the cardholder had already repaid?
 
 Double cycle billing was a method that computed interest by averaging balances across two billing cycles, so a portion of a balance repaid in an earlier cycle could generate a finance charge in a later cycle even after repayment had already reduced the amount actually owed.
 
@@ -158,7 +158,7 @@ A related protection addressed accounts that carried a grace period. A grace per
 
 The prohibition and the grace period protection belonged to the larger group of provisions that took effect on February 22, 2010, nine months after enactment, the date on which most provisions of the Act became operative. From that date, the calculation methods available to issuers for covered accounts excluded the two cycle approach, and statements issued after that date had to reflect charges computed without it.
 
-### When must a credit card statement arrive before the payment due date?
+### What discretion over payment timing did each of the four calendar rules take from issuers?
 
 A periodic statement must be mailed or delivered at least twenty one days before the payment due date, the due date must fall on the same day of the month in each month, and a payment received by five in the evening on that date counts as timely.
 
@@ -336,7 +336,7 @@ The American Bankers Association presented a different reading in a submission f
 
 The Bureau's biennial reports reached contrary findings on the aggregate measures the reports tracked. The 2013, 2015, and 2017 reports found the total cost of credit measurably lower after the Act, and found no clear evidence of reduced access at the aggregate level. The reports also flagged areas of continuing concern, including deferred interest promotions, signaling that a finding of lower aggregate cost did not amount to a finding that every practice in the market operated fairly. The two positions divided in part over measurement. The Agarwal, Chomsisengphet, Mahoney, and Stroebel estimate compared covered consumer cards with uncovered small business cards and measured costs on open accounts. The Bureau's reports measured total cost and access across the consumer market in aggregate. The American Bankers Association's submission directed attention to average rates and to subprime availability in particular, where an aggregate access figure could remain stable while availability for a narrower band tightened. The sources therefore did not meet on identical ground. The peer reviewed study established, within its design, lower borrowing costs and no offsetting interest increase or credit volume reduction in the panel. The Bureau's reports established, on their measures, lower total cost and no clear aggregate access reduction. The Association's submission established that the industry's principal trade body read the same period as one of higher average rates and narrower subprime availability, a reading the other two sources did not corroborate on their aggregate measures.
 
-### Did the CARD Act cap credit card interest rates?
+### What happens to an outstanding balance when a cardholder cancels to escape a rate increase?
 
 No. The Act imposed no ceiling on annual percentage rates and set no maximum rate an issuer could charge. Its rate provisions governed timing, notice, and the balances to which an increase could apply, requiring advance notice and barring most increases on existing balances except under stated exceptions.
 

@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Infrastructure Investment and Jobs Act: Complete Statute Profile"
+title: "Infrastructure Investment and Jobs Act: Statute Profile"
 page_title: "Infrastructure Investment and Jobs Act Explained: Funding, Passage, and Programs"
 date: "2016-04-15"
 categories: ["Industry"]

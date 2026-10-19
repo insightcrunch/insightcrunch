@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "No Child Left Behind: The Complete Guide"
+title: "No Child Left Behind: Statute, AYP, and the Waiver Era"
 page_title: "No Child Left Behind Act: NCLB Statute, AYP Rules, and the Waiver Era"
 date: "2014-08-15"
 categories: ["Industry"]

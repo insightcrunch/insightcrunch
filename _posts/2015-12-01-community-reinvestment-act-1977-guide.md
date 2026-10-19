@@ -86,7 +86,7 @@ The two year gap between the disclosure law and the reinvestment law deserves em
 
 The operative provision of the statute is 12 U.S.C. section 2903, and it repays close reading, because every popular misdescription of the law fails at the level of this text. The section provides that the appropriate federal financial supervisory agency shall, in connection with its examination of a financial institution, first, assess the institution's record of meeting the credit needs of its entire community, including low and moderate income neighborhoods, consistent with the safe and sound operation of such institution, and second, take such record into account in its evaluation of an application for a deposit facility by such institution. Each clause carries weight, and each clause limits what the statute can be made to mean.
 
-### What does the Community Reinvestment Act require banks to do?
+### How is a bank's CRA record used when it applies to merge or branch?
 
 The law requires no loan, no volume of lending, and no product. It requires regulators to examine each insured institution's record of meeting the credit needs of its entire community, including low and moderate income neighborhoods, consistent with safe and sound operation, and to weigh that record when the institution seeks approval to merge, acquire, or branch.
 
@@ -127,7 +127,7 @@ Read the rightmost column as the statute's negative space. It is the part of the
 
 Every examination under the statute begins with a boundary, and the boundary is drawn by the bank. The institution delineates the community it serves, in practice the geography around its offices where it takes deposits and does business, and that delineation becomes the assessment area against which its record is judged. The concept is doing quiet but essential work in the law's design. By tying the obligation to the deposit taking footprint, Congress gave concrete form to the organizers' demand that banks lend where they take deposits. The community is not an abstraction and not the nation at large. It is the place where the bank's branches sit and where its depositors live.
 
-### What is a Community Reinvestment Act assessment area?
+### Why can't a bank draw its assessment area to leave out poor neighborhoods?
 
 An assessment area is the geographic community a bank delineates around its offices and deposit taking footprint, subject to supervisory review for reasonableness. Examiners judge the bank's record of meeting credit needs inside that boundary, which must include its lower income neighborhoods. Lending outside the area sits outside the channel through which the statute operates.
 
@@ -189,7 +189,7 @@ The skew also sets the terms for any honest discussion of the statute's future. 
 
 A statute with no penalty clause must find its leverage somewhere, and the Community Reinvestment Act found it in the one thing every ambitious bank periodically needs from its regulator: permission to grow.
 
-### How is the Community Reinvestment Act enforced?
+### How do community groups use a pending bank application to press the bank on its lending record?
 
 Enforcement runs entirely through the deposit facility application process. When a bank applies to merge, acquire, or open a branch, its regulator weighs the examination record alongside financial and managerial factors. A weak record can delay approval, trigger conditions, or contribute to denial. There is no fine, no quota, and no corrective order anywhere else in the scheme.
 
@@ -247,7 +247,7 @@ None of this means federal policy was irrelevant to the crisis. It means this fe
 
 No question about the Community Reinvestment Act is asked more often, or answered more carelessly, than whether the law caused the 2008 financial crisis. The claim has a surface plausibility that explains its popularity. The statute concerns lending to lower income borrowers and neighborhoods. The crisis involved catastrophic defaults on mortgages extended to borrowers with weak credit. Therefore, the reasoning goes, the statute must have pushed banks into the bad loans. The official inquiry into the crisis examined that reasoning directly, and its conclusion deserves to be quoted exactly, because paraphrase has done so much damage to it.
 
-### Did the Community Reinvestment Act cause the 2008 financial crisis?
+### How did CRA-covered loans perform compared with loans from lenders outside the act?
 
 The Financial Crisis Inquiry Commission's majority report, released in January 2011, concluded the law was not a significant factor in subprime lending or the crisis. It found many subprime lenders were not subject to the statute, only 6 percent of high cost loans connected to it, and covered loans defaulted less often than comparable loans from outside lenders.
 
@@ -305,7 +305,7 @@ Pinto's research supplied the dissent's quantitative backbone. His estimate of r
 
 The joint dissent, filed separately by Thomas, Hennessey, and Holtz-Eakin, took a different position again, and it must not be folded into Wallison's. The joint dissenters wrote that neither the Community Reinvestment Act nor the removal of the Glass-Steagall firewall was a significant cause of the crisis, and they pointed instead to the credit bubble more broadly. This is a remarkable sentence for this profile's purposes, because it shows that even the commissioners most sympathetic to a market centered explanation of the crisis, writing in dissent from the majority, exonerated this statute by name. The joint dissent disagreed with the majority about many things, but on the Community Reinvestment Act it agreed: not a significant cause. There were thus three positions on the Commission, not two. The majority said the statute was not a significant cause and the housing goals' contribution was marginal. Wallison said government housing policy, through the enterprise goals, was the principal cause. The joint dissent said the statute was not a significant cause and pointed to the credit bubble. Keeping the three straight is the minimum obligation of anyone who writes about this debate.
 
-### How is the Community Reinvestment Act different from the affordable housing goals?
+### How did the enterprises' purchase quotas transmit the housing goals to loan originators?
 
 The 1977 statute covers insured banks, works through supervisory ratings, and enforces itself through merger and branch applications, setting no quotas. The affordable housing goals were numerical quotas the housing department imposed on Fannie Mae and Freddie Mac under 1992 legislation. One is a rating attached to a permission slip. The other was a quota attached to the secondary market.
 

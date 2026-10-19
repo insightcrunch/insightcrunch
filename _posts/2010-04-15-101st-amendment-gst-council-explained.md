@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 101st Amendment and the GST Council"
+title: "The 101st Amendment and the GST Council: How Votes Count"
 page_title: "The 101st Constitutional Amendment and the GST Council: Article 246A, Article 279A, the Voting Arithmetic and What the Supreme Court Actually Held"
 date: 2010-04-15
 categories: ["Industry"]

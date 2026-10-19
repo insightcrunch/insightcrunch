@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The Equal Pay Act of 1963 Explained"
+title: "The Equal Pay Act of 1963: Test, Defenses, and Procedure"
 page_title: "Equal Pay Act Explained: The Four-Part Equal Work Test, the Four Affirmative Defenses, Strict Liability, and Claim Procedure"
 date: "2015-02-01"
 categories: ["Industry"]
@@ -108,7 +108,7 @@ The first three elements, skill, effort, and responsibility, are evaluated throu
 
 The governing standard for that comparison is substantial equality, not identity. The Supreme Court established this in Corning Glass Works v. Brennan, 417 U.S. 188 (1974), the foundational decision construing the statute, holding that jobs need only be substantially equal in skill, effort, and responsibility to trigger the law. Minor or insubstantial differences in duties do not defeat the comparison. That ruling rejected the argument that any difference in job content, however trivial, takes two positions outside the statute. In practice, courts look past labels: a company cannot defeat a claim by giving the higher-paid man's job a grander title while the lower-paid woman performs the same core tasks, and the Second Circuit reinforced the point on pleading in EEOC v. Port Authority of New York and New Jersey, 768 F.3d 247 (2d Cir. 2014), requiring that a complaint allege the actual content of the compared jobs rather than resting on titles or conclusory assertions. The lesson for both sides is that job content controls, and the evidence that matters is what workers do all day.
 
-### What counts as equal work under the Equal Pay Act?
+### Does an Equal Pay Act claim require a real comparator of the opposite sex?
 
 Equal work means jobs requiring substantially equal skill, effort, and responsibility under similar working conditions, judged by actual job content rather than titles. Minor duty differences do not defeat the comparison, and the worker must identify a real comparator of the opposite sex in the same establishment.
 
@@ -216,7 +216,7 @@ The Tenth and Eleventh Circuits took the opposite position on the question that 
 
 Between those poles, other circuits staked out intermediate positions. The Second Circuit, in Aldrich v. Randolph Central School District, 963 F.2d 520 (2d Cir. 1992), accepted a factor other than sex where the employer showed a bona fide business-related reason for the differential, a standard more demanding than the Seventh Circuit's but more flexible than a flat ban on considering prior earnings. The Eighth Circuit handled the question case by case, examining the particular justification offered rather than announcing a categorical rule. The practical result was a map of the country in which the same hiring practice could be lawful in Chicago, where the Seventh Circuit sits, and unlawful in Denver or Atlanta, and in which national employers had to calibrate their compensation practices to the most restrictive circuit in which they operated.
 
-### Can an employer use salary history to justify a pay gap?
+### How far back does the Equal Pay Act's scrutiny of a pay decision reach?
 
 It depends on the circuit. The Seventh Circuit broadly accepts prior salary as a factor other than sex, while the Tenth and Eleventh Circuits hold that prior salary alone cannot justify a differential. Other circuits apply intermediate tests, and the Supreme Court had not resolved the split through 2015.
 

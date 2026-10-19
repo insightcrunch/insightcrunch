@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "The PATRIOT Act and Civil Liberties"
+title: "The PATRIOT Act and Civil Liberties: What Oversight Found"
 page_title: "The PATRIOT Act and Civil Liberties: What Official Oversight Reports Actually Found"
 date: "2014-06-15"
 categories: ["Industry"]

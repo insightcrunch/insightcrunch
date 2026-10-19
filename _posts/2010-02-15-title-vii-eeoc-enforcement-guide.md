@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title VII and the EEOC in Practice"
+title: "Title VII and the EEOC in Practice: The Charge Process"
 page_title: "Title VII and the EEOC in Practice: The Charge Process, Filing Deadlines, Deferral States, Conciliation, Right-to-Sue Notices and Why the Agency Could Not Sue Until 1972"
 date: 2010-02-15
 categories: ["Industry"]

@@ -92,15 +92,15 @@ The third narrowing concerned time. The 1988 bill's compliance provision, in Sha
 
 On timelines, the contrast is between a moral statement and an administrative plan. "Within two years, everything would have to be accessible" is a sentence that works as a speech and fails as a statute. The built environment of the United States, every workplace, every place of public accommodation, every government facility, could not be remade in twenty-four months at any price, and everyone in the room knew it. The "flat earth" label the histories attach to the 1988 bill captures the design flaw: it assumed a flat world in which a single deadline could flatten every terrain. The 1990 statute's phased timelines did the opposite. They broke the obligation into stages, gave covered entities schedules they could plan capital spending against, and, crucially, gave the business community's negotiators something to negotiate. A deadline can be moved. A flat-earth mandate cannot. The negotiability of the timeline was itself one of the concessions.
 
-### What made the 1990 disability definition narrower than the 1988 version?
+### How broad was the 1988 bill's disability coverage before the 1990 threshold?
 
 The 1988 bill covered any physical or mental impairment, perceived impairment, or record of one, with no further test. The 1990 law kept those three prongs but required the impairment to substantially limit one or more major life activities, narrowing the protected class to people with substantial effects.
 
-### Why did the 1990 law drop the punitive damages the 1988 bill offered?
+### Which remedies survived in the 1990 statute once damages were taken out?
 
 The 1988 bill let plaintiffs seek punitive and compensatory damages against businesses, the remedy the business community feared most. The 1990 statute limited the public accommodations title to injunctions and attorney's fees and tied employment remedies to Title VII's then available relief. Compensatory and punitive damages arrived only with the Civil Rights Act of 1991, a later and separate fight.
 
-### How did the compliance deadlines change between the two bills?
+### What do the phased deadlines reveal about how the 1990 bill was negotiated?
 
 The 1988 bill demanded that everything be accessible within two years, a single flat deadline with no phasing. The enacted statute replaced it with negotiated phased timelines that spread different obligations across different schedules. Each phase marks an objection answered with time rather than exemption, which is why the timelines read as a record of negotiation.
 
@@ -187,7 +187,7 @@ The Senate had never adopted any such provision. The Senate's bill relied on the
 
 Five days later, on May 22, 1990, the House produced the vote most often cited in summaries of the ADA's passage, and the one most often described imprecisely. At 3:00 PM, the House passed H.R. 2273, the House companion bill, by a recorded vote of 403 to 20, with 9 members not voting, recorded as Roll No. 123. The Clerk's vote question named the Americans with Disabilities Act of 1990, and the tally is the House's official recorded judgment on the bill's text. Then, at 3:04 PM, the House took up S. 933, the Senate-passed bill, struck everything after the enacting clause, and substituted the text of H.R. 2273, all without objection. At 3:05 PM, the House passed S. 933 itself without objection, which is to say by voice vote, and laid H.R. 2273 on the table.
 
-### Why did the House pass the ADA twice in one afternoon?
+### Why did the House put its own text inside the Senate's bill number?
 
 The 403 to 20 recorded vote at 3:00 PM was taken on H.R. 2273, the House companion bill. At 3:04 PM the House substituted that text into S. 933, and at 3:05 PM passed S. 933 by voice vote, tabling H.R. 2273.
 
@@ -229,11 +229,11 @@ The conferees' replacement was the provision codified at 42 U.S.C. 12113(d). Ins
 
 The difference between the Chapman amendment and the compromise is the difference between an employer-defined category and a science-defined list. Chapman let the employer decide which diseases of public health significance justified removal from food handling, subject to the alternative-job condition. The compromise took the disease list out of the employer's hands and gave it to the Secretary of Health and Human Services, bounded it by actual transmissibility through food handling, required publication and annual updating, and preserved the reasonable-accommodation backstop: removal is permitted only where accommodation cannot eliminate the risk. The supporters of the categorical rule lost the category. The supporters of the individualized standard lost the pure individualized standard. What both sides got was a federal list, compiled by public health authorities, that would tell employers, workers, and courts which diseases actually travel through food. It is a characteristically congressional solution: when the two chambers cannot agree on who decides, create a list and let the list decide.
 
-### What did the Chapman amendment actually say?
+### What safeguard did the Chapman amendment promise a worker reassigned away from food handling?
 
 The Chapman amendment, H.AMDT.450, adopted by the House on May 17, 1990, by 199 to 187, added subsection 103(d) to the House bill. It let an employer remove a worker with an infectious or communicable disease of public health significance from food handling, provided the employer offered alternative qualified work with no economic harm.
 
-### How did the conference committee resolve the food handling fight?
+### What did the conferees put in place of the Chapman amendment?
 
 The conferees stripped the Chapman amendment, defying the Senate's instruction to accept it, and substituted the provision codified at 42 U.S.C. 12113(d). The substitute directs the Secretary of Health and Human Services to publish and annually update a list of diseases transmitted through food handling.
 
@@ -249,7 +249,7 @@ The conference committee's defiance of the Senate instruction deserves a final p
 
 On July 13, 1990, the day after the House agreed to the conference report, the Senate took up the report. The debate was the bill's last legislative hurdle, and it was here that Senator Harkin delivered the sign language speech that the verification record dates precisely to this debate. Harkin became the first person to address the Senate floor in American Sign Language, opening with a tribute to his brother Frank, who had lost his hearing at the age of five, and then translating his remarks into spoken English: "Congress opens the doors to all Americans with disabilities, today we say no to ignorance, no to fear, no to prejudice." His stated reason, given later, was disarmingly direct: he wanted Frank, who was deaf, to understand him. The speech is sometimes misdated to the September 1989 passage debate. It belongs to July 13, 1990, to the conference report debate, to the day the Senate decided whether to accept a conference product that had defied its own instruction on food handling.
 
-### Why did Senator Harkin deliver part of his floor speech in sign language?
+### What Senate first did Harkin's July 1990 floor speech set?
 
 On July 13, 1990, during the Senate's conference report debate, Harkin became the first person to deliver a Senate floor speech in American Sign Language, opening with a tribute to his deaf brother Frank before translating into English. His reason was personal: he wanted Frank to understand him. The speech marked the bill's final debate, not its 1989 passage.
 

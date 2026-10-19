@@ -80,7 +80,7 @@ A ceiling on holding would have been porous if owners remained free to deal with
 
 The most consequential was the exemption power. Section 20(1) empowered the state government, by order, to exempt vacant land from the ceiling chapter where it was satisfied that the exemption was necessary or expedient in the public interest, or that the application of the Act to the land would cause undue hardship to its owner, and it could attach conditions to the exemption it granted. Section 21 worked a related release from the other direction, providing that excess land would not be treated as excess where the holder undertook to use it for constructing dwelling units for the weaker sections of society, within the plinth and other limits the Act prescribed. Between the discretionary exemption and the housing-scheme carve-out, a very large share of the land the ceiling nominally captured was released back by decision of the administering government, on terms that varied from state to state and file to file.
 
-### What did the Section 20 exemption power allow a state government to do?
+### On what grounds could a state government exempt a holding from the ceiling?
 
 It allowed the state government to lift the ceiling off a particular holding altogether, by order, where it was satisfied that exemption was necessary or expedient in the public interest, or that applying the Act would cause the owner undue hardship, and to impose conditions on the exemption it granted.
 

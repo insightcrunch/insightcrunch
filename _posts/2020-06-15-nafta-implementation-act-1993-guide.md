@@ -34,7 +34,7 @@ The profile that follows traces that whole structure in sequence. The opening se
 
 ## Not a Treaty: The Constitutional Form of the Agreement
 
-### Was NAFTA approved as a treaty?
+### Why would the House have had no vote at all if NAFTA had gone the treaty route?
 No. The agreement was approved by an ordinary statute, the North American Free Trade Agreement Implementation Act, Public Law 103-182, passed by simple majorities of the House and Senate and signed on December 8, 1993. The Senate never voted on it as a treaty requiring two-thirds consent.
 
 The distinction between a treaty and a statute decided everything else in the legal history of the North American Free Trade Agreement. A treaty enters domestic law through a single constitutional door. The president negotiates and signs the instrument, the Senate gives advice and consent by two thirds, and the president then ratifies it. The House of Representatives has no formal part in that process. A statute must pass both chambers by ordinary majorities and receive the signature of the president, or else pass over a veto by two thirds of both chambers. The implementing act traveled through the second door alone. Whatever legal force the agreement possessed inside the United States on January 1, 1994, the date of entry into force, it possessed because Congress enacted a law whose text defined what the agreement would and would not do in American courts and agencies.
@@ -210,7 +210,7 @@ Read as a whole, the goods architecture rested on a small number of load bearing
 
 ## The Two Chapters That Outgrew the Agreement: Investment and Duty Review
 
-### What was the investment chapter in NAFTA?
+### How did Chapter 11 change where investment disputes are decided?
 
 Chapter 11 was NAFTA's investment chapter, Articles 1101 to 1139, guaranteeing foreign investors national treatment, most favored nation treatment, a minimum standard drawn from customary international law, and compensation for expropriation, and allowing an investor to sue a host government directly before an international arbitral tribunal.
 
@@ -271,7 +271,7 @@ Of the twenty two chapters of the agreement, Chapters 11 and 19 generated the mo
 The map of the controversy followed the sovereignty argument each side made at passage. Defenders in 1993, including the Clinton administration that signed the implementing act on December 8, 1993 and the business coalition organized as USA*NAFTA, argued that a government bound itself to obtain binding commitments from other governments, that the surrender in each chapter was reciprocal, and that the substance of domestic law survived. A United States investor gained a tribunal against Canada or Mexico because a Canadian or Mexican investor gained the same tribunal against the United States, and a Canadian exporter gained a panel against a United States determination because a United States exporter gained the same panel against a Canadian determination. Opponents in 1993, including Majority Leader Richard Gephardt and Majority Whip David Bonior in the House and the AFL-CIO under Lane Kirkland, argued that reciprocal form concealed asymmetric effect, that institutions answering to no electorate had been created, and that a damages award or a panel remand reached inside the domestic process in a way a tariff concession at the border did not. The House approved the implementing act on November 17, 1993 by 234 to 200, and the Senate approved the act on November 20, 1993 by 61 to 38.
 
 ## The Side Agreements: The Price of Enactment
-### What were the NAFTA side agreements?
+### Why were labor and environmental protections placed in side agreements rather than in NAFTA itself?
 The North American Agreement on Labor Cooperation and the North American Agreement on Environmental Cooperation were parallel accords negotiated in 1993, signed in September 1993, and placed in force on January 1, 1994, requiring each country to enforce its own labor and environmental law through new trilateral institutions.
 
 The chronology controls the interpretation. Negotiations concluded on August 12, 1992, and President George H. W. Bush, President Carlos Salinas de Gortari, and Prime Minister Brian Mulroney signed the main text on December 17, 1992. By early 1993 the text existed as a closed bargain among three governments. Reopening a tariff line or an investment rule in one chapter would have invited a corresponding demand in another chapter. The agreement therefore arrived in Washington as a document that a new President could accept, reject, or supplement, but could not readily rewrite.

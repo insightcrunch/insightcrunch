@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Higher Education Act: The Architecture of American Student Aid"
+title: "Higher Education Act: Architecture of American Student Aid"
 page_title: "Higher Education Act Explained: Pell Grants, Title IV Student Loans, Accreditation Gatekeeping, Forgiveness Programs, and the Federal Student Aid Architecture"
 date: "2014-09-15"
 categories: ["Industry"]

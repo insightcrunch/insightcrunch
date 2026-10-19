@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 103rd Amendment and EWS Reservation"
+title: "The 103rd Amendment and EWS Reservation: Janhit Abhiyan"
 page_title: "The 103rd Amendment and EWS Reservation: What Articles 15(6) and 16(6) Enable, and How the Supreme Court Split Three to Two in Janhit Abhiyan"
 date: 2010-05-01
 categories: ["Industry"]
