@@ -6,19 +6,19 @@ date: 2026-10-19
 categories: ["Technology"]
 tags: ["space-exploration", "sample-return", "planetary-science", "spacecraft", "asteroids", "orbital-mechanics"]
 excerpt: "How sample return missions work: a spacecraft collects material on another world, seals it, flies home and drops a capsule through the atmosphere to Earth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-10-19
+lang: en
 ---
-
 ## A Handful of Another World, Returned Deliberately
 
 A sample return mission works by sending a spacecraft to another world, collecting material from its surface or atmosphere, sealing that material against contamination and damage, and flying it back to Earth for recovery and laboratory analysis. The outbound journey and the homeward journey are a single linked design problem, and neither half can be treated as an afterthought. A sample return succeeds because every gram brought home is bought twice, once in delta-v to leave Earth and reach the target and once to leave the target and come back, and protected by an unbroken chain from collection to laboratory. That chain begins on a launch pad, runs through years of cruise and a brief encounter with a distant body, and ends only when a sealed capsule is opened under controlled conditions on Earth.
 
 The discipline imposed by that chain explains why sample return missions remain rare compared with orbiters and landers that never come home. An orbiter can accept a one way trajectory, spend its propellant arriving, and then operate until its systems fail. A lander can accept the same bargain. A sample return spacecraft carries the additional burden of departure from the target, a second interplanetary cruise, a precise arrival at Earth, and survival through atmospheric entry at interplanetary speed. Each of those steps demands propellant, structure, guidance, and thermal protection that the simpler mission never carries, and each step competes for the same launch mass.
 
-![Sample return capsule and target body - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sample return capsule and target body - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The return capsule itself captures the severity of the bargain in miniature. It must be light enough to be carried across hundreds of millions of kilometres and back, strong enough to endure entry heating that exceeds the surface temperature of many stars in localized peaks along the heat shield, and simple enough to function after years in space without repair. The capsule flown by the Stardust mission, which returned dust from Comet Wild 2 in 2006, weighed only 46 kilograms complete with its heat shield and parachute system, yet it carried the only material evidence of the encounter that justified the entire flight. Mass spent on the capsule is mass denied to propellant and instruments, and mission designers argue over single kilograms because the rocket equation punishes every addition across both legs of the journey.
 
