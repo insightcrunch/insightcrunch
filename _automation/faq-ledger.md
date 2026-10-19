@@ -426,3 +426,27 @@ base-fund-pai-revenu-shrink | how-universal-service-fund-works | Why is the base
 board-federal-joint-servic-state-universal | how-universal-service-fund-works | What is the Federal-State Joint Board on Universal Service?
 broadband-different-fund-servic-telephon-treat | how-universal-service-fund-works | How does the fund treat broadband differently from telephone service?
 fund-general-happen-if-instead-paid-taxat | how-universal-service-fund-works | What would happen if the fund were paid for from general taxation instead?
+
+## space-sample-return
+
+### how-sample-return-missions-work
+full-journey-laboratory-launch-mission-return-sample-work | how-sample-return-missions-work | What is a sample return mission and how does the full journey work from launch to laboratory?
+back-br-by-carri-earth-instead-instrument-only-rely-sampl-scientist-spacecraft | how-sample-return-missions-work | Why do scientists bring samples back to Earth instead of relying only on instruments carried by a spacecraft?
+asteroid-determin-long-round-take-time-travel-trip | how-sample-return-missions-work | How long does a round trip to an asteroid take and what determines the travel time?
+collect-go-land-long-material-mean-sampl-spacecraft-touch-without | how-sample-return-missions-work | What does touch-and-go sampling mean and how does a spacecraft collect material without landing for long?
+amount-back-br-enough-material-mission-much-research-return-sample-small-such | how-sample-return-missions-work | How much material do sample return missions bring back and why is such a small amount enough for research?
+capsule-descent-land-power-return-runway-safely-without | how-sample-return-missions-work | How does a return capsule land safely without a runway or a powered descent?
+another-arriv-earth-material-mean-planetary-protection-world | how-sample-return-missions-work | What does planetary protection mean when material from another world arrives on Earth?
+body-came-contaminat-earth-grain-not-really-scientist-target-tell-that-tiny-was | how-sample-return-missions-work | How can scientists tell that a tiny grain really came from the target body and was not contaminated on Earth?
+apollo-asteroid-astronaut-by-collect-compar-hand-lunar-robot-sampl-with | how-sample-return-missions-work | How did Apollo astronauts collect lunar samples by hand compared with how robots collect samples on asteroids?
+any-asteroid-before-decad-harder-made-moon-sampl-target-was | how-sample-return-missions-work | Why was the Moon sampled decades before any asteroid and what made asteroids harder targets?
+captur-collect-comet-damage-kind-material-mission-stardust-was-without | how-sample-return-missions-work | What kind of material did the Stardust mission collect from a comet and how was it captured without damage?
+about-asteroid-collect-hayabusa-method-reveal-ryugu-sampl-surface | how-sample-return-missions-work | How did Hayabusa2 collect samples from asteroid Ryugu and what did the method reveal about the surface?
+after-among-around-capsule-divid-laboratori-open-return-sampl-world | how-sample-return-missions-work | How are returned samples divided among laboratories around the world after a capsule is opened?
+as-capsule-fail-genesi-happen-mission-open-parachute-return-with | how-sample-return-missions-work | What happens when a return capsule parachute fails to open as happened with the Genesis mission in 2004?
+as-future-mars-mission-moon-phobo-planner-return-sample-such-target | how-sample-return-missions-work | Why do mission planners target the moons of Mars such as Phobos for a future sample return?
+age-help-measure-return-sampl-scientist-solar-system-ways | how-sample-return-missions-work | In what ways do returned samples help scientists measure the age of the solar system?
+asteroid-certain-matter-orbit-quasi-reach-satellite | how-sample-return-missions-work | What is a quasi-satellite orbit and why does it matter for reaching certain asteroids?
+aim-as-australia-capsul-desert-land-return-sample-sit-such-utah-woomera | how-sample-return-missions-work | Why do sample return capsules aim for desert landing sites such as Woomera in Australia and the Utah desert?
+between-difference-lander-mission-return-sample-stay-surface-that | how-sample-return-missions-work | What is the difference between a sample return mission and a lander mission that stays on the surface?
+consider-difficult-hardest-mak-return-sample-sequence-single-so-step | how-sample-return-missions-work | Which single step in a sample return sequence is considered the hardest and what makes it so difficult?

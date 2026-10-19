@@ -69,3 +69,7 @@
 ## how-universal-service-fund-works
 - _posts/2017-07-01-telecommunications-act-1996-guide.md — could carry: "The statute's universal service machine is examined as a working system of contributions, programs and court challenges in how the Universal Service Fund works."
 - _posts/2026-10-03-how-government-cash-payments-work.md — could carry: "Government also moves money through carriers and institutions rather than households; how the Universal Service Fund works traces that indirect design and the legal fights it attracts."
+
+## how-sample-return-missions-work
+- _posts/2016-04-04-space-race-explained-complete.md — could carry: "The robotic returns that followed the crewed era turned a race achievement into a repeatable method; how sample return missions work traces that method from collection to laboratory."
+- _posts/2026-10-12-when-animals-first-evolved.md — could carry: "Dating an origin from material evidence rather than from traces alone is also the logic of returned planetary grains, set out in how sample return missions work."
