@@ -356,7 +356,7 @@ The structural alternative is the Glass-Steagall comparison, explored in [the co
 
 The series thesis for this article is that assessing a statute means measuring it against its own stated aims and naming what the evidence cannot yet tell us, and the closing section honors that thesis by listing the open questions explicitly rather than burying them in qualifications.
 
-First, the resolution regime. The orderly liquidation authority has never been used, the 2023 failures bypassed it, and the FDIC Office of Inspector General confirmed as of December 2023 that no Title II resolution had yet occurred. Until the authority operates under stress, every claim about whether it ends bailouts or contains contagion is a prediction, not a finding. This is the largest known unknown in the post-crisis regulatory architecture, and no honest evidence review can shrink it.
+First, the resolution regime. The orderly liquidation authority has never been used, the 2023 failures bypassed it, and the FDIC Office of Inspector General confirmed in December 2023 that no Title II resolution had yet occurred. Until the authority operates under stress, every claim about whether it ends bailouts or contains contagion is a prediction, not a finding. This is the largest known unknown in the post-crisis regulatory architecture, and no honest evidence review can shrink it.
 
 Second, the sufficiency of capital. The build is settled; the right level is not. Whether the ratios reached by the end of the 2010s would absorb the losses of a severe crisis depends on the severity of the crisis, and the historical record offers crises of many severities. Researchers disagree, and the disagreement is legitimate because it concerns the future rather than the past.
 
