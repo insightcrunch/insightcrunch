@@ -4,7 +4,7 @@ title: "LARR Compensation and Consent Rules Explained in Full"
 page_title: "LARR Compensation and Consent Rules: How Compensation Is Calculated Step by Step, How the Multiplier and Solatium Work, How Consent Is Counted, the Section 64 Reference, Section 69, the Section 74 Appeal, and the Section 24(2) Lapse Test After Indore Development Authority v Manoharlal"
 date: 2014-02-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "LARR Act 2013", "Land Acquisition", "Social Justice", "Judiciary", "UPSC", "Law Students"]
+tags: ["Indian Legislation", "LARR Act", "Land Acquisition", "Social Justice", "Judiciary", "UPSC", "Law Students"]
 excerpt: "LARR compensation and consent rules for landowners: how the award is computed step by step, how consent is counted, and how to challenge an award in time."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 85

@@ -4,8 +4,8 @@ title: "Minimum Wages Act 1948: How India's Wage Floor Works"
 page_title: "Minimum Wages Act 1948 Explained: Scheduled Employments, How Minimum Wages Are Fixed and Revised, Section 20 Claims, Penalties, and Why India Never Had a National Minimum Wage"
 date: 2013-06-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Minimum Wages Act 1948", "Labour Law", "Social Justice", "UPSC", "Law Students"]
-excerpt: "The Minimum Wages Act 1948 explained: why the wage floor binds only scheduled work, how rates are fixed and revised, and what an underpaid worker can claim."
+tags: ["Indian Legislation", "Minimum Wages Act", "Labour Law", "Social Justice", "UPSC", "Law Students"]
+excerpt: "The Minimum Wages Act explained: why the wage floor binds only scheduled work, how rates are fixed and revised, and what a worker can claim under Section 20."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 90
 author: "deepika-joshi"

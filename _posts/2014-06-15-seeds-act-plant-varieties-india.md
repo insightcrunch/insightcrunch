@@ -4,8 +4,8 @@ title: "The Seeds Act 1966 and Plant Variety Rights in India"
 page_title: "Seeds Act 1966 and Plant Variety Protection in India: The Seeds Act, the Protection of Plant Varieties and Farmers' Rights Act 2001, Breeders' Rights, Section 39 Farmers' Rights, the Branded Seed Line, Certification and the PepsiCo Potato Dispute Explained"
 date: 2014-06-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Seeds Act 1966", "Plant Varieties", "Farmers Rights", "Agriculture", "Judiciary", "UPSC"]
-excerpt: "The Seeds Act 1966 in India explained: how seed quality is regulated in the market, and how the plant varieties Act protects breeders and farmers together."
+tags: ["Indian Legislation", "Seeds Act", "Plant Varieties", "Farmers Rights", "Agriculture", "Judiciary", "UPSC"]
+excerpt: "The Seeds Act in India explained: how seed quality is regulated in the market, and how the plant varieties Act protects variety breeders and farmers together."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 90
 author: "deepika-joshi"

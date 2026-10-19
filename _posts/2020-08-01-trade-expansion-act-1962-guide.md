@@ -5,7 +5,7 @@ page_title: "Trade Expansion Act of 1962: Negotiating Authority, Section 232, th
 date: "2020-08-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Expansion Act", "Congress", "American History", "Legislative History"]
-excerpt: "The Trade Expansion Act of 1962 joined formula tariff bargaining, a national security import power and the first adjustment assistance in one statute."
+excerpt: "The Trade Expansion Act joined formula tariff bargaining, the Section 232 import power and the first adjustment assistance in one statute for the Kennedy Round."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 109
 author: "hannah-moore"

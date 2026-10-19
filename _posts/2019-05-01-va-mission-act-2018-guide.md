@@ -5,7 +5,7 @@ page_title: "VA MISSION Act of 2018 Explained: Community Care Consolidation, the
 date: "2019-05-01"
 categories: ["Industry"]
 tags: ["US Legislation", "VA MISSION Act", "Health Policy", "Congress", "American History", "Veterans Health"]
-excerpt: "VA MISSION Act of 2018 consolidated seven community care programs into one, set six eligibility criteria, and expanded caregiver support to older veterans."
+excerpt: "VA MISSION Act consolidated seven community care programs into one, set six criteria, expanded caregiver support to older veterans, and added urgent care."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 109
 author: "christopher-wells"

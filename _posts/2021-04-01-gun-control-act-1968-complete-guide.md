@@ -5,7 +5,7 @@ page_title: "Gun Control Act of 1968: Complete Guide to Federal Firearms Licensi
 date: "2021-04-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Gun Control Act", "Criminal Justice", "Congress", "American History"]
-excerpt: "The Gun Control Act of 1968 built firearms law around the licensed dealer: its licensing and records system, prohibited persons, transfer rules, and amendments."
+excerpt: "The Gun Control Act built firearms law around the licensed dealer: its licensing and records system, prohibited persons, transfer rules, and later amendments."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 111
 author: "michael-brooks"

@@ -4,8 +4,8 @@ title: "The Farm Laws 2020: What the Three Acts Actually Said"
 page_title: "Farm Laws 2020 Explained: What the Three Acts Actually Said, How They Passed Parliament in September 2020, the Trade Area, the Civil Court Bar, and the Supreme Court Stay"
 date: 2014-04-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Farm Laws 2020", "Agriculture", "Parliament", "Federalism", "Judiciary", "UPSC"]
-excerpt: "The farm laws 2020 explained from the statutory text itself: what the three Acts did, how Parliament passed them, and why no court ruled on their validity."
+tags: ["Indian Legislation", "Farm Laws", "Agriculture", "Parliament", "Federalism", "Judiciary", "UPSC"]
+excerpt: "The farm laws explained in full from the statutory text itself: what the three Acts did, how Parliament passed them, and why no court ruled on their validity."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 85
 author: "deepika-joshi"

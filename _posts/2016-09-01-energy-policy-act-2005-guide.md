@@ -5,7 +5,7 @@ page_title: "Energy Policy Act of 2005 Explained: Grid Reliability Rules, PUHCA 
 date: "2016-09-01"
 categories: ["Industry"]
 tags: ["US Legislation", "energy policy", "electric grid reliability", "renewable fuel standard", "nuclear power", "daylight saving time"]
-excerpt: "The Energy Policy Act of 2005 made grid reliability mandatory, repealed the utility holding company law, created the fuel standard, and moved the clocks."
+excerpt: "The Energy Policy Act made grid reliability mandatory, repealed the holding company law, created the fuel standard, and moved the clocks for daylight saving."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 94
 author: "maria-santos"

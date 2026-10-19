@@ -4,8 +4,8 @@ title: "Land Acquisition Act 1894: The Law That Took the Land"
 page_title: "Land Acquisition Act 1894 Explained: The Section 4 to Section 17 Sequence, the Urgency Clause, Compensation and Solatium, the 1984 Amendment, Acquisition for Companies, and the Repeal by LARR 2013"
 date: 2013-10-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Land Acquisition Act 1894", "Land Acquisition", "Social Justice", "Judiciary", "UPSC"]
-excerpt: "The Land Acquisition Act 1894 governed compulsory acquisition in India for 119 years: its procedure, urgency clause, compensation and repeal explained."
+tags: ["Indian Legislation", "Land Acquisition Act", "Land Acquisition", "Social Justice", "Judiciary", "UPSC"]
+excerpt: "The Land Acquisition Act governed compulsory acquisition in India for well over a century: its procedure, urgency clause, compensation and repeal explained."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 82
 author: "deepika-joshi"

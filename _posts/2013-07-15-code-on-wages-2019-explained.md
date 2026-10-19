@@ -4,8 +4,8 @@ title: "Code on Wages 2019 Explained: The Definition Is the Reform"
 page_title: "Code on Wages 2019 Explained: How the Uniform Definition of Wages, the Fifty Per Cent Add-Back, Universal Minimum Wages and the Floor Wage Replaced Four Labour Laws"
 date: 2013-07-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Code on Wages 2019", "Labour Law", "Labour Codes", "Minimum Wages", "Social Justice", "UPSC"]
-excerpt: "The Code on Wages 2019 explained: universal minimum wages, the floor wage, and the wages definition that resets provident fund and gratuity on every salary."
+tags: ["Indian Legislation", "Code on Wages", "Labour Law", "Labour Codes", "Minimum Wages", "Social Justice", "UPSC"]
+excerpt: "The Code on Wages explained: universal minimum wages, the floor wage, and the wages definition that resets provident fund and gratuity on every salary packet."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 83
 author: "kavita-sharma"

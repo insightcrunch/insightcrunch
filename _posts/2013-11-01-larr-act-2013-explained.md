@@ -4,8 +4,8 @@ title: "LARR Act 2013 Explained: Consent, Compensation, Relief"
 page_title: "LARR Act 2013 Explained: Consent Rules, Social Impact Assessment, Compensation and Solatium, Rehabilitation Entitlements and the Complete Guide to India's Land Acquisition Law"
 date: 2013-11-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "LARR Act 2013", "Land Acquisition", "Social Justice", "Parliament", "UPSC", "Law Students"]
-excerpt: "The LARR Act 2013 explained in full: who must consent before land is acquired, how compensation and solatium are built, and what displaced families are owed."
+tags: ["Indian Legislation", "LARR Act", "Land Acquisition", "Social Justice", "Parliament", "UPSC", "Law Students"]
+excerpt: "The LARR Act explained in full: who must consent before land is acquired, how compensation and solatium are built, and what displaced families are owed."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 90
 author: "anita-das"

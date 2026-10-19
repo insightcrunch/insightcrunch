@@ -5,7 +5,7 @@ page_title: "Labour Codes Implementation Delay Explained: Why Four Codes Enacted
 date: 2013-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Labour Codes", "Labour Law", "Implementation", "Parliament", "UPSC"]
-excerpt: "The labour codes implementation delay explained: why four codes enacted in 2019 and 2020 commenced only in November 2025, before their rules were ready."
+excerpt: "The labour codes implementation delay explained: why four codes replacing twenty-nine statutes commenced only in November, before their rules were ready."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 85
 author: "anita-das"

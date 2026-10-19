@@ -4,8 +4,8 @@ title: "Contract Labour Act 1970: Regulation Without Absorption"
 page_title: "Contract Labour Act 1970 Explained: Registration, Contractor Licensing, the Section 10 Prohibition Power, Principal Employer Liability for Wages, the Steel Authority Absorption Ruling, Sham Contracts, and the OSH Code Core Activity Ban"
 date: 2013-07-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Contract Labour Act 1970", "Labour Law", "Labour Codes", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Contract Labour Act 1970 explained: registration, licensing, the Section 10 prohibition power, and why abolition never brought absorption for its workers."
+tags: ["Indian Legislation", "Contract Labour Act", "Labour Law", "Labour Codes", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The Contract Labour Act explained: registration, licensing, the Section 10 prohibition power, and why abolition never brought absorption for contract workers."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 94
 author: "anita-das"

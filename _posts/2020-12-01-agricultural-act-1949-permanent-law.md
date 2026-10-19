@@ -4,8 +4,8 @@ title: "Agricultural Act of 1949: The Permanent Law Backstop"
 page_title: "Agricultural Act of 1949: Permanent Law, Parity Pricing, the Dairy Cliff, Farm Bill Suspension, and Why Congress Never Repeals It"
 date: "2020-12-01"
 categories: ["Industry"]
-tags: ["US Legislation", "Agricultural Act of 1949", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
-excerpt: "The Agricultural Act of 1949 never expires, so every farm bill suspends its parity supports and dairy purchases instead of repealing the permanent law."
+tags: ["US Legislation", "Agricultural Act", "Agriculture Policy", "Congress", "Legislative Process", "American History"]
+excerpt: "The Agricultural Act never expires, so every farm bill suspends its parity supports and dairy purchases instead of repealing the law behind the dairy cliff."
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 112
 author: "natalie-webb"

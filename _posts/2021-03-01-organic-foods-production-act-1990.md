@@ -5,7 +5,7 @@ page_title: "Organic Foods Production Act of 1990 Explained: The National List, 
 date: "2021-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Organic Foods Production Act", "Agriculture Policy", "Legislative Process", "Environmental Law"]
-excerpt: "The Organic Foods Production Act of 1990 gave the word organic one national meaning, a citizen board to guard it, and exceptions that expire unless renewed."
+excerpt: "The Organic Foods Production Act gave the word organic one national meaning, a citizen board to guard it, and listed exceptions that expire unless renewed."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 104
 author: "maria-santos"

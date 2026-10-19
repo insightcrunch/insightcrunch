@@ -4,8 +4,8 @@ title: "Industrial Relations Code 2020 Explained: What Changed"
 page_title: "Industrial Relations Code 2020 Explained: The Laws It Replaced, the 300 Worker Permission Threshold, Strike Notice, Negotiating Unions, Fixed Term Employment and the Re-Skilling Fund"
 date: 2013-08-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Industrial Relations Code 2020", "Indian Labour Law", "Trade Unions", "Retrenchment", "Fixed Term Employment"]
-excerpt: "The Industrial Relations Code 2020 replaced three labour laws, tripled the retrenchment permission threshold and rewrote the rules of strikes and bargaining."
+tags: ["Indian Legislation", "Industrial Relations Code", "Indian Labour Law", "Trade Unions", "Retrenchment", "Fixed Term Employment"]
+excerpt: "The Industrial Relations Code replaced three labour laws, tripled the retrenchment permission threshold and rewrote rules of strikes and negotiating unions."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 81
 author: "gregory-marsh"

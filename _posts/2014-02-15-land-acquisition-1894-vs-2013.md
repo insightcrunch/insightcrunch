@@ -4,8 +4,8 @@ title: "Land Acquisition Act 1894 vs 2013: Which Law Is Fairer?"
 page_title: "Land Acquisition Act 1894 vs 2013: Complete Comparison of Public Purpose, Social Impact Assessment, Consent, Compensation, Multiplier, Solatium, Rehabilitation, Urgency, Lapse and the Verdict on Which Law Treats the Landowner Better"
 date: 2014-02-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Land Acquisition Act 1894", "LARR Act 2013", "Social Justice", "Judiciary", "UPSC", "Law Students"]
-excerpt: "Land Acquisition Act 1894 vs 2013, compared on consent, compensation, rehabilitation and urgency, with a worked parcel and a verdict for the landowner."
+tags: ["Indian Legislation", "Land Acquisition Act", "LARR Act", "Social Justice", "Judiciary", "UPSC", "Law Students"]
+excerpt: "Land Acquisition Act colonial and LARR regimes compared on consent, compensation, rehabilitation and urgency, with a parcel and a verdict for the landowner."
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 78
 author: "anita-das"

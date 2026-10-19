@@ -5,7 +5,7 @@ page_title: "Farm Laws Repeal Act 2021 Explained: Act 40 of 2021 Section by Sect
 date: 2014-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Farm Laws", "Agriculture", "Parliament", "Judiciary", "UPSC"]
-excerpt: "The Farm Laws Repeal Act 2021 explained: three sections that repealed the farm laws in a day, restored the Essential Commodities Act, and settled nothing."
+excerpt: "The Farm Laws Repeal Act explained: three sections that repealed the farm laws in a single day, restored the Essential Commodities Act, and settled nothing."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 82
 author: "deepika-joshi"

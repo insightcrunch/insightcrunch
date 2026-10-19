@@ -4,8 +4,8 @@ title: "The Registration Act 1908 and India's Title Problem"
 page_title: "Registration Act 1908 and Land Titling in India: What Deed Registration Actually Proves, Why Ownership Stays Presumptive, and What Conclusive Titling Would Require"
 date: 2014-01-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Registration Act 1908", "Land Records", "Property Law", "Judiciary", "UPSC"]
-excerpt: "Registration Act 1908 explained: what registering a deed proves, why Indian title remains presumptive, and what conclusive titling would demand of states."
+tags: ["Indian Legislation", "Registration Act", "Land Records", "Property Law", "Judiciary", "UPSC"]
+excerpt: "Registration Act explained: what registering a deed proves, why Indian title remains presumptive, and what conclusive titling would demand of each state."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 84
 author: "anita-das"

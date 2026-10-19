@@ -4,7 +4,7 @@ title: "Land Acquisition Ordinance 2015: Lapsed in Parliament"
 page_title: "Land Acquisition Ordinance 2015 Explained: What the LARR Amendment Ordinance Changed, Why the Bill Failed in the Rajya Sabha, and How Its Objectives Were Delivered by State Amendments and a Constitution Bench"
 date: 2013-11-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Land Acquisition", "LARR Act 2013", "Parliament", "Federalism", "Judiciary", "UPSC"]
+tags: ["Indian Legislation", "Land Acquisition", "LARR Act", "Parliament", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The land acquisition ordinance explained: what the five exempted categories changed, why the amendment bill failed, and how its aims arrived by other routes."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 83

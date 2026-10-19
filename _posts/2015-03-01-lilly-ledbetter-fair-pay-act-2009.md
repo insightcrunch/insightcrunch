@@ -5,7 +5,7 @@ page_title: "Lilly Ledbetter Fair Pay Act of 2009 Explained: The Paycheck Rule, 
 date: "2015-03-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Lilly Ledbetter Fair Pay Act", "Civil Rights", "Labor Law", "Supreme Court", "Pay Discrimination"]
-excerpt: "The Lilly Ledbetter Fair Pay Act of 2009 restarted the filing clock for pay claims with each paycheck, reversing Ledbetter v. Goodyear on timing alone."
+excerpt: "The Lilly Ledbetter Fair Pay Act restarted the filing clock for pay claims with each paycheck, reversing Ledbetter v. Goodyear on timing across four statutes."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 87
 author: "maria-santos"

@@ -5,7 +5,7 @@ page_title: "Social Security Code 2020 Explained: The Nine Laws It Replaced, the
 date: 2013-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Social Security Code", "Labour Law", "Gig Workers", "Social Justice", "UPSC"]
-excerpt: "The Social Security Code 2020 replaced nine statutes and named gig workers in Indian law for the first time. What it gives them, and what waits on a scheme."
+excerpt: "The Social Security Code replaced nine statutes and named gig workers in Indian law for the first time. What it gives them, and what still waits on a scheme."
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 83
 author: "deepika-joshi"

@@ -5,7 +5,7 @@ page_title: "Essential Commodities Act 1955: Complete Guide to Section 3 Control
 date: 2014-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Essential Commodities Act", "Social Justice", "Federalism", "Parliament", "UPSC"]
-excerpt: "The Essential Commodities Act 1955 explained: how Section 3 control orders, stock limits, licensing, confiscation and penalties govern trade in essentials."
+excerpt: "The Essential Commodities Act explained: how Section 3 control orders, prices, stock limits, licensing, confiscation and penalties govern trade in essentials."
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 91
 author: "anita-das"

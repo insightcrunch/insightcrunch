@@ -5,7 +5,7 @@ page_title: "Tax Cuts and Jobs Act: Complete Guide to the 2017 Tax Law, Its Suns
 date: "2013-06-15"
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Cuts and Jobs Act", "Federal Tax Policy", "Tax Reform", "Reconciliation", "Corporate Tax"]
-excerpt: "The 2017 tax act made its corporate cut permanent and its individual cuts temporary because Senate procedure demanded it. Every provision group, explained."
+excerpt: "The Tax Cuts and Jobs Act made its corporate cut permanent and its individual cuts temporary because Senate procedure demanded it. Provision groups, explained."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 93
 author: "christopher-wells"

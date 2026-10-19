@@ -5,7 +5,7 @@ page_title: "Trade Act of 1974: Fast Track, Section 301, Section 201, Jackson-Va
 date: "2020-06-01"
 categories: ["Industry"]
 tags: ["US Legislation", "Trade Policy", "Trade Act", "Congress", "American History", "Legislative History"]
-excerpt: "The Trade Act of 1974 joined fast track, safeguards, retaliation, preferences, an emigration condition and adjustment assistance in one enacted text of law."
+excerpt: "The Trade Act joined fast track, safeguards, retaliation, preferences, an emigration condition and adjustment assistance in one enacted text of trade law."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 109
 author: "daniel-morgan"
