@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Labor Law", "American History"]
 excerpt: "The Civil Rights Act title by title: the covered entities, thresholds, express exemptions and defenses that decide coverage questions in employment and beyond."
 image: "/assets/images/blog/blog-95.webp"
-reading_time: 68
+reading_time: 71
 author: "michael-brooks"
 last_updated: 2026-08-05
 lang: en
@@ -592,3 +592,19 @@ They differ, and the differences are load-bearing. Title II covers race, color, 
 ### Q: Can you recover money damages under Title II of the Civil Rights Act of 1964?
 
 No. Title II authorizes preventive relief only, meaning a permanent or temporary injunction, restraining order or other order, with a reasonable attorney fee available to a prevailing party as part of costs, and with provision for the court to appoint counsel and waive fees and security. Congress designed the title to change how establishments operate rather than to compensate individuals, which is why compliance followed enactment quickly and why the title generated far fewer reported decisions over subsequent decades than the employment title. A person seeking damages for a public accommodations refusal must look to state public accommodations law or to other federal statutes. Compensatory and punitive damages did become available under Title VII, but only through the Civil Rights Act of 1991.
+
+### Q: What does section 703(i) allow for a business on or near an Indian reservation?
+
+Section 703(i) provides that a business or enterprise on or near an Indian reservation may give a publicly announced preference in employment to Indians living on or near the reservation. The provision works as a narrow exemption from Title VII rather than as a general exception for any employer or any preference. Its conditions are in the text: the business or enterprise must be on or near a reservation, the preference must be publicly announced, and the persons preferred must be Indians living on or near that reservation. A preference that lacks the public announcement, reaches persons outside the stated group, or is claimed by an enterprise away from a reservation falls outside the words of the provision. The provision is often mistaken for a broader exception, and its limits are the point: it permits the specified Indian preference only, on the specified terms, and it does not disturb Title VII coverage for other employment decisions by the enterprise.
+
+### Q: Which employers were excluded from Title VII under the 1964 text?
+
+Under the definition of employer in the 1964 text, several employers stood outside Title VII altogether. The excluded employers were the United States, a corporation wholly owned by the United States, an Indian tribe, and a department or agency of the District of Columbia subject to civil service rules. The same definition also excluded a bona fide private membership club, other than a labor organization, that was exempt from taxation. These were coverage exclusions, not defenses, so an excluded employer did not need to justify a decision under the title and a person invoking the title had no Title VII claim to prove against it. Federal employment was handled by executive order in the intervening period. The Equal Employment Opportunity Act of 1972 then brought federal employment within the title under a separate section with its own procedures, and extended the title to state and local governments and to educational institutions.
+
+### Q: Who besides employers does Title VII cover?
+
+Section 703 binds three further kinds of party besides the employer named in section 703(a). Section 703(b) applies parallel prohibitions to an employment agency, reaching its classification of individuals and its failure or refusal to refer a person for employment because of race, color, religion, sex or national origin. Section 703(c) applies them to a labor organization, covering exclusion or expulsion from membership, segregation or classification of members, failure or refusal to refer members for employment, and causing or attempting to cause an employer to discriminate. Section 703(d) reaches admission to, and employment in, apprenticeship and other training programs. One set of facts can therefore produce claims against more than one party at once, with an employer and a labor organization each liable on its own terms for its own conduct, because the title binds distinct institutions through distinct operative sections.
+
+### Q: Does Title II cover an establishment located inside a covered establishment?
+
+Yes, in the circumstances the text specifies. Title II covers an establishment that is physically located within the premises of a covered establishment, and it also covers an establishment within whose premises a covered establishment is physically located, where the first establishment holds itself out as serving patrons of the covered establishment. The rule runs in both directions, and the holding out condition is part of it. A barber shop is not a listed category of public accommodation on its own. A barber shop inside a covered hotel, holding itself out as serving hotel guests, is covered through the hotel. The drafting follows the commerce connection of the host establishment, whose link to interstate travel does not stop at its own door, and it prevents a covered place from placing part of its operation outside the title by housing that part under a separate name.

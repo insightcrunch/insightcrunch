@@ -7,7 +7,7 @@ categories: ["Industry"]
 tags: ["US Legislation", "Civil Rights Act", "Civil Rights", "Congress", "Supreme Court", "Labor Law"]
 excerpt: "Civil Rights Act amendments explained, with the later statutes that rewrote the original act on damages, jury trials, pregnancy coverage and pay claims."
 image: "/assets/images/blog/blog-65.webp"
-reading_time: 68
+reading_time: 70
 author: "patrick-dunn"
 last_updated: 2026-08-05
 lang: en
@@ -595,3 +595,19 @@ The authority to sue. As enacted, Title VII gave the commission power to investi
 ### Q: How should a researcher trace an amendment through to the operative text?
 
 Start from the code section, read its credits to identify each public law that touched it, then read the amending act's own text in the Statutes at Large rather than relying on the codified version, because one amending statute often changes several sections at once and the code's arrangement can obscure the connection. Watch for provisions that were placed outside the obvious chapter: the 1991 damages provision sits at 42 U.S.C. section 1981a, next to the Reconstruction-era contracts statute rather than with the rest of the employment title, and a search confined to the 2000e sections will not find it. Then check whether any construction of the amended language has narrowed it since enactment.
+
+### Q: What are the damages caps under the Civil Rights Act of 1991 by employer size?
+
+Section 102 of the Civil Rights Act of 1991, codified at 42 U.S.C. section 1981a, capped the combined total of compensatory and punitive damages available to each complaining party in an intentional discrimination case under Title VII. The ceiling depends on employer size. It is fifty thousand dollars for employers with more than fourteen and fewer than one hundred and one employees, one hundred thousand dollars for employers with more than one hundred and fewer than two hundred and one employees, two hundred thousand dollars for employers with more than two hundred and fewer than five hundred and one employees, and three hundred thousand dollars for employers with more than five hundred employees. Back pay does not count against the cap, because back pay is an equitable make-whole remedy rather than damages.
+
+### Q: When may a party demand a jury trial under the Civil Rights Act of 1991?
+
+Section 102 of the Civil Rights Act of 1991 provides that where compensatory or punitive damages are sought under 42 U.S.C. section 1981a, either party may demand a jury trial. The right matters because Title VII relief before 1991 was equitable, consisting of injunctions, reinstatement, back pay and attorney's fees, and equitable relief carried no jury right. The jury demand is tied to the damages claim, and damages under the 1991 act reach intentional discrimination only. A disparate impact claim obtains equitable relief and fees rather than damages, so the jury provision does not rest on that theory alone. Punitive damages within a jury case also require malice or reckless indifference to federally protected rights.
+
+### Q: How did the Civil Rights Restoration Act of 1987 change the meaning of program or activity?
+
+The Civil Rights Restoration Act of 1987, Public Law 100-259, enacted on March 22, 1988 over a presidential veto, responded to Grove City College v. Bell, 465 U.S. 555 (1984). That decision had construed program or activity in Title IX to attach to the specific program receiving federal assistance rather than to the institution as a whole, and the same phrase appears in Title VI of the 1964 act. The Restoration Act added definitions to four civil rights statutes, providing that program or activity means all of the operations of a department, agency, corporation, partnership or other entity, or of a state or local government instrumentality, any part of which receives federal financial assistance. For Title VI, coverage therefore runs institution-wide.
+
+### Q: How did the Civil Rights Act of 1991 amend the contracts statute at 42 U.S.C. section 1981?
+
+Section 101 of the Civil Rights Act of 1991 amended the Reconstruction-era contracts statute at 42 U.S.C. section 1981. It defined the right to make and enforce contracts as including the making, performance, modification and termination of contracts, and the enjoyment of all benefits, privileges, terms and conditions of the contractual relationship. That language reversed Patterson v. McLean Credit Union, one of the 1989 decisions the 1991 act answered, and restored a route for race claims covering conduct after contract formation. The restored route carries no damages cap and a longer limitations period than Title VII, which is why the two statutes remain distinct even though both were amended in 1991.
