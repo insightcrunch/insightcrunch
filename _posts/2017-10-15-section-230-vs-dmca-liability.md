@@ -3,7 +3,7 @@ layout: post
 title: "Section 230 vs DMCA: Why Platforms Face Two Liability Laws"
 page_title: "Section 230 vs DMCA: immunity vs safe harbor, notice rules and reform"
 date: "2017-10-15"
-categories: ["Technology"]
+categories: ["Industry"]
 tags: ["US Legislation", "Section 230", "DMCA", "Internet Law", "Copyright Law", "Tech Policy"]
 excerpt: "Section 230 grants immunity for third-party content; the DMCA offers only a conditional safe harbor. Five axes divide them, and this article names the verdict."
 image: "/assets/images/blog/blog-72.webp"

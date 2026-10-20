@@ -305,6 +305,8 @@ The verdict restated is the one the article has carried from its opening: author
 
 Within this series, the comparison is the capstone the two single-statute guides point toward. The guide to the earlier law and the guide to the later law each explain what one statute did; this article explains what the pairing means, and the incarceration-impact evidence and the mandatory-minimum mechanics give the reader the two supporting studies the argument requires. Readers who want a fuller path through the subject can continue with the [series study guide](/2022/06/15/us-legislation-study-guide/), and the [VaultBook legislation study notebook](https://vaultbook.net/tools/legislation-study-notebook.html) and the [ReportMedic civics study tool](https://reportmedic.org/tools/us-government-civics-study.html) each carry a companion exercise built on this comparison.
 
+## Frequently Asked Questions
+
 ### Q: What is the difference between the 1994 crime bill and the First Step Act?
 
 The difference is instrument and reach, not mercy against severity. The 1994 statute was a conditional spending program of thirty billion dollars aimed at state and local systems, while the 2018 statute was a direct rewrite of federal sentencing and prison rules confined to the federal system. One purchased influence over states; the other commanded machinery it owned outright.

@@ -5,7 +5,7 @@ page_title: "National Medical Commission Act 2019 Explained: How the NMC Replace
 date: 2015-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Medical Commission Act", "Medical Education", "Health Law", "Judiciary", "UPSC"]
-excerpt: "The National Medical Commission Act 2019 repealed the Indian Medical Council Act 1956 and rebuilt medical regulation around four boards. The design is mapped."
+excerpt: "The National Medical Commission Act repealed the Indian Medical Council Act and rebuilt medical regulation around four boards. The full design is mapped here."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 81
 author: "anita-das"

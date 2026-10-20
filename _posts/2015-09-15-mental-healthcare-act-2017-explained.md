@@ -5,7 +5,7 @@ page_title: "Mental Healthcare Act 2017 Explained: Capacity and Advance Directiv
 date: 2015-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Mental Healthcare Act", "Health Law", "Disability Rights", "Human Rights", "Judiciary", "UPSC"]
-excerpt: "The Mental Healthcare Act 2017 put capacity before custody: advance directives, nominated representatives, enforceable rights and district review boards."
+excerpt: "The Mental Healthcare Act put capacity before custody: advance directives, nominated representatives, enforceable rights and district-level review boards."
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 92
 author: "deepika-joshi"

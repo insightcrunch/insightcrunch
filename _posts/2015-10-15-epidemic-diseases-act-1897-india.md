@@ -3,7 +3,7 @@ layout: post
 title: "Epidemic Diseases Act 1897: A Law of Powers Without Limits"
 page_title: "Epidemic Diseases Act 1897 in Modern Use: Powers, Prosecutions and Missing Limits"
 date: 2015-10-15
-categories: [Industry]
+categories: ["Industry"]
 tags: ["Indian Legislation", "Epidemic Diseases Act", "Public Health Law", "Disaster Management Act", "COVID-19 Pandemic", "Colonial Legislation"]
 excerpt: "Four sections drafted for the Bombay plague became the spine of a pandemic response: broad powers, a borrowed penalty, and no enforceable limits anywhere."
 image: "/assets/images/blog/blog-97.webp"

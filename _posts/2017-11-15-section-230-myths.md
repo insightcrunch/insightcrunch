@@ -3,7 +3,7 @@ layout: post
 title: "Section 230 Myths: Eight Claims Tested Against the Text"
 page_title: "Section 230 Myths Examined: Neutrality, Platforms, Repeal and the Supreme Court Record"
 date: "2017-11-15"
-categories: ["Technology"]
+categories: ["Industry"]
 tags: ["US Legislation", "Section 230", "Internet Law", "Platform Liability", "First Amendment", "Content Moderation"]
 excerpt: "Section 230 draws more myths per word than any federal law. Eight circulating claims are tested against the text, the case law, and First Amendment doctrine."
 image: "/assets/images/blog/blog-39.webp"

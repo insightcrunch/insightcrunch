@@ -5,7 +5,7 @@ page_title: "Medical Termination of Pregnancy Act 1971 Explained: The Offence an
 date: 2015-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Medical Termination of Pregnancy Act", "Health Law", "Criminal Law", "Judiciary", "Social Justice", "UPSC"]
-excerpt: "The Medical Termination of Pregnancy Act 1971 explained: why it protects the doctor rather than the woman, and how its conditions actually work in India."
+excerpt: "The Medical Termination of Pregnancy Act explained: why it protects the doctor rather than the woman, and how its conditions actually work across India."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 94
 author: "deepika-joshi"

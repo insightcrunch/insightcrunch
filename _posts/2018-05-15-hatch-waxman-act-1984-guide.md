@@ -389,6 +389,8 @@ Readers who want the measured effects can turn to the companion on [the generic 
 
 A statute that regulates two adversaries with shared instruments will be learned by both. Hatch-Waxman worked as designed, and it was gamed as designed.
 
+## Frequently Asked Questions
+
 ### Q: What deal did Hatch-Waxman make between brands and generics?
 
 The statute joined two measures that neither industry could pass alone. Generic manufacturers received the abbreviated new drug application under 21 U.S.C. 355(j), which lets a maker of a copy rely on the Food and Drug Administration's earlier finding that the reference drug is safe and effective by demonstrating bioequivalence, and the research safe harbor under 35 U.S.C. 271(e)(1), which permits the testing needed for that application during the patent term. Brand manufacturers received patent term restoration under 35 U.S.C. 156, adding back a portion of the regulatory review time subject to caps of five years and fourteen years of effective patent life, plus regulatory exclusivities that run independently of patents. The certification, thirty-month stay, and first-filer exclusivity machinery sequences the collision between the two halves, deciding when the fast generic lane may open and what the brand may hold shut while it litigates.

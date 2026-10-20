@@ -10,8 +10,6 @@ image: "/assets/images/blog/blog-30.webp"
 reading_time: 96
 author: "kevin-reeves"
 last_updated: 2026-10-09
-slug: "ada-titles-explained"
-permalink: "https://insightcrunch.com/2015/07/15/ada-titles-explained/"
 lang: en
 ---
 ## The single name that hides five statutes

@@ -5,7 +5,7 @@ page_title: "MTP Amendment Act 2021 Explained: The Twenty and Twenty Four Week L
 date: 2015-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "MTP Act", "Health Law", "Social Justice", "Judiciary", "Parliament", "UPSC"]
-excerpt: "The MTP Amendment Act 2021 explained: the raised gestational limits, the categories prescribed by the Rules, Medical Boards and the new privacy offence."
+excerpt: "The MTP Amendment Act explained: the raised gestational limits, the categories prescribed by the Rules, Medical Boards and the privacy offence it created."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 84
 author: "kavita-sharma"

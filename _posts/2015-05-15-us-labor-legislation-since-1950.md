@@ -1,10 +1,10 @@
 ---
 layout: "post"
-title: "US labor legislation: the shift from collective bargaining to individual employment rights"
+title: "US Labor Legislation: From Unions to Individual Rights"
 page_title: "US Labor Legislation Since 1950: The Complete Master Guide to Seventy Years of Federal Workplace Law, From Collective Bargaining to Individual Employment Rights"
 date: "2015-05-15"
 categories: ["Industry"]
-tags: ["US Labor Legislation", "Employment Rights", "Labor Law History", "Union History", "Workplace Protections"]
+tags: ["US Legislation", "Employment Rights", "Labor Law History", "Union History", "Workplace Protections"]
 excerpt: "A master guide to United States labor legislation, tracing the long shift from collective bargaining law to individual employment rights across seven decades."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 102
@@ -144,7 +144,7 @@ The doctrine that gave Title VII its broadest reach arrived through the courts. 
 
 Enforcement design evolved as well. As originally enacted, the Equal Employment Opportunity Commission could investigate charges and conciliate disputes but could not sue employers itself; the private lawsuit carried the enforcement load. That allocation reflected a compromise between those who wanted a strong agency and those who feared one, and it had a lasting consequence: American employment-discrimination law became, more than its drafters anticipated, a law of private litigation, with the plaintiff's bar serving as a decentralized enforcement arm. Congress later expanded the Commission's powers, but the private right of action remained the statute's center of gravity. The pattern repeated across the era. Lawmakers consistently paired a federal agency with an individual right to sue, and consistently found the lawsuits doing the heavier lifting.
 
-The ADEA's distinctive doctrinal problem deserves a final note. Age correlates with attributes employers legitimately value or legitimately fear: experience on one side, higher salary and pension costs on the other. Congress answered with a defense for reasonable factors other than age, a phrase that asked courts to distinguish between decisions genuinely driven by cost or qualifications and decisions using those considerations as cover for bias. The resulting case law was among the most technically demanding in the field, and it exposed a limit of the anti-discrimination template. Where the protected characteristic is universally acquired and closely entangled with economics, the line between discrimination and rational business judgment blurs. That the statute worked at all is a testament to the flexibility of the individual rights model; that it worked imperfectly is a reminder of the model's costs.
+The ADEA's distinctive doctrinal problem deserves a final note. Age correlates with attributes employers legitimately value or legitimately fear: experience on one side, higher salary and pension costs on the other. Congress answered with a defense for reasonable factors other than age, a phrase that asked courts to distinguish between decisions genuinely driven by cost or qualifications and decisions using those considerations as cover for bias. The resulting case law was among the most technically demanding in the field, and it exposed a limit of the anti-discrimination template. Where the protected characteristic is universally acquired and closely entangled with economics, the line between discrimination and rational business judgment blurs. That the statute worked at all shows the flexibility of the individual rights model; that it worked imperfectly is a reminder of the model's costs.
 
 ## The Amendments That Matured the Machinery
 

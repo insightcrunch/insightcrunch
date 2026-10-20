@@ -1,10 +1,17 @@
 ---
 layout: "post"
-title: "The Supreme Court and the ADA"
+title: "Supreme Court ADA Cases: Disability Rights Landmark Rulings"
 page_title: "The Supreme Court and the ADA: Major Disability Cases"
 date: "2015-08-15"
-categories: "[\"Industry\"]"
-tags: "[\"ADA\", \"Supreme Court\", \"disability law\", \"Olmstead\", \"sovereign immunity\", \"employment law\", \"civil rights\"]"
+categories: ["Industry"]
+tags:
+  - "US Legislation"
+  - "ADA"
+  - "Supreme Court"
+  - "Disability Law"
+  - "Olmstead"
+  - "Sovereign Immunity"
+  - "Civil Rights"
 excerpt: "How the Supreme Court shaped the Americans with Disabilities Act: the narrowed definition, the state immunity split, and the integration mandate explained."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 115

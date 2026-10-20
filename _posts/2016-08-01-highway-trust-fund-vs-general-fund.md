@@ -10,8 +10,6 @@ image: "/assets/images/blog/blog-102.webp"
 reading_time: 84
 author: "william-knight"
 last_updated: 2026-10-13
-slug: "highway-trust-fund-vs-general-fund"
-series: "us-legislation"
 lang: en
 ---
 The user-pays principle already ended. That sentence sounds like a verdict, and it is meant as one, because the comparison between the Highway Trust Fund and general fund financing of roads is not really a contest between two live options. In August 2016, one of them has stopped working in practice, and the other has already taken its place, quietly, year after year, through transfers that Congress authorizes and describes in the language of the old system. The honest question is no longer whether roads should be paid for by users or by everyone. It is whether Congress should rebuild a user-fee system that can actually pay for the network, or admit that the network is funded from general revenue and design that funding openly. The deciding factor is where the reader believes discipline should come from: whether transportation spending should be constrained by what drivers pay, or determined by what the transportation network needs. Everything in this comparison follows from that choice, because the reader's preference will track whichever risk they consider greater, the risk of a network starved by a frozen tax, or the risk of a budget freed from the discipline of the pump.

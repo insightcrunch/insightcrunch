@@ -4,7 +4,7 @@ title: "Two Statutes, One Signature: The CHIPS and Science Act"
 page_title: "The CHIPS and Science Act: Semiconductor Incentives, Guardrails, Authorizations, and the Funding Gap Explained"
 date: "2017-03-15"
 categories: ["Industry"]
-tags: ["US Legislation", "Technology Policy", "Semiconductors", "Federal Science"]
+tags: ["US Legislation", "Technology Policy", "Semiconductors", "Federal Science", "Industrial Policy", "Science Policy"]
 excerpt: "The CHIPS and Science Act is two statutes in one: real appropriated money for semiconductor factories, and science authorizations that were never fully funded."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 94
@@ -189,7 +189,7 @@ The first half of this statute spends money. The second half expresses intention
 
 The bundling of the two divisions was itself a legislative strategy, and understanding it explains why the money and the intentions share a public law number. The semiconductor incentives needed sixty Senate votes and a presidential signature; standing alone, they were a corporate subsidy package that many legislators found difficult to vote for without a broader public purpose attached. The science authorizations supplied that purpose: they let supporters describe the bill as an investment in research, education, and regional equity rather than a handout to profitable firms, and they gave the House and Senate science committees, whose members had spent years drafting the competition provisions, a stake in the outcome. Each half made the other passable. The cost of the bargain was conceptual confusion that persists in coverage to this day, because a bill sold as a $280 billion investment in science and chips was, in fiscal reality, a $52.7 billion investment in chips with a $200 billion science wish list attached to it.
 
-### What Is the Difference Between an Authorization and an Appropriation?
+### Why Does Division A Appropriate Directly While Division B Only Authorizes?
 An authorization gives an agency permission to receive money and sets a ceiling Congress intends to fund. An appropriation is the money itself, provided in a separate spending bill. The CHIPS and Science Act authorized roughly $174 billion for science agencies but appropriated almost none of it, so the science half was a statement of intent, not a check.
 
 The two-step structure is a deliberate feature of congressional procedure, not an accident or a drafting error. Authorizing committees, in this case principally the House Science Committee and the Senate Commerce Committee, write the substantive law: they create programs, define missions, set eligibility rules, and declare how much an agency may receive in each fiscal year. Appropriations committees then decide, in the twelve annual spending bills, how much each agency actually gets. The authorization is addressed to the future; the appropriation is addressed to the Treasury. A program can be authorized for decades without ever receiving its authorized level, and a program can receive appropriations year after year on the strength of an expired authorization that nobody has bothered to renew. The two tracks answer to different majorities, different calendars, and different political pressures.

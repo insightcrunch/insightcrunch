@@ -5,7 +5,7 @@ page_title: "Transplantation of Human Organs Act 1994: Brain-Stem Death, Near Re
 date: 2015-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Transplantation of Human Organs Act", "Health Law", "Federalism", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Transplantation of Human Organs Act 1994 explained: brain-stem death, near relatives, committee approvals, penalties, swap donation and the state map."
+excerpt: "The Transplantation of Human Organs Act explained: brain-stem death, near relatives, committee approvals, penalties, swap donation and the full state map."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 91
 author: "deepika-joshi"

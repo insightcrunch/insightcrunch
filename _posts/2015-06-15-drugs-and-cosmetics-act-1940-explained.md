@@ -5,7 +5,7 @@ page_title: "Drugs and Cosmetics Act 1940 Explained: Central Approval of New Dru
 date: 2015-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Drugs and Cosmetics Act", "Criminal Law", "Federalism", "Parliament", "UPSC"]
-excerpt: "The Drugs and Cosmetics Act 1940 explained: central approval of new drugs, state licensing of manufacture and sale, and the penalties for spurious medicines."
+excerpt: "The Drugs and Cosmetics Act explained: central approval of new drugs, state licensing of manufacture and sale, and the penalties for spurious medicines."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
 author: "anita-das"

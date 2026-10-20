@@ -3,7 +3,7 @@ layout: "post"
 title: "Internet Law and the Supreme Court: Five Lines of Decisions"
 page_title: "internet law: The Supreme Court Decisions That Shaped Online Speech"
 date: "2017-09-15"
-categories: ["Technology"]
+categories: ["Industry"]
 tags: ["US Legislation", "Internet Law", "First Amendment", "Supreme Court", "Content Moderation", "Section 230"]
 excerpt: "Five lines of decisions built American internet law: Reno, the funding split, Packingham, the moderation cases, and the liability statute never construed."
 image: "/assets/images/blog/blog-56.webp"
