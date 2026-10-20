@@ -14,7 +14,7 @@ tags:
 excerpt: "Twelve persistent claims about American surveillance law, checked against statutes, declassified opinions and reports, with sourced verdicts for each."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 85
-author: "insight-crunch-team"
+author: "daniel-morgan"
 last_updated: "2026-10-05"
 lang: en
 ---
