@@ -7,26 +7,26 @@ categories: ["Leisure"]
 tags: ["singles-events", "dating-events", "speed-dating", "singles-mixers", "nightlife", "chicago"]
 excerpt: "The 20 best singles events in Chicago for the next two weeks: speed dating, singles mixers, trivia nights and social events where meeting someone is easy."
 image: "/assets/images/blog/blog-11.webp"
-reading_time: 71
+reading_time: 74
 author: "diana-patel"
-last_updated: 2026-10-17
+last_updated: 2026-10-18
 lang: en
 ---
 ## Singles Events in Chicago: The Next Two Weeks
 
-Chicago might be the easiest big city in America to date in, because Chicagoans actually go out. The next two weeks are stacked with speed dating in Chicago, from a singles mixer at the Four Seasons to sapphic speed dating at a Rogers Park tea bar, bookstore speed dating for queer women, singles bowling in Lakeview and trivia and salsa nights where nobody minds you arriving alone. If you want to meet singles in Chicago, this is your two-week plan.
+Chicago might be the easiest big city in America to date in, because Chicagoans actually go out. The next two weeks are stacked with speed dating in Chicago, from a singles mixer at the Four Seasons to sapphic speed dating at an Andersonville tea bar, bookstore speed dating for queer women, board game speed dating in Uptown, a live comedy dating show with its own singles mixer, and Halloween costume balls where nobody minds you arriving alone. If you want to meet singles in Chicago, this is your two-week plan.
 
 ![Singles events in Chicago - Insight Crunch](/assets/images/blog/blog-11.webp)
 
-**This edition covers Thursday, October 15 to Wednesday, October 28, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
+**This edition covers Monday, October 19 to Sunday, November 1, 2026.** The list is refreshed every Sunday with a new rolling two-week window, so expired events disappear and new ones take their place. Every event below is labeled: a **Singles event** exists to help you meet a partner, while a **Singles-friendly** event is a social night where arriving alone is normal and conversation is easy. Audience labels (age ranges, LGBTQ+ and more) come straight from each organizer's listing. Prices and times are as listed by the organizer; check the event page before you go, because popular speed dating nights sell out one gender's tickets first.
 
-This fortnight leans heavily toward dedicated dating events: thirteen of the twenty are built purely for introductions, including five separate speed dating nights in five different neighborhoods. That is a very Chicago pattern, and it is good news for anyone who has sworn off the apps. Instead of swiping through the same forty profiles everyone else is swiping through, you can sit across from a dozen real people in one evening, hear their actual laugh, and know within six minutes whether there is anything there. The seven singles-friendly picks round out the calendar with lower-pressure options: a museum scavenger hunt, a cooking class, a free Day of the Dead festival, and a weekly lakefront run club where conversation happens at jogging pace.
+This fortnight leans heavily toward dedicated dating events: twelve of the twenty are built purely for introductions, including speed dating nights across West Town, Logan Square, Uptown, and Lakeview. That is a very Chicago pattern, and it is good news for anyone who has sworn off the apps. Instead of swiping through the same forty profiles everyone else is swiping through, you can sit across from a dozen real people in one evening, hear their actual laugh, and know within six minutes whether there is anything there. The eight singles-friendly picks round out the calendar with lower-pressure options: a Halloween season running daily at the Field Museum, a cooking class, a free Day of the Dead festival, two big Halloween costume parties, a Sunday Day of the Dead bar crawl, and a weekly lakefront run club where conversation happens at jogging pace.
 
-Use the list like a menu rather than a marathon. Pick two or three events that match your energy: one structured dating event where the introductions are handled for you, and one activity event where the talking takes care of itself. Book the ticketed ones as soon as you decide, because organizers balance their rooms and the later-booking side often ends up waitlisted. Then read the neighborhood and ambience sections further down before you go. Knowing that the Four Seasons mixer calls for a blazer while the Waveland bowling night calls for a flannel will save you the only genuinely awkward moment of the night, which is being dressed for the wrong room.
+Use the list like a menu rather than a marathon. Pick two or three events that match your energy: one structured dating event where the introductions are handled for you, and one activity event where the talking takes care of itself. Book the ticketed ones as soon as you decide, because organizers balance their rooms and the later-booking side often ends up waitlisted. Then read the neighborhood and ambience sections further down before you go. Knowing that the Four Seasons mixer calls for a blazer while the board game night in Uptown calls for a flannel will save you the only genuinely awkward moment of the night, which is being dressed for the wrong room.
 
 One more thing before the listings: every event here was checked against its organizer's own page, and every price, time, and audience note comes from that page. Where a listing did not publish a price, the listing says so rather than guessing. Events sell out, venues occasionally move rooms, and Halloween week is the busiest social stretch of the Chicago fall, so a thirty-second confirmation on the event page before you leave the house is always worth it.
 
-A word on how to read the guide itself. The listings are the skeleton, but the sections after them are the strategy: a neighborhood map, a decoder for what each kind of room feels like, a success playbook for each format, and an honest section on handling rejection, because rejection is a scheduled part of this process and the people who date well through events are the ones who plan for it. Read the listings first and mark your two or three. Then read the rest with those specific rooms in mind. An evening at the Four Seasons and an evening at Waveland Bowl are both excellent, and they ask for almost opposite versions of you. Knowing which version to bring is most of what this guide is for.
+A word on how to read the guide itself. The listings are the skeleton, but the sections after them are the strategy: a neighborhood map, a decoder for what each kind of room feels like, a success playbook for each format, and an honest section on handling rejection, because rejection is a scheduled part of this process and the people who date well through events are the ones who plan for it. Read the listings first and mark your two or three. Then read the rest with those specific rooms in mind. An evening at the Four Seasons and an evening at Uptown Taproom are both excellent, and they ask for almost opposite versions of you. Knowing which version to bring is most of what this guide is for.
 
 ## How Dating Works in Chicago
 
@@ -34,13 +34,13 @@ Chicago dating runs on neighborhoods. This is a city of taverns on residential c
 
 The neighborhood loyalty cuts both ways. Chicagoans joke about refusing to date across the river or across the expressway, and like most local jokes it is half true. Someone in Logan Square and someone in Hyde Park can live forty-five CTA minutes apart and effectively inhabit different cities. This is why the events on this list matter by location as much as by format. A speed dating night in your own part of town draws people whose daily lives already overlap with yours: same grocery stores, same train line, same Sunday farmers market. Matches made close to home survive at a higher rate than matches made across a commute, simply because seeing each other again is easy.
 
-App culture exists here, of course, but it has a distinctly Chicago flavor of fatigue. The apps recycle the same pool, conversations die in the thread, and winter makes everyone flaky about crossing town for a stranger. The organized-events scene has grown up as the direct answer to that fatigue. Local organizers like Meet IRL have built a whole calendar around curated, in-person formats: trivia teams assembled by a matching algorithm, speed dating sorted by age and lifestyle, even a night built specifically for child-free singles. National players run Chicago editions too, and community organizers fill the calendar with mixers for South Asian professionals, sapphic speed dating in Andersonville, and bookstore dating for queer women in West Town. The scene is not one scene. It is a dozen overlapping ones, and this list tries to map all of them.
+App culture exists here, of course, but it has a distinctly Chicago flavor of fatigue. The apps recycle the same pool, conversations die in the thread, and winter makes everyone flaky about crossing town for a stranger. The organized-events scene has grown up as the direct answer to that fatigue. Local organizers like Meet IRL have built a whole calendar around curated, in-person formats: speed dating sorted by age and lifestyle, bookstore dating, even a night built specifically for child-free singles. National players run Chicago editions too, and community organizers fill the calendar with mixers for South Asian professionals, sapphic speed dating in Andersonville, and bookstore dating for queer women in West Town. The scene is not one scene. It is a dozen overlapping ones, and this list tries to map all of them.
 
 Underneath the culture sits a demographic engine that keeps the whole scene supplied: Chicago is a magnet city for the young and unattached. Its universities, teaching hospitals, corporate headquarters, and trading floors import ambitious twenty- and thirty-somethings from every state in the Midwest and beyond, most of them arriving with a degree, a lease, and almost no local network. Transplants are the events market's best customers, because they need exactly what events sell, a room where meeting people is the sanctioned activity rather than an accident of friendship. Natives benefit from the arrangement too; the constant inflow keeps the dating pool from collapsing into the same two hundred people everyone already knows. If you moved to Chicago within the last two years, you are not behind. You are the demographic the entire scene was built for, and the correct strategy is volume early: more rooms, more formats, more neighborhoods, until the city starts feeling like a place where you are known. That feeling, when it arrives, is the sound of the dating market unlocking.
 
 Seasonality matters more in Chicago than in milder cities. Summer belongs to street festivals, rooftop bars, and the lakefront, and dating is easy and ambient. Autumn is the city's social peak: the weather is still kind, everyone is back from vacation, Halloween gives strangers an excuse to talk, and the run-up to winter creates a gentle urgency about finding someone before the city retreats indoors. Winter dating is real but deliberate; nobody crosses town in a February wind chill for a maybe. The two weeks covered here sit in the sweet spot of the year, which is exactly why the calendar is this full.
 
-The ambience of Chicago dating is refreshingly unpretentious compared with either coast. The default date is a neighborhood bar, not a scene. People dress well without dressing up, talk sports without apology, and treat a second drink as a meaningful signal. Pretense reads badly here; warmth and follow-through read well. The events below reflect that range, from the polished calm of a Gold Coast hotel bar to a bowling alley on Western Avenue where the beer is cheap and the group charm around your neck does the introducing. Both rooms produce real relationships. They simply ask different things of you, and the sections after the listings will help you tell them apart before you spend money on the wrong one.
+The ambience of Chicago dating is refreshingly unpretentious compared with either coast. The default date is a neighborhood bar, not a scene. People dress well without dressing up, talk sports without apology, and treat a second drink as a meaningful signal. Pretense reads badly here; warmth and follow-through read well. The events below reflect that range, from the polished calm of a Gold Coast hotel bar to a Uptown taproom where the board games are cheap and the gaming concierge does the introducing. Both rooms produce real relationships. They simply ask different things of you, and the sections after the listings will help you tell them apart before you spend money on the wrong one.
 
 Transit quietly governs all of it. The CTA's Red and Brown Lines stitch the North Side's dating neighborhoods into a single circuit, Lincoln Park to Lakeview to Andersonville, while the Blue Line runs the northwest corridor through Logan Square, Wicker Park, and Avondale. Singles who live near a line date more, and more easily, than singles who must drive and park for every attempt, which is another argument for choosing events inside your own transit geography. A match that requires two trains and a bus in January is a match the winter will test severely. A match four stops away survives the season.
 
@@ -50,90 +50,16 @@ The last piece of local mechanics is the regulars economy. Chicago's bars, run c
 
 | Event | Date | Type | Cost |
 |---|---|---|---|
-| Meet IRL - Singles Trivia Night: Spooky Theme! | Thu, Oct 15 | Singles event | From $34.71 |
-| Singles Book Share and Swap, 35+ | Thu, Oct 15 | Singles event | Early Bird $15 / General Admission $20 |
-| Singles Bowling Meet Up at Waveland (36-50) | Fri, Oct 16 | Singles event | From $15.18 (General Admission $28.52; 2-for-1 deal $15.18) |
-| Meet IRL - Curated Speed Dating - Ages 34-46 | Sat, Oct 17 | Singles event | $38.04 – $43.97 |
-| Chicago Singles Meet & Mingle - Ages 28–49 | Sun, Oct 18 | Singles event | $16.80 – $26.88 (Early Bird $15 / Regular $25 before fees) |
+| Meet IRL - Bookstore Speed Dating - Queer Women Ages 25+ | Tue, Oct 20 | Singles event | $37.53 – $43.38 |
+| Meet IRL - Child-free Speed Dating at Way Out - Ages 30-39 | Tue, Oct 20 | Singles event | $37.02 – $42.79 |
+| Board Game Speed Dating - Uptown Tap - Ages 20s & 30s | Wed, Oct 21 | Singles event | $25.00 – $45.00 |
+| South Asian Singles Mixer - Healthcare, Tech & Finance Professionals | Thu, Oct 22 | Singles event | From $33.85 |
+| Slow Burn: Sapphic Speed Dating - Spooky Edition | Sat, Oct 24 | Singles event | From $23.18 |
 
 ## Singles Events in Chicago (Dating Events and Mixers)
 
-### 1. Meet IRL | Singles Trivia Night: Spooky Theme!
+### 1. Meet IRL | Bookstore Speed Dating | Queer Women Ages 25+
 
-**When:** Thursday, October 15, 2026, 6:30 PM – 9:00 PM · **Where:** Fatpour Wicker Park, 2005 W Division St, Wicker Park · **Cost:** From $34.71
-**Type:** Singles event · **Good for:** All singles
-
-Single attendees are grouped into trivia teams by a matching algorithm, and the teams change three times over the night so everyone meets a rotating mix of people while playing spooky-themed trivia.
-
-This is the smartest format on the whole list for anyone who freezes at pure mingling, because the game does the social work for you. You arrive, check in, and get placed on a team the algorithm thinks you will click with. For the next stretch you are co-conspirators: arguing over answers, high-fiving over lucky guesses, and learning who is funny under pressure and who takes a pub quiz extremely seriously. Then the teams shuffle, twice more, so by the end of the night you have had real conversations with three different groups instead of one long awkward one. The spooky theme keeps the questions seasonal and the energy playful rather than competitive.
-
-Fatpour is a big, busy Wicker Park taproom with long communal tables, a serious beer list, and the kind of friendly roar that makes leaning in to talk feel natural. It is a first-date-friendly neighborhood room, lively without being a club, and Division Street outside gives you easy options to extend the night. The crowd skews social and curious: people who would rather bond over a shared activity than shout over a DJ.
-
-Success tip: volunteer to be your team's answer-writer in one round and its spokesperson in another. Quiet competence is visible, and the rotations reward people who contribute without dominating. If a teammate catches your eye, the natural move is a between-rounds drink run together, not a phone number grab mid-question.
-
-[Event details and tickets](https://www.eventbrite.com/e/meet-irl-singles-trivia-night-spooky-theme-tickets-2002183524820)
-
-### 2. Singles Book Share and Swap, 35+
-
-**When:** Thursday, October 15, 2026, 6:00 PM – 8:15 PM · **Where:** Side Practice Coffee, 5139 N Damen Ave, Ravenswood · **Cost:** Early Bird $15 / General Admission $20
-**Type:** Singles event · **Good for:** Singles 35+ (the page frames the event for heterosexual singles)
-
-Each guest brings one book to swap and trades books with other singles over conversation; the ticket includes pizza, wine, and light beer, and attendance is capped at 25 guests.
-
-Twenty-five people, one beloved book each, pizza and wine on the table: this is the gentlest on-ramp on the entire list. The book you bring does your introducing for you. Someone picks it up, asks why you chose it, and suddenly you are in a real conversation about what you love and how you think, instead of the usual where-do-you-live, what-do-you-do loop. The swap format means everyone leaves with a new book and, more usefully, a natural reason to follow up: you will want to know what they thought of yours.
-
-Side Practice Coffee is a small Ravenswood cafe, all warm wood and neighborhood calm, and an early evening start means the whole thing feels like a dinner party at a friend's place rather than a dating event. The 35-plus framing and the modest cap keep the room mature and unhurried. Expect readers, teachers, professionals, and the book-club faithful, people who chose a Thursday night with novels over a night on the apps.
-
-Success tip: bring a book you genuinely love and can talk about for two minutes, not a book you think will impress. A dog-eared favorite with a story attached beats a pristine classic every time. Arrive near the start, while the swap table is fresh and the best conversation partners are still unclaimed.
-
-[Event details and tickets](https://www.eventbrite.com/e/singles-book-share-and-swap-35-tickets-2001886280755)
-
-### 3. Singles Bowling Meet Up at Waveland (36-50)
-
-**When:** Friday, October 16, 2026, 6:00 PM – 9:00 PM · **Where:** Waveland Bowl, 3700 N Western Ave, Horner Park · **Cost:** From $15.18 (General Admission $28.52; 2-for-1 deal $15.18)
-**Type:** Singles event · **Good for:** Singles ages 36–50
-
-Hosted by Meet Sweet, singles check in at 6:00 PM, receive a group charm instead of a name tag, and bowl together on group lanes from 6:30 PM with drinks and snacks available; the host also takes high-quality photos guests can use for dating profiles.
-
-Bowling is the great equalizer of dating formats. Nobody looks cool in rental shoes, everyone is equally likely to throw a gutter ball, and the game hands you a rhythm that pure conversation never does: throw, sit, chat, laugh, throw again. Meet Sweet's twist is the group charm system. Instead of a name tag announcing your availability, you carry a charm that groups you, which lowers the stakes and makes moving between lanes feel like mingling rather than shopping. Check-in starts at 6:00 PM and lanes roll at 6:30, giving you a full three hours of low-pressure rotation through your group's frames.
-
-Waveland Bowl is a proper old-school Chicago bowling house on Western Avenue: big, bright, unpretentious, with pitchers of beer and lane-side snacks. The 36-to-50 age band is one of the most underserved in the events world, and this room knows it. Expect divorced-and-dating-again energy, career-settled confidence, and very little posturing. The host's offer of quality photos for dating profiles is a small, telling detail: this organizer understands the whole ecosystem its guests live in.
-
-Success tip: the 2-for-1 deal exists so you can bring a single friend, and pairs of friends are visibly more relaxed than solo arrivals. If you do come alone, aim your conversation at the frames, not the profiles: compliment a spare, groan at your own splits, and let the game keep manufacturing moments.
-
-[Event details and tickets](https://allevents.in/chicago/singles-bowling-meet-up-at-waveland-36-50/100001999267224086)
-
-### 4. Meet IRL | Curated Speed Dating | Ages 34-46
-
-**When:** Saturday, October 17, 2026, 4:00 PM – 6:30 PM · **Where:** Tune-Up, 3810 W Belmont Ave, Avondale · **Cost:** $38.04 – $43.97
-**Type:** Singles event · **Good for:** Singles ages 34–46 (heterosexual dating; ladies' tickets listed as sold out)
-
-Curated speed dating where attendees are matched with compatible people in the room for a series of one-on-one mini dates.
-
-The word curated is doing real work in this listing. Meet IRL's model matches attendees for compatibility before the rotations begin, so your sequence of mini dates is not random: it is drawn from the slice of the room most likely to fit your life. For singles in the 34-to-46 band, that filtering is the entire value proposition. People arrive with careers, histories, and clear intentions, and nobody has patience for twelve conversations with people at completely different life stages. The Saturday late-afternoon slot is a quiet advantage too: a 4:00 PM start means daylight, energy, and an evening still free if a match wants to continue somewhere.
-
-Tune-Up in Avondale is a neighborhood bar with a vinyl-era soul, the kind of room with wood, warm light, and a crowd that skews local. Avondale itself is one of Chicago's great under-the-radar dating neighborhoods, full of people who moved northwest for space and stayed for the community. Note the listing's own signal: ladies' tickets were listed as sold out, which tells you demand on that side is strong and that men who book early are walking into a well-balanced room.
-
-Success tip: because the matching is curated, your pre-event profile in the organizer's system matters as much as your in-person charm. Fill it out honestly and specifically. Then, during the rotations, ask one question nobody else is asking, about their neighborhood, their Sunday, their last great meal. Specific beats generic at six minutes a round.
-
-[Event details and tickets](https://www.eventbrite.com/e/meet-irl-curated-speed-dating-ages-34-46-ladies-tickets-sold-out-tickets-2002629793622)
-
-### 5. Chicago Singles Meet & Mingle | Ages 28–49
-
-**When:** Sunday, October 18, 2026, 6:00 PM – 8:00 PM · **Where:** Augie's, 1721 W Wrightwood Ave, Lincoln Park (Lathrop Homes) · **Cost:** $16.80 – $26.88 (Early Bird $15 / Regular $25 before fees)
-**Type:** Singles event · **Good for:** Singles ages 28–49
-
-Hosted by LUV TALK INC, this mixer pairs hosted icebreakers with open mingling at guests' own pace; the ticket includes one welcome drink (seltzer, mocktail, or beer), and guests may come solo or bring a friend.
-
-Every list needs one low-cost, low-commitment, easy-first-step event, and this is Chicago's this fortnight. The format alternates hosted icebreakers with open mingling, which solves the two failure modes of mixers in a single design: the icebreakers rescue anyone who does not know how to start, and the open stretches reward anyone who does. The welcome drink is part of the ticket, with seltzer and mocktail options sitting beside the beer, a small detail that tells you the host, LUV TALK INC, has thought about guests who do not drink. Solo arrivals are explicitly normal here, and bringing a friend is allowed rather than merely tolerated.
-
-Augie's sits on Wrightwood in Lincoln Park near the Lathrop Homes, a comfortable neighborhood bar territory where the crowd leans young-professional and the Sunday 6:00 PM start gives the evening a relaxed, end-of-weekend warmth. The wide 28-to-49 band means you will meet people across a real range of life stages, which suits browsers and explorers better than the tightly filtered nights elsewhere on this list. At early-bird pricing, it is also the cheapest ticketed dating event in this edition.
-
-Success tip: use the icebreaker rounds as your scouting pass. Note the two or three people you actually want a longer conversation with, then spend the open mingling time on them specifically rather than working the whole room. Two real conversations beat fifteen hellos, every single time.
-
-[Event details and tickets](https://www.eventbrite.com/e/chicago-singles-meet-mingle-ages-2849-tickets-2002650102366)
-
-### 6. Meet IRL | Bookstore Speed Dating | Queer Women Ages 25+
 
 **When:** Tuesday, October 20, 2026, 6:30 PM – 9:00 PM · **Where:** Passages Wine and Books, 1911 W Chicago Ave, West Town · **Cost:** $37.53 – $43.38
 **Type:** Singles event · **Good for:** Queer women and non-binary folx, ages 25+
@@ -148,7 +74,8 @@ Success tip: your app profile is your first date here, so write it like one. Nam
 
 [Event details and tickets](https://www.eventbrite.com/e/meet-irl-bookstore-speed-dating-queer-women-ages-25-tickets-2002183966140)
 
-### 7. Meet IRL | Child-free Speed Dating at Way Out | Ages 30-39
+### 2. Meet IRL | Child-free Speed Dating at Way Out | Ages 30-39
+
 
 **When:** Tuesday, October 20, 2026, 6:30 PM – 9:00 PM · **Where:** Way Out, 3213 W Armitage Ave, Logan Square · **Cost:** $37.02 – $42.79
 **Type:** Singles event · **Good for:** Child-free singles ages 30–39
@@ -163,7 +90,23 @@ Success tip: lead with what your child-free life makes room for, not with the de
 
 [Event details and tickets](https://www.eventbrite.com/e/meet-irl-child-free-speed-dating-at-way-out-ages-30-39-tickets-2001710661473)
 
-### 8. South Asian Singles Mixer | Healthcare, Tech & Finance Professionals
+### 3. Board Game Speed Dating - Uptown Tap - Chicago - (Ages 20s & 30s)
+
+**When:** Wednesday, October 21, 2026, 7:00 PM – 9:00 PM · **Where:** Uptown Taproom, 1265 West Wilson Ave, Uptown · **Cost:** $25.00 – $45.00
+**Type:** Singles event · **Good for:** Singles in their 20s and 30s
+
+Run by Quirk Events, a gaming concierge walks groups of singles through several light board games over the night, each round with a different group; at the end, guests tell the concierge who they would like to date and who they would like as a friend, and mutual choices are connected by email.
+
+This is speed dating rebuilt for people who would rather play than perform. Instead of six exposed minutes across a table, you get a game in your hands, a small group around you, and a concierge who teaches the rules, keeps the rounds moving, and quietly handles the matching at the end. The games are chosen to be light and easy to learn, a mix of familiar classics and new discoveries, precisely so the conversation has room to happen over the top of them. You will learn more about a person from how they bluff, lose, and celebrate than from any rehearsed opener, and the group format means a flat round costs you nothing: the next game brings a fresh table.
+
+Uptown Taproom on Wilson Avenue is a relaxed, beer-forward neighborhood room in Uptown, the kind of place where a Wednesday night crowd of players feels entirely at home. The 20s and 30s band, the two-list system (date or friend), and the organizers' note that tickets have consistently sold well all point to a room that takes the matching seriously while keeping the mood loose. Arrive by 7:00 PM sharp; the listing warns that arrivals after 7:10 may not meet all their potential matches.
+
+Success tip: play to include, not to win. Teach the rule someone missed, pass the good cards story around the table, and remember names between rounds, because your end-of-night list is only useful if you can attach it to faces. When you hand your concierge two honest lists, one for dates and one for friends, you double the value of the night either way.
+
+[Event details and tickets](https://www.eventbrite.com/e/board-game-speed-dating-uptown-tap-chicago-ages-20s-30s-tickets-2002290241011)
+
+### 4. South Asian Singles Mixer | Healthcare, Tech & Finance Professionals
+
 
 **When:** Thursday, October 22, 2026, 6:00 PM – 9:00 PM · **Where:** Barcocina West Town, 1814 W Chicago Ave, West Town · **Cost:** From $33.85
 **Type:** Singles event · **Good for:** South Asian singles working in healthcare, tech, or finance
@@ -178,7 +121,8 @@ Success tip: the twelve-minute rounds reward depth over breadth. Have two storie
 
 [Event details and tickets](https://www.eventbrite.ca/e/south-asian-singles-mixer-healthcare-tech-finance-professionals-tickets-1999317328951)
 
-### 9. Slow Burn: Sapphic Speed Dating – Spooky Edition
+### 5. Slow Burn: Sapphic Speed Dating – Spooky Edition
+
 
 **When:** Saturday, October 24, 2026, 10:30 AM – 12:00 PM · **Where:** Eli Tea Bar, 5507 N Clark St, Andersonville · **Cost:** From $23.18
 **Type:** Singles event · **Good for:** Queer women (sapphic singles); trans, non-binary, and bisexual participants welcome per the page
@@ -193,7 +137,8 @@ Success tip: actually listen during the opening presentation. The prompts that f
 
 [Event details and tickets](https://allevents.in/chicago/slow-burn-sapphic-speed-dating-spooky-edition/100001999286901943?ref=recently-added)
 
-### 10. Slow Burn: Gay Men's Speed Dating – Halloween Edition
+### 6. Slow Burn: Gay Men's Speed Dating – Halloween Edition
+
 
 **When:** Saturday, October 24, 2026, 12:00 PM – 1:00 PM · **Where:** Eli Tea Bar, 5507 N Clark St, Andersonville · **Cost:** $23.18
 **Type:** Singles event · **Good for:** Gay men, ages 18+; trans, non-binary, and bisexual participants welcome per the page
@@ -208,7 +153,38 @@ Success tip: with only an hour, the mixer afterward is not optional socializing,
 
 [Event details and tickets](https://www.eventbrite.com/e/slow-burn-gay-mens-speed-dating-halloween-edition-tickets-1999286130636)
 
-### 11. HALLOWEEN Chicago Speed Dating for Singles 20s/30s – Costumes Optional
+### 7. Garam Masala Comedy Dating Show: Shacking Up In Chicago
+
+**When:** Saturday, October 24, 2026, 6:00 PM – 7:30 PM (doors 5:30 PM) · **Where:** The Lincoln Lodge, 2040 N Milwaukee Ave, Logan Square / Bucktown · **Cost:** $19.64 – $54.86
+**Type:** Singles event · **Good for:** All singles
+
+Two South Asian singles meet on a real blind date on stage in front of a live audience, hosted by comedians Surbhi and Wyatt Feegrado; audience members can volunteer to "steal" a dater, and after the show the room turns into a singles mixer with a DJ / afterparty per the organizer.
+
+Every city has a dating format that could only work live, and this is Chicago's most joyful one this fortnight. Garam Masala began in New York as a live comedy dating show built around two strangers, one stage, and hosts who play wingman, roast, and referee in equal measure. The audience is not passive: it votes, reacts, and, in the show's signature move, can send a volunteer on stage to steal one of the daters. Participation is entirely voluntary, the listing stresses, and most of the room simply watches, drinks, and laughs. Then comes the part regulars swear by: the after-show singles mixer, where two hundred people who have just shared the same jokes suddenly have the easiest opening lines in Chicago.
+
+The Lincoln Lodge on Milwaukee Avenue is an intimate comedy room, close enough to the stage that the date's awkward pauses land like punchlines. The show carries Bollywood flavor and centers South Asian daters, and its own FAQ is explicit that you do not need to be South Asian, or even single, to belong in the audience. Doors are at 5:30 PM for a 6:00 PM sharp start, and the show is filmed, which the listing discloses plainly.
+
+Success tip: stay for the mixer and open with the show, not with yourself. Everyone in that room just watched the same date rise and wobble, so a shared opinion about the steal, the hosts, or the bravest moment of the night is a genuine conversation already half-started. That shared hour is the whole advantage of the format; do not waste it by leaving at the curtain.
+
+[Event details and tickets](https://www.eventbrite.com/e/garam-masala-comedy-dating-show-shacking-up-in-chicago-tickets-2002169289241)
+
+### 8. TINDER IRL: Meet, Move, Mingle
+
+**When:** Sunday, October 25, 2026, 10:00 AM · **Where:** 1643 N Milwaukee Ave, Wicker Park / Bucktown · **Cost:** Free
+**Type:** Singles event · **Good for:** All singles
+
+A free in-person meetup under the Tinder IRL banner, built around meeting, moving, and mingling in person rather than messaging on an app; the listing gives a Sunday-morning 10:00 AM start at 1643 North Milwaukee Avenue.
+
+The name tells you the thesis: take the app's enormous local pool and move it into a room, in daylight, on a Sunday morning. That timing is the format's quiet genius. A 10:00 AM start filters for people who are serious enough to show up sober, rested, and on purpose, and it gives the whole encounter a completely different emotional temperature from a Saturday night bar. Movement is in the title too, and events built around moving together, walking, warming up, drifting between groups, reliably produce easier conversation than standing in a circle holding a drink and performing. Nobody has ever had their best conversation while clutching a cup with both hands; people talk best shoulder to shoulder, in motion.
+
+The Milwaukee Avenue address puts the meetup on the Wicker Park and Bucktown seam, surrounded by coffee shops, brunch rooms, and the 606 trail, so the morning extends naturally in any direction a good conversation wants to go. It is also, at free, the easiest yes on this entire list: no ticket, no balance of the room to worry about, no costume, no preparation beyond showing up as yourself on a Sunday. For anyone whose complaint about dating apps is that nobody they match with ever actually meets, a room organized under the app's own name for exactly that purpose is a pointed and useful experiment.
+
+Success tip: treat the morning as the start of a day, not a one-hour errand. Arrive a few minutes early, before groups settle, and if a conversation is going well, use the neighborhood: suggest coffee or a walk on the 606 while the momentum is still warm. Sunday-morning connections die when they are postponed to texting; a short, easy extension is what turns a pleasant mingle into an actual plan.
+
+[Event details and tickets](https://allevents.in/chicago/meeting)
+
+### 9. HALLOWEEN Chicago Speed Dating for Singles 20s/30s – Costumes Optional
+
 
 **When:** Sunday, October 25, 2026, 3:00 PM · **Where:** Avenue Tap & Kitchen, 3407 N Paulina St, Lakeview · **Cost:** not listed
 **Type:** Singles event · **Good for:** Singles in their 20s/30s (the organizer page describes it as designed for singles ages 24–39)
@@ -223,7 +199,23 @@ Success tip: wear the costume. Not a full production, just enough to be a conver
 
 [Event details and tickets](https://www.pre-dating.com/speeddating/CHI.php)
 
-### 12. Intelligent Singles Mixer at Four Seasons Hotel in Chicago!
+### 10. Meet IRL | Curated Speed Dating at Midwest Coast Brewing | Ages 30-38
+
+**When:** Tuesday, October 27, 2026, time not listed · **Where:** Midwest Coast Brewing Company, West Town · **Cost:** $38 – $44
+**Type:** Singles event · **Good for:** Singles ages 30–38
+
+Curated speed dating from Meet IRL, with attendees matched in the organizer's app for compatibility and rotated through one-on-one mini dates; the brewery's own calendar also lists Speed Dating with Meet IRL on Tuesday, October 27.
+
+By the second week of the fortnight, Meet IRL's model should feel familiar to readers of this guide, and this edition moves it into one of the West Side's best rooms. The system is the same one that powers the bookstore and child-free nights earlier in the window: build a profile in the app, let the matching sort the room, then rotate through short one-on-one conversations with the people the curation actually selected for you. In the 30-to-38 band that filtering matters enormously. This is the age range where intentions diverge widest, and a room pre-sorted for compatibility saves everyone the polite, wasted rotations that give ordinary speed dating its reputation.
+
+Midwest Coast Brewing gives the night a different texture from the bars earlier in the list: a spacious, dog-friendly West Town taproom built around house-brewed beer, long tables, and a neighborhood crowd that treats the brewery as a living room. It is relaxed without being sloppy, and a Tuesday night there has the calm of a place people chose deliberately rather than drifted into. Because the listing retrieved for this edition did not publish a start time, check the event page before you go and plan to arrive inside the organizer's arrival window once you book.
+
+Success tip: this organizer's homework rule applies at full strength. Complete the app profile honestly and specifically before the night, because it feeds the matching you are paying for, and arrive inside the early arrival window so the first rotation is not your warm-up. Afterwards, stay for one drink in the taproom; the unstructured half hour after curated rounds is where the evening's best second conversation usually happens.
+
+[Event details and tickets](https://happeningnext.com/chicago/speed-dating)
+
+### 11. Intelligent Singles Mixer at Four Seasons Hotel in Chicago!
+
 
 **When:** Wednesday, October 28, 2026, 7:00 PM – 10:00 PM · **Where:** Adorn Bar & Restaurant (inside Four Seasons Hotel), 120 E Delaware Pl, Gold Coast · **Cost:** $49.87
 **Type:** Singles event · **Good for:** All singles
@@ -238,7 +230,8 @@ Success tip: dress one notch above what you think is necessary, and arrive in th
 
 [Event details and tickets](https://www.eventbrite.com/e/intelligent-singles-mixer-at-four-seasons-hotel-in-chicago-tickets-2003217204584)
 
-### 13. Masquerade Singles Mixer 30s, 40s, 50s
+### 12. Masquerade Singles Mixer 30s, 40s, 50s
+
 
 **When:** Wednesday, October 28, 2026, 7:30 PM – 10:00 PM · **Where:** Dearly Beloved Chicago, 900 N Franklin St, River North · **Cost:** From $35.05
 **Type:** Singles event · **Good for:** Singles in their 30s, 40s, and 50s; ages 21+
@@ -255,67 +248,40 @@ Success tip: lean into the format. Wear a real mask, even a simple one, because 
 
 ## Singles-Friendly Events in Chicago (Social Nights Where Meeting People Is Easy)
 
-### 14. Fleet Feet Running Club: Fleet Feet Old Town
+### 13. Fleet Feet Running Club: Fleet Feet Old Town
 
-**When:** Thursday, October 15, 2026, 6:00 PM (recurs weekly on Mondays and Thursdays; further window occurrences Oct 19, 22, and 26) · **Where:** Fleet Feet Old Town, 1706 N Wells St, Old Town · **Cost:** Free
+
+**When:** Monday, October 19, 2026, 6:00 PM (recurs weekly on Mondays and Thursdays; further window occurrences Oct 22, 26, and 29) · **Where:** Fleet Feet Old Town, 1706 N Wells St, Old Town · **Cost:** Free
 **Type:** Singles-friendly · **Good for:** All singles
 
 A free group fun run of usually 3–6 miles out to the Lakefront Trail; all paces are welcome, so runners naturally chat and socialize before, during, and after the run.
 
 The run club is the worst-kept secret in modern dating: a recurring, free, healthy gathering where the same people show up twice a week and conversation happens shoulder to shoulder, with none of the face-to-face pressure of a bar. Fleet Feet's Old Town crew runs three to six miles out to the Lakefront Trail at genuinely all paces, which matters, because the social magic lives in the middle packs where people can actually talk while they run. The before and after are as important as the miles: the gathering at the store, the cool-down chat, the gradual migration toward food and drinks that regulars fall into without organizing it.
 
-Old Town gives the club a ready-made social zip code, and the Monday and Thursday rhythm means this single listing is really four chances inside the window: the 15th, 19th, 22nd, and 26th. That recurrence is the entire point. Dating research and common sense agree that familiarity breeds attraction, and no other event on this list lets you become a familiar face this quickly or this cheaply. It costs nothing but consistency.
+Old Town gives the club a ready-made social zip code, and the Monday and Thursday rhythm means this single listing is really four chances inside the window: the 19th, 22nd, 26th, and 29th. That recurrence is the entire point. Dating research and common sense agree that familiarity breeds attraction, and no other event on this list lets you become a familiar face this quickly or this cheaply. It costs nothing but consistency.
 
 Success tip: go at least twice, and go to the same session time so you overlap with the same regulars. Introduce yourself to the run leader early, mention you are new, and accept every post-run invitation for the first month. The second visit, when someone remembers your name, is when the club starts working as a dating venue.
 
 [Event details and tickets](https://www.eventbrite.com/e/fleet-feet-running-club-fleet-feet-old-town-tickets-143848541861)
 
-### 15. Silent Disco: Pop Diva Decades at Museum of Ice Cream
+### 14. Fright at the Field
 
-**When:** Thursday, October 15, 2026, 6:00 PM – 9:00 PM · **Where:** Museum of Ice Cream, 435 N Michigan Ave, Near North Side · **Cost:** $40 (includes a welcome cocktail or mocktail and unlimited ice cream)
-**Type:** Singles-friendly · **Good for:** All singles
 
-Guests dance wearing wireless headphones that switch between three channels of pop music from different decades, inside the Museum of Ice Cream.
-
-A silent disco is a social cheat code disguised as a novelty night. Everyone wears headphones with three channels of pop from different decades, and the room splits into visible tribes: you can see, from across the floor, exactly who is dancing to the same song you are. That single piece of information, who shares your channel, is a built-in opener with a perfect success rate, because switching your headphones to match a stranger's channel and dancing badly together at the same chorus is flirting with the awkwardness engineered out. Take the headphones off and the room goes quiet enough for real conversation, which is more than any ordinary club night can offer.
-
-The Museum of Ice Cream on Michigan Avenue wraps the party in pastel, sprinkle-pool whimsy, and the ticket includes a welcome cocktail or mocktail plus unlimited ice cream, so the sugar and the setting keep the mood defiantly playful. This is not a place to be cool. It is a place to be fun, and the crowd it draws, groups of friends, solo adventurers, birthday parties, skews young, social, and very open to talking to the person dancing next to them.
-
-Success tip: commit to the bit. Sing the chorus out loud, badly, with your channel-mates. The people who treat a silent disco ironically spend the night watching other people have the evening they could have had. Swap channels when you want to meet the other tribes, and use ice cream runs as your conversation breaks.
-
-[Event details and tickets](https://www.choosechicago.com/event/silent-disco-pop-diva-decades-at-museum-of-ice-cream/)
-
-### 16. Fright at the Field
-
-**When:** Thursday, October 15, 2026 (runs daily from October 15 through November 1, 2026) · **Where:** Field Museum, 1400 S Lake Shore Dr, South Loop / Museum Campus · **Cost:** not listed
+**When:** Monday, October 19, 2026 (runs daily through November 1, 2026) · **Where:** Field Museum, 1400 S Lake Shore Dr, South Loop / Museum Campus · **Cost:** not listed
 **Type:** Singles-friendly · **Good for:** All singles
 
 A Halloween-themed event at the Field Museum running daily through November 1, drawing evening crowds to the museum during the Halloween season.
 
 Museums after dark are one of the great underused dating venues, and the Field Museum in Halloween mode is the grandest version of it in Chicago. Fright at the Field turns the Museum Campus landmark, all marble halls and towering specimens, into a seasonal Halloween draw running daily from October 15 through November 1. The listing did not publish a price, so confirm details on the event page, but the format's appeal is clear: a vast, beautiful, slightly spooky building full of exhibits that do your conversational work for you. Nobody has ever struggled for something to say while standing under a T. rex in October.
 
-The social physics differ from a bar in your favor. People move through the space in loose streams, pause at the same displays, and comment to whoever is beside them, which means introductions arrive disguised as remarks about mummies and meteorites. The crowd mixes museum members, Halloween enthusiasts, and groups of friends making a night of it, and the daily run gives you flexibility: any evening in the window works, including a weeknight when the rooms are calmer. Pair it with the Art Institute scavenger hunt on October 17 and you have a museum double-header weekend.
+The social physics differ from a bar in your favor. People move through the space in loose streams, pause at the same displays, and comment to whoever is beside them, which means introductions arrive disguised as remarks about mummies and meteorites. The crowd mixes museum members, Halloween enthusiasts, and groups of friends making a night of it, and the daily run gives you flexibility: any evening in the window works, including a weeknight when the rooms are calmer. Go once in daylight and once after dark if you can; the building feels like two different venues across a single fortnight.
 
 Success tip: go on a weeknight and linger at the big spectacle exhibits rather than racing the whole building. Conversation at a museum belongs to the people who stop. Ask someone what they are looking at, not whether they come here often, and let the collection supply your follow-up questions for the next hour.
 
 [Event details and tickets](https://www.choosechicago.com/event/fright-at-the-field/2026-10-15/)
 
-### 17. Watson Adventures' Fright at the Art Museum Scavenger Hunt
+### 15. Tamales and Tacos Cooking Class at Su Casa
 
-**When:** Saturday, October 17, 2026, 2:00 PM – 4:00 PM · **Where:** Art Institute of Chicago, 111 S Michigan Ave, Loop · **Cost:** $19
-**Type:** Singles-friendly · **Good for:** Adults only
-
-Participants team up for a scavenger hunt through the Art Institute's galleries searching for skulls, monsters, and the "dark side of art"; advance purchase is required.
-
-Watson Adventures has spent years perfecting the museum scavenger hunt, and the Halloween edition at the Art Institute is its most date-friendly product. You are teamed up, handed clues, and sent hunting through the galleries for skulls, monsters, and the dark side of art, which converts two hours inside a world-class museum into a collaborative game with stakes just high enough to be exciting. Team formats are social gold for singles: you have instant allies, a shared mission, mild competition with the other teams, and a steady supply of things to joke about. It is also, not incidentally, a genuine intelligence test administered in the most charming way possible. You will learn more about a teammate in two hours of clue-solving than in a week of texting.
-
-The Art Institute setting does the rest. Saturday afternoon light in the galleries, masterpieces as landmarks, and a 2:00 PM to 4:00 PM slot that leaves the whole evening open. At nineteen dollars it is one of the cheapest quality afternoons in this edition, though advance purchase is required, so do not plan to walk up. The adults-only framing keeps the hunts grown-up in tone.
-
-Success tip: if you are placed on a team, take the role of clue-reader or route-planner, the two jobs that make you the hub of the group's attention. Afterward, suggest the team decompress somewhere nearby. Suggesting the plan is an attractive act in itself, and the hunt gives you all a shared story to start from.
-
-[Event details and tickets](https://www.choosechicago.com/event/watson-adventures-fright-at-the-art-museum-scavenger-hunt/)
-
-### 18. Tamales and Tacos Cooking Class at Su Casa
 
 **When:** Saturday, October 24, 2026, 10:00 AM · **Where:** Su Casa Mexican Restaurant, 49 E Ontario St, Near North Side · **Cost:** Tickets from $59 (ticket includes chips & salsa and one margarita)
 **Type:** Singles-friendly · **Good for:** All singles
@@ -330,7 +296,8 @@ Success tip: team up deliberately during the hands-on portion rather than drifti
 
 [Event details and tickets](https://www.eventbrite.com/e/tamales-and-tacos-cooking-class-at-su-casa-tickets-1247579386529)
 
-### 19. Matcha + Meetup: Chicago | Creative Minds Edition
+### 16. Matcha + Meetup: Chicago | Creative Minds Edition
+
 
 **When:** Saturday, October 24, 2026, 12:00 PM · **Where:** Cafe of the Day, South China Place, Chinatown · **Cost:** $12.51
 **Type:** Singles-friendly · **Good for:** Ages 18+
@@ -345,7 +312,8 @@ Success tip: bring a small artifact of your creative life, a sketchbook, a camer
 
 [Event details and tickets](https://www.eventbrite.com/e/matcha-meetup-chicago-creative-minds-edition-tickets-1972012772287)
 
-### 20. Día de Muertos Xicágo
+### 17. Día de Muertos Xicágo
+
 
 **When:** Saturday, October 24, 2026, 3:00 PM – 8:00 PM · **Where:** National Museum of Mexican Art / Harrison Park, 1824 S Wood St, Pilsen · **Cost:** Free
 **Type:** Singles-friendly · **Good for:** All singles
@@ -360,25 +328,70 @@ Success tip: arrive in the middle of the afternoon when the park is fullest, pic
 
 [Event details and tickets](https://chicagoonthecheap.com/national-museum-of-mexican-art-day-of-the-dead-chicago/)
 
+### 18. 6th Annual Monster Ball 2026 Chicago's Signature Halloween Party
+
+**When:** Friday, October 30, 2026, 9:00 PM – 2:00 AM · **Where:** The Scout Waterhouse + Kitchen, 1419 N Wells St, Old Town · **Cost:** $13.95 – $45.87
+**Type:** Singles-friendly · **Good for:** All singles, ages 21+
+
+The sixth annual Monster Ball from CNE Presents: a large Halloween costume party with a $500 cash costume contest, DJs playing Top 40, hip hop, house, Latin hits and throwbacks, a full bar and Halloween cocktails, and VIP tables available.
+
+Halloween weekend needs one big, uncomplicated, everyone-in-costume room, and for six years this has been Chicago's. The Monster Ball's formula is scale plus permission: hundreds of costumed partygoers, one dance floor, music that refuses to pick a genre, and a cash costume contest that gives the whole room a shared spectacle to react to all night. That combination is quietly excellent for singles, because a costume party manufactures introductions at industrial rate. Every outfit is an opening line someone else wrote for you, every contest hopeful wants an audience, and nobody at a costume ball is trying to look too cool to talk. The listing's own advice is blunt: this is not the night for a last-minute mask, because Chicago shows up for this one.
+
+The Scout in Old Town is a big, social Waterhouse-and-kitchen room on Wells Street, in the middle of one of the city's densest Halloween-weekend nightlife strips, so the party sits inside a whole neighborhood that will be in costume around it. The 9:00 PM Friday start makes it the natural anchor for the night before Halloween itself, and the tiered tickets, from under fourteen dollars upward, keep the door wide. It is 21-plus, costumes are highly recommended by the organizer, and all sales are final.
+
+Success tip: enter the orbit of the costume contest even if you do not enter the contest. Stand where the hopefuls gather, compliment specifically and early, and let the spectacle supply your first ten conversations. Groups in themed costumes are the most approachable people in any Halloween room; they built those outfits hoping strangers would ask about them, so be the stranger who does.
+
+[Event details and tickets](https://www.eventbrite.com/e/6th-annual-monster-ball-2026-chicagos-signature-halloween-party-tickets-2002764831524)
+
+### 19. Haunted Halloween Ball at Congress Plaza Hotel
+
+**When:** Saturday, October 31, 2026, 9:00 PM – 2:00 AM · **Where:** Congress Plaza Hotel, 520 S Michigan Ave, South Loop · **Cost:** From $20 (early bird general admission)
+**Type:** Singles-friendly · **Good for:** All singles, ages 21+; costume required per the organizer
+
+Chicago's large annual Halloween costume ball at the historic Congress Plaza Hotel, with DJs playing Top 40 across multiple party areas, state-of-the-art sound and lighting, a costume contest with $2,000 in cash and prizes, discounted hotel rooms, and a 21-plus, costume-required door.
+
+If the Monster Ball is Halloween as a neighborhood party, the Haunted Halloween Ball is Halloween as a gala. The setting does half the seduction before anyone says a word: a 122-year-old Michigan Avenue hotel the organizer notes was classified by USA Today among the most haunted hotels in the world, its 20,000 square feet of ballrooms dressed as an abandoned hotel, with costumed staff characters woven through the night. Scale changes the social math in a single person's favor. In a room this size, with multiple party areas and hundreds of costumed guests, you can circulate for hours, leave a dull conversation without ceremony, and find a fresh group whenever your energy asks for one. Anonymity, paradoxically, is what makes big balls easy for solo arrivals: nobody can tell, or cares, who you arrived with.
+
+The South Loop location, by Millennium and Grant Parks, also makes the night unusually practical: transit is dense, the hotel itself offers a Halloween room rate for anyone who wants the evening to end upstairs rather than across town, and the early-bird general admission at twenty dollars is remarkable value for a ballroom night of this production size. Prices can rise as tiers sell, the organizer warns, so the early ticket is part of the strategy.
+
+Success tip: work the edges of the different party areas rather than camping in the center of one dance floor. The ball's best conversations happen in the circulation spaces, the bar lines, the contest-watching clusters, where people are between dances and actually able to hear each other. Pace yourself across the full five hours; a ball rewards the guest who is still charming at midnight over the one who peaked at ten.
+
+[Event details and tickets](https://hauntedhalloweenball.com/)
+
+### 20. Day of the Dead Crawl - Tix Include 3 Welcome Shots
+
+**When:** Sunday, November 1, 2026, 1:00 PM – 6:00 PM · **Where:** River North's BEST Bars TBA, 155 W Kinzie St, River North (starting point; crawl venues announced before the event) · **Cost:** From $5 (tickets $5 – $28)
+**Type:** Singles-friendly · **Good for:** All singles, ages 21+
+
+A ChicagoCrawls.com bar crawl honoring Day of the Dead on Sunday afternoon: tickets include admission to all participating bars, three welcome shots, and giveaways, with wristband pick-up and the crawl schedule announced on Saturday, October 31.
+
+Every fortnight deserves a soft landing, and this Sunday-afternoon crawl is how the Halloween season hands over to November. Bar crawls are an underrated singles format precisely because they are not dating events: a wristband turns a moving crowd of strangers into a temporary traveling party, the group migrates together from bar to bar, and you meet the same faces repeatedly across an afternoon, which is the familiarity engine this guide keeps praising, compressed into five hours. The three welcome shots and the giveaways are seasoning; the real structure is shared movement, shared schedule, and a built-in reason to talk to the people walking beside you to the next stop. A 1:00 PM start keeps it in daylight, sociable rather than sloppy, and leaves Sunday evening intact.
+
+River North is the right neighborhood for it: a dense grid of bars within easy walking distance of the Kinzie Street starting point, heavy transit, and a crowd that treats a themed Sunday crawl as a legitimate weekend finale. The organizer runs the logistics tightly: wristbands must be worn, the exact venue list is announced the night before, all guests must be 21-plus with ID, and there are no refunds. Note the distinction this guide draws elsewhere in this edition: this crawl uses the Day of the Dead name as a party theme, which is a different thing from the community ofrenda celebration in Pilsen listed earlier, and it should be enjoyed on its own terms, as a costume-friendly Sunday social.
+
+Success tip: join the crawl at check-in, not halfway through. The traveling group bonds in the first two stops, and latecomers spend the afternoon catching up to friendships that already formed. Walk between venues with people you have not talked to yet; the five-minute stroll to the next bar, in daylight, in a group, is where this format quietly produces its best conversations.
+
+[Event details and tickets](https://allevents.in/chicago/day-of-the-dead-crawl-tix-include-3-welcome-shots/100001999414991061)
+
 ## Where to Meet Singles in Chicago, Neighborhood by Neighborhood
 
 Chicagoans date where they live, so the smartest way to read this list is geographically. Each neighborhood on the map runs its own dating market, with its own rooms, rituals, and unwritten dress codes. Here is how the neighborhoods behind this fortnight's events actually feel from a single person's chair.
 
-**Wicker Park.** The Division Street corridor is the northwest side's great social engine: big taprooms, patio bars, and a creative-professional crowd that arrived in its late twenties and never quite left. The Meet IRL trivia night at Fatpour captures the neighborhood perfectly, communal tables, craft beer, and enough noise to make leaning close feel necessary. Wicker Park dating runs on wit and fluency; it is a talker's neighborhood, where a good trivia answer or a better story outperforms a designer outfit. Come ready to banter, and do not underestimate the vintage stores and record shops on Milwaukee Avenue as daytime conversation territory. The single most Wicker Park move of all is becoming a regular somewhere on Division, because staff and fellow regulars become your informal introducers within a month. Wicker Park also rewards the daytime game: the 606 trail, the weekend crowds around the fountain at the Polish Triangle, and a dense strip of coffee shops give singles natural, low-cost places to be visible and approachable outside of ticketed events. The neighborhood's one caution is that its scene skews toward the socially fluent; if you are rusty, warm up at an activity format here, like the trivia night, where the game carries the conversation while your wit reboots.
+**Wicker Park.** The Division Street corridor is the northwest side's great social engine: big taprooms, patio bars, and a creative-professional crowd that arrived in its late twenties and never quite left. The free Tinder IRL meetup on Milwaukee Avenue captures the neighborhood perfectly, a Sunday-morning crowd that chose a room over an app, with coffee shops and the 606 trail all around it. Wicker Park dating runs on wit and fluency; it is a talker's neighborhood, where a good story outperforms a designer outfit. Come ready to banter, and do not underestimate the vintage stores and record shops on Milwaukee Avenue as daytime conversation territory. The single most Wicker Park move of all is becoming a regular somewhere on Division, because staff and fellow regulars become your informal introducers within a month. Wicker Park also rewards the daytime game: the 606 trail, the weekend crowds around the fountain at the Polish Triangle, and a dense strip of coffee shops give singles natural, low-cost places to be visible and approachable outside of ticketed events. The neighborhood's one caution is that its scene skews toward the socially fluent; if you are rusty, warm up at an activity format here, like the Sunday-morning meetup, where the gathering carries the conversation while your wit reboots.
 
 **Logan Square.** If Wicker Park is the talker, Logan Square is the maker: chefs, artists, musicians, and bartenders, gathered along Milwaukee and Armitage in some of the city's best cocktail dens and most beloved dive bars. The child-free speed dating at Way Out sits naturally here, in a neighborhood famous for people designing their lives on purpose. Ambience runs moody and warm, brick and candlelight, vinyl on the speakers. Dating in Logan Square rewards authenticity and punishes polish; show up with a project, a passion, or at least strong opinions about pizza. The boulevards also give Logan the best pre-date walking in the city, wide green parkways built for long, low-stakes conversation. Logan's restaurant scene does heavy dating work too: a corridor of ambitious, affordable dining rooms means a second date here can be genuinely impressive without a Gold Coast budget. The neighborhood's dating population includes a high share of people in their thirties who have opted out of the downtown professional circuit on purpose, which produces a distinctive social contract: take the work seriously, take yourself lightly, and never, ever be boring about your job. Events that assume shared values, like the child-free night, thrive here because the audience has already self-selected for intentional living.
 
-**Lincoln Park and Lakeview.** The classic young-professional heartland: DePaul graduates who stayed, Big Ten alumni who arrived, and the densest concentration of sports bars, improv theaters, and first-date restaurants in the city. This fortnight plants the Meet and Mingle mixer at Augie's in Lincoln Park and Pre-Dating's Halloween speed dating at Avenue Tap in Lakeview, two rooms that define the local spectrum from cozy neighborhood bar to lively tavern night. The dating culture here is social and group-based; people meet through friends of friends, softball leagues, and trivia teams, and the events scene plugs straight into that machinery. Dress is smart casual with team colors on game days. If you are new to Chicago, start here: it is the easiest dating terrain in the city for a beginner to read. The two neighborhoods also offer the city's deepest bench of recurring social machinery beyond this guide: recreational sports leagues, alumni club chapters, gym communities, and bar trivia nearly every night of the week, all of it aimed at exactly the demographic filling the mixers. The trade-off is churn; people arrive, date, pair off, and move to the suburbs at a steady clip, so the scene renews itself constantly. For a newcomer that churn is opportunity. The faces at the Augie's mixer next month will not be the faces from this month, and persistence here gets rewarded faster than anywhere else in the city.
+**Lincoln Park and Lakeview.** The classic young-professional heartland: DePaul graduates who stayed, Big Ten alumni who arrived, and the densest concentration of sports bars, improv theaters, and first-date restaurants in the city. This fortnight plants Pre-Dating's Halloween speed dating at Avenue Tap in Lakeview, a room that defines the local spectrum from cozy neighborhood bar to lively tavern night. The dating culture here is social and group-based; people meet through friends of friends, softball leagues, and trivia teams, and the events scene plugs straight into that machinery. Dress is smart casual with team colors on game days. If you are new to Chicago, start here: it is the easiest dating terrain in the city for a beginner to read. The two neighborhoods also offer the city's deepest bench of recurring social machinery beyond this guide: recreational sports leagues, alumni club chapters, gym communities, and bar trivia nearly every night of the week, all of it aimed at exactly the demographic filling the mixers. The trade-off is churn; people arrive, date, pair off, and move to the suburbs at a steady clip, so the scene renews itself constantly. For a newcomer that churn is opportunity. The faces at the Avenue Tap speed dating next month will not be the faces from this month, and persistence here gets rewarded faster than anywhere else in the city.
 
 **Andersonville.** A former Swedish village on the far North Side that became one of America's most storied LGBTQ+ neighborhoods, Andersonville runs on Clark Street bookshops, wine bars, bakeries, and an unhurried, literary calm. Eli Tea Bar hosts both Slow Burn sessions this fortnight, sapphic in the morning and gay men's at noon, and the choice of a tea bar in this neighborhood is the whole philosophy: dating as conversation, in daylight, at a volume where people can actually think. Andersonville's crowd skews thoughtful and community-minded, with deep roots and long friendships. For queer singles especially, this is the neighborhood where dating and community genuinely overlap, and where a Saturday morning can change your season. Andersonville's daytime texture supports that overlap: the Clark Street corridor is lined with the kind of independent businesses where owners know customers, conversations start over shared interests, and nobody is in a hurry. Its dating style follows from that texture, slower, more conversational, more likely to begin as friendship-adjacent familiarity than as a spark across a loud room. People who find bar dating alienating often discover, with some surprise, that they were never bad at meeting people; they were just in the wrong rooms. Andersonville is the right room for a large and specific tribe, and this fortnight's back-to-back Slow Burn sessions are its front door.
 
-**West Town.** The stretch of Chicago Avenue running through Ukrainian Village and West Town is this fortnight's quiet overachiever, hosting three listings within a few doors of each other: bookstore speed dating at Passages, the South Asian professionals mixer at Barcocina, and some of the city's best small restaurants in between. West Town's ambience is independent and slightly under the radar, galleries, bakeries, corner taverns, and shops that reward regulars. Dating here skews intentional: people choose West Town events because the formats are specific and the rooms are small. It is the best neighborhood in this edition for people who prefer forty well-chosen strangers to four hundred random ones.
+**West Town.** The stretch of Chicago Avenue running through Ukrainian Village and West Town is this fortnight's quiet overachiever, hosting three listings close to each other: bookstore speed dating at Passages, the South Asian professionals mixer at Barcocina, and Meet IRL's curated speed dating at Midwest Coast Brewing, with some of the city's best small restaurants in between. West Town's ambience is independent and slightly under the radar, galleries, bakeries, corner taverns, and shops that reward regulars. Dating here skews intentional: people choose West Town events because the formats are specific and the rooms are small. It is the best neighborhood in this edition for people who prefer forty well-chosen strangers to four hundred random ones.
 
 **River North and the Gold Coast.** Chicago's polish district: gallery towers, steakhouses, hotel bars, and the Magnificent Mile's glow. This fortnight stacks the top and the middle of the market here, the Intelligent Singles Mixer at the Four Seasons' Adorn Bar and the Matchify masquerade at Dearly Beloved, plus the Su Casa cooking class on Ontario. The ambience is candlelit, tailored, and unapologetically upscale; people dress for these rooms. Dating culture here is professional and direct, heavy on the after-work drink that turns into dinner. It can read intimidating, but the secret of the Gold Coast is that everyone paid for the same filter, so the room is unusually full of people who are serious about exactly what you are serious about. The practical rhythm of the district helps too: events here start after work and end early enough for a same-night dinner invitation to be plausible, and the density of excellent restaurants within five blocks means a good conversation never has to die for lack of a next venue. Singles who date well in River North treat the neighborhood as a circuit rather than a single stop: a mixer, then a nightcap somewhere quieter, then a walk along the river. The polish is the point, but underneath it sits the same Chicago directness as everywhere else in this guide.
 
 **Pilsen.** Chicago's Mexican-American cultural heart, anchored by the National Museum of Mexican Art on 19th Street and Harrison Park, with murals, bakeries, and a main-street warmth that treats public celebration as a civic art. Dia de Muertos Xicago is the fortnight's anchor event here, and Pilsen's dating lesson is bigger than one festival: this is a neighborhood where community comes first and social life is intergenerational, public, and food-centered. Singles meet here the way people have always met, at gatherings that are not about dating at all. Come for the festivals, the museum's free exhibitions, and the cafe scene, participate respectfully, and let the neighborhood's own social fabric do what no app can. Pilsen also teaches a timing lesson. Its social peaks are public and calendared: museum events, gallery nights on the second Friday of the month, feast days and festivals that fill Harrison Park and 18th Street. A single person who learns that calendar gains a standing invitation to the neighborhood's best rooms without needing to know anyone yet. Arrive as a respectful guest, support the businesses on the corridor, learn some of the neighborhood's history from the murals and the museum itself, and the connections that follow will be rooted in something sturdier than a shared cover charge.
 
-**Old Town, Ravenswood, and Avondale.** Grouping the list's remaining rooms makes a point about how Chicago dating really works: much of it happens in the comfortable middle ring of neighborhoods where people actually settle. Old Town contributes the Fleet Feet run club on Wells, steps from the Second City comedy corridor and a strip of friendly bars. Ravenswood gives the book swap at Side Practice Coffee its gentle, residential calm, all tree-lined streets and cafe regulars. Avondale, the working-class northwest neighborhood turned young-family and artist haven, hosts Meet IRL's curated speed dating at Tune-Up. None of these rooms is glamorous, and that is their strength: they are where Chicagoans build routines, and routines are where relationships actually start.
+**Old Town and Uptown.** Grouping the list's remaining rooms makes a point about how Chicago dating really works: much of it happens in the comfortable middle ring of neighborhoods where people actually settle. Old Town contributes the Fleet Feet run club on Wells and the Monster Ball at The Scout, steps from the Second City comedy corridor and a strip of friendly bars. Uptown, the lakefront neighborhood of theaters and taprooms on the far North Side, hosts board game speed dating at Uptown Taproom on Wilson Avenue. Neither room is glamorous, and that is their strength: they are where Chicagoans build routines, and routines are where relationships actually start.
 
 ## Ambiences Decoded: What Each Kind of Night Feels Like
 
@@ -386,17 +399,17 @@ The format on the ticket only tells you half of what you are buying. The other h
 
 **The hotel bar.** The Four Seasons mixer is the fortnight's cathedral of calm: low light, soft music, expensive air. Conversations are quiet, unhurried, and surprisingly substantive, because nobody has to shout and nobody is performing for a crowd. It favors the composed and the articulate, and it punishes loudness. If your charm is wit at normal volume, hotel bars are your natural habitat.
 
-**The neighborhood tavern.** Avenue Tap in Lakeview and Tune-Up in Avondale represent Chicago's default dating architecture: wood, televisions murmuring sports, a bartender who knows the room. Noise is moderate, laughter is frequent, and the social rules are the familiar ones of a good local. These rooms favor warmth over polish and forgive almost any opening line. Most real Chicago relationships have a tavern somewhere in their origin story.
+**The neighborhood tavern.** Avenue Tap in Lakeview and Uptown Taproom in Uptown represent Chicago's default dating architecture: wood, televisions murmuring sports, a bartender who knows the room. Noise is moderate, laughter is frequent, and the social rules are the familiar ones of a good local. These rooms favor warmth over polish and forgive almost any opening line. Most real Chicago relationships have a tavern somewhere in their origin story.
 
 **The tea bar.** Eli Tea Bar's Slow Burn sessions run on caffeine and daylight instead of alcohol and dimness. The feeling is closer to a seminar crossed with a first date: focused, calm, and unusually sincere. Shy people often do their best work here, because the room carries none of the bar scene's static, and the guided prompts mean silence never has to stretch into panic.
 
-**The bookshop and the cafe.** Passages, Side Practice Coffee, and the Chinatown matcha meetup share a physics: small rooms, soft edges, objects everywhere that give your hands and eyes something to do. Conversation deepens fast in these rooms because the setting is literally made of other people's inner lives. They favor readers, makers, and anyone whose best self shows up in a one-on-one talk rather than a crowd performance.
+**The bookshop and the cafe.** Passages and the Chinatown matcha meetup share a physics: small rooms, soft edges, objects everywhere that give your hands and eyes something to do. Conversation deepens fast in these rooms because the setting is literally made of other people's inner lives. They favor readers, makers, and anyone whose best self shows up in a one-on-one talk rather than a crowd performance.
 
-**The museum after dark.** The Field Museum and the Art Institute hunts invert normal dating geometry. Instead of facing a stranger across a table, you walk beside them through spectacle, and conversation flows sideways, sparked by exhibits rather than biographies. Movement helps; walking pairs talk more honestly than seated pairs. These nights favor the curious, and they are the single best option for anyone who dreads the job-interview style of conventional dating.
+**The museum after dark.** The Field Museum in Halloween season inverts normal dating geometry. Instead of facing a stranger across a table, you walk beside them through spectacle, and conversation flows sideways, sparked by exhibits rather than biographies. Movement helps; walking pairs talk more honestly than seated pairs. These nights favor the curious, and they are the single best option for anyone who dreads the job-interview style of conventional dating.
 
-**The active event.** The run club and the bowling night replace conversation-first with body-first: shared effort, shared mild embarrassment, heart rates up, guards down. Attraction in these rooms builds through repeated small moments rather than one long talk, which is why they reward return visits so reliably. If you are funnier in motion than across a table, these are your rooms.
+**The active event.** The run club and the board game night replace conversation-first with play-first: shared effort, shared mild embarrassment, heart rates up, guards down. Attraction in these rooms builds through repeated small moments rather than one long talk, which is why they reward return visits so reliably. If you are funnier in motion than across a table, these are your rooms.
 
-**The dance floor, with headphones.** The silent disco at the Museum of Ice Cream deserves its own physics. The headphones privatize the music and publicize everything else: your channel is visible, your singing is audible to the headphone-free, and switching channels to join a stranger is a compliment with no words attached. It favors the playful and the unselfconscious, and it uniquely solves the club problem, because the moment you want conversation, you lift one ear cup and the volume of the world drops to cafe level. If loud rooms have always exhausted you, this format is the dance floor redesigned for your wiring.
+**The costume ball.** The Monster Ball at The Scout and the Haunted Halloween Ball at the Congress Plaza Hotel run on costume physics. A costume publicizes the playful part of you and privatizes the nervous part: strangers get a free first question, you get a character to stand behind, and the contest hopefuls in both rooms are actively hoping someone will talk to them about what they built. These rooms favor the bold and the observant, and they reward circulation, because in a room of hundreds of costumes the next conversation is always ten steps away.
 
 **The festival crowd.** Dia de Muertos Xicago in Harrison Park represents the biggest-room format of all: thousands of people, open air, no tickets, no structure, and a shared purpose bigger than socializing. Festival crowds favor the observant and the unhurried. Nobody works a festival; you drift, you witness, you join an activity, you share a moment with whoever is standing beside you, and the connections that form carry the ease of having never been forced. It is the lowest-pressure format on this list, and for many people the most memorable.
 
@@ -410,19 +423,19 @@ Prepare two stories and three questions. The stories should be recent and specif
 
 ### At speed dating: six minutes is a trailer, not the movie
 
-Five of this fortnight's events are speed dating in some form, from Pre-Dating's classic twelve rotations to Slow Burn's guided prompts to Meet IRL's curated matching, so the format deserves its own playbook. The foundational insight is that a speed date is not a miniature date. It is a trailer. Your job is not to cover your resume, your history, and your hopes in six minutes; it is to give one person a vivid, pleasant sense of what an hour with you would feel like, and to leave them curious.
+Most of this fortnight's singles events are speed dating in some form, from Pre-Dating's classic twelve rotations to Slow Burn's guided prompts, Meet IRL's curated matching, and board game speed dating in Uptown, so the format deserves its own playbook. The foundational insight is that a speed date is not a miniature date. It is a trailer. Your job is not to cover your resume, your history, and your hopes in six minutes; it is to give one person a vivid, pleasant sense of what an hour with you would feel like, and to leave them curious.
 
 Open with the present tense. Where you are, what made you come, what you have noticed tonight: these are warm, specific, and impossible to rehearse badly. Ask about their life in the city rather than their biography: their neighborhood, their Sunday routine, their last great meal, the thing they are looking forward to this fall. Chicagoans bond over the city itself, and questions about it produce stories instead of statistics. Avoid the interview sequence (job, hometown, college) not because it is rude but because it is forgettable; you are competing with eleven other conversations for a slot in someone's memory.
 
 Manage your energy like an athlete. The middle rotations are where most people fade into autopilot, and the person who is still genuinely curious at date eight has an enormous advantage. Take notes between rounds, two or three words per person, a detail, a laugh, a plan mentioned. Those notes become gold later, both for your own matching decisions and for any follow-up message. And mark your scorecard honestly. The mutual-match system only works if your yeses mean something; the temptation to yes everyone dilutes your own signal and wastes the design.
 
-For the curated nights, Meet IRL's Avondale and Way Out and Passages events, do the homework before you arrive. Your profile in the organizer's app is part of the matching, and specific beats generic every time: name the neighborhood you love, the dish you cook, the trip you are planning. Then trust the curation. The room has been filtered for compatibility, which means your only remaining job is presence.
+For the curated nights, Meet IRL's Midwest Coast Brewing, Way Out, and Passages events, do the homework before you arrive. Your profile in the organizer's app is part of the matching, and specific beats generic every time: name the neighborhood you love, the dish you cook, the trip you are planning. Then trust the curation. The room has been filtered for compatibility, which means your only remaining job is presence.
 
 ### At mixers: work the edges, then commit
 
-The fortnight's mixers, Augie's Meet and Mingle, the Four Seasons, the masquerade at Dearly Beloved, and the South Asian professionals night at Barcocina, run on a different skill: unstructured social navigation. The governing rule of mixers is that conversations form in clusters, and clusters harden. The first twenty minutes, before groups set, are the highest-value minutes of the night, which is why every listing above repeats the same advice: arrive early.
+The fortnight's mixers, the Four Seasons, the masquerade at Dearly Beloved, the South Asian professionals night at Barcocina, and the mixer that follows the Garam Masala comedy dating show, run on a different skill: unstructured social navigation. The governing rule of mixers is that conversations form in clusters, and clusters harden. The first twenty minutes, before groups set, are the highest-value minutes of the night, which is why every listing above repeats the same advice: arrive early.
 
-Enter with a small mission for the first five minutes: get a drink, learn the room's layout, say one true sentence to one stranger. The host-led icebreakers at Augie's and Barcocina exist to do this for you, so participate in them at full size rather than spectating with your drink. Games feel silly for ninety seconds and then quietly hand you a roomful of people you have already laughed with.
+Enter with a small mission for the first five minutes: get a drink, learn the room's layout, say one true sentence to one stranger. The host-led icebreakers at Barcocina and the shared laughter at the Garam Masala show exist to do this for you, so participate in them at full size rather than spectating with your drink. Games and shared jokes feel silly for ninety seconds and then quietly hand you a roomful of people you have already laughed with.
 
 Once the open mingling starts, apply the two-conversation rule: in the first half, have two genuine conversations of at least five minutes; in the second half, return to the better one and deepen it. Most mixer failure comes from sampling fifteen people shallowly and leaving with nothing, or gluing yourself to the first friendly face and leaving with a new acquaintance instead of a prospect. When a conversation is dying, exit with warmth and a specific: it was great talking about the marathon, I am going to circulate, find me later. A graceful exit preserves every option; a trapped, wilting conversation burns them.
 
@@ -430,9 +443,9 @@ Use the setting as staff. At the masquerade, ask about masks. At the Four Season
 
 ### At activity events: let the task introduce you
 
-The trivia night, bowling, the scavenger hunt, the cooking class, and the run club share one mechanic that makes them the highest-percentage plays for shy people: the activity is the host. Your introductions are pre-written by the situation: you are teammates, lane-mates, hunting partners, station partners. Succeed here by being visibly good at the shared thing: competent, generous, and more interested in the group's fun than in your own performance.
+The board game night, the cooking class, the museum season, and the run club share one mechanic that makes them the highest-percentage plays for shy people: the activity is the host. Your introductions are pre-written by the situation: you are teammates, lane-mates, hunting partners, station partners. Succeed here by being visibly good at the shared thing: competent, generous, and more interested in the group's fun than in your own performance.
 
-At trivia, that means contributing answers without steamrolling. At bowling, it means celebrating other people's spares at full volume. On the scavenger hunt, take a functional role, clue-reader or navigator, so the group experiences you as its hub. In the cooking class, volunteer for the messy jobs; the person up to their elbows in masa is the person everyone talks to. At run club, the rule is recurrence: pace yourself into the social middle of the pack, stay for the cool-down, and show up again next week, because the club's dating power compounds with familiarity.
+At board games, that means teaching a missed rule generously and celebrating other players' wins at full volume. At the museum, linger at the big exhibits and let the collection supply the conversation, so the people beside you experience you as a fellow explorer rather than a passerby. In the cooking class, volunteer for the messy jobs; the person up to their elbows in masa is the person everyone talks to. At run club, the rule is recurrence: pace yourself into the social middle of the pack, stay for the cool-down, and show up again next week, because the club's dating power compounds with familiarity.
 
 Across every format on this list, the deepest principle is the same. Attraction at events is mostly repeated pleasant exposure plus one moment of genuine specificity: a remembered detail, an asked-after story, a callback to something said an hour or a week earlier. Choose rooms that let you be specific, return to the ones that recur, and treat each night as casting a wide, warm net rather than hunting a single outcome. That mindset is what success at these events actually looks like, and it is also, conveniently, the mindset that makes the nights themselves fun.
 
@@ -466,6 +479,8 @@ Chicago is one of the most genuinely multicultural cities in America, and its si
 
 The South Asian Singles Mixer at Barcocina is the clearest example. It is aimed at South Asian singles in healthcare, tech, and finance, and its existence reflects realities that open mixers cannot serve: family involvement in partnership decisions that is closer and more continuous than the American default, community and faith considerations that many attendees want aligned from the start, and the simple relief of not having to explain your context before you can flirt inside it. The twelve-minute rounds and hosted icebreaker show an organizer who knows the room wants substance, not spectacle. If you attend an event built for a community you belong to, that shared ground is a head start, not a guarantee; the conversation still has to be yours.
 
+The Garam Masala comedy dating show adds a second South Asian room with a completely different grammar: a blind date performed on stage, hosts who roast and rescue in equal measure, and an audience explicitly told it does not need to be South Asian to belong there. It is community humor used as a public doorway, and the singles mixer after the show is where that doorway leads.
+
 The queer listings carry their own norms and histories. Andersonville, where Eli Tea Bar hosts both Slow Burn sessions, has been an LGBTQ+ anchor neighborhood for decades, first as a Swedish enclave and then as one of the country's recognized lesbian and gay centers, and dating events there operate inside a living community: expect mutual friends, shared references, and a warmth that comes from low anonymity. The sapphic Spooky Edition and the gay men's Halloween Edition both explicitly welcome trans, non-binary, and bisexual participants, and the bookstore night at Passages centers queer women and non-binary people by design. The etiquette in these rooms is the etiquette of any close community: be respectful of how people describe themselves, do not treat anyone's identity as a conversation topic, and remember that small scenes have long memories, which rewards kindness and punishes carelessness in equal measure.
 
 Dia de Muertos Xicago belongs in this section as much as in the listings. For Mexican and Mexican-American Chicago, the Day of the Dead is a sacred remembrance, and the ofrendas at the National Museum of Mexican Art are offerings built by families for their dead. Guests of every background are genuinely welcomed to the celebration, to the music, the art making, and the food, and that welcome is itself a cultural value worth honoring. Attend as a participant in a community's day, not as a tourist at an attraction, and any social connection that grows there will grow on honest ground.
@@ -476,49 +491,49 @@ Chicago's structure makes this more than theory. This is a city of cultural corr
 
 ## This Fortnight in Chicago
 
-Every two-week window has its own weather, and October 15 through 28 is the most socially loaded stretch of the Chicago year. Three currents run through this edition, and planning around them will double the value of the calendar.
+Every two-week window has its own weather, and October 19 through November 1 is the most socially loaded stretch of the Chicago year, ending on Halloween itself and the Day of the Dead weekend that follows it. Three currents run through this edition, and planning around them will double the value of the calendar.
 
-The first is Halloween, which functions in Chicago as a two-week adult season rather than a single night. The listings show its fingerprints everywhere: spooky trivia at Fatpour, a sapphic Spooky Edition and a gay men's Halloween Edition at Eli Tea Bar, costumes-optional speed dating at Avenue Tap, a full masquerade mixer in River North, and Fright at the Field running daily at the Field Museum through November 1. Costumes and masks are social technology. They give strangers openers, give shy people cover, and give everyone permission to be slightly more theatrical than their weekday selves. Lean in: even a token accessory changes how approachable you look and feel.
+The first is Halloween, which functions in Chicago as a two-week adult season rather than a single night, and this window contains its climax. The listings show its fingerprints everywhere: a sapphic Spooky Edition and a gay men's Halloween Edition at Eli Tea Bar, costumes-optional speed dating at Avenue Tap, a full masquerade mixer in River North, Fright at the Field running daily at the Field Museum through November 1, the Monster Ball in Old Town on October 30, the Haunted Halloween Ball at the Congress Plaza Hotel on Halloween night itself, and a Day of the Dead Crawl through River North bars on the afternoon of November 1. Costumes and masks are social technology. They give strangers openers, give shy people cover, and give everyone permission to be slightly more theatrical than their weekday selves. Lean in: even a token accessory changes how approachable you look and feel, and on October 31 a costume is not optional flair at the Congress Plaza door, it is the dress code.
 
-The second current is Dia de Muertos, anchored by the free Xicago celebration in Pilsen on October 24, with the museum's seasonal exhibitions around it. It gives the fortnight its most meaningful public gathering and its best free event, and it pairs naturally with the same day's tamales and tacos class for anyone building a full Mexican Chicago Saturday.
+The second current is Dia de Muertos, anchored by the free Xicago celebration in Pilsen on October 24, with the museum's seasonal exhibitions around it, and echoed in party form by the November 1 crawl. It gives the fortnight its most meaningful public gathering and its best free event, and it pairs naturally with the same day's tamales and tacos class for anyone building a full Mexican Chicago Saturday. Keep the two registers distinct, as the listings themselves do: the Pilsen celebration is a community remembrance to attend respectfully, while the crawl is a Sunday social wearing the season's colors.
 
-The third current is quieter: it is the last comfortable outdoor fortnight of the year. The lakefront run club is still pleasant in the evenings, patio edges are still open, and by the next edition the city will be dressing for winter and the calendar will tilt fully indoors. If you have been meaning to try the run club or the museum campus in golden-hour light, this is the window. Use the season. Chicago gives its singles a spectacular autumn; the only way to waste it is to stay home swiping through it.
+The third current is quieter: it is the last comfortable outdoor fortnight of the year. The lakefront run club is still pleasant in the evenings, with four sessions inside this window, patio edges are still open, and by the next edition the city will be dressing for winter and the calendar will tilt fully indoors. If you have been meaning to try the run club or the museum campus in golden-hour light, this is the window. Use the season. Chicago gives its singles a spectacular autumn; the only way to waste it is to stay home swiping through it.
 
-Plan the fortnight as a campaign rather than a series of isolated bets, because the events interlock. The opening Thursday alone offers a choice of registers: competitive play at Fatpour, gentle conversation at the book swap, or headphone dancing on Michigan Avenue. The first weekend stacks bowling, curated speed dating, a museum hunt, and the Lincoln Park mixer into a four-day run that could plausibly fill a month of ordinary dating. The second week slows into the specific and the strange: bookstore dating and child-free dating on the same Tuesday night across town from each other, the South Asian mixer on Thursday, and then a Saturday, October 24, dense enough to build a whole day around, tea bar speed dating in the morning, a cooking class and matcha meetup at midday, and the Pilsen festival until dark. The fortnight closes with a choice of finales, costumes in Lakeview on Sunday or masks and hotel glamour the following Wednesday. Sequenced this way, the two weeks stop feeling like a list and start feeling like a season, with rest days earned and momentum carrying you from room to room.
+Plan the fortnight as a campaign rather than a series of isolated bets, because the events interlock. The window opens on Monday with the run club, then stacks bookstore dating and child-free dating on the same Tuesday night across town from each other, board game speed dating in Uptown on Wednesday, and the South Asian professionals mixer on Thursday. Saturday, October 24 is dense enough to build a whole day around: tea bar speed dating in Andersonville in the morning, a cooking class and a matcha meetup at midday, a comedy dating show in the early evening, and the Pilsen festival running until dark. Sunday offers a free morning meetup on Milwaukee Avenue and costumes-optional speed dating in Lakeview in the afternoon. The second week narrows toward the finale: curated speed dating at a West Town brewery on Tuesday, hotel glamour and masks on Wednesday, and then the three-night Halloween landing, Old Town on Friday, the Congress Plaza ballroom on Saturday, and a daylight crawl to close on Sunday, November 1. Sequenced this way, the two weeks stop feeling like a list and start feeling like a season, with rest days earned and momentum carrying you from room to room.
 
 ## What a Fortnight of Dating Events Costs in Chicago
 
-The full price landscape of this edition runs from free to $59, and it is more navigable than it first looks. Two events cost nothing at all: the Fleet Feet run club, which recurs four times inside the window, and Dia de Muertos Xicago. The budget tier is thick: the matcha meetup at $12.51, bowling from $15.18 with its 2-for-1 deal, the Augie's mixer from $15 early-bird, and the Art Institute scavenger hunt at $19. That means a genuinely social fortnight is available for under twenty dollars total if your taste runs to activities over rotations.
+The full price landscape of this edition runs from free to $59, and it is more navigable than it first looks. Three listings cost nothing at all: the Fleet Feet run club, which recurs four times inside the window, the Tinder IRL meetup on Milwaukee Avenue, and Dia de Muertos Xicago. The budget tier is thick: the Day of the Dead Crawl from $5, the matcha meetup at $12.51, the Monster Ball from $13.95, the Garam Masala comedy dating show from $19.64, and Haunted Halloween Ball general admission from $20 early bird. That means a genuinely social fortnight, including Halloween night itself, is available for well under fifty dollars total if your taste runs to activities and big rooms over rotations.
 
-The middle tier is where the dedicated dating market lives: both Slow Burn sessions at $23.18, the book swap at $15 to $20, the masquerade mixer from $35.05, trivia from $34.71, the South Asian mixer from $33.85, and the speed dating cluster between $37 and $44. Budget roughly $35 to $45 per structured dating event, and know that the early birds and 2-for-1s are real money: booking the mixer and the bowling early saves about the price of a third event. Add the price of two drinks or a coffee at most venues, and CTA fare, and a two-event week lands around $60 to $90 all-in.
+The middle tier is where the dedicated dating market lives: both Slow Burn sessions at $23.18, board game speed dating between $25 and $45, the South Asian mixer from $33.85, the masquerade mixer from $35.05, and the Meet IRL speed dating cluster between $37 and $44. Budget roughly $35 to $45 per structured dating event, and know that the early birds are real money: booking the Halloween ball and the crawl early saves about the price of a third event. Add the price of two drinks or a coffee at most venues, and CTA fare, and a two-event week lands around $60 to $90 all-in. The Pre-Dating Halloween night did not publish a price on its organizer page, so check that listing before you budget it.
 
-The premium tier is small and specific: the Four Seasons mixer at $49.87 buys the room, the crowd filter, and the occasion, and the Su Casa class at $59 includes the lesson, the meal, chips and salsa, and a margarita, which repriced as dinner-plus-entertainment is not expensive at all. The honest summary: choose two mid-tier dating events and fill the rest of the fortnight with free and budget picks, and the whole two weeks of serious romantic effort costs less than one forgettable dinner date.
+The premium tier is small and specific: the Four Seasons mixer at $49.87 buys the room, the crowd filter, and the occasion, the top Garam Masala tickets reach $54.86 for its best seats, and the Su Casa class at $59 includes the lesson, the meal, chips and salsa, and a margarita, which repriced as dinner-plus-entertainment is not expensive at all. The honest summary: choose two mid-tier dating events and fill the rest of the fortnight with free and budget picks, and the whole two weeks of serious romantic effort costs less than one forgettable dinner date.
 
 ## The Standing Scene: Chicago Institutions That Run All Year
 
 This list refreshes every two weeks, but the machinery underneath it does not. Behind the rotating dates stand a set of organizers and institutions that keep Chicago's singles scene running all year, and knowing them turns a fortnight's list into a permanent strategy.
 
-Meet IRL is the fortnight's dominant local organizer, with four of the twenty listings: trivia, two curated speed dating nights, and the bookstore edition. Its model, app-supported matching wrapped around warm in-person formats, repeats across the calendar with new age bands, neighborhoods, and themes, including identity-specific nights like the child-free session. If one organizer becomes your home base, it is probably this one; its rooms will start to contain familiar faces within a couple of months, which is when events start compounding into community.
+Meet IRL is the fortnight's dominant local organizer, with three of the twenty listings: two curated speed dating nights, at Midwest Coast Brewing and for child-free singles at Way Out, and the bookstore edition. Its model, app-supported matching wrapped around warm in-person formats, repeats across the calendar with new age bands, neighborhoods, and themes, including identity-specific nights like the child-free session. If one organizer becomes your home base, it is probably this one; its rooms will start to contain familiar faces within a couple of months, which is when events start compounding into community.
 
-Pre-Dating is the national institution, running traditional speed dating in Chicago through its local page, with the Halloween edition at Avenue Tap this fortnight and a steady drumbeat of age-banded nights across the year. Its longevity is its credential: the format has been refined over thousands of evenings. Slow Burn at Eli Tea Bar is the boutique opposite, a matchmaker-led series whose guided, prompt-driven sessions recur in Andersonville and reward regulars who appreciate a calmer room. Matchify, behind the masquerade mixer, adds the always-on profile system, and LUV TALK INC, Meet Sweet, and Ermantourage round out a local ecosystem of hosts who each run a repeatable room: mixers, bowling nights, and interest-led meetups respectively.
+Pre-Dating is the national institution, running traditional speed dating in Chicago through its local page, with the Halloween edition at Avenue Tap this fortnight and a steady drumbeat of age-banded nights across the year. Its longevity is its credential: the format has been refined over thousands of evenings. Slow Burn at Eli Tea Bar is the boutique opposite, a matchmaker-led series whose guided, prompt-driven sessions recur in Andersonville and reward regulars who appreciate a calmer room. Matchify, behind the masquerade mixer, adds the always-on profile system, and Quirk Events, Garam Masala, and Ermantourage round out a local ecosystem of hosts who each run a repeatable room: board game dating, a comedy dating show with a mixer, and interest-led meetups respectively.
 
-The institutions anchor the other side of the calendar. Fleet Feet's free run clubs meet every Monday and Thursday, year-round, weather permitting and sometimes barely. Watson Adventures runs its museum hunts on a continuing schedule across the Art Institute and beyond. The National Museum of Mexican Art is free and open all year, with Dia de Muertos as its annual peak. The strategy writes itself: pick one recurring institution and become a regular, use the big organizers for volume, and let this list, refreshed every Sunday, supply the novelty.
+The institutions anchor the other side of the calendar. Fleet Feet's free run clubs meet every Monday and Thursday, year-round, weather permitting and sometimes barely. The National Museum of Mexican Art is free and open all year, with Dia de Muertos as its annual peak. The strategy writes itself: pick one recurring institution and become a regular, use the big organizers for volume, and let this list, refreshed every Sunday, supply the novelty.
 
-There is a second tier of standing infrastructure worth naming: the city's great museums, whose evening and seasonal programming keeps generating first-rate singles-friendly rooms, the Field Museum's Halloween run and the Art Institute's hunt nights in this edition alone, and the Choose Chicago calendar that surfaces them. A museum membership is, on inspection, one of the most cost-effective dating investments in the city: it converts a dozen evenings a year into beautiful, conversation-rich rooms full of exactly the people this guide keeps pointing you toward. Add a neighborhood association, a parish or cultural center, and one weekly trivia team, and you have built a social circuit that will keep producing introductions in every season, whether or not any single fortnight's list happens to suit you. That is the standing scene's real lesson: events are weather, but institutions are climate, and dating, like everything else in Chicago, rewards the people who dress for the climate.
+There is a second tier of standing infrastructure worth naming: the city's great museums, whose evening and seasonal programming keeps generating first-rate singles-friendly rooms, the Field Museum's Halloween run, running daily through November 1 in this edition, and the Choose Chicago calendar that surfaces them. A museum membership is, on inspection, one of the most cost-effective dating investments in the city: it converts a dozen evenings a year into beautiful, conversation-rich rooms full of exactly the people this guide keeps pointing you toward. Add a neighborhood association, a parish or cultural center, and one weekly trivia team, and you have built a social circuit that will keep producing introductions in every season, whether or not any single fortnight's list happens to suit you. That is the standing scene's real lesson: events are weather, but institutions are climate, and dating, like everything else in Chicago, rewards the people who dress for the climate.
 
 ## Frequently Asked Questions About Singles Events in Chicago
 
 **What are the best singles events in Chicago this week?**
-The strongest options in this window are the 13 labeled singles events above, led by speed dating nights and mixers built for introductions. The singles-friendly picks, from trivia to run clubs, suit anyone who prefers meeting people sideways, through an activity. If you only pick three, take one speed dating night in your age band, one mixer for unstructured practice, and the free run club, which costs nothing and compounds weekly. The full fortnight, October 15 to 28, is mapped in the listings, and the guide refreshes every Sunday, so there is always a current answer to this question rather than a stale one.
+The strongest options in this window are the 12 labeled singles events above, led by speed dating nights and mixers built for introductions. The singles-friendly picks, from run clubs to costume balls, suit anyone who prefers meeting people sideways, through an activity. If you only pick three, take one speed dating night in your age band, one mixer for unstructured practice, and the free run club, which costs nothing and compounds weekly. The full fortnight, October 19 to November 1, is mapped in the listings, and the guide refreshes every Sunday, so there is always a current answer to this question rather than a stale one.
 
 **What is the difference between a singles event and a singles-friendly event?**
 A singles event is organized for dating: speed dating, singles mixers, lock and key parties and matchmaking nights. Everyone present is single, available, and there to meet someone, which is stated out loud and built into the format. A singles-friendly event is a general social event, like a trivia night, class or festival, where lots of people attend solo and talking to strangers is part of the format, but dating is the side effect rather than the stated purpose. Many people find the friendly events easier to start with because the pressure is lower, while the dedicated events are far more efficient: more eligible people, met faster, with intentions clear. The strongest strategy mixes both kinds across a fortnight.
 
 **Are singles events in Chicago free?**
-Some are. Many singles-friendly picks on this list are free, including run clubs, trivia nights and festivals, while ticketed dating events in Chicago typically run from about $10 to $50. Every listing shows its price as published by the organizer. In this edition, the free options are genuinely good: the Fleet Feet run club meets four times inside the window at no cost, and Dia de Muertos Xicago, the fortnight's biggest gathering, is free. The budget tier under $20 includes bowling with its 2-for-1 deal, the Augie's mixer at early-bird pricing, a matcha meetup, and a museum scavenger hunt. Free does not mean low-value here; it usually means an institution or a festival is subsidizing the room.
+Some are. Many singles-friendly picks on this list are free, including run clubs, meetups and festivals, while ticketed dating events in Chicago typically run from about $10 to $50. Every listing shows its price as published by the organizer. In this edition, the free options are genuinely good: the Fleet Feet run club meets four times inside the window at no cost, the Tinder IRL meetup on Milwaukee Avenue is free, and Dia de Muertos Xicago, the fortnight's biggest gathering, is free. The budget tier under $20 includes a matcha meetup at $12.51, the Monster Ball from $13.95, and the Day of the Dead Crawl from $5. Free does not mean low-value here; it usually means an institution or a festival is subsidizing the room.
 
 **Do I need to book speed dating in advance?**
-Almost always, yes. Speed dating organizers cap and balance attendance, and popular nights sell out days ahead, often for one gender before the other. This edition's clearest example is the Meet IRL curated night in Avondale, where ladies' tickets were already listed as sold out while the event was still days away. Booking early is not just about getting in; it affects the balance of the room, which affects everyone's matches, including yours. Use the event link in the listing to book, read the organizer's matching instructions when they arrive, and complete any pre-event profile promptly: at the curated events, that profile is part of how your rotations are chosen, and an empty one quietly weakens your night.
+Almost always, yes. Speed dating organizers cap and balance attendance, and popular nights sell out days ahead, often for one gender before the other. Popular curated nights in this city routinely sell out one side of the room while the event is still days away, and the listings in this guide note sold-out sides whenever the organizer publishes them. Booking early is not just about getting in; it affects the balance of the room, which affects everyone's matches, including yours. Use the event link in the listing to book, read the organizer's matching instructions when they arrive, and complete any pre-event profile promptly: at the curated events, that profile is part of how your rotations are chosen, and an empty one quietly weakens your night.
 
 **What should I say in the first minute of a speed date?**
 Spend it on the present tense and on them. A reliable shape: your name, one line about what brought you tonight, and one genuine question about something they have already mentioned or something visibly true about the evening. Ask questions that produce stories, not data: what their Sunday usually looks like, the best thing they ate recently, what they are into this fall. Avoid opening with the interview sequence of job, hometown, and college, not because it offends but because eleven other people are asking it, and you will blur into the field. One specific, warm detail beats a polished biography at six minutes a round. And listen in a way they can see: eye contact, follow-ups, no glancing at the next table.
@@ -527,13 +542,13 @@ Spend it on the present tense and on them. A reliable shape: your name, one line
 Treat it as information about one room on one night, not a verdict about you. Mutual matching requires two snap judgments to align across minutes, with nerves and noise in the signal, so zero-match nights are statistically normal even for people who date successfully through these events over a season. Debrief honestly rather than harshly: was the age band right, did you arrive late, did you fade in the late rotations, did you say yes only to people clearly out of sync with your life? Adjust one variable and go again. If a pattern persists across several events, change formats rather than concluding anything about yourself: many people who stall at speed dating thrive at activity events where attraction builds across weeks of familiarity instead of minutes of performance.
 
 **Can I go to a singles event alone?**
-Yes, and at most of these events solo is the majority condition, not the exception. Speed dating assumes it, the run club barely notices it, and the Augie's mixer explicitly welcomes solo guests while also allowing a friend along. The book swap caps its room at 25 strangers who all arrived the same way. If arriving alone still feels like a cliff edge, start with the formats that hand you a role on arrival: a trivia team, a bowling lane, a cooking station, a scavenger hunt team. Your nervous system settles when your hands and attention have a job. Within twenty minutes, at any event on this list, the alone part stops being the story.
+Yes, and at most of these events solo is the majority condition, not the exception. Speed dating assumes it, the run club barely notices it, and the Four Seasons mixer explicitly welcomes guests who bring a single friend or come out on their own. The board game night hands every solo arrival a table, a game, and a group within minutes of the door. If arriving alone still feels like a cliff edge, start with the formats that hand you a role on arrival: a board game table, a cooking station, a run club pace group, a museum exhibit trail. Your nervous system settles when your hands and attention have a job. Within twenty minutes, at any event on this list, the alone part stops being the story.
 
 **How do I follow up with someone I met at a mixer?**
 Fast, specifically, and lightly. If the organizer runs a matching system, use it first, and use it the same night or the next morning while the conversation is still warm. Matchify's masquerade profiles, for example, stay active after the event, which is exactly the channel to use. If you exchanged contact details directly, send a short message within a day that references one real detail from your conversation and proposes one concrete, low-stakes plan: coffee near their neighborhood, the next edition of the event you both enjoyed. Avoid the two classic failure modes, the instant marathon text thread that burns the spark before a second meeting, and the three-day silence that reads as indifference. One good message, one easy plan, then let them answer.
 
 **Are there singles events in Chicago for people over 40?**
-Yes, and this edition is unusually kind to that bracket. The Waveland bowling night is built specifically for ages 36 to 50, the Meet IRL curated speed dating covers 34 to 46, the book swap is framed for 35 and up, the Augie's mixer runs to 49, and the Matchify masquerade explicitly spans the 30s, 40s, and 50s in one room. That is five of the fortnight's thirteen dating events where a 45-year-old is the target audience rather than the exception. The broader pattern holds across the year too: Chicago's organizer scene has invested heavily in the 35-plus market, because that is where the demand and the disposable income are.
+Yes, though this edition's clearest room is the Matchify masquerade, which explicitly spans the 30s, 40s, and 50s in one room. The Four Seasons mixer and the Garam Masala show and mixer are open to all singles without an age ceiling, the Haunted Halloween Ball and Monster Ball are 21-plus rooms where age bands dissolve in costume, and the run club and cooking class welcome every age by design. A 45-year-old is a target guest at several of this fortnight's twelve dating events rather than an exception, and the broader pattern holds across the year too: Chicago's organizer scene invests heavily in the 35-plus market, because that is where much of the demand is.
 
 **Is speed dating actually better than the apps?**
 It solves a different problem. The apps give you infinite profiles and very few conversations; speed dating gives you a dozen real conversations in an evening, with voice, humor, warmth, and chemistry all legible in the first minute, none of which a profile can transmit. It is worse at reach and filtering on paper, and far better at the thing that actually predicts dates: whether two people enjoy each other's company. Most successful event daters use both asymmetrically, keeping an app presence for reach while using events to replace the worst phase of app dating, the weeks of texting strangers who evaporate. Twelve six-minute meetings will tell you more about your prospects than a month of swipes.
@@ -546,6 +561,6 @@ Every Sunday. Expired events are removed, recurring events roll to their next da
 
 ## Closing: Your Next Two Weeks, Sorted
 
-Twenty events, two weekends, one decision: stop waiting for the apps to have a good week. Chicago has laid out a fortnight that can hold a speed dating night in your age band, a mixer in a beautiful room, a free run club that quietly becomes your social life, and a festival afternoon in Pilsen, all before October ends. Pick two events today, book them before the balance of the room shifts, and let familiarity and a few brave first minutes do what swiping has not. The city is going out this fortnight. Be in the room where it happens.
+Twenty events, two weekends, one decision: stop waiting for the apps to have a good week. Chicago has laid out a fortnight that can hold a speed dating night in your age band, a mixer in a beautiful room, a free run club that quietly becomes your social life, and a festival afternoon in Pilsen, all before the window closes on November 1. Pick two events today, book them before the balance of the room shifts, and let familiarity and a few brave first minutes do what swiping has not. The city is going out this fortnight. Be in the room where it happens.
 
-*Last updated October 14, 2026. Event details can change; confirm time, venue and availability on the organizer's page before heading out.*
+*Last updated October 18, 2026. Event details can change; confirm time, venue and availability on the organizer's page before heading out.*
