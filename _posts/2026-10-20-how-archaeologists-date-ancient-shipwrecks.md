@@ -6,19 +6,19 @@ date: 2026-10-20
 categories: ["Industry"]
 tags: ["archaeology", "underwater-archaeology", "shipwreck-dating", "bronze-age", "mediterranean-trade", "ceramic-typology"]
 excerpt: "How archaeologists date ancient shipwrecks when the hull has rotted away: pottery, coins, tree rings and residues carry the evidence after timbers vanish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-10-20
+lang: en
 ---
-
 ## A Date With No Ship Attached
 
 Archaeologists date ancient shipwrecks by dating the cargo, the fittings and the seabed deposit that survived the sinking, because the ship itself almost never survives to be dated. Wood floats, rots and is eaten by worms in warm water, so the vessel that gives a wreck its name is usually the one object that cannot be recovered, measured or sampled. The date attached to a wreck therefore comes from jars, coins, ingots, anchors and timbers interpreted as a group, and its reliability depends on one prior question that excavation must answer first: did these objects actually travel together, and did they arrive on the seabed in a single event? A wreck is dated by its youngest trustworthy object, never by the ship itself, and the strength of the date is the strength of the argument that the objects were together when the vessel went down.
 
 That argument sounds like a qualification, yet it is the entire subject. Every famous wreck date in the archaeological literature is a compressed version of an argument about association, built from the positions, conditions and kinds of the finds. When the argument is strong, when a hull lies under a sealed mound of cargo and several independent clocks agree, the date can be stated as a narrow range and defended for decades. When the argument is weak, when a scatter of pots on a slope is all that remains, the honest date is a wide range attached to a careful statement of what the evidence cannot yet establish. Readers who learn to see the argument inside the date can judge any wreck claim, including claims that arrive dressed as records.
 
-![Archaeologist measuring amphorae scattered across a rocky seabed slope - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Archaeologist measuring amphorae scattered across a rocky seabed slope - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The Mediterranean, where most ancient wreck archaeology has been practiced, is both generous and unkind to evidence. Its warm, oxygenated shallows destroy unprotected wood within centuries through the action of the shipworm Teredo navalis and gribbles, small crustaceans that graze timber surfaces. Its deep anoxic basins, by contrast, can preserve hulls almost intact, which is why the wrecks of the Black Sea, where oxygen vanishes below a certain depth, have transformed expectations of survival. Between those extremes sits the standard case: a cargo of fired clay, stone and metal that outlasts its carrier by thousands of years, arranged on a slope or a reef in a pattern that preserves information even after the ship has gone. The discipline of nautical archaeology exists to extract that information without inventing it, and dating is where its standards are tested hardest.
 
