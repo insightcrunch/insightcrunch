@@ -3,13 +3,13 @@ layout: "post"
 title: "How the Affordable Care Act Passed Without One Minority Vote"
 page_title: "Affordable Care Act Vote Analysis: Every Roll Call That Enacted the Law"
 date: "2011-08-01"
-last_updated: 2026-10-01
 categories: ["Industry"]
 tags: ["US Legislation", "Affordable Care Act", "Congressional Roll Calls", "Health Care Law", "Senate Votes", "House Votes"]
 excerpt: "The Affordable Care Act passed with zero minority-party votes in either chamber and survived repeal by one vote. Every roll call in both sequences, broken down."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 83
 author: "katherine-blake"
+last_updated: 2026-10-01
 lang: en
 ---
 The roll call record of the Affordable Care Act holds one fact that the familiar story of its passage tends to blur, and the blur is worth correcting before anything else. Among the major social insurance statutes of the modern era, this is the one that became law without a single vote from the minority party in either chamber of Congress. The enacted law, meaning the Senate-passed text together with the budget reconciliation measure that repaired it, drew zero Republican votes in the House and zero in the Senate. The only Republican vote cast anywhere in the long enacting sequence went to an earlier House bill that never became law. That figure, zero, is what the roll calls show and what the storytelling around the statute most often misses, and it is the thread this analysis follows through every vote that built the law. Counting that zero requires the precision the article applies throughout. The count is of minority-party yes votes on the two laws that were enacted, in either chamber, at any stage from committee to final concurrence. By that count the zero holds: no Republican voted for H.R. 3590 or H.R. 4872 anywhere in the sequence. The two Republican yes votes that do appear in the record, Snowe's in the Finance Committee and Cao's on the House floor, went to texts that never became law, the committee bill that the full Senate never voted on and the House bill that the Senate never took up. The distinction between a vote for a version and a vote for the statute is the difference between the familiar story and the roll-call record, and the article keeps the two separate at every step.

@@ -94,7 +94,7 @@ Two points of precision are worth keeping. This is the only entry in the amendme
 
 The 1991 statute cannot be understood without the bill that failed the year before, and the failure is a genuine dispute about a real question rather than a procedural footnote.
 
-The 1989 Supreme Court term produced a cluster of employment decisions that narrowed doctrines the lower courts had been applying: Wards Cove Packing Co. v. Atonio on the allocation of burdens in disparate impact cases, Price Waterhouse v. Hopkins on mixed motives, Patterson v. McLean Credit Union on the reach of the contracts statute, Lorance v. AT&T Technologies on the clock for challenging a seniority system, and Martin v. Wilks on collateral challenges to consent decrees. Each holding is stated precisely, with its practical consequence, in [the cases that shaped the act](/2010/03/01/civil-rights-act-supreme-court-cases/), which owns the litigation history.
+The 1989 Supreme Court term produced a cluster of employment decisions that narrowed doctrines the lower courts had been applying: Wards Cove Packing Co. v. Atonio on the allocation of burdens in disparate impact cases, Price Waterhouse v. Hopkins on mixed motives, Patterson v. McLean Credit Union on the reach of the contracts statute, Lorance v. AT&T Technologies on the clock for challenging a seniority system, and Martin v. Wilks on collateral challenges to consent decrees. Each holding is stated precisely, with its practical consequence, in the cases that shaped the act, which owns the litigation history.
 
 A bill responding to those decisions moved through both chambers in 1990. Its central provision would have restored the employer's burden of proving business necessity in disparate impact cases, and it would have added damages to the Title VII remedy for the first time.
 
@@ -156,7 +156,7 @@ Ledbetter v. Goodyear Tire and Rubber Co., 550 U.S. 618 (2007), held by a vote o
 
 The Lilly Ledbetter Fair Pay Act of 2009, Public Law 111-2, was the first bill signed in the 111th Congress, on January 29, 2009. It provides that an unlawful employment practice occurs with respect to discrimination in compensation when a discriminatory compensation decision or other practice is adopted, when an individual becomes subject to it, or when an individual is affected by its application, including each time wages, benefits or other compensation is paid. It applies parallel amendments to the age discrimination statute, the disability statute and the Rehabilitation Act, and it applies to claims pending on or after May 28, 2007, the day before the Ledbetter decision.
 
-Three things the statute did not do are worth stating, because it is routinely credited with all of them. It did not create a general equal pay guarantee or change what counts as pay discrimination; it changed only when the clock starts. It did not remove the two-year limit on back pay recovery preceding the filing of a charge. And it did not address pay secrecy, disclosure obligations, or the burden of proving that a pay disparity is discriminatory. The statute's own operation, and the questions it left to other law, are covered in [the Lilly Ledbetter Fair Pay Act of 2009](/2015/03/01/lilly-ledbetter-fair-pay-act-2009/).
+Three things the statute did not do are worth stating, because it is routinely credited with all of them. It did not create a general equal pay guarantee or change what counts as pay discrimination; it changed only when the clock starts. It did not remove the two-year limit on back pay recovery preceding the filing of a charge. And it did not address pay secrecy, disclosure obligations, or the burden of proving that a pay disparity is discriminatory. The statute's own operation, and the questions it left to other law, are covered in the Lilly Ledbetter Fair Pay Act of 2009.
 
 ## What the 1991 act did not do
 
@@ -220,7 +220,7 @@ Congress amends a statute by enacting text through both chambers and presentment
 
 A court construes a statute by determining what the enacted words mean. The 2020 decision reasoned from the text's focus on discrimination against an individual because of that individual's sex and from but-for causation, and the majority stated explicitly that the legislators who adopted the provision likely did not anticipate the application. Nothing in the United States Code changed. The holding states what the words have meant since 1964.
 
-Three consequences follow, and they are why the distinction matters. A construction can be revisited by the courts in a way an enacted text cannot. A construction can be overridden by ordinary legislation, which is the entire subject of this article, and the fact that no such override has been enacted is a fact about legislative outcomes rather than about the decision's status. And a person tracing the statute's history through the Statutes at Large will find the six amendments and will not find the construction, which means research that relies only on the enrolled texts will miss a substantial part of the operative law. The full sequence of constructions, including which ones Congress reversed, is traced in [the cases that shaped the act](/2010/03/01/civil-rights-act-supreme-court-cases/).
+Three consequences follow, and they are why the distinction matters. A construction can be revisited by the courts in a way an enacted text cannot. A construction can be overridden by ordinary legislation, which is the entire subject of this article, and the fact that no such override has been enacted is a fact about legislative outcomes rather than about the decision's status. And a person tracing the statute's history through the Statutes at Large will find the six amendments and will not find the construction, which means research that relies only on the enrolled texts will miss a substantial part of the operative law. The full sequence of constructions, including which ones Congress reversed, is traced in the cases that shaped the act.
 
 ## The amendments that did not happen
 
@@ -254,7 +254,7 @@ The 1991 creation of damages and jury trials changed the economics of the privat
 
 The 1991 shift of the impact burden and the 2009 accrual change were narrower in their effect on practice, but both altered pleading. After 1991 a plaintiff must plead a particular practice, which requires knowing something about the employer's process before discovery. After 2009 a pay claim survives that would previously have been dismissed on the pleadings, which moved a category of case past the earliest stage and into discovery, where compensation records exist.
 
-A reader who wants the procedural sequence in detail, from the charge through conciliation to suit, will find it in [the Title VII charge process from filing to court](/2010/02/15/title-vii-eeoc-enforcement-guide/).
+A reader who wants the procedural sequence in detail, from the charge through conciliation to suit, will find it in the Title VII charge process from filing to court.
 
 ## The interpretive questions the 1991 act created
 
@@ -308,7 +308,7 @@ The damages caps came from the same trade. The administration's stated objection
 
 The other decisions being reversed were less contested and moved as a package. Restoring the contracts statute to post-formation conduct, extending coverage abroad, resetting the seniority clock and limiting collateral attacks on consent decrees each had constituencies and none carried the ideological weight of the burden question.
 
-A reader who wants the procedural anatomy of how a bill assembles and survives a veto point will find it in [how a bill becomes law in practice](/2022/02/01/how-a-bill-becomes-law-in-practice/), which owns the process explanation for this series.
+A reader who wants the procedural anatomy of how a bill assembles and survives a veto point will find it in how a bill becomes law in practice, which owns the process explanation for this series.
 
 ## Each 1991 section, applied to a case
 
@@ -352,7 +352,7 @@ The damages provision does not live with the rest of the title. It is at 42 U.S.
 
 The public accommodations title is at sections 2000a and following, the public facilities title at 2000b, the education title at 2000c, and the federally assisted programs title at 2000d and following, with the program-or-activity definition added in 1988 at section 2000d-4a.
 
-Two research habits follow from this scatter. Always check whether a section was in the original act or was added later, because a section number in the 2000e range gives no indication of its vintage. And when tracing a provision back, move from the code section to the credits that identify the public law, then to the Statutes at Large text of the amending act, since the code's editorial arrangement can obscure what a single amending statute did across several sections at once. The technique belongs to [how to find legislative history](/2022/05/15/finding-legislative-history-sources/) and to [the difference between the US Code and the Statutes at Large](/2022/06/01/us-code-vs-statutes-at-large/), which own the research mechanics for this series.
+Two research habits follow from this scatter. Always check whether a section was in the original act or was added later, because a section number in the 2000e range gives no indication of its vintage. And when tracing a provision back, move from the code section to the credits that identify the public law, then to the Statutes at Large text of the amending act, since the code's editorial arrangement can obscure what a single amending statute did across several sections at once. The technique belongs to how to find legislative history and to the difference between the US Code and the Statutes at Large, which own the research mechanics for this series.
 
 ## What the amending statutes say about themselves
 
@@ -528,7 +528,7 @@ The federally assisted programs title prohibits discrimination on the ground of 
 
 The employment title reaches employers with fifteen or more employees, including state and local governments and educational institutions, with a separate process for federal employees and, since 1995, for legislative-branch employees. It prohibits discrimination because of race, color, religion, sex or national origin, with sex including pregnancy since 1978 and encompassing sexual orientation and gender identity as a matter of construction since 2020. Liability attaches where a protected characteristic was a motivating factor, subject to a defense that limits remedies where the employer would have acted the same way. It reaches practices that cause a disparate impact unless the employer demonstrates job relatedness and business necessity, with the plaintiff required to identify a particular practice except where the elements of a process cannot be separated. The enforcement commission investigates, conciliates and may sue. A prevailing plaintiff may obtain injunctive relief, reinstatement, back pay, attorney's fees and expert fees, and, for intentional discrimination, compensatory and punitive damages capped by employer size with a jury trial right, with punitive damages unavailable against government employers. Compensation claims accrue with each paycheck issued under a discriminatory decision. Coverage extends to American citizens employed abroad by American-controlled employers subject to a foreign-law exception.
 
-Not one of those three paragraphs could be written from the 1964 text alone, and the second and third could not be written from the 1964 text plus the case law either. That is the point of this article. The statute in force is the enacted text plus every amendment plus every surviving construction, and a reader who has the ledger has the map. For orientation across the whole act, [the complete guide to the Civil Rights Act of 1964](/2010/01/01/civil-rights-act-1964-complete-guide/) is the hub this cluster reports to.
+Not one of those three paragraphs could be written from the 1964 text alone, and the second and third could not be written from the 1964 text plus the case law either. That is the point of this article. The statute in force is the enacted text plus every amendment plus every surviving construction, and a reader who has the ledger has the map. For orientation across the whole act, the complete guide to the Civil Rights Act of 1964 is the hub this cluster reports to.
 
 ## Frequently Asked Questions
 

@@ -325,7 +325,7 @@ The third part is the escape clause. Article 22(7) permits Parliament to prescri
 
 Set the parts side by side and the significance of the change becomes clearer than any summary of it. Section 3 does not abolish detention without trial, does not give the detainee a lawyer before the board, and does not close the clause (7) route. What it does is shorten the unreviewed period by a third and transfer the constitution of the review body from the executive to the judiciary. Those are the two variables in the scheme that a government has the strongest institutional interest in controlling, which is a plausible partial explanation for why the section has stayed unnotified through governments of every description, though it should be labelled as inference rather than as evidence.
 
-The wider statutory picture, the central and state legislation that operates under this permission, the grounds on which detention orders are made, the procedure a detainee actually faces and the routes to challenge, is set out separately in the [preventive detention guide](/2010/06/01/preventive-detention-law-india-guide/), which is where the operational detail belongs.
+The wider statutory picture, the central and state legislation that operates under this permission, the grounds on which detention orders are made, the procedure a detainee actually faces and the routes to challenge, is set out separately in the preventive detention guide, which is where the operational detail belongs.
 
 ## The provisions nobody mentions
 

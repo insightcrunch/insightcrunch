@@ -30,7 +30,9 @@ B R Ambedkar defended the choice in the Assembly on grounds that have aged well.
 
 ### Why did the Constituent Assembly reject a single amendment rule?
 
-Because provisions differ in kind. The Assembly graded the procedure so that the effort required to change a provision would track how structural that provision is, which is why altering a state boundary needs an ordinary majority while altering the division of legislative powers between the Union and the states needs a special majority plus the agreement of half the states.
+Because provisions differ in kind. The Assembly graded the procedure so that the effort required to change a provision would track how structural that provision is, which is why altering a state boundary needs an ordinary majority while altering the division of legislative powers between the Union and the states needs a special majority.
+
+To that special majority must be added the agreement of half the states.
 
 The design has a consequence that its authors probably intended and that later readers routinely miss. Because the routes are graded, the classification question comes first. Before anyone can say what a proposed change requires, they must know which route it travels. A great deal of confused public argument about the Constitution consists of applying the requirements of one route to a proposal that belongs in another.
 
@@ -104,7 +106,9 @@ Run the same exercise on a Rajya Sabha of 245 seats. The total membership limb r
 
 ### Does an abstention help or hurt an amendment bill?
 
-An abstention neither helps nor hurts directly, because a member who is present but does not vote is excluded from the present and voting count. It lowers the two-thirds threshold by shrinking the denominator, while leaving the total membership threshold untouched. For a government short of the fixed limb, abstentions are worthless; for a government short only of two-thirds, they are quietly useful.
+An abstention neither helps nor hurts directly, because a member who is present but does not vote is excluded from the present and voting count. It lowers the two-thirds threshold by shrinking the denominator, while leaving the total membership threshold untouched. For a government short of the fixed limb, abstentions are worthless.
+
+For a government short only of two-thirds, they are quietly useful.
 
 The requirement operates in each House separately and there is no aggregation. A bill that clears the Lok Sabha by an overwhelming margin and falls three votes short in the Rajya Sabha has failed, and the Lok Sabha margin is irrelevant to that outcome. The same double threshold applies to the bill and, under parliamentary practice, to each clause of it and to any amendment moved to the bill, which is a detail that matters in contested passages where the opposition attempts to strip particular clauses out.
 

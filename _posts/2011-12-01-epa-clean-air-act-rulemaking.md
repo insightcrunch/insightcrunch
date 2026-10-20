@@ -3,13 +3,13 @@ layout: "post"
 title: "How EPA Writes Clean Air Act Rules: Statute to Facility"
 page_title: "How EPA Writes Clean Air Act Rules: From Congressional Authorization to Facility-Level Obligation"
 date: "2011-12-01"
-last_updated: 2026-10-01
 categories: ["Industry"]
 tags: ["US Legislation", "Clean Air Act", "Environmental Law", "EPA Rulemaking", "Administrative Law", "State Implementation Plans", "Vehicle Emission Standards"]
 excerpt: "How the Clean Air Act becomes enforceable law: EPA rulemaking under 307(d), state plans, sanctions clocks, permits, and the courtroom rules at every link."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 86
 author: "christopher-wells"
+last_updated: 2026-10-01
 lang: en
 ---
 ## From Statute to Smokestack: The Machinery Between Authorization and Obligation

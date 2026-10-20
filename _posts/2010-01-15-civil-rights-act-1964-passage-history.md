@@ -132,7 +132,9 @@ What the substitute did not do is equally important, because accounts of the neg
 
 ### Which enforcement powers did the Dirksen substitute strip from the bill?
 
-It was the Mansfield-Dirksen amendment offered in the Senate in late May 1964, replacing the House-passed text. It preserved every title while reducing federal enforcement authority, most notably by denying the new employment commission any power to sue or issue orders, and by requiring deference to state enforcement agencies. Because the House later accepted the Senate text, this substitute is the enacted law.
+It was the Mansfield-Dirksen amendment offered in the Senate in late May 1964, replacing the House-passed text. It preserved every title while reducing federal enforcement authority, most notably by denying the new employment commission any power to sue or issue orders, and by requiring deference to state enforcement agencies.
+
+Because the House later accepted the Senate text, this substitute is the enacted law.
 
 ## Cloture, June 10, 1964
 
@@ -237,7 +239,7 @@ The third was property and associational: that the public accommodations title c
 
 The opposition also made arguments grounded in the maintenance of segregation as such, and those arguments were made openly. Recording that is part of an accurate account. But an analysis that treats every objection as a proxy for the last category cannot explain why the enacted statute contains the specific procedural safeguards it contains, because those safeguards answer the first and second arguments and not the third.
 
-The roll calls show precisely which senators and representatives ended up where, and the regional pattern of the vote is more complicated than the debate transcript suggests. That analysis belongs to [who voted for the Civil Rights Act of 1964](/2010/04/15/civil-rights-act-1964-vote-breakdown/).
+The roll calls show precisely which senators and representatives ended up where, and the regional pattern of the vote is more complicated than the debate transcript suggests. That analysis belongs to who voted for the Civil Rights Act of 1964.
 
 ## Who actually ran the operation
 
@@ -301,7 +303,7 @@ Motions to proceed are debatable. This is the feature that produced the odd spec
 
 Two further rules shaped the fight without deciding it. The two-speech rule limits a senator to two speeches on a question in a legislative day, which is why the opposition's platoon system needed enough members to rotate and why the leadership occasionally kept a legislative day open across multiple calendar days. And after cloture is invoked, amendments must be germane, which is what prevented the opposition from reopening the substitute after June 10.
 
-The general operation of these rules, the historical development of Rule XXII, and the ways cloture has been used and avoided across other statutes in this series are covered in [the filibuster and cloture explained](/2022/02/15/filibuster-and-cloture-explained/), which owns those questions. What matters here is the specific consequence: a supermajority requirement in one chamber determined the content of the enforcement provisions in a statute that a majority of both chambers supported.
+The general operation of these rules, the historical development of Rule XXII, and the ways cloture has been used and avoided across other statutes in this series are covered in the filibuster and cloture explained, which owns those questions. What matters here is the specific consequence: a supermajority requirement in one chamber determined the content of the enforcement provisions in a statute that a majority of both chambers supported.
 
 ## Where the bill nearly died
 
@@ -343,7 +345,7 @@ The Congressional Record for the spring of 1964 carries the Senate debate in ful
 
 The cloture proceedings of June 10, 1964 and the roll calls are in the Record as well, and the tallies are analyzed in the vote article rather than here.
 
-The general method for locating these documents, moving from a popular name to a bill number to a public law number, and weighing document types against one another is covered in [finding legislative history sources](/2022/05/15/finding-legislative-history-sources/), which owns the sourcing questions for the whole series.
+The general method for locating these documents, moving from a popular name to a bill number to a public law number, and weighing document types against one another is covered in finding legislative history sources, which owns the sourcing questions for the whole series.
 
 Assembling this material for the first time is less a research problem than an organization problem: four bill versions, one committee report, months of floor debate, four recorded votes and a signing date, all of which have to be kept straight while reading. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html), where a single notebook can hold the gate-by-gate chronology, the differences between bill versions, and the citations for each claim in one annotated place that works offline.
 
@@ -429,7 +431,7 @@ Splitting a bill multiplies the number of times it must clear every gate. Each s
 
 A single omnibus measure also permits internal trades that separate bills do not. A member who cares intensely about one title and mildly about another can be brought along on the package, and a concession in one title can purchase a vote that protects another. The Dirksen negotiation is the clearest example: enforcement authority in the employment title was traded to preserve the entire structure, a transaction that is impossible if the employment title is a freestanding bill nobody has any reason to trade for.
 
-The countervailing cost is that an omnibus bill gives the opposition a larger target, since any objectionable provision is a reason to oppose the whole. That cost was real and the managers absorbed it, in part by keeping Title I deliberately modest so that the bill did not attack the electoral basis of its opponents' own seats. Restraint in the voting title bought room for the rest of the statute, and the consequence, that federal voting rights legislation had to wait for 1965, is the clearest illustration in this story that a bill's omissions can be as deliberate as its provisions. The statute that filled that gap is treated in the [complete guide to the Voting Rights Act of 1965](/2010/06/01/voting-rights-act-1965-complete-guide/).
+The countervailing cost is that an omnibus bill gives the opposition a larger target, since any objectionable provision is a reason to oppose the whole. That cost was real and the managers absorbed it, in part by keeping Title I deliberately modest so that the bill did not attack the electoral basis of its opponents' own seats. Restraint in the voting title bought room for the rest of the statute, and the consequence, that federal voting rights legislation had to wait for 1965, is the clearest illustration in this story that a bill's omissions can be as deliberate as its provisions. The statute that filled that gap is treated in the complete guide to the Voting Rights Act of 1965.
 
 ## A diagnostic for reading any bill's passage
 
@@ -485,7 +487,7 @@ Naming these openly is not hedging. Each is a place where confident writing abou
 
 ## The tools that appear in this story
 
-Six parliamentary devices carried the bill or were used against it, and a reader who knows what each one does can follow the account without a procedural handbook. The general treatment of these mechanisms across the whole series belongs to [the filibuster and cloture explained](/2022/02/15/filibuster-and-cloture-explained/) and [the committee system and markups](/2022/03/01/committee-system-and-markups/); what follows is only what each did to this bill.
+Six parliamentary devices carried the bill or were used against it, and a reader who knows what each one does can follow the account without a procedural handbook. The general treatment of these mechanisms across the whole series belongs to the filibuster and cloture explained and the committee system and markups; what follows is only what each did to this bill.
 
 A discharge petition is the House majority's remedy against a committee that will not act. Once 218 members sign, the bill leaves the committee's control. Its power against H.R. 7152 lay in the approach rather than the arrival, since Smith moved before it could be completed.
 
@@ -535,7 +537,7 @@ The fourth was Senate passage on June 19, 1964, which followed cloture and was n
 
 A fifth vote, the House's agreement to the Senate amendments on July 2, 1964, completed the process without a conference.
 
-The regional and party composition of these votes, the defections in both directions, and what the pattern indicated about the coalitions then forming are the subject of [who voted for the Civil Rights Act of 1964](/2010/04/15/civil-rights-act-1964-vote-breakdown/), which owns the roll-call analysis for this statute. This article deliberately stops at naming the votes and their dates, because the sequence is procedural evidence and the composition is a separate question.
+The regional and party composition of these votes, the defections in both directions, and what the pattern indicated about the coalitions then forming are the subject of who voted for the Civil Rights Act of 1964, which owns the roll-call analysis for this statute. This article deliberately stops at naming the votes and their dates, because the sequence is procedural evidence and the composition is a separate question.
 
 ## Closing assessment
 
@@ -545,7 +547,7 @@ A majority of both chambers favored the House-passed version. That version is no
 
 None of that diminishes the achievement. Six gates, any one of which had stopped comparable bills before, were cleared in twelve and a half months by an operation that combined a discharge petition, a calendar maneuver, a bipartisan floor structure, an outside coalition and a negotiated text. What it does is replace admiration with understanding, which is the only thing that makes the story useful to someone trying to read a different statute.
 
-For what the resulting text actually contains, the [complete guide to the Civil Rights Act of 1964](/2010/01/01/civil-rights-act-1964-complete-guide/) sets out the eleven titles and the three enforcement levers. For the provisions in detail, the [title by title explainer](/2010/02/01/civil-rights-act-1964-titles-explained/) works through the coverage tests and exemptions. For the roll calls, [who voted for the Civil Rights Act of 1964](/2010/04/15/civil-rights-act-1964-vote-breakdown/) has the regional and party breakdown that this article deliberately leaves alone.
+For what the resulting text actually contains, the complete guide to the Civil Rights Act of 1964 sets out the eleven titles and the three enforcement levers. For the provisions in detail, the title by title explainer works through the coverage tests and exemptions. For the roll calls, who voted for the Civil Rights Act of 1964 has the regional and party breakdown that this article deliberately leaves alone.
 
 ## Frequently Asked Questions
 

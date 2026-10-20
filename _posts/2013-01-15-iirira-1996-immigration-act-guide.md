@@ -3,13 +3,13 @@ layout: "post"
 title: "IIRIRA Guide: How the Immigration Law Reshaped Deportation"
 page_title: "IIRIRA Explained: The Illegal Immigration Reform and Immigrant Responsibility Act, Its Unlawful Presence Bars, Expedited Removal, Aggravated Felony Expansion, and Removal Consequences"
 date: "2013-01-15"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Act", "IIRIRA", "Deportation Law", "Unlawful Presence", "Statute Profile"]
 excerpt: "IIRIRA rebuilt removal law inside an appropriations bill, creating the unlawful presence bars, expedited removal, and a retroactive aggravated felony category."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 97
 author: "michael-brooks"
+last_updated: 2026-10-05
 lang: en
 ---
 Why did a single division of an appropriations act, signed on September 30, 1996, become the statute that practitioners reach for first when a client who has lived in the United States for years asks whether leaving the country to fix a paperwork problem will destroy the family? IIRIRA, the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, answers that question in the severest way the immigration code allows: the departure itself triggers the punishment, and the punishment lasts three or ten years.

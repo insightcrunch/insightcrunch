@@ -444,7 +444,7 @@ The relief a court may order under section 706(g) is stated as an injunction aga
 
 Two limits on remedies belong in an implementation account. Back pay is limited to a period running backward from the filing of the charge, which means delay in filing reduces recovery independently of the timeliness rules. And the enacted text provides that no order shall require reinstatement, hiring or back pay for a person refused employment or advancement, or suspended or discharged, for any reason other than discrimination, which channels relief to persons actually injured by a violation.
 
-Compensatory and punitive damages, and the right to a jury trial where they are sought, were not available under the title as enacted. They arrived with the Civil Rights Act of 1991, subject to caps that vary with employer size, and that change is treated in [the Civil Rights Act of 1991 and after](/2010/04/01/civil-rights-act-1991-amendments/), which owns the amendment questions for this statute. The implementation point here is narrower and worth stating on its own: for the first twenty-seven years, a title enforced by private plaintiffs offered those plaintiffs equitable relief and no damages, which is a mechanism running without its fuel.
+Compensatory and punitive damages, and the right to a jury trial where they are sought, were not available under the title as enacted. They arrived with the Civil Rights Act of 1991, subject to caps that vary with employer size, and that change is treated in the Civil Rights Act of 1991 and after, which owns the amendment questions for this statute. The implementation point here is narrower and worth stating on its own: for the first twenty-seven years, a title enforced by private plaintiffs offered those plaintiffs equitable relief and no damages, which is a mechanism running without its fuel.
 
 ## Charge intake in practice
 
@@ -476,7 +476,7 @@ Internal complaint systems divert disputes from the agency and the courts, resol
 
 At the same time, the compliance apparatus is the mechanism by which the title reaches the overwhelming majority of covered workplaces, since only a small fraction ever face a charge. An enforcement account limited to charges and lawsuits describes the visible part of the system and misses where most of its operational effect lives.
 
-The broader body of employment litigation that produced these doctrines, and the doctrinal detail behind the affirmative defense, is surveyed in [workplace discrimination court cases](/2015/04/15/workplace-discrimination-court-cases/).
+The broader body of employment litigation that produced these doctrines, and the doctrinal detail behind the affirmative defense, is surveyed in workplace discrimination court cases.
 
 ## The procedural template other statutes borrowed
 
@@ -560,7 +560,7 @@ What the Commission does, precisely, is receive charges, investigate, determine,
 
 That is the toothless-by-design thesis in its final form: not that the agency is weak, but that its shape is legible as a record of what a cloture bargain cost, and that Congress has spent five decades filling in what was traded away. A reader who holds that framework can explain almost every peculiarity of the process, from the exhaustion requirement to the asymmetric deadlines to the odd status of the guidelines.
 
-For what the title's text actually prohibits and whom it covers, [the Civil Rights Act of 1964 title by title](/2010/02/01/civil-rights-act-1964-titles-explained/) works through the provisions. For the doctrines that determine what a plaintiff must prove once in court, [the cases that shaped the Civil Rights Act](/2010/03/01/civil-rights-act-supreme-court-cases/) takes each holding in sequence, and [workplace discrimination court cases](/2015/04/15/workplace-discrimination-court-cases/) surveys the wider employment litigation landscape this enforcement design produced.
+For what the title's text actually prohibits and whom it covers, the Civil Rights Act of 1964 title by title works through the provisions. For the doctrines that determine what a plaintiff must prove once in court, the cases that shaped the Civil Rights Act takes each holding in sequence, and workplace discrimination court cases surveys the wider employment litigation landscape this enforcement design produced.
 
 ## Frequently Asked Questions
 

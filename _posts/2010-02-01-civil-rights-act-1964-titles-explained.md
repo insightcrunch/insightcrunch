@@ -162,7 +162,7 @@ As enacted in 1964, coverage began at one hundred or more employees and phased d
 
 Two provisions remove parties or conduct from the title's coverage, and they are exemptions in the strict sense rather than defenses.
 
-Section 702 provides that the title does not apply to a religious corporation, association, educational institution or society with respect to the employment of individuals of a particular religion to perform work connected with the carrying on of its activities. The exemption is limited to religion. A religious employer remains subject to the title's prohibitions on race, color, sex and national origin discrimination. The scope of the phrase "connected with the carrying on of its activities" has been the subject of extensive litigation, and the doctrinal answers belong to [the cases that shaped the Civil Rights Act](/2010/03/01/civil-rights-act-supreme-court-cases/).
+Section 702 provides that the title does not apply to a religious corporation, association, educational institution or society with respect to the employment of individuals of a particular religion to perform work connected with the carrying on of its activities. The exemption is limited to religion. A religious employer remains subject to the title's prohibitions on race, color, sex and national origin discrimination. The scope of the phrase "connected with the carrying on of its activities" has been the subject of extensive litigation, and the doctrinal answers belong to the cases that shaped the Civil Rights Act.
 
 Section 703(i) provides that a business or enterprise on or near an Indian reservation may extend a publicly announced preference in employment to Indians living on or near the reservation. This is a narrow provision that is often mistaken for a general exception and is not one.
 
@@ -369,7 +369,7 @@ The Lilly Ledbetter Fair Pay Act of 2009, Public Law 111-2, amended the limitati
 
 A sixth category is not statutory. Judicial construction has changed the operative meaning of unamended words, most visibly in the holding that discrimination because of sexual orientation or gender identity is discrimination because of sex within the meaning of Title VII. The words of section 703(a) did not change. What the section requires did.
 
-Each of these is treated at length in [the Civil Rights Act of 1991 and after](/2010/04/01/civil-rights-act-1991-amendments/), which owns the amendment questions for this statute.
+Each of these is treated at length in the Civil Rights Act of 1991 and after, which owns the amendment questions for this statute.
 
 ## Five coverage questions worked end to end
 
@@ -523,7 +523,7 @@ The support structure is Titles V, VIII, X and XI. Fact-finding, statistics, med
 
 A fourth habit completes the map: always attach a date to whatever you are describing. This statute has an enacted text, a codified text that has changed five times by statute, and an operative meaning that has changed further through construction, and a sentence about coverage that does not specify a period is ambiguous rather than merely imprecise. The employer threshold, the definition of program or activity, the availability of damages, the treatment of pregnancy and the running of the pay-claim clock all have different correct answers depending on the year in question. Writing "as enacted in 1964" or "as amended in 1972" costs four words and eliminates the largest single category of error in secondary writing about this act.
 
-Hold those three groupings, add the four-step exemption spine, and the statute becomes navigable. For how these provisions fit into the act's overall design and its three enforcement levers, the [complete guide to the Civil Rights Act of 1964](/2010/01/01/civil-rights-act-1964-complete-guide/) supplies the map. For how courts have construed the language quoted here, the [cases that shaped the Civil Rights Act](/2010/03/01/civil-rights-act-supreme-court-cases/) takes each holding in sequence.
+Hold those three groupings, add the four-step exemption spine, and the statute becomes navigable. For how these provisions fit into the act's overall design and its three enforcement levers, the [complete guide to the Civil Rights Act of 1964](/2010/01/01/civil-rights-act-1964-complete-guide/) supplies the map. For how courts have construed the language quoted here, the cases that shaped the Civil Rights Act takes each holding in sequence.
 
 Working through a statute at this level of detail generates a lot of small, precise notes: section numbers, thresholds, the dates each clock runs from, and which later act changed which clause. It helps to [keep your statute notes, citations, and case chronologies together free on VaultBook](https://vaultbook.net/tools/legislation-study-notebook.html), where a single notebook can hold the section-by-section annotations, the coverage table and the amendment history in one place you can annotate as you read and use offline.
 

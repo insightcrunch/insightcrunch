@@ -68,7 +68,9 @@ The international package created a third, quieter and more expert opposition. C
 
 ### What did the Kelkar Committee warn about the Direct Taxes Code in 2012?
 
-The committee on fiscal consolidation chaired by Vijay Kelkar, reporting in September 2012, warned that enacting the Bill in its then form would produce large and continuing revenue losses, that the tax to GDP ratio was already low, and that in an active fiscal crisis there was no fiscal space for losses of that order. It advised a comprehensive review of the Bill before enactment.
+The committee on fiscal consolidation chaired by Vijay Kelkar, reporting in September 2012, warned that enacting the Bill in its then form would produce large and continuing revenue losses, that the tax to GDP ratio was already low, and that in an active fiscal crisis there was no fiscal space for losses of that order.
+
+It advised a comprehensive review of the Bill before enactment.
 
 The Kelkar warning deserves emphasis because it changed the character of the opposition. Until it arrived, the argument against the Code was distributional: this clause hurts savers, that clause hurts exporters, another hurts investors. The fiscal consolidation committee reframed the objection as one about the state's solvency, arguing that the Bill's widened bands and raised thresholds would surrender revenue on a continuing basis at a moment when the deficit was the government's central anxiety. A finance ministry does not have to accept such a warning, but it cannot ignore it without cost, and the warning had a particular force because the committee had been appointed by the same government that owned the Bill. From the autumn of 2012, defending the Code required defending its revenue arithmetic against the government's own fiscal advisers, and the energy that might have carried the Bill through the House was spent instead on whether it should be carried at all.
 
