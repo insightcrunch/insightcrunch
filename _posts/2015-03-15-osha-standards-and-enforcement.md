@@ -10,8 +10,6 @@ image: "/assets/images/blog/blog-63.webp"
 reading_time: 85
 author: "daniel-morgan"
 last_updated: 2026-10-09
-keywords: "OSHA standards, OSHA enforcement, workplace safety rules, emergency temporary standard, OSHA citations, significant risk test"
-slug: "osha-standards-and-enforcement"
 lang: en
 ---
 ## How a Workplace Hazard Becomes a Citation a Company Must Answer

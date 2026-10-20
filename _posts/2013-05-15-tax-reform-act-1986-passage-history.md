@@ -3,13 +3,13 @@ layout: "post"
 title: "Tax Reform Act Passage: How a Dead Bill Became Law"
 page_title: "Tax Reform Act Passage: How a Dead Bill Became Law"
 date: "2013-05-15"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Reform", "Congress", "Senate Finance", "Ways and Means", "Legislative History"]
 excerpt: "The Tax Reform Act survived three declared deaths, a failed House rule, and a collapsed Senate markup to pass by lopsided margins in both chambers of Congress."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 88
 author: "jessica-kim"
+last_updated: 2026-10-05
 lang: en
 ---
 ## The Test This Passage Poses

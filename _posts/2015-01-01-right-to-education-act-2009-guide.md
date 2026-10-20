@@ -5,7 +5,7 @@ page_title: "Right to Education Act 2009: Complete Guide to Free and Compulsory 
 date: 2015-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Right to Education Act", "Social Justice", "Constitutional Law", "Judiciary", "UPSC"]
-excerpt: "The Right to Education Act 2009 explained in full: what it entitles every child to, the norms a school must meet, and what a school is forbidden to do."
+excerpt: "The Right to Education Act explained in full: what it entitles every child to, the norms that a school must meet, and what a school is forbidden to do."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 92
 author: "deepika-joshi"

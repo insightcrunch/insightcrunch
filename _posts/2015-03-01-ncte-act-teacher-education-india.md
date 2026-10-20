@@ -5,7 +5,7 @@ page_title: "NCTE Act 1993 Explained: Recognition of Teacher Education Instituti
 date: 2015-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "NCTE Act", "Teacher Education", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "The NCTE Act 1993 explained: how teacher education institutions win and lose recognition, who sets teacher qualifications and what the eligibility test decides."
+excerpt: "The NCTE Act explained: how teacher education institutions win and lose recognition, who sets teacher qualifications and what the eligibility test decides."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 89
 author: "anita-das"

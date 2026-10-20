@@ -5,7 +5,7 @@ page_title: "National Green Tribunal Act 2010 Explained: Schedule I Jurisdiction
 date: 2014-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Green Tribunal", "Environment Law", "Judiciary", "UPSC", "Law Students"]
-excerpt: "National Green Tribunal Act 2010 explained: the schedule that fixes its jurisdiction, its expert members, its relief powers and its short limitation periods."
+excerpt: "The National Green Tribunal Act explained: the schedule that fixes its jurisdiction, its expert members, its relief powers and its short limitation periods."
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 72
 author: "anita-das"

@@ -5,7 +5,7 @@ page_title: "Forest (Conservation) Act 1980 Explained: Section 2 Prior Approval,
 date: 2014-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Forest Conservation Act", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "Forest (Conservation) Act 1980 explained: how one prior approval rule, a court-given definition of forest and two levies govern the diversion of forest land."
+excerpt: "The Forest (Conservation) Act explained: how one prior approval rule, a court-given definition of forest and two levies govern diversion of forest land."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
 author: "deepika-joshi"

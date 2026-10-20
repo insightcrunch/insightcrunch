@@ -5,7 +5,7 @@ page_title: "Environment Protection Act 1986: Sections, Rules, EIA Clearance, Co
 date: 2014-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Environment Protection Act", "Environmental Law", "EIA Notification", "Pollution Control", "UPSC"]
-excerpt: "Environment Protection Act 1986 explained: the umbrella statute whose sections delegate nearly every environmental standard in India to gazette notifications."
+excerpt: "The Environment Protection Act explained: the umbrella statute whose sections delegate nearly every environmental standard in India to gazette notifications."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 91
 author: "anita-das"

@@ -5,7 +5,7 @@ page_title: "Wildlife Protection Act 1972 Explained: The Hunting Ban, Four Sched
 date: 2014-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Wildlife Protection Act", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "Wildlife Protection Act 1972 explained: the hunting ban, the four schedules, protected areas, tiger reserves and penalties for wildlife crime in India."
+excerpt: "The Wildlife Protection Act explained: the hunting ban, the four schedules, protected areas, tiger reserves and penalties for wildlife crime in India."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 90
 author: "deepika-joshi"

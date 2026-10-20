@@ -1,15 +1,21 @@
 ---
+layout: "post"
 title: "OSH Act: Complete Guide to the Three Body Safety Statute"
-excerpt: "A complete guide to the Occupational Safety and Health Act, covering its three institutions, the general duty clause, coverage rules, and the penalty structure."
+page_title: "Occupational Safety and Health Act Guide: The Three Body Design of OSHA, the Review Commission and NIOSH, the General Duty Clause, Coverage Rules and the Penalty Structure Explained"
 date: "2015-01-01"
-last_updated: 2026-10-05
-author: "katherine-blake"
-category: "US Legislation"
-tags: "OSHA, OSH Act, labor law, workplace safety, statute guide"
-keywords: "occupational safety health act 1970, OSHA statute guide, general duty clause, OSHA coverage, OSHA penalties"
-slug: "occupational-safety-health-act-1970"
+categories: ["Industry"]
+tags:
+  - "US Legislation"
+  - "OSHA"
+  - "OSH Act"
+  - "Labor Law"
+  - "Workplace Safety"
+  - "Statute Guide"
+excerpt: "A complete guide to the Occupational Safety and Health Act, covering its three institutions, the general duty clause, coverage rules, and the penalty structure."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 106
+author: "katherine-blake"
+last_updated: "2026-10-05"
 lang: en
 ---
 The Occupational Safety and Health Act of 1970 is one of the few federal statutes whose institutional design is more important than its prohibitions. Most workplace laws create one agency and tell it to do a job. This statute created three separate bodies, put them in different departments, and arranged them so that no single one could both discover a hazard and conclusively punish it. Congress then capped the penalties at levels that have barely moved in more than five decades and left one duty, the general duty clause, to cover every hazard no specific rule reaches. To understand American workplace safety law is to understand that architecture, not merely the agency that wears its name.
@@ -144,11 +150,11 @@ The immediate family member on family farms exclusion deserves careful handling 
 
 Section 24 adds the information infrastructure that makes the coverage boundaries administrable: it directs the Secretary to develop and maintain a program of statistics on work related injuries, illnesses, and deaths, compiled in cooperation with the states. The resulting data systems, including the Bureau of Labor Statistics survey of occupational injuries and illnesses and its census of fatal occupational injuries, supply the empirical base for inspection targeting, standard setting priorities, and public understanding of the statute's effects. The act thus measures the problem it regulates, and the measurement is itself a statutory command.
 
-### Who is not covered by the OSH Act?
+### Which Exclusions Are Written in the Statute, and Which Come From Riders and Enforcement Policy?
 
 The statute excludes the self employed, workers in workplaces regulated by other federal agencies such as mines, and state and local government employees unless the state operates an approved state plan. Domestic workers and small family farms sit outside practical coverage through appropriations riders and enforcement policy, not through any exclusion written in the statutory text.
 
-### Does the OSH Act cover public employees?
+### Which Programs Cover Federal, State, and Local Government Workers?
 
 Federal employees are covered through a separate program under section 19. State and local government employees are not covered by the federal statute itself. Their only path to protection is a state plan approved under section 18, in which the state covers its public workforce. Without such a plan, municipal and county employees have no federal safety statute behind them.
 

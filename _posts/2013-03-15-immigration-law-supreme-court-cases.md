@@ -3,13 +3,13 @@ layout: "post"
 title: "Immigration Law in the Supreme Court: Decisions Guide"
 page_title: "Immigration Law in the Supreme Court: Plenary Power Doctrine, Holdings and the Decisions That Govern"
 date: "2013-03-15"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration", "Supreme Court", "Constitutional Law", "Congress", "Study Guides"]
 excerpt: "Immigration law in the Supreme Court runs on the plenary power doctrine. This guide traces the doctrine from its roots and states each holding that governs."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 101
 author: "william-knight"
+last_updated: 2026-10-05
 lang: en
 ---
 ## Why Immigration Law in the Supreme Court Works Differently

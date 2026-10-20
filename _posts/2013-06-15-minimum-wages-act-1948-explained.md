@@ -40,7 +40,9 @@ An "employer" is defined with matching breadth. It covers any person who employs
 
 ### What exactly does the Act require an employer to do?
 
-Where a notification fixing minimum rates is in force for a scheduled employment, Section 12 requires the employer to pay every employee wages at a rate not less than the minimum rate fixed for that class of employees in that employment, without deductions except as authorised, and within the time and conditions prescribed. Around that core duty the Act fixes hours and rest days, requires overtime at the overtime rate, compels registers and records, and arms inspectors and a claims authority to enforce it.
+Where a notification fixing minimum rates is in force for a scheduled employment, Section 12 requires the employer to pay every employee wages at a rate not less than the minimum rate fixed for that class of employees in that employment, without deductions except as authorised, and within the time and conditions prescribed.
+
+Around that core duty the Act fixes hours and rest days, requires overtime at the overtime rate, compels registers and records, and arms inspectors and a claims authority to enforce it.
 
 The division of power is the second structural decision. Labour sits in the Concurrent List of the Constitution, and the Act splits fixation between two levels of government through the definition of "appropriate Government" in Section 2(b). The Central Government is the appropriate government for any scheduled employment carried on by or under the authority of the Central Government or a railway administration, and for mines, oil-fields, major ports and corporations established by a Central Act. For every other scheduled employment, the State Government is the appropriate government. Each government fixes and revises rates for its own sphere, the Centre's schedule eventually carrying forty-five scheduled employments, in agriculture, mining, construction, railways and the like, while the schedules of the states together grew to well over a thousand entries. Two governments in the same territory, dozens of governments across the country, each with its own schedule, its own rates, its own zones and its own revision calendar: the multiplication of Indian minimum wages is not an accident of administration. It is the direct product of this definition and of the scheduling gate it serves.
 
@@ -87,7 +89,9 @@ The co-ordinating function of the Advisory Board is the least visible and most c
 
 ### When does a newly fixed or revised rate take effect?
 
-The final notification under Section 5 takes effect on the expiry of three months from the date of its issue, unless the notification itself provides otherwise. Between proposal and operation the Act builds in the two-month representation window of the notification method, the deliberation of committees under the committee method, and the further three months before the notified rate binds, so a revision can lawfully take the better part of a year to reach a pay packet.
+The final notification under Section 5 takes effect on the expiry of three months from the date of its issue, unless the notification itself provides otherwise. Between proposal and operation the Act builds in the two-month representation window of the notification method, the deliberation of committees under the committee method.
+
+A further three months then run before the notified rate binds, so a revision can lawfully take the better part of a year to reach a pay packet.
 
 The full sequence, with the actor and the failure point at each stage, is the findable artifact of this article.
 
@@ -109,7 +113,9 @@ The full sequence, with the actor and the failure point at each stage, is the fi
 
 ### How is a minimum wage rate made up?
 
-A rate fixed under the Act may take one of three forms under Section 4: a basic rate plus a cost of living allowance that moves with the cost of living index; a basic rate, with or without that allowance, plus the cash value of essential commodities supplied at concessional rates; or a single all-inclusive rate combining all three elements. The allowance and the cash value of concessions are computed by the competent authority. In practice most notifications fix a basic rate and attach a variable dearness allowance revised against the consumer price index, so the wage a worker receives is a sum of a fixed part and a moving part.
+A rate fixed under the Act may take one of three forms under Section 4: a basic rate plus a cost of living allowance that moves with the cost of living index; a basic rate, with or without that allowance, plus the cash value of essential commodities supplied at concessional rates.
+
+The third form is a single all-inclusive rate combining all three elements. The allowance and the cash value of concessions are computed by the competent authority. In practice most notifications fix a basic rate and attach a variable dearness allowance revised against the consumer price index, so the wage a worker receives is a sum of a fixed part and a moving part.
 
 A fixed rate under the Act is not necessarily a single number. Section 4 permits the minimum rate of wages to consist of one of three structures. It may be a basic rate together with a special allowance, called the cost of living allowance, adjusted at intervals and in the manner the appropriate government directs so as to accord as nearly as practicable with the variation in the cost of living index number for those workers. It may be a basic rate with or without the cost of living allowance, together with the cash value of concessions in the supply of essential commodities at concession rates, where authorised. Or it may be an all-inclusive rate allowing for the basic rate, the allowance and the cash value of concessions together. The competent authority under Section 2(c) computes the allowance and the cash value of concessions at the intervals the government directs.
 
@@ -119,7 +125,9 @@ The Supreme Court settled how the comparison works in Airfreight Ltd v State of 
 
 ### Can minimum wages be paid in kind instead of cash?
 
-The default rule in Section 11 is that minimum wages payable under the Act shall be paid in cash. Payment wholly or partly in kind is permitted only where it has been the custom to pay in kind and the appropriate government, considering it necessary, authorises it by notification; the government may also authorise the supply of essential commodities at concessional rates. The cash value of wages in kind and of concessions is then estimated in the prescribed manner, so that even an authorised payment in kind is measured against the cash floor.
+The default rule in Section 11 is that minimum wages payable under the Act shall be paid in cash. Payment wholly or partly in kind is permitted only where it has been the custom to pay in kind and the appropriate government, considering it necessary, authorises it by notification.
+
+The government may also authorise the supply of essential commodities at concessional rates. The cash value of wages in kind and of concessions is then estimated in the prescribed manner, so that even an authorised payment in kind is measured against the cash floor.
 
 Two further provisions complete the anatomy of the rate. Section 10 empowers the government to correct clerical or arithmetical mistakes in a fixation order by notification, placing every such correction before the Advisory Board for information, a small provision that acknowledges how error-prone multi-zone rate notifications are. And Section 11's insistence on cash connects to a much older struggle: payment in kind, the truck system of the nineteenth-century industrial world, tied the worker to the employer's goods and prices, and the cash rule is the Act's refusal to let the floor be discharged in anything the worker cannot spend elsewhere.
 

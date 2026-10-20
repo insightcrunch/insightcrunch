@@ -4,8 +4,8 @@ title: "The Air Act 1981: The Statute That Misses Most Smoke"
 page_title: "Air Act 1981 Explained: Article 253 and the Whole of India, Consent to Establish and Operate, Air Pollution Control Areas, Noise as an Air Pollutant, Decriminalised Penalties After the Jan Vishwas Act, and Why Vehicles, Dust and Stubble Burning Are Regulated Outside This Act"
 date: 2014-09-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "Air Act 1981", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
-excerpt: "The Air Act 1981 explained: how consent, control areas and emission standards govern industry, and why vehicles, dust and stubble burning sit outside it."
+tags: ["Indian Legislation", "Air Act", "Environment Law", "Judiciary", "Parliament", "UPSC", "Law Students"]
+excerpt: "The Air Act explained: how consent, control areas and emission standards govern industry, and why vehicles, dust and stubble burning sit outside the regime."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
 author: "kavita-sharma"

@@ -4,8 +4,8 @@ title: "The Water Act 1974 Explained: Consent, Boards and Closure"
 page_title: "Water Act 1974 Explained: The Water (Prevention and Control of Pollution) Act, Its Central and State Pollution Control Boards, Consent to Establish and Operate, Section 33A Closure Directions, Penalties and the 2024 Decriminalisation Amendment"
 date: 2014-08-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Water Act 1974", "Environment Law", "Pollution Control", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The Water Act 1974 built the pollution control boards and the consent regime for every discharge; the 2024 amendment is recasting its penalties state by state."
+tags: ["Indian Legislation", "Water Act", "Environment Law", "Pollution Control", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The Water Act built the pollution control boards and the consent regime for every discharge, while a later amendment recast its penalties state by state."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 92
 author: "kavita-sharma"

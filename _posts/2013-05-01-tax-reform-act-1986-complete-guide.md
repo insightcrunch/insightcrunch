@@ -3,13 +3,13 @@ layout: "post"
 title: "Tax Reform Act: Complete Guide to the Landmark Statute"
 page_title: "Tax Reform Act: Design, Provisions, and Trade-Offs Explained"
 date: "2013-05-01"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "Tax Reform", "Federal Statutes", "Public Law", "Study Guide"]
 excerpt: "How the Tax Reform Act traded eliminated preferences for a twenty-eight percent top individual rate: the closed-system statute guide with the trade table."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 108
 author: "jessica-kim"
+last_updated: 2026-10-05
 lang: en
 ---
 No statute in the modern federal code is studied more often for its procedure than for its substance, and the Tax Reform Act of 1986 is the reason. Enacted as Public Law 99-514 and signed on October 22, 1986, the law collapsed fourteen individual brackets into two nominal rates, repealed the investment tax credit, ended the sixty percent capital gains exclusion, phased out the deduction for consumer interest, and replaced an accelerated depreciation system with a longer-lived one. Yet the durable lesson of the measure is not any single provision. It is the design constraint under which every provision was chosen: the bill had to raise the same revenue, preserve the same distribution of the burden across income groups, and cut marginal rates, all at once. Those three simultaneous demands turned lawmaking into a closed system, a zero-sum trade in which every percentage point of rate reduction had to be purchased with an eliminated preference, and that closed system is what this guide explains.

@@ -4,8 +4,8 @@ title: "The IIM Act 2017: Autonomy Granted and Then Retrieved"
 page_title: "IIM Act 2017 Explained: Degree-Granting Power, the Board of Governors, the Visitor and How the 2023 Amendment Reversed the Autonomy Settlement"
 date: 2015-04-01
 categories: ["Industry"]
-tags: ["Indian Legislation", "IIM Act 2017", "Higher Education", "Parliament", "Judiciary", "UPSC"]
-excerpt: "The IIM Act 2017 gave the institutes degrees to award and boards that answered to themselves; the 2023 amendment handed the key appointments to a Visitor."
+tags: ["Indian Legislation", "IIM Act", "Higher Education", "Parliament", "Judiciary", "UPSC"]
+excerpt: "The IIM Act gave the institutes degrees to award and boards that answered to themselves; a subsequent amendment handed the key appointments to a Visitor."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 90
 author: "anita-das"

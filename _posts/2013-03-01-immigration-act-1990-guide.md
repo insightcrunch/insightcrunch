@@ -3,13 +3,13 @@ layout: "post"
 title: "The Forgotten Immigration Expansion: A Complete Legal Guide"
 page_title: "The Forgotten Immigration Expansion: Legal Guide"
 date: "2013-03-01"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Immigration Law", "Visa Policy", "Congress", "INA", "Statutory History"]
 excerpt: "Immigration amendments reshaped American admission, creating the diversity lottery, temporary protected status and a new employment-based visa system."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 81
 author: "ian-fletcher"
+last_updated: 2026-10-05
 lang: en
 ---
 Ask a well-informed citizen to name the statutes that built the American immigration system, and the answers come quickly. The 1965 law repealed the national-origins quotas. The 1986 law combined employer sanctions with a legalization program. Then the trail goes cold. Almost no one names the enactment of November 1990 that raised legal immigration by roughly forty percent, restructured the preference system from top to bottom, and created the three features of the system that later drew the fiercest public argument: the diversity visa lottery, temporary protected status, and the annual cap on the principal skilled-worker visa. That gap between consequence and recognition is the subject of this guide.

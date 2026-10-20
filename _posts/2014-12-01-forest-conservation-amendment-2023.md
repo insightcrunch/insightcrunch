@@ -5,7 +5,7 @@ page_title: "Forest (Conservation) Amendment Act 2023 Explained: Section 1A, the
 date: 2014-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Forest Conservation Act", "Environment Law", "Judiciary", "Parliament", "UPSC"]
-excerpt: "The Forest (Conservation) Amendment Act 2023 narrowed the Act to notified and recorded forest land, yet the Supreme Court kept the 1996 definition in force."
+excerpt: "The Forest (Conservation) Amendment Act narrowed the Act to notified and recorded forest land, yet the Supreme Court kept the dictionary definition in force."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 83
 author: "kavita-sharma"
@@ -235,7 +235,7 @@ In legislative intent, the amendment was designed to displace it: Section 1A rep
 
 By an interim order dated 19 February 2024 in Ashok Kumar Sharma, Indian Forest Service (Retired) and Others v Union of India, Writ Petition (Civil) No. 1164 of 2023, a bench of Chief Justice D. Y. Chandrachud and Justices J. B. Pardiwala and Manoj Misra directed that, pending completion of the Rule 16 record exercise, the principles of the Godavarman judgment must continue to be observed and states and Union territories must ensure compliance with the ambit of the expression forest as explained in that judgment. The Union was directed to circulate the order to all states and Union territories. States were directed to forward the reports of the expert committees constituted under the Godavarman directions by 31 March 2024, and the environment ministry was directed to digitise the record and place it on its official website by 15 April 2024. Proposals for zoos and safaris in forest areas other than protected areas were not to be finally approved without the approval of the Court.
 
-### Q: Is the narrowed forest definition currently being applied?
+### Q: Has the narrowed forest definition taken effect?
 
 No. The Amendment Act commenced on 1 December 2023 and Section 1A is valid law that has not been stayed or struck down, but the interim order of 19 February 2024 directs every state and Union territory to apply the Godavarman dictionary definition until the consolidated record under Rule 16 is complete. That exercise remains incomplete. In orders of February and March 2025 the Supreme Court restrained any step reducing forest land without compensatory land first provided, directed states in default to constitute expert committees within one month and finish the exercise within six months, and warned that chief secretaries would be personally responsible for lapses; the Union reported that only Sikkim, Gujarat and Odisha had completed the identification process. The definition enacted in 2023 is therefore in force and, by judicial direction, is not the definition being applied.
 

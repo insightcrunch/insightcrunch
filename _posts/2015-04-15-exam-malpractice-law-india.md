@@ -4,8 +4,8 @@ title: "Exam Malpractice Law in India: What the 2024 Act Does"
 page_title: "Exam Malpractice Law in India: The Public Examinations (Prevention of Unfair Means) Act 2024 Explained, Who It Punishes, Who It Leaves Out, and Why It Could Not Reach the 2024 Paper Leaks"
 date: 2015-04-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "Public Examinations Act 2024", "Education Law", "Criminal Law", "Judiciary", "UPSC"]
-excerpt: "Exam malpractice law in India explained: what the Public Examinations Act 2024 punishes, whom it deliberately leaves out, and the leaks it cannot reach."
+tags: ["Indian Legislation", "Public Examinations Act", "Education Law", "Criminal Law", "Judiciary", "UPSC"]
+excerpt: "Exam malpractice law in India explained: what the Public Examinations Act punishes, whom it deliberately leaves out, and the leaks it cannot reach at all."
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 82
 author: "deepika-joshi"

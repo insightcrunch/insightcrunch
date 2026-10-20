@@ -4,8 +4,8 @@ title: "UGC Act 1956 Explained: Degrees, Powers and Reform Debate"
 page_title: "UGC Act 1956 Explained: University Grants Commission Powers, Section 12 Functions, Deemed Universities, the Degree Monopoly in Sections 22 to 24, and the HECI Reform Debate"
 date: 2015-02-15
 categories: ["Industry"]
-tags: ["Indian Legislation", "UGC Act 1956", "Higher Education", "Parliament", "Judiciary", "UPSC", "Law Students"]
-excerpt: "The UGC Act 1956 explained: how the Commission's degree monopoly, grant power and regulations govern Indian universities, and why the reform bills stall."
+tags: ["Indian Legislation", "UGC Act", "Higher Education", "Parliament", "Judiciary", "UPSC", "Law Students"]
+excerpt: "The UGC Act explained: how the Commission's degree monopoly, grant power and regulations govern Indian universities, and why the reform bills still stall."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 94
 author: "anita-das"

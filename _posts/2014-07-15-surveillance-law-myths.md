@@ -1,17 +1,21 @@
 ---
-title: "Surveillance Law Myths: Twelve Claims Tested Against the Statutes, the Court and the Reports"
-slug: "surveillance-law-myths"
+layout: "post"
+title: "Surveillance Law Myths Tested Against Statutes and Courts"
+page_title: "Surveillance Law Myths: Twelve Claims Tested Against the Statutes, Declassified Surveillance Court Opinions and Oversight Reports, With a Verdict for Each Claim and the Evidence Behind It"
 date: "2014-07-15"
-last_updated: 2026-10-05
-framework: "Myths & claims"
-angle: "Myths, misreadings and contested claims"
-word_count: "17066"
-reading_time: 85
+categories: ["Industry"]
+tags:
+  - "US Legislation"
+  - "Surveillance Law"
+  - "FISA"
+  - "Patriot Act"
+  - "Civil Liberties"
+  - "Privacy Law"
 excerpt: "Twelve persistent claims about American surveillance law, checked against statutes, declassified opinions and reports, with sourced verdicts for each."
-internal_links: "/2014/05/15/fisa-section-702-explained/, /2014/03/01/usa-patriot-act-complete-guide/, /2014/06/15/patriot-act-civil-liberties-impact/, /2014/06/01/surveillance-law-court-cases/, /2014/07/01/fisa-vs-patriot-act-authorities/"
-companion_tools: "https://vaultbook.net/tools/legislation-study-notebook.html"
 image: "/assets/images/blog/blog-97.webp"
+reading_time: 85
 author: "insight-crunch-team"
+last_updated: "2026-10-05"
 lang: en
 ---
 Americans argue about surveillance law with unusual confidence and unusually thin evidence. The statutes run to hundreds of pages, the most important court opinions spent years under seal, and the oversight reports arrive in redactions. That combination rewards the loudest assertion rather than the most careful one. This article takes the opposite approach. It gathers twelve of the assertions that circulate most widely about American surveillance, restates each in its strongest form, and then checks it against the foreign intelligence statute as amended, against declassified opinions of the Foreign Intelligence Surveillance Court, and against official oversight and inspector general reports. Where an assertion holds up, the article says so. Where it collapses, the article says so. Where the answer is genuinely contested, the article labels the contest and names what would settle it.

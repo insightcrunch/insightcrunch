@@ -3,13 +3,13 @@ layout: "post"
 title: "Economic Recovery Tax Act: Indexation's Quiet Triumph"
 page_title: "Economic Recovery Tax Act: Statute Profile of the Reagan-Era Tax Cut"
 date: "2013-06-01"
-last_updated: 2026-10-05
 categories: ["Industry"]
 tags: ["US Legislation", "Tax Policy", "ERTA", "Bracket Indexation", "Tax Reform", "Reagan Administration"]
 excerpt: "The Economic Recovery Tax Act cut rates across the board, indexed brackets to inflation, and lost its business provisions to reversal within thirteen months."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
 author: "jessica-kim"
+last_updated: 2026-10-05
 lang: en
 ---
 No federal revenue statute of the late twentieth century is remembered for less than half of what it did. The Economic Recovery Tax Act of 1981 entered the history books as the largest personal rate reduction enacted to that point, a three-year phased cut that pushed the top marginal levy from 70 percent to 50 percent. That headline is accurate, and it is also the least interesting thing about the measure. Public Law 97-34, signed on August 13, 1981, contained a second provision that Congress never advertised, the press scarcely covered, and later students of the code treated as the statute's decisive achievement: the automatic annual adjustment of rate brackets, the personal exemption, and the standard deduction for inflation, effective with tax year 1985. The rate reductions were revised, compressed, and restructured repeatedly within a decade. Indexation was never touched. That asymmetry is the organizing fact of this statute profile.

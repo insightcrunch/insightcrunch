@@ -10,8 +10,6 @@ image: "/assets/images/blog/blog-64.webp"
 reading_time: 103
 author: "maria-santos"
 last_updated: 2026-10-05
-keywords: "Higher Education Act, Pell Grant, student loans, accreditation, Title IV, federal student aid"
-slug: "higher-education-act-1965-guide"
 lang: en
 ---
 ## The Statute Behind the Financial Aid Office
