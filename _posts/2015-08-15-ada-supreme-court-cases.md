@@ -8,7 +8,7 @@ tags: ["US Legislation", "ADA", "Supreme Court", "Disability Law", "Olmstead", "
 excerpt: "How the Supreme Court shaped the Americans with Disabilities Act: the narrowed definition, the state immunity split, and the integration mandate explained."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 115
-author: "insight-crunch-team"
+author: "david-thornton"
 last_updated: 2026-10-09
 lang: en
 ---

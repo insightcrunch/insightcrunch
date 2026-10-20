@@ -8,7 +8,7 @@ tags: ["US Legislation", "Education Law", "Conditional Spending", "Teaching Guid
 excerpt: "Teaching federal education policy through the conditional spending frame: the teaching order, the six distinctions that decide marks, and the nine checkpoints."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 89
-author: "insight-crunch-team"
+author: "marcus-hall"
 last_updated: "2026-10-05"
 lang: en
 ---
