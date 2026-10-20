@@ -4,17 +4,11 @@ title: "Surveillance Law Myths Tested Against Statutes and Courts"
 page_title: "Surveillance Law Myths: Twelve Claims Tested Against the Statutes, Declassified Surveillance Court Opinions and Oversight Reports, With a Verdict for Each Claim and the Evidence Behind It"
 date: "2014-07-15"
 categories: ["Industry"]
-tags:
-  - "US Legislation"
-  - "Surveillance Law"
-  - "FISA"
-  - "Patriot Act"
-  - "Civil Liberties"
-  - "Privacy Law"
+tags: ["US Legislation", "Surveillance Law", "FISA", "Patriot Act", "Civil Liberties", "Privacy Law"]
 excerpt: "Twelve persistent claims about American surveillance law, checked against statutes, declassified opinions and reports, with sourced verdicts for each."
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 85
-author: "daniel-morgan"
+author: "insight-crunch-team"
 last_updated: "2026-10-05"
 lang: en
 ---

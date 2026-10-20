@@ -16,7 +16,7 @@ lang: en
 
 The operative question behind the Budget Enforcement Act of 1990 was narrower and harder than the question Congress had been asking during the preceding five years. The earlier question concerned an outcome: how large would the federal deficit be in a given fiscal year, and how quickly would that figure fall toward balance under a schedule written into law. The newer question concerned conduct: what limits would bind Congress at the moment Congress acted, when it voted an appropriation, when it expanded a benefit program, or when it cut a tax. That shift from outcome to conduct supplied the statute with its logic, its enforcement machinery, and its durability during the decade that followed enactment. A law that punished Congress for a deficit figure produced in large part by an economy no legislator controlled invited evasion, optimistic forecasting, and emergency spending that escaped the accounting altogether. A law that measured Congress against its own recorded votes promised a different kind of discipline, because the conduct being judged and the institution being judged were the same. The distance between those two designs explains why the 1985 experiment failed on its own terms and why the 1990 replacement, although less dramatic in its stated ambition, proved harder to circumvent in ordinary legislative practice.
 
-### What did the Budget Enforcement Act do?
+### What were the Budget Enforcement Act's controls designed to protect?
 
 It replaced fixed deficit targets with enforceable limits on discretionary appropriations and a pay-as-you-go rule for new mandatory spending and revenue laws, preserved the deficit reduction enacted in its parent reconciliation act, and backed both controls with automatic sequestration when Congress breached a limit or recorded a scorecard debit.
 
@@ -70,7 +70,7 @@ Negotiators announced agreement on September 30, 1990, one day before fiscal yea
 
 Speed then became the enemy of consent. Leaders could announce totals, categories, and enforcement rules before committees had converted the totals into legislative text that every member could examine. A continuing resolution funded the government through October 5, 1990 and suspended the sequester through the same date, giving the House a narrow window in which to approve the budget resolution embodying the agreement. Urgency compressed the time available to build a majority. Members who might have accepted a painful package after consultation or a visible concession to a constituency had little time to obtain either, while opposition required only a coalition large enough to say no.
 
-### Why did the House reject the first budget package?
+### What happened in the days after the House defeated the package?
 
 The House rejected the package because its majority was assembled from opposite objections. Conservative Republicans led by Minority Whip Newt Gingrich opposed its tax increases, liberal Democrats opposed its Medicare savings and the distribution of its burdens, and Minority Leader Robert Michel's support could not hold enough Republicans to offset defections from both wings.
 
@@ -191,7 +191,7 @@ The treatment of a loan guarantee inverted the error. When the government guaran
 
 Together the two distortions biased policy toward guarantees and away from direct loans, and toward credit in general and away from grants, for reasons unrelated to which instrument served a borrower best. A committee seeking to assist home buyers, farmers, or exporters within a tight annual allocation found the guarantee nearly free on paper and the direct loan nearly prohibitive, even when analysis of expected repayments and defaults might have shown the direct loan to be the cheaper instrument. The bias also hid subsidy. Every loan made at a rate below the market rate for that borrower, and every guarantee issued for a fee below the value of the risk assumed, transferred value from the government to the borrower. Cash accounting left that transfer invisible at the moment it occurred, although the support embedded in a credit decision varied with interest rates, maturities, default probabilities, and recovery prospects.
 
-### What is the subsidy cost of a federal loan?
+### Why is the discount rate behind the subsidy cost disputed?
 
 The subsidy cost is the estimated long-term cost to the government of a direct loan or a loan guarantee, calculated on a net present value basis at the time of commitment. The calculation excludes administrative costs and discounts expected cash flows using rates on comparable Treasury securities.
 

@@ -48,7 +48,7 @@ The exception table summarizes each claim category the amendment exposes platfor
 | State criminal charge under the new offense | 47 U.S.C. 230(e)(5)(C) and 18 U.S.C. 2421A | Intent to promote or facilitate prostitution, with the conduct illegal in the targeted jurisdiction | New offense charged once at the aggravated level, in the June 2020 CityXGuide indictment |
 | Federal criminal prosecution under the new offense | 18 U.S.C. 2421A(a) and 2421A(b) | Specific intent for the base offense; reckless disregard of trafficking contribution for one aggravated prong | One aggravated prosecution through March 2021; one non-aggravated charge ended in acquittal on those counts |
 
-### What new federal crime did FOSTA-SESTA create?
+### What turns the basic 2421A offense into the aggravated offense?
 
 It created 18 U.S.C. 2421A, punishing operation of an interactive computer service with intent to promote or facilitate another person's prostitution, carrying up to ten years. The aggravated form covers five or more persons, or reckless disregard of contributing to sex trafficking in violation of 1591, carrying up to twenty-five years.
 
@@ -110,7 +110,7 @@ The statute then demanded an accounting of itself. FOSTA required the Government
 
 The pre-history of the Backpage prosecution explains why the statute's supporters considered the new tools necessary at all. In December 2016, a Sacramento County Superior Court judge dismissed pimping and conspiracy charges that the California attorney general had filed against Backpage's chief executive and founders, holding that Section 230 barred the prosecution because the charges targeted the site's publication of third-party advertisements. The attorney general's office refiled with added money laundering charges, and the court again dismissed the pimping counts while allowing the money laundering case to proceed. For supporters, that sequence was the whole argument: the immunity had functioned as a shield for the platform's operators, and state prosecutors needed Congress to remove it before they could reach the conduct underneath.
 
-### How many prosecutions have there been under FOSTA-SESTA?
+### Who was charged under the new offense, and what did prosecutors allege?
 
 The Government Accountability Office reported that between 2014 and 2020 the Department of Justice brought at least eleven criminal cases against people who controlled platforms in the online commercial sex market, including three tied to Backpage.com. Only one case, filed in June 2020 against the operator of CityXGuide.com, charged the aggravated offense created by section 3 of FOSTA.
 
@@ -196,7 +196,7 @@ Both accounts of the statute therefore survive contact with the documented recor
 
 The constitutional challenge arrived before the statute was three months old. In June 2018, five plaintiffs filed suit in the United States District Court for the District of Columbia seeking declaratory and injunctive relief against enforcement of FOSTA-SESTA. The plaintiffs were the Woodhull Freedom Foundation, Human Rights Watch, the Internet Archive, Alex Andrews, an activist for people who trade sex who also used the name Jesse Maley, and Eric Koszyk, a licensed massage therapist who had used Craigslist to reach clients. Represented by counsel including the Electronic Frontier Foundation, they alleged that the statute violated the First and Fourteenth Amendments, both on its face and as applied to their activities, and they simultaneously moved for a preliminary injunction. The government, defending the statute, responded that the plaintiffs' described conduct fell outside the statute's reach and that none of them faced a realistic prospect of enforcement.
 
-### Did courts uphold FOSTA-SESTA against a First Amendment challenge?
+### What narrowing construction allowed the courts to uphold the statute?
 
 Yes. The United States Court of Appeals for the D.C. Circuit upheld the statute in July 2023, affirming a district court ruling that FOSTA does not violate the First Amendment. Both courts reached that result only after construing the law narrowly, limiting its reach to conduct tied to criminal acts of prostitution rather than speech about prostitution.
 

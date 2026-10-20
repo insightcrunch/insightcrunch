@@ -4,13 +4,7 @@ title: "National Science Foundation Act: Veto and Peer Review"
 page_title: "National Science Foundation Act Explained: The Veto Fight Over Who Would Control the Agency, the Missing Peer Review Mandate, the Medical Research Exclusion and the Board That Governs Basic Research Funding"
 date: "2017-04-01"
 categories: ["Industry"]
-tags:
-  - "US Legislation"
-  - "National Science Foundation"
-  - "Science Policy"
-  - "Federal Research Funding"
-  - "Basic Research"
-  - "Research Policy"
+tags: ["US Legislation", "National Science Foundation", "Science Policy", "Federal Research Funding", "Basic Research", "Research Policy"]
 excerpt: "The National Science Foundation Act built the agency funding most American basic research outside medicine, after a five-year fight and a veto over its control."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 96

@@ -4,17 +4,11 @@ title: "Teaching Federal Education Policy: Conditional Spending"
 page_title: "Teaching Federal Education Policy Through Conditional Spending: The Teaching Order, the Distinctions That Decide Marks, the Documents Worth Assigning and the Errors That Cost Credit"
 date: "2014-12-15"
 categories: ["Industry"]
-tags:
-  - "US Legislation"
-  - "Education Law"
-  - "Conditional Spending"
-  - "Teaching Guide"
-  - "Certification Exam"
-  - "Federal Policy"
+tags: ["US Legislation", "Education Law", "Conditional Spending", "Teaching Guide", "Certification Exam", "Federal Policy"]
 excerpt: "Teaching federal education policy through the conditional spending frame: the teaching order, the six distinctions that decide marks, and the nine checkpoints."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 89
-author: "marcus-hall"
+author: "insight-crunch-team"
 last_updated: "2026-10-05"
 lang: en
 ---

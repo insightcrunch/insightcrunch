@@ -4,13 +4,7 @@ title: "OSH Act: Complete Guide to the Three Body Safety Statute"
 page_title: "Occupational Safety and Health Act Guide: The Three Body Design of OSHA, the Review Commission and NIOSH, the General Duty Clause, Coverage Rules and the Penalty Structure Explained"
 date: "2015-01-01"
 categories: ["Industry"]
-tags:
-  - "US Legislation"
-  - "OSHA"
-  - "OSH Act"
-  - "Labor Law"
-  - "Workplace Safety"
-  - "Statute Guide"
+tags: ["US Legislation", "OSHA", "OSH Act", "Labor Law", "Workplace Safety", "Statute Guide"]
 excerpt: "A complete guide to the Occupational Safety and Health Act, covering its three institutions, the general duty clause, coverage rules, and the penalty structure."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 106
