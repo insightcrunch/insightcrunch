@@ -368,7 +368,6 @@ For singles, a costume party of this scale runs on a simple mercy: everyone has 
 Success tip: arrive near doors, before the floor peaks, and work the stations first: one game, one photo, one circuit of the room while you can still hear people. Commit to a costume that leaves your face visible and your hands free, and be in the main room for the contest final, when the entire crowd shares one focus and the afterwards mingling is at its warmest. On Halloween in RiNo, rideshare home rather than hunting for parking.
 
 
-
 ## Where to Meet Singles in Denver, Neighborhood by Neighborhood
 
 Denver is a city of districts with strong personalities, and its dating scene is really nine smaller scenes sharing one calendar. The same person can be invisible in one neighborhood and magnetic in another, not because they changed, but because rooms select for temperaments: polish downtown, ease in the taprooms, sincerity in the parks. Use this section the way you would use a seating chart. Find the two or three districts whose crowds sound like your people, anchor your fortnight there, and let the rest of the city be a place you visit for festivals rather than a standard you fail to meet.
