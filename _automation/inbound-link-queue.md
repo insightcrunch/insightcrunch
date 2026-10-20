@@ -73,3 +73,7 @@
 ## how-sample-return-missions-work
 - _posts/2016-04-04-space-race-explained-complete.md — could carry: "The robotic returns that followed the crewed era turned a race achievement into a repeatable method; how sample return missions work traces that method from collection to laboratory."
 - _posts/2026-10-12-when-animals-first-evolved.md — could carry: "Dating an origin from material evidence rather than from traces alone is also the logic of returned planetary grains, set out in how sample return missions work."
+
+## how-archaeologists-date-ancient-shipwrecks
+- _posts/2015-08-23-spanish-armada-1588-explained.md — could carry: "The wrecks of that fleet off Ireland became excavation sites in their own right; how archaeologists date ancient shipwrecks explains the plotting, sampling and cross checked clocks that turn such a loss into a dated site."
+- _posts/2026-10-12-when-animals-first-evolved.md — could carry: "Dating an origin from sparse traces is also the problem on the seabed, where how archaeologists date ancient shipwrecks shows floors, ranges and association arguments doing the same work in a different element."
