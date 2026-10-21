@@ -9,7 +9,7 @@ excerpt: "MISA explained: how Section 16A, the Ninth Schedule and a suspended ha
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 81
 author: "deepika-joshi"
-last_updated: 2010-07-01
+last_updated: 2026-10-21
 lang: en
 ---
 Few statutes in the Republic's record carry a heavier charge in political argument than the Maintenance of Internal Security Act, and few are described with less precision. To one side of the argument, MISA 1971 is the legal face of the Emergency, the instrument by which a government imprisoned its opponents without charge, without disclosure and without any court able to intervene. To the other side, it was a detention law of a familiar Indian type, enacted four years before the Emergency for reasons unconnected with it, equipped with the safeguards the Constitution itself prescribes for preventive detention, and abused, if it was abused, by the men and women who operated it rather than by anything in its text. Both accounts contain something the record supports, and both, stated without qualification, misdescribe the statute. The disagreement worth having is narrower and harder than either slogan. It is about the distance between the Act Parliament passed in 1971 and the Act that was actually in force between June 1975 and March 1977, and about which legal steps, each identifiable and each reversible, travelled that distance.

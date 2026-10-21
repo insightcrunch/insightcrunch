@@ -9,7 +9,7 @@ excerpt: "Minimum support price explained: an executive announcement with no sta
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 81
 author: "kavita-sharma"
-last_updated: 2014-07-01
+last_updated: 2026-10-21
 lang: en
 ---
 A farmer who carries a harvest to a market yard in most of India performs an act of faith in a number. The number is the minimum support price, announced with ceremony before the sowing seasons, printed in newspapers, debated in Parliament and treated in public argument as though it were a floor written into law beneath every transaction in farm produce. When the auction at the yard opens below that number, as it does for most crops in most districts in most seasons, the farmer discovers the fact that this article exists to state precisely: there is no law behind the number. No Act of Parliament creates the minimum support price, prescribes how it is calculated, obliges any buyer to pay it, or gives the farmer who is paid less any remedy arising from the announcement itself. The price is an executive decision, taken by the Cabinet Committee on Economic Affairs on the recommendation of the Commission for Agricultural Costs and Prices, a body that is itself not a statutory body but an attached office of the agriculture ministry created by a government resolution. The most argued-about figure in Indian agriculture is, in the strict legal sense, an announcement.

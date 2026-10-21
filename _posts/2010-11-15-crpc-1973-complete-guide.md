@@ -9,7 +9,7 @@ excerpt: "Code of Criminal Procedure explained end to end: FIR, arrest and Secti
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 95
 author: "kavita-sharma"
-last_updated: 2010-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every criminal case in India moves through a sequence of decision points, and almost every one of those decision points is governed by a single statute, the Code of Criminal Procedure 1973. A report reaches a police station and someone must decide whether it becomes a first information report. A suspect is identified and someone must decide whether arrest is necessary or whether a written notice will do. Days pass in custody and a magistrate must decide, at fixed intervals, whether detention continues. An investigation ends and a court must decide whether the material justifies putting a person on trial at all. The Code of Criminal Procedure 1973 is the text that disciplines each of these decisions, attaching a provision, an actor and very often a time limit to every step between the first report of a crime and the final judgment. The substantive offences themselves, the acts the criminal law forbids and the punishments it prescribes, live in a companion statute, [the Indian Penal Code, whose complete guide is the substantive half of this pair](/2010/11/01/indian-penal-code-complete-guide/); the Code of Criminal Procedure supplies the machinery through which those offences are investigated, charged and tried.

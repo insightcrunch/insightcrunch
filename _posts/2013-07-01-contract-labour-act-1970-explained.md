@@ -9,7 +9,7 @@ excerpt: "The Contract Labour Act explained: registration, licensing, the Sectio
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 94
 author: "anita-das"
-last_updated: 2013-07-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Contract Labour Act 1970 carries its ambition in its title and its disappointment in its text. The full name is the Contract Labour (Regulation and Abolition) Act, 1970, and a reader who takes the second half of that name at face value will expect a statute that ends the practice of engaging workers through contractors, at least in the work that an establishment performs all year round. What the statute actually built was a licensing and welfare regime for the practice it named itself against, together with a power, handed to governments and hedged with conditions, to prohibit contract labour in a particular process. Then, three decades after enactment, a Constitution Bench of the Supreme Court settled the question the text had left open, and settled it against the workers: when a government does prohibit contract labour in a process, the workers engaged in that process do not become employees of the establishment. They simply cease to be engaged. The abolition limb of the statute therefore removes jobs rather than converting them, and everything else in this article follows from understanding why that is so and what, if anything, a contract worker can do instead.

@@ -9,7 +9,7 @@ excerpt: "UAPA amendments explained in sequence: what each amendment added to th
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 84
 author: "ryan-walsh"
-last_updated: 2011-06-01
+last_updated: 2026-10-21
 lang: en
 ---
 The story told by the UAPA amendments is a story of movement in one clear direction, away from a narrow statute concerned with associations and towards a far broader instrument. That movement can only be measured properly if the starting point is held firmly in view. A reader who begins with the later shape of the legislation risks treating that shape as natural, as if the text had always carried the weight it carries after successive changes. A reader who begins with the enactment of 1967 sees something quite different. The original measure was limited in its object, restrained in its machinery and silent on subjects that later came to dominate debate about it. The distance between those two positions is the real subject of an amendment trail, and it is a considerable distance.

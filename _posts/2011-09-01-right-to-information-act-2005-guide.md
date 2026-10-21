@@ -9,7 +9,7 @@ excerpt: "The Right to Information Act explained: its sections and exemptions, w
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 100
 author: "hannah-moore"
-last_updated: 2011-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 The question that decides whether a citizen learns anything from the state is not, in the first instance, a question about paper or about procedure. It is a question about who carries the burden of justification. Under a regime of official secrecy, the citizen carries that burden. The citizen must explain why a file should be opened, why a decision should be explained and why a record that public money created and public authority holds should be seen by the public at all. The Right to Information Act 2005 reversed the direction of that burden in Indian law. Under its scheme, the citizen asks, and the state answers, or the state refuses and must ground the refusal in the statute itself. That reversal sounds simple when stated in one sentence. Its consequences run through every part of the Act, because a reversal of burden changes who waits, who reasons, who appeals and who must prove that a denial was justified when the matter reaches a Commission.

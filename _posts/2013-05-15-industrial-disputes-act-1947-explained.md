@@ -9,7 +9,7 @@ excerpt: "The Industrial Disputes Act explained in full: the fight over the defi
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2013-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 For over seven decades, the Industrial Disputes Act 1947 decided a question that sounds simple and is not: when a worker and an employer fall out, who gets to decide the quarrel, and by what rules? The statute built a complete alternative world of labour justice, with its own forums, its own vocabulary and its own arithmetic of compensation, and it placed the government of the day at the gate of that world, deciding which disputes would be adjudicated at all. Almost everything else in Indian labour law, from the size of factories to the survival of sick mills, was shaped by how this one Act answered its opening questions.

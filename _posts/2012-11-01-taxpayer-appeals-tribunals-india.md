@@ -9,7 +9,7 @@ excerpt: "Taxpayer appeals and tribunals in India: the income tax and GST appeal
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2012-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 A tax dispute in India begins in a deceptively quiet way. No summons arrives, no courtroom fills. A notice of demand is served, an intimation appears in an online account, or an order is uploaded to a portal, and from the date of that service a clock starts running. Miss the period the clock measures and the order hardens into a liability that recovery officers may enforce against bank accounts and refunds, whatever the merits of the underlying assessment. This is the moment for which taxpayer appeals and tribunals exist. The taxpayer holding that order usually has a good legal remedy. What they frequently lack is a map: which forum hears the first challenge, how many days remain, what must be paid before the door opens, and what the forum at each stage is actually empowered to decide. This article maps that machinery, across both the direct tax system governed by the Income-tax Act 1961 and the indirect tax system governed by the goods and services tax statutes, because the two ladders differ at almost every rung and advice that confuses them is worse than no advice at all.

@@ -9,7 +9,7 @@ excerpt: "Tax laws in the UPSC economy papers test federalism and public finance
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2012-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 Tax laws frighten aspirants out of proportion to the marks they carry, and they do so for a reason that has almost nothing to do with taxation. The candidate opens a preparation book, finds page after page of slab tables, exemption lists and rate schedules, and concludes that the subject is accounting wearing a legal coat. The conclusion is wrong, and it is expensive. In the general studies papers of the civil services examination, a tax question is almost never a request for a number. It is a question about who may tax what, on what constitutional authority, with what consequences for the Union, for the states and for the citizen, and the candidate who answers it with a rate chart has answered a question nobody asked. The statutes are the text of this subject; the federal bargain, the reform sequence and the implementation record are what an answer is marked on.

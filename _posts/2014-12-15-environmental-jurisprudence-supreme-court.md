@@ -9,7 +9,7 @@ excerpt: "Environmental jurisprudence in India explained: how the Supreme Court 
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2014-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 A reader who opens India's environmental statutes looking for the rules that decide environmental cases will not find them there. The rules are in the case law, in environmental jurisprudence, the body of doctrine the courts constructed around the statutes. The Environment (Protection) Act, 1986 empowers the Central Government to take all measures it deems necessary for protecting the environment, and then leaves the content of those measures to notification. The Water Act and the Air Act create boards, consent procedures and offences, but neither statute states who bears the burden of proof when the science is uncertain, what a polluter must pay for beyond a fine, whether a hazardous enterprise can escape liability by pointing to a stranger's act, or what the state may not do with a river or a forest. Those questions are the substance of environmental litigation, and every one of them was answered by a court. The body of answers, built case by case over four decades, is what environmental jurisprudence in India actually consists of, and it is the subject of this article.

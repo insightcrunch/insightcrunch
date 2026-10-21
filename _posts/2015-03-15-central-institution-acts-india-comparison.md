@@ -9,7 +9,7 @@ excerpt: "Central institution Acts compared on the questions that decide real au
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 75
 author: "kavita-sharma"
-last_updated: 2015-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every argument about the autonomy of an Indian public institution is, underneath the rhetoric, an argument about a small number of clauses in a small number of statutes. The central institution Acts that govern the central universities, the Indian Institutes of Technology, the National Institutes of Technology and the Indian Institutes of Management all speak warmly of academic freedom, and they speak in almost identical words. What differs between them, sharply and measurably, is the appointment machinery: who selects the head of the institution, who selects the people who select the head, and how many of the seats around the governing table are filled from outside the institution and by whom. This comparison reads the four statutes side by side on the dimensions that decide the question, and its conclusion can be stated at the outset. Autonomy in Indian higher education law is an appointments question. A statute that proclaims freedom in its objects clause and retains the appointments in its operative clauses has granted nothing that a determined government cannot take back without amending a word of the freedom language, because the people appointed under the retained power will do the taking themselves.

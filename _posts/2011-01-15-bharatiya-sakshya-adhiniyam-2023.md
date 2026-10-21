@@ -9,7 +9,7 @@ excerpt: "The Bharatiya Sakshya Adhiniyam replaced the Indian Evidence Act: the 
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2011-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Bharatiya Sakshya Adhiniyam 2023 is the statute that replaced the Indian Evidence Act, 1872, and the first thing to understand about it is how little of the law of evidence it actually changed. On 1 July 2024 the Adhiniyam came into force as Act 47 of 2023, and the Evidence Act, which had governed what Indian courts may receive as proof and how they must reason from it for a century and a half, stood repealed. Yet a lawyer who opens the new statute looking for a new law of evidence will mostly find the old one, renumbered. The relevancy scheme is the scheme of 1872. The confession rules are the confession rules of 1872, compressed into fewer sections. The dying declaration, the burden of proof, the presumptions, the law of witnesses and their examination all crossed over in substance. What genuinely changed is concentrated in one place, the treatment of electronic records, and even there the change is double-edged: electronic records were written into the heart of the Act as documents in their own right, and at the same time the certificate requirement that had generated a decade of appellate litigation was carried across, given a prescribed form, and made in one respect harder to satisfy than before.

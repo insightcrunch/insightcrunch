@@ -9,7 +9,7 @@ excerpt: "The UGC Act explained: how the Commission's degree monopoly, grant pow
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 94
 author: "anita-das"
-last_updated: 2015-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 The University Grants Commission Act, 1956 has been marked for abolition by expert committees, by a government draft bill and by a national education policy, and it remains the statute under which Indian higher education is governed. That survival is the puzzle this article explains. The UGC Act 1956 endures because the two powers that give the Commission its real grip on the system are not the powers its critics usually attack. The Commission is attacked as a funder, accused of running an inspection regime and of writing micro-managerial rules. Its grip, however, comes from a monopoly and a pen: the statutory rule that nobody outside a closed list of institutions may confer a degree, and the power to make regulations that carry the force of law on qualifications, standards and the conditions on which institutions may teach. Every proposal to abolish the Commission has foundered on the same unasked question, which is who would hold those two powers the morning after abolition, and under what statute.

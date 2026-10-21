@@ -9,7 +9,7 @@ excerpt: "The Indian Evidence Act explained: how relevancy, admissibility, confe
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2010-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 Every contested trial in India is, before it is anything else, an argument about what the judge is allowed to hear. The parties arrive with a story, with documents, with recordings, with witnesses who remember and witnesses who have been rehearsed, and between all of that material and the court's mind stands a filter built in 1872. The Indian Evidence Act is that filter. It does not define offences, create rights, or prescribe punishments. It performs the prior and quieter function of deciding what counts as material from which a court may reason at all, and on what terms the material that passes must then be proved. A litigant can hold the decisive fact in hand, in the form of a confession, a letter, a recording, or a dying man's last words, and still lose everything at the filter, because the confession was made to a police officer, the letter is a copy whose original nobody can account for, the recording carries no certificate, or the words were spoken by someone whose knowledge the Act does not allow a court to use. The statute is best understood not as a list of rules but as a sequence of gates, and this article works through those gates in the order in which evidence meets them.

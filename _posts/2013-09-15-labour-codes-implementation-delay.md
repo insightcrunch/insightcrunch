@@ -9,7 +9,7 @@ excerpt: "The labour codes implementation delay explained: why four codes replac
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 85
 author: "anita-das"
-last_updated: 2013-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 A statute can clear every constitutional hurdle and still govern nothing. It can be passed by both Houses of Parliament, receive the assent of the President, be printed in the Gazette of India with an Act number of its own, be summarised in textbooks and taught in examination halls, and yet impose no obligation on any employer and confer no enforceable right on any worker, because one further step remains untaken: the executive has not appointed the day on which it is to come into force. The labour codes implementation delay is the largest modern demonstration of that gap in Indian lawmaking. Four codes, enacted in 2019 and 2020 to replace twenty-nine central labour statutes, waited more than five years for their appointed day, and when the day came on 21 November 2025, it arrived before the rules that make the codes operable, so that the long wait for commencement was followed immediately by a second wait of a different kind.

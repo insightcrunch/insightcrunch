@@ -9,7 +9,7 @@ excerpt: "The maternity benefit amendment trail: how the leave doubled to twenty
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 82
 author: "kavita-sharma"
-last_updated: 2016-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 An amendment trail is judged as much by what it leaves standing as by what it moves, and the Maternity Benefit Act, 1961 supplies the cleanest illustration in Indian labour law. In 2017 Parliament more than doubled the paid maternity leave that the Act guarantees, extended the benefit to two classes of mother the original text had never contemplated, imposed a crèche duty on larger establishments, and added a work from home provision of a kind no Indian labour statute had carried before. By any measure of entitlement, the amendment was a large reform. By the measure that decides how a statute behaves in the world, it changed almost nothing, because the provision that governs the entire economics of the Act, the rule that the employer of the woman pays for her leave out of the establishment's own funds, was carried through the amendment word for word, unexamined and unaltered. The leave doubled and the payer did not change. Everything that has been reported about the amendment since, the gratitude of the women it covered, the anxiety of the small employers it charged, the staffing studies predicting that firms would hire fewer women, and the persistence of non-compliance in small establishments, follows from that single untouched feature of the design.

@@ -9,7 +9,7 @@ excerpt: "Child protection laws in India explained: why no single statute define
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2016-04-01
+last_updated: 2026-10-21
 lang: en
 ---
 Ask a room of Indian lawyers a simple question, who is a child, and the room will not give a single answer, because Indian law does not contain one. The child protection laws in India are not a code. They are an accumulation of statutes passed across nine decades, each written against a different harm, and each fixing the boundary of childhood where its own harm required the line to be drawn. A person of seventeen is a child for the statute on sexual offences and for the statute on juvenile justice, an adolescent for the statute on labour, outside the education right altogether, a minor for some purposes of the trafficking statute and an adult for others, and, if female and married, the subject of one of the sharpest conflicts the Supreme Court has had to resolve in this field. None of these answers is an error. Each is the correct application of a different Act to the same human being.

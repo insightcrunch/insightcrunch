@@ -9,7 +9,7 @@ excerpt: "India has run three anti-terror statutes, yet the operative power bare
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 109
 author: "william-knight"
-last_updated: 2011-04-01
+last_updated: 2026-10-21
 lang: en
 ---
 The statute book offers three names, and the three names suggest three separate stories. The Unlawful Activities (Prevention) Act of 1967, usually shortened to the UAPA, stands as permanent legislation without a built-in date of expiry. The Terrorist and Disruptive Activities (Prevention) Act, usually shortened to TADA, entered as temporary legislation in 1985, was renewed in successive forms, and lapsed in 1995 after Parliament declined further renewal. The Prevention of Terrorism Act of 2002, usually shortened to POTA, also entered as temporary legislation, and Parliament repealed the legislation in 2004. Read through the operative provisions, the sequence reads differently from the surface story of creation, experiment, and rejection. One statute survived every political turn. Two statutes were built to die, and did die. The puzzle sits in the distance between those facts: the names disappeared, while much of the legal machinery assembled under the names remained available to the state through another door.

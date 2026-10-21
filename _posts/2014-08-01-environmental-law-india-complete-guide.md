@@ -9,7 +9,7 @@ excerpt: "Environmental law in India explained through its constitutional routes
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2014-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 Environmental law in India is usually described as a single body of law, and the description misleads from the first sentence. There is no environmental code. There is no single statute that a reader can open to find the law of pollution, forests, wildlife and biodiversity set out in one ordered scheme. What exists is a collection of statutes passed half a century apart, each resting on a different constitutional foundation, each applying to a different map of the country at the moment of its birth, and each administered in practice by institutions that were designed for one of them and then borrowed by all the others. A reader who does not know which foundation a statute stands on will misunderstand where it applies, who enforces it, what happens when a state disagrees with it, and even whether breaking it is a crime.

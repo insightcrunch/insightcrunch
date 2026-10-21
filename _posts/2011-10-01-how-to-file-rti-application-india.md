@@ -9,7 +9,7 @@ excerpt: "How to file an RTI application that gets an answer: the fee, the thirt
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 106
 author: "katherine-blake"
-last_updated: 2011-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 A pension file can sit in an office for months without moving, and the person who depends on that pension is often the last to learn why. The file exists, the noting exists, the order that stopped or delayed payment exists, yet none of it is visible from outside the office where it is held. Learning how to file an RTI application begins in precisely that situation, with a record that a government office holds and a citizen who needs to see it. The same shape recurs across ordinary dealings with the state. A ration card decision is taken somewhere, on some paper, for some reason recorded at the time. An application is rejected, and the rejection rests on a noting, an inspection, a report, or an order that the applicant has never been shown. In each case the difficulty is not a lack of entitlement to the record.

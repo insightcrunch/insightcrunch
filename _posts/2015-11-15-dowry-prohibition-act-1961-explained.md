@@ -9,7 +9,7 @@ excerpt: "The Dowry Prohibition Act explained: why giving dowry is punished like
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2015-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Dowry Prohibition Act, 1961 is the statute that was supposed to end dowry, and its central feature explains why it did not. The Act does not merely punish the family that takes dowry. It punishes the family that gives it, with the same minimum sentence, in the same section, in the same words. A bride's parents who pay under pressure and then complain under this statute begin their complaint by describing their own offence, punishable with at least five years of imprisonment. Everything else about the statute, its careful definition, its officers, its lists of wedding presents, its reversed burden of proof, operates in the shadow of that single drafting decision. Enforcement of the law against dowry in India runs overwhelmingly through other provisions, above all the cruelty offence in the criminal code, and this Act survives in practice largely as the place where the word dowry is defined for the benefit of those other laws. That is the finding this article establishes, section by section, and it is a finding about design rather than about effort or intention.

@@ -9,7 +9,7 @@ excerpt: "The criminal law amendments on women compared across three waves: what
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 73
 author: "deepika-joshi"
-last_updated: 2016-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 Three times in four decades Parliament has rebuilt the criminal law on offences against women, and each time it has done so in the shadow of a single case that concentrated public attention. The Criminal Law (Amendment) Act of 1983 worked on evidence and on the conditions of trial. The Criminal Law (Amendment) Act of 2013 rebuilt the offence definitions and added a shelf of new crimes. The Criminal Law (Amendment) Act of 2018 worked almost entirely on the sentencing tariff and on deadlines. The question a reader comparing the criminal law amendments on women actually has to answer is not which wave was largest, or loudest, or most severe. It is which wave changed what happens in practice: what a prosecution must prove, what a complainant must endure, what a police station must do, and what a court may impose. Those are different questions, and they have different answers, because the three waves did not do the same kind of work. One changed the law of proof. One changed the catalogue of offences. One changed the numbers attached to punishment. This comparison applies a single test to all three: did the wave alter the inside of a trial or a police investigation, or did it alter only the text that is read out after guilt is established? The verdict at the end follows from that test, and the table that carries the comparison is built so that the verdict can be checked against it row by row.

@@ -9,7 +9,7 @@ excerpt: "LARR compensation and consent rules for landowners: how the award is c
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 85
 author: "deepika-joshi"
-last_updated: 2014-02-01
+last_updated: 2026-10-21
 lang: en
 ---
 A landowner who has just been served with an acquisition notice under the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 does not need a lecture on eminent domain. The landowner needs the LARR compensation and consent rules as machinery to be operated, and needs them in a particular order: the arithmetic by which the compensation on the notice will be turned into an award, so the figure can be checked line by line; the consent position, so it is known whether the acquisition needed anybody's agreement and whether that agreement was properly counted; the remedy route, with its clocks, so a wrong figure can be carried to the forum that can correct it before the time for doing so expires; and the answer to the question that has generated more land litigation in India than any other in this statute, which is whether an old acquisition under the repealed 1894 Act has lapsed, so that the land must be given back or acquired afresh. This article works through that machinery in that order.

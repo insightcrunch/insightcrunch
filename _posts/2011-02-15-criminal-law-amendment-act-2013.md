@@ -9,7 +9,7 @@ excerpt: "Criminal Law Amendment Act rewrote the law on sexual offences: what th
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2011-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 The distance between a reform report and the statute it produces is usually invisible, because only the statute survives in the law reports and only the statute is ever read. The Criminal Law Amendment Act 2013 is the rare Indian amendment whose full trail survives in public: a committee report written in thirty days under street pressure, an ordinance promulgated eleven days after that report, and an Act passed by Parliament seven weeks later which differed from both. The three documents can be laid side by side, recommendation by recommendation, and the differences measured. That measurement is the subject of this article, and it supports a claim worth naming at the outset. The narrowing sequence is this: at each step from report to ordinance to Act, the recommendations that carried the highest political cost were the ones most likely to be dropped, softened, or reversed, while the recommendations that cost the political system little, the new offences and the higher punishments, passed through almost intact and were in one case strengthened beyond what the committee had proposed. The 2013 amendment is therefore not only a change in the law of sexual offences. It is a calibrated record of what Indian legislative reform can absorb when public pressure is at its maximum, and of what it cannot absorb even then.

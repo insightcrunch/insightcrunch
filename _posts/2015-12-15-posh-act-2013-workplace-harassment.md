@@ -9,7 +9,7 @@ excerpt: "POSH Act explained: Internal Committee duties, the three-month complai
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2015-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, universally shortened to the POSH Act, rests on a single institutional bet. Parliament decided that the first forum for a complaint of workplace sexual harassment should not be a court, a police station or a government inspectorate, but a small committee inside or near the workplace itself, staffed substantially by the employer's own people, bound by statutory time limits and armed with the powers of a civil court for the purposes of its inquiry. Everything in the statute flows from that bet: the definitions that decide who may complain and where, the composition rules that try to make an internal body trustworthy, the clock that runs from complaint to report to action, the duties laid on employers, and the penalty that waits for an employer who never constitutes the committee at all. A reader who finishes this article should be able to state, without hesitation, exactly what the Act requires, who sits on each committee, what each time limit is, and what the employer must do at each stage.

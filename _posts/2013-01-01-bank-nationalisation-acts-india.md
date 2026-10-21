@@ -9,7 +9,7 @@ excerpt: "Bank nationalisation in India, explained through its Acts: the ordinan
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2013-01-01
+last_updated: 2026-10-21
 lang: en
 ---
 On the evening of Saturday, 19 July 1969, the Government of India took ownership of the fourteen largest Indian commercial banks by the signature of a single ordinance, and it did so roughly forty-eight hours before Parliament was due to assemble for its monsoon session. Bank nationalisation, the shorthand name for that acquisition and for the second, smaller acquisition that followed in 1980, was therefore not merely an economic decision. It was a legislative event of a very particular kind: a law made at the one moment when no legislature was sitting, defended afterwards on the ground that surprise was of its essence, struck down by the Supreme Court within seven months, re-enacted in corrected form within weeks of the judgment, and finally placed beyond the reach of the same challenge by a constitutional amendment. A reader who can narrate that sequence, and who understands why each step followed from the step before, understands the single most instructive episode in the legislative history of independent India.

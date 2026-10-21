@@ -9,7 +9,7 @@ excerpt: "Land Acquisition Act colonial and LARR regimes compared on consent, co
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 78
 author: "anita-das"
-last_updated: 2014-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every argument about Indian land acquisition law eventually becomes an argument about two statutes: the Land Acquisition Act, 1894, Act 1 of 1894, which governed the taking of land for well over a century, and the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, Act 30 of 2013, which repealed it and took its place from 1 January 2014. The argument is usually conducted by slogan. One side says the new Act pays four times the market value and asks what more a landowner could want. The other side says the new Act made land impossible to acquire and asks what more an investor could fear. Both slogans describe the same statute, and both are wrong in the same way: each takes one feature of the 2013 settlement, prices it at its maximum, and treats the result as the whole.

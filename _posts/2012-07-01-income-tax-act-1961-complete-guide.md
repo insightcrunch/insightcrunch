@@ -9,7 +9,7 @@ excerpt: "The Income-tax Act explained: its five heads of income, its assessment
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 92
 author: "anita-das"
-last_updated: 2012-07-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Income-tax Act 1961 is the statute through which the Indian state makes its largest single claim on private resources, and it is also the statute that Parliament has altered more often than any other on the book. Every other Indian Act can be read, with effort, as a document that was enacted on a date and then amended from time to time. This one cannot. It has been amended in substance by the Finance Act of almost every year since it commenced, so that the text a reader opens is a sediment of more than six decades of budgets, each layer laid down for the fiscal and political reasons of its own year and rarely removed when those reasons expired. To understand the Act is therefore to understand two things at once: the machine its sections build for charging, computing, collecting and disputing a tax on income, and the annual process that kept rebuilding that machine while it was running.

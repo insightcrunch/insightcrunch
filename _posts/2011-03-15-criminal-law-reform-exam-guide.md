@@ -9,7 +9,7 @@ excerpt: "Criminal law reform for examinations is a retrieval problem: hold offe
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 84
 author: "anita-das"
-last_updated: 2011-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 Criminal law reform is the subject on which well-prepared candidates lose marks they did not need to lose. The candidate who understood murder, arrest and the burden of proof perfectly well under the old codes opens a paper that cites the new ones, reaches for a section number that has moved, and writes a confident answer about the wrong provision. The knowledge was there. The retrieval failed. That distinction, between not knowing the law and not being able to find it under examination pressure, is the whole subject of this guide, because the replacement of the Indian Penal Code, the Code of Criminal Procedure and the Indian Evidence Act by the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam changed the map of Indian criminal law far more than it changed the territory.

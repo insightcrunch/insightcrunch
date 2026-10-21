@@ -9,7 +9,7 @@ excerpt: "The POCSO Act 2012 made each adult in India a mandatory reporter of ch
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2016-04-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Protection of Children from Sexual Offences Act, 2012, known everywhere by its acronym as the POCSO Act, is the statute India built when it accepted that the general criminal law had failed children. Its long title states the design in one line: an Act to protect children from offences of sexual assault, sexual harassment and pornography, and to provide for the establishment of Special Courts for the trial of such offences. Yet the long title understates what Parliament actually did in 2012. The Act did not merely add new offences to the statute book. It imposed a duty to report on every person in the country, it created a class of courts whose procedure is organised around a single witness, and it reversed the ordinary burden of proof for its principal offences. A reader who understands only the offence definitions understands the least distinctive part of the statute.

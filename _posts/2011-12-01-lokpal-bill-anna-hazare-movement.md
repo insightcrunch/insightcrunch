@@ -9,7 +9,7 @@ excerpt: "The Lokpal Bill failed for forty-five years, then passed inside two: h
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 83
 author: "alex-cunningham"
-last_updated: 2011-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Lokpal Bill holds a record no other Indian measure quite matches. It was introduced in Parliament, in one form or another, for forty-five years without becoming law, and then, inside two years of a street movement forming around it, it was passed by both Houses and signed into the statute book. The easy version of that story credits the movement with writing the law, and the cynical version credits it with nothing but noise. The passage record supports neither. What the movement changed was the political cost of delay: it converted a bill that governments could let die quietly, session after session, into a bill whose failure was televised, counted and punished. What it could not change was the drafting table itself, where its most ambitious clauses were negotiated away by the ordinary machinery of committees, cabinets and floor arithmetic. A reader who finishes this article should be able to say precisely which of the movement's demands survived into the Lokpal and Lokayuktas Act, 2013, which were diluted, and which were dropped altogether, and to explain why the same Parliament that could not pass the bill in four decades passed it in a single week in December 2013.

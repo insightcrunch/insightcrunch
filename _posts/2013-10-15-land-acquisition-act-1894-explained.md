@@ -9,7 +9,7 @@ excerpt: "The Land Acquisition Act governed compulsory acquisition in India for 
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2013-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Land Acquisition Act 1894 ended the way it had lived, by an act of state power exercised over people who had no vote in the matter. A statute written for a colonial government that answered to London was repealed by the Parliament of a democratic republic only after one hundred and nineteen years of continuous operation, during sixty-six of which the republic itself had been the acquiring authority and had used the statute more heavily than the empire ever did. The repeal therefore poses two questions at once. The first is mechanical: how did this law work, step by step, from the first notification to the final vesting of land in the government. The second is political, and it is the harder one: why did a free country keep a law like this for two-thirds of a century, and what finally made its replacement unavoidable.

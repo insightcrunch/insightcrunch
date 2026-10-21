@@ -9,7 +9,7 @@ excerpt: "The Bharatiya Nagarik Suraksha Sanhita replaced the CrPC. Its timeline
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 83
 author: "kevin-reeves"
-last_updated: 2011-01-01
+last_updated: 2026-10-21
 lang: en
 ---
 A criminal case in India is shaped less by the offence it alleges than by the procedure that carries it, and on 1 July 2024 that procedure changed hands. The Bharatiya Nagarik Suraksha Sanhita, 2023, Act 46 of 2023, repealed the Code of Criminal Procedure, 1973 and took its place as the code that governs how information reaches the police, how investigation is conducted, how custody is authorised, how a trial is run and how a judgment is delivered. The Sanhita was advertised on two promises: speed, delivered through a dense network of statutory timelines, and modernisation, delivered through electronic process and forensic science. Whether those promises bind anyone is a different question, and it is the question this article tests provision by provision, because a procedural reform is only as real as the consequence that follows when it is ignored.

@@ -9,7 +9,7 @@ excerpt: "The Lokpal and Lokayuktas Act explained: its composition, its jurisdic
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 88
 author: "deepika-joshi"
-last_updated: 2011-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Lokpal and Lokayuktas Act 2013 did something no Indian statute had done before. It created a single body with power to inquire into corruption allegations against a serving Prime Minister, against Union ministers, against members of Parliament, and against every grade of central government official from the cabinet secretary's peers down to the lowest group of clerks and attendants. It gave that body its own inquiry and prosecution wings, authority over the Central Bureau of Investigation in cases it referred, and a procedure designed to run from complaint to trial inside fixed periods. Then, for five years and two months after the Act came into force, the body did not exist. There was no Chairperson, no member, no office receiving complaints. The statute was in force the whole time. Nothing had been repealed, nothing had been stayed by a court, and no commencement notification was missing. The institution was disabled by a single sentence in its own appointment provisions, which named an office, the Leader of Opposition in the Lok Sabha, that the electorate had not produced.

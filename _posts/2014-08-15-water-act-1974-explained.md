@@ -9,7 +9,7 @@ excerpt: "The Water Act built the pollution control boards and the consent regim
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2014-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Water Act 1974 is the statute that built the institutional skeleton on which almost all Indian environmental regulation hangs. Before it, no Indian law created a specialised regulator for pollution of any kind. After it, every state had a board, every significant discharge needed that board's written consent, and a factory that poured untreated effluent into a river was committing an offence against a named prohibition rather than merely behaving badly. The Act did something else that turned out to matter even more than its water provisions: it invented the pollution control board as an institution, and that institution was later handed the Air Act to administer, made the consent authority under the umbrella environment statute's rules, and given the day-to-day running of hazardous waste, biomedical waste, plastic waste and electronic waste regulation. A statute about rivers became the operating system of Indian environmental law, and it remains the place where the system's characteristic strengths and characteristic failures are most clearly visible.

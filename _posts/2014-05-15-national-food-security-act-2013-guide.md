@@ -9,7 +9,7 @@ excerpt: "The National Food Security Act turned welfare schemes into legal entit
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 91
 author: "deepika-joshi"
-last_updated: 2014-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 The National Food Security Act, 2013 is the statute that converted India's food welfare schemes into legal entitlements, and the conversion is the whole story. Before it, a family that was refused grain at a ration shop had been denied a benefit that a government had chosen to give and could choose to withdraw. After it, the same family is denied something the law says it is owed, and the law itself supplies the remedy: a cash allowance for the grain that did not arrive, a named officer who must hear the complaint, and a commission that can penalise the official who ignores that officer. Whether those remedies work as designed is a separate question, and it belongs to the record of implementation. What the statute did on its face is not in doubt. It took the targeted public distribution system, the anganwadi meal, the school midday meal and a maternity benefit, and rewrote them as rights held by identified persons against the state.

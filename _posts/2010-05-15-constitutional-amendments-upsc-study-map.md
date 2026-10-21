@@ -9,7 +9,7 @@ excerpt: "Constitutional amendments for UPSC, organised by route and function: t
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 85
 author: "anita-das"
-last_updated: 2010-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 Constitutional amendments for UPSC preparation are usually taught in the worst possible order. The candidate is handed a numbered sequence running past one hundred, told that the list is important, and left to discover alone which of those numbers carry a doctrine, which carry a schedule, which changed the balance between the Union and the states, and which were housekeeping measures that no examiner will ever build a serious question around. The predictable result is a particular kind of fragile knowledge: a candidate who can recite that the 73rd Amendment concerns panchayats falls silent when the question instead asks why local government needed a constitutional amendment at all, or which route that amendment travelled, or what would have happened to it in the Rajya Sabha had the states objected. The number was memorised. The amendment was never understood, and the examination is designed, with some care, to find exactly that gap.

@@ -9,7 +9,7 @@ excerpt: "NHRC powers and functions explained: composition, appointment, inquiry
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 75
 author: "kavita-sharma"
-last_updated: 2010-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 The National Human Rights Commission presents a puzzle that no summary of NHRC powers and functions resolves on its own. The Commission is created by an Act of Parliament. It inquires into complaints with all the powers of a civil court trying a suit. Its chairperson must have held the highest judicial offices in the country, and its members are appointed by the President of India on the recommendation of a committee chaired by the Prime Minister. Yet when an inquiry ends, the Commission cannot order anyone to do anything. It recommends. A government that receives its recommendation for compensation, for prosecution, or for reform may accept it, qualify it, delay its answer, or decline it, and the statute gives the Commission no instrument with which to punish the refusal. The standard explanation for this gap is political: the body is called a toothless tiger, a retirement posting, a shield for the state. This article argues that the explanation sits one level too high. The Commission's weakness is not primarily a failure of will in the persons who have staffed it. It is the predictable output of four specific design choices written into the Protection of Human Rights Act, 1993, and a reader who can name those four choices can assess any proposed reform by asking the only question that matters, which of the four it actually touches.

@@ -9,7 +9,7 @@ excerpt: "The farm laws explained in full from the statutory text itself: what t
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 85
 author: "deepika-joshi"
-last_updated: 2014-04-01
+last_updated: 2026-10-21
 lang: en
 ---
 The farm laws 2020 were three short statutes that between them ran to fewer than sixty pages, and they produced the largest legislative confrontation of their decade: a year of protest camps on the borders of the national capital, a Supreme Court stay within four months of enactment, and a repeal announced by the Prime Minister who had championed them. Yet the argument about the three Acts was conducted, on both sides, largely about texts that few of the arguers had read. The laws were said to have abolished the regulated market yards called mandis. They did not. They were said to have abolished the minimum support price. They did not mention it. They were said to have handed farmland to corporations. One of them prohibited exactly that. The distance between what the farm laws 2020 said and what they were described as saying is the subject of this article, because that distance, more than any single provision, explains why a set of marketing reforms that expert committees had recommended for two decades ended in repeal without ever operating at scale.

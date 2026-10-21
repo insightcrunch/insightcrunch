@@ -9,7 +9,7 @@ excerpt: "UAPA complete guide to both halves of the Act: Tribunal-confirmed asso
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 101
 author: "jessica-kim"
-last_updated: 2011-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 Any UAPA 1967 complete guide has to begin with a fact that the name of the statute tends to conceal, which is that the Unlawful Activities (Prevention) Act is not one coherent code written at a single moment for a single purpose. It is two statutes stacked in one binding. The lower layer, enacted in 1967, is a law about associations. Its central question is whether an organisation may be declared unlawful by the Central Government, and its central machinery is a declaration, a reference to a Tribunal, and a confirmation or cancellation by a judge. The upper layer, grafted onto the first in 2004, is a law about terrorism. Its central question is whether a person has committed, conspired to commit, financed, supported or concealed a terrorist act, and its central machinery is investigation, extended detention before a charge sheet, a demanding test for bail, forfeiture of property said to be proceeds of terrorism, and punishment that can extend to death or imprisonment for life. The two layers share a cover, a short title and a place in the statute book. They do not share a logic, and a reader who confuses them will misunderstand almost everything that follows.

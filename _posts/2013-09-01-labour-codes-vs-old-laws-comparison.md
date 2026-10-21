@@ -9,7 +9,7 @@ excerpt: "Labour codes vs old laws compared statute by statute: the twenty-nine 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 75
 author: "kavita-sharma"
-last_updated: 2013-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 The labour codes vs old laws argument has been running for years in a form that guarantees it can never be settled. One side announces that the four codes are the largest dilution of worker protection since independence. The other announces that they are the largest extension of worker welfare ever attempted. Both announcements are made about the same four statutes, by people who have read them, and both can be supported by quoting real provisions. The reason the argument never resolves is that each side is describing a different worker. The union speaker is describing the permanent factory worker in a large establishment, the person the old law protected most deeply. The government speaker is describing the gig worker, the migrant and the unorganised worker, the people the old law barely reached. Until the comparison is run worker by worker and statute by statute, the question "are the codes pro-worker or pro-employer" has no answer, because it has no fixed subject. This article runs the comparison that way, and its verdict follows from the count.

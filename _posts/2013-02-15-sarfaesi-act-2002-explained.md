@@ -9,7 +9,7 @@ excerpt: "The SARFAESI Act lets a lender seize and sell secured property without
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 92
 author: "anita-das"
-last_updated: 2013-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 The SARFAESI Act 2002 did something no Indian statute had done before it: it handed a private lender the power to seize a borrower's property and sell it to a stranger, without first persuading any judge that the debt was due. Under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, once a loan account is classified as non-performing, the secured creditor issues a notice, waits sixty days, and may then take possession of the secured assets, take over the management of the borrower's business, appoint a manager to run it, or intercept money owed to the borrower by third parties. The borrower who objects does so afterwards, before a tribunal, against a process that is already moving. Enforcement first, adjudication later: that reversal of the ordinary sequence of Indian civil justice is the whole statute in one sentence, and everything else in the Act is machinery built around it or safeguards built against it.

@@ -9,7 +9,7 @@ excerpt: "NIA Act explained: how the National Investigation Agency investigates 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 74
 author: "patrick-dunn"
-last_updated: 2011-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 The National Investigation Agency is the institution the Indian Constitution appears to forbid and the Indian state decided it could not do without. Police and public order are subjects the Constitution assigns to the states. Investigation of crime is, in the ordinary scheme of the Seventh Schedule, the work of a state police force answerable to a state government. Yet the National Investigation Agency Act, 2008 created a central police agency whose officers exercise police powers throughout India, which can be directed by the Central Government to take an investigation out of the hands of a state police force, and whose entry into a case requires the consent of no state at all. The Agency has operated on that basis since the Act came into force on the last day of 2008. Its constitutionality has been challenged by a state government in an original suit before the Supreme Court, and the challenge goes to the foundations of the federal design rather than to any detail of drafting.

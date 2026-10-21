@@ -9,7 +9,7 @@ excerpt: "The Wildlife Protection Act explained: the hunting ban, the four sched
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2014-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Wild Life (Protection) Act, 1972 rests on a single, radical legal move: it treats a wild animal not as a resource waiting to be used, nor as a pest waiting to be destroyed, but as property of the government, placed beyond private taking altogether. From that one move everything else in the Wildlife Protection Act follows. Hunting a scheduled animal is a criminal offence rather than a regulated sport. A trophy or an animal article belongs to the state unless a citizen holds a certificate saying otherwise. Trade in the most protected species is prohibited outright. And the habitat of those animals is fenced off, in law if not always on the ground, by a graded system of protected areas that reaches from the strict national park down to the community reserve declared over private land with its owners' consent.

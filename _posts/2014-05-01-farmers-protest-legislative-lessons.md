@@ -9,7 +9,7 @@ excerpt: "The farmers' protest is read here as a failure of legislative process:
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2014-05-01
+last_updated: 2026-10-21
 lang: en
 ---
 The farmers' protest that held the borders of Delhi for a little over a year is usually argued about as a verdict on agricultural policy, and that argument has never been settled and probably cannot be. This article treats the episode as something narrower and more answerable: a failure of legislative process, in which three statutes travelled from ordinance to enactment to repeal without passing through most of the checkpoints the parliamentary system maintains for exactly such laws. Between June 2020 and December 2021, the three farm laws were promulgated as ordinances while Parliament was not sitting, converted into Acts in a monsoon session marked by a refused division and suspended members, stayed by the Supreme Court without any finding on their validity, and finally repealed by a bill that neither House debated. At every stage, an institution reached for the instrument that ended discussion fastest. The question this article answers is the one that matters for every future law of consequence: which specific stage of the process, had it been used, would most likely have prevented the confrontation?

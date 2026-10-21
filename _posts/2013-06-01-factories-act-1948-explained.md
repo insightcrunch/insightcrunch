@@ -9,7 +9,7 @@ excerpt: "The Factories Act explained: the ten and twenty worker test for covera
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 96
 author: "kavita-sharma"
-last_updated: 2013-06-01
+last_updated: 2026-10-21
 lang: en
 ---
 Ask a room of Indian manufacturers which safety statute governed their working lives for three quarters of a century and the answer comes back without hesitation: the Factories Act 1948. Ask the same room a harder question, which premises the Act actually reached, and the confidence dissolves. The Factories Act 1948 was the central statute of Indian industrial safety from its commencement on 1 April 1949 until the labour codes displaced it, and everything about its operation, who had to register, who could be prosecuted, which workers could claim a canteen, a crèche, an ambulance room or a weekly holiday, turned on a single anterior question that most accounts of the Act treat as a formality. Was the premises a factory? That question was answered not by examining what the premises did, how dangerous its processes were or how likely its workers were to be hurt, but by counting heads and asking whether power was used. Ten workers with power, twenty without: cross either line and the full weight of the statute landed. Stay below both and almost none of it applied, whatever was being made and however it was being made. This article is a complete account of the Act built around that design choice, because the design choice is the Act.

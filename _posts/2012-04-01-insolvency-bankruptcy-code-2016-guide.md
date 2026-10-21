@@ -9,7 +9,7 @@ excerpt: "The Insolvency and Bankruptcy Code explained as a transfer of control:
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 92
 author: "deepika-joshi"
-last_updated: 2012-04-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Insolvency and Bankruptcy Code 2016 is usually introduced as a recovery law, and that introduction explains most of the confusion that follows. The Code is not principally a machine for getting money back, although money sometimes comes back through it. It is a machine for changing who decides. On the day a corporate insolvency process is admitted, the directors of a defaulting company lose control of it, an outside professional takes charge of its affairs, and its financial creditors, sitting as a committee, decide whether the business continues under a new plan and new ownership or is closed and sold. Everything else in the statute, the moratorium, the timelines, the eligibility bars, the distribution order, exists to serve that single transfer of control and to make it happen quickly enough that the business still has value when the decision is taken.

@@ -9,7 +9,7 @@ excerpt: "The Vijay Madanlal Choudhary judgment upheld nearly the whole PMLA, ye
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 85
 author: "kavita-sharma"
-last_updated: 2013-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 On 27 July 2022, a three-judge bench of the Supreme Court of India delivered the judgment in Vijay Madanlal Choudhary v Union of India and, in a single ruling of more than five hundred pages, upheld almost every contested provision of the Prevention of Money Laundering Act, 2002. The powers of the Directorate of Enforcement to attach property before trial, to search premises and persons, to arrest without a prior judicial warrant, to summon any person and record a statement usable in evidence, to hold an accused to bail conditions that reverse the ordinary presumption of innocence, and to place the burden of disproving the character of attached property on the accused were all sustained. Then, on 25 August 2022, twenty-nine days later, a bench presided over by the Chief Justice of India issued notice on review petitions against that very judgment and recorded that at least two of its conclusions appeared to require reconsideration. A judgment that upheld a statute across the board was therefore flagged by the institution that delivered it, within a month, as partly unsettled. Understanding the Vijay Madanlal Choudhary judgment means holding both of those facts at once, and it also means understanding the argument about conviction rates that surrounds the statute, an argument in which both sides quote true numbers that appear to contradict each other and do not.

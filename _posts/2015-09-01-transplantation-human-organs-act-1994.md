@@ -9,7 +9,7 @@ excerpt: "The Transplantation of Human Organs Act explained: brain-stem death, n
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 91
 author: "deepika-joshi"
-last_updated: 2015-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Transplantation of Human Organs Act 1994, Act 42 of 1994, was written to do two things that pull against each other, and the friction between them explains almost everything about how Indian transplant law behaves in practice. Its long title promises, in one breath, to regulate the removal, storage and transplantation of human organs for therapeutic purposes and to prevent commercial dealings in human organs. The first promise is enabling: before this statute, a surgeon who removed a heart or a liver from a person whose brain had died but whose heart still beat had no legal foundation for the act, because Indian law recognised death only when the heart stopped, and an organ taken after the heart stops is usually an organ already lost. The second promise is prohibitory: by the early 1990s India had become a destination in a global trade in kidneys, in which poor sellers, brokers and willing hospitals formed a market that Parliament intended to extinguish. A statute that opens a lawful channel for donation while sealing every channel through which money might flow is a statute built around suspicion of its own subject, and that design choice, generosity and suspicion in the same text, is the key to the whole Act.

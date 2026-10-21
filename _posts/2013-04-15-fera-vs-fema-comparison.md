@@ -9,7 +9,7 @@ excerpt: "FERA vs FEMA, compared on burden of proof, penalty, forum, residence a
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 75
 author: "kavita-sharma"
-last_updated: 2013-04-15
+last_updated: 2026-10-21
 lang: en
 ---
 The FERA vs FEMA comparison is usually forced on a reader by a practical difficulty rather than by curiosity. A family discovers that a parent who worked abroad for thirty years left accounts and a small flat in the country of employment, and the family needs to know what the law makes of its silence. A finance head finds an old remittance that travelled outside the authorised channel and needs to know whether the company faces a prosecution or a penalty notice. A student preparing for an examination meets two confident sentences in two different books, one saying that India liberalised foreign exchange in 2000 and the other saying that it merely relabelled the controls, and needs to know which sentence to write. Each of them has run into the same unresolved argument, and the argument has lasted because both sides of it are describing something real. This article settles it in the only way it can be settled: dimension by dimension, provision by provision, against the texts of the Foreign Exchange Regulation Act 1973 and the Foreign Exchange Management Act 1999, with every change classified and the count allowed to deliver the verdict.

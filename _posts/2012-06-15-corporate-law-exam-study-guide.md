@@ -9,7 +9,7 @@ excerpt: "Corporate law for examinations is four regimes, not one statute: learn
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 84
 author: "deepika-joshi"
-last_updated: 2012-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 Corporate law defeats more candidates by volume than by difficulty. The subject arrives as one enormous company statute, a second statute on insolvency that behaves like a code of civil procedure wearing commercial dress, a tribunal system borrowed from neither, and a shorter partnership statute that examiners treat as an afterthought until the year it carries a full question. Candidates respond to the volume in the only way that feels safe, which is to memorise, and the subject punishes memorisation more reliably than any other in this series, because the governing text changes by notification several times a year and a memorised threshold has a shorter life than the preparation cycle that produced it. The candidate who fails this subject rarely fails for ignorance of the law. The failure is architectural: one undifferentiated mass of provisions, held at one level of confidence, revised in the order the textbook happened to print them.

@@ -9,7 +9,7 @@ excerpt: "Bhopal disaster legislation traced in full: the claims Act, the umbrel
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 84
 author: "deepika-joshi"
-last_updated: 2014-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 In the night of 2 and 3 December 1984, methyl isocyanate gas escaped from a pesticide plant operated in Bhopal by Union Carbide India Limited, the Indian subsidiary of the Union Carbide Corporation of the United States, which held 50.9 per cent of the subsidiary's shares. The Bhopal disaster killed thousands of people in the surrounding settlements within days. The Government of Madhya Pradesh confirmed 3,787 deaths as related to the gas release, and every other count in circulation, from the figures in the Supreme Court's settlement reasoning to the estimates of victims' organisations, is a rival number that this article keeps separate, because the quarrel over the count became part of the legal history itself. What followed the leak, over nearly four decades, was not one legal response but a sequence of them, and the sequence is the subject here: a statute that took every victim's claim away from the victim and gave it to the state, an umbrella environmental statute enacted within eighteen months, a new chapter on hazardous processes in factory law, a doctrine of absolute liability announced in a different city's case, a no-fault insurance statute, a compensation tribunal that Parliament created on paper and the executive never brought into existence, and a compensation question that the Supreme Court finally closed in March 2023.

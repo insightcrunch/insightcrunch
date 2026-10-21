@@ -9,7 +9,7 @@ excerpt: "Prohibition of Child Marriage Act explained: why a forbidden marriage 
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2016-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Prohibition of Child Marriage Act carries a puzzle in its own title. A statute enacted to prohibit a practice does not declare the prohibited act a nullity. A child marriage in India is an offence committed by nearly everyone who arranges, performs or permits it, yet the marriage itself is, in the ordinary case, a valid and subsisting marriage in the eyes of the law. It remains valid the day after the ceremony, it remains valid when children are born of it, and it remains valid for years afterwards, unless one particular person, the party who was a child when the marriage was solemnised, goes to a district court and asks for it to be annulled inside a window that is quietly closing. The prohibition falls on the adults. The burden of undoing falls on the child.

@@ -9,7 +9,7 @@ excerpt: "RTI vs Lokpal compares India's two accountability models on initiation
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 74
 author: "maria-santos"
-last_updated: 2012-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every few years, Indian public argument returns to the same fork in the road. A scam surfaces, a file is suppressed, a contract is inflated, and two prescriptions compete for the citizen's loyalty. The first says the answer is more light: give every person the right to demand the record, and wrongdoing will be exposed faster than any institution could expose it. The second says the answer is more consequence: build one powerful body that can investigate the powerful and put them on trial, because exposure without punishment changes nothing. The RTI vs Lokpal question is the statutory form of that argument, because India, unusually, enacted both prescriptions. The Right to Information Act, 2005 armed every citizen with a small, repeatable power. The Lokpal and Lokayuktas Act, 2013 concentrated a large power in a single institution. The two statutes ran side by side for over a decade, which means the argument no longer has to be conducted in the abstract. There is a record, and the record discriminates between the designs.

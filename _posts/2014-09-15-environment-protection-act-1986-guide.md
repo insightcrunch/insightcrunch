@@ -9,7 +9,7 @@ excerpt: "The Environment Protection Act explained: the umbrella statute whose s
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2014-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Environment Protection Act 1986 is the statute under which almost every operative environmental rule in India is made, and it is also a statute that contains almost none of those rules itself. It runs to twenty-six sections. It fixes no emission limit for any factory, prescribes no effluent standard for any river, names no substance whose discharge it forbids in any quantity, and sets no procedure by which a factory, mine, port or housing project must obtain permission to exist. Every one of those things is done elsewhere, in notifications and rules issued by the Central Government in the Gazette of India under the powers this Act confers. A reader who masters the twenty-six sections has therefore mastered the skeleton of Indian environmental law and nearly nothing of its flesh. The flesh is delegated legislation, and it can be rewritten by the executive without a bill, without a debate and without a vote.

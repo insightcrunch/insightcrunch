@@ -9,7 +9,7 @@ excerpt: "The Prevention of Money Laundering Act explained in detail: the offenc
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 89
 author: "deepika-joshi"
-last_updated: 2013-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 Almost every argument about the Prevention of Money Laundering Act 2002 begins at the wrong end. The public argument is about who has been raided, arrested or attached, and it is conducted as if the statute were simply a power the Enforcement Directorate holds. It is not. It is a machine with a dependency built into its centre, and everything about how it behaves in real cases follows from that dependency. The offence of money laundering is a standalone offence, with its own definition, its own punishment and its own courts, yet it cannot exist at all unless a completely different crime, listed in a schedule at the back of the Act and usually investigated by a completely different agency, has first generated property. Remove the other crime and the offence collapses, the attachment falls, and the prosecution has nothing to prosecute. Keep that single structural fact in view and the rest of the statute, its extraordinary powers, its reversed burdens, its strange procedural habits and its political charge, becomes intelligible. Lose sight of it and every debate about the Act degenerates into competing descriptions of the same raids.

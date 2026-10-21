@@ -9,7 +9,7 @@ excerpt: "NFSA implementation in practice: how a census-frozen coverage ceiling,
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 82
 author: "kavita-sharma"
-last_updated: 2014-06-01
+last_updated: 2026-10-21
 lang: en
 ---
 The National Food Security Act, 2013 made a promise of unusual precision. It did not promise that no Indian would go hungry, which no statute could deliver on its own. It promised something more mechanical and therefore more testable: that identified persons, up to a stated share of the population, would receive a stated quantity of grain at stated prices through a stated network of fair price shops, and that a stated machinery of grievance officers, food commissions and social audits would watch over the delivery. NFSA implementation can be judged against that promise almost clause by clause, and the record that emerges is neither the triumph of the government's telling nor the failure of the critics' telling. The shops largely work. The grain largely moves. What does not move is the number at the top of the system: the count of persons the law covers, which was fixed by a census and has been overtaken by the population it was meant to describe.

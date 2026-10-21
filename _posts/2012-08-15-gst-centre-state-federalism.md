@@ -9,7 +9,7 @@ excerpt: "GST federalism in India examined: the taxing powers states surrendered
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 83
 author: "anita-das"
-last_updated: 2012-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 GST federalism is usually debated as a slogan. One side says the states of the Indian Union were reduced by the goods and services tax to spending agencies of the Centre, governments that distribute money they no longer raise. The other side answers that the states hold two-thirds of the voting weight in the body that sets the tax, a share no federation anywhere else gives its constituent units over a national levy, and that they consented to the arrangement through their own legislatures. Both slogans contain a fragment of the record, and neither survives contact with it. What the states actually did in 2016 and 2017 was sign a bargain of a specific and unusually explicit kind. They surrendered permanent taxing powers of their own, and in exchange they received protections of defined content: a compensation guarantee written into the constitutional amendment itself, a collective voting weight larger than the Union's, a set of carve-outs that kept their most dependable revenue lines outside the shared tax, and the retention of several older levies the amendment never touched. A bargain of that kind is tested not when it is signed but when the money runs short, and the Indian bargain was tested within three years of its making, when the compensation fund could not pay what the guarantee promised and the two levels of government had to decide what a federal promise is worth in a revenue collapse. That dispute, narrated precisely, tells a reader more about the federalism of the tax than the amendment's text does.

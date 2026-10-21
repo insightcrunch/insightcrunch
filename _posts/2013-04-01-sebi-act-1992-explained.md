@@ -9,7 +9,7 @@ excerpt: "The SEBI Act explained: how an administrative arrangement became a sta
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 73
 author: "anita-das"
-last_updated: 2013-04-01
+last_updated: 2026-10-21
 lang: en
 ---
 Most regulators punish. The Securities and Exchange Board of India, created by the SEBI Act 1992, does something more fundamental: it excludes. Its decisive instrument is not the fine, not the prosecution, and not the adverse finding after a long inquiry. It is the direction, issued by the regulator's own order, that restrains a person from accessing the securities market or from buying, selling or dealing in securities at all, and that direction can be issued on an interim basis, before any final finding has been recorded against the person restrained. For a broker, a merchant banker, a listed company promoter or an investment adviser, exclusion from the market is not a sanction that follows the destruction of a business. It is the destruction of the business, administered in advance of adjudication and reviewed only afterwards. Understanding that single design choice, a power to exclude before adjudication, explains both why this regulator is regarded as the most effective in the Indian regulatory state and why every serious criticism of it concentrates on the same point.

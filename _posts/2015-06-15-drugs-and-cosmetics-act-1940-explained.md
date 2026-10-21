@@ -9,7 +9,7 @@ excerpt: "The Drugs and Cosmetics Act explained: central approval of new drugs, 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
 author: "anita-das"
-last_updated: 2015-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every medicine sold in India, from a strip of paracetamol at a village chemist to a patented oncology injection in a metropolitan hospital, passes through a single statutory doorway: the Drugs and Cosmetics Act 1940. The Act decides what may be imported, what may be manufactured, what may be sold, by whom, under what conditions, and with what consequences when the product on the shelf is not what its label claims. Yet the statute most readers imagine, a single regulator guarding a single gate, does not exist. In its place stands a divided machine. A new medicine is approved once, at the Centre, by the Central Drugs Standard Control Organisation headed by the Drugs Controller General of India. The licence to manufacture that same medicine is then granted state by state, and the licence to sell it is granted state by state again. Approval is national; permission to make and permission to sell are local. Almost everything that is distinctive about Indian drug regulation, its reach, its unevenness, and its recurring quality scandals, follows from that one structural fact.

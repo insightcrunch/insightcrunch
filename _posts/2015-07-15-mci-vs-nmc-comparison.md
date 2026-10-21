@@ -9,7 +9,7 @@ excerpt: "MCI vs NMC compared on the seven dimensions that decide the question: 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 72
 author: "deepika-joshi"
-last_updated: 2015-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every doctor who registered in India before September 2020 holds a qualification recognised, and a name entered on a register maintained, under one statute, and practises under another. The MCI vs NMC question is therefore not antiquarian. It decides who may open a medical college, who fixes what that college may charge, who can strike a doctor off the register, and whose examination stands between a graduate and a licence. Two bodies have held those powers in succession, built on opposite theories of where trust in a regulator should come from, and the argument between their defenders is usually conducted as a quarrel about character: the old council was corrupt, the new commission is controlled. This article refuses that framing. It tests the replacement the way the series tests every institutional replacement, by asking whether each change made in 2019 maps onto a failure of the predecessor that somebody had documented, in a court record, a committee report, or a statute book, before the change was made.

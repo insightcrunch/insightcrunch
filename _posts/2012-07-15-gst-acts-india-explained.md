@@ -9,7 +9,7 @@ excerpt: "GST Acts India explained: the CGST, IGST, SGST and Compensation Acts, 
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 92
 author: "james-carter"
-last_updated: 2012-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Goods and Services Tax is usually described as one tax, and in economic substance it is: a single destination-based levy on consumption, charged at every stage of a supply chain and credited at every stage after the first, so that the tax sticks only to the value each business adds. But a reader who goes looking for the statute that creates this one tax will not find it, because no such single statute exists. The GST Acts are a family: four Acts of Parliament, a matching Act in every state legislature and in the Union territories with legislatures of their own, and a compensation statute standing behind the whole arrangement, more than thirty enactments that must move in step for the single tax to work at all. This article is the pillar treatment of that family: what each statute levies, how the credit chain that justifies the design actually operates, where the litigation concentrates, and why a taxpayer who received a disputed order in the tax's early years had, for a very long time, no tribunal to appeal it to.

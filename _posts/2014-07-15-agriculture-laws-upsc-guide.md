@@ -9,7 +9,7 @@ excerpt: "Agriculture legislation for UPSC is a federalism test in disguise: the
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 86
 author: "kavita-sharma"
-last_updated: 2014-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 Agriculture legislation is the cluster in which the civil services examination most reliably separates the candidate who understands the Constitution from the candidate who has memorised a controversy. The questions arrive dressed as economy questions, carrying the vocabulary of prices, procurement and markets, and the candidate who answers them in that vocabulary alone writes a competent newspaper paragraph and scores in the middle of the field. The candidate who scores is the one who sees that nearly every agriculture question is, underneath the dressing, a question about who holds the power to act: which legislature may enact the rule, which entry of the Seventh Schedule authorises it, which institution administers it, and which level of government pays for it. Agriculture is a state subject that the Union influences constantly and commands rarely, and the examination is built to detect whether the candidate knows the difference.

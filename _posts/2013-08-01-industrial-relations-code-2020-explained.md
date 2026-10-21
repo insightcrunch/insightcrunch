@@ -9,7 +9,7 @@ excerpt: "The Industrial Relations Code replaced three labour laws, tripled the 
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 81
 author: "gregory-marsh"
-last_updated: 2013-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 Most accounts of the Industrial Relations Code, 2020 describe it as a deregulatory statute, and most union accounts describe it as an anti-worker one, and both descriptions fail the same test: neither can say, item by item, what the Code handed to employers and what it handed to workers. That itemised account is the only honest way to read this statute, because the Code moved in both directions inside a single text. The same Act that raised the threshold for prior government permission before lay-off, retrenchment and closure from one hundred workers to three hundred also imposed a strike notice requirement on every industrial establishment in India, a restriction that the repealed law had confined to public utility services. The same Act that wrote fixed term employment into the statute book also attached to it a parity condition and an accelerated gratuity entitlement that no earlier central law had contained. Flexibility and restriction were not traded across different statutes or different years. They arrived together, in one enactment, as the two halves of a single settlement.

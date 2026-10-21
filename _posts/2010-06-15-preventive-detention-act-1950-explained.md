@@ -9,7 +9,7 @@ excerpt: "The Preventive Detention Act was passed weeks after the Constitution b
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 81
 author: "hannah-moore"
-last_updated: 2010-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Preventive Detention Act 1950 was on the statute book within a month of the Constitution it appeared to contradict. The Constitution had come into force on 26 January 1950, carrying a chapter of fundamental rights that promised personal liberty, freedom of movement, and protection against arrest without stated grounds. Before February was out, the Provisional Parliament had enacted a law under which a person could be imprisoned on the satisfaction of the executive, without charge, without trial, and without any offence having been committed. The statute was Act IV of 1950, dated 25 February 1950. It was defended by its mover, Home Minister Sardar Vallabhbhai Patel, as a temporary necessity. It was enacted with a life of one year. It was then renewed, and renewed again, until it had governed preventive detention at the Centre for close to twenty years, and the pattern it set, a temporary justification attached to a power that outlives every expiry date written for it, became the standard shape of Indian detention law.

@@ -9,7 +9,7 @@ excerpt: "The POCSO Amendment Act 2019 explained: the higher minimum sentences, 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2016-05-01
+last_updated: 2026-10-21
 lang: en
 ---
 The POCSO Amendment Act 2019 is a study in how far a statute can travel in a single direction. The Protection of Children from Sexual Offences Act, 2012 had been in force for less than seven years when Parliament returned to it, and the returning legislature changed almost nothing about how offences are defined, reported, investigated or tried. What it changed, with near completeness, was the price attached to conviction. Minimum sentences rose at every point the amendment touched. A new and higher minimum was built for the youngest victims. The gravest offence in the statute acquired the death penalty. A provision on stored material that had punished one commercial act was rebuilt as a ladder of graded offences reaching down to a failure to delete a file. Anyone who wants to understand the amendment has to hold two thoughts together: that its textual work is precise, extensive and in places genuinely clarifying, and that the question it declined to engage is the question the evidence keeps asking, which is whether offences committed overwhelmingly by persons known to the child are reduced by raising the sentence that follows the small minority of cases that end in conviction.

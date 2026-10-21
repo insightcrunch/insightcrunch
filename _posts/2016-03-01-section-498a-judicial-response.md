@@ -9,7 +9,7 @@ excerpt: "Section 498A explained: what the cruelty offence covers, how arrest sa
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2016-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 Section 498A of the Indian Penal Code is the most argued-about provision in Indian criminal law, and the argument is conducted with two statistics that flatly contradict each other. One side says the conviction rate under the section is so low that most complaints must be false. The other side says the conviction rate is unremarkable for an offence committed inside a household and that the complaints are real. Both sides quote the National Crime Records Bureau. Both quotations are arithmetically correct, because the two percentages are computed on different denominators, and almost nobody who quotes either of them says which denominator it is. That single omission has sustained a public controversy for three decades, produced an extraordinary sequence of Supreme Court interventions in which the same court built a screening mechanism, demolished it as beyond its own function, and then reinstated it, and left the provision's working almost untouched by Parliament throughout.

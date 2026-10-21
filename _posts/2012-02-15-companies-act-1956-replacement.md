@@ -9,7 +9,7 @@ excerpt: "Companies Act replacement explained: why amendment failed, how three b
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 81
 author: "natalie-webb"
-last_updated: 2012-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Companies Act 1956 was not repealed on a day. It was dismantled in stages over nearly three years, section by section, notification by notification, while parts of it continued to govern real companies, real proceedings and real disputes long after its replacement had received presidential assent. That is the first thing to understand about the replacement of India's principal company law statute, because almost every short account of it gets the mechanics wrong. There was no morning on which practitioners woke to a new code and a dead one. There was a long overlap in which two statutes stood side by side, each governing a different slice of corporate life, and in which the answer to the elementary question "which Act applies" depended on the subject matter, the date the proceeding began, and in some corners of the law on provisions of the old statute that were still operating years after the repeal.

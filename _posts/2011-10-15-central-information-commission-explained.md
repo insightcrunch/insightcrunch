@@ -9,7 +9,7 @@ excerpt: "Central Information Commission explained: who appoints its members, wh
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 72
 author: "hannah-moore"
-last_updated: 2011-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Central Information Commission is the final appellate authority for information disputes involving the Central Government and the union territories, and on paper it is a formidable body. It can summon witnesses and records with the powers of a civil court. It can order a public authority to disclose information, to reorganise its record keeping, and to compensate an applicant who has suffered loss. It can fine the responsible officer personally, at a daily rate, out of that officer's own pocket. Its decisions are declared binding by the statute that created it. Yet appellants before this Commission routinely wait a year or more for a hearing, commissions across the country carry backlogs counted in lakhs of cases, and the body has on occasion recorded, in its own order, that it can do nothing further when a respondent simply refuses to obey it. This article explains that gap between the paper and the record, and it locates the gap where it belongs: not in the character of the people appointed, but in three structural features of the Right to Information Act, 2005 itself, namely the composition of the committee that appoints the commissioners, the insecurity written into their term and service conditions since the amendment of 2019, and the absence of any machinery by which the Commission can execute its own orders.

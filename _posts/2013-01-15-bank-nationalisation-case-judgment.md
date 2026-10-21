@@ -9,7 +9,7 @@ excerpt: "Bank Nationalisation Case: how Cooper struck down the banking Act on e
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 79
 author: "anita-das"
-last_updated: 2013-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Bank Nationalisation Case is filed in the memory of the legal profession as a case about property, and it is usually taught as the high-water mark of judicial resistance to economic legislation. That filing is wrong, and it conceals what the eleven judges who decided Rustom Cavasjee Cooper v Union of India on 10 February 1970 actually did. The nationalisation they struck down was re-enacted within weeks and never seriously disturbed again. The compensation doctrine they applied was removed from the Constitution by amendment within two years and the property right itself within eight. What survived, and what grew, was a holding about method: a holding about how a court is to test a law against the fundamental rights chapter, and about whether those rights stand in separate compartments or answer to one another. The interpretive question the case posed was never really about banks. It was about whether a statute that expropriates property is to be judged only by the article that governs expropriation, or by every right its operation in fact invades.

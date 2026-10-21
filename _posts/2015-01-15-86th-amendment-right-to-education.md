@@ -9,7 +9,7 @@ excerpt: "The 86th Amendment and Article 21A explained: how the courts created t
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 81
 author: "anita-das"
-last_updated: 2015-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 The 86th Amendment is the rare constitutional change whose text is the least interesting thing about it. Three short clauses, inserted, substituted and added in December 2002, did less work than the decade of litigation that forced them into being and the seven years of executive silence that followed them. The interpretive question at the centre of this article is one the constitutional text left entirely open: where does a fundamental right come from when the Constitution, as adopted, does not contain it? For education, the answer given by the Supreme Court was that it had been inside the right to life all along. The answer given by Parliament, a decade later, was narrower, more conditional, and, for more than seven years, purely theoretical, because the amendment that carried the right into Part Three of the Constitution also carried a commencement clause that left its arrival to a government notification.

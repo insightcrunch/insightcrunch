@@ -9,7 +9,7 @@ excerpt: "The land acquisition ordinance explained: what the five exempted categ
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2013-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 The land acquisition ordinance of December 2014 is usually remembered in one sentence, and the sentence is a verdict rather than a description: a government tried to take farmers' land for industry, farmers resisted, and the government was forced to retreat. Every element of that sentence corresponds to something real, and the sentence as a whole is misleading, because it describes only the parliamentary stage of the episode and says nothing about the outcome. The amendment failed in Parliament, completely and publicly. Much of what it proposed is nonetheless law in large parts of India, delivered by state legislatures acting under a proviso of the Constitution and by a Constitution Bench of the Supreme Court reading a single provision of the unamended Act. This article is an account of the whole arc, from an ordinance promulgated on the last day of 2014 through its successive re-promulgations to its lapse in August 2015, and then through the three routes by which its objectives were pursued after its death.

@@ -9,7 +9,7 @@ excerpt: "Preventive detention vs arrest in India: one answers a past offence be
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 73
 author: "david-thornton"
-last_updated: 2010-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 The comparison between preventive detention vs arrest is not an academic distinction, and it is usually learned at the worst possible moment: in a police station corridor, on the telephone to a lawyer, in the first confused hours after a person has been taken away and nobody in the family can say under what power. The two regimes look alike from the corridor. In both, uniformed officers take a person into custody. In both, the person is lodged in a jail or a lock-up. In both, the family is told to wait. Yet almost everything that follows from that moment, the rights the person holds, the documents that must exist, the forum that can be approached, the clock that is running and the way release is obtained, depends entirely on which of the two regimes is in operation, and the two regimes share almost nothing beyond the physical fact of custody.

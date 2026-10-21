@@ -9,7 +9,7 @@ excerpt: "Rent control in India explained: standard rent, eviction grounds, heri
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 89
 author: "kavita-sharma"
-last_updated: 2013-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 Rent control in India is a body of law that answers a simple question with an increasingly indefensible answer: what may a landlord charge, and on what terms may a tenant be made to leave? In the old commercial quarters of Delhi and Mumbai, the answer was settled decades ago and has barely moved since. Rents fixed by reference to the cost of constructing a building in the middle of the twentieth century, or to the rent a premises fetched in 1940, continue to govern shops and homes whose market value has multiplied many times over. The tenant in occupation cannot be removed except on grounds a statute lists and a tribunal accepts. The tenancy itself may pass to the tenant's family when the tenant dies. Around this frozen core, a modern rental market of eleven-month agreements, heavy security deposits and informal arrangements has grown up outside the statute book, because the statute book stopped describing the market it governs.

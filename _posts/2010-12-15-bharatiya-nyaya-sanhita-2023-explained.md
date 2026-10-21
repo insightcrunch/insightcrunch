@@ -9,7 +9,7 @@ excerpt: "The Bharatiya Nyaya Sanhita replaced the Indian Penal Code: what it ke
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2010-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Bharatiya Nyaya Sanhita 2023 is the statute that ended the Indian Penal Code. On 1 July 2024 the Sanhita came into force as Act 45 of 2023, and the Penal Code of 1860, which had defined the substantive criminal law of India for well over a century and a half, stood repealed. Yet a repeal of this kind is not an ending in any simple sense. The Sanhita is best understood as three distinct analytical moves performed at once: a large act of retention, in which the architecture and much of the substance of the old code were carried across under new numbers; a smaller act of deletion, in which nineteen provisions of the Penal Code were dropped, one of them against the express written advice of the parliamentary committee that examined the bill; and a set of additions, twenty new offences together with a new punishment, which changed the sentencing policy of the code even where its text remained familiar. Accounts that collapse those three moves into a single claim, whether the claim is that everything changed or that nothing did, misdescribe the statute. This article separates them.

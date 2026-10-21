@@ -9,7 +9,7 @@ excerpt: "Vishaka guidelines explained: how the Supreme Court made binding workp
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 88
 author: "kavita-sharma"
-last_updated: 2016-01-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Vishaka guidelines present a problem that no drafting technique can dissolve, because the problem is constitutional rather than textual. In August 1997 the Supreme Court of India confronted a subject on which Parliament had enacted nothing at all: there was no statute defining sexual harassment at a workplace, no statute obliging an employer to prevent it, no forum in which a working woman could complain of it as a wrong against her working conditions rather than as a crime to be reported to the police, and no machinery anywhere in Indian law through which such a complaint could be examined. The Indian Penal Code punished discrete acts, assault or criminal force to outrage a woman's modesty and words or gestures intended to insult it, but a penal code addresses an offender after an act; it does not organise a workplace, and it offered nothing to a woman whose complaint was that her place of work had become a place she could not safely attend. The question the Court had to answer was therefore not what a statute meant. It was whether the Constitution, unaided by any statute, could supply enforceable obligations of this operational kind, and if it could, how far a court may go in writing them. The answer the Court gave governed every workplace in India for sixteen years, and the argument about whether it should have been given has never closed.

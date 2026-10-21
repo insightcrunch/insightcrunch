@@ -9,7 +9,7 @@ excerpt: "Personal laws in India explained in one map: the statutes and uncodifi
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 91
 author: "deepika-joshi"
-last_updated: 2016-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 Personal laws in India govern the most intimate legal events of a person's life, and they do so by a method no other branch of Indian law uses. A contract is a contract whoever signs it, and a theft is a theft whoever commits it, because the general law of India is territorial: it applies to everyone within the territory on the same terms. Marriage, divorce, maintenance, adoption, guardianship and succession work differently. For those subjects, the first question a court asks is not what happened but who the parties are, because the applicable law is assigned by religious community. A Hindu couple divorces under one statute, a Muslim couple under a mixture of statute and uncodified religious law, a Christian couple under a statute first enacted in the nineteenth century, and a couple who marry before a marriage officer under a secular code that either of them could have chosen. The same legal system therefore contains several family laws running in parallel, and the map of which law governs whom is the subject of this guide.

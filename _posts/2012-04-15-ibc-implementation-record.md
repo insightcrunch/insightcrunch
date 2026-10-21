@@ -9,7 +9,7 @@ excerpt: "The IBC implementation record, read through the Insolvency and Bankrup
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 81
 author: "anita-das"
-last_updated: 2012-04-15
+last_updated: 2026-10-21
 lang: en
 ---
 The IBC implementation record is usually argued from a single number, and the number is almost always the haircut. A commentator takes the admitted claims of creditors in cases that produced a resolution plan, takes what the plan paid, divides the second by the first, and announces that the Insolvency and Bankruptcy Code, 2016 has returned roughly a third of what was owed and destroyed the rest. The arithmetic is not wrong. The inference is, because the admitted claim measures what a failed company's creditors were promised across years of lending against deteriorating security, while the plan's payment measures what the company's assets could fetch in a market sale conducted under time pressure after the failure had already happened. Between those two figures sits the entire history of the company's decline, almost none of which occurred inside the process being judged. An implementation record cannot be read off one ratio, and the regulator that administers the Code, the Insolvency and Bankruptcy Board of India, does not publish one ratio. It publishes several, against different denominators, and the discipline of keeping them apart is the whole of the method this article applies.

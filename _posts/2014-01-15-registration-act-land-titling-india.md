@@ -9,7 +9,7 @@ excerpt: "Registration Act explained: what registering a deed proves, why Indian
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 84
 author: "anita-das"
-last_updated: 2014-01-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every year, in thousands of Sub-Registrar offices across India, the same quiet transaction takes place under the Registration Act 1908. A seller and a buyer appear before an officer, photographs and fingerprints are taken, a fee and a stamp duty are collected, a document is copied into a register book, and the parties leave with a registered sale deed that both of them believe settles the question of ownership. It does not. The registered deed proves, with the full authority of the state behind the proof, that a particular document was executed by a particular person on a particular day. It proves nothing whatever about whether that person owned the property the document purports to sell. The officer who registered it was forbidden by the design of his own office from asking that question, because the statute that employs him treats the answer as none of his business.

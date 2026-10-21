@@ -9,7 +9,7 @@ excerpt: "Benami Transactions Act explained: why the original prohibition stood 
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 93
 author: "deepika-joshi"
-last_updated: 2012-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Benami Transactions Act rests on a simple and uncomfortable fact about Indian property holding: the name in the deed and the person who paid for the property are very often not the same person, and for most of the legal history of the subject the law had no reliable way of separating the innocent version of that arrangement from the fraudulent one. A father buys a house in his daughter's name out of taxed income and family affection. A trader buys the same house in his driver's name out of unaccounted cash so that no creditor, tax officer or estranged partner can find it. On paper the two transactions look identical, and a legal system that cannot tell them apart will either punish the father or license the trader. The statute examined here is Parliament's attempt, made twice, twenty eight years apart, to draw that line: first in 1988, when it prohibited benami transactions without building anything that could enforce the prohibition, and again in 2016, when it returned with a definition, a set of authorities, a power of attachment and confiscation, and criminal penalties of real severity.

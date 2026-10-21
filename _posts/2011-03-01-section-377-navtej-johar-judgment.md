@@ -9,7 +9,7 @@ excerpt: "The Navtej Singh Johar judgment read Section 377 down, preserving offe
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 86
 author: "william-knight"
-last_updated: 2011-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 ## The interpretive question Section 377 left to the courts

@@ -9,7 +9,7 @@ excerpt: "The APMC Act is a family of state laws, not a central statute. How the
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 94
 author: "deepika-joshi"
-last_updated: 2014-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 There is no APMC Act. Anyone searching for a single central statute that governs how Indian farmers sell their produce is looking for something that has never existed, because the APMC Act is not one law but a family of state statutes, each enacted by a state legislature, each administered by that state's market committees, and each different from its neighbours in the fees it charges, the commodities it covers and the intermediaries it licences. That single fact explains more about Indian agricultural marketing than any other, and it is the fact most often got wrong. Commentators speak of "the APMC Act" being reformed, defied or abolished as though it were a law of Parliament. What they mean is one member of a family of more than two dozen state laws, and the member they mean changes with the state they are standing in.

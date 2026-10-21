@@ -9,7 +9,7 @@ excerpt: "The Child Labour Amendment Act 2016 banned all work below fourteen yet
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 86
 author: "deepika-joshi"
-last_updated: 2016-07-01
+last_updated: 2026-10-21
 lang: en
 ---
 ## The Child Labour Amendment Act 2016 and the statute it inherited

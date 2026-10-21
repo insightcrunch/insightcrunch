@@ -9,7 +9,7 @@ excerpt: "Urban Land Ceiling Act repeal explained: why the ceiling law could be 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 82
 author: "kavita-sharma"
-last_updated: 2013-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Urban Land Ceiling Act repeal is the strangest repeal in the Indian statute book, because it is a repeal that did not finish. In 1999 Parliament passed a short Act of five sections repealing the Urban Land (Ceiling and Regulation) Act, 1976, the Emergency-era law that had capped how much vacant urban land any person could hold. An ordinary repeal ends a statute on a date. This one ended the ceiling law in two states and the Union territories on a date deemed to be 11 January 1999, and in every other state only on the day that state's own legislature chose to agree, which in one large state meant a wait of more than eight years, and in a few states has meant no agreement at all. A law repealed at the Centre went on being administered, litigated and complied with in parts of India long after Parliament had declared it gone.

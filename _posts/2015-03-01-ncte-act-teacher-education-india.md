@@ -9,7 +9,7 @@ excerpt: "The NCTE Act explained: how teacher education institutions win and los
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 89
 author: "anita-das"
-last_updated: 2015-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 Every schoolteacher in India holds a qualification whose legal worth is decided by a statute most teachers never read. The National Council for Teacher Education Act, 1993, the NCTE Act, determines which institutions may train teachers, which courses a recognised institution may run, what qualifications a person must hold to be recruited as a teacher, and what follows when any link in that chain is missing. A degree earned in good faith, after years of study and fees paid, can turn out to be legally worthless for the only purpose it was obtained, employment as a teacher, because the institution that awarded it lacked a permission the holder never knew to ask about. The Act is therefore best understood not as an education measure in the abstract but as a validity machine: it takes an enormous, decentralised training sector and sorts its output into qualifications the state will honour and qualifications it will not.

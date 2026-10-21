@@ -9,7 +9,7 @@ excerpt: "The anti-terror law enforcement record turns on four denominators: reg
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 84
 author: "benjamin-scott"
-last_updated: 2011-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 Few figures in Indian public life are quoted as confidently, and read as carelessly, as the conviction rate under the anti-terror law. A percentage circulates on social media, stripped of its period, its source and the thing it divides by, and is deployed to prove both that the Unlawful Activities (Prevention) Act is an instrument of mass wrongful detention and that the same law is working exactly as intended. The anti-terror law enforcement record is not short of data. It is short of readers who know what each figure counts. Both uses of the circulating percentage draw on the same pool of official numbers, and both are wrong in ways that a careful reader can detect without any special access, because the error is arithmetic rather than ideological.

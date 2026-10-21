@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-17T10:22:41Z",
-  "total_posts": 4450,
-  "flagged_posts": 157,
-  "clean_posts": 4293,
+  "generated": "2026-10-21T11:26:56Z",
+  "total_posts": 4679,
+  "flagged_posts": 161,
+  "clean_posts": 4518,
   "posts": [
     {
       "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
@@ -301,6 +301,30 @@
       "warning_count": 0
     },
     {
+      "filename": "2014-11-01-forest-conservation-act-1980-explained.md",
+      "slug": "forest-conservation-act-1980-explained",
+      "url": "/2014/11/01/forest-conservation-act-1980-explained/",
+      "title": "Forest (Conservation) Act 1980: Five Sections, One Gate",
+      "page_title": "Forest (Conservation) Act 1980 Explained: Section 2 Prior Approval, the Godavarman Definition of Forest, Compensatory Afforestation, Net Present Value and the Two-Stage Clearance Process",
+      "has_page_title": true,
+      "date": "2014-11-01",
+      "word_count": 21480,
+      "issues": [
+        {
+          "keyword": "gate",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"gate\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 38
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 0
+    },
+    {
       "filename": "2017-09-01-cabaret-fosse-minnelli-grey-performance.md",
       "slug": "cabaret-fosse-minnelli-grey-performance",
       "url": "/2017/09/01/cabaret-fosse-minnelli-grey-performance/",
@@ -323,6 +347,78 @@
       ],
       "critical_count": 1,
       "warning_count": 0
+    },
+    {
+      "filename": "2010-05-15-constitutional-amendments-upsc-study-map.md",
+      "slug": "constitutional-amendments-upsc-study-map",
+      "url": "/2010/05/15/constitutional-amendments-upsc-study-map/",
+      "title": "Constitutional Amendments for UPSC: A Complete Study Map",
+      "page_title": "Constitutional Amendments for UPSC: The Complete Study Map of Important Amendments, the Three Article 368 Routes, Ratification, the Basic Structure Cases and a Function Wise Revision Lattice for Prelims and Mains",
+      "has_page_title": true,
+      "date": "2010-05-15",
+      "word_count": 20094,
+      "issues": [
+        {
+          "keyword": "upsc",
+          "type": "SLUG_KEYWORD_SPARSE_IN_BODY",
+          "severity": "warning",
+          "detail": "\"upsc\" is in the URL slug but only 2x in 20094 words",
+          "in_slug": true,
+          "in_title": true,
+          "in_page_title": true,
+          "body_mentions": 2
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2010-10-15-civil-liberties-laws-exam-guide.md",
+      "slug": "civil-liberties-laws-exam-guide",
+      "url": "/2010/10/15/civil-liberties-laws-exam-guide/",
+      "title": "Civil Liberties Laws for UPSC and Judiciary: A Study Guide",
+      "page_title": "Civil Liberties Laws for UPSC and Judiciary Exams: the Article 22 clause map, the detention statute chain from the Preventive Detention Act to the National Security Act, the case propositions that carry the marks, and a revision lattice",
+      "has_page_title": true,
+      "date": "2010-10-15",
+      "word_count": 21156,
+      "issues": [
+        {
+          "keyword": "upsc",
+          "type": "TITLE_KEYWORD_SPARSE_IN_BODY",
+          "severity": "warning",
+          "detail": "\"upsc\" is in the title but only 1x in 21156 words",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": true,
+          "body_mentions": 1
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2011-08-15-internal-security-laws-upsc-mains.md",
+      "slug": "internal-security-laws-upsc-mains",
+      "url": "/2011/08/15/internal-security-laws-upsc-mains/",
+      "title": "Internal Security Laws for UPSC Mains: A Complete Guide",
+      "page_title": "Internal Security Laws for UPSC Mains: The Statutes by Name and Year, the Judgments by the Trade-Off Each Struck, the Evidence by Its Source and Period, and the Answer Scaffold for Repeal, Federalism, Safeguards and Reform Questions",
+      "has_page_title": true,
+      "date": "2011-08-15",
+      "word_count": 26754,
+      "issues": [
+        {
+          "keyword": "upsc",
+          "type": "SLUG_KEYWORD_SPARSE_IN_BODY",
+          "severity": "warning",
+          "detail": "\"upsc\" is in the URL slug but only 2x in 26754 words",
+          "in_slug": true,
+          "in_title": true,
+          "in_page_title": true,
+          "body_mentions": 2
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2022-12-12-gaokao-post-exam-score-preference.md",

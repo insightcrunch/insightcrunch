@@ -9,7 +9,7 @@ excerpt: "National Company Law Tribunal and NCLAT explained: their company and i
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 73
 author: "maria-santos"
-last_updated: 2012-05-01
+last_updated: 2026-10-21
 lang: en
 ---
 The National Company Law Tribunal is the clearest case in Indian legislation of a reform whose fate was decided entirely by the forum question. Parliament decided in 2002 that company disputes should leave the High Courts, the Company Law Board and the sickness machinery of the Board for Industrial and Financial Reconstruction, and gather in one specialist tribunal with an appellate tribunal above it. The substantive law was never the obstacle. What consumed the next fourteen years was a constitutional argument about who may staff such a body, who may choose its members, and on what tenure, and that argument had to be fought twice, through two statutes, before a single bench could sit. When the Tribunal was finally constituted on 1 June 2016, it inherited the combined dockets of the bodies it replaced, and within six months the Insolvency and Bankruptcy Code handed it a second, larger jurisdiction on top of the first. The institution that company law reform waited fourteen years for became, in the same year, the institution on which insolvency reform depends for its timelines.

@@ -9,7 +9,7 @@ excerpt: "The National Green Tribunal Act explained: the schedule that fixes its
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 72
 author: "anita-das"
-last_updated: 2014-11-15
+last_updated: 2026-10-21
 lang: en
 ---
 The National Green Tribunal is best understood by starting with what it cannot hear. A dispute about effluent discharged by a factory into a river belongs to it, decided by a bench on which a scientist sits beside a judge. A dispute about the diversion of a tiger reserve, or about felling governed by the forest law of 1927, does not belong to it at all, and must travel instead to a High Court bench with no statutory claim to environmental expertise. That inversion is not an accident of drafting discovered later. It is built into the National Green Tribunal Act, 2010 itself, in a schedule that lists seven enactments and omits two of the most consequential environmental statutes in the country. Everything else about the institution, its composition, its remedial powers, its clocks and its appeal route, follows from understanding that the tribunal's jurisdiction was defined by a list rather than by a subject.

@@ -9,7 +9,7 @@ excerpt: "Companies Act old versus new compared honestly: fewer sections but mor
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 79
 author: "christopher-wells"
-last_updated: 2012-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Companies Act 1956 vs 2013 comparison is the most repeated exercise in Indian company law, and it is usually performed badly. The standard version counts sections, announces that 658 became roughly 470, and concludes that India obtained a shorter and simpler statute. That conclusion survives only because the counting stops at the boundary of the Act itself. The reader who has to decide something real, whether the reform delivered what it promised, whether an old precedent still governs a new petition, whether a private company gained or lost room to operate, needs a different comparison: one that follows the detail into the rules, tests each subject against the benchmark the reformers set for themselves, and ends with a verdict that names its deciding factor.

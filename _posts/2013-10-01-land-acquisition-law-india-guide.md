@@ -9,7 +9,7 @@ excerpt: "Land acquisition law in India is a map of regimes, not one Act: the ge
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2013-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 Land acquisition law in India is not one law. A farmer whose field is notified for a highway, a family whose plot is taken for a metro line, a factory owner whose premises are requisitioned during an emergency and a village whose common land is absorbed into an industrial estate may all describe their experience in the same words, that the government took the land, yet each of them stands inside a different legal regime, with a different compensation formula, a different set of procedural safeguards, a different forum for complaint and, in some regimes, no right to object at all. The first and most consequential question in any Indian acquisition is therefore not how much will be paid. It is which law is doing the taking. Everything else, the consent threshold, the impact assessment, the multiplier, the solatium, the rehabilitation package, the authority that hears the dispute, follows from that routing decision, and the routing decision is made by the acquiring government when it chooses its instrument, usually before the landowner hears of the project at all.

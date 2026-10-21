@@ -9,7 +9,7 @@ excerpt: "GST legislative history explained: the Kelkar proposal, the Empowered 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2012-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 GST legislative history is usually told as a story about delay, as if a sound reform sat in a drawer for seventeen years while politicians dithered. The passage record tells a different and more precise story. A goods and services tax levied on the destination principle does not merely simplify a tax system; it moves revenue. Under the arrangements it replaced, the state where a good was produced collected tax at the point of origin through instruments such as the central sales tax, while under a destination-based tax the revenue travels to the state where the good is consumed. Producing states therefore stood to lose, in identifiable amounts, from the first day of the reform, and consuming states stood to gain. Every year of the seventeen was spent arguing about that transfer: who would bear it, who would insure against it, and what the insurance would cost.

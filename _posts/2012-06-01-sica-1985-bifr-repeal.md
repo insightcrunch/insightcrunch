@@ -9,7 +9,7 @@ excerpt: "SICA explained: how the BIFR and Section 22 sheltered sick companies, 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 84
 author: "nathan-cole"
-last_updated: 2012-06-01
+last_updated: 2026-10-21
 lang: en
 ---
 Few Indian statutes have died as strangely as SICA 1985, the Sick Industrial Companies (Special Provisions) Act. Parliament passed the Act that repealed it in 2003, and the President assented to that repealing Act on 1 January 2004. The repeal then waited. For thirteen years the supposedly repealed statute continued to run the entire law of industrial sickness in India: companies kept filing references under it, its tribunal kept hearing them, and its famous stay provision kept freezing the claims of banks, tax authorities and landlords against hundreds of failing firms. When the end finally came on 1 December 2016, the repealing Act had itself been amended, before spending a single day in force, by the Insolvency and Bankruptcy Code of 2016, the very statute whose arrival made the repeal possible. A law had been repealed, in other words, by a successor that did not exist when the repeal was enacted, and the repeal could not be switched on until the successor was ready to receive the cases the old regime would leave behind.

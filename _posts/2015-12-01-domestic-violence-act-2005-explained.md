@@ -9,7 +9,7 @@ excerpt: "The Domestic Violence Act explained: a civil statute under which a mag
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 93
 author: "christopher-wells"
-last_updated: 2015-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Domestic Violence Act, formally the Protection of Women from Domestic Violence Act, 2005, is built on a single deliberate refusal. It refuses to treat violence inside a home as a problem that punishment alone can solve. A prosecution can send a violent husband to prison and still leave his wife with no house to live in, no money for medical treatment, no order keeping him away from her workplace and no legal grip on the earnings and property she was driven from. The statute answers that gap by creating a civil proceeding in which a magistrate can order a respondent to stop, to leave, to pay and to let the applicant stay, and it does so without requiring her to prove a crime beyond reasonable doubt or to wait for a criminal trial to end.

@@ -9,7 +9,7 @@ excerpt: "National Security Act explained in full: Section 3 grounds, the detent
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 152
 author: "anita-das"
-last_updated: 2010-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 Preventive detention occupies a strange and uneasy place in Indian law because it authorises the State to take a person into custody without charge, without trial and without conviction, on the strength of what that person might do rather than on proof of what that person has done. The National Security Act 1980 is the standing central statute through which that power is exercised for reasons of national security, public order and the maintenance of essential supplies and services, and its everyday operation raises a question that is more practical than abstract. When a detention order under this Act is challenged before a court, what decides whether the order stands or falls? The answer, worked out across decades of litigation under this Act and under the detention statutes that came before it, is rarely the strength of the suspicion that prompted the order. Orders survive or collapse on matters that look, at first glance, like administration. A ground communicated late, a document relied upon but never supplied, a representation left undecided while weeks pass, an approval that arrives after its deadline, a report that reaches the government after the Board was required to send it. The machinery of dates and papers is not decoration around the real law of the Act. In practice, the machinery is the real law.

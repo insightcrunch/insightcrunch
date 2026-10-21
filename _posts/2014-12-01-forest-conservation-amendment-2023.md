@@ -9,7 +9,7 @@ excerpt: "The Forest (Conservation) Amendment Act narrowed the Act to notified a
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2014-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Forest (Conservation) Amendment Act 2023 did something no earlier amendment in this series has done. It was passed, assented to, and brought into force, and its central provision then stopped governing. Parliament rewrote the coverage clause of the forest statute so that the Act would reach only land that a legal notification or a government record identifies as forest. The Supreme Court, hearing a challenge to that rewrite, declined to stay the amendment, declined to strike any part of it down, and instead directed every state and Union territory to go on applying the older and wider judicial definition of forest until an administrative exercise in the states is complete. That exercise is not complete. The result is a statute with two operative definitions: the one Parliament enacted, which is law, and the one the Court directed everyone to use, which is practice. The amendment trail, which usually records how a text drifted across decades, here records a text that arrived and was then held in suspension by the branch of government it was designed to displace.

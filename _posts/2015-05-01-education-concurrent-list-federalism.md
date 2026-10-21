@@ -9,7 +9,7 @@ excerpt: "Education on the Concurrent List explained: how Entry 25, the Union st
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2015-05-01
+last_updated: 2026-10-21
 lang: en
 ---
 Education on the Concurrent List is the single most consequential placement in the Seventh Schedule, because it decides who may govern the institutions through which almost every Indian family passes. When a state government and the Union government disagree about a vice chancellor, an entrance test, a language formula or a textbook, the quarrel is rarely about education in the abstract. It is a quarrel about a boundary written into the constitutional text: the boundary between setting standards, which the Constitution reserves to the Union in terms, and administering institutions, which the states insist never left their hands. Every dispute in this field is, at bottom, an argument about which side of that boundary a contested decision sits on, and the argument cannot be settled by pointing to the year 1976 alone.

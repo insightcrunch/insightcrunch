@@ -9,7 +9,7 @@ excerpt: "The Surrogacy Act and the ART Act replaced an open commercial market w
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 91
 author: "patrick-dunn"
-last_updated: 2015-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 On 25 January 2022, two statutes commenced on the same morning and between them redrew the legal map of how a child may be conceived in India with medical help. The Surrogacy Act 2021, formally the Surrogacy (Regulation) Act, 2021, Act 47 of 2021, abolished the commercial surrogacy market outright and replaced it with an altruistic model hedged by certificates, age bands and criminal penalties. Its companion, the Assisted Reproductive Technology (Regulation) Act, 2021, Act 42 of 2021, subjected every fertility clinic and gamete bank in the country to registration, national oversight and a detailed code of clinical duties. Read together, the two Acts took a field that had operated for two decades under professional guidelines, with no statute at all, and converted it into one of the most restrictive assisted reproduction regimes in the world, in a single step, with almost no transitional space between the old world and the new one.

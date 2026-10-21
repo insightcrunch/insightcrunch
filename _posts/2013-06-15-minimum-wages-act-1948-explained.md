@@ -9,7 +9,7 @@ excerpt: "The Minimum Wages Act explained: why the wage floor binds only schedul
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2013-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 Ask what the Minimum Wages Act 1948 guarantees and most accounts give the same answer: a legal floor below which no employer may push a wage. That answer is half right, and the half it misses is the half that governed the working lives of most Indians for seven decades. The Act makes the obligation to pay a minimum wage unusually absolute. It overrides contracts, it disregards the employer's capacity to pay, and the Supreme Court has held that paying less than the minimum is forced labour within the meaning of the Constitution. But the obligation switches on only for work that a government has chosen to list. A worker whose occupation stands in the Schedule to the Act, or in an employment added to it by notification, holds a right that no bargain can remove. A worker in an occupation nobody has scheduled holds no statutory minimum wage at all, whatever the poverty of the wage actually paid. Coverage, not the level of the rate, was always the real question in this statute, and the whole history of the Act, from its drafting in the 1940s to its replacement by the Code on Wages in 2019, is the history of that scheduling gate and the long argument about whether to remove it.

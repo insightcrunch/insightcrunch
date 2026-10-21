@@ -9,7 +9,7 @@ excerpt: "The Reserve Bank of India Act explained: note issue, Section 7 directi
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 87
 author: "kavita-sharma"
-last_updated: 2012-12-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Reserve Bank of India Act 1934 is the statute that creates India's central bank, and everything about the institution that public argument treats as a matter of status or personality is, in the text, a matter of legal drafting. The Bank is not a constitutional body. No article of the Constitution establishes it, guarantees its tenure, or places its functions beyond the reach of an ordinary Act of Parliament. It exists because a statute of 1934 says it exists, it holds the powers that statute confers, and it operates inside boundaries that the same statute draws, including one boundary that surprises almost every reader who encounters it for the first time: a provision under which the Central Government may direct the Bank, after consulting its Governor, on anything the government considers necessary in the public interest.

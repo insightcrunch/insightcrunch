@@ -9,7 +9,7 @@ excerpt: "The RTI Amendment Act moved tenure and pay into executive rules, and a
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2011-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Right to Information Act was narrowed twice, and the two narrowings could hardly have arrived by more different roads. The first, the RTI Amendment Act 2019, was a short amending statute aimed openly at the men and women who run the Information Commissions: it took tenure and salary out of the parent Act and handed them to government rules. The second travelled in disguise. Section 44(3) of the Digital Personal Data Protection Act 2023, a sub-section inside a statute about data, substituted a single clause of the RTI Act and deleted, in one stroke, the public activity test, the privacy balancing test and the proviso that tied a citizen's access to Parliament's own. The first narrowing was debated for a week and denounced on the floor of both Houses. The second passed inside another bill, in a session consumed by a no-confidence motion, and was widely understood only after it was law. An amendment trail usually shows a statute drifting in one direction under steady pressure. This trail shows something more instructive: a statute can be narrowed from outside itself, by a provision that never has to survive the scrutiny a direct amendment attracts, and the outside route can cut deeper than the direct one.

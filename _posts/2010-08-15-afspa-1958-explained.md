@@ -9,7 +9,7 @@ excerpt: "AFSPA gives the armed forces special powers in areas declared disturbe
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 82
 author: "william-knight"
-last_updated: 2010-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 AFSPA presents a puzzle that recurs across the north-east and baffles readers who assume that a state's own government controls the law operating on its own soil. A chief minister tells a legislative assembly that his government wants the Armed Forces (Special Powers) Act, 1958 withdrawn. The assembly passes a resolution, sometimes unanimously, demanding repeal. The demand is reported, debated, and endorsed by parties that disagree about everything else. And the Act stays in force, its disturbed area notifications renewed for another six months, because the decision was never the state's to take. The statute that produces this result is short, and the argument about it is usually aimed at the wrong section. The fierce public controversy concentrates on Section 4, the provision that lets a soldier fire on a citizen. The provision that actually governs the politics, the federalism, and the grievance is Section 3, the provision that decides where Section 4 is allowed to operate at all. Until a reader understands who holds the pen that signs a disturbed area declaration, and whose consent that signature does and does not require, every other question about AFSPA, its powers, its immunity clause, its court cases, and its future, will be argued at cross purposes.

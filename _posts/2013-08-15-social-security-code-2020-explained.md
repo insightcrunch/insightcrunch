@@ -9,7 +9,7 @@ excerpt: "The Social Security Code replaced nine statutes and named gig workers 
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 83
 author: "deepika-joshi"
-last_updated: 2013-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Social Security Code 2020, enacted as Act 36 of 2020, did the largest single consolidation in Indian welfare law: it repealed nine statutes, carried provident fund, state insurance, gratuity, maternity benefit, compensation and the construction workers' cess into one text of fourteen chapters and one hundred and sixty-four sections, and then did something none of the nine had ever attempted. In its definitions it named a workforce that Indian law had previously been unable to see. A gig worker, a platform worker and an aggregator became statutory terms, and attached to those terms came a money obligation: the platforms that organise the work must pay a contribution, fixed as a percentage of turnover and capped against what they pay their workers, into a Social Security Fund from which benefits are to flow. The Code therefore holds two achievements of very different kinds. The consolidation is real and mostly mechanical, a tidying of a body of law that had grown by accretion across ninety-seven years, from the compensation statute of 1923 to the unorganised workers' statute of 2008. The recognition of platform work is real and entirely new. But the benefit that the recognised worker can actually claim is a third thing, and it is not yet either of the first two: it waits on schemes that the statute authorises but does not itself write. That gap, between recognition in the text and entitlement in the hand, is what this article examines, because it is the gap on which the Code will be judged.

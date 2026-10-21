@@ -9,7 +9,7 @@ excerpt: "CSR under Section 135 explained: the thresholds that trigger the duty,
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 81
 author: "samantha-lee"
-last_updated: 2012-03-15
+last_updated: 2026-10-21
 lang: en
 ---
 For a finance director or a company secretary, CSR under Section 135 of the Companies Act, 2013 presents itself as a deceptively simple instruction: spend two per cent of average net profits on a list of approved activities. Almost everything about that sentence is more complicated than it looks. The two per cent is computed on a profit figure that the Act defines for itself and that matches neither the tax computation nor the number at the foot of the profit and loss account. The approved activities are broad in words and narrow in exclusions. The obligation is triggered by any one of three financial tests, so a modest business with a single profitable year can be caught while a far larger business trading at a loss escapes. Above all, the consequence of failing to spend has been rewritten twice in quick succession, and a large share of the guidance in circulation still describes a legal position that either never operated or has since been replaced.

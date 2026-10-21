@@ -9,7 +9,7 @@ excerpt: "Education laws for UPSC and teaching examinations, mapped by provision
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2015-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 Education laws are tested in competitive examinations as constitutional law wearing an education vocabulary, and the candidate who prepares them as a list of schemes and announcements prepares the wrong subject. The questions that recur across the civil services papers, the state services papers and the teaching eligibility tests are built from a small and stable set of materials: a handful of constitutional provisions, seven statutes, eight judgments and one distinction, between law and policy, that separates the answers examiners reward from the answers they mark down. Almost everything else in the education pages of a newspaper is perishable. Cabinet announcements perish. Committee recommendations perish. Draft bills perish, most of them in committee. The provisions, the statutes and the judgments do not perish, because changing them requires a constitutional amendment, an Act of Parliament or a larger bench, and none of those happens quietly.

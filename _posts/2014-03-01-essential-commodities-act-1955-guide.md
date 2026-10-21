@@ -9,7 +9,7 @@ excerpt: "The Essential Commodities Act explained: how Section 3 control orders,
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2014-03-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Essential Commodities Act 1955 is the strangest statute in Indian economic law, because a person who reads it from the first section to the last learns almost nothing about what the law forbids, requires, or punishes in any actual market. The Act fixes no price, sets no stock limit, names no licence condition, and prohibits no transaction. What it does instead is confer power: a single wide power on the Central Government to make orders, and a machinery for enforcing whatever those orders say. Every operative rule that has ever governed the trade in foodgrains, sugar, edible oils, drugs, fertilisers, kerosene or jute textiles under this statute has lived not in the Act but in a control order, a licensing order, or a Gazette notification issued under it, and every such rule could be, and frequently was, rewritten overnight without Parliament being asked. That design is the whole subject of this article, because it explains both why governments of every persuasion have kept the Act for seven decades and why traders, economists and courts have argued about it for just as long.

@@ -9,7 +9,7 @@ excerpt: "The Hindu Code Bill failed as one code and passed as four statutes: th
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 80
 author: "deepika-joshi"
-last_updated: 2016-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Hindu Code Bill is the most instructive failure in Indian legislative history, because it did not fail on its merits as its opponents and supporters argued them, and it did not fail permanently. A single comprehensive code, drafted by a committee of lawyers, revised by the Law Minister of a new republic, debated intermittently for four years and supported by the Prime Minister, was abandoned in September 1951 with only a fragment of it considered. Its principal pilot resigned from the government days later. Within five years of that abandonment, substantially the same body of law stood on the statute book, enacted by the same political party in the same Parliament building, divided into four separate Acts. The content had survived the journey almost intact. The vehicle had not. Explaining that difference, between a code that could not pass and four statutes that could, is the work of this article, and it yields the single most portable lesson the Indian legislative record offers about how large reforms are actually carried: a reform presented as one instrument gives every interest it touches a single target and a single occasion for coalition, while the same reform presented in pieces forces each interest to fight on ground it may not hold.

@@ -9,7 +9,7 @@ excerpt: "The Medical Termination of Pregnancy Act explained: why it protects th
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 94
 author: "deepika-joshi"
-last_updated: 2015-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 Almost every account of abortion law in India begins with a sentence the statute does not support: that the Medical Termination of Pregnancy Act gives women a right to end a pregnancy. It does not, and the distance between that sentence and the text explains nearly everything that confuses readers, patients and practitioners about how termination of pregnancy actually works in India. Causing a miscarriage is an offence under the general criminal law of India, and it was an offence long before 1971. The 1971 statute did not repeal that offence, did not create a competing entitlement, and did not transfer any decision to the pregnant woman. What it did was narrower and, in its consequences, larger: it built a carefully fenced exception inside the offence, available to one class of person, the registered medical practitioner, who acts within defined conditions. The legal question the statute poses is therefore never whether a woman has a right. It is whether a practitioner has a defence.

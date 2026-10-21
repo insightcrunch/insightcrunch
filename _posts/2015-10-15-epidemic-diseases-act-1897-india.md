@@ -9,7 +9,7 @@ excerpt: "Four sections drafted for the Bombay plague became the spine of a pand
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 83
 author: "patrick-dunn"
-last_updated: 2015-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 In the first week of February 1897, with bubonic plague spreading through Bombay and the colonial government under pressure to show the world that Indian ports were safe for trade, the Governor General's Council passed the Epidemic Diseases Act 1897 in a matter of days. The statute it produced, Act 3 of 1897, ran to four operative sections. It defined almost nothing, created no institution, set no standard for the measures it authorised, and prescribed no limit on how long those measures could last. One hundred and twenty three years later, that same four-section statute became the legal instrument through which Indian states issued the epidemic regulations of the COVID-19 pandemic, while the national lockdown orders of March 2020 were made under a different statute altogether. The history of the Act in use is therefore a double record. It is the record of a text so open that governments of every era could pour their own emergency into it, and it is also the record of everything the text refused to supply: no criteria for action, no reasons to be recorded, no hearing, no compensation, no sunset and no review. The powers were there and the limits were not, and the pandemic years tested both halves of that sentence harder than any previous outbreak had done.

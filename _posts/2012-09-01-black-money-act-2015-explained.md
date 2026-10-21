@@ -9,7 +9,7 @@ excerpt: "The Black Money Act taxes undisclosed foreign income and assets at a f
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 93
 author: "daniel-morgan"
-last_updated: 2012-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 Most tax statutes tax a flow. A salary is taxed as it is earned, a profit as it is made, a gain as it is realised, and when the flow stops the charge stops with it. The Black Money Act 2015 broke with that design at its foundation. Enacted as the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, it charges tax not only on undisclosed foreign income but on the value of an undisclosed foreign asset itself, on the stock of wealth rather than the stream it produces, at a flat rate of thirty percent, with a penalty of three times the tax on top and imprisonment behind the penalty. A bank account opened decades before the statute existed, fed by money earned in another century of a family's history, could be charged on its computed value in the year the tax department found it. That single design choice, taxing the asset rather than the income, is what makes the Act one of the most severe fiscal statutes on the Indian book, and it is also what makes the Act reach far beyond the small class of deliberate offshore concealers it was announced against.

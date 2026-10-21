@@ -9,7 +9,7 @@ excerpt: "The Forest (Conservation) Act explained: how one prior approval rule, 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
 author: "deepika-joshi"
-last_updated: 2014-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Forest (Conservation) Act 1980 is the shortest statute in Indian environmental law and, hectare for hectare, the most consequential. As enacted it ran to five sections, of which only one does operative work, yet that single section placed a lock on every forest in the country: no state government, and no authority acting under one, may de-reserve a reserved forest, use forest land for a non-forest purpose, lease forest land outside government control, or clear naturally grown trees even for reafforestation, unless the Central Government has approved the order in advance. A mine, a dam, a highway, a transmission line, a cement plant, an iron ore beneficiation unit, a township: anything that needs forest land must pass through that gate in New Delhi, and the gate has shaped the geography of Indian development for over four decades.

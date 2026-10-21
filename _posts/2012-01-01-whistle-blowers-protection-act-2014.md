@@ -9,7 +9,7 @@ excerpt: "The Whistle Blowers Protection Act explained: its disclosure machinery
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 92
 author: "jessica-kim"
-last_updated: 2012-01-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Whistle Blowers Protection Act occupies a position no other Indian statute quite shares. It was debated and passed by both Houses of Parliament, it received the assent of the President on 9 May 2014, it was published in the Gazette of India on 12 May 2014 as Act 17 of 2014, and it has never operated for a single day. Its first section leaves its commencement to a date the Central Government may appoint by notification, and that notification has never been issued. A person searching for the law that protects someone who reports corruption by a public servant will find this Act described in textbooks, in examination guides and in government statements as though it were a working part of the legal system. It is not. It is a complete protective code, with designated authorities, an inquiry procedure, identity safeguards, anti-victimisation directions and criminal penalties, that exists entirely on paper.

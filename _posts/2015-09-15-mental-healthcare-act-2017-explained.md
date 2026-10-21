@@ -9,7 +9,7 @@ excerpt: "The Mental Healthcare Act put capacity before custody: advance directi
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 92
 author: "deepika-joshi"
-last_updated: 2015-09-15
+last_updated: 2026-10-21
 lang: en
 ---
 ## The Question the Mental Healthcare Act 2017 Answers

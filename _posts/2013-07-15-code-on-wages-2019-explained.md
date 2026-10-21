@@ -9,7 +9,7 @@ excerpt: "The Code on Wages explained: universal minimum wages, the floor wage, 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2013-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Code on Wages 2019 was sold to Parliament and to the public as a consolidation, a tidying of four ageing wage statutes into a single orderly text. Consolidation it certainly is. But a reader who stops at the tidying misses the statute. Buried in the definitions clause of the Code on Wages 2019 sit two changes that reach further than anything else in the four labour codes: a minimum wage that for the first time attaches to every employee in India rather than only to those whose work a government has listed, and a single definition of wages whose proviso quietly rewrites the arithmetic of every salary structure built on a small basic pay. The first change is the headline. The second is the reform. This article works through both, provision by provision, and tests the Code against the four statutes it repealed.

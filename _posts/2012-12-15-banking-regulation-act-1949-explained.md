@@ -9,7 +9,7 @@ excerpt: "Banking Regulation Act explained: the licence every bank needs, the Re
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 91
 author: "deepika-joshi"
-last_updated: 2012-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every argument about an Indian bank in trouble is really an argument about one statute. When depositors queue outside a branch, when a board is swept away overnight, when withdrawals are capped at a figure that will not cover a month of household expenses, the legal instrument being operated is almost never the law the public names. It is not the insolvency code, which does not touch banks. It is not company law, which governs banks only at the margins. It is the Banking Regulation Act 1949, a statute most readers meet for the first time on the worst day of their relationship with their bank, and meet in the form of a one-page notice pasted on a shuttered branch door.

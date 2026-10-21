@@ -9,7 +9,7 @@ excerpt: "ADM Jabalpur explained: the narrow question the Court answered, why fo
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 80
 author: "deepika-joshi"
-last_updated: 2010-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 ADM Jabalpur is remembered as a verdict about everything: the Emergency, the courage of one judge, the failure of four others, and the fragility of liberty under pressure. That memory is not wrong, but it is imprecise, and the imprecision matters because the case decided far less than the memory suggests and, in deciding that little, managed to do extraordinary damage. Additional District Magistrate, Jabalpur v Shivkant Shukla, decided on 28 April 1976 by a Constitution Bench of five judges of the Supreme Court of India, answered one framed question about who could approach a court, and on what grounds, while a Presidential Order suspending the enforcement of three fundamental rights remained in force. The Court was not asked whether the Emergency was justified. It was not asked whether the detentions that filled the prisons of the country were wise, or proportionate, or even honestly ordered in the individual cases that came before the High Courts. It was asked whether a person detained under the Maintenance of Internal Security Act could go to a High Court under Article 226 and say that the order against him was not an order under that Act at all, or was passed for reasons the Act did not permit, and whether the High Court could listen. Four judges said the High Court could not listen. One judge said it must. Everything else that the case has come to stand for flows from that single fork in the reasoning.

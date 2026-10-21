@@ -9,7 +9,7 @@ excerpt: "TADA Act explained: how a two-year anti-terror statute was renewed for
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 83
 author: "daniel-morgan"
-last_updated: 2011-04-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Terrorist and Disruptive Activities (Prevention) Act, the statute everyone calls TADA, was Parliament's answer to a genuine emergency, and it was written to die young. The TADA Act 1987 carried its own expiry date in its first section: two years of life, and no more. A sunset clause of that kind is a promise made in advance. It tells the citizen that extraordinary powers are being taken for a stated season, that the season will end, and that anyone who wants the powers continued must return to the legislature and argue for them in the open. TADA kept that promise in form and broke it in substance. The two-year statute was renewed in 1989, renewed again in 1991, and renewed again in 1993, so that a law sold to Parliament as a brief emergency measure governed Indian criminal justice for ten years, from 1985 to 1995, and its prosecutions ran for decades beyond its death.

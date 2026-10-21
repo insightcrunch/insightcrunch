@@ -9,7 +9,7 @@ excerpt: "The FERA to FEMA transition replaced a criminal foreign exchange law w
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 81
 author: "anita-das"
-last_updated: 2013-02-01
+last_updated: 2026-10-21
 lang: en
 ---
 The FERA to FEMA transition is usually told as a story about freedom, and it did set people free of something. In legal fact it began, on 1 June 2000, as a change of consequences: from that morning, a person who broke India's foreign exchange rules stopped being a criminal. The transaction itself did not change. Holding a bank account abroad without permission, paying a person outside India through an unauthorised channel, failing to bring export earnings home: each of these was forbidden on 31 May 2000 and remained forbidden on 1 June 2000. What changed overnight was the legal character of the act and the consequence of being caught. The day before, the act was an offence that could end in a prison term imposed by a criminal court. The day after, it was a contravention that could end in a money penalty imposed by an adjudicating officer. The FERA to FEMA transition, the replacement of the Foreign Exchange Regulation Act 1973 by the Foreign Exchange Management Act 1999, is remembered in business folklore as the moment India deregulated foreign exchange. The statute book tells a narrower and more interesting story, and this article tells it from the texts.

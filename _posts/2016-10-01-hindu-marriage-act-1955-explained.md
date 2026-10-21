@@ -9,7 +9,7 @@ excerpt: "The Hindu Marriage Act 1955 explained: the five conditions of a valid 
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2016-10-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Hindu Marriage Act 1955 did two things at once that no earlier Indian statute had attempted for the majority community of the country. It declared that a Hindu marriage is a legal status created on stated conditions, monogamous, registered in a scheme of courts and decrees, and it declared that the status could be ended. For the communities it governs, marriage had been understood across centuries of shastric law as a sacrament and an indissoluble union, a bond that death itself did not sever in the texts that orthodox opinion treated as authoritative. The Act replaced that understanding with a code: five conditions for a valid marriage, a closed list of grounds on which a court may dissolve it, a set of lesser remedies for marriages in distress, and a machinery of maintenance and custody to govern the consequences. Everything in the statute flows from the tension between those two conceptions, and the statute's largest unresolved problem flows from it too. The Act permits divorce only where one spouse can prove a listed ground, most of which require fault or a specified disability. A marriage in which neither party is at fault in any provable way, but which has ended in every sense except the legal one, has no exit in the text. That gap, between the breakdown people experience and the grounds Parliament enacted, is the subject of the longest-running unfinished argument in Indian family law, and it is where this article ends.

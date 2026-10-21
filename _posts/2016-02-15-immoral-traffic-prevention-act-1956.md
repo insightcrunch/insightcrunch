@@ -9,7 +9,7 @@ excerpt: "The Immoral Traffic (Prevention) Act never makes selling sex an offenc
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 94
 author: "anita-das"
-last_updated: 2016-02-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Immoral Traffic (Prevention) Act 1956 rests on a distinction that almost every popular account of it gets wrong, and the distinction is the whole statute. No provision of the Act makes it an offence to sell sex. A person who, being an adult, exchanges sexual services for money commits no offence under this Act by that act alone, and a reader who works through the penal sections from beginning to end will search in vain for a clause that says otherwise. What the Act criminalises is everything around the act. It punishes the keeping of the premises where the exchange happens, the letting of those premises, the living on the earnings the exchange produces, the procuring of the person who performs it, the detaining of that person, the carrying on of the trade in or near a public place, and the soliciting by which a customer is found. The centre of the activity is left untouched and its entire circumference is fenced with offences, so that a person may lawfully do the thing itself and be arrested for nearly every step that doing it requires. That is the fact the reader needs, and everything else in the statute, its police machinery, its rescue powers, its protective homes and its sixty years of litigation and failed amendment, is a working out of that single structural choice.

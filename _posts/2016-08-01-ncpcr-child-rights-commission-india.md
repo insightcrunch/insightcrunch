@@ -9,7 +9,7 @@ excerpt: "NCPCR and the child rights commissions explained: what they can compel
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 73
 author: "anita-das"
-last_updated: 2016-08-01
+last_updated: 2026-10-21
 lang: en
 ---
 The National Commission for Protection of Child Rights, known everywhere by its initials as the NCPCR, is the institution to which India directs its outrage when a child is failed by the systems built to protect that child, and it is almost invariably described in terms the statute never gave it. It is called upon to order, to direct, to punish and to rescue, as though it were a court, a police force and a ministry compressed into one body seated in Delhi. The Commissions for Protection of Child Rights Act, which created it, built something quite different: a body that can summon any witness in the country, compel the production of any document, inspect any institution in which children are lodged, and inquire into any violation of a child's rights on its own motion, and that can then do exactly three things with what it finds, every one of which stops short of command. It may recommend that a government prosecute. It may recommend that a government grant interim relief. Or it may go to a constitutional court and ask the court to issue the order it cannot issue itself. Everything else the public believes about this institution is expectation laid over a design that was never drawn to carry it.

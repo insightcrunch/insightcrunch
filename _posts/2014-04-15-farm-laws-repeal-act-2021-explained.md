@@ -9,7 +9,7 @@ excerpt: "The Farm Laws Repeal Act explained: three sections that repealed the f
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2014-04-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Farm Laws Repeal Act 2021 did something Indian legislatures almost never do: it took a flagship economic reform of a government with a comfortable majority, a reform defended in Parliament, in court and in eleven rounds of negotiation for over a year, and erased it from the statute book in a single working day. Repeals of major legislation are rare in India, and repeals extracted by street pressure are rarer still. Yet the genuinely unusual feature of this repeal is not that Parliament reversed itself. It is that Parliament reversed itself by exactly the procedure that had been the central objection to the original enactment. The three farm laws of 2020 were passed by voice vote, over a demand for a counted division, without examination by any parliamentary committee. The Act that repealed them in 2021 was passed without a word of debate, over a demand for discussion, without examination by any committee either. Both the making and the unmaking skipped the deliberative stage entirely, and understanding that symmetry is the key to understanding what the repeal did, what it did not do, and why almost nothing about the underlying dispute was settled by it.

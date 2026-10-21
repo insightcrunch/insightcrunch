@@ -9,7 +9,7 @@ excerpt: "Adoption law in India runs two systems side by side: the CARA route un
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2016-07-15
+last_updated: 2026-10-21
 lang: en
 ---
 A couple in Indore and a couple in Kochi can each decide, in the same week, to adopt a child, and discover that they are not entering the same legal process at all. Adoption law in India is not one system but two, and the door a family walks through is determined by the religion of the parents rather than by anything about the child. One door leads into a regulated public system built by the Juvenile Justice (Care and Protection of Children) Act, 2015, in which the parents register on a national portal, submit to a home study, wait in a seniority queue, accept a referred child they did not choose by name, and receive an adoption order from a District Magistrate. The other door, open only to Hindus, Buddhists, Jains and Sikhs, leads into the Hindu Adoptions and Maintenance Act, 1956, under which an adoption is completed by the physical act of giving and taking the child, with no registration, no home study, no queue and no order from any authority at all. Both doors produce a child who is, in law, the child of the adoptive parents for all purposes. Everything between the decision and that result differs.

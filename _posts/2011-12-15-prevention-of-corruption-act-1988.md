@@ -9,7 +9,7 @@ excerpt: "The Prevention of Corruption Act explained in full: the offences it cr
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 88
 author: "kavita-sharma"
-last_updated: 2011-12-15
+last_updated: 2026-10-21
 lang: en
 ---
 The Prevention of Corruption Act 1988 is the statute under which India prosecutes bribery in public office, and it contains a paradox that most summaries flatten into a single direction. In July 2018 Parliament amended the Act in ways that pulled it both ways at once. For the first time, giving a bribe became a substantive offence in its own right, carrying up to seven years of imprisonment, and companies became liable when persons associated with them bribed a public servant to win or keep business. In the same amending Act, the definition of criminal misconduct was cut down to two categories, a limb under which a public servant could be prosecuted for abusing his position to secure a benefit for another person was deleted, and a new provision, Section 17A, barred the police from even beginning an enquiry or investigation into an offence connected with an official decision until the government employing the official had given its approval. The statute after 2018 therefore reaches more people than it reached before, and is harder to set in motion against the one category of person it was written for.

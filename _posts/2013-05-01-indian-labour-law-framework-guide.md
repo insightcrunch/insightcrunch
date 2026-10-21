@@ -9,7 +9,7 @@ excerpt: "The Indian labour law framework explained: the Concurrent List basis, 
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2013-05-01
+last_updated: 2026-10-21
 lang: en
 ---
 Ask a simple question of Indian labour law, such as what an employer must do before closing a workshop with forty workers, and the answer refuses to be simple. It depends on which state the workshop stands in, on whether the workers are counted on the muster roll or engaged through a contractor, on whether the establishment crossed a headcount line last year or the year before, and on which of several dozen statutes happens to switch on at that size. The Indian labour law framework is not one law. It is an architecture, built over a century and a half out of central statutes, state statutes, state amendments to central statutes, and state rules framed under central statutes, and it cannot be understood statute by statute. It can only be understood by grasping the two structural features that produced the accumulation and that survive every reform of it: labour is a subject on which both Parliament and the state legislatures may legislate, and almost every labour statute applies only above a numerical threshold of workers. Whoever holds those two keys can read the whole body of law. Whoever lacks them will keep mistaking a pile of statutes for a system.

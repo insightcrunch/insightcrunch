@@ -9,7 +9,7 @@ excerpt: "Civil liberties laws for UPSC and judiciary exams, organised by clause
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 89
 author: "anita-das"
-last_updated: 2010-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 Examinations on this subject rarely reward the candidate who knows the most names. They reward the candidate who can place a proposition in its correct legal home before reaching for authority, and civil liberties laws are tested in precisely that discriminating way. A question may present a person taken into custody, a period of detention, a board that has or has not reported, or a representation that has or has not been considered, and the marks turn on a prior and quieter act of identification. Which clause governs this situation, which statute if any operates under that clause, and which decided case if any supports the proposition being advanced. That order is the namable claim on which sound answers in this area rest, and it deserves to be stated plainly at the outset. Clause first, statute second, case third. The candidate who reverses the order, reasoning backwards from a remembered case to a provision never properly identified, may write fluently and still answer a question that was not asked.

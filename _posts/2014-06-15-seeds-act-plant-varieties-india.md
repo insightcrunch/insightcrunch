@@ -9,7 +9,7 @@ excerpt: "The Seeds Act in India explained: how seed quality is regulated in the
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2014-06-15
+last_updated: 2026-10-21
 lang: en
 ---
 Every bag of seed sold in India raises two entirely different legal questions, and Indian law answers them in two entirely different statutes that public discussion persistently confuses. The first question, the one the Seeds Act 1966 exists to answer, is whether the seed is any good: whether it will germinate, whether it is what the label claims, whether the farmer who buys it in the planting season is being sold the variety named on the packet or a substitute that will fail in the field when it is too late to do anything about the failure. The second question is whose the variety is: whether the genetic material inside the seed belongs, in the eyes of the law, to a breeder who spent years developing it, to the farming communities that selected and conserved its ancestors over generations, or to no one at all. The Seeds Act 1966 answers the first question and only the first. The Protection of Plant Varieties and Farmers' Rights Act 2001 answers the second, and answers it in a way no other country has attempted.

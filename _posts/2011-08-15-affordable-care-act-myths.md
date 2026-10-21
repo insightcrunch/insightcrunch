@@ -9,7 +9,7 @@ excerpt: "Ten claims about the Affordable Care Act, from death panels to the man
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 84
 author: "samantha-lee"
-last_updated: "2011-08-15"
+last_updated: 2026-10-21
 lang: en
 ---
 ## The Affordable Care Act and the symmetry test

@@ -9,7 +9,7 @@ excerpt: "Limited Liability Partnership Act explained in India: how an LLP is fo
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 88
 author: "hannah-moore"
-last_updated: 2012-05-15
+last_updated: 2026-10-21
 lang: en
 ---
 Two founders sit with an adviser and ask which form their new venture should take, and the adviser opens a feature list. The list compares incorporation cost, annual filings, audit thresholds and a dozen other items, and it is nearly useless, because both forms on the table give the founders the one thing they think they are choosing between. A limited liability partnership and a private limited company both shield the personal assets of the people behind them. The Limited Liability Partnership Act 2008 was not enacted to sell that shield a second time. It was enacted because a large class of Indian businesses, professional firms above all, needed the shield without the machinery that company law bolts onto it, and because the ordinary partnership firm, the only alternative, exposed every partner to unlimited personal liability for the defaults of the others.

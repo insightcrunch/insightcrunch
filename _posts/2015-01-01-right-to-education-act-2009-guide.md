@@ -9,7 +9,7 @@ excerpt: "The Right to Education Act explained in full: what it entitles every c
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 92
 author: "deepika-joshi"
-last_updated: 2015-01-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Right to Education Act, formally the Right of Children to Free and Compulsory Education Act, 2009, is the statute that converted a constitutional promise into an enforceable claim a parent can make at the gate of a school. It is also a statute with unusually precise edges. Inside those edges it is generous and detailed: it fixes the size of a class, the hours of a school year, the qualifications of a teacher and the acts a school is forbidden to perform. Outside those edges it is silent, and the silence is deliberate. A child of five has no claim under it. A child of fifteen has no claim under it. A child studying in a minority institution has, by judicial construction, no claim under it at all. The claim this article defends throughout is the one the text supports: this is a right with two open ends and one large exemption, a guarantee of eight years of schooling for children between six and fourteen in a defined subset of the schools of the country.

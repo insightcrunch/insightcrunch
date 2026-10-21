@@ -9,7 +9,7 @@ excerpt: "The Indian Penal Code explained as a designed system: Macaulay's archi
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 108
 author: "thomas-reid"
-last_updated: 2010-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 ## Why British India needed one penal code

@@ -9,7 +9,7 @@ excerpt: "The Air Act explained: how consent, control areas and emission standar
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
 author: "kavita-sharma"
-last_updated: 2014-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Air Act 1981 carries the most misleading short title in Indian environmental law. A reader who opens it expecting a statute about the air will find instead a statute about industrial plants: about the chimney, the duct and the flue, about consent obtained before a plant is established in a declared area, and about standards measured at the point where smoke leaves a factory outlet. Almost everything else that determines what an Indian city breathes, the exhaust of its vehicles, the dust of its construction sites and roads, the smoke of its burning waste and of the crop residue fired in the fields beyond its edge, is governed somewhere else: under motor vehicle law, under rules made beneath an umbrella statute passed five years later, under municipal bye-laws, or under orders of courts that grew tired of waiting for the machinery of 1981 to reach sources it was never drafted to touch.

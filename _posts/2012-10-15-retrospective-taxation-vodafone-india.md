@@ -9,7 +9,7 @@ excerpt: "Retrospective taxation explained through the Vodafone dispute: the Sup
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 87
 author: "simon-hartley"
-last_updated: 2012-10-15
+last_updated: 2026-10-21
 lang: en
 ---
 In February 2007, two companies incorporated outside India agreed the sale of a single share in a third company incorporated in the Cayman Islands, and on the face of the documents no asset located in India changed hands at all. Whether the Income-tax Act, 1961 could nevertheless reach the gain on that offshore exchange is the interpretive question from which the Indian law of retrospective taxation, in the form that made it internationally notorious, descends. The Supreme Court answered it one way in January 2012. Parliament answered it the other way within months, writing its answer back to the first day of April 1962, the day the Act itself had commenced half a century earlier. Two international tribunals then held that the second answer breached treaties India had signed, and in 2021 Parliament withdrew the demand it had so carefully constructed, on conditions, without conceding that the construction had been unlawful.

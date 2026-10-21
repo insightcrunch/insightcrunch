@@ -9,7 +9,7 @@ excerpt: "The Protection of Human Rights Act gives a complainant a full route ma
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 96
 author: "deepika-joshi"
-last_updated: 2010-09-01
+last_updated: 2026-10-21
 lang: en
 ---
 A family reaches a police station to collect a relative taken in for questioning the night before, and is told that the relative has died, or has been beaten so badly that hospital admission must come first, and in that moment the question is not abstract, because the family must decide where a complaint can go, who will hear it, and whether any institution exists whose only job is to look at what the state has done to a person in its custody, and the Protection of Human Rights Act 1993 is the statute built to answer exactly that question.

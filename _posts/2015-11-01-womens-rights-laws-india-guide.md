@@ -9,7 +9,7 @@ excerpt: "Women's rights laws in India explained through the four routes a probl
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 92
 author: "anita-das"
-last_updated: 2015-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 Ask a room of lawyers to name the law that protects women in India and the answers will arrive as a list of statutes, offered as though the list itself were the answer. It is not. Women's rights laws in India are not one body of law but four, and they operate on different logics that produce different proceedings, different standards of proof, different forums and different kinds of relief. One family of statutes works by criminal prohibition: it defines conduct as an offence and sets the machinery of police, prosecution and punishment in motion. A second family works by civil remedy: it lets the person harmed apply to a court for orders that protect her, house her, maintain her and compensate her, without sending anyone to prison. A third family works by workplace obligation: it places duties on employers and institutions and enforces them through committees, inspectors and claims authorities rather than through the criminal courts. A fourth family works by welfare entitlement: it promises money, food and support as a matter of entitlement, delivered through schemes and anganwadis rather than through litigation at all.

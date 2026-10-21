@@ -9,7 +9,7 @@ excerpt: "The LARR Act explained in full: who must consent before land is acquir
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2013-11-01
+last_updated: 2026-10-21
 lang: en
 ---
 The most repeated sentence about the LARR Act 2013 is wrong. It says that land in India cannot be acquired without the consent of seventy or eighty per cent of the people losing it. That is true only when the government acquires land for somebody else. When the government acquires land for its own use, hold and control, the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 requires no consent from anyone, and the family facing displacement has exactly the same experience of loss in both cases. Everything else in this statute, the Social Impact Assessment, the multiplied compensation, the rehabilitation owed to people who own nothing at all, has to be read through that first design choice, because the applicability provision decides how much of the Act a given project ever meets.

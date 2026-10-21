@@ -9,7 +9,7 @@ excerpt: "IPC vs BNS compared head to head: a full translation table, the senten
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 94
 author: "robert-quinn"
-last_updated: "2011-02-01"
+last_updated: 2026-10-21
 lang: en
 ---
 ## The Question Every Court and Classroom Is Arguing About

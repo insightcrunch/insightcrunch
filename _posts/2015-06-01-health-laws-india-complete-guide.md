@@ -9,7 +9,7 @@ excerpt: "Health laws in India have no framework statute. This guide maps every 
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2015-06-01
+last_updated: 2026-10-21
 lang: en
 ---
 Health laws in India do not begin with a health Act, because at the level of the Union there is none. No statute of Parliament states what the state owes a person who falls ill, creates a general duty to provide care, or organises the health system as a whole. What exists instead is a field of narrow, subject-specific statutes written decades apart, each answering a particular scandal, technology or administrative problem: a statute for drugs, a statute for doctors, a statute for medical colleges, a statute for the hospitals that some states have agreed to register, statutes for transplants, terminations, mental illness and surrogacy, and a four-section statute from 1897 that still carries the law of epidemics. A reader who understands that single fact, that the field has no framework and was never designed as a system, understands the shape of Indian health law better than a reader who has memorised the titles of thirty Acts.

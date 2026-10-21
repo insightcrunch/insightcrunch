@@ -9,7 +9,7 @@ excerpt: "The two Juvenile Justice Acts compared on ten dimensions: the age line
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 75
 author: "deepika-joshi"
-last_updated: 2016-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 ## Juvenile Justice Act 2000 vs 2015: the decision this comparison has to make

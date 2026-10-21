@@ -9,7 +9,7 @@ excerpt: "Companies Act explained as a governance statute: independent directors
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 88
 author: "anita-das"
-last_updated: 2012-02-01
+last_updated: 2026-10-21
 lang: en
 ---
 The Companies Act 2013 is easiest to misunderstand as a bigger rulebook for registering and running companies. It does contain that rulebook, and company secretaries earn their living from it, but the statute Parliament enacted in 2013 was designed around a different diagnosis. Its premise is that Indian corporate failure is a governance failure before it is a disclosure failure: companies did not collapse because too little paper was filed with the Registrar, but because boards did not challenge promoters, auditors did not challenge boards, and shareholders who saw the damage coming had no remedy proportionate to the harm. A law written on that premise does not merely ask companies to report more. It reaches into the composition of the boardroom, fixes who may audit and for how long, gives classes of shareholders a collective remedy, builds regulators that did not exist, and attaches its most feared criminal provision to a definition of fraud wide enough to cover much of the conduct the earlier regime had treated as irregularity.

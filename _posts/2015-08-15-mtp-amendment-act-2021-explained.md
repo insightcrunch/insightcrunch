@@ -9,7 +9,7 @@ excerpt: "The MTP Amendment Act explained: the raised gestational limits, the ca
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2015-08-15
+last_updated: 2026-10-21
 lang: en
 ---
 For fifty years the Medical Termination of Pregnancy Act, 1971 was amended once, in a modest housekeeping exercise, and otherwise left to be stretched by courts deciding one desperate petition at a time. The MTP Amendment Act 2021 is the amendment that ended that arrangement. It moved the outer gestational limit from twenty weeks to twenty four for a prescribed list of women, created a Medical Board in every State and Union territory to decide cases of substantial foetal abnormality beyond any limit, rewrote the confidentiality position with a criminal penalty, and replaced the words "married woman" and "her husband" with "any woman" and "her partner" in the ground that has carried the largest share of lawful terminations. It did all of this while deliberately refusing the simpler course of raising the limit for everyone, and that refusal is the fact about the amendment from which most of its later history, including a major Supreme Court judgment and an unusual recall proceeding, has flowed.
