@@ -6,15 +6,15 @@ date: 2026-10-21
 categories: ["Technology"]
 tags: ["digital-cinema", "digital-cinema-package", "key-delivery-message", "film-distribution", "encryption", "cinema-projection"]
 excerpt: "A digital cinema package carries a film as encrypted picture and sound that only one authorized server can open, for a set window, under a key called a KDM."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-10-21
+lang: en
 ---
-
 ## A Film That Arrives Locked
 
-![Digital cinema server rack and projector in a projection booth preparing an encrypted feature package - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Digital cinema server rack and projector in a projection booth preparing an encrypted feature package - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 A cinema receives a Digital Cinema Package as an encrypted set of files and receives a Key Delivery Message as a separate and much smaller file, and neither has any use without the other. The package holds picture, sound and subtitles in locked form. The key carries both permission and the protected means to unlock that material for one identified playback device during one defined window of time. A digital cinema package therefore turns a film from an object a cinema owns into a permission a cinema rents, because the file is deliberately incomplete without a key bound to one device and one window.
 
