@@ -474,3 +474,27 @@ archaeology-formation-maritime-site | how-archaeologists-date-ancient-shipwrecks
 dat-pottery-thermoluminescence-work | how-archaeologists-date-ancient-shipwrecks | How does thermoluminescence dating work on pottery?
 about-convention-old-say-shipwreck-unesco | how-archaeologists-date-ancient-shipwrecks | What does the UNESCO convention say about old shipwrecks?
 announcement-judge-new-oldest-reader-shipwreck-should | how-archaeologists-date-ancient-shipwrecks | How should a reader judge a new oldest shipwreck announcement?
+
+## technology-digital-cinema
+
+### how-digital-cinema-packages-work
+cinema-digital-package-simple-term | how-digital-cinema-packages-work | What is a digital cinema package in simple terms?
+it-kdm-stand | how-digital-cinema-packages-work | What does KDM stand for and what does it do?
+already-cinema-file-film-has-it-not-play | how-digital-cinema-packages-work | Why can a cinema not play a film file it already has?
+kdm-long-remain-usually-valid | how-digital-cinema-packages-work | How long does a KDM usually remain valid?
+different-film-kdm-one-open-screen-two | how-digital-cinema-packages-work | Can one KDM open a film on two different screens?
+between-dcp-difference-kdm | how-digital-cinema-packages-work | What is the difference between a DCP and a KDM?
+expir-happen-if-kdm-middle-run | how-digital-cinema-packages-work | What happens if a KDM expires in the middle of a run?
+cinema-driv-film-hard-receive | how-digital-cinema-packages-work | Why do cinemas receive films on hard drives?
+cinema-digital-management-system-theatre | how-digital-cinema-packages-work | What is a theatre management system in digital cinema?
+cinema-different-digital-file-package-stream | how-digital-cinema-packages-work | How is a digital cinema package different from a streaming file?
+2000-cinema-compression-digital-instead-jpeg-ordinary-use-video | how-digital-cinema-packages-work | Why does digital cinema use JPEG 2000 instead of ordinary video compression?
+be-cinema-computer-digital-home-package-play | how-digital-cinema-packages-work | Can a digital cinema package be played on a home computer?
+cinema-forensic-watermark | how-digital-cinema-packages-work | What is forensic watermarking in a cinema?
+accept-cinema-convert-cost-digital-projection | how-digital-cinema-packages-work | Why did cinemas accept the cost of converting to digital projection?
+fee-print-virtual | how-digital-cinema-packages-work | What was a virtual print fee?
+archiv-be-dcp-encrypt-preservation | how-digital-cinema-packages-work | Can an encrypted DCP be archived for preservation?
+between-difference-file-original-package-version-version | how-digital-cinema-packages-work | What is the difference between an original version and a version file package?
+ask-extra-festival-film-key-packag-unencrypt | how-digital-cinema-packages-work | Why do film festivals ask for unencrypted packages or extra keys?
+film-issu-kdm | how-digital-cinema-packages-work | Who issues KDMs for a film?
+booth-digital-projectionist-replac | how-digital-cinema-packages-work | What replaced the projectionist in a digital booth?

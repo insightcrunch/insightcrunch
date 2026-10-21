@@ -77,3 +77,7 @@
 ## how-archaeologists-date-ancient-shipwrecks
 - _posts/2015-08-23-spanish-armada-1588-explained.md — could carry: "The wrecks of that fleet off Ireland became excavation sites in their own right; how archaeologists date ancient shipwrecks explains the plotting, sampling and cross checked clocks that turn such a loss into a dated site."
 - _posts/2026-10-12-when-animals-first-evolved.md — could carry: "Dating an origin from sparse traces is also the problem on the seabed, where how archaeologists date ancient shipwrecks shows floors, ranges and association arguments doing the same work in a different element."
+
+## how-digital-cinema-packages-work
+- _posts/2026-10-14-how-film-restoration-works.md — could carry: "A restored feature reaches its audience as a locked package, and how digital cinema packages work explains the keys, certificates and windows that decide whether that audience ever sees it."
+- _posts/2026-10-04-how-contactless-payments-work.md — could carry: "Certificate trust also decides whether a cinema screen may open a film, a mechanism traced in how digital cinema packages work."
