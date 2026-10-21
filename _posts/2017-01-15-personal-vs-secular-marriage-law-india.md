@@ -6,15 +6,15 @@ date: 2017-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Special Marriage Act", "Hindu Marriage Act", "Personal Law", "Family Law", "Social Justice", "UPSC"]
 excerpt: "Personal vs secular marriage law in India compared across ten dimensions, from public notice and privacy to divorce, succession and joint family rights."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-01-15
+lang: en
 ---
-
 A couple in India who have decided to marry each other have not finished deciding. Indian law offers two different legal machines for becoming married, and the comparison of personal vs secular marriage law in India determines far more than the style of the ceremony. One machine is the personal law of the couple's community, which marries them through a religious or customary rite and then governs the marriage, its dissolution and much of the property that surrounds it. The other is a single secular statute that marries any two adults before a state officer, asks nothing about their religion, and in exchange for that indifference attaches consequences to the form of the wedding that reach into the couple's privacy, their membership of a joint family and the law that will distribute their estates when they die. Most couples choose between these machines by instinct, by family expectation or by necessity, without ever seeing the two side by side. This article puts them side by side.
 
-![Personal vs secular marriage law in India compared, showing a civil ceremony before a Marriage Officer weighed against a traditional wedding rite - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Personal vs secular marriage law in India compared, showing a civil ceremony before a Marriage Officer weighed against a traditional wedding rite - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The verdict this comparison reaches can be stated at the outset, because a decision article owes its reader the answer before the working. Neither route is uniformly better, and the popular framing in which the secular route is the progressive choice and the personal law route the traditional one misdescribes both. The secular statute is the only door open to every couple, and it is also the only door that requires thirty days of public notice before a couple may pass through it, the only one that severs a member of a Hindu, Buddhist, Sikh or Jain undivided family from that family when the marriage crosses outside those faiths, and the only one that moves the couple's succession out of their personal law into the Indian Succession Act, 1925. The route that asks nothing about religion charges the most for it. Whether the charge is worth paying depends on which of three costs the couple can least afford to bear: a month of publicity, a defined share carved out of joint family property, or a different law of inheritance for themselves and their children. That is the deciding factor, and every dimension examined below feeds into it.
 

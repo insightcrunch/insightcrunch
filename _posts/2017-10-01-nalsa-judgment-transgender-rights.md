@@ -6,15 +6,15 @@ date: 2017-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Transgender Rights", "Constitutional Law", "Judiciary", "Social Justice", "Civil Liberties"]
 excerpt: "The NALSA judgment recognised a third gender, upheld self-identified gender and directed reservation; its holdings and nine directions are explained here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2017-10-01
+lang: en
 ---
-
 The NALSA judgment, delivered by the Supreme Court of India on 15 April 2014, answered a question that no Indian statute had ever squarely faced: what is a person's gender in law when the gender they know themselves to be is not the sex recorded against them at birth? The question sounds simple, and for most legal purposes the legal system had never needed to ask it, because the system was built on an assumption it treated as a fact of nature, that every person is either male or female and that the record made at birth settles the matter for life. The petitioners before the Court, the National Legal Services Authority and, alongside it, a petition filed on behalf of members of the community itself, said the assumption was the injury. A person whose documents contradict their identity is not merely embarrassed by the mismatch. Every form that offers two boxes and no third, every recruitment notice that calls only for men and women, every hospital ward organised on the binary, converts the mismatch into exclusion from education, employment, health care and public space. The legal question was therefore never really whether gender identity exists. It was whether the Constitution permits the state to refuse to see it.
 
-![The NALSA judgment on transgender rights, showing the recognition of a third gender and the right to self-identified gender - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The NALSA judgment on transgender rights, showing the recognition of a third gender and the right to self-identified gender - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The Court, a bench of two judges, K. S. Radhakrishnan and A. K. Sikri, held that it does not. Justice Radhakrishnan wrote the leading opinion and Justice Sikri a separate concurring opinion, and between them the judgment did four things that this article separates carefully, because public summary habitually runs them together. It declared that hijras and eunuchs, apart from the binary gender, are to be treated as a third gender for the purpose of safeguarding their rights under the Constitution. It upheld every transgender person's right to decide their self-identified gender, as male, as female or as third gender, and held that any insistence on sex reassignment surgery as a condition of that recognition is immoral and illegal. It read the word sex in the constitutional provisions on discrimination and public employment as including gender identity, so that discrimination on that ground is discrimination the Constitution forbids. And it issued a set of directions, nine in number, telling the Centre and the State Governments what to do, among them a direction to treat transgender persons as socially and educationally backward classes and to extend all kinds of reservation in admission to educational institutions and for public appointments. The case is reported as National Legal Services Authority v Union of India, (2014) 5 SCC 438, and also at AIR 2014 SC 1863.
 

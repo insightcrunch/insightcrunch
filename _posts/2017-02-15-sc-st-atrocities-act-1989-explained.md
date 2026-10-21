@@ -6,15 +6,15 @@ date: 2017-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "SC ST Atrocities Act", "Social Justice", "Criminal Law", "Judiciary", "UPSC"]
 excerpt: "The Atrocities Act 1989 explained: its Section 3 offences, exclusive special courts, the bar on anticipatory bail, presumptions and the relief scheme."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-02-15
+lang: en
 ---
-
 The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 is usually debated as if it were one law doing one thing, and that single habit explains most of the confusion around it. It is two statutes wearing one short title. The first creates a set of offences that exist nowhere else in Indian criminal law, wrongs defined by what they do to the dignity, land, labour and civic standing of a member of a Scheduled Caste or a Scheduled Tribe: conduct such as garlanding a person with footwear, tonsuring a head by force, dedicating a woman to a temple against her will, or imposing a social and economic boycott on a family. The second statute does something conceptually different. It takes offences that the general penal code already punishes, murder, rape, arson, hurt, kidnapping, and raises their consequences when the victim belongs to a listed community and the offender does not. A question about defining new wrongs and a question about sentencing familiar wrongs differently attract different arguments, different evidence and different objections, and an assessment of this Act that does not separate them will misjudge both.
 
-![The SC and ST Atrocities Act 1989, showing its two limbs of new offences and enhanced punishments and the special court machinery that tries them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The SC and ST Atrocities Act 1989, showing its two limbs of new offences and enhanced punishments and the special court machinery that tries them - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 Around those two limbs Parliament built a procedural machine that departs from ordinary criminal process at almost every point. Trials sit in Special Courts and, after the amendment of 2015, in Exclusive Special Courts that hear nothing else. Investigation is reserved to officers of a stated rank and is time bound. The ordinary route to anticipatory bail is closed by the statute itself. Victims and witnesses hold a chapter of rights of their own, inserted in 2015, which includes being heard at the bail stage, protection from intimidation, and payment of travelling and maintenance expenses. Monetary relief is payable to victims under a schedule in the rules, in stages as the case moves, and it does not wait for a conviction. A public servant who wilfully neglects the duties the Act assigns commits an offence by that neglect alone. None of these features is a detail. Together they are the statute's theory of why ordinary criminal law failed the people it protects: cases were not registered, investigations were casual, trials drifted, witnesses were exposed, and the complainant bore costs the state should have carried. The Act answers each failure with a mechanism, and judging the Act means judging whether each mechanism answers the failure it was aimed at.
 

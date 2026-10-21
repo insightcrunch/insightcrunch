@@ -6,15 +6,15 @@ date: 2016-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "POCSO Act", "Criminal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The POCSO Amendment Act 2019 explained: the higher minimum sentences, the new death penalty, the graded storage offences and what the amendment left untouched."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-05-01
+lang: en
 ---
-
 The POCSO Amendment Act 2019 is a study in how far a statute can travel in a single direction. The Protection of Children from Sexual Offences Act, 2012 had been in force for less than seven years when Parliament returned to it, and the returning legislature changed almost nothing about how offences are defined, reported, investigated or tried. What it changed, with near completeness, was the price attached to conviction. Minimum sentences rose at every point the amendment touched. A new and higher minimum was built for the youngest victims. The gravest offence in the statute acquired the death penalty. A provision on stored material that had punished one commercial act was rebuilt as a ladder of graded offences reaching down to a failure to delete a file. Anyone who wants to understand the amendment has to hold two thoughts together: that its textual work is precise, extensive and in places genuinely clarifying, and that the question it declined to engage is the question the evidence keeps asking, which is whether offences committed overwhelmingly by persons known to the child are reduced by raising the sentence that follows the small minority of cases that end in conviction.
 
-![The POCSO Amendment Act 2019, its enhanced punishments, graded storage offences and the sentencing debate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The POCSO Amendment Act 2019, its enhanced punishments, graded storage offences and the sentencing debate - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 This article follows the amendment as a trail. It states the position the 2012 Act had reached before the amendment, change by change, and then the position the amendment substituted, because an amendment trail is only intelligible as a series of before and after positions and most published summaries fail exactly there, reporting the death penalty in the headline and omitting the restructuring of the storage offences that affects a far larger number of prosecutions. It then takes up the evidence question directly, states the case for enhancement and the case against it at full strength in the voices of those who have actually made them, and closes with a verdict that separates what the amendment demonstrably did from what it was never designed to do.
 

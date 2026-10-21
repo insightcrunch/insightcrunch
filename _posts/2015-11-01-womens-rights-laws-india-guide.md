@@ -6,15 +6,15 @@ date: 2015-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Women's Rights", "Social Justice", "Constitutional Law", "Criminal Law", "Labour Law", "UPSC"]
 excerpt: "Women's rights laws in India explained through the four routes a problem can take: criminal prohibition, civil remedy, workplace duty and welfare support."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-11-01
+lang: en
 ---
-
 Ask a room of lawyers to name the law that protects women in India and the answers will arrive as a list of statutes, offered as though the list itself were the answer. It is not. Women's rights laws in India are not one body of law but four, and they operate on different logics that produce different proceedings, different standards of proof, different forums and different kinds of relief. One family of statutes works by criminal prohibition: it defines conduct as an offence and sets the machinery of police, prosecution and punishment in motion. A second family works by civil remedy: it lets the person harmed apply to a court for orders that protect her, house her, maintain her and compensate her, without sending anyone to prison. A third family works by workplace obligation: it places duties on employers and institutions and enforces them through committees, inspectors and claims authorities rather than through the criminal courts. A fourth family works by welfare entitlement: it promises money, food and support as a matter of entitlement, delivered through schemes and anganwadis rather than through litigation at all.
 
-![Women's rights laws in India mapped across the four routes of criminal prohibition, civil remedy, workplace obligation and welfare entitlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Women's rights laws in India mapped across the four routes of criminal prohibition, civil remedy, workplace obligation and welfare entitlement - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The practical consequence of this architecture is that the first question in any real situation is never which statute is strongest. The first question is which logic governs the problem in front of the person asking, because the choice of route determines almost everything that follows: who must prove what, to what standard, before which forum, within what time, and what the forum can actually order at the end. A woman subjected to violence in her home may have three routes open at once, under three different statutes, each with a different object. The criminal route seeks the punishment of the person who harmed her. The civil route seeks her safety, her residence and her maintenance. The two are constantly confused with each other, in conversation and sometimes in print, and the confusion costs people the relief they were entitled to pursue. This article maps the whole field at the level of its structure: the constitutional provisions that make protective legislation possible, the four families of statute in the order in which Parliament built them, the institutions that stand behind them, the pattern of the case law that has shaped them, and the honest account of where the field fails the people it was written for.
 

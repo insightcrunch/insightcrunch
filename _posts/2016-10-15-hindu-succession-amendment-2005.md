@@ -6,15 +6,15 @@ date: 2016-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Hindu Succession Act", "Social Justice", "Judiciary", "Family Law", "UPSC"]
 excerpt: "The Hindu Succession (Amendment) Act 2005 made daughters coparceners by birth in the joint family estate. This is the full amendment trail and its limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-10-15
+lang: en
 ---
-
 An amendment trail is a record of distance travelled, and few Indian statutes have travelled further from their enacted text than the Hindu Succession Act, 1956 travelled on a single day in September 2005, when the Hindu Succession (Amendment) Act 2005 substituted its central provision. As enacted, the Act performed a deliberate split. It gave Hindu women full ownership of whatever property they held, converting the limited estate of classical law into absolute ownership, and it placed daughters among the first class of heirs to a father's separate property. Yet it preserved, untouched, the institution through which the largest pool of family wealth in much of India was actually held: the Mitakshara coparcenary, a body of male descendants holding ancestral property by birth, into which no daughter was born. That amending Act, Act 39 of 2005, closed that split in the coparcenary itself. It substituted Section 6 of the principal Act, made the daughter of a coparcener a coparcener by birth in her own right in the same manner as a son, deleted the two provisions that had singled out women for disability, and removed the clause that had kept agricultural tenancies outside the Act. What it did not do was finish the argument. Fifteen years of litigation followed over a question the substituted text appeared to answer on its face: whether a daughter whose father had died before the amendment commenced could claim the status the amendment conferred by birth. Two benches of the Supreme Court answered that question in opposite ways, and a third was required to settle it. The trail therefore runs in three stages: a compromise enacted in 1956, a correction enacted in 2005, and a meaning settled only in 2020.
 
-![The Hindu Succession (Amendment) Act 2005 and how it made daughters coparceners by birth in the Mitakshara joint family - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Hindu Succession (Amendment) Act 2005 and how it made daughters coparceners by birth in the Mitakshara joint family - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 ## The Hindu Succession (Amendment) Act 2005 and the Settlement It Disturbed
 

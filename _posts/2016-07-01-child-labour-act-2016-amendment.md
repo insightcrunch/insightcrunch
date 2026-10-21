@@ -6,17 +6,17 @@ date: 2016-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Child Labour Act", "Labour Law", "Social Justice", "Parliament", "UPSC"]
 excerpt: "The Child Labour Amendment Act 2016 banned all work below fourteen yet spared help in a family enterprise. Every change it made, and the debate it left open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-07-01
+lang: en
 ---
-
 ## The Child Labour Amendment Act 2016 and the statute it inherited
 
 An amendment trail is read by measuring distance: how far the finished text stands from the text it replaced, and in which direction the movement ran. The Child Labour Amendment Act 2016 moved the law of child work in India in two directions at once, and any honest account of it has to hold both movements in view at the same time. In one direction, the amendment produced the widest prohibition India has ever enacted on the work of young children. A statute that for thirty years had forbidden the employment of a child only in occupations and processes named on a list came to forbid the employment of a child in any occupation or process whatsoever, so that the question in a prosecution is no longer whether the work appears on a schedule but whether an exception covers it. In the other direction, the same amending Act wrote into the general prohibition an exception for a child who helps the family or a family enterprise after school hours or during vacations, and it reduced the schedule of hazardous work, which had grown over three decades to eighty-three entries, to three. The first movement tightened the law beyond anything its critics had demanded in form. The second movement loosened it at the point where, on the evidence of where Indian children actually work, the pressure is greatest.
 
-![The Child Labour Amendment Act 2016 and the family enterprise exception at the centre of its ban on work below fourteen - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Child Labour Amendment Act 2016 and the family enterprise exception at the centre of its ban on work below fourteen - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The scale of the underlying problem is best stated with the caution the subject deserves. The Census of 2011 counted about 10.1 million children between the ages of five and fourteen as workers, main and marginal workers combined, out of a child population of about 259.6 million in that age band, and the Census of 2001 had counted about 12.6 million. Those figures are products of census definitions, which count work in the census's own categories and do not map neatly onto the categories of the labour statute, so they measure the terrain rather than the offence. What they establish beyond argument is the direction and the order of magnitude: the number fell across the decade, and it remained in the tens of millions. They also establish the distribution that drives this article's argument. Census and survey accounts of working children place the large majority of them in agriculture, in household industry and in family-mediated production of other kinds, rolling beedis, weaving carpets, making glass bangles, finishing garments, picking and sorting produce, working at home or on the family plot under arrangements in which no stranger employs them in any recognisable sense. The visible child worker, the boy in the roadside eatery or the girl carrying loads at a construction site, is the smaller and more reachable part of the phenomenon. The statute the amendment rewrote was designed around the visible part, because a list of named occupations and processes is a list of workplaces an inspector can enter.
 

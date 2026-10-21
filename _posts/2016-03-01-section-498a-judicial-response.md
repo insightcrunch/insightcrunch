@@ -6,15 +6,15 @@ date: 2016-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Section 498A", "Criminal Law", "Judiciary", "Social Justice", "UPSC"]
 excerpt: "Section 498A explained: what the cruelty offence covers, how arrest safeguards and Family Welfare Committees work, and what the conviction figures show."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2016-03-01
+lang: en
 ---
-
 Section 498A of the Indian Penal Code is the most argued-about provision in Indian criminal law, and the argument is conducted with two statistics that flatly contradict each other. One side says the conviction rate under the section is so low that most complaints must be false. The other side says the conviction rate is unremarkable for an offence committed inside a household and that the complaints are real. Both sides quote the National Crime Records Bureau. Both quotations are arithmetically correct, because the two percentages are computed on different denominators, and almost nobody who quotes either of them says which denominator it is. That single omission has sustained a public controversy for three decades, produced an extraordinary sequence of Supreme Court interventions in which the same court built a screening mechanism, demolished it as beyond its own function, and then reinstated it, and left the provision's working almost untouched by Parliament throughout.
 
-![Section 498A of the Indian Penal Code, the cruelty offence, the arrest safeguards and the judicial sequence from Arnesh Kumar to Shivangi Bansal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 498A of the Indian Penal Code, the cruelty offence, the arrest safeguards and the judicial sequence from Arnesh Kumar to Shivangi Bansal - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This article is the implementation and impact account of that provision. It states what the offence actually covers, reconstructs the record the enforcement system has produced, sets the two conviction figures side by side on their own denominators so that the reader can see what each one measures and what it cannot measure, narrates the judicial sequence with the precision it demands, states the misuse debate at full strength in the terms of the people who hold each side of it, and separates out the institutional question about the courts' power to build screening machinery, which is a question about the separation of powers and deserves to be answered on its own terms rather than as a proxy in the argument about misuse. The article's discipline throughout is the denominator discipline this series has applied to the enforcement records of the anti-terror statutes, the insolvency code and the money laundering statute: a percentage is an answer only when its base is named.
 

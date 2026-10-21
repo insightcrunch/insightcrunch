@@ -6,15 +6,15 @@ date: 2017-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Social Justice", "Reservation", "Scheduled Castes", "Scheduled Tribes", "Constitutional Commissions", "Equality"]
 excerpt: "Social justice laws in India operate on three layers: constitutional guarantee, criminal prohibition and affirmative provision. This guide maps each layer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2017-02-01
+lang: en
 ---
-
 A shopkeeper refuses to serve a customer because of the customer's caste. A landowner's men beat a labourer who asked for the statutory wage. A candidate who stood first in her reserved category is denied a post because the vacancy was treated as unreserved. Public discussion files all three events under one heading, caste discrimination, and reaches for one body of law to answer them. That instinct is the single largest source of error in this field, because the social justice laws of India are not one body of law. They are three distinct legal layers that happen to share a subject: a layer of constitutional guarantee, which declares rights and empowers the State to act; a layer of criminal prohibition, which makes specified conduct an offence and sends the complainant to the police and the criminal courts; and a layer of affirmative provision, which distributes seats, posts and benefits through administrative machinery governed by service law and admission law. Each layer has its own texts, its own authorities, its own forum and its own remedy, and a claim framed in the wrong layer fails for reasons that have nothing to do with its merits.
 
-![Social justice laws in India mapped across their constitutional, criminal and affirmative layers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Social justice laws in India mapped across their constitutional, criminal and affirmative layers - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The refusal of service belongs to the criminal layer, and within it to the Protection of Civil Rights Act, 1955. The beating belongs to the criminal layer as well, but to a different statute, the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, with its own list of offences, its own special courts and its own relief machinery. The denied post belongs to neither: it is a question of affirmative provision, answered by Articles 15 and 16 of the Constitution, by the reservation orders made under them, and by the courts that hear service and admission disputes. A reader who can sort a fact situation into its layer holds the key to the whole field, because almost every dispute in this area turns on which layer is engaged, and the arguments, the evidence and the authorities that matter differ completely from layer to layer. This guide maps the three layers in turn, then maps the machinery that connects them: the lists that decide who belongs to a protected class, the commissions that watch over the safeguards, the special governance arrangements for tribal areas, and the wider perimeter of protective statutes for groups the Constitution treats under other heads.
 

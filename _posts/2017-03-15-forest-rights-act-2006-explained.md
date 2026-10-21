@@ -6,15 +6,15 @@ date: 2017-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Forest Rights Act", "Tribal Rights", "Environment Law", "Social Justice", "UPSC"]
 excerpt: "The Forest Rights Act explained: a statute that recognises rights already held rather than granting new ones, and the village process that records them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-03-15
+lang: en
 ---
-
 The Forest Rights Act is the most persistently misdescribed statute in Indian environmental law, and the misdescription is in the verb. Commentary says the Act grants land to forest dwellers, gives forests to villages, or distributes pattas as a welfare measure. The Act does none of those things, and its own long title says so: it is an Act to recognise and vest rights that forest dwelling communities held for generations but that were never recorded when the forests around them were consolidated into state forests. Everything distinctive about the statute follows from that single design choice. A government that confers a benefit may attach conditions, set quotas, and withdraw the benefit when policy changes. A government that recognises a pre-existing right is doing something closer to correcting a land record: the enquiry is not whether the claimant deserves the right but whether the right exists. That is why rejection under this Act is not a refusal, why the procedure by which rejections are made carries more legal weight than it would in a benefit scheme, and why the Supreme Court's intervention of February 2019 turned entirely on whether reasons had been recorded and appeals heard, and not at all on whether the claimants were sympathetic.
 
-![The Forest Rights Act 2006 explained, showing how a Gram Sabha records pre-existing rights over forest land - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Forest Rights Act 2006 explained, showing how a Gram Sabha records pre-existing rights over forest land - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The statute's formal identity carries a trap of the same kind that runs through this family of legislation, and it is worth clearing at the start. The short title is the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, yet the Act is Act 2 of 2007. Both halves are correct. Parliament passed the Bill in December 2006 and the President assented to it on 29 December 2006, but the Act was published in the Gazette of India on 2 January 2007, and the annual numbering of Acts follows the year of publication, so a statute named for 2006 sits in the statute book as the second Act of 2007. The Act then waited almost a full year for commencement: it was brought into force on 31 December 2007, and the Rules that operate it, the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Rules, were notified on 1 January 2008 and substantially amended by the Amendment Rules of 2012, notified on 6 September 2012. A reader who treats the 2006 in the title as the year the machinery started will misdate every claim decided in the first years of the Act's life.
 

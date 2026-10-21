@@ -6,15 +6,15 @@ date: 2017-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "PESA Act", "Panchayati Raj", "Tribal Rights", "Constitutional Law", "Social Justice", "UPSC"]
 excerpt: "The PESA Act gives the Gram Sabha in a Scheduled Area powers over land, minerals, markets and village institutions that no other local body in India holds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-04-01
+lang: en
 ---
-
 The PESA Act 1996 is five sections long, and only one of them does any real work. Yet that one section quietly relocates the seat of government for a large part of rural India. In the Scheduled Areas to which the Act applies, the law does not merely permit the village assembly to meet and discuss. It makes the Gram Sabha the body that approves development plans before they are implemented, the body that selects the beneficiaries of welfare programmes, the body that must be consulted before land is taken, and the body whose recommendation must be obtained before a minor mineral concession is granted. No other local institution in the country holds a comparable bundle of authority, and the bundle was created not by a constitutional amendment but by an ordinary statute passed under a power the Constitution had left dormant.
 
-![The PESA Act 1996 and Gram Sabha powers in Scheduled Areas, showing how Section 4 distributes authority over land, minerals and village institutions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The PESA Act 1996 and Gram Sabha powers in Scheduled Areas, showing how Section 4 distributes authority over land, minerals and village institutions - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The puzzle the Act sets every reader is why a statute this short and this strong has had so uneven a life. The answer is written into the statute itself, in two places. The first is its verbs. Parliament did not use one word for the Gram Sabha's role across all subjects. For development plans it chose approval, for minor minerals it chose a mandatory recommendation, and for land acquisition, the most consequential subject of all, it chose consultation, the weakest of the three. The second place is the machinery. PESA is a central Act that operates by commanding state legislatures what their panchayat laws must contain, and then leaves those legislatures, and the state rule books beneath them, to do the rest. Most states complied on paper within the period the Act allowed and then took decades to frame the rules that would let a Gram Sabha exercise the powers in practice. A reader who holds those two facts, the graded verbs and the missing rules, holds the whole architecture of the Act. This article works through both, clause by clause, and then through the record of what states, courts and the two neighbouring statutes, the Forest Rights Act and the land acquisition Act of 2013, have done with them.
 

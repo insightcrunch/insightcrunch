@@ -6,15 +6,15 @@ date: 2016-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Shah Bano Case", "Muslim Personal Law", "Judiciary", "Constitutional Law", "Social Justice", "UPSC"]
 excerpt: "The Shah Bano judgment held that a divorced woman could claim maintenance under the procedure code; Parliament legislated, and the courts read the statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-12-01
+lang: en
 ---
-
 The question at the centre of the Shah Bano case was short enough to state in one sentence, and the text of the statute did not answer it. A divorced woman who could not maintain herself applied for a monthly allowance under the general maintenance provision of the Code of Criminal Procedure, 1973. Her former husband answered that his obligation was governed by his personal law, that under that law it ended with the period of iddat that follows a divorce, and that he had paid the dower, called mahr, which the marriage contract had fixed. The provision she invoked said nothing about religion. The provision he relied on was not in the Code at all. Which of the two governed was a question of construction, and it took a Constitution Bench of the Supreme Court, a statute enacted by Parliament to displace the answer the Court gave, a second Constitution Bench to construe that statute, and a final decision four decades after the first to settle what the law had been at each step along the way.
 
-![The Shah Bano case and the legislative response, tracing the judgment, the 1986 statute and the constructions that followed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Shah Bano case and the legislative response, tracing the judgment, the 1986 statute and the constructions that followed - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 This article narrates that sequence and reports the positions taken at each step by their content. It takes no position on what the law ought to be. What it offers is the record stated precisely: what the 1985 judgment held and what it merely observed, what the 1986 statute changed and what it left standing, how the 2001 construction worked as a matter of language, what the decisions of the intervening years added, and what the Supreme Court confirmed in 2024 about the relationship between the two remedies. The episode is invoked constantly in political argument, usually in a form the legal record does not support, by speakers on every side of it. The record is more interesting than the invocation.
 

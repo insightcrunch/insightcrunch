@@ -6,15 +6,15 @@ date: 2016-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Juvenile Justice Act", "Child Rights", "Child Protection", "Criminal Law", "Social Justice", "UPSC"]
 excerpt: "The Juvenile Justice Act 2015 runs two systems side by side: Boards, Committees, the preliminary assessment, the care track and the registration duty explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2016-05-15
+lang: en
 ---
-
 The Juvenile Justice Act 2015 asks one statute to do two jobs that share almost nothing. For a child who has been abandoned, trafficked, beaten, put to work or left without anyone to feed her, the Act is a welfare code: it builds committees, homes, foster care, sponsorship and adoption, and its whole object is to get the child safe and then get her back to a family. For a child accused of theft, assault or murder, the same Act is a criminal procedure code: it builds boards, inquiries, bail rules, an offence classification and a mechanism by which a sixteen-year-old accused of a grave offence can be moved out of the juvenile system and tried as an adult. The two systems run through the same district, use some of the same buildings and staff, and are governed by one set of principles, yet they answer different questions, apply different tests and end in different kinds of order. Nearly every confusion about this statute, in public argument and in practice, begins with treating it as one system rather than two.
 
-![The Juvenile Justice Act 2015 and its two tracks of care and offence proceedings before Boards and Committees - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Juvenile Justice Act 2015 and its two tracks of care and offence proceedings before Boards and Committees - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 One further peculiarity has to be stated at the outset, because it is the kind of trap this series exists to mark. The statute is called the Juvenile Justice (Care and Protection of Children) Act, 2015, and 2015 is the year in its short title, the year of its passage and the year searchers use. Its Act number, however, is Act 2 of 2016. The Bill cleared the Rajya Sabha on 22 December 2015, received the assent of the President on 31 December 2015, and was published as the second Act of the following year; it was brought into force on 15 January 2016 by notification. Anyone citing the statute as Act 43 of 2015, or hunting for it in the 2015 volume of the Gazette, is looking in the wrong year. The Act of 2015 is, in the official numbering of Indian legislation, an Act of 2016, and every citation in this article follows the official number.
 

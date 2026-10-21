@@ -6,15 +6,15 @@ date: 2016-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Hindu Code Bill", "Personal Law", "Social Justice", "Parliament", "UPSC"]
 excerpt: "The Hindu Code Bill failed as one code and passed as four statutes: the committee draft, the resignation it forced, and the unbundling strategy that carried it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-09-15
+lang: en
 ---
-
 The Hindu Code Bill is the most instructive failure in Indian legislative history, because it did not fail on its merits as its opponents and supporters argued them, and it did not fail permanently. A single comprehensive code, drafted by a committee of lawyers, revised by the Law Minister of a new republic, debated intermittently for four years and supported by the Prime Minister, was abandoned in September 1951 with only a fragment of it considered. Its principal pilot resigned from the government days later. Within five years of that abandonment, substantially the same body of law stood on the statute book, enacted by the same political party in the same Parliament building, divided into four separate Acts. The content had survived the journey almost intact. The vehicle had not. Explaining that difference, between a code that could not pass and four statutes that could, is the work of this article, and it yields the single most portable lesson the Indian legislative record offers about how large reforms are actually carried: a reform presented as one instrument gives every interest it touches a single target and a single occasion for coalition, while the same reform presented in pieces forces each interest to fight on ground it may not hold.
 
-![The Hindu Code Bill and its passage from a single draft code to the four Hindu code Acts of 1955 and 1956 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Hindu Code Bill and its passage from a single draft code to the four Hindu code Acts of 1955 and 1956 - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The stakes were not technical. Hindu personal law governed the marriage, divorce, adoption, guardianship, maintenance and inheritance of the largest community in the country, and it governed them unequally by sex and by caste in ways that the Constitution, adopted while the bill was pending, appeared to repudiate in its equality clauses. The code proposed to make monogamy compulsory, to give a wife a judicial route out of a marriage for the first time in the law applicable to most Hindus, to place a daughter beside a son in the line of inheritance, to convert the limited estate of a widow into property she owned outright, and to let a woman adopt a child in her own right. Every one of those propositions had an organised constituency for it and an organised constituency against it, and several had both inside the governing party. The passage history is therefore a record of two contests running at once: a contest over the content of family law, and a contest over who was entitled to decide that content, an unelected provisional legislature, a President who doubted his own obligation to assent, or the electorate that had not yet voted in a general election. The second contest decided the timing of the first.
 

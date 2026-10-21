@@ -6,15 +6,15 @@ date: 2016-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Vishaka Guidelines", "POSH Act", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "Vishaka guidelines explained: how the Supreme Court made binding workplace harassment law without a statute, and how the guidelines map onto the POSH Act."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-01-01
+lang: en
 ---
-
 The Vishaka guidelines present a problem that no drafting technique can dissolve, because the problem is constitutional rather than textual. In August 1997 the Supreme Court of India confronted a subject on which Parliament had enacted nothing at all: there was no statute defining sexual harassment at a workplace, no statute obliging an employer to prevent it, no forum in which a working woman could complain of it as a wrong against her working conditions rather than as a crime to be reported to the police, and no machinery anywhere in Indian law through which such a complaint could be examined. The Indian Penal Code punished discrete acts, assault or criminal force to outrage a woman's modesty and words or gestures intended to insult it, but a penal code addresses an offender after an act; it does not organise a workplace, and it offered nothing to a woman whose complaint was that her place of work had become a place she could not safely attend. The question the Court had to answer was therefore not what a statute meant. It was whether the Constitution, unaided by any statute, could supply enforceable obligations of this operational kind, and if it could, how far a court may go in writing them. The answer the Court gave governed every workplace in India for sixteen years, and the argument about whether it should have been given has never closed.
 
-![The Vishaka guidelines and the road from a Supreme Court judgment to the POSH Act workplace harassment law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Vishaka guidelines and the road from a Supreme Court judgment to the POSH Act workplace harassment law - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 This article owns that judicial history. The statute that eventually occupied the field, the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, is analysed provision by provision in the pillar article on the Act, and this article does not re-derive its machinery. What belongs here is everything that happened before the statute and explains it: the petition and the constitutional reasoning, the precise source of the Court's authority to declare its guidelines to be law, the international convention the Court read into the fundamental rights, the content of the guidelines themselves, the two later decisions that tested and then audited them, the sixteen years in which an interim judicial regime was the only regime there was, and the standing objection that a court which writes committee compositions and reporting duties has ceased to interpret law and begun to legislate. A reader who finishes should be able to state, without hesitation, what the Vishaka bench held, on what provisions it rested the holding, what each guideline required, what the 2013 Act kept and what it discarded, and where the legitimate criticism of the whole enterprise lies.
 

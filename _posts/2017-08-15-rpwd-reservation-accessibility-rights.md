@@ -6,15 +6,15 @@ date: 2017-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "RPwD Act", "Disability Rights", "Social Justice", "Accessibility", "Reservation", "UPSC"]
 excerpt: "RPwD reservation and accessibility rights in practice: the four per cent quota, horizontal reservation, promotion and the enforceable building standards."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-08-15
+lang: en
 ---
-
 A candidate with a disability certificate clears a competitive examination, finds her name missing from the list of those appointed against the reserved quota, and discovers that the recruiting body counted her against the general seats while leaving the reserved seat unfilled. An employee of twenty years develops a degenerative condition and is handed a notice retiring him on medical grounds, as if the statute had never spoken. A college building sanctioned and completed years after the accessibility rules were notified has no ramp, no accessible toilet and no tactile path, and the completion certificate was issued anyway. RPwD reservation and accessibility rights exist to govern exactly these three encounters, and each of them is lost or won on a technical point that the Rights of Persons with Disabilities Act, 2016 answers in terms most summaries flatten: how the four per cent quota is divided and counted, what horizontal reservation does to a merit list, what protection an employee carries into service, and which instrument makes a building standard binding rather than advisory.
 
-![Reservation and accessibility rights under the RPwD Act 2016, covering the four per cent quota, horizontal reservation and the accessibility standards position - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reservation and accessibility rights under the RPwD Act 2016, covering the four per cent quota, horizontal reservation and the accessibility standards position - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 This article is written for the person holding the entitlement and for the institution carrying the duty. It states the reservation in government employment and higher education as the Act enacts it, works through the horizontal principle that decides real selection disputes, follows the grievance route from the establishment's own officer to the Commissioners and the Special Court, and then gives the accessibility litigation its full length, because the centre of gravity of this field moved in November 2024. On that date the Supreme Court held in Rajive Raturi v Union of India that the rule prescribing accessibility standards under the Act was itself unlawful, being written in the language of recommendation where the Act had commanded. The statute made accessibility mandatory, time-bound and backed by a penalty; the rule made under it converted that command into guidance; and for seven years the weaker instrument was the one that duty-holders actually read. That inversion, the rule undoing the Act, is the thread that runs through everything below.
 

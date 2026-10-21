@@ -6,15 +6,15 @@ date: 2017-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "MGNREGA", "Labour Law", "Social Justice", "Rural Development", "UPSC"]
 excerpt: "MGNREGA explained: how the hundred day employment guarantee works, the fifteen day duty to provide work, the unemployment allowance and the wage rules."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-10-15
+lang: en
 ---
-
 The Mahatma Gandhi National Rural Employment Guarantee Act 2005, known everywhere as MGNREGA, rests on a reversal so simple that its consequences are still not fully absorbed by the administrative system built to serve it. Every public works programme before it began with an allocation: a sum of money was sanctioned, a set of works was approved, and employment existed for as long as the sanction and the works lasted. A worker in such a programme holds nothing. The worker waits to be selected, and a season in which no work is opened in the village is a season in which the programme has not failed anyone in particular, because it promised work to no one in particular. The employment guarantee statute begins at the opposite end. It begins with a household that asks. The asking triggers a duty, the duty carries a deadline, and the deadline carries a price for missing it, payable to the very household that was kept waiting. The volume of employment under the Act is therefore meant to be a function of registered demand rather than of budgetary allocation, and that single design choice explains the statute's strength, its administrative difficulty, and the precise point at which it can be defeated without any official ever recording a refusal.
 
-![MGNREGA and the statutory right to work, showing the demand driven employment guarantee, the job card and the four statutory clocks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MGNREGA and the statutory right to work, showing the demand driven employment guarantee, the job card and the four statutory clocks - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 A reader who understands that reversal understands the Act. The hundred days figure, which dominates public discussion, is in truth the least distinctive part of the design, because employment programmes had announced day counts for decades. What no earlier national programme had done was to make the day count an entitlement of a named household, enforceable through a sequence of dated acts: registration, the issue of a job card, a written application, a dated receipt, an obligation to provide work within fifteen days, an unemployment allowance where the obligation is missed, wages payable within a fixed period after the work is done, and compensation where the wage itself is late. Each step leaves a document, and each document converts an administrative intention into a fact that can be proved. The statute is best read as a machine for producing such facts, because a guarantee that generates no evidence of its own breach is a guarantee that cannot be enforced by the person holding it.
 

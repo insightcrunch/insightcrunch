@@ -6,15 +6,15 @@ date: 2017-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Welfare Laws", "Social Justice", "Constitutional Law", "MGNREGA", "UPSC"]
 excerpt: "Rights-based welfare and scheme-based welfare compared on eight dimensions, from legal source to withdrawal: the verdict the delivery record supports."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-11-15
+lang: en
 ---
-
 Every few years the same legislative argument returns to Indian public life in a new costume. A benefit that a government distributes by executive decision, a health cover, a pension, an income support payment, an urban jobs programme, is said to be too important to rest on a guideline, and the demand is made that Parliament enact it. The opposing answer is equally familiar: a statute would freeze what ought to stay flexible, convert a budgetary choice into a legal compulsion, and enrich litigants rather than beneficiaries. Both sides argue about rights-based welfare as though the question were one of principle. It is not. India has run both models at national scale for long enough that the question is empirical: what has statutory backing actually done for the programmes that received it, dimension by dimension, and what has the scheme form actually done for the programmes that stayed inside it? Rights-based welfare is the subject of this article because the comparison, conducted on the record rather than on the theory, produces a verdict narrower and more useful than either advocacy offers.
 
-![Rights-based welfare compared with scheme-based welfare across eight dimensions of legal design and delivery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rights-based welfare compared with scheme-based welfare across eight dimensions of legal design and delivery - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The comparison that follows is built on the field as the series has mapped it. The complete map of India's welfare instruments, the constitutional layer, the judicial bridge, the insurance and family-duty models, the rights turn and the scheme layer, belongs to [the complete guide to welfare laws in India](/2017/07/01/welfare-laws-india-complete-guide/), which owns the source distinction and the classification of individual programmes; this article takes that classification as given and asks the question the guide routed here, whether the statutory side of the line outperforms the executive side, and on what. The statutory instances examined are the employment guarantee, the food security statute, the education statute, the disability statute and the forest rights statute. The scheme instances are the principal programmes in housing, health cover, income support, nutrition and pensions. The method is the one the brief for any honest comparison imposes: eight dimensions, a verdict recorded for each on the evidence, and the general verdict counted out of the column rather than asserted over it. The claim the counting supports can be stated in advance so the reader can test every section against it. Statutory form buys continuity, not adequacy: on the evidence, giving a welfare programme statutory backing has reliably protected it from withdrawal and has reliably created an enforceable route to a remedy, and has not reliably produced better funding, faster payment or wider coverage, so the case for legislating a programme rests on permanence and on the availability of a remedy rather than on any expectation that the money will follow.
 

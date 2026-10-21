@@ -6,15 +6,15 @@ date: 2016-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "POCSO Act", "Child Protection", "Criminal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The POCSO Act 2012 made each adult in India a mandatory reporter of child sexual abuse and rebuilt the criminal trial around the child witness, not the offence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-04-15
+lang: en
 ---
-
 The Protection of Children from Sexual Offences Act, 2012, known everywhere by its acronym as the POCSO Act, is the statute India built when it accepted that the general criminal law had failed children. Its long title states the design in one line: an Act to protect children from offences of sexual assault, sexual harassment and pornography, and to provide for the establishment of Special Courts for the trial of such offences. Yet the long title understates what Parliament actually did in 2012. The Act did not merely add new offences to the statute book. It imposed a duty to report on every person in the country, it created a class of courts whose procedure is organised around a single witness, and it reversed the ordinary burden of proof for its principal offences. A reader who understands only the offence definitions understands the least distinctive part of the statute.
 
-![The Protection of Children from Sexual Offences Act 2012 and its child-centred offences, reporting duty and Special Court procedure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Protection of Children from Sexual Offences Act 2012 and its child-centred offences, reporting duty and Special Court procedure - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The tension inside the Act is visible from its first operative choices. It defines a child as any person below the age of eighteen years, and it then makes consent legally irrelevant across that entire span, so that the same provision that protects a six year old from a predator also governs two seventeen year olds in a relationship neither family approves of. It reverses the burden of proof in the name of convictions that the ordinary law had failed to deliver, and in doing so it departs from the presumption of innocence that the rest of the criminal law treats as foundational. It demands that doctors, teachers and counsellors report what they learn, and in doing so it places the professional duty of confidence in direct conflict with the statutory duty to inform the police. Every one of these choices was deliberate, and each one has generated the argument that has followed the Act since its commencement. This article states the Act as enacted in 2012: the offences and their original punishments, the reporting duty, the child-centred procedure, the presumptions, and the two judgments that settled the meaning of its most disputed phrases. The substantial amendment of 2019, which raised punishments and restructured the offences involving material depicting children, is flagged where it changed the original position and is analysed in its own article.
 

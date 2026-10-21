@@ -6,15 +6,15 @@ date: 2016-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Special Marriage Act", "Social Justice", "Judiciary", "Civil Liberties", "UPSC"]
 excerpt: "The Special Marriage Act lets any two Indians marry through a civil ceremony, but its thirty day public notice and its objection window carry a hidden price."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-11-01
+lang: en
 ---
-
 The Special Marriage Act, 1954 is the one door in Indian family law that opens without a priest, a rite, or a shared religion. Any two persons who meet its conditions may walk into the office of a Marriage Officer, give notice, wait out a statutory month, speak a single sentence of consent before three witnesses, and leave with a certificate that is conclusive evidence of a valid marriage. No personal law offers that simplicity, and no personal law demands what this statute demands in exchange. For the Act exacts a price that its users rarely anticipate when they choose it: thirty days of public notice, published in the office and open to objection by any person at all, and, for a member of a Hindu undivided family who marries someone outside the four faiths the statute names, an automatic severance from that family and a change of the very law that will govern succession to their property. The statute built for couples whose marriages are most likely to attract opposition is the only route that announces those marriages in advance. That inversion, a safeguard that operates as an exposure, is the central fact about this Act, and everything in its design, its history, and its litigation follows from it.
 
-![The Special Marriage Act 1954 and the thirty day public notice a civil marriage requires - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Special Marriage Act 1954 and the thirty day public notice a civil marriage requires - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 A couple deciding between a religious ceremony and the civil route usually compares the visible things: the cost of a function, the documents each route asks for, the time each takes. The comparison that matters is different. A religious marriage in India is, in the eyes of the state, largely a private event that the law later recognises and, in some states, registers after the fact. A marriage under this Act is a public administrative event from the first day. The couple's names, occupations, addresses, and marital condition are entered in a book that any person may inspect without paying a fee. Their intention is affixed to a notice board. If one of them is permanently resident in another district, a copy travels there and is affixed again. Anyone who believes the union would break one of the statutory conditions may object, and the objection must be inquired into before the ceremony can proceed. Only after that gauntlet does the statute give the couple the thing they came for, and when it does, it quietly rewrites two further legal relationships they may never have thought about: their membership of a joint family and the succession law that will distribute their property when they die.
 

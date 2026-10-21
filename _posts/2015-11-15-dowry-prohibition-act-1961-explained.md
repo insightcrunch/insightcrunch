@@ -6,15 +6,15 @@ date: 2015-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Dowry Prohibition Act", "Criminal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The Dowry Prohibition Act explained: why giving dowry is punished like taking it, what counts as dowry, and why the cruelty provision does the enforcing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2015-11-15
+lang: en
 ---
-
 The Dowry Prohibition Act, 1961 is the statute that was supposed to end dowry, and its central feature explains why it did not. The Act does not merely punish the family that takes dowry. It punishes the family that gives it, with the same minimum sentence, in the same section, in the same words. A bride's parents who pay under pressure and then complain under this statute begin their complaint by describing their own offence, punishable with at least five years of imprisonment. Everything else about the statute, its careful definition, its officers, its lists of wedding presents, its reversed burden of proof, operates in the shadow of that single drafting decision. Enforcement of the law against dowry in India runs overwhelmingly through other provisions, above all the cruelty offence in the criminal code, and this Act survives in practice largely as the place where the word dowry is defined for the benefit of those other laws. That is the finding this article establishes, section by section, and it is a finding about design rather than about effort or intention.
 
-![The Dowry Prohibition Act 1961 and the symmetry between giving and taking dowry - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Dowry Prohibition Act 1961 and the symmetry between giving and taking dowry - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The puzzle is worth stating plainly because so much writing on the subject avoids it. Dowry has been a criminal offence in India since 1961. The punishments have been raised twice, the definition has been widened twice, a reverse burden of proof has been added, a class of officers has been created to prevent the practice, and the surrounding criminal law has been rebuilt with offences for cruelty and for dowry death. Across the same decades the practice has persisted in every region and, by most accounts, has spread into communities and income groups where it was once weak. A statute can fail for many reasons: weak penalties, hostile police, slow courts, social approval of the conduct it bans. Each of those explanations is available here and each contains some truth. But the Dowry Prohibition Act has a further defect that none of the enforcement explanations reach. Its natural complainant is its co-accused. The bride's family is the actor best placed to report a dowry transaction, and the statute makes that family criminally liable for the very transaction it would report. Section 7(3), inserted in 1986, softens the point in one narrow way: a statement made by the person aggrieved does not itself subject that person to prosecution under the Act. The protection covers the statement, not the payment. The payment remains an offence, and everyone in the system, complainant, police officer and magistrate alike, understands that it does.
 

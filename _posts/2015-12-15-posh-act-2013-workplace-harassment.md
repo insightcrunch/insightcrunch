@@ -6,15 +6,15 @@ date: 2015-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "POSH Act", "Labour Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "POSH Act explained: Internal Committee duties, the three-month complaint deadline, inquiry timelines, employer obligations and the penalties for default."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2015-12-15
+lang: en
 ---
-
 The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, universally shortened to the POSH Act, rests on a single institutional bet. Parliament decided that the first forum for a complaint of workplace sexual harassment should not be a court, a police station or a government inspectorate, but a small committee inside or near the workplace itself, staffed substantially by the employer's own people, bound by statutory time limits and armed with the powers of a civil court for the purposes of its inquiry. Everything in the statute flows from that bet: the definitions that decide who may complain and where, the composition rules that try to make an internal body trustworthy, the clock that runs from complaint to report to action, the duties laid on employers, and the penalty that waits for an employer who never constitutes the committee at all. A reader who finishes this article should be able to state, without hesitation, exactly what the Act requires, who sits on each committee, what each time limit is, and what the employer must do at each stage.
 
-![The POSH Act 2013 and its Internal Committee machinery, complaint timelines and employer duties under India's workplace harassment law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The POSH Act 2013 and its Internal Committee machinery, complaint timelines and employer duties under India's workplace harassment law - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The defining fact about the statute, however, is not in its text. It is in its record. A decade after the Act came into force, the Supreme Court of India was still issuing directions whose entire content was that the committees the Act requires should be constituted, that district officers should be appointed, that local committees should exist, and that governments should survey their own districts to find out whether any of this had happened. In May 2023, deciding an appeal about the fairness of one such committee's inquiry, the Court described the enforcement of the Act as a sorry state of affairs. It then kept the matter alive, and through orders in 2024 and 2025 it pressed states to appoint district officers, constitute local committees, survey public and private establishments and upload committee details to a government portal. This article is therefore two things at once: a statute pillar that states the law of the POSH Act completely and precisely, and an implementation account of the distance between the law Parliament wrote and the machinery that was actually built. It sits within a wider field of protective legislation whose map is drawn in [the guide to women's rights legislation in India](/2015/11/01/womens-rights-laws-india-guide/), and it deliberately leaves the judicial history before 2013 to the article that owns it, taking from that history only the headline record this statute cannot be understood without.
 

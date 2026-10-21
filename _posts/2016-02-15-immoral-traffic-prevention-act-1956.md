@@ -6,15 +6,15 @@ date: 2016-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Immoral Traffic Prevention Act", "Criminal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The Immoral Traffic (Prevention) Act never makes selling sex an offence, yet punishes the brothel, the earnings, the procuring and the soliciting around it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2016-02-15
+lang: en
 ---
-
 The Immoral Traffic (Prevention) Act 1956 rests on a distinction that almost every popular account of it gets wrong, and the distinction is the whole statute. No provision of the Act makes it an offence to sell sex. A person who, being an adult, exchanges sexual services for money commits no offence under this Act by that act alone, and a reader who works through the penal sections from beginning to end will search in vain for a clause that says otherwise. What the Act criminalises is everything around the act. It punishes the keeping of the premises where the exchange happens, the letting of those premises, the living on the earnings the exchange produces, the procuring of the person who performs it, the detaining of that person, the carrying on of the trade in or near a public place, and the soliciting by which a customer is found. The centre of the activity is left untouched and its entire circumference is fenced with offences, so that a person may lawfully do the thing itself and be arrested for nearly every step that doing it requires. That is the fact the reader needs, and everything else in the statute, its police machinery, its rescue powers, its protective homes and its sixty years of litigation and failed amendment, is a working out of that single structural choice.
 
-![The Immoral Traffic (Prevention) Act 1956 and the offence map that surrounds the act of selling sex without criminalising it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Immoral Traffic (Prevention) Act 1956 and the offence map that surrounds the act of selling sex without criminalising it - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The statute also has to be read for what it calls itself, because its two names record two different theories of the problem. It began life as the Suppression of Immoral Traffic in Women and Girls Act, 1956, a title that identified the traffic as something done to women and girls and promised its suppression. The amending Act of 1986 renamed it the Immoral Traffic (Prevention) Act, substituted persons for women and girls throughout, and recast its central definition, so the statute a reader opens is a 1956 frame carrying a 1986 vocabulary and a set of penalties stiffened in two rounds of amendment. The delivered guide to [women's rights legislation in India](/2015/11/01/womens-rights-laws-india-guide/) maps this Act within the wider field of protective statutes, and this article takes the single statute apart: what it forbids, what it pointedly does not forbid, who enforces it, what happens to the person taken out of a brothel in a raid, how the courts have read it, and why every attempt to replace its settlement with a different one, whether abolitionist or decriminalising, has failed in Parliament. The argument is conducted in a legal register throughout, because the subject carries contested moral positions and affects a population that experiences criminalisation directly, and the two great positions in the field are stated later in this article at full strength in their own proponents' terms, with the article adopting neither.
 

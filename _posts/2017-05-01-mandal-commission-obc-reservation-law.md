@@ -6,15 +6,15 @@ date: 2017-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Mandal Commission", "Reservation", "Social Justice", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The Mandal Commission fixed the share of posts and seats reserved for backward classes, and the share has held. The list of who is backward never settled."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-05-01
+lang: en
 ---
-
 The most durable number in Indian social policy is twenty seven per cent. The Mandal Commission proposed it in December 1980 as the share of central government posts and central educational places to be reserved for the socially and educationally backward classes, the executive adopted it in August 1990, the Supreme Court sustained it in November 1992, and no government or court has moved it since. A reader who knows only that number, however, knows the least contested part of the subject. The argument that has run without interruption from 1953 to the present decade is not about the share. It is about the list: which communities count as backward, who has the authority to say so, by what evidence, and whether the benefits inside the category should be shared out again among its own members. Every major event in this history is an event in the life of the list. A commission drew it up and disowned it. A second commission drew it up and watched it sit unread for a decade. An office memorandum borrowed it from two sources at once. A court pruned it by inventing the creamy layer. Parliament constitutionalised the body that advises on it, was told it had handed the list to the President alone, and amended the Constitution again within the year to take the states' share back. A third commission spent six years examining whether the list should be divided against itself, reported in July 2023, and its report has not been published.
 
-![The Mandal Commission and OBC reservation, tracing how a commission report became an office memorandum and then a constitutional contest over the backward classes list - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mandal Commission and OBC reservation, tracing how a commission report became an office memorandum and then a constitutional contest over the backward classes list - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 This article is the legislative and constitutional history of that sequence. It traces how reservation for backward classes moved from a commission report of 1980 to an executive order of 1990 to a set of constitutional provisions, and it keeps the judicial doctrine at the level a history needs, because the doctrine has its own owner in this series and the history is incomplete without the distinction. The wider field within which this story sits, protective criminal law, welfare legislation and the equality code read together, is mapped in [the guide to social justice legislation in India](/2017/02/01/social-justice-laws-india-guide/); what follows isolates one strand of that field, the affirmative strand for backward classes, and follows it from the framing of the Constitution to the unpublished report of 2023. The claim the record supports, and the claim this article defends, is the one stated above: the quantum was settled in 1990 and has not been reopened with any success, while the identification question has been reopened by a commission in 2017, a constitutional amendment in 2018, a judgment in 2021, a further amendment in 2021 and a report submitted in 2023, so that the contested question in this field has never been how much, but who.
 

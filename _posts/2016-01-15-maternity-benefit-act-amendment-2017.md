@@ -6,15 +6,15 @@ date: 2016-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Maternity Benefit Act", "Labour Law", "Social Justice", "Labour Codes", "UPSC"]
 excerpt: "The maternity benefit amendment trail: how the leave doubled to twenty six weeks, who gained from it, what it costs, and why the payer never changed at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-01-15
+lang: en
 ---
-
 An amendment trail is judged as much by what it leaves standing as by what it moves, and the Maternity Benefit Act, 1961 supplies the cleanest illustration in Indian labour law. In 2017 Parliament more than doubled the paid maternity leave that the Act guarantees, extended the benefit to two classes of mother the original text had never contemplated, imposed a crèche duty on larger establishments, and added a work from home provision of a kind no Indian labour statute had carried before. By any measure of entitlement, the amendment was a large reform. By the measure that decides how a statute behaves in the world, it changed almost nothing, because the provision that governs the entire economics of the Act, the rule that the employer of the woman pays for her leave out of the establishment's own funds, was carried through the amendment word for word, unexamined and unaltered. The leave doubled and the payer did not change. Everything that has been reported about the amendment since, the gratitude of the women it covered, the anxiety of the small employers it charged, the staffing studies predicting that firms would hire fewer women, and the persistence of non-compliance in small establishments, follows from that single untouched feature of the design.
 
-![The Maternity Benefit Act amendment trail showing how the 2017 amendment doubled paid leave to 26 weeks while leaving the employer as payer - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Maternity Benefit Act amendment trail showing how the 2017 amendment doubled paid leave to 26 weeks while leaving the employer as payer - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 This article follows the trail in order. It sets out the Act as Parliament enacted it in 1961, the entitlement the original text promised and the machinery that delivered it, the small amendments of the intervening decades, and then the amendment of 2017 provision by provision, including its staged commencement and the conditions buried in its provisos that most summaries omit. It then turns to the two questions the trail actually raises. The first is why a reform willing to double the leave was unwilling to move its cost off the individual employer, and what evidence exists about the consequences of that choice. The second is where the entitlement sits after the labour codes commenced, since the Act of 1961 has been repealed and its content carried into the Code on Social Security, 2020, a transition a reader who relies on the old text will miss entirely. The reader who finishes should know exactly what maternity entitlement Indian law provides, where that entitlement is located in the statute book, who is obliged to fund it, and why the identity of the payer, rather than the length of the leave, is the feature of the scheme that explains its record.
 

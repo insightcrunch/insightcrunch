@@ -6,15 +6,15 @@ date: 2017-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Social Justice", "Constitutional Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "Social justice laws for UPSC Mains Paper Two, organised for the examination: the provisions, judgments and commissions behind the questions, and the scaffold."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2017-06-15
+lang: en
 ---
-
 Social justice laws for UPSC Mains Paper Two frighten candidates out of proportion to their difficulty, and the fear itself is the first thing to correct. The marks in this area do not sit in the candidate's opinion about reservation, untouchability or tribal land. They sit in a small, stable set of constitutional provisions, six statutes, three commissions and a dozen judgments, and in one skill that can be practised like any other: separating the constitutional question a paper is asking from the judicial question it is also asking and from the empirical question it is quietly asking underneath both. A candidate who answers those three questions as one produces an editorial. A candidate who separates them produces an analysis, and the difference between the two is the difference the marking rewards.
 
-![Social justice laws for UPSC Mains Paper Two, showing the provisions, judgments and commissions that generate the questions and the answer scaffold that separates analysis from opinion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Social justice laws for UPSC Mains Paper Two, showing the provisions, judgments and commissions that generate the questions and the answer scaffold that separates analysis from opinion - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The anxiety has a specific shape, and naming it helps. Aspirant communities worry that an examiner will penalise a view, so preparation drifts toward memorised balance, a paragraph for and a paragraph against with no conclusion at all. That is the weakest structure available in this field. An answer that refuses to conclude reads as evasion, and an answer that endorses or denounces reads as advocacy. The strong structure concludes firmly on the question the evidence can settle, which is almost always a constitutional or institutional question, and names the remaining disagreement as a disagreement about values, which no candidate is required to resolve and no examiner can fairly demand be resolved in one direction. This article teaches that structure by building the material it operates on: the provisions that generate the questions, the four moments that organise the history, the judgment set with the precise proposition each case is for, the statute set as citation stock, the discipline for handling figures, and a revision scaffold that converts the whole field into six answer shapes.
 

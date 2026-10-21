@@ -6,15 +6,15 @@ date: 2016-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Equal Remuneration Act", "Labour Law", "Social Justice", "Women and Work", "UPSC"]
 excerpt: "The Equal Remuneration Act required equal pay for the same work or work of a similar nature, and that narrow test explains the statute and its whole record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-02-01
+lang: en
 ---
-
 The Equal Remuneration Act 1976 is usually filed away as a well-intentioned statute that failed for want of enforcement, and that filing is a misdiagnosis. The Act was enforced about as well as its design allowed, because its design contained the failure inside it. Parliament required an employer to pay a woman no less than a man for performing the same work or work of a similar nature, and then defined that phrase so that the comparison only works where a man and a woman are already doing substantially the same job inside the same establishment. In a labour market where men and women are sorted into different occupations, different industries and different grades long before a pay packet is calculated, that comparator is exactly what a woman worker usually does not have. The statute therefore governed the rarest form of pay discrimination, the visible side-by-side kind, and left the commonest form, the segregation of women into lower-paid work, outside its reach altogether. Its successor, the Code on Wages 2019, widened the protected characteristic from sex to gender and rebuilt the machinery around the duty, and then kept the same test. Understanding this Act means understanding that drafting choice, because everything else about it, the advisory committees, the inspectors, the penalties, the thin line of cases, is commentary on a definition in Section 2(h).
 
-![The Equal Remuneration Act 1976 and the equal pay test it set for Indian employers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Equal Remuneration Act 1976 and the equal pay test it set for Indian employers - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 ## The world the Equal Remuneration Act was passed into
 

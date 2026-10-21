@@ -6,15 +6,15 @@ date: 2017-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "SC/ST Act", "Social Justice", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Section 18A explained: the Supreme Court read safeguards into the Atrocities Act, Parliament removed them by amendment, and the Court upheld the change."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-03-01
+lang: en
 ---
-
 Section 18A of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 exists because of an argument about who writes criminal procedure. In March 2018 a two-judge bench of the Supreme Court, persuaded that innocent people were being arrested on unexamined accusations, read three safeguards into a statute that contains none of them: a screening enquiry before a first information report, an approval before arrest, and a softened bar on anticipatory bail. Within five months Parliament had removed all three by an amendment drafted in terms that expressly displaced the judgment. Within twenty-three months the Supreme Court had recalled its own directions as an act of judicial legislation and then upheld the amendment that had displaced them. No other episode in modern Indian law runs the full circuit of interpretation, override, repentance and validation so quickly, or leaves the boundary between a court's power to interpret and a legislature's power to enact quite so clearly marked.
 
-![Section 18A and the 2018 amendment to the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, showing the court directions, the recall and the validation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 18A and the 2018 amendment to the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, showing the court directions, the recall and the validation - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The question the whole sequence turns on is deceptively simple. When a protective statute is being misused, and the legislature has chosen not to write any filter into it, may a court write the filter itself? The March 2018 bench answered yes, reasoning from the guarantee of a just and fair procedure under Article 21 of the Constitution. The review bench answered no, reasoning that a court which adds conditions to a statute has stopped interpreting it and started enacting it. Between those two answers lies almost everything a reader needs to understand about how Indian courts and Parliament divide their work, and the practical stakes are not abstract. The question that brings most readers to this subject, whether a person accused under the Act can obtain anticipatory bail, has been answered wrongly in both directions by a large volume of published commentary: it is not freely available, and it is not barred in every case. Stating the position exactly, and showing how each of the four steps in the sequence contributed to it, is the work of this article.
 

@@ -6,15 +6,15 @@ date: 2017-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "MGNREGA", "Labour Law", "Employment Guarantee", "Social Justice", "UPSC"]
 excerpt: "MGNREGA implementation record assessed against the statute: the two stages of wage payment, the delay clock that stops early, and the days of work delivered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-11-01
+lang: en
 ---
-
 The Mahatma Gandhi National Rural Employment Guarantee Act is the rare statute whose success can be scored without interpreting anything, because the Act itself supplies the scorecard. It promises a stated number of days of work, within a stated number of days of asking, paid within a stated number of days of working, with a stated allowance if the work does not come and a stated compensation if the wage does not. The MGNREGA implementation record is therefore not, in the first instance, an argument about whether the programme is a good idea. It is a set of measurements against obligations that Parliament wrote in numbers, and the measurements exist in unusual abundance, because the programme runs on a transaction-based management information system that records every muster roll, every wage list and every fund transfer order. Few statutes anywhere generate their own evidence at this scale. The puzzle this article has to solve is that the evidence supports two flatly incompatible public conclusions. The Ministry of Rural Development reports that the overwhelming majority of wage payments are made in time. Independent researchers, working from the programme's own transaction data, report that the overwhelming majority are not. Both conclusions are drawn from real numbers. They differ because they measure different halves of the same obligation, and the instrument that produces the official figure was built to stop measuring at the exact point where the state-level half of the work ends.
 
-![MGNREGA implementation record, tracing a wage from the closed muster roll to the worker's bank account across the two payment stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MGNREGA implementation record, tracing a wage from the closed muster roll to the worker's bank account across the two payment stages - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The statute itself, its structure, its drafting and its section-by-section content, belongs to the series' account of [the right to work under the employment guarantee statute](/2017/10/15/mgnrega-2005-right-to-work/), and this article does not retell it. What follows takes the Act as given and asks the implementation questions: what was delivered against each numbered obligation, how the delivery machinery actually moves a wage from a worksite to a bank account, why the recorded figures diverge so sharply from the researched ones, who bears the cost when the machinery fails, and what the courts have been able to do about a compensation entitlement that the measuring system does not compute. The discipline applied throughout is the one this series applies to every enforcement record: every figure carries its source, its period and its base, and no figure from one base is ever set beside a figure from another as though the two were comparable. Most of the confusion in public argument about this programme, and some of the confusion in official argument, is a failure of exactly that discipline.
 

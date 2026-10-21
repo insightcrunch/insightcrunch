@@ -6,17 +6,17 @@ date: 2016-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Juvenile Justice Act", "Child Rights", "Child Protection", "Criminal Law", "Social Justice", "UPSC"]
 excerpt: "The two Juvenile Justice Acts compared on ten dimensions: the age line, adult trial, offence classes, committees, registration of homes, adoption, aftercare."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-08-15
+lang: en
 ---
-
 ## Juvenile Justice Act 2000 vs 2015: the decision this comparison has to make
 
 The Juvenile Justice Act 2000 vs 2015 comparison is usually conducted as an argument about a single provision, the power to try a child of sixteen or above as an adult, and it is usually won by whichever side describes that provision loudest. That is a poor way to judge two statutes. Each of these Acts is a complete machine with two working halves: a track for the child accused of an offence, and a track for the child who needs the state to act as a parent. A comparison that reads only the first half of each machine will reach a verdict about a fraction of the law and present it as a verdict about the whole. The question this article answers is the one a reader actually has to decide: taking both tracks together, did the statute of 2015 improve on the statute of 2000, and if the answer depends on where one looks, which part of the machine should decide it?
 
-![The Juvenile Justice Act 2000 and the Juvenile Justice Act 2015 compared across ten dimensions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Juvenile Justice Act 2000 and the Juvenile Justice Act 2015 compared across ten dimensions - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The framing of the two titles as opponents, one Act against the other, also misleads in a quieter way, and the comparison is fairer once the misdirection is named. These statutes are not rival systems between which a citizen chooses, as two tax codes or two tenancy regimes might be. They are successive occupants of a single office: each repealed its predecessor, each inherited the same two-track design, and each was described by its sponsors as the completion of the work the earlier one began. The 2015 Act is unintelligible except as a revision of the 2000 Act, section by section, and the 2000 Act is unintelligible except as a revision of 1986. A versus framing invites a scoreline. What the material supports is closer to an audit of a revision: which clauses of the inherited text the revisers rewrote, which they retained without a second thought, and whether the rewrites, taken together, made the instrument better at the job its own preamble sets for it.
 

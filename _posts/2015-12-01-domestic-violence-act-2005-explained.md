@@ -6,15 +6,15 @@ date: 2015-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Domestic Violence Act", "Protection of Women from Domestic Violence Act", "Women's Rights", "Civil Remedies", "Shared Household"]
 excerpt: "The Domestic Violence Act explained: a civil statute under which a magistrate grants protection, residence and monetary orders without a criminal trial."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2015-12-01
+lang: en
 ---
-
 The Domestic Violence Act, formally the Protection of Women from Domestic Violence Act, 2005, is built on a single deliberate refusal. It refuses to treat violence inside a home as a problem that punishment alone can solve. A prosecution can send a violent husband to prison and still leave his wife with no house to live in, no money for medical treatment, no order keeping him away from her workplace and no legal grip on the earnings and property she was driven from. The statute answers that gap by creating a civil proceeding in which a magistrate can order a respondent to stop, to leave, to pay and to let the applicant stay, and it does so without requiring her to prove a crime beyond reasonable doubt or to wait for a criminal trial to end.
 
-![A magistrate's courtroom and the shared household at the centre of the Domestic Violence Act's civil remedy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A magistrate's courtroom and the shared household at the centre of the Domestic Violence Act's civil remedy - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The distinction sounds technical and is anything but. A criminal statute asks the state to prove guilt and then imposes a sentence; the person harmed is a witness in the state's case, and the outcome belongs to the state. This statute asks a different question: what does the woman in front of the court need in order to be safe and to live with dignity from the day the order is passed? Its answers are practical. She may need the violence to stop and be kept stopped. She may need to remain in the house she has lived in, even though the house stands in someone else's name. She may need money for the earnings she lost, the injuries she carries and the household goods that were taken from her. She may need temporary custody of her children and compensation for the harm itself. The Act collects those needs into five kinds of order and builds a small administrative machine, centred on an officer called the Protection Officer, to carry a woman from her first approach to a magistrate's courtroom with her safety planned for rather than left to chance.
 

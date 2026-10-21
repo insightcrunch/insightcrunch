@@ -6,15 +6,15 @@ date: 2017-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "RPwD Act", "Disability Rights", "Social Justice", "Parliament", "UPSC"]
 excerpt: "The Rights of Persons with Disabilities Act explained: why the statute keeps two populations, which rights need a benchmark certificate, and which do not."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-08-01
+lang: en
 ---
-
 The Rights of Persons with Disabilities Act 2016 turns on a distinction that most institutions applying it get wrong. The Act speaks to two populations in two different registers. To the first population, every person whose long term impairment interacts with barriers so as to hinder full and effective participation in society, it confers rights: the right not to be discriminated against, the right to reasonable accommodation, the right to live in the community, the right to hold property and make decisions, the right to protection from cruelty, abuse and exploitation. To the second and narrower population, persons certified as having not less than forty per cent of a specified disability, it confers those rights and something more: free education for children, reserved seats in higher education, reserved posts in government employment, and a first claim on a series of public schemes. The certificate that defines the second population is a gateway to the benefits. It was never drafted as a gateway to the rights.
 
-![The Rights of Persons with Disabilities Act 2016, showing the two populations the statute creates and the rights that attach to each - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Rights of Persons with Disabilities Act 2016, showing the two populations the statute creates and the rights that attach to each - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Treating the certificate as the gateway to everything is the single commonest error in this field, and the Act's own text refutes it. A candidate denied a scribe in an examination because her assessed percentage fell below forty has the statute on her side, as the Supreme Court confirmed in Vikash Kumar v Union Public Service Commission. A tenant refused housing, an employee refused a screen reader, a passenger humiliated by an airline, none of them needs to prove a percentage before the rights chapters of this Act speak to their case. Yet the percentage is what administrators can verify, and so the percentage is what gets asked for. A statute containing two definitions of its own subject will be applied by administrators using whichever is easier to verify, and that is the tension this article keeps in view from beginning to end.
 

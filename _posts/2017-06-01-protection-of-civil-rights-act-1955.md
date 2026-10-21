@@ -6,15 +6,15 @@ date: 2017-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Protection of Civil Rights Act", "Social Justice", "Constitutional Law", "Article 17", "Scheduled Castes", "UPSC"]
 excerpt: "The Protection of Civil Rights Act explained: the offences that enforce the abolition of untouchability, the penalties in months and rupees, and the disuse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-06-01
+lang: en
 ---
-
 The Protection of Civil Rights Act is the statute that Article 17 of the Constitution ordered into existence, and it is close to a dead letter. The article abolishes untouchability, forbids its practice in any form, and declares that the enforcement of any disability arising out of untouchability shall be an offence punishable in accordance with law. The law it contemplated is this one, enacted in 1955 as the Untouchability (Offences) Act and renamed in 1976. It remains in force. Its offences describe, with uncomfortable precision, the ordinary transactions of Indian life: drawing water, entering a temple, buying goods, hiring a room, sitting in a classroom, taking a hospital bed. Its punishments for those offences are imprisonment measured in months and fines measured in hundreds of rupees, on a scale whose ceilings were set in 1955 and never raised. And in the Ministry of Social Justice and Empowerment's annual report on the working of the Act, the whole of India registered thirteen cases under it in 2022.
 
-![The Protection of Civil Rights Act 1955, showing the offences that enforce the abolition of untouchability and the penalty scale that left it unused - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Protection of Civil Rights Act 1955, showing the offences that enforce the abolition of untouchability and the penalty scale that left it unused - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 That combination, a fundamental right with a statute of its own, a live text, trivial sanctions and near-total disuse, is the subject of this article. The claim it defends is simple enough to be quoted: the law for the fundamental right is the one nobody uses. The statute has not been repealed, replaced or struck down. It has been bypassed, first by the passage of time, which left its fines behind, and then by the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act of 1989, which covers much of the same conduct with heavier punishment, compensation machinery and procedural protection, but does not cover all of it. The conduct that falls between the two statutes, exclusion without violence, refusal without an audience, discrimination that meets none of the later Act's conditions, is covered by the Constitution, covered by this Act, and in practice prosecuted under neither.
 

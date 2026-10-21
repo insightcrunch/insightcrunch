@@ -6,15 +6,15 @@ date: 2016-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Child Protection", "Juvenile Justice", "POCSO", "Social Justice", "Constitutional Law", "UPSC"]
 excerpt: "Child protection laws in India explained: why no single statute defines a child, how the ages differ across seven laws, and what the Constitution requires."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-04-01
+lang: en
 ---
-
 Ask a room of Indian lawyers a simple question, who is a child, and the room will not give a single answer, because Indian law does not contain one. The child protection laws in India are not a code. They are an accumulation of statutes passed across nine decades, each written against a different harm, and each fixing the boundary of childhood where its own harm required the line to be drawn. A person of seventeen is a child for the statute on sexual offences and for the statute on juvenile justice, an adolescent for the statute on labour, outside the education right altogether, a minor for some purposes of the trafficking statute and an adult for others, and, if female and married, the subject of one of the sharpest conflicts the Supreme Court has had to resolve in this field. None of these answers is an error. Each is the correct application of a different Act to the same human being.
 
-![Child protection laws in India and the missing single definition of a child, showing how seven statutes fix different ages for different harms - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Child protection laws in India and the missing single definition of a child, showing how seven statutes fix different ages for different harms - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 That is the claim this article exists to establish, and it can be stated in one sentence: there is no child in Indian law, only children as defined statute by statute, and nearly every practical confusion in this field, in police stations, hospitals, schools and courtrooms, begins when a definition carried in one Act is silently imported into another. The teacher who assumes the education statute governs a disclosure of abuse, the employer who assumes the labour statute's adolescent is an adult for all purposes, the magistrate's clerk who applies the marriage statute's age to a sexual offence, each has made the same mistake, which is to suppose that the word child names a fixed legal category. It does not. It names a conclusion that must be reached separately under every statute in the room, and the first professional skill in this field is asking which statute is speaking before asking what it says.
 

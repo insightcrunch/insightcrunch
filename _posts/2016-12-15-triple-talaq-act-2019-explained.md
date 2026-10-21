@@ -6,17 +6,17 @@ date: 2016-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Triple Talaq Act", "Personal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "Triple Talaq Act explained: how the Muslim Women (Protection of Rights on Marriage) Act makes a void pronouncement a crime, and what it gives the wife."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2016-12-15
+lang: en
 ---
-
 The Triple Talaq Act rests on a design that no other Indian family statute shares. The Muslim Women (Protection of Rights on Marriage) Act, 2019 declares that a husband's pronouncement of instant triple talaq is void and illegal, which means it changes nothing: the marriage it purports to end continues in law exactly as it stood the moment before the words were spoken. The same statute then makes the speaking of those words a criminal offence punishable with imprisonment for up to three years and a fine. A single short Act, eight sections in all, therefore does two things that pull in opposite directions. It denies the pronouncement every legal consequence a divorce is supposed to have, and it attaches to that legally empty act the most serious consequence the state can attach to any act, the loss of the speaker's liberty.
 
 Everything argued about this statute, in Parliament, in the press and in the petitions that challenge it, is in the end an argument about that pairing. Supporters say the pairing is the point: a declaration of invalidity without a sanction had already been tried, because the Supreme Court set the practice aside in 2017, and the pronouncements continued, leaving women married in law but abandoned in fact, with no instrument in their hands to compel support. Critics say the pairing is incoherent: a legal system does not ordinarily imprison a man for doing something it simultaneously insists he has not done, and a wife whose interest lies in maintenance, residence and the children's custody gains nothing from a husband in custody who cannot earn. Both sides agree on the underlying practice. Almost nobody in the debate defended instant triple talaq as a good thing. The disagreement is about the instrument, and it deserves to be stated that precisely, because much public writing on the statute blurs it.
 
-![The Triple Talaq Act 2019 and its central design, a pronouncement declared void and made a criminal offence in the same statute - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Triple Talaq Act 2019 and its central design, a pronouncement declared void and made a criminal offence in the same statute - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 A second confusion runs through the public account and this article exists partly to clear it. The statute did not ban triple talaq. The ban, in the only sense the law recognises, came from the Constitution Bench in Shayara Bano v. Union of India in 2017, which set the practice aside by three votes to two. What Parliament added in 2019 was not prohibition but penalty, together with a subsistence allowance, a custody entitlement and a set of procedural safeguards that summaries of the Act routinely omit and that materially change how the offence works. The safeguards matter to both sides of the argument. They are the answer the statute gives to the charge of a free-standing police power over a family dispute, and they are also the measure critics use when they ask why, if the machinery is so carefully confined to the wife's complaint, the offence needed to be criminal at all.
 

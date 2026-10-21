@@ -6,15 +6,15 @@ date: 2017-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Manual Scavenging Act", "Social Justice", "Labour Law", "Judiciary", "UPSC"]
 excerpt: "The Manual Scavenging Act 2013 explained: the two definitions that divide the field, the penalty for each, and the rehabilitation an identified worker is owed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-04-15
+lang: en
 ---
-
 The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 rests on a distinction that most public discussion of manual scavenging never makes, and the distinction decides almost everything that follows from the statute, including what the government is able to say about whether the practice survives. The Act prohibits two different things under two different definitions. The first is manual scavenging, defined by reference to insanitary latrines, open drains, pits and railway tracks. The second is hazardous cleaning, defined by reference to sewers and septic tanks cleaned by hand without protective gear, cleaning devices and safety precautions. Each prohibition carries its own penalty scale, its own enforcement history and, in the official record, its own count of the dead. Because the definitions are kept separate, the state can record more than a thousand deaths from the second practice across three decades while reporting, accurately on the words Parliament enacted, that no death has resulted from the first.
 
-![The Manual Scavenging Act 2013 and the two definitions that decide how deaths in sanitation work are counted - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Manual Scavenging Act 2013 and the two definitions that decide how deaths in sanitation work are counted - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 That is the fact a reader needs before any other in this field, and it is the answer this article is organised around. The statute, Act 25 of 2013, received the assent of the President on 18 September 2013 and was brought into force on 6 December 2013 by notification S.O. 2989(E) of 1 October 2013. It is an emancipatory statute in form as well as in intention: alongside the prohibitions it builds a complete machinery of survey, identification and rehabilitation, because Parliament accepted that a ban addressed only to employers would leave the people who performed the work exactly where the work had left them. The article that follows takes the statute apart in the order in which it operates. It explains what stood before it and why that failed, reads the two definitions with the care the counting question demands, sets out the prohibitions and penalties, follows the survey and rehabilitation machinery, describes the committees charged with watching all of it, and then gives the judicial record, in which the Supreme Court first fixed compensation for sewer deaths in 2014 and then, in October 2023, increased it and directed a fresh national survey. The closing sections state the government's case and the critics' case in their strongest forms and give a verdict on where the failure lies. The wider field of which this statute forms one part is mapped in the [guide to social justice legislation in India](/2017/02/01/social-justice-laws-india-guide/), which places the Act among the equality code, the atrocities legislation and the reservation framework.
 

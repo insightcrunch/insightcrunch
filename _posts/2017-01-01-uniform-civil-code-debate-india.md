@@ -6,17 +6,17 @@ date: 2017-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Uniform Civil Code", "Constitutional Law", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The uniform civil code debate turns on what Article 44 requires, what the Law Commission concluded, and why neither existing Indian code is fully uniform."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-01-01
+lang: en
 ---
-
 ## The uniform civil code debate in India, stated in terms both sides accept
 
 Few phrases in Indian public life carry as much charge, and as little agreed content, as the uniform civil code. One side hears in it the completion of the Constitution: a single law of marriage, divorce, maintenance, adoption and succession under which a citizen's rights would depend on citizenship alone and not on the community of birth. The other side hears in the same phrase a threat to the Constitution's own promises: that the law of the family, which for many Indians is an obligation of faith and an inheritance of community, would be rewritten by a majority legislature in its own image. Both sides invoke the Constitution. Both sides quote the Constituent Assembly. Both sides quote the Law Commission. And both sides point to the same two territories, Goa and Uttarakhand, as proof of opposite propositions.
 
-![The uniform civil code debate in India: Article 44, the Law Commission record and the Goa and Uttarakhand codes tested against uniformity - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The uniform civil code debate in India: Article 44, the Law Commission record and the Goa and Uttarakhand codes tested against uniformity - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This article maps the debate rather than joining it. It states what Article 44 of the Constitution actually requires and what it does not require. It reconstructs what the Constituent Assembly decided on 23 November 1948, including the amendments that were moved and rejected. It sets out the Law Commission's record with the precision that record is usually denied, distinguishing a consultation paper from a report and quoting the operative sentences in full. It separates what the Supreme Court has decided from what judges have observed in passing, because nearly everything the Court is quoted as commanding on this subject was an observation rather than a direction. It then gives the case for a code and the case against a code at full strength, in the terms their holders use, before testing the two codes that actually exist in India against the standard of uniformity itself. The descriptive finding that emerges is the one the evidence supports on any reading: neither existing example is uniform, and the real argument has always been about which differences a code would keep.
 

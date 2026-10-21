@@ -6,15 +6,15 @@ date: 2016-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Muslim Women Divorce Act", "Personal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The Muslim Women Divorce Act 1986 explained: what Section 3 requires a former husband to pay within iddat, who pays after it, and what the courts have held."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-11-15
+lang: en
 ---
-
 Few statutes in India are described as confidently, and as inaccurately, as the Muslim Women Divorce Act 1986, formally the Muslim Women (Protection of Rights on Divorce) Act, 1986. The standard description, repeated in textbooks, editorials and examination notes, is that the Act confined a divorced Muslim woman's claim against her former husband to the iddat period and took away the maintenance remedy that the general law gives every other woman in the country. That description captures what the statute was widely understood to do in the political controversy of 1986. It does not capture what the statute says, and it has not captured the law since the Supreme Court construed the Act in 2001 and confirmed, in 2010 and again in 2024, that the general maintenance provision remains open to a divorced Muslim woman alongside it. This article is a pillar account of the Act itself: its seven sections read closely, the distinction at its centre between a provision and maintenance, the machinery of relatives and the Wakf Board that it sets behind the former husband, the option and transitional provisions that complete its scheme, and the three Supreme Court decisions that settled what the text means. The reader who finishes it should be able to state what a divorced Muslim woman is entitled to, against whom, in which forum, and under which of two coexisting statutes she may choose to proceed.
 
-![The Muslim Women Divorce Act 1986 explained, showing what Section 3 requires within the iddat period and who pays after it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Muslim Women Divorce Act 1986 explained, showing what Section 3 requires within the iddat period and who pays after it - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## What existed before the Muslim Women Divorce Act 1986
 

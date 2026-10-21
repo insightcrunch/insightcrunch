@@ -6,15 +6,15 @@ date: 2016-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "NCPCR", "Child Rights", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "NCPCR and the child rights commissions explained: what they can compel, what they can only recommend, and why no finding of theirs binds any authority."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2016-08-01
+lang: en
 ---
-
 The National Commission for Protection of Child Rights, known everywhere by its initials as the NCPCR, is the institution to which India directs its outrage when a child is failed by the systems built to protect that child, and it is almost invariably described in terms the statute never gave it. It is called upon to order, to direct, to punish and to rescue, as though it were a court, a police force and a ministry compressed into one body seated in Delhi. The Commissions for Protection of Child Rights Act, which created it, built something quite different: a body that can summon any witness in the country, compel the production of any document, inspect any institution in which children are lodged, and inquire into any violation of a child's rights on its own motion, and that can then do exactly three things with what it finds, every one of which stops short of command. It may recommend that a government prosecute. It may recommend that a government grant interim relief. Or it may go to a constitutional court and ask the court to issue the order it cannot issue itself. Everything else the public believes about this institution is expectation laid over a design that was never drawn to carry it.
 
-![The NCPCR and the child rights commissions of India, an institution profile of a commission that holds civil court powers of inquiry without any power to issue a binding order - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The NCPCR and the child rights commissions of India, an institution profile of a commission that holds civil court powers of inquiry without any power to issue a binding order - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 That gap between expectation and design is the subject of this profile, and it is best stated as the institution's namable claim at the outset. The child rights commissions are bodies that can compel evidence and not outcomes. Within an inquiry, their authority is real and coercive: attendance can be enforced, testimony taken on oath, records requisitioned from any court or office. At the end of the inquiry, their authority dissolves into recommendation, and the government on the receiving end is obliged to do one thing only, which is to explain itself in writing if it chooses not to comply. Almost every criticism levelled at these commissions, that they failed to act, that their findings changed nothing, that a report gathered dust, is in substance a criticism of a choice Parliament made in the statute, attributed instead to the body that merely exercised the powers the statute conferred. The distinction matters because it directs the remedy. If the problem is design, the answer lies in amendment. If the problem is that the designed machinery was never staffed, funded or even constituted in much of the country, the answer lies elsewhere, and this profile will argue that the second failure is the larger one, because a recommendatory body that exists everywhere and reports relentlessly is a different institution in practice from a recommendatory body that exists on paper in a third of the jurisdictions it was meant to cover.
 

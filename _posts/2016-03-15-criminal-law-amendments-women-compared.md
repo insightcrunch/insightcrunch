@@ -6,15 +6,15 @@ date: 2016-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Criminal Law Amendment Acts", "Criminal Law", "Social Justice", "Judiciary", "UPSC"]
 excerpt: "The criminal law amendments on women compared across three waves: what each changed in offences, evidence, procedure and punishment, and which mattered most."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2016-03-15
+lang: en
 ---
-
 Three times in four decades Parliament has rebuilt the criminal law on offences against women, and each time it has done so in the shadow of a single case that concentrated public attention. The Criminal Law (Amendment) Act of 1983 worked on evidence and on the conditions of trial. The Criminal Law (Amendment) Act of 2013 rebuilt the offence definitions and added a shelf of new crimes. The Criminal Law (Amendment) Act of 2018 worked almost entirely on the sentencing tariff and on deadlines. The question a reader comparing the criminal law amendments on women actually has to answer is not which wave was largest, or loudest, or most severe. It is which wave changed what happens in practice: what a prosecution must prove, what a complainant must endure, what a police station must do, and what a court may impose. Those are different questions, and they have different answers, because the three waves did not do the same kind of work. One changed the law of proof. One changed the catalogue of offences. One changed the numbers attached to punishment. This comparison applies a single test to all three: did the wave alter the inside of a trial or a police investigation, or did it alter only the text that is read out after guilt is established? The verdict at the end follows from that test, and the table that carries the comparison is built so that the verdict can be checked against it row by row.
 
-![The three waves of criminal law amendment on offences against women in India, 1983, 2013 and 2018, compared by what each changed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The three waves of criminal law amendment on offences against women in India, 1983, 2013 and 2018, compared by what each changed - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The comparison sits inside a wider field. The statutes compared here are the amendments to the general criminal codes, the Indian Penal Code, the Code of Criminal Procedure and the Indian Evidence Act, and their successors of 2023. The surrounding body of protective legislation, the dowry prohibition statute, the domestic violence statute, the workplace harassment statute and the rest, is mapped in [the guide to women's rights legislation in India](/2015/11/01/womens-rights-laws-india-guide/), and this article links down to the specialist treatments where a provision belongs to another article's territory. Its own territory is the comparison itself: three amendment waves, measured on the same dimensions, with a defended answer to the question of which one made the greatest practical difference.
 

@@ -6,15 +6,15 @@ date: 2017-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Welfare Laws", "Social Justice", "Constitutional Law", "Labour Law", "UPSC"]
 excerpt: "Welfare laws in India explained: which benefits rest on an Act of Parliament, which on an executive scheme, and why that source alone decides the remedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2017-07-01
+lang: en
 ---
-
 Indian public discussion uses one word for two different legal things. A rural household that demands work under the employment guarantee, a widow who receives a monthly pension, a child who eats a cooked meal at school, a family whose hospital bill is paid under a health cover programme: all four are described, in official speeches and in ordinary speech alike, as beneficiaries of government schemes. The description conceals the single most important fact about each benefit. Two of those four rest on Acts of Parliament that define the beneficiary, impose a duty on the state, and create machinery through which a denial can be challenged. The other two rest on executive decisions that a government may expand, narrow, rename or discontinue without asking any legislature. Welfare laws in India cannot be understood as one body of law until that distinction is drawn, and almost every practical question in the field, from who qualifies to what a refused applicant can do next, is answered by it.
 
-![Welfare laws in India and the distinction between statutory entitlements and executive schemes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Welfare laws in India and the distinction between statutory entitlements and executive schemes - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This article maps the whole field on that basis. It begins with the constitutional layer, a set of directive principles that instruct the state to build a welfare order but cannot be enforced in a court. It then traces the judicial bridge built across that gap, through which the right to life was read to cover livelihood, food, shelter, health and education. It describes the older statutory models, contributory social insurance for the organised workforce and a maintenance duty placed on families, before turning to the rights turn of the 2000s, when Parliament converted a series of programmes into statutory entitlements with defined beneficiaries and grievance machinery. It sets out the scheme layer that has always existed alongside the statutes and has grown faster in the years since. It then places the two layers side by side in a single table, tests the two standard arguments made for each model, and closes with the practical method by which a reader can identify the legal source of any programme they encounter. The claim that organises everything that follows can be stated in one sentence: the source decides the remedy, because whether a benefit rests on an Act or on an executive order determines whether a person denied it holds a claim or only a complaint.
 

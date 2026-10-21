@@ -6,17 +6,17 @@ date: 2016-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Child Marriage", "Social Justice", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Prohibition of Child Marriage Act explained: why a forbidden marriage remains valid until the child annuls it, and what the lapsed marriage age bill proposed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2016-06-15
+lang: en
 ---
-
 The Prohibition of Child Marriage Act carries a puzzle in its own title. A statute enacted to prohibit a practice does not declare the prohibited act a nullity. A child marriage in India is an offence committed by nearly everyone who arranges, performs or permits it, yet the marriage itself is, in the ordinary case, a valid and subsisting marriage in the eyes of the law. It remains valid the day after the ceremony, it remains valid when children are born of it, and it remains valid for years afterwards, unless one particular person, the party who was a child when the marriage was solemnised, goes to a district court and asks for it to be annulled inside a window that is quietly closing. The prohibition falls on the adults. The burden of undoing falls on the child.
 
 That single design choice organises everything else in the Act, and it is the choice that almost every popular account of the statute gets wrong. Pages that describe child marriage as illegal and therefore void collapse two different legal ideas into one. Illegality describes the conduct of the people who brought the marriage about, and the Act punishes that conduct with rigorous imprisonment. Validity describes the status of the relationship the ceremony created, and on that question the Act deliberately withholds the automatic answer. Between those two ideas sits the whole working life of the statute: the annulment petition and its deadline, the maintenance and residence orders that accompany a decree, the legitimacy of children born of the marriage, the small class of cases in which the marriage is void from the start, the officers appointed to intervene before a ceremony happens, and the injunctions by which a magistrate can forbid one.
 
-![The Prohibition of Child Marriage Act 2006, the statute that prohibits child marriage without making it void - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Prohibition of Child Marriage Act 2006, the statute that prohibits child marriage without making it void - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The statute also carries a second, quieter story about how Indian law changes and fails to change. The Act of 2006 was itself a reform statute, passed to replace a restraint law of 1929 whose penalties had been too small to matter. In December 2021 the government introduced a bill to amend it, raising the minimum age of marriage for women from eighteen to twenty-one and giving the Act an express overriding force over personal law. That bill was sent to a parliamentary standing committee, which invited public views and received an extraordinary volume of responses, the overwhelming majority of them opposed. The committee took extension after extension for over two years and never presented a report. When the seventeenth Lok Sabha was dissolved in June 2024, the bill lapsed with it, unpassed, unvoted on, and formally undecided. A series that has criticised legislation passed without scrutiny meets here the opposite failure: scrutiny without decision.
 
