@@ -6,15 +6,15 @@ date: 2018-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Electoral Bonds", "Constitutional Law", "Judiciary", "Supreme Court", "UPSC"]
 excerpt: "Electoral bonds judgment explained: the two constitutional grounds on which the scheme fell, the disclosure the Court ordered, and the questions left open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-03-01
+lang: en
 ---
-
 On 15 February 2024, a Constitution Bench of the Supreme Court of India held that a voter cannot be asked to choose a government in ignorance of who pays for the parties asking for that vote. The electoral bonds judgment, delivered in Association for Democratic Reforms v Union of India and reported at (2024) 5 SCC 1, struck down the Electoral Bond Scheme of 2018 and the statutory amendments that had been built around it, and it did so on two distinct constitutional grounds that are routinely merged in summary accounts. The disclosure provisions fell under the freedom of speech and expression, because the Court held that information about the funding of political parties is essential to the effective exercise of the franchise. The removal of the ceiling on corporate contributions fell under the guarantee of equality, because the Court held that treating a company's political contribution as the equivalent of an individual's is manifestly arbitrary. The distinction matters beyond this scheme. A legislature that designs a replacement funding mechanism with complete transparency could still fail the second holding, because the equality objection is not about secrecy at all. It is about the legal character of corporate money in an election.
 
-![The electoral bonds judgment, showing the two constitutional grounds on which the scheme fell and the disclosure the Court ordered - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The electoral bonds judgment, showing the two constitutional grounds on which the scheme fell and the disclosure the Court ordered - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The interpretive question the Court had to answer was not written anywhere in the constitutional text. Article 19(1)(a) guarantees the freedom of speech and expression. It says nothing about political finance, nothing about donations, and nothing about a right to information. The petitioners' case required the Court to travel from that spare guarantee to a conclusion that a scheme of anonymous donations, enacted through amendments to three statutes and notified by the executive, was unconstitutional. The Union of India's case required the Court to stop that journey early: the right to information, it submitted, extended to the antecedents of candidates, which earlier decisions had established, and no further. Between those two positions lay the whole case, and the Court's resolution of it is the reason this judgment will be read long after the bonds themselves are forgotten. This article states the holdings separately, as the Court delivered them, reconstructs the reasoning of the majority opinion and of the concurrence, narrates the disclosure sequence that followed the judgment as part of its outcome, and ends with the questions the Court expressly did not decide, the largest of which concerns the legislative vehicle by which the entire arrangement had been enacted.
 

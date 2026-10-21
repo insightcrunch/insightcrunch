@@ -6,17 +6,17 @@ date: 2018-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Anti-Defection Law", "Tenth Schedule", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The anti-defection law explained: the Tenth Schedule grounds in full, the deleted split, the surviving merger exception, and the case for and against the whip."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-01-15
+lang: en
 ---
-
 Almost every argument about the anti-defection law in India is conducted at the level of episodes. A group of legislators changes sides, a government falls or survives, and the discussion that follows is about the people involved rather than about the provisions that decided what they were permitted to do. The provisions themselves are short, precise, and rarely stated accurately. A member is not disqualified for changing parties in the loose sense in which that phrase is used in a news report. A member is disqualified for defined conduct set out in the Tenth Schedule of the Constitution, subject to defined exceptions, on the decision of a defined authority whose decision the courts may review on defined grounds. An argument about the law that does not begin there is an argument about politics wearing legal dress.
 
 Stated in terms both sides of the debate would accept, the disagreement is this. One side holds that a legislator is returned by voters who chose a party, its symbol, and its stated programme, so that a legislator who abandons that party after election, or who votes against its direction on the floor, breaks faith with the electorate and may properly be made to lose the seat. The other side holds that a legislator is a representative and not a delegate, that the power to disqualify for disobeying a party direction on every vote converts the member into an instrument of the party leadership, and that a legislature in which no member may vote according to judgment or conscience on ordinary business has surrendered the deliberative function that justifies its existence. Both positions are held by serious constitutional lawyers, both can point to text and to history, and the distance between them is not a distance that better drafting alone can close, because at its centre sits a question about what an elected member is for.
 
-![The anti-defection law in India, showing the Tenth Schedule grounds and the debate over the whip - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The anti-defection law in India, showing the Tenth Schedule grounds and the debate over the whip - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This article takes the controversy seriously by doing the unglamorous work first. It states what the Schedule says, paragraph by paragraph, stripped of characterisation. It reconstructs the political world that produced the Constitution (Fifty-second Amendment) Act, 1985, and the further changes made by the Constitution (Ninety-first Amendment) Act, 2003. It sets out the leading judgment, Kihoto Hollohan v. Zachillhu, with the majority and the minority each given their reasoning, because the minority's objection to the design has never been answered on its own terms. It then states the case for the law and the case against it at full strength, separates the factual disputes from the value disputes, and defends one conclusion that the arithmetic of the provisions supports on its own: that the law has changed the unit of defection rather than its incidence, raising at each reform the number of legislators who must move together to move without consequence.
 

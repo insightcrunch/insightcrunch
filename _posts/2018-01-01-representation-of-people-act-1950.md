@@ -6,15 +6,15 @@ date: 2018-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Representation of the People Act", "Election Law", "Electoral Rolls", "Constitutional Law", "UPSC"]
 excerpt: "The Representation of the People Act explained: who may register, what ordinarily resident means, how rolls are revised and how a deleted name is restored."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-01-01
+lang: en
 ---
-
 The Representation of the People Act, 1950 decides a question that sounds administrative and is in fact constitutional in its consequences: whose name stands on the electoral roll of a constituency, and whose does not. Every other part of Indian election law, the nominations, the campaign, the polling, the counting and the disputes, operates on a population of voters that this Act has already defined. A citizen who satisfies every condition the Constitution sets for the franchise and whose name is missing from the roll on polling day has, for that election, no vote at all. A name wrongly present on the roll carries a vote that the law never granted. The Act is therefore best read not as a register-keeping statute but as the working definition of the Indian electorate, written in the form of conditions, officers and procedures.
 
-![The Representation of the People Act 1950 and the electoral roll, showing how registration conditions decide who may vote - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Representation of the People Act 1950 and the electoral roll, showing how registration conditions decide who may vote - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The One Test for this statute can be stated in a sentence. The right to vote in India is a statutory entitlement conditional on registration: a person may vote only if entitled to be registered, actually registered, and still registered when the election comes. Whether a person is entitled turns on four things, citizenship, age on a qualifying date, ordinary residence in the constituency, and the absence of a disqualification for registration. Whether the entitlement becomes a vote turns on the work of a single officer, the Electoral Registration Officer, who prepares and revises the roll, corrects entries, includes omitted names and deletes entries that should not stand. Each of those acts can be challenged, and the appeal the Act provides against a wrongful deletion or refusal is, in practical terms, the most consequential remedy in election law and the one least known to the people it protects. This article works through the whole design: the allocation of seats with which the Act opens, the delimitation provisions, the election machinery, the registration conditions in their full statutory detail, the meaning of ordinarily resident, the special provisions for service voters and for citizens living abroad, the Aadhaar provision of 2021 and the protection written into it, the revision machinery and the controversy that intensive revision attracts, and the judicial position on what kind of right the vote is.
 

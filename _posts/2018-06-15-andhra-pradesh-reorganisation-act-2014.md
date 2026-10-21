@@ -6,15 +6,15 @@ date: 2018-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Andhra Pradesh Reorganisation Act", "State Reorganisation", "Federalism", "Constitutional Law", "Telangana", "UPSC"]
 excerpt: "The Andhra Pradesh Reorganisation Act 2014 created Telangana, made Hyderabad a shared capital for ten years, and left its most argued promise unwritten."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-06-15
+lang: en
 ---
-
 The Andhra Pradesh Reorganisation Act 2014 is the statute that divided one of India's largest States into two, and it is read most usefully as two documents bound in one cover. The first document is legal: 108 sections in twelve Parts and thirteen Schedules that created the State of Telangana, preserved a residuary State of Andhra Pradesh, divided legislatures, courts, assets, debts, employees, institutions and river waters between them, and imposed a set of dated obligations on the Union Government. The second document is political, and only part of it is in the Act at all: a sequence of assurances by which the division was made acceptable to the region that stood to lose the capital and the larger share of revenue, the most consequential of which, special category status for the successor State of Andhra Pradesh, was announced by the Prime Minister on the floor of the Rajya Sabha and was never written into the statute that the Rajya Sabha was passing.
 
-![The Andhra Pradesh Reorganisation Act 2014, showing the common capital at Hyderabad, the river boards and the special category status assurance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Andhra Pradesh Reorganisation Act 2014, showing the common capital at Hyderabad, the river boards and the special category status assurance - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 That distinction, between what the Act provided and what was said while it was being passed, is the key to every argument the reorganisation has generated since. Claims that sound identical in a speech, that the Centre promised a capital, a package, a status, divide sharply once they are tested against the text. Some were enacted in hard language and can be enforced, audited and litigated. Some were enacted in soft language that obliges the Union to take steps or examine feasibility, and their delivery is measured in decades rather than in court orders. One was not enacted in any language, and its career since 2014, through Finance Commission reports, a special package announced as its equivalent, a governing alliance broken over it and an election fought on it, demonstrates the difference between a political undertaking and a statutory one more clearly than any other episode in Indian legislative history. This article works through the statute provision by provision, then through the record of passage, then through the assurance, and keeps the two ledgers separate throughout, because the confusion of the two is the single largest error in the public discussion of this Act.
 

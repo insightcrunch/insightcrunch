@@ -6,17 +6,17 @@ date: 2018-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Anti-Defection Law", "Tenth Schedule", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The Tenth Schedule promises quick disqualification for defection, yet petitions can sleep for years while governments rise and fall on contested votes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 81
-author: "InsightCrunch"
+author: "kavita-sharma"
 last_updated: 2018-02-01
+lang: en
 ---
-
 ## A Promise of Speed, a Record of Delay
 
 When Parliament enacted the Tenth Schedule in 1985, it made a deliberate choice about who would police defections. The question whether a member had incurred disqualification would not go to a court, and it would not go to the President or the Governor acting on the opinion of the Election Commission, which is the route the Constitution prescribes for every other disqualification. It would go to the Chairman or the Speaker of the House, an insider, on the reasoning recalled whenever the choice is defended: the House is master of its own composition, the presiding officer knows its parties and its whips, and an insider can decide fast. The minister who piloted the Constitution (Fifty-second Amendment) Bill told the Lok Sabha that if defection was to be outlawed effectively, a forum had to be chosen which would decide the matter fearlessly and expeditiously, a formulation the Chairman of the Rajya Sabha recalled in 2019 while disposing of petitions with a speed he held up as the standard. Speed was not an incidental hope attached to the design. Speed was the design's justification.
 
-![Inside the Tenth Schedule's world of petitions and presiding officers](/assets/images/blog/blog-01.webp)
+![Inside the Tenth Schedule's world of petitions and presiding officers](/assets/images/blog/blog-103.webp)
 
 The record of the design in operation is a record of variance so wide that the variance itself is the finding. At one end of the record, a Speaker of the Himachal Pradesh Assembly decided six petitions in February 2024 within two days of the conduct complained of, in a thirty page order, and six members ceased to sit with immediate effect. At the other end, petitions filed in the Manipur Assembly in 2017 were still undecided three years later, when the Supreme Court recorded that the member complained against had in the meantime sat in the Council of Ministers of the government his crossing had helped to form, and the Court directed a decision within four weeks. Between those poles lie the Maharashtra petitions of 2022, decided in January 2024 after the government they concerned had fallen and been replaced, the Telangana petitions of 2024, which drew their first notices in January 2025 only after the petitioners reached the Supreme Court, and a long tail of petitions in state assemblies that were never decided at all before the Houses that received them were dissolved. The grounds of disqualification, the texts of the whips, the arithmetic of mergers, all of which matter intensely on paper, decided none of these outcomes by themselves. Who held the chair, and how long the chair took, decided them.
 

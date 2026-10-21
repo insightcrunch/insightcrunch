@@ -6,15 +6,15 @@ date: 2018-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Delimitation", "Lok Sabha", "Census", "Election Law", "Constitutional Amendments"]
 excerpt: "The Delimitation Acts explain why state seats in the House of the People still follow the census of 1971, and what the lapse of the freeze will require."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2018-04-01
+lang: en
 ---
-
 The Delimitation Acts are the statutes through which India redraws the map of its legislatures, and their strangest feature is a silence. Four times since the Constitution commenced, Parliament has enacted a Delimitation Act and a commission has sat to fix the boundaries of parliamentary and assembly constituencies. Between the third of those exercises and the fourth, a gap of three decades opened, and inside that gap sits a constitutional bargain that still governs the composition of the House of the People: the number of seats allotted to each state was frozen by reference to the census of 1971, and it remains frozen until the figures of the first census taken after the year 2026 are published. A voter in India is therefore represented in the national legislature through an allocation struck from a population count taken more than five decades ago, when the census of 1971 recorded a population of about 548 million, in a country whose census of 2011 recorded about 1,211 million.
 
-![The Delimitation Acts and the redrawing of parliamentary and assembly seats in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Delimitation Acts and the redrawing of parliamentary and assembly seats in India - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The freeze was not an oversight, and treating it as one is the first error in most accounts of the subject. It was a deliberate constitutional settlement, enacted in 1976, extended in 2001, and given its working shape in 2003, and at each stage Parliament stated its reason: states that succeeded in reducing the growth of their population in pursuit of a national policy should not be rewarded with a loss of seats. The consequence of holding that settlement for half a century is that the allocation of seats among the states and the boundaries of constituencies within them have been governed by two different clocks. Within a state, boundaries were redrawn on the census of 2001 by the commission constituted under the Delimitation Act, 2002, and the reservation of seats for the Scheduled Castes and the Scheduled Tribes was revised at the same time. Among the states, nothing has moved since the census of 1971, because the constitutional provisions that would otherwise compel a readjustment after every census carry provisos that suspend the obligation until a census taken after 2026 has been held and its figures published.
 

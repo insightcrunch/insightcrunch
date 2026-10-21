@@ -6,15 +6,15 @@ date: 2018-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Representation of the People Act", "Election Law", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "Election petitions decide whether a declared winner keeps the seat. The strict deadline, the grounds and the disqualification rules, set out plainly here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2018-03-15
+lang: en
 ---
-
 The returning officer has declared the result, the certificate has been issued, and the candidate who lost by a narrow margin is convinced that the count was wrong, that money moved through the constituency in the last week of the campaign, or that the winner was never eligible to sit at all. An election petition is the only door through which any of those complaints can be carried, and it is a door with a clock fitted to it. The Representation of the People Act 1951 reserves the challenge of a declared result to a single proceeding, fixes a filing period of forty five days that no court may extend, demands a standard of pleading and proof closer to a criminal trial than to an ordinary civil suit, and then, having done all of that, allows the proceeding to run for years while the member whose title is in question sits, votes and draws the salary of the office. This article follows the remedy from the moment of declaration to the end of the appeal, and then turns to the second half of its subject: what happens to a seat when its holder is convicted of an offence, when a disqualification question is referred for decision, and when the defect lies not in the election but in the member.
 
-![Blog Image](/assets/images/blog/blog-01.webp)
+![Blog Image](/assets/images/blog/blog-68.webp)
 
 The structure of the subject matters before any detail, because election law distributes its remedies across three separate tracks that are frequently confused with one another. The first track is the petition itself, governed by Part VI of the Representation of the People Act 1951, through which the election of a returned candidate is called in question before the High Court. The second track is disqualification, governed principally by Chapter III of Part II of the same Act and by Articles 102 and 191 of the Constitution, under which a member who incurs a disqualification loses the seat whether or not any petition was ever filed. The third track is disclosure and prosecution: the affidavit regime that obliges every candidate to place criminal antecedents, assets and liabilities on the public record, and the offence created by Section 125A for a candidate who files a false affidavit or conceals what the law requires to be stated. Each track has its own forum, its own clock and its own consequences, and a grievance taken down the wrong track fails however meritorious it may be. The petitioner who wants a result undone must use the first track within forty five days. The citizen who wants a convicted member out must look to the second. The voter who finds a false affidavit has a complaint under the third, and a petition ground folded inside it, but no direct route to unseat anyone by complaint alone.
 

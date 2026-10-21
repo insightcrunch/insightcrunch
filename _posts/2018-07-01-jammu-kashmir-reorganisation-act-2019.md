@@ -6,15 +6,15 @@ date: 2018-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Jammu and Kashmir Reorganisation Act", "Article 370", "Constitutional Law", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The Jammu and Kashmir Reorganisation Act 2019 explained: what the Act created, which laws it repealed and retained, and the question the courts left open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-07-01
+lang: en
 ---
-
 The Jammu and Kashmir Reorganisation Act 2019 did something the reorganisation power had never done in the history of the Union. Parliament has used that power to create States, to divide States, to merge territories and to rename units, and every exercise of it before 2019 either raised a unit in status or rearranged units of equivalent standing. This Act took an existing State of the Union and extinguished it, replacing it with two Union territories, one of which was given a legislature and one of which was not. The constitutional question the Act poses is therefore not the familiar question whether a boundary may be redrawn. It is whether a constituent unit of the federation may be removed from the federal tier altogether, and that question, after full argument before a Constitution Bench of the Supreme Court, remains undecided.
 
-![The Jammu and Kashmir Reorganisation Act 2019, showing the conversion of a State into two Union territories and the constitutional questions it raised - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Jammu and Kashmir Reorganisation Act 2019, showing the conversion of a State into two Union territories and the constitutional questions it raised - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Stated in terms that the measure's supporters and its opponents would each recognise, the disagreement is this. The Union government's position is that the Constitution's reorganisation power is wide enough to form Union territories out of the territory of a State, that the special provision governing Jammu and Kashmir was by its own heading a temporary provision, and that applying the Constitution in full and placing the territory on the same administrative footing as the rest of the Union completed an integration that the temporary provision had deferred. The position of the petitioners who challenged the measures, and of the State's principal regional parties, is that a State is a unit of the federal structure rather than a creature of Parliament's convenience, that the conversion removed an elected government's authority over its own subjects, and that the steps were taken at a moment when the State's own legislature was not functioning, so that the consultation the Constitution contemplates was conducted with Parliament standing in the State's place. This article sets out the instruments in sequence, states what the Act itself provided in its own terms, gives each side's case in the form its proponents make it, separates the disputes of fact from the disputes of value, and records precisely what the Supreme Court decided and what it did not.
 

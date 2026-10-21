@@ -6,15 +6,15 @@ date: 2018-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Election Law", "Constitutional Law", "UPSC", "Parliament", "Judiciary"]
 excerpt: "Election laws for UPSC polity, taught as an answer method: the constitutional articles to cite, the two statutes to separate and the judgments that decide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2018-04-15
+lang: en
 ---
-
 Election laws occupy a strange position in the civil services examination. The subject is small enough to be bounded: one Part of the Constitution, two principal statutes, a schedule, a handful of amendments and a short line of judgments generates nearly every question the papers have produced on it. Yet it is the subject on which otherwise strong candidates most often write answers that a constitutional lawyer would not recognise, because they prepare it as politics. They learn the controversies of the season, the arguments of the editorial pages and the vocabulary of the television debate, and they reproduce all three in the answer book. The examiner, however, is not testing whether the candidate follows politics. The examiner is testing whether the candidate knows where electoral authority comes from, which institution holds which piece of it, what limits the text places on each holder, and what the courts have said when those limits were disputed. A candidate who can answer those questions can handle any framing the paper invents. A candidate who cannot will be defeated by the first unfamiliar framing, however much political commentary has been absorbed.
 
-![Election laws for UPSC polity, showing the constitutional articles, the two Representation of the People Acts and the judgment set that generate the questions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Election laws for UPSC polity, showing the constitutional articles, the two Representation of the People Acts and the judgment set that generate the questions - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article teaches the subject the way the examination rewards it. It separates three things that preparation material habitually mixes: the constitutional position, which is what the text of the articles provides; the statutory detail, which is what Parliament has enacted under those articles; and the reform debate, which is what commissions, committees and courts have proposed without any of it becoming law. Most lost marks in this field are lost at the joints between those three layers. A proposal by the Law Commission is written up as if it were an amendment. A judgment is cited for a proposition it expressly declined to decide. A provision of the Representation of the People Act, 1950 is attributed to the Act of 1951. The discipline that prevents all three errors is the discipline this article builds: cite the article, not the argument. The namable claim of the article is that election questions in these papers are marked on whether the candidate identifies the constitutional source of the power in issue and the limits on it, and that an answer reasoning outward from the text of the relevant article outscores an answer reciting the merits of a reform, because the examiner is testing whether the candidate understands where authority comes from rather than what the candidate thinks of how it is used.
 

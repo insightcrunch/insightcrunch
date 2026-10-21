@@ -6,15 +6,15 @@ date: 2018-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "State Reorganisation", "Constitutional Law", "Federalism", "Parliament", "Article 3"]
 excerpt: "State reorganisation in India explained: how Parliament redraws the map of the Union by ordinary law under Article 3, and what a reorganisation Act settles."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2018-05-01
+lang: en
 ---
-
 State reorganisation in India rests on a single constitutional fact that most public argument about new states never reaches. The political map of the Union is not fixed by the units themselves. Parliament may form a new state out of the territory of an existing one, merge two states into one, enlarge or shrink a state, move its boundaries, or change its name, and it may do all of this by an ordinary law passed by a simple majority of members present and voting. The state whose territory is taken, divided, or renamed must be asked for its views. It cannot refuse. Its legislature's opinion, however strongly expressed, is advice that Parliament is free to set aside, and on the one occasion when a state assembly formally rejected the very Bill that divided it, in January 2014, Parliament proceeded and the division took legal effect five months later.
 
-![State reorganisation in India and the anatomy of a reorganisation Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![State reorganisation in India and the anatomy of a reorganisation Act - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 That design is the subject of this guide. The articles that follow it in this series take up the individual statutes one by one: the great settlement of 1956, the three creations of 2000, the bifurcation of Andhra Pradesh in 2014, and the conversion of Jammu and Kashmir in 2019. This article does the connective work. It states the constitutional provisions exactly as they stand, explains the two conditions the Constitution attaches to their use and the judicial decisions that fixed what those conditions mean, traces the commissions whose reports shaped the map, and then takes apart a reorganisation Act itself, head by head, because the political drama of a division lasts a season while the administrative instrument that carries it out governs the successor states for generations. The disputes that fill the years after a new state appears, over assets, officers, river waters, court records, and institutions, are almost never disputes about whether the division should have happened. They are disputes inside the ten or so standard heads that every reorganisation Act must settle, and a reader who understands those heads understands where reorganisation is actually fought.
 

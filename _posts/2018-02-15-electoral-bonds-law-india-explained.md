@@ -6,15 +6,15 @@ date: 2018-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Electoral Bonds", "Political Funding", "Finance Act", "Companies Act", "Election Law"]
 excerpt: "How electoral bonds reshaped political funding law in India: the Finance Act amendments, the disclosure removals, the corporate ceiling and the scheme's design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2018-02-15
+lang: en
 ---
-
 The bond was the least important part of the electoral bond scheme. A donor walked into a branch of the State Bank of India, completed the bank's know your customer formalities, paid from a bank account, and received a printed instrument that named nobody: not the buyer, not the political party that would eventually deposit it, not any person in between. The instrument carried a denomination, a serial number and a fifteen day life, and it behaved, by design, like currency with a bank counter at both ends. If the scheme had consisted of that instrument alone, it would have changed remarkably little, because the law that had governed political donations for decades was built around records: records kept by parties, records filed with the Election Commission, records published in company accounts, and a ceiling that tied corporate generosity to corporate profit. What gave the scheme its effect was not the bond but the set of removals enacted alongside it. Through the Finance Act of 2017, Parliament amended five statutes in a single legislative movement, and four of those amendments withdrew a protection that had previously attached to a political donation. A party no longer had to report a bond receipt to the Election Commission. A party no longer had to keep a statutory record of who had given it. A company no longer faced a ceiling of seven and a half per cent of its average net profits on what it could contribute. A company no longer had to name the party it had funded when it published its accounts. A fifth amendment, carried by the Finance Acts of 2016 and 2018, redrew the definition of a foreign source with retrospective effect reaching back to 1976, so that donations which a court had held to be foreign contributions fell outside the prohibition. Read together, the five amendments meant that a donation could be very large, entirely corporate, routed through a bearer instrument, and invisible in every public record that the law maintained. That combined effect, and not the paper instrument, is the subject of this article.
 
-![Electoral bonds and the law of political funding in India](/assets/images/blog/blog-01.webp)
+![Electoral bonds and the law of political funding in India](/assets/images/blog/blog-18.webp)
 
 The scheme itself was short lived. It was announced in the Union Budget presented on 1 February 2017, its statutory foundations were enacted when the Finance Act of 2017 received assent on 31 March 2017, and the Electoral Bond Scheme was notified by the Ministry of Finance on 2 January 2018, with the first sale of bonds opening on 1 March 2018. The Supreme Court struck the scheme and its supporting amendments down on 15 February 2024 in Association for Democratic Reforms v Union of India. That judgment, its two constitutional grounds and the disclosure it ordered are treated in the companion piece on the judgment itself; the task here is the legislation as enacted: what each amendment said, which disclosure it removed, what the position had been before it, and what body of funding law stands once the amendments are stripped away. The account that follows is a reading of the statutes, the scheme notification and the official correspondence that the amendments generated, and it is general legal information rather than advice on any party's or company's compliance position.
 

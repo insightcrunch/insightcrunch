@@ -6,15 +6,15 @@ date: 2017-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Election Law", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "Election Law in India explained: the constitutional provisions, the two Representation of the People Acts, and which authority decides each election question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-12-01
+lang: en
 ---
-
 Election law in India defeats most readers at the same point, and the point is not ignorance of the rules. A voter whose name has vanished from the roll, a candidate whose nomination paper has been rejected, a party worker who watches money change hands outside a polling station and a legislator accused of crossing the floor are all holding election problems, and each of them instinctively carries the problem to the institution that seems largest and nearest. The instinct is understandable and it is usually wrong. The roll complaint taken to a court fails because the courts are barred from interrupting an election in progress. The nomination complaint taken to the Election Commission after the result fails because the statute reserves that question to an election petition. The defection complaint taken anywhere except the presiding officer of the House fails because the Tenth Schedule gives the decision to that officer alone. Indian election law is not one body of law administered by one powerful commission. It is a field divided among a constitutional commission, two principal statutes, a set of rules and orders made under them, the presiding officers of legislatures, the President and the Governors acting on advice they are bound to take, and the High Courts and the Supreme Court sitting in carefully separated compartments. The reader who can see the division can navigate the field. The reader who cannot will keep knocking on doors that do not open.
 
-![Election law in India, showing the three domains of who may vote, who may stand and how the contest is run - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Election law in India, showing the three domains of who may vote, who may stand and how the contest is run - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The division has a clean shape, and stating it plainly is the single most useful thing a guide to this field can do. Election law in India divides into three domains. The first domain is who may vote: the constitutional guarantee of adult suffrage, the preparation and revision of electoral rolls, the qualifications and disqualifications for registration, and the machinery of officers who maintain the roll between elections. The second domain is who may stand: the qualifications for membership of Parliament and the state legislatures, the disqualifications that bar a person from contesting or from continuing to sit, the nomination process and its scrutiny, and the deposits, affidavits and disclosures that accompany a candidature. The third domain is how the contest is run: the notification that starts an election, the campaign and the code that governs it, the polling and counting machinery, the offences that police the process, the declaration of the result, and the narrow route by which a declared result may afterwards be undone. Every election question a citizen, a candidate or a court will ever meet belongs to one of these three domains, and each domain has its own governing statute, its own deciding authority and its own forum. Confuse the domains and the complaint goes to the wrong door. Keep them separate and the whole field becomes a map rather than a maze.
 

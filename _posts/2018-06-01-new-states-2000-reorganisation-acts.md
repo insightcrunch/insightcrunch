@@ -6,15 +6,15 @@ date: 2018-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "State Reorganisation", "Chhattisgarh", "Jharkhand", "Uttarakhand", "Federalism", "Constitutional Law"]
 excerpt: "The three reorganisation Acts that created Chhattisgarh, Uttaranchal and Jharkhand, read side by side: appointed days, territories, courts and cadres."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2018-06-01
+lang: en
 ---
-
 Between the first day of November 2000 and the fifteenth day of the same month, the reorganisation Acts 2000 brought three new states into the Indian Union: Chhattisgarh out of Madhya Pradesh, Uttaranchal out of Uttar Pradesh, and Jharkhand out of Bihar. No capital was shared, no joint capital was declared, no special status was promised to a city left behind, and no court was asked to decide whether the map itself was lawful. The three statutes were passed by Parliament within days of one another, they follow a single template so closely that whole parts correspond section by section in substance, and they settled into working administration faster than any reorganisation before or since. This article reads the three Acts as what they are: one instrument in three copies, with the variations marked, so that a reader can see what a reorganisation statute has to decide, what each of the three decided, and why the decisions held.
 
-![The three reorganisation Acts of 2000 and the creation of Chhattisgarh, Uttaranchal and Jharkhand on a single statutory template - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The three reorganisation Acts of 2000 and the creation of Chhattisgarh, Uttaranchal and Jharkhand on a single statutory template - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The analytical value of the three Acts lies in the control they offer. When three legislatures-in-waiting are created by the same Parliament, in the same session season, on the same drafting pattern, the differences between the outcomes cannot be explained by the drafting. What differed was the territory: in each case the successor state took a region with an administrative centre of its own, and the parent state kept its capital, its High Court city in two of the three cases, and the larger share of population and seats. The single variable that the brief history of Indian reorganisation keeps testing, whether the capital is contested, was absent in all three. The statutes therefore show the template working under the most favourable conditions it is likely to meet, which is precisely why they repay close reading: they mark the baseline against which every harder reorganisation, including the one examined in this series for 2014, has to be measured.
 

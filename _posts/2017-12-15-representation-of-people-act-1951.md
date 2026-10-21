@@ -6,15 +6,15 @@ date: 2017-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Representation of the People Act", "Elections", "Constitutional Law", "Parliament", "Judiciary", "UPSC"]
 excerpt: "The Representation of the People Act explained: who may contest, what disqualifies a candidate, what must be disclosed, and where the spending ceiling stops."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2017-12-15
+lang: en
 ---
-
 The Representation of the People Act 1951 is the statute that decides who may stand for Parliament and the state legislatures, what conduct forfeits that eligibility, what a candidate must reveal before a single vote is cast, and which acts during a campaign can cost a returned candidate the seat itself. Its companion statute of the previous year built the electorate by providing for electoral rolls, delimitation and the allocation of seats, a division of labour examined in [the pillar on the Representation of the People Act 1950](/2018/01/01/representation-of-people-act-1950/), while the 1951 Act governs the contest: qualifications and disqualifications in Part II, the notification and conduct of elections in the Parts that follow, the registration of political parties, the machinery of the poll, corrupt practices and electoral offences, and the trial of election petitions in Part VI. A reader who finishes this article should be able to answer, with the section in hand, the questions that recur in every election season: what disqualifies a person, what must be disclosed in the nomination affidavit, what counts as a corrupt practice, and what the expenditure ceiling actually covers, which is narrower than almost anyone assumes.
 
-![The Representation of the People Act 1951, showing the disqualification rules, candidate disclosure and corrupt practices - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Representation of the People Act 1951, showing the disqualification rules, candidate disclosure and corrupt practices - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The Act is Act 43 of 1951. The number requires care, because the companion statute carries the identical number in its own year: the Representation of the People Act 1950 is Act 43 of 1950, and the statute treated here is Act 43 of 1951, so the year is not decoration but part of the identification. The 1951 Act received the assent of the President on 17 July 1951 and was enacted to give effect to the power that Articles 327 and 328 of the Constitution confer on Parliament and, subject to Parliament, on state legislatures to legislate on elections, a power that Article 324 couples with the superintendence of the Election Commission of India. It has been amended many times, and several of its most consequential features are not in the original text at all: the registration of parties arrived in 1989, the candidate disclosure affidavit in 2002 under judicial compulsion, and the removal of the protection that once allowed a convicted sitting member to continue in office was achieved not by Parliament but by the Supreme Court in 2013. The statute is therefore best read as a layered document, in which the 1951 skeleton carries provisions written in very different political moments, and the analysis below separates the layers wherever the distinction matters to a reader applying the text.
 
