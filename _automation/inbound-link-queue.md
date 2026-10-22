@@ -81,3 +81,6 @@
 ## how-digital-cinema-packages-work
 - _posts/2026-10-14-how-film-restoration-works.md — could carry: "A restored feature reaches its audience as a locked package, and how digital cinema packages work explains the keys, certificates and windows that decide whether that audience ever sees it."
 - _posts/2026-10-04-how-contactless-payments-work.md — could carry: "Certificate trust also decides whether a cinema screen may open a film, a mechanism traced in how digital cinema packages work."
+## how-prepackaged-bankruptcy-works
+- _posts/2026-10-16-how-at1-bonds-work.md — could carry: "A different loss order governs bank capital in a rescue; for the corporate version, where classes vote on the loss before any filing, see how a prepackaged bankruptcy works."
+- _posts/2012-04-01-insolvency-bankruptcy-code-2016-guide.md — could carry: "India runs its corporate insolvency process through a tribunal after default; the American prepackaged route settles the bargain before filing, as how a prepackaged bankruptcy works explains."

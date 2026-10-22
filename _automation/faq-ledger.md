@@ -498,3 +498,25 @@ between-difference-file-original-package-version-version | how-digital-cinema-pa
 ask-extra-festival-film-key-packag-unencrypt | how-digital-cinema-packages-work | Why do film festivals ask for unencrypted packages or extra keys?
 film-issu-kdm | how-digital-cinema-packages-work | Who issues KDMs for a film?
 booth-digital-projectionist-replac | how-digital-cinema-packages-work | What replaced the projectionist in a digital booth?
+## business-bankruptcy
+### how-prepackaged-bankruptcy-works
+bankruptcy-prepackag-simple-term | how-prepackaged-bankruptcy-works | What is a prepackaged bankruptcy in simple terms?
+bankruptcy-between-difference-prearrang-prepackag | how-prepackaged-bankruptcy-works | What is the difference between a prepackaged and a prearranged bankruptcy?
+bankruptcy-before-compani-fil-negotiate-plan | how-prepackaged-bankruptcy-works | Why do companies negotiate a bankruptcy plan before filing?
+bankruptcy-company-dur-keep-operat-prepackag | how-prepackaged-bankruptcy-works | Does a company keep operating during a prepackaged bankruptcy?
+11-case-chapter-disclosure-statement | how-prepackaged-bankruptcy-works | What is a disclosure statement in a Chapter 11 case?
+be-claim-impair-mean-plan-under | how-prepackaged-bankruptcy-works | What does it mean for a claim to be impaired under a plan?
+case-corporate-role-stat-trustee-unit | how-prepackaged-bankruptcy-works | What is the role of the United States Trustee in a corporate case?
+bankruptcy-compani-delaware-file-large-many-so | how-prepackaged-bankruptcy-works | Why do so many large companies file for bankruptcy in Delaware?
+come-exit-financ | how-prepackaged-bankruptcy-works | What is exit financing and where does it come from?
+11-chapter-employer-goe-happen-pension-through | how-prepackaged-bankruptcy-works | What happens to pensions when an employer goes through Chapter 11?
+afterward-bankruptcy-be-challeng-confirm-plan | how-prepackaged-bankruptcy-works | Can a confirmed bankruptcy plan be challenged afterwards?
+363-different-plan-sale-section | how-prepackaged-bankruptcy-works | What is a section 363 sale and how is it different from a plan?
+11-case-chapter-fee-large-pay-professional | how-prepackaged-bankruptcy-works | Who pays the professional fees in a large Chapter 11 case?
+fulcrum-restructur-security | how-prepackaged-bankruptcy-works | What is a fulcrum security in a restructuring?
+bank-bondholder-differently-lender-plan-treat | how-prepackaged-bankruptcy-works | How are bondholders treated differently from bank lenders in a plan?
+confirm-feasibility-plan-requirement | how-prepackaged-bankruptcy-works | What is the feasibility requirement for confirming a plan?
+creditor-ever-full-interest-keep-not-paid-shareholder | how-prepackaged-bankruptcy-works | Can shareholders ever keep an interest when creditors are not paid in full?
+after-bar-claim-date-happen-pass | how-prepackaged-bankruptcy-works | What is a claims bar date and what happens after it passes?
+bankruptci-become-cas-common-corporate-large-prepackag | how-prepackaged-bankruptcy-works | Why did prepackaged bankruptcies become common in large corporate cases?
+bankruptcy-case-public-read-record | how-prepackaged-bankruptcy-works | What records from a bankruptcy case can the public read?
