@@ -6,17 +6,17 @@ date: 2026-10-22
 categories: ["Industry"]
 tags: ["business-bankruptcy", "chapter-11", "corporate-restructuring", "prepackaged-bankruptcy", "creditor-rights", "debtor-in-possession"]
 excerpt: "How a prepackaged bankruptcy works: the plan is negotiated and voted on before the filing, so the court confirms a bargain creditors already accepted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-10-22
+lang: en
 ---
-
 ## A Bankruptcy Negotiated Before It Is Filed
 
 A prepackaged Chapter 11 case begins when a company negotiates its restructuring plan and solicits creditor votes before filing a petition, then files under Chapter 11 of the Bankruptcy Code so a bankruptcy court can confirm the voted plan and bind creditors who refused to agree. The case does not shorten the restructuring bargain. The bargain moves to the weeks and months before the filing, the court case becomes an audit of a deal already struck, and every gain in speed is purchased by narrowing who gets heard before the terms harden into a confirmed plan.
 
-![Bankruptcy courtroom and creditor documents for a prepackaged Chapter 11 restructuring filing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bankruptcy courtroom and creditor documents for a prepackaged Chapter 11 restructuring filing - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The sequence reverses the order most observers expect from a court supervised process. In a conventional case, the filing comes first and the negotiation follows under judicial supervision, with disclosure, objection deadlines, and hearings shaping the exchange in public. In the pre-filing bargain, the debtor and its largest creditors settle the central economic questions in private conference rooms, through term sheets and drafts exchanged under confidentiality agreements, and the petition arrives after the votes that matter have been counted. Section 1126(b) of the Bankruptcy Code permits that reversal when the solicitation complied with applicable nonbankruptcy law or, where no such law governs, when creditors received adequate information before voting.
 
