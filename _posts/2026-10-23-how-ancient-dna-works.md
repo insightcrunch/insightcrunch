@@ -6,16 +6,17 @@ date: 2026-10-23
 categories: ["Technology"]
 tags: ["science-ancient-dna", "ancient-dna", "paleogenomics", "human-evolution", "neanderthals", "archaeological-science"]
 excerpt: "How ancient DNA works: short damaged fragments are recovered from bone and teeth, authenticated by their damage, and read as genomes from the deep past."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2026-10-23
+lang: en
 ---
 ## Fragments, Not Intact Genomes, Are What Survive
 
 Ancient DNA works because laboratories treat every fragment as suspect, combining dense substrates, clean room control, damage patterns and statistical comparison, so a result is trusted only when contamination would have to imitate several independent signs of age at once. The material recovered from an old bone or tooth bears little resemblance to the long, ordered molecule taken from a living cheek swab. Ancient fragments commonly measure 30 to 70 base pairs long, a length closer to a sentence torn from a book than to the book itself. Millions of such pieces may survive in a single gram of bone, yet each piece ends abruptly, carries chemical changes along its length, and arrives mixed with genetic material from soil bacteria, fungi, plants, animals, and every person who handled the specimen after excavation. The work therefore begins with suspicion rather than celebration, and that suspicion shapes every later choice, from the bone selected for drilling to the statistical test applied after sequencing.
 
-![Ancient bone fragments and laboratory sequencing reads used to recover ancient DNA - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ancient bone fragments and laboratory sequencing reads used to recover ancient DNA - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The scale of that mixture explains why early success attracted early doubt. In 1984, Higuchi and colleagues reported sequences recovered from a dried museum skin of the quagga, an extinct relative of the zebra, in work often credited as the first published recovery of genetic material from an organism no longer alive. A year later, a 1985 report by Svante Paabo described sequences attributed to an Egyptian mummy, a claim later treated cautiously because early copying methods could amplify a single modern contaminant as efficiently as an authentic old molecule, and because the checks needed to separate the two had not yet matured. The contrast between those two episodes taught the field a durable lesson. Preservation was possible, but possibility alone proved nothing about any particular result, and a sequence matching a plausible ancestor could still have entered the tube long after burial.
 
