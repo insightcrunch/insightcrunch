@@ -520,3 +520,27 @@ creditor-ever-full-interest-keep-not-paid-shareholder | how-prepackaged-bankrupt
 after-bar-claim-date-happen-pass | how-prepackaged-bankruptcy-works | What is a claims bar date and what happens after it passes?
 bankruptci-become-cas-common-corporate-large-prepackag | how-prepackaged-bankruptcy-works | Why did prepackaged bankruptcies become common in large corporate cases?
 bankruptcy-case-public-read-record | how-prepackaged-bankruptcy-works | What records from a bankruptcy case can the public read?
+
+## science-ancient-dna
+
+### how-ancient-dna-works
+ancient-dna-simple-terms | how-ancient-dna-works | What is ancient DNA in simple terms?
+ancient-bone-dna-needed-sample | how-ancient-dna-works | How much bone is needed for an ancient DNA sample?
+ancient-bone-dna-petrous-research-used | how-ancient-dna-works | Why is the petrous bone used so often in ancient DNA research?
+dna-ever-oldest-recovered | how-ancient-dna-works | What is the oldest DNA ever recovered?
+ancient-determine-dna-remains-scientists-sex | how-ancient-dna-works | How do scientists determine the sex of ancient remains from DNA?
+ancient-dna-related-show-skeletons-two | how-ancient-dna-works | Can ancient DNA show whether two skeletons were related?
+actually-ancient-dna-human-library-proportion | how-ancient-dna-works | What proportion of an ancient DNA library is actually human?
+ancient-controls-dna-laboratories-negative-use-work | how-ancient-dna-works | Why do laboratories use negative controls in ancient DNA work?
+dna-first-mitochondrial-studied | how-ancient-dna-works | What is mitochondrial DNA and why was it studied first?
+ancient-ancestry-change-dna-living-neanderthal-people-understanding | how-ancient-dna-works | How did ancient DNA change understanding of Neanderthal ancestry in living people?
+denisovans-dna-identified | how-ancient-dna-works | Who were the Denisovans and how were they identified from DNA?
+ancient-diseases-dna-identify-killed-past-people | how-ancient-dna-works | Can ancient DNA identify diseases that killed people in the past?
+ancient-cremated-dna-remains-work | how-ancient-dna-works | Does ancient DNA work on cremated remains?
+ancient-cold-destroy-dna-faster-heat | how-ancient-dna-works | Why does heat destroy ancient DNA faster than cold?
+capture-dna-enrichment-instead-sequencing-shotgun-used | how-ancient-dna-works | What is DNA capture enrichment and when is it used instead of shotgun sequencing?
+ancient-dna-hair-preserve-root | how-ancient-dna-works | Can hair preserve ancient DNA without a root?
+accurate-ancient-ancestry-genome-reconstruction-single | how-ancient-dna-works | How accurate is ancestry reconstruction from a single ancient genome?
+ancient-changes-dna-genome-happens-reference-results | how-ancient-dna-works | What happens to ancient DNA results when a reference genome changes?
+ancient-claims-disputed-dna-famous-get-withdrawn | how-ancient-dna-works | Why do some famous ancient DNA claims get withdrawn or disputed?
+ancient-different-dna-forensic-testing | how-ancient-dna-works | How is ancient DNA different from forensic DNA testing?

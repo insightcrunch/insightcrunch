@@ -84,3 +84,7 @@
 ## how-prepackaged-bankruptcy-works
 - _posts/2026-10-16-how-at1-bonds-work.md — could carry: "A different loss order governs bank capital in a rescue; for the corporate version, where classes vote on the loss before any filing, see how a prepackaged bankruptcy works."
 - _posts/2012-04-01-insolvency-bankruptcy-code-2016-guide.md — could carry: "India runs its corporate insolvency process through a tribunal after default; the American prepackaged route settles the bargain before filing, as how a prepackaged bankruptcy works explains."
+
+## how-ancient-dna-works
+- _posts/2026-10-20-how-archaeologists-date-ancient-shipwrecks.md — could carry: "Dating by association has a molecular counterpart; our guide to how ancient DNA works explains how damaged fragments are authenticated before any date or ancestry claim rests on them."
+- _posts/2004-07-01-tutankhamun-boy-king-of-egypt.md — could carry: "The parentage claims on this page rest on genetic work whose authentication standards are explained in our guide to how ancient DNA works."
