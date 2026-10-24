@@ -6,17 +6,17 @@ date: 2019-10-16
 categories: ["Industry"]
 tags: ["Indian Politics", "Babri Demolition", "Ayodhya Babri Masjid", "Movement to Institutional Phase", "Liberhan Commission", "Sangh Parivar", "Hindu Nationalism", "Kar Sevak Mobilisation"]
 excerpt: "The Babri Masjid demolition was the legible end of Hindutva's movement phase and the start of the institutional-electoral phase that governed its next decades."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-10-16
+lang: en
 ---
-
 On 6 December 1992, at Ayodhya in Uttar Pradesh, a crowd of kar sevaks demolished the Babri Masjid, the mosque built in 1528 and 1529 by Mir Baqi, a commander of the Mughal emperor Babur, on the site that the Ram Janmabhoomi movement claimed as the birthplace of the god Ram. The 1992 Babri Masjid demolition is usually filed under two headings: crime or consequence. The criminal-legal heading follows the Liberhan Commission, the chargesheets and the acquittals. The political-consequences heading follows the riots, the dismissed state governments and the Bharatiya Janata Party's electoral graph. Both headings are accurate and both are incomplete, because the demolition's deepest effect was architectural. It ended, legibly and in a single afternoon, the movement phase of Hindutva that had run from the Ram Shila Pujan of 1989 through the Rath Yatra of 1990, and it opened the institutional-electoral phase that governed the Sangh Parivar's conduct for the following twenty-two years, until the integrated renegotiation after 2014 reactivated mobilisation through different machinery.
 
 <!--more-->
 
-![Kar sevaks assembled at Ayodhya in December 1992 before the disputed Babri Masjid structure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kar sevaks assembled at Ayodhya in December 1992 before the disputed Babri Masjid structure - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The claim defended here is precise. The 1992 Babri demolition was the legible end of Hindutva's movement phase; the post-1992 institutional-electoral phase operated for twenty-two years before the post-2014 reactivation. Legible is the operative word. Phases of a political movement rarely announce their own endings; parties continue to use movement vocabulary long after movement methods have been retired, and historians argue over terminal dates for decades. The afternoon of 6 December 1992 supplied its own punctuation. A mobilisation architecture assembled over three years, the largest the Sangh Parivar had ever fielded, reached its stated object and destroyed it, and in doing so destroyed the conditions of its own continuation. The criminal cases that followed constrained named leaders for twenty-eight years. The federal reaction dismissed four Bharatiya Janata Party governments and demonstrated that no state administration aligned with the movement could shield a movement act. The diplomatic reaction taxed Indian foreign policy for a decade. And the cadre base that had converged on Ayodhya dispersed into a landscape in which mass mobilisation no longer had an object, a calendar or an institutional home. What replaced the movement was not quietism. It was a different machine: coalition architecture, agenda deferral under alliance discipline, and organisational expansion through state-level electoral consolidation, tested in the thirteen-day government of May 1996, operationalised in the National Democratic Alliance of 1998, and sustained until 2014. The thirty-two-year arc from the consecrated bricks of 1989 to the temple consecration of 22 January 2024 is the evidence. Read whole, it shows a phase transition, not a pause.
 

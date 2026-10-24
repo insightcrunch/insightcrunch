@@ -6,17 +6,17 @@ date: 2019-02-21
 categories: ["Industry"]
 tags: ["Indian Politics", "Hindi Imposition", "Anti-Hindi Agitation", "Tamil Nadu", "Official Languages Act", "Indian Federalism", "Three-Language Formula", "Article 343"]
 excerpt: "Hindi-imposition resistance in the nineteen-fifties was a national constitutional contest whose settlement kept English in official use without a terminal date."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2019-02-21
+lang: en
 ---
-
 The Hindi imposition contest of the 1950s began inside a constitutional sentence. Article 343 of the Constitution of India, which commenced on 26 January 1950, declared that the official language of the Union shall be Hindi in Devanagari script, and then, in its second clause, permitted the English language to continue for official purposes for fifteen years from commencement. Fifteen years is a deadline disguised as a reassurance. Every government file, every railway form, every Union Public Service Commission examination paper in Madras, Calcutta, Bangalore and Bombay was stamped with an expiry date of 26 January 1965, and the politics of the decade that followed was the politics of that date. The claim defended here is the namable claim of this article: the 1950s Hindi-imposition contest shaped the constitutional language settlement, and the agitation that followed the deadline in 1965 was settlement-confirmation, not a fresh contest. The resistance that began in the 1950s was not a provincial refusal to learn a language. It was an organised argument, conducted in Parliament, in commissions, in state legislatures and on the streets of Madras State, about what kind of Union India had founded in 1950, and it extracted from the Union government first a prime ministerial assurance in the Lok Sabha on 7 August 1959 and then a statute, the Official Languages Act of 1963, Act 19 of 1963, that suspended the deadline indefinitely.
 
 <!--more-->
 
-![Article 343 of the Constitution, the fifteen-year English deadline and the Madras resistance of the 1950s - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Article 343 of the Constitution, the fifteen-year English deadline and the Madras resistance of the 1950s - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 ## Article 343 and Hindi Imposition: The History of a Fifteen-Year Compromise
 

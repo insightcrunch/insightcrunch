@@ -6,17 +6,17 @@ date: 2019-10-10
 categories: ["Industry"]
 tags: ["Indian Politics", "Advani Rath Yatra", "Ayodhya Movement", "L.K. Advani", "Ram Janmabhoomi", "VHP Mobilisation", "Hindu Mass Mobilisation", "Sangh Parivar"]
 excerpt: "Advani's September-October Rath Yatra operationalised Ayodhya as Hindutva's first mass mobilisation vehicle, breaking from the cadre-only architecture."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-10-10
+lang: en
 ---
-
 On 25 September 1990, at Somnath on the Gujarat coast, L.K. Advani, president of the Bharatiya Janata Party, climbed onto a converted Toyota van rebuilt to resemble a temple chariot and set out on the Ram Rath Yatra, a road journey planned at 10,000 kilometres whose destination was Ayodhya in Uttar Pradesh. The Vishwa Hindu Parishad, the VHP, had announced that on 30 October 1990 its volunteers, the kar sevaks, would begin kar seva, voluntary construction service, at the site in Ayodhya that Hindus revere as the birthplace of Ram and that the Babri Masjid, a mosque raised in 1528 on the orders of the Mughal emperor Babur's commander Mir Baqi, then occupied. The Yatra never reached Ayodhya. On 23 October 1990 the Bihar government of Lalu Prasad Yadav arrested Advani at Samastipur, and the BJP withdrew its outside support from the National Front government of V.P. Singh on the same day; that government lost its confidence vote in the Lok Sabha on 7 November 1990. The political consequences are the familiar part of the story. The institutional consequence is the part that matters, and it is the claim this article defends: the Rath Yatra operationalised Ayodhya as Hindutva's first mass-mobilisation vehicle, breaking the cadre-only architecture through which the Rashtriya Swayamsevak Sangh, the RSS, had organised the movement since 1925, and the cadre-plus-mass architecture built in those weeks became the durable institutional configuration of Hindutva politics.
 
 <!--more-->
 
-![L.K. Advani's 1990 Rath Yatra chariot procession and the Ayodhya movement's mass mobilisation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![L.K. Advani's 1990 Rath Yatra chariot procession and the Ayodhya movement's mass mobilisation - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The electoral reading of the Yatra, dominant in the standard treatments, measures the event by its harvest: the fall of the V.P. Singh government, the BJP's rise from 85 Lok Sabha seats in 1989 to 120 in 1991, the party's capture of the Uttar Pradesh government in June 1991. Those numbers are real, and a later section of this article sets them out in full. Yet an electoral harvest is gathered once and spent, and the Yatra's deepest effects were not spent in 1991. What the Yatra built was a standing capability: a tested method for converting religious sentiment into coordinated national political action, run by an organisation, the VHP, that sat between the RSS cadre order and the BJP electoral machine, and a repertoire of procession, consecration and volunteer mobilisation that could be reactivated at chosen moments for decades. Reading the Yatra through that institutional architecture, rather than through the election results that followed it, is the analytical move defended here, and it is the reading that makes the Yatra's place inside the wider argument of this pillar, [the tripartite-disentanglement framework](/2019/09/02/hindutva-three-distinct-ideologies/), concrete: at Somnath in September 1990, the third of the three Hindutvas, the mass-political one, acquired its operating machinery.
 

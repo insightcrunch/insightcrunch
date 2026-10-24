@@ -6,17 +6,17 @@ date: 2019-06-22
 categories: ["Industry"]
 tags: ["Indian Politics", "UPA Verdict", "India Shining", "Manmohan Singh", "Sonia Gandhi", "MGNREGA", "RTI Act", "Coalition Era"]
 excerpt: "The UPA verdict was a sectoral demand from rural agricultural voters in three states, not a national rejection of the BJP as the conventional reading holds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2019-06-22
+lang: en
 ---
-
 The 2004 UPA shock verdict is usually explained in one sentence: rural India rejected the Bharatiya Janata Party and its India Shining campaign, and the Congress returned to office on the strength of that rejection. The sentence survives because it contains a fragment of truth arranged in the wrong shape. When counting closed on 13 May 2004, the Election Commission of India recorded the Congress as the largest party with 145 seats and the Bharatiya Janata Party second with 138, a result that almost every published forecast had inverted. Yet the Congress share of the national vote, 26.53 percent in the Election Commission of India statistical report on the 2004 general election, was lower than the 28.30 percent the party had won in defeat in 1999. A verdict in which the winning party loses vote share, gains 31 seats and assembles a government out of pre-poll allies, post-poll partners and outside backing is not a wave, and it cannot be read as one. This article defends a narrower and stronger claim. The 2004 verdict was sectoral, not generic. Its decisive seat movements were concentrated in identifiable state arenas where agrarian distress, state incumbency and alliance design converged, above all in Andhra Pradesh and Tamil Nadu, with Karnataka supplying the stress test that refines the argument. The post-2004 legislation on employment, information and rural health was the verdict's policy translation, drafted in the Common Minimum Programme of May 2004 and carried through institutions built for that purpose. The verdict was sectoral, not generic; the post-2004 MGNREGA-RTI-NRHM legislation was the verdict's specific policy translation.
 
 <!--more-->
 
-![The 2004 UPA shock verdict and its sectoral geography - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 2004 UPA shock verdict and its sectoral geography - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## The Shock of 13 May 2004: A Majority Assembled, Not a Wave Declared
 

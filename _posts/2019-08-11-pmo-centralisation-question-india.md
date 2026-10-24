@@ -6,17 +6,17 @@ date: 2019-08-11
 categories: ["Industry"]
 tags: ["Indian Politics", "PMO Centralisation", "Indira Modi Compared", "Personality as Institution", "Indian Governance", "Modi Era", "Institutional Architecture", "Prime Minister's Office"]
 excerpt: "PMO centralisation under Modi shares features with Indira's office-rebuilding but operates through different institutional mechanisms and constraints."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-08-11
+lang: en
 ---
-
 PMO centralisation is the charge most often levelled at the government Narendra Modi has led since 26 May 2014, and the argument usually proceeds by analogy. The Prime Minister's Office under Modi, on the familiar telling, either repeats the office Indira Gandhi built between 1966 and 1977 with new branding, or it marks a complete rupture from every earlier pattern of rule in New Delhi. This article argues that both analogies fail, and that the failure can be demonstrated rather than merely asserted. Read through its institutional mechanisms and its structural constraints, the Modi PMO shares four structural features with the Indira PMO, and differs from it in nearly every mechanism by which those features are produced and nearly every constraint against which they operate.
 
 <!--more-->
 
-![PMO centralisation compared across the Indira and Modi eras - Insight Crunch](/assets/images/blog/blog-01.webp)
+![PMO centralisation compared across the Indira and Modi eras - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## Two Analogies, and the Claim This Article Defends
 

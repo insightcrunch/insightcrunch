@@ -6,17 +6,17 @@ date: 2018-12-12
 categories: ["Industry"]
 tags: ["Indian Politics", "Hindu Code Bill", "Indian Secularism", "Nehru", "Ambedkar", "Religion and Politics", "Personal Law", "Constitutional History"]
 excerpt: "The Hindu Code Bill was the first explicit test of Indian secularism, reforming Hindu personal law by statute while leaving Muslim personal law untouched."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2018-12-12
+lang: en
 ---
-
 The Hindu Code Bill is usually filed under family law, as if its nine-year passage from committee room to statute book were a technical exercise in tidying marriage, succession, adoption and guardianship rules for one community. That filing is a misreading, and it is the misreading this article contests. Between September 1947, when the Cabinet of the new Dominion resolved to carry the Bill forward, and December 1956, when the fourth and last of its successor statutes received assent, the Bill forced a question that the Constitution had deliberately left open: how far may a secular state reach inside the personal law of a religious community, and may it reach into one community's law while leaving another's untouched? Every later contest over personal law in India has been argued inside the answer that the Hindu Code Bill produced. The answer was asymmetric. Hindu personal law was reformed by parliamentary statute, in depth and against organised religious opposition. Muslim personal law was preserved, deliberately and on stated grounds of community autonomy. The claim defended throughout is the brief's own: the Hindu Code Bill's asymmetric outcome was the constitutive choice that defined Indian secularism, not an accidental incompleteness.
 
 <!--more-->
 
-![Hindu Code Bill debates in the Constituent Assembly (Legislative) and the making of Indian secularism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hindu Code Bill debates in the Constituent Assembly (Legislative) and the making of Indian secularism - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## The Hindu Code Bill and the Question It Actually Posed
 

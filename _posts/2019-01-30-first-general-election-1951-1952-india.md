@@ -6,17 +6,17 @@ date: 2019-01-30
 categories: ["Industry"]
 tags: ["Indian Politics", "First General Election", "Sukumar Sen", "Election Commission", "Indian Democracy", "Universal Franchise", "Nehruvian Era", "First Lok Sabha"]
 excerpt: "The first general election in India was an institutional gamble that succeeded against the predictions of sceptics, on preconditions never repeated since."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2019-01-30
+lang: en
 ---
-
 The first general election of India, held in stages between 25 October 1951 and 21 February 1952, is usually told as a triumph that settled a question. A republic of some 360 million people, most of whom could not read, enfranchised roughly 173 million voters at a stroke, built 196,084 polling stations where no electoral machinery had ever reached, and produced a result that every defeated party accepted. The standard telling stops there, and the stopping is the problem. Read against the Election Commission of India's Statistical Report on the General Elections, 1951 to the First Lok Sabha, published in 1955, the election looks less like proof of a permanent national talent for voting and more like a wager that succeeded because three preconditions happened to hold at the same time. Sukumar Sen, the first Chief Election Commissioner, improvised an administrative architecture that had no precedent anywhere. The Indian National Congress carried into the contest an organisational network assembled over three decades of mass mobilisation, reaching villages that the state itself barely touched. And the opposition that might have tested either the architecture or the Congress stood fragmented, split in 1948, suppressed after 1948, or founded only weeks before polling began. Remove any one of the three, and the gamble of 1951 to 1952 reads differently.
 
 <!--more-->
 
-![Sukumar Sen and the ballot architecture of the first general election of 1951 to 1952 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sukumar Sen and the ballot architecture of the first general election of 1951 to 1952 - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## The First General Election of 1951 to 1952 and the Prediction of Failure
 

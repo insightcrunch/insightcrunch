@@ -6,17 +6,17 @@ date: 2019-08-16
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian General Election", "Modi Second Term", "BJP Victory", "Coalition Era End", "Personal Authority", "Modi Era", "Mandate Confirmation"]
 excerpt: "The election verdict was confirmation of the personal authority that the mandate had created, and it made the coalition era's closure structurally durable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-08-16
+lang: en
 ---
-
 The 2019 Indian general election results, declared on 23 May 2019 after seven phases of polling held between 11 April and 19 May 2019, returned the Bharatiya Janata Party to office with 303 Lok Sabha seats on 37.36 percent of the national vote, a larger mandate than the 282 seats and 31.00 percent with which the party had displaced the Congress-led alliance in 2014. Read as an election result, the verdict was emphatic. Read as a structural event, the verdict was something more precise: confirmation that the political architecture created in 2014 rested on foundations able to absorb five years of accumulated economic and political costs, and that the coalition era interrupted in 2014 stood closed at the level of structure rather than suspended at the level of arithmetic.
 
 <!--more-->
 
-![The 2019 election verdict and its structural confirmation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 2019 election verdict and its structural confirmation - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The claim defended in this article is stated plainly at the outset. The 2019 verdict confirmed the structural durability of what 2014 had enabled; the post-2019 integrated three-tensions renegotiation was operationally possible only because of this confirmation. That claim competes with a settled alternative reading. On the electoral-mandate reading, held in different forms by Christophe Jaffrelot in Modi's India (2021), by Suhas Palshikar in his post-2019 essays in the Economic and Political Weekly, and by much of the commentary the verdict produced, the election of May 2019 is explained by its arithmetic: a popular incumbent, a divided opposition, a national-security crisis in the campaign's opening weeks, and a first-past-the-post system that converted a 37.36 percent vote into a commanding seat majority. The arithmetic is real, and this article does not dispute a single figure in it. The dispute concerns what the arithmetic explains. A mandate reading can say who won and by how much. It cannot say why the mandate was available to be won after five years in which the incumbent government had imposed the two most disruptive economic interventions of the post-reform decades, had presided over a documented employment shortfall, and had lost three state governments in the Hindi belt five months before polling began. The structural-confirmation reading begins where the mandate reading stops: with the prior question of what had been built between 2014 and 2019 that made the verdict robust to its own record.
 

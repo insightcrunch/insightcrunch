@@ -6,17 +6,17 @@ date: 2019-09-29
 categories: ["Industry"]
 tags: ["Indian Politics", "Deendayal Upadhyay", "Integral Humanism", "Ekatma Manav Darshan", "Bharatiya Jana Sangh Ideology", "Hindutva Philosophy", "Sangh Parivar", "Indian Political Philosophy"]
 excerpt: "Deendayal Upadhyay's Integral Humanism was Hindutva's bid for an indigenous political philosophy, distinct from Savarkar's and Golwalkar's frameworks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-09-29
+lang: en
 ---
-
 Between 22 and 25 April 1965, in Mumbai, Deendayal Upadhyay delivered four lectures under the title Ekatma Manav Darshan, the doctrine that English-language publication rendered as Integral Humanism. Upadhyay spoke as general secretary of the Bharatiya Jana Sangh, the post he had held since 1953, and the lectures were delivered during the party's national session before an audience of its own delegates and organisers. The four lectures were then issued as a short monograph of roughly fifty printed pages. That slim volume became the most consequential text in the Jana Sangh's doctrinal life: the text the party adopted as its official ideology, the text its successor party retained as a named commitment, and the text through which later governments justified programmes bearing Upadhyay's name. The standard treatments of the monograph divide into two kinds. Hagiographic treatments, multiplied after 2014, celebrate the author and attach his name to welfare programmes, renamed stations and school curricula. Organisational treatments, written by historians of the Jana Sangh, file the lectures as an antecedent, a doctrinal prelude to the Bharatiya Janata Party founded in 1980. Both kinds pass over the object itself. The lectures contain a worked philosophical argument, built from named concepts, arranged in a deliberate sequence, and aimed against named rival doctrines. That argument is the subject here. The claim defended is the brief's claim: Deendayal Upadhyay's Integral Humanism is philosophically distinct from Savarkar's territorial-cultural framework and from Golwalkar's organic-social framework, and the philosophical-substantive reading is what makes the distinction citable.
 
 <!--more-->
 
-![Deendayal Upadhyay delivering the Integral Humanism lectures at Mumbai in April 1965 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Deendayal Upadhyay delivering the Integral Humanism lectures at Mumbai in April 1965 - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 ## The Mumbai Lectures of April 1965 as a Philosophical Event
 

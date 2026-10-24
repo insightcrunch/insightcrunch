@@ -6,17 +6,17 @@ date: 2019-07-25
 categories: ["Industry"]
 tags: ["Indian Politics", "GST", "GST Council", "Cooperative Federalism", "101st Constitutional Amendment", "Indian Federalism", "Modi Era", "Tax Reform"]
 excerpt: "The GST architecture tested cooperative federalism through the GST Council; the survival of that test established a durable centre-state mechanism for India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-07-25
+lang: en
 ---
-
 At midnight on 1 July 2017, in the Central Hall of Parliament, President Pranab Mukherjee and Prime Minister Narendra Modi jointly launched the Goods and Services Tax, and GST 2017 entered Indian fiscal life as the largest indirect-tax unification since independence: seventeen Union and state taxes folded into one levy, five rate slabs where dozens of cascading charges had stood, and a single market promised from Kanyakumari to Kashmir. That description is accurate, and it is the least interesting true sentence that can be written about the event, because the launch's durable significance sits not in the tax but in the machine built to govern it: a constitutional council in which the Union government holds one-third of the vote, the states together hold two-thirds, and nothing passes without three-fourths of the weighted votes in the room. The GST Council tested whether India's centre and states could run a shared tax base by reciprocal veto rather than by hierarchy, and the record of the Council from its first meeting on 22 and 23 September 2016 through its fifty-third meeting on 22 June 2024 is the evidence on which any verdict about cooperative federalism in the Modi era must rest.
 
 <!--more-->
 
-![GST Council chamber and the reciprocal-veto design of Article 279A - Insight Crunch](/assets/images/blog/blog-01.webp)
+![GST Council chamber and the reciprocal-veto design of Article 279A - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 ## The Tax-Reform Reading of GST 2017, and the Question It Cannot Answer
 

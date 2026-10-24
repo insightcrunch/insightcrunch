@@ -6,16 +6,16 @@ date: 2019-05-04
 categories: ["Industry"]
 tags: ["Indian Politics", "Indira Gandhi", "Congress(I)", "Sanjay Gandhi", "Lok Sabha Elections", "Indira Era", "Post-Emergency"]
 excerpt: "The return restored Indira Gandhi to office without restoring the older Congress organisation; the Congress(I) she led was structurally a different entity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2019-05-04
+lang: en
 ---
-
 The 1980 Indira return is conventionally told as a story of vindication, and the electoral record seems to settle the matter before argument begins. The Election Commission of India, in its Statistical Report on the General Elections to the Seventh Lok Sabha published after the January 1980 poll, counted 353 seats for the Indian National Congress (Indira), won on 42.69 percent of the valid vote. Indira Gandhi took the oath as Prime Minister on 14 January 1980, less than three years after the electorate had thrown her out for the Emergency. The vindication reading holds that the verdict closed the Emergency chapter: the voter had weighed the excesses of 1975 to 1977 against the disorder of the Janata years and had chosen the dismissed leader again, restoring her and her party together. This article defends a different claim about what the January 1980 verdict restored. The return restored Indira Gandhi to office without restoring the Congress organisation that had once carried her; the party that won those 353 seats, the Congress(I), was structurally a different entity from the Congress that had governed before 1975, its organisational shell hollowed across the decade from 1969 to 1977 and its internal authority concentrated in a single pair of hands. The years 1980 to 1984 therefore complete a project that began with the Congress split of 1969: the rebuilding of prime ministerial office around personal authority, carried out inside a party that kept the old name, much of the old vocabulary and very little of the old machinery.
 
 <!--more-->
-![The 1980 Indira return to power and the remade Congress(I) - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1980 Indira return to power and the remade Congress(I) - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 ## The Vindication Reading of the 1980 Indira Return, and What It Leaves Out
 

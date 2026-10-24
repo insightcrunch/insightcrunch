@@ -6,17 +6,17 @@ date: 2018-12-28
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian Secularism", "Constituent Assembly", "Religion and State", "Rajeev Bhargava", "Constitutional History", "Article 25", "Indian Constitution"]
 excerpt: "The Constituent Assembly debates produced a layered Indian secularism, not a single principle, with three never-harmonised positions on state and religion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2018-12-28
+lang: en
 ---
-
 Secularism in the Indian Constitution is usually taught as a single principle with a single adjective attached: the Indian variant, warmer and more accommodating than the Western wall of separation, yet still one idea. The Constituent Assembly Debates of December 1948 tell a different story. Across the sittings of the first week of that month, the members who debated Draft Articles 19 to 22B built three distinct settlements between state and religion and placed them side by side in the constitutional text: a state that establishes no religion and funds none from taxation, a state that respects every religion as a bearer of rights, and a state armed with authority to enter religion and reform it. The three settlements were never harmonised. This article defends a single claim about that record: Indian secularism is not one principle; it is three layers that the founders did not fully harmonise, and the contests that followed have been arguments about which layer governs a dispute, conducted in the vocabulary of secularism as a whole.
 
 <!--more-->
 
-![Secularism in the Constituent Assembly debates over Articles 25 to 28 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Secularism in the Constituent Assembly debates over Articles 25 to 28 - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The claim matters because the standard treatments flatten the record in opposite directions. Rajeev Bhargava, in The Promise of India's Secular Democracy in 2010, reads the founding as a coherent and distinctive achievement: a principled distance between state and religion that permits engagement or disengagement as principle requires. The opposing treatment, common in polemic after 2014, reads the founding as a failed copy of Western separation, incoherent because the Indian state refused to leave religion alone. Both treatments share one assumption: that the founders enacted a principle, which later history either honoured or betrayed. The debate record refuses that assumption. When the Assembly rejected K. T. Shah's attempt to write the word secular into Article 1 on 15 November 1948, and when the same Assembly, three weeks later, guaranteed a right to propagate religion while empowering legislatures to throw open Hindu temples to excluded castes, the members were not applying a principle. They were stacking settlements, each answering a different fear, and leaving the ranking among them undecided. Recovering that stack is the work of the sections that follow, and it begins from the widest frame the founding offers: [Tension One, the religious-secular settlement, that this article works out](/2018/12/01/constituent-assembly-three-tensions-founding-india/) was the first of the three permanent tensions around which the whole founding turned.
 

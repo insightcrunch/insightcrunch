@@ -6,17 +6,17 @@ date: 2019-03-15
 categories: ["Industry"]
 tags: ["Indian Politics", "Lal Bahadur Shastri", "Nehru Succession", "Congress Syndicate", "Indira Gandhi", "Nehruvian Era", "Kamaraj", "Post-Nehru Politics"]
 excerpt: "Lal Bahadur Shastri's succession was a structural compromise that left leadership unresolved, and Indira's succession became the syndicate's second gamble."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2019-03-15
+lang: en
 ---
-
 On 27 May 1964, Jawaharlal Nehru died in his sleep at Teen Murti House in New Delhi, and within hours the largest political party in the democratic world had to answer a question it had refused to settle for a decade: who leads after the founder? The Congress Parliamentary Party named Lal Bahadur Shastri as Nehru's successor on 2 June 1964, and Shastri took the oath as Prime Minister on 9 June 1964, in a transfer of power so orderly that textbooks still present it as proof of the Congress System's maturity. That celebration misses the structure of what happened. The five organisational bosses who managed the transfer, the group political India learned to call the syndicate, did not resolve the leadership question in 1964. They postponed it, choosing the man each faction could accept rather than the leader any faction would have picked alone. When Shastri died at Tashkent on 11 January 1966, the syndicate reached for the same instrument a second time and chose Indira Gandhi on the same assumption of pliability. The syndicate's arithmetic was wrong twice, and the second error carried a price the first had concealed: the Congress split of 1969, which ended the organisational order the syndicate existed to protect.
 
 <!--more-->
 
-![Lal Bahadur Shastri and the 1964 succession managed by the Congress syndicate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lal Bahadur Shastri and the 1964 succession managed by the Congress syndicate - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The claim defended in this article can be stated in one sentence. The 1964 succession question never went away; it was deferred by two contingent events, Shastri's emergence as the compromise successor and Shastri's sudden death at Tashkent, and the deferrals produced the 1969 split. Everything in the record supports reading the two successions as one unresolved question handled twice by the same five men with the same method and the same misjudgement. K. Kamaraj, S. Nijalingappa, Atulya Ghosh, Neelam Sanjeeva Reddy and S. K. Patil controlled the Congress organisation between them, and between them they controlled neither a parliamentary majority of opinion nor a candidate of their own. Their power was procedural: they ran the state units, the membership rolls, the ticket distribution and the soundings that preceded a formal vote. A group whose strength is procedure will prefer a successor who owes the office to procedure, and it will mistake gratitude for obedience. Shastri disappointed that expectation by governing in his own hand through the war of 1965 and the Tashkent settlement. Indira Gandhi disappointed it by building a rival centre of authority inside the Prime Minister's office and then breaking the organisation that had installed her. The smoothness reading of 1964, which treats the transfer as a Congress-System triumph, and the structural-compromise reading defended here disagree about what the syndicate was doing. Adjudicating that disagreement on the voting records, the Kamaraj correspondence and the press record of June 1964 and January 1966 is the work of the sections that follow.
 

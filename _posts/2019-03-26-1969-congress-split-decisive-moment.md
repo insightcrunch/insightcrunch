@@ -6,17 +6,17 @@ date: 2019-03-26
 categories: ["Industry"]
 tags: ["Indian Politics", "Congress Split", "Indira Gandhi", "Congress Syndicate", "Sanjeeva Reddy", "V.V. Giri", "Indian National Congress", "Indira Era"]
 excerpt: "The Congress split was the structural pivot of post-Independence Indian politics, establishing that party discipline could be sacrificed for personal authority."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-03-26
+lang: en
 ---
-
 The 1969 Congress split is usually told as a story of clashing wills: a young Prime Minister, Indira Gandhi, against the five ageing bosses of the syndicate, in a fight over who would sit in Rashtrapati Bhavan. The personalities were real, and the quarrel over Neelam Sanjeeva Reddy and Varahagiri Venkata Giri was genuinely bitter. Yet the personality story explains the spark and misses the fire. Between January and November 1969 the Indian National Congress did something no governing party in a parliamentary democracy is supposed to survive doing to itself: it broke the whip on a vote its own candidate had to win, expelled its own Prime Minister, and divided into two parties that then asked the electorate to decide which of them was the Congress. The electorate answered in 1971, but the deeper settlement was institutional. The split taught every later holder of high office that party discipline was a negotiable instrument, that an organisation could be outbid by a direct appeal to voters, and that the great offices of the Constitution could be fought over as factional prizes. Those lessons, once learned, were never unlearned.
 
 <!--more-->
 
-![Congress delegates during the contested presidential election season of 1969 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Congress delegates during the contested presidential election season of 1969 - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The claim defended here can be stated in one sentence. The 1969 split was the structural pivot of post-Independence Indian politics, more consequential than the Emergency that followed six years later, because the split established the precedent that party discipline could be sacrificed for personal authority, and everything from 1975 to 1991 follows from this decision tree. The Emergency of June 1975 was an episode, terrible and finite, which the voters of March 1977 reversed at the ballot box. The split was a change in the operating rules of the system itself. Before November 1969, a Congress Prime Minister governed through an organisation that could, in principle, remove her; the syndicate had installed Lal Bahadur Shastri in June 1964 and Indira Gandhi in January 1966 on precisely that assumption. After November 1969, the Prime Minister owned the party in a sense no predecessor had: its legislators owed their tickets to her, its committees took their membership from her nominees, and its president at the Bombay session of December 1969, Jagjivan Ram, held office by her favour. The personality reading of the split, represented in its most accomplished form by Inder Malhotra's Indira Gandhi: A Personal and Political Biography (1989), captures the proximate trigger with unmatched narrative detail. The structural reading, which Rajni Kothari's Politics in India (1970) made possible and which this article defends, explains why the consequences ran for decades after the personalities had left the stage. Adjudicating between those readings on the primary record, the expulsion resolution of 12 November 1969 preserved in the AICC Papers at the Nehru Memorial Museum and Library, the strategic memoranda in the Mohan Kumaramangalam papers, and the Lok Sabha debates of August to November 1969, is the work of the sections that follow.
 

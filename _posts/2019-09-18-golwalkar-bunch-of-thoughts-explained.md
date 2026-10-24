@@ -6,17 +6,17 @@ date: 2019-09-18
 categories: ["Industry"]
 tags: ["Indian Politics", "Golwalkar Bunch of Thoughts", "M.S. Golwalkar", "Hindutva Foundational Text", "Organic Social Hindutva", "RSS Sarsanghchalak", "Bunch of Thoughts Analysis", "Sangh Parivar"]
 excerpt: "Golwalkar's Bunch of Thoughts articulates an organic-social Hindutva substantively distinct from Savarkar's territorial-cultural framework on every register."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2019-09-18
+lang: en
 ---
-
 Golwalkar's Bunch of Thoughts explained on its own terms is a different book from the one standard summaries describe, because the summaries read the 1966 text through a handful of contested passages while the book itself builds a framework. Madhav Sadashiv Golwalkar, second Sarsanghchalak of the Rashtriya Swayamsevak Sangh from 1940 to 1973, left no unified treatise; he left speeches, interviews and writings that his associates arranged into a thematic volume whose argument is architectural. This article defends a namable claim: Golwalkar's organic-social Hindutva is substantively distinct from Savarkar's territorial-cultural Hindutva, and the conceptual architectures differ on every register that matters, in the unit of analysis, in the organisational vehicle each framework presupposes, and in the theoretical commitments each one carries.
 
 <!--more-->
 
-![Golwalkar's Bunch of Thoughts and the organic-social architecture of the 1966 text - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Golwalkar's Bunch of Thoughts and the organic-social architecture of the 1966 text - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The distinction matters because the series of studies to which this article belongs separates Hindutva into three ideologies rather than one inheritance, under [the tripartite-disentanglement framework](/2019/09/02/hindutva-three-distinct-ideologies/) that reads Savarkar's 1923 doctrine, Golwalkar's organisational doctrine and the later electoral doctrine as separate constructions with separate logics. Within that separation, Golwalkar's book is the foundational text of the second ideology, and its distinctness is the fact to be established rather than assumed. Readers who collapse the two frameworks into a single tradition cannot explain why the RSS guarded Golwalkar's text as its own charter while treating Savarkar, a Hindu Mahasabha leader who never held office in the Sangh, as an honoured predecessor outside the chain of command. Readers who treat the two books as one doctrine also cannot explain the specific choices Golwalkar made: an organic whole where Savarkar had specified a membership test, a functional reading of varna where Savarkar had attacked caste as a fragmenting curse, and dharma as the anchor of identity where Savarkar had anchored identity in territory, blood and a holy land.
 

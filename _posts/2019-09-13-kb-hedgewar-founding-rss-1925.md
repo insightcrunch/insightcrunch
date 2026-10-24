@@ -6,17 +6,17 @@ date: 2019-09-13
 categories: ["Industry"]
 tags: ["Indian Politics", "K.B. Hedgewar", "RSS Founding", "Vijayadashami", "Cadre Architecture", "Shakha System", "Sangh Parivar", "Hindu Mahasabha"]
 excerpt: "K.B. Hedgewar's RSS founding established cadre architecture distinct from political-electoral mobilisation, with the organisational form proving durable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-09-13
+lang: en
 ---
-
 On 27 September 1925, the festival of Vijayadashami, Keshav Baliram Hedgewar gathered a small group of associates at his residence in Nagpur and announced the founding of the Rashtriya Swayamsevak Sangh, the organisation known by its initials as the RSS. No charter was read out, no manifesto was released to the press, and no public meeting marked the occasion. What Hedgewar unveiled that day was not a programme but a machine for producing organised men: a daily local gathering called the shakha, a cadre rather than a membership roll, a training hour that joined drill to discussion, and a strict refusal to contest elections or to merge with any political party. The argument of this article is that the near-century durability of the RSS follows from those four architectural choices of 1925, and that the standard biographical treatment of Hedgewar, which reads the Sangh as the consummation of one man's life, cannot explain why the design outlived its designer, crossed every political era since independence, and survived three separate bans with its form intact.
 
 <!--more-->
 
-![K.B. Hedgewar with early swayamsevaks at a Nagpur shakha ground - Insight Crunch](/assets/images/blog/blog-01.webp)
+![K.B. Hedgewar with early swayamsevaks at a Nagpur shakha ground - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 ## The RSS Founding at Nagpur on 27 September 1925
 

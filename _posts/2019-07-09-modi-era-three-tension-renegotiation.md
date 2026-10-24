@@ -6,17 +6,17 @@ date: 2019-07-09
 categories: ["Industry"]
 tags: ["Indian Politics", "Modi Era", "Three Tensions", "BJP Government", "Hindutva Politics", "Demonetisation", "Article 370", "CAA and NRC"]
 excerpt: "The Modi era is the first deliberate, named attempt to renegotiate all three House Thesis tensions simultaneously, distinguished from the Vajpayee era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2019-07-09
+lang: en
 ---
-
 The Modi era presents a puzzle that party labels cannot solve. Between 1998 and 2004, a government led by the Bharatiya Janata Party under Atal Bihari Vajpayee administered India for six years, and between May 2014 and the verdict of May 2019 a second BJP-led government under Narendra Modi administered the same republic. Both governments drew on the same party organisation, the same Rashtriya Swayamsevak Sangh cadre base, and the same ideological inheritance. Yet the two periods differ in kind rather than in degree, and the difference is the subject of this article. The claim defended here is precise: the Modi era is the first deliberate, named attempt to renegotiate all three permanent tensions of the founding settlement at once, the tension between religion and state, the tension between the federal and the unitary in the constitutional design, and the tension between rights and development, where the Vajpayee government engaged the same inheritance one case at a time and set its own party's three core commitments aside in order to govern at all.
 
 <!--more-->
 
-![The Modi era and the simultaneous renegotiation of the three founding tensions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Modi era and the simultaneous renegotiation of the three founding tensions - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## Two Governments of One Party: The Puzzle of Substantive Distinctness
 

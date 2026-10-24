@@ -6,17 +6,17 @@ date: 2019-08-05
 categories: ["Industry"]
 tags: ["Indian Politics", "CAA", "NRC", "Citizenship Amendment Act", "Shaheen Bagh", "Religion-State Renegotiation", "Modi Era", "Citizenship Protests"]
 excerpt: "The CAA-NRC contestation forced the religion-state renegotiation into open contest, with the Shaheen Bagh mobilisation as the constitutive opposition moment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2019-08-05
+lang: en
 ---
-
 The CAA NRC contestation in India ran from the winter of 2019 into the spring of 2020, and its sequence can be dated with unusual precision. The Union Cabinet cleared the Citizenship (Amendment) Bill on 4 December 2019. The Home Minister, Amit Shah, introduced the bill in the Lok Sabha on 9 December 2019, the Lok Sabha passed it on 10 December 2019 by 311 votes to 80, and the Rajya Sabha passed it on 11 December 2019 by 125 votes to 105. The President of India, Ram Nath Kovind, gave assent on 12 December 2019. Three days after the Rajya Sabha vote, on the night of 15 December 2019, women residents of Shaheen Bagh, a neighbourhood in southeast Delhi, occupied a stretch of the road that runs from Kalindi Kunj toward Noida and began a sit-in that lasted until the Delhi Police cleared the site on the morning of 24 March 2020. Between the statute and the sit-in lay a hundred days of protest across Indian cities, a constitutional challenge filed in the Supreme Court, resolutions against the Act in state assemblies, and, in the last week of February 2020, Hindu-Muslim violence in northeast Delhi that killed 53 people. The argument of this article is that these events formed a single contestation with three connected components, and that the contestation did one thing no earlier episode of the Modi era had done: it forced the religion-state renegotiation that the era had been conducting through executive action and parliamentary majorities into open, argued, public contest, and it produced at Shaheen Bagh a political-cultural pattern, women-led, Constitution-quoting and pluralist in its symbolism, that later opposition mobilisations inherited.
 
 <!--more-->
 
-![Shaheen Bagh sit-in and the CAA NRC contestation in Delhi - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Shaheen Bagh sit-in and the CAA NRC contestation in Delhi - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 ## A Statute, a Register and a Sit-In: The Sequence from December 2019 to March 2020
 

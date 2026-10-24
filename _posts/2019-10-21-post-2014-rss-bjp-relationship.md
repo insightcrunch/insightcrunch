@@ -6,17 +6,17 @@ date: 2019-10-21
 categories: ["Industry"]
 tags: ["Indian Politics", "RSS BJP Relationship", "Coordination Architecture", "Mohan Bhagwat", "Narendra Modi", "Sarsanghchalak", "Sangh Parivar", "BJP Modi RSS"]
 excerpt: "The RSS-BJP relationship in the Modi years operates through coordination architecture that neither subordination nor autonomy readings of the dyad can explain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2019-10-21
+lang: en
 ---
-
 Ask how the RSS BJP relationship works and Indian politics offers two ready answers, each armed with a decade of post-2014 evidence. The first answer holds that the Rashtriya Swayamsevak Sangh commands and the Bharatiya Janata Party obeys: the party is the Sangh's political instrument, its ministers report to Nagpur, and its governments execute an ideological programme drafted elsewhere. The second answer inverts the first: a party led by Narendra Modi, a prime minister whose authority inside his own organisation has no parallel in the post-2014 record, takes its decisions in New Delhi and treats the Sangh as an honoured ancestor whose counsel is received with ceremony and set aside at will. Both answers quote real meetings, real appointments and real speeches. Both fail on the evidence they cite, because the post-2014 RSS BJP relationship operates through neither command nor courtesy. It operates through a coordination architecture: a set of standing mechanisms, regularised after May 2014, by which the Sangh supplies strategic, ideological and personnel inputs and the party returns political, electoral and policy-execution outputs, continuously rather than episodically.
 
 <!--more-->
 
-![Coordination meetings and personnel exchanges between the RSS headquarters at Nagpur and the BJP leadership in New Delhi - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Coordination meetings and personnel exchanges between the RSS headquarters at Nagpur and the BJP leadership in New Delhi - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The claim defended here is institutional, and it is falsifiable. If the subordination reading were correct, the documentary record would show instructions issued by Sangh bodies and executed without alteration by party bodies, and it would show party office-holders removed at Nagpur's instance when they deviated. If the autonomy reading were correct, the record would show a party that staffs itself, frames its ideology and sequences its policies without reference to the Sangh's calendar, resolutions or personnel. The record shows neither. It shows inputs flowing through identifiable channels, being priced, negotiated, sometimes amended and sometimes declined, inside a standing architecture that both organisations maintain and neither abolishes. The architecture has three dimensions. Strategic-ideological inputs travel from the Sangh to the party through resolutions of the Akhil Bharatiya Pratinidhi Sabha and the Akhil Bharatiya Karyakari Mandal, through the Sarsanghchalak's annual Vijayadashami address, and through the Sangh's public interventions on contested questions. Personnel moves through a rotation system whose hinge is the pracharak deputation and whose most visible joint is the BJP office of general secretary (organisation), held by a Sangh full-timer in every state and at the centre. Consultation proceeds through regularised encounters, from the three-day coordination conclave held in Delhi in September 2015, which the Prime Minister attended, to the annual Akhil Bharatiya Samanvay Baithak at which the BJP sits as one organisation among more than thirty.
 

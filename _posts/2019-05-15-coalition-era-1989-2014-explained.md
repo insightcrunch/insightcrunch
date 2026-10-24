@@ -6,17 +6,17 @@ date: 2019-05-15
 categories: ["Industry"]
 tags: ["Indian Politics", "Coalition Era", "Mandal", "Economic Reform", "NDA", "UPA", "Post-Congress System", "Indian Democracy"]
 excerpt: "The coalition era was 25 years of substantive renegotiation across the three House Thesis tensions, not a transitional interlude between majoritarian regimes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2019-05-15
+lang: en
 ---
-
 The coalition era in India, the twenty-five years from the general election of November 1989 to the general election of May 2014, is conventionally narrated as a corridor between two houses: the Congress dominance that Indira Gandhi built and the Bharatiya Janata Party majority that Narendra Modi won. On the conventional narration, the corridor matters less than the houses at either end. This article defends the opposite claim. The coalition era was twenty-five years of substantive renegotiation across the three permanent tensions of the Indian founding settlement, and its governments, for all their fragility, rebuilt the post-Independence settlement before the 2014 verdict attempted to renegotiate that settlement again.
 
 <!--more-->
 
-![The coalition era in India from 1989 to 2014 and the renegotiation of the founding settlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The coalition era in India from 1989 to 2014 and the renegotiation of the founding settlement - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## The Conventional Reading: An Interlude of Instability Between Two Dominances
 

@@ -6,16 +6,16 @@ date: 2019-04-28
 categories: ["Industry"]
 tags: ["Indian Politics", "Janata Party", "Morarji Desai", "JP Movement", "Anti-Emergency Vote", "Indira Defeat", "Hindi Belt", "Election Verdict"]
 excerpt: "The Janata verdict was geographically uneven: the Hindi belt voted anti-Indira, the southern states retained Congress, and its collapse lacked positive content."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-04-28
+lang: en
 ---
-
 The 1977 Janata election produced the most celebrated single result in the history of Indian democracy, and the celebration has concealed the two features that decided what followed. On the count recorded by the Election Commission of India in its Statistical Report on the General Elections to the Sixth Lok Sabha, the Janata Party won 295 seats against 154 for the Congress, Morarji Desai took office on 24 March 1977 as the first Prime Minister drawn from outside the Congress, and Indira Gandhi lost her own constituency of Rae Bareli to Raj Narain by 55,202 votes. Yet the same count describes two different countries voting on the same days. The Hindi belt expelled the Congress almost completely, the southern states kept the Congress in place, and the coalition assembled on the verdict dissolved within twenty-eight months, because the verdict had rejected the Emergency without endorsing any alternative architecture of government. The verdict was geographically uneven and coalitionally fragile, and both qualities were present in the returns before a single minister had been sworn in.
 
 <!--more-->
-![The 1977 Janata verdict mapped state by state - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1977 Janata verdict mapped state by state - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 ## The 1977 Janata Verdict in the Celebratory Reading
 

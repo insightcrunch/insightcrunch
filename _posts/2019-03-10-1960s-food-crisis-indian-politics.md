@@ -6,17 +6,17 @@ date: 2019-03-10
 categories: ["Industry"]
 tags: ["Indian Politics", "Food Crisis", "Green Revolution", "Subramaniam", "Swaminathan", "PL-480", "Lal Bahadur Shastri", "Nehruvian Era"]
 excerpt: "The 1960s food crisis was a political crisis whose management revealed the Nehruvian state's limits and reshaped Indian centre-state economic relations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-03-10
+lang: en
 ---
-
 The standard account of the 1960s food crisis in India begins with rain. Two monsoons failed in succession, in 1965 and again in 1966, and foodgrain production fell from 89.4 million tonnes in 1964-65 to 72.3 million tonnes in 1965-66, a collapse of about a fifth in a single harvest year. Ships carrying American wheat under the PL-480 programme crossed the Pacific through 1966 and 1967, the rupee was devalued in June 1966, and within three years the high-yielding varieties associated with C. Subramaniam and M.S. Swaminathan had begun the recovery that celebratory literature calls the Green Revolution. Every element of that account is factually grounded, and the account still misleads. The monsoon failure was the trigger of the crisis, not its substance. The substance was political: a famine in Bihar that the administrative machine handled late and badly, a negotiation in Washington that priced Indian policy autonomy in grain, a technocratic alliance that reorganised farm policy over the objections of an older Congress inheritance, and a general election in February 1967 in which voters across eight states removed the Congress from office. The claim this article defends is the brief's own: the 1960s food crisis was when the Nehruvian state's limits became politically visible, and the 1967 verdict was the legible consequence.
 
 <!--more-->
 
-![Food Crisis Politics in the 1960s and the Nehruvian State - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Food Crisis Politics in the 1960s and the Nehruvian State - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## The Harvest Numbers Behind the 1960s Food Crisis in India
 

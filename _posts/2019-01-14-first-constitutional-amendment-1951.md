@@ -6,17 +6,17 @@ date: 2019-01-14
 categories: ["Industry"]
 tags: ["Indian Politics", "First Amendment", "Indian Constitution", "Nehru", "Constitutional Amendment", "Land Reform", "Free Speech", "Constitutional History"]
 excerpt: "The First Constitutional Amendment set the pattern of executive-driven constitutional change that culminated in the Emergency-era Forty-Second Amendment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-01-14
+lang: en
 ---
-
 The First Amendment to the Indian Constitution is usually introduced as a footnote to the founding: a small repair job carried out in June 1951, seventeen months after the Constitution came into force, which adjusted a handful of articles and added a schedule. That introduction is accurate in every detail and misleading in its whole effect. The Constitution (First Amendment) Act, 1951 was the moment the Indian executive first reached for the amending power to escape a courtroom defeat, and the reaching became a habit. Between 1951 and 1976 the same move recurs, each time larger, until the Forty-Second Amendment of the Emergency years rebuilt great stretches of the constitutional text in a single statute. The claim defended here is stated plainly at the outset. The First Amendment was not the Constitution's correction; it was the precedent for executive-driven constitutional change that culminated in the Emergency.
 
 <!--more-->
 
-![Jawaharlal Nehru addressing the Provisional Parliament in New Delhi during the First Amendment debates of May and June 1951 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jawaharlal Nehru addressing the Provisional Parliament in New Delhi during the First Amendment debates of May and June 1951 - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ## The Procedural Account and What It Hides
 

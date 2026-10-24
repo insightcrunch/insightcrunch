@@ -6,17 +6,17 @@ date: 2019-04-06
 categories: ["Industry"]
 tags: ["Indian Politics", "Privy Purse", "Princely States", "Indira Gandhi", "Twenty-Sixth Amendment", "Madhavrao Scindia", "Constitutional Amendment", "Indian National Congress"]
 excerpt: "The privy purse abolition was the third move in Indira's anti-syndicate campaign, with the constitutional amendment route chosen for political effect."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-04-06
+lang: en
 ---
-
 The privy purse abolition of 1971 began with a defeat. On 5 September 1970, the Rajya Sabha refused the special majority that a constitutional amendment demands, and the Constitution amendment bill through which Indira Gandhi's government proposed to end the privy purses of the former rulers of the princely states fell short by a fraction of a vote. The cabinet met the same evening. Before that night ended, President V. V. Giri, encamped at Hyderabad, had signed a set of identical one-paragraph orders under Article 366(22) of the Constitution, each directing that a named ruler cease to be recognised as the ruler of his former state. The orders, dated 6 September 1970, stopped every privy purse in India at a stroke and stripped every former ruler of official standing. Fifteen months later, the same government carried the same object through the front door of the Constitution: the Constitution (Twenty-Sixth Amendment) Act, assented to on 28 December 1971, omitted Articles 291 and 362, inserted Article 363A, and abolished the privy purse in law.
 
 <!--more-->
 
-![The privy purse abolition of 1971 and the Twenty-Sixth Amendment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The privy purse abolition of 1971 and the Twenty-Sixth Amendment - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 Between those two instruments sits the question this article answers. The standard account of the abolition treats it as the removal of an anachronism: hereditary payments to former princes offended a democratic republic, the payments ended, and the republic moved closer to its own egalitarian professions. That account is correct about the substance and silent about everything that decides the history. It cannot explain why a government that believed abolition to be a matter of principle reached first for an executive shortcut that its own law officers should have known the Constitution forbade. It cannot explain why the amendment, once the Supreme Court had mapped the only lawful route, waited for a general election rather than returning to Parliament within weeks. And it cannot explain why the amendment's sponsors presented a measure worth roughly Rs 4 crore a year as a centrepiece of a national campaign. The reading defended here can explain all three facts. The privy purse abolition was Move 3 in Indira Gandhi's coordinated anti-syndicate campaign: the Congress split of November 1969 supplied the vehicle, the bank nationalisation of July 1969 supplied the programme, and the abolition of 1970 to 1971 supplied the demonstration, a public proof, conducted through the most demanding procedure the Constitution contains, that the Prime Minister commanded her legislators, could reverse a Supreme Court judgment by lawful means, and owned the populist ground on which the 1971 election had been fought. Its fiscal value was small. Its political value was the function.
 

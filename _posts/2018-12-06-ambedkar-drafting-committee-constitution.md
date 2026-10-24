@@ -6,19 +6,19 @@ date: 2018-12-06
 categories: ["Industry"]
 tags: ["Indian Politics", "Ambedkar", "Drafting Committee", "Indian Constitution", "Granville Austin", "Christophe Jaffrelot", "Constitutional History", "Reservation Framework"]
 excerpt: "Ambedkar's authority in the Drafting Committee was substantive on reservation, religion and rights rather than the technical-drafter role often assigned him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2018-12-06
+lang: en
 ---
-
 ## The Ambedkar Drafting Committee Question Behind the Familiar Story
 
 Every school textbook in India carries the same short paragraph. On 29 August 1947 the Constituent Assembly appointed a Drafting Committee of seven members, B. R. Ambedkar took the chair, and the committee produced the Draft Constitution that the Assembly debated for the following two years. The paragraph is accurate in every particular and misleading in its total effect, because it invites the reader to picture a secretariat: a skilled lawyer at a desk, converting decisions taken elsewhere into numbered clauses. The Ambedkar drafting committee question, the question that serious scholarship has argued over for half a century, is whether that picture survives contact with the record. Did the chair merely hold the pen, or did the chair decide?
 
 <!--more-->
 
-![Ambedkar chairing the Drafting Committee that framed the Indian Constitution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ambedkar chairing the Drafting Committee that framed the Indian Constitution - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The minimising picture has a distinguished source. Granville Austin, whose The Indian Constitution: Cornerstone of a Nation appeared in 1966 and remains the standard institutional history of the founding, treated constitution making as the work of an interlocking leadership: Jawaharlal Nehru, Sardar Vallabhbhai Patel, Rajendra Prasad and Maulana Abul Kalam Azad set the political terms, the Congress Assembly Party ratified them, and Ambedkar, in Austin's account, supplied unrivalled drafting skill in executing a design whose main lines he had not chosen. On this reading the Drafting Committee was the Assembly's instrument, and its chairman the most talented technician in a collective enterprise. Austin did not write as a partisan, and his reading rests on a genuine feature of the evidence: the major committee reports of 1947, on union powers, provincial constitutions and fundamental rights, were prepared under other chairmen, and the Assembly's debates show decisions being fought out on the floor rather than announced from the drafting desk.
 

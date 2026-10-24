@@ -6,17 +6,17 @@ date: 2019-03-21
 categories: ["Industry"]
 tags: ["Indian Politics", "Indira Gandhi", "Personality as Institution", "Congress System", "Indira Era", "The Emergency", "PMO", "Indian History"]
 excerpt: "Indira Gandhi's two decades rebuilt the Prime Minister's office around her personal authority because the Congress System's fragility required this choice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-03-21
+lang: en
 ---
-
 Indira Gandhi's personality is the most documented fact of Indian politics between 1966 and 1984, and it is also the fact that explains the least. Biographers record the reserve, the suspicion of colleagues, the appetite for control, the reliance on a small circle of advisers, and the willingness to break any institution that stood between her and a decision. None of that record is in dispute. The dispute begins one step later, at the question of what the personality was doing inside the structure of Indian government. Was the centralisation of the Indira years the expression of a temperament that would have centralised in any setting, or was it the predictable output of a party system whose organisational machinery had decayed so far that authority had either to be rebuilt inside a party or concentrated inside an office? That question, and not the inventory of traits, is the subject here. The answer defended across the sections that follow is a structural-choice answer: the Congress System's organisational decay made office-rebuilding available and attractive, and Indira Gandhi chose it, repeatedly and deliberately, where organisational rebuilding remained an open alternative. The Emergency of 1975 to 1977 was the consequence of those choices, not their cause.
 
 <!--more-->
 
-![Indira Gandhi and the rebuilding of the Prime Minister's office around personal authority - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Indira Gandhi and the rebuilding of the Prime Minister's office around personal authority - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The claim can be stated in the form the rest of this pillar of the series will test. Indira's office-rebuilding was structurally enabled by the Congress System's organisational decay, but the choice itself was hers; the Emergency was the consequence of choices made within the structural constraint, not a product the structure forced out of her. Three bodies of evidence carry the claim. The first is the sequence of dated decisions between January 1966 and November 1969, in which Indira moved against the organisational bosses who had installed her, converting the Prime Minister's Secretariat into a parallel centre of authority before she held a majority of her own. The second is the paper trail of the office itself, above all the memoranda of P. N. Haksar, preserved in the Haksar Papers at the Nehru Memorial Museum and Library, which record the reorganisation of the Prime Minister's office after the Congress split of 1969 as a series of considered institutional moves rather than improvisations. The third is the testimony assembled after the fall: the Shah Commission of Inquiry, appointed on 28 May 1977 and reporting in 1978, documented in its volumes how completely the institutions of the Indian state, from the cabinet to the district administration, had been bent around one person's requirements during the Emergency. Read together, the three bodies of evidence support neither the pure personality reading nor the pure structural reading. They support a synthesis in the line of Pratap Bhanu Mehta's essays on Indian institutional politics, in which structure sets the menu and the office-holder chooses from it, and in which responsibility for the choice survives every concession to circumstance.
 

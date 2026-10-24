@@ -6,17 +6,17 @@ date: 2019-09-07
 categories: ["Industry"]
 tags: ["Indian Politics", "Savarkar Hindutva", "Essentials of Hindutva", "V.D. Savarkar", "Pitribhumi Punyabhumi", "Hindu Mahasabha", "Hindu Nationalism"]
 excerpt: "Savarkar's Hindutva defined Hindu identity through territorial, ancestral and cultural criteria, deliberately distinct from religious-theological tests."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2019-09-07
+lang: en
 ---
-
 Savarkar's Hindutva of 1923 is the most argued-over short book in Indian political thought, and much of the argument proceeds without agreement on what the book says. The pamphlet that V.D. Savarkar composed in a Ratnagiri prison cell and published in 1923 under the borrowed name A Maratha ran to eighty-eight pages, and those pages contain a definition before they contain a programme. That order matters. This article defends a namable claim: Savarkar's 1923 framework was territorial, ancestral and civilisational rather than theological; it sorted human beings by land, lineage and the geography of sacred memory, and it deliberately refused to sort them by belief. The conceptual-architectural reading, which attends to how the definition is built, is analytically prior to the political-ideological reading, which attends to what later actors did with it. Only the architectural reading makes the rest of the record intelligible: the author's atheism, his assault on caste prohibitions in the Ratnagiri years, his contempt for scriptural literalism, and his insistence that a Charvaka materialist and a temple priest could stand inside the same identity. Those commitments puzzle readers who meet the text through its political afterlife. They follow with mechanical consistency from the definition's design.
 
 <!--more-->
 
-![Savarkar's Hindutva of 1923 and the three criteria of belonging, a definition composed in Ratnagiri detention - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Savarkar's Hindutva of 1923 and the three criteria of belonging, a definition composed in Ratnagiri detention - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The disagreement the article adjudicates is named on all sides. Vinayak Chaturvedi, in *Hindutva and Violence: V.D. Savarkar and the Politics of History* (2022), reads the 1923 text as the foundation document of a political project whose organising figure is the enemy, and he traces the consequences through a century of mobilisation. Janaki Bakhle, in *Savarkar and the Making of Hindutva* (2024), reconstructs the making of the concept across Savarkar's Marathi and English writings and treats the literary and affective labour of definition as the real event of 1923. Christophe Jaffrelot, whose *Hindu Nationalism: A Reader* (2007) placed extracts of the text before students of the subject, situates it in a genealogy of Hindu nationalism shaped by stigma, fear of the other and emulation of the other's imagined unity. The adjudication offered here does not ask readers to set the political record aside. It asks them to read the architecture first, because the political activities of the Hindu Mahasabha years operated inside the framework the definition built, and because a framework misread at the level of its criteria will be misread at every later level too. The approach continues the method set by [the tripartite-disentanglement framework](/2019/09/02/hindutva-three-distinct-ideologies/), which separates the Hindutva variants before judging any one of them; Savarkar's 1923 text is the first variant, and its internal design is the evidence.
 

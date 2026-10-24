@@ -6,17 +6,17 @@ date: 2019-07-20
 categories: ["Industry"]
 tags: ["Indian Politics", "Demonetisation", "Modi Demonetisation", "PMO Centralisation", "Indian Economic Policy", "Black Money", "Cash Ban India", "Demonetisation Announcement"]
 excerpt: "Demonetisation on 8 November was a political demonstration of unilateral executive capacity, its economic justifications offered as post-hoc rationalisations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2019-07-20
+lang: en
 ---
-
 On the evening of 8 November 2016, at eight o'clock, Prime Minister Narendra Modi appeared on national television and announced that the banknotes of Rs 500 and Rs 1,000 in every wallet, till and household hoard in India would cease to be legal tender at midnight. The demonetisation he declared covered roughly 86 percent of the currency in circulation by value, some Rs 15.44 lakh crore of purchasing power extinguished by a single executive order, and it allowed the holders of that currency fifty days to deposit or exchange what had been, hours earlier, the ordinary money of the country. No Indian government had attempted an invalidation of this scale before, and the standard accounts of the episode reach at once for an economic vocabulary: black money, counterfeit notes, digital payments, growth rates. This article argues that the economic vocabulary is the wrong one, or rather that it is the second vocabulary, adopted after the fact. The claim defended here is exact. Demonetisation on 8 November 2016 was substantively the political demonstration of unilateral executive capacity that the post-2014 architecture of the Prime Minister's Office had built, and its economic justifications functioned as post-hoc rationalisations whose content shifted across the following twenty-four months, from black-money elimination to digitisation, from digitisation to counterfeit-currency suppression, and from counterfeit suppression to terrorism-financing disruption. The shifting of the justifications is not an embarrassment attached to the episode. It is the evidence for what the episode was.
 
 <!--more-->
 
-![The demonetisation announcement of 8 November 2016 and the politics of executive demonstration - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The demonetisation announcement of 8 November 2016 and the politics of executive demonstration - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## The Announcement of 8 November 2016: What Was Declared, and in What Form
 

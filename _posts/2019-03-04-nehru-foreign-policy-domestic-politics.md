@@ -6,17 +6,17 @@ date: 2019-03-04
 categories: ["Industry"]
 tags: ["Indian Politics", "Non-Alignment", "Nehru", "Indian Foreign Policy", "NAM", "Bandung Conference", "Panchsheel", "Nehruvian Era"]
 excerpt: "Nehru's foreign policy was primarily a domestic-political device that gave the Congress ideological space neither the Indian right nor left could occupy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2019-03-04
+lang: en
 ---
-
 Nehru's foreign policy puzzled foreign observers for a simple reason: they measured it against the resources of the state that produced it. The India Jawaharlal Nehru led from 15 August 1947 was a country where most adults could not read, where foodgrain imports were a recurring necessity, where Partition had displaced millions across Punjab and Bengal, and where the treasury inherited from the Raj was being spent on refugee relief, administrative integration of more than five hundred princely states, and the first of the Five-Year Plans. A government carrying that load might be expected to treat foreign affairs as a caretaker function, handled quietly while attention stayed at home. Nehru did the opposite. He kept the external affairs portfolio in his own hands for the entire seventeen years of his premiership, spoke on foreign questions in Parliament more often and at greater length than on any subject except planning, recognised the People's Republic of China within months of its proclamation, signed the Panchsheel agreement with Beijing on 29 April 1954, co-convened the Bandung Conference of April 1955, took a leading and risky position during the Suez crisis of 1956, and stood among the founders of the Non-Aligned Movement at Belgrade in September 1961. This article defends a single claim about that record. Nehru's foreign policy was the domestic-political device that no other policy domain could deliver; its substance was real, but its function was structurally primary.
 
 <!--more-->
 
-![Jawaharlal Nehru presenting non-alignment abroad as the foreign policy that organised Congress politics at home - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jawaharlal Nehru presenting non-alignment abroad as the foreign policy that organised Congress politics at home - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## The Puzzle of a Poor Country's Expensive Diplomacy
 

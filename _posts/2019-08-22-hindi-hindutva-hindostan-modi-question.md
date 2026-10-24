@@ -6,17 +6,17 @@ date: 2019-08-22
 categories: ["Industry"]
 tags: ["Indian Politics", "Hindi Hindutva Hindostan", "Cultural Politics", "Hindutva Ideology", "Modi Era Culture", "Indian Cultural Politics", "Hindu Nationalism", "Modi Question"]
 excerpt: "The Hindi-Hindutva-Hindostan triad poses the substantive cultural question the Modi era forces, distinct from earlier nationalisms in three specific ways."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-08-22
+lang: en
 ---
-
 Three words dominate the argument about culture in the Modi era, and they sound like one word spoken three times. Hindi names a language. Hindutva names a doctrine of cultural and religious identity first defined in print by Vinayak Damodar Savarkar in 1923. Hindostan names a land, the territory between the Indus and the seas, imagined as the home of a civilisation. The Hindi Hindutva Hindostan triad is the organising formula of the Modi era's politics of culture, and the triad poses a question that none of its three terms poses alone: whether a language commitment, an identity commitment and a territorial commitment can be fused into a single account of what India is, and what a state that attempts the fusion does to the settlements it inherited in 1947, 1950 and 1956. This article defends the integrated-triad reading of that question. The claim is namable: the Hindi-Hindutva-Hindostan triad poses the substantive cultural question the Modi era forces, and the integrated triad captures what fragmented language, religion or territory framings cannot.
 
 <!--more-->
 
-![Hindi Hindutva Hindostan and the Modi-era question of culture, from a shared river root to three distinct commitments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hindi Hindutva Hindostan and the Modi-era question of culture, from a shared river root to three distinct commitments - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The three terms share a root, and the shared root is a river. Sindhu, the Sanskrit name for the Indus, passed through Persian as Hindu, the name for the people and the land beyond the river, and through Greek as Indos, the source of India itself. Hindostan joined the Persian suffix stan, a place, to the same stem. Hindi marked the speech of the land of Hind. Hindutva, the youngest of the three words, attached the Sanskrit abstract suffix tva, the suffix of essence and quality, to Hindu, producing a term for Hindu-ness itself. The philology produces an appearance of unity: one root, one family, one civilisational substance flowing from language to identity to land. The appearance misleads. A language is spoken, taught and administered. An identity is claimed, ascribed and contested. A territory is governed, bounded and defended. The Modi era's politics of culture becomes legible only when the three are read together and read precisely: the Hindi commitment, to elevate one language into the nation's common speech; the Hindutva commitment, to anchor the nation's identity in Hindu civilisation; and the Hindostan commitment, to describe the state's territory as a civilisational homeland rather than a purely political jurisdiction. Each revisits a named settlement. Each operates through a distinct mechanism. The argument of this article is that the coherence attempt across the three, pursued through education policy, official communication, ceremony and citizenship law between 2014 and 2024, is the substantive fact that rival readings of the period fragment and miss.
 

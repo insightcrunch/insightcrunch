@@ -6,17 +6,17 @@ date: 2019-10-05
 categories: ["Industry"]
 tags: ["Indian Politics", "BJP Founding", "Bharatiya Janata Party", "Atal Bihari Vajpayee", "Gandhian Socialism", "Post-Janata Hindutva", "Sangh Parivar", "BJP History"]
 excerpt: "The BJP founding in Bombay completed the cadre-to-electoral transition the Jana Sangh had begun, Gandhian socialism serving as its early ideological cover."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-10-05
+lang: en
 ---
-
 The 1980 BJP founding, completed at Samata Nagar in Bandra, Bombay, on 5 and 6 April 1980, is commonly narrated in one of two ways: as the Bharatiya Jana Sangh continuing under a fresh name, or as a new party built from the wreckage of the Janata Party. Both narrations miss the institutional substance of the event. The founding completed a cadre-to-electoral transition that the Jana Sangh had pursued since 1951. It carried the Rashtriya Swayamsevak Sangh cadre architecture, intact and largely unchanged, into a fresh electoral vehicle, and it dressed that vehicle in Gandhian socialism, a positioning adopted deliberately as early-phase cover rather than held as substantive ideology. When the cover was displaced after 1989 by open Hindutva positioning, the architecture underneath did not change at all. That combination, an architecture preserved across a reversal of public positioning, is what the continuity and rupture readings each fail to explain, and it is the claim defended here on the founding documents of April 1980, the Palampur Resolution of June 1989, and the scholarship of Christophe Jaffrelot, Walter Andersen, Shridhar Damle, Pradeep Chhibber and Rahul Verma.
 
 <!--more-->
 
-![Delegates at the BJP founding session at Samata Nagar, Bandra, Bombay, April 1980 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Delegates at the BJP founding session at Samata Nagar, Bandra, Bombay, April 1980 - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 ## The 1980 BJP Founding at Samata Nagar: Session, Speech and Five Commitments
 

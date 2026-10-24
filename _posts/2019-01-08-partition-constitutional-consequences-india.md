@@ -6,17 +6,17 @@ date: 2019-01-08
 categories: ["Industry"]
 tags: ["Indian Politics", "Partition India", "Indian Constitution", "Constitutional History", "Citizenship", "Nehru", "Patel", "Independence Era"]
 excerpt: "Partition was a determinant of constitutional founding, calibrating the security, citizenship, language and minority provisions against post-Partition reality."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2019-01-08
+lang: en
 ---
-
 Partition and the Indian Constitution are usually shelved in different rooms of the founding library. Partition goes to the historians, who narrate the Radcliffe Line, the trains, the refugee columns and the killing fields of Punjab and Bengal between August and October 1947. The Constitution goes to the lawyers, who narrate a serene two-year seminar in the Constitution Hall in New Delhi, where the Constituent Assembly debated federalism, rights and citizenship as if the country outside the chamber were holding its breath in an orderly way. The shelving is convenient and it is false. The same men sat in both rooms, often on the same day. Vallabhbhai Patel chaired the committee that advised on minorities in the morning of a week in which, as Home Minister and Minister for States, he was also managing the accession of princely states and the first reports of communal massacres. Jawaharlal Nehru moved the Objectives Resolution in December 1946 and then, as Prime Minister of an interim government from 2 September 1946, spent the summer of 1947 negotiating the transfer of power that divided the subcontinent his Assembly was supposed to constitute. The Indian Constitution was not written despite Partition; it was written through Partition. That sentence is the claim this article defends, provision by provision, against the strongest alternative reading of the founding.
 
 <!--more-->
 
-![Partition and the constitutional founding of India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Partition and the constitutional founding of India - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## Partition and the Indian Constitution: One Story, Not Two
 

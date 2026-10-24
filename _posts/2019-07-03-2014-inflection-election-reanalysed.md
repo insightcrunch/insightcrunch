@@ -6,17 +6,17 @@ date: 2019-07-03
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian General Election", "Narendra Modi Victory", "Post-Mandal Arithmetic Break", "BJP Single-Party Majority", "Coalition Era End", "Inflection Moment"]
 excerpt: "Narendra Modi's majority rested on personal authority and Congress collapse, and its structural analogue is the Garibi Hatao landslide of Indira Gandhi."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2019-07-03
+lang: en
 ---
-
 The 2014 Indian general election produced the verdict that a generation of Indian electoral commentary had been trained to regard as impossible. The Election Commission of India, in its Statistical Report on the General Election of 2014, recorded 282 Lok Sabha seats for the Bharatiya Janata Party, the first single-party majority since the Congress victory of 1984, and 44 seats for the Indian National Congress, the lowest total the Congress had returned in any general election since independence. Narendra Modi, the Gujarat chief minister whom the BJP had named its prime ministerial candidate on 13 September 2013, took office on 26 May 2014 at the head of a government his party could have formed alone. The standard framing of that verdict is well known: the coalition era that began in 1989 ended in May 2014, and the BJP's long electoral arrival was confirmed at the head of a majority. This article accepts every figure in that framing and disputes its sufficiency. The claim defended here is more exact. The 2014 verdict's structural analogue is 1971, not 1998 or 2004. It was a single-party majority assembled on a three-component base, personal authority at the centre, organisational reach beneath it, and the principal rival's organisational collapse beside it, and that combination is the combination of the Garibi Hatao verdict of March 1971, not of the coalition mandates that bookend the coalition era.
 
 <!--more-->
 
-![The 2014 inflection election and the return of the single-party majority - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 2014 inflection election and the return of the single-party majority - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## The Standard Framing: A Result Described, a Structure Missed
 

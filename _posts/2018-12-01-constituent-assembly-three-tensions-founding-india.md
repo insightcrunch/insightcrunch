@@ -6,17 +6,17 @@ date: 2018-12-01
 categories: ["Industry"]
 tags: ["Indian Politics", "Constituent Assembly", "Indian Constitution", "Granville Austin", "Madhav Khosla", "Founding India", "Ambedkar", "Constitutional History"]
 excerpt: "The Constituent Assembly's three unsettled tensions on religion, federalism, and rights produced the founding compromises that still shape Indian politics."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2018-12-01
+lang: en
 ---
-
 The Constituent Assembly of India is usually remembered for what it delivered: a constitution adopted on 26 November 1949, running to 395 articles and eight schedules, for a republic of hundreds of millions of people who had never voted in a general election. That delivery was real, and no serious account of the founding can begin by minimising it. Yet the delivery is the least interesting thing about the Assembly. Read the Constituent Assembly Debates closely, volume by volume, and a different institution comes into view: a body of lawyers, landlords, former prisoners of the Raj, princely nominees and party organisers who repeatedly reached the edge of a decision, recognised that the decision would break the coalition in the room, and chose a form of words that postponed the reckoning. The claim defended in this article is the one the record sustains under pressure. The Constituent Assembly's most consequential choices were the questions it chose not to answer.
 
 <!--more-->
 
-![Constituent Assembly members seated in the Constitution Hall in New Delhi during the founding debates on religion, federalism and rights - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Constituent Assembly members seated in the Constitution Hall in New Delhi during the founding debates on religion, federalism and rights - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Three questions were left open in that deliberate way, and they organise everything that follows. The first asks who counts as fully Indian, and the Assembly worked on it through the religious settlement: the debates on draft articles that became Articles 25 to 28 of the Constitution, the refusal to write a single principle of secularism into the text, and the postponement of the Hindu Code Bill that Sardar Vallabhbhai Patel and Jawaharlal Nehru were already arguing about in their correspondence of October 1948. The second asks who governs whom, and the Assembly worked on it through the federal settlement: the reorganisation of the whole federal scheme after Partition in August 1947, the decision of 4 November 1948 to call India a Union of States rather than a federation, and the choice to permit outright asymmetry in arrangements such as Article 370 for Jammu and Kashmir and the Sixth Schedule for the tribal areas of the north-east. The third asks which past the present is continuous with, and the Assembly worked on it through the rights settlement: a charter of enforceable Fundamental Rights placed beside a set of Directive Principles that no court could enforce, with no stated rule for which of the two should prevail when they collided. Each settlement held the founding coalition together. Each settlement exported its hardest question into the future, addressed to legislatures, courts and movements that the founders would never sit in.
 
