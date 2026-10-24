@@ -544,3 +544,26 @@ accurate-ancient-ancestry-genome-reconstruction-single | how-ancient-dna-works |
 ancient-changes-dna-genome-happens-reference-results | how-ancient-dna-works | What happens to ancient DNA results when a reference genome changes?
 ancient-claims-disputed-dna-famous-get-withdrawn | how-ancient-dna-works | Why do some famous ancient DNA claims get withdrawn or disputed?
 ancient-different-dna-forensic-testing | how-ancient-dna-works | How is ancient DNA different from forensic DNA testing?
+
+## law-copyright-termination
+### how-copyright-termination-rights-work
+copyright-mean-termination | how-copyright-termination-rights-work | What does copyright termination mean?
+copyright-different-expir-termination | how-copyright-termination-rights-work | How is termination different from copyright expiring?
+congres-create-right-termination | how-copyright-termination-rights-work | Why did Congress create termination rights?
+author-contract-right-termination-waive | how-copyright-termination-rights-work | Can an author waive termination rights in a contract?
+between-difference-section-termination | how-copyright-termination-rights-work | What is the difference between Section 203 and Section 304 termination?
+apply-hire-made-termination-work | how-copyright-termination-rights-work | Does termination apply to works made for hire?
+inherit-interest-termination | how-copyright-termination-rights-work | Who inherits a termination interest?
+author-joint-termination-work | how-copyright-termination-rights-work | How does termination work for joint authors?
+contain-must-notice-termination | how-copyright-termination-rights-work | What must a termination notice contain?
+notice-record-termination | how-copyright-termination-rights-work | Where is a termination notice recorded?
+be-defective-notice-still-valid | how-copyright-termination-rights-work | Can a defective notice still be valid?
+effect-return-right-tak-termination | how-copyright-termination-rights-work | What rights return after termination takes effect?
+be-derivative-distribut-keep-termination-work | how-copyright-termination-rights-work | Can a derivative work keep being distributed after termination?
+derivative-receiv-royalti-surviv-work | how-copyright-termination-rights-work | Who receives royalties from a surviving derivative work?
+apply-grant-made-termination-will | how-copyright-termination-rights-work | Does termination apply to grants made by will?
+author-effect-grant-make-new-tak-termination | how-copyright-termination-rights-work | Can an author make a new grant after termination takes effect?
+become-copyright-dispute-superman-termination | how-copyright-termination-rights-work | Why did the Superman copyright become a termination dispute?
+decide-mill-music-snyder-v | how-copyright-termination-rights-work | What did Mills Music v Snyder decide?
+foreign-return-right-stat-termination-unit | how-copyright-termination-rights-work | Does United States termination return foreign rights?
+canada-copyright-grant-handle-reversion | how-copyright-termination-rights-work | How does Canada handle reversion of copyright grants?

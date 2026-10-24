@@ -88,3 +88,7 @@
 ## how-ancient-dna-works
 - _posts/2026-10-20-how-archaeologists-date-ancient-shipwrecks.md — could carry: "Dating by association has a molecular counterpart; our guide to how ancient DNA works explains how damaged fragments are authenticated before any date or ancestry claim rests on them."
 - _posts/2004-07-01-tutankhamun-boy-king-of-egypt.md — could carry: "The parentage claims on this page rest on genetic work whose authentication standards are explained in our guide to how ancient DNA works."
+
+## how-copyright-termination-rights-work
+- _posts/2017-08-01-digital-millennium-copyright-act-1998.md - could carry: "The 1998 statute rewrote digital duties under the same Copyright Act whose older grant provisions let authors end transfers decades later, as how copyright termination rights work explains."
+- _posts/2019-10-15-copyright-amendment-act-2012-explained.md - could carry: "India protects authors through a royalty right that cannot be signed away; the United States uses a different device, a statutory power to terminate the grant itself, traced in how copyright termination rights work."
