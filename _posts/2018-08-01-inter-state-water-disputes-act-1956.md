@@ -6,15 +6,15 @@ date: 2018-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Inter-State River Water Disputes Act", "Constitutional Law", "Federalism", "Judiciary", "UPSC"]
 excerpt: "The Inter-State River Water Disputes Act explained: how a State's complaint becomes a tribunal, what its award binds, and where its finality finally ends."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-08-01
+lang: en
 ---
-
 The Inter-State River Water Disputes Act 1956 is the statute that decides who gets the water when two Indian States claim the same river. It does something no other Indian statute attempts on this scale: it takes a class of disputes that would ordinarily belong to the courts, removes them from the courts by name, and hands them to a tribunal that exists for one river and one quarrel at a time. The Act, formally the Inter-State River Water Disputes Act, 1956, Act 33 of 1956, was Parliament's answer to a design problem the Constitution had deliberately left open. Article 262 of the Constitution empowers Parliament to build exactly this kind of machinery and then to close the courtroom door behind it. The 1956 Act is what Parliament built, and the door it closed has never stayed shut.
 
-![Inter-State River Water Disputes Act 1956 and the tribunal machinery for sharing river water between States - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Inter-State River Water Disputes Act 1956 and the tribunal machinery for sharing river water between States - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 Two features of the design determine how the whole system behaves, and a reader who holds them in view can predict most of what has happened under the Act. The first is gatekeeping. A tribunal does not come into existence because a dispute exists, or because a State demands one, or because a river is running dry in one State while another State builds a dam on it. A tribunal comes into existence when the Central Government forms the opinion that the dispute cannot be settled by negotiations, and the clock that the statute sets for constituting the tribunal runs only from a State's request, while no clock at all runs on the forming of that opinion. The second feature is incomplete finality. The Act declares the tribunal's decision final and binding, gives it the force of a decree of the Supreme Court, and bars the jurisdiction of every court including the Supreme Court itself. Even so, the Supreme Court has held that an aggrieved State may still come before it by special leave under Article 136, because once the tribunal has decided, what remains is no longer the water dispute the Constitution allowed Parliament to fence off. A statute designed to end river litigation in a tribunal has therefore repeatedly ended river litigation in the Supreme Court, and that outcome is not an accident of drafting. It is written into the structure.
 

@@ -6,15 +6,15 @@ date: 2021-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Tribunals", "Tribunals Reforms Act", "Judicial Independence", "Constitutional Law", "Judiciary", "UPSC"]
 excerpt: "The Tribunals Reforms Act explained: the tribunals it abolished, the tenure and age rules it imposed, and why the Supreme Court struck those rules down twice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-08-15
+lang: en
 ---
-
 The Tribunals Reforms Act 2021 did two things of permanent consequence and one thing that could not last. It abolished a set of appellate tribunals and sent their work to the High Courts and the Commercial Courts, and that part of it stands. It wrote a single code of appointment, tenure and service conditions for the tribunals that remained, and that part re-enacted, in a fresh statute, provisions that the Supreme Court had struck down as unconstitutional one month earlier. In November 2025 the Court struck them down again, and in doing so stated, with a clarity the subject had been waiting a decade for, the rule that separates a lawful legislative answer to a judgment from an unlawful one. A legislature may remove the basis on which a judgment rests. It may not simply pass the same provision again.
 
-![The Tribunals Reforms Act 2021 and the constitutional contest over tribunal tenure, age and appointments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Tribunals Reforms Act 2021 and the constitutional contest over tribunal tenure, age and appointments - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The Act is therefore two stories sharing a binding. The first is a story about institutional design: which disputes in India are decided by specialised tribunals, which by the ordinary courts, and who controls the people who decide them. The second is a story about the boundary between legislative and judicial power, and it is the clearer case study of that boundary available in Indian law, because the sequence is complete and short. A provision was made by rule in 2017 and struck down in 2019. It was remade by rule in 2020 and struck down in part that year. It was enacted by Ordinance in April 2021 and struck down in July 2021. It was re-enacted by statute in August 2021 and struck down in November 2025. Each step is documented, each judgment reasoned, and the final judgment explains what was wrong with the method, not merely with the content. This article follows that sequence in order, states the Act's own text before the argument about it, gives the Government's defence and the petitioners' attack at full strength, and only then addresses the constitutional question, which is a question about method and is distinct from whether a four year term or a minimum age of fifty is good policy.
 

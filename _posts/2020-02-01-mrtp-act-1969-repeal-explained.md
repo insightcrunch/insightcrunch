@@ -6,15 +6,15 @@ date: 2020-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "MRTP Act", "Competition Law", "Monopolies", "Trade Practices", "Economic Reform"]
 excerpt: "The MRTP Act policed size, licensed expansion and punished no one directly: its monopoly controls were deleted long before its own repeal finally arrived."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2020-02-01
+lang: en
 ---
-
 The MRTP Act is usually described as a single event: a monopolies law enacted in 1969 and repealed when the Competition Act arrived. That description compresses two separate events into one and loses the most instructive part of the story. The Monopolies and Restrictive Trade Practices Act, 1969 lost the provisions that gave it its purpose in 1991, when Parliament deleted the entire part of the statute that dealt with concentration of economic power. It was not repealed until 2009, eighteen years later, when Section 66 of the Competition Act, 2002 was brought into force. Between those two dates India had a statute named for monopolies that could not examine a merger, could not measure market power in the manner of a modern competition law, and armed its Commission with no power to impose a penalty of its own. This article follows the statute through its three distinct lives: the permission regime of 1970 to 1991, the conduct-only statute of 1991 to 2009, and the repeal that distributed its unfinished business between a tribunal and the consumer fora.
 
-![MRTP Act 1969 and the long road to its repeal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MRTP Act 1969 and the long road to its repeal - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 For the practitioner the division has a practical edge, because the repeal was drafted so that the forum and the governing law for a legacy matter depend on its subject and on the channel of Section 66 through which it passed. For the researcher and the examination candidate the division is the answer to the standard questions on this statute, which are almost always phase questions in disguise: a question about registration and prior approval is a question about the period ending in 1991, a question about gateways or about contests and advertisements is a question about the conduct regime that ran the whole way through, and a question about repeal is a question about a provision that slept in the Competition Act for six years before it was commenced. Confusing the phases produces confident wrong answers; separating them produces the right ones.
 

@@ -6,15 +6,15 @@ date: 2018-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "RERA", "Real Estate Regulation", "Consumer Protection", "Housing", "UPSC"]
 excerpt: "The RERA Act explained in full: which projects must register, how the seventy per cent account controls promoter money, and what delay entitles a buyer to."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2018-12-01
+lang: en
 ---
-
 The Real Estate (Regulation and Development) Act, 2016, the statute the whole country calls the RERA Act 2016, is usually introduced as a homebuyers' charter, and the description is not wrong so much as it is aimed at the wrong provision. The rights the Act gives an allottee, to information, to a written agreement before serious money changes hands, to interest when possession is late, to a refund when the delay becomes intolerable, mostly existed already in contract, in consumer law, or in the equity a court could have done between the parties. What did not exist anywhere was a rule about the money itself. Before this Act, a promoter could collect the price of flats in one project, spend the collection on land for the next project, and finance a third with the deposits of buyers in the second, and no statute said him nay until the chain broke and the buyers of the first project discovered that their building was the collateral for someone else's ambition. The provision that changed the industry is therefore not a right at all. It is an accounting rule: seventy per cent of everything realised from the allottees of a project must sit in a separate account in a scheduled bank, usable only for that project's land and construction cost, and releasable only against certified progress. This article explains the Act as the machine built around that rule, because the machine is the meaning of the statute.
 
-![The RERA Act 2016 explained, showing project registration, the seventy per cent separate account and the promoter obligations the Act imposes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The RERA Act 2016 explained, showing project registration, the seventy per cent separate account and the promoter obligations the Act imposes - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 A buyer or a developer who finishes this article should be able to answer three questions with precision. Which projects does the Act actually cover, and which does it leave outside by deliberate exemption? What must the promoter do with the money, and with the information about the project, at each stage from the first advertisement to the conveyance deed? And what follows, in money and in punishment, when possession is not given on the date the agreement promised? The article states the machinery from the bare Act, because the Act repays being read as a system: a registration gate at the entrance, a locked account in the middle, a disclosure discipline running throughout, two specialised forums at the exit, and a penalty ladder behind all of it. The remedy process a homebuyer actually follows belongs to the companion article on how homebuyers use the Act, and the comparison with the consumer commissions belongs to its own; this pillar holds itself to the statute, its institutions, and the litigation that settled its reach.
 

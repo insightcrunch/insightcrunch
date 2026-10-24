@@ -6,15 +6,15 @@ date: 2021-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Advocates Act", "Bar Council of India", "Legal Profession in India", "Advocate Enrolment", "Professional Misconduct"]
 excerpt: "The Advocates Act 1961 created one class of advocates for India, elected Bar Councils to govern the profession, a fixed enrolment fee and a disciplinary code."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2021-04-15
+lang: en
 ---
-
 The Advocates Act 1961, Act 25 of 1961, is the statute that turned a crowd of differently named legal practitioners into one profession. It created a single class of advocates, placed their names on rolls kept by elected Bar Councils, gave those councils charge of admission, standards, legal education and discipline, and reserved a small number of decisions to Parliament itself, among them the fee a new advocate pays to enter the profession.
 
-![The Advocates Act 1961 and the self-governing legal profession in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Advocates Act 1961 and the self-governing legal profession in India - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Within the wider body of [laws governing India's judicial system](/2021/04/01/judicial-system-laws-india-guide/), this Act is the one that decides who may stand up in a courtroom and speak for another person, and who decides whether that person may continue to do so. Its answer to the second question is the profession itself. Standards, enrolment and discipline sit with councils of advocates elected by advocates, and the Bar Council of India, the apex council, is built from members the State Bar Councils elect from among themselves. Yet the self-government is not complete, and the point at which it stops is written into Section 24 of the Act: the enrolment fee is a figure in the statute, fixed by Parliament, and no council may charge a rupee more. That single reservation explains how the Supreme Court could intervene on fees in 2024 while leaving the profession's examination, upheld a year earlier, in the profession's own hands.
 

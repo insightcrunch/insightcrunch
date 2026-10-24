@@ -6,15 +6,15 @@ date: 2019-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Geographical Indications", "Intellectual Property", "Trade Marks", "Agriculture", "UPSC"]
 excerpt: "Geographical indication law explained: a collective right that nobody owns, two registers, the authorised user step producers skip, and a name nobody can sell."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-11-15
+lang: en
 ---
-
 Every other right in the intellectual property family has an owner who can point to the right, price it, license it and sell it. A geographical indication under the Geographical Indications Act 1999 has none of those things. The registered proprietor of the Darjeeling indication, the Tea Board of India, does not grow a single bush of the tea the registration protects. The weavers, growers and distillers whose work gives a registered name its value hold no right at all merely by being producers in the right place: their names must appear in a second register, the register of authorised users, before the statute gives them anything. And the indication itself cannot be assigned, licensed, pledged or mortgaged by anyone, because Parliament designed it as a collective right anchored to a territory rather than as an asset anchored to a balance sheet.
 
-![The Geographical Indications Act 1999 and the two registers, showing why a producer must register as an authorised user before the Act gives any right - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Geographical Indications Act 1999 and the two registers, showing why a producer must register as an authorised user before the Act gives any right - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That design is the point on which almost every popular account of the GI tag goes wrong, and it is the point this article exists to get right. Registration of a geographical indication protects a name. Whether it protects a producer depends on a second, separate administrative step that most producers in most registered regions have never taken, and the distance between the size of the register of indications and the size of the register of authorised users is the single most informative fact about how this statute has worked in practice. The article works through the Act in the order a reader needs it: what qualifies, who may apply, what the two registers do, what rights registration confers and on whom, where infringement begins, why the right cannot be sold, how it collides with trade mark law, and what the enforcement and benefit record shows. The claim to hold on to throughout is the one the statute's own structure proves: registration protects the name and not the producer.
 

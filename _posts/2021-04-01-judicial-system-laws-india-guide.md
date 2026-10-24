@@ -6,15 +6,15 @@ date: 2021-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Judiciary", "Constitutional Law", "Court Procedure", "Judicial Appointments", "UPSC"]
 excerpt: "The laws that shape India's courts explained: how the Constitution, ordinary statutes and rules made by courts divide control over judges, fees and forums."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2021-04-01
+lang: en
 ---
-
 Ask a litigant who makes the rules of the contest they are fighting and the answers come quickly and wrongly. The Constitution is named, as if a single text of 1950 settled how many judges hear a case, what fee a plaint carries, who may stand up and argue, and what happens to a party who disobeys the order at the end of it. Almost none of that is in the Constitution. The laws that shape India's courts are a layered construction in which the constitutional text builds the frame, ordinary statutes supply most of the working parts, and the courts themselves write a large share of the procedure they follow. A reader who cannot say which layer answers a given question will look for the answer in the wrong instrument, quote the wrong authority, and misunderstand why reform proposals so often fail: they are addressed to a layer that does not control the question.
 
-![The laws that shape India's courts, showing how constitutional provisions, statutes and court-made rules divide the work of building and running the judicial system - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The laws that shape India's courts, showing how constitutional provisions, statutes and court-made rules divide the work of building and running the judicial system - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This guide maps that distribution of authority. Its claim is simple enough to state in one sentence and large enough to organise everything that follows. The Constitution establishes the courts and leaves almost everything about how they work to ordinary legislation and to judicial rule making, so the sanctioned strength of the Supreme Court is fixed by an ordinary Act, the procedure of every court is fixed partly by code and partly by rules the courts make for themselves, the qualification to appear before a court is fixed by a statute administered by the legal profession, and the method of appointing judges to the higher courts is fixed by neither a statute nor the constitutional text but by judicial construction laid over both. The working of the Indian judicial system is therefore determined almost entirely outside the constitutional text that creates it, and each section of this guide identifies the instrument that governs one part of that working.
 

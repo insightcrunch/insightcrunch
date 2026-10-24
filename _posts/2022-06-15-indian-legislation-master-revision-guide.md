@@ -6,15 +6,15 @@ date: 2022-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Legislative Method", "Constitutional Law", "Judiciary", "Parliament", "UPSC"]
 excerpt: "Indian legislation as a method: the eight questions to ask of any statute, the recurring failure modes, the override rule and the counting discipline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2022-06-15
+lang: en
 ---
-
 Three hundred articles on Indian legislation teach one lesson before they teach any other, and it is a lesson about reading rather than about law. The examination candidate who memorises the sections of a statute, the practitioner who downloads the bare Act on the morning of a hearing, and the journalist who quotes the Act's long title as a description of the legal position are all making the same mistake, and it is the mistake this series was assembled to correct. Each of them treats the printed text of an Indian statute as a statement of the law in operation. The file assembled here, cluster by cluster and statute by statute, records how often that treatment fails: a statute enacted and never switched on, a provision struck down and still printed and still used, a right whose content sits in a form appended to rules, a repeal proclaimed in a Code and never notified against the statute it names. What a statute does is determined by a set of facts that mostly live outside its sections, and a reader who establishes those facts first will be right more often than a reader who construes the sections with great care and establishes nothing else.
 
-![The Indian legislation master revision framework, showing the eight questions to ask of any statute and the failure modes the series recorded - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Indian legislation master revision framework, showing the eight questions to ask of any statute and the failure modes the series recorded - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article is the capstone of the series, and its ambition is deliberately narrow. It teaches no statute. It organises what the preceding two hundred and ninety-nine articles found into a method that a reader can carry to a statute the series never covered: a sequence of eight questions to ask before reading the sections, a catalogue of the recurring ways in which a statute fails to operate, a rule for assessing any legislative reply to a judgment, a discipline for reading official figures, and a short list of the judgments that recur in every field. Its discipline throughout is the discipline of the file itself. No pattern is asserted without the named instances that support it, no figure is quoted without its base, and no contested question is resolved by arranging the facts in a convenient order. A reader who has read nothing else in the series should finish with the method entire. A reader who has read everything else should finish with a way of holding it together.
 

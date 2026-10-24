@@ -6,15 +6,15 @@ date: 2021-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Insurance Law", "IRDAI", "Financial Regulation", "Insurance Act 1938", "Policyholder Protection"]
 excerpt: "The IRDAI Act 1999 created India's insurance regulator. Its composition, Section 14 powers, appellate route and grievance machinery are explained here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2021-02-01
+lang: en
 ---
-
 The IRDAI Act 1999 did something no Indian statute had done for insurance before: it took the supervision of the industry away from a government office and gave it to a body corporate with its own fund, its own rule-making power and a statutory duty that points in two directions at once. The institution it created, the Insurance Regulatory and Development Authority, licenses every insurer in the country, writes most of the operative law those insurers obey, and stands behind a grievance machinery that a policyholder can use without paying a fee or hiring a lawyer. A reader who finishes this profile should be able to answer three practical questions: what the regulator does, where an appeal from its orders goes, and which free door a policyholder with a rejected claim should try first.
 
-![The IRDAI Act 1999 and the insurance regulator it created, covering the Authority's composition, Section 14 powers and policyholder grievance machinery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The IRDAI Act 1999 and the insurance regulator it created, covering the Authority's composition, Section 14 powers and policyholder grievance machinery - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The profile method used here is the one this series applies to every institution: begin with the founding statute read closely, then test the institution against its own text. The statute in question is short, running to thirty-two sections and three schedules, and almost everything about the Authority's character is visible in it: its composition in Section 4, its mandate in Section 14, its money in Sections 15 to 17, its subordination to government directions in Sections 18 and 19, and its power to make regulations in Section 26. The substantive law of insurance, meaning the obligations of insurers and the rights written into policies, sits largely in the older Insurance Act, 1938, whose own history and reform are treated in the companion profile of [the Insurance Act 1938 and sector reform](/2021/01/15/insurance-act-1938-reform-india/). This article stays on the regulator: who composes it, what it may do, how it is checked, and how an ordinary claimant uses the machinery it supervises.
 

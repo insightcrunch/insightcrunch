@@ -6,15 +6,15 @@ date: 2018-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Inter-State Water Disputes", "Federalism", "Judiciary", "Environment Law", "UPSC"]
 excerpt: "Water dispute tribunals work under a five year statutory limit, yet awards take decades. The years accumulate in the stages the statute leaves without a clock."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-08-15
+lang: en
 ---
-
 Two statements about water dispute tribunals in India are repeated constantly, and both are true. The first belongs to the Central Government: adjudication under the Inter-State River Water Disputes Act, 1956 is time-bound, because a tribunal must forward its report within three years of its constitution, a period the Centre may extend by two more. The second belongs to the record: disputes referred under that Act have run for decades, and one reference has remained unfinished, in one stage or another, since 1986. The contradiction is apparent rather than real, and it dissolves once the intervals are separated. The statutory clock governs one stretch of a water dispute, the stretch between a tribunal's constitution and its report. The decades accumulate in the stretches on either side of it, before a tribunal exists and after it has reported, where the Act sets no clock at all.
 
-![Water dispute tribunals and the decades of delay in inter-State river adjudication in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Water dispute tribunals and the decades of delay in inter-State river adjudication in India - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 When the Minister for Jal Shakti, Gajendra Singh Shekhawat, presented the official position to the Lok Sabha on 31 July 2019, the figures he gave were these. Nine tribunals had been constituted under the Act. Four of them had given awards. The time taken by those four ranged from seven years to twenty-eight. The Ravi and Beas matter had been pending for thirty-three years, and the Cauvery matter for twenty-nine. Every one of those figures is defensible, and every one of them measures something different from the five-year limit against which public argument habitually sets them. A duration is meaningless without its starting point, and the recurring failure in commentary on water disputes is to quote a span measured from a complaint, or from a tribunal's constitution, or from an award, as though it were a span measured against the one period the statute actually prescribes. This article keeps the intervals apart. It sets out the periods the Act contains and the periods it omits, walks through the record of the nine tribunals with each duration tied to its endpoints, and then gives the four causes the record supports, before turning to the amendment attempt of 2019, which Parliament passed in one House and then allowed to die for want of a corrected clause.
 

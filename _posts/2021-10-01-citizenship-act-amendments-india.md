@@ -6,15 +6,15 @@ date: 2021-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Citizenship Act 1955", "Citizenship Amendments", "Overseas Citizen of India", "National Register of Citizens", "Indian Diaspora"]
 excerpt: "Citizenship Act amendments from 1986 to 2019 traced: the staged narrowing of citizenship by birth, the illegal migrant bar, and the widening overseas scheme."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2021-10-01
+lang: en
 ---
-
 The citizenship amendments are usually argued about as if they were a single event, and the argument usually fastens on the last of them. Read in sequence, the amendments to the Citizenship Act, 1955 tell a longer and more precise story. Between 1986 and 2015 Parliament amended the Act five times in ways that matter for status, and a sixth amendment in 2019 closed the sequence. Each amendment can be dated exactly, each changed a small number of identified provisions, and the changes point in a direction that is visible only when the whole trail is laid out together. The direction is double. Within India, automatic entitlement narrowed step by step: citizenship by birth, which the original Act granted on the fact of birth alone, became conditional first on one parent being a citizen and then on a stricter two-part test, while a defined category of person, the illegal migrant, was created and barred from every route into citizenship. Outside India, the movement ran the other way: a documentary status for persons of Indian origin abroad was created in 2003, widened in 2005 and consolidated in 2015, so that the same decades that made the statute harder to enter from inside made it more accommodating to the diaspora outside.
 
-![Citizenship Act amendments in India, tracing the trail from 1986 to 2019 across the birth rule and the overseas scheme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizenship Act amendments in India, tracing the trail from 1986 to 2019 across the birth rule and the overseas scheme - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 This article is the trail itself. It states each amending Act by its number and year, gives the date from which each change operated, and identifies the provisions each amendment touched. The statute that the amendments altered is treated in full in the article on [the Citizenship Act, 1955 explained](/2021/09/15/citizenship-act-1955-explained/), and the wider field, including the constitutional provisions and the proof of status, is mapped in [the complete guide to citizenship law in India](/2021/09/01/citizenship-law-india-complete-guide/). The amendment of 2019 is stated here only at the mechanical level, as the end point of the sequence, because its merits are the subject of a separate article and are not reopened here. What this article adds to the series is the pattern: five amendments before 2019, read as one instrument of change, moving in two directions at once.
 

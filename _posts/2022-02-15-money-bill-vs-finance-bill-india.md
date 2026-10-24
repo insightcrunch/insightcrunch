@@ -6,15 +6,15 @@ date: 2022-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Money Bill", "Article 110", "Parliament", "Constitutional Law", "Rajya Sabha"]
 excerpt: "Money Bill or Finance Bill in India: Article 110's word only decides whether the Rajya Sabha may amend a Bill or merely recommend changes to the Lok Sabha."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2022-02-15
+lang: en
 ---
-
 Every argument about a Money Bill in India is an argument about a single word. Article 110 of the Constitution provides that a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with a short list of fiscal matters. The list is generous. The word only is not. If a Bill contains the listed matters and nothing else, it travels a fast track on which the Rajya Sabha, the Council of States, may recommend changes but may neither amend nor reject the Bill, and on which the directly elected Lok Sabha has the final word within a fixed and short timetable. If the Bill contains anything beyond the listed matters and matters incidental to them, the fast track is not available, the Bill must run the ordinary course, and the Council of States holds the same powers over it as the Lok Sabha, including the power to amend it, to reject it, and to force the disagreement toward a joint sitting. The classification therefore decides, before a single clause is debated, whether one of the two Houses of Parliament has a real say over a statute or only a voice.
 
-![Money Bill vs Finance Bill in India, showing how Article 110's test decides the Rajya Sabha's role - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Money Bill vs Finance Bill in India, showing how Article 110's test decides the Rajya Sabha's role - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 That is why the Money Bill question has become the most consequential unresolved issue in Indian legislative procedure. Several major statutes have been enacted on Bills certified as Money Bills where the certification was contested on the ground that the Bills contained substantial matter outside the Article 110 list. A Constitution Bench of the Supreme Court upheld one such certification by a majority in 2018, in the Aadhaar case. A later Constitution Bench, in 2019, doubted the reasoning of that majority, recorded that the earlier bench had not examined the provisions in the detail the question required, and referred the scope of Article 110 to a larger bench. The reference has not been decided. Until it is, the provision that determines whether the second chamber participates in making a law at all rests on a majority view that a coordinate bench has expressly questioned, and every government drafting a Bill with fiscal elements must guess how the larger bench will read one word.
 

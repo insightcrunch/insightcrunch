@@ -6,15 +6,15 @@ date: 2020-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Motor Vehicles", "Road Safety", "Transport Law", "Accident Compensation", "Federalism"]
 excerpt: "The Motor Vehicles Amendment Act 2019 explained: higher penalties, a six month claim deadline, hit and run compensation and the state power to soften fines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2020-08-01
+lang: en
 ---
-
 The Motor Vehicles Amendment Act 2019 is remembered, almost everywhere it is discussed, as the law that made traffic fines ten times larger. That memory is accurate about one schedule of figures and wrong about almost everything that matters. The amendment did rewrite the penalty schedule of the Motor Vehicles Act 1988, and the rewritten figures were large enough to provoke several state governments into softening them within weeks. But the same statute also rebuilt the compensation chapters of the parent Act, created a fund intended to stand behind every road user in the country, protected the stranger who stops to help an accident victim, made the builder of a defective road answerable for the defect, and brought the digital platforms that summon taxis within the licensing net for the first time. Above all, buried in the claims chapter and debated by almost nobody, it restored a limitation period for accident claims that had been absent from the Act for twenty five years, so that a family which delays beyond six months of an accident can lose its claim altogether.
 
-![The Motor Vehicles Amendment Act 2019, showing the rewritten penalty schedule, the restored claim deadline and the new compensation scheme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Motor Vehicles Amendment Act 2019, showing the rewritten penalty schedule, the restored claim deadline and the new compensation scheme - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 This article follows the amendment as a trail: what it changed, section by section and figure by figure, when each change began to operate, and why its operation differs from state to state. The parent statute, the Motor Vehicles Act 1988 as enacted, is the subject of a companion article, [the Motor Vehicles Act 1988 explained](/2020/07/15/motor-vehicles-act-1988-explained/), and nothing in that account is repeated here. Where the amendment replaced a 1988 figure, the older figure is identified as superseded, because the two schedules are routinely confused and the confusion produces wrong advice. Where the amendment raised a penalty, the figure given is the 2019 figure, labelled as such, because several of those figures are subject to state compounding notifications that can lawfully produce a lower amount payable on the spot. The distinction between what Parliament enacted and what a driver in a particular state is actually asked to pay is the single most misunderstood feature of this amendment, and it runs through everything that follows.
 

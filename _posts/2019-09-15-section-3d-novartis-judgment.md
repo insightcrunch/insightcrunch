@@ -6,17 +6,17 @@ date: 2019-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Patents Act", "Novartis Judgment", "TRIPS", "Pharmaceutical Patents", "Judiciary"]
 excerpt: "Section 3(d) explained through the Novartis judgment: why a new form of a known substance must show enhanced therapeutic efficacy to be patented in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2019-09-15
+lang: en
 ---
-
 Section 3(d) of the Patents Act, 1970 turns on a word the statute does not define. The provision refuses patent status to a new form of a known substance that does not result in the enhancement of the known efficacy of that substance, and everything depends on what efficacy means, who must prove it, and against which substance the comparison runs. For eight years after the provision took its present shape, those questions had no authoritative answer. They received one on 1 April 2013, when a two judge bench of the Supreme Court decided Novartis AG v Union of India, reported at (2013) 6 SCC 1, and held that in the case of a medicine efficacy means therapeutic efficacy, judged strictly and narrowly, and established by research data rather than asserted by counsel.
 
 The Court was conscious of the weight of error in both directions, and said so at the outset. A wrong decision in the appellant's favour would grant a monopoly the law did not intend, over a medicine on which lives depended. A wrong decision against the appellant would deny a patent to an invention that deserved one, and would do so in a judgment that would govern every later application of the clause. That consciousness explains the judgment's most distinctive feature: its care to state, at each step, the limits of what it was deciding, and to reserve the questions the record did not require it to answer. The case is usually summarised as a contest between a multinational company and the Indian generic industry over the price of a cancer drug, and that contest formed the background the Court itself acknowledged. The judgment, however, decides a question of statutory construction, and it decides it in a sequence that most summaries flatten. The Court first identified the known substance, and that identification, more than any argument about efficacy, is where the application was lost. It then explained why the properties the applicant relied on could not count toward efficacy at all. Only after those two steps did it reach the evidentiary holding for which the case is cited: that an increase in bioavailability, even if real, does not by itself establish enhanced therapeutic efficacy. This article takes the judgment in that order, sets out the provision in full before construing it, and states the two cases made about the provision, the originator case and the access case, at full strength and without adopting either.
 
-![Section 3(d) and the Novartis judgment explained, showing how the Supreme Court read efficacy as therapeutic efficacy and why the Glivec beta crystal claim failed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Section 3(d) and the Novartis judgment explained, showing how the Supreme Court read efficacy as therapeutic efficacy and why the Glivec beta crystal claim failed - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 ## The clause in full, because the article turns on its words
 

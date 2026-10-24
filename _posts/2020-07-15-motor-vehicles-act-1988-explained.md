@@ -6,17 +6,17 @@ date: 2020-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Motor Vehicles Act", "Road Transport", "Insurance Law", "Compensation", "UPSC"]
 excerpt: "The Motor Vehicles Act 1988 explained: licensing, registration, permits, compulsory third party insurance, claims tribunals and the compensation method."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2020-07-15
+lang: en
 ---
-
 The Motor Vehicles Act 1988 is the statute that decides who may drive on an Indian road, on what conditions a vehicle may earn its living there, and who pays when a journey ends in death or injury. Almost every Indian family interacts with the first two of those functions through a licence, a registration certificate or a bus permit. The third function is the one that matters most and is understood least, because it operates in a specialised tribunal, under a method of calculation that the Act itself never sets out, at the worst moment of a family's life. This article explains all three functions from the text of the Act as Parliament enacted it, and then explains the judicial method that the text left to the courts.
 
 The Act is Act 59 of 1988. It received the assent of the President on 14 October 1988 and came into force on 1 July 1989, replacing the Motor Vehicles Act 1939, which had governed Indian road transport for fifty years. Its long title describes it as an Act to consolidate and amend the law relating to motor vehicles, and consolidation is the right word for most of it: the licensing, registration and permit chapters carry forward the architecture of the 1939 Act in modernised form. The compensation chapters are different in kind. There the 1988 Act assembled, in one statutory scheme, a compulsory insurance obligation, a liability without fault for fixed sums, and a dedicated tribunal with power to award just compensation, and that assembly is the reason the Act is read less as a traffic code than as India's principal personal injury statute.
 
-![The Motor Vehicles Act 1988, showing licensing, registration, permits and the claims tribunal that fixes accident compensation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Motor Vehicles Act 1988, showing licensing, registration, permits and the claims tribunal that fixes accident compensation - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Three disciplines run through everything that follows, and the reader should hold them from the start. The article states the Act as enacted in 1988, because the restructuring carried out by the amendment of 2019, with its substituted penalty figures and its reworked compensation provisions, belongs to [the article on the Motor Vehicles (Amendment) Act 2019](/2020/08/01/motor-vehicles-amendment-act-2019/), whose questions this pillar does not take. Where a provision of the 1988 text was changed by the intermediate amendment of 1994, most importantly the addition of an optional structured formula for compensation, the article says so and dates the change. And the article is written clinically about claims, because it will be read by people who have lost a family member in a road accident: it describes the process and the calculation, it describes no incident, and it closes with a short statement of the limits of what a general account of the law can do for a person with an actual claim.
 

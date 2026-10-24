@@ -6,15 +6,15 @@ date: 2021-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Commercial Courts", "Civil Procedure", "Commercial Litigation", "Mediation", "Judiciary"]
 excerpt: "The Commercial Courts Act explained: what makes a dispute commercial, the three lakh value threshold, mandatory mediation and the strict defence deadline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2021-06-01
+lang: en
 ---
-
 The Commercial Courts Act is the statute that decides which business disputes in India are taken out of the ordinary civil queue and placed on a faster, stricter track, and its central lesson is that the difference between the two tracks is not the subject matter but the consequence of delay. A dispute qualifies by falling inside an enumerated statutory definition and by crossing a monetary threshold. Once inside, the suit is governed by a rewritten version of the Code of Civil Procedure in which pleadings must be verified by a statement of truth, documents must be disclosed at the threshold, mediation must be attempted before filing unless urgent interim relief is genuinely contemplated, and a defendant who allows one hundred and twenty days to pass from the service of summons loses the right to file a defence at all. Ordinary civil procedure in India treats most time limits as directory and extends them almost as a matter of course. The commercial regime was designed, deliberately and visibly, to do the opposite.
 
-![The Commercial Courts Act 2015 explained, covering commercial disputes, the specified value threshold and strict commercial procedure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Commercial Courts Act 2015 explained, covering commercial disputes, the specified value threshold and strict commercial procedure - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The Act rewards a reader who separates three questions that public discussion habitually merges. The first is a question of classification: what makes a dispute commercial, and who decides. The second is a question of forum: which court or division hears the suit, and where an appeal from it goes. The third is a question of procedure: what the amended Code demands at each step, and what is lost when a step is missed. This article takes the three questions in that order, states the contested points on mediation and on the forfeiture of the defence at full strength on both sides, and reaches a verdict on the regime as a whole. The verdict, stated at the outset so that the reasoning can be tested against it, is that the statute is best understood as a law about the enforceability of deadlines, and that its successes and its harshness flow from the same single design choice.
 

@@ -6,15 +6,15 @@ date: 2019-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Information Technology Act", "Section 66A", "Civil Liberties", "Constitutional Law", "UPSC"]
 excerpt: "The IT Amendment Act 2008 explained: how one amending statute inserted Section 66A, created the blocking power, widened interception and wrote data duties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-04-01
+lang: en
 ---
-
 The statute that governs online speech, interception and platform liability in India is routinely called the Information Technology Act, 2000, but most of the provisions that make it controversial are not the work of 2000 at all. They were inserted by a single amending statute, the IT Amendment Act 2008, which rewrote the parent Act so extensively that the modern statute is best understood as a 2008 text carrying a 2000 title. The blocking power, the widened interception power, the conditional immunity of intermediaries, the first corporate data protection obligation in Indian law and nearly the whole of the offences chapter arrived together, in one instrument, passed by Parliament in the last days of December 2008 with almost no debate. This article walks that amendment trail provision by provision: what the parent Act said before, what the amendment put in its place, and what of it survives.
 
-![The IT Amendment Act 2008 and Section 66A, showing how one amending statute rewrote the Information Technology Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The IT Amendment Act 2008 and Section 66A, showing how one amending statute rewrote the Information Technology Act - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The field within which this amendment sits is mapped in the [complete guide to technology law in India](/2019/03/01/technology-law-india-complete-guide/), and the parent statute is treated as a whole in its own pillar article. The focus here is narrower and, for anyone trying to understand where the operative law came from, more useful: the delta between the Act India enacted in 2000 and the Act India has actually lived under since October 2009 is almost entirely the work of one amending Act, and the circumstances of that Act's passage explain features of the text that no reading of the parent statute can account for. The amendment's most famous product, Section 66A, is set out in its own words below, because the case against it was always its wording, and paraphrase is how its breadth is usually understated.
 

@@ -6,15 +6,15 @@ date: 2020-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Consumer Protection", "Consumer Rights", "Central Consumer Protection Authority", "Product Liability", "Consumer Commissions"]
 excerpt: "Consumer Protection Act comparison explained: how the regulator, the pecuniary test, product liability, mediation and appeal deposits changed for buyers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2020-12-15
+lang: en
 ---
-
 The Consumer Protection Act 1986 vs 2019 comparison is usually presented as a list of new features, and a list of new features cannot answer the question a reader brings to it. The reader wants a verdict. A complainant wants to know whether the replacement statute leaves a person with a grievance better placed than the statute it repealed. A business wants to know whether the replacement made its obligations clearer or merely heavier. An aspirant preparing for examination wants to know which differences carry marks and which are decoration. This article answers those questions by adjudication rather than by inventory. It takes ten dimensions that decide real cases, states the position under each statute on each dimension, allocates the dimension to the consumer, to the business, or to neither side, and derives its conclusion from the count. A verdict that is not earned by the count is an opinion wearing a costume, and the discipline of this comparison is that the count comes first and the conclusion follows it.
 
-![Consumer Protection Act 1986 vs 2019 comparison showing ten dimensions and the verdict column - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Consumer Protection Act 1986 vs 2019 comparison showing ten dimensions and the verdict column - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 The method matters because the two statutes are easy to misdescribe in both directions. One error treats the Consumer Protection Act, 2019 as a wholly new code that swept away a failed experiment. It did not. The three tier structure of District, State and National Commissions was retained, the definition of a consumer was carried forward in materially the same terms, the two year limitation period with power to condone delay was carried forward, the list of reliefs a commission may grant was carried forward with additions rather than replaced, and the provision that the Act operates in addition to and not in derogation of other laws was carried forward. The opposite error treats the 2019 Act as a renaming exercise with higher monetary limits. It was not that either. The later statute created a regulator that can act without any complainant, created a product liability cause of action that the earlier statute did not contain, created a statutory mediation chapter, brought electronic commerce inside the statutory scheme by definition and by rules, armed two of the three commissions with power to declare unfair contract terms void, and removed the monetary ceiling that had capped the deposit required from a person appealing against an order to pay. Those are structural changes, and they are the changes on which the verdict in this article turns.
 

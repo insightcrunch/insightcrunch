@@ -6,15 +6,15 @@ date: 2019-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Patent Law", "Intellectual Property", "Compulsory Licensing", "Pharmaceutical Industry", "Innovation and Technology"]
 excerpt: "The Patents Act 1970 explained: the Section 3 exclusions, the two opposition routes, compulsory licensing and the twenty year term in Indian patent law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2019-08-15
+lang: en
 ---
-
 Every patent system in the world asks an applicant three questions: is it new, does it involve an inventive step, and can it be applied in industry. The Patents Act 1970 asks those questions too, but it asks a fourth one first, and the fourth question is the one that gives Indian patent law its character. Before novelty is examined and before inventiveness is argued, the Indian statute asks whether the thing presented is the kind of thing the law is prepared to call an invention at all. A whole list of subject matter, set out in Section 3 of the Act, is declared not to be inventions, however new it may be and however cleverly it may have been arrived at. A new form of a known medicine that adds nothing to its efficacy, a scheme for doing business, a method of treating the human body, a plant variety, a computer programme standing alone: each of these can be ingenious, each can be commercially valuable, and each fails at the threshold because Parliament decided in advance that no monopoly would be granted over it. India, in short, patents by exclusion. The grants are conventional. The refusals are the policy.
 
-![The Patents Act 1970 explained, with its exclusion list, the two opposition routes and the compulsory licensing machinery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Patents Act 1970 explained, with its exclusion list, the two opposition routes and the compulsory licensing machinery - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 That design was not an accident of drafting, and it was not borrowed from any other country's statute book. It was the product of a deliberate argument, conducted in the first two decades after independence, about what a patent system is for in a poor country: whether it exists to reward whoever invents, wherever they are, or whether it exists to build domestic industry and keep essential goods within the reach of the population. The Act of 1970 answered that question in a particular way, abolishing product patents for food, medicines and chemicals altogether and leaving only process patents in those fields, and even after the amendments of 2005 restored product patents across all fields of technology, the exclusion list survived and grew. To understand the statute a reader has to hold both halves of it in view at once: a grant machinery that is recognisably the same machinery found in London or Munich, and a set of refusals, oppositions and compulsory powers that exist because India never accepted that the grant machinery should run on its own logic without a public-interest brake.
 

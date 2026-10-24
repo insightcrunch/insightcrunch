@@ -6,15 +6,15 @@ date: 2021-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Legal Services Authorities Act", "Legal Aid", "Lok Adalat", "Judiciary", "Social Justice", "UPSC"]
 excerpt: "Legal Services Authorities Act explained: who qualifies for free legal services, where an application goes, and why no appeal lies from a Lok Adalat award."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-06-15
+lang: en
 ---
-
 The Legal Services Authorities Act 1987 rests on a bargain that most of its users never see stated plainly. In exchange for a lawyer paid by the State and a forum that can end a dispute in a single sitting, the Act asks the litigant to surrender something the ordinary court system treats as sacred: the right to carry on fighting. A person who accepts free legal services accepts representation of a quality the system does not guarantee. A person who settles at a Lok Adalat accepts an award against which no appeal lies to any court. A person who applies to a Permanent Lok Adalat accepts that a body which began by conciliating may end by deciding the dispute against them, and that the door of the ordinary court closed behind them when the application was filed. The statute is generous and final at the same time, and it cannot be understood, or used well, unless both halves of that sentence are kept in view.
 
-![The Legal Services Authorities Act 1987, showing who is entitled to free legal services and how Lok Adalats work - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Legal Services Authorities Act 1987, showing who is entitled to free legal services and how Lok Adalats work - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 That double character is the subject of this article. The Act does two things that no other Indian statute does together. It converts the constitutional promise of free legal aid into an enforceable statutory entitlement, administered by a permanent judiciary-led machinery that runs from the Supreme Court down to the taluk. And it gives statutory form to the Lok Adalat, the people's court, together with its harder-edged sibling, the Permanent Lok Adalat for public utility services. The first half of the statute is about getting a citizen into the legal system. The second half is about getting disputes out of it. The tension between those two purposes, entry and exit, access and closure, runs through every chapter of the Act and through every criticism that has been made of it.
 

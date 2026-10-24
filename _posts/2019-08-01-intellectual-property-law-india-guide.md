@@ -6,19 +6,19 @@ date: 2019-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Intellectual Property", "Patents", "Copyright", "Trade Marks", "TRIPS"]
 excerpt: "Intellectual property law in India mapped in full: the six statutes, which rights need registration, the forums appeals use, and the treaties India has joined."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-08-01
+lang: en
 ---
-
 Ask a business owner in India what protects their product and the answer is usually a confident single word: a patent, or a copyright, or a trade mark. The confidence is often misplaced. The product in question may need two of those rights and not the third, or it may need none of them because the protection the owner wants does not exist in Indian law at all. This is the field that intellectual property law in India maps, and it is worth mapping carefully because it is one of the few areas of Indian law where a wrong first step, such as filing for the wrong right or approaching a forum that no longer exists, wastes the money spent on the right steps that follow.
 
 The difficulty is partly that the field is fragmented across six statutes and several treaties, and partly that the forum where disputes were heard changed materially in 2021. For nearly two decades a specialist appellate body, the Intellectual Property Appellate Board, sat between the intellectual property offices and the courts. It was abolished in 2021, and the appeals it heard go to the High Courts, one of which has built a specialist division to receive them. A great deal of published guidance on where to appeal has not been updated, and the first question this guide answers is therefore the most practical one: where each right lives and where a dispute about it is heard.
 
 The second difficulty is the commonest confusion in the field, which is about registration. For some rights registration is the act that creates the right, for others it is evidence that helps enforce a right that arose on its own, and for one important right it is not needed at all to sue for infringement. Getting this backwards, by assuming that copyright must be registered or that a patent exists because an application has been filed, is the error this guide is written to prevent.
 
-![Intellectual property law in India explained, mapping patents, copyright, trade marks, designs and geographical indications to their terms, offices and appellate forums - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Intellectual property law in India explained, mapping patents, copyright, trade marks, designs and geographical indications to their terms, offices and appellate forums - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 This article is a guide to the whole field. It states the constitutional basis on which Parliament legislates in it, sets out the six statutes in headline form, places the international treaties India has joined, identifies who administers each right, and describes the 2021 forum change in full. It does not teach any single statute in depth. The Patents Act, 1970, the Copyright Act, 1957, the Trade Marks Act, 1999, the Designs Act, 2000, the Geographical Indications of Goods (Registration and Protection) Act, 1999 and the Semiconductor Integrated Circuits Layout-Design Act, 2000 each have their own articles in this series, and the article on each is the owner of its provisions. This guide routes the reader to those articles and owns only the map.
 

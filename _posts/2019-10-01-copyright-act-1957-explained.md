@@ -6,15 +6,15 @@ date: 2019-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Copyright Law", "Intellectual Property", "Creative Industries", "Civil Law", "UPSC"]
 excerpt: "The Copyright Act explained: how protection arises on creation, who first owns a commissioned work, and how the term and fair dealing rules operate in India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-10-01
+lang: en
 ---
-
 The Copyright Act 1957 asks almost nothing of a creator at the moment of creation. There is no application to file, no fee to pay, no certificate to obtain and no mark to affix before the right exists. A novel, a photograph, a song, a building plan and a computer programme are protected from the moment they are made, provided they are original, and they stay protected for periods measured in decades. Yet the disputes that reach Indian courts under this statute are rarely about whether a right exists. They are about who holds it, and on that question the Act gives an answer that surprises the party who paid for the work. The author is the first owner. The client who commissioned the work, funded it and built a business around it owns nothing at all unless an exception applies or a signed assignment moves the right across. That single default, sitting in Section 17, does more practical work than the celebrated rights in Section 14, and it is the organising fact of this article.
 
-![The Copyright Act 1957 explained, covering subsistence, rights, ownership, term and fair dealing under Act 14 of 1957 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Copyright Act 1957 explained, covering subsistence, rights, ownership, term and fair dealing under Act 14 of 1957 - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The article follows the structure of the Act itself. It begins with the statute and its place in the legal system, then takes the subject matter, asking what kinds of work attract protection and what a work must be before the law will protect it. It then examines the ownership provisions in full, because they decide the commonest and most expensive error in Indian copyright practice, which is the assumption that payment buys the right. The terms of protection come next, stated work type by work type, because the single figure quoted in most summaries is correct for only some works. Assignment and licensing follow, including the default rules that fill the gaps when a deed is silent about duration or territory. The exceptions are treated carefully, because the Indian provision is an enumerated list of permitted purposes rather than an open doctrine of fairness, and that difference misleads users trained on material from other jurisdictions. The article closes with remedies, with the collective licensing machinery of copyright societies, and with the administrative and adjudicatory map after the Copyright Board and the Appellate Board were abolished.
 

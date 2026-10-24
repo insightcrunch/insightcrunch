@@ -6,15 +6,15 @@ date: 2021-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Passports Act", "Article 21", "Administrative Law", "Fundamental Rights", "UPSC"]
 excerpt: "The Passports Act explained in full: the exhaustive grounds of refusal, impounding and the duty to give reasons, the pending case court order route and appeals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2021-11-15
+lang: en
 ---
-
 The Passports Act 1967 is the rare statute whose existence is itself a court judgment. Before Parliament enacted it, an Indian citizen who wished to travel abroad depended on a document that the executive issued or withheld as a matter of administrative grace, under no statute, guided by no published criteria, and answerable to no procedure that a court could test. The Supreme Court held in 1967 that the right to travel abroad forms part of the personal liberty protected by Article 21 of the Constitution, that personal liberty cannot be taken away except according to procedure established by law, and that executive discretion exercised without a law behind it also offended the equality guarantee of Article 14. Parliament responded within weeks. The Act that followed, the Passports Act 1967, Act 15 of 1967, which came into force on 24 June 1967, states in its own text the grounds on which a passport may be refused, the grounds on which it may be impounded or revoked after issue, the reasons that must be recorded and furnished, and the appeal that lies against an adverse order. Eleven years after enactment, an impounding order made under the Act produced Maneka Gandhi v Union of India, the seven judge decision of 1978 that rebuilt Indian administrative law around a single requirement: a procedure that deprives a person of life or personal liberty must be right, just and fair, and not arbitrary, fanciful or oppressive. A statute about travel documents is therefore the origin point of the general standard of fairness against which administrative action in India is measured, and an applicant refused at a passport office counter and a detenu challenging a detention order invoke, at root, the same doctrinal line.
 
-![The Passports Act 1967 explained, covering the refusal grounds, impounding and the fairness doctrine that arose from it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Passports Act 1967 explained, covering the refusal grounds, impounding and the fairness doctrine that arose from it - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The One Test for this pillar is practical as well as doctrinal. A reader who finishes the article should know why the statute exists at all, should be able to state the grounds on which a passport may be refused under Section 6 and impounded under Section 10, should understand the position of the applicant against whom a criminal case is pending, which is the situation that affects the largest number of real applicants, and should grasp what Maneka Gandhi decided and what it did not decide. The article states the law from the bare Act wherever the Act speaks, identifies the points on which the Act is silent and subordinate legislation or executive instruction does the work, and argues the one genuinely contested design choice in the statute, the exception to the duty to furnish reasons, at full strength on both sides before reaching a verdict.
 

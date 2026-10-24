@@ -6,15 +6,15 @@ date: 2022-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Constitutional Law", "Ordinances", "Article 123", "Parliament", "Judiciary"]
 excerpt: "Ordinances and Article 123 explained: the conditions for promulgation, the six-week limit, the Governor's three extra restrictions, and the governing cases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2022-03-01
+lang: en
 ---
-
 The ordinance is the point at which the Indian Constitution lets the executive make law. Article 123 empowers the President, when Parliament is not in session and circumstances require immediate action, to promulgate an instrument that carries the same force and effect as an Act of Parliament. Article 213 confers the corresponding power on a Governor in relation to a State legislature, on narrower terms. Almost everything written about the subject in public discussion captures a part of this arrangement and misses the discipline of the whole. The six weeks that dominate the commentary are counted from the wrong event. An emergency is treated as the condition when the text imposes none. The three restrictions that separate the Governor's power from the President's are listed rarely, though they are among the most examinable propositions in Indian constitutional law. This article states the power exactly: its two textual sources, the condition on which it may be exercised, the arithmetic that bounds its life, the limits on its content, the identity of the authority that in substance wields it, and the line of decisions through which the Supreme Court has fixed what the power is and what it is not.
 
-![Ordinances and Article 123, showing the ordinance-making power of the President and its constitutional limits - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ordinances and Article 123, showing the ordinance-making power of the President and its constitutional limits - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The One Test for this pillar is easily stated. A reader who has finished should be able to say that an ordinance is legislation made by the executive when the legislature is not sitting; to state the conditions on which it may be made and the time limits that govern its life; and to name the three respects in which the Governor's power is narrower than the President's. Everything in the pages that follow serves that test. The companion pillar in this series takes the leading judgment on re-promulgation and on the fate of acts done under an instrument that has ceased to operate, and develops it in full. This article's territory is the power itself: where it comes from, how it is triggered, how long its product endures, what its product may contain, and how the courts have characterised it across five decades. Where the two territories meet, this article states the holding at headline level and leaves the development to its owner, so that the pair cannot be made to conflict.
 

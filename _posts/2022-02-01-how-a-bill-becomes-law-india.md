@@ -6,15 +6,15 @@ date: 2022-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Legislative Process", "Parliament", "Constitutional Law", "Assent", "UPSC"]
 excerpt: "How a Bill becomes law in India explained stage by stage: drafting, readings, assent, lapsing, and why only one stage in the process carries a deadline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2022-02-01
+lang: en
 ---
-
 Understanding how a Bill becomes law in India requires separating two things that civics accounts habitually merge: the steps the Constitution commands, and the steps that exist only because Parliament, the Cabinet or the government of the day chooses to observe them. A Bill travels from a policy decision inside a ministry to a printed Act in the Gazette of India, and along that road it passes through drafting, Cabinet approval, introduction, possible committee scrutiny, three readings in each House, resolution of any disagreement between the Houses, assent, publication and commencement. Of those stages, the Constitution regulates only the middle portion, from introduction to assent, and even there it regulates with a light hand. It prescribes no period within which a Bill must be drafted, none within which a committee must report, none within which the second House must act on an ordinary Bill, and none within which the President or a Governor must decide a Bill presented for assent. The single deadline in the entire process is the fourteen days allowed to the Council of States for returning a Money Bill, a deadline that binds the chamber with the least power over that class of Bill. Every other stage can absorb any amount of time without any provision being breached.
 
-![How a Bill becomes law in India, tracing the stages from drafting to commencement and the assent question - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How a Bill becomes law in India, tracing the stages from drafting to commencement and the assent question - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 That structural fact explains the two controversies that dominate the subject. The first is the near disappearance of the joint sitting, the Constitution's chosen device for resolving disagreement between the Houses, which has been convened three times since 1950 and has left disagreement to be settled by politics, by delay or by the Bill dying with the House that passed it. The second is the assent litigation of 2025, in which the Supreme Court first laid down timelines for Governors and the President and then, through a Constitution Bench answering a Presidential Reference, held that timelines of that kind cannot be imposed at all. Both controversies arise from the same silence. Where the Constitution fixes no period, the question becomes who, if anyone, may supply one: the other House, the courts, or nobody. This article follows a Bill through every stage, identifies at each stage who acts, whether the step is required or discretionary, and what happens if the step never occurs, and it ends with the assent question stated as the two decisions of 2025 leave it.
 

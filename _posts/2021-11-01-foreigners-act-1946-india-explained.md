@@ -6,15 +6,15 @@ date: 2021-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Foreigners Act", "Immigration Law", "Foreigners Tribunals", "Burden of Proof", "Detention and Removal"]
 excerpt: "Foreigners Act 1946 explained: Section 9 and its burden of proof, the tribunal system, detention pending removal, and the repeal and succession of 2025."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2021-11-01
+lang: en
 ---
-
 The Foreigners Act 1946 was, for close to eight decades, the statute that decided what the Indian State could do about a person it treated as not its own. It was a short Act, and most of it was machinery: a definition, a power to make orders, a penalty clause, a protection clause. Its consequence, however, did not lie in its length. It lay in a single provision, Section 9, which provided that where a question arose whether a person was or was not a foreigner, the onus of proving that the person was not a foreigner lay upon that person. A statute that places the burden of disproving foreignness on the individual, in a country where documentary records of birth, parentage and residence are missing for very large numbers of people in the relevant generations, is a statute whose real content is that burden. Everything else in the Act, the orders, the tribunals, the detention, is the working out of that one allocation of proof.
 
-![The Foreigners Act 1946, its burden of proof and the detention framework - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Foreigners Act 1946, its burden of proof and the detention framework - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The Act was repealed in 2025. The Immigration and Foreigners Act 2025, which replaced it, repealed three other enactments alongside it and rewrote the administrative law of entry, registration and removal. It did not rewrite the burden. Section 16 of the new Act carries Section 9 forward in materially the same terms, and says so against the new evidence statute in words as emphatic as the original used against the old one. This article therefore treats the Act of 1946 as its subject in full: its origin as a wartime instrument, its definition, its order-making power, the burden provision and the case law that confined it, the tribunals that an order under it created, the Assam detour through a separate statute that the Supreme Court struck down, the penalties, and the detention that followed a declaration when removal could not be carried out. It closes with the repeal and with the savings, because the repeal is the frame within which everything said about the 1946 Act must be read: the Act is history, the proceedings and orders made under it survive by the savings clause, and the burden that made it consequential is operative law in its successor. A reader who wants the map of the whole field, within which this statute sits beside the citizenship statute and the passports statute, will find it in [the complete guide to citizenship law in India](/2021/09/01/citizenship-law-india-complete-guide/); this article is the pillar treatment of the foreigners statute itself.
 

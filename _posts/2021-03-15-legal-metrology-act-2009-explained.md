@@ -6,15 +6,15 @@ date: 2021-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Legal Metrology", "Packaged Commodities", "Consumer Protection", "MRP and Price Display", "Weights and Measures"]
 excerpt: "The Legal Metrology Act 2009 regulates the measure of goods and the declarations on a package, not prices sellers choose. Its rules decide most MRP disputes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2021-03-15
+lang: en
 ---
-
 The Legal Metrology Act 2009 is the statute behind the most common consumer grievance in Indian retail: the feeling of having been charged too much, measured too little, or told too late what a package contained. It is also one of the most misunderstood statutes on the book. A shopper who finds a bottle of oil priced higher than an identical bottle in another shop tends to blame this Act, and a shopkeeper who is caught selling above the printed price tends to blame it too, and both are usually pointing at the wrong target. The statute does something narrower and, in its way, more demanding. It fixes the units in which India measures, it polices the instruments that do the measuring, and it prescribes what a package must say about itself before it may be sold. What it does not do, at any point, is decide what a lawful price for a kilogram of anything ought to be.
 
-![A retail package carrying the printed maximum retail price and net quantity declarations required by the Legal Metrology Act 2009 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A retail package carrying the printed maximum retail price and net quantity declarations required by the Legal Metrology Act 2009 - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The Act carries the short title of 2009 and the number of a later year, and the distinction matters for citation. Parliament enacted it as Act 1 of 2010, the first statute of that year, and it received assent on 13 January 2010. Its provisions were brought into force on 1 April 2011, and on that date it repealed and replaced the two statutes that had divided this field between them: the Standards of Weights and Measures Act, 1976, which was Act 60 of 1976, and the Standards of Weights and Measures (Enforcement) Act, 1985, which was Act 54 of 1985. In their place stands a single code of fifty-seven sections in five chapters, running from the units of measurement at one end to a long chapter of offences and penalties at the other. The distance between those two ends is the whole argument of the statute, because the offences exist almost entirely to protect the integrity of the units and of the declarations that the units make possible.
 

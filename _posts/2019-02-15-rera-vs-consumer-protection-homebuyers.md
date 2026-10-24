@@ -6,15 +6,15 @@ date: 2019-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "RERA", "Consumer Protection Act", "Homebuyers", "Judiciary", "Law Students"]
 excerpt: "RERA vs consumer protection for homebuyers: two forums stay open for the same delayed flat, and the better choice turns on relief and enforcement, not speed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2019-02-15
+lang: en
 ---
-
 Every homebuyer with a delayed flat, a defective flat or a builder who has stopped answering the telephone faces the RERA vs consumer protection choice before facing the builder. The grievance is usually simple to state: possession promised and not delivered, money taken against a project that stands half built, a flat handed over with defects the brochure never mentioned, or an escalation demand with no basis in the agreement. The hard part is not stating the grievance. The hard part is that Indian law offers the same buyer two different doors for the same complaint, the Authority created by the Real Estate (Regulation and Development) Act, 2016 and the consumer commissions created by the consumer protection statute, and the two doors lead to different rooms. What can be ordered differs. How the order is collected differs. What the builder must deposit before he can even appeal differs. A buyer who chooses on the basis of which queue looks shorter is choosing on the one dimension that matters least, because the practical question is which forum can give the relief the buyer actually wants and then make the builder pay it.
 
-![RERA vs consumer protection for homebuyers, comparing the real estate Authority and the consumer commissions as rival forums for builder delay and defects - Insight Crunch](/assets/images/blog/blog-01.webp)
+![RERA vs consumer protection for homebuyers, comparing the real estate Authority and the consumer commissions as rival forums for builder delay and defects - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The choice is real because the courts have held that it exists. The real estate statute does not close the consumer door, and the consumer statute does not yield to the specialist regulator, so an allottee may elect between them. The choice is also consequential because it is made once. A buyer cannot recover the same refund twice, cannot run the same claim through both systems to a double satisfaction, and having obtained an order in one forum cannot re-litigate the identical claim in the other. This article compares the two routes across the dimensions that decide outcomes in practice, states which forum each dimension favours, and defends a verdict. The verdict is that the forums should be chosen by remedy and enforcement, not by speed: the specialist Authority can direct a refund with interest at a prescribed rate and recover the money as arrears of land revenue, while a consumer commission can award compensation of a kind the Authority's own machinery handles only through a separate adjudication, and can back its order with a coercive process against the person of the defaulter. The right question is therefore not which forum is faster but which one can grant the relief wanted and collect it. There is also one circumstance in which the entire comparison collapses, and a buyer whose builder is sliding towards insolvency needs to understand it before choosing anything: once a corporate insolvency resolution process is admitted against the promoter, the moratorium halts proceedings under both statutes, and the buyer's remedy becomes a claim inside the insolvency process rather than a case in either forum.
 

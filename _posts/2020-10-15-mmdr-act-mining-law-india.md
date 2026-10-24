@@ -6,15 +6,15 @@ date: 2020-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "MMDR Act", "Mining Law", "Mineral Taxation", "Federalism", "Supreme Court"]
 excerpt: "The MMDR Act 1957 explained in full: the Union declaration, the major and minor mineral divide, auctioned concessions, royalty and the 2024 tax ruling."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2020-10-15
+lang: en
 ---
-
 The Mines and Minerals (Development and Regulation) Act, 1957 is the statute that decides who may dig in India, on what terms, at what price and under whose permission. It is Act 67 of 1957, and it came into force on 1 June 1958. Almost every question that reaches a lawyer, a state government, a mining company or a village affected by a pit begins inside its pages: whether a concession exists at all, whether the grant was made by the right government, whether the money demanded is royalty or something else, and whether a tax imposed on top of royalty is one the Constitution permits. The Act is short beside the subjects it governs, and its brevity is deceptive, because three different legal orders meet inside it. The first is a constitutional order, which divides power over minerals between the Union and the States and which the Act rearranges by means of a single declaration. The second is an administrative order, which converts the subsoil into concessions with names, periods, areas and conditions. The third is a fiscal order, which prices extraction through royalty, dead rent and two statutory funds, and which a nine judge Bench of the Supreme Court substantially redrew in July 2024.
 
-![The MMDR Act 1957 and mining law in India, showing the Union declaration, the auction of concessions and the federal division over mineral taxation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The MMDR Act 1957 and mining law in India, showing the Union declaration, the auction of concessions and the federal division over mineral taxation - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 A reader who holds those three orders apart can answer most of what is asked about mining law in India. A reader who runs them together will repeat the errors that fill the public discussion of the subject: that concessions are still granted on application to whoever asks first, that royalty is a tax, that the Union fixes everything and the States merely administer, or that the judgment of 2024 either changed nothing or changed everything without limit. Each of those propositions is wrong, and this article takes them in turn. It begins with the constitutional device that makes the Act possible, because nothing else in the statute makes sense without it. It then sets out the definitions that divide major minerals from minor minerals, the concession architecture through which rights are granted, the money provisions, the auction reform of 2015 that replaced administrative preference with price, the amendments of 2016, 2021 and 2023, and the penalty framework for illegal mining. It closes with the fullest available account of the 2024 judgment and of the order that followed it, because that judgment is the reason the Act is read differently from the way it was read for thirty four years.
 

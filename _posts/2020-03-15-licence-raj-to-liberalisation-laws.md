@@ -6,15 +6,15 @@ date: 2020-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Economic Reform", "Industrial Policy", "Licence Raj", "Competition Law", "UPSC"]
 excerpt: "The licence raj to liberalisation story in statute: 1991 ended controls by policy and notification, while the Acts behind them lagged by years or never fell."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2020-03-15
+lang: en
 ---
-
 The standard account of Indian liberalisation is told in economic language: growth rates, trade shares, the price of goods in shops. Told in legal language, the same period looks different and stranger. The licence raj, a regime of control that had been built statute by statute over four decades, was dismantled between 1991 and 2011, yet very little of the dismantling was done by the method a law student would expect. Parliament did not assemble in July 1991 and repeal the architecture of control. Instead, a statement of industrial policy read out in Parliament on 24 July 1991, and a series of notifications issued under powers the control statutes themselves contained, ended the controls in practice. The statute book was then adjusted to match the new reality, slowly, unevenly, and in the most emblematic case not at all. The Industries (Development and Regulation) Act, 1951, the statute that created industrial licensing, has never been repealed. It stands in force, its licensing chapters largely disapplied by exemption, nearly three decades after licensing itself ended.
 
-![Licence raj to liberalisation, showing the control statutes and the sequence by which policy ended them before the law followed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Licence raj to liberalisation, showing the control statutes and the sequence by which policy ended them before the law followed - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 That gap, between the moment a law ceases to be applied and the moment it ceases to exist, is the subject of this article. The series of which this article forms part has repeatedly found gaps of this family: between enactment and commencement, between a judgment and its practical effect, between a rule and its parent Act. The liberalisation sequence is the largest instance of all, because it was not an accident of drafting or administration. It was the method. Every substantive liberalisation of the period was effected first by executive act, and the corresponding statutory change followed afterwards at intervals ranging from a few months to eighteen years. One statute, the capital issues control statute, breaks the pattern and was repealed in the same season its function was transferred to a new regulator. One statute, the licensing statute, completes the pattern by never being repealed at all.
 

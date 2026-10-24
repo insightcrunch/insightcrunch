@@ -6,15 +6,15 @@ date: 2021-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Citizenship Law", "Citizenship Act", "Constitutional Law", "Overseas Citizenship", "Refugee Protection"]
 excerpt: "Citizenship law in India explained through Part II of the Constitution, the Citizenship Act of 1955, the law on foreigners, and the missing refugee statute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2021-09-01
+lang: en
 ---
-
 Citizenship law in India is not one statute, and the first service a guide can perform is to stop a reader from looking for it in one place. The field is a division of labour between a constitutional Part that settled who was a citizen on a single day in 1950 and then handed the subject to Parliament, a citizenship statute that has governed acquisition and loss since 1955, a separate statute book that regulates everyone who is not a citizen, a travel statute that governs the documents a citizen carries out of the country, and one conspicuous absence: no statute at all for the person who has fled a home country and cannot return to it. A reader who understands that division can answer the question this field actually turns on, which is never simply whether a person is a citizen, but which statute answers which question about that person, before which authority, and on what evidence.
 
-![Citizenship law in India, showing the constitutional Part, the Citizenship Act 1955, the law governing foreigners and the missing refugee statute - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizenship law in India, showing the constitutional Part, the Citizenship Act 1955, the law governing foreigners and the missing refugee statute - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The guide that follows is the map of that field rather than the territory of any one part of it. The Citizenship Act, 1955 is treated here at the level of its architecture: its modes of acquisition and loss, its special provision for Assam, its overseas cardholder scheme and its register provision. The section-by-section depth belongs to the pillar article of this cluster, [the article on the Citizenship Act, 1955](/2021/09/15/citizenship-act-1955-explained/), and the amendment history belongs to the trail article that follows it. The position of the person who is not a citizen is treated here through the succession of foreigners legislation that ended in a consolidating Act of 2025, whose own detailed treatment sits with the article on the foreigners statute. The amendment of 2019, which inserted a religion-referenced proviso into the definition of an illegal migrant and a fast track into the naturalisation schedule, is stated here at headline level only, because the controversy it generated is owned by the debate article of this cluster and a map that rehearsed the whole argument would fail at its own task. What this guide claims for itself is the orientation: the constitutional settlement, the statutory division, the proof problem, the register, and the gap where a refugee statute would otherwise stand.
 

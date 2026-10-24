@@ -6,15 +6,15 @@ date: 2021-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Citizenship", "Constitutional Law", "Assam Accord", "OCI", "UPSC"]
 excerpt: "The Citizenship Act 1955 sets out who is an Indian citizen by birth, descent, registration and naturalisation, and how that status can be lost in law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-09-15
+lang: en
 ---
-
 The Citizenship Act 1955 is the statute that answers, for every person who claims a connection with India, the most basic question a legal system can ask: is this person one of ours? The Citizenship Act 1955, enacted as Act 57 of 1955 and brought into force on 30 December 1955, lays down five routes by which Indian citizenship is acquired, the conditions on which each route operates, the circumstances in which citizenship ends, and the machinery by which disputed questions of status are decided. Almost every public argument about citizenship in India, whether it concerns a birth certificate in a district town, a cardholder living abroad, or a special provision for one State in the north east, is at bottom an argument about the meaning of one of its sections. This pillar reads the Act section by section, states each route in the terms the statute uses, and separates the enacted scheme from the changes that later amendments made to it, because the single most common error in accounts of this field is to describe one period's rule as though it had always been the rule.
 
-![Citizenship Act 1955 explained, the five routes to Indian citizenship and the Assam provision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizenship Act 1955 explained, the five routes to Indian citizenship and the Assam provision - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 Citizenship in India is a subject on which the Constitution deliberately said less than half of what needed saying. Articles 5 to 8 of the Constitution determined who was a citizen at the commencement of the Constitution on 26 January 1950, dealing with the enormous movement of people that partition had produced. Article 9 provided that a person who had voluntarily acquired the citizenship of a foreign State was not to be a citizen under those articles. Article 10 continued citizenship subject to any law made by Parliament, and Article 11 gave Parliament the power to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship. The constitutional text therefore fixed the starting population and then handed the subject to legislation. Entry 17 of the Union List in the Seventh Schedule, citizenship, naturalisation and aliens, placed the subject within the exclusive legislative competence of Parliament, so no State legislature can create, condition or remove Indian citizenship. The Act of 1955 is the exercise of that Article 11 power, and every route, condition and ground of loss examined in this article traces back to it.
 

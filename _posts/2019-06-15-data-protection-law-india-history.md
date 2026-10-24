@@ -6,15 +6,15 @@ date: 2019-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Data Protection", "Privacy", "DPDP Act", "Right to Information Act", "Parliament", "UPSC"]
 excerpt: "Data protection law in India arrived after a decade of drafts: a committee blueprint, a Bill withdrawn, and an Act that dropped much of what came before it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2019-06-15
+lang: en
 ---
-
 India's data protection law is usually argued about as if it began with the statute that carries the name. It did not. For most of the period in which the argument ran, the only operative data protection regime in the country was a set of rules made in 2011 under a compensation provision of the technology statute, written for a narrower problem and never designed to carry the weight that practice loaded onto them. The statute arrived in August 2023, twelve years after those rules, six years after the Supreme Court recognised privacy as a fundamental right, and five years after a committee of experts produced a draft Bill of a very different character from the one that eventually passed. Between the first draft and the Act stand a second draft that reached Parliament, a joint committee that rewrote much of it, a withdrawal on the floor of the House, and a fourth draft that abandoned a large part of the design the process had spent years assembling.
 
-![The long road to a data protection law in India, showing the succession of drafts from the 2011 rules to the Act of 2023 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The long road to a data protection law in India, showing the succession of drafts from the 2011 rules to the Act of 2023 - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 That succession is the subject of this article, and it is best read as a record of omissions. Each version of the project dropped something the previous version had contained, and the items dropped were not details. A classification of sensitive and critical personal data with heightened obligations disappeared. Requirements that copies of personal data be stored within India disappeared. A right to move one's data from one service to another disappeared, and a right to have it cease to be disclosed disappeared with it. An express exemption for journalistic work, present in two successive drafts, disappeared from the Act, so that reporting was left inside a consent-based statute with no carve-out of its own. A mechanism by which an individual who suffered harm could recover compensation disappeared, replaced by penalties payable to the State. An enforcement authority designed with an independent selection process was replaced by a Board appointed by the Central Government. Reading the drafts in sequence, in the order the drafting choices were made, explains the enacted statute better than reading the statute alone, because the Act is in large measure what remains after those choices.
 

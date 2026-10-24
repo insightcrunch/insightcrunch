@@ -6,17 +6,17 @@ date: 2018-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Real Estate Regulation", "Consumer Protection", "Insolvency", "Judiciary", "Housing Law"]
 excerpt: "RERA homebuyer remedies in practice: where to file the complaint, how refund and interest are ordered, the appeal deposit, and how an order becomes money."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2018-12-15
+lang: en
 ---
-
 A homebuyer reaches the Real Estate (Regulation and Development) Act, 2016 at a particular moment, and it is rarely a calm one. The possession date written into the agreement for sale has passed. The tower stands half finished, or finished but unoffered, or offered without the occupation certificate that would make taking possession lawful. The instalments have been paid, the home loan is running, rent is being paid on the house the family actually lives in, and the promoter's office answers letters with revised dates that carry no more conviction than the dates before them. RERA homebuyer remedies exist for exactly this situation, and they are the subject of this article: not the architecture of the statute, which the pillar article on the Act itself sets out, but the route a buyer actually travels, from the missed possession date to money recovered, and the points along that route where the journey most often breaks down.
 
 The route has more design intelligence in it than buyers usually expect. The Act gives the allottee a right to a refund with interest that the Supreme Court has called indefeasible. It splits the money claims between two forums so that a straightforward refund does not wait on a contested assessment of loss. It makes a promoter fund the amount awarded before an appeal against that award will even be heard. And it converts an unpaid order into a claim on the district revenue machinery, the oldest collection apparatus the Indian state possesses. A buyer who understands the whole route before filing will frame the complaint correctly, ask each forum only for what that forum can give, and treat the order as the midpoint of the matter rather than its end.
 
-![RERA homebuyer remedies in practice, tracing the route from a missed possession date through complaint, order, appeal and recovery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![RERA homebuyer remedies in practice, tracing the route from a missed possession date through complaint, order, appeal and recovery - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 That last discipline matters because of the finding that organises everything that follows. The order is easier to get than the money. The statute gives an allottee an unqualified right to a refund with interest and a forum that will order it within months, and it entrusts execution to the district revenue machinery, so the binding constraint on this remedy is not adjudication but recovery. The evidence for that finding is set out in its own section below, in figures published by the Authorities themselves, and it changes how a sensible buyer behaves from the first day: the complaint is drafted with execution in mind, the promoter's assets and the project's escrow position are part of the case from the outset, and every document that a Collector will eventually need is preserved before it is needed rather than assembled in panic afterwards.
 

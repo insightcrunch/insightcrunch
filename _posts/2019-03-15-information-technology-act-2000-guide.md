@@ -6,15 +6,15 @@ date: 2019-03-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Information Technology Act", "Technology Law", "Civil Liberties", "Corporate Law", "UPSC"]
 excerpt: "The Information Technology Act 2000 guide: offences, corporate data liability, intermediary safe harbour, blocking and interception powers fully explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-03-15
+lang: en
 ---
-
 When a website disappears from Indian networks overnight, when a messaging platform is told to identify the first sender of a message, and when a company is ordered to compensate customers whose card data leaked from its servers, three different legal instruments are usually doing the work, and all three sit inside one statute. That statute is the Information Technology Act 2000, and its long title announces a far narrower purpose: legal recognition for transactions carried out by electronic data interchange and other means of electronic communication, commonly called electronic commerce. The distance between that long title and the uses the Act is put to is the subject of this article. A reader who works through it will be able to identify which provisions of a commerce statute ended up governing speech, surveillance and platform liability, which of those provisions were in the Act when it was enacted and which arrived eight years later, and where the operative detail lives, because on this statute the detail very often lives in rules and in a judgment rather than in the sections themselves. The wider field within which the Act sits, and the statutes that surround it, are mapped in the [complete guide to technology law in India](/2019/03/01/technology-law-india-complete-guide/), which this pillar supports and does not repeat.
 
-![The Information Technology Act 2000 and how an electronic commerce statute became India's law of online speech, surveillance and platform liability - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Information Technology Act 2000 and how an electronic commerce statute became India's law of online speech, surveillance and platform liability - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The claim that organises everything that follows is simple enough to state in one sentence. The Information Technology Act 2000 was written to make digital documents legally valid, and it has become the statute under which content is blocked, communications are intercepted and platforms are held liable, with every one of those governing functions resting on provisions inserted by an amendment in 2008 and elaborated by rules made under the Act since. That is why the Act rewards being read as two statutes wearing one cover. The first statute, enacted in 2000, is a recognition statute: it tells courts, registries, banks and contracting parties that an electronic record is not legally inferior to paper. The second statute, layered over the first in 2008, is a control statute: it defines offences of content and intrusion, arms the executive with interception and blocking powers, and conditions the immunity of the platforms through which nearly all online speech travels. Most public argument about the Act confuses the two, praising or blaming the whole for what only one layer does. Separating them is the fastest route to understanding either.
 

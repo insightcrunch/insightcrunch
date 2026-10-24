@@ -6,15 +6,15 @@ date: 2020-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Consumer Protection Act", "Consumer Law", "Central Consumer Protection Authority", "Product Liability", "E-Commerce", "UPSC"]
 excerpt: "The Consumer Protection Act 2019 repealed the 1986 statute and added a regulator, product liability, mediation, e-commerce duties and unfair contract review."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2020-12-01
+lang: en
 ---
-
 The Consumer Protection Act 2019 did something the Indian consumer movement had sought for a generation and had repeatedly failed to obtain. It ended the arrangement under which the only way to set consumer law in motion was for an aggrieved individual to draft a complaint, pay a fee, and pursue a trader through a forum. In place of that arrangement it built a statute with two engines. The first is the familiar one: a three-tier line of commissions before which a complainant may still file, argue and obtain compensation. The second is entirely new: a regulator, the Central Consumer Protection Authority, which may inquire into a violation of consumer rights on its own motion, order goods recalled from the market, direct that prices be reimbursed, and penalise a misleading advertisement, all without any individual consumer having complained at all.
 
-![The Consumer Protection Act 2019 and the four additions it made to Indian consumer law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Consumer Protection Act 2019 and the four additions it made to Indian consumer law - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That structural change is the subject of this article. The Act, which is Act 35 of 2019, received the assent of the President on 9 August 2019 and repealed the Consumer Protection Act of 1986. Its territory here is the replacement itself and the substance the new statute added: the Central Authority, product liability, mediation, the treatment of electronic commerce, the definition of an unfair contract, and the offences that stand behind them. The predecessor statute has its own account in this series, and the systematic comparison between the two Acts and the mechanics of filing a complaint belong to companion articles; the wider field, from sectoral ombudsmen to the Bureau of Indian Standards, is mapped in [the complete guide to consumer law in India](/2020/11/01/consumer-law-india-complete-guide/), which this article does not attempt to reproduce. What follows is an account of what the 2019 statute kept from the law it repealed, what it discarded, and what it built that had never existed in Indian consumer law before.
 

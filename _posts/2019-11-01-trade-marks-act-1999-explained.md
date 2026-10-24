@@ -6,17 +6,17 @@ date: 2019-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Trade Marks", "Intellectual Property", "Commercial Law", "Business Law", "UPSC"]
 excerpt: "The Trade Marks Act 1999 explained: what can be registered, the grounds for refusal, infringement and passing off, and how well known marks are recognised."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2019-11-01
+lang: en
 ---
-
 Every other right in the intellectual property cluster begins with a grant. A patent exists because the State examined an application and issued one. A design exists because a controller registered it. A geographical indication exists because a registrar entered it on a register. A trade mark is different, and the Trade Marks Act, 1999 (Act 47 of 1999) is written around that difference. The Act builds a register, a procedure and a set of exclusive rights, and then, in a single saving provision, preserves the older common law action that protects a mark the register has never recorded. Registration under the Act is an advantage, sometimes a decisive one. It is not a precondition of protection. That single feature explains the shape of the entire statute: the care it takes over what may enter the register, the two distinct actions it leaves open to a proprietor, and the volume of litigation it generates compared with every neighbouring right.
 
 The Act received the assent of the President on 30 December 1999. It did not commence on that date. It was brought into force on 15 September 2003, and it repealed and replaced the Trade and Merchandise Marks Act, 1958 (Act 43 of 1958), which had governed the subject for four and a half decades. A reader who wants the whole field mapped, and the forum in which these disputes are heard placed beside the other intellectual property forums, will find it in the series guide to [intellectual property law in India](/2019/08/01/intellectual-property-law-india-guide/), to which this article is the trade mark companion. What follows here is the statute itself: what it defines, what it refuses, how an application travels, what registration confers, what can be done with a registered mark, and what happens when a mark is misused.
 
-![The Trade Marks Act 1999 explained, covering registration, refusal grounds, infringement, passing off and well known marks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Trade Marks Act 1999 explained, covering registration, refusal grounds, infringement, passing off and well known marks - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 Two cautions belong at the start. The first is that the Act protects signs, not products. A registration does not certify that goods are good, lawful or original in conception; it records that a sign distinguishes one trader's goods or services from another's. The second is that the Act works through probability rather than proof of actual deception in most of its provisions. Again and again the operative words are "likely to deceive or cause confusion". A system built on likelihood needs a register that the public can trust, which is why so much of the Act is devoted to keeping unregistrable signs off it.
 

@@ -6,15 +6,15 @@ date: 2019-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Copyright Law", "Intellectual Property", "Music Industry", "Broadcasting", "Disability Rights"]
 excerpt: "The Copyright (Amendment) Act 2012 gave authors a royalty right they cannot sign away, opened works to readers with disabilities and framed the streaming fight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2019-10-15
+lang: en
 ---
-
 Most amendments adjust a statute at the edges. The Copyright (Amendment) Act 2012 reached into the economics of Indian creativity and rearranged who gets paid, who may copy, and who may transmit. It gave the lyricist and the composer a right to royalties that no contract can take away. It told every broadcasting organisation that it could play published music without negotiating, provided it gave notice and paid a rate fixed by a tribunal. It told organisations serving readers with disabilities that they could convert any work into an accessible format without asking permission. And it wrote India a set of digital rules, on technological locks and on the information embedded in a file, years before India joined the two WIPO internet treaties those rules were modelled on. The parent statute is treated in the article on the [Copyright Act 1957](/2019/10/01/copyright-act-1957-explained/); this article is about the amending Act alone, what it changed and what the changes have done in the years since.
 
-![The Copyright Amendment Act 2012, showing the royalty provisos, statutory licences and accessible format exception it inserted into the Copyright Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Copyright Amendment Act 2012, showing the royalty provisos, statutory licences and accessible format exception it inserted into the Copyright Act - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 One provision of the amendment has generated a second story that is, in its way, more instructive than the provision itself. Section 31D, the statutory licence for broadcasting, says in terms that different royalty rates shall be fixed for radio broadcasting and for television broadcasting. In 2016 a department of the Government of India issued an office memorandum saying the section extended to internet broadcasting. A court held the memorandum had no statutory force. A draft rule that would have widened the subordinate text was published and then dropped. An appellate bench confirmed the narrow reading. The parties settled. In August 2024 the department withdrew the memorandum. Eight years, five instruments, no amendment: the words Parliament enacted in 2012 governed at the start of the episode and govern at the end of it. That sequence is the centrepiece of this article, because it demonstrates, in a commercial field where the sums are large, that an executive memorandum is not an amendment and cannot do the work of one.
 

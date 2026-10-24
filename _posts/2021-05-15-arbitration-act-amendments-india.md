@@ -6,15 +6,15 @@ date: 2021-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Arbitration Law", "Commercial Disputes", "Dispute Resolution", "Judiciary", "Business Law"]
 excerpt: "Arbitration Act amendments in 2015, 2019 and 2021 rebuilt appointments, timelines and enforcement in India, but the Council created in 2019 was never notified."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2021-05-15
+lang: en
 ---
-
 Three times in six years Parliament rewrote parts of the Arbitration and Conciliation Act 1996 (Act 26 of 1996), and a fourth rewrite has been circulated in draft for consultation. The Arbitration Act amendments of 2015, 2019 and 2021 are usually described as one continuous reform movement towards speed, neutrality and institutional arbitration. Read as a trail rather than as a slogan, they tell a less tidy story. The amendment of 2015 changed the daily behaviour of courts and tribunals and largely worked. The amendment of 2019 built an institutional architecture, a council, a grading regime and an appointment scheme, and then left the centre of that architecture uncommenced for the whole of its existence. The amendment of 2021 corrected one excess of 2019 by deleting a qualification schedule that had excluded foreign practitioners, while restoring, for a defined class of cases, an unconditional stay on enforcement that the 2015 reform had abolished. Between the second and third amendments sits a judgment that struck down a provision of the 2019 Act as manifestly arbitrary, an event without parallel elsewhere in this statute's history.
 
-![The Arbitration Act amendments of 2015, 2019 and 2021, tracing what each amendment enacted, notified and lost - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Arbitration Act amendments of 2015, 2019 and 2021, tracing what each amendment enacted, notified and lost - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This article follows the trail provision by provision. For each amendment it separates four questions that secondary writing habitually merges: what the amendment enacted, what was brought into force, what the courts did with it, and what survives. The separation matters because the sharpest fact in this territory is a commencement fact. A reader who consults the text of the 2019 amendment will find an Arbitration Council of India designed in detail, with a chairperson, members, functions and a grading power. A reader who consults the commencement notifications will find that the Part creating the Council was never notified, so the Council has never existed, has never graded an institution and has never accredited an arbitrator. The statute book and the working law are, on this point, two different documents, and the trail is the record of how they came apart.
 

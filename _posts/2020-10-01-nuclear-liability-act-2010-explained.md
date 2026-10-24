@@ -6,15 +6,15 @@ date: 2020-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Nuclear Energy", "Civil Liability", "Atomic Energy", "Nuclear Damage Compensation", "UPSC"]
 excerpt: "Nuclear liability in India explained: the Civil Liability for Nuclear Damage Act 2010, its operator cap, supplier recourse, and the dispute that followed it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2020-10-01
+lang: en
 ---
-
 Almost every public argument about India's nuclear liability law is conducted in the language of diplomacy, as if the obstacle to foreign reactors in India were a misunderstanding between governments that better drafting of communiqués could dissolve. It was not. The obstacle was one limb of one section of one statute: clause (b) of Section 17 of the Civil Liability for Nuclear Damage Act, 2010 (Act 38 of 2010), which gave the operator of a nuclear installation a statutory right to recover from a supplier where a nuclear incident had resulted from the supply of equipment or material with patent or latent defects, or from sub-standard services. That clause departed from the international model the rest of the Act faithfully copied, and the departure was deliberate, debated in advance, and consequential in exactly the way its critics in the supplier countries predicted and its defenders in Parliament accepted as a price worth paying. Between the Act's commencement on 11 November 2011 and its replacement in December 2025, no contract for a foreign supplied reactor was concluded under it.
 
-![The Civil Liability for Nuclear Damage Act 2010, its operator liability cap and the supplier recourse dispute - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Civil Liability for Nuclear Damage Act 2010, its operator liability cap and the supplier recourse dispute - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article does three things. It states the liability architecture the Act created, precisely, provision by provision, because most accounts paraphrase the decisive clause inaccurately. It gives each side of the controversy its strongest voice and names who held it: the suppliers who refused the exposure, the Government of India which defended the text and then tried to settle its meaning by clarification, rule and insurance pool, the opposition parties which had demanded the clause in the first place, and the critics from the opposite direction who attacked the Act for capping compensation far too low. And it takes a verdict, as this series requires, on the question the record can answer: whether the Act as operated delivered compensation or deterred supply.
 

@@ -6,15 +6,15 @@ date: 2020-08-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Railways Act 1989", "Passenger Rights", "Railway Claims Tribunal", "Transport Law", "Compensation"]
 excerpt: "The Railways Act 1989 explained: strict liability for death and injury, untoward incidents, the five exclusions, and how compensation claims are decided."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2020-08-15
+lang: en
 ---
-
 The Railways Act 1989 is the statute most passengers never read until the day a family needs it, and the part of it that matters on that day is short enough to state in one sentence. When a passenger is killed or injured in a train accident, or in what the Act calls an untoward incident, the railway administration must pay compensation whether or not it was at fault, and the only defences open to it are five exclusions written into the statute itself. Everything else in this long Act, the zones and the boards, the fares and the freight, the offences and the rule making powers, is the frame around that single hard promise. This article explains the whole statute with the passenger at the centre of it: what the Act covers, how it organises the railway administration, what a ticket confers and what it does not, how the liability for luggage differs from the liability for life, and how a claim is actually decided. It describes the law. It does not describe any particular occurrence, and it is written for the reader who wants the structure of the scheme before anything else.
 
-![The Railways Act 1989 and passenger rights, showing strict liability for death and injury and the untoward incident provisions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Railways Act 1989 and passenger rights, showing strict liability for death and injury and the untoward incident provisions - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The Act rewards that order of reading, because its compensation scheme is routinely misdescribed in the places a bereaved family is most likely to look. Liability under the Act is described on many pages as if it depended on negligence, as if a claimant had to prove that the railway did something wrong. It does not. Other pages quote compensation figures that the rules have since replaced, because the amounts live in subordinate legislation and change without any amendment to the Act. Still other pages state that the Railway Claims Tribunal bars every other proceeding of any kind, which overstates the Tribunal's jurisdiction and closes a door that the statute leaves open for complaints about service. Each of those errors is corrected in its section below, and the corrections matter more than the detail around them.
 

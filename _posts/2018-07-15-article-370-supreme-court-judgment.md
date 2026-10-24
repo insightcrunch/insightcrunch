@@ -6,15 +6,15 @@ date: 2018-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Article 370", "Constitutional Law", "Judiciary", "Federalism", "Supreme Court"]
 excerpt: "The Article 370 Supreme Court judgment upheld the end of the special status, held one paragraph of the first Order beyond power, and left two questions open."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2018-07-15
+lang: en
 ---
-
 On 11 December 2023 a Constitution Bench of five judges of the Supreme Court delivered judgment in In Re: Article 370 of the Constitution, reported at [2023] 16 SCR 1 and cited as 2023 INSC 1058. The Article 370 Supreme Court judgment answered a question the constitutional text had carried unanswered for over seven decades: whether the provision that had governed the relationship between India and the State of Jammu and Kashmir since 1950 could be brought to an end by the very mechanism the provision itself supplied, and whether the manner of its ending in August 2019 survived scrutiny. The Bench was unanimous in result. It produced three opinions, one for the majority of the Bench and two separate concurrences, and it decided some questions with great precision while expressly declining to decide two others.
 
-![The Article 370 Supreme Court judgment, showing the Constitution Bench holdings on Constitutional Orders 272 and 273 and the questions left undecided - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Article 370 Supreme Court judgment, showing the Constitution Bench holdings on Constitutional Orders 272 and 273 and the questions left undecided - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The interpretive difficulty at the centre of the case was genuine, and it is worth stating plainly before any holding is described. Article 370 contained its own ending. Its third clause empowered the President, by public notification, to declare that the article would cease to be operative, but the proviso to that clause required the recommendation of the Constituent Assembly of the State before such a notification issued. That Assembly had framed the Constitution of Jammu and Kashmir, adopted it on 17 November 1956, and dissolved on 25 January 1957. No body answering its description had existed for over six decades when, in August 2019, the President issued two Constitutional Orders that applied the entire Constitution of India to the State and then declared Article 370 inoperative in its existing form. The petitioners said the proviso had frozen the provision in place when the Assembly disappeared, because the one consent the text demanded could never again be given. The Union said the power survived, because a recommendation is not a veto and a temporary body cannot entrench a temporary provision against the authority the clause itself names. The text alone did not settle the contest, because the text had been written for a Constituent Assembly expected to complete the State's constitutional settlement, not for a dispute arising sixty-six years after that Assembly went home.
 

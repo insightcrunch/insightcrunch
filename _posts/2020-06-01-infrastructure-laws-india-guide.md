@@ -6,15 +6,15 @@ date: 2020-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Infrastructure Law", "Public Private Partnership", "Land Acquisition", "Federalism", "Economic Regulation", "UPSC"]
 excerpt: "Infrastructure laws in India explained by governance model: which sectors answer to independent regulators, which stay departmental, and how land is taken."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2020-06-01
+lang: en
 ---
-
 Infrastructure laws in India do not form a single code, and the reader who goes looking for one will misunderstand the field. There is no Infrastructure Act. What exists is a shelf of sector statutes, one cluster for each network industry, and the statutes differ from each other in the one respect that decides almost everything practical about a sector: who governs it. Some sectors are run by an independent regulator created by statute, a body that licenses operators, fixes or approves the charges they levy, and answers appeals through a specialised tribunal. Other sectors are run by a government department that is at once the owner of the network, the operator of the service, the maker of the rules and the judge of complaints against itself. Electricity belongs to the first group. The railways and the national highways belong to the second. Ports, airports, oil and gas, road transport, mining and atomic energy are distributed between the two models, or split inside themselves, and the distribution is not random.
 
-![Infrastructure laws in India mapped by governance model, showing which sectors answer to an independent regulator and which remain under departmental control - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Infrastructure laws in India mapped by governance model, showing which sectors answer to an independent regulator and which remain under departmental control - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The organising distinction of the entire field is whether the State still operates the service. Where the State withdrew from operations and admitted private and competing operators, Parliament built a regulator to stand between the operator and the consumer, because a market with a former monopolist and new entrants cannot be refereed by a ministry that owns one of the players. Where the State remained the operator, no referee was built, and the department continues to set its own charges, investigate its own failures and decide its own liability. That single fact explains why a power consumer in a State capital can appeal a tariff order to a tribunal in Delhi while a railway passenger has no tariff forum at all, why an airport's aeronautical charges are determined by a statutory authority while a port's were for decades fixed by a tariff body that the port statute has since discarded, and why the competition between governance models, rather than any list of Acts, is the thing a reader must grasp first. This article maps the whole field on that distinction: the constitutional entries that scatter infrastructure across all three Lists of the Seventh Schedule, the statute set sector by sector, the land question that every project shares, the contract layer that substitutes for a missing partnership statute, and the dispute forums that decide what happens when projects fail.
 

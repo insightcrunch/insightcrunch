@@ -6,15 +6,15 @@ date: 2021-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Citizenship", "Citizenship Act 1955", "Constitutional Law", "Equality", "UPSC"]
 excerpt: "The Citizenship Amendment Act 2019 debate turns on a short text: what the amendment provides, what it does not, and the two cases argued over its validity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-10-15
+lang: en
 ---
-
 The Citizenship Amendment Act 2019 debate is conducted, on most days and in most places, about a statute that neither side quite describes. Supporters defend a measure of relief for persecuted minorities, stated at a level of generality the text does not use. Opponents attack a measure of exclusion aimed at one community, stated at a level of generality the text does not use either. Between those two descriptions sits a short amending Act of five sections, the Citizenship (Amendment) Act, 2019, Act 47 of 2019, which received the assent of the President on 12 December 2019 and was brought into force on 10 January 2020. This article sets out what that Act provides, element by element, and what it does not provide. It then states the case made in its support and the case made against it, each at full strength and in the terms its own proponents use, and it records the procedural position of the constitutional challenge that will decide between the legal parts of those cases. It adopts no position of its own, and a reader who finishes it should be able to say which side the writer holds only by guessing.
 
-![The Citizenship Amendment Act 2019 debate, showing what Act 47 of 2019 provides and what it does not - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Citizenship Amendment Act 2019 debate, showing what Act 47 of 2019 provides and what it does not - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The discipline matters because citizenship is the gateway status in the Indian legal order. It determines who may vote, who may hold specified constitutional offices, who may move and reside without permission, and who stands inside the community to which the state owes its fullest duties. A change to the rules of admission is therefore never a small thing, even when the change is textually narrow. The argument of this article is the argument of the series of which it forms part: that a statute is frequently narrower than the debate conducted about it, that the narrowness is not a trick or an evasion, and that stating the text precisely is the precondition for engaging with the debate honestly rather than a way of avoiding the debate. The 2019 amendment is the instance in which that discipline is hardest to hold and most necessary, because the implications each side draws from the text are large, sincerely held, and incapable of being settled by the text alone.
 

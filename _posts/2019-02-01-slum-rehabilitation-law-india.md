@@ -6,15 +6,15 @@ date: 2019-02-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Slum Rehabilitation", "Constitutional Law", "Social Justice", "Urban Housing", "Judiciary"]
 excerpt: "Slum rehabilitation law in India is a patchwork of State slum statutes, one central Act and court-written demolition procedure, with no right to housing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2019-02-01
+lang: en
 ---
-
 Slum rehabilitation law in India begins from an uncomfortable fact that every other part of the subject must be read against: no Indian statute confers an enforceable right to housing. A family that has lived for thirty years on land it does not own holds, in strict law, a bundle of procedural protections rather than a title or an entitlement. A competent authority may have to take permission before an eviction suit is filed against it. A municipality may have to serve a notice, hold a hearing and record reasons before a structure is brought down. A redevelopment scheme may promise the family a free tenement, but only if the family can prove residence before a date fixed by an executive decision and only if enough of its neighbours consent to the scheme. The statutes, the schemes and the judgments that make up this field are therefore best understood as a law of process: they regulate how a settlement may be declared, improved, cleared or rebuilt, and what must happen before a person may be removed from it, while stopping short of saying that the person has a right to be housed at all.
 
-![Slum rehabilitation law in India and the process owed before a structure is demolished - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Slum rehabilitation law in India and the process owed before a structure is demolished - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That framing explains the shape of everything that follows. Because the entitlement is missing, the practical questions in this field are never "what am I owed" but "which statute covers the land I stand on, what stage has the process reached, and what does the authority still have to do before it may act". The answers differ by State, by land ownership and by the category into which the settlement falls, and the differences are not technicalities. A settlement declared under a State slum statute enters a regime of surveys, eligibility lists and redevelopment consent. A settlement standing on a footpath or beside a railway line stands, after the Supreme Court's demolition judgment of November 2024, largely outside the most detailed procedural code the Court has written, because that code expressly excludes the ground on which such settlements stand. A tenant inside a declared slum area in Delhi holds a protection created in 1956 that a resident of an undeclared settlement in the same city does not. This article works through the whole structure: the central Act of 1956 and its eviction control, the State statutes where most of the law sits, the eligibility cut-off that decides who is rehabilitated and who is merely removed, the housing missions that deliver houses without creating rights, and the two lines of Supreme Court authority, one constitutional and one procedural, that have done the work legislation declined to do.
 

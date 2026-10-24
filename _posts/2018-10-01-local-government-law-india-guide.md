@@ -6,15 +6,15 @@ date: 2018-10-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Local Government", "Panchayati Raj", "Constitutional Law", "Federalism", "UPSC"]
 excerpt: "Local government law in India guarantees that panchayats and municipalities exist and face elections, yet leaves their powers, funds and functions optional."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-10-01
+lang: en
 ---
-
 Every question in local government law in India reduces, sooner or later, to a distinction between two verbs. The Constitution of India commands some things about panchayats and municipalities in the language of obligation, and it permits other things in the language of choice, and the entire practical character of the third tier of government is fixed by which of those two verbs a given subject happens to attract. A State legislature cannot refuse to constitute panchayats. It cannot refuse to hold their elections, cannot decline to reserve seats for the Scheduled Castes, the Scheduled Tribes and women, cannot abolish the State Election Commission or skip the State Finance Commission. On each of those subjects the constitutional text says, in substance, that the thing shall be done. On the subjects that decide whether a panchayat or a municipality can actually do anything, the text changes its register. The State legislature may endow these bodies with powers. It may authorise them to tax. It may devolve on them the subjects listed in two long Schedules. Nothing in the Constitution of India requires it to do any of those things, and nothing sets a date by which they must be done.
 
-![Local government law in India, showing the split between the mandatory provisions of Parts IX and IXA and the permissive devolution of powers, funds and functions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Local government law in India, showing the split between the mandatory provisions of Parts IX and IXA and the permissive devolution of powers, funds and functions - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 That single design choice is the subject of this guide. Local government law in India is a body of constitutional text, three constitutional amendments, a large shelf of State statutes, and a smaller body of case law, and it cannot be understood by collecting those materials without seeing the joint that runs through all of them. The Constitution (Seventy-third Amendment) Act, 1992 and the Constitution (Seventy-fourth Amendment) Act, 1992 between them created a tier of government whose existence is guaranteed and whose content is negotiable. A panchayat cannot be abolished by the State that hosts it, and the same panchayat may lawfully be given almost nothing to decide. A municipal corporation must face its voters every five years, and the functions a citizen associates with a city, water supply, roads, sanitation, town planning, may sit with a development authority or a parastatal board that no voter elects and that answers to the State government rather than to the council chamber. The elected representative, the researcher and the examination candidate who grasp the shall and may divide hold the key to the whole field, because every controversy in it, from delayed elections to unpaid municipal staff to the complaint that devolution has failed, is a dispute about which side of that line a subject was placed on in 1992 and 1993, or about whether it should be moved.
 

@@ -6,15 +6,15 @@ date: 2018-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Panchayati Raj", "Local Government", "Federalism", "Constitutional Law", "UPSC"]
 excerpt: "Panchayat devolution in practice: how funds, functions and functionaries actually reach local bodies, what the devolution indices measure, and what they miss."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-11-15
+lang: en
 ---
-
 Panchayat devolution in India is ordinarily described in the vocabulary of the statute book: twenty-nine subjects listed in a Schedule, a State Act that repeats the list, a government order that assigns the schemes, and an index that converts all of this into a score. The resident of the village experiences something different. A hand pump is repaired or left broken. A health centre has a building and a nurse whose leave is sanctioned somewhere else. A road appears in the panchayat's plan and is built by a contractor answerable to an engineer in the district town. Between the two descriptions there is no contradiction, because they are measuring different things. The statute book records what has been provided for. The resident records what the elected body can actually decide. This article is about the distance between those two records, and about the discipline required to keep them apart: devolution is measured by statute and experienced through staff, and a State can rank well on the first while its panchayats direct nobody at all.
 
-![Panchayat devolution in India, showing the gap between functions listed in State law and the funds and functionaries a panchayat actually controls - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Panchayat devolution in India, showing the gap between functions listed in State law and the funds and functionaries a panchayat actually controls - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The argument proceeds through four questions that have to be asked separately and in order. First, does the function appear in the State statute at all, since devolution in India happens through State law and not through the Constitution. Second, has an activity mapping exercise unbundled that function into activities and assigned the activities between the village, block and district tiers, or does the subject sit in the Act as an undivided slogan. Third, does money follow the assignment in a form the local body can choose to spend, or does the money arrive tied to schemes designed elsewhere, in instalments the body does not control. Fourth, do the people who deliver the service answer to the local body: can it post them, transfer them, sanction their leave, or record their performance. A subject counts as genuinely devolved only where all four answers are yes. Every index, ranking and official claim in this field can be tested against that sequence, and most of the confusion in the public argument dissolves once the test is applied, because the instruments that certify devolution examine the first question thoroughly, the second sometimes, the third partially, and the fourth with the lightest touch of all.
 

@@ -6,19 +6,19 @@ date: 2019-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Patents Act", "TRIPS", "Intellectual Property", "Pharmaceuticals", "Parliament", "UPSC"]
 excerpt: "The Patents Amendment Act 2005 closed India's decade-long move to product patents, ending the mailbox while keeping the safeguards that define the law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2019-09-01
+lang: en
 ---
-
 Few statutes change their meaning as completely as the Patents Act, 1970 changed between the last day of 2004 and the first day of 2005. On the earlier date, an Indian drug company could lawfully manufacture and sell a medicine invented abroad so long as it used its own process to make it. On the later date, the same act of manufacture, for a medicine covered by a granted product patent, was infringement. The Patents Amendment Act 2005 is the instrument that carried India across that line, and it is usually described as the moment Indian patent law surrendered to the TRIPS Agreement. That description is half right and wholly misleading. The amendment did the one thing the Agreement compelled, which was to make product patents available in the fields India had kept closed since 1970. Almost everything else in the Act, including the provisions that have made Indian patent law internationally distinctive and internationally contested, was a choice India made inside the space the Agreement left open, and several of those choices were written into the Bill during its passage through Parliament in March 2005 rather than into the Ordinance that preceded it.
 
 That is the arc this article traces. India reached product patents in three amendments spread over a decade: a first amendment in 1999 that built the transitional machinery the Agreement required, a second in 2002 that completed general compliance outside the closed fields, and the third in 2005, which opened the closed fields and closed the transition. Read in sequence, the three amendments show a legislature conceding the single point the treaty actually specified and contesting nearly every other point. The reader who finishes this article should be able to say what the Agreement required, what it merely permitted, what India did with the permission, and why the loudest argument about Indian patent law is an argument about choices rather than about compliance.
 
 A word on method, because the genre of this article is an audit of a trail rather than a commentary on a single Act. An amendment trail treats the statute book as the transcript of a negotiation. Every insertion, substitution and omission in the Patents Act between 1999 and 2005 answers to a pressure: a treaty article, a dispute ruling, a coalition partner, a campaign, a court. The trail method reads the text in that order, asking of each provision what required it, what permitted it, and what nearly prevented it. Provisions that look eccentric in a bare Act, a queue that held applications unexamined for ten years, a marketing right designed to expire, a royalty shield for producers the patent system was about to overtake, become legible when they are read as moves in a sequence whose other players sat in Geneva, Washington and the Indian Parliament at once. That is how the sections that follow are organised, and it is why the article keeps returning to dates: in a trail of this kind, the date of a provision is usually the most informative thing about it.
 
-![The Patents Amendment Act 2005 and the TRIPS settlement, showing how India moved to product patents while retaining safeguards - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Patents Amendment Act 2005 and the TRIPS settlement, showing how India moved to product patents while retaining safeguards - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 ## The Act India started with: process patents and Section 5
 

@@ -6,15 +6,15 @@ date: 2021-12-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Armed Forces Tribunal", "Military Law", "Tribunals", "Service Law", "Judiciary"]
 excerpt: "The Armed Forces Tribunal Act 2007 explained: service matters, court martial appeals, bail, contempt, and the leave filter guarding Supreme Court appeals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2021-12-15
+lang: en
 ---
-
 The Armed Forces Tribunal Act 2007 created the forum that serving and retired members of the Army, the Navy and the Air Force had lacked for half a century: a statutory body that can decide a service grievance on its merits and can sit in appeal over a court martial. The Armed Forces Tribunal decides disputes about pay, pension, promotion and tenure, and it rehears the gravest product of military discipline, the finding and sentence of a court martial, with power to substitute its own conclusion. Yet the statute that built this forum withheld the two features that ordinarily secure the independence of an adjudicating body. The Tribunal is administered by the Ministry of Defence, the department that appears against the applicant in the great majority of cases before it. And an appeal from the Tribunal to the Supreme Court does not lie as of right in the ordinary case: it lies only where the Tribunal itself certifies that a point of law of general public importance is involved, or where the Supreme Court grants leave. A member of the armed forces who finishes this article should know what the Tribunal can decide, what it cannot, where its orders can be taken, and why its design remains contested.
 
-![The Armed Forces Tribunal Act 2007, showing service matter jurisdiction, court martial appeals and the leave filter to the Supreme Court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Armed Forces Tribunal Act 2007, showing service matter jurisdiction, court martial appeals and the leave filter to the Supreme Court - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## Why a separate forum had to be created
 

@@ -6,17 +6,17 @@ date: 2020-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Atomic Energy", "Nuclear Law", "Energy Law", "Regulatory Bodies", "UPSC"]
 excerpt: "The Atomic Energy Act 1962 explained: how the Central Government took control of atomic energy, why the regulator lacked a statute, and what replaced the Act."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2020-09-15
+lang: en
 ---
-
 The Atomic Energy Act 1962 did something no other Indian statute of its generation attempted in quite the same form. It took an entire field of science, industry and strategic policy and placed it, by a single operative provision, in the hands of one actor. Section 3 declared that the Central Government would have power to produce, develop, use and dispose of atomic energy, to carry out research into it, to manufacture the substances and articles the field required, and to control the production and use of the energy itself. Every later question in Indian nuclear law, from who may mine uranium to who may read a document about a reactor, begins as a question about that vesting and about the machinery Parliament built around it. A reader who understands the vesting, and who understands the strange institutional gap at the centre of the framework, understands the Act.
 
 The gap is this. The body responsible for the safety of India's nuclear installations, the Atomic Energy Regulatory Board, was created in 1983 by an executive order issued under a delegated power in the Act. It was not created by the Act itself, and it was not created by any other statute. It reported into the same atomic energy establishment whose facilities it inspected, and it depended on that establishment for money and staff. The Comptroller and Auditor General recorded the consequences in a performance audit in 2012. Parliament was asked to cure the position by a Bill introduced in 2011, and the Bill lapsed in 2014 without being enacted. The position therefore persisted for over four decades, until legislation enacted in December 2025 replaced the whole framework and conferred statutory status on the regulator. That sequence, a defect identified, diagnosed, legislated for, abandoned and then addressed after forty two years, is the longest running instance in this series of a known institutional problem left unremedied, and it is the centrepiece of this article.
 
-![The Atomic Energy Act 1962 and the vesting of atomic energy in the Central Government - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Atomic Energy Act 1962 and the vesting of atomic energy in the Central Government - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The article is a legal and institutional account. It states what the Act said, how its controls worked, who was permitted to do what under it, and how the framework ended. It makes no claim about the safety of any facility, and it adopts no position on whether nuclear power should expand or contract. Those questions are argued elsewhere by people who hold them strongly and sincerely on every side, and nothing in a statute pillar would be advanced by borrowing their conclusions. What a statute pillar can do is fix the legal record precisely, because a surprising amount of published writing about this Act gets the legal record wrong: the regulator is described as a statutory body, which it never was under this Act; the amendment of 2015 is described as opening the sector to private capital, which it did not; and the replacing legislation of 2025 is described in terms that outrun what its text, as enacted, can bear. Each of those errors is corrected in its place below.
 

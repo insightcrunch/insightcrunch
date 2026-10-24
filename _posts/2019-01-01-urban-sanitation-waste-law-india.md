@@ -6,15 +6,15 @@ date: 2019-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Solid Waste Management", "Environment Law", "Municipal Governance", "Sanitation", "UPSC"]
 excerpt: "Urban sanitation and waste law in India is made of rules framed under an environmental Act rather than a sanitation statute, and that shapes every duty in it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2019-01-01
+lang: en
 ---
-
 Urban sanitation and waste law in India begins with an absence. A resident who wants to know which statute obliges the municipality to collect the garbage from the lane, which statute obliges the household to separate it first, and which statute punishes either of them for failing, will search the statute book in vain, because no Parliament has enacted a sanitation Act and no central legislation on solid waste management exists. What exists instead is a body of rules, made by the Union executive under a general environmental protection statute of 1986, laid over a foundation of State municipal law that the rules do not amend and cannot fund. The duties of daily life in this field, who must segregate, who must collect, who must process, who must pay, are found in subordinate legislation, in municipal bye-laws made under State Acts, and in the directions of a tribunal. The statute book is silent at exactly the point where the subject touches every household in the country every day.
 
-![Urban sanitation and waste law in India, showing the Solid Waste Management Rules made under the Environment (Protection) Act and the municipalities bound to carry them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Urban sanitation and waste law in India, showing the Solid Waste Management Rules made under the Environment (Protection) Act and the municipalities bound to carry them - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 That structure is the subject of this article, and it produces a consequence the reader should hold from the outset. Because the operative instrument is a set of rules made under an environmental Act, the duties fall on municipalities under an instrument that provides them no money, and on residents under an instrument that almost nobody enforces. The claim can be stated as the article's organising proposition: sanitation law without a sanitation statute means that the instrument which creates the duty, the instrument which provides the money and the instrument which enforces the sanction are three different instruments answering to three different authorities. The rules that create the duties are made in Delhi under the Environment (Protection) Act, 1986. The money, such as it is, arrives through State budgets and through a Union sanitation mission that is a scheme rather than a law. The sanction, when it moves at all, moves through State pollution control boards and through the National Green Tribunal, neither of which answers to the residents who live with the uncollected waste. Everything in the pages that follow is an elaboration of that triangle.
 

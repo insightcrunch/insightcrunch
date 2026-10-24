@@ -6,15 +6,15 @@ date: 2019-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Aadhaar Act", "UIDAI", "Public Finance", "Privacy and Data Protection", "UPSC"]
 excerpt: "The Aadhaar Act explained: how Section 7 ties compulsory Aadhaar to spending from the Consolidated Fund, why the proviso matters, and what the courts cut."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2019-05-01
+lang: en
 ---
-
 Public argument about the Aadhaar Act 2016 usually begins from a question the statute does not ask. The question in circulation is whether Aadhaar is mandatory, as if the Act contained a single switch that made the number compulsory for life in general. It does not. The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, Act 18 of 2016, is a delivery statute for public money. It creates an identification system, staffs an authority to run it, protects the information the system holds in unusually absolute language, punishes misuse, and then, in one provision, permits the government to demand the number as a condition of receiving certain payments. Everything about the statute's reach, and nearly everything about the litigation it attracted, follows from the limits built into that one permission.
 
-![The Aadhaar Act 2016, showing Section 7, the Consolidated Fund condition and the alternative identification proviso - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Aadhaar Act 2016, showing Section 7, the Consolidated Fund condition and the alternative identification proviso - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 Stated in terms both camps accept, the design is this. Every resident is entitled to obtain an Aadhaar number by submitting demographic and biometric information. The number is unique to the person, is generated at random, and is not, by itself, proof of citizenship or domicile. The Unique Identification Authority of India enrols residents, maintains the Central Identities Data Repository in which the numbers and the information behind them sit, and performs authentication when an authorised entity asks whether a number and the fingerprint or iris scan presented with it match the record. Core biometric information may not be shared with anyone for any reason whatsoever, and may be used for no purpose other than generating numbers and authenticating them. Over that machinery sits the conditionality provision, Section 7, which allows the Centre or a State to require authentication, or proof of possession of a number, as a condition for receiving a subsidy, benefit or service, but only where the expenditure is incurred from, or the receipt forms part of, the Consolidated Fund.
 

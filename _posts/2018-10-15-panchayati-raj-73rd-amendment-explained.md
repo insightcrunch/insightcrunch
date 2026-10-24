@@ -6,15 +6,15 @@ date: 2018-10-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "73rd Amendment", "Panchayati Raj", "Constitutional Amendments", "Constitutional Law", "Federalism", "UPSC"]
 excerpt: "The 73rd Amendment explained: what Part IX made compulsory for every panchayat, what it left to State law, and why the Gram Sabha received no power at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-10-15
+lang: en
 ---
-
 The 73rd Amendment is best understood as a bargain struck between compulsion and permission. By the Constitution (Seventy-third Amendment) Act, 1992, the Constitution of India acquired a new Part IX, titled "The Panchayats", running from Article 243 to Article 243O, together with an Eleventh Schedule of twenty-nine subjects. What the amendment made compulsory was the existence of the institutions and the regularity of their renewal: every State must constitute panchayats, must fill their seats by direct election, must reserve seats and offices in a stated pattern, must hold elections on a stated clock, and must maintain two commissions, one for elections and one for finance. What the amendment left to permission was nearly everything that makes a local body powerful. The functions a panchayat performs, the taxes it may raise, the staff it commands, and the powers of the village assembly in whose name the whole structure is usually described, all depend on what a State Legislature chooses to give. A reader who grasps that single division, between the compulsory skeleton and the permissive substance, understands the 73rd Amendment better than a reader who has memorised its articles in sequence.
 
-![The 73rd Amendment and Panchayati Raj, showing the compulsory framework of Part IX and the powers it left to State law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 73rd Amendment and Panchayati Raj, showing the compulsory framework of Part IX and the powers it left to State law - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article is the pillar treatment of the amendment: the problem it was built to solve, the committee road that produced its design, the provisions analysed in connected prose, the two sets of litigation that tested its open spaces, and an honest assessment of what the text does and does not settle. It states the design. The record of what States did with the design, the devolution of funds, functions and functionaries across three decades, belongs to the companion record and is assessed separately in the article on panchayat devolution in implementation. The field as a whole, rural and urban institutions together, is mapped in the series guide to [local government law in India](/2018/10/01/local-government-law-india-guide/), and this article links across to it rather than re-covering that ground.
 

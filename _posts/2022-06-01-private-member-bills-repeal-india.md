@@ -6,15 +6,15 @@ date: 2022-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Private Member Bills", "Parliament", "Repeal of Obsolete Laws", "Legislative Procedure", "General Clauses Act"]
 excerpt: "Private member Bills and repeal drives mark the two ends of lawmaking in India: how a non-minister proposes a law, and how dead statutes leave the book."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2022-06-01
+lang: en
 ---
-
 Private member Bills stand at one end of the legislative process and the repeal of obsolete statutes stands at the other, and the two ends have more in common than their distance suggests. At the first end, a member of Parliament who holds no ministerial office drafts a complete law, gives notice of it, waits for a ballot to favour the notice, and hopes for time on a Friday afternoon to persuade the House to take the proposal seriously. At the second end, a government that commands the House assembles long schedules of enactments nobody has used in decades and removes them from the statute book in batches of dozens or hundreds at a time. The first exercise produces almost no law. The second exercise produces almost no change. Each is conducted in proper form, each consumes real legislative time, and each leaves the working statute book very nearly where it found it.
 
-![Private member Bills and repeal drives in the Indian Parliament, showing the Friday sitting for private members' business and the schedules of a repealing and amending Act - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Private member Bills and repeal drives in the Indian Parliament, showing the Friday sitting for private members' business and the schedules of a repealing and amending Act - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 That symmetry is the subject of this article, and it is worth stating plainly at the outset because both exercises are usually described in terms that conceal it. The private member Bill is conventionally praised as the conscience of the House and conventionally pitied as a wasted effort. The repeal drive is conventionally announced as deregulation and conventionally measured by the height of the pile of Acts it removes. Neither description survives contact with the record. The record on private member Bills, kept by the secretariats of the two Houses and analysed by PRS Legislative Research, is that fourteen such Bills have been passed by Parliament since 1952 and that the most recent of them completed its passage in 1970. The record on repeal, kept by the Legislative Department of the Ministry of Law and Justice and stated in answers to Parliament, is that the mass repeal exercises have removed enactments that were spent, superseded or obsolete, while the statutes this series has documented as raising live questions, statutes whose mechanisms were switched off by notification or whose repeal was enacted in a Code and then left unnotified, remain exactly where they were. A reader who understands why both ends of the process are largely symbolic, and who can name the exception at each end, understands something real about how the Indian Parliament allocates its scarcest resource, which is time on the floor of the House.
 

@@ -6,15 +6,15 @@ date: 2021-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Insurance Act", "Insurance Law", "IRDAI", "Financial Regulation", "UPSC"]
 excerpt: "The Insurance Act 1938 explained: entry and capital rules for insurers, the three year bar on questioning a life policy, nomination, and the reform trail."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-01-15
+lang: en
 ---
-
 The Insurance Act 1938 is the statute under which every insurer in India holds its licence, holds its capital and answers for its conduct, and it contains one provision that decides more contested life insurance claims than any other sentence in Indian financial law. Section 45 provides that no policy of life insurance shall be called in question on any ground whatsoever after three years have run from the last of four dates to occur. A family that understands that sentence, and knows how the three years are counted, understands the strongest protection the statute gives it. A business reader needs a different part of the same Act: how a company gets registered, how much capital it must bring, how much of it foreign investors may own, and where the limits on its spending and investing sit.
 
-![The Insurance Act 1938 and the three year bar in Section 45 that decides life insurance claims - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Insurance Act 1938 and the three year bar in Section 45 that decides life insurance claims - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 Three boundary notes will keep the cluster honest. The Act's text is followed in its amended form, with the pre amendment position stated only where the comparison does legal work, as it does for Section 45. Figures that sit in regulations rather than in the Act, the solvency ratio, the expense ceilings, the surveyor threshold, are described as regulation made, because parliamentary text and subordinate law deserve different weight in a reader's confidence. And judgments are used for what they decide, not decorated with citations: the series cites Mithoolal Nayak, Asha Goel and Satwant Kaur Sandhu because each of them governs how a claim is actually fought.
 

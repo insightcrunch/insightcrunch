@@ -6,15 +6,15 @@ date: 2022-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Official Secrets Act 1923", "National Security Law", "Right to Information", "Official Secrecy", "Colonial Legislation"]
 excerpt: "The Official Secrets Act 1923 punishes spying and the wrongful communication of official information, yet nowhere defines a secret; its scheme is examined here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2022-01-01
+lang: en
 ---
-
 The Official Secrets Act 1923 is the statute under which India punishes espionage and the unauthorised movement of official information, and it is a statute with a hole at its centre. The Act, cited as Act 19 of 1923, creates offences that turn on whether information is secret, official, calculated to be useful to an enemy, or likely to affect the security of the State, and yet it contains no definition of a secret, no definition of an official secret, and no test by which a document becomes protected. A reader who works through its fifteen sections looking for the definition around which everything else is built will not find it, because it is not there. What the Act protects is identified outside the Act, in executive instructions that classify government documents, and what the Act punishes is identified inside it, in elements that a prosecution must prove in court. That division, between an administrative act of classification that the statute never mentions and a criminal liability that the statute defines in detail, is the single most important fact about the Official Secrets Act 1923, and it organises everything that follows in this article.
 
-![The Official Secrets Act 1923 and the law of official secrecy in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Official Secrets Act 1923 and the law of official secrecy in India - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The statute is short enough to be read whole, and this article reads it whole. It sets out the principal offences, beginning with the spying offence in Section 3 and the wrongful communication offence in Section 5, and it explains the supporting offences, the definition of a prohibited place, and the procedural conditions that govern any prosecution, including the requirement of a government complaint before a court may take cognizance and the power to hold proceedings in camera. It then turns to the two relationships that define the Act in a constitutional order very different from the one in which it was enacted: its relationship with the Right to Information Act 2005, which overrides it for the purposes of access while leaving its offences intact, and its relationship with the freedom of the press, addressed by the Supreme Court in a 2019 judgment on documents already published by a newspaper. It records the reform history, in which an official commission recommended repeal and replacement and a later committee examined the Act against the transparency statute, and in which neither exercise changed the statute book. And it gives both sides of the retention debate in their strongest form before reaching a verdict, because the case for a general official secrets law is a real case and the case against this particular law is also a real case, and a statute pillar article that pretended otherwise would fail its readers.
 

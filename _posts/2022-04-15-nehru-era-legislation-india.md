@@ -6,15 +6,15 @@ date: 2022-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Nehru Era", "Constitutional Amendments", "Ninth Schedule", "Hindu Code", "Parliament", "UPSC"]
 excerpt: "Nehru-era legislation pursued four programmes at once: constitutional adjustment, the planned economy, social reform and state building in one founding decade."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2022-04-15
+lang: en
 ---
-
 Nehru-era legislation is usually described as if it were a single project, the building of a planned economy, and the description is not wrong so much as it is incomplete to the point of distortion. Between the commencement of the Constitution in January 1950 and the death of Jawaharlal Nehru in May 1964, the Indian Parliament and the provisional legislature that preceded it were running four distinct legislative programmes at the same time, each with its own statutes, its own opposition and its own timetable. The first programme adjusted the Constitution itself, amending the fundamental rights when they obstructed the rest of the agenda. The second built the planned economy, a structure of licensing, control, public ownership and fiscal extraction. The third reformed society through law, codifying the personal law of the majority community and giving penal force to the constitutional abolition of untouchability. The fourth built the state itself: a reorganised map of States, an electoral machine, a citizenship code, a detention power and the legal shell of a strategic science establishment.
 
-![Nehru-era legislation and the planned state, showing the four legislative programmes of the first fifteen years under the Constitution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nehru-era legislation and the planned state, showing the four legislative programmes of the first fifteen years under the Constitution - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The four programmes were not sequential phases. They were simultaneous, and they interfered with one another constantly. Land reform belonged to the economic programme, but it could not proceed until the constitutional programme had neutralised the property right that the courts were using to strike abolition statutes down. The codification of Hindu law belonged to the social programme, but it consumed the parliamentary time and political capital of the same legislature that was passing the First Five Year Plan's supporting statutes. The reorganisation of the States belonged to state building, but it required a constitutional amendment of its own and redrew the constituencies through which every other programme had to be legislated. A reader who holds the four programmes apart, and can say which statute belongs to which, understands the period's statute book in a way that the single label of the planned state does not permit.
 

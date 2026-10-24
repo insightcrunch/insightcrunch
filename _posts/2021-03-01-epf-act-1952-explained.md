@@ -6,17 +6,17 @@ date: 2021-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Labour Law", "Social Security", "Provident Fund", "Pension", "Employment Law"]
 excerpt: "The EPF Act 1952 explained: the three schemes, the contribution split, the wage ceiling, higher pension, and the repeal that was never notified in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2021-03-01
+lang: en
 ---
-
 Every payslip in the organised sector carries a line that most employees read once and never examine again: a deduction of twelve per cent of wages, matched by the employer, under a statute enacted when the Republic was two years old. The EPF Act 1952 is the legal machinery behind that line. It decides which establishments must run the deduction, how the money is divided between a lump sum savings fund, a monthly pension and a death insurance benefit, what happens when an employer deducts the money and fails to deposit it, and why the balance in the fund stands ahead of almost every other claim when an employer collapses. A member who understands the Act can answer the questions that decide real money: whether the establishment was covered at all, whether the contribution was computed on the right wage base, whether the pension will be reckoned on the wage ceiling or on actual salary, and which of three different funds pays on death in service.
 
 The Act has acquired a second distinction that no other Indian statute shares. The Code on Social Security, 2020 named it for repeal, the Code itself was brought into force, and the repeals of eight companion enactments were notified. The repeal of the provident fund statute was not. India therefore has a retirement savings law that is printed inside a repealing Code as a dead letter and operates in every payroll office in the country as living law, and a reader who consults the Code will reach exactly the wrong conclusion about which of the two documents governs a contribution. The sums at stake are correspondingly large: the fund holds the retirement savings of a substantial part of the country's organised workforce, its monthly inflow is a visible component of national household savings, and its declared interest rate is a number that finance ministries and wage boards watch because it prices the savings of workers who have no other market instrument. This article sets out the Act provision by provision, traces the contribution from a month's wages to the three funds, and then states the commencement position with the precision it requires, because that position has been misreported more often than any other fact in Indian labour law.
 
-![The EPF Act 1952 explained, showing how a month's contribution is divided between the provident fund, the pension scheme and the insurance scheme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The EPF Act 1952 explained, showing how a month's contribution is divided between the provident fund, the pension scheme and the insurance scheme - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 ## A statute built in layers: the EPF Act 1952 from ordinance to pension
 

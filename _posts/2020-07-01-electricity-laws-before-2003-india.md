@@ -6,15 +6,15 @@ date: 2020-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Electricity Law", "State Electricity Boards", "Power Sector Reform", "Repealed Statutes", "UPSC"]
 excerpt: "Electricity law in India before 2003 rested on three statutes and one contradiction: Boards had to earn a surplus and obey the directions preventing it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2020-07-01
+lang: en
 ---
-
 For most of the second half of the twentieth century, electricity law in India meant three statutes working as one regime, and the centre of that regime was not a market, a contract or a regulator but a statutory corporation: the State Electricity Board. The Board generated the power, carried it across the state, sold it to the consumer, fixed the price at which it was sold, borrowed the money with which the system was built, and answered for all of it to the government that appointed its members. Understanding Indian electricity, including the financial condition of distribution that every later reform has inherited, begins with understanding what those three statutes asked of that single institution, because the statutes asked for two things that could not be done at once.
 
-![Electricity law in India before 2003, showing the three statutes and the State Electricity Board regime they built - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Electricity law in India before 2003, showing the three statutes and the State Electricity Board regime they built - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The three statutes were the Indian Electricity Act, 1910, the Electricity (Supply) Act, 1948 and the Electricity Regulatory Commissions Act, 1998. The first was a works and safety statute from the colonial period, concerned with licences, lines and the protection of the public. The second, passed in the first year of the Republic's approach, built the public supply system and wrote into law both a commercial obligation and a duty of obedience to government direction. The third, arriving half a century later, began the separation of the regulator from the operator that the first two had fused together. In 2003 all three were repealed by a single section of a consolidating Act, and the manner of their repeal, which preserved far more than it destroyed, is part of the story. This article sets out the regime the three statutes made, explains the contradiction at its centre with the attribution the evidence requires, and states precisely what survived the repeal. The successor statute has its own pillar in this series, [the Electricity Act 2003 explained](/2020/06/15/electricity-act-2003-explained/), and the field around both is mapped in [the infrastructure laws guide](/2020/06/01/infrastructure-laws-india-guide/); the questions taken here are the predecessor regime's own.
 

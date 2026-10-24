@@ -6,15 +6,15 @@ date: 2021-08-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Judicial Appointments", "NJAC", "Collegium System", "Constitutional Law", "Judiciary"]
 excerpt: "The NJAC Act and the collegium verdict explained: what the 99th Amendment proposed, why the Court struck it down, and the unfinished memorandum of procedure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2021-08-01
+lang: en
 ---
-
 The NJAC Act is the shortest lived constitutional experiment in the history of Indian judicial appointments, and the collegium verdict that destroyed it is among the most consequential judgments the Supreme Court has delivered on its own institutional position. Between commencement on 13 April 2015 and judgment on 16 October 2015, a six member commission created by a constitutional amendment stood in the place of the collegium, and at the end of those six months the commission was gone, the amendment was void, and the collegium stood restored by the same interpretive route that had created it. The argument has never ended, because the judgment answered one question and left another hanging. It settled who may not appoint judges. It directed a reform of how judges are appointed, through a revised Memorandum of Procedure addressing eligibility, transparency, a secretariat and complaints, and that reform was not completed in the decade that followed.
 
-![The NJAC Act and the collegium verdict, showing the commission the 99th Amendment created and the judgment that struck it down - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The NJAC Act and the collegium verdict, showing the commission the 99th Amendment created and the judgment that struck it down - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 This article is a constitutional account of that sequence, written to the standard the brief for the subject demands. It states what the Constitution (Ninety-ninth Amendment) Act, 2014 and the National Judicial Appointments Commission Act, 2014 (Act 40 of 2014) provided, in their own terms. It states the case for the commission as its proponents state it and the case for judicial primacy as its proponents state it, each at full strength and neither adopted in the stating. It sets out the antecedents without which the collegium cannot be understood, because the collegium is a judicial construction and not a constitutional text. It records the bench, the majority and the dissent with precision, because public discussion of the case routinely gets the division wrong. And it gives the Memorandum of Procedure the structural place it deserves, because the unfinished memorandum is the finding that organises everything after 2015: the Court struck down the commission and ordered a reform it has not received, and the criticisms of the collegium that the amendment was said to answer remain unaddressed by the remedy the Court itself prescribed. The wider field of courts legislation in which this dispute sits is mapped in [the guide to the laws that shape India's courts](/2021/04/01/judicial-system-laws-india-guide/), and this article owns only the appointments controversy within that field.
 

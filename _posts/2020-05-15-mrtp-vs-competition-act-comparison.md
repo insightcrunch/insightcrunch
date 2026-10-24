@@ -6,15 +6,15 @@ date: 2020-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Competition Law", "MRTP Act", "Economic Legislation", "Business Law", "UPSC"]
 excerpt: "MRTP Act vs Competition Act compared across nine dimensions: assets against market effect, direction against turnover penalty, and the twenty year gap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2020-05-15
+lang: en
 ---
-
 Every account of Indian competition law begins with a contrast, and most accounts state the contrast correctly and then fail to use it. The Monopolies and Restrictive Trade Practices Act 1969 asked how large an undertaking was. The Competition Act 2002 asks what an undertaking has done to a market. The MRTP vs Competition Act comparison is therefore not a comparison between an old statute and its amendment, or between a weak regulator and a strong one. It is a comparison between two different theories of what the state should fear in private economic power: accumulation itself, or conduct and transactions that damage the competitive process. Everything else in this article, the thresholds, the remedies, the merger rules, the leniency programme, the fate of consumer complaints, follows from that single difference, and the verdict at the end is derived by counting how the difference plays out across nine dimensions rather than by asserting it at the start.
 
-![MRTP Act vs Competition Act comparison, contrasting concentration control with effects based prohibition in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MRTP Act vs Competition Act comparison, contrasting concentration control with effects based prohibition in India - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 A second caution belongs at the front, because it changes what an honest comparison can claim. The two regimes never operated in their full forms one after the other. The older statute lost its concentration provisions in 1991, eighteen years before it was repealed. The newer statute was enacted in 2002 but its conduct provisions took effect only in 2009 and its merger provisions only in 2011. Between 1991 and 2011 India had neither the old permission regime nor the new merger control, and between 1970 and 2009 it had a competition authority that could not impose a fine. Any verdict that compares the two statutes as though the second simply succeeded the first on a single date is comparing two things that never stood in that relation, and this article therefore assesses both regimes against a third state, the interval in which neither operated, because naming that interval converts an easy comparison into an informative one. The wider field in which both statutes sit is mapped in the guide to [industrial and competition law in India](/2020/01/01/industrial-competition-law-india-guide/), and this article takes its texts from the two owning accounts rather than restating them.
 

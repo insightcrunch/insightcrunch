@@ -6,15 +6,15 @@ date: 2019-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Information Technology Act", "Free Speech", "Constitutional Law", "Judiciary", "Civil Liberties"]
 excerpt: "The Shreya Singhal judgment struck down Section 66A, upheld the blocking power and read down intermediary liability. Then the dead provision kept being used."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2019-04-15
+lang: en
 ---
-
 The Shreya Singhal judgment answered a question the text of the Information Technology Act, 2000 had left dangerously open: how far may Parliament go in criminalising speech sent through a computer, when the Constitution permits restrictions on expression only on eight enumerated grounds and for no others? On 24 March 2015, a bench of the Supreme Court composed of Chelameswar J. and Nariman J., with the judgment delivered by Nariman J., held that one provision had crossed every line the Constitution draws, that a second provision survived because it stayed within those lines, and that a third survived only after the Court rewrote its operative words by construction. The case, reported as Shreya Singhal v. Union of India, (2015) 5 SCC 1, is the leading Indian authority on speech on the internet, and the doctrinal part of it can be stated in a sentence: discussion and advocacy, however unpopular, sit at the heart of the freedom in Article 19(1)(a), and only incitement may be reached by a restriction under Article 19(2).
 
-![The Supreme Court building and the Shreya Singhal judgment on Section 66A and free speech online - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court building and the Shreya Singhal judgment on Section 66A and free speech online - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 What gives the judgment its second life, and what makes it the sharpest case study in this series on the distance between a judgment and its effect, is what happened afterwards. The provision the Court destroyed did not disappear. It remained printed in the statute book, annotated with a footnote, and police stations and trial courts across the country went on using it. Research built on district court records, conducted by the Internet Freedom Foundation with CivicDataLab and placed before the Court by the People's Union for Civil Liberties, recorded that in the eleven States the research covered, 229 cases under the provision were pending when the judgment was delivered, and 1,307 fresh cases were lodged under it after it had ceased to exist in law. A provision that was void in law therefore produced more prosecutions in the six years after the judgment than were pending at the moment it fell. This article reads the judgment as the Court wrote it, holding by holding, and then reads the record of its implementation with the same care, because the second reading explains a structural feature of Indian law that the first reading alone would never reveal. The wider field in which the case sits, and the map of the statutes and rules that govern online content, is set out in the series guide to [technology law in India](/2019/03/01/technology-law-india-complete-guide/), to which this article is the judicial companion.
 

@@ -6,15 +6,15 @@ date: 2019-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Information Technology Act", "Data Protection", "Telecommunications", "Constitutional Law", "Civil Liberties", "UPSC"]
 excerpt: "Technology law in India explained: the few Acts that found the field, the many rules that run it, and a map of which instrument governs each question asked."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2019-03-01
+lang: en
 ---
-
 Technology law in India is best understood as a small shelf of statutes standing in front of a very large and constantly rearranged cabinet of rules. A reader who opens the statute book expecting to find the law that governs a social media platform, a blocked website, a tapped telephone call or a leaked database will usually leave with the wrong answer, because the operative obligation in each of those cases sits not in an Act of Parliament but in rules, directions or notifications made under one. The Acts supply the skeleton: a general statute for electronic records and computer offences, a statute for the national identity number, a statute for personal data, a statute for telecommunication services, and a regulator's statute that holds the telecom settlement together. The flesh, and most of the muscle, is delegated legislation, and it changes by notification in the Gazette rather than by debate in Parliament.
 
-![Technology law in India, mapping the statutes and the rules made under them that govern platforms, data and networks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Technology law in India, mapping the statutes and the rules made under them that govern platforms, data and networks - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 That single structural fact explains nearly every confusion the field produces. Examination candidates memorise the Information Technology Act, 2000 and then cannot locate the grievance officer a platform must appoint, because that duty was created by rules in 2021 and amended by rules in 2022. Businesses instruct counsel to read the data protection statute and then miss the incident reporting duty that binds them within six hours, because that duty was imposed by directions issued by the computer emergency response team under a different section of a different instrument's logic. Journalists report that Parliament has tightened the law on online news when in fact Parliament has done nothing of the kind and a ministry has amended a rule. The discipline this guide teaches is therefore a routing discipline: for any technology law question, identify the class of question first, then find the instrument that actually governs it, then check whether that instrument is an Act, a rule made under an Act, a direction issued under a rule's parent section, or a judgment that has read the whole arrangement down. The findable artifact in the middle of this guide, a table that routes eight standard questions to their governing instruments, is the field in one glance.
 

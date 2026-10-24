@@ -6,15 +6,15 @@ date: 2018-11-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "74th Amendment", "Urban Local Bodies", "Constitutional Amendments", "Constitutional Law", "Federalism", "UPSC"]
 excerpt: "The 74th Amendment explained: how Part IXA created three types of municipality, reserved their seats, listed eighteen functions and built planning committees."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-11-01
+lang: en
 ---
-
 Ask a resident of an Indian city who governs the city and the answer names a person who does not, in law, run it. The mayor cuts the ribbons, chairs the council and carries the blame for flooded streets and uncollected refuse. The administration that employs the engineers, signs the contracts, prepares the budget and answers for the water supply is headed by a Commissioner whom the city did not elect and cannot remove, because the Constitution (Seventy-fourth Amendment) Act, 1992, the provision everyone calls the 74th Amendment, constitutionalised the elected council and said nothing at all about the executive that serves it. That silence is the key to the whole design. The amendment made Indian cities democratic in composition and left them administered, as before, by the State.
 
-![The 74th Amendment and urban local bodies, showing how Part IXA constitutionalised elected municipalities while leaving the municipal executive to State law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 74th Amendment and urban local bodies, showing how Part IXA constitutionalised elected municipalities while leaving the municipal executive to State law - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 This article is the pillar account of that amendment. It states what the amendment inserted into the Constitution, in the order the text itself runs: the three types of municipality and what decides which type a place receives, the composition of the council and the reservations inside it, the five-year term and the election discipline the courts have built on it, the wards committees, the permissive devolution clause and the eighteen functions of the Twelfth Schedule, and the two planning committees, one for the district and one for the metropolitan area, which are the amendment's most original and least obeyed creations. It then confronts the two features that decide how the text works in practice: the appointed executive the amendment did not touch, and the layer of State parastatal bodies that performs municipal functions without being municipal at all. The field as a whole, rural and urban together, is mapped in the series guide to [local government law in India](/2018/10/01/local-government-law-india-guide/), and this article stays inside the urban instrument.
 

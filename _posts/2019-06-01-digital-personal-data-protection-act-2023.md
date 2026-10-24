@@ -6,15 +6,15 @@ date: 2019-06-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Digital Personal Data Protection Act", "Data Privacy", "Civil Liberties", "Technology Law", "Judiciary"]
 excerpt: "The Digital Personal Data Protection Act explained: what it requires, the rights it grants, the Board that enforces it, and why none of it binds anyone yet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2019-06-01
+lang: en
 ---
-
 The Digital Personal Data Protection Act, 2023 (Act 22 of 2023) is the strangest landmark in Indian statute-making: a data protection law that protects nobody yet. Parliament passed it in August 2023, the President assented to it on 11 August 2023, and the rules that make it workable were notified in November 2025. Yet the obligations that matter, the duties to seek consent, to give notice, to keep data secure, to report breaches and to erase data when it is no longer needed, do not bind any data fiduciary until 13 May 2027, close to four years after the Act received assent. That single fact, the gap between enactment and enforcement, is the lens through which every provision of this statute has to be read. An article that describes the Act as though it were already operative misleads every business reader who consults it, and a compliance team that plans around the assent date rather than the commencement calendar will be building for a deadline that does not exist.
 
-![The Digital Personal Data Protection Act 2023 explained, with its consent architecture, Board, penalties and staged commencement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Digital Personal Data Protection Act 2023 explained, with its consent architecture, Board, penalties and staged commencement - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The second fact that has to be fixed before any provision is examined is what the Act does not do. It confers no right to compensation on the individual whose data is breached; the penalties it creates flow to the Consolidated Fund of India, not to the victim. It places duties, backed by a penalty, on the data principal herself, a feature almost unheard of in data protection statutes anywhere. It permits the Central Government to exempt its own instrumentalities from most of the Act by notification, and to block access to a platform on a reference from the Board. It contains no exemption for journalistic processing, a gap that petitioners have carried to the Supreme Court. And its machinery for enforcement, the Data Protection Board of India, exists in law since November 2025 but was still without an appointed Chairperson or Members when legal-press reporting examined the position in 2026, a body on paper awaiting the people who will give it a voice. All of this is in the statute as enacted; none of it is commentary.
 

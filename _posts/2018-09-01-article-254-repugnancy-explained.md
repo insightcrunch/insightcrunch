@@ -6,15 +6,15 @@ date: 2018-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Article 254", "Constitutional Law", "Federalism", "Concurrent List", "Repugnancy", "UPSC"]
 excerpt: "Article 254 decides when a state law yields to a central law on a Concurrent List subject, and how presidential assent lets the state law prevail for a time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-09-01
+lang: en
 ---
-
 Article 254 of the Constitution answers a question that Indian federalism cannot avoid: when Parliament and a State Legislature have both legislated on a subject they share, and the two laws cannot be obeyed together, which one gives way? The short answer is that the central law prevails and the state law is void to the extent of the conflict. The complete answer is more interesting, because the same article contains the one route by which a state law can defeat an earlier central law inside its own territory, and then, in a proviso that most accounts omit, reserves to Parliament the power to take that victory back whenever it chooses. A reader who knows only the short answer understands Indian federalism as a hierarchy. A reader who knows the whole article understands it as a negotiation conducted under a standing central veto.
 
-![Article 254 and repugnancy between Union and state laws on the Concurrent List, showing the three tests, the presidential assent route and the proviso - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Article 254 and repugnancy between Union and state laws on the Concurrent List, showing the three tests, the presidential assent route and the proviso - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The provision matters in practice because the Concurrent List is where the economically and socially significant legislation lives: education, labour, land acquisition, trade in essential commodities, insolvency, marriage, succession, and much of the criminal law. Every one of those fields has produced a dispute in which a state law and a central law pointed in different directions, and every such dispute is resolved, if it is resolved by doctrine at all, through Article 254. The article is therefore not a piece of constitutional plumbing to be memorised for examinations and forgotten. It is the operating rule of the shared legislative space, and the difference between its two clauses and its proviso is the difference between a State that may vary national law with national permission and a State that may not vary it at all.
 

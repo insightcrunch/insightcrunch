@@ -6,15 +6,15 @@ date: 2020-09-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "National Highways", "Land Acquisition", "Infrastructure Law", "Property Law", "Toll and Concessions"]
 excerpt: "The National Highways Act explained: the Section 3A to 3D acquisition, vesting on declaration, compensation after the 2015 order, arbitration and tolls."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2020-09-01
+lang: en
 ---
-
 The National Highways Act, 1956 does two things, and only one of them is widely understood. Its first job is constitutional housekeeping: it declares which highways in India are national highways, vests them in the Union, and makes the Central Government responsible for their development and maintenance. Its second job, added four decades after enactment, is far more consequential for the people it touches: it contains a complete, self contained code for taking private land to build those highways, from the first notification of intention to the deposit of the amount payable. A landowner whose fields lie in the path of a new alignment will meet this Act, and almost nothing else, at every stage of the process.
 
-![The National Highways Act 1956, showing the acquisition sequence, vesting on declaration and the toll framework - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Highways Act 1956, showing the acquisition sequence, vesting on declaration and the toll framework - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The single most valuable fact about the Act is one that a reader of the Act alone will never find in it. Since the beginning of 2015, the compensation payable for land taken under this Act has not been governed by this Act. The procedure is the highways statute's own, compressed and unforgiving of delay. The money, meaning the method of calculating the amount, the multiplier applied to rural land, the solatium added on top, and the rehabilitation and resettlement entitlements that accompany the taking, comes from the general land acquisition statute of 2013, imported into highway acquisitions by an executive order rather than by any amendment of either statute. The procedure is one statute and the price is another, and the bridge between them is an order that most published guidance on highway acquisition still omits.
 

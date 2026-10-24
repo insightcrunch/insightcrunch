@@ -6,15 +6,15 @@ date: 2019-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "TRAI Act", "Telecommunications", "Technology Law", "Judiciary", "UPSC"]
 excerpt: "The TRAI Act built a regulator that binds telecom companies on interconnection, quality and tariffs, yet only advises the government on entry and spectrum."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2019-07-15
+lang: en
 ---
-
 Every argument about Indian telecom regulation is, at bottom, an argument about a single line drawn through Section 11 of the TRAI Act. On one side of the line, the Telecom Regulatory Authority of India can fix the terms on which rival networks connect, set the standards of quality they must meet, notify the rates they may charge, and prosecute them if they disobey. On the other side of the line, the same Authority can only advise. It cannot decide who may enter the market, on what terms a licence is granted, whether a licence is revoked, or how the spectrum on which the entire industry runs is to be managed. Those decisions belong to the Central Government, and the Authority's word on them, however expert and however publicly reasoned, is a recommendation the Government may lawfully set aside. The TRAI Act, 1997 is therefore best understood not as the charter of a powerful regulator or a toothless one, but as a deliberate division of authority by subject, and most disputes about the regulator's influence dissolve once a reader can say which side of the line a given question falls on.
 
-![TRAI Act 1997 and telecom regulation in India, showing the division between the Authority's binding powers and its advisory role - Insight Crunch](/assets/images/blog/blog-01.webp)
+![TRAI Act 1997 and telecom regulation in India, showing the division between the Authority's binding powers and its advisory role - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 That division was not the original design. As enacted in 1997, the Authority combined regulation with adjudication: it was to settle disputes as well as supervise the sector. Four years later, after open warfare between the Authority and the Department of Telecommunications and a ruling of the Delhi High Court confining its powers, Parliament amended the Act, removed adjudication to a new tribunal, the Telecom Disputes Settlement and Appellate Tribunal, and rewrote the functions clause so that the boundary between recommending and deciding was spelled out in the statute itself. The institution a reader meets in the present text of the Act is the product of that settlement of 2000, adjusted again by the Telecommunications Act, 2023, which changed who may be appointed to the Authority and lengthened the procedure by which the Government disagrees with it. This article profiles the institution as the statute designs it: what it was built to do, how its members are chosen and removed, which of its powers bind and which merely persuade, how the tribunal and the courts police its boundaries, and why its most consequential weakness is structural rather than personal. The wider field of Indian technology law within which this institution sits is mapped in [the complete guide to technology law in India](/2019/03/01/technology-law-india-complete-guide/), and the new telecommunications statute that re-founded the licensing system is treated in its own article, linked below where the 2023 changes are discussed.
 

@@ -6,15 +6,15 @@ date: 2021-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Consumer Protection Act 2019", "Consumer Rights", "Consumer Protection", "Judiciary", "UPSC"]
 excerpt: "How to file a consumer complaint in India: the right commission, the two year limit, the fee, the documents and the four checks that decide most cases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2021-01-01
+lang: en
 ---
-
 A person who decides to file a consumer complaint in India usually starts in the wrong place. The grievance feels like the case: the washing machine that failed within its warranty, the flat whose possession never came, the insurance claim repudiated on a ground the policyholder had never heard of, the hospital bill that bears no relation to the estimate. Yet a complaint before a consumer commission is rarely lost at the hearing, on the strength of the grievance. It is lost at the doorway, on one of four threshold questions that have nothing to do with how badly the trader or the service provider behaved, and every one of those questions can be answered correctly before a single page is filed.
 
-![How to file a consumer complaint in India, showing the route from the consumer test and the right commission to the order and its enforcement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to file a consumer complaint in India, showing the route from the consumer test and the right commission to the order and its enforcement - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The four threshold failures recur so reliably that they deserve to be named at the outset, because the rest of this article is organised around defeating them. The first is that the purchase was made for a commercial purpose, so the complainant is not a consumer at all and the commission has no business hearing the matter. The second is that the two year limitation period had already run when the complaint was filed, and no sufficient cause for the delay was shown. The third is that the complaint was filed before a commission that lacked pecuniary jurisdiction, because the filer measured the claim by the compensation demanded rather than by the consideration actually paid. The fourth is that the grievance, properly read, was a breach of contract rather than a defect in goods or a deficiency in service, and belonged in a civil court. A filer who checks these four points in advance has done more for the complaint than any eloquence at the hearing can do later.
 

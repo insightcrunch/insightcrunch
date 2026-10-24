@@ -6,15 +6,15 @@ date: 2019-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Street Vendors Act", "Social Justice", "Labour Law", "Constitutional Law", "UPSC"]
 excerpt: "The Street Vendors Act explained: the survey that must come before any eviction, the certificate of vending, vending zones and the rights of all vendors."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2019-01-15
+lang: en
 ---
-
 The Street Vendors Act 2014 begins from a fact that Indian municipal law spent a century refusing to state: the person selling vegetables from a cart at the corner of a public street is not an obstruction who happens to earn a living, but a worker exercising a trade, whose presence on that street raises a question of legal right before it raises a question of traffic management. The statute Parliament enacted in 2014, the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014, was the first central law to build an entire regulatory structure on that premise. It did not merely restrain eviction drives. It prescribed a sequence: a survey to identify every vendor in a town, a certificate of vending issued to each person the survey found, a plan for street vending prepared for the town, vending zones declared under that plan, and only then, at the end of the sequence and hedged with notice and a right to a new site, any relocation at all. The single provision on which the whole structure turns is a sentence of eleven operative words in Section 3: no street vendor shall be evicted or relocated till the survey has been completed and the certificate of vending is issued to all street vendors. A vendor, a municipal official or a residents association that understands that sentence, and understands what the Act builds around it, understands the statute. A reader who finishes this article will know what the Act protects, what it requires before anyone may lawfully be moved, how its committees and zones are meant to work, where the limits of the right lie, and why the sequence the Act prescribes has so rarely been begun.
 
-![The Street Vendors Act 2014 and the survey that must precede any eviction of a vendor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Street Vendors Act 2014 and the survey that must precede any eviction of a vendor - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The tension inside the statute is genuine and the Act does not pretend otherwise. Streets and footpaths are shared space, and the claims on them conflict. A vendor's cart occupies pavement that a pedestrian, including an elderly pedestrian or a person using a wheelchair, needs for passage. A market that grows without limit can strangle the road it feeds on. The Act answers that conflict not by denying it but by assigning it to a process: a committee on which vendors themselves sit beside the municipality, the police and the residents, a plan that must accommodate the vendors who exist while ensuring that commuters can move freely, and zones that separate the places where vending is free, where it is restricted and where it is barred. Whether that process deserves confidence is the argument this article takes up at the end. The starting point is what the law was before the process existed.
 

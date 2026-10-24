@@ -6,15 +6,15 @@ date: 2021-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Mediation Act 2023", "Alternative Dispute Resolution", "Civil Procedure", "Commercial Courts", "Judiciary"]
 excerpt: "The Mediation Act 2023 explained: Parliament made pre-litigation mediation voluntary, kept the commercial exception, and gave settlements the force of decrees."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2021-07-01
+lang: en
 ---
-
 The Mediation Act 2023 is the statute most often misdescribed in Indian legal writing, and the misdescription is always the same one. It is said, in summaries, examination notes and a good deal of professional commentary, that the Act made mediation compulsory before a civil or commercial suit can be filed. It did not. The Bill that Parliament received proposed exactly that compulsion, the proposal was examined and criticised, and the enacted text withdrew it. What the Act made compulsory is nothing that was not compulsory already: the one mandatory mediation regime in Indian law, the pre-institution mediation required for commercial disputes of specified value under the Commercial Courts Act, sits in a different statute, predates this Act, and is preserved by this Act through a proviso rather than created by it. Everything else in the Act is an offer, not an order. A party may mediate before suing, a court may refer a pending dispute to mediation, and a settlement reached through the process carries the force of a decree. Whether to enter the process at all is, outside the commercial exception, the parties' own choice.
 
-![The Mediation Act 2023, showing the voluntary pre-litigation scheme, the excluded disputes and the decree status of a mediated settlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mediation Act 2023, showing the voluntary pre-litigation scheme, the excluded disputes and the decree status of a mediated settlement - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 That single distinction, between a statute that facilitates and a statute that compels, organises everything else in the Act, and it is the distinction this article keeps in view throughout. The Act is India's first dedicated central statute on mediation. It defines the process, states which disputes it may and may not touch, regulates mediators and the institutions that supply them, prescribes a timetable, protects the confidentiality of what is said, gives the resulting settlement the enforceability of a judgment, creates a regulator in the Mediation Council of India, recognises community mediation and online mediation, and amends eight other statutes so that the mediation references scattered through Indian law point in one direction. It also leaves gaps that an honest account has to record: large parts of it await commencement, its regulator was provided for long before it was established, and the international instrument that would carry an Indian mediated settlement abroad has been signed by India and not ratified. Each of those points is taken in turn below.
 

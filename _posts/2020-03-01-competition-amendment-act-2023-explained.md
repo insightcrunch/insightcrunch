@@ -6,15 +6,15 @@ date: 2020-03-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Competition Law", "Competition Commission of India", "Merger Control", "Antitrust", "Business Law"]
 excerpt: "Competition Amendment Act 2023 explained: the deal value threshold, penalties on global turnover, settlements and commitments, and when each change took effect."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2020-03-01
+lang: en
 ---
-
 The Competition Amendment Act 2023 is easiest to misunderstand in a single sentence, and the sentence most often used for it is wrong. The sentence says that in 2023 India rewrote its competition law. In truth the Competition (Amendment) Act 2023, Act 9 of 2023, changed the parent statute in four distinct waves spread across sixteen months, and an adviser who treats the whole package as law from the date of assent, 11 April 2023, will give wrong advice on mergers, on penalties and on procedure. The amendment is a trail, not an event, and this article walks the trail in the order in which the changes took legal effect.
 
-![The Competition Amendment Act 2023, showing the deal value threshold, the global turnover penalty base and the staggered commencement of its provisions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Competition Amendment Act 2023, showing the deal value threshold, the global turnover penalty base and the staggered commencement of its provisions - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 Three of the changes alter the economics of every transaction and every defence strategy in Indian competition law. A deal value threshold pulls large acquisitions of low revenue targets into merger review for the first time. A redefinition of turnover for penalty purposes displaces a Supreme Court construction and measures the maximum fine by worldwide revenue from all products and services. A settlement and commitment mechanism offers parties in vertical agreement and dominance cases a negotiated exit that Indian competition law had never allowed, while expressly withholding that exit from cartels. Around those three sit a set of supporting changes: hub and spoke cartel coverage, a leniency plus incentive, a three year limitation period, a deposit requirement for appeals, a shortened merger clock, and a transfer of the power to appoint the Director General to the Commission itself.
 

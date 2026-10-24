@@ -6,15 +6,15 @@ date: 2020-11-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Consumer Protection Act", "Consumer Law", "Judiciary", "UPSC", "Law Students"]
 excerpt: "The Consumer Protection Act 1986 explained: the three-tier forums, the six declared rights, the reliefs they granted, and the four things it never had."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2020-11-15
+lang: en
 ---
-
 The Consumer Protection Act 1986 did something no Indian statute had done before it: it built a court-like machine that an ordinary buyer could operate without a lawyer, without a court fee proportionate to the claim, and without waiting a decade for a decree. In thirty-one sections it created three tiers of redressal agencies, declared six consumer rights, defined the wrongs a buyer could complain about, and listed the reliefs a forum could grant. What it did not create was a regulator. No official under the 1986 Act could investigate a trade practice on his own motion, order a product off the shelves across the country, penalise a misleading advertisement, or mediate a dispute by statutory authority. For thirty-three years, Indian consumer protection consisted of individual complaints decided one at a time, after the harm had already been done.
 
-![The Consumer Protection Act 1986, showing the three-tier consumer forums and the rights the statute declared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Consumer Protection Act 1986, showing the three-tier consumer forums and the rights the statute declared - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 That single structural fact explains both the statute's reputation and its replacement. The Act, formally Act 68 of 1986, was praised across the political spectrum as the most citizen-facing legislation of its decade, and the praise was earned: the forums it created decided grievances that the ordinary courts would never have reached in usable time. Yet the same statute left every systemic practice untouched unless a victim came forward, proved a case, and won an order that bound only the parties before the forum. The argument of this article is that the Consumer Protection Act 2019 is best understood not as a revision of the older statute but as the addition of the four things the older statute lacked: a regulator with investigative and recall powers, a product liability regime, statutory mediation, and a treatment of electronic commerce. Everything else in the 2019 Act is refinement. Those four additions are the verdict on what the 1986 Act was missing.
 
@@ -87,7 +87,6 @@ The definition of complainant in Section 2(1)(b) is wider than the disappointed 
 The complaint itself, under Section 2(1)(c), is an allegation in writing that one of a closed list of wrongs has occurred. The list runs: an unfair trade practice or a restrictive trade practice has been adopted by a trader; the goods bought, or agreed to be bought, suffer from one or more defects; the services hired or availed of, or agreed to be hired or availed of, suffer from deficiency in any respect; a trader has charged a price in excess of the price fixed by or under any law, or displayed on the goods or the package; and goods which are hazardous to life and safety when used are being offered for sale in contravention of legal requirements about displaying information regarding their contents and the manner and effect of their use. Two features deserve emphasis. The complaint is a written allegation, not a pleading: no court fee stamp, no verification in the form of a plaint, and no requirement that the complainant frame the case in legal language. And the list is exhaustive as to categories while being generous within them, because defect and deficiency between them covered nearly every way a transaction could disappoint.
 
 Standing under the Act therefore solved a problem the civil courts had never addressed: the diffuse grievance. A trader who overcharged every customer by a trivial sum was, in the ordinary courts, immune in practice, because no individual loss justified a suit. Under the 1986 Act, a registered association could aggregate the grievance, a government could complain in the public interest, and the forum could order the practice discontinued. The forums were also open to the opposite party's perspective through the same door: a complaint found frivolous or vexatious could be dismissed under Section 26 with an order that the complainant pay costs to the opposite party up to a ceiling of ten thousand rupees, a small but real discipline against using a cheap forum as an instrument of harassment.
-
 
 
 ## Who stood on the other side: the opposite party

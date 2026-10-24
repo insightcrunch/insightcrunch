@@ -6,15 +6,15 @@ date: 2020-06-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Electricity Act", "Energy Law", "Open Access", "Tariff Regulation", "Infrastructure Law"]
 excerpt: "The Electricity Act 2003 explained: generation without a licence, open access and its surcharges, how tariffs are set, and the commissions and tribunal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2020-06-15
+lang: en
 ---
-
 The Electricity Act 2003 rests on two promises, and they have had opposite fortunes. The first promise was that nobody would need the state's permission to generate power: a generating company could build and run a station without a licence, and a factory could build a plant for its own use and carry the power to the point of consumption. The second promise was that a consumer of any size worth speaking of would be able to buy electricity from someone other than the local distribution licensee, using the licensee's own wires on payment of regulated charges. The first promise kept itself, because it required nothing further from anyone once the statute was enacted. The second promise required a number, the surcharge, to be fixed year after year by a regulator who also had to keep the incumbent distributor solvent, and a right whose price is set by the institution it is exercised against behaves very differently from a right that operates on its own. Understanding the Electricity Act 2003 means understanding why those two promises diverged, and the divergence is the clearest instance in Indian commercial regulation of a pattern this series has met repeatedly: a right conditional on a figure set by the duty holder or its regulator is a right the holder controls.
 
-![The Electricity Act 2003 explained, showing generation without a licence, open access and the surcharges that price it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Electricity Act 2003 explained, showing generation without a licence, open access and the surcharges that price it - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The Act is a consolidating and reforming statute at once. It repealed and replaced three earlier enactments, the Indian Electricity Act of 1910, the Electricity (Supply) Act of 1948 and the Electricity Regulatory Commissions Act of 1998, and it redrew the structure those statutes had built. In place of the vertically integrated State Electricity Board, which generated, transmitted and sold power within a state and answered to the state government, the Act put unbundled companies, licensed activities, independent regulatory commissions in the Centre and in each state, a national and regional grid operated through load despatch centres, and a specialised appellate tribunal. In place of generation as a licensed privilege, it put generation as an activity open to any entrant who could meet technical standards for connecting to the grid. In place of the single buyer model, under which the Board bought all power and sold all power, it put trading as a licensed activity and open access as a statutory entitlement. The architecture was deliberately competitive at the edges and regulated at the core: wires, which are a natural monopoly, stayed licensed and price controlled, while generation and purchase, which are not, were opened.
 

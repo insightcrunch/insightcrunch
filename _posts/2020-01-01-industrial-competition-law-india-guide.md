@@ -6,15 +6,15 @@ date: 2020-01-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Competition Law", "Competition Commission of India", "Industrial Licensing", "Corporate Law", "UPSC"]
 excerpt: "Industrial and competition law in India explained: how IDRA licensing and the MRTP Act gave way to the Competition Act, the CCI, merger control and appeals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2020-01-01
+lang: en
 ---
-
 Industrial and competition law in India is best read as the record of a single reversal. For roughly four decades after Independence, the legal system decided who could produce, where, in what quantity and with whose money, and it made those decisions before production began, through licences, approvals and consents issued by the State. The settlement that replaced it asks a different question. It lets firms enter, invest and combine, and it intervenes afterwards when agreements, dominance or combinations damage competition in a market. India stopped asking permission and started asking effect. That sentence is the organising claim of this guide, and the statutes of the field fall into place once it is grasped: a family of entry-control laws built around the Industries (Development and Regulation) Act, 1951, a mixed experiment in the Monopolies and Restrictive Trade Practices Act, 1969, a conduct-control law in the Competition Act, 2002, and a set of facilitation statutes, the Special Economic Zones Act, 2005 and the Micro, Small and Medium Enterprises Development Act, 2006, which classify and benefit firms rather than control them.
 
-![Industrial and competition law in India, showing the passage from industrial licensing under the IDRA and the MRTP Act to the Competition Act and the CCI - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Industrial and competition law in India, showing the passage from industrial licensing under the IDRA and the MRTP Act to the Competition Act and the CCI - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The difference between the two regimes can be felt in the kind of question each asked of the same firm. Under the entry-control statutes, the State asked the producer: what do you propose to make, in what quantity, where, with whose capital, and are you already large enough that your growth should require a further sanction. The producer answered in a file, and the file was the decision. Under the conduct statute, the State asks the market: what does the agreement do to price, output and choice in this market, does the dominant firm's behaviour exclude rivals rather than outperform them, and will the combination appreciably damage competition. The producer is no longer the petitioner; the market is the subject of inquiry, and the evidence is economic. One regime rationed the right to compete. The other protects the process of competition itself, and it protects it against private firms and State firms alike, as the sovereign functions section of this guide explains.
 

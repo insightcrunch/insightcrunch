@@ -6,15 +6,15 @@ date: 2022-05-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Economic Reform", "Industrial Policy", "Balance of Payments", "Parliament", "UPSC"]
 excerpt: "The 1991 economic reforms in statute: which changes took an Act of Parliament, which were made by notification alone, and which were never legislated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2022-05-15
+lang: en
 ---
-
 The 1991 economic reforms are usually narrated as a story about ideas: a crisis, a conversion at the top of government, and a programme announced to a surprised country. Read as law, the episode is a story about instruments. Almost nothing that happened in July 1991 happened by Act of Parliament. The centrepiece of the reforms, the abolition of industrial licensing, was a statement laid before the two Houses and a set of notifications issued under a power that the licensing statute itself had contained since 1951. The opening to foreign equity was a change in the way an existing permission regime was administered. The statutes came later, in a sequence that stretched across twelve years, and some of them never came at all. A legal account of the reforms therefore has to begin with a distinction that economic accounts can afford to blur: the distinction between what a government decided, what a government was legally able to do on its own authority, and what only Parliament could do.
 
-![The 1991 economic reforms and the instruments that carried them, showing which changes were made by policy statement and notification and which required an Act of Parliament - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1991 economic reforms and the instruments that carried them, showing which changes were made by policy statement and notification and which required an Act of Parliament - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The sources for such an account are not the sources of political history, and the difference explains why the legal story is so often mistold. A political history can rest on memoirs, speeches and manifestos. A legal history must rest on instruments: the statute book as amended, the Gazette notifications that exempted and dereserved, the circulars of the Reserve Bank, the office memoranda that created and killed the investment board, the letters of intent addressed to the Fund. Read from those sources, the period looks different in a specific way. The celebrated texts, the statement and the budget speech, shrink to their true legal size, which is that of announcements; and the unglamorous texts, the exemption notification and the repeal ordinance, grow to theirs, which is that of the operative law. Anyone who wishes to know what the law of India said about setting up a factory in 1990, in 1992 and in 2000 will get three different answers, and none of them is recoverable from the speeches of any of those years.
 

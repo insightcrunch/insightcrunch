@@ -6,15 +6,15 @@ date: 2020-04-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "MSME Development Act", "Micro and Small Enterprises", "Corporate Law", "Taxation", "UPSC"]
 excerpt: "The MSME Development Act explained: how classification is fixed by notification, when a buyer must pay a micro or small supplier, and what delay costs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2020-04-15
+lang: en
 ---
-
 The Micro, Small and Medium Enterprises Development Act 2006, cited in its own short title as Act 27 of 2006, rests on a single uncomfortable transaction: the smallest firm in a supply chain lends money to the largest, interest free, for as long as the largest cares to take. A micro enterprise that machines a component, prints a label, or writes a piece of software delivers the work, raises an invoice, and then waits. The buyer, who has the goods and the use of them, treats the unpaid invoice as working capital. The supplier, who has wages to pay and raw material to buy, borrows at commercial rates to finance the gap its own customer created. Every other feature of the MSME Development Act 2006, its classification machinery, its promotional programmes, its procurement preferences, is arranged around that transaction, because the statute's operative core is an attempt to reverse it: to fix the day by which the buyer must pay, to price delay at a punitive rate of compound interest, and to give the supplier a forum that does not require a civil suit.
 
-![The MSME Development Act 2006, showing the classification of enterprises and the forty five day payment rule enforced by the facilitation councils - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The MSME Development Act 2006, showing the classification of enterprises and the forty five day payment rule enforced by the facilitation councils - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The Act does two different kinds of work, and a reader who separates them understands the statute better than one who reads it as a single scheme. The first half is a promotional charter. It creates a National Board, it empowers the Central Government to run measures for the promotion, development and competitiveness of micro, small and medium enterprises, it frames credit policy, and it authorises a procurement preference in favour of the smallest suppliers. The second half, Chapter V, is a payment enforcement machine, and it is unusually hard edged for Indian commercial legislation. It overrides the contract the parties signed, caps the credit a buyer may take even with the supplier's written consent, imposes compound interest with monthly rests at three times the bank rate notified by the Reserve Bank, routes disputes to a statutory council rather than to the forum the contract chose, and requires a buyer who wants to challenge an award to deposit three quarters of it before a court will listen. The promotional half speaks to all three categories of enterprise. The payment half, and this is the limitation on which the whole article turns, speaks only to micro and small enterprises. Medium enterprises are inside the Act for promotion and outside it for payment protection, and the boundary between the protected and the unprotected is not drawn by Parliament at all. It is drawn by a notification.
 

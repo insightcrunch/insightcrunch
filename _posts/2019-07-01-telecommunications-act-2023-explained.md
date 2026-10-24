@@ -6,19 +6,19 @@ date: 2019-07-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Telecommunications Act", "Telecommunications", "Civil Liberties", "Constitutional Law", "UPSC"]
 excerpt: "The Telecommunications Act 2023 explained: authorisation in place of licensing, spectrum by auction, and an interception power carried over unchanged."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-07-01
+lang: en
 ---
-
 For most of the period in which India built the second largest telecommunication network on earth, the governing statute was written for the electric telegraph. The Indian Telegraph Act of 1885 was drafted when a message was a physical event performed by an operator at an instrument, and it was stretched, by amendment, by licence condition and by judicial interpretation, across the telephone, the mobile phone, the internet connection and the satellite link. The Telecommunications Act 2023 is the statute that replaces it, and the first thing to understand about the replacement is the pattern of what it changes and what it leaves alone. The machinery of entry, of spectrum and of land access has been rewritten. The powers of the State over the content of communications have been carried across in a form a nineteenth century draftsman would recognise at once.
 
 That pattern is the argument of this article, and it can be stated as a single claim. The Telecommunications Act 2023 is new except where it matters most: the licensing, spectrum and right of way regimes were reconstructed, while the powers to intercept communications, to suspend services and to take possession of a network in an emergency reproduce the structure of the statute of 1885, so that India replaced a colonial telecommunications law without replacing the colonial framework for State access to communications, and the safeguards against misuse remain where they have always been located, in rules made by the executive and in guidelines laid down by courts, rather than in the Act itself.
 
 A reader who finishes this article will be able to identify the two provisions that carry that continuity, explain how an authorisation differs from the licence it succeeds, state how spectrum is assigned and for which purposes Parliament accepted assignment without an auction, describe the right of way framework that network builders work under, and locate every consequential number in the statute: the graded civil penalties, the criminal punishments, the appeal periods and the commencement position, which is more complicated than most accounts admit.
 
-![The Telecommunications Act 2023, showing the shift from licensing to authorisation and the Section 20 powers carried forward from the statute of 1885 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Telecommunications Act 2023, showing the shift from licensing to authorisation and the Section 20 powers carried forward from the statute of 1885 - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 ## The regime the new Act inherited
 

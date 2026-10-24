@@ -6,15 +6,15 @@ date: 2022-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Emergency Provisions", "Constitutional Amendments", "Constitutional Law", "Civil Liberties", "UPSC"]
 excerpt: "Emergency-era legislation read as a single record: the amendments that closed the courts, the detention and press laws, and the reversal that stopped short."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 82
-author: "Insight Crunch"
+author: "deepika-joshi"
 last_updated: 2022-05-01
+lang: en
 ---
-
 Emergency-era legislation is best read as a single connected record rather than as a list of famous episodes. Between June 1975 and March 1977 the government of the day worked on all three levels of the legal system at once. It amended the Constitution so that the courts could not question what had been done, it operated a detention statute whose grounds could be kept secret from the person detained, and it controlled the press through censorship orders and a statute of its own. The period therefore left two kinds of trace in Indian law. The first is the set of episodes every student can name: the proclamation of 25 June 1975, the Forty-second Amendment, the habeas corpus judgment of April 1976. The second is quieter and, for the study of legislation, more instructive: the corrective settlement of 1977 to 1979 reversed the parts of the record that touched personal liberty, left standing the parts that rearranged the structure of the Constitution, and enacted one safeguard for detainees that no government has ever brought into force.
 
-![Constitutional text and statute book open together - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Constitutional text and statute book open together - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 Read that way, the period answers a practical question about how constitutional safeguards work. A safeguard is only as strong as the machinery that enforces it, and the legislation of these twenty-one months was aimed with unusual precision at the machinery: at the courts' power to ask questions, at the detainee's right to be told the grounds of detention, at the newspapers' freedom to report proceedings, and at the amending power's own limits. The corrective legislation that followed was aimed at the same machinery in reverse. What it restored, and what it left alone, is the subject of this article. Two fixed points organise everything that follows. The first is that the proclamation of Emergency was itself a lawful constitutional act, taken under Article 352 as the article then stood; nothing in the record depends on treating it as anything else. The second is that the reversal was also done by law, through a change of Parliament after a general election, and it is the comparison between the two bodies of law, the one enacted between 1975 and 1976 and the one enacted between 1977 and 1979, that carries the lesson.
 

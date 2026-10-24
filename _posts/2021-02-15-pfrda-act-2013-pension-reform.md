@@ -6,15 +6,15 @@ date: 2021-02-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "PFRDA Act", "National Pension System", "Pension Reform", "Social Justice", "UPSC"]
 excerpt: "The PFRDA Act explained: the pension regulator's powers, the National Pension System it governs, the bar on assured benefits, and the assured payout option."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2021-02-15
+lang: en
 ---
-
 The Pension Fund Regulatory and Development Authority Act 2013, which most readers meet under its short name, the PFRDA Act 2013, contains a sentence that defines the whole of modern Indian pension policy and then appears to contradict it. Section 20 of the Act provides that under the National Pension System there shall not be any implicit or explicit assurance of benefits, except a market based guarantee mechanism that the subscriber purchases. The statute therefore forbids the one thing pensioners have always wanted, a promise, and permits only such assurance as the subscriber pays for in the market. Yet within eleven years of the Act coming into force, the Union Cabinet approved an assured payout scheme for government employees inside the same system, with a monthly payment fixed at half of average basic pay for a full career, and the Authority itself wrote the regulations that operate it. This article explains how both things are true at once, and why the reconciliation between them is the most instructive feature of the statute.
 
-![The PFRDA Act 2013 and the National Pension System, showing the pension regulator, the bar on assured benefits and the assured payout option - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The PFRDA Act 2013 and the National Pension System, showing the pension regulator, the bar on assured benefits and the assured payout option - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The Act does three things, and a reader who separates them will not be confused by anything that follows. It establishes a regulator, the Pension Fund Regulatory and Development Authority, and arms it with powers of registration, direction, investigation and penalty over every intermediary that touches pension money. It takes a pension system that already existed, the contributory system notified by the Government of India in December 2003, and declares that system to be the National Pension System, writing its basic features into statutory text. And it settles, in section 12, the boundary of the regulator's territory, applying the Act to that system and to pension schemes regulated by no other enactment, while expressly leaving the great provident fund statutes outside. Around those three moves the article is organised: the world the Act inherited, the decade in which the regulator worked without a statute, the text of the Act itself, the machinery the text creates, the enforcement architecture, the political argument the statute was drafted to end and did not, and the assured option through which the argument returned in a new and more precise form.
 

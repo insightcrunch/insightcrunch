@@ -6,15 +6,15 @@ date: 2020-05-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Competition Law", "Competition Commission of India", "Antitrust Enforcement", "Economic Regulation", "Institutions", "UPSC"]
 excerpt: "Competition Commission of India profiled as an institution: who sits on it, how the Director General investigates, where appeals go, and what its record shows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2020-05-01
+lang: en
 ---
-
 The Competition Commission of India is the institution through which Indian competition law either happens or does not happen. The statute it administers prohibits defined conduct: agreements that cause an appreciable adverse effect on competition, abuse of a dominant position, and combinations that cross notified thresholds without clearance. Those prohibitions are examined in the article on [the Competition Act 2002 explained](/2020/02/15/competition-act-2002-explained/), which owns the substantive law. This article owns the institution: the seven chairs at its top, the investigative office beneath them, the procedural path a case travels from a piece of information to a final order, the appellate corridor beyond the order, and the record that results when all of that machinery has run for a decade and a half. Its central fact is one that public discussion persistently blurs. The Commission's penalty orders are the most visible output of Indian competition enforcement, and they are routinely reported as though they were the outcome of enforcement. They are its midpoint. A large proportion of the penalties announced have been appealed, stayed, reduced or set aside, and the amount recovered is a small fraction of the amount imposed, so the institution's real constraint lies in the appellate and recovery stages of its own process rather than in its ability to investigate and decide.
 
-![The Competition Commission of India as an institution, covering its composition, the Director General's investigations, appeals and enforcement record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Competition Commission of India as an institution, covering its composition, the Director General's investigations, appeals and enforcement record - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That distinction organises everything that follows. An institution profile of the Commission has to answer four questions in sequence. How is the body composed, and who chooses the people who sit on it? How does a matter move, step by step, from information received to an order that binds? Where does the order go next, and who controls what happens to it there? And what, counted with discipline, has actually been achieved by the time the whole path has been walked? The answers reveal a regulator that was designed twice, staffed intermittently, and given its coercive powers in instalments, and whose history explains its record better than any judgment about its competence does.
 

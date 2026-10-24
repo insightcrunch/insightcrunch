@@ -6,15 +6,15 @@ date: 2020-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Industrial Licensing", "Licence Raj", "Economic Law", "Industrial Policy", "Development Councils"]
 excerpt: "How the Industries Act built industrial licensing in India, how Section 29B switched it off, which industries still need a licence, and which powers remain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2020-01-15
+lang: en
 ---
-
 The Industries Act 1951 is remembered through a system that its text no longer imposes on most factories. The statute is Act 65 of 1951, titled the Industries (Development and Regulation) Act, 1951, and its long title states a double purpose: to provide for the development and regulation of certain industries. That pairing matters. The Act was not drafted as a prohibition code alone. It joined entry control, capacity control and price control to councils, research, training and industrial planning. Its best known mechanism, the industrial licence, decided whether a new undertaking could be established, whether an established undertaking could expand in a substantial way, and whether a registered undertaking could move into a different article. For four decades, those questions were not treated as ordinary investment choices. They were legal permissions.
 
-![The Industries Act 1951 and the licence raj, showing industrial licensing, the First Schedule and the Section 29B exemption route - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Industries Act 1951 and the licence raj, showing industrial licensing, the First Schedule and the Section 29B exemption route - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The central surprise is the manner of the change. Parliament did not repeal sections 11, 11A and 13, and it did not rewrite the basic prohibition on establishing an industrial undertaking without a licence. The Statement on Industrial Policy of July 1991 announced that licensing would be abolished for most industries, and a notification under section 29B then exempted the generality of undertakings from the licensing provisions. The statutory switch remained on the wall. The executive, using a power placed in the Act itself, turned it off for most of the field. That is why a reader who opens the Act can meet an apparently strict licensing code while a manufacturer outside the surviving notified heads faces no industrial licence requirement under that code. The wider field, including the monopolies statute and the competition statute that followed it, is mapped in [the industrial and competition law guide for India](/2020/01/01/industrial-competition-law-india-guide/). This pillar stays with one statute: what it built, how it operated, and what remains legally alive inside it.
 

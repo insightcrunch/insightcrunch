@@ -6,15 +6,15 @@ date: 2019-12-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Designs Act", "Intellectual Property", "Industrial Design", "Copyright", "UPSC"]
 excerpt: "The Designs Act 2000 explained: the definition of a design, the bars to registration, the short term, piracy remedies and the fifty reproduction trap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2019-12-01
+lang: en
 ---
-
 The Designs Act 2000 protects the one feature of a product that a competitor can copy at a glance and that the copier's customers will never examine twice: how the product looks. A chair, a bottle, a sari border, the pattern pressed into a sheet of glass, the shape of a ceiling fan blade, all of these compete in the market partly on appearance, and appearance is uniquely exposed to imitation because it is displayed to every buyer, including every rival manufacturer, the moment the product is sold. The manufacturer who has spent money developing a look that sells has, without a design registration, almost no legal answer when a competitor adopts the same look the following season. The Act exists to give that manufacturer an answer, and it gives it on strict terms: protection only for appearance and never for function, protection only through registration obtained before the design is disclosed, and protection for a short period that cannot be extended beyond a fixed ceiling. Everything else in the statute is machinery for those three choices.
 
-![The Designs Act 2000 and industrial design in India, covering the definition of a design, registration, the short term and the copyright interface - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Designs Act 2000 and industrial design in India, covering the definition of a design, registration, the short term and the copyright interface - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 The Act is also the least understood member of the Indian intellectual property cluster, and the misunderstanding is consequential. Designers routinely assume that copyright protects the look of the products they sell, because copyright protected the drawing from which the product was made. Manufacturers routinely assume that a registration, once obtained, can be renewed like a trade mark, or that it covers the clever way a product works. Each assumption is wrong, and the errors are not gentle ones. The designer who relies on copyright discovers, after the fiftieth reproduction of the article, that the copyright has ceased by operation of a provision in the Copyright Act and that no design right was ever acquired because no application was filed. The manufacturer who treats a registration as permanent discovers at the end of fifteen years that the right has expired beyond recall. This article works through the Designs Act 2000 as it is written: its definition and the exclusions inside that definition, the conditions of registration, the procedure and the register, the term, the piracy provision and its remedies, the cancellation route by which weak registrations are destroyed, and the copyright interface that decides more real disputes than any other single rule in this corner of the law.
 

@@ -6,15 +6,15 @@ date: 2022-04-01
 categories: ["Industry"]
 tags: ["Indian Legislation", "Parliamentary Committees", "Parliament", "Constitutional Law", "Legislative Process", "UPSC"]
 excerpt: "Parliamentary committees and Bill scrutiny in India: why referral is a choice and not a duty, what committees do to a Bill, and what the record shows."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2022-04-01
+lang: en
 ---
-
 Nothing in Indian law requires a Bill to be examined by a committee before Parliament votes on it. Parliamentary committees are the machinery through which detailed Bill scrutiny is supposed to happen, and the machinery is real: committees take evidence, examine clauses, summon officials and produce reports that governments must answer. But every stage of that machinery is switched on by a discretionary decision, and the switch belongs to the presiding officer of a House, to the House itself, or to the government of the day. The Constitution does not mention committees at all. No statute does either. The committee system lives in the rules of procedure that each House has made for itself, and what those rules create they leave optional.
 
-![Parliamentary committees and Bill scrutiny in India, showing how standing, select and joint committees examine legislation and why referral is discretionary - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Parliamentary committees and Bill scrutiny in India, showing how standing, select and joint committees examine legislation and why referral is discretionary - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 That single fact explains most of the argument about scrutiny in Indian lawmaking. When a Bill is referred to a committee, the process slows down, evidence from affected parties enters the record, and drafting defects are often caught before they become litigation. When a Bill is not referred, nothing unlawful has happened. The reader who wants the full route a Bill travels from introduction to assent, through readings, voting and the President's signature, will find it in the account of [how a Bill becomes law in India](/2022/02/01/how-a-bill-becomes-law-india/); the subject here is narrower and, in the series' judgment, more consequential. It is what happens, or fails to happen, between introduction and the vote: the scrutiny stage, who controls it, and what the published record shows about how it has been used.
 

@@ -6,15 +6,15 @@ date: 2022-01-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Extradition Act 1962", "Criminal Law", "International Law", "Extradition Treaties", "Fugitive Criminals"]
 excerpt: "Extradition Act 1962 explained: dual criminality, the magistrate inquiry, restrictions on surrender, and how India seeks the return of fugitives from abroad."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2022-01-15
+lang: en
 ---
-
 The Extradition Act 1962 is the statute that decides whether a person found in India may be handed over to a foreign State for trial or punishment, and it is equally the statute under which India asks a foreign State to hand a person back. Almost every public misunderstanding of extradition begins by collapsing those two directions into one, and by treating the diplomatic request as if it were the decision. Neither is accurate. The Act, cited as Act 34 of 1962, creates a government to government request, a judicial inquiry in the State where the person is found, and a final executive decision that may be taken only after the judicial stage has run its course and only within restrictions that the statute itself imposes. In both directions, the court in the requested State applies the law and the evidential standards of that State. That single structural fact explains more about the record of extradition involving India than any account centred on diplomatic goodwill or diplomatic friction, and it is the thread that runs through every section of this article.
 
-![The Extradition Act 1962 and the law of surrender and return between India and foreign States - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Extradition Act 1962 and the law of surrender and return between India and foreign States - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 This article reads the Act whole. It sets out what the statute replaced, how its definitions construct the idea of an extradition offence, how Section 3 brings a foreign State within the Act by notified order, and how a multilateral convention may be treated as a treaty where no bilateral treaty exists. It then follows each direction step by step: the requisition to the Central Government, the order for a magisterial inquiry, the warrant, the hearing, the prima facie test, committal to prison, and the warrant of surrender, and, in the opposite direction, the requisition that India makes, the conveyance of a person surrendered or returned, and the protection in Section 21 against trial for other offences. It gives the restrictions on surrender the prominence the brief for a statute pillar requires, because those restrictions are where requests are resisted and where they most often fail. It distinguishes extradition from deportation and from an international police notice, and it separates both from the distinct mechanism for declaring a person a fugitive economic offender. Throughout, the article describes the framework alone. Extradition proceedings concern identifiable individuals, and no person and no individual proceeding is named or described here. Propositions drawn from case law are stated as propositions about the function of a magistrate, the scope of the political offence exception, and the place of assurances, without narrating the facts of any case.
 

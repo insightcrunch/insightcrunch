@@ -6,15 +6,15 @@ date: 2018-09-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Seventh Schedule", "Constitutional Law", "Federalism", "Concurrent List", "Union List", "UPSC"]
 excerpt: "The Seventh Schedule explained: how the Union, State and Concurrent Lists divide legislative power, and whether the balance has shifted towards the Union."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2018-09-15
+lang: en
 ---
-
 Ask a room of well-informed readers whether legislative power in India has drifted towards the Union since 1950 and most will say yes, and most will reach for the same evidence: the Seventh Schedule, whose three lists they assume must have been rewritten to produce the drift. That assumption is the trap this article exists to disarm. Put the lists as enacted in 1950 beside the lists as they stand and the honest first impression is how little has moved. Five subjects changed lists, all in a single amendment in 1976. Yet the impression that power has centralised is not an illusion, and readers who hold it are responding to something real. The resolution of that paradox is the comparison this article performs. The division of power changed profoundly, but it changed around the lists rather than inside them, through mechanisms, fiscal redesign and judicial doctrine that leave the printed schedule looking almost untouched. A comparison that reads only the schedule will therefore acquit the Union of a charge the record sustains, and the first task is to build a comparison that cannot be fooled in that way.
 
-![The Seventh Schedule lists compared, showing the Union, State and Concurrent Lists and the routes by which Parliament legislates on State subjects - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Seventh Schedule lists compared, showing the Union, State and Concurrent Lists and the routes by which Parliament legislates on State subjects - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The method used here is the one the question deserves. The article first states the scheme exactly as the constitutional text builds it, then walks each list in turn, then isolates the single occasion on which entries actually moved, then examines the four routes by which Parliament legislates on State subjects without moving anything, then the quiet entries that do similar work from inside the Union List, then the tax amendment that stepped outside the scheme altogether, and then the doctrines by which courts police the boundaries. Only after that evidence is assembled does the article score it, in a table of eight dimensions with a verdict recorded against each, and the defended conclusion is derived by counting that column rather than announced in advance. The namable claim can be stated at the outset so the reader can test it against everything that follows: the lists moved less than the mechanisms did, and any assessment of the federal balance that compares lists alone will conclude that little has changed and will be wrong.
 

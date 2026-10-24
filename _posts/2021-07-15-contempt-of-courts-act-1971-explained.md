@@ -6,15 +6,15 @@ date: 2021-07-15
 categories: ["Industry"]
 tags: ["Indian Legislation", "Contempt of Courts Act 1971", "Criminal Contempt", "Civil Contempt", "Freedom of Speech", "Judiciary"]
 excerpt: "The Contempt of Courts Act 1971 explained: civil and criminal contempt, the defences, the truth defence of 2006, punishment and the limitation period."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2021-07-15
+lang: en
 ---
-
 The Contempt of Courts Act 1971 (Act 70 of 1971) is the statute that defines contempt of court in India, lists the conduct that is not contempt, fixes the maximum punishment a court may impose, and sets the period within which a proceeding must begin. It is also a statute with an unusual constitutional position. The power it organises does not come from the statute itself. The Supreme Court and every High Court hold the power to punish for contempt because the Constitution makes each of them a court of record, and the Act operates inside that constitutional power, defining its categories, supplying its defences and confining its procedure. A reader who grasps that single point understands why the recurring proposal to abolish the offence of scandalising the court by amending this Act would not abolish the power at all, and why the Law Commission of India, when it examined that proposal in its Report No. 274 of 2018, recommended against the amendment. This article states the Act section by section, separates civil contempt from criminal contempt, works through the defences in the order the statute gives them, explains the change made in 2006 when truth became a possible defence, and then presents the abolition debate in the terms its two sides use, without adopting either.
 
-![The Contempt of Courts Act 1971, showing the definitions of civil and criminal contempt, the statutory defences and the debate over scandalising the court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Contempt of Courts Act 1971, showing the definitions of civil and criminal contempt, the statutory defences and the debate over scandalising the court - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 ## The constitutional setting: a power the statute did not create
 
