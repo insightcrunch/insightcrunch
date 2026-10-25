@@ -6,17 +6,17 @@ date: 2021-02-11
 categories: ["Industry"]
 tags: ["Indian Politics", "Anna Hazare Movement", "Jan Lokpal Bill", "Aam Aadmi Party", "Arvind Kejriwal AAP", "India Against Corruption", "Lokpal Act", "Jantar Mantar Fast"]
 excerpt: "The Anna Hazare anti-corruption movement and the Aam Aadmi Party that grew from it operate as citizen-renegotiation through specific architectural moments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2021-02-11
+lang: en
 ---
-
 The Anna Hazare movement began as one man's fast at Jantar Mantar on 5 April 2011 and produced, within thirty-one months, a national ombudsman statute and a political party governing Delhi. That conversion of street presence into institutional form, repeated five times in dated sequence, is the subject of this article, and it is best read as citizen-renegotiation: citizens outside the legislature forcing the legislature to reopen terms it had left dormant for four decades.
 
 <!--more-->
 
-![Supporters gathered at Ramlila Maidan in Delhi during the August 2011 fast led by Anna Hazare - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Supporters gathered at Ramlila Maidan in Delhi during the August 2011 fast led by Anna Hazare - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 ## The Anna Hazare Movement and AAP as Citizen Renegotiation
 

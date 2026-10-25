@@ -6,17 +6,17 @@ date: 2021-02-16
 categories: ["Industry"]
 tags: ["Indian Politics", "Telangana Statehood Movement", "TRS K Chandrashekar Rao", "Andhra Pradesh Reorganisation Act", "Srikrishna Committee", "Hyderabad Shared Capital", "Mulki Rules"]
 excerpt: "The first Telangana movement and the later TRS-led movement stand as one long act of citizen-renegotiation, and they end in the creation of a separate state."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2021-02-16
+lang: en
 ---
-
 The Telangana statehood movement is the longest sustained renegotiation of a founding settlement in the history of the Indian republic. It opened with a hunger strike beside Khammam railway station in January 1969 and closed on the morning of 2 June 2014, when a state demanded across two generations came into legal existence, with Hyderabad as its capital and the leader of its second phase as its first Chief Minister. Between those two dates lies a record written not in manifestos alone but in agreements signed and breached, in a Supreme Court judgment that reversed a region's safeguards, in a party founded at a single meeting in Hyderabad, in an eleven-day fast that forced the Union Home Minister to speak at half past eleven at night, and in a statute passed by voice vote through a silenced chamber. Read as a whole, the movement is best understood as citizen-renegotiation: organised citizens returning, again and again, to a bargain struck in 1956, testing each of its clauses against the record of its performance, and refusing to accept the answer that the bargain had already been honoured.
 
 <!--more-->
 
-![The Telangana statehood movement, from the 1969 agitation to the state formed on 2 June 2014 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Telangana statehood movement, from the 1969 agitation to the state formed on 2 June 2014 - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 That reading has rivals, and this article puts them on the record before judging between them. The linguistic-state reading treats Telangana as an unfinished item of the 1956 settlement, a region merged into a Telugu-speaking state whose internal asymmetry the merger papers never resolved. The regional-political reading, stated most carefully in K. Srinivasulu's Caste, Class and Social Articulation in Andhra Pradesh (2002), treats the demand as an instrument of parties, castes and elites competing inside a state whose politics the merger had made. The citizen-renegotiation reading, defended here, does not deny either frame its evidence. It insists that the movement's own sequence, its organisations, fasts, strikes, electoral vehicles and documentary demands, constitutes an operation of a distinct kind: citizens using every instrument the Constitution leaves open, and several it leaves merely tolerated, to force the renegotiation of a settlement whose written safeguards had failed in their hands. The framework is the one set out in [the movements-as-citizen-renegotiation framework](/2021/01/09/indian-movements-citizen-renegotiation/), and this article applies it to the hardest test the framework faces, a demand that took forty-five years and two distinct phases to succeed.
 

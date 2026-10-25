@@ -6,17 +6,17 @@ date: 2021-01-25
 categories: ["Industry"]
 tags: ["Indian Politics", "Narmada Bachao Andolan", "Medha Patkar NBA", "Sardar Sarovar Project", "World Bank Withdrawal", "Supreme Court Verdict", "Manibeli Movement", "Land Acquisition Act"]
 excerpt: "The Narmada Bachao Andolan under Medha Patkar turned one dam on the Narmada river into a thirty year renegotiation of rehabilitation law and state duty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2021-01-25
+lang: en
 ---
-
 On 5 April 1961, Prime Minister Jawaharlal Nehru laid the foundation stone of the Sardar Sarovar dam at Navagam in Gujarat, at a ceremony that presented the structure as a temple of the new republic's engineering ambition. Twenty-four years later, in 1985, a doctoral researcher from the Tata Institute of Social Sciences in Mumbai named Medha Patkar entered the Narmada valley to study the villages the reservoir would drown, and the encounter produced the Narmada Bachao Andolan, the movement that would contest that foundation stone's promise for more than three decades. This article defends one claim about the contest. The Andolan operated as citizen-renegotiation conducted through the Sardar Sarovar Project's own instruments: the tribunal award that fixed the dam's dimensions, the loan covenants that financed it, the writ petition that challenged it and the statute book that eventually absorbed its demands. Five features mark the operation. A movement was built village by village across three states between 1985 and 1989. Its villagers pledged at Manibeli in 1991 to drown rather than move. Its documentation forced the World Bank's first independent review and the loan's cancellation in March 1993. Its lawsuit produced the Supreme Court's conditional permission of 18 October 2000, construction tied to rehabilitation at every step. Its premises entered national law in the land acquisition statute of 27 September 2013, four years before the dam it fought was completed and dedicated in September 2017.
 
 <!--more-->
 
-![Medha Patkar addressing a rally of Narmada valley villagers during the Narmada Bachao Andolan campaign against the Sardar Sarovar dam - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Medha Patkar addressing a rally of Narmada valley villagers during the Narmada Bachao Andolan campaign against the Sardar Sarovar dam - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 Two established ways of reading this record dominate the shelf. The first reads the Andolan through displacement: a development project imposed its costs on adivasi and peasant communities who had no share in its benefits, and the movement was their resistance. The second reads it through the dam's own biography: a project conceived in 1946, stalled by an interstate dispute, awarded by a tribunal in the late 1970s, financed in 1985, litigated through the 1990s and finished in 2017, with the movement as one obstacle in a long engineering chronology. Both readings capture real content, and both are engaged at full strength in the pages that follow. Neither captures the mechanism. Displacement happened, and the dam has a history, but the Andolan's distinguishing work was renegotiation: it seized the legal and financial instruments through which the Indian state had committed itself, the award's rehabilitation clauses, the Bank's safeguard covenants, the Constitution's Article 21, and held the state to the terms those instruments already contained. The valley's residents appeared in that process not as victims awaiting rescue and not as an obstruction to a national asset, but as parties demanding that a bargain be rewritten because its original terms had been struck without them.
 

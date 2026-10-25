@@ -6,17 +6,17 @@ date: 2021-01-20
 categories: ["Industry"]
 tags: ["Indian Politics", "Chipko Movement", "Mandal Gopeshwar", "Sunderlal Bahuguna", "Chandi Prasad Bhatt", "Forest Conservation Act", "Indian Environmental Movement", "Gaura Devi Reni Forest"]
 excerpt: "The Chipko movement at Mandal-Gopeshwar began as a dispute over who a Himalayan forest belongs to, and its record shows citizens renegotiating that answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2021-01-20
+lang: en
 ---
-
 The Chipko movement is usually introduced as an environmental parable: Himalayan villagers hugging trees in 1973 until the axes stopped. The parable is not false, but it files the event under scenery and sentiment, and the record of what actually happened in Chamoli district between 1973 and 1981 resists that filing at every point. What the record shows is a sequence of dated, documented confrontations over an allotment register, a committee of inquiry, a central statute and a felling ban, in which villagers with no office, no vote bank and no party machine compelled the Indian state to rewrite the terms on which Himalayan forests would be governed. This article defends one claim about that sequence. The Chipko movement operates as environmental-political citizen-renegotiation: a movement of citizens who, finding the formal channels of allotment and appeal closed or rigged, renegotiated their standing as forest users by direct, disciplined, nonviolent action, and left the renegotiation written into law. A five-feature map of the movement captures its content: the Mandal confrontation of April 1973, the Tehri Garhwal current carried by Sunderlal Bahuguna, the Reni action of 26 March 1974 led by Gaura Devi, the Forest (Conservation) Act of 1980 with the fifteen-year felling ban that followed it, and the post-1981 trajectory through the Tehri Dam opposition to the movement's national and global afterlife.
 
 <!--more-->
 
-![Women of the Reni action guarding the forest above the Alaknanda valley during the Chipko movement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Women of the Reni action guarding the forest above the Alaknanda valley during the Chipko movement - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ## The Hills Before 1973: Reserved Forests, War Roads and a Flood
 
@@ -179,7 +179,6 @@ In September 1983 the template crossed the subcontinent. At Salkani village in t
 The institutional afterlife ran in parallel. The National Forest Policy of 1988 re-stated the aims of forest management with the needs of local populations placed first in the text and a national goal of one-third of the land under forest or tree cover, language unthinkable in the working plans of 1973. The Joint Forest Management circular of 1 June 1990 invited village committees into the protection of degraded forests in partnership with the departments the movement had fought. In December 1996 the Supreme Court's continuing orders in T. N. Godavarman Thirumulpad v. Union of India took the definition of forest out of departmental discretion altogether and froze felling across whole states pending approved working plans, the juridical extreme of the centralising track the 1980 Act had opened. On 9 November 2000 the hill districts whose forests Chipko had defended became the new state of Uttaranchal, renamed Uttarakhand in 2007, and the movement took its place in the genealogy every account of the statehood demand recites: the hills had learned, across the 1970s, to act as citizens of a place rather than subjects of a register. Movements in the same tradition as [the Sampoorna Kranti citizen-renegotiation framework](/2021/01/14/jp-movement-total-revolution/) supplied the statehood movement with its repertoire and its confidence. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act of 2006 finally wrote individual and collective forest rights into statute, a generation after Reni, addressing the title question the 1980 settlement had left untouched. Each of these outcomes has many parents, and this article claims for Chipko only what the sequence shows: it was the first, and remains the cleanest, demonstration that the forest register could be reopened from below.
 
 The constructive half of the inheritance ran on in Chamoli itself. The Sangh and its successor body at Gopeshwar turned, after the bans, to the work its founding charter had always named first: planting. Its eco-development camps in the Alaknanda villages organised the protection and planting of broad-leaved fodder and fuel species on degraded village land, applying the movement's arithmetic in reverse, a forest rebuilt by the labour of the households that would gather from it. The Indian school curriculum took the movement into the national classroom in its turn, the NCERT texts carrying Mandal and Reni to students who would never see the Alaknanda, so that the valley's file became part of the Republic's common knowledge. A movement that had begun by demanding a hearing in a divisional office ended as the standard example, cited in the state's own textbooks, of how its citizens may address it.
-
 
 
 ## What the Settlement Did Not Settle

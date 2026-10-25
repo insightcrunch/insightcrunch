@@ -6,17 +6,17 @@ date: 2020-11-20
 categories: ["Industry"]
 tags: ["Indian Politics", "Nehruvian Planned Economy", "Planning Commission India", "First Five Year Plan", "Mahalanobis Plan", "Industrial Policy Resolution", "Public Sector Architecture", "Mixed Economy India"]
 excerpt: "The Nehruvian planned economy operated as political architecture, assembled through a planning commission, five-year plans, and industrial policy resolutions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2020-11-20
+lang: en
 ---
-
 On 15 March 1950, weeks after the Constitution of India came into force, Jawaharlal Nehru's cabinet created the Planning Commission by a single executive resolution and placed Nehru himself in the chair. The Nehruvian planned economy, the subject of this reading, was never only an economist's device. Between the Industrial Policy Resolution of 6 April 1948 and the close of the Second Five-Year Plan in 1961, the Congress government assembled a machine for deciding who could build, who could borrow, whose region received a steel plant and whose harvest the state would buy. It then defended that machine in Parliament, in party sessions and in print as the economic form of the freedom struggle's promises. This article reads those fourteen years as political architecture: five dated instruments, each of which settled an argument inside the ruling coalition before it settled anything about output.
 
 <!--more-->
 
-![Steel plant construction during the Second Five-Year Plan period - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Steel plant construction during the Second Five-Year Plan period - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 ## A Settlement in Search of an Economy, 1947 to 1950
 

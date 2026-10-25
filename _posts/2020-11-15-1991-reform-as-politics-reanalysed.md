@@ -6,17 +6,17 @@ date: 2020-11-15
 categories: ["Industry"]
 tags: ["Indian Politics", "Balance of Payments Crisis", "Economic Policy as Politics", "Reform as Politics Framework", "Manmohan Singh Budget", "Narasimha Rao Government", "Indian Economic Reform", "Liberalisation Politics"]
 excerpt: "Indian economic policy reads primarily as political-architectural content; the reform is the paradigmatic case for the economic-policy-as-politics frame."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2020-11-15
+lang: en
 ---
-
 The 1991 reform in Indian politics is habitually filed as an episode in economics, a technocratic answer to a balance of payments emergency, and the filing conceals the event. Between 21 June 1991, when P. V. Narasimha Rao took office at the head of a minority government, and 24 July 1991, when Finance Minister Manmohan Singh presented his first budget and the government tabled its Statement on Industrial Policy, a political order was renegotiated. The men who carried out the renegotiation held no electoral instruction for it. Rao was a member of neither House of Parliament when he became Prime Minister. Singh had never fought an election. The Congress manifesto had promised fiscal discipline and modernisation in general language and had placed neither devaluation, nor the abolition of industrial licensing, nor majority foreign equity before the voters of May and June 1991. Every measure of that July therefore had to be authored, defended and paid for in political currency, and the record of how it was done (the budget speech, the industrial policy statement, the correspondence with the International Monetary Fund, the revolt inside the Congress Parliamentary Party) is a record of politics conducted through economic instruments.
 
 <!--more-->
 
-![Manmohan Singh presenting the budget of 24 July 1991 and the 1991 reform as a political settlement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Manmohan Singh presenting the budget of 24 July 1991 and the 1991 reform as a political settlement - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 The claim defended across this pillar hub is stated plainly. Indian economic policy reads primarily as political-architectural content: economic decisions perform political work, are shaped by political conditions, and furnish the material out of which parties build their public identities. The July 1991 reform is the paradigmatic case for this reading, which the master framework for the series calls Framework 9, Reform as Politics. July 1991 is paradigmatic not because it was the largest economic event of the republic's first seven decades, but because its political machinery lies exposed. A government too weak to survive a routine vote rewired the commanding heights of the economy, and it survived. Explaining that survival requires the political reading; the economic reading alone cannot say why the patient lived.
 

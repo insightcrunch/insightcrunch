@@ -6,17 +6,17 @@ date: 2020-10-24
 categories: ["Industry"]
 tags: ["Indian Politics", "China Pakistan US Triangulation", "Sino Pakistan Boundary Agreement", "Karakoram Highway Architecture", "USS Enterprise Bay of Bengal", "NSG Waiver India", "India Strategic Triangulation", "Post Cold War Realignment"]
 excerpt: "The China-Pakistan-US triangulation operates as three-vertex architectural-substantive-content shaping Indian foreign-policy domestic positioning after the war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2020-10-24
+lang: en
 ---
-
 The China-Pakistan-US triangulation is the standing structure inside which India has conducted its foreign policy since the war of October and November 1962, and it is best read as a single three-vertex construction rather than as three separate bilateral stories. Vertex One holds China as the rival whose position was fixed by the defeat of 1962 and never fully unfixed by any later engagement. Vertex Two holds the Pakistan-China axis, given paper form by the Sino-Pakistan boundary agreement of 2 March 1963 and stone form by the Karakoram Highway whose construction began in 1966. Vertex Three holds the long United States trajectory that runs from the USS Enterprise in the Bay of Bengal in December 1971 through the Nuclear Suppliers Group waiver of 6 September 2008 to the foundational defence agreements signed between 2016 and 2020. This article defends one claim: the triangulation operates as three-vertex architectural content, and that content works inside Indian domestic politics, shaping what governments in New Delhi could argue, fund and survive, rather than floating above politics as autonomous strategy.
 
 <!--more-->
 
-![Three mountain passes and a sea lane drawn as the three vertices of the China Pakistan US triangulation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Three mountain passes and a sea lane drawn as the three vertices of the China Pakistan US triangulation - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 ## Three Vertices, Not Three Separate Stories
 

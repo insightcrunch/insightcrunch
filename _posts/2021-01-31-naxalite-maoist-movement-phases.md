@@ -6,17 +6,17 @@ date: 2021-01-31
 categories: ["Industry"]
 tags: ["Indian Politics", "Naxalbari Uprising", "CPI ML Charu Mazumdar", "CPI Maoist Consolidation", "Red Corridor Architecture", "Operation Green Hunt", "Andhra Greyhounds", "Salwa Judum"]
 excerpt: "The Naxalbari spark and the CPI (Maoist) merger frame five phases that explain the Indian Maoist movement's rise, fragmentation, consolidation and decline."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2021-01-31
+lang: en
 ---
-
 The Naxalite Maoist movement is usually written in one of two registers. The first treats it as an insurgency: a security problem with a body count, a map of affected districts and a succession of operations, in which the movement appears as an armed organisation to be measured by the rifles it fields and the ambushes it mounts. The second treats it as an ideological history: a lineage of texts and splits running from Charu Mazumdar's Eight Documents through a thicket of party acronyms, in which the movement appears as a doctrine arguing with itself across five decades. Both registers record real things, and both misplace the movement's actual continuity. This article defends a third reading. The uprising at Naxalbari in May 1967 and the consolidation that formed the Communist Party of India (Maoist) on 21 September 2004 are the two load-bearing events of a single five-phase structure, and the five-phase framework captures what the insurgency framing and the ideological-history framing each leave out: the way each phase inherited an organisation, a geography and a theory of the Indian state from the phase before it, and bequeathed a changed version of all three to the phase after it. Read phase by phase, the movement's violence, its fragmentation and its decline stop looking like separate stories. They become the record of one political formation passing through five distinct institutional conditions, and they test, at the hardest edge, the claim defended at this pillar's opening: that Indian movements are best read as citizens renegotiating, by whatever means they choose, the terms on which the republic governs them.
 
 <!--more-->
 
-![Forest path in the Dandakaranya region of central India, the base area of the CPI (Maoist) - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Forest path in the Dandakaranya region of central India, the base area of the CPI (Maoist) - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 ## Two Framings and a Third: Why the Naxalite Maoist Movement Has Five Phases
 

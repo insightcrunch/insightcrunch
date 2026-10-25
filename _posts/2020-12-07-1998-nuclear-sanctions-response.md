@@ -6,17 +6,17 @@ date: 2020-12-07
 categories: ["Industry"]
 tags: ["Indian Politics", "Nuclear Sanctions Response", "Resurgent India Bonds", "Yashwant Sinha Finance Minister", "Bimal Jalan RBI Governor", "Glenn Amendment Sanctions", "India Millennium Deposits", "Jaswant Singh Strobe Talbott"]
 excerpt: "The nuclear sanctions response India mounted after the Pokhran tests operates as political-economic architecture, centred on the Resurgent India Bonds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2020-12-07
+lang: en
 ---
-
 The 1998 nuclear sanctions response began within hours of the second round of detonations at Pokhran on 13 May 1998, when the government of Atal Bihari Vajpayee learned the precise price that American law attached to the tests and chose, in public and on the record, to pay a large part of it rather than bargain away the decision that had caused it. What followed over thirty months was not an improvisation. It was a constructed response with four load-bearing features: a finance ministry and a central bank positioned under two named officeholders, Yashwant Sinha and Bimal Jalan, and coordinated as a single command; a bond sold to the Indian diaspora, the Resurgent India Bonds of August 1998, which raised 4.23 billion US dollars in nineteen days; a monetary stabilisation programme that defended the rupee through the Asian crisis's worst quarter and then eased by design; and a diplomatic and financial trajectory, running through the Jaswant Singh and Strobe Talbott dialogue and the India Millennium Deposits of October 2000, that converted a punishment regime into a schedule of waivers. This article defends one claim about that record: the post-1998 sanctions response operates as political-economic architecture, and the four-feature framework captures what the rival readings, the sanctions-response reading and the technical economic policy reading, each leave out.
 
 <!--more-->
 
-![The State Bank of India headquarters in Mumbai, the institution that issued the Resurgent India Bonds in August 1998 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The State Bank of India headquarters in Mumbai, the institution that issued the Resurgent India Bonds in August 1998 - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 ## The Price Tag Arrives: The Glenn Amendment and the Coalition of May 1998
 

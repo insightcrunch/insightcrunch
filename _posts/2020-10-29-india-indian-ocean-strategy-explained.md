@@ -6,17 +6,17 @@ date: 2020-10-29
 categories: ["Industry"]
 tags: ["Indian Politics", "SAGAR Doctrine", "Indian Ocean Region", "QUAD Dialogue", "Andaman and Nicobar Command", "Maritime Doctrine India", "Indian Ocean Naval Symposium", "Agalega Assumption Island Diplomacy"]
 excerpt: "India's Indian Ocean strategy through the SAGAR doctrine and the revived QUAD partnership works as maritime policy and domestic political architecture."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2020-10-29
+lang: en
 ---
-
 India's Indian Ocean strategy is usually told as a story of ships, straits and a rising Chinese navy, yet the record from March 2015 onward shows a second story running underneath the first: a strategy announced in a partner's parliament, built through island agreements negotiated state by state, and defended in New Delhi as proof of a governing style. This article reads India's Indian Ocean strategy as maritime architecture with domestic political content, and it tests that reading against the two framings it displaces.
 
 <!--more-->
 
-![India's Indian Ocean strategy - SAGAR doctrine, QUAD partnership and the island territories - Insight Crunch](/assets/images/blog/blog-01.webp)
+![India's Indian Ocean strategy - SAGAR doctrine, QUAD partnership and the island territories - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## Two Familiar Framings, and What Each One Misses
 

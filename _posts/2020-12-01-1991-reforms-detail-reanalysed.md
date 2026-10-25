@@ -6,17 +6,17 @@ date: 2020-12-01
 categories: ["Industry"]
 tags: ["Indian Politics", "Reforms in Detail", "Manmohan Singh Budget Speech", "Industrial Policy Statement", "FERA FEMA Shift", "Industrial Licensing Abolition", "Montek Singh Ahluwalia", "Trade Liberalisation India"]
 excerpt: "The reforms in detail, taken from their own texts: a two-step devaluation, a trade policy, an industrial policy and a budget that redrew India's rules in July."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-12-01
+lang: en
 ---
-
 The 1991 reforms in detail are usually told as an atmosphere: a crisis, a collapse of reserves, a new government, a famous budget. Told that way, July 1991 becomes weather, something that happened to India rather than something named officials did, clause by clause, on dated paper. The documents tell a tighter story. Between 1 July 1991 and 24 July 1991, a government eleven days old when the sequence opened executed five distinct instruments: the Reserve Bank of India lowered the rupee against its currency basket by roughly 9 per cent on 1 July and by roughly 11 per cent more on 3 July; the Ministry of Commerce announced a trade policy on 4 July that replaced import licensing with tradable eximscrips; a gold operation already under way shipped 47 tonnes of the Reserve Bank's stock to the Bank of England in July after an earlier sale of 20 tonnes to the Union Bank of Switzerland; and on a single day, 24 July 1991, the government laid a Statement on Industrial Policy before Parliament that abolished industrial licensing for all but eighteen industries, hours before Finance Minister Manmohan Singh presented a budget that cut the peak customs duty from above 300 per cent to a ceiling of 150 per cent and quoted Victor Hugo to the Lok Sabha. Each instrument had an author, a legal form and an operative text. Each can be read. This article reads them.
 
 <!--more-->
 
-![Parliament House in New Delhi where the July 1991 policy statements and budget were laid - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Parliament House in New Delhi where the July 1991 policy statements and budget were laid - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The claim defended here is the brief's, stated plainly: the July 1991 reforms operate as detailed political content, and their operative clauses, read closely, reveal more than either the policy-history framing or the crisis-response framing captures. The policy-history framing, the standard textbook chronicle, lists the measures in sequence and explains each by the one before it. The crisis-response framing, pressed hardest by the reforms' left critics in 1991 and after, reads the same documents as a dictated text, drafted in Washington and signed in New Delhi under the duress of an empty treasury. The detail reading defended in this article takes a third path. It treats the five instruments of July 1991 as designed objects: their percentages, their annexes, their choice of legal form and their timing carry the politics. A minority government that could not rely on Parliament for a legislative programme chose instruments that mostly required no vote at all: a central bank adjustment, a commerce ministry announcement, a policy statement laid on the table of the House, and one budget, the single text that had to survive a division. The fertiliser fight of August 1991, when the Congress Parliamentary Party forced the finance minister to trim his own budget in public, marks the exact boundary of that strategy. What follows reconstructs each instrument from its text and its documented contest, and then adjudicates the three readings against the evidence the texts supply.
 

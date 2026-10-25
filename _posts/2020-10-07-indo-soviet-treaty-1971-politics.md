@@ -6,17 +6,17 @@ date: 2020-10-07
 categories: ["Industry"]
 tags: ["Indian Politics", "Indo Soviet Treaty", "Article IX Indo Soviet", "DP Dhar Treaty Architect", "Gromyko Swaran Singh Treaty", "Pre Bangladesh War Treaty", "Domestic Political Signal", "Cold War Indian Foreign Policy"]
 excerpt: "The August Indo-Soviet Treaty operates as an architectural signal to multiple domestic and international actors during the vast Bangladesh refugee crisis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2020-10-07
+lang: en
 ---
-
 On the morning of 9 August 1971, in New Delhi, External Affairs Minister Sardar Swaran Singh and Soviet Foreign Minister Andrei Gromyko signed the Treaty of Peace, Friendship and Cooperation between the Republic of India and the Union of Soviet Socialist Republics, a twenty-year instrument of twelve articles that the standard accounts file under two headings: Cold War alignment, or preparation for the December 1971 war. Both headings describe something real, and both miss the treaty's most consequential work. The Indo-Soviet Treaty of 1971 was a signal, built in the manner of a load-bearing structure, and it was addressed as carefully to audiences inside India as to audiences in Washington, Beijing and Islamabad. It told the United States and Pakistan that direct intervention in the subcontinent's crisis had acquired a Soviet price. It told India's opposition parties where the coalition lines of the coming season would be drawn, and it forced each of them to declare a position on the record. It told the Indian armed forces that the supply lines for a short eastern war would run through Soviet factories, Soviet airfields and Soviet credit. And it told India's own political culture that the post-1971 direction of the republic would be set by a government that could lean toward Moscow in substance and still defend non-alignment as its doctrine at home. This article reads the treaty through those four signals, states the instrument by its text, records the reception by its documented holders, and adjudicates the scholarly argument between the Cold War strategic framing, the war-preparation framing and the architectural-substantive-domestic-signal reading defended here.
 
 <!--more-->
 
-![Sardar Swaran Singh and Andrei Gromyko signing the Indo-Soviet Treaty at New Delhi on 9 August 1971 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sardar Swaran Singh and Andrei Gromyko signing the Indo-Soviet Treaty at New Delhi on 9 August 1971 - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 ## The Crisis That Built the Treaty: Refugees, Rawalpindi and the July Opening to China
 

@@ -6,17 +6,17 @@ date: 2020-12-12
 categories: ["Industry"]
 tags: ["Indian Politics", "RTI Act", "Aruna Roy MKSS", "Mazdoor Kisan Shakti Sangathan", "Tamil Nadu Right to Information", "Anti Corruption Politics", "Section 8 RTI Exemptions", "Central Information Commission"]
 excerpt: "The RTI Act made every citizen an auditor of public money. This rereading follows the Rajasthan movement, the first state laws and the politics of disclosure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2020-12-12
+lang: en
 ---
-
 The RTI Act 2005 anti corruption politics of India began as a wage dispute on drought-relief works in Rajsamand district, Rajasthan, where labourers who had dug and measured earthworks demanded to see the muster rolls that recorded their own names, and it ended, fifteen years later, in a statute that let any citizen compel any public authority to open its files within thirty days. The Right to Information Act received the assent of President A. P. J. Abdul Kalam on 15 June 2005 and came fully into force on 12 October 2005, and the standard ways of describing that statute miss what it was built to do. The information-rights framing treats the Act as one more entry in a global family of freedom of information laws, a technical instrument for releasing records. The policy-history framing treats it as the endpoint of a legislative sequence running through committee drafts and state statutes. Both framings are accurate about the paperwork and wrong about the politics. This rereading defends the claim the record supports: the Act of 12 October 2005 operates as anti-corruption politics, a weapon designed by a movement that had spent a decade proving, village by village, that the file was where the theft was recorded. Five features carry that design. A movement in rural Rajasthan, the Mazdoor Kisan Shakti Sangathan founded at Devdungri on 1 May 1990, invented the public hearing as an audit of the state's own paper. Tamil Nadu enacted the first state right to information law in 1997, and a run of states followed between 1997 and 2004, testing the instrument under live administrative conditions. The United Progressive Alliance government of Prime Minister Manmohan Singh, bound by the Common Minimum Programme adopted on 27 May 2004, carried a central statute through Parliament in May 2005 with a thirty-day answer clock, a duty of proactive disclosure in Section 4, a bounded exemption list in Section 8, and two tiers of information commissions armed with penalty powers. The years after 2005 then stress-tested that architecture in public: disclosure orders reached the funding of political parties in 2013 and the office of the Chief Justice of India in 2019, and the counter-attack arrived in the Right to Information (Amendment) Act of 2019, which cut the commissioners' fixed tenure and salary parity out of the statute. Read this way, the Act belongs beside [the economic-policy-as-politics framework](/2020/11/15/1991-reform-as-politics-reanalysed/) that organises this pillar of the series: a statute is a political settlement frozen into clauses, and the RTI Act froze the settlement of a movement that had learned to read the state through its records.
 
 <!--more-->
 
-![Villagers at a jan sunwai public hearing in Rajasthan, where officials read muster rolls aloud for verification - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Villagers at a jan sunwai public hearing in Rajasthan, where officials read muster rolls aloud for verification - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 ## A Wage Dispute at Devdungri: The Movement That Demanded the File
 

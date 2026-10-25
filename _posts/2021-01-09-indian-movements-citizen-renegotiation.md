@@ -6,17 +6,17 @@ date: 2021-01-09
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian Movements Civil Society", "Citizen Renegotiation Framework", "Movements as Politics", "Civil Society Architecture", "Movement Framework India", "Movements Trajectory"]
 excerpt: "Indian movements operate as citizen-renegotiation when formal political institutions stall; the citizen-renegotiation reading captures the architecture content."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2021-01-09
+lang: en
 ---
-
 Indian movements are the republic's parallel negotiating table, and the citizen who studies them as mere protest misreads the furniture. When a legislature refuses a hearing, when a ministry files a representation and lets it sleep in a registry, when a tribunal's award closes a valley's future without hearing the valley, organised citizens carry the negotiation elsewhere: to the maidan, the forest edge, the riverbank, the highway toll plaza. The claim defended in this hub article is exact. Across the post-1947 trajectory, from the Patna maidan of June 1974 to the Delhi border encampments of November 2020, Indian movements operate as citizen-renegotiation. Organised citizens reopen a settlement that formal politics had declared closed, present the state with drafted terms rather than with undifferentiated anger, and press until the terms receive an institutional answer: a statute amended or enacted, a project reviewed or halted, a bill withdrawn, a ministry fallen, a party founded on the movement's own programme. The street, in this reading, is not the opposite of the institution. The street is the room citizens build when the institution's rooms are shut against them, and the traffic between the two rooms is the ordinary business of Indian democracy.
 
 <!--more-->
 
-![Organised citizens negotiating with the Indian state from a public encampment in the citizen-renegotiation frame - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Organised citizens negotiating with the Indian state from a public encampment in the citizen-renegotiation frame - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The reading is organised as a four-component framework, and each component names an observable feature of the record rather than a mood. Component One holds that a movement begins as a response to a formal-institutional stall: a grievance for which the legislature, the executive and the courts have, in sequence or together, closed every routine channel. Component Two holds that a movement's content is institutional-political content: the demands are drafted as amendments, repeals, reservations, bans and entitlements, addressed to named offices and written in the grammar of the state itself. Component Three holds that a movement runs a trajectory with recognisable stages, initiation, escalation, and settlement or dissipation, each stage legible in dated events. Component Four holds that a movement leaves post-movement institutional residue: the laws, parties, commissions and amended procedures that persist after the crowds have gone home and that shape the terrain on which the next stall, and the next renegotiation, will occur. The framework is stated here, at the head of the movements pillar, so that the pillar's case studies can cite it by component; it is also stated here so that it can be attacked, since a framework that cannot fail its own tests is a slogan rather than an argument.
 

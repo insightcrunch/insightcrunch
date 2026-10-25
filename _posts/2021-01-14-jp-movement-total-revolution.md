@@ -6,17 +6,17 @@ date: 2021-01-14
 categories: ["Industry"]
 tags: ["Indian Politics", "JP Movement", "Sampoorna Kranti Total Revolution", "Jayaprakash Narayan", "Bihar Movement", "Gujarat Navnirman Andolan", "Pre Emergency Movement", "Janata Party Formation"]
 excerpt: "The JP Movement under Jayaprakash Narayan operates as Sampoorna Kranti, a total revolution renegotiating citizenship across Bihar, Gujarat, and all of India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2021-01-14
+lang: en
 ---
-
 The JP Movement of 1974 and 1975 is usually introduced through its ending, as the corridor that led to the Emergency of 25 June 1975, or through its leader, as the last campaign of Jayaprakash Narayan. Both introductions shrink the event. Between January 1974 and June 1975, students in Ahmedabad forced a chief minister from office and a state assembly into dissolution, students in Patna built a coordination committee that reached into every district of Bihar, a seventy-one-year-old Sarvodaya leader who had renounced party politics two decades earlier named the whole surge Sampoorna Kranti, Total Revolution, and the government of Indira Gandhi, fresh from the largest electoral mandate in the republic's history, found its authority contested in the streets by citizens who insisted that the vote of 1971 had not exhausted their citizenship. That insistence is the event. Read on its own terms, the JP Movement operates as Sampoorna Kranti citizen-renegotiation: a movement that took grievances about prices, examinations, corruption and unemployment and converted them, step by documented step, into a demand that the relationship between citizen and state be renegotiated in public. The five-feature map set out in this article makes that reading citable, feature by feature, date by date.
 
 <!--more-->
 
-![Gandhi Maidan in Patna, where Jayaprakash Narayan named the Sampoorna Kranti on 5 June 1974 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gandhi Maidan in Patna, where Jayaprakash Narayan named the Sampoorna Kranti on 5 June 1974 - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 ## The JP Movement and the Settlement It Challenged
 

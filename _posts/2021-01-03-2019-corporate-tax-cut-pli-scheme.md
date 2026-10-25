@@ -6,17 +6,17 @@ date: 2021-01-03
 categories: ["Industry"]
 tags: ["Indian Politics", "September Corporate Tax Cut", "22 Percent Corporate Tax", "15 Percent New Manufacturing", "Production Linked Incentive", "Nirmala Sitharaman Tax Cut", "Atmanirbhar Bharat Architecture"]
 excerpt: "The corporate tax cut of September and the Production Linked Incentive scheme operate as political decisions that rebuilt Indian economic architecture."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2021-01-03
+lang: en
 ---
-
 The 2019 corporate tax cut and the Production Linked Incentive scheme that followed it are usually filed under tax policy and industrial promotion, as if the first were a technical adjustment to a rate schedule and the second a subsidy programme with better branding. The record resists that filing. On 20 September 2019, Finance Minister Nirmala Sitharaman stood in Goa, where the Goods and Services Tax Council was meeting, and announced that an ordinance signed that morning had cut the base rate of corporation tax from 30 percent to 22 percent for domestic companies willing to surrender their exemptions, and to 15 percent for new manufacturing companies incorporated after 1 October 2019. Fourteen months later, on 11 November 2020, the Union Cabinet extended a production subsidy design first tested on mobile telephones to ten more sectors at a stroke, taking the committed incentive envelope to Rs 1.97 lakh crore. Between those two decisions sits a third, Prime Minister Narendra Modi's Atmanirbhar Bharat address of 12 May 2020, which supplied the doctrine under which the subsidy programme would be sold to the country. This article defends one claim about that sequence: the 2019 corporate tax cut and the post-2020 PLI scheme operate as political architecture for the post-2019 economic order, and a five-feature map of the sequence captures content that the technical-tax-policy framing and the policy-implementation framing each leave out.
 
 <!--more-->
 
-![Finance Minister Nirmala Sitharaman addressing the press conference in Goa on 20 September 2019 at which the corporate tax cut was announced - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Finance Minister Nirmala Sitharaman addressing the press conference in Goa on 20 September 2019 at which the corporate tax cut was announced - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## The Goa Announcement: A Decisive Moment Staged Outside the Budget
 

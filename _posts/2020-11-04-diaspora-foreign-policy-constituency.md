@@ -6,17 +6,17 @@ date: 2020-11-04
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian Diaspora Politics", "Pravasi Bharatiya Divas", "Madison Square Garden Event", "Howdy Modi Houston", "OCI Architecture", "LM Singhvi Committee Diaspora", "Foreign Policy Constituency"]
 excerpt: "The post-Modi diaspora architecture operationalises NRI-PIO-OCI content as foreign-policy-and-domestic-political constituency at unprecedented scale and reach."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2020-11-04
+lang: en
 ---
-
 The Indian diaspora became a foreign policy constituency through deliberate statecraft rather than through demography alone. Tens of millions of people of Indian birth or descent live outside India, yet for the republic's first four decades its government addressed them mainly as a consular burden or an embarrassment to be managed at a distance. Between 1991 and 2023 a succession of governments built an architecture of crisis bonds, annual conventions, status cards and stadium rallies that converted emigrants and their grandchildren into an organised presence inside India's external relations and its election campaigns. The claim defended here is that the phase after 2014 operationalised that constituency at a scale no earlier phase approached.
 
 <!--more-->
 
-![Members of the Indian diaspora at a stadium gathering in Houston during the Howdy Modi event of September 2019 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Members of the Indian diaspora at a stadium gathering in Houston during the Howdy Modi event of September 2019 - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## The Diaspora in Indian Foreign Policy: A Constituency Made, Not Found
 

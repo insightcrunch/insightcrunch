@@ -6,17 +6,17 @@ date: 2020-12-29
 categories: ["Industry"]
 tags: ["Indian Politics", "101st Constitutional Amendment", "GST Council Architecture", "Cooperative Federalism India", "Four Tier GST Slabs", "Arun Jaitley GST", "GST Compensation Politics"]
 excerpt: "The Goods and Services Tax is cooperative federalism built into a tax constitution, and the GST Council record shows the bargain holding under severe strain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2020-12-29
+lang: en
 ---
-
 The Goods and Services Tax that took effect on 1 July 2017 is usually described as a tax reform, and the description understates what the midnight session in Parliament's Central Hall actually set in motion. GST as cooperative federalism names the larger event: the Union and the states amended the Constitution together, surrendered pieces of their separate taxing powers into a shared pool, and built a permanent joint institution, the Goods and Services Tax Council under Article 279A, to govern what neither side could any longer govern alone. This article reanalyses that settlement as a piece of political architecture. Its claim is namable and testable against the record: the Goods and Services Tax operates as cooperative federalism in institutional form, and the proof lies less in the launch bargain of 2016 and 2017 than in the Council's working record under strain, above all the compensation crisis of 2020, when the bargain was loaded with a collapsing economy and did not break.
 
 <!--more-->
 
-![The Central Hall of Parliament in New Delhi, where the Goods and Services Tax was launched at midnight on 30 June 2017 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Central Hall of Parliament in New Delhi, where the Goods and Services Tax was launched at midnight on 30 June 2017 - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 ## GST as Cooperative Federalism: The Reanalysis and Its Claim
 

@@ -6,17 +6,17 @@ date: 2020-10-13
 categories: ["Industry"]
 tags: ["Indian Politics", "Pokhran II Tests", "Operation Shakti", "Brajesh Mishra NSA", "APJ Abdul Kalam Pokhran", "R Chidambaram DAE", "Vajpayee Era Hindutva", "Buddha Smiles Again"]
 excerpt: "The May Pokhran II tests stand as the Vajpayee government's defining political moment, joining coalition positioning, cultural symbolism and statecraft."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-10-13
+lang: en
 ---
-
 On 11 May 1998, at 15:45 hours Indian Standard Time, three nuclear devices detonated beneath the Pokhran test range in the Thar desert of Rajasthan, and the government of Atal Bihari Vajpayee, seven weeks after taking office, announced that India stood as a nuclear weapon state. Two days later, on 13 May, two further devices followed, and Vajpayee declared the planned series complete. The five detonations of Operation Shakti can be read as strategy, as engineering, or as politics, and each reading has its literature. This article defends the third reading as the one that explains the most: the Pokhran II tests operated as the Vajpayee government's architectural-political moment, a single act through which a fragile coalition government fixed its standing at home, restated the cultural grammar of the movement that led it, demonstrated an administrative machine capable of absolute secrecy, accepted a calculated price in sanctions, and opened the corridor that led, a decade later, to the civil nuclear settlement of 2008. The claim is not that strategy and engineering were absent. The claim is that both were carried, timed and framed by domestic political architecture, and that the architecture is where the explanatory weight lies.
 
 <!--more-->
 
-![The Pokhran test range in the Thar desert of Rajasthan, where Operation Shakti was conducted in May 1998 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Pokhran test range in the Thar desert of Rajasthan, where Operation Shakti was conducted in May 1998 - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 ## A Government Seven Weeks Old Meets Its Defining Decision
 

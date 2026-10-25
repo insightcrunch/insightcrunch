@@ -6,17 +6,17 @@ date: 2021-02-22
 categories: ["Industry"]
 tags: ["Indian Politics", "Shaheen Bagh Sit In", "Anti CAA Movement", "Citizenship Amendment Act Protests", "Jamia Millia Islamia", "Aligarh Muslim University", "JNU Attack", "Shaheen Bagh Dispersal"]
 excerpt: "The Shaheen Bagh sit-in and the post-CAA protests operationalise citizen-renegotiation through five architectural moments and their documented content."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2021-02-22
+lang: en
 ---
-
 On the evening of 15 December 2019, as mobile telephone video of a police action inside Jamia Millia Islamia reached the lanes of Okhla in south-east Delhi, a group of women from the neighbourhood of Shaheen Bagh walked onto the Kalindi Kunj road, sat down on the carriageway, and stayed. The sit-in they began that evening ran without a break for 101 days, until Delhi Police cleared the road on the morning of 24 March 2020 under the prohibitory orders of a pandemic lockdown. Between those two dates the stretch of tarmac became the best known protest site in India, the model for scores of similar occupations in other cities, and the subject of a litigation that ended, on 7 October 2020, in a Supreme Court holding on the limits of protest in a public way.
 
 <!--more-->
 
-![Women seated in rows beneath a canopy on the Kalindi Kunj road during the Shaheen Bagh sit-in - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Women seated in rows beneath a canopy on the Kalindi Kunj road during the Shaheen Bagh sit-in - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 Three readings of the site competed from the first week. The first, held by the Union government and the Bharatiya Janata Party, read Shaheen Bagh as an anti-CAA protest: a partisan mobilisation against one statute, sustained by opposition parties and, in the stronger version of the charge, scripted by them. The second, held by lawyers, civil liberties organisations and much of the opposition, read the winter of 2019 and 2020 as a civil rights defence: citizens asserting Articles 14, 15, 19 and 21 of the Constitution against a law they held discriminatory. The reading defended here is the third. Shaheen Bagh operationalised citizen-renegotiation, in the sense developed in [the movements-as-citizen-renegotiation framework](/2021/01/09/indian-movements-citizen-renegotiation/): people positioned outside the formal bargaining rooms of the republic used the occupation of one road, the text of the Constitution and the calendar of the state itself to force a renegotiation of the terms on which citizenship was being rewritten, and they did so through five datable architectural moments whose content can be inspected one by one. The companion account of [the CAA-NRC contestation of 2019 and 2020](/2019/08/05/caa-nrc-contestation-2019-2020/) treats the same season as a political crisis of the citizenship regime; the pages here own a narrower object, the movement at one site, its form, its symbols and its documentary residue.
 

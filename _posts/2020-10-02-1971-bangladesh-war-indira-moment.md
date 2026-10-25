@@ -6,17 +6,17 @@ date: 2020-10-02
 categories: ["Industry"]
 tags: ["Indian Politics", "Bangladesh Liberation War", "Indira Gandhi", "Indira Durga Reference", "Simla Agreement", "Indira Architectural Moment", "Bangladesh War Politics", "Dhaka Surrender"]
 excerpt: "The Bangladesh war operationalised Indira Gandhi's domestic political consolidation through five architectural moments distinct from war-narrative framings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2020-10-02
+lang: en
 ---
-
 The 1971 Bangladesh war was won in thirteen days of December fighting, yet the political event that remade Indira Gandhi's position inside India ran for twenty-one months, from the Pakistani crackdown of 25 March 1971 to the Congress organisational resolutions of December 1972. Read as a war, the year yields a campaign history. Read as domestic politics, it yields something rarer: a sequence of five architectural moments through which a prime minister who had split her party in 1969 and won a landslide in March 1971 converted an external crisis into durable command over her party, her Parliament and her country's diplomatic posture. That conversion, and not the campaign alone, is the subject here.
 
 <!--more-->
 
-![The Dhaka Race Course surrender ground and the 1971 refugee roads into West Bengal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Dhaka Race Course surrender ground and the 1971 refugee roads into West Bengal - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The claim defended throughout is the namable claim of the five-moment reading: the 1971 Bangladesh war operationalised Indira Gandhi's domestic political consolidation, and the consolidation can be mapped, moment by moment, in documents that survive. The first moment is the instrument of surrender signed at the Dhaka Race Course on 16 December 1971. The second is the political and cultural articulation that followed within days, when Indira Gandhi was praised in Parliament and in the press in the idiom of the goddess Durga. The third is the Simla Agreement of 2 July 1972, where the victor of December negotiated from strength and chose restraint as a governing doctrine. The fourth is the December 1972 plenary of the Pradesh Congress Committee at Nasik, where the post-war Congress recorded its organisational programme under her direction. The fifth is not a triumph at all: it is the trajectory from that peak toward the Emergency of June 1975, which the consolidation made possible and which eventually consumed it.
 

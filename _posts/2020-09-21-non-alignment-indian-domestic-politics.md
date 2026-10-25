@@ -6,17 +6,17 @@ date: 2020-09-21
 categories: ["Industry"]
 tags: ["Indian Politics", "Non Alignment Movement", "Indian Foreign Policy Domestic", "Bandung Conference", "Multi Alignment Doctrine", "Indian Foreign Policy Architecture", "Foreign Policy as Domestic"]
 excerpt: "Indian foreign policy reads primarily as domestic-political content; Non-Alignment is the paradigmatic case for the foreign-policy-as-domestic-politics frame."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-09-21
+lang: en
 ---
-
 Non alignment in Indian domestic politics is not a decorative subtitle for a doctrine usually taught as diplomacy. It is the doctrine's centre of gravity. When Jawaharlal Nehru told an All India Radio audience on 7 September 1946 that India proposed to keep away from the power politics of groups aligned against one another, he was speaking before independence, before the Constitution, and before the Indian National Congress had converted a freedom movement into a governing coalition. The sentence announced an external posture, yet it also settled an internal question: the new state would not let a Cold War alliance choose its enemies, ration its friendships, discipline its budget, or dictate the language in which its citizens imagined sovereignty. Non-Alignment endured because it performed work inside India. It protected a fragile planned economy from exclusive dependence, gave Congress an international identity rivals could not readily copy, and turned restraint abroad into proof of self-command at home.
 
 <!--more-->
 
-![Delegates at the 1955 Bandung Conference and the doctrine of Non-Alignment in Indian domestic politics - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Delegates at the 1955 Bandung Conference and the doctrine of Non-Alignment in Indian domestic politics - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 ## Non Alignment in Indian Domestic Politics: Two Readings and a Third
 
