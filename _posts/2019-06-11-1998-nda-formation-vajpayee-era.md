@@ -9,7 +9,7 @@ excerpt: "The NDA formation in the Vajpayee era was Hindutva's electoral success
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2019-06-11
+last_updated: 2026-10-25
 lang: en
 ---
 The 1998 NDA formation is usually told as an arrival. The Bharatiya Janata Party, founded in 1980 and twice rebuffed at the threshold of national office, assembled a coalition of some two dozen parties, won the general election of February and March 1998, and placed Atal Bihari Vajpayee in the Prime Minister's office on 19 March 1998. The telling is accurate in every particular and incomplete in the one particular that matters. The alliance that carried the BJP into government did so on a document, the National Agenda for Governance, that set aside the three commitments around which the party had built its identity: the abrogation of Article 370, the enactment of a Uniform Civil Code, and the construction of a Ram temple at Ayodhya. The founding was therefore two events wearing one name. It was Hindutva's greatest electoral success to that date, and it was Hindutva's tactical retreat, executed deliberately, in writing, before the first vote of confidence was taken. This article defends that double reading against the simpler one.

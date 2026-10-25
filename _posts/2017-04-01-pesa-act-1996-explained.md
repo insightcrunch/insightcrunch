@@ -9,7 +9,7 @@ excerpt: "The PESA Act gives the Gram Sabha in a Scheduled Area powers over land
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2017-04-01
+last_updated: 2026-10-25
 lang: en
 ---
 The PESA Act 1996 is five sections long, and only one of them does any real work. Yet that one section quietly relocates the seat of government for a large part of rural India. In the Scheduled Areas to which the Act applies, the law does not merely permit the village assembly to meet and discuss. It makes the Gram Sabha the body that approves development plans before they are implemented, the body that selects the beneficiaries of welfare programmes, the body that must be consulted before land is taken, and the body whose recommendation must be obtained before a minor mineral concession is granted. No other local institution in the country holds a comparable bundle of authority, and the bundle was created not by a constitutional amendment but by an ordinary statute passed under a power the Constitution had left dormant.

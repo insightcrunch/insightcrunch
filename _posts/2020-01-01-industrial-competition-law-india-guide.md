@@ -9,7 +9,7 @@ excerpt: "Industrial and competition law in India explained: how IDRA licensing 
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2020-01-01
+last_updated: 2026-10-25
 lang: en
 ---
 Industrial and competition law in India is best read as the record of a single reversal. For roughly four decades after Independence, the legal system decided who could produce, where, in what quantity and with whose money, and it made those decisions before production began, through licences, approvals and consents issued by the State. The settlement that replaced it asks a different question. It lets firms enter, invest and combine, and it intervenes afterwards when agreements, dominance or combinations damage competition in a market. India stopped asking permission and started asking effect. That sentence is the organising claim of this guide, and the statutes of the field fall into place once it is grasped: a family of entry-control laws built around the Industries (Development and Regulation) Act, 1951, a mixed experiment in the Monopolies and Restrictive Trade Practices Act, 1969, a conduct-control law in the Competition Act, 2002, and a set of facilitation statutes, the Special Economic Zones Act, 2005 and the Micro, Small and Medium Enterprises Development Act, 2006, which classify and benefit firms rather than control them.

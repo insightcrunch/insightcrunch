@@ -9,7 +9,7 @@ excerpt: "The election and the Bangladesh war were one political event sequence:
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2019-04-12
+last_updated: 2026-10-25
 lang: en
 ---
 The 1971 election and the Bangladesh war are usually shelved in separate histories, one under electoral politics and the other under foreign policy, as if the year had produced two unrelated triumphs for Indira Gandhi by coincidence. The Election Commission of India counted the first triumph in its Statistical Report on the General Elections to the Fifth Lok Sabha, published in 1972: 352 seats out of 518 for the Congress (R), a majority no Indian leader had assembled since independence. The second triumph was recorded in the instrument of surrender signed at Dhaka on 16 December 1971, when Lieutenant General A. A. K. Niazi laid down the Pakistani Eastern Command's arms before Lieutenant General Jagjit Singh Aurora. This article defends a single claim about the space between those two documents: 1971 was one political event sequence, in which the mandate enabled the war, the war legitimised a centralisation of constitutional authority, and the Allahabad High Court judgment of 12 June 1975 tested whether the sequence's product could survive judicial scrutiny of the mandate itself.

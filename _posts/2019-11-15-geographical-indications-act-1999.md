@@ -9,7 +9,7 @@ excerpt: "Geographical indication law explained: a collective right that nobody 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2019-11-15
+last_updated: 2026-10-25
 lang: en
 ---
 Every other right in the intellectual property family has an owner who can point to the right, price it, license it and sell it. A geographical indication under the Geographical Indications Act 1999 has none of those things. The registered proprietor of the Darjeeling indication, the Tea Board of India, does not grow a single bush of the tea the registration protects. The weavers, growers and distillers whose work gives a registered name its value hold no right at all merely by being producers in the right place: their names must appear in a second register, the register of authorised users, before the statute gives them anything. And the indication itself cannot be assigned, licensed, pledged or mortgaged by anyone, because Parliament designed it as a collective right anchored to a territory rather than as an asset anchored to a balance sheet.

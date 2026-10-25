@@ -9,7 +9,7 @@ excerpt: "The Nehruvian decades were not a coherent settlement but a fragile equ
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 78
 author: "david-thornton"
-last_updated: 2019-01-25
+last_updated: 2026-10-25
 lang: en
 ---
 Every account of the Nehruvian era begins with an inventory, and the inventory is genuinely formidable. Between 15 August 1947 and 27 May 1964, the government Jawaharlal Nehru led held three general elections under universal adult franchise, carried the Constitution of 26 January 1950 into daily operation, redrew the internal map of the republic on linguistic lines, built a planned economy around public sector steel, power and heavy machinery, kept India out of both Cold War alliance systems, and preserved a parliamentary order in a subcontinent where Pakistan, Burma and Ceylon each moved toward military or authoritarian interruption. Any political history that treats those seventeen years as a mere preface to later drama fails the record. The harder question, and the one this article exists to answer, is what kind of thing the Nehruvian settlement was. Was it a coherent design, executed by a state that knew its own purposes, whose later troubles arrived from outside it? Or was it an equilibrium that held only while one man's authority and one party's organisation could absorb pressures the design itself kept generating?

@@ -9,7 +9,7 @@ excerpt: "Directive Principles were a deliberately ambiguous mechanism that left
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 71
 author: "kevin-reeves"
-last_updated: 2018-12-23
+last_updated: 2026-10-25
 lang: en
 ---
 Most readers first meet this subject as an examination query, directive principles vs fundamental rights, and most textbooks answer it with a tidy comparison table. Part Three of the Constitution holds the Fundamental Rights, the table says; Part Four holds the Directive Principles of State Policy. The rights are justiciable, the principles are not. The rights bind, the principles guide. Every cell of that table is accurate, and the table as a whole is a trap, because it presents as settled doctrine a relationship that the founders of the Constitution deliberately left unsettled. The Directive Principles were not aspirational guidance subordinate to Fundamental Rights; they were the unresolved half of a deliberate constitutional ambiguity, and the proof is the seventy years of litigation that the ambiguity made necessary.

@@ -9,7 +9,7 @@ excerpt: "COVID-19 governance in India met its stress test in the March lockdown
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2019-08-27
+last_updated: 2026-10-25
 lang: en
 ---
 COVID-19 governance in India in 2020 began, as a national event, with a voice on television. At 8 PM on 24 March 2020, Prime Minister Narendra Modi addressed the country and announced that from midnight that night, four hours later, the whole of India would enter a complete lockdown for twenty-one days. The Prime Minister's Office press statement of the same evening recorded the formulation Modi used on air: apart from distancing between persons, he said, there was no way to defeat the coronavirus, and negligence could push the country back by decades. Within hours, state police forces were enforcing emptied streets across a country of roughly 1.38 billion people, passenger trains stood suspended for the first time in the history of Indian Railways, and the largest single act of executive governance in independent India's history had begun on four hours of notice. What followed across the next two years, the migrant crisis of the spring of 2020, the Disaster Management Act's federal machinery, the second wave of April and May 2021, and a vaccination drive that administered two billion doses by July 2022, constitutes the most demanding stress test the post-2014 governance architecture has faced. The record supports one integrated reading: the architecture excelled at announcement and demonstration, failed at distributed operations, and learned under duress.

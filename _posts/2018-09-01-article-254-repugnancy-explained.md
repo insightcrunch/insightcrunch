@@ -9,7 +9,7 @@ excerpt: "Article 254 decides when a state law yields to a central law on a Conc
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 80
 author: "kavita-sharma"
-last_updated: 2018-09-01
+last_updated: 2026-10-25
 lang: en
 ---
 Article 254 of the Constitution answers a question that Indian federalism cannot avoid: when Parliament and a State Legislature have both legislated on a subject they share, and the two laws cannot be obeyed together, which one gives way? The short answer is that the central law prevails and the state law is void to the extent of the conflict. The complete answer is more interesting, because the same article contains the one route by which a state law can defeat an earlier central law inside its own territory, and then, in a proviso that most accounts omit, reserves to Parliament the power to take that victory back whenever it chooses. A reader who knows only the short answer understands Indian federalism as a hierarchy. A reader who knows the whole article understands it as a negotiation conducted under a standing central veto.

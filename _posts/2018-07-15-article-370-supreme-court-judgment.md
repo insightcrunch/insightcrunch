@@ -9,7 +9,7 @@ excerpt: "The Article 370 Supreme Court judgment upheld the end of the special s
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 82
 author: "nathan-cole"
-last_updated: 2018-07-15
+last_updated: 2026-10-25
 lang: en
 ---
 On 11 December 2023 a Constitution Bench of five judges of the Supreme Court delivered judgment in In Re: Article 370 of the Constitution, reported at [2023] 16 SCR 1 and cited as 2023 INSC 1058. The Article 370 Supreme Court judgment answered a question the constitutional text had carried unanswered for over seven decades: whether the provision that had governed the relationship between India and the State of Jammu and Kashmir since 1950 could be brought to an end by the very mechanism the provision itself supplied, and whether the manner of its ending in August 2019 survived scrutiny. The Bench was unanimous in result. It produced three opinions, one for the majority of the Bench and two separate concurrences, and it decided some questions with great precision while expressly declining to decide two others.

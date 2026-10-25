@@ -9,7 +9,7 @@ excerpt: "Electoral bonds judgment explained: the two constitutional grounds on 
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 81
 author: "kavita-sharma"
-last_updated: 2018-03-01
+last_updated: 2026-10-25
 lang: en
 ---
 On 15 February 2024, a Constitution Bench of the Supreme Court of India held that a voter cannot be asked to choose a government in ignorance of who pays for the parties asking for that vote. The electoral bonds judgment, delivered in Association for Democratic Reforms v Union of India and reported at (2024) 5 SCC 1, struck down the Electoral Bond Scheme of 2018 and the statutory amendments that had been built around it, and it did so on two distinct constitutional grounds that are routinely merged in summary accounts. The disclosure provisions fell under the freedom of speech and expression, because the Court held that information about the funding of political parties is essential to the effective exercise of the franchise. The removal of the ceiling on corporate contributions fell under the guarantee of equality, because the Court held that treating a company's political contribution as the equivalent of an individual's is manifestly arbitrary. The distinction matters beyond this scheme. A legislature that designs a replacement funding mechanism with complete transparency could still fail the second holding, because the equality objection is not about secrecy at all. It is about the legal character of corporate money in an election.

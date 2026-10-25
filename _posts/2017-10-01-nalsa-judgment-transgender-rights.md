@@ -9,7 +9,7 @@ excerpt: "The NALSA judgment recognised a third gender, upheld self-identified g
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 81
 author: "alex-cunningham"
-last_updated: 2017-10-01
+last_updated: 2026-10-25
 lang: en
 ---
 The NALSA judgment, delivered by the Supreme Court of India on 15 April 2014, answered a question that no Indian statute had ever squarely faced: what is a person's gender in law when the gender they know themselves to be is not the sex recorded against them at birth? The question sounds simple, and for most legal purposes the legal system had never needed to ask it, because the system was built on an assumption it treated as a fact of nature, that every person is either male or female and that the record made at birth settles the matter for life. The petitioners before the Court, the National Legal Services Authority and, alongside it, a petition filed on behalf of members of the community itself, said the assumption was the injury. A person whose documents contradict their identity is not merely embarrassed by the mismatch. Every form that offers two boxes and no third, every recruitment notice that calls only for men and women, every hospital ward organised on the binary, converts the mismatch into exclusion from education, employment, health care and public space. The legal question was therefore never really whether gender identity exists. It was whether the Constitution permits the state to refuse to see it.

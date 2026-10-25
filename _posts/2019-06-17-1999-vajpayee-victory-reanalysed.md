@@ -9,7 +9,7 @@ excerpt: "The Vajpayee victory was substantively a Congress collapse, not BJP st
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2019-06-17
+last_updated: 2026-10-25
 lang: en
 ---
 The 1999 Vajpayee victory is usually narrated as the moment the Bharatiya Janata Party came of age: a National Democratic Alliance total of 303 Lok Sabha seats, a government sworn in on 13 October 1999, and a prime minister who carried his administration to the end of its effective term. That narration is accurate as chronicle and wrong as analysis. Read against the Election Commission of India's statistical report on the 1999 general election, the verdict demonstrates something narrower and more consequential. The BJP won exactly the 182 seats it had won in 1998, on a smaller share of the vote, and the expansion in the alliance total came from partners the party had acquired rather than from electors it had converted. What collapsed in 1999 was the Indian National Congress, which fell to 114 seats, the lowest count the party had recorded since independence. The victory was substantively a Congress collapse, and the failure to read it that way, by the victors above all, set up the strategic miscalculation that ended in the India Shining campaign and the shock verdict of 2004.

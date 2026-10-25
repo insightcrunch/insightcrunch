@@ -9,7 +9,7 @@ excerpt: "National Defense Education Act passed loans, fellowships, and language
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 108
 author: "patrick-dunn"
-last_updated: "2017-02-15"
+last_updated: 2026-10-25
 lang: en
 ---
 The National Defense Education Act of 1958 was the first substantial federal aid to American education since the veterans' benefits of the 1940s, and it passed only because Congress declined to call it school aid. For a decade, general aid bills had died on three questions that no majority could answer: race, religion, and federal control. The Soviet launch of Sputnik on October 4, 1957, changed the question. Framed as an emergency defense measure, the bill moved through the 85th Congress in under eleven months. President Eisenhower signed it on September 2, 1958, five weeks after he signed the [companion statute that created the civilian space agency](/2017/02/01/national-aeronautics-space-act-1958/). Seven years later, Congress would solve the same deadlock from the opposite direction, passing general aid in [the statute that funded the schools directly](/2014/08/01/elementary-secondary-education-act-1965/).

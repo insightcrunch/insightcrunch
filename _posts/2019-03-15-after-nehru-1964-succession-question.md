@@ -9,7 +9,7 @@ excerpt: "Lal Bahadur Shastri's succession was a structural compromise that left
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2019-03-15
+last_updated: 2026-10-25
 lang: en
 ---
 On 27 May 1964, Jawaharlal Nehru died in his sleep at Teen Murti House in New Delhi, and within hours the largest political party in the democratic world had to answer a question it had refused to settle for a decade: who leads after the founder? The Congress Parliamentary Party named Lal Bahadur Shastri as Nehru's successor on 2 June 1964, and Shastri took the oath as Prime Minister on 9 June 1964, in a transfer of power so orderly that textbooks still present it as proof of the Congress System's maturity. That celebration misses the structure of what happened. The five organisational bosses who managed the transfer, the group political India learned to call the syndicate, did not resolve the leadership question in 1964. They postponed it, choosing the man each faction could accept rather than the leader any faction would have picked alone. When Shastri died at Tashkent on 11 January 1966, the syndicate reached for the same instrument a second time and chose Indira Gandhi on the same assumption of pliability. The syndicate's arithmetic was wrong twice, and the second error carried a price the first had concealed: the Congress split of 1969, which ended the organisational order the syndicate existed to protect.

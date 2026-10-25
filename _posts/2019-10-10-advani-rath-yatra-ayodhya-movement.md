@@ -9,7 +9,7 @@ excerpt: "Advani's September-October Rath Yatra operationalised Ayodhya as Hindu
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2019-10-10
+last_updated: 2026-10-25
 lang: en
 ---
 On 25 September 1990, at Somnath on the Gujarat coast, L.K. Advani, president of the Bharatiya Janata Party, climbed onto a converted Toyota van rebuilt to resemble a temple chariot and set out on the Ram Rath Yatra, a road journey planned at 10,000 kilometres whose destination was Ayodhya in Uttar Pradesh. The Vishwa Hindu Parishad, the VHP, had announced that on 30 October 1990 its volunteers, the kar sevaks, would begin kar seva, voluntary construction service, at the site in Ayodhya that Hindus revere as the birthplace of Ram and that the Babri Masjid, a mosque raised in 1528 on the orders of the Mughal emperor Babur's commander Mir Baqi, then occupied. The Yatra never reached Ayodhya. On 23 October 1990 the Bihar government of Lalu Prasad Yadav arrested Advani at Samastipur, and the BJP withdrew its outside support from the National Front government of V.P. Singh on the same day; that government lost its confidence vote in the Lok Sabha on 7 November 1990. The political consequences are the familiar part of the story. The institutional consequence is the part that matters, and it is the claim this article defends: the Rath Yatra operationalised Ayodhya as Hindutva's first mass-mobilisation vehicle, breaking the cadre-only architecture through which the Rashtriya Swayamsevak Sangh, the RSS, had organised the movement since 1925, and the cadre-plus-mass architecture built in those weeks became the durable institutional configuration of Hindutva politics.

@@ -9,7 +9,7 @@ excerpt: "The Hindi-Hindutva-Hindostan triad poses the substantive cultural ques
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 71
 author: "gregory-marsh"
-last_updated: 2019-08-22
+last_updated: 2026-10-25
 lang: en
 ---
 Three words dominate the argument about culture in the Modi era, and they sound like one word spoken three times. Hindi names a language. Hindutva names a doctrine of cultural and religious identity first defined in print by Vinayak Damodar Savarkar in 1923. Hindostan names a land, the territory between the Indus and the seas, imagined as the home of a civilisation. The Hindi Hindutva Hindostan triad is the organising formula of the Modi era's politics of culture, and the triad poses a question that none of its three terms poses alone: whether a language commitment, an identity commitment and a territorial commitment can be fused into a single account of what India is, and what a state that attempts the fusion does to the settlements it inherited in 1947, 1950 and 1956. This article defends the integrated-triad reading of that question. The claim is namable: the Hindi-Hindutva-Hindostan triad poses the substantive cultural question the Modi era forces, and the integrated triad captures what fragmented language, religion or territory framings cannot.

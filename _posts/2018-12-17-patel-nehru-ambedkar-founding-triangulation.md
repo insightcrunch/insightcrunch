@@ -9,7 +9,7 @@ excerpt: "Patel, Nehru and Ambedkar were three irreducible founding positions in
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2018-12-17
+last_updated: 2026-10-25
 lang: en
 ---
 Patel Nehru Ambedkar: the three names are usually recited as a ceremonial list, three portraits on a wall, three statues in three squares. Read against the record of the Constituent Assembly and the correspondence of the founding years, the names describe something harder and more interesting. Sardar Vallabhbhai Patel, Jawaharlal Nehru and B. R. Ambedkar were three irreducible founding positions, distinct answers to the questions of who belongs, who governs and what the new state owed its most excluded people. The Constitution of India was produced by triangulation, not by collaboration; the three founders agreed on procedures and disagreed on substance, and the text they delivered carries the marks of both facts in almost every Part.

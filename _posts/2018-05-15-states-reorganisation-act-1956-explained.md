@@ -9,7 +9,7 @@ excerpt: "The States Reorganisation Act explained: the commission that refused l
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 80
 author: "anita-das"
-last_updated: 2018-05-15
+last_updated: 2026-10-25
 lang: en
 ---
 The States Reorganisation Act 1956 is usually described as the statute that gave India linguistic states, and the description is wrong in the one way that matters. No government of India ever adopted language as the principle on which the internal map would be drawn. Every official body that examined the question before 1956 advised against doing so, and the commission whose work the Act carried into law said in terms that language could be one consideration among several and the sole consideration under no circumstances. The map that took effect on the first of November 1956 looks linguistic because the claims that could no longer be resisted were linguistic claims, pressed by movements that had made particular boundaries politically unavoidable. The Act is therefore best read not as the application of a principle but as a settlement: a negotiated resting point between a doctrine the state refused to endorse and a set of demands it could no longer refuse, reached by applying four tests of which language was only the second.

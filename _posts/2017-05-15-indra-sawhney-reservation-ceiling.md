@@ -9,7 +9,7 @@ excerpt: "Indra Sawhney and the fifty per cent ceiling explained: the eight hold
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 82
 author: "kavita-sharma"
-last_updated: 2017-05-15
+last_updated: 2026-10-25
 lang: en
 ---
 The judgment in Indra Sawhney v. Union of India is cited in almost every argument about reservation in India, usually as a single sentence: total reservation cannot exceed fifty per cent. That sentence is a fragment of what the nine judges decided on 16 November 1992, and the fragment is the part of the judgment whose authority has since been most heavily contested. The bench answered a set of distinct questions about the equality code of the Constitution, and the answers have had very different fates. One was reversed by constitutional amendment within three years. One was dismantled in two stages by later benches. One survived a direct attack in 2021 and was then held, in 2022, not to bind the very amendment it was invoked against. One, the exclusion of the creamy layer, has never been displaced and has quietly become the most consequential sentence in the case. An account of Indra Sawhney that stops at the ceiling therefore misdescribes the law twice over: it treats the most contested holding as the most secure, and it misses the holdings that govern litigation in the services every working day. This article takes the judgment apart holding by holding, traces each holding to its status after the changes that followed, and states precisely what survives, what was amended away, and what remains open.

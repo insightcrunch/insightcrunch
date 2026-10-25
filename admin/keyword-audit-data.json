@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-21T11:26:56Z",
-  "total_posts": 4679,
-  "flagged_posts": 161,
-  "clean_posts": 4518,
+  "generated": "2026-10-25T11:00:24Z",
+  "total_posts": 4928,
+  "flagged_posts": 163,
+  "clean_posts": 4765,
   "posts": [
     {
       "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
@@ -63,6 +63,40 @@
           "type": "TITLE_KEYWORD_MISSING_FROM_BODY",
           "severity": "critical",
           "detail": "\"windows\" is in the title but never appears in the body",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        }
+      ],
+      "critical_count": 2,
+      "warning_count": 0
+    },
+    {
+      "filename": "2021-01-31-naxalite-maoist-movement-phases.md",
+      "slug": "naxalite-maoist-movement-phases",
+      "url": "/2021/01/31/naxalite-maoist-movement-phases/",
+      "title": "The Naxalite Maoist Movement Phases: From Spark to Decline",
+      "page_title": "The Naxalite Maoist Movement Phases: Naxalbari to Post 2010 Trajectory Reread",
+      "has_page_title": true,
+      "date": "2021-01-31",
+      "word_count": 16445,
+      "issues": [
+        {
+          "keyword": "spark",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"spark\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "spark",
+          "type": "TITLE_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"spark\" is in the title but never appears in the body",
           "in_slug": false,
           "in_title": true,
           "in_page_title": false,
@@ -343,6 +377,30 @@
           "in_title": true,
           "in_page_title": false,
           "body_mentions": 9
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 0
+    },
+    {
+      "filename": "2019-11-12-gandhi-reorganisation-congress-1920.md",
+      "slug": "gandhi-reorganisation-congress-1920",
+      "url": "/2019/11/12/gandhi-reorganisation-congress-1920/",
+      "title": "The Gandhi Reorganisation of the Congress 1920 at Nagpur",
+      "page_title": "Gandhi 1920 Congress Reorganisation: Mass-Membership Architecture Established",
+      "has_page_title": true,
+      "date": "2019-11-12",
+      "word_count": 16383,
+      "issues": [
+        {
+          "keyword": "nagpur",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"nagpur\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 131
         }
       ],
       "critical_count": 1,

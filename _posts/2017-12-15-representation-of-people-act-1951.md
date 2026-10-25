@@ -9,7 +9,7 @@ excerpt: "The Representation of the People Act explained: who may contest, what 
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 88
 author: "anita-das"
-last_updated: 2017-12-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Representation of the People Act 1951 is the statute that decides who may stand for Parliament and the state legislatures, what conduct forfeits that eligibility, what a candidate must reveal before a single vote is cast, and which acts during a campaign can cost a returned candidate the seat itself. Its companion statute of the previous year built the electorate by providing for electoral rolls, delimitation and the allocation of seats, a division of labour examined in [the pillar on the Representation of the People Act 1950](/2018/01/01/representation-of-people-act-1950/), while the 1951 Act governs the contest: qualifications and disqualifications in Part II, the notification and conduct of elections in the Parts that follow, the registration of political parties, the machinery of the poll, corrupt practices and electoral offences, and the trial of election petitions in Part VI. A reader who finishes this article should be able to answer, with the section in hand, the questions that recur in every election season: what disqualifies a person, what must be disclosed in the nomination affidavit, what counts as a corrupt practice, and what the expenditure ceiling actually covers, which is narrower than almost anyone assumes.

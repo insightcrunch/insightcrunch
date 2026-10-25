@@ -9,7 +9,7 @@ excerpt: "Five lines of decisions built American internet law: Reno, the funding
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 90
 author: "thomas-reid"
-last_updated: "2017-09-15"
+last_updated: 2026-10-25
 lang: en
 ---
 ## The First Amendment Does the Work: The One Test Answer for American Internet Law

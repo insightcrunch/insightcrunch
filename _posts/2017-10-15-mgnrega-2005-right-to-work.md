@@ -9,7 +9,7 @@ excerpt: "MGNREGA explained: how the hundred day employment guarantee works, the
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 87
 author: "anita-das"
-last_updated: 2017-10-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Mahatma Gandhi National Rural Employment Guarantee Act 2005, known everywhere as MGNREGA, rests on a reversal so simple that its consequences are still not fully absorbed by the administrative system built to serve it. Every public works programme before it began with an allocation: a sum of money was sanctioned, a set of works was approved, and employment existed for as long as the sanction and the works lasted. A worker in such a programme holds nothing. The worker waits to be selected, and a season in which no work is opened in the village is a season in which the programme has not failed anyone in particular, because it promised work to no one in particular. The employment guarantee statute begins at the opposite end. It begins with a household that asks. The asking triggers a duty, the duty carries a deadline, and the deadline carries a price for missing it, payable to the very household that was kept waiting. The volume of employment under the Act is therefore meant to be a function of registered demand rather than of budgetary allocation, and that single design choice explains the statute's strength, its administrative difficulty, and the precise point at which it can be defeated without any official ever recording a refusal.

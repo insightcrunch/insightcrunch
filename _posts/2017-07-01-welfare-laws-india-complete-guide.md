@@ -9,7 +9,7 @@ excerpt: "Welfare laws in India explained: which benefits rest on an Act of Parl
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 95
 author: "kavita-sharma"
-last_updated: 2017-07-01
+last_updated: 2026-10-25
 lang: en
 ---
 Indian public discussion uses one word for two different legal things. A rural household that demands work under the employment guarantee, a widow who receives a monthly pension, a child who eats a cooked meal at school, a family whose hospital bill is paid under a health cover programme: all four are described, in official speeches and in ordinary speech alike, as beneficiaries of government schemes. The description conceals the single most important fact about each benefit. Two of those four rest on Acts of Parliament that define the beneficiary, impose a duty on the state, and create machinery through which a denial can be challenged. The other two rest on executive decisions that a government may expand, narrow, rename or discontinue without asking any legislature. Welfare laws in India cannot be understood as one body of law until that distinction is drawn, and almost every practical question in the field, from who qualifies to what a refused applicant can do next, is answered by it.

@@ -9,7 +9,7 @@ excerpt: "State reorganisation in India explained: how Parliament redraws the ma
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 92
 author: "thomas-reid"
-last_updated: 2018-05-01
+last_updated: 2026-10-25
 lang: en
 ---
 State reorganisation in India rests on a single constitutional fact that most public argument about new states never reaches. The political map of the Union is not fixed by the units themselves. Parliament may form a new state out of the territory of an existing one, merge two states into one, enlarge or shrink a state, move its boundaries, or change its name, and it may do all of this by an ordinary law passed by a simple majority of members present and voting. The state whose territory is taken, divided, or renamed must be asked for its views. It cannot refuse. Its legislature's opinion, however strongly expressed, is advice that Parliament is free to set aside, and on the one occasion when a state assembly formally rejected the very Bill that divided it, in January 2014, Parliament proceeded and the division took legal effect five months later.

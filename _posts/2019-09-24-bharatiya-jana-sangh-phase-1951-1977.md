@@ -9,7 +9,7 @@ excerpt: "The Bharatiya Jana Sangh phase tested electoral Hindutva across a quar
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2019-09-24
+last_updated: 2026-10-25
 lang: en
 ---
 The Bharatiya Jana Sangh, founded at Delhi on 21 October 1951, was the first party to carry Hindutva into sustained electoral competition, and the twenty-six years between that founding and the Janata merger of 1977 constitute the first sustained test of whether a cadre-based Hindu nationalist movement could operate inside the democratic-electoral architecture of the Indian republic. The standard treatment of the phase reads it backwards from 1980: the Jana Sangh as the Bharatiya Janata Party's organisational antecedent, a preliminary body whose meaning lies in the successor it prepared. The record of the phase supports a different and stronger claim. The Bharatiya Jana Sangh phase produced four institutional patterns the post-1980 BJP inherited: cadre-electoral organisational separation, regional-base building in the Hindi belt, a coalition-engagement architecture for post-poll alliances, and an ideological-positioning balance between Hindutva commitment and electoral-democratic engagement. The phase was institutional-experimental, not merely preparatory, and the experiment, rather than the electoral arithmetic, is what the successor party needed and took.

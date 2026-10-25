@@ -9,7 +9,7 @@ excerpt: "Slum rehabilitation law in India is a patchwork of State slum statutes
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 88
 author: "thomas-reid"
-last_updated: 2019-02-01
+last_updated: 2026-10-25
 lang: en
 ---
 Slum rehabilitation law in India begins from an uncomfortable fact that every other part of the subject must be read against: no Indian statute confers an enforceable right to housing. A family that has lived for thirty years on land it does not own holds, in strict law, a bundle of procedural protections rather than a title or an entitlement. A competent authority may have to take permission before an eviction suit is filed against it. A municipality may have to serve a notice, hold a hearing and record reasons before a structure is brought down. A redevelopment scheme may promise the family a free tenement, but only if the family can prove residence before a date fixed by an executive decision and only if enough of its neighbours consent to the scheme. The statutes, the schemes and the judgments that make up this field are therefore best understood as a law of process: they regulate how a settlement may be declared, improved, cleared or rebuilt, and what must happen before a person may be removed from it, while stopping short of saying that the person has a right to be housed at all.

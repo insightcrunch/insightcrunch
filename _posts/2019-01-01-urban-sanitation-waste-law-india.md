@@ -9,7 +9,7 @@ excerpt: "Urban sanitation and waste law in India is made of rules framed under 
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2019-01-01
+last_updated: 2026-10-25
 lang: en
 ---
 Urban sanitation and waste law in India begins with an absence. A resident who wants to know which statute obliges the municipality to collect the garbage from the lane, which statute obliges the household to separate it first, and which statute punishes either of them for failing, will search the statute book in vain, because no Parliament has enacted a sanitation Act and no central legislation on solid waste management exists. What exists instead is a body of rules, made by the Union executive under a general environmental protection statute of 1986, laid over a foundation of State municipal law that the rules do not amend and cannot fund. The duties of daily life in this field, who must segregate, who must collect, who must process, who must pay, are found in subordinate legislation, in municipal bye-laws made under State Acts, and in the directions of a tribunal. The statute book is silent at exactly the point where the subject touches every household in the country every day.

@@ -9,7 +9,7 @@ excerpt: "Section 3(d) explained through the Novartis judgment: why a new form o
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 85
 author: "natalie-webb"
-last_updated: 2019-09-15
+last_updated: 2026-10-25
 lang: en
 ---
 Section 3(d) of the Patents Act, 1970 turns on a word the statute does not define. The provision refuses patent status to a new form of a known substance that does not result in the enhancement of the known efficacy of that substance, and everything depends on what efficacy means, who must prove it, and against which substance the comparison runs. For eight years after the provision took its present shape, those questions had no authoritative answer. They received one on 1 April 2013, when a two judge bench of the Supreme Court decided Novartis AG v Union of India, reported at (2013) 6 SCC 1, and held that in the case of a medicine efficacy means therapeutic efficacy, judged strictly and narrowly, and established by research data rather than asserted by counsel.

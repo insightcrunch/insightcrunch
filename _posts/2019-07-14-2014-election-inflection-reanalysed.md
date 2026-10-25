@@ -9,7 +9,7 @@ excerpt: "The election inflection was substantive: the verdict enabled a governa
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2019-07-14
+last_updated: 2026-10-25
 lang: en
 ---
 An election verdict is usually read for what it ends. The 2014 election, the inflection that returned Narendra Modi and the Bharatiya Janata Party with the first single-party Lok Sabha majority since 1984, has been read that way for years, as the closing entry of the coalition era. The reading defended here looks in the opposite direction, at what the verdict made possible. Within twenty months of the counting of votes on 16 May 2014, the new government had rebuilt the machinery through which every later decision would travel: a Prime Minister's Office configured as the coordination centre of the executive, a NITI Aayog installed where the Planning Commission had allocated resources among governments for six decades, a cabinet committee system stripped of the intermediary layers that coalition bargaining had deposited, and a personnel configuration across the secretariat, the regulatory bodies and the constitutional commissions that carried the arrangement into daily administration. Demonetisation in November 2016, the goods and services tax in July 2017 and the Article 370 decisions of August 2019 were policies chosen by a political leadership. Each was also an operation executed through an architecture that the 2014 verdict had enabled and that no coalition-era government possessed. That enablement, rather than the mandate alone, is the substantive consequence of the 2014 inflection.

@@ -9,7 +9,7 @@ excerpt: "Personal vs secular marriage law in India compared across ten dimensio
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 80
 author: "kavita-sharma"
-last_updated: 2017-01-15
+last_updated: 2026-10-25
 lang: en
 ---
 A couple in India who have decided to marry each other have not finished deciding. Indian law offers two different legal machines for becoming married, and the comparison of personal vs secular marriage law in India determines far more than the style of the ceremony. One machine is the personal law of the couple's community, which marries them through a religious or customary rite and then governs the marriage, its dissolution and much of the property that surrounds it. The other is a single secular statute that marries any two adults before a state officer, asks nothing about their religion, and in exchange for that indifference attaches consequences to the form of the wedding that reach into the couple's privacy, their membership of a joint family and the law that will distribute their estates when they die. Most couples choose between these machines by instinct, by family expectation or by necessity, without ever seeing the two side by side. This article puts them side by side.

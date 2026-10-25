@@ -9,7 +9,7 @@ excerpt: "The Seventh Schedule explained: how the Union, State and Concurrent Li
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 74
 author: "kavita-sharma"
-last_updated: 2018-09-15
+last_updated: 2026-10-25
 lang: en
 ---
 Ask a room of well-informed readers whether legislative power in India has drifted towards the Union since 1950 and most will say yes, and most will reach for the same evidence: the Seventh Schedule, whose three lists they assume must have been rewritten to produce the drift. That assumption is the trap this article exists to disarm. Put the lists as enacted in 1950 beside the lists as they stand and the honest first impression is how little has moved. Five subjects changed lists, all in a single amendment in 1976. Yet the impression that power has centralised is not an illusion, and readers who hold it are responding to something real. The resolution of that paradox is the comparison this article performs. The division of power changed profoundly, but it changed around the lists rather than inside them, through mechanisms, fiscal redesign and judicial doctrine that leave the printed schedule looking almost untouched. A comparison that reads only the schedule will therefore acquit the Union of a charge the record sustains, and the first task is to build a comparison that cannot be fooled in that way.

@@ -9,7 +9,7 @@ excerpt: "The Inter-State River Water Disputes Act explained: how a State's comp
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2018-08-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Inter-State River Water Disputes Act 1956 is the statute that decides who gets the water when two Indian States claim the same river. It does something no other Indian statute attempts on this scale: it takes a class of disputes that would ordinarily belong to the courts, removes them from the courts by name, and hands them to a tribunal that exists for one river and one quarrel at a time. The Act, formally the Inter-State River Water Disputes Act, 1956, Act 33 of 1956, was Parliament's answer to a design problem the Constitution had deliberately left open. Article 262 of the Constitution empowers Parliament to build exactly this kind of machinery and then to close the courtroom door behind it. The 1956 Act is what Parliament built, and the door it closed has never stayed shut.

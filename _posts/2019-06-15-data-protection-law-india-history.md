@@ -9,7 +9,7 @@ excerpt: "Data protection law in India arrived after a decade of drafts: a commi
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 83
 author: "deepika-joshi"
-last_updated: 2019-06-15
+last_updated: 2026-10-25
 lang: en
 ---
 India's data protection law is usually argued about as if it began with the statute that carries the name. It did not. For most of the period in which the argument ran, the only operative data protection regime in the country was a set of rules made in 2011 under a compensation provision of the technology statute, written for a narrower problem and never designed to carry the weight that practice loaded onto them. The statute arrived in August 2023, twelve years after those rules, six years after the Supreme Court recognised privacy as a fundamental right, and five years after a committee of experts produced a draft Bill of a very different character from the one that eventually passed. Between the first draft and the Act stand a second draft that reached Parliament, a joint committee that rewrote much of it, a withdrawal on the floor of the House, and a fourth draft that abandoned a large part of the design the process had spent years assembling.

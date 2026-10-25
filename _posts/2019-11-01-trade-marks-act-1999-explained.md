@@ -9,7 +9,7 @@ excerpt: "The Trade Marks Act 1999 explained: what can be registered, the ground
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 92
 author: "deepika-joshi"
-last_updated: 2019-11-01
+last_updated: 2026-10-25
 lang: en
 ---
 Every other right in the intellectual property cluster begins with a grant. A patent exists because the State examined an application and issued one. A design exists because a controller registered it. A geographical indication exists because a registrar entered it on a register. A trade mark is different, and the Trade Marks Act, 1999 (Act 47 of 1999) is written around that difference. The Act builds a register, a procedure and a set of exclusive rights, and then, in a single saving provision, preserves the older common law action that protects a mark the register has never recorded. Registration under the Act is an advantage, sometimes a decisive one. It is not a precondition of protection. That single feature explains the shape of the entire statute: the care it takes over what may enter the register, the two distinct actions it leaves open to a proprietor, and the volume of litigation it generates compared with every neighbouring right.

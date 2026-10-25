@@ -9,7 +9,7 @@ excerpt: "Election petitions decide whether a declared winner keeps the seat. Th
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 88
 author: "deepika-joshi"
-last_updated: 2018-03-15
+last_updated: 2026-10-25
 lang: en
 ---
 The returning officer has declared the result, the certificate has been issued, and the candidate who lost by a narrow margin is convinced that the count was wrong, that money moved through the constituency in the last week of the campaign, or that the winner was never eligible to sit at all. An election petition is the only door through which any of those complaints can be carried, and it is a door with a clock fitted to it. The Representation of the People Act 1951 reserves the challenge of a declared result to a single proceeding, fixes a filing period of forty five days that no court may extend, demands a standard of pleading and proof closer to a criminal trial than to an ordinary civil suit, and then, having done all of that, allows the proceeding to run for years while the member whose title is in question sits, votes and draws the salary of the office. This article follows the remedy from the moment of declaration to the end of the appeal, and then turns to the second half of its subject: what happens to a seat when its holder is convicted of an offence, when a disqualification question is referred for decision, and when the defect lies not in the election but in the member.

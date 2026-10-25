@@ -9,7 +9,7 @@ excerpt: "Election Law in India explained: the constitutional provisions, the tw
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2017-12-01
+last_updated: 2026-10-25
 lang: en
 ---
 Election law in India defeats most readers at the same point, and the point is not ignorance of the rules. A voter whose name has vanished from the roll, a candidate whose nomination paper has been rejected, a party worker who watches money change hands outside a polling station and a legislator accused of crossing the floor are all holding election problems, and each of them instinctively carries the problem to the institution that seems largest and nearest. The instinct is understandable and it is usually wrong. The roll complaint taken to a court fails because the courts are barred from interrupting an election in progress. The nomination complaint taken to the Election Commission after the result fails because the statute reserves that question to an election petition. The defection complaint taken anywhere except the presiding officer of the House fails because the Tenth Schedule gives the decision to that officer alone. Indian election law is not one body of law administered by one powerful commission. It is a field divided among a constitutional commission, two principal statutes, a set of rules and orders made under them, the presiding officers of legislatures, the President and the Governors acting on advice they are bound to take, and the High Courts and the Supreme Court sitting in carefully separated compartments. The reader who can see the division can navigate the field. The reader who cannot will keep knocking on doors that do not open.

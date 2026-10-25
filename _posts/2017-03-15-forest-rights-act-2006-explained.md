@@ -9,7 +9,7 @@ excerpt: "The Forest Rights Act explained: a statute that recognises rights alre
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
 author: "kavita-sharma"
-last_updated: 2017-03-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Forest Rights Act is the most persistently misdescribed statute in Indian environmental law, and the misdescription is in the verb. Commentary says the Act grants land to forest dwellers, gives forests to villages, or distributes pattas as a welfare measure. The Act does none of those things, and its own long title says so: it is an Act to recognise and vest rights that forest dwelling communities held for generations but that were never recorded when the forests around them were consolidated into state forests. Everything distinctive about the statute follows from that single design choice. A government that confers a benefit may attach conditions, set quotas, and withdraw the benefit when policy changes. A government that recognises a pre-existing right is doing something closer to correcting a land record: the enquiry is not whether the claimant deserves the right but whether the right exists. That is why rejection under this Act is not a refusal, why the procedure by which rejections are made carries more legal weight than it would in a benefit scheme, and why the Supreme Court's intervention of February 2019 turned entirely on whether reasons had been recorded and appeals heard, and not at all on whether the claimants were sympathetic.

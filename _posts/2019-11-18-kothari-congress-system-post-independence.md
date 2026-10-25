@@ -9,7 +9,7 @@ excerpt: "Rajni Kothari's Congress System framework read the post-Independence C
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2019-11-18
+last_updated: 2026-10-25
 lang: en
 ---
 Rajni Kothari's Congress System is the most influential framework ever proposed for the politics of independent India, and it remains the most persistently misread. In the popular telling, the phrase survives as a label, a shorthand for the decades when the Indian National Congress won election after election and no rival could displace it from office in New Delhi. In the academic telling, the framework survives as one entry in a catalogue, placed beside the typologies of Giovanni Sartori and the field studies of Myron Weiner, and cited politely before the argument moves elsewhere. Both tellings miss what Kothari actually built. The Congress System, as he stated it in Asian Survey in December 1964 and developed it in Politics in India in 1970, was not a description of who won. It was an account of how a political order worked: a four-component absorptive mechanism, in which single-party dominance, pluralism among the dominant party's own factions, the structural marginality of opposition parties, and the disciplined autonomy of regional leaders operated together so that pressures which would have ruptured other party systems were absorbed inside one. Read that way, the framework also tells us how the order ended. The verdict of 1989 did not gradually weaken the mechanism. It ended each of its four components, and with them the analytical work the framework had performed for a quarter of a century.

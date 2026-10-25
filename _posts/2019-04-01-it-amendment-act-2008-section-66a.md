@@ -9,7 +9,7 @@ excerpt: "The IT Amendment Act 2008 explained: how one amending statute inserted
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 80
 author: "anita-das"
-last_updated: 2019-04-01
+last_updated: 2026-10-25
 lang: en
 ---
 The statute that governs online speech, interception and platform liability in India is routinely called the Information Technology Act, 2000, but most of the provisions that make it controversial are not the work of 2000 at all. They were inserted by a single amending statute, the IT Amendment Act 2008, which rewrote the parent Act so extensively that the modern statute is best understood as a 2008 text carrying a 2000 title. The blocking power, the widened interception power, the conditional immunity of intermediaries, the first corporate data protection obligation in Indian law and nearly the whole of the offences chapter arrived together, in one instrument, passed by Parliament in the last days of December 2008 with almost no debate. This article walks that amendment trail provision by provision: what the parent Act said before, what the amendment put in its place, and what of it survives.

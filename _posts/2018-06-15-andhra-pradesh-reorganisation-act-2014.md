@@ -9,7 +9,7 @@ excerpt: "The Andhra Pradesh Reorganisation Act 2014 created Telangana, made Hyd
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 89
 author: "anita-das"
-last_updated: 2018-06-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Andhra Pradesh Reorganisation Act 2014 is the statute that divided one of India's largest States into two, and it is read most usefully as two documents bound in one cover. The first document is legal: 108 sections in twelve Parts and thirteen Schedules that created the State of Telangana, preserved a residuary State of Andhra Pradesh, divided legislatures, courts, assets, debts, employees, institutions and river waters between them, and imposed a set of dated obligations on the Union Government. The second document is political, and only part of it is in the Act at all: a sequence of assurances by which the division was made acceptable to the region that stood to lose the capital and the larger share of revenue, the most consequential of which, special category status for the successor State of Andhra Pradesh, was announced by the Prime Minister on the floor of the Rajya Sabha and was never written into the statute that the Rajya Sabha was passing.

@@ -9,7 +9,7 @@ excerpt: "Telecom Act market impact, measured: radio consolidated, local phone e
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 86
 author: "natalie-webb"
-last_updated: "2017-10-01"
+last_updated: 2026-10-25
 lang: en
 ---
 ## The Telecommunications Act and the Irony of Its Market Legacy

@@ -9,7 +9,7 @@ excerpt: "Comparative Indian states are differentiated resolutions of the three 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 78
 author: "nathan-cole"
-last_updated: 2019-12-21
+last_updated: 2026-10-25
 lang: en
 ---
 Comparative Indian state politics begins from a puzzle that the map alone cannot solve. One Constitution, one Election Commission, one set of national institutions, and yet the politics of Tamil Nadu, West Bengal, Uttar Pradesh and Kerala resemble one another so little that a voter moving between them crosses into a different political world: different parties, different idioms, different accounts of what a state government owes its people and what New Delhi may demand of it. The argument defended here is that the differences are neither accidents nor local colour. Each Indian state is a differentiated resolution of the same three tensions that run through the republic's politics, the tension between religion and the state, between the federal and the unitary pulls of the Constitution, and between rights and development; and the resolutions can be compared, rigorously, along four dimensions: class composition, language politics, leadership succession and the centre-state relationship.

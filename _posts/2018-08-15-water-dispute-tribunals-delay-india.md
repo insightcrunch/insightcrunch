@@ -9,7 +9,7 @@ excerpt: "Water dispute tribunals work under a five year statutory limit, yet aw
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2018-08-15
+last_updated: 2026-10-25
 lang: en
 ---
 Two statements about water dispute tribunals in India are repeated constantly, and both are true. The first belongs to the Central Government: adjudication under the Inter-State River Water Disputes Act, 1956 is time-bound, because a tribunal must forward its report within three years of its constitution, a period the Centre may extend by two more. The second belongs to the record: disputes referred under that Act have run for decades, and one reference has remained unfinished, in one stage or another, since 1986. The contradiction is apparent rather than real, and it dissolves once the intervals are separated. The statutory clock governs one stretch of a water dispute, the stretch between a tribunal's constitution and its report. The decades accumulate in the stretches on either side of it, before a tribunal exists and after it has reported, where the Act sets no clock at all.

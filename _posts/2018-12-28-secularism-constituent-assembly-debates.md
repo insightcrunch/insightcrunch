@@ -9,7 +9,7 @@ excerpt: "The Constituent Assembly debates produced a layered Indian secularism,
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2018-12-28
+last_updated: 2026-10-25
 lang: en
 ---
 Secularism in the Indian Constitution is usually taught as a single principle with a single adjective attached: the Indian variant, warmer and more accommodating than the Western wall of separation, yet still one idea. The Constituent Assembly Debates of December 1948 tell a different story. Across the sittings of the first week of that month, the members who debated Draft Articles 19 to 22B built three distinct settlements between state and religion and placed them side by side in the constitutional text: a state that establishes no religion and funds none from taxation, a state that respects every religion as a bearer of rights, and a state armed with authority to enter religion and reform it. The three settlements were never harmonised. This article defends a single claim about that record: Indian secularism is not one principle; it is three layers that the founders did not fully harmonise, and the contests that followed have been arguments about which layer governs a dispute, conducted in the vocabulary of secularism as a whole.

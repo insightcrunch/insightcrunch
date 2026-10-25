@@ -9,7 +9,7 @@ excerpt: "The Copyright Act explained: how protection arises on creation, who fi
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2019-10-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Copyright Act 1957 asks almost nothing of a creator at the moment of creation. There is no application to file, no fee to pay, no certificate to obtain and no mark to affix before the right exists. A novel, a photograph, a song, a building plan and a computer programme are protected from the moment they are made, provided they are original, and they stay protected for periods measured in decades. Yet the disputes that reach Indian courts under this statute are rarely about whether a right exists. They are about who holds it, and on that question the Act gives an answer that surprises the party who paid for the work. The author is the first owner. The client who commissioned the work, funded it and built a business around it owns nothing at all unless an exception applies or a signed assignment moves the right across. That single default, sitting in Section 17, does more practical work than the celebrated rights in Section 14, and it is the organising fact of this article.

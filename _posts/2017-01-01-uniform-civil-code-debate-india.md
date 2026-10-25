@@ -9,7 +9,7 @@ excerpt: "The uniform civil code debate turns on what Article 44 requires, what 
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2017-01-01
+last_updated: 2026-10-25
 lang: en
 ---
 ## The uniform civil code debate in India, stated in terms both sides accept

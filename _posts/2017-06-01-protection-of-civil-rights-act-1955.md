@@ -9,7 +9,7 @@ excerpt: "The Protection of Civil Rights Act explained: the offences that enforc
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2017-06-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Protection of Civil Rights Act is the statute that Article 17 of the Constitution ordered into existence, and it is close to a dead letter. The article abolishes untouchability, forbids its practice in any form, and declares that the enforcement of any disability arising out of untouchability shall be an offence punishable in accordance with law. The law it contemplated is this one, enacted in 1955 as the Untouchability (Offences) Act and renamed in 1976. It remains in force. Its offences describe, with uncomfortable precision, the ordinary transactions of Indian life: drawing water, entering a temple, buying goods, hiring a room, sitting in a classroom, taking a hospital bed. Its punishments for those offences are imprisonment measured in months and fines measured in hundreds of rupees, on a scale whose ceilings were set in 1955 and never raised. And in the Ministry of Social Justice and Empowerment's annual report on the working of the Act, the whole of India registered thirteen cases under it in 2022.

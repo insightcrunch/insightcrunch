@@ -9,7 +9,7 @@ excerpt: "The Copyright (Amendment) Act 2012 gave authors a royalty right they c
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
 author: "samantha-lee"
-last_updated: 2019-10-15
+last_updated: 2026-10-25
 lang: en
 ---
 Most amendments adjust a statute at the edges. The Copyright (Amendment) Act 2012 reached into the economics of Indian creativity and rearranged who gets paid, who may copy, and who may transmit. It gave the lyricist and the composer a right to royalties that no contract can take away. It told every broadcasting organisation that it could play published music without negotiating, provided it gave notice and paid a rate fixed by a tribunal. It told organisations serving readers with disabilities that they could convert any work into an accessible format without asking permission. And it wrote India a set of digital rules, on technological locks and on the information embedded in a file, years before India joined the two WIPO internet treaties those rules were modelled on. The parent statute is treated in the article on the [Copyright Act 1957](/2019/10/01/copyright-act-1957-explained/); this article is about the amending Act alone, what it changed and what the changes have done in the years since.

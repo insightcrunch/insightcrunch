@@ -9,7 +9,7 @@ excerpt: "The RERA Act explained in full: which projects must register, how the 
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 92
 author: "deepika-joshi"
-last_updated: 2018-12-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Real Estate (Regulation and Development) Act, 2016, the statute the whole country calls the RERA Act 2016, is usually introduced as a homebuyers' charter, and the description is not wrong so much as it is aimed at the wrong provision. The rights the Act gives an allottee, to information, to a written agreement before serious money changes hands, to interest when possession is late, to a refund when the delay becomes intolerable, mostly existed already in contract, in consumer law, or in the equity a court could have done between the parties. What did not exist anywhere was a rule about the money itself. Before this Act, a promoter could collect the price of flats in one project, spend the collection on land for the next project, and finance a third with the deposits of buyers in the second, and no statute said him nay until the chain broke and the buyers of the first project discovered that their building was the collateral for someone else's ambition. The provision that changed the industry is therefore not a right at all. It is an accounting rule: seventy per cent of everything realised from the allottees of a project must sit in a separate account in a scheduled bank, usable only for that project's land and construction cost, and releasable only against certified progress. This article explains the Act as the machine built around that rule, because the machine is the meaning of the statute.

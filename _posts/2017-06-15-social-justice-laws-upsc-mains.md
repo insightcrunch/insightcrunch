@@ -9,7 +9,7 @@ excerpt: "Social justice laws for UPSC Mains Paper Two, organised for the examin
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 81
 author: "deepika-joshi"
-last_updated: 2017-06-15
+last_updated: 2026-10-25
 lang: en
 ---
 Social justice laws for UPSC Mains Paper Two frighten candidates out of proportion to their difficulty, and the fear itself is the first thing to correct. The marks in this area do not sit in the candidate's opinion about reservation, untouchability or tribal land. They sit in a small, stable set of constitutional provisions, six statutes, three commissions and a dozen judgments, and in one skill that can be practised like any other: separating the constitutional question a paper is asking from the judicial question it is also asking and from the empirical question it is quietly asking underneath both. A candidate who answers those three questions as one produces an editorial. A candidate who separates them produces an analysis, and the difference between the two is the difference the marking rewards.

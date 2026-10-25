@@ -9,7 +9,7 @@ excerpt: "The Transgender Persons Act 2019 explained: the certificate of identit
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2017-09-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Transgender Persons Act 2019 contains, within a few pages of each other, two statements that cannot both be given full effect. Section 4 declares that a person recognised as transgender shall have a right to self-perceived gender identity. Section 7 then provides that the gender recorded against that person's name in official documents may be changed to male or female only after the person has undergone surgery and produced a certificate from the medical institution where the surgery was performed. The first statement locates the authority over a person's gender in the person. The second locates a decisive part of that authority in a hospital and a district office. Almost everything that has been said for and against this statute, in Parliament, in the press, in the petitions pending before the Supreme Court, and in the protests that met the Bill on the day it passed the Lok Sabha, is an argument about which of those two statements is the real one.

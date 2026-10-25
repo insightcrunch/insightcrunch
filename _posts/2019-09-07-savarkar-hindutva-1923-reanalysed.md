@@ -9,7 +9,7 @@ excerpt: "Savarkar's Hindutva defined Hindu identity through territorial, ancest
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2019-09-07
+last_updated: 2026-10-25
 lang: en
 ---
 Savarkar's Hindutva of 1923 is the most argued-over short book in Indian political thought, and much of the argument proceeds without agreement on what the book says. The pamphlet that V.D. Savarkar composed in a Ratnagiri prison cell and published in 1923 under the borrowed name A Maratha ran to eighty-eight pages, and those pages contain a definition before they contain a programme. That order matters. This article defends a namable claim: Savarkar's 1923 framework was territorial, ancestral and civilisational rather than theological; it sorted human beings by land, lineage and the geography of sacred memory, and it deliberately refused to sort them by belief. The conceptual-architectural reading, which attends to how the definition is built, is analytically prior to the political-ideological reading, which attends to what later actors did with it. Only the architectural reading makes the rest of the record intelligible: the author's atheism, his assault on caste prohibitions in the Ratnagiri years, his contempt for scriptural literalism, and his insistence that a Charvaka materialist and a temple priest could stand inside the same identity. Those commitments puzzle readers who meet the text through its political afterlife. They follow with mechanical consistency from the definition's design.

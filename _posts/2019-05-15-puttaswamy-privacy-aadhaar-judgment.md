@@ -9,7 +9,7 @@ excerpt: "The Puttaswamy judgment on privacy and the Aadhaar verdict explained: 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 81
 author: "deepika-joshi"
-last_updated: 2019-05-15
+last_updated: 2026-10-25
 lang: en
 ---
 Two Supreme Court judgments carry the name Puttaswamy, and public discussion merges them so regularly that the merger has become the first obstacle to understanding either. The judgment of 24 August 2017 was delivered by a bench of nine judges who were asked one question: whether the Constitution protects a fundamental right to privacy at all. The judgment of 26 September 2018 was delivered by a bench of five judges who were asked a different question: whether one statute, the Aadhaar Act, survived the standard the nine judges had laid down. The first decision recognised a right and stated the test by which invasions of it are to be judged. The second applied that test to a biometric identity programme and upheld most of it, striking down or reading down the parts that failed. A reader who cannot say which decision did which of these things will misread every commentary that cites the pair, because the 2017 decision decided no question about Aadhaar and the 2018 decision recognised no new right.

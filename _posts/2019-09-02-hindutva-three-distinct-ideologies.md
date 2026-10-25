@@ -9,7 +9,7 @@ excerpt: "Hindutva names three distinct ideologies sharing one word: Savarkar's 
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 79
 author: "gregory-marsh"
-last_updated: 2019-09-02
+last_updated: 2026-10-25
 lang: en
 ---
 Few words in Indian politics carry more weight with less agreement about their contents than Hindutva. A pamphlet smuggled out of a Ratnagiri prison in May 1923, a treatise published at Nagpur in 1939, a body of speeches gathered into a book in 1966 and a party resolution adopted at Palampur in June 1989 all speak in its name, and governments have risen and fallen under its banner. Yet the word's long career conceals a fracture that polite summary prefers to ignore. The doctrine Vinayak Damodar Savarkar defined in 1923, the doctrine Madhav Sadashiv Golwalkar taught between 1939 and 1966, and the doctrine the Bharatiya Janata Party has carried into elections since the 1980s are not one ideology at three ages. They are three distinct ideologies that share a name, differ in their tests of belonging, their vehicles and their political logic, and cannot be understood, praised or criticised as a single thing. This article states the case for reading them apart, tests the strongest case for reading them together, and defends the disentanglement as the precondition for serious argument about any of the three.

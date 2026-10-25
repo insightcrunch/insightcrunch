@@ -9,7 +9,7 @@ excerpt: "Tamil Nadu's DMK-AIADMK bipolar system has operated stably for over fi
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2019-12-26
+last_updated: 2026-10-25
 lang: en
 ---
 Tamil Nadu politics presents a puzzle that no other large Indian state reproduces. Since the Dravida Munnetra Kazhagam won the Madras assembly election of 1967, every government the state has known has been led by the DMK or by its offshoot, the All India Anna Dravida Munnetra Kazhagam, and every assembly contest has been a fight between two fronts that one of these two parties heads. The Indian National Congress, which governed the state for the first twenty years after independence, has not headed a Tamil Nadu government since 1967. The Bharatiya Janata Party, the dominant party of Indian national politics after 2014, won a single Tamil Nadu Lok Sabha seat on its own symbol in 2014, at Kanyakumari, and won none in 2019 or 2024. Party systems elsewhere in India have fragmented, fused, realigned and collapsed within a single decade. This one has held its shape for fifty-seven years.

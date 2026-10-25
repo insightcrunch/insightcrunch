@@ -9,7 +9,7 @@ excerpt: "The Patents Act 1970 explained: the Section 3 exclusions, the two oppo
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 94
 author: "samantha-lee"
-last_updated: 2019-08-15
+last_updated: 2026-10-25
 lang: en
 ---
 Every patent system in the world asks an applicant three questions: is it new, does it involve an inventive step, and can it be applied in industry. The Patents Act 1970 asks those questions too, but it asks a fourth one first, and the fourth question is the one that gives Indian patent law its character. Before novelty is examined and before inventiveness is argued, the Indian statute asks whether the thing presented is the kind of thing the law is prepared to call an invention at all. A whole list of subject matter, set out in Section 3 of the Act, is declared not to be inventions, however new it may be and however cleverly it may have been arrived at. A new form of a known medicine that adds nothing to its efficacy, a scheme for doing business, a method of treating the human body, a plant variety, a computer programme standing alone: each of these can be ingenious, each can be commercially valuable, and each fails at the threshold because Parliament decided in advance that no monopoly would be granted over it. India, in short, patents by exclusion. The grants are conventional. The refusals are the policy.

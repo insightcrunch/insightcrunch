@@ -9,7 +9,7 @@ excerpt: "The Indo-US nuclear deal was a domestic-political event that took fore
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
 author: "michael-brooks"
-last_updated: 2019-06-28
+last_updated: 2026-10-25
 lang: en
 ---
 The 2008 Indo-US nuclear deal is usually told as a diplomatic achievement that Indian party politics almost destroyed, yet the sequence of July 2008 reads more exactly in reverse: a domestic coalition bargain reached the limit written into it in May 2004, and foreign policy supplied the occasion on which that limit became visible. The Left Front withdrew its outside support from the United Progressive Alliance on 9 July 2008, the government of Manmohan Singh survived the confidence vote of 22 July 2008 by 275 votes to 256, and the agreement with the United States proceeded through the International Atomic Energy Agency and the Nuclear Suppliers Group to signature on 10 October 2008. Every element of that sequence was contained, in embryo, in the National Common Minimum Programme of May 2004, whose foreign policy section promised principles and procedures while its domestic chapters promised programmes, targets and institutions. The deal fell into the gap between those two kinds of promise.

@@ -9,7 +9,7 @@ excerpt: "Triple Talaq Act explained: how the Muslim Women (Protection of Rights
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2016-12-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Triple Talaq Act rests on a design that no other Indian family statute shares. The Muslim Women (Protection of Rights on Marriage) Act, 2019 declares that a husband's pronouncement of instant triple talaq is void and illegal, which means it changes nothing: the marriage it purports to end continues in law exactly as it stood the moment before the words were spoken. The same statute then makes the speaking of those words a criminal offence punishable with imprisonment for up to three years and a fine. A single short Act, eight sections in all, therefore does two things that pull in opposite directions. It denies the pronouncement every legal consequence a divorce is supposed to have, and it attaches to that legally empty act the most serious consequence the state can attach to any act, the loss of the speaker's liberty.

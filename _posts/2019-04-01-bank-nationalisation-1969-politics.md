@@ -9,7 +9,7 @@ excerpt: "Bank nationalisation was a political consolidation against the syndica
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "simon-hartley"
-last_updated: 2019-04-01
+last_updated: 2026-10-25
 lang: en
 ---
 On 19 July 1969, a Saturday, the acting President of India, V.V. Giri, signed an ordinance that transferred the undertakings of the fourteen largest Indian-owned commercial banks to the state before the weekend ended. Bank nationalisation 1969 entered Indian political vocabulary in that single act, and the standard accounts treat the event as economic policy: a reform of credit allocation announced by a Prime Minister committed to a socialist programme. The chronology of May, June and July 1969 supports a different and prior reading. The ordinance landed less than two weeks after the Bangalore session of the Congress Working Committee had named Neelam Sanjiva Reddy as the party's presidential candidate on 12 July 1969, against the known preference of Prime Minister Indira Gandhi. It landed less than a month before the presidential poll of 16 August 1969, in which Indira Gandhi would defy her own party's candidate. Between those two dates, the takeover of the banks did political work that no other available instrument could do at that speed. This article defends one claim and tests it against the record: bank nationalisation was the second move in Indira Gandhi's coordinated campaign against the syndicate, the group of senior Congress leaders who controlled the party organisation, and its economic function as state-directed credit allocation, though real and durable, was secondary to that political function.

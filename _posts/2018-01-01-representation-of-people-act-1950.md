@@ -9,7 +9,7 @@ excerpt: "The Representation of the People Act explained: who may register, what
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2018-01-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Representation of the People Act, 1950 decides a question that sounds administrative and is in fact constitutional in its consequences: whose name stands on the electoral roll of a constituency, and whose does not. Every other part of Indian election law, the nominations, the campaign, the polling, the counting and the disputes, operates on a population of voters that this Act has already defined. A citizen who satisfies every condition the Constitution sets for the franchise and whose name is missing from the roll on polling day has, for that election, no vote at all. A name wrongly present on the roll carries a vote that the law never granted. The Act is therefore best read not as a register-keeping statute but as the working definition of the Indian electorate, written in the form of conditions, officers and procedures.

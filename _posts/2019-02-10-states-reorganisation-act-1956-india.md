@@ -9,7 +9,7 @@ excerpt: "The States Reorganisation Act worked because it was deliberately incom
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "christopher-wells"
-last_updated: 2019-02-10
+last_updated: 2026-10-25
 lang: en
 ---
 The States Reorganisation Act, 1956, Act 37 of 1956, received the President's assent on 31 August 1956 and redrew the internal map of India from the appointed day, 1 November 1956. It is routinely described as the moment the linguistic principle triumphed: fourteen states and six union territories replaced the patchwork of Part A, Part B, Part C and Part D units inherited from the founding. That description is accurate as a list and misleading as an explanation. The claim defended here is sharper. The 1956 reorganisation worked because it was deliberately incomplete; the deferred cases (Punjab 1966, Bombay 1960, Northeast 1963 to 1972) were the price of implementability. Jawaharlal Nehru's government enacted the portion of the linguistic map that could be carried through Parliament and administered from 1 November 1956, and it consciously left outside the statute the three regional questions whose simultaneous settlement would have made the whole scheme ungovernable. Read through its enacted clauses alone, the Act looks like a principle fulfilled. Read through its silences, the Act is a piece of political engineering whose omissions were load-bearing.

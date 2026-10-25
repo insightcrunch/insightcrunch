@@ -9,7 +9,7 @@ excerpt: "FOSTA-SESTA added the only exception ever made to Section 230 immunity
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 82
 author: "kevin-reeves"
-last_updated: "2017-11-01"
+last_updated: 2026-10-25
 lang: en
 ---
 FOSTA-SESTA, signed as Public Law 115-164 in April 2018, stands as the only substantive narrowing of Section 230 platform immunity that Congress has ever enacted. The statute's nickname is longer than its operative text is broad: it adds a three-part exception to the immunity at 47 U.S.C. 230(e)(5), covering federal civil trafficking claims, state criminal trafficking charges, and state criminal charges under a brand-new federal offense, and it creates that offense at 18 U.S.C. 2421A, aimed at operators who run online services with the intent to promote or facilitate prostitution. Everything else about the immunity survives untouched: the republication shield for every other category of claim, and the good-faith moderation shield, both remain. That is the One Test answer in brief. A reader who finishes this article can explain the only substantive narrowing of platform immunity ever enacted, describe exactly which claims it exposes platforms to, and confront the two facts that dominate every serious assessment of it.

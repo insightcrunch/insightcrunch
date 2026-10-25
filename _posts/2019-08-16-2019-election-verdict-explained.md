@@ -9,7 +9,7 @@ excerpt: "The election verdict was confirmation of the personal authority that t
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2019-08-16
+last_updated: 2026-10-25
 lang: en
 ---
 The 2019 Indian general election results, declared on 23 May 2019 after seven phases of polling held between 11 April and 19 May 2019, returned the Bharatiya Janata Party to office with 303 Lok Sabha seats on 37.36 percent of the national vote, a larger mandate than the 282 seats and 31.00 percent with which the party had displaced the Congress-led alliance in 2014. Read as an election result, the verdict was emphatic. Read as a structural event, the verdict was something more precise: confirmation that the political architecture created in 2014 rested on foundations able to absorb five years of accumulated economic and political costs, and that the coalition era interrupted in 2014 stood closed at the level of structure rather than suspended at the level of arithmetic.

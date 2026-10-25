@@ -9,7 +9,7 @@ excerpt: "The Digital Millennium Copyright Act is two laws in one: teeth for dig
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 91
 author: "samantha-lee"
-last_updated: "2017-08-01"
+last_updated: 2026-10-25
 lang: en
 ---
 On October 28, 1998, President Bill Clinton signed Public Law 105-304, the Digital Millennium Copyright Act, a single statute that reads like two different laws because it was written as the settlement of two different fights. One fight was about locks. Copyright owners wanted the force of law behind the technological measures guarding digital works, so that defeating a lock would itself be a legal wrong rather than merely a step toward infringement. The other fight was about shelter. The companies carrying traffic and hosting user material on the early commercial internet wanted protection from crushing liability for infringements committed by their subscribers. Title I gave the first fight to the owners, writing anticircumvention rules into 17 U.S.C. 1201 through 1205. Title II gave the second fight to the intermediaries, writing conditional liability limits into 17 U.S.C. 512. Each side accepted the other's title as the price of its own, which is why the statute carries the divided personality it has carried ever since.

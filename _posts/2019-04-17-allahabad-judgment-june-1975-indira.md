@@ -9,7 +9,7 @@ excerpt: "The Allahabad judgment was the culmination of a constitutional collisi
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2019-04-17
+last_updated: 2026-10-25
 lang: en
 ---
 The Allahabad judgment of 12 June 1975, delivered by Justice Jagmohanlal Sinha of the Allahabad High Court in Election Petition No. 5 of 1971, declared Indira Gandhi's election from Rae Bareli void, held her guilty of two corrupt practices under the Representation of the People Act, 1951, and disqualified her from electoral office for six years. Thirteen days later, on the night of 25 June 1975, President Fakhruddin Ali Ahmed signed the proclamation of Emergency. The standard telling of these events welds the two dates together as cause and effect: a court unseated a Prime Minister, and the Prime Minister answered by suspending the Constitution's working. The facts in that sequence are accurate, and the reading built on them is wrong. The judgment was the culmination of a constitutional collision course that had been building since 1971 between an executive expanding its amendment power and a judiciary constructing a doctrine to contain that power. It forced a choice Indira Gandhi had been postponing. It did not manufacture the choice, and it did not dictate the answer she gave.

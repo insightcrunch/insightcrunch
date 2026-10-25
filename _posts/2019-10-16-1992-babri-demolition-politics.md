@@ -9,7 +9,7 @@ excerpt: "The Babri Masjid demolition was the legible end of Hindutva's movement
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
 author: "ian-fletcher"
-last_updated: 2019-10-16
+last_updated: 2026-10-25
 lang: en
 ---
 On 6 December 1992, at Ayodhya in Uttar Pradesh, a crowd of kar sevaks demolished the Babri Masjid, the mosque built in 1528 and 1529 by Mir Baqi, a commander of the Mughal emperor Babur, on the site that the Ram Janmabhoomi movement claimed as the birthplace of the god Ram. The 1992 Babri Masjid demolition is usually filed under two headings: crime or consequence. The criminal-legal heading follows the Liberhan Commission, the chargesheets and the acquittals. The political-consequences heading follows the riots, the dismissed state governments and the Bharatiya Janata Party's electoral graph. Both headings are accurate and both are incomplete, because the demolition's deepest effect was architectural. It ended, legibly and in a single afternoon, the movement phase of Hindutva that had run from the Ram Shila Pujan of 1989 through the Rath Yatra of 1990, and it opened the institutional-electoral phase that governed the Sangh Parivar's conduct for the following twenty-two years, until the integrated renegotiation after 2014 reactivated mobilisation through different machinery.

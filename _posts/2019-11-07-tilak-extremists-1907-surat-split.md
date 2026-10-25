@@ -9,7 +9,7 @@ excerpt: "The Surat split was the Congress's first organisational rupture, with 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2019-11-07
+last_updated: 2026-10-25
 lang: en
 ---
 The 1907 Surat split was not, at its core, a quarrel between two temperaments or a clash between two doctrines of nationalism. It was the moment the Indian National Congress discovered that its own architecture, the annual session, the nominated presidency, the self-selecting committees through which the Moderate leadership had run the body since 1885, could not process a methodological challenge from inside its own ranks. On 26 December 1907 some sixteen hundred delegates assembled at Surat, on the banks of the Tapti, for the twenty-third session of the Congress. On 27 December the session broke up in disorder, a chair was hurled toward the dais, police cleared the hall, and the Moderate leadership withdrew to a separate convention that reconstituted the Congress without Bal Gangadhar Tilak and the Extremists. The two camps did not sit in one Congress again until December 1916. This article defends a precise claim about that rupture: the Surat split was an organisational and architectural failure before it was an ideological one, and the proof lies in the manner of the Extremists' return, which was purchased not by any doctrinal surrender on either side but by changes to the Congress's own rules of membership, representation and decision.

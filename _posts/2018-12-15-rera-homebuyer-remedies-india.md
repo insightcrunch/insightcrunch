@@ -9,7 +9,7 @@ excerpt: "RERA homebuyer remedies in practice: where to file the complaint, how 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 83
 author: "ryan-walsh"
-last_updated: 2018-12-15
+last_updated: 2026-10-25
 lang: en
 ---
 A homebuyer reaches the Real Estate (Regulation and Development) Act, 2016 at a particular moment, and it is rarely a calm one. The possession date written into the agreement for sale has passed. The tower stands half finished, or finished but unoffered, or offered without the occupation certificate that would make taking possession lawful. The instalments have been paid, the home loan is running, rent is being paid on the house the family actually lives in, and the promoter's office answers letters with revised dates that carry no more conviction than the dates before them. RERA homebuyer remedies exist for exactly this situation, and they are the subject of this article: not the architecture of the statute, which the pillar article on the Act itself sets out, but the route a buyer actually travels, from the missed possession date to money recovered, and the points along that route where the journey most often breaks down.

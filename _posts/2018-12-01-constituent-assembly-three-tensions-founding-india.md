@@ -9,7 +9,7 @@ excerpt: "The Constituent Assembly's three unsettled tensions on religion, feder
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 79
 author: "abigail-cooper"
-last_updated: 2018-12-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Constituent Assembly of India is usually remembered for what it delivered: a constitution adopted on 26 November 1949, running to 395 articles and eight schedules, for a republic of hundreds of millions of people who had never voted in a general election. That delivery was real, and no serious account of the founding can begin by minimising it. Yet the delivery is the least interesting thing about the Assembly. Read the Constituent Assembly Debates closely, volume by volume, and a different institution comes into view: a body of lawyers, landlords, former prisoners of the Raj, princely nominees and party organisers who repeatedly reached the edge of a decision, recognised that the decision would break the coalition in the room, and chose a form of words that postponed the reckoning. The claim defended in this article is the one the record sustains under pressure. The Constituent Assembly's most consequential choices were the questions it chose not to answer.

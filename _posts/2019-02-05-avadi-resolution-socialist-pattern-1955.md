@@ -9,7 +9,7 @@ excerpt: "Avadi was Nehru's claim to socialist territory the Communists were occ
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2019-02-05
+last_updated: 2026-10-25
 lang: en
 ---
 In January 1955 the Indian National Congress met at Avadi, a small town outside Madras, and resolved that its objective was a socialist pattern of society. The Avadi Resolution is remembered in textbooks as the moment Jawaharlal Nehru committed his party and his government to socialism, and the Second Five-Year Plan, drafted under the statistician P. C. Mahalanobis, is remembered as the machinery built to honour that commitment. That memory is accurate about the words and misleading about almost everything else. The resolution was a political manoeuvre executed with great verbal precision. Nehru claimed for the Congress the ideological territory that the Communist Party of India was contesting, and he claimed it in language carefully weighed to promise transformation without specifying the bills that transformation would present. The implementation that followed was real, substantial and deliberately smaller than the promise. The distance between the two, measured clause by clause against the record from 1956 to 1962, is the subject of this article, and the claim it defends is stated without decoration. Avadi was Nehru's ideological-claim-without-policy-substance move, and the gap between the rhetoric and the Mahalanobis-era practice is the analytical substance.

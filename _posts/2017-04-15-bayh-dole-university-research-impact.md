@@ -9,7 +9,7 @@ excerpt: "Bayh-Dole reshaped university handling of federally funded inventions.
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 82
 author: "samantha-lee"
-last_updated: "2017-04-15"
+last_updated: 2026-10-25
 lang: en
 ---
 ## The Law That Acquired a Reputation Larger Than Its Record

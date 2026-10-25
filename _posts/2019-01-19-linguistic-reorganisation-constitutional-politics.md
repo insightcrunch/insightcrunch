@@ -9,7 +9,7 @@ excerpt: "The States Reorganisation Act converted Indian federalism from adminis
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2019-01-19
+last_updated: 2026-10-25
 lang: en
 ---
 On 1 November 1956 the States Reorganisation Act redrew the internal map of India, and the standard account of the states reorganisation of 1956 treats that redrawing as an act of rational administration: a commission studied the problem, a report recommended a solution, and Parliament tidied a messy inheritance of princely states and British provinces into fourteen states and six union territories. That account is accurate in every particular and false in its overall impression, because the tidying was the least consequential part of what happened. What the Act of 1956 actually did was constitutional. It settled, after a decade of official refusal, that language, and with language the cultural identity of a region, was a legitimate ground on which the Indian Union could be divided into states. A federation whose founders had designed its units for administrative convenience acquired, by statute, units defined by who their people understood themselves to be. Every later demand for a new state, from the Punjabi Suba of 1966 to the Telangana movement that ended in bifurcation in 2014, argued from the precedent that 1956 created, and the reorganisation of Jammu and Kashmir in 2019 was executed with the same parliamentary instrument the 1956 settlement had normalised.

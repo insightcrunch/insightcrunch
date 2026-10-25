@@ -9,7 +9,7 @@ excerpt: "The Atrocities Act 1989 explained: its Section 3 offences, exclusive s
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 94
 author: "anita-das"
-last_updated: 2017-02-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 is usually debated as if it were one law doing one thing, and that single habit explains most of the confusion around it. It is two statutes wearing one short title. The first creates a set of offences that exist nowhere else in Indian criminal law, wrongs defined by what they do to the dignity, land, labour and civic standing of a member of a Scheduled Caste or a Scheduled Tribe: conduct such as garlanding a person with footwear, tonsuring a head by force, dedicating a woman to a temple against her will, or imposing a social and economic boycott on a family. The second statute does something conceptually different. It takes offences that the general penal code already punishes, murder, rape, arson, hurt, kidnapping, and raises their consequences when the victim belongs to a listed community and the offender does not. A question about defining new wrongs and a question about sentencing familiar wrongs differently attract different arguments, different evidence and different objections, and an assessment of this Act that does not separate them will misjudge both.

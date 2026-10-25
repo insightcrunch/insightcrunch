@@ -9,7 +9,7 @@ excerpt: "The Information Technology Act 2000 guide: offences, corporate data li
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2019-03-15
+last_updated: 2026-10-25
 lang: en
 ---
 When a website disappears from Indian networks overnight, when a messaging platform is told to identify the first sender of a message, and when a company is ordered to compensate customers whose card data leaked from its servers, three different legal instruments are usually doing the work, and all three sit inside one statute. That statute is the Information Technology Act 2000, and its long title announces a far narrower purpose: legal recognition for transactions carried out by electronic data interchange and other means of electronic communication, commonly called electronic commerce. The distance between that long title and the uses the Act is put to is the subject of this article. A reader who works through it will be able to identify which provisions of a commerce statute ended up governing speech, surveillance and platform liability, which of those provisions were in the Act when it was enacted and which arrived eight years later, and where the operative detail lives, because on this statute the detail very often lives in rules and in a judgment rather than in the sections themselves. The wider field within which the Act sits, and the statutes that surround it, are mapped in the [complete guide to technology law in India](/2019/03/01/technology-law-india-complete-guide/), which this pillar supports and does not repeat.

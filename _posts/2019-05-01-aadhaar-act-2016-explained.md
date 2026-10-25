@@ -9,7 +9,7 @@ excerpt: "The Aadhaar Act explained: how Section 7 ties compulsory Aadhaar to sp
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 89
 author: "kavita-sharma"
-last_updated: 2019-05-01
+last_updated: 2026-10-25
 lang: en
 ---
 Public argument about the Aadhaar Act 2016 usually begins from a question the statute does not ask. The question in circulation is whether Aadhaar is mandatory, as if the Act contained a single switch that made the number compulsory for life in general. It does not. The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, Act 18 of 2016, is a delivery statute for public money. It creates an identification system, staffs an authority to run it, protects the information the system holds in unusually absolute language, punishes misuse, and then, in one provision, permits the government to demand the number as a condition of receiving certain payments. Everything about the statute's reach, and nearly everything about the litigation it attracted, follows from the limits built into that one permission.

@@ -9,7 +9,7 @@ excerpt: "The three reorganisation Acts that created Chhattisgarh, Uttaranchal a
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 88
 author: "andrew-price"
-last_updated: 2018-06-01
+last_updated: 2026-10-25
 lang: en
 ---
 Between the first day of November 2000 and the fifteenth day of the same month, the reorganisation Acts 2000 brought three new states into the Indian Union: Chhattisgarh out of Madhya Pradesh, Uttaranchal out of Uttar Pradesh, and Jharkhand out of Bihar. No capital was shared, no joint capital was declared, no special status was promised to a city left behind, and no court was asked to decide whether the map itself was lawful. The three statutes were passed by Parliament within days of one another, they follow a single template so closely that whole parts correspond section by section in substance, and they settled into working administration faster than any reorganisation before or since. This article reads the three Acts as what they are: one instrument in three copies, with the variations marked, so that a reader can see what a reorganisation statute has to decide, what each of the three decided, and why the decisions held.

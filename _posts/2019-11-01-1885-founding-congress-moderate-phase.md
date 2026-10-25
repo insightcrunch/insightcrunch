@@ -9,7 +9,7 @@ excerpt: "The founding of the Indian National Congress at Bombay established the
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2019-11-01
+last_updated: 2026-10-25
 lang: en
 ---
 The founding of the Indian National Congress in 1885 is usually argued as a contest of intentions. In one telling, the retired civil servant Allan Octavian Hume created the Congress as a safety valve through which Indian discontent could escape before it exploded, and the Viceroy, Lord Dufferin, blessed the device. In the rival telling, Indian political leaders built the Congress as their own instrument of national assertion and Hume merely assisted at a birth he did not conceive. Both tellings ask who meant what in December 1885, and both leave the larger question untouched: what, institutionally, did the founding build? This article defends a prior claim. The seventy-two delegates who met at Bombay between 28 and 31 December 1885 established a petition-politics architecture, a machine with four load-bearing choices: annual sessions as the body's primary activity, a modest formal membership, an elite professional composition, and constitutional methods of resolution and petition. Those choices, rather than any founder's intention, set the parameters within which the Moderate phase operated for twenty-two years, and they explain both what the Moderates achieved and why the architecture failed its first great test at Surat in 1907.

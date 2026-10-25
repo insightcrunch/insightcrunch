@@ -9,7 +9,7 @@ excerpt: "Operation Blue Star closed Indira Gandhi's office-rebuilding: the Prim
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 69
 author: "elena-wright"
-last_updated: 2019-05-09
+last_updated: 2026-10-25
 lang: en
 ---
 Between 3 June and 8 June 1984, in the assault the army codenamed Operation Blue Star, the Indian Army fought its way into the Golden Temple complex at Amritsar to remove Jarnail Singh Bhindranwale and the armed men he had gathered around the Akal Takht. On the morning of 31 October 1984, Indira Gandhi walked across the garden of her residence at 1 Safdarjung Road in New Delhi to keep an appointment with a documentary film crew, and two Sikh members of her own security detail, Beant Singh and Satwant Singh, shot her dead. In the three days that followed, from 31 October to 3 November 1984, organised crowds hunted Sikhs through the streets of Delhi and other cities, and the government of India's own later figures counted 2,733 Sikhs killed in the capital alone. Operation Blue Star, the assassination and the massacres are conventionally written as three tragedies that happened to conclude a premiership. This article defends a different claim: the three events form one sequence, and the sequence is the legible end of the office-rebuilding project that Indira Gandhi had pursued since 1969. The Prime Minister whose authority rested on personal command was killed by the instrument personal command required, the armed guard inside the household cordon, and the political system she had rebuilt around herself could answer her death only with majoritarian violence and a dynastic succession settled within hours.

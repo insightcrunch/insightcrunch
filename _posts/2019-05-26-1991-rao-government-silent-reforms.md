@@ -9,7 +9,7 @@ excerpt: "The Rao government's economic reform was the consummation of a decade 
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2019-05-26
+last_updated: 2026-10-25
 lang: en
 ---
 The 1991 economic reforms in India are usually narrated as an emergency answered at speed: a new government formed on 21 June 1991 found the treasury nearly empty, borrowed from the International Monetary Fund on hard conditions, devalued the rupee twice inside three days, and rewrote industrial policy inside five weeks. Every element of that narration is documented, and the narration still misleads. It explains why the reforms happened in July 1991. It cannot explain how a programme of that breadth, drafted to that level of detail, was executable by a minority government that had held office for a single month. Programmes of that breadth are not written in five weeks. They are written across a decade, in committee rooms and ministry files, and then they wait for a political moment permissive enough to carry them. The argument of this article is that the 1991 reform was the institutional consummation of a decade-long centralisation of economic decision-making that had been running inside the Indian state since the end of the 1970s, and that the balance of payments crisis of 1991 supplied the legitimation for the programme rather than its cause.

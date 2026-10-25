@@ -9,7 +9,7 @@ excerpt: "The Indian National Congress is four organisationally distinct phases 
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 78
 author: "nathan-cole"
-last_updated: 2019-10-27
+last_updated: 2026-10-25
 lang: en
 ---
 The Indian National Congress is usually introduced as the oldest continuous thread in Indian politics: founded at Bombay in December 1885, carrier of the freedom struggle for six decades, governing party of the republic for most of the period after 1947, and diminished electoral force after 2014. That introduction carries a hidden assumption, that one organisation lived through all of it. This article rejects the assumption outright. Read organisationally, the party that met at Bombay in 1885, the party Gandhi rebuilt at Nagpur in 1920, the party Rajni Kothari analysed as a system in 1970 and the party that contested the 2019 general election are four distinct organisational entities that share a name, a registration and a memory, and very little else.

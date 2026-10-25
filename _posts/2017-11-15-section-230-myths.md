@@ -9,7 +9,7 @@ excerpt: "Section 230 draws more myths per word than any federal law. Eight circ
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 88
 author: "kevin-reeves"
-last_updated: "2017-11-15"
+last_updated: 2026-10-25
 lang: en
 ---
 ## How to read the claim ledger

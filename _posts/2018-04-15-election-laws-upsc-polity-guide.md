@@ -9,7 +9,7 @@ excerpt: "Election laws for UPSC polity, taught as an answer method: the constit
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2018-04-15
+last_updated: 2026-10-25
 lang: en
 ---
 Election laws occupy a strange position in the civil services examination. The subject is small enough to be bounded: one Part of the Constitution, two principal statutes, a schedule, a handful of amendments and a short line of judgments generates nearly every question the papers have produced on it. Yet it is the subject on which otherwise strong candidates most often write answers that a constitutional lawyer would not recognise, because they prepare it as politics. They learn the controversies of the season, the arguments of the editorial pages and the vocabulary of the television debate, and they reproduce all three in the answer book. The examiner, however, is not testing whether the candidate follows politics. The examiner is testing whether the candidate knows where electoral authority comes from, which institution holds which piece of it, what limits the text places on each holder, and what the courts have said when those limits were disputed. A candidate who can answer those questions can handle any framing the paper invents. A candidate who cannot will be defeated by the first unfamiliar framing, however much political commentary has been absorbed.

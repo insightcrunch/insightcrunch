@@ -9,7 +9,7 @@ excerpt: "The anti-defection law explained: the Tenth Schedule grounds in full, 
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2018-01-15
+last_updated: 2026-10-25
 lang: en
 ---
 Almost every argument about the anti-defection law in India is conducted at the level of episodes. A group of legislators changes sides, a government falls or survives, and the discussion that follows is about the people involved rather than about the provisions that decided what they were permitted to do. The provisions themselves are short, precise, and rarely stated accurately. A member is not disqualified for changing parties in the loose sense in which that phrase is used in a news report. A member is disqualified for defined conduct set out in the Tenth Schedule of the Constitution, subject to defined exceptions, on the decision of a defined authority whose decision the courts may review on defined grounds. An argument about the law that does not begin there is an argument about politics wearing legal dress.

@@ -9,7 +9,7 @@ excerpt: "The 74th Amendment explained: how Part IXA created three types of muni
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2018-11-01
+last_updated: 2026-10-25
 lang: en
 ---
 Ask a resident of an Indian city who governs the city and the answer names a person who does not, in law, run it. The mayor cuts the ribbons, chairs the council and carries the blame for flooded streets and uncollected refuse. The administration that employs the engineers, signs the contracts, prepares the budget and answers for the water supply is headed by a Commissioner whom the city did not elect and cannot remove, because the Constitution (Seventy-fourth Amendment) Act, 1992, the provision everyone calls the 74th Amendment, constitutionalised the elected council and said nothing at all about the executive that serves it. That silence is the key to the whole design. The amendment made Indian cities democratic in composition and left them administered, as before, by the State.

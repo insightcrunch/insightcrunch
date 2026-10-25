@@ -9,7 +9,7 @@ excerpt: "Rights-based welfare and scheme-based welfare compared on eight dimens
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 76
 author: "kavita-sharma"
-last_updated: 2017-11-15
+last_updated: 2026-10-25
 lang: en
 ---
 Every few years the same legislative argument returns to Indian public life in a new costume. A benefit that a government distributes by executive decision, a health cover, a pension, an income support payment, an urban jobs programme, is said to be too important to rest on a guideline, and the demand is made that Parliament enact it. The opposing answer is equally familiar: a statute would freeze what ought to stay flexible, convert a budgetary choice into a legal compulsion, and enrich litigants rather than beneficiaries. Both sides argue about rights-based welfare as though the question were one of principle. It is not. India has run both models at national scale for long enough that the question is empirical: what has statutory backing actually done for the programmes that received it, dimension by dimension, and what has the scheme form actually done for the programmes that stayed inside it? Rights-based welfare is the subject of this article because the comparison, conducted on the record rather than on the theory, produces a verdict narrower and more useful than either advocacy offers.

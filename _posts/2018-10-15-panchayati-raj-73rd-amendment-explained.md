@@ -9,7 +9,7 @@ excerpt: "The 73rd Amendment explained: what Part IX made compulsory for every p
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 89
 author: "anita-das"
-last_updated: 2018-10-15
+last_updated: 2026-10-25
 lang: en
 ---
 The 73rd Amendment is best understood as a bargain struck between compulsion and permission. By the Constitution (Seventy-third Amendment) Act, 1992, the Constitution of India acquired a new Part IX, titled "The Panchayats", running from Article 243 to Article 243O, together with an Eleventh Schedule of twenty-nine subjects. What the amendment made compulsory was the existence of the institutions and the regularity of their renewal: every State must constitute panchayats, must fill their seats by direct election, must reserve seats and offices in a stated pattern, must hold elections on a stated clock, and must maintain two commissions, one for elections and one for finance. What the amendment left to permission was nearly everything that makes a local body powerful. The functions a panchayat performs, the taxes it may raise, the staff it commands, and the powers of the village assembly in whose name the whole structure is usually described, all depend on what a State Legislature chooses to give. A reader who grasps that single division, between the compulsory skeleton and the permissive substance, understands the 73rd Amendment better than a reader who has memorised its articles in sequence.

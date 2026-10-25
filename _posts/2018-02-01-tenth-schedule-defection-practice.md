@@ -9,7 +9,7 @@ excerpt: "The Tenth Schedule promises quick disqualification for defection, yet 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 81
 author: "kavita-sharma"
-last_updated: 2018-02-01
+last_updated: 2026-10-25
 lang: en
 ---
 ## A Promise of Speed, a Record of Delay

@@ -9,7 +9,7 @@ excerpt: "The RSS-BJP relationship in the Modi years operates through coordinati
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2019-10-21
+last_updated: 2026-10-25
 lang: en
 ---
 Ask how the RSS BJP relationship works and Indian politics offers two ready answers, each armed with a decade of post-2014 evidence. The first answer holds that the Rashtriya Swayamsevak Sangh commands and the Bharatiya Janata Party obeys: the party is the Sangh's political instrument, its ministers report to Nagpur, and its governments execute an ideological programme drafted elsewhere. The second answer inverts the first: a party led by Narendra Modi, a prime minister whose authority inside his own organisation has no parallel in the post-2014 record, takes its decisions in New Delhi and treats the Sangh as an honoured ancestor whose counsel is received with ceremony and set aside at will. Both answers quote real meetings, real appointments and real speeches. Both fail on the evidence they cite, because the post-2014 RSS BJP relationship operates through neither command nor courtesy. It operates through a coordination architecture: a set of standing mechanisms, regularised after May 2014, by which the Sangh supplies strategic, ideological and personnel inputs and the party returns political, electoral and policy-execution outputs, continuously rather than episodically.

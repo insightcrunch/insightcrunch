@@ -9,7 +9,7 @@ excerpt: "The Cable Communications Policy Act deregulated cable rates through a 
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 86
 author: "samantha-lee"
-last_updated: "2017-08-15"
+last_updated: 2026-10-25
 lang: en
 ---
 The Cable Communications Policy Act of 1984 is best understood as a bargain whose terms were rewritten by a definition. Congress struck a deal between cities and cable operators. Local governments received federal confirmation of their franchising authority, a franchise fee capped at 5 percent of gross revenues, and the power to demand public, educational, and governmental channels. The industry received legal certainty after decades of jurisdictional improvisation and freedom from rate regulation for any system facing effective competition. The statute left those two words undefined, and the Federal Communications Commission supplied a meaning that made them nearly meaningless: three unduplicated broadcast signals available throughout the community. That definition deregulated rates in roughly 97 percent of franchises without Congress ever voting to abolish rate regulation.

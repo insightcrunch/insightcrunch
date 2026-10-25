@@ -9,7 +9,7 @@ excerpt: "The Delimitation Acts explain why state seats in the House of the Peop
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 89
 author: "andrew-price"
-last_updated: 2018-04-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Delimitation Acts are the statutes through which India redraws the map of its legislatures, and their strangest feature is a silence. Four times since the Constitution commenced, Parliament has enacted a Delimitation Act and a commission has sat to fix the boundaries of parliamentary and assembly constituencies. Between the third of those exercises and the fourth, a gap of three decades opened, and inside that gap sits a constitutional bargain that still governs the composition of the House of the People: the number of seats allotted to each state was frozen by reference to the census of 1971, and it remains frozen until the figures of the first census taken after the year 2026 are published. A voter in India is therefore represented in the national legislature through an allocation struck from a population count taken more than five decades ago, when the census of 1971 recorded a population of about 548 million, in a country whose census of 2011 recorded about 1,211 million.

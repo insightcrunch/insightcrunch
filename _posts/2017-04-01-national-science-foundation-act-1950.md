@@ -9,7 +9,7 @@ excerpt: "The National Science Foundation Act built the agency funding most Amer
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 96
 author: "hannah-moore"
-last_updated: "2017-04-01"
+last_updated: 2026-10-25
 lang: en
 ---
 The agency that funds most American basic research outside medicine exists because a fight about who would appoint its director lasted five years and ended with a presidential veto. The National Science Foundation Act of 1950 created an institution famous for scientific autonomy, yet that autonomy was granted only after the scientists lost the argument about self-governance. The statute says nothing about peer review, the practice the world associates most closely with the agency, and it excludes medical research entirely, because another federal agency already owned that territory. A reader who can explain those four facts, the veto, the missing peer review mandate, the medical exclusion, and the five-year delay, understands the measure better than any summary that treats it as the inevitable product of a wartime report.

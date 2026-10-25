@@ -9,7 +9,7 @@ excerpt: "Indira Gandhi's two decades rebuilt the Prime Minister's office around
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 78
 author: "nathan-cole"
-last_updated: 2019-03-21
+last_updated: 2026-10-25
 lang: en
 ---
 Indira Gandhi's personality is the most documented fact of Indian politics between 1966 and 1984, and it is also the fact that explains the least. Biographers record the reserve, the suspicion of colleagues, the appetite for control, the reliance on a small circle of advisers, and the willingness to break any institution that stood between her and a decision. None of that record is in dispute. The dispute begins one step later, at the question of what the personality was doing inside the structure of Indian government. Was the centralisation of the Indira years the expression of a temperament that would have centralised in any setting, or was it the predictable output of a party system whose organisational machinery had decayed so far that authority had either to be rebuilt inside a party or concentrated inside an office? That question, and not the inventory of traits, is the subject here. The answer defended across the sections that follow is a structural-choice answer: the Congress System's organisational decay made office-rebuilding available and attractive, and Indira Gandhi chose it, repeatedly and deliberately, where organisational rebuilding remained an open alternative. The Emergency of 1975 to 1977 was the consequence of those choices, not their cause.

@@ -9,7 +9,7 @@ excerpt: "The complete guide to the crime bill, the largest federal crime statut
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 94
 author: "david-thornton"
-last_updated: "2017-12-01"
+last_updated: 2026-10-25
 lang: en
 ---
 The crime bill signed on September 13, 1994, is the largest crime statute in the nation's history. Its official title is the Violent Crime Control and Law Enforcement Act of 1994, and its citation, Public Law 103-322 at 108 Statutes at Large 1796, appears in thousands of later opinions, briefs, and studies. Public debate has treated the measure as a single decision that remade American punishment, as though one vote in Washington reordered who went to prison and for how long across all fifty states. The text tells a more complicated story, and the complication is structural rather than accidental: the statute mixed federal commands with conditional grants, and the two kinds of power reached very different parts of the country.

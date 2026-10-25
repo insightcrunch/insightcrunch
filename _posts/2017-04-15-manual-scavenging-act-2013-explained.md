@@ -9,7 +9,7 @@ excerpt: "The Manual Scavenging Act 2013 explained: the two definitions that div
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 93
 author: "anita-das"
-last_updated: 2017-04-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 rests on a distinction that most public discussion of manual scavenging never makes, and the distinction decides almost everything that follows from the statute, including what the government is able to say about whether the practice survives. The Act prohibits two different things under two different definitions. The first is manual scavenging, defined by reference to insanitary latrines, open drains, pits and railway tracks. The second is hazardous cleaning, defined by reference to sewers and septic tanks cleaned by hand without protective gear, cleaning devices and safety precautions. Each prohibition carries its own penalty scale, its own enforcement history and, in the official record, its own count of the dead. Because the definitions are kept separate, the state can record more than a thousand deaths from the second practice across three decades while reporting, accurately on the words Parliament enacted, that no death has resulted from the first.

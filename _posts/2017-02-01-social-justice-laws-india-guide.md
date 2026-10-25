@@ -9,7 +9,7 @@ excerpt: "Social justice laws in India operate on three layers: constitutional g
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 91
 author: "gregory-marsh"
-last_updated: 2017-02-01
+last_updated: 2026-10-25
 lang: en
 ---
 A shopkeeper refuses to serve a customer because of the customer's caste. A landowner's men beat a labourer who asked for the statutory wage. A candidate who stood first in her reserved category is denied a post because the vacancy was treated as unreserved. Public discussion files all three events under one heading, caste discrimination, and reaches for one body of law to answer them. That instinct is the single largest source of error in this field, because the social justice laws of India are not one body of law. They are three distinct legal layers that happen to share a subject: a layer of constitutional guarantee, which declares rights and empowers the State to act; a layer of criminal prohibition, which makes specified conduct an offence and sends the complainant to the police and the criminal courts; and a layer of affirmative provision, which distributes seats, posts and benefits through administrative machinery governed by service law and admission law. Each layer has its own texts, its own authorities, its own forum and its own remedy, and a claim framed in the wrong layer fails for reasons that have nothing to do with its merits.

@@ -9,7 +9,7 @@ excerpt: "V.P. Singh's lasting consequence was the verdict itself, the moment th
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2019-05-20
+last_updated: 2026-10-25
 lang: en
 ---
 V.P. Singh entered the 1989 general election as a dissident whom the Congress had expelled, and he left it as Prime Minister of a coalition that his former party could neither join nor bring down on its own. The standard account of his career treats that election as a prelude, the necessary doorway to the eleven months in office during which he implemented the Mandal Commission report in August 1990. This article inverts the priority. The lasting consequence of Vishwanath Pratap Singh was the 1989 verdict itself: the first general election since 1952 in which the Congress lost power to a coalition that contained neither a single dominant party nor any prospect of one, and the moment at which the Congress System, the absorptive one-party-dominant order that Rajni Kothari had anatomised in 1964, ended as a working description of Indian politics. Mandal would have found another vehicle. The verdict had exactly one.

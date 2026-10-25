@@ -9,7 +9,7 @@ excerpt: "The TRAI Act built a regulator that binds telecom companies on interco
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 72
 author: "kavita-sharma"
-last_updated: 2019-07-15
+last_updated: 2026-10-25
 lang: en
 ---
 Every argument about Indian telecom regulation is, at bottom, an argument about a single line drawn through Section 11 of the TRAI Act. On one side of the line, the Telecom Regulatory Authority of India can fix the terms on which rival networks connect, set the standards of quality they must meet, notify the rates they may charge, and prosecute them if they disobey. On the other side of the line, the same Authority can only advise. It cannot decide who may enter the market, on what terms a licence is granted, whether a licence is revoked, or how the spectrum on which the entire industry runs is to be managed. Those decisions belong to the Central Government, and the Authority's word on them, however expert and however publicly reasoned, is a recommendation the Government may lawfully set aside. The TRAI Act, 1997 is therefore best understood not as the charter of a powerful regulator or a toothless one, but as a deliberate division of authority by subject, and most disputes about the regulator's influence dissolve once a reader can say which side of the line a given question falls on.

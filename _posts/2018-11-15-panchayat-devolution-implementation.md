@@ -9,7 +9,7 @@ excerpt: "Panchayat devolution in practice: how funds, functions and functionari
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 82
 author: "anita-das"
-last_updated: 2018-11-15
+last_updated: 2026-10-25
 lang: en
 ---
 Panchayat devolution in India is ordinarily described in the vocabulary of the statute book: twenty-nine subjects listed in a Schedule, a State Act that repeats the list, a government order that assigns the schemes, and an index that converts all of this into a score. The resident of the village experiences something different. A hand pump is repaired or left broken. A health centre has a building and a nurse whose leave is sanctioned somewhere else. A road appears in the panchayat's plan and is built by a contractor answerable to an engineer in the district town. Between the two descriptions there is no contradiction, because they are measuring different things. The statute book records what has been provided for. The resident records what the elected body can actually decide. This article is about the distance between those two records, and about the discipline required to keep them apart: devolution is measured by statute and experienced through staff, and a State can rank well on the first while its panchayats direct nobody at all.

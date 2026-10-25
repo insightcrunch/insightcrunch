@@ -9,7 +9,7 @@ excerpt: "The Telecommunications Act 2023 explained: authorisation in place of l
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2019-07-01
+last_updated: 2026-10-25
 lang: en
 ---
 For most of the period in which India built the second largest telecommunication network on earth, the governing statute was written for the electric telegraph. The Indian Telegraph Act of 1885 was drafted when a message was a physical event performed by an operator at an instrument, and it was stretched, by amendment, by licence condition and by judicial interpretation, across the telephone, the mobile phone, the internet connection and the satellite link. The Telecommunications Act 2023 is the statute that replaces it, and the first thing to understand about the replacement is the pattern of what it changes and what it leaves alone. The machinery of entry, of spectrum and of land access has been rewritten. The powers of the State over the content of communications have been carried across in a form a nineteenth century draftsman would recognise at once.

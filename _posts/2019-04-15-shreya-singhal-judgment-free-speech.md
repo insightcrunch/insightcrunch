@@ -9,7 +9,7 @@ excerpt: "The Shreya Singhal judgment struck down Section 66A, upheld the blocki
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 80
 author: "michael-brooks"
-last_updated: 2019-04-15
+last_updated: 2026-10-25
 lang: en
 ---
 The Shreya Singhal judgment answered a question the text of the Information Technology Act, 2000 had left dangerously open: how far may Parliament go in criminalising speech sent through a computer, when the Constitution permits restrictions on expression only on eight enumerated grounds and for no others? On 24 March 2015, a bench of the Supreme Court composed of Chelameswar J. and Nariman J., with the judgment delivered by Nariman J., held that one provision had crossed every line the Constitution draws, that a second provision survived because it stayed within those lines, and that a third survived only after the Court rewrote its operative words by construction. The case, reported as Shreya Singhal v. Union of India, (2015) 5 SCC 1, is the leading Indian authority on speech on the internet, and the doctrinal part of it can be stated in a sentence: discussion and advocacy, however unpopular, sit at the heart of the freedom in Article 19(1)(a), and only incitement may be reached by a restriction under Article 19(2).

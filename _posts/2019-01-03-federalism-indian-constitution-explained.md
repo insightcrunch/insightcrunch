@@ -9,7 +9,7 @@ excerpt: "Indian federalism was deliberately asymmetric by constitutional design
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2019-01-03
+last_updated: 2026-10-25
 lang: en
 ---
 Federalism in the Indian Constitution was not a compromise the founders stumbled into while copying other constitutions. It was a deliberate design, built state by state, in which different units of the Union held different constitutional relationships with the Centre from the first day the text took effect. Jammu and Kashmir entered under a negotiated article that limited Parliament's reach. The tribal areas of Assam entered under a schedule that handed law-making power over land and custom to locally elected councils. The residuary power of legislation went to the Union, boundary revision went to Parliament, and yet the states received exclusive fields that the Centre could not enter in ordinary times. Any account that files this arrangement under a label and moves on misses the architecture. The asymmetry is the architecture.

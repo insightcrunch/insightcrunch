@@ -9,7 +9,7 @@ excerpt: "MGNREGA implementation record assessed against the statute: the two st
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 84
 author: "kavita-sharma"
-last_updated: 2017-11-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Mahatma Gandhi National Rural Employment Guarantee Act is the rare statute whose success can be scored without interpreting anything, because the Act itself supplies the scorecard. It promises a stated number of days of work, within a stated number of days of asking, paid within a stated number of days of working, with a stated allowance if the work does not come and a stated compensation if the wage does not. The MGNREGA implementation record is therefore not, in the first instance, an argument about whether the programme is a good idea. It is a set of measurements against obligations that Parliament wrote in numbers, and the measurements exist in unusual abundance, because the programme runs on a transaction-based management information system that records every muster roll, every wage list and every fund transfer order. Few statutes anywhere generate their own evidence at this scale. The puzzle this article has to solve is that the evidence supports two flatly incompatible public conclusions. The Ministry of Rural Development reports that the overwhelming majority of wage payments are made in time. Independent researchers, working from the programme's own transaction data, report that the overwhelming majority are not. Both conclusions are drawn from real numbers. They differ because they measure different halves of the same obligation, and the instrument that produces the official figure was built to stop measuring at the exact point where the state-level half of the work ends.

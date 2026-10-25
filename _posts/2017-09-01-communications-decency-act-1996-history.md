@@ -9,7 +9,7 @@ excerpt: "The Communications Decency Act paired a Senate ban on indecency with H
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 85
 author: "daniel-morgan"
-last_updated: "2017-09-01"
+last_updated: 2026-10-25
 lang: en
 ---
 ## The Statute That Punished One Thing and Protected Another

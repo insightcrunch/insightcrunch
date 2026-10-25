@@ -9,7 +9,7 @@ excerpt: "Technology law in India explained: the few Acts that found the field, 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2019-03-01
+last_updated: 2026-10-25
 lang: en
 ---
 Technology law in India is best understood as a small shelf of statutes standing in front of a very large and constantly rearranged cabinet of rules. A reader who opens the statute book expecting to find the law that governs a social media platform, a blocked website, a tapped telephone call or a leaked database will usually leave with the wrong answer, because the operative obligation in each of those cases sits not in an Act of Parliament but in rules, directions or notifications made under one. The Acts supply the skeleton: a general statute for electronic records and computer offences, a statute for the national identity number, a statute for personal data, a statute for telecommunication services, and a regulator's statute that holds the telecom settlement together. The flesh, and most of the muscle, is delegated legislation, and it changes by notification in the Gazette rather than by debate in Parliament.

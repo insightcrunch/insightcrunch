@@ -9,7 +9,7 @@ excerpt: "Patent, copyright and trade mark compared across nine dimensions: what
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 77
 author: "thomas-reid"
-last_updated: 2019-12-15
+last_updated: 2026-10-25
 lang: en
 ---
 Almost everyone who arrives at a patent, copyright and trade mark comparison is asking one question in the wrong form. The question they ask is which right is strongest. Strength, in the abstract, is not a property any of the five Indian intellectual property rights possesses, because each right restrains a different kind of conduct by a different kind of defendant, and a right that is overwhelming against one act is silent against another. A patent can stop a competitor who never saw the invention, never copied anything, and built the same machine independently in another city. Copyright cannot touch that competitor at all, and yet copyright can stop the photocopying of a book in an afternoon, on the day the book is written, without any registration, fee or examination. A trade mark can stop a rival whose product is better made, cheaper and honestly labelled with a different maker's name in small print, if the sign on the front is close enough to confuse buyers. A design registration can stop a product that works in a wholly different way, provided it looks the same to the eye. A geographical indication can stop a trader in a distant State from calling his goods by a regional name they do not come from, and no single trader can own that right at all.

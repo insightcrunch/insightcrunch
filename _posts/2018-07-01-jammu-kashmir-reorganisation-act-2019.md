@@ -9,7 +9,7 @@ excerpt: "The Jammu and Kashmir Reorganisation Act 2019 explained: what the Act 
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 85
 author: "kavita-sharma"
-last_updated: 2018-07-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Jammu and Kashmir Reorganisation Act 2019 did something the reorganisation power had never done in the history of the Union. Parliament has used that power to create States, to divide States, to merge territories and to rename units, and every exercise of it before 2019 either raised a unit in status or rearranged units of equivalent standing. This Act took an existing State of the Union and extinguished it, replacing it with two Union territories, one of which was given a legislature and one of which was not. The constitutional question the Act poses is therefore not the familiar question whether a boundary may be redrawn. It is whether a constituent unit of the federation may be removed from the federal tier altogether, and that question, after full argument before a Constitution Bench of the Supreme Court, remains undecided.

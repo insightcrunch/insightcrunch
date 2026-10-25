@@ -9,7 +9,7 @@ excerpt: "The privy purse abolition was the third move in Indira's anti-syndicat
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 70
 author: "nathan-cole"
-last_updated: 2019-04-06
+last_updated: 2026-10-25
 lang: en
 ---
 The privy purse abolition of 1971 began with a defeat. On 5 September 1970, the Rajya Sabha refused the special majority that a constitutional amendment demands, and the Constitution amendment bill through which Indira Gandhi's government proposed to end the privy purses of the former rulers of the princely states fell short by a fraction of a vote. The cabinet met the same evening. Before that night ended, President V. V. Giri, encamped at Hyderabad, had signed a set of identical one-paragraph orders under Article 366(22) of the Constitution, each directing that a named ruler cease to be recognised as the ruler of his former state. The orders, dated 6 September 1970, stopped every privy purse in India at a stroke and stripped every former ruler of official standing. Fifteen months later, the same government carried the same object through the front door of the Constitution: the Constitution (Twenty-Sixth Amendment) Act, assented to on 28 December 1971, omitted Articles 291 and 362, inserted Article 363A, and abolished the privy purse in law.

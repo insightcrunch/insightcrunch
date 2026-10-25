@@ -9,7 +9,7 @@ excerpt: "The Digital Personal Data Protection Act explained: what it requires, 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 92
 author: "daniel-morgan"
-last_updated: 2019-06-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Digital Personal Data Protection Act, 2023 (Act 22 of 2023) is the strangest landmark in Indian statute-making: a data protection law that protects nobody yet. Parliament passed it in August 2023, the President assented to it on 11 August 2023, and the rules that make it workable were notified in November 2025. Yet the obligations that matter, the duties to seek consent, to give notice, to keep data secure, to report breaches and to erase data when it is no longer needed, do not bind any data fiduciary until 13 May 2027, close to four years after the Act received assent. That single fact, the gap between enactment and enforcement, is the lens through which every provision of this statute has to be read. An article that describes the Act as though it were already operative misleads every business reader who consults it, and a compliance team that plans around the assent date rather than the commencement calendar will be building for a deadline that does not exist.

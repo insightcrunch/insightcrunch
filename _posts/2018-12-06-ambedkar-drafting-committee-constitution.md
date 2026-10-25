@@ -9,7 +9,7 @@ excerpt: "Ambedkar's authority in the Drafting Committee was substantive on rese
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2018-12-06
+last_updated: 2026-10-25
 lang: en
 ---
 ## The Ambedkar Drafting Committee Question Behind the Familiar Story

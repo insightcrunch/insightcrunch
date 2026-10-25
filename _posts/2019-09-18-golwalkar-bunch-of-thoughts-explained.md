@@ -9,7 +9,7 @@ excerpt: "Golwalkar's Bunch of Thoughts articulates an organic-social Hindutva s
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2019-09-18
+last_updated: 2026-10-25
 lang: en
 ---
 Golwalkar's Bunch of Thoughts explained on its own terms is a different book from the one standard summaries describe, because the summaries read the 1966 text through a handful of contested passages while the book itself builds a framework. Madhav Sadashiv Golwalkar, second Sarsanghchalak of the Rashtriya Swayamsevak Sangh from 1940 to 1973, left no unified treatise; he left speeches, interviews and writings that his associates arranged into a thematic volume whose argument is architectural. This article defends a namable claim: Golwalkar's organic-social Hindutva is substantively distinct from Savarkar's territorial-cultural Hindutva, and the conceptual architectures differ on every register that matters, in the unit of analysis, in the organisational vehicle each framework presupposes, and in the theoretical commitments each one carries.

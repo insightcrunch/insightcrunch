@@ -9,7 +9,7 @@ excerpt: "The Senior Citizens Act explained: how its maintenance tribunals work,
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2017-09-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 is named for maintenance, and maintenance is the smaller half of what it does in practice. A tribunal constituted under the Senior Citizens Act can order a son, a daughter, a grandson or a granddaughter to pay a parent a monthly allowance, and the amount it can order is capped by a figure Parliament fixed in 2007 and has never revised: ten thousand rupees a month at the very most, and only such lesser sum as the state government has prescribed. The same tribunal can also declare void a transfer of property worth many times that annual figure, unwind a registered gift deed, and, on the Supreme Court's reading, restore possession of a house to the senior citizen who gave it away. The first power is limited, hedged and denominated in a sum that inflation has steadily hollowed out. The second is unlimited in value. Anyone who wants to understand this statute has to hold those two facts together, because the relationship between them explains the Act's caseload, its case law, its critics and its defenders.

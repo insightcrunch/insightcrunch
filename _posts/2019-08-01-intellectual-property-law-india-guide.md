@@ -9,7 +9,7 @@ excerpt: "Intellectual property law in India mapped in full: the six statutes, w
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 92
 author: "ian-fletcher"
-last_updated: 2019-08-01
+last_updated: 2026-10-25
 lang: en
 ---
 Ask a business owner in India what protects their product and the answer is usually a confident single word: a patent, or a copyright, or a trade mark. The confidence is often misplaced. The product in question may need two of those rights and not the third, or it may need none of them because the protection the owner wants does not exist in Indian law at all. This is the field that intellectual property law in India maps, and it is worth mapping carefully because it is one of the few areas of Indian law where a wrong first step, such as filing for the wrong right or approaching a forum that no longer exists, wastes the money spent on the right steps that follow.

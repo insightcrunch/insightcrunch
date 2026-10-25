@@ -9,7 +9,7 @@ excerpt: "Local government law in India guarantees that panchayats and municipal
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 88
 author: "anita-das"
-last_updated: 2018-10-01
+last_updated: 2026-10-25
 lang: en
 ---
 Every question in local government law in India reduces, sooner or later, to a distinction between two verbs. The Constitution of India commands some things about panchayats and municipalities in the language of obligation, and it permits other things in the language of choice, and the entire practical character of the third tier of government is fixed by which of those two verbs a given subject happens to attract. A State legislature cannot refuse to constitute panchayats. It cannot refuse to hold their elections, cannot decline to reserve seats for the Scheduled Castes, the Scheduled Tribes and women, cannot abolish the State Election Commission or skip the State Finance Commission. On each of those subjects the constitutional text says, in substance, that the thing shall be done. On the subjects that decide whether a panchayat or a municipality can actually do anything, the text changes its register. The State legislature may endow these bodies with powers. It may authorise them to tax. It may devolve on them the subjects listed in two long Schedules. Nothing in the Constitution of India requires it to do any of those things, and nothing sets a date by which they must be done.

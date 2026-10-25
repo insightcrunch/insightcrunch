@@ -9,7 +9,7 @@ excerpt: "The Mandal Commission fixed the share of posts and seats reserved for 
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 83
 author: "anita-das"
-last_updated: 2017-05-01
+last_updated: 2026-10-25
 lang: en
 ---
 The most durable number in Indian social policy is twenty seven per cent. The Mandal Commission proposed it in December 1980 as the share of central government posts and central educational places to be reserved for the socially and educationally backward classes, the executive adopted it in August 1990, the Supreme Court sustained it in November 1992, and no government or court has moved it since. A reader who knows only that number, however, knows the least contested part of the subject. The argument that has run without interruption from 1953 to the present decade is not about the share. It is about the list: which communities count as backward, who has the authority to say so, by what evidence, and whether the benefits inside the category should be shared out again among its own members. Every major event in this history is an event in the life of the list. A commission drew it up and disowned it. A second commission drew it up and watched it sit unread for a decade. An office memorandum borrowed it from two sources at once. A court pruned it by inventing the creamy layer. Parliament constitutionalised the body that advises on it, was told it had handed the list to the President alone, and amended the Constitution again within the year to take the states' share back. A third commission spent six years examining whether the list should be divided against itself, reported in July 2023, and its report has not been published.

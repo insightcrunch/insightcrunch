@@ -9,7 +9,7 @@ excerpt: "Vajpayee's thirteen days mattered for what they signalled, not what th
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2019-05-31
+last_updated: 2026-10-25
 lang: en
 ---
 The 1996 Vajpayee thirteen days are the most instructive failure in the history of Indian coalition politics. A government that passed no law, presented no budget and never faced the vote that would have destroyed it nonetheless redrew the strategic map of the party system, because the manner of its fall announced the method of its party's return. Atal Bihari Vajpayee took oath as Prime Minister on 16 May 1996 at the head of the single largest party in a hung Lok Sabha, resigned thirteen days later on 28 May 1996 after a confidence debate he chose to close with a doctrine instead of a bargain, and watched H.D. Deve Gowda take oath in his place on 1 June 1996. The standard reference treatment files the episode as a footnote, a ministry too brief to matter. The argument developed across this article is the opposite one: the thirteen days mattered for what they signalled rather than for what they accomplished, and the resignation speech that ended them was the foundation document of the coalition that took office in March 1998.

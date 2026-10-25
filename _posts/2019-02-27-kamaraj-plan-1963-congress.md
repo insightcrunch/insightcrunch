@@ -9,7 +9,7 @@ excerpt: "The Kamaraj Plan was symbolic ministerial resignation that left underl
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2019-02-27
+last_updated: 2026-10-25
 lang: en
 ---
 The Kamaraj Plan is remembered as the Indian National Congress's great act of self-denial: the moment in 1963 when senior ministers and chief ministers of a ruling party, holding offices they had waited a lifetime to win, handed those offices back so that they could rebuild the organisation that had carried them to power. On 28 August 1963 Jawaharlal Nehru wrote to President S. Radhakrishnan recommending acceptance of six cabinet resignations, naming Morarji Desai at Finance, Jagjivan Ram at Transport and Communications, Lal Bahadur Shastri at Home Affairs, S. K. Patil at Food and Agriculture, B. Gopala Reddi at Information and Broadcasting, and K. L. Shrimali at Education. Six chief ministers followed the same road out of government. On 2 October 1963 K. Kamaraj, the man whose proposal the plan was, resigned the chief ministership of Madras that he had held since 1954, and on 9 October 1963 the All India Congress Committee elected him President of the Congress. The celebration of these events is not false. The resignations were real, the offices surrendered were real, and no comparable act of voluntary renunciation by a governing party's senior leadership exists in the record of independent India. The argument of this article is that the celebration describes the procedure and misses the outcome. The Kamaraj Plan addressed symptoms; the disease produced the 1969 split six years later.

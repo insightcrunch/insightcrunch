@@ -9,7 +9,7 @@ excerpt: "The Rights of Persons with Disabilities Act explained: why the statute
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 89
 author: "kavita-sharma"
-last_updated: 2017-08-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Rights of Persons with Disabilities Act 2016 turns on a distinction that most institutions applying it get wrong. The Act speaks to two populations in two different registers. To the first population, every person whose long term impairment interacts with barriers so as to hinder full and effective participation in society, it confers rights: the right not to be discriminated against, the right to reasonable accommodation, the right to live in the community, the right to hold property and make decisions, the right to protection from cruelty, abuse and exploitation. To the second and narrower population, persons certified as having not less than forty per cent of a specified disability, it confers those rights and something more: free education for children, reserved seats in higher education, reserved posts in government employment, and a first claim on a series of public schemes. The certificate that defines the second population is a gateway to the benefits. It was never drafted as a gateway to the rights.

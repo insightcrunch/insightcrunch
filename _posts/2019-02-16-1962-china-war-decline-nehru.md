@@ -9,7 +9,7 @@ excerpt: "The China war's primary domestic consequence was the Congress's instit
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2019-02-16
+last_updated: 2026-10-25
 lang: en
 ---
 The 1962 China war is usually explained as a foreign-policy disaster, and the explanation is not wrong. Between 20 October and 21 November 1962, Chinese forces overran Indian positions in the North-East Frontier Agency and in Ladakh, the forward policy that had planted Indian posts in disputed territory collapsed within days, and Jawaharlal Nehru's government was forced to appeal to Washington for emergency military aid while the fighting continued. Yet the territorial account, accurate as far as it goes, misses the war's largest consequence. The war's substantive effect on Indian politics was domestic. What broke in the autumn of 1962 was not only a line of mountain posts. What broke was the Indian National Congress's institutional self-confidence, the settled assumption, built across fifteen years of electoral dominance, that the party could absorb any shock because its organisation, its cabinet and its leader formed a single reliable machine. The Kamaraj Plan of October 1963, the first no-confidence motion of August 1963 and the anxious succession politics that surrounded Nehru's final eighteen months were the legible marks of that break.

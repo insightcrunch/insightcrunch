@@ -9,7 +9,7 @@ excerpt: "Gandhi's Nagpur reorganisation built mass-membership architecture thro
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
 author: "david-thornton"
-last_updated: 2019-11-12
+last_updated: 2026-10-25
 lang: en
 ---
 Gandhi's 1920 reorganisation of the Congress is usually filed under leadership: the moment a charismatic strategist captured a debating society and turned it toward mass struggle. The filing misses the durable event. At Nagpur in December 1920 the Indian National Congress adopted a new constitution, and that constitution, the Nagpur Constitution, rebuilt the organisation as a mass-membership architecture of Provincial Congress Committees drawn on linguistic lines, District Congress Committees as the working unit, primary committees at the base and a four-anna membership fee as the door. The claim defended here is architectural: Gandhi's 1920 reorganisation built mass-membership architecture, and the architecture provided the institutional backbone for the Phase Two Congress across the twenty-seven years that followed.

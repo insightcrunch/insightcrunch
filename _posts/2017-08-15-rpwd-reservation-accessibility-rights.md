@@ -9,7 +9,7 @@ excerpt: "RPwD reservation and accessibility rights in practice: the four per ce
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 85
 author: "anita-das"
-last_updated: 2017-08-15
+last_updated: 2026-10-25
 lang: en
 ---
 A candidate with a disability certificate clears a competitive examination, finds her name missing from the list of those appointed against the reserved quota, and discovers that the recruiting body counted her against the general seats while leaving the reserved seat unfilled. An employee of twenty years develops a degenerative condition and is handed a notice retiring him on medical grounds, as if the statute had never spoken. A college building sanctioned and completed years after the accessibility rules were notified has no ramp, no accessible toilet and no tactile path, and the completion certificate was issued anyway. RPwD reservation and accessibility rights exist to govern exactly these three encounters, and each of them is lost or won on a technical point that the Rights of Persons with Disabilities Act, 2016 answers in terms most summaries flatten: how the four per cent quota is divided and counted, what horizontal reservation does to a merit list, what protection an employee carries into service, and which instrument makes a building standard binding rather than advisory.

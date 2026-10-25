@@ -9,7 +9,7 @@ excerpt: "The Article 370 abrogation reversed the earlier NDA tactical retreat, 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 69
 author: "michael-brooks"
-last_updated: 2019-07-31
+last_updated: 2026-10-25
 lang: en
 ---
 The Article 370 abrogation of August 2019 was executed through a sequence of instruments issued within forty-eight hours: a Presidential Order on 5 August 2019 that rewrote the interpretive clause of the Constitution as it applied to Jammu and Kashmir, a second Presidential declaration on 5 August 2019 that rendered Article 370 itself inoperative, a statutory resolution passed by both Houses of Parliament, and the Jammu and Kashmir Reorganisation Act 2019, which divided the state into the Union Territory of Jammu and Kashmir and the Union Territory of Ladakh with effect from 31 October 2019.

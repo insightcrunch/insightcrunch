@@ -9,7 +9,7 @@ excerpt: "The Designs Act 2000 explained: the definition of a design, the bars t
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2019-12-01
+last_updated: 2026-10-25
 lang: en
 ---
 The Designs Act 2000 protects the one feature of a product that a competitor can copy at a glance and that the copier's customers will never examine twice: how the product looks. A chair, a bottle, a sari border, the pattern pressed into a sheet of glass, the shape of a ceiling fan blade, all of these compete in the market partly on appearance, and appearance is uniquely exposed to imitation because it is displayed to every buyer, including every rival manufacturer, the moment the product is sold. The manufacturer who has spent money developing a look that sells has, without a design registration, almost no legal answer when a competitor adopts the same look the following season. The Act exists to give that manufacturer an answer, and it gives it on strict terms: protection only for appearance and never for function, protection only through registration obtained before the design is disclosed, and protection for a short period that cannot be extended beyond a fixed ceiling. Everything else in the statute is machinery for those three choices.

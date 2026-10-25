@@ -9,7 +9,7 @@ excerpt: "Section 230 holds two protections: 26 words bar treating providers and
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 86
 author: "jason-mckenzie"
-last_updated: "2017-07-15"
+last_updated: 2026-10-25
 lang: en
 ---
 Section 230 of the Communications Act carries more public argument per word than almost any other provision in federal law. The core of the provision, the sentence that does most of the work, runs to twenty-six words: no provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider. Around those words has grown a debate conducted largely without them. The provision is described as a single immunity, as a special privilege for large technology companies, as an absolute shield against liability for harmful content, and as the legal basis for every content moderation decision. None of those descriptions survives contact with the text. The statute contains two distinct protections rather than one. It names individual users alongside providers in both. It conditions the take-down protection on good faith while imposing no motive requirement on the leave-up protection. It defines the two terms that decide most cases, and it lists the categories of law it does not touch.
