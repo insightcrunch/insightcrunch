@@ -6,17 +6,17 @@ date: 2020-03-01
 categories: ["Industry"]
 tags: ["Indian Politics", "Kalelkar Commission", "First Backward Classes Commission", "OBC Commission History", "Kaka Kalelkar", "Pre-Mandal OBC", "Indian Reservation History"]
 excerpt: "The Kalelkar Commission was the first backward classes commission appointed under the Constitution, and its deferred report set the terms Mandal inherited."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-03-01
+lang: en
 ---
-
 The Kalelkar Commission is usually granted two sentences in the history of Indian reservation: appointed in 1953, shelved in 1956, a failed rehearsal for the Mandal Commission of 1979. That treatment mistakes a burial certificate for a biography. The claim defended here is that the Commission chaired by Dattatreya Balkrishna Kalelkar, known across India as Kaka Kalelkar, was institutionally substantive even in political deferral: it ran the first all-India inquiry into the conditions of the socially and educationally backward classes, named 2,399 castes as backward, proposed reservation percentages that no later body exceeded, and then produced, in its chairman's forwarding letter and in the Union Cabinet's memorandum of September 1956, the two documents that fixed the questions every later inquiry had to answer. The Mandal Commission did not begin from a blank page in 1979. It began from Kalelkar's page, with Kalelkar's unresolved argument printed at the top of it.
 
 <!--more-->
 
-![The Kalelkar Commission report of 30 March 1955, its state tour records and the Cabinet memorandum of September 1956 that answered it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Kalelkar Commission report of 30 March 1955, its state tour records and the Cabinet memorandum of September 1956 that answered it - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 Two rival readings stand in the way of that claim, and this article adjudicates among all three. The first is the brief-mention reading, found in textbook timelines, where the Commission appears as a date and a name in a sequence that runs from the Constitution to Mandal, carrying no analytical weight of its own. The second is the political-failure reading, stronger and better evidenced, which treats the episode as proof of the Nehru government's reluctance to extend reservation beyond the Scheduled Castes and Scheduled Tribes: a commission appointed to quieten a constitutional promise, a report disowned by its own chairman, a cabinet that forwarded the file to the states and closed the subject for twenty-three years. Both readings capture part of the record. Neither explains why the Mandal Commission, a generation later, adopted Kalelkar's working architecture wholesale, argued with Kalelkar's forwarding letter point by point, and inherited a centre-state division of labour that the Cabinet of 1956 had designed. Institutions leave two kinds of residue, implementation and conditions. The Kalelkar Commission left almost no implementation at the centre. It left conditions everywhere.
 

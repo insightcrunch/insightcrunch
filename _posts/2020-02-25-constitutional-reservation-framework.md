@@ -6,17 +6,17 @@ date: 2020-02-25
 categories: ["Industry"]
 tags: ["Indian Politics", "Constitutional Reservation India", "Articles 15 16 46 330 332 335", "SC ST Reservation", "OBC Reservation Constitutional", "Indian Constitution Caste", "Reservation Architecture", "Constitution Law"]
 excerpt: "India's reservation framework operates via three layered provisions (rights-protective, services-affirmative, and representational) with distinct logics."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2020-02-25
+lang: en
 ---
-
 India's reservation framework is usually met one article at a time, and anyone who searches the Indian constitution reservation articles in sequence meets a scatter: a non-discrimination clause in Part III, a services clause two pages later, a directive in Part IV that no court can enforce, and a block of seat reservations and commissions in Part XVI that most summaries treat as an appendix. The claim defended in this article is that the scatter is an artefact of the reading, not of the design. The Constitution of India distributes its reservation provisions across three layers, each layer carrying a distinct logic: a rights-protective layer (Articles 15, 17 and 46) that forbids discrimination and abolishes untouchability, a services-affirmative layer (Articles 16 and 335) that authorises and disciplines preferential appointment to public posts, and a representational layer (Articles 330, 332, 334, 338 and 339) that reserves legislative seats and builds the oversight machinery. Read as layers, the framework is coherent. Read as a list, it never is.
 
 <!--more-->
 
-![The three layers of the constitutional reservation framework, rights-protective, services-affirmative and representational, mapped across Parts III, IV and XVI of the Constitution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The three layers of the constitutional reservation framework, rights-protective, services-affirmative and representational, mapped across Parts III, IV and XVI of the Constitution - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 ## Indian Constitution Reservation Articles: One Architecture, Three Layers
 

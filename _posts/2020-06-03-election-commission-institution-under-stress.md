@@ -6,17 +6,17 @@ date: 2020-06-03
 categories: ["Industry"]
 tags: ["Indian Politics", "Election Commission of India", "ECI Institutional Stress", "Sukumar Sen ECI", "T.N. Seshan ECI Reforms", "Electoral Institutions India", "ECI as Political Object", "Indian Elections"]
 excerpt: "The Election Commission is an institution under stress, and electoral institutions are political objects rather than neutral procedural infrastructure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2020-06-03
+lang: en
 ---
-
 The Election Commission of India enters most textbooks as a piece of constitutional machinery, a body that prepares rolls, notifies schedules, counts ballots and declares results, and the description is accurate in the way a description of a bridge as concrete and steel is accurate. It leaves out the loads. The claim defended in this article is that the Election Commission is an institution under continuous structural-political stress, running from the founding of the republic through every decade since, and that electoral institutions are political objects rather than neutral procedural infrastructure. The stress is not an episode. It is a condition built into the constitutional text of 1950, reproduced by the way the institution is staffed and financed, and sharpened by the fact that every decision the Commission takes redistributes advantage among the parties it regulates. To read the Commission as machinery is to miss the politics that the machinery carries, and the post-1950 record, from Sukumar Sen's improvisation of 1951 to the appointment legislation of 2023, is legible as a single long negotiation between a powerful constitutional mandate and the pressures that mandate attracts.
 
 <!--more-->
 
-![Article 324 of the Constitution and the Election Commission of India read as an institution under stress - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Article 324 of the Constitution and the Election Commission of India read as an institution under stress - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The argument proceeds through a framework of three components, each grounded in named texts and dated episodes rather than in general complaint. The first component is constitutional and statutory under-specification: Article 324 of the Constitution grants the Commission superintendence, direction and control over elections in a handful of clauses, and leaves nearly every operational question to later statutes, to rules, and to the Commission's own discretion. The second component is executive-architectural dependence: the Commission draws its budget through the Union government, receives its commissioners through appointments the executive long controlled outright, borrows the district administration and the police of the states to run polling, and relies on public sector manufacturers for its voting machines. The third component is the political-strategic stake: because schedules, roll revisions, model code rulings and symbol orders change electoral outcomes, political actors press upon the Commission constantly, and the pressure intensifies at the moments of highest consequence. Each component names a mechanism. Together they explain why the institution has been contested in every era, under governments of every complexion, and why the contestation takes recognisable forms that recur across seventy years.
 

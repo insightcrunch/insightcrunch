@@ -6,16 +6,16 @@ date: 2020-06-14
 categories: ["Industry"]
 tags: ["Indian Politics", "T.N. Seshan CEC", "ECI Reforms", "Seshan Era Election Commission", "Model Code Conduct Seshan", "Three Member Commission", "Assertive Commissioner Architecture", "Indian Electoral Reform"]
 excerpt: "T.N. Seshan's ECI reforms operationalised the assertive-commissioner architectural shift that the commissioners who followed him have operated within."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2020-06-14
+lang: en
 ---
-
 On 12 December 1990, T.N. Seshan took charge as the tenth Chief Election Commissioner of India, and the office he entered had spent four decades as the quietest constitutional authority in New Delhi. The Election Commission of India conducted the largest elections on earth, yet it conducted them by deference: it announced dates after consulting the government of the day, it requested staff and police from the same governments whose candidates stood for election, and it treated the superintendence, direction and control that Article 324 of the Constitution vested in it as a procedural trust rather than as a governing power. This article defends one claim about what changed in the six years that followed, ending on 11 December 1996. Seshan's reforms operationalised an architectural shift in the positioning of the Election Commission within the constitutional order, from procedural deference toward political actors to an assertive-commissioner positioning that read Article 324 as substantive institutional content. The shift had four components: a Model Code of Conduct converted from a voluntary compact into an enforced discipline, a photo-identity-card requirement that rebuilt the electoral roll around photographic verification, an amended Election Symbols Order that hardened the rules of party recognition and symbol allotment, and a disqualification practice under Section 8 of the Representation of the People Act 1951 that treated conviction as an operative bar rather than a negotiable stigma. The Rao government answered the shift on 1 October 1993 by rebuilding the Commission itself as a three-member body, and the Supreme Court's Constitution Bench judgment of 14 July 1995 settled the resulting contest by holding. The strongest evidence for the architectural reading is the trajectory after 1996: commissioners of very different temperament have operated inside the pattern Seshan built, and none has returned the institution to the deference of the years before 1990.
 <!--more-->
 
-![T.N. Seshan and the assertive commissioner architecture of the Election Commission of India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![T.N. Seshan and the assertive commissioner architecture of the Election Commission of India - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 ## The Commission Seshan Inherited: Deference as an Operating System
 

@@ -6,17 +6,17 @@ date: 2020-07-22
 categories: ["Industry"]
 tags: ["Indian Politics", "ECI Controversies", "Ashok Lavasa Dissent", "Model Code Application Controversies", "Electoral Roll Controversies", "Indian Electoral Politics", "Institutional Stress Pattern", "Constitutional Politics"]
 excerpt: "The Election Commission controversies of a single decade form one systemic stress pattern, and the institution under stress is best read across its long arc."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2020-07-22
+lang: en
 ---
-
 The post-2014 Election Commission controversies are usually told as a string of unrelated quarrels, one schedule disputed here, one speech cleared there, one commissioner resigning somewhere else. Read in sequence and on the documentary record, the quarrels stop looking unrelated. Between October 2017 and December 2024 the Election Commission of India faced a schedule announcement in Gujarat that the opposition called partisan, a Karnataka poll date that reached the public before the Commission announced it, a general election in which a serving commissioner recorded dissents against clean chits given to the Prime Minister and the ruling party's president, a High Court that said the Commission's officers should probably face murder charges, a Constitution Bench judgment that rewrote how commissioners are chosen, a disclosure of political donations that the Commission had to be ordered twice to complete, and a Maharashtra counting dispute that ended with the Commission writing a long public rebuttal on Christmas Eve. This article argues one claim about that sequence. The post-2014 ECI controversies operate as a systemic stress pattern; [the institution-under-stress framework](/2020/06/03/election-commission-institution-under-stress/) operationalises across the long-arc trajectory. The claim is tested the only way the charter of this pillar allows, episode by episode, with each controversy recorded as a dated sequence of the event itself, the Commission's stated position or action on the record, the critics' stated charge in their own named words, and any court outcome stated by its holding.
 
 <!--more-->
 
-![The Election Commission of India headquarters at Nirvachan Sadan in New Delhi and the post-2014 controversies record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Election Commission of India headquarters at Nirvachan Sadan in New Delhi and the post-2014 controversies record - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 ## The post-2014 Election Commission controversies as a documented sequence
 

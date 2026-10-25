@@ -6,17 +6,17 @@ date: 2020-09-15
 categories: ["Industry"]
 tags: ["Indian Politics", "Sabarimala Judgment", "Constitutional Doctrinal Architecture", "Essential Religious Practice", "Article 25 26 Sabarimala", "Indu Malhotra Dissent", "Indian Constitutional Verdicts"]
 excerpt: "The Sabarimala judgment tested the doctrinal architecture between Articles 25 and 26, and its politics remade Kerala's parties, streets, courts and polls."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2020-09-15
+lang: en
 ---
-
 The 2018 Sabarimala judgment, delivered by a five judge Constitution Bench of the Supreme Court of India on 28 September 2018, did two things at once, and the politics of the season that followed cannot be understood unless both are kept in view. As a ruling, Indian Young Lawyers Association v State of Kerala struck down Rule 3(b) of the Kerala Hindu Places of Public Worship (Authorisation of Entry) Rules 1965 and held, by four votes to one, that women of every age could enter the hill shrine of Lord Ayyappa at Sabarimala in Pathanamthitta district. As a political event, the same ruling rearranged Kerala's parties, filled its roads with prayer processions and counter processions, produced a wall of women six hundred and twenty kilometres long, decided arguments inside the 2019 general election, and ended its first phase with a nine judge bench reference that carried the questions far beyond one temple. The doctrinal reading of the verdict, its testing of the architecture between Article 25 and Article 26, belongs to the companion treatment of [the religious-secular architectural-tension framework](/2020/05/28/sabarimala-religious-secular-adjudication/). The subject here is the judgment's politics: what each actor said, did, organised, won and lost between the morning of 28 September 2018 and the reference order of 14 November 2019, and what that record shows about how a constitutional ruling becomes a political season.
 
 <!--more-->
 
-![The Sabarimala hill shrine path in Pathanamthitta district, Kerala - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Sabarimala hill shrine path in Pathanamthitta district, Kerala - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## What the Bench Held on 28 September 2018, and How Each Camp Read It
 

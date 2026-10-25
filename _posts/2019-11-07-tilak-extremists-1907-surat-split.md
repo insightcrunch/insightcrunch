@@ -6,17 +6,17 @@ date: 2019-11-07
 categories: ["Industry"]
 tags: ["Indian Politics", "Surat Split", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bipin Chandra Pal", "Lal-Bal-Pal", "Moderate Extremist Divide", "Indian National Congress History"]
 excerpt: "The Surat split was the Congress's first organisational rupture, with Tilak's Extremists forced out by the Moderate-led procedural majority decisions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2019-11-07
+lang: en
 ---
-
 The 1907 Surat split was not, at its core, a quarrel between two temperaments or a clash between two doctrines of nationalism. It was the moment the Indian National Congress discovered that its own architecture, the annual session, the nominated presidency, the self-selecting committees through which the Moderate leadership had run the body since 1885, could not process a methodological challenge from inside its own ranks. On 26 December 1907 some sixteen hundred delegates assembled at Surat, on the banks of the Tapti, for the twenty-third session of the Congress. On 27 December the session broke up in disorder, a chair was hurled toward the dais, police cleared the hall, and the Moderate leadership withdrew to a separate convention that reconstituted the Congress without Bal Gangadhar Tilak and the Extremists. The two camps did not sit in one Congress again until December 1916. This article defends a precise claim about that rupture: the Surat split was an organisational and architectural failure before it was an ideological one, and the proof lies in the manner of the Extremists' return, which was purchased not by any doctrinal surrender on either side but by changes to the Congress's own rules of membership, representation and decision.
 
 <!--more-->
 
-![Delegates dispersing from the Surat Congress pandal after the disrupted session of December 1907 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Delegates dispersing from the Surat Congress pandal after the disrupted session of December 1907 - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The standard accounts of Surat are organised around personalities or around ideas. The personalities reading, given canonical form in Stanley Wolpert's *Tilak and Gokhale* (1962), stages the session as a duel between Tilak and Pherozeshah Mehta, with Gopal Krishna Gokhale cast as the moderate conscience caught between them. The ideological reading, carried by the textbook tradition associated with Bipan Chandra and by a generation of survey histories, stages Surat as the collision of constitutional methods against political methods, prayer and petition against boycott and passive resistance. Both readings capture real material. Neither explains the mechanics. The Extremists had held their doctrines since the 1890s without splitting the Congress; Tilak and Mehta had opposed each other inside the body for a decade without breaking it. What changed by December 1907 was not the distance between the camps' beliefs but the Moderate leadership's decision to settle the question of method by procedural control, by fixing the venue, the presidency and the Subjects Committee, and the Extremists' decision to contest that control on the floor of the session itself. A body that can only answer an internal challenge by excluding the challengers has an architectural defect, and Surat is the documentary record of that defect. Read as part of [the Congress's long organisational arc](/2019/10/27/indian-national-congress-long-arc-1885-2020/), the split marks the termination of the body's first phase, the phase of petition politics, and its lessons recur at every later rupture the Congress suffered.
 

@@ -6,17 +6,17 @@ date: 2020-06-30
 categories: ["Industry"]
 tags: ["Indian Politics", "ECI Tenure Security", "Article 324(5) Constitution", "CEC Removal Provisions", "Election Commissioner Removal", "Anoop Baranwal Verdict", "ECI Appointment Architecture", "Indian Constitutional Law"]
 excerpt: "The ECI tenure-security architecture has architectural asymmetry between CEC and other commissioners that the appointment trajectory tested and modified."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2020-06-30
+lang: en
 ---
-
 Election commissioner tenure security in India rests on a single constitutional clause with an uneven floor. Article 324(5) of the Constitution protects the Chief Election Commissioner with the strongest removal shield the document gives any election official, removal only in like manner and on like grounds as a judge of the Supreme Court, and then, in a second proviso, places every other Election Commissioner behind a weaker and entirely different door: such a commissioner "shall not be removed from office except on the recommendation of the Chief Election Commissioner." One officeholder can be displaced only by a special majority of Parliament after a formal inquiry. The others can be displaced by the President acting on one colleague's written recommendation, with no parliamentary vote, no inquiry and no stated ground specified anywhere in the text. This article defends one namable claim about that arrangement. The Election Commission's tenure-security architecture is defined by an architectural asymmetry between the Chief Election Commissioner and the other commissioners, an asymmetry with three components, removal procedure, tenure protection and the institutional politics the first two generate, and the dramatic post-2023 trajectory of the institution, the Constitution Bench judgment in Anoop Baranwal v Union of India of 2 March 2023 and the appointment Act of December 2023, operated through that asymmetry without ever amending it. The debates of 2023 were fought over who chooses the commissioners. The question of how unequally the commissioners are protected once chosen is older, quieter and still unanswered, and it is the question that explains the most about how the institution actually behaves.
 
 <!--more-->
 
-![Tenure security of the Election Commission, the Article 324(5) removal asymmetry between the Chief Election Commissioner and Election Commissioners - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tenure security of the Election Commission, the Article 324(5) removal asymmetry between the Chief Election Commissioner and Election Commissioners - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 ## The Text of Article 324(5): Two Provisos and Two Doors Out
 

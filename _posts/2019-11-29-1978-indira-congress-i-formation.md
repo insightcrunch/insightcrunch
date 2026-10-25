@@ -6,17 +6,17 @@ date: 2019-11-29
 categories: ["Industry"]
 tags: ["Indian Politics", "Indira Congress(I)", "Congress(I) Formation", "Indira Gandhi", "Devraj Urs", "Y.B. Chavan", "Phase Four Inception", "Indian National Congress"]
 excerpt: "The January founding of the Indira Congress(I) created a new organisational entity that displaced the residual Congress; its later dominance traces to that act."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-11-29
+lang: en
 ---
-
 The 1978 Indira Congress(I) formation is usually told as the first act of a comeback: a defeated leader, written off after the Emergency and the March 1977 verdict, gathering her loyalists, splitting her party a second time and marching back to office within two years. That telling is not false, but it answers a question about political strategy, and it leaves the organisational question unasked. What was actually constituted on 2 January 1978, when Indira Gandhi's supporters met in New Delhi, elected her president of a body they named the Indian National Congress (Indira) and informed the Election Commission of the fact six days later? The argument of this article is that the founding created a substantively new organisational entity, distinct from the residual Congress that kept the party's central office, its files and its institutional machinery, and distinct also from the Congress(R) that Indira Gandhi herself had led since 1969. The new entity was built on three architectural choices: a leader-as-anchor structure in which authority ran from one person's residence rather than through committees, a dynastic personnel pattern in which the leader's son operated as co-decision-maker without holding office, and a parallel cadre architecture in which Sanjay Gandhi's Youth Congress functioned as a second organisational spine beside the formal party. Those three choices, taken together, mark the founding moment of the fourth phase of Congress organisational history, and they explain the party's behaviour long after the comeback itself was complete.
 
 <!--more-->
 
-![The January 1978 founding of the Congress(I) and the three architectural choices of the new organisation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The January 1978 founding of the Congress(I) and the three architectural choices of the new organisation - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## Two Readings of One January: Comeback or Founding
 

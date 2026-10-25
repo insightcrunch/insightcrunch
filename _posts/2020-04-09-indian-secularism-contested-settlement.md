@@ -6,17 +6,17 @@ date: 2020-04-09
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian Secularism", "Contested Settlement", "Rajeev Bhargava", "T.N. Madan", "Ashis Nandy", "Constitutional Secularism"]
 excerpt: "Indian secularism is a contested settlement; the 'sui generis' versus 'failed-Western' debate misses what the contestation-architecture actually does."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2020-04-09
+lang: en
 ---
-
 Indian secularism has been praised as a constitutional invention without parallel and condemned as a borrowed creed that never fitted the society it governed, and the two verdicts have organised the scholarly argument for half a century. Rajeev Bhargava, in The Promise of India's Secular Democracy (2010), reads the constitutional order as a distinct architecture of principled distance between state and religion. T.N. Madan, in Modern Myths, Living Truths (1997), and Ashis Nandy, in his anti-secularist essays of the 1980s, read the same order as a Western import that misconceives how religion lives in India. This article defends a third reading against both: Indian secularism is a contested settlement, a body of constitutional commitments whose meaning has been renegotiated at dated moments from the locking of the Babri Masjid in December 1949 to the citizenship contestation of 2019 and 2020, and the machinery of that renegotiation is the substance of the settlement rather than evidence of its collapse.
 
 <!--more-->
 
-![The contested settlement of Indian secularism, its constitutional text and its renegotiation moments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The contested settlement of Indian secularism, its constitutional text and its renegotiation moments - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The claim requires groundwork, because both rival readings rest on formidable evidence. Bhargava's reading explains why the Indian state administers Hindu temples through statute, recognises a separate Muslim family law, funds minority educational institutions and reserves a power to reform religious practice from within, all without ceasing to describe itself as secular. The Madan and Nandy reading explains why that same state has repeatedly failed to hold its own stated line: a prime minister's government overturning a Supreme Court judgment on a divorced Muslim woman's maintenance in 1986, a disputed mosque demolished in December 1992 under the eyes of the state that had pledged to protect it, a citizenship statute in December 2019 that sorted claimants by religion for the first time in the republic's history. A reading of Indian secularism that cannot hold both bodies of evidence at once is a reading that has discarded half the record. The contested-settlement reading is built to hold both. It treats the constitutional text of 1949 and 1950 as a settlement among commitments that pull in different directions, it treats the post-1947 decades as a sequence of renegotiations of that settlement at identifiable moments, and it treats the courts, the elections and the street mobilisations through which renegotiation happens as the settlement's working machinery. What follows sets out the two master readings at their strongest, reads the constitutional text closely, walks through the renegotiation moments, adjudicates the disagreement, and answers the hardest objection, which is that the contestation itself may be closing.
 

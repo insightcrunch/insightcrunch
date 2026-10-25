@@ -6,17 +6,17 @@ date: 2020-05-17
 categories: ["Industry"]
 tags: ["Indian Politics", "Citizenship Amendment Act", "CAA Debate", "Religion Citizenship India", "Constitutional Citizenship Architecture", "Indian Citizenship Religion", "Indian Constitutional Politics", "Religion State"]
 excerpt: "The CAA debate engages the architectural-substantive question of religion in citizenship, distinct from the political-mobilisation reading of the contestation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2020-05-17
+lang: en
 ---
-
 The Citizenship (Amendment) Act 2019 changed who may belong to India by changing the place of religion inside the law of belonging itself. Passed by the Lok Sabha on 9 December 2019 and by the Rajya Sabha on 11 December 2019, assented to by President Ram Nath Kovind on 12 December 2019 and brought into force on 10 January 2020, the Act amended the Citizenship Act 1955 so that Hindus, Sikhs, Buddhists, Jains, Parsis and Christians who entered India from Pakistan, Bangladesh or Afghanistan on or before 31 December 2014 would no longer be treated as illegal migrants and could reach citizenship through a shortened naturalisation period of five years rather than eleven. Every element of that sentence carries an argument. The six named faiths, the three named countries, the fixed entry date and the shortened waiting period together compose a statute that sorts applicants by religion for the first time in the history of the 1955 Act, and the debate that followed, in Parliament in December 2019, in the Supreme Court through more than two hundred petitions, and in the streets of Assam and Delhi through the winter of 2019 and 2020, turned on a single architectural question: whether religion may serve as a criterion of citizenship inside the constitutional order that the Constituent Assembly built between 1947 and 1949 and that the Citizenship Act 1955 then codified.
 
 <!--more-->
 
-![The Citizenship Amendment Act 2019 and the constitutional debate over religion and citizenship in India - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Citizenship Amendment Act 2019 and the constitutional debate over religion and citizenship in India - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ## Two Readings of One Statute
 

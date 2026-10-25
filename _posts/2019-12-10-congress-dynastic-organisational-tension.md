@@ -6,17 +6,17 @@ date: 2019-12-10
 categories: ["Industry"]
 tags: ["Indian Politics", "Dynastic Politics", "Organisational Tension", "Congress Architecture", "Gandhi Family Politics", "Indian National Congress", "Phase Four Tension", "Congress Reform"]
 excerpt: "The Congress's dynastic-organisational tension is the structural fault that the Phase Four architecture cannot resolve through internal organisational means."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2019-12-10
+lang: en
 ---
-
 The Congress dynastic organisational tension is usually described as two separate problems that happen to afflict the same party. The first is a dynasty problem: the Nehru-Gandhi family's continued occupation of the leadership of the Indian National Congress across four generations, from Jawaharlal Nehru through Indira Gandhi and Rajiv Gandhi to Sonia Gandhi, Rahul Gandhi and Priyanka Gandhi. The second is an organisation problem: a hollowed district and state machinery, a shrinking cadre, and an electoral record that fell from 206 Lok Sabha seats in 2009 to 44 in 2014 and 52 in 2019, on the Election Commission of India's statistical reports for those elections. Political commentary treats the two problems as rivals for explanatory priority, as if establishing one would acquit the other.
 
 <!--more-->
 
-![The Congress organisational architecture and its family anchor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Congress organisational architecture and its family anchor - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 This article defends a different claim, stated in one sentence so that it can be tested against the record: the dynasty and the organisational decline are not two problems but two faces of a single structural fault built into the architecture the Congress acquired after 1978, and that architecture cannot repair the fault through its own internal procedures, because the mechanism that gives the party its coherence is the same mechanism that blocks its renewal. The family is not an obstacle sitting on top of an otherwise healthy organisation, and it is not an asset compensating for an organisation that failed for unrelated reasons. The family-membership anchor is the load-bearing wall of the post-1978 structure. Remove it and the structure does not become a renewed party; it becomes a structure without the element that held it together, which is a problem of replacement, not of reform.
 

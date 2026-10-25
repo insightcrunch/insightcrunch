@@ -6,17 +6,17 @@ date: 2020-02-14
 categories: ["Industry"]
 tags: ["Indian Politics", "Mandal Commission", "Mandal Decisive Moment", "Caste Politics India", "OBC Reservation", "Yogendra Yadav", "Christophe Jaffrelot", "Pradeep Chhibber"]
 excerpt: "The Mandal moment is the decisive reframe of the post-Independence settlement; three competing readings (Yadav, Chhibber, Jaffrelot) are the adjudication."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2020-02-14
+lang: en
 ---
-
 On 7 August 1990, Prime Minister Vishwanath Pratap Singh stood in the Lok Sabha and announced that his government would implement the central recommendation of a report that had waited ten years in the files of the Union government: reservation of 27 percent of posts under the Government of India and its public undertakings for the Other Backward Classes. The Mandal Commission's decisive moment in Indian politics is usually dated from that announcement, and the dating is too narrow. The moment runs from the Commission's constitution in December 1978 to the Supreme Court's judgment in Indra Sawhney v Union of India on 16 November 1992, and its substance is still argued over, because the three most serious accounts of what happened in those fourteen years do not merely differ in emphasis. They disagree about what kind of event Mandal was.
 
 <!--more-->
 
-![The Mandal Commission report of December 1980 and the three scholarly readings of the Mandal moment in Indian politics - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Mandal Commission report of December 1980 and the three scholarly readings of the Mandal moment in Indian politics - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The puzzle can be stated plainly. Almost every serious student of Indian politics treats the Mandal implementation of 1990 as a turning point, a before and an after in the life of the republic. Yet the turning point has three rival descriptions, each attached to a scholar, a book or a body of essays, and each resting on a different body of evidence. Yogendra Yadav reads Mandal as democratic deepening: the moment when the formal promise of political equality, made in 1950, acquired substance for the backward classes who form the largest bloc of the Indian electorate. Pradeep Chhibber reads Mandal as an accelerant of party-system fragmentation: one of the forces that broke the old national party system into the regionalised, coalition-bound order that governed India from 1989 to 2014. Christophe Jaffrelot reads Mandal twice over, as a silent revolution in the social composition of political power in north India and as the provocation that handed Hindu nationalism its most effective mobilisation opening of the late twentieth century. A descriptive history of the Commission, its report and its implementation cannot choose among these readings, because the facts are largely shared and the disagreement is about what the facts did.
 

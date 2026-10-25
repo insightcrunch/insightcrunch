@@ -6,17 +6,17 @@ date: 2020-02-19
 categories: ["Industry"]
 tags: ["Indian Politics", "Poona Pact", "B.R. Ambedkar", "Mahatma Gandhi", "Communal Award", "Separate Electorates", "Depressed Classes", "Indian Constitutional History"]
 excerpt: "The Poona Pact established joint electorates with reserved seats, the negotiated architecture that the reservation framework of free India later inherited."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2020-02-19
+lang: en
 ---
-
 The Poona Pact of 24 September 1932 is usually remembered as the settlement that ended a fast. On 16 August 1932 Ramsay MacDonald, the British Prime Minister, announced the Communal Award and gave the Depressed Classes separate electorates. On 20 September 1932 Mohandas Gandhi, a prisoner in Yerwada Central Jail, began a fast unto death against that single provision. Four days later B. R. Ambedkar and Madan Mohan Malaviya signed an agreement at Poona that withdrew the separate electorates and replaced them with joint electorates and reserved seats. The claim defended here is architectural: the Poona Pact is best read not as a compromise between two men but as a piece of constitutional engineering whose four design choices governed Indian representation for the rest of the century.
 
 <!--more-->
 
-![The Yerwada negotiation of September 1932 and the four architectural choices of the Poona Pact, read against the Communal Award it replaced - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Yerwada negotiation of September 1932 and the four architectural choices of the Poona Pact, read against the Communal Award it replaced - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The standard accounts arrange September 1932 as a duel. In the personal-confrontation reading, Gandhi's fast is the event and Ambedkar's signature its reluctant outcome; the settlement matters because of what it reveals about the two men. In the simple-compromise reading, the Pact is a midpoint: Ambedkar surrendered separate electorates, the Hindu leadership surrendered a larger block of seats, and both sides walked away with half a loaf. Neither reading can explain the document's afterlife. A compromise explains a week; it does not explain why the Constituent Assembly of 1947 to 1949, drafting a constitution for a free republic, reached for the Poona design rather than inventing another, or why the reservation clauses of the Constitution still carry the Pact's fingerprints in their structure, their arithmetic and their ten-year clock. The architectural reading can explain those things, because it treats the Pact as what its text shows it to be: a set of four deliberate choices about how a stigmatised minority would be represented inside a majoritarian legislature.
 

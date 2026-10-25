@@ -6,17 +6,17 @@ date: 2020-04-03
 categories: ["Industry"]
 tags: ["Indian Politics", "Caste Census Debate", "Bihar Caste Survey", "Karnataka Caste Census", "SECC", "Telangana Caste Survey", "Indian Census Caste", "Caste Politics India"]
 excerpt: "The caste-census debate in India operates through three substantive positions on demographic and political evidence, tested by state surveys and court rulings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-04-03
+lang: en
 ---
-
 Every argument about reservation in India eventually runs into a missing number. The Other Backward Classes hold 27 percent of central government posts and central educational seats under the settlement that followed the Mandal Commission, yet no census since 1931 has counted how large a share of the population the backward classes form, and the 27 percent itself was fixed in 1980 by arithmetic performed on a census taken in 1931. The caste census debate is the argument about whether the Indian state should repair that missing number, and the claim defended in this article is that the debate operates through three substantive positions on demographic and political evidence: a demographic-justice position that wants reservation rationalised against counted population shares, an architectural-stability position that defends the layered compromises through which reservation has been built since 1932, and a federal-implementation position that holds caste counting to be legitimate work for state governments rather than for the decennial census of the Union. Each position answers a different question, each rests on a different body of evidence, and the state surveys published in Bihar in October 2023, in Karnataka through the Hegde Commission report of April 2025, and in Telangana after the survey of November 2024 test all three at once.
 
 <!--more-->
 
-![Enumerators' schedules, census volumes from 1931 and the Bihar survey tables read together in an archive reading room - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Enumerators' schedules, census volumes from 1931 and the Bihar survey tables read together in an archive reading room - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The standard commentary on the caste census debate sorts the participants by party. One side of that commentary describes a demand raised by the Congress and its allies in the INDIA coalition after 2021, pressed by Rahul Gandhi in campaign speech after campaign speech, and answered by a Bharatiya Janata Party that first resisted the demand in affidavits and parliamentary replies and then, on 30 April 2025, accepted caste enumeration inside the decennial census through a decision of the Cabinet Committee on Political Affairs. That telling is accurate as chronology and empty as analysis. A second standard telling sorts the material by dataset: the Socio Economic and Caste Census of 2011, whose caste returns were collected and never published; the Bihar survey of 2023, which published its tables within ten months of fieldwork; the Karnataka enumeration whose compiled report waited a decade for a cabinet table. That telling is accurate as bibliography and equally empty, because a dataset acquires force only inside an argument about what counting is for. This article follows neither sorting. It reconstructs the three substantive positions in the strongest form their own advocates and scholars have given them, tests each against the documentary record from the colonial census volumes of 1871 to 1931 through the unpublished SECC returns to the state survey reports of 2023 to 2025, and closes the pillar on caste, reservation and Mandal politics by showing how the debate gathers every earlier argument in the pillar into a single question: what does the republic owe to a number it has declined to collect for ninety years?
 

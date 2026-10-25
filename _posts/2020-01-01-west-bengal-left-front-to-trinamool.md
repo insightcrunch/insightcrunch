@@ -6,17 +6,17 @@ date: 2020-01-01
 categories: ["Industry"]
 tags: ["Indian Politics", "West Bengal Politics", "Left Front Rule", "Trinamool Congress", "Mamata Banerjee", "Jyoti Basu", "Singur Nandigram", "Regional Politics"]
 excerpt: "West Bengal's 34-year Left Front to Trinamool transition shows how single-party rule ends through specific architectural-failures rather than gradually."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2020-01-01
+lang: en
 ---
-
 The West Bengal Left Front to Trinamool transition is the largest single act of political displacement in the electoral history of any Indian state, and its scale is easy to state in two numbers drawn from the Election Commission of India's statistical report on the 2011 West Bengal Legislative Assembly election: the All India Trinamool Congress won 184 of 294 seats, and the Left Front that had governed the state without interruption since June 1977 was reduced to 62. A government that had won seven consecutive assembly elections, that had administered West Bengal for thirty four years under two chief ministers, and that outside observers routinely treated as a permanent feature of the state's landscape, lost office in a single verdict and has not returned to it. The argument defended in this article is that the duration and the ending belong to the same explanation. The Left Front ruled for thirty four years because four architectural features, cadre organisational anchoring, Operation Barga land registration, panchayati raj decentralisation, and a conservative industrial policy held from 1985 to 2007, fitted together into a machine that converted rural organisation into electoral majorities with unusual reliability. The same machine ended in 2011 because the fourth feature failed first, and the state government's attempts between 2006 and 2008 to reverse that feature at Singur and Nandigram exposed a fault running through the other three: an architecture built to protect a settled rural order could not carry a programme of industrial land acquisition against the very cultivators its land reforms had organised. Singur and Nandigram were the revelation of that fault, and the 2011 verdict was its consummation.
 
 <!--more-->
 
-![The West Bengal transition from Left Front rule to the Trinamool Congress, read through the four architectural features of the 1977 to 2011 period - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The West Bengal transition from Left Front rule to the Trinamool Congress, read through the four architectural features of the 1977 to 2011 period - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## West Bengal Left Front to Trinamool: Two Readings and the Architectural Alternative
 

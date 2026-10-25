@@ -6,17 +6,17 @@ date: 2020-06-08
 categories: ["Industry"]
 tags: ["Indian Politics", "Sukumar Sen First CEC", "First General Election India", "ECI Founding Architecture", "Improvised Electoral Infrastructure", "First Indian Election", "Sukumar Sen Bengal ICS", "Indian Electoral History"]
 excerpt: "Sukumar Sen's first-election architecture was institutionally improvised under acute resource constraints, establishing the ECI's founding electoral template."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2020-06-08
+lang: en
 ---
-
 On 19 March 1950, a presidential notification in New Delhi appointed Sukumar Sen, the Chief Secretary of West Bengal, as the first Chief Election Commissioner of India, and with that single sheet of paper the office of the sukumar sen first election commissioner acquired a holder before it had acquired a staff, a budget line, a building of its own, or a single precedent anywhere in the world for the task it existed to perform. Sen had roughly eighteen months to design a general election for about 173 million electors, most of whom could not read the name of any candidate, in a country whose administrative map had been torn and redrawn by Partition less than three years earlier. This article defends one namable claim about what he did in those eighteen months: Sen's 1951 to 1952 architecture was institutionally improvised under acute resource constraints, and the founding template that improvisation produced established the institutional pattern through which every later Indian election has been run. The claim is architectural rather than biographical. It directs attention away from the man as hero and toward four decisions, on polling stations, on the symbol ballot, on the electoral roll, and on the phased calendar, each of which can be read in the Commission's own statistical record of the first general election.
 
 <!--more-->
 
-![Sukumar Sen first election commissioner founding architecture ballot box and polling station record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sukumar Sen first election commissioner founding architecture ballot box and polling station record - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 ## The Appointment of 19 March 1950 and the Empty Office
 

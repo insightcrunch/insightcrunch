@@ -6,17 +6,17 @@ date: 2020-08-02
 categories: ["Industry"]
 tags: ["Indian Politics", "13 Judge Bench Supreme Court", "Basic Structure Origin", "Nani Palkhivala", "Justice HR Khanna", "Indian Constitutional Verdict", "Article 368 Limits"]
 excerpt: "The Kesavananda Bharati case was decided by thirteen judges after a six-month hearing, and a summary signed by nine judges fixed its basic structure holding."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2020-08-02
+lang: en
 ---
-
 On 24 April 1973, the largest bench the Supreme Court of India had ever assembled delivered its verdict in Kesavananda Bharati v State of Kerala, and the document it produced was as remarkable for its machinery as for its holding: thirteen judges, eleven separate opinions running to roughly seven hundred pages in the law reports, a division of seven to six on the central question, and an unsigned-looking summary, signed in the event by nine judges, that told the country what the majority had decided. The case is usually read for its doctrine, and the doctrine matters; the pillar hub's account of the basic structure doctrine's career across five decades, [the most-consequential-constitutional-moment framework](/2020/07/28/basic-structure-most-consequential-doctrine/), carries that reading. This article reads the case itself, as an event inside a courtroom: how a bench of thirteen came to be constituted, how a hearing of sixty eight sitting days was organised and argued, how eleven opinions were produced in the thirty two days between the close of argument and the Chief Justice's retirement, and how a nine-judge summary manufactured a single ratio decidendi out of material that did not contain one in any ordinary form. The claim defended here is the brief's claim, stated plainly: the verdict's institutional and procedural improvisation, its bench, its hearing, its fractured opinions and its summary, is what operationalised the basic structure doctrine, because the doctrine entered Indian law in exactly the shape those procedures gave it, and no other shape was on offer.
 
 <!--more-->
 
-![The Supreme Court of India, where thirteen judges heard the Kesavananda Bharati case between October 1972 and March 1973 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court of India, where thirteen judges heard the Kesavananda Bharati case between October 1972 and March 1973 - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The petitioner whose name the case carries was the head of a religious institution in Kerala, and the dispute that carried him to the Supreme Court concerned land, not constitutional theory. Kesavananda Bharati Sripadagalvaru was the Mahant, the pontiff and head, of the Edneer Mutt at Edneer in the Kasaragod district of Kerala, an institution holding agricultural land whose management the Kerala legislature sought to bring under state control through the Kerala Land Reforms (Amendment) Act of 1969 and a further amendment of 1971. In 1970 he filed a petition under Article 32 of the Constitution, invoking Articles 25 and 26, which protect religious practice and the right of a religious denomination to manage its own affairs and administer its property, together with Articles 14, 19 and 31. The petition challenged the land reform legislation; but because Parliament had spent the years after 1967 rebuilding its amending power against judicial resistance, the petition could not be decided without deciding how far that power ran. What began as a mutt's defence of its lands became the occasion on which the Supreme Court reconsidered, from the ground up, whether the Constitution contained anything that a constitutional amendment could not touch. T. R. Andhyarujina, who appeared in the case as a junior on the government side and who published the fullest insider account four decades later in The Kesavananda Bharati Case: The Untold Story of Struggle for Supremacy by Supreme Court and Parliament (2011), records a detail that fixes the human scale of the proceeding: the petitioner and his celebrated counsel, Nani Palkhivala, never met.
 

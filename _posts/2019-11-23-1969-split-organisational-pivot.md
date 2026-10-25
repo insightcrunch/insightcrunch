@@ -6,17 +6,17 @@ date: 2019-11-23
 categories: ["Industry"]
 tags: ["Indian Politics", "Congress Split", "Organisational Pivot", "Congress System Failure", "Absorption Mechanism", "Indira Syndicate", "Congress(O) Congress(R)", "Phase Three Termination"]
 excerpt: "The Congress split was the Congress System's absorption-mechanism failure, distinct from the structural-cultural rupture reading of decisive moment treatments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-11-23
+lang: en
 ---
-
 The 1969 Congress split organisational question is narrower, and harder, than the question of who won the quarrel. Indira Gandhi won it: the presidential count of 20 August 1969, the requisitioned session of the All India Congress Committee in November 1969 and the general election of March 1971 settled the contest of persons beyond argument. What the standard accounts leave under-examined is the machine that lost. Between 1947 and 1968 the Indian National Congress had contained disputes as bitter as any that divided Jawaharlal Nehru from Sardar Vallabhbhai Patel, or Nehru from Purushottam Das Tandon, without breaking in two. In 1969, a dispute of comparable substance broke the party within five months. The organisational-pivot reading of the 1969 split begins from that contrast. The split was the Congress System's absorption-mechanism failure: the four-component architecture that Rajni Kothari described in his Asian Survey essay of December 1964 and in Politics in India (1970) failed on its second component, intra-party faction pluralism, when the quarrel between Indira Gandhi and the Syndicate could not be processed by the procedures that had processed every comparable quarrel before it. The cascade then ran through the other three components, and what survived after November 1969 was the electoral shell of the old system operated by different machinery.
 
 <!--more-->
 
-![The Congress Working Committee in the years when its procedures still contained the party's deepest quarrels - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Congress Working Committee in the years when its procedures still contained the party's deepest quarrels - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## Reading the 1969 Congress Split Organisationally
 

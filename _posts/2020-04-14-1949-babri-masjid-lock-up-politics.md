@@ -6,17 +6,17 @@ date: 2020-04-14
 categories: ["Industry"]
 tags: ["Indian Politics", "Babri Masjid", "K.K.K. Nayar", "G.B. Pant UP CM", "Religious Place State Administration", "Pre-Movement Babri", "Indian Religion State", "Founding Era Babri"]
 excerpt: "The December idol placement inside the Babri Masjid and the lock-up that followed built the religious-place administration template later decades inherited."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2020-04-14
+lang: en
 ---
-
 On the night between 22 and 23 December 1949, idols of Ram Lalla were placed beneath the central dome of the Babri Masjid in Ayodhya, and the 1949 Babri Masjid idol placement became, within a single week, something larger than a local crime or a local devotion. The claim defended in this article is that the episode established the religious-place-state-administration template through which India would manage contested sacred sites for the next seventy-five years. The template had three working parts, each fixed in the last week of December 1949: the state would administer a disputed religious place rather than adjudicate the rights at stake; a receivership would freeze the physical situation exactly as the administration found it, idols included; and the pendency of civil suits would supply the standing justification for never reaching a decision. Every later station of the Ayodhya dispute, from the lock opening of February 1986 to the demolition of 6 December 1992 and the Supreme Court judgment of 9 November 2019, operated inside arrangements whose architecture was drawn in Faizabad in December 1949 by named officials acting on dated orders that survive in the record.
 
 <!--more-->
 
-![The three domes of the Babri Masjid at Ayodhya in a mid-twentieth-century photograph, the structure at the centre of the December 1949 lock-up - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The three domes of the Babri Masjid at Ayodhya in a mid-twentieth-century photograph, the structure at the centre of the December 1949 lock-up - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 ## The Ground Before December 1949: A Mosque, a Platform and a Fence
 

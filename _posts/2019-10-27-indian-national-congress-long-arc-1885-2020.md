@@ -6,17 +6,17 @@ date: 2019-10-27
 categories: ["Industry"]
 tags: ["Indian Politics", "Indian National Congress", "Congress History", "Kothari Congress System", "Long Arc Trace", "Organisational History", "Congress Decline", "INC Phases"]
 excerpt: "The Indian National Congress is four organisationally distinct phases sharing one name, and its decline is a return to the fragility the System always carried."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-10-27
+lang: en
 ---
-
 The Indian National Congress is usually introduced as the oldest continuous thread in Indian politics: founded at Bombay in December 1885, carrier of the freedom struggle for six decades, governing party of the republic for most of the period after 1947, and diminished electoral force after 2014. That introduction carries a hidden assumption, that one organisation lived through all of it. This article rejects the assumption outright. Read organisationally, the party that met at Bombay in 1885, the party Gandhi rebuilt at Nagpur in 1920, the party Rajni Kothari analysed as a system in 1970 and the party that contested the 2019 general election are four distinct organisational entities that share a name, a registration and a memory, and very little else.
 
 <!--more-->
 
-![Four phases of the Indian National Congress organisation from 1885 to the post-2014 decline - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Four phases of the Indian National Congress organisation from 1885 to the post-2014 decline - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The claim can be tested, which is what separates it from a rhetorical flourish. An organisation is its architecture: who may belong and on what terms, where decisions are taken, how leaders succeed one another, what work ideology performs, and how the electoral machine connects to the membership machine. On each of those five dimensions, the Congress of the founding-Moderate phase from 1885 to 1907 differs categorically from the Gandhi-mass phase from 1920 to 1947; the Gandhi-mass phase differs from the Nehru-Indira phase from 1947 to 1991, which operated as the Congress System of Kothari's *Politics in India* (1970); and that phase differs again from the dynastic-organisational phase whose first sub-period ran from the Congress(I) founding of January 1978 to 1991 and whose second has run from the Sonia Gandhi succession of March 1998 onward. The boundaries are not tidy, because organisations change by rupture and drift rather than by decree, but the discontinuities are substantive enough that treating the four as one party mistakes a label for a structure.
 

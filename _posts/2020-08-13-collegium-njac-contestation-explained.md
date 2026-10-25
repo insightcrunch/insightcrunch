@@ -6,17 +6,17 @@ date: 2020-08-13
 categories: ["Industry"]
 tags: ["Indian Politics", "Collegium System India", "NJAC Amendment", "Judicial Appointments India", "Second Judges Case", "Fourth Judges Case", "Constitutional Adjudication", "Indian Judicial Reform"]
 excerpt: "The collegium and NJAC contestation forms a four-phase architectural trajectory, from the judges cases that built the collegium to the verdict that restored it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2020-08-13
+lang: en
 ---
-
 The collegium NJAC contestation is usually told in one of two ways, and both ways lose the thing that matters most about it. The first telling moves case by case, from one judgment to the next, as if the story were a sequence of courtroom events with dates and citations but no connecting structure. The second telling moves government by government, treating the National Judicial Appointments Commission of 2014 as one administration's reform project and its defeat in 2015 as that administration's setback, as if the architecture of judicial appointments were ordinary party politics conducted by other means. This article defends a different reading, and states it as a claim that can be tested against the texts. The collegium-NJAC contestation is a four-phase architectural trajectory; the architectural content of each phase operates institutionally beyond the cases that produced it. In the first phase, running from 1993 to 1998, the Supreme Court of India built the collegium through two judgments, the Second Judges Case of 6 October 1993 and the Third Judges Case of 28 October 1998. In the second phase, running from 1998 to 2014, that architecture operated as the working method of appointment to the higher judiciary and drew sustained criticism from commissions, scholars, governments and judges themselves. In the third phase, running from 2014 to 2015, Parliament and the state legislatures attempted a wholesale substitution, enacting the Constitution (Ninety-ninth Amendment) Act and the National Judicial Appointments Commission Act. In the fourth phase, opening on 16 October 2015, a Constitution Bench struck the substitution down by four votes to one, restored the collegium, and set in motion a negotiation over a revised Memorandum of Procedure that remained unfinished for years afterwards. Each phase is defined not by its leading case or its leading minister but by the allocation of appointment power it put into operation, and each phase handed that allocation, intact or contested, to the phase that followed it.
 
 <!--more-->
 
-![The Supreme Court of India in New Delhi, whose judges cases built and restored the collegium system of judicial appointments - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court of India in New Delhi, whose judges cases built and restored the collegium system of judicial appointments - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 ## Articles 124 and 217: the constitutional text the contestation inherited
 

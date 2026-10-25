@@ -6,17 +6,17 @@ date: 2020-01-06
 categories: ["Industry"]
 tags: ["Indian Politics", "Uttar Pradesh Politics", "UP Bellwether", "Mulayam Singh Yadav", "Mayawati BSP", "Akhilesh Yadav SP", "Yogi Adityanath", "UP Political Laboratory"]
 excerpt: "Uttar Pradesh's high-volatility politics operates as bellwether and laboratory, with the state's verdicts foreshadowing national-political shifts repeatedly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2020-01-06
+lang: en
 ---
-
 Uttar Pradesh politics history is usually written as a parade of parties, one rising as another falls, and the state's repeated changes of government are treated as evidence of instability rather than as information. The reading defended here is different. Uttar Pradesh operates as bellwether and as laboratory for the politics of the whole country: its verdicts foreshadow national shifts before those shifts acquire a national name, and its parties test organisational and coalition architectures that other states and national alliances later adopt in modified form. The claim is not that Uttar Pradesh is a miniature India. It is that the state's combination of electoral weight, social diversity and post-1989 party-system fluidity makes it the one arena where national futures are rehearsed early and in public, and the record from 1989 to 2024, read election by election against the Election Commission of India's statistical reports, sustains that claim more strongly than either of the two standard framings it displaces.
 
 <!--more-->
 
-![Uttar Pradesh read as bellwether and laboratory of Indian politics, with the state assembly at Lucknow as the seat of its verdicts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uttar Pradesh read as bellwether and laboratory of Indian politics, with the state assembly at Lucknow as the seat of its verdicts - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## Reading Uttar Pradesh Politics History Through Verdicts, Not Parties
 

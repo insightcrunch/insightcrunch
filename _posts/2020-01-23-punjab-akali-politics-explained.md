@@ -6,17 +6,17 @@ date: 2020-01-23
 categories: ["Industry"]
 tags: ["Indian Politics", "Punjab Politics", "Akali Dal", "Shiromani Akali Dal", "Punjab Militancy Era", "Bhindranwale Punjab", "Captain Amarinder", "AAP Punjab"]
 excerpt: "Punjab politics operates through a religious and linguistic Akali architecture of gurdwara, language and federation that the AAP victory tests, not ends."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2020-01-23
+lang: en
 ---
-
 Punjab politics, organised around the Akali Dal for a century, is usually narrated as a passage through fire: a decade and a half of militancy between 1980 and 1995, sealed by the army assault on the Golden Temple complex in June 1984 and by the assassination of Prime Minister Indira Gandhi that October, after which the state's politics supposedly restarted on ordinary lines. That narrative is not false, and the evidence for its gravity is set out in full below. It is, however, a narrative that mistakes the loudest fifteen years of a hundred-year structure for the structure itself. The claim defended in this article is different. Punjab's politics operates through a religious-linguistic Akali architecture, built between 1920 and 1973 and still load-bearing after 2022: Sikh religious-political mobilisation through the Shiromani Gurdwara Parbandhak Committee and the Shiromani Akali Dal, a Punjabi-language commitment consolidated between the 1940s and 1966, a federal positioning towards the centre codified in the Anandpur Sahib Resolution of 1973, and, after 1992, a governance coalition with the Bharatiya Janata Party that lasted until September 2020. The militancy years tested that architecture and scarred it. The Aam Aadmi Party victory of March 2022, with 92 of 117 assembly seats, tests it again. Neither episode displaced it.
 
 <!--more-->
 
-![Punjab's religious-linguistic Akali architecture read against the Golden Temple precinct at Amritsar and a century of Akali mobilisation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Punjab's religious-linguistic Akali architecture read against the Golden Temple precinct at Amritsar and a century of Akali mobilisation - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The militancy-era framing deserves its evidentiary due before it is set aside as an organising principle. Between June 1984 and August 1995, Punjab recorded an army operation inside its holiest shrine, the assassination of a serving Prime Minister by her Sikh bodyguards on 31 October 1984, organised killing of Sikhs in Delhi and other cities in November 1984 for which the Nanavati Commission later recorded an official Delhi toll of 2,733 dead, a peace accord signed on 24 July 1985 and abandoned in practice within eighteen months, an insurgency whose peak years from 1989 to 1992 killed, on the most cited official compilations, more than a thousand people a year, and the assassination of a serving Chief Minister, Beant Singh, by a human bomb on 31 August 1995. Any account that treats these events as surface disturbance would be unserious. The argument here is narrower and more exact: the events explain the trauma of a period, but they do not explain the pattern of the century, because the institutions that carried Punjab's politics into the crisis were the same institutions that carried it out, and because the questions that structured the crisis, Chandigarh, river waters, state autonomy and the political custody of Sikh religious institutions, were all posed by the architecture decades before the first shot of the insurgency was fired.
 

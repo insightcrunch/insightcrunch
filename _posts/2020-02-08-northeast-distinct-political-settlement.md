@@ -6,17 +6,17 @@ date: 2020-02-08
 categories: ["Industry"]
 tags: ["Indian Politics", "Northeast India Politics", "Article 371 Variants", "Sixth Schedule Northeast", "Inner Line Permit", "Naga Politics", "Mizo Accord", "Tribal Politics"]
 excerpt: "Article 371 variants, the Sixth Schedule and the Inner Line Permit give the Northeast a constitutional design and political settlement no mainland state shares."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2020-02-08
+lang: en
 ---
-
 Northeast India politics operates through constitutional machinery that exists nowhere else in the Indian Union. Eight states at the country's eastern edge, holding about 46 million people on roughly 8 percent of its land area, are governed through a layered architecture of special constitutional articles, autonomous tribal councils, a permit regime that controls the entry of other Indian citizens, and peace accords that function as constitutional events. The claim defended in this article is that these four variations, and not the insurgencies or the development deficits that standard accounts place at the centre, constitute the region's political settlement: the durable framework inside which its conflicts are fought, its governments are formed and its bargains with New Delhi are struck.
 
 <!--more-->
 
-![The eight states of the Northeast and the four constitutional variations that govern them, read against the Brahmaputra valley and the hill states - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The eight states of the Northeast and the four constitutional variations that govern them, read against the Brahmaputra valley and the hill states - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 ## A Region the Standard Frames Describe Badly
 

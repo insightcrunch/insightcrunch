@@ -6,17 +6,17 @@ date: 2020-08-19
 categories: ["Industry"]
 tags: ["Indian Politics", "Indira Gandhi v Raj Narain", "Allahabad Election Verdict", "39th Constitutional Amendment", "First Basic Structure Application", "Supreme Court Election Verdict", "Pre-Emergency Constitutional Politics", "Basic Structure Operationalisation"]
 excerpt: "The Indira v Raj Narain verdict was the first basic-structure application, striking down the Thirty-Ninth Amendment shield around prime ministerial elections."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2020-08-19
+lang: en
 ---
-
 The Indira Gandhi Raj Narain 1975 case is usually remembered as the lawsuit that helped trigger a national Emergency, and that memory, though accurate as chronology, buries the judgment that ended the case. On 7 November 1975 a five judge Constitution Bench of the Supreme Court of India did two things in a single order. The bench struck down clauses (4) and (5) of Article 329A, the provisions through which the Thirty-Ninth Amendment had placed the election of a Prime Minister beyond the reach of any court and had declared a pending election dispute decided by legislative command. The same bench then applied the election law as Parliament had rewritten it during August 1975 and upheld Indira Gandhi's 1971 election from Rae Bareli, setting aside the Allahabad High Court judgment of 12 June 1975 that had voided that election and disqualified her for six years. This article defends one claim about that double outcome. The November 1975 verdict was the first operational application of the basic structure doctrine after Kesavananda Bharati in 1973, and its two component structure, a constitutional amendment clause destroyed for damaging the basic structure alongside an election saved by ordinary legislation, set the pattern through which the doctrine worked for decades afterward.
 
 <!--more-->
 
-![The Supreme Court of India in New Delhi, where the five judge bench decided Indira Nehru Gandhi v Raj Narain on 7 November 1975 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court of India in New Delhi, where the five judge bench decided Indira Nehru Gandhi v Raj Narain on 7 November 1975 - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## The Rae Bareli election of 1971 and the petition Raj Narain filed
 

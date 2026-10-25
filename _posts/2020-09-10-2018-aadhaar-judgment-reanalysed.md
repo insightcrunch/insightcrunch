@@ -6,17 +6,17 @@ date: 2020-09-10
 categories: ["Industry"]
 tags: ["Indian Politics", "Aadhaar Constitutional Validity", "Section 57 Aadhaar", "Justice Chandrachud Dissent Aadhaar", "Indian Constitutional Verdicts", "Proportionality Test India", "Aadhaar Architectural Content", "Money Bill India"]
 excerpt: "The September Aadhaar verdict operationalised the Puttaswamy proportionality test at 4 to 1, with Justice Chandrachud dissenting on architectural substance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2020-09-10
+lang: en
 ---
-
 On 26 September 2018, a five judge Constitution Bench of the Supreme Court of India delivered the Aadhaar judgment 2018 researchers, lawyers and administrators still argue over, upholding the Aadhaar scheme and its parent statute by four votes to one in Justice K. S. Puttaswamy (Retd.) and Another v Union of India. Justice A. K. Sikri wrote the majority opinion for himself, Chief Justice Dipak Misra and Justice A. M. Khanwilkar. Justice Ashok Bhushan concurred in a separate opinion. Justice D. Y. Chandrachud dissented alone. The combined record ran to roughly 1,448 pages, and its length has encouraged two lazy readings. One reading reports the outcome: the scheme survived, Section 57 fell in part, some provisions were read down. The other reading reports the dissent: Justice Chandrachud would have struck the whole statute down, and his opinion is treated as the verdict's true centre. Both readings miss the event. The verdict's durable work was architectural. For the first time after the nine judge privacy bench of 24 August 2017 had recognised privacy as a fundamental right, a Constitution Bench took the proportionality test that the 2017 opinions had assembled and ran it, provision by provision, across a working administrative system used by hundreds of millions of residents. Each section of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act 2016 was asked the same four questions in the same order: legitimate aim, suitability, necessity and balancing. Section 7 passed all four. Section 57 failed. Sections 33(2) and 47 survived only after the bench rewrote their operating conditions. That patterned application, rather than any single outcome, is what later legislatures, litigants and benches inherited, and it is the pattern this article reconstructs from the record.
 
 <!--more-->
 
-![The Supreme Court of India, where the five judge Aadhaar bench sat through the 2018 hearing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court of India, where the five judge Aadhaar bench sat through the 2018 hearing - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 ## How Aadhaar Was Built Between 2009 and 2016
 

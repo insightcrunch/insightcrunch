@@ -6,17 +6,17 @@ date: 2020-06-19
 categories: ["Industry"]
 tags: ["Indian Politics", "EVM Electronic Voting Machines", "VVPAT India", "Parur Trial Kerala", "EVM VVPAT Verification", "Indian Electoral Technology", "Electoral Architecture", "Election Commission of India"]
 excerpt: "The EVM-VVPAT trajectory traces a technological-architectural transition with persistent verification-architectural questions throughout its full course."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2020-06-19
+lang: en
 ---
-
 On 19 May 1982, in fifty polling stations of the Parur assembly constituency in Kerala, Indian voters pressed buttons on an electronic voting machine for the first time, and the EVM entered the republic's electoral architecture through a by-election that the Supreme Court would partly undo two years later. The four decades after Parur carried the machine from that contested trial to the centre of the largest voting operation on earth, and then attached a printed paper slip to it. This article defends one claim about that trajectory. The EVM and VVPAT story is neither the simple march of electoral modernisation that the technological-progress framing describes, nor the sequence of integrity scandals that the controversy framing assembles. It is a three-phase architectural transition, from paper ballots identified by symbol, to a machine that recorded votes with no paper trail, to a machine paired with a voter-verified paper audit trail, and at every phase the same question organised the politics: how can a vote recorded inside a device be checked against something outside the device? That verification question, raised by a losing candidate in 1982, pressed by litigants in 2009 and 2013, priced by statisticians in 2019 and answered with two fresh directions in April 2024, is the substantive content of the story. The machines changed. The question did not, and each court, committee and Commission that handled the machines left the question standing in a new form.
 
 <!--more-->
 
-![A polling station in India where voters cast their votes on an electronic voting machine fitted with a VVPAT unit - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A polling station in India where voters cast their votes on an electronic voting machine fitted with a VVPAT unit - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 ## The Paper Inheritance: What the EVM Was Built to Replace
 

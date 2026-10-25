@@ -6,17 +6,17 @@ date: 2020-05-06
 categories: ["Industry"]
 tags: ["Indian Politics", "Gujarat Riots", "Godhra Train Burning", "Modi Gujarat Chief Minister", "SIT Investigation", "Zakia Jafri Case", "Gujarat Audit Trajectory", "Nanavati Mehta Commission"]
 excerpt: "The Gujarat riots produced a twenty-two-year institutional audit of commissions, investigators and courts whose findings later politics operates through."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2020-05-06
+lang: en
 ---
-
 The 2002 Gujarat riots politics, as the phrase is used in textbooks, examination halls and anniversary journalism, usually names one of two things: an election, or a wound. In the electoral telling, the violence of February and March 2002 is the prelude to the Gujarat assembly election of December 2002, in which the Bharatiya Janata Party won 127 of 182 seats and Narendra Modi, chief minister since October 2001, secured the mandate that began his uninterrupted rise. In the narrative telling, the same months are a sequence of atrocities: a train coach burned at Godhra station on 27 February 2002 with 59 people inside, and massacres at Gulberg Society, Naroda Patiya, Naroda Gam, Sardarpura and Ode in the days that followed. Both tellings are true as far as they go, and both stop early. Between 6 March 2002, when the Gujarat government constituted a commission of inquiry under a retired judge named K. G. Shah, and 8 January 2024, when the Supreme Court quashed the remission of the eleven men convicted in the Bilkis Bano case, the Indian state examined the events of 2002 through a commission, a court-monitored investigation team, a sequence of special courts and a criminal complaint that travelled from a police director general's office to a three-judge bench of the Supreme Court. That twenty two year audit, and not the election or the wound alone, is the subject of this article.
 
 <!--more-->
 
-![The Gujarat 2002 audit record of commissions, investigators and courts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Gujarat 2002 audit record of commissions, investigators and courts - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The claim defended here is namable: the twenty two year institutional audit of the 2002 Gujarat violence produced a settled body of findings, on the Godhra fire, on the massacres, on the conduct of the state government and on the limits of the evidence against its chief minister, and the national political order built after 2014 operates through those findings, invoking them as institutional validation and governing inside the space they left unjudged. The audit reading does not deny the electoral reading its December 2002 verdict, nor the narrative reading its dead. It insists that a democracy's considered answer to an atrocity is the sum of what its institutions found, failed to find, and declined to decide, and that this answer, document by document, is retrievable. Three bodies of writing contest the ground. The political-electoral reading, given scholarly form in Christophe Jaffrelot's Modi's India (2021), treats 2002 as the founding episode of a majoritarian order and follows the consolidation that flowed from it. The documentary reading, assembled within months in Siddharth Varadarajan's edited volume Gujarat: The Making of a Tragedy (2002), treats the violence itself, and the administrative conduct surrounding it, as the whole story. The audit's internal critics, most rigorously Manoj Mitta in Modi and Godhra: The Fiction of Fact-Finding (2014), hold that the fact-finding machinery was arranged so as to reach exoneration, and that its findings are therefore fictions of process. This article adjudicates among the three on the primary record: the reports of the Nanavati and Mehta Commission, the closure report of the Special Investigation Team filed on 8 February 2012, and the Supreme Court judgment in Zakia Jafri v State of Gujarat delivered on 24 June 2022. Its verdict, argued in the sections that follow, is that the audit's findings are real as institutional facts and incomplete as moral ones, that the incompleteness is itself documented, and that the post-2014 order lives precisely in the gap between the two.
 

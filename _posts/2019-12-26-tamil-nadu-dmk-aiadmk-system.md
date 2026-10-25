@@ -6,17 +6,17 @@ date: 2019-12-26
 categories: ["Industry"]
 tags: ["Indian Politics", "Tamil Nadu Politics", "DMK AIADMK", "Karunanidhi MGR Jayalalithaa", "Dravidian Movement", "Tamil Nadu Bipolar System", "Regional Politics", "South India Politics"]
 excerpt: "Tamil Nadu's DMK-AIADMK bipolar system has operated stably for over five decades, the Dravidian-movement substrate sustaining the architecture across eras."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2019-12-26
+lang: en
 ---
-
 Tamil Nadu politics presents a puzzle that no other large Indian state reproduces. Since the Dravida Munnetra Kazhagam won the Madras assembly election of 1967, every government the state has known has been led by the DMK or by its offshoot, the All India Anna Dravida Munnetra Kazhagam, and every assembly contest has been a fight between two fronts that one of these two parties heads. The Indian National Congress, which governed the state for the first twenty years after independence, has not headed a Tamil Nadu government since 1967. The Bharatiya Janata Party, the dominant party of Indian national politics after 2014, won a single Tamil Nadu Lok Sabha seat on its own symbol in 2014, at Kanyakumari, and won none in 2019 or 2024. Party systems elsewhere in India have fragmented, fused, realigned and collapsed within a single decade. This one has held its shape for fifty-seven years.
 
 <!--more-->
 
-![The Tamil Nadu DMK AIADMK bipolar system and the Dravidian movement substrate beneath it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Tamil Nadu DMK AIADMK bipolar system and the Dravidian movement substrate beneath it - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 Two standard explanations compete for this record, and each captures something real. The first reads Tamil Nadu through the Dravidian movement: the DMK and the AIADMK appear in this telling as the electoral continuation of a cultural and social revolt that began with the Justice Party in 1916 and Periyar E.V. Ramasamy's Self-Respect Movement in 1925, a revolt against Brahmin predominance in the Madras Presidency's services, colleges and public life, expressed in the Tamil language and armed with a reservation politics older than the Indian republic. M.S.S. Pandian's Brahmin and Non-Brahmin, published in 2007, gives this reading its most rigorous scholarly form, and Sumathi Ramaswamy's Passions of the Tongue, published in 1997, supplies its account of Tamil language devotion as political energy. The second explanation reads Tamil Nadu through personality: the state appears as the stage of four commanding figures, C.N. Annadurai, M. Karunanidhi, M.G. Ramachandran and J. Jayalalithaa, whose writings, films, oratory and organisational grip made and remade the parties in their own images, so that the politics of the state becomes a sequence of biographies.
 

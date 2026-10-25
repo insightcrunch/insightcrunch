@@ -6,17 +6,17 @@ date: 2020-03-18
 categories: ["Industry"]
 tags: ["Indian Politics", "Post Mandal Party System", "Yogendra Yadav Three Wave", "Pradeep Chhibber Fragmentation", "Christophe Jaffrelot Hindutva", "Indian Party System", "Mandal Party System", "Comparative Politics"]
 excerpt: "The post-Mandal party system invites three competing characterisations from Yadav, Chhibber, and Jaffrelot, each addressing different analytical dimensions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2020-03-18
+lang: en
 ---
-
 The post-Mandal party system is the most argued-over object in the study of Indian democracy, and the argument has produced three major readings that rarely meet on the same page. Yogendra Yadav reads the decades after 1990 as a deepening of democracy itself, a third wave in which citizens placed lowest in the caste order entered electoral politics as principals rather than as clients. Pradeep Chhibber reads the same decades as an institutional unravelling, the fragmentation of a once integrated party order into state-sized pieces that no national institution successfully reassembled for a quarter century. Christophe Jaffrelot reads them as the terrain on which Hindu nationalist mobilisation converted upper-caste anxiety and plebeian assertion into the Bharatiya Janata Party's long ascent. This article defends one claim against the habit of choosing among the three: the three readings are complementary characterisations of a single system, because each one answers a different question about it. Yadav asks what changed for the governed, and answers with democratic content. Chhibber asks what changed for the architecture of competition, and answers with fragmentation. Jaffrelot asks what changed for the strategy of the most successful competitor, and answers with mobilisation. A reading that forces these into a single contest mistakes the map's three layers for three rival maps.
 
 <!--more-->
 
-![Three scholars reading the same electoral record of India after 1990, with ballot boxes, assembly charts and party symbols arranged across a map of the states - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Three scholars reading the same electoral record of India after 1990, with ballot boxes, assembly charts and party symbols arranged across a map of the states - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The claim needs discipline before it needs evidence, because complementarity can become an excuse for never judging anything. The comparator reading defended here does judge. It holds that Yadav's framework is the strongest of the three on the question it poses, that Chhibber's framework is the strongest on its question, and that Jaffrelot's framework is the strongest on its question, and it then specifies the points at which the frameworks genuinely collide rather than merely coexist. Three collisions matter. Yadav's deepening thesis collides with Chhibber's fragmentation thesis over whether the multiplication of parties after 1989 was a democratic achievement or an institutional loss. Chhibber's fragmentation thesis collides with Jaffrelot's mobilisation thesis over whether the Bharatiya Janata Party's majority of 2014 ended the fragmented era or merely won inside it. Yadav's deepening thesis collides with Jaffrelot's mobilisation thesis over whether the post-2014 order, built partly on lower-caste votes, extends the third wave or turns against it. On each collision the electoral record can be made to testify, election by election and state by state, and this article puts that record first, before any framework is allowed to interpret it.
 

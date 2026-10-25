@@ -6,17 +6,17 @@ date: 2020-04-20
 categories: ["Industry"]
 tags: ["Indian Politics", "Shah Bano Case", "Muslim Women Protection Act", "Section 125 CrPC", "Religious Personal Law", "Rajiv Gandhi Government", "Danial Latifi Judgment", "Indian Secularism"]
 excerpt: "The Shah Bano verdict and the Act that answered it renegotiated the boundary between religious personal law and state intervention in Indian public life."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2020-04-20
+lang: en
 ---
-
 On 23 April 1985 a five judge Constitution Bench of the Supreme Court of India dismissed the appeal of Mohd. Ahmed Khan, an Indore advocate, and confirmed that his divorced wife Shah Bano Begum could claim maintenance from him under Section 125 of the Code of Criminal Procedure, a secular provision written for every citizen unable to maintain herself. Thirteen months later, on 19 May 1986, the President of India gave assent to the Muslim Women (Protection of Rights on Divorce) Act, a statute whose operative clauses removed divorced Muslim women from the reach of that same section and reassigned their post-divorce support to the iddat period, to relatives, and to the state Wakf Boards. The claim defended in this article is that the episode joining those two dates did more than settle one woman's maintenance or reverse one judgment. The Shah Bano case renegotiated, at the level of architecture, the relationship between religious family law and state intervention in India. The 1985 verdict stated one architectural position: a universal welfare statute enacted by Parliament could reach inside a religious community's family law wherever destitution threatened, and no rule of that family law could bar the door. The 1986 Act stated the opposite position: a legislature responding to a mobilised community could redraw the boundary, restore the family law's own allocation of obligation, and confine the secular statute at the community's edge. Every later contest in this field, the Danial Latifi judgment of 28 September 2001, the Shayara Bano judgment of 22 August 2017, and the Muslim Women (Protection of Rights on Marriage) Act of 2019, has argued from one of these two poles or against the other. The episode is therefore best read neither as a simple victory and defeat for women's rights nor as a simple episode of electoral calculation, though both readings capture real evidence. It is best read as the founding contest of a two pole architecture that Indian law and politics have continued to inhabit, amend, evade, and reopen for more than three decades.
 
 <!--more-->
 
-![The Supreme Court of India, where the Shah Bano maintenance appeal was decided on 23 April 1985 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Supreme Court of India, where the Shah Bano maintenance appeal was decided on 23 April 1985 - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## From Indore to the Constitution Bench: The Litigation of 1978 to 1985
 

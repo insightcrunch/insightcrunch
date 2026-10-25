@@ -6,17 +6,17 @@ date: 2020-05-01
 categories: ["Industry"]
 tags: ["Indian Politics", "Babri Masjid Demolition", "Liberhan Commission Report", "Justice MS Liberhan", "17 Year Inquiry", "Indian Religious Violence", "Babri Audit Trajectory", "Indian Institutional Audit"]
 excerpt: "The Liberhan Commission's seventeen-year audit of the Babri demolition produced findings that governments debated at length yet never carried into law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2020-05-01
+lang: en
 ---
-
 The Liberhan Commission report is the longest act of institutional self-examination that the Indian republic has ever devoted to a single afternoon. A one-man commission of inquiry, constituted on 16 December 1992 with a three-month mandate to establish how the Babri Masjid at Ayodhya came to be demolished ten days earlier, sat for seventeen years, received forty-eight extensions, examined more than one hundred witnesses and delivered a report of 1,029 pages to Prime Minister Manmohan Singh on 30 June 2009. The document named sixty-eight persons as culpable for leading the country to the brink of communal discord. It found that the demolition had been planned rather than spontaneous, that the Uttar Pradesh government of Kalyan Singh had stood guard against preventive action, and that the movement's senior leadership bore responsibility for a joint conspiratorial enterprise. No prosecution, dismissal, disqualification or reform followed from any of it. The report was debated in Parliament, answered through an Action Taken Report that largely noted its recommendations, and then shelved, while a criminal court in Lucknow spent the same decades reaching the opposite conclusion on the same events and a Constitution Bench of the Supreme Court settled the underlying land dispute on grounds that owed the Commission almost nothing.
 
 <!--more-->
 
-![The Liberhan Commission report and the audit of the 1992 Ayodhya demolition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Liberhan Commission report and the audit of the 1992 Ayodhya demolition - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This article reads the post-1992 trajectory through that audit. Its claim is the one the evidence sustains: the seventeen-year Liberhan inquiry produced an institutional-political audit of real substance, and the Indian state's engagement with the audit was rhetorical rather than institutional, a pattern of debate without implementation that reveals how commissions of inquiry actually function inside the constitutional order. The claim is complementary to the reading offered in [the political-architectural-phase-transition reading](/2019/10/16/1992-babri-demolition-politics/), which treats the demolition as the moment a street movement converted itself into an electoral machine. That reading explains what the demolition did to Indian politics. The audit reading explains what Indian institutions did with the demolition, and the answer, documented across seventeen years of extensions and one parliamentary winter, is that they examined it exhaustively and acted on it barely at all.
 
