@@ -6,17 +6,17 @@ date: 2023-03-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "romeo", "mercutio", "romeo-and-mercutio"]
 excerpt: "Romeo and Mercutio are close friends who see love in opposite ways, and the bond between them is what turns Mercutio's death into the hinge of the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-03-24
+lang: en
 ---
-
 The friendship between Romeo and Mercutio is the hinge on which the whole tragedy swings. Before there is a balcony, there is a street full of young men trading jokes, and the loudest, quickest, most alive voice among them belongs to the Prince's kinsman, a wit who belongs to neither feuding house and yet dies for one of them. Read the bond closely and a clear verdict emerges. The pair's affectionate antagonism is not decoration around the love story. It is the love story's rival, its measuring instrument, and finally its executioner, because the moment Mercutio falls in Romeo's quarrel, the grieving friend kills Tybalt and sets every later catastrophe in motion. The lovers occupy the famous scenes, but the friendship occupies the turning point, and a play is governed by its turning point.
 
 That verdict rests on the texture of the scenes the two men share. Their exchanges are built from teasing that only intimacy licenses: the dream debate on the way to the Capulet feast, the mock conjuring over the orchard wall, the fencing match of puns on the morning after the wedding, and the catastrophic courtesy of the duel in Act 3 Scene 1. Each exchange shows the same pattern at a higher temperature. Mercutio performs, provokes, and protects. Romeo receives, answers, and, at the fatal moment, steps between his friend and a blade. The pattern begins as comedy, because performance and provocation are comic modes, and it ends as tragedy, because protection, once armed, becomes revenge. Shakespeare builds the friendship out of the very materials, words first and swords last, that the feud will weaponize.
 
-![Romeo and Mercutio in conversation on a Verona street - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Mercutio in conversation on a Verona street - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 A reader who treats the friendship as background noise misses how deliberately the playwright weights it. Mercutio receives the play's most famous set speech that is not spoken by a lover, the Queen Mab fantasia of Act 1 Scene 4, and he receives it while walking beside Romeo toward the feast where the love plot ignites. He receives the conjuring scene that opens Act 2, calling into the darkness for a friend who has already climbed toward Juliet. He receives the great prose duel of Act 2 Scene 4, where Romeo's recovered wit is celebrated as a homecoming. And he receives the death that ends the comedy, cursing both houses from ground neither house owns. No other relationship in the play is given this sequence of entrances, set pieces, and structural privileges. The friendship is written like a load-bearing wall.
 

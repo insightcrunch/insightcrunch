@@ -6,17 +6,17 @@ date: 2022-12-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "benvolio", "peacemaker", "benvolio-analysis"]
 excerpt: "Benvolio is the steady peacemaker of Verona, the one cousin who tries to stop the fighting, yet he disappears after Act 3 and the play never explains why."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2022-12-30
+lang: en
 ---
-
 Benvolio is the most reasonable man in Verona, and the tragedy treats that reasonableness as a quality it can use for exactly half its length. He is the first friend the audience meets, the counselor who diagnoses Romeo's lovesickness and prescribes its cure, the witness whose sworn account of the street duel shapes the Prince's sentence, and then, once his report is delivered in Act 3, he is gone: no death, no dismissal, no farewell line, no place in the closing reckoning at the tomb. The standard explanation treats the exit as an accident of drafting or transmission. The better verdict, argued through this study, is that the disappearance is the meaning. Benvolio embodies a particular civic virtue, the wish for peace backed by an honest tongue, and the play removes him at the precise moment that virtue stops working. While he is on stage, somebody in Verona still believes that swords can be parted by words. After he leaves, nobody with a public voice believes it again, and the catastrophe proceeds without a single temperate witness to slow it down.
 
 That verdict requires the whole character to be read as one design: the name that announces goodwill, the sword drawn only to separate other men's swords, the medical counsel offered to a lovesick cousin, the warnings issued on the hottest day of the year, and the testimony that is accurate in its sequence and partial in its emphasis. Each of those elements is examined in turn below, from the text of the Arden Third Series edition prepared by Rene Weis, whose lineation the citations follow. Read as a whole, the part is small in line count and large in structural weight. Benvolio is the control case of the tragedy: the young man who does everything the moralists recommend, keeps his temper, tells the truth as he saw it, and survives untouched, because the play quietly writes him out of a world that has stopped rewarding any of those things.
 
-![Benvolio the peacemaker parting the opening brawl in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Benvolio the peacemaker parting the opening brawl in Verona - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The neglect of the character in the play's popular image is the first obstacle any study of him must clear. Ask a room of readers to name the young men of the tragedy and the answers arrive in a settled order: the lover, the wit, the firebrand, perhaps the suitor. The peacemaker surfaces late, if at all, usually as a piece of plot furniture, the friend who was also there. That ordering is the reputation the play's second half creates, since a figure removed at the midpoint cannot compete in memory with figures who die beautifully in the fifth act. It is also, this study argues, the reputation the play intends its audience to catch itself holding. The forgetting of Benvolio is not an accident that happens to the tragedy from outside. It is an experience the tragedy manufactures in its audience, the same experience Verona has, of a reasonable voice fading from notice while louder voices hold the stage, until the catastrophe assembles in the quiet he used to fill. To study him closely is to recover the play's own first casualty, which is not Mercutio. It is the habit of listening to the calmest man in the room.
 

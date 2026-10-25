@@ -6,15 +6,15 @@ date: 2022-11-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "the-nurse", "class", "nurse-character-analysis"]
 excerpt: "The Nurse is Juliet's bawdy, loving substitute mother, but her pragmatic advice to forget Romeo and marry Paris turns her warmth into a quiet betrayal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2022-11-11
+lang: en
 ---
-
 The first thing to understand about the Nurse in Romeo and Juliet is that the tragedy gives its most expansive memory, its earthiest speech, and its warmest physical affection to a servant. She enters the Capulet household scenes carrying a whole buried life: a dead husband, a dead daughter, a breast that fed the heroine, and a store of anecdote that no aristocratic character in Verona can match. The lords and ladies of the feud speak in the compressed idiom of honour, alliance, and command. She speaks in the idiom of the body, of teething and weaning, of falls and bruises, of appetite and grief, and the contrast is structural rather than decorative. Strip her scenes away and the drama loses its only sustained account of what a childhood in that house felt like from inside it. Restore them, and a figure the popular memory files as comic relief becomes the character through whom the audience learns how love, service, and survival actually work at the lower level of a great household.
 
-![The Nurse telling her Lammas Eve story to Lady Capulet and Juliet in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse telling her Lammas Eve story to Lady Capulet and Juliet in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 That double standing, indispensable and subordinate, is the subject of this character study. The argument developed across the following sections is that the Nurse is the richest comic and class voice in the tragedy, that her comedy is a form of knowledge rather than a relief from knowledge, and that her failure in Act 3 Scene 5, the moment she counsels her charge to forget a banished husband and marry Paris, is best understood neither as treachery nor as innocence. It is the point at which a servant's lifetime of survival wisdom collides with a heroine who has stopped trying to survive on the world's terms. Criticism has often been forced to choose between the warm confidante of the early acts and the supposed traitress of the later ones, as though the two figures were different women. They are the same woman, and that is the point. The qualities that make her delightful in Act 1 and Act 2, her pragmatism, her physical candour, her loyalty to the living person in front of her rather than to any abstraction, are precisely the qualities that make her useless to Juliet in Act 3, when loyalty to a person has become loyalty to an idea of marriage that the servant cannot share.
 

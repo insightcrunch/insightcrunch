@@ -6,15 +6,15 @@ date: 2023-01-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "paris", "suitor", "paris-character-analysis"]
 excerpt: "Paris is the suitable, well-born match every parent wants for Juliet, and the play makes him decent enough that the audience's refusal to root for him stings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2023-01-06
+lang: en
 ---
-
 Paris is the only major figure in Romeo and Juliet whom the audience is asked to wish out of the way without being given a single fault to justify the wish. He is young, noble, wealthy, courteous, and sincere. He asks a father's permission before he courts a daughter. He keeps his temper under provocation, speaks of the woman he wants with consistent tenderness, mourns her with public grief when he believes her dead, and dies keeping a vigil of flowers at her tomb. Against this record the play sets one disqualifying fact: Juliet loves someone else. The verdict of this study is that the imbalance is deliberate and load-bearing. Shakespeare needed the obstacle to be decent, because the tragedy being built is not a contest between a good lover and a bad one. It is a collision between two complete and incompatible systems for arranging a marriage, one conducted by negotiation between households and one conducted by choice between the young people themselves, and the collision only registers as tragedy when both systems can field a champion the audience respects. A villainous Paris would let the audience off cheaply. A decent Paris makes the audience complicit, and the discomfort of rooting against an innocent man is one of the play's most carefully engineered effects.
 
-![Paris, the respectable suitor of Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Paris, the respectable suitor of Verona - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The evidence for that verdict is spread across five appearances, and this study takes them in order: the suit pressed on Capulet in Act 1 Scene 2, the grant extracted in Act 3 Scene 4, the single direct interview with Juliet in Act 4 Scene 1, the lament over her apparent corpse in Act 4 Scene 5, and the night vigil that ends at the tomb in Act 5 Scene 3, compressed here because the tomb scene receives its own sustained close reading elsewhere in this series. Between the scenes stand three further questions that this study answers. What kind of man do the words actually describe, as distinct from the function the plot assigns him? What do the critics make of a character whose thinness may itself be the meaning? And why does the play, having spent so little dialogue on him, take care to have him die well and be buried with honor? The answers converge. Paris is subtly drawn within narrow limits, his decency is the argument rather than an accident of underwriting, and his death is the play's invoice for the marriage market: a good man, correctly behaved at every step, destroyed by a system that never once asked the only question that mattered, which was what Juliet wanted.
 

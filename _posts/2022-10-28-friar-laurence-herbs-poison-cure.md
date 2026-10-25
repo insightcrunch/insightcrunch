@@ -6,15 +6,15 @@ date: 2022-10-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "friar-laurence", "poison", "poison-and-cure-theme"]
 excerpt: "Friar Laurence's speech on herbs that heal and kill sets up the play's central idea that one force, love or medicine, can cure or destroy depending on its use."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-10-28
+lang: en
 ---
-
 The first light of the second day finds Friar Laurence alone in his garden, a basket on his arm, gathering plants before the sun has cleared the horizon. In Romeo and Juliet this is the only scene that opens with a man talking to the earth, and the speech he delivers over the weeds and flowers in his basket is the closest thing the tragedy offers to a statement of its own philosophy. He has to work early, he explains, because the plants must be gathered while the dew is on them, and the observation that follows from that labour carries the whole weight of the action to come. Within a single plant, he says, poison and medicine live side by side. Nothing in nature is only good or only bad. Everything depends on use, on proportion, and on the will of the hand that gathers, prepares, and administers the dose.
 
-![Friar Laurence gathering herbs at dawn in his Verona garden, the poison and cure speech of Act 2 Scene 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence gathering herbs at dawn in his Verona garden, the poison and cure speech of Act 2 Scene 3 - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 That claim, delivered in some thirty lines of rhymed couplets at Act 2 Scene 3, is the thematic key to the tragedy. Every later instrument of the plot obeys the law the speech lays down. The Friar's own potion, compounded from the same knowledge, will imitate death so exactly that it passes for the thing itself, and will be offered as a cure for a forced marriage. The apothecary's poison in Mantua will do in earnest what the potion does in semblance. The marriage the Friar performs in the scene that follows will be meant as medicine for the feud and will function, in the event, as one of the feud's deadliest accelerants. Above every substance stands love itself, the force the Prologue calls death-marked from the first quatrain, which joins the two households and destroys the two children in a single movement. The herb speech announces all of this before any of it happens. It also poses, with a precision the criticism has not always matched, the question the ending forces on every reader: whether a philosophy so clearly stated and so disastrously applied is endorsed by the play that contains it, or quietly indicted by the catastrophe it fails to prevent. The verdict reached here is that the doctrine is endorsed and the practitioner is not. The speech states a truth about the world of the play. The Friar's tragedy is that he understands the truth as a spectator and forgets it as an actor, and the garden speech, read closely, contains the warning he needed and did not take.
 

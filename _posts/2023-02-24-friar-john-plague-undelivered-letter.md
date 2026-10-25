@@ -6,17 +6,17 @@ date: 2023-02-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "friar-john", "plague", "friar-john-letter"]
 excerpt: "Friar John is quarantined for plague and never delivers the letter that would have saved the lovers, so a single offstage accident decides the whole tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-02-24
+lang: en
 ---
-
 Friar John speaks for barely a minute of stage time, and the tragedy turns on every word of it. In Act 5 Scene 2 of Romeo and Juliet, a Franciscan friar with no history, no family, no second scene, and no fault walks into Friar Laurence's cell carrying the most consequential object in the play: Laurence's own letter, undelivered, still sealed with everything Romeo needed to know. The letter was meant to tell the banished Romeo that Juliet's death was a staged sleep, that she would wake in the Capulet vault, and that he should come and take her away. It never left Verona. John had gone to find a fellow friar to travel with him, the two of them were visiting the sick, town officers suspected that the house they entered was infected with plague, and the doors were sealed with both men inside. By the time John stood in Laurence's cell again, a servant's faster and grimmer message had already reached Mantua, and Romeo was riding home with poison in his pocket.
 
 The verdict of this close reading is plain, and the whole article defends it: the quarantine in Act 5 Scene 2 is not an arbitrary accident bolted onto the plot, and it is not a villain's work. It is a public health procedure operating exactly as designed, in a play where every private arrangement has already been corrupted by secrecy, haste, and feud. Shakespeare lets a quarantine decide the outcome because the catastrophe was never waiting for a grander cause. The lovers are not destroyed by a star, a curse, or a wicked opponent at the final gate. They are destroyed by a message system with a single carrier, a single road, and no backup, colliding with the one force in the play that no character can charm, bribe, hurry, or fight: an epidemic administration doing its ordinary duty. Friar John is the hinge of the tragedy precisely because he is nobody. Restoring him to the centre of the reading restores the accident at the centre of the tragedy, and the accident, examined closely, turns out to be the most carefully prepared event in the final act.
 
-![Friar John returning the undelivered letter to Friar Laurence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar John returning the undelivered letter to Friar Laurence - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Three features of the scene reward the close attention it rarely gets. First, its language is procedural rather than passionate: officers, suspicion, sealed doors, infection feared by other carriers. The scene reads like a deposition, and that flatness is a deliberate instrument, because it sets the temperature of the catastrophe at the level of administration rather than destiny. Second, its placement is surgical. The audience has just watched Balthasar deliver the false report to Romeo and has heard Romeo resolve on death; the very next scene explains, in fewer than thirty lines, why the true report never stood a chance. Third, its central figure is defined entirely by an errand he did not fail at through any weakness of his own. John did everything his order and his instructions required. He sought the companion Franciscan custom demanded, he visited the sick as his calling required, and he tried to find another carrier when his own road was blocked. The machine around him failed, not the man. A reading of the play that skips Friar John skips the moment where the tragedy's theory of causation is stated in its purest form: in Verona, intentions travel badly, and paper travels worst of all.
 

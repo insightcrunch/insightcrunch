@@ -6,15 +6,15 @@ date: 2023-05-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "feminist-reading", "women", "patriarchy", "women-of-verona"]
 excerpt: "Juliet, Lady Capulet, and the Nurse are the only real women in Verona, and reading them together exposes how narrowly the play's patriarchal city defines them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-05-05
+lang: en
 ---
-
 The women of Verona can be counted on one hand, and the counting is the argument. Four women speak in Romeo and Juliet: Juliet, Lady Capulet, the Nurse, and Lady Montague. A fifth woman, Rosaline, is named in dialogue, written into a guest list, praised and anatomized by men, and never once brought onto the stage. Everything else in the city belongs to men: two patriarchs, their sons and nephews, a prince, a friar, a crowd of servants, and the machinery of a feud that fills the streets with drawn swords. Read one at a time, each of the four speaking women has attracted a separate shelf of commentary, and each solo study finds a personality. Read together, as a system, the four women map the entire range of lives that Verona permits a woman to live: the silent wife, the prudent broker, the hired intimate, and the protected heir whose marriage is the most valuable transaction either household will ever close.
 
-![The women of Verona, Juliet, Lady Capulet, the Nurse, and Lady Montague - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The women of Verona, Juliet, Lady Capulet, the Nurse, and Lady Montague - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The verdict of a joint reading is severe. The play defines every woman by her relation to a man or to a marriage: a wife who exists to restrain and then to grieve, a mother who exists to deliver her daughter to a buyer, a servant who exists to carry messages between lovers she must finally abandon, and a girl who exists to be given away. Juliet alone attempts to step outside the definition, negotiating her own marriage in an orchard at night, and the system answers her with exile, a forced wedding, a potion, and a tomb. Her reward in the final scene is to be turned into a statue of pure gold, an object of value exchanged between two reconciled fathers. The other three women end the play diminished in exact proportion to their obedience: the wife dead offstage, the mother aged in a single speech, the servant vanished from the action she served. Verona's peace is negotiated entirely by men, over women's bodies, without a single woman consulted. That distribution of outcomes is the play's evidence, and any account of the tragedy that studies Juliet alone, lifted out of the female system around her, mistakes the exception for the rule and the romance for the subject.
 

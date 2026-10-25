@@ -6,17 +6,17 @@ date: 2022-12-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "lady-capulet", "motherhood", "lady-capulet-analysis"]
 excerpt: "Lady Capulet leaves her daughter to the Nurse, pushes the Paris match, and craves Romeo's death, and her coldness frames Juliet's isolation in the household."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-12-16
+lang: en
 ---
-
 Lady Capulet is the easiest major figure in Romeo and Juliet to forget, and that forgetfulness is the first fact a serious character study has to explain. The tragedy is remembered as a story of two lovers, a witty friend, a well-meaning friar, a raging father, and a garrulous nurse. The mother of the heroine slips out of the retelling almost entirely. Yet the play gives her a precise and damaging function. She is the parent who was never close enough to lose. Capulet rages and can therefore be resisted; the Nurse chatters and can therefore be confided in; Lady Capulet presides at a distance that no scene ever closes, and her daughter grows up, falls in love, marries, and dies without once being held in anything that resembles maternal confidence. This study reads her whole arc across the five scenes in which she matters, weighs the evidence for cruelty against the evidence for damage, and reaches a verdict: Lady Capulet is not the villain of the Capulet household but its most complete casualty, a woman married as a child into a loveless arrangement who reproduced, faithfully and without imagination, the only model of motherhood her world had left her. The verdict comes with one hard exception. Her promise to have Romeo poisoned in Mantua is hers alone, an act of personal vindictiveness that no convention required, and it is the moment where sympathy for the casualty has to stop.
 
 The textual basis throughout is Rene Weis's Arden Third Series edition of the play, cited by act, scene, and line, with Jill L. Levenson's Oxford edition consulted on the scenes where the early quartos diverge in ways that affect her part. Quotations are kept short and anchored, because the case against Lady Capulet is often overstated by paraphrase and is actually stronger when her exact words are allowed to speak. Her exact words are few. That scarcity is itself evidence, and a good part of the argument below rests on measuring what the play gives her against what it gives the servant who raised her child.
 
-![Lady Capulet character analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lady Capulet character analysis - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## Lady Capulet Character Analysis: The Shape of a Distant Mother
 

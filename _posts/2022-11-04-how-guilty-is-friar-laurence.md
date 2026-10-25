@@ -6,15 +6,15 @@ date: 2022-11-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "friar-laurence", "guilt", "friar-laurence-guilt"]
 excerpt: "Friar Laurence means well at every step, yet his secret marriage and risky potion help doom the lovers, so the question of his real guilt stays genuinely hard."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-11-04
+lang: en
 ---
-
 Friar Laurence is the only figure in Romeo and Juliet whom the play itself places in the dock. In the last scene, surrounded by the dead, he stands before Prince Escalus and delivers the longest explanatory speech in the tragedy, a narrative that functions as testimony, confession, and plea at once. The Prince hears it and pardons him on the spot: "We still have known thee for a holy man." Case closed, apparently. Yet the argument has never closed. Readers keep re-trying the Franciscan because the evidence refuses to settle into the pardon. He married two minors in secret. He devised a counterfeit death. He trusted the whole rescue to a single letter, and when the machinery failed he ran from the tomb and left a waking girl alone among corpses with a dagger in reach. Against that record stand his intentions, which the text insists were peaceable at every step, and a chain of accidents, the sealed doors of a plague house chief among them, that no planner could have foreseen. This article tries the case properly. It separates the two questions that casual discussion habitually fuses: what the Friar meant, and what the Friar did. Weighed on intent, he is innocent. Weighed on conduct, he is guilty, though of a lesser charge than murder by negligence of the heart. The verdict argued here is precise: Friar Laurence is guilty of reckless guardianship, of choosing secrecy and speed over the safeguards his own teaching demanded, and he is not guilty of malice, nor is he the principal cause of the deaths. The play, read closely, delivers exactly that split judgment, and it delivers it before the Prince speaks.
 
-![Friar Laurence weighing herbs and conscience in his cell - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence weighing herbs and conscience in his cell - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## The Charge Sheet: What the Guilt Debate Actually Decides
 

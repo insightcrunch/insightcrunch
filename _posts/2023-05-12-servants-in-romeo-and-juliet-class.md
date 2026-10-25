@@ -6,15 +6,15 @@ date: 2023-05-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "servants", "class", "servants-in-romeo-and-juliet"]
 excerpt: "The servants of Romeo and Juliet brawl, joke, and carry messages, and reading the play from below shows how the feud and the household look to the lower ranks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-05-12
+lang: en
 ---
-
 The servants of Romeo and Juliet speak the first words of the play, and the play cannot move a single scene without their hands. Before any lover sighs, two Capulet servingmen are trading jokes about coal and colliers in a Verona street, and the brawl they provoke brings the Prince, the patriarchs, and the whole machinery of the feud onto the stage. From that opening minute to the final one, where Romeo's man stands before the Prince giving evidence among the corpses, the lower ranks carry the tragedy's messages, cook its feasts, guard its doors, fetch its logs, misdeliver its invitations, and sell its poison. The verdict argued across this article is that the servants are neither decorative nor incidental: they are the play's second nervous system, the channel through which every order, invitation, and report must pass, and the tragedy of the masters is enabled, transmitted, and observed by the people paid to serve them.
 
-![The servants of the Capulet and Montague households at work below stairs in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The servants of the Capulet and Montague households at work below stairs in Verona - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 Reading the play from below changes what the feud looks like. From the masters' level, the feud is a matter of honor, names, and ancient dignity, proclaimed in the Prologue's opening line, "Two households, both alike in dignity" (Prologue, line 1, in René Weis's Arden Third Series edition, the text quoted throughout this article). From the servants' level, the same feud is a working condition: a quarrel inherited with the livery, fought by men who did not choose it, in streets where a servant's body is the first currency the quarrel spends. The servants did not write the feud's script, yet they perform its opening scene, and the distance between those two facts, inheritance and performance, is where the play's quiet social comment lives. The cliche about this tragedy sees only the lovers and the lords. Restoring the serving ranks restores the play's social depth, because the serving ranks are where the great themes of the play, loyalty, obedience, literacy, poverty, and haste, are tested against wages and weather rather than against honor.
 

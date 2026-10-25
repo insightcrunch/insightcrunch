@@ -6,15 +6,15 @@ date: 2023-01-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "rosaline", "unseen-character", "rosaline-analysis"]
 excerpt: "Rosaline never speaks or appears, yet Romeo's love for her opens the play, and this absent Capulet quietly shapes how we read his sudden passion for Juliet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-01-27
+lang: en
 ---
-
 Rosaline is the most consequential person in Verona who never sets foot on its stage. She has no lines, no entrance, no exit, no costume, and no actor. What she has is a name, spoken a handful of times by other people, a place on a guest list, a reputation for chastity reported at second hand, and a face assembled once, in mockery, out of a list of body parts. Everything the audience knows about her arrives as somebody else's sentence. Yet the whole machine of the tragedy is set in motion by her refusal, measured against her replacement, and judged, in the Friar's courtroom of a cell, by the speed with which she was dropped. Remove her mentions and the play loses its opening weather, its reason for the feast, its first great joke, and its sharpest piece of moral evidence. Keep them, in their exact order and their exact scarcity, and they form a designed sequence that this article catalogues in full.
 
-![Rosaline, the unseen woman of Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rosaline, the unseen woman of Verona - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The verdict argued here is plain. Rosaline is not a failed character, a leftover from a source, or a mere switch that turns the plot on. She is a theme delivered through the machinery of a device: the play thinks with her. Each mention does different work, and the work escalates. She is first a rumour in a father's worried report, then a riddle in a lover's riddling speech, then a line of handwriting on a servant's paper, then an invitation's bait, then a spell ingredient in a friend's bawdy conjuration, then evidence in a friar's rebuke, and finally a silence so complete that the tomb scene has no room for her name. That progression, from report to document to incantation to judgment to erasure, is the argument of the play in miniature: it shows how Verona turns persons into instruments, and it lets the audience watch Romeo do to Rosaline exactly what the feud does to everyone, converting a human being into a use.
 

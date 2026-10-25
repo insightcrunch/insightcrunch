@@ -6,17 +6,17 @@ date: 2023-02-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "balthasar", "servant", "balthasar-analysis"]
 excerpt: "Balthasar rides to Mantua with the news that Juliet is dead, and this loyal servant's faithful report, true to what he saw, sets the final catastrophe moving."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-02-10
+lang: en
 ---
-
 Balthasar is the hinge on which the ending of the tragedy swings, and he is a servant with fewer than forty lines. Romeo's man sees Juliet's body carried to the Capulet vault, rides to Mantua ahead of every other channel of information, and reports exactly what he witnessed: "Her body sleeps in Capels' monument, / And her immortal part with angels lives" (5.1.18-19). Every word of that report is honest. Every word of it is also, in the sense that matters, wrong, because the death he describes is a performance staged by a potion, and the explanation that would have corrected his news is sitting undelivered in a quarantined house in Verona. The argument of this article is that Balthasar bears no blame for the catastrophe his ride sets moving, and that his innocence is the point. The play builds its ending out of messages, and it arranges for the fastest message to be the false one and the true message to be the one that never travels. Balthasar is the human face of that arrangement: a servant whose fidelity is flawless, whose evidence is accurate, whose conduct at every stage is what loyalty requires, and whose perfection in his office is precisely what makes the disaster unstoppable. Restoring him to the centre of the final act, where the plot in fact puts him, restores the machinery of miscommunication that the familiar love story leaves out.
 
 The verdict can be stated plainly at the outset, because the whole analysis that follows is its defence. Balthasar is not a blunderer, not a gossip, not a careless carrier who garbles what he was told. He is the one figure in the last movement of the play who does his job completely and correctly, and the catastrophe happens through his correctness rather than around it. That is a harder and more interesting design than a failed messenger, and it is why this minor character repays a full study. Quotations in this article follow René Weis's Arden Third Series edition of the play, and line references are to that text.
 
-![Balthasar bringing the news of Juliet's death to Romeo in Mantua - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Balthasar bringing the news of Juliet's death to Romeo in Mantua - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## Who Is Balthasar? The Servant the Story Forgets
 

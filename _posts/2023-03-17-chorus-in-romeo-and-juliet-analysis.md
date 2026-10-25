@@ -6,17 +6,17 @@ date: 2023-03-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "chorus", "prologue", "chorus-analysis"]
 excerpt: "The Chorus speaks two sonnet prologues in Romeo and Juliet, then vanishes, and who it really is and why it stops is a genuine, unresolved textual question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-03-17
+lang: en
 ---
-
 The Chorus is the most consequential nobody in Romeo and Juliet. A single unnamed figure walks out before the action begins, delivers fourteen lines of verse in the form of a sonnet, withdraws, returns once more before Act 2 with a second sonnet, and is then never heard again in a play that runs for three further acts. The figure has no name, no costume specified in any early text, no interlocutor, and no part in the story being told. Yet the twenty-eight lines this voice speaks contain the whole plot in embryo: the feud, the lovers, the deaths, and the reconciliation those deaths purchase. The verdict argued through this article is plain. The Chorus is not a character and was never meant to be one. It is the playing company speaking in its own person, a professional spokesman hired by the fiction for two specific jobs, the establishment of foreknowledge before the play opens and the management of a difficult transition before Act 2. When those jobs are done, the office lapses, and its disappearance is a mark of design rather than of damage. The textual oddities that surround the figure, above all the complete absence of both speeches from the First Folio of 1623, record the history of the playhouse and the printing house. They do not record an authorial second thought, and they do not make the second sonnet spurious.
 
 That verdict has to be earned against a genuinely tangled record. The two Chorus speeches survive in the early quartos, in the abbreviated First Quarto of 1597 and in the authoritative Second Quarto of 1599, and vanish together from the Folio. The second sonnet has had its authorship doubted in the older editorial tradition, partly because it recapitulates rather than prophesies, partly because its manner is more conventional than the first sonnet's, and partly because the Folio omission was once read as evidence against both speeches. Modern editors, Rene Weis in the Arden third series, Jill L. Levenson in the Oxford edition, and G. Blakemore Evans in the Cambridge edition among them, print both speeches from the Second Quarto and treat the Folio absence as a theatrical fact rather than a textual verdict. The disagreement is worth staging in full, because the Chorus question turns out to be a model of how this play's text reaches a reader: filtered through performance, abridgement, and the economics of print. Who is speaking, in the end, is a question with three answers layered inside one another. Within the fiction, nobody is speaking, because the Chorus stands outside the fiction's world. Within the theatre, an actor is speaking, one member of the company stepping forward in his own clothes and his own person. Within the text, a quarto voice is speaking, one the Folio silenced and modern editing restored. The article takes the three answers in order.
 
-![The Chorus figure of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Chorus figure of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 ## Who Is the Chorus in Romeo and Juliet?
 

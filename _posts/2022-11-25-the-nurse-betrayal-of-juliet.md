@@ -6,17 +6,17 @@ date: 2022-11-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "the-nurse", "betrayal", "nurse-betrays-juliet"]
 excerpt: "The Nurse who helped Juliet wed Romeo later tells her to marry Paris instead, and that pragmatic counsel is the betrayal that leaves Juliet finally alone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-11-25
+lang: en
 ---
-
 The cruelest speech in Romeo and Juliet is not a threat, a curse, or a sentence of exile. It is a piece of friendly advice. Late in Act 3 Scene 5, with her father storming out of the room and her mother washing her hands of her, Juliet turns to the one person who has carried every secret of her short married life and begs for comfort and counsel. The Nurse gives her counsel. Romeo is banished and might as well be dead; Paris is the better match; the girl should marry the County. Within a dozen lines a bond built across thirteen years of feeding, carrying, joking, and conspiring is finished, and Juliet is alone in a play that has been stripping her protectors away one scene at a time.
 
 This article owns a single moment and its consequences: the counsel at the end of Act 3 Scene 5, the exact lines where the bond breaks, and what the break does to everything Juliet does afterward. The verdict argued here is precise. The Nurse's advice is a betrayal, not because the older woman stops loving the girl, and not because her reasoning is foolish, but because she counsels the one act that annihilates what she herself helped to make: a solemnized marriage. She had carried the messages, vetted the bridegroom, fetched the rope ladder, and stood guard over the wedding night. When she prices that marriage at nothing because its husband is out of reach, she does not merely change her mind. She withdraws the witness. A secret marriage with no living witness except a friar and a servant loses its social existence the moment the servant stops testifying to it, and the Nurse, who understands households better than anyone in the play, knows the value of testimony even if she never names it.
 
-![The Nurse counsels Juliet toward Paris in Act 3 Scene 5 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse counsels Juliet toward Paris in Act 3 Scene 5 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 ## A Staircase of Desertions: Act 3 Scene 5 in Romeo and Juliet
 

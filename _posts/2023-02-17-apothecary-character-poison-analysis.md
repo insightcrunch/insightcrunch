@@ -6,15 +6,15 @@ date: 2023-02-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "apothecary", "poverty", "apothecary-analysis"]
 excerpt: "The starving Mantua apothecary sells Romeo poison against the law, and his line that his poverty consents, not his will, turns a tiny role into social comment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-02-17
+lang: en
 ---
-
 The apothecary of Mantua speaks four short speeches in the whole of Romeo and Juliet, and one of them sells the poison that ends the play. He has no name, no history, no second scene, and no malice. What he has is hunger, a shop full of empty boxes, and a statute hanging over his trade, and Shakespeare builds from those three facts the sharpest piece of social criticism in the tragedy. The verdict of this reading is plain: the scene in Act 5 Scene 1 is not a convenience of plotting, a handy shop on the road to the tomb. It is an indictment, staged as a sale, of a world in which the law guards the rich man's city and starves the poor man's conscience, in which gold does more murder than any drug, and in which a starving seller can be forced to consent with everything except his will. The exchange takes under ninety lines. Almost every line of it is evidence.
 
-![The starving apothecary of Mantua in his needy shop, weighing Romeo's gold against Mantua's law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The starving apothecary of Mantua in his needy shop, weighing Romeo's gold against Mantua's law - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Begin with what the man is not. He is not a villain, and the play takes care to keep him from becoming one. No speech of his gloats, schemes, or even wonders who the buyer is. He warns the buyer of the law before he takes the money. He gives exact instructions for the drug he sells, like any tradesman who knows his stock. He exits without a curse, a blessing, or a backward glance, and the play never mentions him again, not even when the Prince assembles the guilty and the bereaved in the churchyard and demands to know how the deaths were made. The seller of the poison is beneath the notice of the final reckoning. That silence is part of the scene's design, and it is one of the things this reading restores, because the familiar version of the story skips the apothecary entirely and treats the poison as something Romeo simply obtains, the way a hero in a romance obtains a sword. Shakespeare's text is more interested, and more angry, than that. A close study of the transaction, its price, its law, and its two great speeches, the persuasion and the gold speech, shows a dramatist using a minor figure to put an entire economy on trial.
 

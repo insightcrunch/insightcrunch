@@ -6,15 +6,15 @@ date: 2023-04-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "protagonist", "juliet", "romeo-or-juliet-protagonist"]
 excerpt: "Romeo speaks first and the title names him first, yet Juliet drives more of the plot, so the question of who is the real protagonist is genuinely arguable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-04-28
+lang: en
 ---
-
 Ask a room of readers who the protagonist of Romeo and Juliet is and most will name Romeo before the question has finished landing. The reflex feels safe. His name stands first in the title, he walks into the play first, he speaks first of the two, and the bulk of the famous speeches that schoolrooms assign, the orchard rapture, the defiance of the stars, the long address over the body in the tomb, are his. Against that reflex stands a quieter body of evidence that the play itself keeps insisting on. The Capulet daughter receives more soliloquy than the Montague son, takes the decisions on which the second half depends, grows further across the five acts than anyone else on the stage, and speaks in every act while her husband vanishes from the fourth entirely. The question is therefore genuine, and it deserves better than a reflex. It deserves an audit.
 
-![The two claimants to the protagonist's place in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The two claimants to the protagonist's place in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 This article conducts that audit and reaches a defended verdict. The verdict has two parts, and both parts matter. First, the play is built as a genuine dual protagony: the pair, not either lover alone, is the unit Shakespeare constructed, and the balance between them is design rather than indecision. Second, inside that designed balance the scales do not sit level. On the measures that reveal where a play keeps its centre of gravity, on soliloquy, on initiative, on the steepness of the arc, on presence in the acts where the catastrophe is prepared, Juliet leads. Romeo leads on the cruder gauges, the raw line count, the title's word order, the first entrance. A protagonist, though, is not a line count. A protagonist is the figure whose choices the action turns on and whose inner life the audience is given to inhabit. By that standard the play's first citizen is its heroine, held in a deliberate partnership with the hero whose name the title happens to print first.
 

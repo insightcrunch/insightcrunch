@@ -6,17 +6,17 @@ date: 2023-04-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "mercutio", "romeo", "mercutio-vs-romeo-love"]
 excerpt: "Mercutio sees love as bodily appetite and Romeo sees it as worship, and the clash between the two friends stages the play's whole argument about what love is."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-04-14
+lang: en
 ---
-
 Mercutio and Romeo are the play's two theorists of love, and the tragedy begins as their argument. One friend insists that desire is a bodily appetite, to be fed, mocked, and discharged before it makes a fool of the man who feels it. The other insists that desire is a form of worship, to be suffered, decorated, and obeyed until it remakes the world around the beloved's face. Shakespeare gives each man a complete vocabulary, a set of set pieces in which to perform it, and a best friend positioned to hear the performance and answer it. The debate is not decoration laid over the plot. It is the plot's engine room, because every catastrophe in the play can be traced to a moment when one theory of love was applied where the other, or a third that neither man holds, was required.
 
 The verdict of this article can be stated at the outset. The play endorses neither friend. Mercutio's reduction of love to appetite is exposed as a defense that cannot survive contact with his own death, and Romeo's elevation of love to worship is exposed as a literary habit that cannot survive contact with a real girl answering back. What the play puts in their place is the third position embodied by Juliet: a frank tenderness that wants the body, says so in plain comparisons, and binds desire to terms, conditions, and a wedding. The tension among the three positions is never resolved into a doctrine, and that refusal is the point. Verona's tragedy is what happens when two half-truths about love are each acted on as though they were whole.
 
-![Mercutio and Romeo debating what love is in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mercutio and Romeo debating what love is in Verona - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 Every quotation in what follows is taken from René Weis's Arden Third Series edition of the play, and line references follow that text. The argument proceeds by scenes, because the play itself proceeds by scenes: the two theories are stated in Act 1, tested against Rosaline's absence and Juliet's presence in Act 2, broken against each other in Act 3, and judged by what remains of them in Act 5. Joseph Porter's study of Mercutio, Harry Levin's account of the play's formal design, and Heather Dubrow's work on Petrarchism and its counterdiscourses supply the critical frame, and where Porter and Levin disagree about what Mercutio's wit is doing, the disagreement will be settled rather than merely reported.
 

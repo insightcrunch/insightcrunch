@@ -6,15 +6,15 @@ date: 2022-12-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "lord-capulet", "patriarchy", "capulet-rage-analysis"]
 excerpt: "Capulet's explosion at Juliet, hang thee, young baggage, is among the play's most violent speeches, and reading it closely exposes the patriarch in the host."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2022-12-09
+lang: en
 ---
-
 Capulet's rage against Juliet in Act 3 Scene 5 is the most violent speech in Romeo and Juliet, and it is violent in a specific way that a close reading can recover. "Hang thee, young baggage! Disobedient wretch!" (3.5.160) is not the loss of a temper. It is the passing of a sentence. Across roughly sixty lines, in the Arden Third Series text edited by René Weis, the father moves through disbelief, mockery, ultimatum, curse, and legal disownment, and at each stage the language does a colder thing than the stage before it. The verdict of this reading is stated plainly at the outset: the tirade is an instrument of property law spoken aloud. A daughter who will not be given away is reclassified, word by word, as waste to be thrown out of the house, and the speech's imagery of baggage, carrion, and disease is the paperwork of that reclassification. What Verona calls a wedding is exposed, in the father's own mouth, as a transfer of goods, and the rage is the sound of the transfer being refused.
 
-![Lord Capulet confronting Juliet in Act 3 Scene 5 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lord Capulet confronting Juliet in Act 3 Scene 5 - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The whole-character question of how the genial host of Act 1 becomes this figure belongs to the character study, and readers who want the arc whole should follow [the full study of Lord Capulet, loving father to furious tyrant](/2022/12/02/lord-capulet-character-analysis/), which traces the indulgence of the feast and the patience of the first interview with Paris. This reading compresses that biography to a single observation and then stays with the speech. The observation is that the rage is not an interruption of the father's character but a disclosure of its terms. In Act 1 he tells Paris that his consent is only part of the suit, that Juliet's own choice must do the rest, and he asks the suitor to wait two summers. In Act 3 Scene 5 the same man announces that his care has procured a gentleman of noble parentage and that the girl will go to church on Thursday or be dragged there. The two speeches are consistent once the underlying premise is granted: consent was a courtesy extended while the merchandise was being kept in good condition, and courtesy lapses the moment the goods decline delivery. The tirade is where the premise stops being decorous and starts being audible.
 

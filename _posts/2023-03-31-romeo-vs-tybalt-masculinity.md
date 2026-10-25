@@ -6,15 +6,15 @@ date: 2023-03-31
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "masculinity", "honor", "romeo-vs-tybalt"]
 excerpt: "Romeo and Tybalt embody rival ideas of manhood in Verona, the lover against the duellist, and the clash between honor and love decides the play's tragic turn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-03-31
+lang: en
 ---
-
 Romeo and Tybalt meet in the square at the hinge of the play, and the meeting is a contest between two complete and incompatible answers to the question of what a man is. Tybalt's answer is the older one and the city's official one: a man is a surface of reputation that any insult scratches, and the scratch must be answered with a sword before witnesses, according to rules, without hesitation and without mercy. Romeo's answer, formed in a single night and sealed in a friar's cell that morning, is that a man is what he loves, that kinship can be made by vow as well as by blood, and that the word "villain" can be declined like an invitation. The verdict of this article is plain and it is argued on the evidence of the scene itself: the play indicts Tybalt's model without reserve, as a machine for converting pride into corpses, and it indicts Romeo's model only in its collapse, at the moment Romeo abandons it and takes up the rival code to avenge his friend. Romeo's refusal to fight is the sanest act of manhood in Verona, and the tragedy is that Verona gives it no room to stand. Within the hour of his marriage he is a killer, exiled, and calling himself fortune's fool, and every step of that ruin is measured out by the code he tried, for perhaps ninety lines, to refuse.
 
-![Romeo and Tybalt facing each other across the Verona square as rival models of manhood - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Tybalt facing each other across the Verona square as rival models of manhood - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The contrast matters because the familiar account of the play, the account of two sweet children destroyed by an abstract feud and an unlucky letter, dissolves the argument the scene is making. The feud in this scene is not weather. It is a curriculum. It teaches boys a script for being men, examines them in public on how well they have learned it, and punishes deviation with the one penalty a young man of rank cannot afford, which is shame. Tybalt is the curriculum's prize pupil, word-perfect, punctual, lethal. Romeo is its most gifted dropout, a boy who has found a second curriculum in the orchard and the cell, written in sonnets and vows instead of challenges and causes. Act 3 Scene 1 is the examination hall where the two scripts collide, and the play arranges the collision with an examiner's precision: the challenge delivered in the code's exact grammar, the refusal delivered in the counter-code's exact grammar, a third young man who belongs to neither script stepping between them, and the dropout passing the first examination in the end by failing it, sword in hand, over his friend's body.
 

@@ -6,17 +6,17 @@ date: 2023-03-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "servants", "the-feud", "sampson-and-gregory"]
 excerpt: "Sampson and Gregory open Romeo and Juliet with crude puns and a street brawl, and their servants' quarrel shows the feud has soaked down to the lowest ranks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-03-03
+lang: en
 ---
-
 Sampson and Gregory, two servingmen of the house of Capulet, speak the first words of Romeo and Juliet after the Chorus has withdrawn, and the choice is the play's first argument. Before Romeo sighs, before Juliet appears, before either father draws a sword, the tragedy opens in prose, at street level, with a pair of liveried men daring each other to start a fight neither can explain. The verdict of this close reading is plain: the opening exchange is not a comic warm-up bolted onto a love tragedy. It is a working model of the feud itself, built at the smallest scale the play affords, and its bawdy wordplay is the mechanism of the model. In the space of some seventy lines, a pun about coal becomes a pun about anger, a pun about precedence becomes a threat against women, and a bitten thumb becomes drawn swords. Language in this scene does not describe violence after the fact. Language manufactures violence, step by deniable step, and the men operating the machine are the lowest-ranking speakers in Verona.
 
 That design matters because the familiar account of the play begins with the lovers and treats everything before the Capulet feast as preamble. The text disagrees. The Prologue has already named the subject as an ancient grudge breaking to new mutiny, and the first scene embodies the grudge in bodies that have no stake in it beyond a livery and a wage. Sampson and Gregory do not know why the houses hate. Neither man ever says what the quarrel is about, and the one line that touches the question, Gregory's observation that "the quarrel is between our masters and us their men" (1.1.20), assigns the ownership of the hatred upward and the labour of it downward. What the servants own is the performance: the swagger, the puns, the fencing vocabulary of honour. A close reading of their exchange, line by line, shows how completely the feud has soaked through the city's social fabric when even its instruments must improvise reasons to fight in real time.
 
-![Sampson and Gregory trading puns in a Verona street at the opening of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sampson and Gregory trading puns in a Verona street at the opening of the play - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The exchange also establishes the play's deepest linkage before the love plot exists to express it. The servants' talk slides without a seam from fighting men to possessing women, from cutting off heads to cutting off maidenheads, so that sex and violence share a single vocabulary from the play's first minute. Every later fusion of desire and death in the tragedy, the lovers' wedding night shadowed by Tybalt's corpse, Juliet's bridal bed becoming her grave, is present in embryo in a joke two servants make while waiting for someone to offend them. Line references in what follows are to Rene Weis's Arden Third Series edition of the play; other editions differ by a line here and there, and the glosses discussed are those the standard editions supply.
 

@@ -6,15 +6,15 @@ date: 2023-05-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "masculinity", "violence", "verona-young-men"]
 excerpt: "The young men of Verona, Tybalt, Mercutio, Romeo and the rest, are bred to brawl, and the play traces how that taught violence consumes a whole generation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-05-19
+lang: en
 ---
-
 The young men of Verona are the play's first sight and its last accounting. Before any lover speaks, servingmen quarrel in a public place over which house they serve, and before the tragedy closes, the churchyard holds the bodies of Mercutio's generation one by one: Mercutio himself, Tybalt, Paris, Romeo, and, by a dagger rather than a sword, Juliet, whose death the same machinery arranged. The verdict argued here is that the tragedy anatomizes a system of manhood rather than a run of bad temperaments. Verona teaches its sons that a slight unanswered is a self lost, examines them on that lesson in front of witnesses, licenses the examination through an inherited feud, and then collects the fee in a single week. Each young man in the cohort holds a different rank, temperament, and degree of belief in the code, and the code takes all of them anyway: the believer, the volunteer, the courteous conformist, and the one pupil who tried to resign. That spread of victims is the evidence. A story about individual hotheads would kill the hotheads. This story kills across the whole range of male character, sparing chiefly the peacemaker who refuses every examination and the servants who survive to carry messages and open gates. What destroys the generation is not any man's nature. It is the curriculum they all, willing or not, attended.
 
-![Verona's young men facing one another in the public square as a generation bred to fight - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Verona's young men facing one another in the public square as a generation bred to fight - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Reading the cohort as a cohort changes what the famous scenes mean. The duel in Act 3 Scene 1 stops looking like an interruption of a love story and becomes the generation's graduation ceremony, the moment the training is cashed. Paris at the tomb stops looking like an unlucky rival and becomes the code's most damning exhibit, a courteous, grieving, law-abiding young man who still reaches for his sword within a dozen lines of meeting a stranger in the dark. Benvolio stops looking like a minor utility figure and becomes the control case in an experiment: the one young man who treats every provocation as a reason to leave, and the one principal youth left standing when the watch closes the churchyard gate. Even the servants matter to the design, because the opening brawl shows the training at its lowest social level, where boys with no property in the feud fight for the honor of houses that would not feed them if they fell. The feud's engine room and its finishing school are the same room. This article follows the cohort through that room: the lesson as the street teaches it, the license the elders sign, the different ways each young man sits the examination, the casualty map that records the results, the Elizabethan honor culture behind the fiction, and the critical argument over whether the tragedy merely shows the violence or judges it. The judgment reached is that the showing is the judging, arranged so that consequence after consequence testifies against the code that produced it.
 

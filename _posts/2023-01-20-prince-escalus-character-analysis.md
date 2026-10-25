@@ -6,15 +6,15 @@ date: 2023-01-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "prince-escalus", "authority", "prince-escalus-analysis"]
 excerpt: "Prince Escalus speaks for law and order in Verona, yet each of his three interventions arrives too late, and his civic failure quietly frames the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-01-20
+lang: en
 ---
-
 Prince Escalus is the most powerful man in Verona and the least effective force in the play that bears his city's tragedy. He speaks fewer lines than the Nurse, appears in only three scenes, and never draws a sword, arranges a marriage, or writes a letter. Yet the whole action of Romeo and Juliet is framed by his office: the play's first public event is his edict, its turning point is his sentence, and its final words are his judgment. Between those three appearances, everything that matters happens without him. A secret marriage is celebrated in a friar's cell, a potion is brewed and swallowed, a letter miscarries, and two young people die in a tomb his watch discovers only when the blood is already dry. The Prince is the state's whole visible presence in the tragedy, and the state, in scene after scene, arrives after the damage.
 
-![Prince Escalus pronouncing judgment over Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Prince Escalus pronouncing judgment over Verona - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The verdict argued through this article is double, and the play itself delivers both halves of it. The Prince's failure is structural in kind: the law he commands is a law of proclamation, hearing, and sentence, a machinery built to answer public acts after they occur, and it has no instrument that can reach a hatred conducted inside two great houses, in whispers, marriage contracts, and codes of honor. No stronger proclamation could have searched the Friar's cell or read the Nurse's errands. But the failure is also personal in degree, and the person who says so is Escalus himself. His closing speech contains the most remarkable sentence any ruler in Shakespeare pronounces over his own reign: an admission that he winked at the discords for years, priced at the loss of two kinsmen and folded into a verdict that punishes the judge along with the judged. The office explains the failure. The confession convicts the man.
 

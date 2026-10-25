@@ -6,15 +6,15 @@ date: 2023-03-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "peter", "comic-relief", "peter-capulet-servants"]
 excerpt: "Peter and the Capulet servants bring clowning to Romeo and Juliet, and their comedy, especially with the musicians after Juliet's death, sharpens the grief."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-03-10
+lang: en
 ---
-
 Peter stands at the centre of the Capulet servants in Romeo and Juliet, and the verdict of this character study is plain from the start: the servant comedy is not decoration pasted onto a tragedy, and it is not relief in the simple sense of rest. Peter and the household servants form the tragedy's surviving comic thread, a line of prose, errands, kitchen labour, and music that keeps running while the verse world of the lovers narrows toward the tomb, and the friction between that thread and the catastrophe is deliberate. When Peter trades puns with hired musicians minutes after Juliet has been found apparently dead, the scene does not let grief off the hook. The scene holds grief up to a hard, ordinary light, in which hired men want payment, a servant wants a tune, and a household that has lost its daughter must still decide what the band is owed. That is the counterpoint the whole servant line has been building toward, and it is why the clowning sharpens the tragedy instead of softening it.
 
-![Peter and the Capulet servants in the Capulet household - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Peter and the Capulet servants in the Capulet household - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The argument rests on placement. Shakespeare does not scatter the servant comedy at random through the play, and he does not confine it to the early acts where comedy might be expected to belong. The servants open the play's world from below, carry the errand that puts Romeo in front of the Capulet guest list, clear the feast, guard the Nurse's dignity in the street, bustle through the wedding morning, and then, at the moment of maximum lamentation, refuse to stop being funny. Each appearance falls against a tragic beat, and the pattern is too regular to be accident. Read in sequence, the servant scenes map the tragedy's emotional rhythm: laughter first establishes the household as a working place, then keeps interrupting the household's disasters at exactly the points where uninterrupted lament would turn stately, distant, and false. The servants keep the play's sorrow attached to wages, hunger, tired feet, and professional pride, and sorrow that must share the stage with those things lands harder, not softer.
 

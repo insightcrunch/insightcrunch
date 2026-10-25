@@ -6,15 +6,15 @@ date: 2023-06-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "biting-the-thumb", "the-feud", "biting-the-thumb-meaning"]
 excerpt: "Sampson bites his thumb at the Montagues to provoke a fight, and unpacking this Elizabethan insult shows how a petty gesture ignites the feud in Act 1."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-06-02
+lang: en
 ---
-
 The feud between the Capulets and the Montagues restarts, in the opening scene of Romeo and Juliet, over a bitten thumb. Sampson, a Capulet servingman with no grievance of his own and no courage he can call his own either, raises his thumbnail to his teeth in the street, and within sixty lines Verona has swords out, citizens clubbing servants, two old lords calling for weapons, and a prince threatening death. The gesture is the smallest unit of the feud, and the argument of this close reading is that its smallness is the evidence: a hatred that can be reignited by a thumbnail is a hatred with no content left, kept alive as a performance of honor by men too frightened to own their own provocation. Everything the play will argue about the feud at full scale, in duels and death sentences and a shared tomb, is already present in this exchange in miniature, conducted in prose, by cowards.
 
-![Sampson biting his thumb at the Montague servants in Act 1 Scene 1 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sampson biting his thumb at the Montague servants in Act 1 Scene 1 - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The exchange rewards slow reading because its comedy is diagnostic. Sampson wants a fight and wants someone else to have started it. He wants the reputation of boldness and the legal safety of innocence. He wants, in short, the feud exactly as his masters keep it: as a posture rather than a cause. Shakespeare builds the whole mechanism into a handful of short prose speeches, most of them under ten words, and the mechanism is worth naming before the gloss begins. First an insult is manufactured in a form that can be denied. Then the denial is rehearsed as grammar. Then, when grammar fails, rank is quarreled over instead, and only at the end, when a single word makes retreat impossible, do the swords come out. The thumb is not the cause of the brawl. The thumb is the feud's way of finding a cause when it needs one, which is whenever its servants meet in a public street with an audience available.
 

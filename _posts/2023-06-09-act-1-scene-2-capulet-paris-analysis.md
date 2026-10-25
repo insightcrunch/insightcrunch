@@ -6,15 +6,15 @@ date: 2023-06-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-1-scene-2", "paris", "act-1-scene-2-analysis"]
 excerpt: "Act 1 Scene 2 sets Paris courting Juliet through her father and an illiterate servant whose guest list sends Romeo to the ball, twin engines of the whole plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2023-06-09
+lang: en
 ---
-
 Act 1 Scene 2 of Romeo and Juliet lasts barely a hundred lines, contains no lover, no balcony, no sword, and no death, and it is the most consequential quiet scene in the play. In a single street conversation and a single street errand, Shakespeare starts the two machines whose collision fills the remaining four acts: a marriage negotiation that will harden into a command, and a chance meeting that will grow into a secret wedding. Paris asks for Juliet and is told to wait, to woo, and to look at other women in the meantime. A servant who cannot read is handed the guest list for that night's feast and stops the first literate passerby, who happens to be Romeo, lovesick for a woman whose name stands on the list. Neither event announces itself as destiny. Both are staged as ordinary city business, a bargain struck on a doorstep and an errand botched in the street, and the verdict of this close reading is that the ordinariness is the design. The scene is not a pause between the brawl and the ball. It is the play's ignition chamber, built so that everything later described as fate can be traced back to two human arrangements, one made with full authority and one made by pure accident.
 
-![Capulet, Paris, and the guest list in Act 1 Scene 2 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capulet, Paris, and the guest list in Act 1 Scene 2 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The scene also performs a quieter service that summaries tend to erase. It introduces the early Capulet, the indulgent father who calls his daughter the hopeful lady of his earth and refuses to hurry her into marriage, and it sets that portrait in place before the audience has met Juliet herself. When the same father rages in Act 3 and drags his household toward a wedding in three days, the shock depends on this scene having been played first and played gently. Act 1 Scene 2 is where the play stores the evidence for its hardest question about Capulet: whether the tyrant of the later acts contradicts the father of this one, or whether the same conditional authority runs through both. The close reading below follows the scene in its own order, negotiation first and errand second, because the order is part of the meaning. The sanctioned plot is arranged in verse by men of rank; the unsanctioned plot is then set loose in prose by a servant with a piece of paper he cannot read, and the tragedy grows in the gap between those two registers.
 

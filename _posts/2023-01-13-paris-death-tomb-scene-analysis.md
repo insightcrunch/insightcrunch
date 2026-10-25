@@ -6,15 +6,15 @@ date: 2023-01-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "paris", "tomb-scene", "paris-tomb-death"]
 excerpt: "Paris comes to mourn Juliet, fights the intruder Romeo, and dies at the tomb, a death so easily forgotten that cutting it has become routine on stage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-01-13
+lang: en
 ---
-
 The final scene of Romeo and Juliet does not begin with Romeo. It begins with Paris, alone in a churchyard at night, carrying flowers and sweet water to the grave of a bride he never married. Within roughly ninety lines that mourner will be dead, killed by the secret husband whose existence he never suspected, and his last act on earth will be to beg his killer for a place beside Juliet inside her family tomb. This close reading argues a firm verdict: the death of Paris at the tomb is not decoration, delay, or expendable machinery. It is the tragedy's final proof, the moment the play's whole system of sanctioned marriage, private desire, and civic violence collapses into a single corpse, and the scene that follows loses its moral architecture whenever a production cuts it. Shakespeare gives the forgotten suitor the most courteous entrance in the scene, the most formal poetry of any speaker in the churchyard, a fight he provokes for an honourable reason, and a dying request of such dignity that Romeo himself stops, looks at the dead face, and performs an act of restitution. A death engineered with that much care is doing structural work, and the work is this: Paris dies so that Romeo can be seen, one last time, choosing violence against his own stated wish, and so that the audience can watch the approved bridegroom and the outlaw husband lie down in the same monument, equal at last in the only currency Verona finally pays out.
 
-![Paris scattering flowers at the Capulet tomb in Act 5 Scene 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Paris scattering flowers at the Capulet tomb in Act 5 Scene 3 - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The argument of the pages that follow proceeds in the order of the scene itself. First the staging: a torch ordered out, a boy posted as a lookout, a churchyard floor so broken by fresh graves that a footstep can be heard through the earth. Then the flower speech, Paris's private liturgy over the body. Then the interruption, the misreading, the challenge, and Romeo's extraordinary plea for mercy toward a man he does not know. Then the fight, swift and almost perfunctory in the text, and the dying request that converts a killing into an obligation. Then Romeo's recognition, the second great speech of the opening movement, in which the killer reads the dead man's face and writes him into the same book of misfortune as himself. Only after the close reading is complete does this article turn to the critics, to the long stage tradition of cutting the episode, and to the verdict on what the death is for. The whole of Paris the character, the wooing at Capulet's feast, the interview at the Friar's cell, the wedding morning that became a funeral, belongs to another study; readers who want the complete arc of the approved suitor should begin with [Paris: The 'Good' Suitor Nobody Roots For](/2023/01/06/paris-character-analysis/), because the tomb scene lands with full force only when the earlier Paris is held in mind. Here the focus stays where the brief for this article places it: on the opening movement of Act 5 Scene 3, from the first entrance to the moment Romeo lays the body inside the monument and turns toward Juliet.
 

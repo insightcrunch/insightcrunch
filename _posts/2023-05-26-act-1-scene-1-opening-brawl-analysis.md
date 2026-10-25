@@ -6,15 +6,15 @@ date: 2023-05-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-1-scene-1", "the-feud", "act-1-scene-1-analysis"]
 excerpt: "Act 1 Scene 1 of Romeo and Juliet opens with a street brawl and the Prince's threat, then turns to a lovesick Romeo, setting the whole plot moving at once."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2023-05-26
+lang: en
 ---
-
 Act 1 Scene 1 of Romeo and Juliet performs the most complete act of exposition in Shakespeare's early work, and it does so in the wrong order, if the cliché about the play is to be believed. The cliché begins with the lovers: a boy, a girl, a balcony. The scene itself begins with two servants trading sexual boasts in a public street, moves upward through drawn swords, a refused peacemaker, a crowd with clubs, two old men calling for weapons their bodies cannot manage, and a prince threatening death, and only then, on a stage swept empty, admits the lovesick hero to complain about a woman who never appears. The order is the argument. Feud comes first, authority second, love third, and the tragedy that follows obeys that sequence exactly: the lovers die inside a war that predates them, under a law that announced its penalty in the play's first movement and failed to enforce it until the penalty no longer mattered.
 
-![The opening street brawl of Act 1 Scene 1 in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The opening street brawl of Act 1 Scene 1 in Verona - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The verdict of this close reading is that the scene is a masterclass in structural exposition precisely because of the feature that has sometimes been held against it: the abrupt pivot, halfway through, from public violence to private melancholy. The pivot is not a seam. It is the design. The scene is built as two overtures sharing one stage, each introducing a register the play will need, each defining the other by contrast. The brawl movement establishes a world in which identity is inherited, violence is reflexive, and speech is a weapon; the Romeo movement establishes a consciousness trapped inside inherited language of a different kind, the borrowed idiom of Petrarchan love, speaking in formulas as unexamined as the servants' insults. Between the two movements stands the Prince's edict, the hinge of law, and the edict fails in both directions: it cannot stop the feud it addresses, and it will hang over the lover it has not yet met. Read closely, with the text quoted from René Weis's Arden Third Series edition throughout, the scene plants every engine of the plot before any main action begins: the feud's reflex, the law's threat, the peacemaker's method, the parents' blindness, the hero's borrowed tongue, and the cure, comparison with other beauties, that will carry him to the Capulet feast and to Juliet.
 

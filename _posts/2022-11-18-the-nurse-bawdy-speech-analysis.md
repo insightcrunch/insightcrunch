@@ -6,17 +6,17 @@ date: 2022-11-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "the-nurse", "bawdy", "nurse-speech-analysis"]
 excerpt: "The Nurse's rambling Act 1 speech folds a bawdy joke, an earthquake, and her own dead child Susan into a vivid lower-class voice built in a few dense lines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2022-11-18
+lang: en
 ---
-
 ## Romeo and Juliet in Act 1 Scene 3: A Question About Age That Becomes a Life Story
 
 The Nurse's speech in Act 1 Scene 3 of Romeo and Juliet begins with the plainest question in the scene and refuses, for dozens of lines, to answer it plainly. Lady Capulet has asked how old Juliet is, and the woman who has known the girl since birth responds not with a number but with a memory, then another memory inside the first, then a dead child, an earthquake, a sore breast, a bumped forehead, and a dead husband's dirty joke, told twice. By the time the arithmetic finally arrives, the audience has received something far larger than an age. It has received a whole biography, delivered in prose, by the only person on stage who remembers Juliet before Juliet could remember anything herself. The speech is the first great set piece of the tragedy, and its apparent disorder is the subject of this close reading.
 
-![The Nurse telling her Act 1 Scene 3 reminiscence of weaning, earthquake and Susan - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse telling her Act 1 Scene 3 reminiscence of weaning, earthquake and Susan - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The verdict can be stated at the outset. The rambling structure of the reminiscence is not a failure of construction, in the character or in the dramatist. It is the construction. Every digression performs a task that a tidy answer could not perform. The weaning story establishes that this woman's body, and not the mother's, was the child's first home. The earthquake fixes that private history to a public event and gives the speech its strange timekeeping. Susan, named once and buried inside a parenthesis of blessing, explains why another woman's daughter received the whole of a mother's stored affection. The husband's joke plants, inside the play's warmest laughter, the equation between falling and desire that the tragedy will keep solving until the tomb. Apparent disorder is the method. What looks like wandering is a mind moving the way memory moves, by association and return, and Shakespeare trusts the audience to feel the coherence before it can name it.
 

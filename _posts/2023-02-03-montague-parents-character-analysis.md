@@ -6,17 +6,17 @@ date: 2023-02-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "the-montagues", "family", "montague-parents-analysis"]
 excerpt: "Romeo's parents barely appear, worrying over his moods from a distance, and the faintness of the Montagues throws the crowded Capulet household into relief."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2023-02-03
+lang: en
 ---
-
 ## Who Are the Montague Parents in Romeo and Juliet?
 
 The Montague parents are the most consequential near-absence in Romeo and Juliet, a father and mother who between them speak in two scenes, never address their son on stage, and lose him without ever learning why he was unhappy. Montague enters the play lunging at an enemy and spends the rest of his stage life asking questions other people must answer for him. Lady Montague enters restraining him, speaks three lines, and is never seen again; her death arrives five acts later as a sentence inside her husband's grief. Against them stands the Capulet household, the most crowded domestic machine in Shakespeare's early work: a father who interviews suitors and threatens disowning, a mother who delivers marriage proposals like state papers, a Nurse who holds the daughter's whole childhood in her memory, a firebrand nephew, servants with names and errands and jokes. The contrast is so extreme that readers routinely misremember the play as a story about one family and its intruder, when the Prologue promised two households of equal weight.
 
-![The Montague parents watching Verona from the margins of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Montague parents watching Verona from the margins of the play - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The verdict of this study is plain: the faintness of the Montagues is design, not underwriting. Shakespeare needed one household that presses and one household that fails to press, because the tragedy runs on the difference. Juliet is watched, managed, promised, and threatened inside a house that never leaves her alone, and her catastrophe is the catastrophe of a child crushed by attention. Romeo is unwatched, unmanaged, unasked, and unthreatened inside a house that cannot reach him, and his catastrophe is the catastrophe of a child abandoned to his own weather. The Montague parents love their son; the text gives their love real lines and real anguish. What the text withholds is everything that would make love operational: presence, knowledge, authority, intervention. A family can be measured by what it does at the moments of crisis, and at every crisis in this play the Montague parents are somewhere else, learning of events from nephews, friars, servants, and princes, always one report behind the action that is destroying their house.
 
