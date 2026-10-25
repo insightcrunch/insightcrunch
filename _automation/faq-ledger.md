@@ -567,3 +567,27 @@ become-copyright-dispute-superman-termination | how-copyright-termination-rights
 decide-mill-music-snyder-v | how-copyright-termination-rights-work | What did Mills Music v Snyder decide?
 foreign-return-right-stat-termination-unit | how-copyright-termination-rights-work | Does United States termination return foreign rights?
 canada-copyright-grant-handle-reversion | how-copyright-termination-rights-work | How does Canada handle reversion of copyright grants?
+
+## literature-retranslation
+
+### how-literary-retranslation-works
+literature-retranslation | how-literary-retranslation-works | What is a retranslation in literature?
+book-classic-get-more-once-than-translat | how-literary-retranslation-works | Why do classic books get translated more than once?
+alway-better-newer-older-one-than-translation | how-literary-retranslation-works | Is a newer translation always better than an older one?
+between-difference-edition-retranslation-revis | how-literary-retranslation-works | What is the difference between a retranslation and a revised edition?
+constance-garnett-her-sell-still-translation | how-literary-retranslation-works | Who was Constance Garnett and why do her translations still sell?
+english-long-mann-one-rely-so-thoma-translator | how-literary-retranslation-works | Why did Thomas Mann rely on one English translator for so long?
+appear-mann-many-new-so-thoma-translation | how-literary-retranslation-works | Why are so many new Thomas Mann translations appearing?
+copyright-expiry-lead-new-translation | how-literary-retranslation-works | How does copyright expiry lead to new translations?
+hypothesi-retranslation | how-literary-retranslation-works | What is the retranslation hypothesis?
+domesticat-foreigniz-mean-translation | how-literary-retranslation-works | What do domesticating and foreignizing mean in translation?
+long-novel-take-translate | how-literary-retranslation-works | How long does it take to translate a long novel?
+literary-paid-translator | how-literary-retranslation-works | How are literary translators paid?
+be-copyright-from-original-separately-translation-work | how-literary-retranslation-works | Can a translation be copyrighted separately from the original work?
+abridg-reader-tell-translation-whether | how-literary-retranslation-works | How can readers tell whether a translation is abridged?
+choic-explain-prefac-their-translator-write | how-literary-retranslation-works | Why do translators write prefaces explaining their choices?
+dat-mak-sound-translation | how-literary-retranslation-works | What makes a translation sound dated?
+book-change-interpret-retranslation | how-literary-retranslation-works | Do retranslations change how a book is interpreted?
+don-english-many-quixote-so-there-translation | how-literary-retranslation-works | Why are there so many English translations of Don Quixote?
+book-disagree-reader-same-translation-two | how-literary-retranslation-works | What should a reader do when two translations of the same book disagree?
+literary-machine-replace-retranslation-translation-will | how-literary-retranslation-works | Will machine translation replace literary retranslation?

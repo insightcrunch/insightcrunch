@@ -92,3 +92,7 @@
 ## how-copyright-termination-rights-work
 - _posts/2017-08-01-digital-millennium-copyright-act-1998.md - could carry: "The 1998 statute rewrote digital duties under the same Copyright Act whose older grant provisions let authors end transfers decades later, as how copyright termination rights work explains."
 - _posts/2019-10-15-copyright-amendment-act-2012-explained.md - could carry: "India protects authors through a royalty right that cannot be signed away; the United States uses a different device, a statutory power to terminate the grant itself, traced in how copyright termination rights work."
+
+## how-literary-retranslation-works
+- _posts/2030-02-18-gatsby-translations.md - could carry: "The pressures that produced rival Gatsby versions in so many languages are one case of a general mechanism, set out in how literary retranslation works."
+- _posts/2029-11-19-gatsby-public-domain-2021.md - could carry: "The expiry that freed the novel for new editions is the same rights event that periodically frees older classics for rival translations, as how literary retranslation works explains."
