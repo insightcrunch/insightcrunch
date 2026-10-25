@@ -6,10 +6,11 @@ date: 2026-10-25
 categories: ["Leisure"]
 tags: ["literature-translation", "literary-retranslation", "translated-fiction", "thomas-mann", "publishing-history", "world-literature"]
 excerpt: "How literary retranslation works: why a classic returns in a new English version, what the new translator changes, and how readers judge between rivals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-10-25
+lang: en
 ---
 ## A Classic Readers Thought They Knew Arrives Again
 
@@ -17,7 +18,7 @@ A literary retranslation is a complete new translation, made directly from the o
 
 A retranslation is not a correction of the old translation but a new reading of the original, and its value lies less in fixing errors than in restoring choices the first translation was forced to suppress. Every translation resolves thousands of ambiguities in one direction, and a first version, produced for readers with no other access to the book, tends to resolve them toward comfort, clarity, and the taste of its own period. A later translator, working with better editions, fuller scholarship, and a different sense of what English prose can carry, resolves the same passages toward difficulty, strangeness, and density where the original holds those qualities.
 
-![A shelf of classic novels in several English translations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A shelf of classic novels in several English translations - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The pattern repeats across the European canon. Thomas Mann reached English readers for two generations through H. T. Lowe-Porter, whose *Buddenbrooks* appeared in 1924 and whose *The Magic Mountain* appeared in 1927, and later translators rebuilt both books from the German. Tolstoy reached English readers through Constance Garnett and through Louise and Aylmer Maude before Richard Pevear and Larissa Volokhonsky offered a rival *War and Peace* in 2007. Homer, Cervantes, and Dostoevsky have each accumulated English versions across three centuries, and each new version announces, implicitly or in a preface, a claim about what earlier versions missed.
 
