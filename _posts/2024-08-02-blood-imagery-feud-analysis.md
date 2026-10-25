@@ -6,17 +6,17 @@ date: 2024-08-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "blood", "the-feud", "blood-imagery"]
 excerpt: "Romeo and Juliet runs on blood, civil blood making civil hands unclean, and the imagery makes blood the brutal currency in which the feud keeps its accounts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-08-02
+lang: en
 ---
-
 ## Blood Imagery in Romeo and Juliet: The Verdict
 
 Blood in this play is not a decoration laid over the feud, a splash of colour to make the violence vivid. It is the feud's unit of account, the medium in which every obligation the houses recognise is denominated, recorded, and finally collected. The verdict this article defends is plain: the word blood carries two meanings that Verona cannot separate, the blood a family owns and the blood a family spends, and the tragedy follows from the fact that both are the same substance. Blood as lineage names what a house is: its heirs, its honour, its future stored in living bodies. Blood as killing names what a house pays: the fluid exacted for an insult, posted as the price of a life, spilled in the square, and demanded back with interest by the bereaved. Because the asset and the payment are one fluid, the feud's arithmetic is suicidal from the first line. Every settlement spends the very capital it claims to protect, and the play ends when both houses discover that the account can only be closed by emptying it, when the heirs whose blood was the houses' wealth have been paid out, to the last drop, as the feud's price.
 
-![Blood imagery and the feud's brutal currency - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Blood imagery and the feud's brutal currency - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The received version of the play, the version carried by posters and quotation calendars, is a romance lit by moonlight: a balcony, a nightingale, two young faces turned toward each other against a dark garden. That version is not false, but it is radically incomplete, and the blood imagery is the evidence it suppresses. The play's own first sentence about its lovers is not a sentence about love. The Prologue reaches the pair only through their parents' bodies, "From forth the fatal loins of these two foes / A pair of star-cross'd lovers take their life" (Prologue, 5-6), and two lines earlier it has already stained the city: "Where civil blood makes civil hands unclean" (Prologue, 4). Before any character speaks, before any sword is drawn, the play has announced that its true subject is a fluid and the accounts kept in it. The lovers are introduced as an issue of loins, a yield of blood, and their story is framed as the process by which that blood is spent. Restoring the blood to the centre of the play, where the Prologue puts it, changes what the tragedy is about. The familiar reading makes the feud an obstacle to love, scenery around the central pair. The blood reading makes the feud the play's economy and the lovers its smallest, most valuable denomination, minted by the houses, hoarded by the fathers, and paid out by the logic of the feud itself.
 

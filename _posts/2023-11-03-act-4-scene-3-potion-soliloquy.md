@@ -6,17 +6,17 @@ date: 2023-11-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-4-scene-3", "juliet", "act-4-scene-3-analysis"]
 excerpt: "Act 4 Scene 3 leaves Juliet alone to drink the Friar's potion, working through every imagined terror of the vault before she finally swallows it for Romeo."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2023-11-03
+lang: en
 ---
-
 ## Act 4 Scene 3 Explained: A Room Emptied on Purpose
 
 Act 4 Scene 3 of Romeo and Juliet is the scene in which Juliet, alone in her chamber on the night before her wedding to Paris, dismisses the Nurse and her mother, takes up the Friar's vial, argues herself through a rising catalogue of terrors, drinks, and falls on her bed. The verdict of the reading that follows is plain: the scene is one of the summits of the play not because a frightened girl happens to make a fine speech in it, but because the speech is the residue of a machine. Every element of the staging works to strip the room of help. Two exits remove the two women who have shared Juliet's confidences across the play. One aborted gesture toward the door proves that the solitude is chosen rather than suffered. A dagger is laid down like a signature on a contract. A bed dressed for a wedding receives a body laid out as if for burial. What remains, once the machine has done its work, is a single figure with a small glass vessel, and the play holds on that figure for some forty lines without interruption, relief, or witness.
 
-![Juliet alone with the Friar's vial in Act 4 Scene 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet alone with the Friar's vial in Act 4 Scene 3 - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The distinction matters because the scene is often praised for the wrong thing. The potion soliloquy is admired as a solo, a bravura passage detachable from its surroundings, and the admiration is deserved as far as it goes. Yet the soliloquy does not begin the scene. It is what the scene is for. Shakespeare spends the first movement of Act 4 Scene 3 on pure stage management, on attires and errands and a mother's brief, useless kindness at the door, and the expenditure is the meaning. A soliloquy overheard in a crowded room would be a confession. A soliloquy spoken in a room that the speaker has deliberately emptied, at an hour when the whole house is awake with wedding labour below, is an act of government. Juliet does not find herself alone. She arranges to be alone, against resistance, against her own fear, and against the habits of a lifetime in which the Nurse has slept within call and her mother has entered without knocking. The scene's subject, before it is terror, is the engineering of solitude.
 

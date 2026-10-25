@@ -6,15 +6,15 @@ date: 2023-12-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "love", "hate", "love-and-hate"]
 excerpt: "Love and hate run together through Romeo and Juliet, fused in Juliet's only love sprung from my only hate, so the two passions power the play as a single force."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-12-29
+lang: en
 ---
-
 Love and hate in Romeo and Juliet are not two themes laid side by side, one for the balcony and one for the street. They are a single coupled system, a paired engine in which each passion supplies the other's fuel, vocabulary, and opportunity. The verdict argued across the sections that follow is blunt: the love in this play does not merely happen to unfold inside a feud, as weather happens to cross a landscape. The love is produced by the feud's machinery, phrased in the feud's grammar, timed by the feud's calendar, and finally consumed by the feud's accounting, while the hate, in return, borrows love's intensity, love's exclusivity, and love's willingness to die rather than yield. Separate the two and neither survives inspection. The brawling begins before any lover speaks, yet the first extended speech about feeling is a catalogue of fused opposites. The wedding and the duel share a single day. The tomb holds a marriage bed and a charnel house in the same few square feet of stage. At the end, the Prince does not sentence the lovers for loving or the fathers for hating in isolation; he names a single transaction in which heaven has killed the fathers' joys with love because a scourge was laid upon their hate (5.3.291-293). The play's own closing formula treats the two passions as entries in one ledger.
 
-![Love and hate as twin engines in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Love and hate as twin engines in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The claim needs care, because a weaker version of it is common and wrong. The weaker version says the play contrasts love and hate, setting private tenderness against public violence so that each shows the other up. Contrast certainly exists at the level of scene arrangement: a bedroom follows a brawl, a wedding follows an edict. But contrast is a static relation, and the play's pairing is dynamic. Again and again, one passion is shown converting into the other without changing its temperature. Romeo's devotion to Juliet makes him refuse a duel in the language of love, and the refusal kills Mercutio, and the killing turns Romeo, within a dozen lines, into the feud's most efficient swordsman. Juliet's love for Romeo requires her to speak apparent hate toward him in her mother's hearing, so that a single speech performs loyalty and betrayal in alternate breaths. Capulet's possessive tenderness toward his daughter curdles, under one refusal, into threats of dragging and disowning that use the feud's own grammar of honour. Nothing in these movements behaves like an opposite. Each behaves like a current reversing direction inside one circuit, and the circuit is Verona itself: a city whose households, servants, kinsmen, and rulers all run on the same paired wiring.
 

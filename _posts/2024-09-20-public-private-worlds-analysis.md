@@ -6,15 +6,15 @@ date: 2024-09-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "public-and-private", "secrecy", "public-private-worlds"]
 excerpt: "Romeo and Juliet sets a private world of night and whispered vows against the public world of feud and daylight, and the two cannot hold apart for long."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-09-20
+lang: en
 ---
-
 Verona in Romeo and Juliet is two cities sharing one set of stones. One city is open: the square where servants bite their thumbs at rivals, the hall where a household displays its wealth to invited guests, the street where a prince reads sentences aloud over corpses. The other city is hidden: an orchard after midnight, a friar's cell at dawn, a chamber with the door shut, a tomb that admits the dead and excludes the living. The tragedy is the story of the border between these public and private worlds, of the two young people who try to live on the hidden side of it, and of the open side's refusal, scene by scene, to leave them there. The verdict of the play is severe and consistent: a private world cannot survive inside a public feud, because Verona's hidden rooms are not outside the public order at all. They are rooms inside its houses, hours inside its days, and secrets inside its households, and the public order owns the houses, sets the hours, and employs the servants who carry the secrets. The lovers' night world is real as speech and feeling. As jurisdiction it is a fiction, and the play proves the fiction five acts long before it buries it.
 
-![Verona divided between the public square and the private orchard in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Verona divided between the public square and the private orchard in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The division is topographic before it is emotional. Every location in the play carries a law of entry, a law of speech, and a law of sight, and the laws differ by sphere. In the square, speech is performance before witnesses and sight is surveillance: a gesture made there is made to be seen, answered, and reported. In the orchard, speech is confession to one hearer and sight is a danger to be managed: the first question the hidden world asks is who might be listening. The feud belongs wholly to the open city. It has no existence in private at all, since a feud unwitnessed is merely a dislike, and its every instrument, the insult, the challenge, the drawn sword, the demanded sentence, requires an audience to function. The marriage belongs wholly to the hidden city, at least at first. It is contracted in whispers, solemnised behind a cell door, and known, for most of the play, to exactly four people besides the pair who made it. The argument of the play is what happens when an institution built for darkness is left standing in a city built for display, and the answer arrives with a completeness that leaves no refuge standing: every hidden space in Verona is breached, overheard, repurposed, or published before the end.
 

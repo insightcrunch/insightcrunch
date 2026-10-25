@@ -6,17 +6,17 @@ date: 2024-10-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "sacred-and-profane", "imagery", "sacred-and-profane-language"]
 excerpt: "Romeo and Juliet mixes the sacred and the profane, setting Romeo's worshipful pilgrim language against the earthy bawdy of Mercutio and the Nurse around it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-10-18
+lang: en
 ---
-
 The first words spoken about desire in Romeo and Juliet are a threat to cut off maidenheads, and the most famous words spoken about desire in the play are a prayer at a shrine. Between Sampson's boast in the opening scene and Romeo's pilgrim sonnet at the Capulet feast, the tragedy sets its two great registers of love side by side and refuses, from that point onward, to let either of them speak alone. Romeo calls Juliet a saint, a shrine, a bright angel; Mercutio conjures him out of hiding with a catalogue of a woman's body; the Nurse remembers a toddler's fall and turns it into a joke about the wedding night. The question the language of the play keeps posing is whether these registers are enemies, the holy at war with the bawdy for possession of the lovers, or partners in a single account of what love is. The verdict argued here is that they complete each other. The sacred register without the profane curdles into the empty Petrarchan sighing of the Rosaline scenes, worship addressed to an absence; the profane register without the sacred curdles into the violence of the servants' opening quarrel, appetite with a sword in its hand. What the lovers build, in the brief span the feud allows, is a language in which worship keeps the body honest about its own dignity and bawdy keeps worship honest about its own object, and the play's final judgment falls not on the mixture but on the city that gave the mixture no lawful room to live in.
 
 That verdict needs the evidence assembled in order. The collision begins inside a single sonnet at the feast, where a seduction is conducted entirely in the vocabulary of pilgrimage and where Juliet, far from being overwhelmed by the borrowed holiness, edits it as it goes. It widens in the orchard wall's shadow, where Mercutio performs a rival rite of conjuration that parodies the pilgrim language point for point while Romeo, yards away, begins the balcony scene by overhearing a woman think. It runs through the Nurse's earthy memory, through the Friar's warnings spoken inside the wedding itself, through Juliet's wedding-night soliloquy, where a hymn of invocation carries the frankest desire in the play, and it ends in a tomb that Romeo calls a feasting presence and that Juliet enters with a dagger she calls happy. At every station the pattern is the same. Neither register wins. Each corrects the other's characteristic lie, and the correction is where the play's vision of love is located. Quotations in what follows are from the Arden Third Series text of the play edited by René Weis, cited by act, scene, and line.
 
-![The lovers' language of worship and bawdy in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers' language of worship and bawdy in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 ## Do the Sacred and the Profane Clash or Complete Each Other?
 

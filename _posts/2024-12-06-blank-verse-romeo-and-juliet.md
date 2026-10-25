@@ -6,17 +6,17 @@ date: 2024-12-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "blank-verse", "iambic-pentameter", "blank-verse-explained"]
 excerpt: "Romeo and Juliet is written largely in blank verse, unrhymed iambic pentameter, and learning to scan its lines unlocks how the play's rhythm carries meaning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-12-06
+lang: en
 ---
-
 ## Blank Verse in Romeo and Juliet: The Verdict in Brief
 
 Blank verse is the load-bearing structure of Romeo and Juliet, and the meter is a second plot running underneath the first. The play's default music, unrhymed iambic pentameter, establishes a norm of measured, breathing order: five beats to a line, line after line, a pulse regular enough for an audience to feel in the body rather than count in the head. Against that norm every disturbance registers. A line that opens with its stress reversed announces urgency before the sense has landed. A line that stops after six syllables leaves a hole in the measure that the ear experiences as shock. A line that spills its sentence over the line ending enacts impatience in the very act of speaking. The verdict argued through this article is that the pentameter is not decoration applied to the drama but one of the drama's instruments: it is how the play times its feelings, and a reader who learns to hear the beat gains access to a layer of meaning that paraphrase cannot carry.
 
-![The iambic pentameter line and its variations in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The iambic pentameter line and its variations in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The claim needs its evidence stated plainly at the outset. Roughly three quarters of the play is verse, and nearly all of that verse is blank verse, the unrhymed five-beat line that English drama had spent forty years perfecting before Shakespeare wrote a line of this play. Within that body of verse the distribution of regularity is not random. The Prince's sentences fall in balanced, end-stopped lines whose measure behaves like the law he speaks. The Friar philosophizes in couplets and in long, composed verse paragraphs. The lovers begin in borrowed, patterned measure and end in lines broken by the pressure of what they are saying. Mercutio dies on a gasp of three syllables. Romeo dies in a line split in two by a full stop. None of this is audible to a reader who treats the lineation as packaging, and all of it is available to a reader who scans.
 

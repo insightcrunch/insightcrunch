@@ -6,15 +6,15 @@ date: 2025-03-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "she-doth-teach-the-torches", "first-sight", "torches-speech"]
 excerpt: "Romeo's first words on seeing Juliet, that she teaches the torches to burn bright, open the play's light imagery and announce love at first sight at the ball."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-03-07
+lang: en
 ---
-
 Romeo's first sight of Juliet lasts ten lines, and the verdict of this reading is that those ten lines are the most efficient piece of writing in the play. Spoken aside at the Capulet feast, before a single word has passed between the lovers and before Romeo knows the name of the woman he is watching, the speech beginning "O, she doth teach the torches to burn bright" (1.5) launches the imagery system that the whole tragedy will spend itself elaborating, converts a borrowed rhetoric of praise into witnessed perception, and hides the catastrophe inside a compliment: the same darkness that makes Juliet shine will be the darkness of the tomb. The speech is usually raided for its opening line and abandoned before its ending, yet its craft lies in the whole arc, from torches to jewel to dove to the closing couplet in which Romeo puts his own heart on trial and acquits the new sight by convicting the old one. Restoring all ten lines, in order, with their figures named and their measure scanned, shows a dramatist doing in miniature everything the larger play will do at scale.
 
-![Romeo watching Juliet across the torchlit Capulet feast, the torches speech - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo watching Juliet across the torchlit Capulet feast, the torches speech - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The complication the brief for this reading insists on facing is the speed of the transfer. Romeo entered this feast in love, by his own repeated declaration, with Rosaline; he leaves the speech having forsworn that love in two lines. The Friar will later make the charge official, ruling that young men's love lies in their eyes rather than in their hearts (2.3). Any honest account of the speech has to decide what the instant dismissal of Rosaline implies about the love that replaces her. The position argued here is that the speech itself draws the distinction its critics miss. The Rosaline praise of Act 1 was rhetoric at second hand, oxymoron recited in solitude about a woman who never appears; the torches speech is rhetoric corrected by looking, a chain of comparisons that keeps confessing its own method through verbs of seeming and showing, and ends by cross-examining the speaker. The transfer is fast because the first love was a style in search of an object, and the speech records the moment the style finds one and is changed by it.
 

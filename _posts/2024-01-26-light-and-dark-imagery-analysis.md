@@ -6,15 +6,15 @@ date: 2024-01-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "imagery", "light-and-dark", "light-and-dark-imagery"]
 excerpt: "Romeo and Juliet floods its love scenes with light against darkness, the imagery cluster Caroline Spurgeon made famous, and the contrast carries the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-01-26
+lang: en
 ---
-
 The light and dark imagery in Romeo and Juliet is not the play's decoration but its second plot. Before the lovers exchange a word, the tragedy has already arranged its visual argument: a young man who shuts daylight out of his chamber, a feud conducted in open streets at noon, a feast lit by torches, an orchard crossed at night, a dawn that arrives like an executioner, and a tomb that a grieving visitor describes as full of light. Caroline Spurgeon, counting the play's images in Shakespeare's Imagery and What It Tells Us (1935), identified the light cluster as the dominant imaginative weather of the tragedy, and the count has been quoted ever since, usually as a curiosity. Restored to the whole design, the cluster is an argument. The play lights exactly two people, again and again, with the vocabulary of suns, stars, torches, jewels, snow, and lightning, and it darkens almost everything around them, until the final scene reverses the arrangement and gives the light to gold statues while the Prince reports that the sun, for sorrow, will not show his head. The verdict of the reading that follows is firm: the cluster says that the love is the only source of illumination Verona produces, that the illumination is real, and that it is structurally brief, because every light the play grants the lovers is a light that burns, flares, or is carried into a place of the dead. Quotations throughout follow René Weis's Arden Third Series edition, cited by act, scene, and line.
 
-![Torchlight and darkness at the Capulet feast in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Torchlight and darkness at the Capulet feast in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## Light and Dark Imagery in Romeo and Juliet: The Verdict in Brief
 

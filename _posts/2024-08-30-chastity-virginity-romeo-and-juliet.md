@@ -6,15 +6,15 @@ date: 2024-08-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "feminist-reading", "chastity", "virginity", "chastity-and-virginity"]
 excerpt: "Romeo and Juliet turns on chastity and its loss, from Rosaline's vow to Juliet's eager wedding night, weighing virginity against the desire it makes frank."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-08-30
+lang: en
 ---
-
 Chastity is the first fact the tragedy establishes about desire, and it establishes the fact as a refusal. Before any lover speaks a word of love on stage, the audience has heard a serving-man joke about cutting off maidenheads (1.1), and has heard Romeo report that the woman he wants "hath Dian's wit" and lives "in strong proof of chastity well-armed," proof against even "saint-seducing gold" (1.1). The play that popular memory files as the supreme celebration of young love opens, in other words, inside a regime: a system in which a woman's virginity is at once a sacred vow, a household asset, a standing joke among servants, and a military problem for the men who want it surrendered. This article reads that regime whole, from vow to wedding night to tomb, and reaches a verdict on what the play says about purity and its loss.
 
-![Rosaline's sworn chastity and Juliet's eager wedding night in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rosaline's sworn chastity and Juliet's eager wedding night in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The verdict can be stated at once, because the text states it everywhere once the pattern is seen. The play never treats chastity as a value in itself. It treats chastity as a currency whose worth is set by whoever holds it, and it arranges its two great cases as a controlled experiment. Rosaline holds her virginity as a vow, keeps it entire, and vanishes from the play unmissed, her purity praised in the abstract and regretted as waste in the same breath. Juliet holds hers as a bride, surrenders it inside a marriage she chose and contracted herself, in a soliloquy of unmatched frankness, and the play gives that surrender its most radiant poetry while the city around her goes on pricing, joking, and threatening as if nothing had changed. Between the vow that preserves and the loss that fulfils, the tragedy locates its moral weight not in the state of any woman's body but in the question of who governs it. Chastity in Verona is never really about purity. It is about jurisdiction.
 

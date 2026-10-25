@@ -6,15 +6,15 @@ date: 2024-01-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "time", "haste", "time-and-haste"]
 excerpt: "Romeo and Juliet runs on haste, compressing love, marriage, and death into days, and the play's breakneck speed is less a flaw than its true tragic motor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-01-12
+lang: en
 ---
-
 Time and haste in Romeo and Juliet are not background conditions. They are the pressure system inside which every other force in the play has to work. The feud supplies the hatred, the lovers supply the desire, the Friar supplies the plans, and chance supplies the accidents, but time decides how much room any of them gets. A decision that might have been corrected across a week becomes final inside an hour. A message that might have survived a delay of a day is destroyed by a delay of hours. A marriage that might have been announced, negotiated, and absorbed by two households is instead hidden, overtaken, and answered with a second wedding arranged at speed. The verdict of this article is plain. Haste in the play is neither a simple moral flaw in two impatient teenagers nor a romantic energy the play simply celebrates. Haste is a system: a set of deadlines, tempos, and accelerations that passes from character to character, converts private feeling into public catastrophe, and turns accidents that might have stayed accidents into fate. Quotations follow the Arden Third Series edition edited by René Weis, cited by act, scene, and line; line numbers can differ by a line or two in other editions, while act and scene references stay stable.
 
-![Time and haste in Romeo and Juliet, the compressed days and deadlines that drive the tragedy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Time and haste in Romeo and Juliet, the compressed days and deadlines that drive the tragedy - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The system can be felt in the play's smallest units before it can be seen in its plot. Speeches are interrupted. Lines are shared between speakers and finished by the wrong mouth at the right moment. Scenes begin in the middle of errands and end before their business settles. Dawn keeps arriving as an eviction notice. Night keeps being asked to move faster. The lovers ask the sun's horses to gallop, ask darkness to come quickly, ask a messenger to return in half an hour, and then discover that the same speed they demanded from the world is the speed at which the world ruins them. Even the Prologue announces the compression as a condition of attendance, promising "the two hours' traffic of our stage" (Prologue, line 12), as if the audience too had been put on the clock. A tragedy that begins by telling its audience how little time the performance will take is a tragedy that wants its audience to feel shortage from the first minute.
 

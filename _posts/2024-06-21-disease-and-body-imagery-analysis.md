@@ -6,17 +6,17 @@ date: 2024-06-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "disease", "the-body", "disease-imagery"]
 excerpt: "Romeo and Juliet is shadowed by disease, from lovesickness and the plague to Mercutio's dying curse, and the imagery of the sick body runs through the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-06-21
+lang: en
 ---
-
 ## Disease and Body Imagery in Romeo and Juliet: The Verdict in Brief
 
 Disease and body imagery in Romeo and Juliet is the tragedy's diagnostic system, the language in which the play examines itself. The verdict argued here is plain. Sickness in the tragedy is never only a metaphor, and never only a fact. It begins as a figure of speech in a lovesick young man's mouth, gathers the authority of a whole medical culture that understood emotion as a condition of the flesh, hardens into a curse spoken over an open wound, and ends as literal public health machinery, a sealed house and a stopped letter, deciding who lives and who dies. At every stage the same vocabulary serves love and hatred without changing its terms, and that refusal to change terms is the point. The feud is spoken of as an infection of the city. Love is spoken of as a sickness of the humours. The lovers are not a healthy growth inside a sick Verona, as the sentimental version of the story prefers. The lovers speak the pathology as fluently as their enemies do, catch its fevers, prescribe its false cures, and die inside its quarantine. Restoring the imagery restores the diagnosis: a city whose every relation, erotic, familial, civic, has been converted into a condition of disordered bodies, and whose only successful act of public health in the whole action is the one that kills the bridegroom by keeping him uninformed.
 
-![Disease and body imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Disease and body imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The claim needs its evidence placed early, because the cluster is easy to underestimate when its members are sampled one at a time. A single oxymoron in Act 1, "sick health" (1.1.174-179), in the text of René Weis's Arden Third Series edition, the edition quoted throughout this article, looks like routine Petrarchan decoration. A single curse in Act 3, "A plague o' both your houses" (3.1.90-99), looks like a dying man's rhetoric. A single excuse in Act 5, Friar John's report that the searchers sealed the doors of a house where "the infectious pestilence did reign" (5.2.7-12), looks like a plot convenience, a hinge the dramatist needed. Gathered, the three passages stop looking like decoration, rhetoric, and convenience. They form a sequence with a direction, and the direction is the argument. The figure literalizes. What starts as a way of talking about feeling becomes a way of talking about the city, and then becomes a fact of the world the city inhabits, operating through officers, seals, and shut doors, with the full indifference of a real epidemic to the private meanings people attach to it. The imagery's career across five acts is from trope to diagnosis to cause of death, and no account of the tragedy that treats its sickness language as background colour has explained why the plot itself is finally decided by a public health measure.
 

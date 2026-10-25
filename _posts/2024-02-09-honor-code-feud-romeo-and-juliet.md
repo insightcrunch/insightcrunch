@@ -6,17 +6,17 @@ date: 2024-02-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "honor", "the-feud", "honor-code-feud"]
 excerpt: "Romeo and Juliet runs on a code of honor that reads every slight as a challenge, and that masculine logic turns the feud's petty quarrels into lethal duels."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-02-09
+lang: en
 ---
-
 ## The Honor Code in Romeo and Juliet: A Rulebook Nobody Wrote Down
 
 The honor code is the feud's operating system, and Romeo and Juliet cannot be understood until the code is read as a code: a set of binding rules that Verona's men did not invent, cannot amend, and dare not disobey in public. The familiar account of the tragedy blames the stars, or haste, or two families who simply hated each other for no stated reason. The play itself gives a more mechanical answer. Its killings are not explosions of temper. They are executions carried out under a rulebook, each one traceable to a slight that the rulebook classified as a challenge, and to a man who calculated, correctly, that the price of refusing the challenge was higher than the price of fighting. Sampson bites his thumb and checks whether the law is on his side before he commits himself. Tybalt hears a voice at a feast and reaches for the vocabulary of sin and kinship. Romeo declines a duel for the best of reasons and is fighting within a hundred lines, because a friend has pronounced his refusal a submission and the word cannot be left standing. None of these men is raving. Each is complying.
 
-![The honor code of the feud in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The honor code of the feud in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The verdict argued here is that the code is a trap rather than a villainy. A villain can be blamed, punished, and removed; a trap has to be mapped. The play maps it with unusual completeness. It states the code's first axiom in its opening scene, in the mouth of a servant. It shows the obligation to answer passing from person to person like a debt assigned to a new debtor. It stages the one man who tries to resign from the system and shows the system collecting him anyway, through the contempt of his closest friend. It sets the code against the Prince's law and shows the law arriving, every time, after the code has finished its work. And in its final scene it shows the code's accounts settled at last, not in blood but in gold, by two fathers who have run out of sons to pay with. Where the feud itself, [why the Capulets and Montagues hate](/2022/04/01/capulet-montague-feud-explained/), belongs to its own explainer and the pairing of love and hate to its own article, this article owns the rulebook itself: what the code demands, who must answer when it speaks, how quickly, before whom, and at what price.
 

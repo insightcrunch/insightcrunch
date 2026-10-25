@@ -6,15 +6,15 @@ date: 2024-07-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "bird-imagery", "imagery", "bird-imagery-analysis"]
 excerpt: "Romeo and Juliet is full of birds, the lark of dawn, the nightingale of night, the falcon of love's call, and each bird carries the lovers' hopes and fears."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-07-19
+lang: en
 ---
-
 Bird imagery in Romeo and Juliet is not decoration scattered over a love story. It is a working system, and it does four jobs no other image family in the play is asked to do at once. The birds keep the play's time, since the lark and the nightingale divide night from morning more exactly than any clock in Verona. The birds grade beauty, since a swan, a crow, a dove, and a raven supply the scale on which faces are measured before the lovers have exchanged a word of love. The birds supply a technology of desire, since the falconry of the orchard scenes, the lure, the hood, the silk thread, gives the lovers a tested vocabulary for calling, holding, and releasing what they love. And the birds carry foreboding, since nearly every winged figure in the tragedy arrives with a shadow attached: the dove troops with crows, the snow lies on a raven's back, the lark's music is heard as discord. The verdict of this article is that the aviary is structural. Remove the birds and the play loses its clock, its scale of beauty, its mechanics of longing, and its earliest warnings, all at once. What looks at first like a handful of pretty comparisons is, gathered whole, the load-bearing register through which the tragedy thinks about time, desire, and the nearness of death.
 
-![Bird imagery in Romeo and Juliet, the lark, the nightingale, and the falcon - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bird imagery in Romeo and Juliet, the lark, the nightingale, and the falcon - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The case for structure rests on distribution. A decorative image appears where a speech needs colour and then vanishes; a structural image returns at the hinges of the action, changes hands between speakers, and alters its meaning as the plot darkens. The birds pass all three tests. They appear in the mouth of Benvolio before the feast, in the Nurse's prose memory of a childhood fall, in Romeo's first sight of Juliet, in the orchard at the height of the lovers' mutual discovery, in Juliet's solitary summons of the wedding night, and at the dawn parting that ends the marriage's only night. Each return is a variation with a darker key signature than the last. The dove of the feast is surrounded by crows; the falcon of the orchard is held on a thread; the raven of the wedding-night speech carries snow that will melt; the lark of the parting is cursed for singing in tune with the world and out of tune with love. The cluster is also unusually literary and unusually technical at the same time. It draws on a long lark-and-nightingale tradition that Shakespeare's audience knew from debate poems and dawn songs, and it draws on the working language of the mews, where a hawk's training had exact terms for exact states of a bird's mind. A cluster that is at once traditional and technical is not casual. It is chosen, and chosen twice over.
 

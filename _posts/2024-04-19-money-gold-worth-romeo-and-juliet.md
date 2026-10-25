@@ -6,15 +6,15 @@ date: 2024-04-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "money", "gold", "money-and-worth"]
 excerpt: "Romeo and Juliet threads money and gold through its story, from the apothecary's poverty to the golden statues, asking what love and life are really worth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-04-19
+lang: en
 ---
-
 Money moves through Romeo and Juliet with a persistence that the play's reputation as a pure love story trains audiences to overlook. A prince prices a broken peace in lives. A mother sells a marriage inside the metaphor of a gilded book. A young man in exile counts out forty ducats to a starving tradesman and delivers, over the coins, the sharpest economic judgment in the canon: the gold is the poison, and the drug is almost an excuse. Two fathers close the action by bidding against each other in statues of pure gold for children they could not keep alive at any price. The verdict of this article is plain. Verona runs on a single system of worth, in which persons are valued the way objects are valued, by display, by scarcity, by what a rival house can be made to envy or match. The lovers die inside that system, first priced by it, then hunted by it, and finally, in the closing minutes, cast in its most expensive material. Their love proposes a rival system, an economy of giving in which surrender increases the giver, and the tragedy is that the rival system never acquires an institution. It has a balcony, a cell, and a tomb. The other system has the street, the feast, the law, the market in marriages, and the mint.
 
-![Juliet lit like a jewel above the Capulet feast while Verona counts her worth - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet lit like a jewel above the Capulet feast while Verona counts her worth - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Quotations in this article follow René Weis's Arden Third Series edition of the play, and line references may differ by a line in other editions, while act and scene references are stable. The evidence is gathered first, because the money theme is easy to assert and hard to document. It does not live in one speech. It lives in the small change of the dialogue, in forfeits and fees, in cooks counted and torches lit, in a ring sent through the night and a vial bought at dawn, in the metallurgy of compliment. Read in sequence, the instances form a pattern with a direction. Early in the play, gold is decorative, a way of praising surfaces. In the middle acts, money becomes instrumental, a way of moving messages, staging weddings, and arranging marriages. In the final act, money becomes mortal and then monumental, buying a death and then buying the shape in which the dead will be remembered. The metal does not change. The uses darken. That darkening is the article's subject, and the catalogue below is its evidence base, assembled so that the argument that follows can be checked line by line against the text rather than taken on trust.
 

@@ -6,15 +6,15 @@ date: 2025-03-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "gallop-apace", "prosody", "gallop-apace-verse"]
 excerpt: "Juliet's gallop-apace speech drives its longing through galloping verse music, and scanning the lines shows how rhythm itself enacts her impatience for night."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-03-14
+lang: en
 ---
-
 The prosody of "Gallop apace" is the sharpest evidence in Romeo and Juliet that verse music can carry a meaning the words only half state. Juliet's soliloquy at the opening of Act 3 Scene 2, the thirty-three lines she speaks alone while waiting for night and for Romeo, is usually read for its desire: a bride commanding the sun's horses to hurry so that darkness will bring her husband to her chamber. That reading is true and insufficient. The speech's longing is not merely described by its language; the longing is performed by its metre. The lines strain against the iambic pentameter that contains them, crowding extra syllables into the measure, front-loading their stresses into commands, spilling their syntax over line endings, and then checking that speed with spondaic brakes and heavy monosyllables, so that the verse alternately gallops and pulls up short exactly as impatience itself alternates between urging time forward and enduring its refusal to move. Sound and sense do not run in parallel in this speech. Sound is the sense, arriving first.
 
-![Juliet alone at her window urging the sun's horses toward nightfall - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet alone at her window urging the sun's horses toward nightfall - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The verdict of this close reading can be stated plainly at the outset: the gallop in "Gallop apace" is real, it is measurable, and it is built. It is not a metaphor pasted onto the speech by enthusiastic readers, and it is not an accident of performance that a gifted actor might supply or withhold. The scansion shows a line-by-line engineering of tempo: trochaic openings that strike before the expected beat, anapaestic ripples that triple the pace inside a duple measure, feminine endings that let lines overshoot their measure the way a runner overshoots a stride, and enjambments that refuse the ear any resting place. Against that forward pressure the speech sets its brakes: the spondee packed into "close curtain", the hammered monosyllables of "Come, night, come, Romeo", the checked and heavy movement around "Hood my unmanned blood". Desire in this speech has a tempo curve, rising, racing, braking, rising again, and the curve is written into the verse before any actor touches it. To scan the speech is to watch impatience think.
 

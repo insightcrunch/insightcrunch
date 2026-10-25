@@ -6,15 +6,15 @@ date: 2025-01-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "oxymoron", "antithesis", "oxymoron-and-antithesis"]
 excerpt: "Romeo and Juliet speaks in oxymorons, brawling love and loving hate, and the figure of contradiction becomes its native tongue in a world split by extremes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-01-03
+lang: en
 ---
-
 No play in English keeps its meaning in yoked opposites as persistently as this one. Oxymoron and antithesis are not ornaments sprinkled over the verse of Romeo and Juliet; they are the load-bearing grammar of the whole design, the way Verona thinks about itself. Romeo enters complaining in a chain of oxymorons, "brawling love" and "loving hate" (1.1), and from that first entrance the figure never leaves the stage. It passes into the Chorus and its balanced households, into the Friar and his philosophy of herbs, into Juliet at the pitch of her anguish, into Capulet keening over a coffin, into the Prince pronouncing sentence over three bodies. A reader who learns to hear the play's contradictions has learned to hear the play.
 
-![Oxymoron and antithesis in the lovers' speeches - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Oxymoron and antithesis in the lovers' speeches - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The argument of this article is a verdict, stated plainly at the start so that everything after it can be tested against the evidence. Contradiction in this play begins as a borrowed fashion, the stock rhetoric of a lovesick young man who has learned his feelings out of books, and it ends as the only accurate language available in a city where every good thing arrives fused to its opposite. The figure matures because the world educates it. Romeo's Act 1 oxymorons are mannered, a performance of melancholy in the approved Petrarchan counters; Juliet's Act 3 oxymorons are forensic, evidence weighed in real time by a mind discovering that the man she married and the man who killed her cousin are one person. Between those two catalogues the play converts a decorative device into an instrument of knowledge, and the conversion is the story of the language itself.
 

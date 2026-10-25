@@ -6,15 +6,15 @@ date: 2024-05-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "silence", "speech", "silence-and-speech"]
 excerpt: "Romeo and Juliet swings between torrents of words and sudden silence, and how it handles speech and its absence carries real dramatic and thematic weight."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-05-03
+lang: en
 ---
-
 Silence and speech divide the emotional labour of Romeo and Juliet between them, and the division is the argument of this article. The tragedy is famous for its talk: a shared sonnet at a first meeting, a balcony scene that runs past two hundred lines, a wit who cannot stop punning, a nurse whose reminiscence fills a scene, a friar who speaks in proverbs the way other men breathe. Against that torrent the play sets a second system, quieter and stronger. A beloved who never appears and never answers. A wedding whose words are never staged. A father who forbids his daughter to reply. A mother who ends a conversation by leaving it. A heroine who speaks her greatest speeches to people who are absent, asleep, or dead. A hero who reserves his longest address for a woman who cannot hear it. The verdict argued throughout is plain: silence in this play is not the absence of meaning but one of its principal carriers, and the moments an audience remembers longest are the moments where speech runs out, is refused, or arrives too late to be answered. The cliché hears only the famous speeches. Restoring the silences restores the other half of the play, and the other half is where the emotional truth is kept.
 
-![The eloquence of silence and speech in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The eloquence of silence and speech in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 Quotations in this article follow René Weis's Arden Third Series edition of the play, cited by act, scene, and line. The reading offered here owns one territory: the rhetoric of speaking and not speaking, who is licensed to talk, who is talked about, who is talked to without hope of reply, and what the play claims through each arrangement. The plot machinery of secrecy and failed messages belongs to a companion study of the play's information system; here those failures are touched only where they change the meaning of speech itself.
 

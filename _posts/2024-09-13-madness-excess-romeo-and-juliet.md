@@ -6,15 +6,15 @@ date: 2024-09-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "madness", "excess", "madness-and-excess"]
 excerpt: "Romeo and Juliet pushes love and grief past all measure, and the play repeatedly likens the lovers' extremes to a kind of madness that reason cannot govern."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-09-13
+lang: en
 ---
-
 Madness and excess are the two charges Romeo and Juliet keeps bringing against its own lovers, and the play brings both charges in the lovers' hearing. A friar warns the bridegroom, minutes before the wedding, that violent delights have violent ends and that the sweetest honey sickens its own eater. A father, refused by his daughter, opens his longest speech with the oath that her refusal makes him mad. A bride, alone with a vial at midnight, rehearses the fear that she will wake among the bones of her ancestors and, distraught, dash out her own brains with a kinsman's bone. The vocabulary is not decoration laid over the story. It is the play's own system of measurement, the scale on which Verona weighs feeling and finds it, scene after scene, over the limit. This article reads that scale, follows its vocabulary from the first lovesick soliloquy to the frenzy in the tomb, and argues a double verdict, because the play's verdict is double. Romeo and Juliet condemns excess in its doctrine and celebrates it in its language, and the tragedy happens in the gap between those two judgments. Every authority in the play states the doctrine of measure. Nearly every speech that audiences carry out of the theatre violates the doctrine beautifully.
 
-![Romeo and Juliet](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet](/assets/images/blog/blog-31.webp)
 
 Excess, as the word will be used here, is a quantity under judgment: feeling that has passed the amount its object, its occasion, or its city's rules can hold. Madness is the name the play gives that quantity when it seems to unseat reason altogether. The two terms belong to one economy. Again and again a character measures someone else's feeling, finds the measure exceeded, and reaches for the language of derangement to say so. The Friar measures Romeo's grief in the cell and calls its owner a madman who has no ears. Lady Capulet measures her husband's rage and asks whether he is mad. Juliet measures her own wooing and calls it too rash, too sudden, too unadvised. Romeo measures nothing at all, which is itself the point: he is the play's great unmeasuring consciousness, the one who experiences every feeling at full volume and trusts the volume as proof of the feeling's truth. Between the measurers and the unmeasured, the play builds its whole account of what love and grief do to a mind.
 

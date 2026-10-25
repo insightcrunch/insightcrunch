@@ -6,17 +6,17 @@ date: 2024-06-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "stars", "astrology", "stars-and-astrology"]
 excerpt: "Romeo and Juliet fills its sky with stars and astrology, framing the lovers as star-crossed and letting them imagine each other as the brightest lights above."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-06-14
+lang: en
 ---
-
 ## Stars and Astrology in Romeo and Juliet: The Verdict in Brief
 
 Stars and astrology saturate Romeo and Juliet, yet no star in the play ever does anything. No planet inclines a hand toward a sword, no aspect times a blow, no horoscope is cast, consulted, or even handled as an object in the world of Verona. What the heavens supply is not causation but language: a grammar in which the Chorus can announce doom before a single human being has acted, a court of appeal to which a frightened guest can carry a fear he cannot name correctly, and a scale against which a bride can measure a beauty she intends to make permanent. The cluster matters because the play's most famous phrase belongs to it. Restoring the whole sky around the word star-crossed changes that phrase from a verdict the play delivers into a claim the play tests, speech by speech, against everything its people actually do.
 
-![Stars and astrology imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Stars and astrology imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The evidence fits in one held breath. A Chorus opens the play by calling the lovers "A pair of star-cross'd lovers" (Prologue, line 6), ascribing their deaths to hostile heavens before the first brawl has been fought. Romeo, approaching the Capulet feast, fears "Some consequence yet hanging in the stars" (1.4.106-107), then surrenders his course to an unnamed pilot in the same breath. Juliet, waiting for her wedding night, imagines her husband after death "cut him out in little stars" (3.2.74), turning the beloved into the heaven itself. Romeo, ruined by a false report in Mantua, answers the sky directly: "Then I defy you, stars!" (5.1.24). Dying in the tomb, he struggles to "shake the yoke of inauspicious stars" (5.3.111-112) from his flesh. Around these five peaks the smaller lights gather: guests figured as earth-treading stars, eyes exchanged with the fairest stars in the heaven, a moon rejected as too inconstant to swear by, a sun ordered off the sky so that night can come.
 

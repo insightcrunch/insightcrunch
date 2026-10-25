@@ -6,17 +6,17 @@ date: 2025-01-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "bawdy", "double-meaning", "bawdy-double-meanings"]
 excerpt: "Romeo and Juliet is thick with bawdy double meanings, the servants, Mercutio, and the Nurse keeping the body in view beneath the play's idealized love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-01-24
+lang: en
 ---
-
 ## Bawdy in Romeo and Juliet: The Verdict in Brief
 
 Bawdy double meanings are the second language of Romeo and Juliet, a complete system of words that mean twice running beneath the famous language of idealized love. The verdict of this article is stated at the outset because everything that follows defends it: the bawdy is not decoration, not comic relief pasted onto a tragedy, and not an embarrassment that polite editing should remove. The bawdy is the play's body talking. Where the love poetry speaks of souls, shrines, saints, and pilgrims, the double meanings speak of flesh, appetite, ripeness, and use, and the play needs both registers because its whole argument is that the soul's language and the body's language describe the same event. Cut the bawdy, as expurgated editions have cut it for two centuries, and the love poetry floats free of the ground it stands on. Restore the bawdy, gloss it plainly, and the tragedy sharpens: a city that can only speak of desire as conquest, jest, or merchandise has left its two most honest speakers no clean words to love with.
 
-![Bawdy wordplay and double meanings in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bawdy wordplay and double meanings in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 A word about method, since the subject attracts two kinds of bad treatment in roughly equal measure. The treatment here is clinical in the strict sense: second senses are named in plain anatomical and historical language, neither euphemized into coyness nor dwelt on for sensation, and every instance admitted to the argument is required to show its evidence, a period attestation and a cue in the scene. The clinical standard is not prudishness in a lab coat. It is the recognition that the material is evidence about how a culture spoke of the body, and evidence is handled best at room temperature. Readers who have met the subject mainly through the snigger or the scissors, the edition that leers in its notes or the edition that deletes in its text, are asked to notice how much more interesting the material becomes when it is handled as what it is: the working vocabulary of a great play's second language, as susceptible of exact description as its sonnets and as deserving of it.
 

@@ -6,15 +6,15 @@ date: 2024-08-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "civil-order", "law", "civil-order-and-law"]
 excerpt: "Romeo and Juliet sets the Prince's law against a private feud it cannot reach, and the failure of civil order to hold the peace frames the whole tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-08-23
+lang: en
 ---
-
 Verona's civil order fails in Romeo and Juliet for a reason more uncomfortable than a weak ruler or an unjust code: the law is built to arrive after violence, to speak in the street rather than in the house, and to threaten penalties it has no machinery to carry out. Prince Escalus issues three great interventions across the play, an edict in the first scene, a sentence after the duel, and a judgment over the bodies in the tomb, and each one is intelligent, proportioned, and useless. The brawls continue on schedule. The verdict of this article is that the play locates the failure in the design of the legal order itself before it locates it in the man who administers it: Verona's law possesses a voice and no hands, a doctrine of the peace and no instruments between proclamation and death, jurisdiction over corpses and none over the households that manufacture them. Enforcement is poor because the design gives enforcement almost nothing to work with.
 
-![Civil order and the Prince's law failing to hold Verona's peace - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Civil order and the Prince's law failing to hold Verona's peace - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The point is set before any character speaks. The Prologue describes a city where "civil blood makes civil hands unclean" (Prologue, 4), a line whose legal imagination critics have long weighed: the blood is civil because the men who shed it are citizens of one polity, and the hands are unclean because the polity's own members are its polluters. The feud is not an invasion from outside the state. It is a condition inside the citizen body, which means the law's problem is not repelling an enemy but governing its own subjects in their own houses, the one place early modern law entered last and least. A companion study of [the feud that sets Capulet against Montague and the hatred neither house can explain](/2022/04/01/capulet-montague-feud-explained/) establishes the feud's groundlessness; the present article takes up the other half of the problem, the public order that faces the feud and cannot reach it.
 

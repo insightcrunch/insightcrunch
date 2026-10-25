@@ -6,15 +6,15 @@ date: 2025-02-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "but-soft-what-light", "balcony", "but-soft-speech"]
 excerpt: "Romeo's but-soft speech turns Juliet at her window into the sun, and reading it closely shows how light, longing, and verse music form the play's anthem."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-02-28
+lang: en
 ---
-
 Romeo stands in the Capulet orchard at night, looks up at a lit window, and speaks the most quoted love speech in English drama: "But soft! What light through yonder window breaks?" The speech that follows, some two dozen lines of blank verse at the opening of Act 2 Scene 2, makes Juliet the sun, commands that sun to kill the envious moon, imagines her eyes exchanged with stars, and ends by wishing its speaker were a glove upon her hand. It is spoken to nobody. Juliet, a few feet above him, does not know he is there, and the speech's first condition is that she must not hear it. Every claim made for the speech in the pages that follow is anchored in those lines, quoted from René Weis's Arden Third Series edition and cited by act, scene, and line, because the speech rewards exactly the attention its fame usually replaces. The first line circulates as a quotation; the whole speech is a machine, and its parts move.
 
-![Romeo below Juliet's window at night in the Capulet orchard, the but-soft speech - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo below Juliet's window at night in the Capulet orchard, the but-soft speech - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 ## The Verdict First: A Speech That Sees What It Praises
 

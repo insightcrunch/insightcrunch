@@ -6,17 +6,17 @@ date: 2024-06-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "nature", "garden", "nature-imagery"]
 excerpt: "Romeo and Juliet figures its young love in buds, flowers, and orchards, a natural imagery of growth and bloom that is cut short before it can come to fruit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-06-28
+lang: en
 ---
-
 ## Nature and Garden Imagery in Romeo and Juliet: The Verdict in Brief
 
 The nature and garden imagery of Romeo and Juliet is the standard by which the play asks to be judged, and the verdict it delivers is double from the first plant image onward. Growth in this play is real: the love between the Capulet daughter and the Montague heir is figured as a living thing with roots, weather, and a season of its own, and no other register in the text grants it that dignity. Blight is equally real, and it is not an accident that befalls the growth from outside. Every major growth figure in the play arrives already paired with the agent that will cut it: the bud with the worm, the flower with the canker, the garden with the tomb that the same earth keeps underneath it. The imagery therefore does not decorate a tragedy of fate. It replaces the fate explanation with a horticultural one. What happens to the lovers is what happens to anything alive that is denied time, light in due measure, and tended ground: it is nipped in the season of its promise, by hands that call the cutting care.
 
-![Friar Laurence gathering herbs in his garden at dawn - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence gathering herbs in his garden at dawn - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 That double verdict is the argument of this article, and it governs every section that follows. The orchard scene gives the love its founding figure, Juliet's bud that may prove a beauteous flower by summer's ripening breath. The Friar's garden gives the figure its doctrine, a philosophy of plants in which the same earth bears and buries, and in which every herb carries grace and poison in proportions set by use. The households of Verona are then measured against the garden and found to be untended ground: a father who times his daughter like a crop and then rages at the harvest, a feud that functions as neglect armed with swords. By the final acts the register itself darkens on schedule. Flowers prepared for a wedding are carried to a funeral instead, the last flower errand in the play belongs to Paris rather than to either lover, and the fathers close the tragedy by promising statues of gold, the one material in the play that cannot grow, cannot be tended, and cannot die. The catalogue below gathers the cluster whole, so that the pattern can be inspected rather than asserted. In a classroom the catalogue repays being laid out as a sequence, passage by passage; a teacher assembling those passages into slides with a presentation tool such as the [ReportMedic PPT Viewer](https://reportmedic.org/tools/ppt-viewer.html) can set the Friar's basket beside Juliet's bud and let a class watch one figure answer the other across the acts.
 

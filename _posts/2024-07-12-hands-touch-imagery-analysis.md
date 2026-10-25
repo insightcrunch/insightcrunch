@@ -6,17 +6,17 @@ date: 2024-07-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "hands", "touch", "hands-and-touch-imagery"]
 excerpt: "Romeo and Juliet makes hands carry its desire, from the pilgrim palms of the first meeting to the dagger and the poison that the same hands later take up."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-07-12
+lang: en
 ---
-
 ## Hands and Touch Imagery in Romeo and Juliet: The Verdict
 
 The hands and touch imagery in Romeo and Juliet is not decoration laid over the love story; it is the love story's machinery, and the verdict of a full survey is stark. Every decisive turn of the tragedy is executed, licensed, or prevented by a hand. A thumb bitten at nobody in particular opens the feud on stage. A palm pressed to a palm under cover of prayer opens the love. A basket filled by a friar's hands holds the cure and the poison in the same weave. An arm thrown between two swordsmen receives the wound it meant to prevent. Gold passes palm to palm in Mantua and buys the ending. A dagger completes in the tomb what a palm began at the feast. The play's speeches argue about fate, fortune, names, and stars, but its hands settle every one of those arguments in practice, and what the hands settle is this: in Verona, touch is the one act that cannot be taken back.
 
-![Hands and touch imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hands and touch imagery in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 That irreversibility is the cluster's meaning. Words in this play are retracted, misreported, delayed, and misunderstood; the letter fails, the message garbles, the name misleads. Touch does not misfire in that way. A palm either meets a palm or it does not. A blade either enters or it does not. The imagery of hands therefore carries a weight that the play's famous verbal brilliance cannot: it is the record of what actually happened, kept in the one register that cannot lie about contact. When the fathers finally end the feud, they do not sign anything or swear anything first; Capulet asks for Montague's hand, and the peace exists because two hands meet over the bodies of the children whose own meeting of hands the city had made impossible to sustain.
 

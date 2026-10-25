@@ -6,17 +6,17 @@ date: 2023-12-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "reconciliation", "ending", "final-reconciliation"]
 excerpt: "Romeo and Juliet ends with the rival fathers vowing golden statues, a reconciliation bought with two children's lives that reads as cold comfort at best."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2023-12-15
+lang: en
 ---
-
 ## The Final Reconciliation in Romeo and Juliet: A Peace That Arrives Too Late
 
 The final reconciliation of Romeo and Juliet is the coldest comfort in the play, and the verdict of this article is that its peace is genuine as a cessation and hollow as a redemption. Two fathers who could not be brought to the same street without swords in the first scene end the tragedy clasping hands over the bodies of their children, and each vows a statue of pure gold to the other's child. Nothing in that exchange is feigned. The grief is real, the handclasp is real, and the feud, as a going concern of brawls and challenges, stops at that moment because there is no one left whom it can profitably kill. Yet the settlement is transacted entirely in the feud's own currencies: a marriage portion, a bidding contest in treasure, and a pair of monuments priced against every other figure in Verona. The fathers make peace in the grammar that made the war. Gold, which bought the poison in Mantua and paid for every feast and funeral in the play, is asked at the end to buy absolution as well, and the Prince's closing word for the result is not joy, not healing, not even relief. His word is glooming. A glooming peace is a peace with the light gone out of it, and the closing movement of Act 5 Scene 3, read closely from the Watch's first discovery to the final couplet, is engineered to make an audience feel both halves of that phrase at once: the peace, and the gloom that is its price and its proof.
 
-![The rival fathers clasping hands over the bodies at dawn in the final reconciliation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rival fathers clasping hands over the bodies at dawn in the final reconciliation - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 The cliche account of the ending treats the reconciliation as the tragedy's consolation prize, the silver lining that redeems the waste: at least the feud ended, at least the deaths taught Verona something, at least the lovers did not die for nothing. The text refuses that comfort at almost every line. The Prince does not congratulate the fathers on their conversion. He arraigns them. Heaven, he tells the two old men, has found means to kill their joys with love, a sentence that makes the lovers' passion the instrument of the houses' punishment rather than the city's salvation (5.3.290-295). The fathers do not embrace and speak of a new Verona. They bargain, briefly and terribly, in settlement language, and then fall silent for the rest of the play. The state does not announce acquittals and sentences. It announces categories, pardon and punishment, and declines to attach a single name to either. And the play's last speech converts the dead from persons into a story, the most durable and the coldest form in which the living can keep them. Every element of the closing movement performs the same double action: it closes the feud and it itemizes what the closing cost, and it never allows the first action to be enjoyed without the second being read aloud.
 

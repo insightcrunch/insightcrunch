@@ -6,15 +6,15 @@ date: 2023-12-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-5-scene-2", "the-letter", "act-5-scene-2-analysis"]
 excerpt: "Act 5 Scene 2 reveals that plague quarantine stopped Friar John from delivering the letter to Romeo, the tiny accident that decides the whole tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2023-12-01
+lang: en
 ---
-
 Act 5 Scene 2 of Romeo and Juliet is the shortest hinge in the play: thirty-one lines, two friars, one cell, and a letter that never arrived. Friar John returns from the road to Mantua without having travelled it, and Friar Laurence learns that the message explaining Juliet's feigned death was sealed inside a quarantined house along with its bearer. Nothing is fought over in this scene, nothing is decided by any character's desire, and yet everything is settled by it. The verdict of this article is plain: Act 5 Scene 2 is not a piece of housekeeping tacked onto the tragedy but its causal keystone, the scene in which Shakespeare shows his hand and reveals that the catastrophe runs on information, not on villainy. Remove the scene and the ending becomes a rumour. Keep it, and the ending becomes an audit, in which every earlier failure of communication in the play is gathered, named, and charged to the account of a sealed door.
 
-![Friar Laurence learning that the letter to Romeo was never delivered in Act 5 Scene 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence learning that the letter to Romeo was never delivered in Act 5 Scene 2 - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The scene's power lies in disproportion. By the time Friar John knocks, the audience has watched Romeo in Mantua receive Balthasar's report that Juliet lies dead in the Capel monument, has watched him defy the stars, buy poison from a starving apothecary, and ride for Verona. The false news has already done its work at full speed. Act 5 Scene 2 then supplies the true news at walking pace, in a quiet room, to the one man who can no longer use it in time. Shakespeare's ordering is the argument. Had the explanation come before Romeo's purchase of the poison, the play would offer hope and snatch it away. Coming after, it offers knowledge and forbids hope altogether, because the audience measures every line of Friar John's plain report against a vial already bought and a horse already saddled. The scene therefore does double duty that no other scene in the fifth act can do: it certifies the mechanism of the ending, so that the tomb scene plays as consequence rather than confusion, and it converts the play's long pattern of late, garbled, and intercepted messages into a single stated fact. Laurence himself supplies the vocabulary. Juliet, he says, will wake and will blame him that Romeo "hath had no notice of these accidents" (5.2.26). Accidents, plural, named as such by the play's own planner, in the play's own words. A reading of the scene that treats the quarantine as an arbitrary intrusion has to argue against the text's own label for it.
 

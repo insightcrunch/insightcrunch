@@ -6,19 +6,19 @@ date: 2024-10-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "wealth", "household", "capulet-household-economy"]
 excerpt: "Romeo and Juliet shows the Capulet wealth in feasts, servants, and a lavish wedding, and the household economy frames Juliet's value on the marriage market."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-10-11
+lang: en
 ---
-
 ## Wealth and the Capulet Household Economy: The Verdict in Brief
 
 The Capulet household economy is not scenery in Romeo and Juliet. It is the machine that prices the heroine, schedules her marriage, and finally pays for her monument, and the play keeps its accounts in the open for any reader willing to read a feast as a financial document. The verdict of this article is plain: Capulet wealth is thematic, not background, because every decisive turn of the tragedy is taken in economic form. An invitation list decides who meets. A feast decides who may be seen together. A wedding budget decides the calendar. A threat to cut off maintenance decides the obedience demanded of a daughter. A cancelled wedding's provisions decide the shape of a funeral. Strip away the household economy and the plot has no moving parts left, only two young people reciting poetry in an empty street.
 
 The wealth itself has a distinctive shape, and the shape is the argument. Verona's richest household almost never touches coin on stage. Its riches sit in plate on a cupboard, in baked meats and pastry, in spices fetched before dawn, in torches ordered brighter, and above all in people: cooks, servingmen, porters, a nurse with a servant of her own. This is wealth as inventory and labor, held in goods that must be guarded, stores that must be unlocked with keys, and bodies that must be fed, waked, and worked through the night. The one time the play names expenditure directly, the master of the house issues the order as a command to ignore expense altogether: "Spare not for cost" (4.4.7). A household that speaks about money only to wave it aside is a household whose money has already been converted into something else, into rank, obligation, and display, and the conversion is where the tragedy lives.
 
-![The Capulet feast and household wealth in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet feast and household wealth in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 Juliet stands at the center of the ledger as its single appreciating asset. Her father introduces her to her suitor in the language of landed property, "the hopeful lady of my earth" (1.2.14), and the marriage pitch her mother delivers prices the match as an acquisition, a chance to "share all that he doth possess" (1.3.94). When the asset refuses the transaction, the enforcement clause is also economic: a daughter who will not be given shall receive nothing, "Nor what is mine shall never do thee good" (3.5.195). The household economy therefore does three kinds of work at once. It displays the family's standing to the city, it disciplines the family's members through maintenance and its withdrawal, and it converts the daughter into an alliance with the Prince's kinsman. The sections that follow audit each function in turn, from the feast's torch bill to the musicians dismissed without their music in the house of mourning.
 
@@ -221,7 +221,6 @@ Before the adjudication closes, one piece of evidence belongs on the record, bec
 A third account supplies the mechanism that joins Korda's stores to Peck's splendor. Craig Muldrew, in The Economy of Obligation, reconstructs an early modern economy that ran on credit in the absence of ready cash, and in which credit ran on reputation: a householder's word was a financial instrument, promises were assets, and default was a moral catastrophe before it was a legal one. Muldrew's framework prices the tragedy's central domestic scene with uncomfortable exactness. Capulet's assurance to Paris, "I think she will be rul'd / In all respects by me; nay, more, I doubt it not" (3.4.13-14), is a warranty issued on the firm's paper, and Juliet's refusal is a default event. The rage of Act 3 Scene 5, so disproportionate as family discipline, is proportionate as a creditor's panic: the name that secures the feast's whole web of obligation is the asset the daughter's refusal puts at risk, and the cutoff threat is the sound of a householder trying to call in a loan from his own heir. The chain from display to credit to promise to enforcement, which neither the stores account nor the splendor account completes alone, is the household economy's full circuit, and the play runs the circuit to its short.
 
 The verdict follows. A background is what a play can lose without losing its plot, and Romeo and Juliet cannot lose the household economy without losing everything: no guest list, no meeting; no feast, no trespass and no guarantee; no wedding budget, no calendar; no maintenance to withdraw, no terror in the cutoff; no stores, no funeral conversion; no stored gold, no statues. Korda and Peck, from opposite ends, describe the machine's two halves, and the machine is the theme, because the tragedy is finally about what a daughter costs and what she fetches inside the only economy her world allows her.
-
 
 
 ## The InsightCrunch Household Economy Map

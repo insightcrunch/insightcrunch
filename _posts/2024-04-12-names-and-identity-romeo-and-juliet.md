@@ -6,15 +6,15 @@ date: 2024-04-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "names", "identity", "names-and-identity"]
 excerpt: "Romeo and Juliet asks whether a name can be shed without losing the self, and though the lovers wish it could, the play proves the name is fatally inescapable."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-04-12
+lang: en
 ---
-
 A name in Verona is not a label pasted onto a finished person. A name in Verona is a sentence handed down before the person speaks, a debt collected by other people, and a weapon that strangers may draw without ever meeting the bearer. Names and identity form the hidden machinery of the tragedy: the feud does not attach to deeds, faces, or arguments, since the play never explains what the two houses are fighting about, and attaches instead to two surnames that every citizen can pronounce. Strip away the poetry of the orchard for a moment and the plot reads as a sequence of naming events. A Chorus names the lovers as a pair of star-crossed enemies before either appears. Servants fight because a house word has been spoken in the street. A guest list carries the fatal surnames into a hall. A young woman argues in the dark that a name is no part of a man, and a young man offers to be baptized out of his. A friar weds them and thereby creates a true relation that no one else may name. A swordsman dies because a name in a public square outranks a secret marriage. A father unmakes his daughter with a volley of demoting names when she refuses the husband assigned to her. A false corpse is mourned under a maiden designation, a traveller carries a death report keyed to a surname across two cities, and two fathers close the action by renaming the dead in gold. At every joint of the plot, the question is never only what someone has done. The question is what someone is called, by whom, and with what authority.
 
-![Names and identity in Verona, where a surname can sentence a stranger - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Names and identity in Verona, where a surname can sentence a stranger - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The verdict of this article can be stated plainly at the start, because the whole text argues toward it. Juliet's orchard theory, the most quoted account of naming in the canon, is half right and wholly fatal. She is right that a name is an arbitrary sound, that the hand and foot and face belong to the man while the surname belongs to a filing system maintained by other people. She is wrong, and the play spends four acts proving her wrong, that an arbitrary sound can therefore be refused by private agreement. A name in this play is inescapable not because sounds carry magic but because names are kept by institutions: by households that muster servants under them, by fathers who dispose of daughters under them, by a prince whose law addresses houses rather than hearts, by wedding rites that change them and by funeral rites that restore them. Identity survives inside the name or not at all, and the single genuine renaming the play contains, the secret marriage, survives only while it stays unspoken. The moment the hidden name meets the public one, in a square at noon, the public one wins and men die of the collision.
 

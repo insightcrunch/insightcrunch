@@ -6,17 +6,17 @@ date: 2024-11-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "vows", "oaths", "vows-and-oaths"]
 excerpt: "Romeo and Juliet turns on sworn words, from the lovers' vows to Tybalt's oath of revenge, and the play weighs which promises bind and which should be broken."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-11-01
+lang: en
 ---
-
 ## Vows, Oaths, and Promises in the Play: A Verdict on the Force of Sworn Words
 
 Romeo and Juliet turns on sworn words. The lovers are not united by a shared glance, a shared sonnet, or even a shared grave; they are united by a vow, spoken in an orchard, examined, refused, corrected, and then accepted on terms Juliet herself sets. The tragedy that follows is not the consequence of a single oath broken. It is the consequence of a city in which every kind of sworn word is in circulation at once: feasts open with oaths of revenge, fathers tender their daughters with the language of contract, servants cheapen every formula they touch, a friar lends the sacrament to a secret marriage, and two fathers close the play by vowing statues in pure gold to children they could not keep alive. The verdict of the play is precise and unsparing. A vow binds only where it is examined before it is spoken, and the lovers survive longest in the very hours when their vow is under Juliet's interrogation. Where a sworn word escapes examination, in Tybalt's mouth, in Capulet's house, in the Friar's cell, in Paris at the tomb, it turns into a trap, a weapon, or a monument. Shakespeare does not celebrate swearing. He tests it, and the test is a ledger: which vows are kept, which are broken, and at what price each outcome arrives.
 
-![Vows and oaths in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Vows and oaths in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The ledger begins with a distinction the play itself insists upon. A vow in the Verona of the text is not the same thing as an oath, and neither is the same thing as a promise. An oath calls a witness, something sacred or powerful, and puts the speaker's credit on the line before that witness. A vow binds the speaker's future conduct, usually before heaven, and carries a sanction the speaker accepts in advance. A promise binds one person to another and relies on the relationship, not on the witness. The play uses all three, and its catastrophes follow from the confusion between them. Romeo offers an oath when a vow is needed. Tybalt offers an oath when a promise of restraint would save him. Capulet offers a promise and then discovers, too late, that a father who tenders a daughter's love has made something closer to a vow than he intended. The Friar offers a sacrament and treats it, for one crucial afternoon, as a piece of diplomacy. Each miscalculation is examined in the sections below, against the primary text in a named edition, the Arden Shakespeare third series edition edited by Rene Weis, and against the critics who have taken the sworn word of this play most seriously. The verdict is stated at the outset and defended throughout: the lovers' vows are admirable precisely because Juliet doubts them, and dangerous precisely because everyone around the lovers swears without doubt.
 

@@ -6,17 +6,17 @@ date: 2024-03-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "sexuality", "bawdy", "sex-and-sexuality"]
 excerpt: "Romeo and Juliet is far more physical than its romantic reputation, threading bawdy, desire, and the body through a play often sold as chaste young love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-03-08
+lang: en
 ---
-
 ## Sex and Sexuality in Romeo and Juliet: The Verdict in Brief
 
 Sex and sexuality are the first language this play speaks, the medium in which its feud is argued, and the clock by which its plot is timed. Before either lover appears, before the word love has been spoken by anyone who means it, two servants are trading boasts about thrusting women to a wall and cutting off maidenheads. The verdict of this article is plain: the play's physical life is not decoration laid over a pure romance, and it is not an embarrassment that tasteful editing politely removes. It is a graded system of sexual registers, running from predation at the bottom to tenderness at the top, and the tragedy can be measured by the distance between those registers. Verona's public voices can speak of sex only as conquest, appetite, mockery, or transaction. The lovers, meeting inside that city, have to invent a register of their own before they can speak desire at all, and the invention is the most original thing in the play. Quotations here follow René Weis's Arden Third Series edition, cited by act, scene, and line.
 
-![Capulet servants trading bawdy boasts in the opening scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capulet servants trading bawdy boasts in the opening scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 The chaste reputation is the first obstacle, because it is an artifact rather than a reading. Generations met this play in expurgated school texts, in productions that trimmed the servants, softened Mercutio, and hurried past the Nurse, and the residue of those cuts hardened into a belief about the text itself: that the romance floats above the body, that the lovers' feeling is spiritual where everyone else's is merely comic. The full text refuses that belief at every level. Its opening exchange is a sexual threat delivered as a joke. Its wittiest character cannot mention love without turning it into an obscene conjuring trick. Its most experienced voice on desire belongs to a wet nurse who measures a girl's whole future by a fall on a dovehouse wall. Its heroine waits for her wedding night in a soliloquy of frank, impatient wanting that no other speaker in the play could pronounce. And its catastrophe is set in motion by a consummation that has to happen on one particular night, in one particular chamber, before a dawn that will exile the bridegroom. Remove the body from any of those points and the machinery stops.
 

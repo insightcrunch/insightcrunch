@@ -6,17 +6,17 @@ date: 2024-05-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "marriage", "family-duty", "marriage-and-duty"]
 excerpt: "Romeo and Juliet pits private love against family duty, as the lovers' secret marriage defies the obligations the feud and their fathers lay upon them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-05-10
+lang: en
 ---
-
 ## Marriage and Family Duty in Romeo and Juliet: The Verdict in Brief
 
 Marriage and family duty are not the background of this tragedy; they are its machinery. The feud supplies the noise, but the play's catastrophe is assembled out of obligations: a daughter's obedience owed to a father, a father's consent owed to a daughter, a priest's counsel owed to two children and a city, a husband's kinship owed to the cousin he kills, a bridegroom's forms owed to a house that never receives him. Every disaster in the play can be written as a duty kept, a duty broken, or a duty that could not be kept without breaking another. That is the argument defended here, and it produces a verdict more precise than the familiar celebration of young love against old tyranny. The play does not ask its audience to choose between love and duty. It asks the harder question of what happens when duty itself is divided against itself, when the sacrament a daughter owes her husband annuls the obedience she owes her father, and when a father's command, pressed to its conclusion, orders the one act the period's own church law calls a sin.
 
-![Marriage and family duty in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marriage and family duty in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The ruling reached by the evidence is this. The lovers are acquitted of disloyalty, because the marriage they made was real by every rule their world recognised, and a real marriage rewrites the ledger of what a person owes. Juliet after the cell is not a disobedient daughter who happens to love elsewhere; she is a wife, holding an office her culture ranked above daughterhood, and her refusal of Paris is not rebellion but the simple impossibility of marrying twice. Romeo's corresponding failure is quieter and the play weighs it separately: his breach is not defiance but silence, a son's confidence never given to the father who dies of not knowing. The guilty party, in the play's own accounting delivered by the Prince in the final scene, is the order that made the two sets of claims irreconcilable: the feud, which converted the household from a shelter into a garrison and made every duty owed inside it point outward at an enemy. The tragedy is not that the young broke the rules of the house. The tragedy is that the house's rules, all of them honourable in isolation, could no longer be obeyed together.
 

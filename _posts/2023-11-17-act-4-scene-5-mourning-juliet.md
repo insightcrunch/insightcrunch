@@ -6,15 +6,15 @@ date: 2023-11-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-4-scene-5", "mourning", "act-4-scene-5-analysis"]
 excerpt: "Act 4 Scene 5 has the Capulets find Juliet seemingly dead and pour out grief, then swerves to comic musicians, a jolt of tone that has long divided readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2023-11-17
+lang: en
 ---
-
 Act 4 Scene 5 of Romeo and Juliet is the play's rehearsal for a funeral that has not happened. The Nurse enters Juliet's chamber on the wedding morning, calls her name into silence, draws the curtains, and finds a body that will not wake. Within minutes the room fills with the fullest formal lament in the play, as mother, father, bridegroom and Friar take their turns over the still figure on the bed. Then, with the corpse barely carried from the audience's mind, the scene hands its closing minutes to hired musicians haggling with a servant over tunes and tips. The verdict defended across this close reading is that the tonal jolt is neither accident nor lapse of taste. The grief is patterned on purpose, stylized so that it can be watched as performance, and the comedy that follows is the price tag the play attaches to performed feeling. Because no mourner in the room knows what the audience knows, that the stillness on the bed is a drug's work and not death's, every lament lands twice: once as the household's catastrophe, and once as a ceremony staged over a sleeping girl who will wake to a worse one.
 
-![The mourning chamber and the still figure of Juliet in Act 4 Scene 5 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The mourning chamber and the still figure of Juliet in Act 4 Scene 5 - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The scene has also carried, for as long as it has been staged and studied, a reputation as the play's problem passage, the place where the tragedy's tone is said to crack. Editors have apologized for its ending, directors have shortened or deleted the ending, and readers meeting the play first on the page often register the musicians as an intrusion from another work. That reputation is itself evidence worth examining, because it rests on an assumption the scene is designed to expose: the assumption that grief, to be honoured, must be protected from the ordinary. The pages that follow test the assumption against the text beat by beat, and find the protection racket wanting. What cracks in Act 4 Scene 5 is not the tone. It is the audience's confidence that ceremony and sincerity are the same thing.
 

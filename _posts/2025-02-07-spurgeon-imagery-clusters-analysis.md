@@ -6,12 +6,12 @@ date: 2025-02-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "imagery-clusters", "spurgeon", "imagery-clusters-method"]
 excerpt: "Caroline Spurgeon counted Romeo and Juliet's images and found light against dark its dominant cluster, founding a method that reshaped how the play is read."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-02-07
+lang: en
 ---
-
 ## The Argument in Brief: What Counting the Play's Images Proves, and What It Cannot
 
 Caroline Spurgeon's imagery clusters remain the most consequential single idea in the study of this play's language, and the most contested. In Shakespeare's Imagery and What It Tells Us, published in 1935, Spurgeon reported the result of counting and classifying every image in Romeo and Juliet: the play's dominant cluster yokes light against darkness, sun, moon, stars, torches, lightning and dawn ranged against night, gloom and the tomb, and the lovers burn at the centre of that cluster as brief brightness inside a dark and violent city. The finding rebuilt the way the play is read. Before Spurgeon, imagery in criticism of the play meant the famous single lines, quoted and admired one at a time. After Spurgeon, imagery meant a system: hundreds of small pictures accumulating into an atmosphere, a design that a reader feels before being able to name it. The cliche quotes the single image. The count reveals the weather system the single image belongs to.
@@ -22,7 +22,7 @@ That two-part verdict shapes everything that follows. The method gets a full hea
 
 ## Who Was Caroline Spurgeon, and Why Did She Start Counting Images?
 
-![Caroline Spurgeon and the imagery clusters of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Caroline Spurgeon and the imagery clusters of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Caroline Frances Eleanor Spurgeon (1869-1942) held the chair of English literature at Bedford College, University of London, from 1913, among the first women in England to hold a university chair in the subject, and she built her reputation in a profession that still treated systematic evidence as a masculine habit and appreciation as the critic's whole duty. Her road to the imagery work ran through comparison. In Shakespeare and the Italian Tradition (1931), she examined the imagery of Shakespeare alongside that of his fellow dramatists and argued from its Italian colouring, its sports, its gardens and its sea, about the mind behind the plays. The comparison required a technique that appreciation could not supply: if one dramatist's plays were to be set against another's, the pictures inside them had to be extracted, sorted and counted. The same year, 1931, her British Academy Shakespeare Lecture, Shakespeare's Iterative Imagery, presented the core idea to the profession: that a play's imagery is iterative, repeated in groups, and that the groups, not the isolated beauties, carry the play's atmosphere and much of its meaning.
 

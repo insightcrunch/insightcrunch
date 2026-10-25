@@ -6,15 +6,15 @@ date: 2023-10-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "aubade", "bird-imagery", "lark-or-nightingale"]
 excerpt: "Romeo and Juliet's dawn parting is an aubade in which they argue whether the bird is lark or nightingale, willing the night to last so they need not part."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-10-13
+lang: en
 ---
-
 The lark or nightingale exchange that opens Act 3 Scene 5 is the most exact aubade in English drama, and the exactness is the argument. For thirty-six lines the newly married lovers dispute the identity of a bird neither of them can see, and the dispute is rigged from its first sentence: the bird's name decides whether Romeo stays in his wife's chamber or climbs down into exile under sentence of death. Juliet names the singer a nightingale so that the night, the marriage's only safe jurisdiction, can be allowed to continue. Romeo names it the lark, the herald of the morn, because a wrong identification, believed, would cost him his life. The verdict defended throughout this reading is that the exchange is no decorative duet of wishful thinking. It is the play's most disciplined piece of verbal engineering: a naming contest in which language is ordered to repeal a fact, fails on a schedule the audience can watch, and converts its failure into the one decision that saves Romeo's life and ends the marriage's single night. The lovers are not describing the dawn. They are litigating it, and the aubade, the dawn song of parting inherited from the troubadours, supplies the court in which the case is heard.
 
-![The lark or nightingale aubade at dawn in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lark or nightingale aubade at dawn in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The exchange earns its reputation because every element in it is double. The bird is evidence and excuse at once. The light is scenery and sentence at once. The misnaming is tenderness and strategy at once, a lie the lovers tell the morning in the hope that the morning might be persuaded to believe it. And the reversal at the exchange's centre, where Juliet abandons her own fiction mid-breath and drives her husband out into the light she had been denying, is the hinge on which the whole tragedy of haste turns fastest. A sentimental set piece would let the lovers sigh in parallel and part on a rhyme. This passage instead runs like a negotiation with a clock built into its imagery: each speech is a bid, each bid is answered by stronger light, and the final settlement is paid in the only currency the dawn accepts, which is departure.
 

@@ -6,15 +6,15 @@ date: 2024-09-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "loyalty", "betrayal", "loyalty-and-betrayal"]
 excerpt: "Romeo and Juliet turns on loyalty and betrayal, as the lovers' bond to each other forces them to betray family, friends, and the Nurse betrays Juliet in turn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-09-06
+lang: en
 ---
-
 Loyalty and betrayal in Romeo and Juliet are not two themes running side by side through Verona. They are a single transaction viewed from opposite ends, because every act of faithfulness in the tragedy is purchased with an act of treachery against some other bond. The Montague heir keeps faith with his wife by breaking faith with his father, his friend and his prince. The Capulet daughter keeps faith with her husband by deceiving the parents who raised her and the nurse who suckled her. The verdict argued across the pages that follow is firm: the betrayals in the tragedy are impossible choices rather than failures of character, collisions engineered by a feud that loads each person with more allegiances than any one life can honour at once. Verona does not contain a single relationship that can be kept without cost to another relationship, and the catastrophe arrives when the bills for all those kept faiths fall due within five days.
 
-![The divided loyalties of Verona mapped across the Capulet and Montague households - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The divided loyalties of Verona mapped across the Capulet and Montague households - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The familiar way of remembering the tragedy isolates the love from the web that strangles it. Two young people meet at a feast, speak a sonnet, marry in secret and die in a tomb, and the surrounding city fades into scenery. Restoring the web changes every judgment the scenery version invites. Once the bonds are drawn back in, the orchard scene becomes a negotiation between rival claims rather than a duet, the street fight an audit of competing debts, and the tomb the one room where all the incompatible loyalties are finally gathered. Each section below follows one strand of that web: the vows that transfer allegiance, the friendship that demands blood, the counsel that breaks faith in a bedroom, the servants whose obedience carries the plot, the priest whose divided faith builds the machinery of the ending, and the parents whose demand for obedience makes every private loyalty a public crime.
 

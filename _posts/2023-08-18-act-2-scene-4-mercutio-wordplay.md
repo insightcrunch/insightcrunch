@@ -6,15 +6,15 @@ date: 2023-08-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-2-scene-4", "mercutio", "act-2-scene-4-analysis"]
 excerpt: "Act 2 Scene 4 brings Mercutio's sharpest wordplay, news of Tybalt's challenge, and the Nurse's arrival, as a restored Romeo trades wit before the wedding."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2023-08-18
+lang: en
 ---
-
 Act 2 Scene 4 is the play's great scene of wordplay under pressure: a street morning in Verona where Mercutio's wit runs at full stretch while a written challenge from Tybalt hangs over every exchange, and where the Nurse's entrance converts the sport into an errand that ends with the wedding arrangements made. The scene's verdict can be stated at the outset. The comedy is not a pause in the tragedy but its dress rehearsal in a lighter key, because the same instruments that make the morning funny, the duel of words, the fencing vocabulary, the insult traded as entertainment, are the instruments that will draw blood in Act 3 Scene 1. Mercutio performs the duel here with puns; Tybalt will perform it with a rapier; the scene's design insists that the two performances are one art at two temperatures. René Weis, in the Arden Third Series edition used for the quotations in this article, prints the scene from the 1599 second quarto, and its proportions deserve notice before any single joke is glossed: the fencing satire, the pun contest, and the Nurse's business divide the scene into three movements, and the threat announced in the first movement is still unpaid when the curtain falls on the third.
 
-![Mercutio's wordplay duel in Act 2 Scene 4 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mercutio's wordplay duel in Act 2 Scene 4 - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The morning-after placement matters. Romeo has spent the night at the Friar's cell being married in prospect and is expected home by friends who know nothing of Juliet. Benvolio opens with the practical question of where Romeo has been, and Mercutio answers with the scene's first joke at the lover's expense: "Without his roe, like a dried herring. O flesh, flesh, how art thou fishified!" (2.4.37 to 38). The gloss is precise. A roe is a fish's eggs and, by sound, the first syllable of Romeo's name stripped of its final vowel in the older pronunciation of the name's second half; a lover without his roe is a fish out of its element and a man out of his desire at once. The wit is diagnostic before it is cruel: Mercutio reads the absence as lovesickness because lovesickness is the only condition his philosophy stockpiles remedies for. Everything the friends believe at the scene's opening is wrong, and the wordplay's brilliance is built on that wrongness, since Romeo's transformation, when it arrives, will be misread as a cure by the very man whose system cannot imagine a wedding.
 

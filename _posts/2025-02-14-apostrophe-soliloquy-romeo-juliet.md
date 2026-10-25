@@ -6,15 +6,15 @@ date: 2025-02-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "apostrophe", "soliloquy", "apostrophe-and-address"]
 excerpt: "Romeo and Juliet fills its soliloquies with apostrophe, direct address to night, stars, and death, turning the lovers' speeches into urgent appeals to fate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-02-14
+lang: en
 ---
-
 Apostrophe is the engine inside the great soliloquies of Romeo and Juliet, and the soliloquies are where the play keeps its real action. The familiar account of these speeches treats them as outpourings: feeling rises, the character speaks, the audience overhears a heart. The text supports a harder reading. Again and again the lovers stop describing their condition and start addressing it, turning from narration to summons, from reflection to command. Juliet does not meditate on the slowness of the day; she orders the sun's horses to gallop. Romeo does not report despair at the news from Verona; he defies the stars to their faces, then walks into a tomb and negotiates with death, with the grave that holds his enemy, and with his own eyes and arms. Soliloquy in this play is not thought overheard. It is appeal lodged, in the vocative case, with every power the lovers believe might still be listening.
 
-![Apostrophe and address in the soliloquies of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Apostrophe and address in the soliloquies of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The misreading has a pedigree worth naming. The Romantic centuries taught readers to prize the soliloquy as the moment a character stops performing and starts feeling, and the lovers' speeches, famous in extracts, were absorbed into that lesson as its prettiest evidence. On the extract page, stripped of their occasions, the speeches do look like effusions. Restored to their scenes, they look like work. Each is occasioned by a specific failure of the human network around the speaker: a marriage concealed from the house, a message delayed, a sentence of exile, a letter lost. Each responds to its occasion not by describing a feeling but by attempting an act upon the only addressees left. The outpouring account cannot explain the speeches' grammar, their imperatives and conditions and contracts. The appeal account explains nothing else.
 

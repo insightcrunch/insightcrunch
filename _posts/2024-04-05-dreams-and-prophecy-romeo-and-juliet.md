@@ -6,15 +6,15 @@ date: 2024-04-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "dreams", "prophecy", "dreams-and-prophecy"]
 excerpt: "Romeo and Juliet is haunted by dreams and omens, from Romeo's foreboding before the ball to the hopeful Mantua dream that proves cruelly, fatally wrong."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-04-05
+lang: en
 ---
-
 Verona is a city under warning. Before Romeo has met Juliet, he stands in a street at night with a torch in his hand and announces that his mind misgives some consequence yet hanging in the stars. Before the wedding night has ended, Juliet looks down at her husband from a window and sees him as one dead in the bottom of a tomb. In exile, Romeo wakes from the happiest dream of the play and reports a vision of his lady breathing life back into his corpse with kisses, hours before a servant rides in with the news that she is dead. Between those poles the tragedy runs a complete system of dreams, omens, forebodings, visions, and spoken portents, and the system has a signature: nearly every warning in the play is accurate, and not one of them does its hearer any good. The single exception proves the design, because the one report from sleep that arrives in a cheerful, legible, wish-shaped form, the Mantua vision, is false in the only way that matters. It shows Romeo his own corpse revived, and within the day he is a corpse for good, revived by nobody.
 
-![Dreams and prophecy in Romeo and Juliet, the omens and the dream that lies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dreams and prophecy in Romeo and Juliet, the omens and the dream that lies - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The verdict defended across this article is that dreams and prophecy in the tragedy form a warning system engineered to fail at the point of use. The warnings fail in three distinct ways, and the play distributes the failures carefully. Some are accurate in outline and empty in detail, like the foreboding before the feast, which names a consequence, a beginning, and an untimely death, but no agent, no hour, and no remedy. Some are accurate and dismissed, waved away by the period's own sceptical doctrine that dreams are the children of an idle brain, a doctrine the play puts into its wittiest mouth and then spends four acts refuting. And one is false in substance while true in every image, the Mantua vision, whose kisses, corpse, and revival all occur in the tomb and all occur wrong. Prophecy in Verona is therefore not a mechanism of fate. It is a mechanism of dread for the audience and of dramatic irony for the reader, and its contribution to the tragedy is to prove that knowledge was available, in fragments, at every stage, and that the catastrophe happened anyway, through the quality of the knowledge rather than through its absence.
 

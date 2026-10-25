@@ -6,15 +6,15 @@ date: 2023-09-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-3-scene-4", "lord-capulet", "act-3-scene-4-analysis"]
 excerpt: "Act 3 Scene 4 has Capulet abruptly promise Juliet to Paris and rush the wedding forward, setting the deadline that forces her toward the Friar's potion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2023-09-29
+lang: en
 ---
-
 Act 3 Scene 4 is the shortest consequential scene in the tragedy, and its consequence is total. In a late-night room, with Tybalt newly dead and the household in mourning, Capulet detains the departing Paris, promises him a daughter who has not been consulted, names a wedding day three nights away, corrects that day in mid-sentence, plans a small ceremony to protect the family's reputation, and sends his wife upstairs to deliver the news to a girl who is, at that hour, receiving her secret husband in her chamber. Nothing in the scene is loud. No sword is drawn, no curse is spoken, no one raises a voice. Yet every disaster that follows is scheduled here. The verdict of this reading is direct: the catastrophe of the play is not dropped from the stars in this scene but decided, dated, and dispatched at a father's table, and the scene's brevity is the measure of how little deliberation the decision required. What takes fifty lines to make takes the rest of the play to unmake, and it cannot be unmade at all.
 
-![Act 3 Scene 4, Capulet promising Juliet to Paris by lamplight - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Act 3 Scene 4, Capulet promising Juliet to Paris by lamplight - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The scene is easy to skip in memory because the play surrounds it with louder music. Before it stands the Friar's cell and Romeo's despair in Act 3 Scene 3, where banishment is weighed against death; after it stands the dawn parting and the father's rage in Act 3 Scene 5, where the promise announced here meets refusal and turns violent. Between those two storms the promise itself is made quietly, almost in passing, and readers hurrying toward the confrontation often treat the short scene as a corridor. The corridor is the hinge. Without the promise there is no refusal, no rage, no potion, no tomb. The scene also completes a reversal that the play has been preparing since Act 1 Scene 2, where the same father, facing the same suitor, urged patience, counselled wooing, and made his own will conditional on his daughter's consent. In Act 3 Scene 4 every term of that earlier bargain is withdrawn, and the withdrawal is never announced as a change of mind. It is simply enacted, in the grammar of hospitality, over a departing guest's farewell.
 

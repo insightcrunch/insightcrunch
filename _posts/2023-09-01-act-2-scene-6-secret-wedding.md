@@ -6,15 +6,15 @@ date: 2023-09-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-2-scene-6", "secret-wedding", "act-2-scene-6-analysis"]
 excerpt: "Act 2 Scene 6 marries Romeo and Juliet at the Friar's cell, where his warning that these violent delights have violent ends shadows the lovers' brief joy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2023-09-01
+lang: en
 ---
-
 Act 2 Scene 6 of Romeo and Juliet is the shortest important scene in the play: thirty-six lines, three speakers, one errand, and a marriage the audience is never allowed to watch. The scene performs the event the whole comic half of the tragedy has been driving toward, the secret wedding at the Friar's cell, and it performs that event in the time a longer scene would spend on its opening pleasantries. Everything in the scene is compressed except one thing. The Friar's warning, "These violent delights have violent ends" (2.6.9), is given room to breathe, to extend itself through gunpowder and honey and a commandment about moderation, while the lovers on either side of it speak in the grammar of overflow. The verdict this reading defends is that the compression is the meaning. Shakespeare builds the wedding scene as a scale: on one pan, a doctrine of measure, spoken complete and unhurried; on the other, two young people whose joy is defined by its refusal of measure, by sums that cannot be counted and minutes that are asked to outweigh death. The scale never balances, and the scene's brevity is the sound of it tipping.
 
-![The secret wedding at the Friar's cell in Act 2 Scene 6 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The secret wedding at the Friar's cell in Act 2 Scene 6 - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The scene's design becomes clearer when its proportions are set against the scenes around it. The balcony scene that promised this marriage runs to nearly two hundred lines of negotiation, hesitation, recall, and return. The scene of the Nurse's errand, which merely arranges the hour, luxuriates in delay. The wedding itself, the act toward which both of those scenes strain, receives thirty-six lines and then dismisses its participants through a door the audience cannot follow them through. A dramatist who wanted the audience to savour the union could have written the rite. A dramatist who wanted the audience to hear the warning could not have arranged matters better, because in a scene this short the warning is not an incident among others. It is the largest single speech, the structural centre, and the only utterance in the scene that speaks about the future in the grammar of consequence rather than the grammar of desire.
 

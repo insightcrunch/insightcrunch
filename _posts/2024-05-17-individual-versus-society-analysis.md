@@ -6,17 +6,17 @@ date: 2024-05-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "individual-and-society", "rebellion", "individual-versus-society"]
 excerpt: "Romeo and Juliet sets the private love of two individuals against the whole social order of Verona, and the clash between desire and society drives the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-05-17
+lang: en
 ---
-
 ## The Individual Against Society in Romeo and Juliet: The Verdict in Brief
 
 Two young people in Verona fall in love, and the entire social order of their city is arranged so that the love cannot be allowed to exist in public. That arrangement, rather than the love itself, is the engine of the tragedy. The individual in Romeo and Juliet is no abstraction. The individual is a daughter who has been promised to one man and chooses another, and a son whose surname makes him an enemy inside a house where he has just been a welcome guest. Society in the play is equally concrete: a father's will, a prince's edict, a market in marriages, a code of honour enforced at sword point, and a church that can bless the rebellion only behind a closed cell door. The clash between desire and society drives the tragedy because every institution in Verona holds a written or unwritten claim on the lovers, and the lovers' single counter-claim, that they belong to each other, is the one claim no institution is built to recognize.
 
-![Romeo and Juliet and the individual against society in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet and the individual against society in Verona - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The verdict argued through this article is double, and its two halves must be held apart. On the merits, the play sides with the individual. The lovers' judgment of themselves is presented as sound: their bond is real, prior to every other claim, and binding in conscience, and the orders ranged against it are shown to be corrupt, arbitrary, or blind. On the outcome, the play sides with society, not because society is right but because society is there. A self with no public form cannot survive in a city where every other bond is public property. Verona never refutes the private world the lovers build in the orchard and the cell. It does something colder and more efficient. It declines to register that world's existence, processes the lovers through its ordinary machinery of edict, market, and duel, and at the end absorbs the two individuals into its own official story, cast in gold and set up in the city's keeping. Defiance wins the argument and loses the world.
 

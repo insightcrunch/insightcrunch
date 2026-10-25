@@ -6,17 +6,17 @@ date: 2024-07-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "book-imagery", "imagery", "book-imagery-love"]
 excerpt: "Romeo and Juliet repeatedly casts people as books to be read, most famously when Lady Capulet pitches Paris as a fine volume Juliet should study and bind."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-07-05
+lang: en
 ---
-
 ## Book Imagery in Romeo and Juliet: The Verdict in Brief
 
 The tragedy keeps handing its characters texts and watching what they do with them. A mother presents a suitor as a fine volume and instructs her daughter to read his face, find the gloss in his eyes, and supply the cover that completes the binding. A servant carries a guest list through Verona without the skill to decipher a single name on it, and the whole love plot walks through the door his illiteracy opens. A friar dismisses a young man's first passion as reading by rote, the recitation of a lesson never understood well enough to spell. Two strangers at a feast compose a sonnet mouth to mouth and seal it with a kiss delivered, in the girl's dry verdict, by the book. A banished husband inventories a starving apothecary's shop the way a scholar inventories a page, reads poverty in empty boxes and musty seeds, and buys his death from the signs. Over a sleeping face in a tomb, the same reader studies lips and cheeks for the flag of death, reads the evidence exactly backwards, and dies of the misreading. Book imagery in this play is not decoration laid over the love story. It is the love story's operating machinery, and its verdict is severe: Verona is a city of confident readers, and nearly every act of reading in it is an act of possession, haste, or error, while the few careful readings arrive too late or in the wrong hands.
 
-![A fine bound volume open beside a quill and reading light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A fine bound volume open beside a quill and reading light - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The verdict this article defends is that the book cluster arraigns the readers, not the reading. Again and again the play distinguishes between kinds of construal. There is reading as acquisition, the mother's kind, in which a person is a volume whose value rises once bound, clasped, and shelved in the right house. There is reading as recitation, the young Romeo's kind with Rosaline, fluent in the formulae and innocent of the meaning. There is reading as appetite, the Mantua kind, in which signs are scanned for what they can be made to yield. Against these the play sets two counterexamples and grants them no power to save anyone: Juliet's conditional, editorial reading, which tests every text against evidence and amends oaths that will not hold, and the audience's own reading, briefed by a Chorus that hands over the ending in advance like a title page, so that the house watches every character misread a story the house has already been given. The lovers are figured as texts, certainly, but the sharper figure runs the other way. The characters are figured as readers, graded by how they handle what is set before them, and the catastrophe is the sum of their grades.
 

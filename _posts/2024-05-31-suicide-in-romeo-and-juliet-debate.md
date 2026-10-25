@@ -6,17 +6,17 @@ date: 2024-05-31
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "suicide", "ending", "suicide-debate"]
 excerpt: "Romeo and Juliet ends in a double suicide that readers have judged as sin, as transcendence, and as tragic waste, and the play itself refuses an easy verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-05-31
+lang: en
 ---
-
 ## Suicide in Romeo and Juliet: The Verdict the Play Refuses to Borrow
 
 The double suicide at the end of Romeo and Juliet has been judged three ways for four centuries: as sin, as transcendence, and as tragic waste. The sin verdict belongs to the play's first culture, which classified self-killing as a felony and a mortal offence against God. The transcendence verdict belongs to the romantic afterlife of the story, in which the deaths read as love escaping a world too coarse to hold it. The waste verdict belongs to the evidence of the stage itself, where two young people die by poison and dagger inside a tomb because a letter went astray and a waking came minutes late. This article stages the debate formally, gives each reading its strongest evidence, and reaches a conclusion the play itself dictates. The conclusion is this: the tragedy positions the suicides as waste that the survivors labour, too late and in gold, to convert into sacrifice. Shakespeare's Verona holds the period's sentence ready and never pronounces it. No priest damns the lovers, no judge confiscates their goods, no voice in the final scene calls the act a sin. The verdicts actually delivered fall on the living. That distribution of judgement, examined closely, is the play's answer to the debate, and it is more unsettling than either damnation or apotheosis, because it leaves the audience holding a sentence the text declines to pass.
 
-![The Capulet tomb at dawn, where Romeo and Juliet die and the debate over their suicide begins - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet tomb at dawn, where Romeo and Juliet die and the debate over their suicide begins - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The debate matters because the familiar reputation of the play settles it in advance and settles it wrongly. In the popular memory the deaths are the seal of the romance, the proof that the love was real, and the tomb scene is consumed as a beautiful Liebestod in which two souls pass out of a hostile city into union. That memory flattens a genuine moral difficulty that the first audiences would have felt in their bodies. For an Elizabethan playgoer, what Romeo and Juliet do in the churchyard was not a gesture. It was self-murder, a crime at common law and, in the teaching of the church, a sin that closed the door on repentance because the sinner died inside the act. The play surrounds that act with the language of love, marriage, and sacrifice, and it ends not with a stake and a crossroads but with statues in pure gold. The distance between those two endings, the one the culture prescribed and the one the stage delivers, is the true subject of the suicide debate, and every serious reading of the play has to cross it.
 

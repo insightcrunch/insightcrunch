@@ -6,17 +6,17 @@ date: 2023-07-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "shared-sonnet", "language", "shared-sonnet-analysis"]
 excerpt: "Romeo and Juliet's first words form a complete shared sonnet sealed with a kiss, and reading it shows Shakespeare making their meeting a single act of poetry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-07-07
+lang: en
 ---
-
 The shared sonnet is the most exact piece of joinery in Romeo and Juliet, and the verdict of this reading is plain: the fourteen lines the lovers exchange at their first meeting are not a decorative stunt laid over a meeting, but the meeting itself, transacted in verse. When Romeo crosses the Capulet hall and speaks to Juliet for the first time, the two strangers do not trade remarks. They build a poem together, quatrain by quatrain, in the period's most fashionable and most demanding short form, and the poem completes itself in a kiss. Every element of the scene that memory usually keeps, the masked intruder, the unknown name, the danger from Tybalt still warm in the room, is subordinated to a formal event: two speakers who have never met discover, line by line, that they can finish each other's rhymes.
 
 That discovery is the point. A sonnet is a solo instrument, built for one voice meditating on one beloved, and the play had already shown Romeo performing that solo kind for Rosaline, in oxymorons addressed to the air. At the feast the form changes hands. Romeo opens a sonnet in the old manner, casting Juliet as a holy shrine and himself as a pilgrim, and Juliet, instead of receiving the compliment in silence, takes up the form and answers inside it, correcting his terms while keeping his rhymes. Fourteen lines later the sonnet stands complete, and its completion is the first fact the play establishes about the pair: before the lovers know each other's names, before a single fact has passed between them, the verse has already certified them as matched makers. Form is not the clothing of this meeting. Form is its evidence.
 
-![The shared sonnet at Romeo and Juliet's first meeting - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The shared sonnet at Romeo and Juliet's first meeting - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The passage is also the play's most misremembered. Audiences carry away a kiss, a balcony that belongs to a later scene, a pair of faces at a masked ball; the sonnet that organizes the meeting dissolves in memory into a general glow of lyric youth. The text is more specific and more interesting than the glow. It specifies fourteen lines, in a fixed order, with the lines assigned to named speakers and the rhymes locked to their places, and the specificity is where the criticism has to live. A reading that cannot say who speaks line 10, or why the word at the end of line 8 is the same as the word at the end of line 4, has not yet reached the passage it praises. This article therefore proceeds like an examination of a small machine: part by part, with the names of the parts kept straight, because the machine's working is the love story's first and firmest fact.
 

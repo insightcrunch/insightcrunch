@@ -6,15 +6,15 @@ date: 2023-08-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-2-scene-5", "the-nurse", "act-2-scene-5-analysis"]
 excerpt: "Act 2 Scene 5 plays Juliet's impatience against the Nurse's teasing delay, a comic beat of aching anticipation just before the secret marriage is arranged."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2023-08-25
+lang: en
 ---
-
 Act 2 Scene 5 of Romeo and Juliet contains almost no event, and it is one of the most perfectly engineered scenes in the play. A girl waits in a garden for a message. An older woman arrives carrying the message and declines, for speech after speech, to hand it over. Nothing is decided in the scene that has not already been decided elsewhere: Romeo's terms were settled at the Friar's cell and in the street, the wedding hour is fixed, the ladder is planned. Yet the scene holds an audience completely, because its subject is not the news but the wait for the news, and waiting, handled at this level of craft, turns out to be a complete dramatic subject. The verdict of this reading is plain at the start: Act 2 Scene 5 is a small comic masterpiece of delay, the delay is the enrichment and not the obstacle, and the scene earns its place before the wedding by converting three hours of a young woman's impatience into the play's most exact measurement of what desire costs in time.
 
-![Juliet waiting in the Capulet garden for the Nurse in Act 2 Scene 5 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet waiting in the Capulet garden for the Nurse in Act 2 Scene 5 - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The scene's economy deserves emphasis because it is easy to mistake. Two speakers carry nearly the whole of it, a servant waits at the gate and says nothing, and the location never changes. Against that bareness the writing sets two clocks running at different speeds. Juliet's clock is all appetite: minutes swell into hours, a promised half hour becomes an age, and thought itself, the fastest thing she can name, is indicted for not being faster. The Nurse's clock is all body: breath runs short, bones ache, a head threatens to fall in pieces, and every sentence she speaks is priced in the currency of an aging frame that has walked across Verona and back. The comedy of Act 2 Scene 5 is the friction between those two clocks, and the scene's tenderness is that neither woman mocks the other's time. Juliet curses slowness in the abstract and then begs, flatters, and apologizes to the slow woman in person. The Nurse teases the impatience she has spent the morning serving. Delay, in this scene, is what love and care look like when they are forced to share a stage and a deadline.
 

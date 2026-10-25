@@ -6,15 +6,15 @@ date: 2024-01-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "liebestod", "love-and-death", "love-and-death-liebestod"]
 excerpt: "Romeo and Juliet binds love to death at every turn, a true liebestod in which desire and dying entwine until the lovers can only be united in the cold tomb."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-01-05
+lang: en
 ---
-
 Romeo and Juliet is the great liebestod of the English stage: a tragedy in which love and death are not two themes running side by side but a single fused pattern, announced in the Prologue, rehearsed at every stage of the courtship, and completed in a tomb that the play insists on dressing as a bridal chamber. The lovers meet at a feast and speak of graves before they speak of marriage. They marry in a cell under a warning that violent delights die in their triumph. They consummate the marriage in the shadow of a killing, spend their one night between two funerals in waiting, and meet for the last time among corpses, where Romeo proposes to Death as a rival suitor and Juliet takes a dagger for a bridegroom's substitute. No other love story in the canon binds desire to dying so systematically, at the level of image, of structure, and of plot mechanics alike.
 
-![The lovers in the Capulet tomb, where the play's love and death imagery completes its pattern - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers in the Capulet tomb, where the play's love and death imagery completes its pattern - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The verdict argued here is precise. The play neither celebrates the fusion as passion's highest truth nor condemns it as a simple moral error. It diagnoses it. Verona's feud has so thoroughly occupied the public world that love, denied every lawful room, is forced to borrow the only vocabulary left to it, the vocabulary of the grave. The liebestod is what love sounds like in a city where the wedding bed and the burial vault have been made interchangeable by hate. When the lovers die into their marriage and marry into their deaths, the tragedy is not praising the exchange. It is presenting the bill.
 

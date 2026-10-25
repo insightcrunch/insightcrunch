@@ -6,15 +6,15 @@ date: 2024-10-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "heat", "violence", "hot-weather-hot-blood"]
 excerpt: "Romeo and Juliet sets its violence in the summer heat, where Benvolio warns the hot days stir the mad blood, and climate becomes a spur to the feud's fury."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-10-04
+lang: en
 ---
-
 Romeo and Juliet is a tragedy that happens in hot weather, and the weather is not scenery. Verona's summer heat is named in the text, dated by the calendar, explained by the period's medicine, and placed by the dramatist at the exact hinge where the comedy of love turns into the tragedy of the feud. Four lines into the play's central scene, Benvolio reads the day like an instrument: the day is hot, the Capels are abroad, a meeting means a brawl, because in hot days the mad blood stirs. Everything the speech predicts happens within the hour. Two men die in the sun, a third is sentenced before the heat has cooled, and the marriage that was blessed that same afternoon is destroyed by evening. The verdict argued throughout this article is that the heat is a genuine cause in the play, neither a decorative backdrop nor a full excuse: it is the medium in which the feud's other causes, honour, haste, and young men's pride, become lethal faster than judgement can intervene. The cliché about the tragedy, the tale of star-crossed lovers undone by fate, quietly deletes the weather. Restoring the weather restores the body to the story, and with the body comes a harder, more interesting account of why these particular deaths happen on this particular day.
 
-![Benvolio warning Mercutio under a hot Verona sun in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Benvolio warning Mercutio under a hot Verona sun in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The claim needs its limits stated at once, because the play itself states them. No character is acquitted by the thermometer. Tybalt comes to the square looking for a fight in any weather, Mercutio jokes his way into one against advice, and Romeo, warned like the rest, chooses revenge with his eyes open and names the choice as he makes it. Heat in the play does not replace will; it shortens the distance between provocation and act until will has almost no time to operate. That shortening is measurable in the text. The first brawl of the play, fought on a morning in the same summer, ends with threats and no corpses, because the Prince arrives and because nobody's blood has yet been heated by a wedding, a banishment hanging in the future, and a friend bleeding in the dust. The second street fight, fought at the day's full heat on the wedding afternoon, produces two bodies and an exile before a sentence can be framed. Between the two scenes the feud has not changed, the Prince's edict has not changed, and the young men have not changed. The temperature has. The play invites the audience to register that variable and to take it seriously, because the play's own most peaceable character registers it first and reads it correctly.
 

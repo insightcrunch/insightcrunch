@@ -8,10 +8,10 @@ tags: ["romeo-and-juliet", "shakespeare", "language", "sonnet", "form", "sonnet-
 excerpt: "Romeo and Juliet is laced with sonnets, the two Prologues and the perfect sonnet the lovers share at first meeting, so the form itself shapes the play's love."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-12-27
+lang: en
 ---
-
 The sonnet form is the hidden architecture of Romeo and Juliet. Three complete sonnets stand inside the play, and all three stand at its front door: a Chorus sonnet before the action begins, a second Chorus sonnet before Act 2, and the fourteen lines the lovers build together at their first meeting in Act 1 Scene 5. After those three, no character in Verona ever completes a sonnet again. A fourth sonnet begins at the feast and is cut off after a single quatrain by the Nurse's entrance, and from that interruption onward the play's verse keeps the sonnet's habits, its couplets, its traded single lines, its rhymed closures, without ever again granting any speaker the whole fourteen-line shape. That distribution is not decoration. It is the play's argument about love conducted in form: love in this play is the one force that can complete the period's most demanding small poem, and it can complete that poem only at the threshold, before the feud's machinery starts to turn.
 
 ![The sonnet form hidden inside Romeo and Juliet, its fourteen lines divided between two speakers - Insight Crunch](/assets/images/blog/blog-01.webp)

@@ -6,17 +6,17 @@ date: 2024-05-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "death", "personification", "death-personified"]
 excerpt: "Romeo and Juliet keeps personifying death as a rival lover and bridegroom, until death becomes a character courting Juliet and waiting in the Capulet tomb."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-05-24
+lang: en
 ---
-
 ## Death Personified in Romeo and Juliet: The Suitor Who Cannot Be Refused
 
 The verdict of this article can be stated before the evidence is heard. Death in Romeo and Juliet is not a metaphor the characters reach for in moments of grief and then put down. Death is a person the play keeps building, speech by speech, until the figure has a sex, a household, a legal standing in the Capulet family, a mistress he keeps in the dark, and a wedding night that no living bridegroom is permitted to interrupt. The personification is the play's hardest piece of thinking about possession. Verona can imagine a daughter only as a person transferred between male holders: a father holds her, a husband receives her, an heir succeeds to her. When every living holder fails, the language of transfer does not stop. It finds the one holder who cannot be refused, disinherited, or killed, and it gives him the titles the living men were competing for. Death becomes son-in-law and heir in the father's mouth, bridegroom in the daughter's, and paramour in the husband's, and the three titles agree on a single fact: the courtship succeeds because the city has spent five acts teaching everyone that Juliet is a bride to be handed over, and the tomb is simply the last house she is handed to.
 
-![Death personified as a rival suitor waiting in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Death personified as a rival suitor waiting in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 This is why the familiar way of praising the play, as a story in which love and death are mysteriously intertwined, undersells what the text actually does. Intertwining is a pattern; personification is an action performed by speakers for reasons. Capulet personifies Death because a father who has lost control of a marriage needs a groom he can name at the funeral. Juliet personifies Death because a daughter forbidden every living bridegroom discovers one candidate her father cannot veto. Romeo personifies Death because a husband who finds his wife's body in another family's vault needs a rival he can accuse. Each speaker builds the same figure out of the same grammar, and the figure grows more solid each time he is built, until in the last scene he has a bed, servants, and a kept mistress, and the living husband kills himself at the door of the rival's house. The sections that follow trace that construction in order: the grammar of the figure, the complete catalogue of his appearances, the courtship as Juliet conducts it, the legal adoption performed by her father, the duel of bridegrooms in the tomb, the older conventions the figure descends from, and the critical quarrel over whether the result is morbid or transcendent. The verdict reached there is the one stated here. The personification is neither decoration nor consolation. It is the feud's own language of possession, spoken at last by its victims, and its erotic charge is the measure of how completely that language has colonized the imaginations of everyone who uses it.
 

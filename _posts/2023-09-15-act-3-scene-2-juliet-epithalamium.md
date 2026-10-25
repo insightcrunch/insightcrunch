@@ -6,15 +6,15 @@ date: 2023-09-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-3-scene-2", "juliet", "act-3-scene-2-analysis"]
 excerpt: "Act 3 Scene 2 swings Juliet from her gallop-apace longing for night to oxymoronic grief, as news of Tybalt's death and Romeo's banishment crashes in on her."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2023-09-15
+lang: en
 ---
-
 Act 3 Scene 2 of Romeo and Juliet is the play's great chamber of reversal, the scene in which Juliet waits for a wedding night and receives a catastrophe instead. It opens with the most openly desiring speech Shakespeare gave a heroine, the epithalamium that begins "Gallop apace, you fiery-footed steeds" (3.2.1), and it closes with the same girl ranking one word, banished, above ten thousand deaths and sending her household servant out into the dark with instructions for a husband she has already, in fury, called a fiend. Between those two poles the scene performs the fastest education in the tragedy. The verdict of this reading is plain: Act 3 Scene 2 is where Juliet stops being the play's prize and becomes its judge. She hears the worst report her world can deliver, misreads it, corrects the misreading, prosecutes her husband in a volley of oxymorons, acquits him on evidence she assembles herself, rebukes her own tongue for the prosecution, and issues orders. Desire, grief, and loyalty are not three successive moods in the scene. They are three kinds of work, and the scene's structure, epithalamium, misnews, eruption, resolve, is built to show the work happening in real time.
 
-![Juliet waiting at her window for night in Act 3 Scene 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet waiting at her window for night in Act 3 Scene 2 - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 ## What happens in Act 3 Scene 2, and why is it the hinge of the play?
 

@@ -6,19 +6,19 @@ date: 2024-10-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "childhood", "youth", "childhood-in-the-play"]
 excerpt: "Romeo and Juliet keeps reminding us that its lovers are children, from the Nurse's memories of baby Juliet to the fathers grieving the children they lost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-10-25
+lang: en
 ---
-
 ## Childhood in Romeo and Juliet: The Verdict in Brief
 
 The first fact the play establishes about its heroine is not her beauty, her house, or her desire. It is a date. Before Juliet Capulet speaks a line of any consequence, two older women count her age aloud and settle the sum between them: she is not fourteen, and on Lammas Eve at night she will be fourteen (1.3). Childhood is not background colour in this tragedy. It is the opening measurement, taken in company, by the very people who are about to arrange the child's marriage. The hero's age, by pointed contrast, is never counted at all, by anyone, in five acts. Between the counted girl and the uncounted boy the whole design announces itself. The play returns in scene after scene to the reminder that its celebrated lovers are children, and it ends with two fathers standing in a tomb over the bodies of their children, learning in one night everything they had declined to learn in fourteen years.
 
 The verdict argued through this article is plain. Romeo and Juliet is misread when it is shelved first as the supreme romance of adult passion, a crowning of love between two grown souls. Read by its own repeated reminders, the tragedy is the story of children processed by an adult order: counted, weighed, promised, married, banished, and mourned, all inside a handful of days. The love is real, and the play honours it with the finest poetry of desire in the language. But the horror the text keeps underlining is not that two people loved beyond measure. The horror is that Verona had built no room in which a child could be allowed to remain a child, no office charged with protecting the young from the arrangements of their elders, and no adult willing to hear a child's plainest sentence until the sentence was being spoken over a corpse. The golden statues promised in the final scene are the confession of that failure. Two children are cast in metal at the age of their deaths, perfect, silent, and forever young, because metal is the only form in which the city can at last keep them safe.
 
-![The Nurse recalling the infant Juliet while the Capulet household weighs her marriage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse recalling the infant Juliet while the Capulet household weighs her marriage - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The cultural afterlife of the play works hard against this reading. The lovers circulate as adult romantic icons, emblems of passion in its purest form, their faces on posters and their speeches excerpted into wedding readings, and the counting scene of Act 1 is treated as a quaint period detail rather than the foundation of the design. Restoring the childhood the text insists on does not shrink the love story. It restores the tragedy's weight. A passion that destroys two adults is a misfortune; a passion that an entire adult world fails to shelter, and that therefore destroys two children, is an indictment. What follows assembles the evidence in order: a ledger of the play's reminders, the Nurse's memories of the infant Juliet, Capulet's calendar and his buried hopes, the dead child Susan who shadows the whole action, the strange blank where Romeo's childhood should be, the feud's use of children as its currency, Juliet's own childish figures for her adult longing, the critics who dispute whether the period even possessed the childhood the play mourns, the parental grief of the closing acts, and the modern discomfort that the brief for this article rightly refuses to evade.
 

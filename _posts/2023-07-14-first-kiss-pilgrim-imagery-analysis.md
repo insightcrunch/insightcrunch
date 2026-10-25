@@ -6,15 +6,15 @@ date: 2023-07-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "first-kiss", "religious-imagery", "first-kiss-analysis"]
 excerpt: "Romeo turns the first kiss into a pilgrimage, casting Juliet as a saint and himself as a pilgrim, and the religious imagery makes the touch both holy and bold."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2023-07-14
+lang: en
 ---
-
 The first kiss in Romeo and Juliet is not seized, stumbled into, or granted as a favour after pleading. It is argued into existence, line by line, inside a single sustained metaphor that two strangers build together at a crowded feast. Romeo approaches the Capulet daughter with a conceit already loaded: his hand is unworthy, her hand is a holy shrine, his lips are pilgrims, and the kiss he wants is not a kiss at all but the pilgrim's permitted touch, transferred by careful logic from palm to mouth. Juliet does not merely receive the conceit. She corrects it, extends it, sets its terms, and only then allows its conclusion. The verdict of this close reading is plain: the pilgrim imagery presents the lovers' desire as devotion that must be negotiated rather than taken, and its sacred language is neither decoration nor blasphemy but the very mechanism by which consent is dramatized in verse. Every step toward the kiss is a step Juliet licenses, and the metaphor records each licence.
 
-![Romeo and Juliet's first kiss and the pilgrim imagery at the Capulet ball - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet's first kiss and the pilgrim imagery at the Capulet ball - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That verdict matters because the scene is often remembered as pure spontaneity, two glances and a kiss, when the text gives something far more deliberate. Before the exchange begins, Romeo has spoken of Juliet only in the language of distant worship, watching her teach the torches to burn bright from across the room. The pilgrim conceit converts that distance into a procedure. A pilgrim travels toward a shrine, arrives with reverence, touches what is holy under strict convention, and departs changed. Romeo casts the whole courtship in those stages, and the audacity of the scene lies in how completely the sacred script is made to serve an erotic errand while remaining, on its surface, a lesson in devotion. The wider movement of [the ball scene in which Romeo meets Juliet](/2023/06/30/act-1-scene-5-the-capulet-ball/) supplies the crowd, the masks, Tybalt's recognition, and Capulet's restraint; this reading stays at the threshold where two people step out of that crowd and construct a private liturgy in public.
 

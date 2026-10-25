@@ -6,17 +6,17 @@ date: 2024-09-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "love", "haste", "love-too-fast"]
 excerpt: "Romeo and Juliet fall in love and marry within a day, and readers have long debated whether that speed proves true love or mere infatuation and reckless haste."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-09-27
+lang: en
 ---
-
 ## Is the Love in Romeo and Juliet Too Fast? The Verdict in Brief
 
 The charge is familiar to anyone who has taught, studied, or argued about the play: Romeo and Juliet meet at a feast, exchange vows beneath a window the same night, marry the next afternoon, and are dead within the week, so the love must be too fast to be real, a flash of adolescent appetite mistaken for devotion. The verdict argued here is the opposite. The love is not too fast, because speed is not a defect the lovers chose but the only tempo Verona left open to them, and because the play itself supplies the control experiment that separates appetite from love: the Rosaline episode, in which every marker of infatuation is displayed, named, and then pointedly reversed when Juliet appears. What the tragedy condemns is never the velocity of the courtship. It condemns immoderation of feeling, the feud's reflex violence, and a city whose respectable arrangements move faster than the lovers ever do.
 
-![The speed of the lovers' courtship in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The speed of the lovers' courtship in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 Three distinctions carry the argument. The first is between speed and haste. Speed is a measure of elapsed time; haste is a failure of deliberation, a decision taken before its evidence is in. The lovers are fast by the clock and, on inspection, deliberate to a degree the charge never credits: Juliet audits the contract in the orchard scene, sets its terms, refuses an oath she judges worthless, and converts a moonlit improvisation into a dated appointment with a named purpose. The second distinction is between the love's tempo and the love's intensity. The Friar's famous warnings, quoted by every skeptic, are aimed at intensity, at delight that burns like powder, and the same Friar who delivers those warnings performs the marriage within hours, because his judgment falls on the feeling's violence and not on its calendar. The third distinction is between the lovers' speed and everyone else's. Capulet promises Paris a two-year wait and then, inside three days, sets a wedding for Thursday and advances it to Wednesday; the feud's young men kill on a second's provocation; the one message in the play that travels slowly, the Friar's letter, is the one that arrives too late. Against that field, the lovers are not the fastest actors in Verona. They are merely the only ones whose speed is held against them.
 

@@ -6,17 +6,17 @@ date: 2024-12-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "prose-and-verse", "register", "prose-versus-verse"]
 excerpt: "Romeo and Juliet shifts between verse and prose, and the switch is rarely random, marking class, comedy, bawdy, and the difference between feeling and wit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-12-13
+lang: en
 ---
-
 Prose and verse divide Romeo and Juliet between them like two systems of government in one city. The lovers, the fathers, Friar Laurence and the Prince conduct their business in measured lines, while the servants who open the play, the Nurse who raised its heroine, and Mercutio, the most quicksilver gentleman in Verona, do much of their thinking in a medium with no measure at all. The boundary looks at first glance like a class boundary, and commentary has usually read it as one: verse above stairs, prose below. The play keeps breaking that rule in both directions, and the breaks are where the meaning collects. A gentleman jests in prose because wit will not wear the harness of the pentameter. A nurse rises into verse when grief hands her a ceremony to perform. A peacemaker opens a scene in verse and is dragged down into prose within a dozen lines. The InsightCrunch register map gathers the whole distribution into one table, and the argument built on it reaches a firm verdict: the switch between prose and verse in this play tracks not birth but the speaker's relation to form at that moment, verse for feeling that submits to shape, prose for speech that works, bargains, jokes, remembers, or slips its office.
 
 A reader meets the pattern first as sound. The Prologue speaks a sonnet, fourteen rhymed lines that promise order, pattern and a managed outcome, and the play then opens its mouth in prose: "Gregory, on my word, we'll not carry coals" (1.1.1). Within a single scene the ear has been given the play's whole constitution, a verse city with prose streets running through it, and everything that follows can be heard as traffic between the two. Sampson and Gregory trade puns below stairs while the sonnet's dignity still hangs in the air, and the feud, before it is ever a matter of swords and princes, is a matter of servants talking. That sequence is the argument in miniature. Verse announces what Verona claims to be. Prose shows what Verona is doing while the announcement fades.
 
-![Servants talking prose in a Verona street while the great houses speak verse - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Servants talking prose in a Verona street while the great houses speak verse - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 What follows takes the distribution in order: the two media defined, the map itself, the prose of the servants, Mercutio's prose and the complication he poses to every class rule, the Nurse's crossings in both directions, Benvolio's slide down the register on the day of the duel, the lovers' refusal to leave verse even in private, the moments when verse itself cracks under rage and grief, the paperwork and payments that prose handles, and the critics who have quarrelled over what the pattern means. The verdict stated above is tested against the hardest cases rather than the easiest ones, because a rule about this play is worth only what its exceptions leave standing.
 

@@ -6,15 +6,15 @@ date: 2024-11-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "genre", "comedy-and-tragedy", "structure", "comedy-and-tragedy-bound"]
 excerpt: "Romeo and Juliet opens like a comedy of young love and wit, then pivots into tragedy, and the bond between the two modes is the secret of the play's structure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-11-22
+lang: en
 ---
-
 Comedy and tragedy in Romeo and Juliet are not two halves stitched at a seam but a single fabric woven from both threads at once, and the binding is the play's genre engine rather than its accident. The familiar account describes a comedy that runs for two acts and a tragedy that runs for three, as if the playwright had changed his mind at the duel in the square and swapped one kind of play for another. That account survives because it is easy to teach, and it is wrong in the way that easy accounts usually are: it describes the order in which the modes dominate, and mistakes dominance for presence. From the first scene onward, the feud's violence is staged as farce and the farce is armed with real swords. From the duel onward, the comic machinery that built the love story keeps turning inside the catastrophe, in the Nurse's chatter, in a father's wedding bustle, in hired musicians haggling over a song while a bride lies apparently dead upstairs. The verdict argued here is that the mixture is design, not flaw: the comic structure is what the tragedy is made of, the comic devices are the instruments by which the catastrophe is assembled, and the late comic beats deepen the grief precisely because the audience has been taught to laugh with these people and cannot stop knowing them as comic creatures when the kind of the play turns against them.
 
-![The Capulet feast, where comedy and tragedy first share a stage in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet feast, where comedy and tragedy first share a stage in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The claim needs its terms fixed before it can be proved. A binding is not a blend in which two things lose their separate natures, and it is not a sequence in which one thing hands over to the next. The binding claimed here is mechanical: the same devices do comic work early and tragic work late, unchanged in themselves, altered only in their consequences. A go-between who delays a message is funny when the delay costs a lover an hour of suspense and devastating when delay has become the tragedy's native element. A feast that mixes enemies under one roof is comic while the mixing produces a marriage and tragic when the same mixing produces a killing. A witty friend whose talk runs faster than consequence is the soul of the comedy while talk is free, and his death is the tragedy's first full note because the play kills its own principle of comic motion and then has to go on moving without it. Read this way, the question is never where the comedy stops. The question is what each comic device is doing at each point in the action, and the answer, scene by scene, is that the devices persist and their costs invert. That inversion, not a change of kind, is the hinge of the whole design.
 

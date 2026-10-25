@@ -6,15 +6,15 @@ date: 2023-12-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-5-scene-3", "tomb-scene", "act-5-scene-3-analysis"]
 excerpt: "Act 5 Scene 3 brings Paris, Romeo, and Juliet to death in the Capulet tomb, the long final scene where the double suicide forces the two houses to reckon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2023-12-08
+lang: en
 ---
-
 Act 5 Scene 3 of Romeo and Juliet is the longest scene in the play, and its length is the argument. The scene refuses to end where a simpler tragedy would end. Paris dies at the tomb mouth, Romeo dies beside the woman he believes dead, and Juliet wakes, refuses rescue, and dies on the same stage floor, yet the play continues for more than a hundred further lines of discovery, arrest, testimony, confession, and judgment. The verdict of this reading is plain: the double suicide is the scene's centre, not its whole meaning. Shakespeare builds the final scene as two linked events, a private catastrophe inside the Capulet monument and a public reckoning outside the control of anyone who caused it, and the second event exists to interpret the first. Read whole, the scene converts three young deaths into evidence, and evidence into a verdict on the feud that Verona's rulers, fathers, and servants must pronounce over the bodies. Quotations follow the Arden Third Series edition prepared by René Weis, cited by act, scene, and line.
 
-![The tomb in Act 5 Scene 3 with Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The tomb in Act 5 Scene 3 with Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The scene's architecture rewards attention because every earlier strand of the tragedy is gathered into one churchyard. The feud arrives in Paris, a kinsman of the Prince killed while performing a lawful arrest. The secret marriage arrives in the Friar, whose plan has collapsed into flight and confession. The failed letter arrives in Balthasar, carrying the written account Romeo left for his father. The potion arrives in Juliet, waking on schedule inside a plan whose other half has already poisoned himself. Nothing in the scene is decoration. Each entrance imports a consequence, and the stage steadily fills with people who each hold one fragment of the truth and no power to assemble it in time. Only the audience holds the whole pattern, and the scene's closing movement hands that pattern, piece by piece, to the Prince. That transfer, from private knowledge to public record, is the scene's real action, and it explains why the play cannot close on Juliet's dagger. A tragedy about a city that let a feud govern its households must end in the city's forum, even when the forum is a graveyard at night, lit by torches, crowded with officers, and furnished with three fresh bodies and one old one.
 

@@ -6,15 +6,15 @@ date: 2024-03-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "fortune", "chance", "fortune-and-accident"]
 excerpt: "Romeo and Juliet leans hard on chance, a quarantined letter, a few stolen minutes, so accident, as much as fate or choice, ends up deciding the lovers' fate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-03-22
+lang: en
 ---
-
 Fortune, chance, and accident do the decisive work in Romeo and Juliet, and the play's famous fate is mostly a poster hung over a machine built of mishaps. A servant who cannot read his own errand delivers the lovers to each other. A sword passes under an intervening arm and kills the wrong man. A friar is sealed inside a plague house with the one letter that could save everyone, while a servant rides fast with news that is accurate in every detail and false in its whole meaning. The heroine wakes minutes after the hero has poisoned himself in the dark beside her. None of these events is written in any star. Each is a collision: two chains of action, each intelligible on its own, meeting at a point nobody chose. The argument of this article is that contingency, not destiny, is the tragedy's operating system, that the characters call the system Fortune because their culture gave them a goddess for it, and that counting the accidents, sorting them, and testing each one for necessity produces a colder and more accurate account of the ending than the star-crossed label ever supplied.
 
-![Fortune's wheel and the accidents that decide the lovers' fate in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fortune's wheel and the accidents that decide the lovers' fate in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 ## Fortune, Chance, and Accident in Romeo and Juliet: The Verdict in Brief
 

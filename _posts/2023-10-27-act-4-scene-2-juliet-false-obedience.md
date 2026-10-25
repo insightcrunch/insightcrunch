@@ -6,15 +6,15 @@ date: 2023-10-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-4-scene-2", "juliet", "act-4-scene-2-analysis"]
 excerpt: "Act 4 Scene 2 has Juliet feign obedience and beg her father's pardon, a performance so convincing that Capulet joyfully moves the wedding a day earlier."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2023-10-27
+lang: en
 ---
-
 Act 4 Scene 2 is the shortest scene of consequence in the tragedy, and its consequence is a theft of time. Juliet comes home from Friar Laurence's cell carrying a plan that depends on a calendar: a potion that will make her seem dead for two and forty hours, a wedding fixed for Thursday, a message that must reach Mantua, a husband who must be waiting in the family monument when she wakes. She kneels before the father who cursed her in the previous act, begs pardon for a disobedience she does not repent, promises obedience she does not intend, and is forgiven so completely that Capulet, in a transport of recovered authority, reaches for the calendar and takes a day away from her. The wedding moves from Thursday to Wednesday. The verdict of this reading is direct: the apology is the most accomplished piece of acting in the play, and it fails by succeeding. Every element of the performance is correctly judged, the kneeling, the formula of repentance, the promise phrased in her father's own grammar of rule, and the single miscalculation is structural rather than theatrical. Juliet plays for pardon and receives pardon; what she cannot foresee is that pardon, in Capulet, is not a quiet state but an expenditure, and that a father restored to command will spend his restored command at once, on the wedding, on the day, on her. Her deception is flawless and her reward is the loss of the margin her plan was built on.
 
-![Juliet kneeling to beg her father's pardon in Act 4 Scene 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet kneeling to beg her father's pardon in Act 4 Scene 2 - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The scene asks to be read slowly precisely because it refuses to linger. Fewer than fifty lines carry a homecoming, a reconciliation, a betrothal confirmed, a date advanced, a feast ordered, and a household set in motion, and the speed is not a defect of composition but the subject itself. Act 4 Scene 2 is a scene about what happens when nobody in a room stops to think, and the one person who has thought, who has a plan, a timetable, and a vial waiting in the next scene, is the person whose thinking the room's happiness renders useless. The audience watches the only informed mind on the stage lose control of events by winning the encounter she came to win. That inversion, triumph as the mechanism of loss, is the scene's engine, and it is why the brief afterlife of this short scene in the criticism is dominated by two questions that this reading will answer in turn: whether the performance should be admired as nerve or regretted as overreach, and whether the moved wedding day is a detail of plotting or the hinge on which the whole catastrophe turns. The answer argued here is that the performance is nerve of the highest order operating inside a trap built by the household itself, and that the date change is the hinge: the moment the play's remaining time stops being sufficient.
 

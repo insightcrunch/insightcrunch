@@ -6,15 +6,15 @@ date: 2024-01-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "youth-and-age", "generations", "youth-versus-age"]
 excerpt: "Romeo and Juliet sets the speed and passion of youth against the slow, controlling elders of Verona, and the generational gulf shapes the whole tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-01-19
+lang: en
 ---
-
 Youth versus age is the load-bearing divide of Romeo and Juliet, the split along which every other pressure in the tragedy runs. Verona is governed by the old and paid for by the young. The elders hold the feud, the money, the marriage market, and the law; the young hold nothing but their own speed, and they spend it, and themselves, inside an order they did not design and cannot amend. The play's first sonnet states the structure before any character speaks in propria persona: the lovers' deaths will "bury their parents' strife" (Prologue, 8), which means the strife belongs to the parents and the burial is done by the children. That distribution of ownership and cost never changes. What changes is only how visibly, scene by scene, the old world's grip tightens and the young world's room narrows, until the two generations meet at last over three bodies in a tomb and settle their account in gold.
 
-![Youth versus age in Romeo and Juliet, the generational gulf between the lovers and their elders - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Youth versus age in Romeo and Juliet, the generational gulf between the lovers and their elders - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The argument of this reading is a verdict, and it can be stated plainly at the start. The elders of Verona are not villains, and the tragedy is not a sermon against disobedient children. The old are the senior prisoners of the same order that kills the young: an honor economy that taught them their worth, a marriage market that priced them in their own youth, a feud whose origin none of them can any longer explain. Their failure is structural before it is personal. They control everything except the one thing the play keeps demanding of them, which is imagination: the ability to see a child as a person in the present tense rather than as an asset, an heir, a liability, or a memory of their own young selves. Where the old do try to cross the divide, in the Nurse's chamber knowledge and the Friar's cell, the crossing fails because the mediators serve two masters and can be honest with neither. The young, meanwhile, are not innocents smashed by a machine. Their speed is real, their haste does real damage, and the play never pretends otherwise. But speed is the only instrument the old world left them. Patience was preached to them by men who could not practice it, and obedience was demanded of them by authorities who had stopped deserving it. The generational gulf is therefore not background color in this tragedy. It is the tragedy's mechanism.
 

@@ -6,17 +6,17 @@ date: 2023-07-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "balcony-scene", "act-2-scene-2", "balcony-scene-analysis"]
 excerpt: "The balcony scene in Romeo and Juliet, Act 2 Scene 2, runs from Romeo's sun imagery to Juliet's bold proposal and the parting that is such sweet sorrow."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2023-07-21
+lang: en
 ---
-
 ## The balcony scene explained: a negotiation disguised as a serenade
 
 The balcony scene, Act 2 Scene 2 of Romeo and Juliet, is the most famous scene in English drama, and its fame has done it a peculiar injury. The scene survives in the general memory as a picture: a young man in a garden, a young woman on a balcony above him, moonlight, longing, a sigh exchanged across a picturesque distance. Almost everything in that picture is wrong or incomplete. The text gives Juliet a window and never a balcony. The young man is a trespasser standing in an enemy orchard where discovery means his death, and he says so. The young woman, once she discovers she has been overheard, does not sigh; she cross-examines, refuses an oath, sets conditions, names a deadline, and converts a midnight flirtation into a marriage contract before the scene ends. The verdict argued through this whole reading is that the balcony scene is great not because two beautiful speeches happen to stand inside it, but because its machinery reverses the expected direction of a love scene: it begins with a man gazing at a silent woman and turning her into a star, and it ends with the woman awake, exact, and in command of the practical future, while the man is reduced to asking what hour he should send a messenger.
 
-![Juliet at her window above the Capulet orchard in the balcony scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at her window above the Capulet orchard in the balcony scene - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 That reversal is the scene's real subject, and it is easy to miss because the opening movement is so gorgeous. Romeo's speeches about the sun and the stars are the lines the culture kept. Juliet's speeches about contracts, messengers, and nine o'clock appointments are the lines the culture dropped, because a timetable does not fit on a Valentine card. Yet the scene's structure is unambiguous about which movement matters more. Romeo's gazing occupies the first stretch and changes nothing; the lovers are no closer to any outcome when it ends than when it began. Juliet's negotiating occupies the longer second stretch and changes everything; by the final lines the marriage is decided, the intermediary chosen, and the hour fixed. A scene that merely displayed two young people in love would be a tableau. This scene is an engine: it takes in the raw material of the feast, a shared sonnet and a kiss, and it puts out a betrothal with a schedule attached.
 

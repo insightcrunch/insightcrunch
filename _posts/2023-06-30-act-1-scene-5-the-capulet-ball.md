@@ -6,17 +6,17 @@ date: 2023-06-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-1-scene-5", "the-ball", "act-1-scene-5-analysis"]
 excerpt: "Act 1 Scene 5 is the Capulet ball where Romeo first sees Juliet, Tybalt spots the intruder, and the lovers' shared sonnet and kiss seal their fate at once."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2023-06-30
+lang: en
 ---
-
 ## Act 1 Scene 5 explained: why the Capulet ball is the heart of Act 1
 
 Act 1 Scene 5 is the scene in which the whole play happens at once. A feast is prepared and danced, an enemy is recognized and restrained, two strangers fall in love across a crowded floor, and both of them leave the room knowing the one fact that will kill them. The verdict of this reading is stated at the outset: the Capulet ball is the structural heart of Act 1 because it is the only scene in the act where all three of the tragedy's engines run at the same time and collide. The street brawl of the opening scene runs on hatred alone. The bargain of the second scene runs on household policy. The marriage pitch of the third runs on parental management, and the street scene before the ball runs on foreboding. Only the ball runs festivity, menace, and love simultaneously, in the same minutes, on the same floor, and the collision among the three is what the remaining four acts merely unfold.
 
-![The Capulet ball in Act 1 Scene 5, the feast, the dance, and the meeting - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet ball in Act 1 Scene 5, the feast, the dance, and the meeting - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The claim can be tested against the scene's proportions. Act 1 Scene 5 is not the longest scene of the act; the opening brawl is longer. It is, however, the densest. Inside roughly two hundred lines, Shakespeare completes the errand the guest list set running, pays off the courtship Capulet designed for Paris by giving the wooing to a Montague instead, converts Romeo's foreboding from a mood into a schedule, and hands Tybalt a grievance specific enough to demand a duel. Every thread the act has spun is gathered into this one room and knotted. A scene that gathers and knots is a heart in the structural sense: remove it, and the act's other scenes pump toward nothing.
 

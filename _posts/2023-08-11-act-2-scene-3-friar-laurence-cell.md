@@ -6,15 +6,15 @@ date: 2023-08-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-2-scene-3", "friar-laurence", "act-2-scene-3-analysis"]
 excerpt: "Act 2 Scene 3 opens at dawn with Friar Laurence among his herbs, and his agreement to marry Romeo and Juliet to end the feud sets the tragic plan in motion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2023-08-11
+lang: en
 ---
-
 Act 2 Scene 3 is the quietest hinge in Romeo and Juliet, and the most consequential. No sword is drawn, no kiss is exchanged, no crowd gathers. A friar crosses his garden at daybreak with a basket in his hand, talking to himself about plants, and before the scene ends he has agreed to marry two young people he has never seen together, from houses whose feud he hopes their union will end. The verdict of this reading is plain: the catastrophe is not imposed on the plan from outside, by plague or chance or a mistimed letter. It is present at the plan's birth, inside this scene, in the gap between what the Friar knows and how fast he acts on it. He opens the scene by stating, in the herb soliloquy, the exact doctrine the tragedy will prove: that good things strained from their proper use turn destructive, that virtue misapplied becomes vice. He closes the scene by hurrying off to perform a secret marriage, counselling the impatient boy beside him to go wisely and slow while he himself runs. Everything that follows in the play, the wedding, the potion, the tomb, is an attempt to manage consequences that begin here, in a cell garden, in the space between a sermon and a decision.
 
-![Friar Laurence gathering herbs at dawn in Act 2 Scene 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence gathering herbs at dawn in Act 2 Scene 3 - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 The scene's modesty is the point. Shakespeare has just given the audience the most famous love scene in English drama, the orchard encounter in which Romeo and Juliet exchange vows under a window and part with arrangements for a messenger at nine o'clock. A lesser dramatist would move straight to the wedding. Instead the play cuts to an old man alone at dawn, gathering weeds, and makes the audience sit through thirty lines of botanical philosophy before Romeo even enters. That delay is a design decision, and it loads the scene with a weight out of all proportion to its length. Act 2 Scene 3 runs to fewer than a hundred lines in the early texts, shorter than the balcony scene by half, yet it performs three tasks no other scene can do. It introduces the only adult in Verona who will help the lovers, and it shows the grounds on which he helps them. It states the play's governing image, the poison that is also a medicine, before any potion exists. And it converts private love into public strategy, because the Friar does not agree to the marriage as a favour to Romeo. He agrees to it as a move in the feud, an alliance meant to turn rancour into love. From this scene forward, the lovers' happiness is mortgaged to a political hope, and when the hope fails the mortgage is called in.
 

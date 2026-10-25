@@ -6,17 +6,17 @@ date: 2024-02-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "day-and-night", "imagery", "day-and-night-imagery"]
 excerpt: "Romeo and Juliet invert the ordinary world, finding safety in night and danger in day, and the lovers belong to a darkness that the daylight feud destroys."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2024-02-02
+lang: en
 ---
-
 Day and night in Romeo and Juliet are not a backdrop but a border, and the lovers live on the wrong side of it. In the ordinary moral geography of a city, daylight is where law, kinship, and honest business are conducted, and darkness is where danger gathers. The play reverses the survey. For Romeo and Juliet, the night is the only jurisdiction in which the marriage exists: it is met in, sworn in, consummated in, and mourned in, all after dark. The day, by contrast, belongs to the feud. Every public catastrophe in the tragedy is a daylight event, timed to a morning, a midday, or a wedding day, and every dawn that breaks over the action arrives as an officer of that other world, come to serve a sentence. The verdict defended through this reading is that the inversion is structural rather than decorative. The play's clock, not merely its imagery, assigns safety to darkness and exposure to light, act by act and scene by scene, until the final morning, when the sun itself refuses to ratify the peace that daylight has purchased.
 
 The claim can be tested against the play's own timekeeping, and the test is the spine of what follows. Shakespeare's Verona keeps its hours in dialogue, because the early texts offer almost no stage directions for time of day. Characters announce the hour, curse it, bargain with it, and misread it, and those announcements form a pattern too regular to be accident. The brawl that opens the tragedy belongs to a Sunday morning. The feast at which the lovers meet is a night event. The orchard scene, the secret wedding's arrangement, the epithalamium, the parting, the potion, and the tomb all fall inside darkness or at its edges, while the duel, the sentence of banishment, the forced marriage contract, and the discovery of the body all fall inside the day's jurisdiction. Spread across five acts, the alternation becomes a rhythm with a meaning: the lovers' whole married life is nocturnal, and the daylight world tolerates it for exactly as long as the dark can keep it hidden.
 
-![Day and night imagery and the lovers' inverted world in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Day and night imagery and the lovers' inverted world in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 One distinction governs the reading and separates it from a catalogue of bright and dark images. A visual inventory of the play, its suns, moons, stars, and torches, is a neighbouring study, and the [full inventory of light and dark imagery in Romeo and Juliet](/2024/01/26/light-and-dark-imagery-analysis/) assembles that evidence on its own terms. The subject here is temporal rather than pictorial: not what the light looks like, but when it falls, what it permits, and what it terminates. A torch in this reading matters less as a picture than as a permit, a small manufactured day carried into the night by someone who needs to see or to be hidden. The question the article keeps asking is jurisdictional. At any given hour of the play's five days, whose law is in force, the feud's or the marriage's? The answer, hour by hour, is the tragedy's hidden plot.
 

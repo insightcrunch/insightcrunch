@@ -6,15 +6,15 @@ date: 2024-02-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "feminist-reading", "patriarchy", "marriage", "marriage-market"]
 excerpt: "Romeo and Juliet shows a Verona where fathers trade daughters in marriage, and Juliet's worth is fixed by her father until she dares to claim it for herself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-02-23
+lang: en
 ---
-
 Patriarchy and the marriage market are not background conditions in Romeo and Juliet. They are the operating system of Verona, the set of rules that decides who may speak to whom about a daughter's future, what that future is worth, and what happens to the daughter when she declines the price set for her. Juliet Capulet is negotiated for before she appears on stage, pitched a husband by her mother in the language of a book offered for inspection, promised to that husband by her father in a midnight interview she does not attend, threatened with the street when she refuses, and finally settled for, after her death, in statues of pure gold. Every stage of that sequence is a transaction, and the play keeps the paperwork visible. The quotations in this article follow the Arden Third Series edition edited by René Weis, cited by act, scene, and line, because the market reading stands or falls on exact wording: a conditional clause in Act 1, a pun on tender in Act 3, a threat built out of verbs for giving and casting away.
 
-![Patriarchy and the marriage market in Verona, fathers trading daughters in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Patriarchy and the marriage market in Verona, fathers trading daughters in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The verdict can be stated at the start and defended through every section that follows. The tragedy is framed, priced, and finally settled by the marriage market. Fate gets the Prologue's famous lines, haste gets the Friar's warnings, and the feud gets the opening brawl, but the market gets the plot: it schedules the first negotiation, supplies the rival bridegroom whose claim makes the secret marriage dangerous, sets the Thursday deadline that the potion plan must beat, and writes the ending's terms, in which two fathers who could not agree on anything else agree at once on the value of gold statues. Juliet's resistance is real, intelligent, and sustained, and it is resistance of a specific kind. She does not reject marriage. She rejects being married by other people, on other people's terms, to a man chosen in rooms she was not in. Her secret marriage is a counter-transaction, an attempt to move herself off her father's ledger and onto her own, and the play measures the market's power by the fact that even this act of self-removal must be hidden, hurried, and finally paid for in the tomb.
 

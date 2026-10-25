@@ -6,15 +6,15 @@ date: 2024-02-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "masculinity", "violence", "masculinity-and-violence"]
 excerpt: "Romeo and Juliet ties manhood to readiness for violence, so that to be a man in Verona is to fight, and that equation drives the duel that breaks the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-02-16
+lang: en
 ---
-
 Masculinity in Romeo and Juliet is not a quality a man possesses in private. It is a performance staged before witnesses, marked by examiners, and paid for in blood when the performance falters. Verona's young men do not simply happen to fight. They fight because the city's definition of manhood leaves them no other legible way to prove that they are men, and the tragedy is the audit of that definition carried out to its final balance. The verdict of this reading is plain: the play condemns the code it depicts. It condemns the code not by sermon but by consequence, arranging its scenes so that every success the code awards is a step toward a corpse, and every refusal the code punishes is the one gesture that might have saved the city. Romeo's story, read through this lens, is the story of a young man who twice declines the examination, once in the square and once at the tomb, and who is destroyed both times by the pressure to sit it after all.
 
-![Masculinity and violence in Romeo and Juliet, the duel in Verona's square - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Masculinity and violence in Romeo and Juliet, the duel in Verona's square - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The performance begins below stairs, among servants who cannot afford the swords they boast about, and it ends in a churchyard where a count's son dies asking to be laid beside a girl he barely knew. Between those poles the same examination is set again and again: a challenge issued in public, a reputation weighed in public, a body carried off in public. What varies is only the candidate. Sampson performs for Gregory. Tybalt performs for the honour of a house whose master has just forbidden the performance. Mercutio performs for the friend whose silence he reads as a failed recitation. Romeo performs, at last, for a dead man's ghost, and passes the examination so completely that the Prince must close the school. The sections that follow trace the performance through its venues: the street, the feast, the square, the cell, and the tomb, asking at each stop who sets the test, who watches it, and what the certificate costs.
 

@@ -6,15 +6,15 @@ date: 2024-08-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "generation-gap", "parents", "generation-gap-parents"]
 excerpt: "Romeo and Juliet shows parents who cannot hear their children, deciding marriages and feuds over their heads, until the gap between them ends in the tomb."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2024-08-16
+lang: en
 ---
-
 The generation gap in Romeo and Juliet is not a difference of taste between old and young. It is a failure of hearing, repeated in both great houses until it becomes the tragedy's machinery. Verona's parents decide marriages, declare feuds, fix wedding days, and pronounce disownings, and at nearly every point the decision is taken without the child's own account of the child's own heart ever being heard. Capulet settles his daughter's marriage with the suitor before she has spoken a line in the play. Her mother carries the proposal to her as a message to be delivered, not a question to be discussed. The Montagues, gentler and sadder, commission a nephew to find out why their son weeps, accept his report as knowledge, and never once address the boy themselves. The elders keep a feud whose cause nobody states, and the young inherit it unexplained and die for it unexplained. When the truth about the children finally reaches the parents, it arrives as a friar's narration and a dead son's letter, read aloud over bodies. The play's parents hear everything in the end. They hear it one scene, and two children, too late.
 
-![The Capulet and Montague parents at the tomb, hearing the story of their children too late - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet and Montague parents at the tomb, hearing the story of their children too late - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 This article reads the play as a study of that deafness. It keeps a ledger of the parental decisions taken without hearing the child. It examines the four parents one house at a time, because the two houses fail in opposite styles: the Capulets by noise, command drowning out every reply, and the Montagues by absence, a silence where a conversation should be. It weighs the excuse the period offers, that these parents were simply of their age, against the play's own evidence, and it reaches a verdict on what the gap cost. The broader divide between youth and age across the whole play, its timetables, its language, its elders and its rituals, is mapped in the companion study of [youth versus age in Verona](/2024/01/19/youth-versus-age-romeo-and-juliet/); the ground here is narrower and harder. This article is about four people who held their children's lives in their hands and never asked the children what was in them.
 

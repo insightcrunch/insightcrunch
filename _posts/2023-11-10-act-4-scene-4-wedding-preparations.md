@@ -6,17 +6,17 @@ date: 2023-11-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "act-4-scene-4", "dramatic-irony", "act-4-scene-4-analysis"]
 excerpt: "Act 4 Scene 4 shows the Capulet house bustling cheerfully through the night to ready a wedding feast, hours before they will find their daughter as a corpse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2023-11-10
+lang: en
 ---
-
 ## Act 4 Scene 4 Explained: A Wedding Prepared Over a Sleeping Bride
 
 Act 4 Scene 4 of Romeo and Juliet is the shortest working scene in the tragedy, a household interlude of some forty lines in which nothing happens except breakfast. The Capulet servants fetch spices, haul logs, stir ovens and joke about their own heads while their master capers among them in his nightgown energy, and the bride whose wedding all this labour serves never appears. Yet the scene carries a charge out of all proportion to its length, because every person on stage is working hard for an event the audience knows will not take place. Juliet lies upstairs in a drugged sleep that mimics death, taken the night before to escape this very wedding, and the cheerful industry below stairs is building a feast that will be eaten by mourners. The verdict argued through this article is plain: Act 4 Scene 4 is not filler between the potion soliloquy and the discovery. It is the tragedy's irony engine running at full stretch, the scene in which Shakespeare proves that ordinary domestic labour, staged against superior audience knowledge, can generate more dread than any speech of foreboding.
 
-![The Capulet household preparing the wedding feast before dawn in Act 4 Scene 4 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet household preparing the wedding feast before dawn in Act 4 Scene 4 - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The scene's method is subtraction. Shakespeare removes the heroine, removes the lover, removes every character who knows the truth, and leaves the stage to people whose ignorance is total and whose competence is real. The keys are fetched, the pastry is seasoned, the meats are watched, the logs are found. Nothing is bungled and nothing is delayed. That competence is the point: the household machine works perfectly, and it works perfectly toward a corpse. Where the potion soliloquy of the preceding scene gave the audience Juliet's terror from inside her own mind, this scene gives the audience the world's cheerful indifference to that terror, and the collision between the two registers is where the pain lives. A reader who skips the scene loses the tragedy's cruellest juxtaposition, the sound of a house enjoying itself one floor below its sleeping daughter.
 

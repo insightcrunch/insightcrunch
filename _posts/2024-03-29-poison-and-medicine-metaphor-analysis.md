@@ -6,15 +6,15 @@ date: 2024-03-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "poison", "medicine", "poison-and-medicine"]
 excerpt: "Romeo and Juliet turns poison and medicine into one metaphor, the same substance that heals can kill, and love itself proves the most double-edged cure of all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2024-03-29
+lang: en
 ---
-
 Poison and medicine in Romeo and Juliet are not two subjects but one, and the play announces the fact before its lovers have exchanged a single word of love. A friar walks onstage at dawn carrying a basket, gathering weeds and flowers, and delivers the tragedy's working philosophy in thirty lines of couplets: the same plant heals or kills according to how it is used, and the same rule governs every force in Verona. The verdict of this article is that the speech is the play's spine. Every later event, the marriage, the potion, the letter, the purchase in Mantua, the deaths in the tomb, runs on the logic the Friar states among his herbs, and the catastrophe arrives not because the doctrine is false but because no character in the tragedy can administer anything, a drug, a sacrament, a message, a fortune, at the right dose, to the right person, at the right hour. The substances are innocent. The apothecaries are not.
 
-![Friar Laurence gathering healing and poisonous herbs in his garden at dawn in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence gathering healing and poisonous herbs in his garden at dawn in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 That verdict needs defending on two fronts. Against the sentimental reading, which treats the poison and the potion as mere plot machinery, gothic props wheeled in to finish a love story, the evidence of the text shows a metaphor so systematic that it organizes the play's language from the first act to the last line of the tomb scene. Against the moralizing reading, which treats the Friar's philosophy as the playwright's own sermon and the deaths as its punishment, the evidence shows something colder: the doctrine is accurate as a description of substances and bankrupt as a guide for the people who quote it, beginning with the Friar himself. The herb speech is endorsed as diagnosis and ironized as prescription, and holding both halves of that judgment at once is the only way to read the metaphor whole. Quotations throughout follow the Arden Third Series edition edited by René Weis, cited by act, scene, and line.
 

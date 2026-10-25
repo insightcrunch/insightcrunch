@@ -6,15 +6,15 @@ date: 2023-08-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "names", "identity", "whats-in-a-name"]
 excerpt: "What's in a name turns the balcony scene into a question of identity, asking whether a Montague is still beloved without his name, and the rose line says yes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2023-08-04
+lang: en
 ---
-
 The "What's in a name?" speech is the most exact piece of reasoning in Romeo and Juliet, and the play spends its remaining three acts proving the reasoning wrong. Juliet Capulet, alone at her window in Act 2 Scene 2 and unaware that the man she is describing can hear every word, builds a small, complete philosophy of naming in about eleven lines: a name is a label fastened to a person from outside, the person beneath the label would be unchanged if the label were exchanged, and therefore the label can be surrendered without loss. "What's in a name? That which we call a rose / By any other name would smell as sweet" (2.2.43 to 44, in the Arden Third Series lineation of René Weis). The sentences are quoted everywhere as a decoration, detached from the argument they serve, and the decoration flatters them into a greeting-card sentiment about love seeing past surfaces. Restored to their place in the speech, the lines are harder and stranger than the sentiment. Juliet is not sighing. She is drafting a contract, clause by clause, and offering to trade the whole of her own name for the removal of his.
 
-![Juliet at the balcony weighing Romeo's name against the man himself - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at the balcony weighing Romeo's name against the man himself - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The verdict of this reading can be stated at the outset, because the speech itself is a verdict in search of a court. Juliet's philosophy is sound as a description of what a person is and false as a description of what a person can do in Verona. A rose renamed is the same rose, and Romeo renamed would be the same Romeo; the speech is right about essence and wrong about power, because a surname in the play is not a description pinned to a man but a debt instrument held by other people. The name Montague is enforced by Tybalt's sword, by the Prince's law, by two households of servants and kinsmen who have never met the young man and would kill him on the word alone. Juliet can renounce the logic of the name in a soliloquy. She cannot renounce its jurisdiction. The tragedy that follows is the jurisdiction collecting its due, and the speech's greatness lies in the precision with which it states the claim that the world is about to refuse. Readers who keep a study record of arguments tested against outcomes can file the speech beside its refutation in a private vault such as [VaultBook](https://vaultbook.net/), where the claim and the counter-evidence stay on facing pages.
 

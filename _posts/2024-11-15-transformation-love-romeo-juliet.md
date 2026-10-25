@@ -6,12 +6,12 @@ date: 2024-11-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "transformation", "growth", "transformation-love"]
 excerpt: "Romeo and Juliet is a story of transformation, as love remakes a moping boy and a dutiful girl into decisive, eloquent adults within the span of a few days."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-11-15
+lang: en
 ---
-
 ## Transformation in Romeo and Juliet: The Verdict in Brief
 
 The lovers who die in the Capulet tomb are not the boy and girl who open the play, and the play insists on the distance travelled. The Romeo of the first scene is a shut-in melancholic who has memorised a style of suffering and performs it for an audience of friends, in love with a woman who never appears and would not have him if she did. The Juliet of the third scene is a child who has never considered marriage and promises her mother no more than obedience permits: she will look, because looking is allowed, and feel only as far as consent extends. By the fifth act the boy is addressing a corpse with a steadiness that no longer borrows its phrases from any book, and the girl is standing alone in a vault of dead ancestors, dismissing rescue, dismissing company, and finishing the work of the plot with her own hand. Between those poles the play runs the most complete measurement of personal change in Shakespeare: not a mood, not a costume, but a rebuilding of voice, allegiance, and will, taken step by step and paid for at every step.
@@ -20,7 +20,7 @@ The verdict argued through this article is that the transformation is genuine gr
 
 The method of measurement matters, because the play's detractors and defenders have often talked past one another by weighing different things. Intensity of feeling proves nothing either way; the Act 1 Romeo feels intensely about a woman who does not exist for him, and the feeling leaves him exactly where it found him. What this article weighs instead is capacity, the set of things a person can do, say, decide, and endure, taken at the play's opening and again at its close. Capacity can be checked against the record. A girl who cannot phrase a wish beyond a licensed look in Act 1 is found, three acts later, setting terms for a friar with a knife in her hand; the distance between those two data points is not an interpretation but a measurement. Where the measurement is disputed, the play supplies witnesses, friends, servants, clergy, and enemies, whose testimony about the change is entered at the time and not in retrospect. And where judgment is needed, the play supplies its own instrument, a friar's doctrine of how qualities turn according to their use, stated before the action begins and available for audit at every stage. Feelings are the play's weather. Capacities are its climate, and climate is what transformation means.
 
-![Two young figures in Renaissance dress facing one another across a darkened hall, one rising from shadow toward light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two young figures in Renaissance dress facing one another across a darkened hall, one rising from shadow toward light - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The cultural afterlife of the play works against this reading, because it freezes the lovers at a single temperature. Posters, excerpts, and wedding readings hold them as fixed emblems of passion, and emblems do not develop. The text refuses the emblem. It keeps receipts. It gives the audience a Friar who diagnoses the difference between doting and loving, a heroine who audits her own vow in the act of making it, a hero whose courtesy to an enemy in Act 3 can be set line by line against his posturing in Act 1, and a closing tableau in which every adult who failed to change stands still around two people who changed completely. Restoring the transformation restores the tragedy's engine. The deaths are not the wages of a feeling that stayed the same from first sight to last breath. They are what happens when the two people who change most completely are surrounded by a city that changes not at all.
 

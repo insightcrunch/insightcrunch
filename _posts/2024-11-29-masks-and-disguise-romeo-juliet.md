@@ -6,17 +6,17 @@ date: 2024-11-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "masks", "disguise", "masks-and-disguise"]
 excerpt: "Romeo and Juliet turns on masks and disguise, from the masked ball where the lovers meet to the hidden identities and concealed marriage that drive the plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2024-11-29
+lang: en
 ---
-
 Masks and disguise in Romeo and Juliet are not decorations laid over the tragedy but the machinery that builds it. The play's most famous meeting happens between two people who cannot see each other plainly: a masked Montague guest and a Capulet daughter who do not exchange names until the dancing ends and the damage of knowledge arrives. From that first hidden face the pattern never lifts. A marriage is hidden in a friar's cell, a bride rehearses obedience she does not feel, a death is staged that is not a death, letters travel under cover of darkness, and every character who survives long enough learns what the audience learned at the feast, that in Verona a face is the least reliable document a person carries. This article argues a verdict and holds it throughout: the mask in this play is both a festive convention borrowed from the masque and a thematic engine that converts concealment into catastrophe, and neither account cancels the other, because the play deliberately lets a holiday custom do tragic work.
 
 The feast scene is usually remembered as the sparkling centre of a love story, torches, music, a crowded floor, two young people finding each other across it. Restoring the masks to that picture changes its temperature. Romeo and his companions do not arrive as honoured guests glimpsed in passing; they arrive as maskers, visored, preceded by torches, in the formal disguise that great households expected from uninvited or semi-invited revellers, and the welcome they receive depends on that disguise being read as festivity rather than invasion. The love that kindles at the ball is therefore not simply love at first sight. It is love at first sight under licence, granted by a custom that suspends the feud for the length of a dance, and the whole tragedy can be read as the slow withdrawal of that licence, mask by mask, until nothing stands between the lovers and the names they were hiding from.
 
-![Masked revellers in torchlight at a great house feast - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Masked revellers in torchlight at a great house feast - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 What follows examines the mask as an object, a custom, and a strategy. The object first: the visor itself, the case Mercutio jokes about, the torch Romeo carries in place of dancing. The custom second: the Elizabethan masque and the antimasque habits behind the entry, and the critical argument over whether a stage audience in the 1590s saw courtly ritual or mere plot convenience. The strategy third: disguise after the feast, when costumes vanish but concealment deepens, the Friar's hooded planning, Juliet's performed submission in her father's house, and the feigned death that turns a whole household into unwitting actors. A ledger gathers every major concealment in the play so the pattern can be checked at a glance. The verdict returns at the end: masking begins as the feud's holiday and ends as its weapon, and the cost of unmasking, paid character by character, is the tragedy's true bill.
 
