@@ -11,7 +11,9 @@ reading_time: 69
 author: "diana-patel"
 last_updated: 2026-10-25
 lang: en
----## Singles Events in New York City: The Next Two Weeks
+---
+
+## Singles Events in New York City: The Next Two Weeks
 
 New York rewards singles who show up. In any given fortnight the five boroughs run more speed dating nights, singles mixers and social events than most cities manage in a season, from Desi matchmaking in Greenwich Village to Halloween singles parties in Midtown and Día de Muertos celebrations in the East Village where the whole neighborhood arrives. If you are searching for singles events in New York City, speed dating in NYC, or simply where to meet singles in New York without another evening of swiping, this list is the shortcut.
 
