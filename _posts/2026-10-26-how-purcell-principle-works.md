@@ -6,17 +6,17 @@ date: 2026-10-26
 categories: ["Industry"]
 tags: ["election-law", "purcell-principle", "voting-rights", "federal-courts", "supreme-court", "election-administration"]
 excerpt: "How the Purcell principle works: why federal courts leave election rules alone as voting approaches, what counts as too close, and when they act anyway."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2026-10-26
+lang: en
 ---
-
 ## A Rule About Timing That Decides Cases Without Deciding Them
 
 The Purcell principle is the doctrine that federal courts should ordinarily refuse to change state election rules close to an election because late changes confuse voters and burden administrators, so a court can leave a challenged rule in force for an election without holding that the rule is lawful. The same restraint shaped Republican National Committee v. Democratic National Committee, 589 U.S. 423 (2020), where the Supreme Court stated that a federal court "should not alter rules on the eve of an election" and stayed an extension of the Wisconsin absentee ballot receipt deadline. Timing, in each dispute, operated as a gate placed before the merits.
 
-![Election officials and judges weighing voting rules against a fixed election calendar - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Election officials and judges weighing voting rules against a fixed election calendar - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The governing claim defended across the sections that follow is that the doctrine exchanges one democratic injury for another. Leaving a rule in force can mean that an election runs under a provision that a fuller hearing might have held unlawful, with votes cast and counted under terms that a later judgment displaces. Ordering a change at a late stage can mean that an election runs under instructions voters had no fair chance to learn, administered by officials who had no fair chance to train staff, print accurate material, or test altered systems. The doctrine ranks the second injury ahead of the first once an election draws near, and that ranking, rather than any view about the wisdom of identification rules, ballot deadlines, or district lines, explains the outcomes in case after case.
 
