@@ -591,3 +591,27 @@ book-change-interpret-retranslation | how-literary-retranslation-works | Do retr
 don-english-many-quixote-so-there-translation | how-literary-retranslation-works | Why are there so many English translations of Don Quixote?
 book-disagree-reader-same-translation-two | how-literary-retranslation-works | What should a reader do when two translations of the same book disagree?
 literary-machine-replace-retranslation-translation-will | how-literary-retranslation-works | Will machine translation replace literary retranslation?
+
+## law-purcell-principle
+
+### how-purcell-principle-works
+principle-purcell-simple-term | how-purcell-principle-works | What is the Purcell principle in simple terms?
+come-name-purcell | how-purcell-principle-works | Where does the name Purcell come from?
+constitutional-decide-gonzalez-identification-law-purcell-v-voter | how-purcell-principle-works | Did Purcell v. Gonzalez decide that voter identification laws are constitutional?
+chang-confuse-court-election-late-rul-voter-will-worry | how-purcell-principle-works | Why do courts worry that changing election rules late will confuse voters?
+case-court-principle-purcell-same-stay-supreme-winn | how-purcell-principle-works | Is a Supreme Court stay under the Purcell principle the same as winning the case?
+nam-principle-publication-purcell | how-purcell-principle-works | Who named the Purcell principle, and in what publication?
+change-close-court-election-group-must-persuade-rule-show-voter | how-purcell-principle-works | What must a voter or group show to persuade a court to change a rule close to an election?
+affect-primary-principle-purcell-wisconsin | how-purcell-principle-works | How did the Purcell principle affect the Wisconsin primary in 2020?
+cas-earlier-election-more-other-redistrict-than-treat-urgent | how-purcell-principle-works | Why are redistricting cases treated as more urgent earlier than other election cases?
+alabama-dispute-happen-redistrict | how-purcell-principle-works | What happened in the Alabama redistricting dispute between 2022 and 2023?
+chang-election-late-own-principle-purcell-rul-state-stop | how-purcell-principle-works | Does the Purcell principle stop a state from changing its own election rules late?
+case-court-decide-hampshire-identification-new-student-supreme | how-purcell-principle-works | What did the Supreme Court decide in the New Hampshire student identification case in 2026?
+clause-election-principle-purcell-relate | how-purcell-principle-works | What is the Elections Clause and how does it relate to the Purcell principle?
+apply-court-difference-election-purcell-rule-uphold | how-purcell-principle-works | What is the difference between a court applying Purcell and a court upholding an election rule?
+appli-be-critic-principle-purcell-say-selectively | how-purcell-principle-works | Why do critics say the Purcell principle can be applied selectively?
+argue-case-dissent-hampshire-jackson-justice-new | how-purcell-principle-works | What did Justice Jackson argue in dissent in the New Hampshire case?
+approach-chang-court-election-justice-kavanaugh-late-think | how-purcell-principle-works | How does Justice Kavanaugh think courts should approach late election changes?
+begin-change-court-election-ever-rule-shortly-vot | how-purcell-principle-works | Can a court ever change an election rule shortly before voting begins?
+have-principle-propos-purcell-reform-scholar | how-purcell-principle-works | What reforms have scholars proposed for the Purcell principle?
+conduct-election-held-later-rule-stand-unlawful-usually | how-purcell-principle-works | Why does an election conducted under a rule later held unlawful usually stand?

@@ -96,3 +96,7 @@
 ## how-literary-retranslation-works
 - _posts/2030-02-18-gatsby-translations.md - could carry: "The pressures that produced rival Gatsby versions in so many languages are one case of a general mechanism, set out in how literary retranslation works."
 - _posts/2029-11-19-gatsby-public-domain-2021.md - could carry: "The expiry that freed the novel for new editions is the same rights event that periodically frees older classics for rival translations, as how literary retranslation works explains."
+
+## how-purcell-principle-works
+- _posts/2026-10-06-how-vote-by-mail-works.md - could carry: "Mail ballot deadlines are exactly the kind of rule the Purcell principle can freeze in place when a court is asked to extend them days before an election, as how the Purcell principle works explains."
+- _posts/2010-07-15-shelby-county-voting-rights-act-case.md - could carry: "Section 2 litigation after Shelby County runs on two clocks at once, liability and remedy, and the second clock is governed by the timing restraint traced in how the Purcell principle works."
