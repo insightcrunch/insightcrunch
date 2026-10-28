@@ -6,19 +6,19 @@ date: 2026-10-28
 categories: ["Technology"]
 tags: ["ai-accelerators", "machine-learning-hardware", "computer-architecture", "graphics-processors", "high-bandwidth-memory", "semiconductors"]
 excerpt: "How AI accelerators work: the matrix units, memory paths, precision choices and tradeoffs that let specialized chips train and run machine learning models."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-10-28
+lang: en
 ---
-
 ## A Chip That Wins by Refusing to Be General
 
 An AI accelerator is a processor built to perform the matrix and vector arithmetic of machine learning, and it works by dedicating most of its silicon to thousands of simple multiply and accumulate units and to the memory paths that feed them, rather than to the control machinery a general processor carries. A matrix is a rectangular array of numbers arranged in rows and columns, and a vector is a single row or column of numbers. Machine learning models transform vectors through layer after layer of matrix operations, and the accelerator exists to carry out that transformation at high throughput, meaning a large volume of completed operations per second, rather than to handle the varied tasks a laptop or server processor handles minute by minute.
 
 The central claim defended across the sections that follow is straightforward to state and demanding to build. An accelerator gains its advantage by surrendering generality. It spends transistors, the tiny switches etched into silicon, and electrical energy on repeating a single operation across wide arrays, and on moving the numbers for that operation into place without interruption. Because that bargain shapes every later choice, the binding limit on performance is seldom the arithmetic itself. The binding limit is the movement of data between memory and the arithmetic units, and a design that ignores that limit wastes the silicon it saved.
 
-![Rows of accelerator boards with dense memory stacks beside the processor package - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rows of accelerator boards with dense memory stacks beside the processor package - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Three questions organise the argument. The first asks what the arithmetic actually is, and why a handful of repeated operations account for nearly all of the computation in a neural network, which is a layered mathematical model whose adjustable numbers are called weights. The second asks what feeding that arithmetic costs, in energy, in time, and in memory bandwidth, where bandwidth means how much data moves per second. The third asks where design choices diverge for training, the process of adjusting weights by measuring errors against known examples, and inference, the process of applying a trained model to fresh inputs to produce a prediction. Each question leads to a different part of the machine, and each part answers to the same memory constraint.
 
