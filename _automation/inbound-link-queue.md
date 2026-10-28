@@ -100,3 +100,7 @@
 ## how-purcell-principle-works
 - _posts/2026-10-06-how-vote-by-mail-works.md - could carry: "Mail ballot deadlines are exactly the kind of rule the Purcell principle can freeze in place when a court is asked to extend them days before an election, as how the Purcell principle works explains."
 - _posts/2010-07-15-shelby-county-voting-rights-act-case.md - could carry: "Section 2 litigation after Shelby County runs on two clocks at once, liability and remedy, and the second clock is governed by the timing restraint traced in how the Purcell principle works."
+
+## how-ai-accelerators-work
+- _posts/2026-10-13-how-chiplets-work.md - could carry: "The stacked memory inside such a package exists to feed arithmetic that would otherwise starve, a mechanism set out in how AI accelerators work."
+- _posts/2026-10-07-how-data-centers-work.md - could carry: "A building full of accelerators is a power and cooling problem before it is a computing one, and how AI accelerators work explains the chip level demand the building must serve."
