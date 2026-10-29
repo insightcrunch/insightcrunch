@@ -6,19 +6,19 @@ date: 2026-10-29
 categories: ["Industry"]
 tags: ["gateway-arch", "st-louis", "architecture", "stainless-steel", "monuments", "eero-saarinen"]
 excerpt: "How the Gateway Arch was built: the weighted catenary curve, triangular steel sections, climbing derricks and the morning the two legs were jacked apart."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-10-29
+lang: en
 ---
-
 ## A Monument That Is Its Own Structure
 
 The Gateway Arch was built as two tapered steel legs of stacked triangular sections, raised by climbing cranes and joined at the crown. Each leg rose as a hollow, self-supporting curve, section by section, until the legs met 630 feet above the St. Louis riverfront and a final section closed the span. The Gateway Arch endures because its shape is its structure: the weighted catenary keeps the steel skin working in compression along one curve, so the monument needed no hidden frame, and every hard problem of its building was the price of keeping that single curve exact.
 
 That direct answer conceals an unusual kind of construction. Most tall structures hide a frame beneath a surface, with columns and beams carrying loads while cladding keeps weather out and presents a finished face. The Arch reverses that relationship. Its stainless steel skin is a structural wall, its triangular cross-section is the load path, and its curve is the calculation made visible. Form, structure, and finish coincide in the same material, so a flaw in alignment was also a flaw in appearance, and a flaw in the surface was also a flaw in strength. Building the monument meant holding geometry, engineering, and craft to the same tolerance at once.
 
-![Gateway Arch stainless steel curve rising above the St. Louis riverfront - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gateway Arch stainless steel curve rising above the St. Louis riverfront - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Seen from the river or from the Illinois shore, the Arch reads as a single drawn line, 630 feet tall and 630 feet wide between the outside of the legs at ground level. The simplicity is deliberate and deceptive. Beneath the line sits a stressed-skin structure of 142 sections, each 12 feet long, with an equilateral triangle cross-section measuring 54 feet per side at the base and tapering to 17 feet at the crown. The legs are hollow, the walls are doubled, and the lower portions are stiffened with reinforced concrete placed between inner and outer steel. Nothing in the silhouette announces that complexity, which is part of its power and part of its difficulty.
 
