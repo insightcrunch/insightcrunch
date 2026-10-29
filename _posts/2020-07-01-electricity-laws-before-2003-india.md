@@ -9,7 +9,7 @@ excerpt: "Electricity law in India before 2003 rested on three statutes and one 
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 81
 author: "anita-das"
-last_updated: 2020-07-01
+last_updated: 2026-10-29
 lang: en
 ---
 For most of the second half of the twentieth century, electricity law in India meant three statutes working as one regime, and the centre of that regime was not a market, a contract or a regulator but a statutory corporation: the State Electricity Board. The Board generated the power, carried it across the state, sold it to the consumer, fixed the price at which it was sold, borrowed the money with which the system was built, and answered for all of it to the government that appointed its members. Understanding Indian electricity, including the financial condition of distribution that every later reform has inherited, begins with understanding what those three statutes asked of that single institution, because the statutes asked for two things that could not be done at once.

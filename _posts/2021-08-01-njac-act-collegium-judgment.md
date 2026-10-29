@@ -9,7 +9,7 @@ excerpt: "The NJAC Act and the collegium verdict explained: what the 99th Amendm
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 80
 author: "patrick-dunn"
-last_updated: 2021-08-01
+last_updated: 2026-10-29
 lang: en
 ---
 The NJAC Act is the shortest lived constitutional experiment in the history of Indian judicial appointments, and the collegium verdict that destroyed it is among the most consequential judgments the Supreme Court has delivered on its own institutional position. Between commencement on 13 April 2015 and judgment on 16 October 2015, a six member commission created by a constitutional amendment stood in the place of the collegium, and at the end of those six months the commission was gone, the amendment was void, and the collegium stood restored by the same interpretive route that had created it. The argument has never ended, because the judgment answered one question and left another hanging. It settled who may not appoint judges. It directed a reform of how judges are appointed, through a revised Memorandum of Procedure addressing eligibility, transparency, a secretariat and complaints, and that reform was not completed in the decade that followed.

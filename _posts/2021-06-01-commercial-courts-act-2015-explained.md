@@ -9,7 +9,7 @@ excerpt: "The Commercial Courts Act explained: what makes a dispute commercial, 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 93
 author: "samantha-lee"
-last_updated: 2021-06-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Commercial Courts Act is the statute that decides which business disputes in India are taken out of the ordinary civil queue and placed on a faster, stricter track, and its central lesson is that the difference between the two tracks is not the subject matter but the consequence of delay. A dispute qualifies by falling inside an enumerated statutory definition and by crossing a monetary threshold. Once inside, the suit is governed by a rewritten version of the Code of Civil Procedure in which pleadings must be verified by a statement of truth, documents must be disclosed at the threshold, mediation must be attempted before filing unless urgent interim relief is genuinely contemplated, and a defendant who allows one hundred and twenty days to pass from the service of summons loses the right to file a defence at all. Ordinary civil procedure in India treats most time limits as directory and extends them almost as a matter of course. The commercial regime was designed, deliberately and visibly, to do the opposite.

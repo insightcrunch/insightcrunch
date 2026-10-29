@@ -9,7 +9,7 @@ excerpt: "Parliamentary committees and Bill scrutiny in India: why referral is a
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2022-04-01
+last_updated: 2026-10-29
 lang: en
 ---
 Nothing in Indian law requires a Bill to be examined by a committee before Parliament votes on it. Parliamentary committees are the machinery through which detailed Bill scrutiny is supposed to happen, and the machinery is real: committees take evidence, examine clauses, summon officials and produce reports that governments must answer. But every stage of that machinery is switched on by a discretionary decision, and the switch belongs to the presiding officer of a House, to the House itself, or to the government of the day. The Constitution does not mention committees at all. No statute does either. The committee system lives in the rules of procedure that each House has made for itself, and what those rules create they leave optional.

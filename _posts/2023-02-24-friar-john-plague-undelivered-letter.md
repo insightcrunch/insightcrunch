@@ -9,7 +9,7 @@ excerpt: "Friar John is quarantined for plague and never delivers the letter tha
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2023-02-24
+last_updated: 2026-10-29
 lang: en
 ---
 Friar John speaks for barely a minute of stage time, and the tragedy turns on every word of it. In Act 5 Scene 2 of Romeo and Juliet, a Franciscan friar with no history, no family, no second scene, and no fault walks into Friar Laurence's cell carrying the most consequential object in the play: Laurence's own letter, undelivered, still sealed with everything Romeo needed to know. The letter was meant to tell the banished Romeo that Juliet's death was a staged sleep, that she would wake in the Capulet vault, and that he should come and take her away. It never left Verona. John had gone to find a fellow friar to travel with him, the two of them were visiting the sick, town officers suspected that the house they entered was infected with plague, and the doors were sealed with both men inside. By the time John stood in Laurence's cell again, a servant's faster and grimmer message had already reached Mantua, and Romeo was riding home with poison in his pocket.

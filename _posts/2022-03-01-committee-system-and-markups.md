@@ -9,7 +9,7 @@ excerpt: "The committee markup is where most bills end and operative text is set
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 99
 author: "kevin-reeves"
-last_updated: "2022-03-01"
+last_updated: 2026-10-29
 lang: en
 ---
 A committee markup is the working session at which a congressional committee takes a measure apart and puts it back together, and the committee system that surrounds that session decides which measures receive one. Nearly every bill and resolution introduced in Congress is referred to a committee, and nearly every referred measure receives nothing further: no hearing, no markup, no vote, and no explanation. The measures that matter pass through a single scheduled event, the markup, at which members consider a prepared text, offer amendments, record votes, and decide whether the measure advances to the chamber. Between referral and that event stands one decision, taken by one officeholder, against which the rules of either chamber provide almost no recourse. The chair of the committee decides whether a markup is scheduled at all, and a measure the chair declines to schedule has, for practical purposes, been disposed of as completely as a measure voted down on the floor, except that no vote, no record, and no stated reason mark its end.

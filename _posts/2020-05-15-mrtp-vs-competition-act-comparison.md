@@ -9,7 +9,7 @@ excerpt: "MRTP Act vs Competition Act compared across nine dimensions: assets ag
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 83
 author: "deepika-joshi"
-last_updated: 2020-05-15
+last_updated: 2026-10-29
 lang: en
 ---
 Every account of Indian competition law begins with a contrast, and most accounts state the contrast correctly and then fail to use it. The Monopolies and Restrictive Trade Practices Act 1969 asked how large an undertaking was. The Competition Act 2002 asks what an undertaking has done to a market. The MRTP vs Competition Act comparison is therefore not a comparison between an old statute and its amendment, or between a weak regulator and a strong one. It is a comparison between two different theories of what the state should fear in private economic power: accumulation itself, or conduct and transactions that damage the competitive process. Everything else in this article, the thresholds, the remedies, the merger rules, the leniency programme, the fate of consumer complaints, follows from that single difference, and the verdict at the end is derived by counting how the difference plays out across nine dimensions rather than by asserting it at the start.

@@ -9,7 +9,7 @@ excerpt: "Money Bill or Finance Bill in India: Article 110's word only decides w
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 73
 author: "robert-quinn"
-last_updated: 2022-02-15
+last_updated: 2026-10-29
 lang: en
 ---
 Every argument about a Money Bill in India is an argument about a single word. Article 110 of the Constitution provides that a Bill shall be deemed to be a Money Bill if it contains only provisions dealing with a short list of fiscal matters. The list is generous. The word only is not. If a Bill contains the listed matters and nothing else, it travels a fast track on which the Rajya Sabha, the Council of States, may recommend changes but may neither amend nor reject the Bill, and on which the directly elected Lok Sabha has the final word within a fixed and short timetable. If the Bill contains anything beyond the listed matters and matters incidental to them, the fast track is not available, the Bill must run the ordinary course, and the Council of States holds the same powers over it as the Lok Sabha, including the power to amend it, to reject it, and to force the disagreement toward a joint sitting. The classification therefore decides, before a single clause is debated, whether one of the two Houses of Parliament has a real say over a statute or only a voice.

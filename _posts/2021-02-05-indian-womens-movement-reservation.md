@@ -9,7 +9,7 @@ excerpt: "The Indian women's movement, read from the Towards Equality Report to 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2021-02-05
+last_updated: 2026-10-29
 lang: en
 ---
 The Indian women's movement is usually introduced as a story of awakening, and the introduction does quiet damage to the record. Read against its own documents, the movement that runs from the Towards Equality Report of the Committee on the Status of Women in India to the Constitution (One Hundred and Sixth Amendment) Act of 2023 behaves less like a rising consciousness and more like a sequence of formal renegotiations between women citizens and the Indian state, each conducted through a dated instrument: a committee report tabled in Parliament in 1975, a Supreme Court acquittal answered by an open letter and a statute, a set of judicial guidelines that governed workplaces for sixteen years, a pair of constitutional amendments that reserved a third of local office, and an amendment that wrote the same fraction into the Lok Sabha and the state assemblies. The claim defended here is that the Indian women's movement operates as citizen-renegotiation culminating in the 2023 Nari Shakti reservation, and that a five-feature framework captures what rival readings leave out.

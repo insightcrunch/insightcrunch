@@ -9,7 +9,7 @@ excerpt: "The electoral bonds trajectory tested an anonymity architecture in Ind
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2020-06-25
+last_updated: 2026-10-29
 lang: en
 ---
 On 1 February 2017 the Finance Minister of India, Arun Jaitley, rose in the Lok Sabha to present the Union Budget and used the occasion to announce a new instrument of party funding called the electoral bond. A purchaser would buy the instrument from a bank with money drawn from a taxed and recorded account, hand the physical instrument to a political party, and see the amount credited to that party through the banking system, yet no voter, no rival party and no election authority outside the issuing bank would ever learn the purchaser's name. Seven years later, on 15 February 2024, a five judge Constitution Bench of the Supreme Court, presided over by Chief Justice D. Y. Chandrachud, struck the entire arrangement down as a violation of the voter's right to information under Article 19(1)(a) of the Constitution. Between the announcement and the annulment, bonds worth 16,518 crore rupees were sold by the State Bank of India. This article defends one claim about that trajectory. The electoral bond was not best understood as a reform proposal that happened to fail, nor as a corruption story that happened to end in court. It was an architecture, a designed system of four interlocking legal components whose joint product was anonymity, and the events of 2018 to 2024 tested that architecture component by component until the Constitution Bench dismantled the whole of it and the disclosure of March 2024 published the record the architecture had been built to withhold.

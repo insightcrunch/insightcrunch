@@ -9,7 +9,7 @@ excerpt: "The Nurse who helped Juliet wed Romeo later tells her to marry Paris i
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2022-11-25
+last_updated: 2026-10-29
 lang: en
 ---
 The cruelest speech in Romeo and Juliet is not a threat, a curse, or a sentence of exile. It is a piece of friendly advice. Late in Act 3 Scene 5, with her father storming out of the room and her mother washing her hands of her, Juliet turns to the one person who has carried every secret of her short married life and begs for comfort and counsel. The Nurse gives her counsel. Romeo is banished and might as well be dead; Paris is the better match; the girl should marry the County. Within a dozen lines a bond built across thirteen years of feeding, carrying, joking, and conspiring is finished, and Juliet is alone in a play that has been stripping her protectors away one scene at a time.

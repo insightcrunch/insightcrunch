@@ -9,7 +9,7 @@ excerpt: "The Shiv Sena's evolution from Marathi-manoos politics to Hindutva to 
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 71
 author: "ian-fletcher"
-last_updated: 2020-01-17
+last_updated: 2026-10-29
 lang: en
 ---
 The history of the Shiv Sena in Maharashtra is usually told as a story of three men: Bal Thackeray, who founded the party in a Bombay park in June 1966; Uddhav Thackeray, who inherited its leadership and carried it into a coalition with its oldest enemies; and Eknath Shinde, who walked out with most of its legislators in June 2022 and was handed the party's name and symbol by the Election Commission in February 2023. That telling is accurate in its facts and inadequate in its explanation. Read across fifty-eight years, the Shiv Sena's history is a sequence of four distinct political architectures, each built to solve the problem the previous one created, and Maharashtra's fragmented party system after 2014 is the residue of those architectures colliding. This article defends that long-arc reading against the two framings that dominate commentary on the party, the personality narrative and the ideological-shift account, and it does so on the dated record: election results reported by the Election Commission of India, the Justice B. N. Srikrishna Commission's report of February 1998, court judgments, and the scholarly literature from Vaibhav Purandare's biography of Bal Thackeray in 2012 to the essays of Suhas Palshikar.

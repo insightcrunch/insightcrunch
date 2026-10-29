@@ -9,7 +9,7 @@ excerpt: "The Narmada Bachao Andolan under Medha Patkar turned one dam on the Na
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "maria-santos"
-last_updated: 2021-01-25
+last_updated: 2026-10-29
 lang: en
 ---
 On 5 April 1961, Prime Minister Jawaharlal Nehru laid the foundation stone of the Sardar Sarovar dam at Navagam in Gujarat, at a ceremony that presented the structure as a temple of the new republic's engineering ambition. Twenty-four years later, in 1985, a doctoral researcher from the Tata Institute of Social Sciences in Mumbai named Medha Patkar entered the Narmada valley to study the villages the reservoir would drown, and the encounter produced the Narmada Bachao Andolan, the movement that would contest that foundation stone's promise for more than three decades. This article defends one claim about the contest. The Andolan operated as citizen-renegotiation conducted through the Sardar Sarovar Project's own instruments: the tribunal award that fixed the dam's dimensions, the loan covenants that financed it, the writ petition that challenged it and the statute book that eventually absorbed its demands. Five features mark the operation. A movement was built village by village across three states between 1985 and 1989. Its villagers pledged at Manibeli in 1991 to drown rather than move. Its documentation forced the World Bank's first independent review and the loan's cancellation in March 1993. Its lawsuit produced the Supreme Court's conditional permission of 18 October 2000, construction tied to rehabilitation at every step. Its premises entered national law in the land acquisition statute of 27 September 2013, four years before the dam it fought was completed and dedicated in September 2017.

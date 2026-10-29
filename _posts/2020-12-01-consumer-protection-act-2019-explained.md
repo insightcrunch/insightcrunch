@@ -9,7 +9,7 @@ excerpt: "The Consumer Protection Act 2019 repealed the 1986 statute and added a
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 83
 author: "kavita-sharma"
-last_updated: 2020-12-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Consumer Protection Act 2019 did something the Indian consumer movement had sought for a generation and had repeatedly failed to obtain. It ended the arrangement under which the only way to set consumer law in motion was for an aggrieved individual to draft a complaint, pay a fee, and pursue a trader through a forum. In place of that arrangement it built a statute with two engines. The first is the familiar one: a three-tier line of commissions before which a complainant may still file, argue and obtain compensation. The second is entirely new: a regulator, the Central Consumer Protection Authority, which may inquire into a violation of consumer rights on its own motion, order goods recalled from the market, direct that prices be reimbursed, and penalise a misleading advertisement, all without any individual consumer having complained at all.

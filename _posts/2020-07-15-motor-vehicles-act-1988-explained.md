@@ -9,7 +9,7 @@ excerpt: "The Motor Vehicles Act 1988 explained: licensing, registration, permit
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 86
 author: "deepika-joshi"
-last_updated: 2020-07-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Motor Vehicles Act 1988 is the statute that decides who may drive on an Indian road, on what conditions a vehicle may earn its living there, and who pays when a journey ends in death or injury. Almost every Indian family interacts with the first two of those functions through a licence, a registration certificate or a bus permit. The third function is the one that matters most and is understood least, because it operates in a specialised tribunal, under a method of calculation that the Act itself never sets out, at the worst moment of a family's life. This article explains all three functions from the text of the Act as Parliament enacted it, and then explains the judicial method that the text left to the courts.

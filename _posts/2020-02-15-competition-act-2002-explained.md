@@ -9,7 +9,7 @@ excerpt: "The Competition Act 2002 explained: which agreements are presumed unla
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 88
 author: "anita-das"
-last_updated: 2020-02-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Competition Act 2002 is the statute that decides what Indian businesses may agree with each other, what a powerful business may do with its power, and which mergers and acquisitions need permission before they close. It is cited in the Gazette as Act 12 of 2003, because although Parliament passed it under the 2002 title, the President assented to it on 13 January 2003 and it was published the following day. That small mismatch between the name and the number is the first of many ways in which this Act refuses to sit still under a casual reading. The second is that almost everything commonly said about it in summary form is wrong in one specific direction: summaries describe it as a law against big business, against cartels and against mergers, when its text is in fact a law against defined conduct. It prohibits particular kinds of agreement, particular listed abuses of a dominant position, and combinations above defined thresholds that are not notified in time. Size, success and market power, without more, contravene nothing in it.

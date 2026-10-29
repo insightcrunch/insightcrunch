@@ -9,7 +9,7 @@ excerpt: "The ADM Jabalpur verdict and the lone dissent of Justice Khanna show h
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2020-08-08
+last_updated: 2026-10-29
 lang: en
 ---
 The adm jabalpur 1976 case, decided as Additional District Magistrate, Jabalpur v. Shivkant Shukla on 28 April 1976, stands as the judgment in which the Supreme Court of India held, by four votes to one, that a person detained during the Emergency could not move a court for habeas corpus on the ground that the detention took away life or liberty without a fair legal basis, because enforcement of Article 21 stood suspended under a Presidential order issued under Article 359. The majority spoke through Chief Justice A. N. Ray and Justices M. H. Beg, Y. V. Chandrachud and P. N. Bhagwati. Justice H. R. Khanna dissented alone. The claim defended here is the one the record supports most completely: the verdict operationalised an institutional failure pattern with four linked features, namely acceptance of the Article 21 suspension, deference to the executive order as beyond questioning, a dissent answered within months by supersession, and a reversal path that ran through Maneka Gandhi in 1978, the Forty-fourth Amendment and the nine-judge bench in K. S. Puttaswamy v. Union of India on 24 August 2017.

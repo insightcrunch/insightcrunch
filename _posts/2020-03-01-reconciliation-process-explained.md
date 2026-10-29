@@ -9,7 +9,7 @@ excerpt: "Budget reconciliation lets a Senate majority pass budget legislation w
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 90
 author: "patrick-dunn"
-last_updated: "2020-03-01"
+last_updated: 2026-10-29
 lang: en
 ---
 Most legislation in the Senate can be talked to death. A measure that cannot attract sixty votes to close debate cannot reach a final vote at all, and the arithmetic of extended debate has ended more major bills than any vote on passage. Budget reconciliation is the standing exception to that arithmetic. It is an optional procedure written into section 310 of the Congressional Budget and Impoundment Control Act of 1974, and it carries a measure from an instruction inside a budget resolution to the President's desk under a statutory ceiling on debate, so that a simple majority of senators, voting after a fixed allowance of hours, decides the outcome. First used in 1980, the procedure has since carried deficit reduction acts, tax reductions and tax increases, a restructuring of federal cash welfare, a health coverage expansion and the largest tax revision of its decade, and the statutes that owe their existence to it rank among the most consequential fiscal laws of the modern Congress.

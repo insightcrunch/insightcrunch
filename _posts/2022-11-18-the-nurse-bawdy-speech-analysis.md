@@ -9,7 +9,7 @@ excerpt: "The Nurse's rambling Act 1 speech folds a bawdy joke, an earthquake, a
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 2022-11-18
+last_updated: 2026-10-29
 lang: en
 ---
 ## Romeo and Juliet in Act 1 Scene 3: A Question About Age That Becomes a Life Story

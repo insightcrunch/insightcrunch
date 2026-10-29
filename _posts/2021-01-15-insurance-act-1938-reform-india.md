@@ -9,7 +9,7 @@ excerpt: "The Insurance Act 1938 explained: entry and capital rules for insurers
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2021-01-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Insurance Act 1938 is the statute under which every insurer in India holds its licence, holds its capital and answers for its conduct, and it contains one provision that decides more contested life insurance claims than any other sentence in Indian financial law. Section 45 provides that no policy of life insurance shall be called in question on any ground whatsoever after three years have run from the last of four dates to occur. A family that understands that sentence, and knows how the three years are counted, understands the strongest protection the statute gives it. A business reader needs a different part of the same Act: how a company gets registered, how much capital it must bring, how much of it foreign investors may own, and where the limits on its spending and investing sit.

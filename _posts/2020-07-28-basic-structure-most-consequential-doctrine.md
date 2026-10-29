@@ -9,7 +9,7 @@ excerpt: "The basic-structure doctrine is India's most consequential constitutio
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 78
 author: "benjamin-scott"
-last_updated: 2020-07-28
+last_updated: 2026-10-29
 lang: en
 ---
 The basic structure doctrine is the closest thing the Indian Constitution has to a second founding. On 24 April 1973, in Kesavananda Bharati v State of Kerala, a thirteen-judge bench of the Supreme Court held by the narrowest of margins that Parliament's power to amend the Constitution under Article 368 does not extend to destroying or damaging the Constitution's basic structure, the load-bearing frame of features without which the document would cease to be itself. Every account of Indian constitutional politics must pass through that verdict, and almost every account passes through it too quickly, treating the doctrine either as one entry in a line of amendment cases or as a trophy in an institutional contest between court and Parliament. This article defends a larger claim. Measured by the architecture it created and the half-century of constitutional argument it has organised, Kesavananda is the most consequential constitutional moment in India after the founding settlement of 1947 to 1950 itself, the settlement whose internal tensions the series has traced from [the founding three-tensions framework](/2018/12/01/constituent-assembly-three-tensions-founding-india/) onward. The doctrine matters not because judges won an argument in 1973, but because the verdict built a permanent structure of protection, review and tension inside which every later argument about amending the Constitution has had to be fought.

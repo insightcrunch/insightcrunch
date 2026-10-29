@@ -9,7 +9,7 @@ excerpt: "How the Industries Act built industrial licensing in India, how Sectio
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 90
 author: "jessica-kim"
-last_updated: 2020-01-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Industries Act 1951 is remembered through a system that its text no longer imposes on most factories. The statute is Act 65 of 1951, titled the Industries (Development and Regulation) Act, 1951, and its long title states a double purpose: to provide for the development and regulation of certain industries. That pairing matters. The Act was not drafted as a prohibition code alone. It joined entry control, capacity control and price control to councils, research, training and industrial planning. Its best known mechanism, the industrial licence, decided whether a new undertaking could be established, whether an established undertaking could expand in a substantial way, and whether a registered undertaking could move into a different article. For four decades, those questions were not treated as ordinary investment choices. They were legal permissions.

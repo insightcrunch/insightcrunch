@@ -9,7 +9,7 @@ excerpt: "Reading a federal statute begins with its definitions, its numbering h
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 101
 author: "andrew-price"
-last_updated: "2022-05-01"
+last_updated: 2026-10-29
 lang: en
 ---
 A researcher opening a federal statute for the first time often expects a single document that states a complete rule from a clear beginning to a clear end. That expectation fails against the structure of enacted federal law. The same law exists in three forms, each form prepared for a different purpose, and a citation to one form does not replace the record held in another form. Most of the text in a large act does not state a freestanding rule at all. Most of the text amends other text, adds a unit to an earlier section, strikes language from an earlier provision, or redesignates units that other provisions cite. Operative meaning also sits scattered across an act and beyond an act, in a definitions section that assigns content to familiar words, in a numbering hierarchy that fixes the reach of a condition, and in statutory notes that carry effective dates and transitional law beneath a Code section. Reading therefore begins before interpretation, with location, identification, and reconstruction of the text that governs a question.

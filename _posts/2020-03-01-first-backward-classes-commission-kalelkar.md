@@ -9,7 +9,7 @@ excerpt: "The Kalelkar Commission was the first backward classes commission appo
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
 author: "robert-quinn"
-last_updated: 2020-03-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Kalelkar Commission is usually granted two sentences in the history of Indian reservation: appointed in 1953, shelved in 1956, a failed rehearsal for the Mandal Commission of 1979. That treatment mistakes a burial certificate for a biography. The claim defended here is that the Commission chaired by Dattatreya Balkrishna Kalelkar, known across India as Kaka Kalelkar, was institutionally substantive even in political deferral: it ran the first all-India inquiry into the conditions of the socially and educationally backward classes, named 2,399 castes as backward, proposed reservation percentages that no later body exceeded, and then produced, in its chairman's forwarding letter and in the Union Cabinet's memorandum of September 1956, the two documents that fixed the questions every later inquiry had to answer. The Mandal Commission did not begin from a blank page in 1979. It began from Kalelkar's page, with Kalelkar's unresolved argument printed at the top of it.

@@ -9,7 +9,7 @@ excerpt: "Nehru-era legislation pursued four programmes at once: constitutional 
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 81
 author: "anita-das"
-last_updated: 2022-04-15
+last_updated: 2026-10-29
 lang: en
 ---
 Nehru-era legislation is usually described as if it were a single project, the building of a planned economy, and the description is not wrong so much as it is incomplete to the point of distortion. Between the commencement of the Constitution in January 1950 and the death of Jawaharlal Nehru in May 1964, the Indian Parliament and the provisional legislature that preceded it were running four distinct legislative programmes at the same time, each with its own statutes, its own opposition and its own timetable. The first programme adjusted the Constitution itself, amending the fundamental rights when they obstructed the rest of the agenda. The second built the planned economy, a structure of licensing, control, public ownership and fiscal extraction. The third reformed society through law, codifying the personal law of the majority community and giving penal force to the constitutional abolition of untouchability. The fourth built the state itself: a reorganised map of States, an electoral machine, a citizenship code, a detention power and the legal shell of a strategic science establishment.

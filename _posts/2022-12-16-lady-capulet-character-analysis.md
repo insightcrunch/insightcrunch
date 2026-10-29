@@ -9,7 +9,7 @@ excerpt: "Lady Capulet leaves her daughter to the Nurse, pushes the Paris match,
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2022-12-16
+last_updated: 2026-10-29
 lang: en
 ---
 Lady Capulet is the easiest major figure in Romeo and Juliet to forget, and that forgetfulness is the first fact a serious character study has to explain. The tragedy is remembered as a story of two lovers, a witty friend, a well-meaning friar, a raging father, and a garrulous nurse. The mother of the heroine slips out of the retelling almost entirely. Yet the play gives her a precise and damaging function. She is the parent who was never close enough to lose. Capulet rages and can therefore be resisted; the Nurse chatters and can therefore be confided in; Lady Capulet presides at a distance that no scene ever closes, and her daughter grows up, falls in love, marries, and dies without once being held in anything that resembles maternal confidence. This study reads her whole arc across the five scenes in which she matters, weighs the evidence for cruelty against the evidence for damage, and reaches a verdict: Lady Capulet is not the villain of the Capulet household but its most complete casualty, a woman married as a child into a loveless arrangement who reproduced, faithfully and without imagination, the only model of motherhood her world had left her. The verdict comes with one hard exception. Her promise to have Romeo poisoned in Mantua is hers alone, an act of personal vindictiveness that no convention required, and it is the moment where sympathy for the casualty has to stop.

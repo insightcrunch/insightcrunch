@@ -9,7 +9,7 @@ excerpt: "The financial crisis Indian response after the Lehman collapse operate
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "nathan-cole"
-last_updated: 2020-12-18
+last_updated: 2026-10-29
 lang: en
 ---
 The Indian response to the 2008 financial crisis was assembled by a government that had survived a trust vote eight weeks before Lehman Brothers fell, that lost its finance minister to a terror attack eleven weeks after it fell, and that faced the electorate within eight months with the bill for the rescue already printed in its deficit figures. That sequence is not background colour. It is the substance of the episode, and it decides what kind of account the episode needs. The crisis-management account treats the response as a set of emergency decisions taken under fire, and grades them by speed and scale. The technical account treats the response as a set of instruments, a repo rate path, a reserve ratio path, a sequence of tax cuts, and grades them by design. Both accounts are accurate about their slices and incomplete about the whole, because the decisions were taken inside named political conditions that selected the instruments, set their sizes, fixed their calendar and determined which costs could be admitted in public and which had to be carried in silence.

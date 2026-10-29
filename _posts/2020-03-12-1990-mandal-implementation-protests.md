@@ -9,7 +9,7 @@ excerpt: "The Mandal implementation announced in August produced a three-phase m
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2020-03-12
+last_updated: 2026-10-29
 lang: en
 ---
 On 7 August 1990, Prime Minister Vishwanath Pratap Singh rose in Parliament and announced that the Union government would implement the central recommendation of the Mandal Commission, reserving 27 percent of vacancies in civil posts and services under the Government of India for the socially and educationally backward classes. The 1990 Mandal protests that followed over the next hundred days are usually told in one of two ways. The first telling is an arithmetic telling, in which the announcement was a move in a coalition game, calculated by a minority government to consolidate the backward caste electorate of the Hindi belt behind the Janata Dal. The second telling is a narrative of the streets, in which the autumn of 1990 belongs to the students who marched against the decision and to Rajiv Goswami, the Delhi University student whose self-immolation on 19 September 1990 became the enduring image of the agitation. This article defends a different claim. The implementation produced three distinct mobilisations in sequence and in interaction: a pro-Mandal consolidation during August and early September, an anti-Mandal counter-mobilisation during September and October, and a Hindutva mobilisation from late September to November that the Ram Rath Yatra carried across north India. The political architecture of India was rearranged by the three phases acting together, and neither the arithmetic telling nor the protest telling, taken alone, can account for the rearrangement.

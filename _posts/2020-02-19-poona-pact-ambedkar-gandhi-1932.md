@@ -9,7 +9,7 @@ excerpt: "The Poona Pact established joint electorates with reserved seats, the 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2020-02-19
+last_updated: 2026-10-29
 lang: en
 ---
 The Poona Pact of 24 September 1932 is usually remembered as the settlement that ended a fast. On 16 August 1932 Ramsay MacDonald, the British Prime Minister, announced the Communal Award and gave the Depressed Classes separate electorates. On 20 September 1932 Mohandas Gandhi, a prisoner in Yerwada Central Jail, began a fast unto death against that single provision. Four days later B. R. Ambedkar and Madan Mohan Malaviya signed an agreement at Poona that withdrew the separate electorates and replaced them with joint electorates and reserved seats. The claim defended here is architectural: the Poona Pact is best read not as a compromise between two men but as a piece of constitutional engineering whose four design choices governed Indian representation for the rest of the century.

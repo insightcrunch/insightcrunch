@@ -9,7 +9,7 @@ excerpt: "The nuclear deal crisis is reread through the July trust vote, the Hyd
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "patrick-dunn"
-last_updated: 2020-10-18
+last_updated: 2026-10-29
 lang: en
 ---
 On the evening of 22 July 2008, the fourteenth Lok Sabha divided on a motion of confidence that the government of Manmohan Singh had moved in its own name, and the 2008 nuclear deal ceased to be a negotiation conducted in Washington and Vienna and became, in full public view, a domestic crisis conducted on the floor of the House. The motion carried by 275 votes to 256, with ten members abstaining, after a two-day debate in which three members of the Bharatiya Janata Party had carried bundles of currency into the chamber and placed them before the Speaker as proof, they said, that votes for the government were being bought. The claim defended in this article is that the crisis, and not the strategic realignment that the agreement with the United States also represented, is the reading that explains the most about what the deal did to Indian politics. A foreign policy instrument that began as a joint statement signed in Washington on 18 July 2005 ended by destroying the coalition arrangement that had governed India since 2004, expelling a Speaker from his own party, putting a prime minister's continuation in office to a counted division, and leaving a scandal whose investigations ran for five years without settling the question they were opened to answer. The trajectory has four components, and each component is a domestic event before it is a diplomatic one: a statement, a statute, a withdrawal and a vote.

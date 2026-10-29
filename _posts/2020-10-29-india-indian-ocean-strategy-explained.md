@@ -9,7 +9,7 @@ excerpt: "India's Indian Ocean strategy through the SAGAR doctrine and the reviv
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2020-10-29
+last_updated: 2026-10-29
 lang: en
 ---
 India's Indian Ocean strategy is usually told as a story of ships, straits and a rising Chinese navy, yet the record from March 2015 onward shows a second story running underneath the first: a strategy announced in a partner's parliament, built through island agreements negotiated state by state, and defended in New Delhi as proof of a governing style. This article reads India's Indian Ocean strategy as maritime architecture with domestic political content, and it tests that reading against the two framings it displaces.

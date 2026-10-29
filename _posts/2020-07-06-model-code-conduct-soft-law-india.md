@@ -9,7 +9,7 @@ excerpt: "The Model Code of Conduct operates as soft-law architecture; the limit
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2020-07-06
+last_updated: 2026-10-29
 lang: en
 ---
 The model code of conduct india candidates argue about in every election began not as law but as a promise parties made to each other in Kerala in 1960, and that origin explains the instrument India still uses. The Model Code of Conduct, called the MCC in the Commission's handbooks, is a written code of election behaviour that no Parliament enacted, no court can directly enforce as a statute, and no candidate may safely ignore. This article defends one namable claim. The MCC operates as soft-law architecture; the limits of its enforcement derive from the soft-law architectural design itself rather than from failures by the officials who administer it. Every controversy over a speech left unpunished, a ministerial announcement left untouched, or a campaign ban that arrived after the damage was done returns to three design choices taken between 1960 and 1991: the Code was codified without being made statutory, it was entrusted to the Election Commission without being made judicially enforceable, and it was made binding through political recognition rather than through legal obligation. Read the document through those three choices and its powers and its frustrations fall into a single pattern.

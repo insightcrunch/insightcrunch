@@ -9,7 +9,7 @@ excerpt: "The post-Modi diaspora architecture operationalises NRI-PIO-OCI conten
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
 author: "thomas-reid"
-last_updated: 2020-11-04
+last_updated: 2026-10-29
 lang: en
 ---
 The Indian diaspora became a foreign policy constituency through deliberate statecraft rather than through demography alone. Tens of millions of people of Indian birth or descent live outside India, yet for the republic's first four decades its government addressed them mainly as a consular burden or an embarrassment to be managed at a distance. Between 1991 and 2023 a succession of governments built an architecture of crisis bonds, annual conventions, status cards and stadium rallies that converted emigrants and their grandchildren into an organised presence inside India's external relations and its election campaigns. The claim defended here is that the phase after 2014 operationalised that constituency at a scale no earlier phase approached.

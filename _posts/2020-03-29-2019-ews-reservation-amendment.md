@@ -9,7 +9,7 @@ excerpt: "The 103rd Amendment created EWS reservation on purely economic criteri
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2020-03-29
+last_updated: 2026-10-29
 lang: en
 ---
 On 12 January 2019 the President of India gave assent to the Constitution (One Hundred and Third Amendment) Act, and with that signature the EWS reservation entered a constitutional order that had organised preferential treatment around caste for seven decades. The amendment reserved ten percent of seats in educational institutions and ten percent of initial appointments in government services for economically weaker sections, a category defined by household income and assets and by nothing else. No caste certificate could establish the claim, and no caste disability was required to sustain it. The question this article answers is architectural rather than partisan. What did the 2019 amendment actually build? The argument defended here is that the 103rd Amendment built a methodologically distinct reservation, a second instrument standing beside the caste-based framework rather than a tenth added to its pile, and that the Supreme Court's judgment of 7 November 2022 in Janhit Abhiyan v Union of India operationalised that distinctness through three named holdings on economic criteria, on the fifty percent ceiling, and on the exclusion of the Scheduled Castes, the Scheduled Tribes and the Other Backward Classes from the new category.

@@ -9,7 +9,7 @@ excerpt: "Private member Bills and repeal drives mark the two ends of lawmaking 
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 81
 author: "patrick-dunn"
-last_updated: 2022-06-01
+last_updated: 2026-10-29
 lang: en
 ---
 Private member Bills stand at one end of the legislative process and the repeal of obsolete statutes stands at the other, and the two ends have more in common than their distance suggests. At the first end, a member of Parliament who holds no ministerial office drafts a complete law, gives notice of it, waits for a ballot to favour the notice, and hopes for time on a Friday afternoon to persuade the House to take the proposal seriously. At the second end, a government that commands the House assembles long schedules of enactments nobody has used in decades and removes them from the statute book in batches of dozens or hundreds at a time. The first exercise produces almost no law. The second exercise produces almost no change. Each is conducted in proper form, each consumes real legislative time, and each leaves the working statute book very nearly where it found it.

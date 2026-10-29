@@ -9,7 +9,7 @@ excerpt: "The Shaheen Bagh sit-in and the post-CAA protests operationalise citiz
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "samantha-lee"
-last_updated: 2021-02-22
+last_updated: 2026-10-29
 lang: en
 ---
 On the evening of 15 December 2019, as mobile telephone video of a police action inside Jamia Millia Islamia reached the lanes of Okhla in south-east Delhi, a group of women from the neighbourhood of Shaheen Bagh walked onto the Kalindi Kunj road, sat down on the carriageway, and stayed. The sit-in they began that evening ran without a break for 101 days, until Delhi Police cleared the road on the morning of 24 March 2020 under the prohibitory orders of a pandemic lockdown. Between those two dates the stretch of tarmac became the best known protest site in India, the model for scores of similar occupations in other cities, and the subject of a litigation that ended, on 7 October 2020, in a Supreme Court holding on the limits of protest in a public way.

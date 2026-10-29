@@ -9,7 +9,7 @@ excerpt: "Emergency-era legislation read as a single record: the amendments that
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 82
 author: "deepika-joshi"
-last_updated: 2022-05-01
+last_updated: 2026-10-29
 lang: en
 ---
 Emergency-era legislation is best read as a single connected record rather than as a list of famous episodes. Between June 1975 and March 1977 the government of the day worked on all three levels of the legal system at once. It amended the Constitution so that the courts could not question what had been done, it operated a detention statute whose grounds could be kept secret from the person detained, and it controlled the press through censorship orders and a statute of its own. The period therefore left two kinds of trace in Indian law. The first is the set of episodes every student can name: the proclamation of 25 June 1975, the Forty-second Amendment, the habeas corpus judgment of April 1976. The second is quieter and, for the study of legislation, more instructive: the corrective settlement of 1977 to 1979 reversed the parts of the record that touched personal liberty, left standing the parts that rearranged the structure of the Constitution, and enacted one safeguard for detainees that no government has ever brought into force.

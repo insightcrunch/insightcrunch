@@ -9,7 +9,7 @@ excerpt: "The MRTP Act policed size, licensed expansion and punished no one dire
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 79
 author: "patrick-dunn"
-last_updated: 2020-02-01
+last_updated: 2026-10-29
 lang: en
 ---
 The MRTP Act is usually described as a single event: a monopolies law enacted in 1969 and repealed when the Competition Act arrived. That description compresses two separate events into one and loses the most instructive part of the story. The Monopolies and Restrictive Trade Practices Act, 1969 lost the provisions that gave it its purpose in 1991, when Parliament deleted the entire part of the statute that dealt with concentration of economic power. It was not repealed until 2009, eighteen years later, when Section 66 of the Competition Act, 2002 was brought into force. Between those two dates India had a statute named for monopolies that could not examine a merger, could not measure market power in the manner of a modern competition law, and armed its Commission with no power to impose a penalty of its own. This article follows the statute through its three distinct lives: the permission regime of 1970 to 1991, the conduct-only statute of 1991 to 2009, and the repeal that distributed its unfinished business between a tribunal and the consumer fora.

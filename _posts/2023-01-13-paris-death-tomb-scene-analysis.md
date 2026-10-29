@@ -9,7 +9,7 @@ excerpt: "Paris comes to mourn Juliet, fights the intruder Romeo, and dies at th
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2023-01-13
+last_updated: 2026-10-29
 lang: en
 ---
 The final scene of Romeo and Juliet does not begin with Romeo. It begins with Paris, alone in a churchyard at night, carrying flowers and sweet water to the grave of a bride he never married. Within roughly ninety lines that mourner will be dead, killed by the secret husband whose existence he never suspected, and his last act on earth will be to beg his killer for a place beside Juliet inside her family tomb. This close reading argues a firm verdict: the death of Paris at the tomb is not decoration, delay, or expendable machinery. It is the tragedy's final proof, the moment the play's whole system of sanctioned marriage, private desire, and civic violence collapses into a single corpse, and the scene that follows loses its moral architecture whenever a production cuts it. Shakespeare gives the forgotten suitor the most courteous entrance in the scene, the most formal poetry of any speaker in the churchyard, a fight he provokes for an honourable reason, and a dying request of such dignity that Romeo himself stops, looks at the dead face, and performs an act of restitution. A death engineered with that much care is doing structural work, and the work is this: Paris dies so that Romeo can be seen, one last time, choosing violence against his own stated wish, and so that the audience can watch the approved bridegroom and the outlaw husband lie down in the same monument, equal at last in the only currency Verona finally pays out.

@@ -9,7 +9,7 @@ excerpt: "The Liberhan Commission's seventeen-year audit of the Babri demolition
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "nathan-cole"
-last_updated: 2020-05-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Liberhan Commission report is the longest act of institutional self-examination that the Indian republic has ever devoted to a single afternoon. A one-man commission of inquiry, constituted on 16 December 1992 with a three-month mandate to establish how the Babri Masjid at Ayodhya came to be demolished ten days earlier, sat for seventeen years, received forty-eight extensions, examined more than one hundred witnesses and delivered a report of 1,029 pages to Prime Minister Manmohan Singh on 30 June 2009. The document named sixty-eight persons as culpable for leading the country to the brink of communal discord. It found that the demolition had been planned rather than spontaneous, that the Uttar Pradesh government of Kalyan Singh had stood guard against preventive action, and that the movement's senior leadership bore responsibility for a joint conspiratorial enterprise. No prosecution, dismissal, disqualification or reform followed from any of it. The report was debated in Parliament, answered through an Action Taken Report that largely noted its recommendations, and then shelved, while a criminal court in Lucknow spent the same decades reaching the opposite conclusion on the same events and a Constitution Bench of the Supreme Court settled the underlying land dispute on grounds that owed the Commission almost nothing.

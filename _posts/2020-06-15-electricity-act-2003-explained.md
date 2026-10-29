@@ -9,7 +9,7 @@ excerpt: "The Electricity Act 2003 explained: generation without a licence, open
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2020-06-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Electricity Act 2003 rests on two promises, and they have had opposite fortunes. The first promise was that nobody would need the state's permission to generate power: a generating company could build and run a station without a licence, and a factory could build a plant for its own use and carry the power to the point of consumption. The second promise was that a consumer of any size worth speaking of would be able to buy electricity from someone other than the local distribution licensee, using the licensee's own wires on payment of regulated charges. The first promise kept itself, because it required nothing further from anyone once the statute was enacted. The second promise required a number, the surcharge, to be fixed year after year by a regulator who also had to keep the incumbent distributor solvent, and a right whose price is set by the institution it is exercised against behaves very differently from a right that operates on its own. Understanding the Electricity Act 2003 means understanding why those two promises diverged, and the divergence is the clearest instance in Indian commercial regulation of a pattern this series has met repeatedly: a right conditional on a figure set by the duty holder or its regulator is a right the holder controls.

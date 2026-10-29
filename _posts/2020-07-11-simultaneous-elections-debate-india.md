@@ -9,7 +9,7 @@ excerpt: "The simultaneous elections debate operates through three substantive p
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2020-07-11
+last_updated: 2026-10-29
 lang: en
 ---
 The simultaneous elections debate in India is usually reported as a contest between a government that wants one national poll day and opponents who resist it, yet the documentary record assembled between 1999 and 2024 shows a different structure underneath the political contest. The Law Commission of India in its 170th Report of May 1999, a parliamentary standing committee in December 2015, NITI Aayog in January 2017, the Law Commission again in a draft report of August 2018, and the High Level Committee chaired by former President Ram Nath Kovind in March 2024 each addressed the same architectural question: whether the terms of the Lok Sabha and the state legislative assemblies should be synchronised by constitutional design, and what such synchronisation would do to federal balance, public expenditure, and legislative accountability. This article defends one namable claim. The simultaneous elections debate operates through three substantive positions; the post-2024 trajectory tests the architectural content of each position.

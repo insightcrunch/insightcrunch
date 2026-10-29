@@ -9,7 +9,7 @@ excerpt: "Special Economic Zones Act 2005 explained: the approval machinery, the
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 88
 author: "anita-das"
-last_updated: 2020-04-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Special Economic Zones Act 2005 is best read as two statutes occupying a single binding. The first statute is a piece of administrative architecture: it creates a Board of Approval at the Centre, a Development Commissioner for each zone, an Approval Committee at zone level, a letter of approval system for Developers and for Units, a single window for clearances, designated courts for suits and notified offences, and a legal fiction under which a fenced area inside India is treated, for authorised operations, as territory outside the customs territory of India. That first statute survives intact. Its boards meet, its commissioners approve, its letters of approval are issued, and its fiction continues to govern every consignment that crosses a zone boundary. The second statute is a fiscal promise: a schedule of exemptions from customs duty, excise duty, service tax and central sales tax, an exemption from minimum alternate tax and from dividend distribution tax, and a graded income tax deduction for export profits that ran at one hundred per cent for five years, fifty per cent for the next five, and fifty per cent of ploughed back export profit for five years after that. That second statute has been dismantled in stages, almost entirely by amendments to other laws rather than to this Act, and its central promise, the income tax deduction, is closed to any Unit that did not begin production or the provision of services before the sunset date in the income tax statute.

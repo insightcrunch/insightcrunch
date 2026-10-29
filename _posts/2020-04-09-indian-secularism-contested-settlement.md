@@ -9,7 +9,7 @@ excerpt: "Indian secularism is a contested settlement; the 'sui generis' versus 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 79
 author: "thomas-reid"
-last_updated: 2020-04-09
+last_updated: 2026-10-29
 lang: en
 ---
 Indian secularism has been praised as a constitutional invention without parallel and condemned as a borrowed creed that never fitted the society it governed, and the two verdicts have organised the scholarly argument for half a century. Rajeev Bhargava, in The Promise of India's Secular Democracy (2010), reads the constitutional order as a distinct architecture of principled distance between state and religion. T.N. Madan, in Modern Myths, Living Truths (1997), and Ashis Nandy, in his anti-secularist essays of the 1980s, read the same order as a Western import that misconceives how religion lives in India. This article defends a third reading against both: Indian secularism is a contested settlement, a body of constitutional commitments whose meaning has been renegotiated at dated moments from the locking of the Babri Masjid in December 1949 to the citizenship contestation of 2019 and 2020, and the machinery of that renegotiation is the substance of the settlement rather than evidence of its collapse.

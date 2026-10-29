@@ -9,7 +9,7 @@ excerpt: "The Official Secrets Act 1923 punishes spying and the wrongful communi
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 90
 author: "samantha-lee"
-last_updated: 2022-01-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Official Secrets Act 1923 is the statute under which India punishes espionage and the unauthorised movement of official information, and it is a statute with a hole at its centre. The Act, cited as Act 19 of 1923, creates offences that turn on whether information is secret, official, calculated to be useful to an enemy, or likely to affect the security of the State, and yet it contains no definition of a secret, no definition of an official secret, and no test by which a document becomes protected. A reader who works through its fifteen sections looking for the definition around which everything else is built will not find it, because it is not there. What the Act protects is identified outside the Act, in executive instructions that classify government documents, and what the Act punishes is identified inside it, in elements that a prosecution must prove in court. That division, between an administrative act of classification that the statute never mentions and a criminal liability that the statute defines in detail, is the single most important fact about the Official Secrets Act 1923, and it organises everything that follows in this article.

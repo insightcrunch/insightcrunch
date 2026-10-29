@@ -9,7 +9,7 @@ excerpt: "Budget Control Act caps and sequestration explained, from the debt lim
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 103
 author: "hannah-moore"
-last_updated: "2020-02-15"
+last_updated: 2026-10-29
 lang: en
 ---
 The Budget Control Act entered law as a bargain struck at a deadline, and the bargain carried a warning about the institution that struck it. Designed to be intolerable and tolerated anyway. That phrase describes the enforcement theory at the center of the statute, because the automatic reductions that followed failure were drawn to damage priorities on both sides, on the assumption that such damage would force a negotiated settlement. The settlement never arrived at the scale the statute demanded. The reductions took effect, the caps were raised by later agreement, and large amounts of defense funding passed outside the caps altogether.

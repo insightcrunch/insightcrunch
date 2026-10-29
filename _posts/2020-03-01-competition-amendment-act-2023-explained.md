@@ -9,7 +9,7 @@ excerpt: "Competition Amendment Act 2023 explained: the deal value threshold, pe
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 80
 author: "natalie-webb"
-last_updated: 2020-03-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Competition Amendment Act 2023 is easiest to misunderstand in a single sentence, and the sentence most often used for it is wrong. The sentence says that in 2023 India rewrote its competition law. In truth the Competition (Amendment) Act 2023, Act 9 of 2023, changed the parent statute in four distinct waves spread across sixteen months, and an adviser who treats the whole package as law from the date of assent, 11 April 2023, will give wrong advice on mergers, on penalties and on procedure. The amendment is a trail, not an event, and this article walks the trail in the order in which the changes took legal effect.

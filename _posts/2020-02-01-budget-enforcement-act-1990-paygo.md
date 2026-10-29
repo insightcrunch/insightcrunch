@@ -9,7 +9,7 @@ excerpt: "Budget Enforcement Act replaced deficit targets with caps on appropria
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 100
 author: "patrick-dunn"
-last_updated: "2020-02-01"
+last_updated: 2026-10-29
 lang: en
 ---
 ## The Statute That Stopped Chasing the Deficit

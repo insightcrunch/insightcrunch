@@ -9,7 +9,7 @@ excerpt: "The Consumer Protection Act 1986 explained: the three-tier forums, the
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 89
 author: "deepika-joshi"
-last_updated: 2020-11-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Consumer Protection Act 1986 did something no Indian statute had done before it: it built a court-like machine that an ordinary buyer could operate without a lawyer, without a court fee proportionate to the claim, and without waiting a decade for a decree. In thirty-one sections it created three tiers of redressal agencies, declared six consumer rights, defined the wrongs a buyer could complain about, and listed the reliefs a forum could grant. What it did not create was a regulator. No official under the 1986 Act could investigate a trade practice on his own motion, order a product off the shelves across the country, penalise a misleading advertisement, or mediate a dispute by statutory authority. For thirty-three years, Indian consumer protection consisted of individual complaints decided one at a time, after the harm had already been done.

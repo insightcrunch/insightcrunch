@@ -9,7 +9,7 @@ excerpt: "Extradition Act 1962 explained: dual criminality, the magistrate inqui
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2022-01-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Extradition Act 1962 is the statute that decides whether a person found in India may be handed over to a foreign State for trial or punishment, and it is equally the statute under which India asks a foreign State to hand a person back. Almost every public misunderstanding of extradition begins by collapsing those two directions into one, and by treating the diplomatic request as if it were the decision. Neither is accurate. The Act, cited as Act 34 of 1962, creates a government to government request, a judicial inquiry in the State where the person is found, and a final executive decision that may be taken only after the judicial stage has run its course and only within restrictions that the statute itself imposes. In both directions, the court in the requested State applies the law and the evidential standards of that State. That single structural fact explains more about the record of extradition involving India than any account centred on diplomatic goodwill or diplomatic friction, and it is the thread that runs through every section of this article.

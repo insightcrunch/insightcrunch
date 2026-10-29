@@ -9,7 +9,7 @@ excerpt: "Bihar Mandal politics operates as a three-party architecture of the RJ
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2020-01-12
+last_updated: 2026-10-29
 lang: en
 ---
 Bihar Mandal politics presents a puzzle that the familiar contest between two men cannot explain. Between March 1990 and January 2024, the government of Bihar was constructed six separate times out of recombinations of the same three parties: the Rashtriya Janata Dal, the Janata Dal (United) and the Bharatiya Janata Party. Twice the Janata Dal (United) governed with the Bharatiya Janata Party and then broke with it; twice it governed with the Rashtriya Janata Dal and then broke with that party instead; and on each occasion the excluded third party, never a new entrant, waited as the principal opposition and returned to office at the next recombination. A politics organised around two personalities should not behave this way. A politics organised as a three-party architecture, in which each party rests on a distinct social substrate and government is always a pairing drawn from three, behaves exactly this way. That is the claim defended in this article.

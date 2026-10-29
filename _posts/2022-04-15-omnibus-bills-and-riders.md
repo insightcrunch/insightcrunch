@@ -9,7 +9,7 @@ excerpt: "Omnibus bills and riders explained: how packaged spending measures for
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 105
 author: "robert-quinn"
-last_updated: "2022-04-15"
+last_updated: 2026-10-29
 lang: en
 ---
 The annual appropriations process was built to run as twelve separate bills. Under the framework set by the Congressional Budget Act of 1974, effective for fiscal 1977, each of the twelve bills was to be enacted on its own before the fiscal year opened on October 1, so that each part of the federal government received its funding through a measure that had been reported, debated, and passed as a distinct piece of legislation. The record of that design is a record of rare completion. The Congressional Research Service counts only four years since fiscal 1977 in which all of the regular appropriations acts were enacted by the start of the fiscal year: fiscal 1977, fiscal 1989, fiscal 1995, and fiscal 1997. In every other year, some or all of the twelve bills missed the deadline, and the work of funding the government fell to substitute vehicles that combined unfinished business into a single enactment.

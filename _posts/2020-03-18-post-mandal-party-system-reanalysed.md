@@ -9,7 +9,7 @@ excerpt: "The post-Mandal party system invites three competing characterisations
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2020-03-18
+last_updated: 2026-10-29
 lang: en
 ---
 The post-Mandal party system is the most argued-over object in the study of Indian democracy, and the argument has produced three major readings that rarely meet on the same page. Yogendra Yadav reads the decades after 1990 as a deepening of democracy itself, a third wave in which citizens placed lowest in the caste order entered electoral politics as principals rather than as clients. Pradeep Chhibber reads the same decades as an institutional unravelling, the fragmentation of a once integrated party order into state-sized pieces that no national institution successfully reassembled for a quarter century. Christophe Jaffrelot reads them as the terrain on which Hindu nationalist mobilisation converted upper-caste anxiety and plebeian assertion into the Bharatiya Janata Party's long ascent. This article defends one claim against the habit of choosing among the three: the three readings are complementary characterisations of a single system, because each one answers a different question about it. Yadav asks what changed for the governed, and answers with democratic content. Chhibber asks what changed for the architecture of competition, and answers with fragmentation. Jaffrelot asks what changed for the strategy of the most successful competitor, and answers with mobilisation. A reading that forces these into a single contest mistakes the map's three layers for three rival maps.

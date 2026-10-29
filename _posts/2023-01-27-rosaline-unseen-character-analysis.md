@@ -9,7 +9,7 @@ excerpt: "Rosaline never speaks or appears, yet Romeo's love for her opens the p
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2023-01-27
+last_updated: 2026-10-29
 lang: en
 ---
 Rosaline is the most consequential person in Verona who never sets foot on its stage. She has no lines, no entrance, no exit, no costume, and no actor. What she has is a name, spoken a handful of times by other people, a place on a guest list, a reputation for chastity reported at second hand, and a face assembled once, in mockery, out of a list of body parts. Everything the audience knows about her arrives as somebody else's sentence. Yet the whole machine of the tragedy is set in motion by her refusal, measured against her replacement, and judged, in the Friar's courtroom of a cell, by the speed with which she was dropped. Remove her mentions and the play loses its opening weather, its reason for the feast, its first great joke, and its sharpest piece of moral evidence. Keep them, in their exact order and their exact scarcity, and they form a designed sequence that this article catalogues in full.

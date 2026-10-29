@@ -9,7 +9,7 @@ excerpt: "The Mandal moment is the decisive reframe of the post-Independence set
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 78
 author: "jason-mckenzie"
-last_updated: 2020-02-14
+last_updated: 2026-10-29
 lang: en
 ---
 On 7 August 1990, Prime Minister Vishwanath Pratap Singh stood in the Lok Sabha and announced that his government would implement the central recommendation of a report that had waited ten years in the files of the Union government: reservation of 27 percent of posts under the Government of India and its public undertakings for the Other Backward Classes. The Mandal Commission's decisive moment in Indian politics is usually dated from that announcement, and the dating is too narrow. The moment runs from the Commission's constitution in December 1978 to the Supreme Court's judgment in Indra Sawhney v Union of India on 16 November 1992, and its substance is still argued over, because the three most serious accounts of what happened in those fourteen years do not merely differ in emphasis. They disagree about what kind of event Mandal was.

@@ -9,7 +9,7 @@ excerpt: "The Tribunals Reforms Act explained: the tribunals it abolished, the t
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 90
 author: "kavita-sharma"
-last_updated: 2021-08-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Tribunals Reforms Act 2021 did two things of permanent consequence and one thing that could not last. It abolished a set of appellate tribunals and sent their work to the High Courts and the Commercial Courts, and that part of it stands. It wrote a single code of appointment, tenure and service conditions for the tribunals that remained, and that part re-enacted, in a fresh statute, provisions that the Supreme Court had struck down as unconstitutional one month earlier. In November 2025 the Court struck them down again, and in doing so stated, with a clarity the subject had been waiting a decade for, the rule that separates a lawful legislative answer to a judgment from an unlawful one. A legislature may remove the basis on which a judgment rests. It may not simply pass the same provision again.

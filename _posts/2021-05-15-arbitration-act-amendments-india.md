@@ -9,7 +9,7 @@ excerpt: "Arbitration Act amendments in 2015, 2019 and 2021 rebuilt appointments
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 81
 author: "michael-brooks"
-last_updated: 2021-05-15
+last_updated: 2026-10-29
 lang: en
 ---
 Three times in six years Parliament rewrote parts of the Arbitration and Conciliation Act 1996 (Act 26 of 1996), and a fourth rewrite has been circulated in draft for consultation. The Arbitration Act amendments of 2015, 2019 and 2021 are usually described as one continuous reform movement towards speed, neutrality and institutional arbitration. Read as a trail rather than as a slogan, they tell a less tidy story. The amendment of 2015 changed the daily behaviour of courts and tribunals and largely worked. The amendment of 2019 built an institutional architecture, a council, a grading regime and an appointment scheme, and then left the centre of that architecture uncommenced for the whole of its existence. The amendment of 2021 corrected one excess of 2019 by deleting a qualification schedule that had excluded foreign practitioners, while restoring, for a defined class of cases, an unconditional stay on enforcement that the 2015 reform had abolished. Between the second and third amendments sits a judgment that struck down a provision of the 2019 Act as manifestly arbitrary, an event without parallel elsewhere in this statute's history.

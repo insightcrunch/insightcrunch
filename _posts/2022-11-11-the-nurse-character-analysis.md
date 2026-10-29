@@ -9,7 +9,7 @@ excerpt: "The Nurse is Juliet's bawdy, loving substitute mother, but her pragmat
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 71
 author: "sophia-turner"
-last_updated: 2022-11-11
+last_updated: 2026-10-29
 lang: en
 ---
 The first thing to understand about the Nurse in Romeo and Juliet is that the tragedy gives its most expansive memory, its earthiest speech, and its warmest physical affection to a servant. She enters the Capulet household scenes carrying a whole buried life: a dead husband, a dead daughter, a breast that fed the heroine, and a store of anecdote that no aristocratic character in Verona can match. The lords and ladies of the feud speak in the compressed idiom of honour, alliance, and command. She speaks in the idiom of the body, of teething and weaning, of falls and bruises, of appetite and grief, and the contrast is structural rather than decorative. Strip her scenes away and the drama loses its only sustained account of what a childhood in that house felt like from inside it. Restore them, and a figure the popular memory files as comic relief becomes the character through whom the audience learns how love, service, and survival actually work at the lower level of a great household.

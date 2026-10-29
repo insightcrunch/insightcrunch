@@ -9,7 +9,7 @@ excerpt: "Benvolio is the steady peacemaker of Verona, the one cousin who tries 
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 69
 author: "natalie-webb"
-last_updated: 2022-12-30
+last_updated: 2026-10-29
 lang: en
 ---
 Benvolio is the most reasonable man in Verona, and the tragedy treats that reasonableness as a quality it can use for exactly half its length. He is the first friend the audience meets, the counselor who diagnoses Romeo's lovesickness and prescribes its cure, the witness whose sworn account of the street duel shapes the Prince's sentence, and then, once his report is delivered in Act 3, he is gone: no death, no dismissal, no farewell line, no place in the closing reckoning at the tomb. The standard explanation treats the exit as an accident of drafting or transmission. The better verdict, argued through this study, is that the disappearance is the meaning. Benvolio embodies a particular civic virtue, the wish for peace backed by an honest tongue, and the play removes him at the precise moment that virtue stops working. While he is on stage, somebody in Verona still believes that swords can be parted by words. After he leaves, nobody with a public voice believes it again, and the catastrophe proceeds without a single temperate witness to slow it down.

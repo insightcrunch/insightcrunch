@@ -9,7 +9,7 @@ excerpt: "The laws that shape India's courts explained: how the Constitution, or
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 92
 author: "anita-das"
-last_updated: 2021-04-01
+last_updated: 2026-10-29
 lang: en
 ---
 Ask a litigant who makes the rules of the contest they are fighting and the answers come quickly and wrongly. The Constitution is named, as if a single text of 1950 settled how many judges hear a case, what fee a plaint carries, who may stand up and argue, and what happens to a party who disobeys the order at the end of it. Almost none of that is in the Constitution. The laws that shape India's courts are a layered construction in which the constitutional text builds the frame, ordinary statutes supply most of the working parts, and the courts themselves write a large share of the procedure they follow. A reader who cannot say which layer answers a given question will look for the answer in the wrong instrument, quote the wrong authority, and misunderstand why reform proposals so often fail: they are addressed to a layer that does not control the question.

@@ -9,7 +9,7 @@ excerpt: "The Arbitration and Conciliation Act explained in full: how an arbitra
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2021-05-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Arbitration and Conciliation Act 1996, Act 26 of 1996, governs how private dispute resolution works in India, and its central bargain is easy to state and hard to keep. The parties choose their judge, their procedure and their timetable, and in return the court promises to stay out of the way until the award arrives. The promise is qualified at every stage by a small set of gates through which a court may still enter: to refer the parties to their bargain, to protect the subject matter while the tribunal forms, to appoint arbitrators when the agreed machinery fails, to set aside an award for defects of process rather than of reasoning, and to enforce the award as if it were a decree of the court itself. Every section of the Act is best read as an allocation of power between the parties, the tribunal and the court, and every major dispute about the Act is a dispute about where one gate should sit. Two consequences follow from that design and they govern everything that follows in this account. A challenge to an award is not an appeal, and the filing of a challenge does not stop enforcement. A reader who holds those two propositions, and understands the gates that qualify them, holds the working model of Indian arbitration.

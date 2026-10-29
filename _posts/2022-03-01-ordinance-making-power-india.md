@@ -9,7 +9,7 @@ excerpt: "Ordinances and Article 123 explained: the conditions for promulgation,
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 90
 author: "kevin-reeves"
-last_updated: 2022-03-01
+last_updated: 2026-10-29
 lang: en
 ---
 The ordinance is the point at which the Indian Constitution lets the executive make law. Article 123 empowers the President, when Parliament is not in session and circumstances require immediate action, to promulgate an instrument that carries the same force and effect as an Act of Parliament. Article 213 confers the corresponding power on a Governor in relation to a State legislature, on narrower terms. Almost everything written about the subject in public discussion captures a part of this arrangement and misses the discipline of the whole. The six weeks that dominate the commentary are counted from the wrong event. An emergency is treated as the condition when the text imposes none. The three restrictions that separate the Governor's power from the President's are listed rarely, though they are among the most examinable propositions in Indian constitutional law. This article states the power exactly: its two textual sources, the condition on which it may be exercised, the arithmetic that bounds its life, the limits on its content, the identity of the authority that in substance wields it, and the line of decisions through which the Supreme Court has fixed what the power is and what it is not.

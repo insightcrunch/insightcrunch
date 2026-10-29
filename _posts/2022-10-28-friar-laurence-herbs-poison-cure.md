@@ -9,7 +9,7 @@ excerpt: "Friar Laurence's speech on herbs that heal and kill sets up the play's
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2022-10-28
+last_updated: 2026-10-29
 lang: en
 ---
 The first light of the second day finds Friar Laurence alone in his garden, a basket on his arm, gathering plants before the sun has cleared the horizon. In Romeo and Juliet this is the only scene that opens with a man talking to the earth, and the speech he delivers over the weeds and flowers in his basket is the closest thing the tragedy offers to a statement of its own philosophy. He has to work early, he explains, because the plants must be gathered while the dew is on them, and the observation that follows from that labour carries the whole weight of the action to come. Within a single plant, he says, poison and medicine live side by side. Nothing in nature is only good or only bad. Everything depends on use, on proportion, and on the will of the hand that gathers, prepares, and administers the dose.

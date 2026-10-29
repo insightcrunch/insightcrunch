@@ -9,7 +9,7 @@ excerpt: "Citizenship Act amendments from 1986 to 2019 traced: the staged narrow
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 81
 author: "patrick-dunn"
-last_updated: 2021-10-01
+last_updated: 2026-10-29
 lang: en
 ---
 The citizenship amendments are usually argued about as if they were a single event, and the argument usually fastens on the last of them. Read in sequence, the amendments to the Citizenship Act, 1955 tell a longer and more precise story. Between 1986 and 2015 Parliament amended the Act five times in ways that matter for status, and a sixth amendment in 2019 closed the sequence. Each amendment can be dated exactly, each changed a small number of identified provisions, and the changes point in a direction that is visible only when the whole trail is laid out together. The direction is double. Within India, automatic entitlement narrowed step by step: citizenship by birth, which the original Act granted on the fact of birth alone, became conditional first on one parent being a citizen and then on a stricter two-part test, while a defined category of person, the illegal migrant, was created and barred from every route into citizenship. Outside India, the movement ran the other way: a documentary status for persons of Indian origin abroad was created in 2003, widened in 2005 and consolidated in 2015, so that the same decades that made the statute harder to enter from inside made it more accommodating to the diaspora outside.

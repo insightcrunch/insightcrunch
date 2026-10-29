@@ -9,7 +9,7 @@ excerpt: "The Citizenship Act 1955 sets out who is an Indian citizen by birth, d
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2021-09-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Citizenship Act 1955 is the statute that answers, for every person who claims a connection with India, the most basic question a legal system can ask: is this person one of ours? The Citizenship Act 1955, enacted as Act 57 of 1955 and brought into force on 30 December 1955, lays down five routes by which Indian citizenship is acquired, the conditions on which each route operates, the circumstances in which citizenship ends, and the machinery by which disputed questions of status are decided. Almost every public argument about citizenship in India, whether it concerns a birth certificate in a district town, a cardholder living abroad, or a special provision for one State in the north east, is at bottom an argument about the meaning of one of its sections. This pillar reads the Act section by section, states each route in the terms the statute uses, and separates the enacted scheme from the changes that later amendments made to it, because the single most common error in accounts of this field is to describe one period's rule as though it had always been the rule.

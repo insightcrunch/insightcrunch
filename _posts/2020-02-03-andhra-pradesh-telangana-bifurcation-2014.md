@@ -9,7 +9,7 @@ excerpt: "The Andhra Pradesh Telangana bifurcation completed an unfinished reorg
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 71
 author: "marcus-hall"
-last_updated: 2020-02-03
+last_updated: 2026-10-29
 lang: en
 ---
 The Andhra Pradesh Telangana bifurcation, effected on 2 June 2014 by the Andhra Pradesh Reorganisation Act, is usually explained in one of two ways. The first explanation is a movement story: a region that believed itself wronged for half a century organised, marched, struck and fasted until the Union conceded a state. The second is an arithmetic story: a Congress leadership in New Delhi, facing electoral ruin in 2013, calculated that conceding Telangana would rescue its prospects in one region even at the price of the other. Both stories record real events, and both miss the structure that gave those events their force. The bifurcation is better read as a constitutional completion. The unified Andhra Pradesh created on 1 November 1956 was assembled over the recorded misgivings of one of its constituent regions, under written safeguards that the unified state's politics then failed to honour; the Act of 2014 closed that unfinished transaction, and the two states that emerged have since developed along visibly divergent political trajectories that the joint architecture had suppressed for fifty-eight years. That is the claim defended here.

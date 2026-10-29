@@ -9,7 +9,7 @@ excerpt: "The Citizenship Amendment Act 2019 debate turns on a short text: what 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 80
 author: "kavita-sharma"
-last_updated: 2021-10-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Citizenship Amendment Act 2019 debate is conducted, on most days and in most places, about a statute that neither side quite describes. Supporters defend a measure of relief for persecuted minorities, stated at a level of generality the text does not use. Opponents attack a measure of exclusion aimed at one community, stated at a level of generality the text does not use either. Between those two descriptions sits a short amending Act of five sections, the Citizenship (Amendment) Act, 2019, Act 47 of 2019, which received the assent of the President on 12 December 2019 and was brought into force on 10 January 2020. This article sets out what that Act provides, element by element, and what it does not provide. It then states the case made in its support and the case made against it, each at full strength and in the terms its own proponents use, and it records the procedural position of the constitutional challenge that will decide between the legal parts of those cases. It adopts no position of its own, and a reader who finishes it should be able to say which side the writer holds only by guessing.

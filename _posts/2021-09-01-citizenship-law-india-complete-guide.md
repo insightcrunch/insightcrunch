@@ -9,7 +9,7 @@ excerpt: "Citizenship law in India explained through Part II of the Constitution
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 90
 author: "maria-santos"
-last_updated: 2021-09-01
+last_updated: 2026-10-29
 lang: en
 ---
 Citizenship law in India is not one statute, and the first service a guide can perform is to stop a reader from looking for it in one place. The field is a division of labour between a constitutional Part that settled who was a citizen on a single day in 1950 and then handed the subject to Parliament, a citizenship statute that has governed acquisition and loss since 1955, a separate statute book that regulates everyone who is not a citizen, a travel statute that governs the documents a citizen carries out of the country, and one conspicuous absence: no statute at all for the person who has fled a home country and cannot return to it. A reader who understands that division can answer the question this field actually turns on, which is never simply whether a person is a citizen, but which statute answers which question about that person, before which authority, and on what evidence.

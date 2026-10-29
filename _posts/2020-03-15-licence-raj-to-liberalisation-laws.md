@@ -9,7 +9,7 @@ excerpt: "The licence raj to liberalisation story in statute: 1991 ended control
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 82
 author: "kavita-sharma"
-last_updated: 2020-03-15
+last_updated: 2026-10-29
 lang: en
 ---
 The standard account of Indian liberalisation is told in economic language: growth rates, trade shares, the price of goods in shops. Told in legal language, the same period looks different and stranger. The licence raj, a regime of control that had been built statute by statute over four decades, was dismantled between 1991 and 2011, yet very little of the dismantling was done by the method a law student would expect. Parliament did not assemble in July 1991 and repeal the architecture of control. Instead, a statement of industrial policy read out in Parliament on 24 July 1991, and a series of notifications issued under powers the control statutes themselves contained, ended the controls in practice. The statute book was then adjusted to match the new reality, slowly, unevenly, and in the most emblematic case not at all. The Industries (Development and Regulation) Act, 1951, the statute that created industrial licensing, has never been repealed. It stands in force, its licensing chapters largely disapplied by exemption, nearly three decades after licensing itself ended.

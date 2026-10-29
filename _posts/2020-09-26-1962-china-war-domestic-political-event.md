@@ -9,7 +9,7 @@ excerpt: "The China war works as a domestic political event through the Henderso
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 69
 author: "marcus-hall"
-last_updated: 2020-09-26
+last_updated: 2026-10-29
 lang: en
 ---
 The 1962 China war lasted thirty-two days, from the Chinese offensives of 20 October 1962 to the unilateral ceasefire Beijing announced on 21 November 1962, yet the war's longest consequences ran not along the Himalayan frontier but through the institutions of the Indian republic in Delhi. Read as a domestic political event, the war removed a defence minister in mid-battle, produced an official inquiry whose report the state has kept classified for six decades, pushed the ruling Congress into the Kamaraj Plan's wholesale resignation of senior ministers and chief ministers, and started the weakening of Jawaharlal Nehru that ended with his death on 27 May 1964 and a contested succession. This article defends that reading on the primary record: Nehru's statements to the Lok Sabha in October and November 1962, the cabinet announcement of 31 October 1962, the Henderson Brooks Bhagat inquiry of 1963, and the Congress Working Committee decisions of August 1963.

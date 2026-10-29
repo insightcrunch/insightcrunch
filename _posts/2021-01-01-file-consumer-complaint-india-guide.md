@@ -9,7 +9,7 @@ excerpt: "How to file a consumer complaint in India: the right commission, the t
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 85
 author: "anita-das"
-last_updated: 2021-01-01
+last_updated: 2026-10-29
 lang: en
 ---
 A person who decides to file a consumer complaint in India usually starts in the wrong place. The grievance feels like the case: the washing machine that failed within its warranty, the flat whose possession never came, the insurance claim repudiated on a ground the policyholder had never heard of, the hospital bill that bears no relation to the estimate. Yet a complaint before a consumer commission is rarely lost at the hearing, on the strength of the grievance. It is lost at the doorway, on one of four threshold questions that have nothing to do with how badly the trader or the service provider behaved, and every one of those questions can be answered correctly before a single page is filed.

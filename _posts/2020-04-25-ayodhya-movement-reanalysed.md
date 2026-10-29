@@ -9,7 +9,7 @@ excerpt: "The Ayodhya movement's religious-political-mobilisation substance trac
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2020-04-25
+last_updated: 2026-10-29
 lang: en
 ---
 The Ayodhya movement is usually told as an election story, a sequence of campaigns whose meaning is exhausted by the seat counts that followed them, yet the movement that carried a disputed shrine in a provincial town to the centre of Indian politics was built out of religious material long before it was harvested for votes. Its builders consecrated bricks in hundreds of thousands of villages, marched sacred water across state boundaries, persuaded assemblies of monks and ascetics to name one plot of earth as the priority of an entire faith, and persuaded millions of households to treat a television serial and a cassette sermon as participation in a sacred cause. This article defends one claim about that record. The movement's substance lay in named organisational and theological choices, made by identifiable people on identifiable dates between 1964 and 1992, and those choices explain the movement's scale in a way that neither a tally of elections nor an account of party machinery can supply on its own.

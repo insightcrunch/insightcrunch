@@ -9,7 +9,7 @@ excerpt: "Capulet's explosion at Juliet, hang thee, young baggage, is among the 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 2022-12-09
+last_updated: 2026-10-29
 lang: en
 ---
 Capulet's rage against Juliet in Act 3 Scene 5 is the most violent speech in Romeo and Juliet, and it is violent in a specific way that a close reading can recover. "Hang thee, young baggage! Disobedient wretch!" (3.5.160) is not the loss of a temper. It is the passing of a sentence. Across roughly sixty lines, in the Arden Third Series text edited by René Weis, the father moves through disbelief, mockery, ultimatum, curse, and legal disownment, and at each stage the language does a colder thing than the stage before it. The verdict of this reading is stated plainly at the outset: the tirade is an instrument of property law spoken aloud. A daughter who will not be given away is reclassified, word by word, as waste to be thrown out of the house, and the speech's imagery of baggage, carrion, and disease is the paperwork of that reclassification. What Verona calls a wedding is exposed, in the father's own mouth, as a transfer of goods, and the rage is the sound of the transfer being refused.

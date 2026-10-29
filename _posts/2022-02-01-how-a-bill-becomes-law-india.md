@@ -9,7 +9,7 @@ excerpt: "How a Bill becomes law in India explained stage by stage: drafting, re
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 91
 author: "kavita-sharma"
-last_updated: 2022-02-01
+last_updated: 2026-10-29
 lang: en
 ---
 Understanding how a Bill becomes law in India requires separating two things that civics accounts habitually merge: the steps the Constitution commands, and the steps that exist only because Parliament, the Cabinet or the government of the day chooses to observe them. A Bill travels from a policy decision inside a ministry to a printed Act in the Gazette of India, and along that road it passes through drafting, Cabinet approval, introduction, possible committee scrutiny, three readings in each House, resolution of any disagreement between the Houses, assent, publication and commencement. Of those stages, the Constitution regulates only the middle portion, from introduction to assent, and even there it regulates with a light hand. It prescribes no period within which a Bill must be drafted, none within which a committee must report, none within which the second House must act on an ordinary Bill, and none within which the President or a Governor must decide a Bill presented for assent. The single deadline in the entire process is the fourteen days allowed to the Council of States for returning a Money Bill, a deadline that binds the chamber with the least power over that class of Bill. Every other stage can absorb any amount of time without any provision being breached.

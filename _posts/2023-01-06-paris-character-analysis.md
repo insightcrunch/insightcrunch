@@ -9,7 +9,7 @@ excerpt: "Paris is the suitable, well-born match every parent wants for Juliet, 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2023-01-06
+last_updated: 2026-10-29
 lang: en
 ---
 Paris is the only major figure in Romeo and Juliet whom the audience is asked to wish out of the way without being given a single fault to justify the wish. He is young, noble, wealthy, courteous, and sincere. He asks a father's permission before he courts a daughter. He keeps his temper under provocation, speaks of the woman he wants with consistent tenderness, mourns her with public grief when he believes her dead, and dies keeping a vigil of flowers at her tomb. Against this record the play sets one disqualifying fact: Juliet loves someone else. The verdict of this study is that the imbalance is deliberate and load-bearing. Shakespeare needed the obstacle to be decent, because the tragedy being built is not a contest between a good lover and a bad one. It is a collision between two complete and incompatible systems for arranging a marriage, one conducted by negotiation between households and one conducted by choice between the young people themselves, and the collision only registers as tragedy when both systems can field a champion the audience respects. A villainous Paris would let the audience off cheaply. A decent Paris makes the audience complicit, and the discomfort of rooting against an innocent man is one of the play's most carefully engineered effects.

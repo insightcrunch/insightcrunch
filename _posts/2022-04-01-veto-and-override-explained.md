@@ -9,7 +9,7 @@ excerpt: "The veto override is the Constitution's answer to a presidential veto:
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 115
 author: "robert-quinn"
-last_updated: "2022-04-01"
+last_updated: 2026-10-29
 lang: en
 ---
 A measure that has passed the House of Representatives and the Senate in identical form arrives, at presentment, at a fork that a single constitutional sentence built in advance. Article I, Section 7 of the Constitution assigns every presented bill one of a small set of endings, and the assignment depends on acts and conditions that the sentence specifies with unusual completeness. Signature makes the measure law. Return with objections sends the measure back to the chamber where the measure originated, where the objections enter the journal at large and reconsideration begins under a threshold of two thirds. Silence produces opposite results on opposite conditions, because inaction across ten days, Sundays excepted, enacts a bill that Congress could have received back and defeats a bill that adjournment placed beyond return. The mechanism decides outcomes before any argument about a particular measure begins, since the clock, the journal, and the threshold are fixed features of the procedure rather than terms open to negotiation in a given contest.

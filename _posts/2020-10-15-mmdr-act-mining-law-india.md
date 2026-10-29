@@ -9,7 +9,7 @@ excerpt: "The MMDR Act 1957 explained in full: the Union declaration, the major 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2020-10-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Mines and Minerals (Development and Regulation) Act, 1957 is the statute that decides who may dig in India, on what terms, at what price and under whose permission. It is Act 67 of 1957, and it came into force on 1 June 1958. Almost every question that reaches a lawyer, a state government, a mining company or a village affected by a pit begins inside its pages: whether a concession exists at all, whether the grant was made by the right government, whether the money demanded is royalty or something else, and whether a tax imposed on top of royalty is one the Constitution permits. The Act is short beside the subjects it governs, and its brevity is deceptive, because three different legal orders meet inside it. The first is a constitutional order, which divides power over minerals between the Union and the States and which the Act rearranges by means of a single declaration. The second is an administrative order, which converts the subsoil into concessions with names, periods, areas and conditions. The third is a fiscal order, which prices extraction through royalty, dead rent and two statutory funds, and which a nine judge Bench of the Supreme Court substantially redrew in July 2024.

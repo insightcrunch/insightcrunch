@@ -9,7 +9,7 @@ excerpt: "The caste-census debate in India operates through three substantive po
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2020-04-03
+last_updated: 2026-10-29
 lang: en
 ---
 Every argument about reservation in India eventually runs into a missing number. The Other Backward Classes hold 27 percent of central government posts and central educational seats under the settlement that followed the Mandal Commission, yet no census since 1931 has counted how large a share of the population the backward classes form, and the 27 percent itself was fixed in 1980 by arithmetic performed on a census taken in 1931. The caste census debate is the argument about whether the Indian state should repair that missing number, and the claim defended in this article is that the debate operates through three substantive positions on demographic and political evidence: a demographic-justice position that wants reservation rationalised against counted population shares, an architectural-stability position that defends the layered compromises through which reservation has been built since 1932, and a federal-implementation position that holds caste counting to be legitimate work for state governments rather than for the decennial census of the Union. Each position answers a different question, each rests on a different body of evidence, and the state surveys published in Bihar in October 2023, in Karnataka through the Hegde Commission report of April 2025, and in Telangana after the survey of November 2024 test all three at once.

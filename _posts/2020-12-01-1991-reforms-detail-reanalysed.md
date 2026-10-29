@@ -9,7 +9,7 @@ excerpt: "The reforms in detail, taken from their own texts: a two-step devaluat
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2020-12-01
+last_updated: 2026-10-29
 lang: en
 ---
 The 1991 reforms in detail are usually told as an atmosphere: a crisis, a collapse of reserves, a new government, a famous budget. Told that way, July 1991 becomes weather, something that happened to India rather than something named officials did, clause by clause, on dated paper. The documents tell a tighter story. Between 1 July 1991 and 24 July 1991, a government eleven days old when the sequence opened executed five distinct instruments: the Reserve Bank of India lowered the rupee against its currency basket by roughly 9 per cent on 1 July and by roughly 11 per cent more on 3 July; the Ministry of Commerce announced a trade policy on 4 July that replaced import licensing with tradable eximscrips; a gold operation already under way shipped 47 tonnes of the Reserve Bank's stock to the Bank of England in July after an earlier sale of 20 tonnes to the Union Bank of Switzerland; and on a single day, 24 July 1991, the government laid a Statement on Industrial Policy before Parliament that abolished industrial licensing for all but eighteen industries, hours before Finance Minister Manmohan Singh presented a budget that cut the peak customs duty from above 300 per cent to a ceiling of 150 per cent and quoted Victor Hugo to the Lok Sabha. Each instrument had an author, a legal form and an operative text. Each can be read. This article reads them.

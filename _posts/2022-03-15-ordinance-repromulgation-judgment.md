@@ -9,7 +9,7 @@ excerpt: "Re-promulgation of ordinances after Krishna Kumar Singh: the four hold
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 80
 author: "anita-das"
-last_updated: 2022-03-15
+last_updated: 2026-10-29
 lang: en
 ---
 The judgment in Krishna Kumar Singh v State of Bihar, reported at (2017) 3 SCC 1 and delivered on 2 January 2017, is the point at which the Supreme Court stopped merely deploring the re-promulgation of ordinances and instead rearranged the legal consequences of governing by ordinance. A bench of seven judges held four things. Re-promulgation of an ordinance is a fraud on the Constitution and a subversion of the democratic legislative process. The satisfaction of the President or the Governor that immediate action is necessary is open to judicial review on settled and limited grounds. The laying of an ordinance before the legislature is a mandatory constitutional obligation, and a failure to lay is a serious constitutional infraction. And, in the holding that changed settled law, an ordinance that has ceased to operate does not by default leave behind rights, privileges, obligations and liabilities that survive it: survival is a question of construction, answered case by case through a test of public interest and constitutional necessity. The first three holdings restated and hardened doctrine that had been available since D.C. Wadhwa in 1987. The fourth displaced two Constitution Bench decisions, one from 1962 and one from 1985, which had treated an ordinance on the analogy of a temporary Act whose effects endure after its expiry.

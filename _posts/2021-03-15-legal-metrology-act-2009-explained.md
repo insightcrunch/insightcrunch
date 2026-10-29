@@ -9,7 +9,7 @@ excerpt: "The Legal Metrology Act 2009 regulates the measure of goods and the de
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 92
 author: "christopher-wells"
-last_updated: 2021-03-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Legal Metrology Act 2009 is the statute behind the most common consumer grievance in Indian retail: the feeling of having been charged too much, measured too little, or told too late what a package contained. It is also one of the most misunderstood statutes on the book. A shopper who finds a bottle of oil priced higher than an identical bottle in another shop tends to blame this Act, and a shopkeeper who is caught selling above the printed price tends to blame it too, and both are usually pointing at the wrong target. The statute does something narrower and, in its way, more demanding. It fixes the units in which India measures, it polices the instruments that do the measuring, and it prescribes what a package must say about itself before it may be sold. What it does not do, at any point, is decide what a lawful price for a kilogram of anything ought to be.

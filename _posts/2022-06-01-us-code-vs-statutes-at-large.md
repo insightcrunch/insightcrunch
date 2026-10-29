@@ -9,7 +9,7 @@ excerpt: "The US Code vs Statutes at Large distinction decides which text a cour
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 85
 author: "ryan-walsh"
-last_updated: "2022-06-01"
+last_updated: 2026-10-29
 lang: en
 ---
 A researcher with a question about federal law opens the United States Code. The instinct is universal and justified: the Code gathers the general and permanent law of the United States under subject headings, integrates two centuries of amendments into readable text, and answers in minutes a question that the raw record of enactment would take days to yield. Clients, courts, agencies, and students all read federal law in that arranged form, and the citation in nearly every brief and opinion points to a title and section of the Code. The comparison named US Code vs Statutes at Large therefore sounds, at first hearing, like a choice between two editions of the same book, a bound set for the library shelf and a working set for the desk.

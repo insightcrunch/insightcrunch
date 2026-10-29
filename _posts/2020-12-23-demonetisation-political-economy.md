@@ -9,7 +9,7 @@ excerpt: "The November demonetisation of the Rs 500 and Rs 1000 notes is read he
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2020-12-23
+last_updated: 2026-10-29
 lang: en
 ---
 The demonetisation of 8 November 2016, read as political economy, begins from a fact no monetary statistic can hold: at eight in the evening the Prime Minister of India, Narendra Modi, went on television and extinguished, from midnight, the legal tender status of the Rs 500 and Rs 1000 banknotes in which roughly 86 percent of the country's currency by value was held. Some Rs 15.44 lakh crore of paper ceased within hours to be money and became, instead, a claim that its holders had fifty days to deposit, exchange or lose. The episode is usually narrated in one of two vocabularies. The first is the vocabulary of monetary technique, in which the event is a currency operation executed well or badly by a central bank. The second is the vocabulary of implementation, in which the event is a vast administrative exercise whose queues, rule changes and printing schedules can be graded. This article defends a third reading, and defends it as the reading that explains the evidence the other two vocabularies leave behind. Demonetisation operated as political economy: a sovereign act whose design, objectives, costs and consequences were set by the distribution of power and interest in the Indian economy, and whose documentary residue, from the Reserve Bank of India's annual reports to the Specified Bank Notes (Cessation of Liabilities) Act of 2017, records a political argument conducted through monetary instruments.

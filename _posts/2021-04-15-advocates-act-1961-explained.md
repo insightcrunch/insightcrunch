@@ -9,7 +9,7 @@ excerpt: "The Advocates Act 1961 created one class of advocates for India, elect
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 91
 author: "michael-brooks"
-last_updated: 2021-04-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Advocates Act 1961, Act 25 of 1961, is the statute that turned a crowd of differently named legal practitioners into one profession. It created a single class of advocates, placed their names on rolls kept by elected Bar Councils, gave those councils charge of admission, standards, legal education and discipline, and reserved a small number of decisions to Parliament itself, among them the fee a new advocate pays to enter the profession.

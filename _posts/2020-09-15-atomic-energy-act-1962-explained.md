@@ -9,7 +9,7 @@ excerpt: "The Atomic Energy Act 1962 explained: how the Central Government took 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
 author: "deepika-joshi"
-last_updated: 2020-09-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Atomic Energy Act 1962 did something no other Indian statute of its generation attempted in quite the same form. It took an entire field of science, industry and strategic policy and placed it, by a single operative provision, in the hands of one actor. Section 3 declared that the Central Government would have power to produce, develop, use and dispose of atomic energy, to carry out research into it, to manufacture the substances and articles the field required, and to control the production and use of the energy itself. Every later question in Indian nuclear law, from who may mine uranium to who may read a document about a reactor, begins as a question about that vesting and about the machinery Parliament built around it. A reader who understands the vesting, and who understands the strange institutional gap at the centre of the framework, understands the Act.

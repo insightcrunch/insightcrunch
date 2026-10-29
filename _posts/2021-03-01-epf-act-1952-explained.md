@@ -9,7 +9,7 @@ excerpt: "The EPF Act 1952 explained: the three schemes, the contribution split,
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 89
 author: "katherine-blake"
-last_updated: 2021-03-01
+last_updated: 2026-10-29
 lang: en
 ---
 Every payslip in the organised sector carries a line that most employees read once and never examine again: a deduction of twelve per cent of wages, matched by the employer, under a statute enacted when the Republic was two years old. The EPF Act 1952 is the legal machinery behind that line. It decides which establishments must run the deduction, how the money is divided between a lump sum savings fund, a monthly pension and a death insurance benefit, what happens when an employer deducts the money and fails to deposit it, and why the balance in the fund stands ahead of almost every other claim when an employer collapses. A member who understands the Act can answer the questions that decide real money: whether the establishment was covered at all, whether the contribution was computed on the right wage base, whether the pension will be reckoned on the wage ceiling or on actual salary, and which of three different funds pays on death in service.

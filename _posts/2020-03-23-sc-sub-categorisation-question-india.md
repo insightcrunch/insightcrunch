@@ -9,7 +9,7 @@ excerpt: "The Davinder Singh verdict allowed SC sub-categorisation, ending a twe
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2020-03-23
+last_updated: 2026-10-29
 lang: en
 ---
 On 1 August 2024 a seven-judge Constitution Bench of the Supreme Court of India decided the SC sub categorisation question that Indian constitutional law had carried unanswered for two decades. In State of Punjab v Davinder Singh, reported as 2024 INSC 562, six judges held that a state may divide the Scheduled Castes named in the Presidential List into sub-groups for reservation, and one judge, Bela M. Trivedi, dissented. The verdict overruled E. V. Chinnaiah v State of Andhra Pradesh, decided on 5 November 2004, which had forbidden the practice entirely. This article defends one claim about that sequence: the twenty years between the two verdicts were a constitutional-architectural deferral, a period in which the architecture of reservation contained a question it could neither answer nor escape, and the 2024 verdict is best understood as the ending of that deferral on stated conditions.

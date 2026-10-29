@@ -9,7 +9,7 @@ excerpt: "The PFRDA Act explained: the pension regulator's powers, the National 
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 92
 author: "kavita-sharma"
-last_updated: 2021-02-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Pension Fund Regulatory and Development Authority Act 2013, which most readers meet under its short name, the PFRDA Act 2013, contains a sentence that defines the whole of modern Indian pension policy and then appears to contradict it. Section 20 of the Act provides that under the National Pension System there shall not be any implicit or explicit assurance of benefits, except a market based guarantee mechanism that the subscriber purchases. The statute therefore forbids the one thing pensioners have always wanted, a promise, and permits only such assurance as the subscriber pays for in the market. Yet within eleven years of the Act coming into force, the Union Cabinet approved an assured payout scheme for government employees inside the same system, with a monthly payment fixed at half of average basic pay for a full career, and the Authority itself wrote the regulations that operate it. This article explains how both things are true at once, and why the reconciliation between them is the most instructive feature of the statute.

@@ -9,7 +9,7 @@ excerpt: "The Puttaswamy nine-judge verdict established privacy as a fundamental
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2020-08-30
+last_updated: 2026-10-29
 lang: en
 ---
 The Puttaswamy 2017 privacy judgment, delivered as Justice K. S. Puttaswamy (Retired) v. Union of India on 24 August 2017, is the verdict in which nine judges of the Supreme Court of India, speaking through six separate opinions and reaching one unanimous result, held that privacy is a fundamental right protected under Article 21 of the Constitution and as an intrinsic part of the freedoms guaranteed by Part III. The bench consisted of Chief Justice J. S. Khehar and Justices J. Chelameswar, S. A. Bobde, R. K. Agrawal, R. F. Nariman, A. M. Sapre, D. Y. Chandrachud, S. K. Kaul and S. Abdul Nazeer. The claim defended in the pages that follow is the claim the record supports most completely: the verdict did far more than recognise a right that earlier benches had left in doubt, because its lasting work was architectural, fixing where the right sits inside the constitutional text, which older authorities stand overruled and to what extent, which test a restriction on the right must pass, and which pattern later benches would follow when the right was carried into new fields.

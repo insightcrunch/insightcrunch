@@ -9,7 +9,7 @@ excerpt: "Lord Capulet first shields Juliet from a hasty match and welcomes Rome
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2022-12-02
+last_updated: 2026-10-29
 lang: en
 ---
 Lord Capulet is the most persistently misread father in Shakespeare, because the two halves of his role are usually quoted as if they belonged to two different men. In Act 1 he shields his daughter from a suitor, telling Paris that she is too young and that her consent must govern any match. In Act 3 he threatens to drag that same daughter to church, to disown her, to leave her to beg and starve in the streets. The standard response is to call the character inconsistent, a gentle parent in the first act and a stock tyrant in the third, and to blame the join on the speed of the plotting. The verdict argued here is the opposite. There is only one Capulet, and the play states his governing principle in his second scene, in the very sentence that seems to prove his tenderness: "My will to her consent is but a part" (1.2.17). His love is real, and it is conditional. It is the love of a great householder for the heir who carries his name, his hopes, and his one remaining future, and it holds exactly as long as her will runs inside the channel of his. The moment her consent is exercised against his choice rather than in ratification of it, the courtesy is withdrawn and the ownership underneath stands exposed. The feast and the rage are not two characters. They are one doctrine photographed in fair weather and in foul.

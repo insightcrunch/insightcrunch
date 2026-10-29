@@ -9,7 +9,7 @@ excerpt: "Punjab politics operates through a religious and linguistic Akali arch
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2020-01-23
+last_updated: 2026-10-29
 lang: en
 ---
 Punjab politics, organised around the Akali Dal for a century, is usually narrated as a passage through fire: a decade and a half of militancy between 1980 and 1995, sealed by the army assault on the Golden Temple complex in June 1984 and by the assassination of Prime Minister Indira Gandhi that October, after which the state's politics supposedly restarted on ordinary lines. That narrative is not false, and the evidence for its gravity is set out in full below. It is, however, a narrative that mistakes the loudest fifteen years of a hundred-year structure for the structure itself. The claim defended in this article is different. Punjab's politics operates through a religious-linguistic Akali architecture, built between 1920 and 1973 and still load-bearing after 2022: Sikh religious-political mobilisation through the Shiromani Gurdwara Parbandhak Committee and the Shiromani Akali Dal, a Punjabi-language commitment consolidated between the 1940s and 1966, a federal positioning towards the centre codified in the Anandpur Sahib Resolution of 1973, and, after 1992, a governance coalition with the Bharatiya Janata Party that lasted until September 2020. The militancy years tested that architecture and scarred it. The Aam Aadmi Party victory of March 2022, with 92 of 117 assembly seats, tests it again. Neither episode displaced it.

@@ -9,7 +9,7 @@ excerpt: "Prince Escalus speaks for law and order in Verona, yet each of his thr
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2023-01-20
+last_updated: 2026-10-29
 lang: en
 ---
 Prince Escalus is the most powerful man in Verona and the least effective force in the play that bears his city's tragedy. He speaks fewer lines than the Nurse, appears in only three scenes, and never draws a sword, arranges a marriage, or writes a letter. Yet the whole action of Romeo and Juliet is framed by his office: the play's first public event is his edict, its turning point is his sentence, and its final words are his judgment. Between those three appearances, everything that matters happens without him. A secret marriage is celebrated in a friar's cell, a potion is brewed and swallowed, a letter miscarries, and two young people die in a tomb his watch discovers only when the blood is already dry. The Prince is the state's whole visible presence in the tragedy, and the state, in scene after scene, arrives after the damage.

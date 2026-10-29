@@ -9,7 +9,7 @@ excerpt: "The Gujarat riots produced a twenty-two-year institutional audit of co
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2020-05-06
+last_updated: 2026-10-29
 lang: en
 ---
 The 2002 Gujarat riots politics, as the phrase is used in textbooks, examination halls and anniversary journalism, usually names one of two things: an election, or a wound. In the electoral telling, the violence of February and March 2002 is the prelude to the Gujarat assembly election of December 2002, in which the Bharatiya Janata Party won 127 of 182 seats and Narendra Modi, chief minister since October 2001, secured the mandate that began his uninterrupted rise. In the narrative telling, the same months are a sequence of atrocities: a train coach burned at Godhra station on 27 February 2002 with 59 people inside, and massacres at Gulberg Society, Naroda Patiya, Naroda Gam, Sardarpura and Ode in the days that followed. Both tellings are true as far as they go, and both stop early. Between 6 March 2002, when the Gujarat government constituted a commission of inquiry under a retired judge named K. G. Shah, and 8 January 2024, when the Supreme Court quashed the remission of the eleven men convicted in the Bilkis Bano case, the Indian state examined the events of 2002 through a commission, a court-monitored investigation team, a sequence of special courts and a criminal complaint that travelled from a police director general's office to a three-judge bench of the Supreme Court. That twenty two year audit, and not the election or the wound alone, is the subject of this article.

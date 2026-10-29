@@ -9,7 +9,7 @@ excerpt: "The Election Commission is an institution under stress, and electoral 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 78
 author: "david-thornton"
-last_updated: 2020-06-03
+last_updated: 2026-10-29
 lang: en
 ---
 The Election Commission of India enters most textbooks as a piece of constitutional machinery, a body that prepares rolls, notifies schedules, counts ballots and declares results, and the description is accurate in the way a description of a bridge as concrete and steel is accurate. It leaves out the loads. The claim defended in this article is that the Election Commission is an institution under continuous structural-political stress, running from the founding of the republic through every decade since, and that electoral institutions are political objects rather than neutral procedural infrastructure. The stress is not an episode. It is a condition built into the constitutional text of 1950, reproduced by the way the institution is staffed and financed, and sharpened by the fact that every decision the Commission takes redistributes advantage among the parties it regulates. To read the Commission as machinery is to miss the politics that the machinery carries, and the post-1950 record, from Sukumar Sen's improvisation of 1951 to the appointment legislation of 2023, is legible as a single long negotiation between a powerful constitutional mandate and the pressures that mandate attracts.

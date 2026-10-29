@@ -9,7 +9,7 @@ excerpt: "The Byrd rule decides what a Senate reconciliation bill may carry thro
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 100
 author: "marcus-hall"
-last_updated: "2020-03-15"
+last_updated: 2026-10-29
 lang: en
 ---
 Reconciliation lets a Senate majority legislate with fifty-one votes, and one section of the Congressional Budget Act decides what that majority may carry. That section is the Byrd rule, a definition of extraneous matter joined to a point of order any senator may raise. A bill traveling under reconciliation receives twenty hours of debate, protection against extended delay, and passage by simple majority. The Byrd rule prices those advantages. A provision that earns a place in the bill through a genuine change in outlays or revenues keeps the expedited timetable, and a provision that borrows the timetable for a purpose the budget cannot measure loses the timetable and faces removal.

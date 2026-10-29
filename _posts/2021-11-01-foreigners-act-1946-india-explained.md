@@ -9,7 +9,7 @@ excerpt: "Foreigners Act 1946 explained: Section 9 and its burden of proof, the 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 89
 author: "simon-hartley"
-last_updated: 2021-11-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Foreigners Act 1946 was, for close to eight decades, the statute that decided what the Indian State could do about a person it treated as not its own. It was a short Act, and most of it was machinery: a definition, a power to make orders, a penalty clause, a protection clause. Its consequence, however, did not lie in its length. It lay in a single provision, Section 9, which provided that where a question arose whether a person was or was not a foreigner, the onus of proving that the person was not a foreigner lay upon that person. A statute that places the burden of disproving foreignness on the individual, in a country where documentary records of birth, parentage and residence are missing for very large numbers of people in the relevant generations, is a statute whose real content is that burden. Everything else in the Act, the orders, the tribunals, the detention, is the working out of that one allocation of proof.

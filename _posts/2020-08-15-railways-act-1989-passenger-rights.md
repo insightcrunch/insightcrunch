@@ -9,7 +9,7 @@ excerpt: "The Railways Act 1989 explained: strict liability for death and injury
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2020-08-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Railways Act 1989 is the statute most passengers never read until the day a family needs it, and the part of it that matters on that day is short enough to state in one sentence. When a passenger is killed or injured in a train accident, or in what the Act calls an untoward incident, the railway administration must pay compensation whether or not it was at fault, and the only defences open to it are five exclusions written into the statute itself. Everything else in this long Act, the zones and the boards, the fares and the freight, the offences and the rule making powers, is the frame around that single hard promise. This article explains the whole statute with the passenger at the centre of it: what the Act covers, how it organises the railway administration, what a ticket confers and what it does not, how the liability for luggage differs from the liability for life, and how a claim is actually decided. It describes the law. It does not describe any particular occurrence, and it is written for the reader who wants the structure of the scheme before anything else.

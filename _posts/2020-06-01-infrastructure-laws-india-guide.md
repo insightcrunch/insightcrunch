@@ -9,7 +9,7 @@ excerpt: "Infrastructure laws in India explained by governance model: which sect
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 90
 author: "deepika-joshi"
-last_updated: 2020-06-01
+last_updated: 2026-10-29
 lang: en
 ---
 Infrastructure laws in India do not form a single code, and the reader who goes looking for one will misunderstand the field. There is no Infrastructure Act. What exists is a shelf of sector statutes, one cluster for each network industry, and the statutes differ from each other in the one respect that decides almost everything practical about a sector: who governs it. Some sectors are run by an independent regulator created by statute, a body that licenses operators, fixes or approves the charges they levy, and answers appeals through a specialised tribunal. Other sectors are run by a government department that is at once the owner of the network, the operator of the service, the maker of the rules and the judge of complaints against itself. Electricity belongs to the first group. The railways and the national highways belong to the second. Ports, airports, oil and gas, road transport, mining and atomic energy are distributed between the two models, or split inside themselves, and the distribution is not random.

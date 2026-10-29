@@ -9,7 +9,7 @@ excerpt: "Legislative history research locates the bill versions, committee repo
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 102
 author: "ryan-walsh"
-last_updated: "2022-05-15"
+last_updated: 2026-10-29
 lang: en
 ---
 An enacted statute states what the law commands in words that passed both chambers of Congress and reached the President for signature. A disputed phrase inside that text, however, often resists settlement by the text alone, because the same words can bear two readings, because a term can carry a specialized meaning drawn from the field under regulation, or because the relation between a clause and the sections around that clause can leave the reach of the clause uncertain. At that point a researcher turns away from the bare enacted words and toward legislative history, the documentary record that the process of enactment generated while the words took shape, tested, amended and defended in public. The turn is natural and hazardous at once. The record exists in abundance, and abundance invites selection. A passage can be lifted from a debate, a report or a hearing and offered as though the passage settled the question, even when the passage spoke for a single member, addressed an earlier draft, or belonged to a document that a court in the forum under consideration would give little weight or no weight at all. Research that begins without a method therefore ends with quotation rather than with knowledge, and the difference between the two outcomes is the subject of the pages that follow.

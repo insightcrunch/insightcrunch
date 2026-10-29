@@ -9,7 +9,7 @@ excerpt: "The Chipko movement at Mandal-Gopeshwar began as a dispute over who a 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "simon-hartley"
-last_updated: 2021-01-20
+last_updated: 2026-10-29
 lang: en
 ---
 The Chipko movement is usually introduced as an environmental parable: Himalayan villagers hugging trees in 1973 until the axes stopped. The parable is not false, but it files the event under scenery and sentiment, and the record of what actually happened in Chamoli district between 1973 and 1981 resists that filing at every point. What the record shows is a sequence of dated, documented confrontations over an allotment register, a committee of inquiry, a central statute and a felling ban, in which villagers with no office, no vote bank and no party machine compelled the Indian state to rewrite the terms on which Himalayan forests would be governed. This article defends one claim about that sequence. The Chipko movement operates as environmental-political citizen-renegotiation: a movement of citizens who, finding the formal channels of allotment and appeal closed or rigged, renegotiated their standing as forest users by direct, disciplined, nonviolent action, and left the renegotiation written into law. A five-feature map of the movement captures its content: the Mandal confrontation of April 1973, the Tehri Garhwal current carried by Sunderlal Bahuguna, the Reni action of 26 March 1974 led by Gaura Devi, the Forest (Conservation) Act of 1980 with the fifteen-year felling ban that followed it, and the post-1981 trajectory through the Tehri Dam opposition to the movement's national and global afterlife.

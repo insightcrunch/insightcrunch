@@ -9,7 +9,7 @@ excerpt: "Legal Services Authorities Act explained: who qualifies for free legal
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 89
 author: "kavita-sharma"
-last_updated: 2021-06-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Legal Services Authorities Act 1987 rests on a bargain that most of its users never see stated plainly. In exchange for a lawyer paid by the State and a forum that can end a dispute in a single sitting, the Act asks the litigant to surrender something the ordinary court system treats as sacred: the right to carry on fighting. A person who accepts free legal services accepts representation of a quality the system does not guarantee. A person who settles at a Lok Adalat accepts an award against which no appeal lies to any court. A person who applies to a Permanent Lok Adalat accepts that a body which began by conciliating may end by deciding the dispute against them, and that the door of the ordinary court closed behind them when the application was filed. The statute is generous and final at the same time, and it cannot be understood, or used well, unless both halves of that sentence are kept in view.

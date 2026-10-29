@@ -9,7 +9,7 @@ excerpt: "Competition Commission of India profiled as an institution: who sits o
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 75
 author: "kavita-sharma"
-last_updated: 2020-05-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Competition Commission of India is the institution through which Indian competition law either happens or does not happen. The statute it administers prohibits defined conduct: agreements that cause an appreciable adverse effect on competition, abuse of a dominant position, and combinations that cross notified thresholds without clearance. Those prohibitions are examined in the article on [the Competition Act 2002 explained](/2020/02/15/competition-act-2002-explained/), which owns the substantive law. This article owns the institution: the seven chairs at its top, the investigative office beneath them, the procedural path a case travels from a piece of information to a final order, the appellate corridor beyond the order, and the record that results when all of that machinery has run for a decade and a half. Its central fact is one that public discussion persistently blurs. The Commission's penalty orders are the most visible output of Indian competition enforcement, and they are routinely reported as though they were the outcome of enforcement. They are its midpoint. A large proportion of the penalties announced have been appealed, stayed, reduced or set aside, and the amount recovered is a small fraction of the amount imposed, so the institution's real constraint lies in the appellate and recovery stages of its own process rather than in its ability to investigate and decide.

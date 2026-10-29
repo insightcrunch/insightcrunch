@@ -9,7 +9,7 @@ excerpt: "Consumer law in India explained as a layered field: the general statut
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 91
 author: "anita-das"
-last_updated: 2020-11-01
+last_updated: 2026-10-29
 lang: en
 ---
 Consumer law in India is not one law, and the reader who treats it as one will knock on the wrong door. A rejected insurance claim, a failed payment, a short weighed packet of flour, an inflated electricity bill and a defective telephone handset all feel like the same kind of grievance, and all of them are, in the loose language of daily life, consumer complaints. In law they are not the same complaint at all. Each belongs to a different layer of a system that was built in pieces across four decades: a general consumer statute with its own regulator and its own three tier of commissions, a set of sectoral ombudsmen and forums created by financial and utility regulators for their own industries, and a standards and safety apparatus that polices what may be sold at all. The same grievance taken to the wrong layer is not answered wrongly; it is often not answered at all, because the forum lacks the power the grievance needs, or because a shorter and free route existed that the complainant never knew about.

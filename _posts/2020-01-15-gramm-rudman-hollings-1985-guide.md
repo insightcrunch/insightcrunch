@@ -9,7 +9,7 @@ excerpt: "Gramm-Rudman-Hollings fixed deficit targets, threatened automatic sequ
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 103
 author: "ian-fletcher"
-last_updated: "2020-01-15"
+last_updated: 2026-10-29
 lang: en
 ---
 On December 12, 1985, President Ronald Reagan signed the Balanced Budget and Emergency Deficit Control Act of 1985, Public Law 99-177, the statute known by the names of its Senate sponsors as Gramm-Rudman-Hollings. Enactment closed a year in which the fiscal 1985 unified deficit in the Office of Management and Budget Historical Tables had reached $212 billion, equal to 5.1 percent of gross domestic product, and in which a budget resolution had assumed a lower figure while requiring $55.5 billion of reduction legislation that Congress never enacted. A legislature tried to legislate an outcome. Congress wrote a descending schedule of maximum deficit amounts into law, attached an automatic cancellation of budgetary resources to any estimated breach of the schedule, and presented the arrangement as a path to a balanced budget on a date fixed in advance.

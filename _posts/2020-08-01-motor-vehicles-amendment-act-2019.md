@@ -9,7 +9,7 @@ excerpt: "The Motor Vehicles Amendment Act 2019 explained: higher penalties, a s
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 82
 author: "katherine-blake"
-last_updated: 2020-08-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Motor Vehicles Amendment Act 2019 is remembered, almost everywhere it is discussed, as the law that made traffic fines ten times larger. That memory is accurate about one schedule of figures and wrong about almost everything that matters. The amendment did rewrite the penalty schedule of the Motor Vehicles Act 1988, and the rewritten figures were large enough to provoke several state governments into softening them within weeks. But the same statute also rebuilt the compensation chapters of the parent Act, created a fund intended to stand behind every road user in the country, protected the stranger who stops to help an accident victim, made the builder of a defective road answerable for the defect, and brought the digital platforms that summon taxis within the licensing net for the first time. Above all, buried in the claims chapter and debated by almost nobody, it restored a limitation period for accident claims that had been absent from the Act for twenty five years, so that a family which delays beyond six months of an accident can lose its claim altogether.

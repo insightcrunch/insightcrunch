@@ -9,7 +9,7 @@ excerpt: "The National Highways Act explained: the Section 3A to 3D acquisition,
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
 author: "samantha-lee"
-last_updated: 2020-09-01
+last_updated: 2026-10-29
 lang: en
 ---
 The National Highways Act, 1956 does two things, and only one of them is widely understood. Its first job is constitutional housekeeping: it declares which highways in India are national highways, vests them in the Union, and makes the Central Government responsible for their development and maintenance. Its second job, added four decades after enactment, is far more consequential for the people it touches: it contains a complete, self contained code for taking private land to build those highways, from the first notification of intention to the deposit of the amount payable. A landowner whose fields lie in the path of a new alignment will meet this Act, and almost nothing else, at every stage of the process.

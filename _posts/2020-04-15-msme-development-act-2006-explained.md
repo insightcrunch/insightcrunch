@@ -9,7 +9,7 @@ excerpt: "The MSME Development Act explained: how classification is fixed by not
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 90
 author: "anita-das"
-last_updated: 2020-04-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Micro, Small and Medium Enterprises Development Act 2006, cited in its own short title as Act 27 of 2006, rests on a single uncomfortable transaction: the smallest firm in a supply chain lends money to the largest, interest free, for as long as the largest cares to take. A micro enterprise that machines a component, prints a label, or writes a piece of software delivers the work, raises an invoice, and then waits. The buyer, who has the goods and the use of them, treats the unpaid invoice as working capital. The supplier, who has wages to pay and raw material to buy, borrows at commercial rates to finance the gap its own customer created. Every other feature of the MSME Development Act 2006, its classification machinery, its promotional programmes, its procurement preferences, is arranged around that transaction, because the statute's operative core is an attempt to reverse it: to fix the day by which the buyer must pay, to price delay at a punitive rate of compound interest, and to give the supplier a forum that does not require a civil suit.

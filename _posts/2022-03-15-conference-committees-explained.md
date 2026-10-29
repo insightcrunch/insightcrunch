@@ -9,7 +9,7 @@ excerpt: "A conference committee reconciles House and Senate versions of a bill 
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 89
 author: "robert-quinn"
-last_updated: "2022-03-15"
+last_updated: 2026-10-29
 lang: en
 ---
 Every law that Congress enacts begins as two acts of approval, one in the House of Representatives and one in the Senate, and the Constitution counts the work as finished only when the two approvals attach to exactly the same words. A conference committee is the formal instrument Congress built for the frequent case in which the two chambers approve different words: a temporary joint committee, drawn from both chambers, that negotiates a single text and returns it to each floor for an unamendable vote. When the instrument functioned as designed, the final bargain of a major measure took written form as a conference report, signed by a majority of the managers of each House and explained in a joint statement that later readers could consult.

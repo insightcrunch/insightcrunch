@@ -9,7 +9,7 @@ excerpt: "Nuclear liability in India explained: the Civil Liability for Nuclear 
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 79
 author: "anita-das"
-last_updated: 2020-10-01
+last_updated: 2026-10-29
 lang: en
 ---
 Almost every public argument about India's nuclear liability law is conducted in the language of diplomacy, as if the obstacle to foreign reactors in India were a misunderstanding between governments that better drafting of communiqués could dissolve. It was not. The obstacle was one limb of one section of one statute: clause (b) of Section 17 of the Civil Liability for Nuclear Damage Act, 2010 (Act 38 of 2010), which gave the operator of a nuclear installation a statutory right to recover from a supplier where a nuclear incident had resulted from the supply of equipment or material with patent or latent defects, or from sub-standard services. That clause departed from the international model the rest of the Act faithfully copied, and the departure was deliberate, debated in advance, and consequential in exactly the way its critics in the supplier countries predicted and its defenders in Parliament accepted as a price worth paying. Between the Act's commencement on 11 November 2011 and its replacement in December 2025, no contract for a foreign supplied reactor was concluded under it.

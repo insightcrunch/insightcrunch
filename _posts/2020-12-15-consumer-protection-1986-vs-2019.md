@@ -9,7 +9,7 @@ excerpt: "Consumer Protection Act comparison explained: how the regulator, the p
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 75
 author: "samantha-lee"
-last_updated: 2020-12-15
+last_updated: 2026-10-29
 lang: en
 ---
 The Consumer Protection Act 1986 vs 2019 comparison is usually presented as a list of new features, and a list of new features cannot answer the question a reader brings to it. The reader wants a verdict. A complainant wants to know whether the replacement statute leaves a person with a grievance better placed than the statute it repealed. A business wants to know whether the replacement made its obligations clearer or merely heavier. An aspirant preparing for examination wants to know which differences carry marks and which are decoration. This article answers those questions by adjudication rather than by inventory. It takes ten dimensions that decide real cases, states the position under each statute on each dimension, allocates the dimension to the consumer, to the business, or to neither side, and derives its conclusion from the count. A verdict that is not earned by the count is an opinion wearing a costume, and the discipline of this comparison is that the count comes first and the conclusion follows it.

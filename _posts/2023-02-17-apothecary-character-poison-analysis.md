@@ -9,7 +9,7 @@ excerpt: "The starving Mantua apothecary sells Romeo poison against the law, and
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2023-02-17
+last_updated: 2026-10-29
 lang: en
 ---
 The apothecary of Mantua speaks four short speeches in the whole of Romeo and Juliet, and one of them sells the poison that ends the play. He has no name, no history, no second scene, and no malice. What he has is hunger, a shop full of empty boxes, and a statute hanging over his trade, and Shakespeare builds from those three facts the sharpest piece of social criticism in the tragedy. The verdict of this reading is plain: the scene in Act 5 Scene 1 is not a convenience of plotting, a handy shop on the road to the tomb. It is an indictment, staged as a sale, of a world in which the law guards the rich man's city and starves the poor man's conscience, in which gold does more murder than any drug, and in which a starving seller can be forced to consent with everything except his will. The exchange takes under ninety lines. Almost every line of it is evidence.

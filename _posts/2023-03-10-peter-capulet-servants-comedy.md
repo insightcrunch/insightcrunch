@@ -9,7 +9,7 @@ excerpt: "Peter and the Capulet servants bring clowning to Romeo and Juliet, and
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2023-03-10
+last_updated: 2026-10-29
 lang: en
 ---
 Peter stands at the centre of the Capulet servants in Romeo and Juliet, and the verdict of this character study is plain from the start: the servant comedy is not decoration pasted onto a tragedy, and it is not relief in the simple sense of rest. Peter and the household servants form the tragedy's surviving comic thread, a line of prose, errands, kitchen labour, and music that keeps running while the verse world of the lovers narrows toward the tomb, and the friction between that thread and the catastrophe is deliberate. When Peter trades puns with hired musicians minutes after Juliet has been found apparently dead, the scene does not let grief off the hook. The scene holds grief up to a hard, ordinary light, in which hired men want payment, a servant wants a tune, and a household that has lost its daughter must still decide what the band is owed. That is the counterpoint the whole servant line has been building toward, and it is why the clowning sharpens the tragedy instead of softening it.

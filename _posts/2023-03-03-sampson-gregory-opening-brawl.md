@@ -9,7 +9,7 @@ excerpt: "Sampson and Gregory open Romeo and Juliet with crude puns and a street
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2023-03-03
+last_updated: 2026-10-29
 lang: en
 ---
 Sampson and Gregory, two servingmen of the house of Capulet, speak the first words of Romeo and Juliet after the Chorus has withdrawn, and the choice is the play's first argument. Before Romeo sighs, before Juliet appears, before either father draws a sword, the tragedy opens in prose, at street level, with a pair of liveried men daring each other to start a fight neither can explain. The verdict of this close reading is plain: the opening exchange is not a comic warm-up bolted onto a love tragedy. It is a working model of the feud itself, built at the smallest scale the play affords, and its bawdy wordplay is the mechanism of the model. In the space of some seventy lines, a pun about coal becomes a pun about anger, a pun about precedence becomes a threat against women, and a bitten thumb becomes drawn swords. Language in this scene does not describe violence after the fact. Language manufactures violence, step by deniable step, and the men operating the machine are the lowest-ranking speakers in Verona.

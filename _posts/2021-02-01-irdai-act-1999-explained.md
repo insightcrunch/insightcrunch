@@ -9,7 +9,7 @@ excerpt: "The IRDAI Act 1999 created India's insurance regulator. Its compositio
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 73
 author: "michael-brooks"
-last_updated: 2021-02-01
+last_updated: 2026-10-29
 lang: en
 ---
 The IRDAI Act 1999 did something no Indian statute had done for insurance before: it took the supervision of the industry away from a government office and gave it to a body corporate with its own fund, its own rule-making power and a statutory duty that points in two directions at once. The institution it created, the Insurance Regulatory and Development Authority, licenses every insurer in the country, writes most of the operative law those insurers obey, and stands behind a grievance machinery that a policyholder can use without paying a fee or hiring a lawyer. A reader who finishes this profile should be able to answer three practical questions: what the regulator does, where an appeal from its orders goes, and which free door a policyholder with a rejected claim should try first.

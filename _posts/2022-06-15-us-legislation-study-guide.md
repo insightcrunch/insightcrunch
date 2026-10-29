@@ -9,7 +9,7 @@ excerpt: "This US legislation study guide organizes federal statutes into eight 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 115
 author: "kevin-reeves"
-last_updated: "2022-06-15"
+last_updated: 2026-10-29
 lang: en
 ---
 Students consistently get a particular thing wrong about federal statutes, and the error appears before any statute has been opened. A US legislation study guide that began with dates and titles would repeat the error, because memorization treats each enactment as an isolated item on a list, detached from the money, the procedure, and the institutional choices that gave the item legal force. A date can be recalled without any understanding of whether a statute commanded conduct directly, offered money on conditions, delegated a decision to an agency, or expired under a term written into the enactment itself. Titles accumulate while the mechanisms remain invisible, and a changed fact in an examination question defeats an answer built from fragments.

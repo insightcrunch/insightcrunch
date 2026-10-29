@@ -9,7 +9,7 @@ excerpt: "Romeo's parents barely appear, worrying over his moods from a distance
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2023-02-03
+last_updated: 2026-10-29
 lang: en
 ---
 ## Who Are the Montague Parents in Romeo and Juliet?

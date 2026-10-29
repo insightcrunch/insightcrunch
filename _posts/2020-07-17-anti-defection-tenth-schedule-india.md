@@ -9,7 +9,7 @@ excerpt: "The Tenth Schedule's anti-defection architecture holds a lasting tensi
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2020-07-17
+last_updated: 2026-10-29
 lang: en
 ---
 The anti defection law india tenth schedule debate begins with a plain fact of constitutional design: a legislator elected on one party's ticket and symbol may be unseated for leaving that party or defying its whip, and the provision that does this work, the Tenth Schedule inserted by the 52nd Amendment on 1 March 1985, has never settled the question it was built to answer, namely how much of a representative's vote belongs to the party that carried the representative into the House and how much belongs to the representative's own judgment. This article defends one namable claim. The Tenth Schedule has architectural-substantive tension between party-discipline and individual-conscience, and that tension operates through the Schedule's own features rather than through accidents of politics: the whip-violation ground in Paragraph 2, the voluntary-relinquishment ground beside it, the merger-only door left open after 2003, and the Speaker acting as tribunal under Paragraph 6. Read the text closely, follow the holdings in Kihoto Hollohan v Zachillhu of 18 February 1992 and Subhash Desai v Principal Secretary, Governor of Maharashtra of 11 May 2023, and the tension is visible in the architecture itself.

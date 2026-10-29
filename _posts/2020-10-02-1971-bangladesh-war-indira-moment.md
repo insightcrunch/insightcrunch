@@ -9,7 +9,7 @@ excerpt: "The Bangladesh war operationalised Indira Gandhi's domestic political 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
 author: "nathan-cole"
-last_updated: 2020-10-02
+last_updated: 2026-10-29
 lang: en
 ---
 The 1971 Bangladesh war was won in thirteen days of December fighting, yet the political event that remade Indira Gandhi's position inside India ran for twenty-one months, from the Pakistani crackdown of 25 March 1971 to the Congress organisational resolutions of December 1972. Read as a war, the year yields a campaign history. Read as domestic politics, it yields something rarer: a sequence of five architectural moments through which a prime minister who had split her party in 1969 and won a landslide in March 1971 converted an external crisis into durable command over her party, her Parliament and her country's diplomatic posture. That conversion, and not the campaign alone, is the subject here.

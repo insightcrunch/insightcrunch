@@ -9,7 +9,7 @@ excerpt: "The 1991 economic reforms in statute: which changes took an Act of Par
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 81
 author: "deepika-joshi"
-last_updated: 2022-05-15
+last_updated: 2026-10-29
 lang: en
 ---
 The 1991 economic reforms are usually narrated as a story about ideas: a crisis, a conversion at the top of government, and a programme announced to a surprised country. Read as law, the episode is a story about instruments. Almost nothing that happened in July 1991 happened by Act of Parliament. The centrepiece of the reforms, the abolition of industrial licensing, was a statement laid before the two Houses and a set of notifications issued under a power that the licensing statute itself had contained since 1951. The opening to foreign equity was a change in the way an existing permission regime was administered. The statutes came later, in a sequence that stretched across twelve years, and some of them never came at all. A legal account of the reforms therefore has to begin with a distinction that economic accounts can afford to blur: the distinction between what a government decided, what a government was legally able to do on its own authority, and what only Parliament could do.

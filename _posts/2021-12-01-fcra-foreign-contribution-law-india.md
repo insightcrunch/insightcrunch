@@ -9,7 +9,7 @@ excerpt: "The FCRA and foreign funding of NGOs in India explained: the registrat
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
 author: "andrew-price"
-last_updated: 2021-12-01
+last_updated: 2026-10-29
 lang: en
 ---
 Few Indian statutes are argued about in terms as strong as the terms applied to the Foreign Contribution (Regulation) Act, 2010, and few arguments proceed with as little reference to what the Act says. One body of opinion treats the statute as the ordinary housekeeping of a sovereign State that is entitled to know whose money enters its territory and for what ends. Another treats it as an instrument that has narrowed the space in which voluntary organisations work, by tightening the conditions on which money from abroad may be received, held and spent. Both descriptions attach themselves to the same text, and the text is where any useful account has to begin. The Act is Act 42 of 2010. It received the assent of the President on 26 September 2010, it was brought into force on 1 May 2011 by notification S.O. 909(E), and on its commencement it repealed the Foreign Contribution (Regulation) Act, 1976. Its long title states its business in two movements: to consolidate the law to regulate the acceptance and utilisation of foreign contribution or foreign hospitality by certain individuals or associations or companies, and to prohibit acceptance and utilisation of foreign contribution or foreign hospitality for any activities detrimental to the national interest. Regulation for the permitted, prohibition for the detrimental: the whole architecture of the statute is contained in that pairing, and the disputes the statute generates are disputes about where the line between the two movements falls in a given case.

@@ -9,7 +9,7 @@ excerpt: "Indian legislation as a method: the eight questions to ask of any stat
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 84
 author: "anita-das"
-last_updated: 2022-06-15
+last_updated: 2026-10-29
 lang: en
 ---
 Three hundred articles on Indian legislation teach one lesson before they teach any other, and it is a lesson about reading rather than about law. The examination candidate who memorises the sections of a statute, the practitioner who downloads the bare Act on the morning of a hearing, and the journalist who quotes the Act's long title as a description of the legal position are all making the same mistake, and it is the mistake this series was assembled to correct. Each of them treats the printed text of an Indian statute as a statement of the law in operation. The file assembled here, cluster by cluster and statute by statute, records how often that treatment fails: a statute enacted and never switched on, a provision struck down and still printed and still used, a right whose content sits in a form appended to rules, a repeal proclaimed in a Code and never notified against the statute it names. What a statute does is determined by a set of facts that mostly live outside its sections, and a reader who establishes those facts first will be right more often than a reader who construes the sections with great care and establishes nothing else.

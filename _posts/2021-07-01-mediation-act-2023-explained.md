@@ -9,7 +9,7 @@ excerpt: "The Mediation Act 2023 explained: Parliament made pre-litigation media
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 88
 author: "michael-brooks"
-last_updated: 2021-07-01
+last_updated: 2026-10-29
 lang: en
 ---
 The Mediation Act 2023 is the statute most often misdescribed in Indian legal writing, and the misdescription is always the same one. It is said, in summaries, examination notes and a good deal of professional commentary, that the Act made mediation compulsory before a civil or commercial suit can be filed. It did not. The Bill that Parliament received proposed exactly that compulsion, the proposal was examined and criticised, and the enacted text withdrew it. What the Act made compulsory is nothing that was not compulsory already: the one mandatory mediation regime in Indian law, the pre-institution mediation required for commercial disputes of specified value under the Commercial Courts Act, sits in a different statute, predates this Act, and is preserved by this Act through a proviso rather than created by it. Everything else in the Act is an offer, not an order. A party may mediate before suing, a court may refer a pending dispute to mediation, and a settlement reached through the process carries the force of a decree. Whether to enter the process at all is, outside the commercial exception, the parties' own choice.
