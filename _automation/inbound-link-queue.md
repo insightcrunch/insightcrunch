@@ -104,3 +104,7 @@
 ## how-ai-accelerators-work
 - _posts/2026-10-13-how-chiplets-work.md - could carry: "The stacked memory inside such a package exists to feed arithmetic that would otherwise starve, a mechanism set out in how AI accelerators work."
 - _posts/2026-10-07-how-data-centers-work.md - could carry: "A building full of accelerators is a power and cooling problem before it is a computing one, and how AI accelerators work explains the chip level demand the building must serve."
+
+## how-gateway-arch-was-built
+- _posts/2026-10-20-how-archaeologists-date-ancient-shipwrecks.md - could carry: "Dating a structure begins with reading how it was made, and the same construction-first reading explains how the Gateway Arch was built, from its triangular sections to its jacked-apart closure."
+- _posts/2014-08-01-building-of-the-suez-canal.md - could carry: "The canal project imposed its cost on the people who dug it; a later American monument imposed its cost on a riverfront district, a parallel traced in how the Gateway Arch was built."
