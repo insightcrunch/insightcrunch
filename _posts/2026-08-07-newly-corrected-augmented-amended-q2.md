@@ -6,15 +6,15 @@ date: 2026-08-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "q2-title-page", "augmented-amended", "newly-corrected-q2"]
 excerpt: "The Q2 title page of Romeo and Juliet calls the text newly corrected, augmented and amended, a marketing claim that also hints at its tie to the first quarto."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-08-07
+lang: en
 ---
-
 The most consequential sentence ever written about the text of Romeo and Juliet was written by a bookseller. It stands on the title page of the second quarto of 1599, directly beneath the title: "newly corrected, augmented, and amended". Six words of sales copy, set in type by Thomas Creede's printing house for the publisher Cuthbert Burby, they announce that the book in a buyer's hand supersedes the quarto of 1597, and they have been believed, qualified, and fought over ever since. Editors built the play's text on the authority those words proclaim. A. W. Pollard built a category, the bad quarto, on the disgrace they imply for the earlier book. Eric Sams built a counter-theory on their plain meaning, arguing that the words describe a revision and that generations of scholars have explained away a title page that says what it means. The sentence deserves what this article gives it: a trial, word by word, against the collation of the two quartos and the documents of the trade. The verdict can be stated at the outset. "Augmented" is exactly true, and measurable. "Corrected" is half true: the 1599 book rests on a sounder manuscript than the 1597 book, but no one corrected the earlier text; a different and fuller copy replaced it, and for one stretch of some eighty lines the new book simply reprints the old one it claims to correct. "Amended" is false in any sense a bibliographer can test: the second quarto prints one passage twice, in draft and revised forms, keeps its copy's shifting speech prefixes untidied, and sets part of its most famous speech as prose. The claim is a publisher's supersession notice, honest about quantity, loose about workmanship, and most revealing where it is silent: it never names the author at all.
 
-![The title page of the 1599 second quarto of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The title page of the 1599 second quarto of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## 'Newly Corrected, Augmented and Amended': The Claim Stated
 

@@ -6,15 +6,15 @@ date: 2026-07-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "compositor-analysis", "printing-house", "compositor-printing"]
 excerpt: "Compositor analysis studies how the printers set Romeo and Juliet by hand, since their habits and errors shaped the early texts editors must work back through."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-07-24
+lang: en
 ---
-
 Compositor analysis is the bibliographical discipline that reads a printed book as the record of the hands that made it, and Romeo and Juliet needs that discipline more than most plays of its period. Every early text of the tragedy, the two quartos and the First Folio, passed letter by letter through the fingers of workmen whose names are lost, whose spelling habits differed from the playwright's and from each other's, and whose errors stand in the line of descent between the lost manuscript and every modern edition. The verdict argued through this study is plain: compositor analysis cannot hand back the author's manuscript, and its boldest claims deserve the scepticism they have drawn, but it remains the only method that can separate, page by page and habit by habit, what the playwright wrote from what the shop imposed. Without it, an editor mistakes a typesetter's favourite spelling for an author's, a tired apprentice's guess for a reading, and a press correction for an intention. With it, used at its proper strength, the early pages become evidence twice over: for the words on them, and for the workshop that put the words there.
 
-![Compositor analysis and the printing house - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Compositor analysis and the printing house - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The stakes are easy to miss because modern editions hide them. A school text of the balcony scene prints "But soft, what light through yonder window breaks" (2.2.2) in clean modern spelling, and nothing on the page admits that the line reached print through a quarto set in Thomas Creede's shop in 1599 from a manuscript whose own spellings the workmen partly followed and partly overrode, then through a Folio set a generation later in William Jaggard's shop from a printed quarto, where a single apprentice set nearly the whole play. Compositor analysis is the set of techniques, spelling tests, type evidence, press-variant study, and shop history, by which scholars reconstruct that hidden labour. Its findings decide practical questions an editor faces on every page: whether a strange word is more likely the author's oddity or a setter's misreading, whether a passage printed as prose was prose in the copy or verse crushed by a man short of space, and whether a whole stretch of a book deserves less trust than the stretches around it. This article explains the method, follows it into the two printing houses that matter for the play, weighs the great Folio investigation of Charlton Hinman against its sharpest critics, and reaches a graded verdict on what the evidence can and cannot prove.
 

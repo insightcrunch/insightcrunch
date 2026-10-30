@@ -6,15 +6,15 @@ date: 2026-06-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "modern-editions", "arden-oxford", "editions-compared"]
 excerpt: "The major modern editions of Romeo and Juliet, Arden, Oxford, New Cambridge, and Folger, differ in copy-text, annotation, and how they treat the quartos."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2026-06-12
+lang: en
 ---
-
 A reader who buys a modern edition of Romeo and Juliet buys an argument. Five books dominate the field: the Arden Shakespeare in its second series form, edited by Brian Gibbons, and in its third series form, edited by René Weis; the Oxford Shakespeare, edited by Jill L. Levenson; the New Cambridge Shakespeare, edited by G. Blakemore Evans; and the Folger Shakespeare Library volume, edited by Barbara A. Mowat and Paul Werstine. All five print a text descended from the second quarto of 1599, yet no two of them print the same play. They differ in the readings they choose where the early witnesses disagree, in the stage directions they admit, in the weight and placement of their notes, in the story their introductions tell about what kind of work the tragedy is, and in the reader each book silently assumes. The verdict defended here is plain. The differences are not decoration around a stable core; they are decisions about evidence, and they decide what most readers take the play to say. A reader choosing among the modern editions is choosing among five defensible plays, and the choice should be made by use: the Folger for a first encounter, the Arden third series for study in depth, the Oxford for the play as a thing performed, the New Cambridge for the play's life on stage across four centuries, with Gibbons's Arden second series still unmatched on the sources from which the tragedy grew.
 
-![Modern editions of Romeo and Juliet compared, Arden, Oxford, New Cambridge and Folger - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Modern editions of Romeo and Juliet compared, Arden, Oxford, New Cambridge and Folger - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The stakes are easiest to see at the level of the single line. Every edition prints the Prologue's opening, "Two households, both alike in dignity" (Prologue, line 1), and every edition prints Juliet's "O Romeo, Romeo, wherefore art thou Romeo?" (2.2.33). Beneath that agreement, the books diverge in hundreds of smaller places: a stage direction present in one and absent from another, a punctuation mark that redistributes the emphasis of a speech, a prose passage set as verse, a word glossed at length in one volume and passed over in silence by the next. None of the five editors invented these divergences. Each inherited two early texts that disagree with each other, the short first quarto of 1597 and the full second quarto of 1599, together with the First Folio text of 1623 that descends from the second quarto's line, and each editor built a reading text out of that inheritance by applying a policy. Comparing the modern editions as finished books, their policies, their apparatus and their audiences, is the only honest way to answer the question readers actually ask, which is not which text Shakespeare wrote but which book deserves a place on the desk.
 

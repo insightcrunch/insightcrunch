@@ -6,15 +6,15 @@ date: 2026-08-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "emendations", "editing", "famous-emendations"]
 excerpt: "Several beloved lines in Romeo and Juliet are editorial emendations, conjectures by later editors that quietly replaced puzzling readings in the early texts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-08-14
+lang: en
 ---
-
 Some of the most quoted words in Romeo and Juliet were written by editors. When Juliet, alone on her wedding night, asks for her husband to be cut out in little stars after death, the pronoun on which the whole fantasy turns is not stable across the play's texts: the Second Quarto of 1599, the documentary foundation of every scholarly edition, reads "when I shall die," and the "he" that generations of readers have memorized arrived later, as an emendation carried into the text by other hands. When Romeo speaks his first lines to Juliet in the shared sonnet at the Capulet feast, two of the eighteenth century's greatest editorial intelligences agreed that a word in the quarto was wrong and proposed a replacement that Samuel Johnson admired, and the modern editions have voted the replacement down. The text of this play, the most familiar love tragedy in English, is a fabric in which authorial words and editorial conjectures are woven so closely that only the small print at the foot of a scholarly page can tell them apart.
 
-![Famous emendations in the early texts of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Famous emendations in the early texts of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The verdict argued through this casebook is a strict one. Emendation, the correction of a transmitted text by conjecture, is a legitimate instrument exactly when it behaves like a science: when the early reading demonstrably fails, when a credible mechanism explains how the failure entered the text, when the proposed repair is the smallest change that restores sense, and when the whole transaction is published in the apparatus for any reader to reverse. Judged by that standard, the famous emendations of this play divide cleanly. A few are rescues, acts of restoration for which the editors deserve the gratitude readers unknowingly give them. Others are trespasses, improvements imposed on passages that were never broken, and the most instructive cases in the play's editorial history are the ones in which a brilliant conjecture, praised by the best judges of its age, has been weighed by a later discipline and refused. The history also carries a warning in the opposite direction: the refusal to emend can become its own dogma, and a reading does not become Shakespeare's merely because a printing house set it in type. What follows examines the celebrated cases one by one, the reading each early text carries, the editor who intervened, the argument offered, the resistance met, and the standing each intervention holds in the editions a modern reader can buy.
 

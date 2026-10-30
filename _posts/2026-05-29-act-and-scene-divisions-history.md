@@ -6,15 +6,15 @@ date: 2026-05-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "act-divisions", "scene-divisions", "act-and-scene-history"]
 excerpt: "The act and scene numbers we cite in Romeo and Juliet were not all Shakespeare's, but were added and regularized by later printers and editors over time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2026-05-29
+lang: en
 ---
-
 Every citation of Romeo and Juliet act and scene divisions carries a quiet falsehood. A student who writes "Act 3, Scene 1" for the street fight in which Mercutio dies is using a grid that no Elizabethan reader ever saw, assembled across more than a century by Folio compositors, an Augustan editor working from a fourth-hand folio, a Cambridge schoolmaster with a theory of the cleared stage, and a succession of nineteenth-century printers who turned their combined work into the universal map. The act and scene divisions of Romeo and Juliet are not the author's marks on his manuscript. They are an editorial inheritance, laid over a play written for continuous performance, and the history of how that grid was built, piece by piece and often by accident, is the subject of this article.
 
-![Act and scene divisions in the early printed texts of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Act and scene divisions in the early printed texts of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The verdict can be stated at once, because the evidence is unusually plain. The two early quartos of the play, printed in 1597 and 1599, carry no act divisions and no scene numbers at all. The First Folio of 1623 adds act headings irregularly, heads most later acts in Latin, marks a scattering of scene openings, and then lets its own scheme lapse for long stretches. Nicholas Rowe, editing Shakespeare in 1709, supplied the first complete and consistent scheme of acts and scenes, complete with the invented place headings that still frame the play in classrooms. Edward Capell and Edmond Malone refined the counting in the eighteenth century, and the Globe edition of 1864 froze the result into the citation system the whole world uses. What Shakespeare supplied was not a numbered grid but a sequence of stage pictures separated by cleared stages, and beneath that sequence a story whose joints happen, in most places, to fall where later editors wanted their breaks. The divisions deserve respect as a finding aid and scepticism as a claim about authorship. They are the best map of the play ever drawn, and the map is not the territory the playwright walked.
 

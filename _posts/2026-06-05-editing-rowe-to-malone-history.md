@@ -6,15 +6,15 @@ date: 2026-06-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "editing-history", "rowe-malone", "editing-rowe-to-malone"]
 excerpt: "The text of Romeo and Juliet we read was shaped by eighteenth-century editors from Rowe to Malone, who divided, glossed, and emended the quartos and Folio."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-06-05
+lang: en
 ---
-
 Every reader who opens Romeo and Juliet reads two texts at once. The first is the play the early printers left behind: the short first quarto of 1597, the long second quarto of 1599, and the Folio text of 1623 that descended from them. The second text is the one laid over those witnesses by a century of editors, from Nicholas Rowe in 1709 to Edmond Malone in 1790, who modernized the spelling, repunctuated the verse, amplified the stage directions, demoted lines they distrusted, restored lines they admired, and gradually built the apparatus of evidence underneath the page. The familiar play, the one quoted in classrooms and printed in paperback, is the second text wearing the first one's clothes. Editing Romeo and Juliet from Rowe to Malone is therefore not a footnote to the play's history. It is the history of how the play became readable at all.
 
-![Eighteenth-century editions of Romeo and Juliet from Rowe to Malone - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Eighteenth-century editions of Romeo and Juliet from Rowe to Malone - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The verdict argued through this article is double, and both halves matter. The eighteenth-century editors saved the play as a reading text: without Rowe's intelligible page, Pope's pointing, Theobald's method, Capell's collations, and Malone's documents, the tragedy would have remained a printers' artefact, legible mainly to specialists. The same editors also interposed themselves between the play and its readers, sometimes by necessity and sometimes by vanity, and a portion of what they interposed was imposition dressed as improvement. The tradition's direction of travel, however, runs unmistakably from taste toward evidence. Rowe edited by theatrical instinct, Pope by aesthetic judgement, Warburton by conjecture, and Malone by record and register. Each generation corrected the last, and the modern text is the sediment of those corrections. To read the play attentively is to read the editors too, whether their names appear on the page or not.
 

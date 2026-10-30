@@ -6,15 +6,15 @@ date: 2026-10-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "john-dryden", "mercutio", "dryden-on-mercutio"]
 excerpt: "Dryden reported the famous claim that Shakespeare killed Mercutio in the third act to keep from being killed by him, then argued the wit was harmless."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-10-02
+lang: en
 ---
-
 The most quoted sentence ever written about Mercutio is a sentence John Dryden did not believe. In the *Defence of the Epilogue*, published with *The Conquest of Granada* in 1672, Dryden reported a saying attributed to Shakespeare himself: that the playwright had shown the best of his skill in Mercutio and had been forced to kill him in the third act to prevent being killed by him. Generations of critics, teachers, and programme writers have repeated the report as though it were Dryden's own verdict on the character, a Restoration critic's awestruck testimony that Mercutio's vitality threatened to overwhelm the tragedy around him. The passage on the page says something stranger and more interesting. Dryden quotes the saying, then votes against it. Mercutio, he continues, was no dangerous person at all; there is nothing in the character but what was so exceeding harmless that he might have lived to the end of the play and died in his bed, without offence to any man. The famous quip about Shakespeare killing Mercutio is, in its original setting, an anecdote retailed in order to be discounted.
 
-![John Dryden writing on Mercutio in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![John Dryden writing on Mercutio in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 That double structure, a compliment quoted and then withdrawn, makes the passage the best starting point available for thinking about Dryden on Mercutio. The anecdote has had an enormous career. It shaped the way editors introduce the character, the way actors justify his dominance of the first half, and the way the question of why Mercutio dies at the midpoint gets asked at all. Yet the saying's authority rests on nothing firmer than Dryden's unattributed report, written seventy-six years after the play's first performances, by a critic born fifteen years after Shakespeare's death, in the middle of a polemic whose business was to prove that the wit of the Restoration age outclassed the wit of the age before it. Every element of that sentence needs weighing. What Dryden was doing in the *Defence*, what the anecdote could have meant to his first readers, what Shakespeare could plausibly have said, and what the play itself shows about Mercutio's danger are four different questions, and the quip's long life comes from critics answering one of them while believing they were answering another.
 

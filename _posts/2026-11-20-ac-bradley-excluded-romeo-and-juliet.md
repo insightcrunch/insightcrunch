@@ -6,17 +6,17 @@ date: 2026-11-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-debate", "ac-bradley", "tragedy", "bradley-exclusion"]
 excerpt: "A.C. Bradley left Romeo and Juliet out of his famous Shakespearean Tragedy, a telling exclusion that reveals his assumptions about what counts as great tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-20
+lang: en
 ---
-
 A.C. Bradley's *Shakespearean Tragedy* (1904) is the most influential book ever written about Shakespeare's tragedies, and Romeo and Juliet is not in it. The exclusion was a decision about the scope of one book: Bradley announced in his Introduction that he would consider "the four principal tragedies" from a single point of view, and he placed the lovers' play outside that design with one sentence, calling it "a pure tragedy, but it is an early work, and in some respects an immature one." Because the book became the discipline's court of appeal, a filing decision hardened into a ranking, and the play spent a century under a suspicion it had done nothing fresh to earn: that it is a lesser tragedy, a beautiful apprentice piece that fails the tests the great four pass.
 
 The verdict argued here is that the suspicion reverses the evidence. Bradley's criteria were drawn from the four plays he had already chosen, so the exclusion is circular at its root; measured against his own stated tests, the play passes most of them, several on the strength of passages where Bradley himself uses it as his example; and where it genuinely differs, in the inward division of its hero, the difference marks a different kind of tragedy rather than a deficient one. The catastrophe in Verona is organized by an institution, the feud, and by a formal design of pattern and haste, not by the slow self-division of a single colossal consciousness. That is another species of the genus, and Bradley's limit was to mistake his species for the genus.
 
-![A.C. Bradley's Shakespearean Tragedy open beside the excluded play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A.C. Bradley's Shakespearean Tragedy open beside the excluded play - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 What gives the exclusion its interest is that Bradley is no enemy of the play. His book mentions it more often than any other work he left out, quotes its hero's premonition as a model of tragic exposition, gives its hero the fundamental tragic trait and a named tragic error, and in a later lecture finds, for this very play, the inward necessity that rescues a tragedy of accident. The exclusion case, assembled whole, convicts the definition more than the play. It also explains the definition: Bradley was describing, with unmatched fidelity, the tragedies of Shakespeare's maturity between about 1601 and 1608, and he honestly reported that the early love tragedy did not exhibit their inward machinery. His error was one of taxonomy, and it took the combined work of Franklin Dickey, Harry Levin, Susan Snyder, and Nicholas Brooke to correct the filing.
 

@@ -6,19 +6,19 @@ date: 2026-09-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "dating", "earthquake-clue", "dating-earthquake"]
 excerpt: "The Nurse recalls an earthquake eleven years past, a line some have used to date Romeo and Juliet, though the famous clue is shakier than it first appears."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-09-04
+lang: en
 ---
-
 ## What Is the Earthquake Clue, and What Has Been Built on It?
 
 Somewhere near the start of Romeo and Juliet, in the third scene of the first act, the Nurse settles into the longest reminiscence of her life and remarks, almost in passing, that it is eleven years since the earthquake. From that single number a date for the whole play has repeatedly been manufactured. An earthquake shook England on 6 April 1580, the severest in living memory, and it was famous for a generation. Add eleven years to 1580 and the sum is 1591. On that arithmetic, generations of readers have been told that Shakespeare wrote his tragedy of the Veronese lovers in or about 1591, when he was twenty-seven and barely visible in the London theatre. The clue is the most quoted piece of internal evidence in the play's chronology, and it is the subject of this study: what the line says, what the argument built on it assumes, what the rival candidates do to the sum, and what the firmer evidence, the printed quarto of 1597, the company name on its title page, the testimony of Francis Meres, the verse itself, actually establishes.
 
 The play itself invites the error, and the invitation is worth noticing before the error is corrected. No tragedy in the canon counts its own time more feverishly than this one. Its Chorus promises the two hours' traffic of the stage in the Prologue (line 12); its heroine cries for night to gallop apace and reckons the hours until morning; its friar measures a potion's sleep at two and forty hours (4.1.105); its action compresses a courtship, a marriage, three killings and a double suicide into five days that the dialogue keeps tallying, a fortnight and odd days here, on Thursday next there, three hours, one hour, a quarter of an hour. A work so saturated in counted time trains its readers to count, and the dating debate is in part the story of that training escaping the fiction's borders. The Nurse's eleven years gleams at the critic with the same false promise the Friar's forty-two hours makes to Juliet: the promise that a number in this play is a measurement. Inside the action, the Friar's number is exact and the catastrophe happens anyway. Outside it, the Nurse's number is approximate and the catastrophe is a wrong date printed in a thousand handbooks. The parallel is not an argument. It is a warning about the kind of text under examination, a text in which numbers are instruments of pressure and pathos first and of record second, if at all.
 
-![The Nurse recalling the earthquake and the weaning beneath the dove-house wall - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse recalling the earthquake and the weaning beneath the dove-house wall - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The verdict can be stated at once, because everything that follows is its defence. The earthquake line is genuine period colour and almost certainly a real memory lodged in the text: a quake that a whole nation used as a date-marker was exactly the kind of landmark by which a woman like the Nurse would reckon her past, and there is no reason to doubt that the tremor of 1580 stands somewhere behind her words. But as an instrument for fixing the year of composition the clue fails, and it fails instructively. It requires three assumptions to hold at once: that the Nurse's earthquake is the English earthquake of 1580 rather than any other; that her eleven years is an exact count rather than a character's round figure; and that the dramatic present of the fiction coincides with the calendar present of the author. Each assumption is contestable, one is contradicted by the words on the page, which set the shaking in Verona and not in London, and the conclusion they jointly produce, a play of 1591, collides with the external record at almost every point where that record can be checked. The date the evidence supports is the middle of the 1590s, most probably 1595, inside a defensible window running from 1594 to 1596. The earthquake can corroborate nothing and refute nothing inside that window. It dates a memory. It does not date a manuscript.
 

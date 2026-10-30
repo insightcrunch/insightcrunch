@@ -6,15 +6,15 @@ date: 2026-05-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "gallop-apace", "variants", "gallop-apace-variants"]
 excerpt: "Juliet's gallop-apace soliloquy varies across the early texts of Romeo and Juliet, and one famous crux turns a single word into a long-debated editorial choice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-05-15
+lang: en
 ---
-
 The Gallop apace variants are the second great single-speech case in the early texts of Romeo and Juliet, and the harder of the two. Juliet's wedding-night soliloquy, the speech that opens at "Gallop apace, you fiery-footed steeds" (3.2.1), survives in three early witnesses that do not tell the same story about it. The first quarto of 1597 prints four lines of the speech and then brings the Nurse in. The second quarto of 1599 prints the whole design, thirty-three lines of invocation, impatience and prophecy, and inside its sixth line it prints the most argued-over word in the play: "That runawayes eyes may wincke" (3.2.6). The First Folio of 1623, set from a later quarto in the same line of descent, repeats the word and changes almost nothing else in the speech except one verb form. Every modern reader therefore meets the soliloquy through an editor's decisions, and the decisions are not decoration. Point the quarto's word one way and a fleeing sun shuts its eyes so that Romeo can come unseen; point it another way and the streets of Verona must empty of wanderers first. Replace the word, as some nineteenth-century editors did, and the line is about rumour, or surprise, or anything except what the quartos print.
 
-![Juliet's Gallop apace soliloquy and its variants across the early texts - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet's Gallop apace soliloquy and its variants across the early texts - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The verdict of this study can be stated at the outset, because everything that follows is its evidence. The quarto word is sound and should stand. No emendation proposed in three centuries of trying has earned its place in the text: each buys a smoother sense by abandoning the letters the witnesses agree on, and the letters, once the sentence is read with its own first four lines, yield a sense that needs no rescue. The word should be pointed as a singular possessive, "runaway's", and the runaway is the sun, Phoebus, the fugitive driver whose steeds Juliet has just ordered home to their lodging. His eyes wink shut, in the period sense of wink as sleep, as his chariot goes down; that closing of the day's one great eye is the condition Juliet demands before Romeo can leap to her arms untalked of and unseen. The Folio's single substantive gift to the speech, "grown" for the second quarto's "grow" at 3.2.15, should be accepted, as most editors accept it, because there the transmitted reading limps and the Folio's form completes an idiom. Everything else in the speech descends from the second quarto, and the first quarto's four-line stump, precious as evidence about performance, has no authority over the wording of a speech it barely prints. A companion study on this site reads the same soliloquy as an utterance of desire, [Juliet's 'Gallop Apace' Speech: Desire in Verse](/2022/07/15/juliet-gallop-apace-soliloquy-desire/); the present study reads it as a document, a thing handed down by printers, and asks what exactly has been handed down.
 

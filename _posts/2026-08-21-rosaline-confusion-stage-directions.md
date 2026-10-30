@@ -6,17 +6,17 @@ date: 2026-08-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "rosaline", "stage-directions", "rosaline-confusion"]
 excerpt: "The early texts of Romeo and Juliet tangle their guest lists and names around Rosaline, a small confusion that has fed debate about revision and staging."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-08-21
+lang: en
 ---
-
 ## The Rosaline Confusion in the Early Stage Directions: A Name in the Documents, a Body Nowhere
 
 The Rosaline confusion begins with a claim that the documents refuse to support. The claim, repeated in classrooms and study guides, holds that the first quarto of Romeo and Juliet brings Rosaline onto the stage at Capulet's feast, entering her with the guests in a stage direction that the second quarto then contradicts or corrects. The claim is false. No stage direction in the first quarto of 1597 names her. No stage direction in the second quarto of 1599 names her. The First Folio text of 1623, set from a reprint of the second quarto, names her in no direction either. Across the whole early printed tradition of the play, the woman Romeo loves before Juliet exists in exactly two kinds of writing: in dialogue, where other characters speak her name, and in one spoken document, the guest list that Capulet's servant carries through the streets and cannot read. She has no entrance, no exit, no speech prefix and no place in any direction's census of bodies. The confusion that bears her name is real, but it is not where the tradition has usually looked for it. It sits one item deep in a dinner invitation, in the pointing between two names, and in the three centuries of editorial repair that a single unattached name provoked.
 
-![The guest list and feast directions of the early quartos examined for the Rosaline confusion - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The guest list and feast directions of the early quartos examined for the Rosaline confusion - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The verdict of this study can be stated at once, since the whole argument is a defence of it. The tangle around Rosaline in the early texts is genuine but small, and its smallness is the finding. The two quartos transmit the guest list's catalogue with identical membership in identical order; they differ at her entry by one mark of pointing, a conjunction in the first quarto where the second prints a comma. That difference has been made to carry a family tree, Livia's supposed niecehood, a theory of authorial revision, and a psychology of memorial reconstruction. It can carry none of them. The list's own grammar, tested against all ten of its items, attaches the word niece to Rosaline alone in both texts and leaves Livia grammatically unattached in both. What the divergence does expose is the copy behind each quarto: a block of foreign names transmitted for its shape rather than its syntax, in a scene built on the failure of a written document to reach its readers intact. The play's first act is about a list that miscarries. The list's own transmission miscarried in the same way, and the confusion is the record of that double failure, compounded by editors who could not leave an unattached name alone.
 

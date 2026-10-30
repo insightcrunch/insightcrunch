@@ -6,15 +6,15 @@ date: 2026-07-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "lineation", "verse", "lineation-lost-verse"]
 excerpt: "The early quartos of Romeo and Juliet sometimes mislineate the verse or set it as prose, so part of the meter we read has been restored by later editors."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-07-03
+lang: en
 ---
-
 Lineation is the quietest decision on every page of Romeo and Juliet, and one of the most consequential: the division of the play's words into verse lines, the choice of where one pentameter ends and the next begins, is made afresh by every text that transmits the play, and the early quartos of 1597 and 1599 do not always make it well. Their compositors ran verse lines together, split single lines into fragments, and in places set whole stretches of pentameter as prose, so that the metre a reader scans in a modern edition is partly a transmitted inheritance and partly an editorial reconstruction. The verdict argued here is precise rather than alarmist. The skeleton of the verse descends intact from the second quarto, whose lineation follows authorial copy for the great majority of lines; editorial repair clusters at identifiable joints, where the printing house or a reporting actor broke the measure; and at a small residue of famous moments the recovery is conjecture, honestly labelled or not, where two competent editors divide the same words differently and the reader is trusting an ear rather than a document. How large each of those three territories is, and how a reader can learn to see the borders between them, is the subject of the pages that follow.
 
-![A mislineated quarto page of the play beside its modern relineation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A mislineated quarto page of the play beside its modern relineation - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The problem begins with a distinction most readers never need until it fails them. A verse line is a unit of composition: ten syllables, roughly, disposed in five iambic feet, whether or not any page ever printed it as such. A printed line is a unit of typography: whatever a compositor fitted between a margin and the edge of his measure before the type ran out. In a well-made book the two coincide so completely that the difference stays invisible. In the early quartos of this play they repeatedly come apart. A compositor short of space set verse as prose and let the words run to the margin; a compositor whose copy was a reported text, remembered rather than read, set down lines as the memory had delivered them, broken at the joints of recall rather than of metre; and the narrow quarto page forced long lines to turn, their tails dropping to a second typographic line that looks, to an unwary eye, like a short verse line of its own. Every modern edition of the play is a negotiation among these accidents. The words are, with famous exceptions, Shakespeare's; the lines they stand in are a collaboration among the playwright, his copyists, two printing houses, and four centuries of editors.
 

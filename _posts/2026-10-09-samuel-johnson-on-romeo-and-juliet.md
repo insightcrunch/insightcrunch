@@ -6,15 +6,15 @@ date: 2026-10-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "samuel-johnson", "johnsons-edition", "johnson-on-the-play"]
 excerpt: "Samuel Johnson praised the variety of Romeo and Juliet in his great edition of the plays, while faulting its wordplay, in a balanced verdict on the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-10-09
+lang: en
 ---
-
 Samuel Johnson delivered the most consequential short judgement on Romeo and Juliet that the eighteenth century produced, and he delivered it in a handful of sentences at the end of his 1765 edition. The play, he wrote, is one of the most pleasing of its author's performances; its scenes are busy and various, its incidents numerous and important, its catastrophe irresistibly affecting. Then, in the same breath, he withdrew part of the gift: the comic scenes are happily wrought, but the pathetic strains are always polluted with some unexpected depravations, and the distressed persons of the tragedy keep a conceit in their misery, a miserable conceit. Praise and reservation sit side by side in Johnson's verdict, and the verdict has outlasted every rival from his century because both halves of it are earned. The praise rests on an argued theory of drama, worked out in the Preface to his edition, that acquits this play of the charges neoclassical criticism had pending against it. The reservation rests on a real defect, which Johnson located more exactly than any critic before him, even where his own framework prevented him from seeing what the defect was for.
 
-![Samuel Johnson's edition and its verdict on the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Samuel Johnson's edition and its verdict on the play - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The argument of the pages that follow is that Johnson's assessment remains the best short account of the play written before the Romantics, and that its balance is not the bland midpoint between enthusiasm and disapproval but a set of distinct findings, each testable against the text. His defence of mingled drama explains why the Nurse and Mercutio belong in the same play as the tomb. His demolition of the unities of time and place explains why the play's frantic four days feel probable rather than absurd. His sentence on the Nurse identifies, in eight paired words, the doubleness that makes her the play's most durable comic creation. His charge against the conceit fails as a general law and succeeds as a local diagnosis, and the places where it succeeds are places he marked himself, in notes on single lines that most accounts of his criticism pass over. Where he is weakest, he is weakest in a characteristic direction: a moralist's framework, announced in the Preface as the first of Shakespeare's faults, keeps reaching for this play and finding almost nothing to seize, and the two occasions on which it does seize something are the least convincing notes he wrote on the tragedy. Johnson judging Romeo and Juliet whole is therefore a double exhibit: a great critic at his most accurate, and a great system at the edge of its competence.
 

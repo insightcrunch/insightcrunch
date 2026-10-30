@@ -6,19 +6,19 @@ date: 2026-05-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-crux", "duplicated-lines", "friar-laurence", "friar-lines-crux"]
 excerpt: "A famous crux in Romeo and Juliet repeats the Friar's dawn lines in two slightly different forms, a duplication that points to Shakespeare revising as he wrote."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-05-22
+lang: en
 ---
-
 # The Friar's Duplicated Lines: A Famous Crux of Revision
 
 The most instructive four lines in *Romeo and Juliet* are the four lines the play prints twice. At the end of the balcony scene, the second quarto of 1599 gives Romeo a quatrain about the breaking dawn: the grey-eyed morn smiling on the frowning night, the eastern clouds chequered with streaks of light, darkness reeling drunk from the path of day. Romeo leaves. The Friar enters alone with a basket, and the same quatrain begins again, in a second and slightly different form, as the opening of the Friar's soliloquy. One dawn, two drafts, standing eight printed lines apart in the book that every modern edition of the play descends from. No audience ever heard both. No performance could speak both. The duplication survives because the manuscript behind the second quarto preserved an act of revision that its author never finished tidying: Shakespeare wrote the dawn for Romeo, thought better of the passage while composing the Friar's entrance, rewrote it in improved form, and left the cancelled first version standing close enough to the second that the printing house set both.
 
 That is the verdict this article defends, and it is a verdict with a fight inside it. The duplicated lines, often called simply the dawn doublet, are the single most concrete piece of evidence about how the text of this play was made, and precisely because the stakes are high, every link in the argument has been contested. Bibliographers built the theory of the author's foul papers partly on survivals of this kind, and Paul Werstine and other skeptics have spent decades warning that the foul papers are a story editors tell themselves, a category with no surviving specimen against which its supposed symptoms can be tested. Editors, meanwhile, have had to decide what a reader should actually see, and they have not agreed: the consensus deletes Romeo's quatrain and prints the Friar's, Brian Gibbons broke ranks to give the lines a home in Romeo's closing speech, and René Weis, following the Second Folio of 1632, gives the quatrain to Romeo rather than the Friar, a decision Emma Smith faulted for arriving with no bibliographic theory attached. The crux is small. Four lines, twice told. What it opens onto is the whole question of what kind of object a Shakespeare text is: a finished artefact, or a working document caught in the act of becoming one.
 
-![The Friar's duplicated dawn lines at the junction of the balcony scene and the Friar's cell - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Friar's duplicated dawn lines at the junction of the balcony scene and the Friar's cell - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## The Duplicated Lines Themselves: Two Dawn Quatrains, Word by Word
 

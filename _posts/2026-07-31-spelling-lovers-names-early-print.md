@@ -6,15 +6,15 @@ date: 2026-07-31
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "spelling", "names-in-print", "spelling-lovers-names"]
 excerpt: "Early printed texts of Romeo and Juliet spell even the lovers' names variably, with forms like Iuliet, reflecting an age before fixed spelling and modern type."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-07-31
+lang: en
 ---
-
 The most famous names in English literature were not spelled the way the world now spells them when the play that carries them first reached print. The spelling of the heroine's name in the 1597 first quarto is Iuliet, not Juliet. The heroine of the 1599 second quarto, the fuller and more authoritative text from which nearly every later edition descends, is Iuliet again on its title page, and inside the book her name contracts and stretches through a family of forms, Iuliet, Iuli, Iu, Iule, as the speech prefixes abbreviate her. The hero stands steadier, Romeo in full wherever the full form is wanted, because his name happens to contain no letter that the early modern alphabet treated as two letters in one. The families fare no better than the lovers: the quartos write Mountague where every modern edition writes Montague, the Prince enters as Eskales where every modern edition prints Escalus, and the first quarto sends on two serving-men of the Capolets. This article examines the spelling of the lovers' names in early print as documentary evidence: what the title pages, speech prefixes, stage directions and family names of the quartos and the Folio actually record, whose habits those spellings preserve, and what an age of unstandardized spelling shows about the way the play travelled from manuscript to printed page.
 
-![The variable spellings of the lovers' names in the early quartos - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The variable spellings of the lovers' names in the early quartos - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The verdict can be stated at once. The variant spellings of the names are not errors scattered over an otherwise stable text, and they are not the author's own spellings preserved in amber. They are the normal condition of a text manufactured by hand in shops where spelling was a compositor's convenience rather than a rule, set from copy whose own spellings were already unfixed. Modern editions that print Juliet, Montague and Escalus in one unwavering form are performing a translation, and the translation is justified: Stanley Wells made the case for it once and for all, and this article accepts his conclusion for the reading page. But a translation that conceals itself falsifies the record. The names are the place where the concealment costs most, because a name is the one word in a play that readers take to be identical with the thing it names. Restoring Iuliet, Mountague and Eskales to view does not change what the names mean. It changes what readers understand a printed play to be: not a monument with its lettering cut once, but a manufactured object whose most intimate words were set letter by letter, by several hands, under no obligation to set them the same way twice.
 

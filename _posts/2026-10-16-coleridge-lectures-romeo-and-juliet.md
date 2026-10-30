@@ -6,17 +6,17 @@ date: 2026-10-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "coleridge", "romanticism", "coleridge-lectures"]
 excerpt: "In his lectures Coleridge gave Romeo and Juliet a warm Romantic reading, praising its poetry and treating Romeo's growth from Rosaline to Juliet as real."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-10-16
+lang: en
 ---
-
 ## What Did Coleridge's Lectures Change About Romeo and Juliet?
 
 Coleridge's lectures on Romeo and Juliet changed the question audiences asked of the play. Through the eighteenth century the standing question had been an auditor's question: which passages deserve praise as beauties, and which deserve censure as faults? Samuel Taylor Coleridge, lecturing on Shakespeare between 1808 and 1819 and returning to this tragedy more than once, replaced the auditor's question with a grower's question: what single life runs through the whole, such that each part grows out of it and explains the rest? His answer, delivered in fragments, digressions, and some of the most penetrating paragraphs ever written on the play, made Romeo and Juliet the test case for a new kind of criticism. The verdict of this article is that the lectures deserve their fame with one large discount. Coleridge saw things in the play that two centuries of editors had walked past: the dignity of the Rosaline episode, the Nurse as a feat of observed life, haste itself as the drama's animating character, and a unity deeper than plot. But the same lectures also founded a habit of idealizing the lovers that later criticism had to unlearn, and the voice that survives is not quite the voice that spoke in the room. Both halves of that verdict matter, and both can be documented.
 
-![Samuel Taylor Coleridge lecturing on Romeo and Juliet to a Romantic-era audience - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Samuel Taylor Coleridge lecturing on Romeo and Juliet to a Romantic-era audience - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The scale of the achievement is easy to miss because the evidence is scattered. No book by Coleridge on Shakespeare exists. What exists is a set of lecture notes in his hand, reports in shorthand by auditors, diary entries by listeners who sometimes grumbled, and posthumous collections assembled by other men. Yet from that debris, editors such as T. M. Raysor in Coleridge's Shakespearean Criticism (1930) and R. A. Foakes in the Bollingen edition of the Lectures 1808-1819: On Literature (1987) recovered a reading of the play coherent enough to argue with. The reading begins from a refusal. Coleridge refused to treat the tragedy as a necklace of fine passages strung on a defective plot. Where his predecessors collected beauties and logged faults, he asked how the feud, the servants' brawl, the Nurse's garrulity, Mercutio's wit, and the lovers' haste could all be modifications of one energy. That question, applied scene by scene, is the Romantic turn in Shakespeare criticism, and Romeo and Juliet is where it can be watched happening at closest range.
 

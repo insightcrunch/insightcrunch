@@ -6,15 +6,15 @@ date: 2026-08-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "title-pages", "publishing", "title-pages-evidence"]
 excerpt: "The title pages of the early Romeo and Juliet quartos name acting companies and publishers, offering hard evidence about how the play was performed and sold."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-08-28
+lang: en
 ---
-
 Every early edition of Romeo and Juliet opens with a page that is not the play. Before the Prologue speaks its first line, "Two households, both alike in dignity" (Prologue.1), a title page has already made a series of claims: what kind of play this is, how often it has been performed, whose servants performed it, who printed the book, who financed it, and where a copy could be bought. Those pages are the oldest documents of the play's public existence, older than any review, any cast list, any diary entry, and they survive for every early edition: the first quarto of 1597, the second of 1599, the third of 1609, the fourth quarto in two distinct issues from about 1622, and, in transformed shape, the First Folio of 1623, where the play loses its own page altogether and takes a single line in a catalogue instead. Read one at a time, each page is an advertisement. Read as a sequence, the six pages compose the play's first biography, written not by a biographer but by the book trade, in the trade's own shorthand of formulas, billings, and imprints.
 
-![Title pages of the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Title pages of the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The verdict of this article can be stated at once, because the evidence supports a clean division. The hard matter of the title pages, the printers, publishers, shop addresses, dates, and company billings, checks out against independent records wherever independent records exist, and can be trusted. The soft matter, the applause, the promises of correction and amendment, is sales language, written in formulas shared with dozens of other playbooks, and one famous boast turns out to be false in the letter even where it is fair in the spirit. The most eloquent evidence of all is neither the facts nor the puffery but the changes between one page and the next: a company billing that tracks a troupe's changes of patron, a venue named for the first time in 1609, an author's name that reaches the play only in the 1620s, a correction formula that outlives its meaning and hardens into part of the title itself. Title pages lie the way advertisements lie, in their adjectives. Their nouns, their names, dates, and places, are a record; and the differences between their successive versions are the closest thing the play has to a diary of its first twenty-five years.
 

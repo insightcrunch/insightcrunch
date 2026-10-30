@@ -6,17 +6,17 @@ date: 2026-06-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-crux", "rose-by-any-other-name", "crux", "word-or-name-crux"]
 excerpt: "The famous rose line in Romeo and Juliet survives in rival forms, word and name, and which one an editor prints subtly changes Juliet's argument about identity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-06-19
+lang: en
 ---
-
 The rose line is the most quoted sentence in *Romeo and Juliet*, and it does not exist. Not in the form the world quotes, at any rate. "What's in a name? That which we call a rose / By any other name would smell as sweet" (2.2.43-44) stands in no book printed in Shakespeare's lifetime: the first quarto of 1597 gives the sentence one shape, the second quarto of 1599 gives it another, and the First Folio of 1623 manages to garble the famous question itself while keeping a reading at odds with the one the public has memorized. Inside the divergence sits a single contested syllable. The second quarto, the authoritative early text from which modern editions descend, prints "by any other word." The first quarto prints "by any other name." One of those readings is what Shakespeare's text, on the documentary evidence, most probably said; the other is what four centuries of quotation have taught the world to say. This article examines the crux as a problem in documents: what each early witness actually prints at the rose line and in the sentences that carry it, how editors from Edmond Malone onward have chosen between the rival forms, what hangs on the choice for Juliet's argument about the detachability of labels, and which reading an honest edition should put on the page.
 
 The verdict can be stated at the outset, since the evidence is unusually compact. An editor should print "word." The reading "word" is carried by the second quarto, the copy-text for the play, and by the Folio tradition that descends from it; "name" is carried by the first quarto alone, a text whose authority at this passage is compromised by everything else it does to the speech around the line. Yet the verdict comes with a rider that matters more than the verdict itself. The speech the world knows, the smooth dozen lines that begin "'Tis but thy name that is my enemy," is an editorial construction assembled in the eighteenth century from pieces of both quartos, as the textual essay in the Pelican Shakespeare puts the point with unusual bluntness: there is in fact no early text that reads as the modern text does, and this is the most famous speech in the play. The crux is therefore double. There is the small crux of one syllable, word against name, and there is the large crux behind it: the most famous line in English drama is a conflation, and every quotation of it silently ratifies a set of editorial decisions that the quotation never discloses. Restoring the crux does not diminish the line. It restores the line's history, and with it the reader's right to know what kind of object a famous quotation is.
 
-![The rose line and its early printed witnesses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rose line and its early printed witnesses - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 ## The Three Witnesses at the Rose Line
 

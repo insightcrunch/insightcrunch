@@ -6,15 +6,15 @@ date: 2026-09-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "francis-meres", "early-fame", "meres-list"]
 excerpt: "Meres named Romeo and Juliet among Shakespeare's tragedies in Palladis Tamia, the play's first surviving mention, fixing its deadline and recording its fame."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-09-11
+lang: en
 ---
-
 The first fame of Romeo and Juliet survives on a single page of a clergyman's commonplace book. In Palladis Tamia, entered in the Stationers' Register on 7 September 1598, Francis Meres set the lovers' tragedy last in a roll of six tragedies and offered the whole list as witness that its author was the most excellent English writer in both kinds for the stage. No earlier book, pamphlet, letter, or diary that has come down names the play at all. The verdict argued through this article is that the page deserves its fame and has also been made to carry more than a page can bear. Read strictly, it establishes three things beyond serious dispute: that a play called Romeo and Juliet existed by the autumn of 1598, that a contemporary with no playhouse interest credited it to Shakespeare by name, and that the play stood, in that witness's judgement, in the first rank of the author's tragedies. Read loosely, as handbooks have often read it, it gets stretched into evidence for a composition date, for the identity of the text that survives, and for a triumph at the box office. It proves none of those three. The list is the play's first record of reputation, and reputation is a specific kind of fact: narrower than popularity, harder than gossip, and exactly the kind of fact that print preserves.
 
-![Francis Meres's Palladis Tamia open at the Comparative Discourse that first names Romeo and Juliet in print - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Francis Meres's Palladis Tamia open at the Comparative Discourse that first names Romeo and Juliet in print - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The distinction matters because the cliché version of the story has no earliest chapter. Popular accounts begin the fame of Romeo and Juliet with the centuries: with Garrick, with the films, with the schoolroom. The documentary record begins instead in 1598, within a few years of the first performances, in a book compiled for schoolmasters and readers of moral sentences. What Meres wrote is short enough to quote entire, and the whole argument of this article hangs on keeping his three separate mentions of Shakespeare separate, on noticing what the list includes and what it leaves out, and on weighing the witness before weighing the testimony. A compiler of other men's sentences is an odd star witness. The argument below is that his oddity is the point: a commonplace book is a seismograph of what was already circulating, and what was circulating in 1598, far from any playhouse, included the name of this play attached to the name of its author.
 

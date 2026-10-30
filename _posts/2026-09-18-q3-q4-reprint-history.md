@@ -6,15 +6,15 @@ date: 2026-09-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "q3-q4", "reprints", "q3-q4-reprint-history"]
 excerpt: "The third and fourth quartos of Romeo and Juliet were reprints that carried the text forward, and the third quarto became the basis for the Folio version."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-09-18
+lang: en
 ---
-
 The text of Romeo and Juliet that the seventeenth century read, quoted, and handed down was not the text of the famous quartos of 1597 and 1599 alone. It was the text as two later reprints carried it forward: the third quarto of 1609, a page-for-page descendant of the 1599 edition, and the undated fourth quarto that followed it. Between them, these unglamorous books did the work on which everything else depends. The third quarto became the copy from which the First Folio was printed, so that every Folio reading, and every edition that trusted the Folio for three hundred years, rests on a 1609 reprint. The fourth quarto carried the play to the edge of the Folio moment and, in some of its copies, put the author's name on the play's title page for the first time in the quarto line. The verdict of this study is that the reprints are not an appendix to the transmission but its load-bearing middle: remove them, and the road from the playwright's papers to the collected edition of 1623 has a gap exactly where the traffic was heaviest.
 
-![The 1609 third quarto of Romeo and Juliet and its undated successor - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The 1609 third quarto of Romeo and Juliet and its undated successor - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That verdict reverses the usual telling, in which the story of the early text stops at the contest between the short quarto of 1597 and the full quarto of 1599 and resumes, briefly, at the Folio. The reprints correct that picture in three ways. They show how a printed text actually travels through a trade: not by fresh encounters with manuscripts, but by compositors setting type from the previous printed page, correcting a little, corrupting a little, and passing the accumulated result on. They show what the play was worth as property, since a publisher bought the rights in 1607 and kept the title in print for thirty years. And they settle questions the famous quartos cannot settle about themselves, including which book the Folio's compositors really had open on their desks. The third and fourth quartos reward the attention they have rarely been given, and the pages below take them in order: the books themselves, the property deal that produced the third, the drift each reprint introduced, the annotated copy that carried the third into the Folio, the undated fourth quarto's contested year and divided title page, and the market that the whole reprint sequence measures.
 

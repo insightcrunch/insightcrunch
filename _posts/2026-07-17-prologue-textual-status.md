@@ -6,17 +6,17 @@ date: 2026-07-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "prologue", "chorus", "prologue-textual-status"]
 excerpt: "The Prologue to Romeo and Juliet has an odd textual life, printed whole in one early text, cut down in another, and dropped by the Folio: a genuine puzzle."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-07-17
+lang: en
 ---
-
 ## The Prologue's Strange Textual Status: A Sonnet with Three Different Lives
 
 The Prologue to Romeo and Juliet, the fourteen-line sonnet in which the Chorus announces "Two households, both alike in dignity" (Prologue.1) and gives away the ending before the action starts, is the most familiar threshold in English drama. Its textual status is anything but familiar. The speech does not descend through the early editions as a single stable document. It survives complete in exactly one early text, the second quarto of 1599. It survives damaged in the first quarto of 1597, where it shrinks to twelve lines, loses two of its lines outright, mislays its rhymes, and renames the households. And it does not survive at all in the First Folio of 1623, the prestige collected edition through which the play reached posterity, even though the Folio's printers worked from a quarto copy in which the sonnet stood complete. The Prologue's companion piece, the second Chorus sonnet that opens the second act with "Now old desire doth in his deathbed lie" (2.0.1), traces the mirror image of the same journey: missing from the first quarto, present in the second, and present in the Folio only as a bare, unattributed sonnet stripped of its speaker. Between them, the two speeches were never transmitted whole together except by the second quarto.
 
-![The Chorus sonnets of Romeo and Juliet in the early quartos and the Folio - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Chorus sonnets of Romeo and Juliet in the early quartos and the Folio - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The verdict of this study is stated at the outset, because the evidence supports one conclusion more strongly than its rivals. The two Chorus sonnets are the author's frame for the play, designed as a matched pair, and their strange transmission is the record of what the early modern theatre did to frame material: performance cut it, memory garbled it, and a collected edition regularized the play around it. Neither speech was lost because anyone doubted who wrote it. The Prologue was lost, damaged, and orphaned because a speech that stands outside the action, speaks no character's lines, and advances no event is the most detachable object in a playbook, and every hand that carried the play from stage to print treated detachable objects as expendable. What looks like a puzzle about authorship is a lesson about transmission. The most quoted sonnet in the play owes its survival, intact and attributed, to a single edition printed from the author's own draft papers, and to the editors who have taken that edition as their copy-text ever since.
 

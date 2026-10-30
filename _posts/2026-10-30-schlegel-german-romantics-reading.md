@@ -6,15 +6,15 @@ date: 2026-10-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "schlegel", "german-romantics", "schlegel-reading"]
 excerpt: "August Wilhelm Schlegel and the German Romantics exalted Romeo and Juliet as a unified poem of love and fate, shaping the play's high European reputation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-10-30
+lang: en
 ---
-
 The prestige of Romeo and Juliet was not found but made, and the workshop where much of it was manufactured stood in Jena and Vienna, in the person of August Wilhelm Schlegel. Before Schlegel, the play's standing in England rested on the stage: audiences loved it, adapters improved it, and critics apologized for its puns, its haste, and its mixture of clowning with catastrophe. Schlegel reversed the polarity of the whole discussion. In his Vienna lectures on dramatic art and literature, delivered in 1808 and published between 1809 and 1811, he treated the tragedy not as a flawed popular success but as a finished poem whose every scene was necessary, whose contrasts were its structure, and whose mingled mirth was part of its design. The verdict of this article is that Schlegel's reading, carried across Europe by his celebrated German translation of Shakespeare, by Madame de Staël's championship, and by John Black's English translation of the lectures, did more than any other single critical act to convert the play from theatrical property into canonical literature. The reading was not flawless. Its unity is partly a unity of impression rather than of construction, and later critics have shown the seams Schlegel preferred to blend. But the prestige the play now enjoys as a poem, studied whole and quoted as a single sustained utterance on love, descends from the German Romantic reframing in a direct line.
 
-![August Wilhelm Schlegel and the German Romantic reading of the lovers' tragedy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![August Wilhelm Schlegel and the German Romantic reading of the lovers' tragedy - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 That claim requires the evidence to be laid out in order: the critic himself, his early essay on the play, the Vienna passage where the famous formulations stand, the machinery of antithesis he found in the text, his defence of the play's mixed mode, the system of classical and romantic drama that made the play a piece of European evidence, the translation that naturalized Shakespeare in Germany, and the contested transmission of the whole reading into England. Each stage rests on documents, and the documents reward quotation, because Schlegel's phrases have been repeated so often at second hand that their original force, and their original limits, are easily lost.
 

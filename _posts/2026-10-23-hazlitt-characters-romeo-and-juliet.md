@@ -6,17 +6,17 @@ date: 2026-10-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "william-hazlitt", "romanticism", "hazlitt-on-characters"]
 excerpt: "William Hazlitt read Romeo and Juliet as the play of young love itself, praising its freshness of feeling and the truth of its characters to the very life."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-10-23
+lang: en
 ---
-
 ## Hazlitt's Chapter and the Making of the Young-Love Play
 
 William Hazlitt's chapter on Romeo and Juliet in Characters of Shakespear's Plays, published in 1817, is the founding document of the reading by which the play is generally known: the supreme drama of young love, fresh as spring, true in every pulse of feeling. That reading feels like a fact of nature, something any attentive reader would find in the text unaided. It is nothing of the kind. It was argued into existence, at a specific moment and against specific opponents, by a single critic writing at the height of his powers, and the argument is considerably tougher than the commonplace it produced. Hazlitt did not discover the play's young lovers swooning in a bower and invite the reader to swoon with them. He defended their passion as healthy, bodily, brief, and founded on everything they had not yet lived, and he defended it against moralists who called it idle, against prudes who cut its frankest speech out of family editions, and against a philosophy of mind that could not explain why first feelings are the strongest. The verdict of this article is plain: Hazlitt's chapter survives its own success. Read whole, it is not a valentine but a brief for the defence, and the sentimental Romeo and Juliet of later decades is what remained of his reading after his readers kept the warmth and discarded the reasoning.
 
-![The Characters of Shakespear's Plays chapter on the lovers, in Hazlitt's critical reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Characters of Shakespear's Plays chapter on the lovers, in Hazlitt's critical reading - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The chapter's claims can be stated in a breath, and the rest of this article tests them one by one. Hazlitt held that the tragedy is the one play its author built entirely on a love story, that its passion draws its force from anticipation rather than experience, that Juliet is the finest vindication of the playwright's female characters against a standing slander, that Romeo is a Hamlet whose thought has been converted into feeling, and that the whole design, from the Nurse's prattle to old Capulet's memories, forms a survey of human life at every age. He held these things in prose of extraordinary answering energy, quoting the play the way other critics quote statutes, as evidence. Where he was wrong, he was wrong in ways that instruct: he supposed the play to be its author's first, which later dating does not sustain, and he had almost nothing to say about Mercutio, whose wit his method could not digest. Where he was right, he was right before nearly everyone else, and the proof is that his rightness has hardened into the clichés of the play's reputation, repeated by readers who have never opened his book.
 

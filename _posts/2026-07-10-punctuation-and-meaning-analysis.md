@@ -6,17 +6,17 @@ date: 2026-07-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "punctuation", "meaning", "punctuation-and-meaning"]
 excerpt: "The punctuation in Romeo and Juliet is largely editorial, and a misplaced comma or stop can change the sense, so the pointing readers trust is a modern overlay."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-07-10
+lang: en
 ---
-
 ## The Verdict First: Whose Punctuation Does a Reader Actually Read?
 
 The punctuation of Romeo and Juliet, the commas and colons and stops that tell a reader where one thought ends and the next begins, is the least authorial layer of the printed play. The words descend from a manuscript of the 1590s through the second quarto of 1599; the pointing descends from printing houses, from three centuries of editors, and from the modern grammatical system that no Elizabethan writer used. That is the verdict this study defends: the pointing on a modern page is an overlay, applied first by compositors who set type by ear and habit, then by editors who regularized the marks into a syntax the first audiences never saw, and it deserves to be read the way a translation is read, as a skilled mediation that mostly serves the text and sometimes silently replaces it.
 
-![An early printed page of the play, its lines pointed with the light stops and commas of the first editions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![An early printed page of the play, its lines pointed with the light stops and commas of the first editions - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The claim is not that editors have vandalized the play. Repunctuation was unavoidable, because the system the marks belonged to has died: a comma in 1599 measured a pause for the voice, while a comma in a modern edition marks a joint in the grammar, and printing the old marks under the new understanding would mislead more readers than it served. The claim is narrower and harder. At a small number of passages, a mark does not merely pace the sense but chooses it, deciding whether Death or Romeo takes Juliet to the wedding bed, whether Romeo addresses his own lips or a personified power at his death, whether Juliet's last sentence falls in one motion or in three hammered beats. At those passages the reader is not reading the playwright's pointing, for none survives. The reader is reading an editor's argument, printed in the least visible form an argument can take, as a comma.
 
