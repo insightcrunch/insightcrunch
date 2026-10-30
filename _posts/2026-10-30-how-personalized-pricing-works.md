@@ -6,17 +6,17 @@ date: 2026-10-30
 categories: ["Industry"]
 tags: ["economics", "personalized-pricing", "price-discrimination", "consumer-protection", "pricing-algorithms", "ecommerce"]
 excerpt: "How personalized pricing works: the data, models and market power that let a seller quietly charge each buyer a different price for the same product or ride."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2026-10-30
+lang: en
 ---
-
 ## A Price Quoted to One Person
 
 A personalized price is set by estimating what one identified buyer will pay for an item and charging close to that estimate, rather than displaying one price to every buyer who views the item. Two shoppers can open the same product page within the same hour, from homes a few streets apart, and see different amounts, and neither shopper can see the price shown on the other screen. Willingness to pay, the highest amount a particular buyer will accept before walking away, is the hinge concept, because the entire mechanism exists to locate that amount and price against it.
 
-![A price tag split into many different prices for the same product - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A price tag split into many different prices for the same product - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 A personalized price is not a market price with a name attached; it is an estimate of one buyer converted into a number, and its power comes less from the accuracy of the model than from the buyer being unable to see the prices quoted to anyone else. A market price gains strength from common visibility, because a seller who quotes a high figure in public risks an immediate comparison with a rival figure quoted in the same public space. A price delivered inside a private account session faces no such test at the moment of decision. The buyer can accept, refuse, or delay, but the buyer cannot place an identical offer made to a neighbor alongside the offer on the screen and measure the gap between the two.
 
