@@ -662,3 +662,27 @@ arch-gateway-inside-leg | how-gateway-arch-was-built | What is inside the legs o
 arch-built-gateway-loui-st | how-gateway-arch-was-built | Why was the Gateway Arch built in St. Louis?
 arch-clean-gateway-maintain | how-gateway-arch-was-built | How is the Gateway Arch cleaned and maintained?
 about-arch-critic-gateway-propos-say | how-gateway-arch-was-built | What did critics say about the Gateway Arch when it was proposed?
+
+## economics-personalized-pricing
+
+### how-personalized-pricing-works
+personaliz-pric-simple-term | how-personalized-pricing-works | What is personalized pricing in simple terms?
+different-dynamic-personaliz-pric-pric | how-personalized-pricing-works | How is personalized pricing different from dynamic pricing?
+between-difference-discrimination-personaliz-pric-price | how-personalized-pricing-works | What is the difference between price discrimination and personalized pricing?
+charge-company-different-different-people-pric | how-personalized-pricing-works | Why would a company charge different prices to different people?
+matter-pay-pric-willingnes | how-personalized-pricing-works | What is willingness to pay and why does it matter for pricing?
+know-pay-shopper-websit-will | how-personalized-pricing-works | How do websites know what a shopper might be willing to pay?
+coupon-discrimination-form-price | how-personalized-pricing-works | Are coupons a form of price discrimination?
+airlin-charge-different-far-flight-many-same | how-personalized-pricing-works | Why do airlines charge so many different fares for the same flight?
+amazon-charge-customer-different-different-pric-really | how-personalized-pricing-works | Did Amazon really charge different customers different prices?
+bas-coca-cola-happen-pric-soda-suggest-weather | how-personalized-pricing-works | What happened when Coca-Cola suggested weather-based soda prices?
+charge-customer-different-legal-pric-product-same-two | how-personalized-pricing-works | Is it legal to charge two customers different prices for the same product?
+bas-data-personal-pric-surge | how-personalized-pricing-works | What is surge pricing and is it based on personal data?
+affect-gig-pay-personaliz-pric-their-worker | how-personalized-pricing-works | How does personalized pricing affect gig workers and their pay?
+insurance-optimization-price | how-personalized-pricing-works | What is price optimization in insurance?
+change-code-offer-person-price-zip | how-personalized-pricing-works | Can a ZIP code change the price a person is offered?
+discrimination-economist-efficient-fair-judge-price-whether | how-personalized-pricing-works | How do economists judge whether price discrimination is fair or efficient?
+commission-federal-find-pric-study-surveillance-trade | how-personalized-pricing-works | What did the Federal Trade Commission find in its surveillance pricing study?
+disclose-european-law-personaliz-pric-require-seller | how-personalized-pricing-works | Does European law require sellers to disclose personalized prices?
+personaliz-price-researcher-tell | how-personalized-pricing-works | How can researchers tell if a price was personalized?
+compani-hidden-keep-legal-personaliz-pric | how-personalized-pricing-works | Why do companies keep personalized pricing hidden if it is legal?

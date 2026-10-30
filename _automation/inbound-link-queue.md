@@ -108,3 +108,7 @@
 ## how-gateway-arch-was-built
 - _posts/2026-10-20-how-archaeologists-date-ancient-shipwrecks.md - could carry: "Dating a structure begins with reading how it was made, and the same construction-first reading explains how the Gateway Arch was built, from its triangular sections to its jacked-apart closure."
 - _posts/2014-08-01-building-of-the-suez-canal.md - could carry: "The canal project imposed its cost on the people who dug it; a later American monument imposed its cost on a riverfront district, a parallel traced in how the Gateway Arch was built."
+
+## how-personalized-pricing-works
+- _posts/2026-10-09-how-oil-prices-are-set.md - could carry: "An oil price is formed where no buyer is known by name, the opposite pole from the estimate of one buyer set out in how personalized pricing works."
+- _posts/2019-01-15-ftc-consumer-protection-rulemaking.md - could carry: "The study power behind the surveillance pricing inquiry is one of the instruments whose limits are traced in how personalized pricing works."
