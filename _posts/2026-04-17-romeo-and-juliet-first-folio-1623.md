@@ -6,15 +6,15 @@ date: 2026-04-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "first-folio", "folio-edition", "folio-text"]
 excerpt: "Romeo and Juliet appears in the First Folio in a text printed mainly from a later quarto, so the Folio adds little new authority for this particular play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-04-17
+lang: en
 ---
-
 The most famous book in English literature holds a text of Romeo and Juliet that its printers never took from any manuscript of the playwright. When the First Folio appeared in 1623, seven years after Shakespeare's death, the tragedy of the Veronese lovers took its place among the tragedies in a volume whose title page promised works "Published according to the True Originall Copies." For this one play, that promise describes the book's ambition rather than its method. The Folio text was set in type from a printed quarto, a descendant of the Second Quarto of 1599 at two removes, and everything distinctive about it follows from that single bibliographical fact. Its readings are a quarto's readings filtered through one more printing house; its compositors corrected, miscorrected and occasionally corrupted a text that already stood in print; its one great structural gift, the division into acts and scenes, came from the printing house rather than the playhouse or the author. Yet the derivative text is also the text through which the play reached posterity, packaged as literature between hard covers, and the paradox defines the Folio's strange position in the play's history: least authoritative of the early witnesses for the words, most consequential of them all for the survival and the shape of the whole.
 
-![The First Folio text of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The First Folio text of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 This study gives the verdict at the outset and then proves it from the evidence. For Romeo and Juliet, the First Folio is a witness of the third rank: behind it stand the Second Quarto, printed from copy close to the author's papers, and the First Quarto, a reported text of real if erratic value, while the Folio merely reprints the Second Quarto's line of descent with fresh error and a new skeleton of divisions. Editors therefore build the play's text on the Second Quarto and consult the Folio as a corrector of last resort, a source for a handful of plausible readings, and the origin of the act and scene grid that every reader inherits. What the Folio could not supply in authority it supplied in permanence. Bound into the collected works of 1623, the tragedy entered the libraries where books survive, passed into the Second, Third and Fourth Folios, and reached the eighteenth-century editors as a classic awaiting restoration. The cliché imagines the Folio as the source from which the play flowed. The documentary chain shows the reverse: a quarto flowed into the Folio, and the Folio, precisely because it was a monument rather than a manuscript, carried that quarto's text down the centuries under a grander name.
 

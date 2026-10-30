@@ -6,17 +6,17 @@ date: 2025-12-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "chaucer", "troilus-and-criseyde", "chaucer-parallel"]
 excerpt: "Chaucer's Troilus and Criseyde, the great English poem of doomed love and a scheming go-between, lies behind the manner and machinery of Romeo and Juliet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-12-19
+lang: en
 ---
-
 Chaucer's Troilus and Criseyde is not a source of Romeo and Juliet, and this article begins by insisting on the distinction, because the distinction is where the value lies. The play's plot descends through the Italian line, from Luigi da Porto and Matteo Bandello to Arthur Brooke's English poem and William Painter's prose, and no scene, speech, or turn of the Verona story was lifted from Chaucer's long poem of Troy. What Chaucer lends the play is something a source list cannot record: a manner. The machinery by which the lovers reach each other through a scheming intermediary, the dawn parting that ends their one secured night, the language of Fortune that frames their ruin, and the habit of letting a lover's fine rhetoric expose the lover who speaks it all stand in English literature because Chaucer built them there, two centuries before the play. The verdict argued through every section that follows is that Troilus and Criseyde is the play's great English parallel and the ancestor of its manner, parallel rather than source, and that the parallel, drawn carefully, explains more about how Romeo and Juliet works than several entries on its official source list.
 
 The claim needs its limits stated as firmly as its reach. Chaucer's poem and the play share no plot. Troy is not Verona, the siege is not the feud, and Criseyde's story ends in a yielding that Juliet's story answers with a refusal. The shared ground is structural and tonal: a secret love conducted through a go-between whose management both enables and endangers it; a heroine of formidable intelligence weighing her own safety against her desire; a hero fluent in the inherited idiom of courtly service; a cosmos described by its sufferers as a wheel or a book of stars; and a catastrophe produced less by villains than by the ordinary operations of politics, timing, and exchange. Where the two works meet, they meet as members of one tradition that Chaucer, more than any other English writer, had already naturalized. To read the play beside the poem is to watch a dramatist inherit a grammar and compress it, turning five books of deliberation into five days of action.
 
-![Chaucer's Troilus and Criseyde set beside the lovers of Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Chaucer's Troilus and Criseyde set beside the lovers of Verona - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 ## Chaucer's Troilus and Criseyde: The Poem Behind the Play's Manner
 

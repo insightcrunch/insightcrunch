@@ -6,15 +6,15 @@ date: 2025-09-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "arthur-brooke", "romeus-and-juliet", "brooke-poem"]
 excerpt: "Arthur Brooke's long narrative poem Romeus and Juliet was Shakespeare's main source, supplying its plot, its characters, and much the play transformed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-09-19
+lang: en
 ---
-
 Arthur Brooke's *Romeus and Juliet* is the poem Romeo and Juliet was built from, and the debt is larger than the play's fame usually admits. Published in 1562 as *The Tragicall Historye of Romeus and Juliet*, Brooke's long narrative in rhyming couplets supplies nearly everything a plot summary of the play would list: the feud, the feast, the window courtship, the secret marriage, the Friar, the Nurse, the street killing, the banishment, the forced match, the sleeping potion, the failed message, and the tomb. Shakespeare's originality in this tragedy is real, but it is the originality of transformation working inside a borrowed frame. The verdict this article defends is plain: Brooke gave the play its architecture entire, its cast entire, and even the moral problem the drama refuses to settle, and any account of the play that begins with Shakespeare inventing the story begins in error.
 
-![Arthur Brooke's Romeus and Juliet, the narrative poem behind the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Arthur Brooke's Romeus and Juliet, the narrative poem behind the play - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 That verdict needs the poem itself, read as a work rather than mined for parallels. Brooke's poem runs to some three thousand lines, moves at a procession's pace through months where the play hurries through days, and speaks in two voices at once: a storyteller who lingers over his lovers and a preacher who has condemned them in his own preface before the story starts. Reading the poem whole changes what the play looks like. Scenes that feel like pure invention turn out to have germs in Brooke's couplets. Effects that seem to belong to the stage alone, the compressed calendar above all, stand out against Brooke's leisure as deliberate choices. And the poem's own strengths, its married middle, its Fortune-haunted narration, its sententious Friar, become visible as part of the inheritance rather than as scaffolding to be kicked away once the building stands.
 

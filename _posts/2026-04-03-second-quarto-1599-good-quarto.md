@@ -6,15 +6,15 @@ date: 2026-04-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "second-quarto", "good-quarto", "q2-text"]
 excerpt: "The second quarto of Romeo and Juliet is the fuller, more authoritative early text, set largely from Shakespeare's own papers, and it underlies most editions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-04-03
+lang: en
 ---
-
 Every reader who opens a modern edition of the tragedy meets the second quarto of 1599 before meeting anything else, whether the edition says so on its cover or not. The second quarto, the long early text that bibliographers call Q2, is the foundation document of the play in print: the fullest of the early editions, the one set in type from a manuscript standing closest to the playwright's own draft, and the copy-text from which nearly every scholarly edition descends. Its title page boasts that the text was newly corrected, augmented, and amended, and the boast is one of the rare pieces of booksellers' advertising that collation sustains. Q2 runs to roughly three thousand lines where the first quarto of 1597 offers roughly twenty-two hundred; it restores speeches the shorter text compresses or drops; and its errors, which are plentiful, are the errors of a printing house working from a difficult authorial manuscript rather than the deformations of a text carried in actors' memories. The verdict argued through this study is plain: the second quarto deserves its standing as the play's foundation text, not because it is clean, but because its very untidiness is the signature of the author's papers passing through a press.
 
-![Title page of the second quarto of Romeo and Juliet, printed by Thomas Creede for Cuthbert Burby - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Title page of the second quarto of Romeo and Juliet, printed by Thomas Creede for Cuthbert Burby - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That verdict needs the whole portrait to support it. A foundation text can be examined from several sides: as a physical book with a printer, a publisher, a date, and a title page; as a quantity of verse, measurable against the shorter edition it displaced; as the printed trace of a lost manuscript whose character scholars infer from spellings, speech prefixes, and unresolved stage directions; as a site where revision shows through the print, most famously in a pair of dawn speeches that the manuscript behind Q2 apparently carried in two forms at once; and as the head of a line of transmission that runs through the third quarto of 1609 and the fourth and fifth quartos into the First Folio of 1623. Each side of the portrait is taken in turn below, and the scholarly quarrel over the manuscript behind Q2, between W. W. Greg's foul-papers account and Paul Werstine's critique of that whole way of reasoning, is faced and adjudicated before the final verdict. The cliché reads a seamless classic. The bibliographical record shows a working draft, hurried through a busy printing house, that happened to carry the play closer to its author's hand than any other surviving witness.
 

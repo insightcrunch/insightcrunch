@@ -6,15 +6,15 @@ date: 2025-06-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "hyperbole", "exaggeration", "hyperbole-of-love"]
 excerpt: "Romeo and Juliet speaks in hyperbole, making the beloved the sun and love boundless as the sea, so exaggeration both glorifies the love and warns of its excess."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-06-06
+lang: en
 ---
-
 Hyperbole is the load-bearing figure of Romeo and Juliet, the exaggeration by which the lovers measure a feeling that every ordinary scale in Verona refuses to hold. A boy who has known a girl for an evening calls her the sun and asks the sun to murder the moon. The girl answers that her bounty is as boundless as the sea and her love as deep, and that the arithmetic of giving runs backwards in her hands, increasing what it spends. The feud speaks the same swollen dialect in reverse, hating words as it hates hell, boasting servants up against walls, a father announcing that the earth has swallowed all his hopes but one. No major speech in the tragedy is free of the figure, and the figure is never decoration. Hyperbole is how the play thinks about magnitude: what a feeling is worth, what a threat is worth, what a life is worth, all get priced in a currency of suns, seas, eternities and hells because the civic currency of Verona, dowries, alliances, banishments, pardons, keeps failing to price them at all.
 
-![A boundless sea beneath a rising sun, the two measures the lovers reach for - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A boundless sea beneath a rising sun, the two measures the lovers reach for - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The verdict argued through every section that follows is that the lovers' hyperbole is both things the long argument about it has wanted it to be, and that the two are the same fact seen at different distances. The exaggeration is sincere: it is the only accurate instrument the lovers own, because the feeling being measured genuinely has no proportion to the four days and the walled city that contain it, and understatement would be the real falsehood. The exaggeration is also the warning the Friar hears in it from the first, because a measure that admits no limit cannot register the limits the world is about to impose, and speech that has spent its superlatives by the second evening has nothing left in reserve for the catastrophe of the fifth day. Glory and danger are not rival readings of the figure. They are the figure's single property, boundlessness, experienced first as freedom and then as exposure. The play's own internal critic, Juliet, understands this before anyone: she keeps her lover's scale and disciplines his vehicles, barring the inconstant moon, refusing the oath machinery, demanding the deed instead of the declaration. Hyperbole survives her editing. What does not survive is the assumption that the largest possible words confer the largest possible safety.
 

@@ -6,15 +6,15 @@ date: 2025-08-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "caesura", "prosody", "caesura-and-broken-line"]
 excerpt: "The mid-line pause and the broken line let Romeo and Juliet stagger and break at its crises, so the verse itself falters where feeling overwhelms the speaker."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-08-29
+lang: en
 ---
-
 The smoothest account of this play's verse is also the least accurate one. Romeo and Juliet is remembered as a fountain of unbroken pentameters, speeches that pour from the balcony and the tomb in lines of unruffled music, yet the verse on the page keeps stopping. It stops inside lines, at the mid-line pause prosodists call the caesura. It stops short of the line's full length, in the short line that leaves part of the measure unspoken. It stops between speakers, in the line divided at the joint where one voice fails and another must finish the count. These halts cluster where the play hurts most: at the wound in the square, at the word banished, at the vial, at the dagger. The argument of this article is that the breaks are composed events, not accidents of transmission or ornaments of delivery, and that they do work a complete line cannot do. A finished pentameter reports feeling under control, held inside a form the speaker still commands. A broken one enacts feeling at the moment command fails. The caesura and the broken line are the tragedy's smallest units of crisis, and they can be catalogued, tested, and told apart from the routine pauses and printing defects that imitate them.
 
-![A verse line of Romeo and Juliet breaking apart at its mid-line pause - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A verse line of Romeo and Juliet breaking apart at its mid-line pause - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 That claim needs its instruments defined before it can be trusted, because the vocabulary of the pause is used loosely even by good readers. A caesura is not any gap in delivery, and a broken line is not any line an actor chooses to pause inside. Both terms name features of the written verse, measurable on the page of a named edition, and both have histories inside this play that begin long before the deaths. The quotations throughout are from René Weis's Arden Third Series text, cited by act, scene, and line, and the breaks discussed are breaks that text prints. Where the early quartos disagree about a line's shape, that disagreement is itself evidence, and it is treated as such in the section that sets the bar for telling a designed fracture from a defect.
 

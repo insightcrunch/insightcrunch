@@ -6,17 +6,17 @@ date: 2025-09-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "brooke-comparison", "adaptation", "changed-from-brooke"]
 excerpt: "Shakespeare kept Brooke's plot but transformed it, compressing months into days, enlarging Mercutio and the Nurse, and turning a moral tale into a tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-09-26
+lang: en
 ---
-
 ## The Verdict First: A Kept Skeleton, a Transformed Play
 
 Almost everything that happens in Romeo and Juliet happens in Arthur Brooke's poem first. The feast, the meeting, the secret marriage, the street fight, the banishment, the forced match with Paris, the sleeping potion, the failed letter, the tomb, the double suicide, the reconciliation of the houses: the plot of the play is the plot of The Tragicall Historye of Romeus and Juliet, the 3,020 line narrative poem Brooke published in 1562, more than three decades before the play reached the stage. Anyone who credits the story itself to Shakespeare is wrong, and the change ledger set out in this article begins by conceding the point in full. What Shakespeare changed from Brooke is not the sequence of events. It is everything that decides what those events mean: the calendar they run on, the ages of the people caught in them, the size and voice of the supporting figures, the fate of everyone left alive at the end, and above all the moral lighting in which the lovers are seen. Brooke's poem opens with a prose preface that condemns its hero and heroine before the story starts. The play opens with a sonnet that condemns nobody. Between those two openings lies the whole transformation.
 
-![What Shakespeare changed from Brooke, the entries of the InsightCrunch change ledger - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What Shakespeare changed from Brooke, the entries of the InsightCrunch change ledger - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The verdict defended here is that the changes form a system, not a scatter. Read one by one, the entries in the ledger can look like routine theatrical tightening. Read together, they all push in three directions at once: toward speed, toward sympathy, and toward the stage's embodied present tense. The compression of months into days makes haste, rather than fortune, the tragedy's visible engine. The lowering of Juliet's age from sixteen to not yet fourteen redistributes blame from the lovers to the adults arranging their lives. The enlargement of Mercutio and the Nurse converts narrative information into conflict and comedy that the poem never stages. The stripping of Brooke's moral frame removes the verdict the poem had passed in advance, so the audience must reach its own. And the repeal of the poem's closing punishments, replaced by pardons and golden statues, changes the ending from a penal settlement into a civic one. Where the changes cost the play something real, the ledger says so: the poem's months gave the marriage a lived duration that four days cannot supply, and that loss is recorded alongside the gains. But judged by effect, which is the only honest court for the question of improvement, the transformation is a creative act of the first order performed on borrowed material. Shakespeare's originality in this play is located precisely where the cliché refuses to look: not in the plot he took, but in the pressures he applied to it.
 

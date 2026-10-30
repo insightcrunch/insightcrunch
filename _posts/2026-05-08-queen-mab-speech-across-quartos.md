@@ -6,15 +6,15 @@ date: 2026-05-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "queen-mab", "quartos", "queen-mab-across-quartos"]
 excerpt: "The Queen Mab speech differs between the quartos of Romeo and Juliet, and comparing the versions shows how the famous flight of fancy took its familiar shape."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-05-08
+lang: en
 ---
-
 The Queen Mab speech, Mercutio's forty-line flight over the sleeping households of Verona in Act 1, Scene 4, is the most quoted set piece in Romeo and Juliet, and the version readers quote is an editorial assembly. No early printed text contains the speech in exactly the form a modern edition gives it. The speech survives in three early witnesses that agree on its substance to a degree that surprises readers who know the two quartos only by reputation, and differ from each other in arrangement, lineation, connectives and small wording at a density that rewards a magnifying glass. Collating this one speech across the first quarto of 1597, the second quarto of 1599 and the First Folio of 1623 produces a verdict that cuts across the grand theories built on the whole texts. The agreement proves common descent from a written ancestor very close to the second quarto's copy. The drift, where it occurs, carries the fingerprint of performance and memory rather than the pattern of an author rethinking a finished invention. And the Folio's speech, derivative almost line by line, warns against counting three witnesses when the evidence really holds two.
 
-![The Queen Mab speech collated across the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Queen Mab speech collated across the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The stakes of the collation are set by the speech's fame. Mercutio invents Queen Mab on the way to the Capulet feast, answering the hero's dream with a fairy midwife "no bigger than an agate stone" (1.4), and the invention has been anthologized, memorized and parodied ever since. Harold Bloom treated Mercutio as the play's presiding wit and the speech as the showpiece of that wit, the moment where the tragedy pauses for a virtuoso who can conjure a world out of miniatures. Precisely because the speech is famous, its textual condition is instructive. A passage every reader thinks of as fixed turns out to have reached print in two distinct early shapes, and the distance between those shapes measures the distance between the play as written and the play as performed, remembered and sold.
 

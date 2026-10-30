@@ -6,15 +6,15 @@ date: 2025-11-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "dante", "montecchi-cappelletti", "dante-feud"]
 excerpt: "Dante named the Montecchi and Cappelletti as feuding factions in his Purgatorio, and those real Italian party names lie behind the Montagues and Capulets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-11-28
+lang: en
 ---
-
 The two most famous family names in English drama were not invented by a playwright, a novelist, or a poet of love. Montecchi and Cappelletti enter literature in a political poem, in a single line of invective, spoken by Dante Alighieri in the sixth canto of the Purgatorio, where the names stand for the ruin of Italian civic life and nothing else. Dante gives the feud of Romeo and Juliet its names roughly two centuries before the tale of the lovers exists, and he gives them without lovers, without Verona as a setting for romance, without a balcony, a friar, a potion, or a tomb. He gives two houses held up to an emperor as evidence: this is what faction does to a city and a country. Everything the names later acquire, the star-crossed love, the secret marriage, the double suicide, is an accretion laid over a foundation that is purely, coldly political.
 
-![Dante's Purgatorio and the Montecchi and Cappelletti names - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dante's Purgatorio and the Montecchi and Cappelletti names - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The verdict of this study can be stated at once, because the evidence for it is short, checkable, and decisive. The names behind Montague and Capulet are not Verona love-lore and not Shakespearean coinage. They are the names of real medieval Italian factions, preserved in the most read Italian poem of the age, detached from their politics by a Vicentine soldier-novelist who needed surnames for a pair of invented lovers, and carried through French and English retellings until they reached a London stage wearing anglicized spellings. Restoring Dante to the head of that chain changes what the feud in the play is. The "ancient grudge" of the Prologue is not a fairy-tale premise. It is the residue of a documented political culture in which great houses consumed themselves and their cities, a culture Dante diagnosed with these very names. The borrowed names contribute weight that the plot alone could never supply: they make the feud feel older than any character, grounded in a real Italy of parties and exiles, and they let the play's silence about the feud's cause ring as historical truth rather than as a gap in the writing.
 

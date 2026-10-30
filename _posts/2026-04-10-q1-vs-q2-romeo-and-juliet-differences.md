@@ -6,15 +6,15 @@ date: 2026-04-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "q1-vs-q2", "quartos", "q1-q2-differences"]
 excerpt: "Comparing the two early quartos of Romeo and Juliet shows reassigned speeches, cut and altered lines, and stage directions that preserve a play in performance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-04-10
+lang: en
 ---
-
 Every reader of Romeo and Juliet reads a text that two early quartos disagree about, line by line, speech by speech, and direction by direction. The comparison of Q1 and Q2, the shorter quarto of 1597 against the fuller quarto of 1599, is the single most instructive exercise in the play's whole textual history, because it exposes the editorial choices hidden inside every modern edition. Set side by side, the two witnesses tell different kinds of truth. Q2 preserves the verse at something close to its full authorial reach: the long soliloquies, the dense conceits, the complete architecture of speeches that modern editions print. Q1 preserves the play as a working stage event: compressed, reordered in places, paraphrased in others, and furnished with stage directions that record bodies moving through a performance. The verdict argued through this article is plain. Neither quarto is a corrupt copy of the other in any simple sense. Each is evidence for a different thing, and the editor's task is not to crown one and discard the other but to collate them with a clear account of what each witness can and cannot testify to.
 
-![The two early quartos of Romeo and Juliet compared side by side - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The two early quartos of Romeo and Juliet compared side by side - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 That verdict has consequences for reading. A line that exists only in Q2, a direction that exists only in Q1, and a reading where the two texts split over a single word are three different kinds of fact, and they carry three different weights. The collation method, the pattern of the cuts, the transposed passages, the reassigned speeches, and the famous cruxes where one word divides the witnesses all repay close attention, because together they show how the play's text was made twice: once in the writing and once in the playing. The familiar reading text, the one quoted in essays and printed in school editions, is a third making, assembled by editors who take the verse mainly from Q2 and the staging partly from Q1. Understanding that assembly is the real subject of the Q1 against Q2 comparison.
 

@@ -6,15 +6,15 @@ date: 2025-03-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "untimely-frost", "lord-capulet", "capulet-lament"]
 excerpt: "Capulet's lament that death lies on Juliet like an untimely frost turns the wedding feast into a funeral, and gives the harsh father sudden tenderness."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-03-21
+lang: en
 ---
-
 The most searching speech Lord Capulet is given in Romeo and Juliet is not a command, a threat, or a bargain, but a simile spoken over a body he believes to be his daughter's corpse: "Death lies on her like an untimely frost / Upon the sweetest flower of all the field" (4.5.28-29). The speech around that couplet, Capulet's lament in Act 4 Scene 5, runs from a father's hand testing cold skin to the astonishing settlement in which Death is named "my son-in-law" and "my heir" (4.5.48-53), and it closes with the wedding feast renamed, item by item, as a funeral. No other speech in the play travels so far inside so few lines, and none exposes its speaker so completely. The father who, two scenes earlier, promised to drag his daughter to church or disown her stands over her supposed corpse and produces the play's coldest image and its strangest act of kinship in the same breath. Every claim in the reading that follows is anchored in those lines, quoted from René Weis's Arden Third Series edition and cited by act, scene, and line, because the lament repays the attention its brevity usually spares it. It is often mined for a single couplet and hurried past on the way to the tomb. Read whole, it is the scene in which the play's domestic machinery, its marriage market, its household ceremony, and its personified Death all meet in one man's mouth.
 
-![Capulet kneeling beside Juliet's bed on the wedding morning, the untimely frost speech - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capulet kneeling beside Juliet's bed on the wedding morning, the untimely frost speech - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 ## The Verdict First: Grief Spoken in the Language of the Marriage Contract
 

@@ -6,15 +6,15 @@ date: 2026-03-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "first-quarto", "bad-quarto", "first-quarto-text"]
 excerpt: "The first printed Romeo and Juliet is a shorter, rougher quarto, long branded bad, whose vivid staging and contested origins still divide its many editors."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-27
+lang: en
 ---
-
 The first quarto of Romeo and Juliet is a small book carrying a large accusation. Printed in London in 1597, it is the earliest printed text of the play: a version some seven hundred lines shorter than the text readers know, rougher in its verse, freer in its wording, and far richer in stage directions. For most of the twentieth century, scholarship filed it under a single damning adjective and moved on. The first quarto was a "bad quarto," a pirated and corrupt report of the real play, useful only as a warning. The verdict argued through this study is that the accusation fails. The 1597 quarto is a derivative text, and its debts to a fuller version stand exposed in its own loose ends, but derivative is not the same as worthless, and "bad" is not a description of the book at all. It is a verdict delivered in 1909, three centuries after the book was printed, and it conceals more than it reveals. Read on its own terms, the first quarto is the closest surviving witness to Romeo and Juliet as a working theatre text: compressed, fast, theatrically literate, and printed with a care that its nickname denies.
 
-![Title page of the 1597 first quarto of Romeo and Juliet naming Lord Hunsdon's servants - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Title page of the 1597 first quarto of Romeo and Juliet naming Lord Hunsdon's servants - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 That rehabilitation is not a fringe position. Lukas Erne, who edited the first quarto for the New Cambridge Shakespeare Early Quartos series in 2007, describes it as "a carefully printed text" with "exciting stage directions," "a shorter, tightened text with considerable pace, and an important number of intelligent alternative readings," and concludes that in some respects it is "the best witness we have for the dramatic and theatrical practices of Shakespeare and of his company." Stephen Orgel's judgement, quoted in Erne's introduction, goes further: evidence for the nature of a performing text in Shakespeare's theatre is scarce, "but there is a little. There are the 'bad' quartos, whose evidence, in this respect, is not bad, but excellent." The pages that follow lay out the object itself first: what the book is, who printed it, what its title page claims, how long it runs, what it contains, and where its wording shines or breaks down. Only then do they turn to the label, because the label's history is the real story. A reader who finishes here will know what the first quarto actually is, which is the one thing its nickname was designed to prevent.
 

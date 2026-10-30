@@ -6,17 +6,17 @@ date: 2025-09-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "sources", "origins", "sources-family-tree"]
 excerpt: "Romeo and Juliet was not invented from nothing but inherited, descending through a chain of Italian, French, and English versions across more than a century."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-09-12
+lang: en
 ---
-
 ## The Verdict First: An Inherited Plot, an Invented Play
 
 The sources of Romeo and Juliet form a family tree, and the tree settles the oldest argument about the play. Shakespeare invented almost none of the story. The secret marriage, the sleeping draught, the failed letter, the tomb, and the double death all reached him ready made, descending through Italian, French, and English versions across more than a century of retelling. What he invented was nearly everything that makes the inherited plot matter: the compression of months into days, the inwardness of two teenagers who think in poetry, a Mercutio expanded from a name in a guest list into the play's most electric voice, and a language of light, haste, and sacrament that no earlier version contains. The verdict defended across this article is therefore double, and both halves are needed. As narrative, the play is an inheritance, and pretending otherwise falsifies its history. As drama and as poetry, the play is an original work of the first order, and the tree, properly read, proves that too, because the tree shows exactly which layer of the work arrived from elsewhere and which layer could only have come from the man who wrote the play.
 
-![The sources of Romeo and Juliet as a family tree, from Ovid and Masuccio to Brooke and Shakespeare - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The sources of Romeo and Juliet as a family tree, from Ovid and Masuccio to Brooke and Shakespeare - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The distinction between the two halves is the whole discipline of source study, and it begins with vocabulary. A source is a text the playwright demonstrably used, established by verbal parallels, shared details, and shared errors that cannot be coincidence. An analogue is a text that resembles the play without proof of contact, evidence of the story's climate rather than of the playwright's reading. The family tree drawn in this article keeps the two apart at every node. Ovid stands at the root as an ancestor and analogue of genius, known to the playwright and echoed in the play, yet not the channel through which the plot arrived. Arthur Brooke stands at the top of the trunk as the proven source, the version whose lines can be matched against the play scene by scene. Between those poles the line runs through Masuccio Salernitano, who first told the tale in recognisable form, through Luigi da Porto, who gave it Verona and the lovers' names, through Matteo Bandello, who amplified it, through Pierre Boaistuau, who carried it into French and darkened its moral, and through William Painter, whose prose rendering stood on English shelves beside Brooke's poem. Each stage added something the next stage kept. The tree is not a decoration on the play's scholarship. It is the play's biography before the play existed.
 

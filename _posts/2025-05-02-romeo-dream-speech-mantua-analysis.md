@@ -6,15 +6,15 @@ date: 2025-05-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "romeo-dream", "mantua", "i-dreamt-my-lady-came"]
 excerpt: "Romeo's dream in Mantua, that his lady found him dead and revived him with a kiss, is a cruel false hope, since the true news will reverse it within moments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-05-02
+lang: en
 ---
-
 Romeo's dream in Mantua is the cruelest eleven lines in the play, and the cruelty is easy to miss because the dreamer himself finds it sweet. Alone in exile, on the morning the catastrophe becomes irreversible, Romeo wakes in unaccustomed cheer and reports a dream in which Juliet came to him, found him dead, and breathed life back into his body with kisses, so that he revived and was an emperor. Within moments Balthasar rides in with the report that Juliet lies dead in the Capulet monument, and every element of the dream turns inside out: the lady does travel, but to a tomb; she does find her husband dead, but her kisses cannot wake him; nobody is crowned. The verdict of this reading is that the dream is not a hopeful omen misread by an optimist. It is a true picture delivered in reverse, the play's whole ending rehearsed with its outcome inverted, and its function is to arm Romeo with confidence at the exact moment confidence becomes fatal. He believes the morning because the dream has already told him, in code, that death is survivable. The news then finds a man whose defences sleep has lowered, and the speed of what follows, the defiance of the stars, the apothecary, the ride to Verona, is the dream's second life as action.
 
-![Romeo's dream speech in Mantua in Act 5 Scene 1 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo's dream speech in Mantua in Act 5 Scene 1 of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The speech is short enough to be quoted entire in most classrooms, and shortness is part of its design. Shakespeare gives the dream four lines of narrative, two lines of delighted commentary, and a five-line preamble in which the dreamer inspects his own mood before he reports a single image. A close reading has to work at that scale, word by word: the conditional trust of the first line, the throne inside the breast in the third, the strange permission granted to a dead man to think in the seventh, the breath in the eighth, the crown in the ninth. Each of those words carries weight the scene immediately tests. The quotations in this article follow René Weis's Arden Third Series edition, cited by act, scene, and line; other modern editions number the Mantua scene's opening lines identically or within a line or two.
 

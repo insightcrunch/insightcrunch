@@ -6,15 +6,15 @@ date: 2026-01-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "verona", "setting", "verona-before-shakespeare"]
 excerpt: "Verona was a literary place before Romeo and Juliet, fixed as the lovers' city by da Porto, so Shakespeare inherited the setting rather than choosing it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-01-16
+lang: en
 ---
-
 Verona was already a literary place, dense with three centuries of accumulated meaning, long before the lovers' names were attached to it, and that single fact overturns the most common assumption readers bring to the tragedy. The familiar account credits Shakespeare with a stroke of scenic genius: an exotic Italian city chosen for its heat, its balconies, its Catholic colouring, its distance from London. The documentary record runs the other way. By the time the story reached a London playhouse, Verona had been built by Dante as the refuge of the exiled poet and the court of the della Scala, furnished by chroniclers and humanists as a seat of Roman antiquity and signorial splendour, and fixed as the address of the two feuding houses by Luigi da Porto in the early sixteenth century. Shakespeare never saw the city, never needed to see it, and never chose it. He received it, the way he received the plot, the potion, the friar and the tomb, down a chain of Italian, French and English retellings in which the place-name was one of the most stable elements transmitted. The verdict of the source record is plain: the setting is an inheritance, not an invention, and the play's power over place comes from what Shakespeare did inside walls that other writers had already raised.
 
-![The inherited city of Verona behind the lovers' story - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The inherited city of Verona behind the lovers' story - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 That verdict matters because it changes what a reader should praise and what a reader should question. If Verona were a free choice, its fitness for the tragedy would testify to the playwright's eye. Since the city arrived with the story, the critical questions become different and more interesting ones. What did the name Verona already say to the readers and hearers who met the tale at each stage of its journey? What had Dante, the chronicle tradition and the novella writers deposited in the name before Da Porto pinned the lovers to it? Why did every reteller in the chain, working in three languages across seventy years, keep the city fixed while changing almost everything else, the heroine's age, the length of the action, the manner of the deaths, the moral of the ending? And what did an English audience of the 1590s hear in the name, when Italy itself carried a charged double reputation in English print? Those are the questions this study answers, staying deliberately on the near side of the play: the endpoint is the city Shakespeare inherited, the place as the sources and the wider literature built it, held apart throughout from both the staged city that later articles examine and the real streets on the Adige.
 

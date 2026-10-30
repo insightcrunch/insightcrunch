@@ -6,17 +6,17 @@ date: 2025-10-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "masuccio-salernitano", "mariotto-ganozza", "masuccio-tale"]
 excerpt: "Masuccio Salernitano's tale of Mariotto and Ganozza, set in Siena, is an early ancestor of Romeo and Juliet, with a secret marriage and a sleeping potion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-10-17
+lang: en
 ---
-
 The Romeo and Juliet story does not begin in Verona, and it does not begin with a feud. It begins in Siena, in a fifteenth-century Italian tale about a young man named Mariotto Mignanelli and a young woman named Ganozza, and the plot it assembles there is recognizably the plot the whole world knows: a secret marriage performed by a friar, a killing that drives the husband into exile, a sleeping potion that counterfeits death, a message that never arrives, a tomb opened at night, and two lovers dead because the machinery of rescue failed at the final joint. Masuccio Salernitano published that tale in his collection Il Novellino in 1476, roughly half a century before Luigi da Porto gave the lovers their Verona, their feuding houses, and their famous names. This article reads Masuccio's novella whole, as a work in its own right, and reaches a verdict on the question source study keeps circling: how much of the familiar story is already here, and how much had to wait for later hands.
 
 The verdict can be stated at the outset, because everything that follows is its evidence. Masuccio's tale is the root of the tradition in the strong sense: it is the earliest surviving text in which the story exists as an assembled whole rather than as scattered motifs, and the ordered sequence of its inventions, secret friar-marriage, homicide and exile, feigned death by powder, miscarried message, tomb, catastrophe, is too specific and too sequential to have been assembled twice by coincidence. Yet a root is not a blueprint. The tale has no feud, no Verona, no balcony, no Mercutio, no double suicide, and no reconciliation over the bodies. Its hero is beheaded by the state and its heroine dies of grief behind convent walls. What Masuccio supplies is the skeleton and, above all, the failure mechanism that makes the skeleton tragic; what he does not supply is nearly everything the later tradition is loved for. Holding those two truths together, without inflating either, is the discipline this article observes throughout.
 
-![Mariotto and Ganozza in Siena in Masuccio Salernitano's Il Novellino - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mariotto and Ganozza in Siena in Masuccio Salernitano's Il Novellino - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## Mariotto and Ganozza: Why the Earliest Full Telling Rewrites the Story's History
 

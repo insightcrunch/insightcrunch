@@ -6,17 +6,17 @@ date: 2026-01-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "the-feud", "evolution", "feud-across-sources"]
 excerpt: "The feud changed shape across the sources, from Dante's political factions to da Porto's families to the senseless ancient grudge that drives the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-01-09
+lang: en
 ---
-
 ## How the Feud Evolved Across the Sources: The Verdict First
 
 The feud in Romeo and Juliet has no stated cause, and the absence looks like a hole in the play until its history across the sources is restored. Traced from Dante's bare pairing of the names Montecchi and Cappelletti, through Luigi da Porto's invented novella, Matteo Bandello's courtly expansion, Pierre Boaistuau's French moralizing, and Arthur Brooke's English poem, the quarrel changes its nature at every stage. In Dante it is political faction, a symptom of an Italy abandoned by empire. In the novelle it becomes a family enmity inside one city, notorious, presumed, and already old. In the play it becomes an ancient grudge whose origin no character can supply, an inherited hatred with a body count. The verdict argued here is that Shakespeare's blank cause is a deliberate completion of a long process, not an oversight the process happened to produce. Each teller thinned the feud's explanation and thickened its machinery, and the play finishes that work: explanation falls to zero while the machinery reaches its maximum, armed servants in the first scene, public brawls, a prince's edict backed by death, and six corpses by the final tableau.
 
-![The feud evolving across the source chain from Dante to the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The feud evolving across the source chain from Dante to the play - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The popular account of the story takes the feud as given, a piece of scenery the lovers happen to be born behind. The source chain refuses that innocence. Dante names the two houses three centuries before the play without attaching any lover, any Verona street, or any quarrel between the houses themselves to the names. Da Porto, writing around 1524, fastens the names to Verona, invents the lovers, and gives the enmity its first narrative form as a hatred between two great households under the rule of Bartolomeo della Scala. Bandello, in the Novelle of 1554, keeps the enmity and surrounds it with the rhetoric of a court that prized magnificence and dreaded disorder. Boaistuau, in the Histoires tragiques of 1559, subordinates the quarrel to a sermon against disobedient youth. Brooke, in The Tragicall Historye of Romeus and Juliet of 1562, turns the whole inheritance into an English warning about unhonest desire and neglected authority. Shakespeare then performs the decisive subtraction and the decisive additions at once. The subtraction removes whatever residue of explanation the chain still carried. The additions give the unexplained thing its full civic anatomy: servants who fight it, citizens who club it apart, a prince who legislates against it, and a friar who schemes to dissolve it by marriage.
 

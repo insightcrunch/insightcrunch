@@ -6,15 +6,15 @@ date: 2025-07-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "thou-and-you", "pronouns", "thou-versus-you"]
 excerpt: "In Romeo and Juliet the shift between thou and you is never idle, marking intimacy, rank, contempt, or sudden distance in ways modern readers often miss."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-07-04
+lang: en
 ---
-
 Thou and you are the smallest instruments of feeling in Romeo and Juliet, and among the most precise. Modern English has collapsed the pair into a single word that does every job at once, so a modern audience hears one channel where the first audiences heard two. In the Verona of the play, every speech answers a silent preliminary question before its argument begins: which form of address does this speaker owe this listener, and which form does the speaker choose instead? The gap between the owed form and the chosen form is where the drama lives. A father arranging a marriage, a friar hearing a confession, a swordsman picking a quarrel and a girl at a window talking to a man hidden in her orchard all make that choice line by line, and the play records each choice in grammar too small for the speakers themselves to notice.
 
-![A pronoun tracker's view of the lovers addressing each other across the orchard wall - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A pronoun tracker's view of the lovers addressing each other across the orchard wall - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The verdict argued across the sections ahead is that the pronoun system of the play is not decorative archaism but a working instrument panel, and that its readings are legible once the defaults are restored.
 

@@ -6,15 +6,15 @@ date: 2025-10-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "pierre-boaistuau", "french-tradition", "boaistuau"]
 excerpt: "Pierre Boaistuau's French version reshaped Bandello's Italian story, adding the apothecary and a darker ending, and carried the lovers' tale toward England."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-10-24
+lang: en
 ---
-
 The standard account of where Romeo and Juliet came from jumps a border. In that account the story is Italian, written by Luigi da Porto and retold by Matteo Bandello, and then it is English, versified by Arthur Brooke and dramatised by Shakespeare, and the map between those two facts is left blank. The blank is the error this article corrects. Between Bandello's novella and Brooke's poem stands a French book, Pierre Boaistuau's Histoires tragiques of 1559, and the French book is not a corridor the story passed through unchanged. It is a workshop in which the story was altered in ways that England inherited and that Shakespeare's audience still watches: a poison bought across a counter in Mantua from a starving man, a heroine who wakes in the tomb one death too late, a narrator stationed outside the tale to deliver its moral verdict before its pleasures can excuse it. Restoring Pierre Boaistuau to the chain changes what the chain means.
 
-![Pierre Boaistuau's Histoires tragiques and the French road of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pierre Boaistuau's Histoires tragiques and the French road of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The verdict argued here is plain. The French tradition contributed three things that no other stage of the transmission supplied: it converted a novella into a tragic history, a genre with a moral prosecutor built into its form; it darkened the ending by abolishing the lovers' final conversation, so that each lover dies in solitude; and it inserted the purchased poison, the apothecary scene, into the plot's machinery. Each contribution can be documented on Boaistuau's surviving page, each passes from his French into Brooke's English poem of 1562 and William Painter's English prose of 1567, and each remains legible in the play. The familiar claim that Shakespeare's tragedy descends from an Italian story told in English dress is therefore only two thirds true. The dress was cut in France.
 

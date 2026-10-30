@@ -6,17 +6,17 @@ date: 2025-10-31
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "william-painter", "palace-of-pleasure", "painter-prose"]
 excerpt: "William Painter's Palace of Pleasure retold Romeo and Juliet in English prose, a second native version standing beside Brooke's poem for English readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-10-31
+lang: en
 ---
-
 ## The Second English Romeo and Juliet: Why Painter Matters
 
 Every account of the play's sources begins with Arthur Brooke, and the beginning is just. Brooke's long poem of 1562 is the text Shakespeare worked from, the narrative whose sequence the play follows and whose phrases keep surfacing inside the verse. Yet Brooke's poem was not the only English Romeo and Juliet on the shelf when the young playwright went looking for the story. Five years after the poem, in the second tome of The Palace of Pleasure, William Painter published the tale again, this time in prose, under a heading that promised "the true, and constant Love between Rhomeo and Iulietta". Two English versions of the Verona story, one in verse and one in prose, both drawn from the same French telling, circulated side by side for three decades before the play was staged. The cliché of source study remembers one of them. Restoring the second changes the picture of what Shakespeare had at hand, and it sharpens the most delicate question in the whole source dossier: not whether the play descends from Brooke, which is settled, but whether a second book also lay open, or at least lay remembered, beside the first.
 
-![William Painter's Palace of Pleasure, the prose Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![William Painter's Palace of Pleasure, the prose Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The verdict argued through this study can be stated at the outset, because the evidence sorts itself into two kinds that must not be confused. As a working text, the poem stands alone: the play's verbal echoes of Brooke run into the hundreds, its sequence of scenes tracks Brooke's narrative order, and no comparable density of borrowing from Painter has ever been shown. As a book its author had read, Painter is another matter. G. Blakemore Evans, editing the play for Cambridge, judged that Shakespeare worked directly with Brooke's poem, "that he knew Painter's prose version is highly probable", and that a small residue of "four or five suggestive and scattered details" points toward the prose tale rather than the poem. Two of those details are strong enough to name here and weigh in full below: the length of Juliet's potion sleep, which Painter gives as forty hours at the least, where Brooke gives three days and the play gives two and forty hours; and the hero's very name, Romeo in the play and Rhomeo in Painter, where Brooke calls him Romeus throughout. Knowledge and desk work are different claims. The first, on the evidence, is highly probable. The second remains unproven, and the distinction between them is the honest settlement of a question that looser accounts blur in both directions, either inflating Painter into a co-source or erasing him from the record altogether.
 

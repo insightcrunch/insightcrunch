@@ -6,15 +6,15 @@ date: 2026-01-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "mercutio", "invention", "mercutio-invention"]
 excerpt: "Mercutio is barely a name in the sources, so the dazzling friend who steals the first half of Romeo and Juliet is very largely Shakespeare's own invention."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-01-30
+lang: en
 ---
-
 Mercutio is the figure audiences remember when the lovers blur, and he is the figure the story barely contains before Shakespeare touches it. Across the whole chain of tellings that carries the Verona tale from Italy to the London stage, the friend survives as a name, a seat at a feast, and one physical oddity: a hand so cold that a heroine notices it in a dance. Everything else, the Queen Mab fantasist, the bawdy wit who fences with words, the loyal companion who dies cursing both houses at the tragedy's exact midpoint, is added by the playwright. This article measures that addition source by source, sets the before and the after side by side, and reaches a verdict on the scale of the invention: Mercutio is Shakespeare's largest single act of character creation in Romeo and Juliet, conjured from a hint so slight that the hint itself has to be argued back into visibility.
 
-![Mercutio at the Capulet feast in the sources and in Shakespeare's play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mercutio at the Capulet feast in the sources and in Shakespeare's play - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The method matters, because the claim is quantitative before it is anything else. The tale of the two houses passed from Luigi da Porto's Italian novella through Matteo Bandello's retelling, through Pierre Boaistuau's French adaptation, and into two English versions, Arthur Brooke's long poem of 1562 and William Painter's prose of 1567, before the playwright set to work. Geoffrey Bullough printed the principal texts together in the first volume of Narrative and Dramatic Sources of Shakespeare (1957), and that collection makes the experiment possible: a reader can watch the friend at every station of the journey and record exactly what each teller hands on. Joseph Porter's Shakespeare's Mercutio: His History and Drama (1988), the one book devoted to the figure, performs the same audit and gives the two halves of the question their names, a history in the sources and a drama in the play. The history is astonishingly short. The drama fills half a tragedy.
 

@@ -6,15 +6,15 @@ date: 2026-01-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "the-nurse", "adaptation", "reinvented-the-nurse"]
 excerpt: "Shakespeare took the slight nurse of his sources and made her one of his great comic characters, giving Romeo and Juliet its warmest and earthiest voice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-01-23
+lang: en
 ---
-
 The Nurse of Romeo and Juliet has almost no existence before Shakespeare writes her. In Luigi da Porto's novella she is a pair of hands: she carries messages, opens a door at night, keeps a secret. In Matteo Bandello she is the same pair of hands with a price attached. In Arthur Brooke's poem she is an instrument in a moral prosecution, and at the end of the poem she is sentenced for her part in it. None of these tellers gives her a name that matters, a dead child, a husband, a body that aches, or a memory that runs eleven years deep. The play gives her all of these in her first scene, in a single prose reminiscence that no source prepares, no source hints at, and no source survives comparison with. The verdict of this study is plain: the reinvention of the Nurse is the clearest specimen of Shakespeare's method with his sources anywhere in the tragedy. The plot he borrowed almost entire. The person he invented almost entire. Where the borrowings end and the inventions begin can be measured scene by scene, and the measurement shows that the comedy and the pathos of the finished play are manufactured precisely at the points where the sources fall silent.
 
-![The Nurse retelling Juliet's childhood in the Capulet household - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse retelling Juliet's childhood in the Capulet household - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That measurement matters because the cliché runs the other way. Audiences and readers treat the Nurse as a given of the story, a stock figure who comes with the tale the way the balcony comes with the tale. Restoring the source record reverses the picture. The tale, across a century of retelling in Italian, French, and English, manages perfectly well without her as a person; she exists in it only as plumbing, the channel through which a secret courtship flows. Shakespeare takes the plumbing and builds a woman around it: a widow with a buried daughter, a body marked by childbearing and age, a professional pride in her errands, a bawdy memory that turns Juliet's infancy into comedy, and a failure of nerve in the third act that no teller before him had imagined for her. Each of those gifts can be traced to its absence in the chain of versions that Geoffrey Bullough printed in the first volume of Narrative and Dramatic Sources of Shakespeare (1957), and each absence is evidence. What follows works through the chain in order, then through the play's additions in order, and ends by adjudicating the question the evidence forces: how much of this is expansion of something present, and how much is creation from nothing.
 

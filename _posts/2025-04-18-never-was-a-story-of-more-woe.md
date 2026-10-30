@@ -6,17 +6,17 @@ date: 2025-04-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "story-of-more-woe", "ending", "more-woe-couplet"]
 excerpt: "The Prince's closing couplet, that never was a story of more woe than this of Juliet and her Romeo, seals the whole play with rhyme and names Juliet first."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-04-18
+lang: en
 ---
-
 ## The Verdict First: A Sentence That Behaves Like an Epitaph
 
 The Prince's closing speech in Romeo and Juliet is six lines long, and the verdict of this reading is that those six lines do three kinds of work at once: they sentence a city, they bury two children, and they convert everything the audience has watched into a story that Verona will go on telling. "A glooming peace this morning with it brings" (5.3.305) opens the speech, and "For never was a story of more woe / Than this of Juliet and her Romeo" (5.3.309-310) closes the play. Between those poles the speech performs the most compressed act of government in the tragedy. It declares a peace, adjourns a court, divides a population into the pardoned and the punished, and then, in its final couplet, stops governing altogether and starts commemorating. The couplet is a verdict disguised as an epitaph, and the disguise is the meaning: the Prince can close the feud's case only by admitting that the case has become a tale.
 
-![The Prince delivering the closing speech over the bodies in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Prince delivering the closing speech over the bodies in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 Every earlier speech of Prince Escalus has been an instrument of rule, an edict in Act 1, a sentence in Act 3, and each one failed to rule anything. The closing speech succeeds precisely where the instruments failed, because it abandons command for record. Where the edict threatened, "Your lives shall pay the forfeit of the peace" (1.1.94-95), the closing speech promises only talk, "more talk of these sad things" (5.3.307), and where the sentence in Act 3 divided one offender from the city, the closing speech divides the whole city and then dissolves the division into a single shared noun, woe. The argument of the pages that follow is that the couplet's formal features, its slant rhymes, its overflowing final line, its placing of Juliet's name before Romeo's, are not ornaments on that transformation. They are the transformation, enacted in sound. Quotations throughout follow the text of René Weis's Arden Third Series edition, and line references follow that edition's numbering, which differs by a line or two from other editions at several points in the scene.
 

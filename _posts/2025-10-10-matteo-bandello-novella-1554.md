@@ -6,17 +6,17 @@ date: 2025-10-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "matteo-bandello", "novella", "bandello-novella"]
 excerpt: "Matteo Bandello retold the Verona story in a prose novella that expanded da Porto's tale and became the version the French and English adapters carried onward."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-10-10
+lang: en
 ---
-
 ## The Bridge the Story Crossed: Matteo Bandello's Novella and the Road to the Play
 
 Matteo Bandello's novella of Romeo and Juliet, printed at Lucca in 1554 as the ninth tale of the second part of his *Novelle*, is the most consequential retelling in the story's long migration from Italy to the London stage. The verdict argued across this study can be stated at once. Luigi da Porto invented the Verona lovers: he fixed their names, their houses, their friar, their tomb. Bandello, however, built the version of their story that Europe actually inherited. Working a generation after da Porto, the Mantuan courtier took a compact Italian *historia* and expanded it into a full prose novella, deepening incident, enlarging motive, promoting the nurse from a function to a character, slowing the poison purchase in Mantua into a scene of poverty and temptation, and staging the tomb sequence at a ceremonial length no earlier telling attempts. Every one of those enlargements then travelled. Pierre Boaistuau translated Bandello into French in 1559, keeping the sequence of incident almost entire. Arthur Brooke versified Boaistuau in 1562, and William Painter Englished the same French text in prose in 1566. Shakespeare, in the middle 1590s, worked from Brooke, with Painter's parallel prose within reach. The chain therefore has a load-bearing middle, and the middle is Bandello.
 
-![Matteo Bandello's novella and the Verona source chain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Matteo Bandello's novella and the Verona source chain - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 One circumstance of the printing deserves emphasis at the outset, because it explains the speed of everything that followed. Bandello published into a Europe newly organized for transmission: Italian was the prestige vernacular of courts, French translators stood ready to convert Italian successes for northern readers, and the tragic tale was about to become a continental fashion. A story printed at Lucca in 1554 could be French by 1559 and English by 1562, not because anyone conspired to promote it, but because the machinery of the European book trade and the appetite of the Valois and Tudor courts for Italian narrative were already built and waiting. Bandello's novella was the right cargo at the right port, and its expansions, its scenes, speeches and ceremonies, were exactly the qualities that survived conversion, since structure and pathos translate where verbal wit dies. The chain this study follows is therefore not a curiosity of bibliography. It is the normal circulatory system of Renaissance narrative, caught in the act by an unusually well documented case.
 

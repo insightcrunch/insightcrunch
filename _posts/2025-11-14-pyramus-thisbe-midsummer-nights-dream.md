@@ -6,15 +6,15 @@ date: 2025-11-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "pyramus-and-thisbe", "midsummer-nights-dream", "pyramus-dream"]
 excerpt: "Shakespeare staged Pyramus and Thisbe as farce in A Midsummer Night's Dream around the same years as Romeo and Juliet, playing the same plot for laughs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-11-14
+lang: en
 ---
-
 Pyramus and Thisbe die twice in Shakespeare's work of the mid-1590s, once to tears and once to laughter, and the second death is the more instructive. In A Midsummer Night's Dream, a company of Athenian artisans performs the Ovidian tale of two lovers parted by a wall, misled by a bloodied garment, and united only in a double suicide, and the court that watches it cannot stop laughing. In Romeo and Juliet, built from the same narrative skeleton in the same theatrical seasons, the corresponding beats produce the most famous tomb scene in English drama. The pairing is not a curiosity. It is a controlled experiment run by a single playwright on a single plot, and its result settles a question that criticism of the tragedy keeps circling: whether the ending of Romeo and Juliet is tragic because of what happens, or because of how the happening is framed, timed, and received.
 
-![The mechanicals performing Pyramus and Thisbe before the Athenian court - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The mechanicals performing Pyramus and Thisbe before the Athenian court - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The verdict argued throughout this article is precise. The mechanicals' interlude is not a parody of Romeo and Juliet, because the chronology is too close and too uncertain to support a one-way act of mockery, and because its targets are the inherited love-death convention and the bombast of older stage tragedy rather than the companion play. The interlude is instead the tragedy's twin and its mirror: the same machine, assembled from the same parts, run with the frame reversed. Every device that makes the Verona tomb devastating is present in the Athens performance in a form that makes it funny, and the difference never lies in the plot. The difference lies in whether the fiction is allowed to be believed, whether the fatal token is read in silence or announced aloud, whether the deaths are witnessed by mourners or by connoisseurs, and whether the verse is permitted to persuade. Genre, the mirror demonstrates, is a contract between stage and audience about how a known machine will be received. Shakespeare wrote both contracts at once.
 

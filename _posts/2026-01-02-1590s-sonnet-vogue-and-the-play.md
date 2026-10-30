@@ -6,15 +6,15 @@ date: 2026-01-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "context", "sonnet-vogue", "decade-poetry", "sonnet-craze-context"]
 excerpt: "Romeo and Juliet was written amid the 1590s sonnet craze, and the fashion for sonnet sequences left a deep mark on the play's lyric, sonnet-laced verse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-01-02
+lang: en
 ---
-
 Romeo and Juliet is a tragedy written inside a fashion. In the middle years of the 1590s, when the play was composed and first staged, England was in the grip of the most intense lyric publishing boom of the century: the sonnet vogue. Between the posthumous printing of Sir Philip Sidney's Astrophil and Stella in 1591 and the cooling of the market near the decade's end, printers issued sonnet sequence after sonnet sequence, until the fourteen-line love poem in linked series had become the era's signature literary object, the form in which an ambitious poet proved seriousness and a reader proved taste. The play does not merely date from that boom. It is built out of the boom's materials. Its Chorus speaks in sonnets, its lovers meet inside a sonnet, its hero opens the action performing the sequence lover's stock postures for an unseen lady, and its heroine closes that performance with a four-word review: "You kiss by th' book" (1.5.109, in G. Blakemore Evans's New Cambridge edition). The verdict argued across this article is plain. The sonnet vogue is not background decoration around the tragedy; it is the tragedy's first language, the fashionable idiom the audience had been trained by a decade of printed sequences to hear, judge, and distrust. Shakespeare rides the fashion for two acts because the fashion is what his first hearers knew best, and then he breaks it, on stage, in full view, so that the breaking itself becomes the play's deepest statement about the distance between performed love and felt love.
 
-![A sonnet sequence open beside the play text, the vogue that shaped its verse - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A sonnet sequence open beside the play text, the vogue that shaped its verse - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 That verdict needs the vogue restored in detail, because the cliché account of the play's verse treats its lyricism as a private miracle, Shakespeare inventing intensity in a vacuum. The vacuum never existed. A playgoer of 1595 who had read Samuel Daniel's Delia, Michael Drayton's Ideas Mirrour, Edmund Spenser's Amoretti, Henry Constable's Diana, or any of a dozen rival volumes arrived at the theatre already fluent in the conventions the play would quote, bend, and finally discard: the cruel fair, the suffering servant of love, the oxymoron as a lover's native grammar, the promise that verse defeats time. The sections that follow reconstruct the boom as a publishing event and as an education of the ear, then read the play's sonnets and its fashionable idiom as artefacts of that education, and close by weighing what the play does that no sequence on the bookstalls ever attempted.
 

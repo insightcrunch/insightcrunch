@@ -6,15 +6,15 @@ date: 2026-03-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "names-origin", "etymology", "names-romeo-juliet"]
 excerpt: "The names Romeo and Juliet were not Shakespeare's coinage but came down through the sources, with Romeo once meaning a pilgrim and Juliet a midsummer name."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-03-13
+lang: en
 ---
-
 The two most famous names in English drama were old before the play that carries them was written. Romeo and Juliet were not coined for the Verona tragedy: they arrived with the story, handed down through an Italian novella, a French adaptation, an English poem and an English prose collection, and each name brought a buried cargo of meaning across every border. Romeo began as a common noun, a word for a pilgrim bound for Rome, before Luigi da Porto pinned it to a young Veronese of the Montecchi house. Juliet began as Giulietta, a diminutive, the little Giulia, and reached the London stage with the smallness clipped off her name by the journey. The verdict of the evidence is precise and it divides in two. The pilgrim inside Romeo is documented etymology, and the play, knowingly or not, puts the buried meaning on its feet in the feast scene, where the hero plays a pilgrim at a shrine with his own lips. The July inside Juliet is a resonance rather than a derivation, a real kinship of roots that the play warms with a midsummer calendar without ever speaking it aloud. Keeping those two grades of claim apart, documented descent on one side and suggestive echo on the other, is the whole discipline of the subject, and the names reward the discipline: read strictly, they show a playwright inheriting words the way he inherited the plot, and making the inheritance act.
 
-![The lovers' names traced through the Italian, French and English sources - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers' names traced through the Italian, French and English sources - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 A note on texts governs everything that follows. Quotations from the play follow Jill Levenson's Oxford Shakespeare edition, cited by act, scene and line; the source texts are cited from the versions gathered in Geoffrey Bullough's Narrative and Dramatic Sources of Shakespeare, the collection that prints Da Porto, Bandello, Boaistuau, Brooke and Painter in sequence and lets the name forms be compared on facing evidence. Where a claim rests on a dictionary rather than a text, the dictionary is named. The method throughout is collation: lay the forms side by side, date each one, and let the spelling testify before the interpretation begins.
 

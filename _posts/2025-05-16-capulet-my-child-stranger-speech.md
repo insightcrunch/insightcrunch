@@ -6,15 +6,15 @@ date: 2025-05-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "my-child-a-stranger", "lord-capulet", "capulet-marriage-speech"]
 excerpt: "Capulet's first answer to Paris, that his child is yet a stranger in the world, shows a caution he will later betray when he forces the very match he delays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2025-05-16
+lang: en
 ---
-
 The first substantial speech Lord Capulet makes in the play is a refusal, and a gentle one. Paris has come to press his suit for Juliet, and her father answers with the most reasonable sentences any parent speaks in the tragedy: "My child is yet a stranger in the world; / She hath not seen the change of fourteen years" (1.2.8-9, in the lineation of René Weis's Arden Third Series edition). The child is not yet fourteen. Let two more summers pass. Woo her gently, win her heart, and understand that the father's will operates only inside the boundary of her consent: "But woo her, gentle Paris, get her heart; / My will to her consent is but a part" (1.2.16-17). Within four days of stage time the same father will set the wedding for Thursday, promise the suitor a daughter who "will be ruled / In all respects by me" (3.4.13-14), and threaten to drag the girl to church on a hurdle. The speech at 1.2 is therefore the measure of everything that follows. It is not a portrait of a tyrant warming up. It is a written standard, composed by Capulet himself in calm verse, against which Capulet himself will be tried and found wanting.
 
-![Capulet counselling Paris to wait two more summers in Act 1 Scene 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capulet counselling Paris to wait two more summers in Act 1 Scene 2 - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The verdict of this reading can be stated at the outset. The stranger speech is sincere in its feeling and conditional in its structure, and the second fact defeats the first. Capulet means every word of his caution in the moment he speaks it; the caution, however, is framed as a grant flowing from his will rather than as a right residing in his daughter, and a grant can be withdrawn by the granter when circumstances press. Paris is told to wait because the father judges waiting wise, not because Juliet's refusal would be final. When grief and shame rearrange the father's judgment in Act 3, the same sovereignty that produced the patience produces the coercion, with no sense of contradiction on his part, because the principle was never hers to hold. Shakespeare places the speech early, before Juliet has spoken a word in the play, so that the audience carries its terms into every later scene. The tragedy of the Capulet household is not that a loving father becomes a monster. It is that a father's love, administered as property law, contains the revocation inside the gift.
 

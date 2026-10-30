@@ -6,17 +6,17 @@ date: 2025-06-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "religious-diction", "diction", "religious-diction-lovers"]
 excerpt: "The lovers in Romeo and Juliet speak the vocabulary of faith, saint, pilgrim, shrine, and sin, borrowing the words of devotion to consecrate a private love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-06-20
+lang: en
 ---
-
 ## Religious Diction in the Lovers' Speech: The Verdict First
 
 The religious diction of the lovers' speech in Romeo and Juliet is not ornament laid over desire. It is the load-bearing structure of the love itself. When Romeo and Juliet meet at the Capulet feast, they do not merely reach for pretty comparisons drawn from church language. They build, word by word and correction by correction, a small working liturgy of their own: a shrine, a saint, a pilgrim, a rite of touch, a doctrine of sin, a form of prayer, and eventually a marriage demanded from the real Church because the private rite requires a public sacrament to complete it. The verdict defended across this article is that the sacred vocabulary consecrates rather than decorates, and that it consecrates because the lovers submit it to discipline. Romeo opens nearly every sacred figure. Juliet corrects, restricts, and completes nearly every one. The diction that survives her editing is the diction the play endorses, and the words that fail her editing, the loose oaths, the moon-swearing, the idol-talk she herself flags and fences, are the words the tragedy punishes.
 
-![The lovers exchanging the religious diction of the pilgrim sonnet at the feast - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers exchanging the religious diction of the pilgrim sonnet at the feast - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The brief for this article names five of the words in its summary sentence, saint, pilgrim, shrine, sin, and the vocabulary of faith itself, and the five make a fair map of the territory in miniature. Saint and shrine name the beloved, the object of the whole system. Pilgrim names the lover, the subject who approaches. Sin names the law, the moral physics that governs the approach and prices its offences. Faith names the stake, the thing risked and kept by both parties across the play. Object, subject, law, and stake: a complete religion could be organised under those four heads, and the lovers' diction, sixteen words in all, organises itself under them without any speaker ever announcing the scheme. The sections that follow work outward from the map, counting the words first, then following them through the scenes that spend them, then weighing the charge that the spending was theft.
 

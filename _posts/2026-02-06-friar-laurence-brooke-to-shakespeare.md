@@ -6,19 +6,19 @@ date: 2026-02-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "friar-laurence", "adaptation", "friar-brooke-to-shakespeare"]
 excerpt: "Shakespeare inherited Friar Laurence from Brooke but deepened him, giving the well-meaning schemer the herb philosophy and the choric weight he has in the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-02-06
+lang: en
 ---
-
 ## Friar Laurence From Brooke to Shakespeare: The Verdict in Brief
 
 Friar Laurence is the clearest case in Romeo and Juliet of a character whose outline Shakespeare borrowed entire and whose meaning he rebuilt. Arthur Brooke's poem, The Tragicall Historye of Romeus and Juliet, printed in 1562, already contains a Franciscan friar who shrives the hero, performs the secret marriage, hopes the match will reconcile two feuding houses, devises a sleeping draught when a second marriage threatens, writes a letter that never arrives, and confesses the whole design when the lovers lie dead. Every one of those functions stands in the play, in the same order, doing the same plot work. A reader who knew only the poem could predict, scene by scene, what the play's friar would do. What no reader of the poem could predict is what the play's friar would think. Shakespeare kept the schemer and added a philosopher: a man first met alone at dawn with a basket of herbs, reasoning about poison and medicine, grace and rude will, in a soliloquy that has no counterpart anywhere in the source. The verdict of the comparison is therefore double, and both halves matter. Measured by function, the Friar is the most faithfully inherited major figure in the tragedy. Measured by interior life, he is among the most invented.
 
 That doubleness is the subject of the pages that follow. The transformation repays study because it exposes the dramatist's method with unusual clarity. Elsewhere in the play, adaptation hides inside expansion: a glance in the poem becomes a scene, a name becomes a person, and the join is hard to find. With the Friar, the join is visible. Brooke's poem describes its friar from outside, in a handful of narrative strokes, and then puts him to work. The play takes the same strokes, converts the chief of them into a speech the friar delivers about himself and his art before any lover reaches him, and thereby changes what kind of evidence the audience holds about the man who will marry, drug and finally abandon the heroine. The herb soliloquy of Act 2, Scene 3 is not decoration added to a borrowed figure. It is the instrument by which a plot function becomes a moral agent, a man whose own stated philosophy will be used, by the play and by its critics, to judge everything he afterwards attempts.
 
-![Friar Laurence gathering herbs at dawn in his cell garden - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence gathering herbs at dawn in his cell garden - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 Three questions organize the comparison, and the article answers each in turn. What exactly did Brooke hand down: what does the poem's friar know, intend and do, and what colouring does the poem give him? What did the dramatist add, and where do the additions cluster: in the solitary speeches, in the civic argument for the marriage, in the rhetoric of the potion scene, in the failed nerve at the tomb? And what did the dramatist darken or refuse to settle: the suspicion that hangs over the source friar's learning, the sequel the poem supplies for him, the judgement the poem's narrator delivers and the play withholds? The evidence throughout is the two texts set side by side: Brooke's poem of 1562, Englished from Pierre Boaistuau's French version of Matteo Bandello's novella, and the play in a named modern edition, quoted briefly and cited by act, scene and line. Line references for the play follow Brian Gibbons's Arden edition; Brooke's poem is cited from the text printed in Geoffrey Bullough's Narrative and Dramatic Sources of Shakespeare.
 

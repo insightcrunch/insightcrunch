@@ -6,15 +6,15 @@ date: 2025-08-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "reading-aloud", "meter", "reading-aloud-performance"]
 excerpt: "Reading Romeo and Juliet aloud turns scansion into performance, since the meter, stress, and phrasing are a score that tells an actor how the lines should move."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2025-08-22
+lang: en
 ---
-
 Reading Romeo and Juliet aloud is not a decorative extra added after the real work of study is done. It is the real work, because the verse was built as a set of instructions for a voice, and a page read in silence returns only part of what the lines contain. The meter is a performance score in the strict sense: it tells a speaker which words carry weight, where the breath may be taken, how fast an exchange must move, and where a pause is not an interruption but a written event. The verdict of this article is plain. A reader who treats the pentameter as a score, learning first to obey it and only then to argue with it, will find meanings in the famous speeches that silent reading habitually misses, because those meanings are carried by timing, stress, and breath before they are carried by paraphrase. Silent study has its own rewards, and the play survives them handsomely. But the tragedy was engineered for the ear, and the ear is paid in a currency the eye cannot mint.
 
-![A reader marking the meter of an open text of the play for performance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reader marking the meter of an open text of the play for performance - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The habit that keeps the score unread is the schoolroom habit of treating the play as a document: a story to be summarised, a set of themes to be extracted, a gallery of speeches to be quoted in essays. That habit produces readers who can explain the balcony scene and have never heard it. The verse keeps offering its instructions anyway. A line that runs on past its ending is asking for urgency. A line that stops three beats early is asking for a silence in which something happens: a look, a movement, a decision. A speech built from questions is asking its speaker to breathe in shorter and shorter units as the questions multiply. None of this is metaphor. It is the working machinery of the text, as practical as a stage direction, and it becomes visible the moment a reader stands up and gives the words air.
 

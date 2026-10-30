@@ -6,15 +6,15 @@ date: 2026-05-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "performance-text", "first-quarto", "q1-performance-text"]
 excerpt: "A newer view treats Q1 of Romeo and Juliet not as a corrupt text but as a record of performance, valued for its vivid stage directions and theatrical cuts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-05-01
+lang: en
 ---
-
 The first quarto of Romeo and Juliet, printed in 1597 and dismissed for generations as a bad quarto, has been revalued by a newer account of its origins: the performance text view, which holds that this short, theatrically vivid book records the tragedy as the playwright's company actually played it, cut for the stage and carrying the marks of performance in its directions, its casting economy, and its shape. The verdict argued here is graded, because the claim itself is graded. In its strong form, that the 1597 volume transcribes a performance, the claim is unproven and probably unprovable. In its moderate form, that a performed, abridged version of the tragedy stands behind the printed book, the claim is probable, better supported than any rival single explanation, and strong enough to change how the volume should be used. In its weakest form, that the book is worth reading as evidence of early staging, the claim is beyond serious dispute. Everything in the pages that follow works toward those three grades: what the performance text claim would certify if true, the evidence tried in its favour, the evidence tried against it, the counter-case built by cautious textual critics, and the practical consequences for the three kinds of reader who handle the early texts, the student of the words, the editor who must choose between them, and the director who must put bodies on a stage.
 
-![The first quarto as a record of performance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The first quarto as a record of performance - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The starting point is the book itself, and its portrait belongs to a companion study of [the first quarto of 1597 and the 'bad' quarto label it has carried ever since](/2026/03/27/first-quarto-1597-bad-quarto/): a slim volume of some 2,230 lines against the second quarto's roughly 3,040, printed without the author's name, its title page advertising the tragedy as often played publicly by the Lord Hunsdon's servants. The single inference examined here begins where that portrait ends. Granted the short text exists, granted its directions are unusually alive and its cuts unusually purposeful, what follows? The older scholarship answered with a story of theft: actors or a shorthand writer carried the play out of the playhouse in corrupted form, and the printer John Danter set the stolen goods in type. The newer scholarship answers with a story of use: the book descends from the play in performance, and its defects are the scars of the stage rather than the crimes of a pirate. Between those two stories lies a genuine evidentiary problem, because a book cannot testify about its own ancestry without cross-examination. Theatrical colour can be manufactured in a print shop as well as inherited from a playhouse. Cuts can be made by a compositor short of paper as well as by a company short of time. The task is to find the features that discriminate, the details a print shop would have had no reason to invent and a pirate no ability to supply, and to weigh the features that point the other way with equal honesty.
 

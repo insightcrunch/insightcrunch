@@ -6,15 +6,15 @@ date: 2026-03-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "italian-novelle", "context", "novelle-english-imagination"]
 excerpt: "Romeo and Juliet grew from the Italian novelle that flooded Elizabethan England, where Italy stood for passion, intrigue, and the dangerous romance of drama."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-03-20
+lang: en
 ---
-
 The Italian novelle shaped the English imagination before they shaped any single play, and Romeo and Juliet is best understood as the most famous cargo of a very large trade. Between the 1560s and the 1580s, English printers issued collection after collection of translated Italian tales, and English readers bought a country along with the stories: an Italy of feuding houses, secret marriages, resourceful wives, corrupt friars, poison, disguise and sudden death. The verdict of this article is plain. The novelle gave England three things at once, a warehouse of plots, a licensed imaginative territory where extreme conduct could be staged at a safe distance, and a moral problem that translators, preachers and schoolmasters argued over for a generation. The play draws on all three gifts. Its Verona is not a city the dramatist visited but a city the book trade had already built, and its lovers stepped onto the London stage as characters English audiences had been meeting in prose for thirty years.
 
-![An Italian novella collection open beside an Elizabethan stage playbook - Insight Crunch](/assets/images/blog/blog-01.webp)
+![An Italian novella collection open beside an Elizabethan stage playbook - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 That claim reverses the usual classroom order. The familiar account isolates the play, treats its Italian setting as scenery, and asks what the dramatist invented. The evidence of the book trade points the other way. Before the play existed, the tale of the Veronese lovers had already crossed the Alps in French dress, been Englished twice in a single decade, and taken its place on shelves stocked with hundreds of comparable tales of love, revenge and intrigue. The dramatist's originality is not in question; the argument here concerns the conditions that made that originality legible. An audience trained by the novelle collections knew how to read a secret marriage, a feuding household and a friar with a sleeping potion, because the collections had taught the grammar. Restoring the vogue restores the audience, and restoring the audience explains why the play could move at the speed it moves, assuming knowledge a modern reader has to be given in footnotes.
 

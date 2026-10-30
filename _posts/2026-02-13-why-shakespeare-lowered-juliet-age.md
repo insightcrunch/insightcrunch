@@ -6,17 +6,17 @@ date: 2026-02-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "juliet-age", "adaptation", "lowered-juliet-age"]
 excerpt: "Shakespeare made Juliet younger than in his sources, just short of fourteen, and the deliberate change has long prompted debate about why he chose to do it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-02-13
+lang: en
 ---
-
 ## Why Did Shakespeare Lower Juliet's Age? The Verdict in Brief
 
 Juliet's age is the smallest number in the play and the most argued over. In Arthur Brooke's poem, the source Shakespeare followed most closely, Julietta is sixteen. In the play, her father states the figure in the second scene of the first act and states it as a shortfall: "She hath not seen the change of fourteen years" (1.2.9). Somewhere between the poem of 1562 and the stage of the middle 1590s, the heroine lost more than two years, and she lost them in a text that then insists on the loss three separate times before the first act closes. The popular account of the tragedy, the account carried by posters, trailers, and Valentine merchandise, quietly restores the missing years, because a heroine of sixteen reads as a young lover and a heroine of thirteen reads as a problem. Restoring the change, and arguing about it properly, is the business of this article.
 
-![Juliet's lowered age in the sources and the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet's lowered age in the sources and the play - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The verdict argued here can be stated in one sentence and then defended for the length of the piece. The lowered age is a deliberate structural choice, not a slip, not a printer's accident, and not a concession to the boy who first played the part: it is the premise on which the play's whole machinery of haste, parental power, and interrupted maturation is built, and the legal-historical evidence that is usually summoned to excuse or explain it in fact shows how abnormal the figure was for the play's first audience. Three rival explanations compete for the change. The dramatic reading holds that the playwright wanted intensified innocence and speed, a child bride whose vulnerability sharpens every scene of adult pressure. The legal-historical reading holds that the number reflects the marriage practice of the world the story came from, or of the world that watched it. The source-critical reading holds that the number is not a choice at all but a hardened error, a figure misread, miscopied, or halved somewhere between Brooke's page and the prompt book. Each reading will be given its strongest form, tested against the texts, and weighed. The dramatic reading, deepened by Coppélia Kahn's account of coming of age, survives the testing. The legal-historical reading explains the floor of the number but not its selection. The source-critical reading fails on the evidence of the early texts themselves.
 

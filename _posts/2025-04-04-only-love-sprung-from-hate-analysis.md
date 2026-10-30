@@ -6,15 +6,15 @@ date: 2025-04-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "only-love-only-hate", "juliet", "only-love-sprung-hate"]
 excerpt: "Juliet's line that her only love is sprung from her only hate captures the whole play, binding love and hate together the instant she learns Romeo's name."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2025-04-04
+lang: en
 ---
-
 The most quoted sentence Juliet ever speaks is two lines long, and it is spoken to nobody. At the end of the Capulet ball, told at last who the stranger is whose hand she has held and whose lips she has kissed, she answers the Nurse's plain report with a rhymed couplet: "My only love sprung from my only hate! / Too early seen unknown, and known too late!" (1.5.138-9, in René Weis's Arden Third Series text). The couplet is the play in miniature, and the verdict of this reading is direct: no other two lines in the tragedy carry so much of its design in so small a space, because no other two lines perform, in their very grammar, the fusion they describe. Love and hate are not balanced against each other here as rivals on a scale. Hate is made the parent and love the child, the one feeling is declared to be born from the other, and the second line locks the discovery into a crossed pattern of early and late, seen and known, that the remaining four acts will spend themselves proving. The couplet distills the whole play because it is built the way the play is built: a private joy and a public enmity occupying a single breath, each unintelligible without the other, sealed by a rhyme that sounds like a door closing.
 
-![Juliet learning Romeo's name at the Capulet ball, the moment of the only-love couplet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet learning Romeo's name at the Capulet ball, the moment of the only-love couplet - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 That claim needs the scene around the lines before it needs the lines themselves, because the couplet's force depends on timing. Juliet speaks it within seconds of learning a surname. Everything in the scene has conspired to keep the surname from her until the feeling is beyond recall: she has danced in ignorance, spoken a sonnet in ignorance, kissed twice in ignorance, and sent her Nurse across the room to fetch her the one fact that can ruin all three. The couplet is what the fact sounds like when it lands. It is a recognition scene compressed into fourteen syllables twice over, and its balance and rhyme are not decoration on the recognition. They are the shape recognition takes when a mind seizes two opposed truths at once and finds, to its horror, that they fit.
 

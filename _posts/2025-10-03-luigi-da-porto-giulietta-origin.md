@@ -6,15 +6,15 @@ date: 2025-10-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "luigi-da-porto", "giulietta", "da-porto-origin"]
 excerpt: "Luigi da Porto's novella gave the tale its Verona setting, the feuding houses of Montecchi and Cappelletti, and the lovers' names, Romeo and Giulietta."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2025-10-03
+lang: en
 ---
-
 Luigi da Porto, a wounded cavalry officer from Vicenza, wrote the story the world now calls Romeo and Juliet before Shakespeare was born, and the novella he left behind, Giulietta e Romeo, fixed nearly everything the later fame rests on. He placed the tale in Verona. He named the feuding houses Montecchi and Cappelletti. He called the lovers Romeo and Giulietta, gave them a ball for a meeting place, a friar for a confessor, a sleeping draught for an escape, and a tomb for an ending. The verdict of this article is plain at the outset: Shakespeare supplied the poetry, the speed, and half the cast, but the architecture of the story, its city, its surnames, its machinery of secret marriage and failed message, is da Porto's construction, and source scholarship that begins anywhere else begins too late.
 
-![Luigi da Porto's Verona, the city of the Montecchi and Cappelletti feud that frames Giulietta e Romeo - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Luigi da Porto's Verona, the city of the Montecchi and Cappelletti feud that frames Giulietta e Romeo - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 That verdict needs its evidence, because the da Porto novella is also a contested document. Its date is uncertain, its debts are disputed, its author wrapped the fiction in a claim that the events had really happened, and the line of transmission between an Italian prose tale printed at Venice and a London stage play of the 1590s runs through several intermediaries. Geoffrey Bullough, whose Narrative and Dramatic Sources of Shakespeare remains the standard map of the play's ancestry, prints da Porto at the head of the line for good reason: every later version, Bandello's expansion, Boaistuau's French retelling, Painter's prose, Brooke's poem, and the play itself, descends from the form da Porto gave the tale. Olin H. Moore, the most determined scholar of the legend's origins, pushed the pedigree further back to Masuccio Salernitano, and the disagreement between those two emphases, pedigree against construction, is the argument this article adjudicates as it goes.
 
