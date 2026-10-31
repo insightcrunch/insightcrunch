@@ -112,3 +112,7 @@
 ## how-personalized-pricing-works
 - _posts/2026-10-09-how-oil-prices-are-set.md - could carry: "An oil price is formed where no buyer is known by name, the opposite pole from the estimate of one buyer set out in how personalized pricing works."
 - _posts/2019-01-15-ftc-consumer-protection-rulemaking.md - could carry: "The study power behind the surveillance pricing inquiry is one of the instruments whose limits are traced in how personalized pricing works."
+
+## how-houdini-did-his-escapes
+- _posts/2014-01-15-the-general-keaton-action-comedy-landmark.md - could carry: "The nickname Buster itself came, on the Keaton family account, from Harry Houdini, whose own route from the variety stage to repeatable physical danger is traced in how Houdini did his escapes."
+- _posts/2026-10-14-how-film-restoration-works.md - could carry: "One recovery of the kind described on this page brought back a Houdini feature counted lost for decades, an episode set out in how Houdini did his escapes."

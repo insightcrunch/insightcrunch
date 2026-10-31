@@ -686,3 +686,27 @@ commission-federal-find-pric-study-surveillance-trade | how-personalized-pricing
 disclose-european-law-personaliz-pric-require-seller | how-personalized-pricing-works | Does European law require sellers to disclose personalized prices?
 personaliz-price-researcher-tell | how-personalized-pricing-works | How can researchers tell if a price was personalized?
 compani-hidden-keep-legal-personaliz-pric | how-personalized-pricing-works | Why do companies keep personalized pricing hidden if it is legal?
+
+## persons-houdini
+
+### how-houdini-did-his-escapes
+escape-handcuff-houdini | how-houdini-did-his-escapes | How did Houdini escape from handcuffs?
+escape-milk | how-houdini-did-his-escapes | What was the Milk Can Escape?
+cell-chinese-torture-water | how-houdini-did-his-escapes | What was the Chinese Water Torture Cell?
+body-hide-his-houdini-key | how-houdini-did-his-escapes | Did Houdini hide keys on his body?
+breath-his-hold-houdini-long | how-houdini-did-his-escapes | How long could Houdini hold his breath?
+houdini-kill-punch | how-houdini-did-his-escapes | Did a punch kill Houdini?
+die-houdini | how-houdini-did-his-escapes | What did Houdini die of, and where?
+houdini-medium-oppose-spiritualist | how-houdini-did-his-escapes | Why did Houdini oppose spiritualist mediums?
+after-agree-code-death-his-his-houdini-message-wife | how-houdini-did-his-escapes | What code did Houdini and his wife agree on for a message after his death?
+anc-end-houdini-s | how-houdini-did-his-escapes | When did the Houdini séances end?
+come-houdini-name | how-houdini-did-his-escapes | Where did the name Houdini come from?
+houdini'-name-real | how-houdini-did-his-escapes | What was Houdini's real name?
+appear-film-houdini | how-houdini-did-his-escapes | What films did Houdini appear in?
+challenge-handcuff-london-mirror | how-houdini-did-his-escapes | What was the Mirror Handcuff challenge of London?
+escape-ever-get-houdini-stuck | how-houdini-did-his-escapes | Did Houdini ever get stuck in an escape?
+escap-his-houdini-train | how-houdini-did-his-escapes | How did Houdini train for his escapes?
+arthur-conan-doyle-fall-houdini-out | how-houdini-did-his-escapes | Why did Houdini and Arthur Conan Doyle fall out?
+book-collection-houdini'-kept-magic | how-houdini-did-his-escapes | Where are Houdini's books and magic collection kept?
+hardeen-he-houdini-relat | how-houdini-did-his-escapes | Who was Hardeen, and how was he related to Houdini?
+different-his-houdini-made-magician-other-time | how-houdini-did-his-escapes | What made Houdini different from other magicians of his time?
