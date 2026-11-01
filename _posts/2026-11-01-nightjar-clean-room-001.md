@@ -6,19 +6,19 @@ date: 2026-11-01
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "A supervisor is found dead in a sealed transit room in Carrowmere, and the room holds no weight at all, which no reader has ever seen in eleven years."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-01
+lang: en
 ---
-
 ## The Round at Room Nine
 
 The fog came off the canal an hour before midnight and took the wharf lamps one at a time, until the transit corridor of the Carrowmere bonded warehouse was lit at intervals like a street in a town that had given up on itself. Sabel Orry walked it the way she had been taught to walk it, slowly, with the oilcloth book open against her forearm and the pencil tied to her wrist with string, and she read each seal aloud before she wrote anything down, because a seal read silently was a seal half read. Room one, intact. Room two, intact. Room three, intact, the lead disc cold under her thumb, the hairline from the worn press die running through both faces the way it ran through every seal the Carrowmere die had ever pressed. The corridor smelled of wet rope and lamp oil and the iron tang of canal water through the gratings, and her boots found the worn boards without her looking, the way they had learned to do in the four months since the bonded chain had taken her on as a junior clerk and set her to the night rounds because nobody senior wanted them.
 
 She was nineteen years of age and she wanted, with a force that sometimes embarrassed her, to be good at this. The wharf ran on paper and on habit, and she had decided early that paper was the part she could master. Eleven columns ruled across each page of the oilcloth book, one for the room, one for the seal, one for the hand that had pressed it, and the rest for the small change of a working port, and she filled every column as if the book were watching her back. Room four, intact. Room five, intact. A barge knocked somewhere out in the fog, timber against stone, and the sound came down the corridor flattened and late. Room six, intact. She wrote as she went, in the hand the chief clerk had praised once and never mentioned again, small, level, unhurried.
 
-![A bonded transit corridor in fog, seal book open under a lamp - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A bonded transit corridor in fog, seal book open under a lamp - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 Room seven gave her the first wrong thing of the night, and it was a small one, the kind she had been trained to notice and trained not to make a story of. The seal was intact. The number read true against the book. But one digit of that number had been written twice in the book, the second stroke laid over the first to correct it, and a corrected digit in a seal book was a thing Voss had once spent a whole evening explaining to her: a seal number is read, not remembered, and a man who corrects a digit is a man who wrote from memory, and memory is where mistakes go to be believed. She stood with her pencil over the page and told herself that clerks were human, that the evening round had been a long one, that a digit was a digit. She wrote the room down as intact and put a small private mark in the margin, a dot, the mark she used for things she meant to ask about in the morning and did not yet have the standing to question at night. Room eight, intact.
 
