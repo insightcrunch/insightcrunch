@@ -734,3 +734,27 @@ book-gate | nightjar-clean-room-001 | What is the gate book for?
 before-cause-emergency-key-used-written | nightjar-clean-room-001 | Why is the cause written before an emergency key is used?
 office-ration-read-weigher' | nightjar-clean-room-001 | How does the Office ration a Weigher's reads?
 accord-count-session | nightjar-clean-room-001 | How does the Accord count its Sessions?
+
+## persons-patrick-stewart
+
+### patrick-stewart-acting-method
+act-method-patrick-stewart' | patrick-stewart-acting-method | What is Patrick Stewart's acting method?
+become-captain-patrick-picard-stewart | patrick-stewart-acting-method | How did Patrick Stewart become Captain Picard?
+gene-not-patrick-picard-roddenberry-stewart-want | patrick-stewart-acting-method | Why did Gene Roddenberry not want Patrick Stewart as Picard?
+before-patrick-star-stewart-trek | patrick-stewart-acting-method | What did Patrick Stewart do before Star Trek?
+company-long-patrick-royal-shakespeare-stewart | patrick-stewart-acting-method | How long was Patrick Stewart with the Royal Shakespeare Company?
+carol-character-christma-forty-more-patrick-play-really-stewart | patrick-stewart-acting-method | Did Patrick Stewart really play more than forty characters in A Christmas Carol?
+award-his-patrick-stage-stewart-win-work | patrick-stewart-acting-method | What awards did Patrick Stewart win for his stage work?
+film-many-men-patrick-stewart-x | patrick-stewart-acting-method | How many X-Men films was Patrick Stewart in?
+distinctive-made-patrick-stewart'-voice | patrick-stewart-acting-method | What made Patrick Stewart's voice so distinctive?
+macbeth-patrick-play-stewart | patrick-stewart-acting-method | Did Patrick Stewart play Macbeth?
+ian-mckellen-patrick-stage-stewart-together-work | patrick-stewart-acting-method | How did Patrick Stewart and Ian McKellen work together on stage?
+patrick-stewart'-story-suitcas-unpack | patrick-stewart-acting-method | What is the story of Patrick Stewart's unpacked suitcases?
+claudiu-i-patrick-stewart | patrick-stewart-acting-method | Was Patrick Stewart in I, Claudius?
+brook'-dream-midsummer-night'-patrick-peter-play-stewart | patrick-stewart-acting-method | What did Patrick Stewart play in Peter Brook's A Midsummer Night's Dream?
+act-act-different-method-patrick-stewart' | patrick-stewart-acting-method | How is Patrick Stewart's acting different from Method acting?
+film-last-patrick-professor-role-stewart'-xavier | patrick-stewart-acting-method | What was Patrick Stewart's last film role as Professor Xavier?
+expect-fail-generation-next-patrick-stewart | patrick-stewart-acting-method | Did Patrick Stewart expect The Next Generation to fail?
+his-mak-memoir-patrick-stewart-write | patrick-stewart-acting-method | What did Patrick Stewart write in his memoir Making It So?
+jean-luc-patrick-picard-play-prepare-stewart | patrick-stewart-acting-method | How did Patrick Stewart prepare to play Jean-Luc Picard?
+actor-consider-generation-great-his-one-patrick-stage-stewart | patrick-stewart-acting-method | Why is Patrick Stewart considered one of the great stage actors of his generation?

@@ -119,3 +119,7 @@
 
 ## nightjar-clean-room-001
 - None. Installment one of the serial: no earlier installments exist to point forward to it. Forward link suggestions begin with installment 002.
+
+## patrick-stewart-acting-method
+- _posts/2010-10-07-claudius-hamlet-character-analysis.md - could carry: "The Claudius this analysis examines on the page was played at the Royal Shakespeare Company in 2008 by Patrick Stewart, whose acting method is traced across his whole career in patrick stewart acting method."
+- _posts/2015-12-01-on-the-waterfront-brando-method-acting.md - could carry: "Against the Method break stands the classical route that reached its fullest screen form a generation later, in how Patrick Stewart's verse training became screen command."
