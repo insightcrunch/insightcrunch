@@ -9,7 +9,7 @@ excerpt: "Love and hate run together through Romeo and Juliet, fused in Juliet's
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2023-12-29
+last_updated: 2026-11-01
 lang: en
 ---
 Love and hate in Romeo and Juliet are not two themes laid side by side, one for the balcony and one for the street. They are a single coupled system, a paired engine in which each passion supplies the other's fuel, vocabulary, and opportunity. The verdict argued across the sections that follow is blunt: the love in this play does not merely happen to unfold inside a feud, as weather happens to cross a landscape. The love is produced by the feud's machinery, phrased in the feud's grammar, timed by the feud's calendar, and finally consumed by the feud's accounting, while the hate, in return, borrows love's intensity, love's exclusivity, and love's willingness to die rather than yield. Separate the two and neither survives inspection. The brawling begins before any lover speaks, yet the first extended speech about feeling is a catalogue of fused opposites. The wedding and the duel share a single day. The tomb holds a marriage bed and a charnel house in the same few square feet of stage. At the end, the Prince does not sentence the lovers for loving or the fathers for hating in isolation; he names a single transaction in which heaven has killed the fathers' joys with love because a scourge was laid upon their hate (5.3.291-293). The play's own closing formula treats the two passions as entries in one ledger.

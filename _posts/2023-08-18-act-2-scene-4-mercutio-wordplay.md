@@ -9,7 +9,7 @@ excerpt: "Act 2 Scene 4 brings Mercutio's sharpest wordplay, news of Tybalt's ch
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 2023-08-18
+last_updated: 2026-11-01
 lang: en
 ---
 Act 2 Scene 4 is the play's great scene of wordplay under pressure: a street morning in Verona where Mercutio's wit runs at full stretch while a written challenge from Tybalt hangs over every exchange, and where the Nurse's entrance converts the sport into an errand that ends with the wedding arrangements made. The scene's verdict can be stated at the outset. The comedy is not a pause in the tragedy but its dress rehearsal in a lighter key, because the same instruments that make the morning funny, the duel of words, the fencing vocabulary, the insult traded as entertainment, are the instruments that will draw blood in Act 3 Scene 1. Mercutio performs the duel here with puns; Tybalt will perform it with a rapier; the scene's design insists that the two performances are one art at two temperatures. René Weis, in the Arden Third Series edition used for the quotations in this article, prints the scene from the 1599 second quarto, and its proportions deserve notice before any single joke is glossed: the fencing satire, the pun contest, and the Nurse's business divide the scene into three movements, and the threat announced in the first movement is still unpaid when the curtain falls on the third.

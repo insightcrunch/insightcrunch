@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet opens like a comedy of young love and wit, then pivot
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-11-22
+last_updated: 2026-11-01
 lang: en
 ---
 Comedy and tragedy in Romeo and Juliet are not two halves stitched at a seam but a single fabric woven from both threads at once, and the binding is the play's genre engine rather than its accident. The familiar account describes a comedy that runs for two acts and a tragedy that runs for three, as if the playwright had changed his mind at the duel in the square and swapped one kind of play for another. That account survives because it is easy to teach, and it is wrong in the way that easy accounts usually are: it describes the order in which the modes dominate, and mistakes dominance for presence. From the first scene onward, the feud's violence is staged as farce and the farce is armed with real swords. From the duel onward, the comic machinery that built the love story keeps turning inside the catastrophe, in the Nurse's chatter, in a father's wedding bustle, in hired musicians haggling over a song while a bride lies apparently dead upstairs. The verdict argued here is that the mixture is design, not flaw: the comic structure is what the tragedy is made of, the comic devices are the instruments by which the catastrophe is assembled, and the late comic beats deepen the grief precisely because the audience has been taught to laugh with these people and cannot stop knowing them as comic creatures when the kind of the play turns against them.

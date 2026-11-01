@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet fills its sky with stars and astrology, framing the l
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2024-06-14
+last_updated: 2026-11-01
 lang: en
 ---
 ## Stars and Astrology in Romeo and Juliet: The Verdict in Brief

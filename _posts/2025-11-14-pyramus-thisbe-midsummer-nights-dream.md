@@ -9,7 +9,7 @@ excerpt: "Shakespeare staged Pyramus and Thisbe as farce in A Midsummer Night's 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-11-14
+last_updated: 2026-11-01
 lang: en
 ---
 Pyramus and Thisbe die twice in Shakespeare's work of the mid-1590s, once to tears and once to laughter, and the second death is the more instructive. In A Midsummer Night's Dream, a company of Athenian artisans performs the Ovidian tale of two lovers parted by a wall, misled by a bloodied garment, and united only in a double suicide, and the court that watches it cannot stop laughing. In Romeo and Juliet, built from the same narrative skeleton in the same theatrical seasons, the corresponding beats produce the most famous tomb scene in English drama. The pairing is not a curiosity. It is a controlled experiment run by a single playwright on a single plot, and its result settles a question that criticism of the tragedy keeps circling: whether the ending of Romeo and Juliet is tragic because of what happens, or because of how the happening is framed, timed, and received.

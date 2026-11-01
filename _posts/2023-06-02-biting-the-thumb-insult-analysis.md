@@ -9,7 +9,7 @@ excerpt: "Sampson bites his thumb at the Montagues to provoke a fight, and unpac
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2023-06-02
+last_updated: 2026-11-01
 lang: en
 ---
 The feud between the Capulets and the Montagues restarts, in the opening scene of Romeo and Juliet, over a bitten thumb. Sampson, a Capulet servingman with no grievance of his own and no courage he can call his own either, raises his thumbnail to his teeth in the street, and within sixty lines Verona has swords out, citizens clubbing servants, two old lords calling for weapons, and a prince threatening death. The gesture is the smallest unit of the feud, and the argument of this close reading is that its smallness is the evidence: a hatred that can be reignited by a thumbnail is a hatred with no content left, kept alive as a performance of honor by men too frightened to own their own provocation. Everything the play will argue about the feud at full scale, in duels and death sentences and a shared tomb, is already present in this exchange in miniature, conducted in prose, by cowards.

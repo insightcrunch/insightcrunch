@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on sworn words, from the lovers' vows to Tybalt
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2024-11-01
+last_updated: 2026-11-01
 lang: en
 ---
 ## Vows, Oaths, and Promises in the Play: A Verdict on the Force of Sworn Words

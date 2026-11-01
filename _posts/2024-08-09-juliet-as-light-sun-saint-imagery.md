@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet figures Juliet as sun, star, and saint, so that Romeo
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-08-09
+last_updated: 2026-11-01
 lang: en
 ---
 ## Juliet as Light, Sun, and Saint: The Cluster Behind the Cliché

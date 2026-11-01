@@ -9,7 +9,7 @@ excerpt: "Chaucer's Troilus and Criseyde, the great English poem of doomed love 
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2025-12-19
+last_updated: 2026-11-01
 lang: en
 ---
 Chaucer's Troilus and Criseyde is not a source of Romeo and Juliet, and this article begins by insisting on the distinction, because the distinction is where the value lies. The play's plot descends through the Italian line, from Luigi da Porto and Matteo Bandello to Arthur Brooke's English poem and William Painter's prose, and no scene, speech, or turn of the Verona story was lifted from Chaucer's long poem of Troy. What Chaucer lends the play is something a source list cannot record: a manner. The machinery by which the lovers reach each other through a scheming intermediary, the dawn parting that ends their one secured night, the language of Fortune that frames their ruin, and the habit of letting a lover's fine rhetoric expose the lover who speaks it all stand in English literature because Chaucer built them there, two centuries before the play. The verdict argued through every section that follows is that Troilus and Criseyde is the play's great English parallel and the ancestor of its manner, parallel rather than source, and that the parallel, drawn carefully, explains more about how Romeo and Juliet works than several entries on its official source list.

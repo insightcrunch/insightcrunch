@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet threads money and gold through its story, from the ap
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2024-04-19
+last_updated: 2026-11-01
 lang: en
 ---
 Money moves through Romeo and Juliet with a persistence that the play's reputation as a pure love story trains audiences to overlook. A prince prices a broken peace in lives. A mother sells a marriage inside the metaphor of a gilded book. A young man in exile counts out forty ducats to a starving tradesman and delivers, over the coins, the sharpest economic judgment in the canon: the gold is the poison, and the drug is almost an excuse. Two fathers close the action by bidding against each other in statues of pure gold for children they could not keep alive at any price. The verdict of this article is plain. Verona runs on a single system of worth, in which persons are valued the way objects are valued, by display, by scarcity, by what a rival house can be made to envy or match. The lovers die inside that system, first priced by it, then hunted by it, and finally, in the closing minutes, cast in its most expensive material. Their love proposes a rival system, an economy of giving in which surrender increases the giver, and the tragedy is that the rival system never acquires an institution. It has a balcony, a cell, and a tomb. The other system has the street, the feast, the law, the market in marriages, and the mint.

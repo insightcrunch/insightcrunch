@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet's first words form a complete shared sonnet sealed wi
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2023-07-07
+last_updated: 2026-11-01
 lang: en
 ---
 The shared sonnet is the most exact piece of joinery in Romeo and Juliet, and the verdict of this reading is plain: the fourteen lines the lovers exchange at their first meeting are not a decorative stunt laid over a meeting, but the meeting itself, transacted in verse. When Romeo crosses the Capulet hall and speaks to Juliet for the first time, the two strangers do not trade remarks. They build a poem together, quatrain by quatrain, in the period's most fashionable and most demanding short form, and the poem completes itself in a kiss. Every element of the scene that memory usually keeps, the masked intruder, the unknown name, the danger from Tybalt still warm in the room, is subordinated to a formal event: two speakers who have never met discover, line by line, that they can finish each other's rhymes.

@@ -9,7 +9,7 @@ excerpt: "Mercutio dies joking, calling his wound a scratch and asking for a gra
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2025-05-09
+last_updated: 2026-11-01
 lang: en
 ---
 ## Mercutio's Death Lines: The Verdict First

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet grew from the Italian novelle that flooded Elizabetha
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-03-20
+last_updated: 2026-11-01
 lang: en
 ---
 The Italian novelle shaped the English imagination before they shaped any single play, and Romeo and Juliet is best understood as the most famous cargo of a very large trade. Between the 1560s and the 1580s, English printers issued collection after collection of translated Italian tales, and English readers bought a country along with the stories: an Italy of feuding houses, secret marriages, resourceful wives, corrupt friars, poison, disguise and sudden death. The verdict of this article is plain. The novelle gave England three things at once, a warehouse of plots, a licensed imaginative territory where extreme conduct could be staged at a safe distance, and a moral problem that translators, preachers and schoolmasters argued over for a generation. The play draws on all three gifts. Its Verona is not a city the dramatist visited but a city the book trade had already built, and its lovers stepped onto the London stage as characters English audiences had been meeting in prose for thirty years.

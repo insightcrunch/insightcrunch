@@ -9,7 +9,7 @@ excerpt: "Act 1 Scene 5 is the Capulet ball where Romeo first sees Juliet, Tybal
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 2023-06-30
+last_updated: 2026-11-01
 lang: en
 ---
 ## Act 1 Scene 5 explained: why the Capulet ball is the heart of Act 1

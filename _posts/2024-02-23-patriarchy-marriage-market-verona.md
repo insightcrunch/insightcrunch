@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet shows a Verona where fathers trade daughters in marri
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2024-02-23
+last_updated: 2026-11-01
 lang: en
 ---
 Patriarchy and the marriage market are not background conditions in Romeo and Juliet. They are the operating system of Verona, the set of rules that decides who may speak to whom about a daughter's future, what that future is worth, and what happens to the daughter when she declines the price set for her. Juliet Capulet is negotiated for before she appears on stage, pitched a husband by her mother in the language of a book offered for inspection, promised to that husband by her father in a midnight interview she does not attend, threatened with the street when she refuses, and finally settled for, after her death, in statues of pure gold. Every stage of that sequence is a transaction, and the play keeps the paperwork visible. The quotations in this article follow the Arden Third Series edition edited by René Weis, cited by act, scene, and line, because the market reading stands or falls on exact wording: a conditional clause in Act 1, a pun on tender in Act 3, a threat built out of verbs for giving and casting away.

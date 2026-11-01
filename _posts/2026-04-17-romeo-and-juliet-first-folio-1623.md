@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet appears in the First Folio in a text printed mainly f
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-04-17
+last_updated: 2026-11-01
 lang: en
 ---
 The most famous book in English literature holds a text of Romeo and Juliet that its printers never took from any manuscript of the playwright. When the First Folio appeared in 1623, seven years after Shakespeare's death, the tragedy of the Veronese lovers took its place among the tragedies in a volume whose title page promised works "Published according to the True Originall Copies." For this one play, that promise describes the book's ambition rather than its method. The Folio text was set in type from a printed quarto, a descendant of the Second Quarto of 1599 at two removes, and everything distinctive about it follows from that single bibliographical fact. Its readings are a quarto's readings filtered through one more printing house; its compositors corrected, miscorrected and occasionally corrupted a text that already stood in print; its one great structural gift, the division into acts and scenes, came from the printing house rather than the playhouse or the author. Yet the derivative text is also the text through which the play reached posterity, packaged as literature between hard covers, and the paradox defines the Folio's strange position in the play's history: least authoritative of the early witnesses for the words, most consequential of them all for the survival and the shape of the whole.

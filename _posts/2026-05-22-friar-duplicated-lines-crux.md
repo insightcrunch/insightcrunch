@@ -9,7 +9,7 @@ excerpt: "A famous crux in Romeo and Juliet repeats the Friar's dawn lines in tw
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-05-22
+last_updated: 2026-11-01
 lang: en
 ---
 # The Friar's Duplicated Lines: A Famous Crux of Revision

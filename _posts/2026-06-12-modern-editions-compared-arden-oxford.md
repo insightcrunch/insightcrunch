@@ -9,7 +9,7 @@ excerpt: "The major modern editions of Romeo and Juliet, Arden, Oxford, New Camb
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
 author: "natalie-webb"
-last_updated: 2026-06-12
+last_updated: 2026-11-01
 lang: en
 ---
 A reader who buys a modern edition of Romeo and Juliet buys an argument. Five books dominate the field: the Arden Shakespeare in its second series form, edited by Brian Gibbons, and in its third series form, edited by René Weis; the Oxford Shakespeare, edited by Jill L. Levenson; the New Cambridge Shakespeare, edited by G. Blakemore Evans; and the Folger Shakespeare Library volume, edited by Barbara A. Mowat and Paul Werstine. All five print a text descended from the second quarto of 1599, yet no two of them print the same play. They differ in the readings they choose where the early witnesses disagree, in the stage directions they admit, in the weight and placement of their notes, in the story their introductions tell about what kind of work the tragedy is, and in the reader each book silently assumes. The verdict defended here is plain. The differences are not decoration around a stable core; they are decisions about evidence, and they decide what most readers take the play to say. A reader choosing among the modern editions is choosing among five defensible plays, and the choice should be made by use: the Folger for a first encounter, the Arden third series for study in depth, the Oxford for the play as a thing performed, the New Cambridge for the play's life on stage across four centuries, with Gibbons's Arden second series still unmatched on the sources from which the tragedy grew.

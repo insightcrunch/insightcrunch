@@ -9,7 +9,7 @@ excerpt: "Act 3 Scene 3 finds Romeo on the floor of the Friar's cell, raging tha
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 2023-09-22
+last_updated: 2026-11-01
 lang: en
 ---
 Act 3 Scene 3 of Romeo and Juliet is the scene the love story would prefer to skip, and the scene the tragedy cannot do without. Romeo, married that afternoon and a killer within the hour, is hidden in Friar Laurence's cell when the Prince's sentence reaches him: not death, but banishment. His response is a collapse so complete that the Friar must argue him off the floor, the Nurse must shame him upright, and the scene's rescue has to be built out of the wreckage of his reasoning. The verdict of this reading is plain at the outset. The breakdown is excessive as conduct and exact as measurement. Romeo overstates everything except the one thing that matters, which is that banishment, for him, abolishes the world rather than moving him across it, and the Friar's own plan quietly concedes the point by staking the rescue on a single stolen night inside Verona's walls.

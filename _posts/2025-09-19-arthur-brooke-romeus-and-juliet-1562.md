@@ -9,7 +9,7 @@ excerpt: "Arthur Brooke's long narrative poem Romeus and Juliet was Shakespeare'
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-09-19
+last_updated: 2026-11-01
 lang: en
 ---
 Arthur Brooke's *Romeus and Juliet* is the poem Romeo and Juliet was built from, and the debt is larger than the play's fame usually admits. Published in 1562 as *The Tragicall Historye of Romeus and Juliet*, Brooke's long narrative in rhyming couplets supplies nearly everything a plot summary of the play would list: the feud, the feast, the window courtship, the secret marriage, the Friar, the Nurse, the street killing, the banishment, the forced match, the sleeping potion, the failed message, and the tomb. Shakespeare's originality in this tragedy is real, but it is the originality of transformation working inside a borrowed frame. The verdict this article defends is plain: Brooke gave the play its architecture entire, its cast entire, and even the moral problem the drama refuses to settle, and any account of the play that begins with Shakespeare inventing the story begins in error.

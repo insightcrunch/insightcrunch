@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet ends in a double suicide that readers have judged as 
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2024-05-31
+last_updated: 2026-11-01
 lang: en
 ---
 ## Suicide in Romeo and Juliet: The Verdict the Play Refuses to Borrow

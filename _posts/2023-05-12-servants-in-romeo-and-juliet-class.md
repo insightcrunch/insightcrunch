@@ -9,7 +9,7 @@ excerpt: "The servants of Romeo and Juliet brawl, joke, and carry messages, and 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2023-05-12
+last_updated: 2026-11-01
 lang: en
 ---
 The servants of Romeo and Juliet speak the first words of the play, and the play cannot move a single scene without their hands. Before any lover sighs, two Capulet servingmen are trading jokes about coal and colliers in a Verona street, and the brawl they provoke brings the Prince, the patriarchs, and the whole machinery of the feud onto the stage. From that opening minute to the final one, where Romeo's man stands before the Prince giving evidence among the corpses, the lower ranks carry the tragedy's messages, cook its feasts, guard its doors, fetch its logs, misdeliver its invitations, and sell its poison. The verdict argued across this article is that the servants are neither decorative nor incidental: they are the play's second nervous system, the channel through which every order, invitation, and report must pass, and the tragedy of the masters is enabled, transmitted, and observed by the people paid to serve them.

@@ -9,7 +9,7 @@ excerpt: "The stage directions in the early texts of Romeo and Juliet, fuller in
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-06-26
+last_updated: 2026-11-01
 lang: en
 ---
 The stage directions of Romeo and Juliet are the least read and most revealing words in the early texts. Readers skim them on the way to the speeches; editors print many of them in brackets, as if apologising for their presence; and yet the few hundred short prose instructions scattered through the first quarto of 1597, the second quarto of 1599, and the First Folio of 1623 are the nearest thing the play possesses to a record of its own first life in the theatre. They say who entered and with what in hand, who stood above and who below, where a body fell and behind what curtain it disappeared. No other stratum of the text speaks so directly about performance, and none has been asked to carry so much argumentative weight. Bibliographers have treated the directions as fingerprints of lost manuscripts. Performance historians have treated them as photographs of lost stagings. Both parties claim more than the documents hold, and the task of a census is to say, direction by direction and stratum by stratum, what this evidence can certify and what it cannot.

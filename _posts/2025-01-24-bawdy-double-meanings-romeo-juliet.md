@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is thick with bawdy double meanings, the servants, Me
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-01-24
+last_updated: 2026-11-01
 lang: en
 ---
 ## Bawdy in Romeo and Juliet: The Verdict in Brief

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sets the private love of two individuals against the 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-05-17
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Individual Against Society in Romeo and Juliet: The Verdict in Brief

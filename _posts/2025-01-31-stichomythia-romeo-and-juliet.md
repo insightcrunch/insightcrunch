@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet uses stichomythia, rapid line-for-line exchange, to m
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-01-31
+last_updated: 2026-11-01
 lang: en
 ---
 ## Stichomythia in Romeo and Juliet: The Verdict in Brief

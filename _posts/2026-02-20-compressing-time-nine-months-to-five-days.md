@@ -9,7 +9,7 @@ excerpt: "Where Brooke's lovers court over months, Shakespeare compressed the ac
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-02-20
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Verdict: Nine Months Became Five Days, and a Cautionary Tale Became a Tragedy of Haste

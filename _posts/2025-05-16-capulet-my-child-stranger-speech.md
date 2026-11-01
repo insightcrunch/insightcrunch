@@ -9,7 +9,7 @@ excerpt: "Capulet's first answer to Paris, that his child is yet a stranger in t
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 62
 author: "diana-patel"
-last_updated: 2025-05-16
+last_updated: 2026-11-01
 lang: en
 ---
 The first substantial speech Lord Capulet makes in the play is a refusal, and a gentle one. Paris has come to press his suit for Juliet, and her father answers with the most reasonable sentences any parent speaks in the tragedy: "My child is yet a stranger in the world; / She hath not seen the change of fourteen years" (1.2.8-9, in the lineation of René Weis's Arden Third Series edition). The child is not yet fourteen. Let two more summers pass. Woo her gently, win her heart, and understand that the father's will operates only inside the boundary of her consent: "But woo her, gentle Paris, get her heart; / My will to her consent is but a part" (1.2.16-17). Within four days of stage time the same father will set the wedding for Thursday, promise the suitor a daughter who "will be ruled / In all respects by me" (3.4.13-14), and threaten to drag the girl to church on a hurdle. The speech at 1.2 is therefore the measure of everything that follows. It is not a portrait of a tyrant warming up. It is a written standard, composed by Capulet himself in calm verse, against which Capulet himself will be tried and found wanting.

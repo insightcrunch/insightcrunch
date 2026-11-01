@@ -9,7 +9,7 @@ excerpt: "The sleeping potion that feigns Juliet's death belongs to a deep folkt
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-12-05
+last_updated: 2026-11-01
 lang: en
 ---
 The death-feigning potion that Friar Laurence hands to Juliet in Act 4 is usually introduced as a clever piece of plotting, a desperate cleric's bright idea, and that introduction is wrong in a way that distorts everything downstream. The vial holds the oldest machinery in the whole tragedy. Long before any Veronese lover drank, heroines of Greek romance were swallowing drugs that stopped breath and pulse convincingly enough to earn them a funeral and a tomb; Italian tale-tellers were dosing husbands and brides with powders measured in days; tellers of wonder tales were laying apparently dead girls in glass coffins to wait out their enchantments. The playwright invented neither the drug nor its schedule nor its terrors. What the play received, through a documented chain of Italian, French, and English books, was a device already ancient, already engineered, already freighted with the fear of waking underground. This article surveys that device whole: its taxonomy, its cases across Greek romance, the Italian novella, and the wider tale tradition, the way each telling builds the machine differently, and the reason this one part of the story, alone among its parts, refuses to produce a single inventor.

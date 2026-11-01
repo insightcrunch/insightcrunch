@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet fall in love and marry within a day, and readers have
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-09-27
+last_updated: 2026-11-01
 lang: en
 ---
 ## Is the Love in Romeo and Juliet Too Fast? The Verdict in Brief

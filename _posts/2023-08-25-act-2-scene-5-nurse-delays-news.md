@@ -9,7 +9,7 @@ excerpt: "Act 2 Scene 5 plays Juliet's impatience against the Nurse's teasing de
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 61
 author: "maria-santos"
-last_updated: 2023-08-25
+last_updated: 2026-11-01
 lang: en
 ---
 Act 2 Scene 5 of Romeo and Juliet contains almost no event, and it is one of the most perfectly engineered scenes in the play. A girl waits in a garden for a message. An older woman arrives carrying the message and declines, for speech after speech, to hand it over. Nothing is decided in the scene that has not already been decided elsewhere: Romeo's terms were settled at the Friar's cell and in the street, the wedding hour is fixed, the ladder is planned. Yet the scene holds an audience completely, because its subject is not the news but the wait for the news, and waiting, handled at this level of craft, turns out to be a complete dramatic subject. The verdict of this reading is plain at the start: Act 2 Scene 5 is a small comic masterpiece of delay, the delay is the enrichment and not the obstacle, and the scene earns its place before the wedding by converting three hours of a young woman's impatience into the play's most exact measurement of what desire costs in time.

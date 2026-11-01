@@ -9,7 +9,7 @@ excerpt: "Dante named the Montecchi and Cappelletti as feuding factions in his P
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-11-28
+last_updated: 2026-11-01
 lang: en
 ---
 The two most famous family names in English drama were not invented by a playwright, a novelist, or a poet of love. Montecchi and Cappelletti enter literature in a political poem, in a single line of invective, spoken by Dante Alighieri in the sixth canto of the Purgatorio, where the names stand for the ruin of Italian civic life and nothing else. Dante gives the feud of Romeo and Juliet its names roughly two centuries before the tale of the lovers exists, and he gives them without lovers, without Verona as a setting for romance, without a balcony, a friar, a potion, or a tomb. He gives two houses held up to an emperor as evidence: this is what faction does to a city and a country. Everything the names later acquire, the star-crossed love, the secret marriage, the double suicide, is an accretion laid over a foundation that is purely, coldly political.

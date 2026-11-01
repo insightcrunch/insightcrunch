@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet swings between torrents of words and sudden silence, 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-05-03
+last_updated: 2026-11-01
 lang: en
 ---
 Silence and speech divide the emotional labour of Romeo and Juliet between them, and the division is the argument of this article. The tragedy is famous for its talk: a shared sonnet at a first meeting, a balcony scene that runs past two hundred lines, a wit who cannot stop punning, a nurse whose reminiscence fills a scene, a friar who speaks in proverbs the way other men breathe. Against that torrent the play sets a second system, quieter and stronger. A beloved who never appears and never answers. A wedding whose words are never staged. A father who forbids his daughter to reply. A mother who ends a conversation by leaving it. A heroine who speaks her greatest speeches to people who are absent, asleep, or dead. A hero who reserves his longest address for a woman who cannot hear it. The verdict argued throughout is plain: silence in this play is not the absence of meaning but one of its principal carriers, and the moments an audience remembers longest are the moments where speech runs out, is refused, or arrives too late to be answered. The cliché hears only the famous speeches. Restoring the silences restores the other half of the play, and the other half is where the emotional truth is kept.

@@ -9,7 +9,7 @@ excerpt: "Luigi da Porto's novella gave the tale its Verona setting, the feuding
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2025-10-03
+last_updated: 2026-11-01
 lang: en
 ---
 Luigi da Porto, a wounded cavalry officer from Vicenza, wrote the story the world now calls Romeo and Juliet before Shakespeare was born, and the novella he left behind, Giulietta e Romeo, fixed nearly everything the later fame rests on. He placed the tale in Verona. He named the feuding houses Montecchi and Cappelletti. He called the lovers Romeo and Giulietta, gave them a ball for a meeting place, a friar for a confessor, a sleeping draught for an escape, and a tomb for an ending. The verdict of this article is plain at the outset: Shakespeare supplied the poetry, the speed, and half the cast, but the architecture of the story, its city, its surnames, its machinery of secret marriage and failed message, is da Porto's construction, and source scholarship that begins anywhere else begins too late.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet's dawn parting is an aubade in which they argue wheth
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2023-10-13
+last_updated: 2026-11-01
 lang: en
 ---
 The lark or nightingale exchange that opens Act 3 Scene 5 is the most exact aubade in English drama, and the exactness is the argument. For thirty-six lines the newly married lovers dispute the identity of a bird neither of them can see, and the dispute is rigged from its first sentence: the bird's name decides whether Romeo stays in his wife's chamber or climbs down into exile under sentence of death. Juliet names the singer a nightingale so that the night, the marriage's only safe jurisdiction, can be allowed to continue. Romeo names it the lark, the herald of the morn, because a wrong identification, believed, would cost him his life. The verdict defended throughout this reading is that the exchange is no decorative duet of wishful thinking. It is the play's most disciplined piece of verbal engineering: a naming contest in which language is ordered to repeal a fact, fails on a schedule the audience can watch, and converts its failure into the one decision that saves Romeo's life and ends the marriage's single night. The lovers are not describing the dawn. They are litigating it, and the aubade, the dawn song of parting inherited from the troubadours, supplies the court in which the case is heard.

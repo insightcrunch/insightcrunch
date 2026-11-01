@@ -9,7 +9,7 @@ excerpt: "Shakespeare took the slight nurse of his sources and made her one of h
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-01-23
+last_updated: 2026-11-01
 lang: en
 ---
 The Nurse of Romeo and Juliet has almost no existence before Shakespeare writes her. In Luigi da Porto's novella she is a pair of hands: she carries messages, opens a door at night, keeps a secret. In Matteo Bandello she is the same pair of hands with a price attached. In Arthur Brooke's poem she is an instrument in a moral prosecution, and at the end of the poem she is sentenced for her part in it. None of these tellers gives her a name that matters, a dead child, a husband, a body that aches, or a memory that runs eleven years deep. The play gives her all of these in her first scene, in a single prose reminiscence that no source prepares, no source hints at, and no source survives comparison with. The verdict of this study is plain: the reinvention of the Nurse is the clearest specimen of Shakespeare's method with his sources anywhere in the tragedy. The plot he borrowed almost entire. The person he invented almost entire. Where the borrowings end and the inventions begin can be measured scene by scene, and the measurement shows that the comedy and the pathos of the finished play are manufactured precisely at the points where the sources fall silent.

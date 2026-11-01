@@ -9,7 +9,7 @@ excerpt: "Act 1 Scene 2 sets Paris courting Juliet through her father and an ill
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 2023-06-09
+last_updated: 2026-11-01
 lang: en
 ---
 Act 1 Scene 2 of Romeo and Juliet lasts barely a hundred lines, contains no lover, no balcony, no sword, and no death, and it is the most consequential quiet scene in the play. In a single street conversation and a single street errand, Shakespeare starts the two machines whose collision fills the remaining four acts: a marriage negotiation that will harden into a command, and a chance meeting that will grow into a secret wedding. Paris asks for Juliet and is told to wait, to woo, and to look at other women in the meantime. A servant who cannot read is handed the guest list for that night's feast and stops the first literate passerby, who happens to be Romeo, lovesick for a woman whose name stands on the list. Neither event announces itself as destiny. Both are staged as ordinary city business, a bargain struck on a doorstep and an errand botched in the street, and the verdict of this close reading is that the ordinariness is the design. The scene is not a pause between the brawl and the ball. It is the play's ignition chamber, built so that everything later described as fate can be traced back to two human arrangements, one made with full authority and one made by pure accident.

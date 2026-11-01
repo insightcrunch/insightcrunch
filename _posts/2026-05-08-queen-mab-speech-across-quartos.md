@@ -9,7 +9,7 @@ excerpt: "The Queen Mab speech differs between the quartos of Romeo and Juliet, 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-05-08
+last_updated: 2026-11-01
 lang: en
 ---
 The Queen Mab speech, Mercutio's forty-line flight over the sleeping households of Verona in Act 1, Scene 4, is the most quoted set piece in Romeo and Juliet, and the version readers quote is an editorial assembly. No early printed text contains the speech in exactly the form a modern edition gives it. The speech survives in three early witnesses that agree on its substance to a degree that surprises readers who know the two quartos only by reputation, and differ from each other in arrangement, lineation, connectives and small wording at a density that rewards a magnifying glass. Collating this one speech across the first quarto of 1597, the second quarto of 1599 and the First Folio of 1623 produces a verdict that cuts across the grand theories built on the whole texts. The agreement proves common descent from a written ancestor very close to the second quarto's copy. The drift, where it occurs, carries the fingerprint of performance and memory rather than the pattern of an author rethinking a finished invention. And the Folio's speech, derivative almost line by line, warns against counting three witnesses when the evidence really holds two.

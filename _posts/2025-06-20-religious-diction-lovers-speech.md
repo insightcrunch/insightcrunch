@@ -9,7 +9,7 @@ excerpt: "The lovers in Romeo and Juliet speak the vocabulary of faith, saint, p
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2025-06-20
+last_updated: 2026-11-01
 lang: en
 ---
 ## Religious Diction in the Lovers' Speech: The Verdict First

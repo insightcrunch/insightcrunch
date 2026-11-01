@@ -9,7 +9,7 @@ excerpt: "Reading Romeo and Juliet aloud turns scansion into performance, since 
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-08-22
+last_updated: 2026-11-01
 lang: en
 ---
 Reading Romeo and Juliet aloud is not a decorative extra added after the real work of study is done. It is the real work, because the verse was built as a set of instructions for a voice, and a page read in silence returns only part of what the lines contain. The meter is a performance score in the strict sense: it tells a speaker which words carry weight, where the breath may be taken, how fast an exchange must move, and where a pause is not an interruption but a written event. The verdict of this article is plain. A reader who treats the pentameter as a score, learning first to obey it and only then to argue with it, will find meanings in the famous speeches that silent reading habitually misses, because those meanings are carried by timing, stress, and breath before they are carried by paraphrase. Silent study has its own rewards, and the play survives them handsomely. But the tragedy was engineered for the ear, and the ear is paid in a currency the eye cannot mint.

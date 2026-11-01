@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet repeatedly casts people as books to be read, most fam
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-07-05
+last_updated: 2026-11-01
 lang: en
 ---
 ## Book Imagery in Romeo and Juliet: The Verdict in Brief

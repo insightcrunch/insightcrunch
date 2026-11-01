@@ -9,7 +9,7 @@ excerpt: "Juliet's gallop-apace soliloquy varies across the early texts of Romeo
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2026-05-15
+last_updated: 2026-11-01
 lang: en
 ---
 The Gallop apace variants are the second great single-speech case in the early texts of Romeo and Juliet, and the harder of the two. Juliet's wedding-night soliloquy, the speech that opens at "Gallop apace, you fiery-footed steeds" (3.2.1), survives in three early witnesses that do not tell the same story about it. The first quarto of 1597 prints four lines of the speech and then brings the Nurse in. The second quarto of 1599 prints the whole design, thirty-three lines of invocation, impatience and prophecy, and inside its sixth line it prints the most argued-over word in the play: "That runawayes eyes may wincke" (3.2.6). The First Folio of 1623, set from a later quarto in the same line of descent, repeats the word and changes almost nothing else in the speech except one verb form. Every modern reader therefore meets the soliloquy through an editor's decisions, and the decisions are not decoration. Point the quarto's word one way and a fleeing sun shuts its eyes so that Romeo can come unseen; point it another way and the streets of Verona must empty of wanderers first. Replace the word, as some nineteenth-century editors did, and the line is about rumour, or surprise, or anything except what the quartos print.

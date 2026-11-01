@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet floods its early scenes with Petrarchan conceits, the
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-01-10
+last_updated: 2026-11-01
 lang: en
 ---
 ## Petrarchan Conceits in Romeo and Juliet: The Verdict in Brief

@@ -9,7 +9,7 @@ excerpt: "A newer view treats Q1 of Romeo and Juliet not as a corrupt text but a
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-05-01
+last_updated: 2026-11-01
 lang: en
 ---
 The first quarto of Romeo and Juliet, printed in 1597 and dismissed for generations as a bad quarto, has been revalued by a newer account of its origins: the performance text view, which holds that this short, theatrically vivid book records the tragedy as the playwright's company actually played it, cut for the stage and carrying the marks of performance in its directions, its casting economy, and its shape. The verdict argued here is graded, because the claim itself is graded. In its strong form, that the 1597 volume transcribes a performance, the claim is unproven and probably unprovable. In its moderate form, that a performed, abridged version of the tragedy stands behind the printed book, the claim is probable, better supported than any rival single explanation, and strong enough to change how the volume should be used. In its weakest form, that the book is worth reading as evidence of early staging, the claim is beyond serious dispute. Everything in the pages that follow works toward those three grades: what the performance text claim would certify if true, the evidence tried in its favour, the evidence tried against it, the counter-case built by cautious textual critics, and the practical consequences for the three kinds of reader who handle the early texts, the student of the words, the editor who must choose between them, and the director who must put bodies on a stage.

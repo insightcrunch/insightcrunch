@@ -9,7 +9,7 @@ excerpt: "Mercutio sees love as bodily appetite and Romeo sees it as worship, an
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2023-04-14
+last_updated: 2026-11-01
 lang: en
 ---
 Mercutio and Romeo are the play's two theorists of love, and the tragedy begins as their argument. One friend insists that desire is a bodily appetite, to be fed, mocked, and discharged before it makes a fool of the man who feels it. The other insists that desire is a form of worship, to be suffered, decorated, and obeyed until it remakes the world around the beloved's face. Shakespeare gives each man a complete vocabulary, a set of set pieces in which to perform it, and a best friend positioned to hear the performance and answer it. The debate is not decoration laid over the plot. It is the plot's engine room, because every catastrophe in the play can be traced to a moment when one theory of love was applied where the other, or a third that neither man holds, was required.

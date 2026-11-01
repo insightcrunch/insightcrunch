@@ -9,7 +9,7 @@ excerpt: "Verona was a literary place before Romeo and Juliet, fixed as the love
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-01-16
+last_updated: 2026-11-01
 lang: en
 ---
 Verona was already a literary place, dense with three centuries of accumulated meaning, long before the lovers' names were attached to it, and that single fact overturns the most common assumption readers bring to the tragedy. The familiar account credits Shakespeare with a stroke of scenic genius: an exotic Italian city chosen for its heat, its balconies, its Catholic colouring, its distance from London. The documentary record runs the other way. By the time the story reached a London playhouse, Verona had been built by Dante as the refuge of the exiled poet and the court of the della Scala, furnished by chroniclers and humanists as a seat of Roman antiquity and signorial splendour, and fixed as the address of the two feuding houses by Luigi da Porto in the early sixteenth century. Shakespeare never saw the city, never needed to see it, and never chose it. He received it, the way he received the plot, the potion, the friar and the tomb, down a chain of Italian, French and English retellings in which the place-name was one of the most stable elements transmitted. The verdict of the source record is plain: the setting is an inheritance, not an invention, and the play's power over place comes from what Shakespeare did inside walls that other writers had already raised.

@@ -9,7 +9,7 @@ excerpt: "The first printed Romeo and Juliet is a shorter, rougher quarto, long 
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-03-27
+last_updated: 2026-11-01
 lang: en
 ---
 The first quarto of Romeo and Juliet is a small book carrying a large accusation. Printed in London in 1597, it is the earliest printed text of the play: a version some seven hundred lines shorter than the text readers know, rougher in its verse, freer in its wording, and far richer in stage directions. For most of the twentieth century, scholarship filed it under a single damning adjective and moved on. The first quarto was a "bad quarto," a pirated and corrupt report of the real play, useful only as a warning. The verdict argued through this study is that the accusation fails. The 1597 quarto is a derivative text, and its debts to a fuller version stand exposed in its own loose ends, but derivative is not the same as worthless, and "bad" is not a description of the book at all. It is a verdict delivered in 1909, three centuries after the book was printed, and it conceals more than it reveals. Read on its own terms, the first quarto is the closest surviving witness to Romeo and Juliet as a working theatre text: compressed, fast, theatrically literate, and printed with a care that its nickname denies.

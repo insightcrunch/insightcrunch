@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is haunted by dreams and omens, from Romeo's forebodi
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2024-04-05
+last_updated: 2026-11-01
 lang: en
 ---
 Verona is a city under warning. Before Romeo has met Juliet, he stands in a street at night with a torch in his hand and announces that his mind misgives some consequence yet hanging in the stars. Before the wedding night has ended, Juliet looks down at her husband from a window and sees him as one dead in the bottom of a tomb. In exile, Romeo wakes from the happiest dream of the play and reports a vision of his lady breathing life back into his corpse with kisses, hours before a servant rides in with the news that she is dead. Between those poles the tragedy runs a complete system of dreams, omens, forebodings, visions, and spoken portents, and the system has a signature: nearly every warning in the play is accurate, and not one of them does its hearer any good. The single exception proves the design, because the one report from sleep that arrives in a cheerful, legible, wish-shaped form, the Mantua vision, is false in the only way that matters. It shows Romeo his own corpse revived, and within the day he is a corpse for good, revived by nobody.

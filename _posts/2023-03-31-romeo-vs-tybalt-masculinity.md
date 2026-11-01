@@ -9,7 +9,7 @@ excerpt: "Romeo and Tybalt embody rival ideas of manhood in Verona, the lover ag
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2023-03-31
+last_updated: 2026-11-01
 lang: en
 ---
 Romeo and Tybalt meet in the square at the hinge of the play, and the meeting is a contest between two complete and incompatible answers to the question of what a man is. Tybalt's answer is the older one and the city's official one: a man is a surface of reputation that any insult scratches, and the scratch must be answered with a sword before witnesses, according to rules, without hesitation and without mercy. Romeo's answer, formed in a single night and sealed in a friar's cell that morning, is that a man is what he loves, that kinship can be made by vow as well as by blood, and that the word "villain" can be declined like an invitation. The verdict of this article is plain and it is argued on the evidence of the scene itself: the play indicts Tybalt's model without reserve, as a machine for converting pride into corpses, and it indicts Romeo's model only in its collapse, at the moment Romeo abandons it and takes up the rival code to avenge his friend. Romeo's refusal to fight is the sanest act of manhood in Verona, and the tragedy is that Verona gives it no room to stand. Within the hour of his marriage he is a killer, exiled, and calling himself fortune's fool, and every step of that ruin is measured out by the code he tried, for perhaps ninety lines, to refuse.

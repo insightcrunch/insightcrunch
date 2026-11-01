@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet runs on puns, the quibbles that Mercutio loves and th
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2025-01-17
+last_updated: 2026-11-01
 lang: en
 ---
 ## Puns and Quibbles in Romeo and Juliet: The Verdict First

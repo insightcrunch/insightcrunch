@@ -9,7 +9,7 @@ excerpt: "Petrarch's Canzoniere, the fountainhead of the love sonnet, stands beh
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2025-12-26
+last_updated: 2026-11-01
 lang: en
 ---
 Romeo's first love speeches sound, to an ear trained on anthologies of romantic quotation, like the spontaneous overflow of a young heart. They are nothing of the kind, and the play knows it. Behind nearly every figure the young Montague aims at the absent Rosaline stands a book: the Canzoniere of Francesco Petrarca, the 366 lyrics that Petrarch spent a lifetime assembling around the figure of Laura, and that fixed for three centuries the grammar in which Europe talked about desire. The verdict argued here is double, and the play itself draws the line. Petrarch the poet built a self-indicting, theologically troubled, formally restless book whose lover knows his worship is a beautiful error and says so in its first sonnet. Petrarchism, the convention that descended from that book through commentaries, courts, and print, flattened the error into a kit of portable conceits: the freezing and burning lover, the worshipped and refusing lady, the siege, the ship, the saint. Shakespeare's Romeo speaks the kit, not the book. The tragedy then does something no Elizabethan sonnet sequence dared to do at length: it lets the kit be answered, first by Mercutio's open mockery, which names Petrarch in the text, and then by a beloved who steps inside the sonnet, takes half its lines, and breaks the system's founding condition, which is her silence.

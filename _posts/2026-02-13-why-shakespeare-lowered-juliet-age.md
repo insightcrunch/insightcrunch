@@ -9,7 +9,7 @@ excerpt: "Shakespeare made Juliet younger than in his sources, just short of fou
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-02-13
+last_updated: 2026-11-01
 lang: en
 ---
 ## Why Did Shakespeare Lower Juliet's Age? The Verdict in Brief

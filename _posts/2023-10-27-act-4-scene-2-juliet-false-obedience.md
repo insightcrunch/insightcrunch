@@ -9,7 +9,7 @@ excerpt: "Act 4 Scene 2 has Juliet feign obedience and beg her father's pardon, 
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 61
 author: "maria-santos"
-last_updated: 2023-10-27
+last_updated: 2026-11-01
 lang: en
 ---
 Act 4 Scene 2 is the shortest scene of consequence in the tragedy, and its consequence is a theft of time. Juliet comes home from Friar Laurence's cell carrying a plan that depends on a calendar: a potion that will make her seem dead for two and forty hours, a wedding fixed for Thursday, a message that must reach Mantua, a husband who must be waiting in the family monument when she wakes. She kneels before the father who cursed her in the previous act, begs pardon for a disobedience she does not repent, promises obedience she does not intend, and is forgiven so completely that Capulet, in a transport of recovered authority, reaches for the calendar and takes a day away from her. The wedding moves from Thursday to Wednesday. The verdict of this reading is direct: the apology is the most accomplished piece of acting in the play, and it fails by succeeding. Every element of the performance is correctly judged, the kneeling, the formula of repentance, the promise phrased in her father's own grammar of rule, and the single miscalculation is structural rather than theatrical. Juliet plays for pardon and receives pardon; what she cannot foresee is that pardon, in Capulet, is not a quiet state but an expenditure, and that a father restored to command will spend his restored command at once, on the wedding, on the day, on her. Her deception is flawless and her reward is the loss of the margin her plan was built on.

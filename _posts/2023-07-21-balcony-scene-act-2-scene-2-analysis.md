@@ -9,7 +9,7 @@ excerpt: "The balcony scene in Romeo and Juliet, Act 2 Scene 2, runs from Romeo'
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 2023-07-21
+last_updated: 2026-11-01
 lang: en
 ---
 ## The balcony scene explained: a negotiation disguised as a serenade

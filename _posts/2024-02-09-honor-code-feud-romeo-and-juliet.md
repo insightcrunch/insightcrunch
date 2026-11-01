@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet runs on a code of honor that reads every slight as a 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-02-09
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Honor Code in Romeo and Juliet: A Rulebook Nobody Wrote Down

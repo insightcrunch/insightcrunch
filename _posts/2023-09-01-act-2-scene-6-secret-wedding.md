@@ -9,7 +9,7 @@ excerpt: "Act 2 Scene 6 marries Romeo and Juliet at the Friar's cell, where his 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 2023-09-01
+last_updated: 2026-11-01
 lang: en
 ---
 Act 2 Scene 6 of Romeo and Juliet is the shortest important scene in the play: thirty-six lines, three speakers, one errand, and a marriage the audience is never allowed to watch. The scene performs the event the whole comic half of the tragedy has been driving toward, the secret wedding at the Friar's cell, and it performs that event in the time a longer scene would spend on its opening pleasantries. Everything in the scene is compressed except one thing. The Friar's warning, "These violent delights have violent ends" (2.6.9), is given room to breathe, to extend itself through gunpowder and honey and a commandment about moderation, while the lovers on either side of it speak in the grammar of overflow. The verdict this reading defends is that the compression is the meaning. Shakespeare builds the wedding scene as a scale: on one pan, a doctrine of measure, spoken complete and unhurried; on the other, two young people whose joy is defined by its refusal of measure, by sums that cannot be counted and minutes that are asked to outweigh death. The scale never balances, and the scene's brevity is the sound of it tipping.

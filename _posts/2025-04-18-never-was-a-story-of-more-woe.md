@@ -9,7 +9,7 @@ excerpt: "The Prince's closing couplet, that never was a story of more woe than 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2025-04-18
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Verdict First: A Sentence That Behaves Like an Epitaph

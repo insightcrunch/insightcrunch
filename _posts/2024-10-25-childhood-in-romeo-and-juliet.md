@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet keeps reminding us that its lovers are children, from
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2024-10-25
+last_updated: 2026-11-01
 lang: en
 ---
 ## Childhood in Romeo and Juliet: The Verdict in Brief

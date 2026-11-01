@@ -9,7 +9,7 @@ excerpt: "Juliet's gallop-apace speech drives its longing through galloping vers
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2025-03-14
+last_updated: 2026-11-01
 lang: en
 ---
 The prosody of "Gallop apace" is the sharpest evidence in Romeo and Juliet that verse music can carry a meaning the words only half state. Juliet's soliloquy at the opening of Act 3 Scene 2, the thirty-three lines she speaks alone while waiting for night and for Romeo, is usually read for its desire: a bride commanding the sun's horses to hurry so that darkness will bring her husband to her chamber. That reading is true and insufficient. The speech's longing is not merely described by its language; the longing is performed by its metre. The lines strain against the iambic pentameter that contains them, crowding extra syllables into the measure, front-loading their stresses into commands, spilling their syntax over line endings, and then checking that speed with spondaic brakes and heavy monosyllables, so that the verse alternately gallops and pulls up short exactly as impatience itself alternates between urging time forward and enduring its refusal to move. Sound and sense do not run in parallel in this speech. Sound is the sense, arriving first.

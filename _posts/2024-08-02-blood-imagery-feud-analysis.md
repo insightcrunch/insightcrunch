@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet runs on blood, civil blood making civil hands unclean
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-08-02
+last_updated: 2026-11-01
 lang: en
 ---
 ## Blood Imagery in Romeo and Juliet: The Verdict

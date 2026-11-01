@@ -9,7 +9,7 @@ excerpt: "Act 5 Scene 3 brings Paris, Romeo, and Juliet to death in the Capulet 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 2023-12-08
+last_updated: 2026-11-01
 lang: en
 ---
 Act 5 Scene 3 of Romeo and Juliet is the longest scene in the play, and its length is the argument. The scene refuses to end where a simpler tragedy would end. Paris dies at the tomb mouth, Romeo dies beside the woman he believes dead, and Juliet wakes, refuses rescue, and dies on the same stage floor, yet the play continues for more than a hundred further lines of discovery, arrest, testimony, confession, and judgment. The verdict of this reading is plain: the double suicide is the scene's centre, not its whole meaning. Shakespeare builds the final scene as two linked events, a private catastrophe inside the Capulet monument and a public reckoning outside the control of anyone who caused it, and the second event exists to interpret the first. Read whole, the scene converts three young deaths into evidence, and evidence into a verdict on the feud that Verona's rulers, fathers, and servants must pronounce over the bodies. Quotations follow the Arden Third Series edition prepared by René Weis, cited by act, scene, and line.

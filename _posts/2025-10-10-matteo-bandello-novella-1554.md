@@ -9,7 +9,7 @@ excerpt: "Matteo Bandello retold the Verona story in a prose novella that expand
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2025-10-10
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Bridge the Story Crossed: Matteo Bandello's Novella and the Road to the Play

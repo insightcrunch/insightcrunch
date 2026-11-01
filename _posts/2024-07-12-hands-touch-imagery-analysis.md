@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet makes hands carry its desire, from the pilgrim palms 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2024-07-12
+last_updated: 2026-11-01
 lang: en
 ---
 ## Hands and Touch Imagery in Romeo and Juliet: The Verdict

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet rhymes more than most of Shakespeare's plays, using c
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-12-20
+last_updated: 2026-11-01
 lang: en
 ---
 ## Rhyme in Romeo and Juliet: The Verdict First

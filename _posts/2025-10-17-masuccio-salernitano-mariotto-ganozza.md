@@ -9,7 +9,7 @@ excerpt: "Masuccio Salernitano's tale of Mariotto and Ganozza, set in Siena, is 
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2025-10-17
+last_updated: 2026-11-01
 lang: en
 ---
 The Romeo and Juliet story does not begin in Verona, and it does not begin with a feud. It begins in Siena, in a fifteenth-century Italian tale about a young man named Mariotto Mignanelli and a young woman named Ganozza, and the plot it assembles there is recognizably the plot the whole world knows: a secret marriage performed by a friar, a killing that drives the husband into exile, a sleeping potion that counterfeits death, a message that never arrives, a tomb opened at night, and two lovers dead because the machinery of rescue failed at the final joint. Masuccio Salernitano published that tale in his collection Il Novellino in 1476, roughly half a century before Luigi da Porto gave the lovers their Verona, their feuding houses, and their famous names. This article reads Masuccio's novella whole, as a work in its own right, and reaches a verdict on the question source study keeps circling: how much of the familiar story is already here, and how much had to wait for later hands.

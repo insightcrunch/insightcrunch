@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is shadowed by disease, from lovesickness and the pla
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-06-21
+last_updated: 2026-11-01
 lang: en
 ---
 ## Disease and Body Imagery in Romeo and Juliet: The Verdict in Brief

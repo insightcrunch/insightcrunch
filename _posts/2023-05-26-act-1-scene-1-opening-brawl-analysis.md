@@ -9,7 +9,7 @@ excerpt: "Act 1 Scene 1 of Romeo and Juliet opens with a street brawl and the Pr
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 2023-05-26
+last_updated: 2026-11-01
 lang: en
 ---
 Act 1 Scene 1 of Romeo and Juliet performs the most complete act of exposition in Shakespeare's early work, and it does so in the wrong order, if the cliché about the play is to be believed. The cliché begins with the lovers: a boy, a girl, a balcony. The scene itself begins with two servants trading sexual boasts in a public street, moves upward through drawn swords, a refused peacemaker, a crowd with clubs, two old men calling for weapons their bodies cannot manage, and a prince threatening death, and only then, on a stage swept empty, admits the lovesick hero to complain about a woman who never appears. The order is the argument. Feud comes first, authority second, love third, and the tragedy that follows obeys that sequence exactly: the lovers die inside a war that predates them, under a law that announced its penalty in the play's first movement and failed to enforce it until the penalty no longer mattered.

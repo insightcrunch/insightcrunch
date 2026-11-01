@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sets the speed and passion of youth against the slow,
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2024-01-19
+last_updated: 2026-11-01
 lang: en
 ---
 Youth versus age is the load-bearing divide of Romeo and Juliet, the split along which every other pressure in the tragedy runs. Verona is governed by the old and paid for by the young. The elders hold the feud, the money, the marriage market, and the law; the young hold nothing but their own speed, and they spend it, and themselves, inside an order they did not design and cannot amend. The play's first sonnet states the structure before any character speaks in propria persona: the lovers' deaths will "bury their parents' strife" (Prologue, 8), which means the strife belongs to the parents and the burial is done by the children. That distribution of ownership and cost never changes. What changes is only how visibly, scene by scene, the old world's grip tightens and the young world's room narrows, until the two generations meet at last over three bodies in a tomb and settle their account in gold.

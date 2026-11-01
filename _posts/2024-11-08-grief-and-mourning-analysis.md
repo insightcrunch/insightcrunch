@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is full of mourning, the stylized lament over the fal
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-11-08
+last_updated: 2026-11-01
 lang: en
 ---
 ## Grief and Mourning in Romeo and Juliet: The Verdict in Brief

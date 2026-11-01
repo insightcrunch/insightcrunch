@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet keeps personifying death as a rival lover and bridegr
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2024-05-24
+last_updated: 2026-11-01
 lang: en
 ---
 ## Death Personified in Romeo and Juliet: The Suitor Who Cannot Be Refused

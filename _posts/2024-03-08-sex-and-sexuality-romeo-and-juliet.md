@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is far more physical than its romantic reputation, th
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-03-08
+last_updated: 2026-11-01
 lang: en
 ---
 ## Sex and Sexuality in Romeo and Juliet: The Verdict in Brief

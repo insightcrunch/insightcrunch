@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sets its violence in the summer heat, where Benvolio 
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2024-10-04
+last_updated: 2026-11-01
 lang: en
 ---
 Romeo and Juliet is a tragedy that happens in hot weather, and the weather is not scenery. Verona's summer heat is named in the text, dated by the calendar, explained by the period's medicine, and placed by the dramatist at the exact hinge where the comedy of love turns into the tragedy of the feud. Four lines into the play's central scene, Benvolio reads the day like an instrument: the day is hot, the Capels are abroad, a meeting means a brawl, because in hot days the mad blood stirs. Everything the speech predicts happens within the hour. Two men die in the sun, a third is sentenced before the heat has cooled, and the marriage that was blessed that same afternoon is destroyed by evening. The verdict argued throughout this article is that the heat is a genuine cause in the play, neither a decorative backdrop nor a full excuse: it is the medium in which the feud's other causes, honour, haste, and young men's pride, become lethal faster than judgement can intervene. The cliché about the tragedy, the tale of star-crossed lovers undone by fate, quietly deletes the weather. Restoring the weather restores the body to the story, and with the body comes a harder, more interesting account of why these particular deaths happen on this particular day.

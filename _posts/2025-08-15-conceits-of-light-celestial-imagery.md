@@ -9,7 +9,7 @@ excerpt: "The lovers in Romeo and Juliet reach for elaborate conceits of light, 
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2025-08-15
+last_updated: 2026-11-01
 lang: en
 ---
 The conceits of light in Romeo and Juliet are the most engineered speeches in the play. A conceit is not a passing comparison but an extended figure, built part by part and worked like a small machine: a vehicle is chosen, its moving parts are set in motion, and the machine delivers a conclusion that plain statement could not have carried. When Romeo makes Juliet the sun and orders that sun to kill the moon, and when Juliet imagines Romeo cut out in little stars until the whole world falls in love with night, the lovers are not decorating their feelings. They are constructing instruments for thinking about each other, and the construction is the feeling's proof. The verdict of this article is that the celestial conceits repay reading as feats of craft: each one has a premise, a mechanism, and a payload, and the sequence of them escalates in exact proportion to what the lovers stand to lose.

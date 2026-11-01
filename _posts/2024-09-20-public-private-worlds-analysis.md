@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sets a private world of night and whispered vows agai
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2024-09-20
+last_updated: 2026-11-01
 lang: en
 ---
 Verona in Romeo and Juliet is two cities sharing one set of stones. One city is open: the square where servants bite their thumbs at rivals, the hall where a household displays its wealth to invited guests, the street where a prince reads sentences aloud over corpses. The other city is hidden: an orchard after midnight, a friar's cell at dawn, a chamber with the door shut, a tomb that admits the dead and excludes the living. The tragedy is the story of the border between these public and private worlds, of the two young people who try to live on the hidden side of it, and of the open side's refusal, scene by scene, to leave them there. The verdict of the play is severe and consistent: a private world cannot survive inside a public feud, because Verona's hidden rooms are not outside the public order at all. They are rooms inside its houses, hours inside its days, and secrets inside its households, and the public order owns the houses, sets the hours, and employs the servants who carry the secrets. The lovers' night world is real as speech and feeling. As jurisdiction it is a fiction, and the play proves the fiction five acts long before it buries it.

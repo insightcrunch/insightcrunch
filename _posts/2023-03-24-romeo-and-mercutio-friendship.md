@@ -9,7 +9,7 @@ excerpt: "Romeo and Mercutio are close friends who see love in opposite ways, an
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2023-03-24
+last_updated: 2026-11-01
 lang: en
 ---
 The friendship between Romeo and Mercutio is the hinge on which the whole tragedy swings. Before there is a balcony, there is a street full of young men trading jokes, and the loudest, quickest, most alive voice among them belongs to the Prince's kinsman, a wit who belongs to neither feuding house and yet dies for one of them. Read the bond closely and a clear verdict emerges. The pair's affectionate antagonism is not decoration around the love story. It is the love story's rival, its measuring instrument, and finally its executioner, because the moment Mercutio falls in Romeo's quarrel, the grieving friend kills Tybalt and sets every later catastrophe in motion. The lovers occupy the famous scenes, but the friendship occupies the turning point, and a play is governed by its turning point.

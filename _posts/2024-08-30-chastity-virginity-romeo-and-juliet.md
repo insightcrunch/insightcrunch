@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on chastity and its loss, from Rosaline's vow t
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-08-30
+last_updated: 2026-11-01
 lang: en
 ---
 Chastity is the first fact the tragedy establishes about desire, and it establishes the fact as a refusal. Before any lover speaks a word of love on stage, the audience has heard a serving-man joke about cutting off maidenheads (1.1), and has heard Romeo report that the woman he wants "hath Dian's wit" and lives "in strong proof of chastity well-armed," proof against even "saint-seducing gold" (1.1). The play that popular memory files as the supreme celebration of young love opens, in other words, inside a regime: a system in which a woman's virginity is at once a sacred vow, a household asset, a standing joke among servants, and a military problem for the men who want it surrendered. This article reads that regime whole, from vow to wedding night to tomb, and reaches a verdict on what the play says about purity and its loss.

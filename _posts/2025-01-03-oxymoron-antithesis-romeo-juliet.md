@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet speaks in oxymorons, brawling love and loving hate, a
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2025-01-03
+last_updated: 2026-11-01
 lang: en
 ---
 No play in English keeps its meaning in yoked opposites as persistently as this one. Oxymoron and antithesis are not ornaments sprinkled over the verse of Romeo and Juliet; they are the load-bearing grammar of the whole design, the way Verona thinks about itself. Romeo enters complaining in a chain of oxymorons, "brawling love" and "loving hate" (1.1), and from that first entrance the figure never leaves the stage. It passes into the Chorus and its balanced households, into the Friar and his philosophy of herbs, into Juliet at the pitch of her anguish, into Capulet keening over a coffin, into the Prince pronouncing sentence over three bodies. A reader who learns to hear the play's contradictions has learned to hear the play.

@@ -9,7 +9,7 @@ excerpt: "Comparing the two early quartos of Romeo and Juliet shows reassigned s
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-04-10
+last_updated: 2026-11-01
 lang: en
 ---
 Every reader of Romeo and Juliet reads a text that two early quartos disagree about, line by line, speech by speech, and direction by direction. The comparison of Q1 and Q2, the shorter quarto of 1597 against the fuller quarto of 1599, is the single most instructive exercise in the play's whole textual history, because it exposes the editorial choices hidden inside every modern edition. Set side by side, the two witnesses tell different kinds of truth. Q2 preserves the verse at something close to its full authorial reach: the long soliloquies, the dense conceits, the complete architecture of speeches that modern editions print. Q1 preserves the play as a working stage event: compressed, reordered in places, paraphrased in others, and furnished with stage directions that record bodies moving through a performance. The verdict argued through this article is plain. Neither quarto is a corrupt copy of the other in any simple sense. Each is evidence for a different thing, and the editor's task is not to crown one and discard the other but to collate them with a clear account of what each witness can and cannot testify to.

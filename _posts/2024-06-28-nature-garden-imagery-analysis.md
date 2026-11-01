@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet figures its young love in buds, flowers, and orchards
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-06-28
+last_updated: 2026-11-01
 lang: en
 ---
 ## Nature and Garden Imagery in Romeo and Juliet: The Verdict in Brief

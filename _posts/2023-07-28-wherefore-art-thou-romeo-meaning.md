@@ -9,7 +9,7 @@ excerpt: "Wherefore art thou Romeo does not ask where Romeo is but why he must b
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2023-07-28
+last_updated: 2026-11-01
 lang: en
 ---
 "O Romeo, Romeo, wherefore art thou Romeo?" (2.2.33) is the most misread line in Shakespeare, and correcting it changes the temperature of the whole balcony scene. Wherefore art thou Romeo does not ask where Romeo is. Wherefore means why. Juliet, alone at her window in the Capulet orchard and unaware that the man himself is standing in the dark below her, is not searching for anyone. She is asking why the one man she wants must carry the one name she cannot have, and the speech that follows is her attempt to argue that name out of existence. The popular version of the line, a girl at a balcony calling into the night for a missing lover, reverses the sense, flattens a piece of reasoning into a piece of yearning, and hides the sharpest mind in the play at the very moment it starts to work.

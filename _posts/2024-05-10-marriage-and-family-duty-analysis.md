@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet pits private love against family duty, as the lovers'
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-05-10
+last_updated: 2026-11-01
 lang: en
 ---
 ## Marriage and Family Duty in Romeo and Juliet: The Verdict in Brief

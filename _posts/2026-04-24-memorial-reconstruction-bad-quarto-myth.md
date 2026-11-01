@@ -9,7 +9,7 @@ excerpt: "The old theory that Q1 of Romeo and Juliet was pieced together from ac
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-04-24
+last_updated: 2026-11-01
 lang: en
 ---
 Memorial reconstruction is the most successful explanation in Shakespearean bibliography that was never proved. For most of the twentieth century, the first quarto of Romeo and Juliet, printed in 1597 and known as Q1, was explained by a single elegant story: actors who had performed the tragedy rebuilt it from memory for a printer, and every defect of the short, rough, paraphrasing text flowed from that act of remembering. The story explained the length, the quality, the stage directions, the errors, and the ethics of the book in one motion. It also rested on a method that its most rigorous examiner, Laurie Maguire, eventually showed to be circular: the features said to prove reporting had been collected from the very texts the theory was invented to explain, and the same features turned up in texts nobody accused of being reported. The verdict argued through this article is precise. Memorial reconstruction survives the audit as a possibility for a handful of passages and perhaps for three of the forty-one suspect texts Maguire examined, but as a diagnosis of Q1 of Romeo and Juliet it can no longer bear the weight editors once loaded onto it, and the category of the bad quarto survives only as a label for a kind of book, not as an account of how that book came to be.

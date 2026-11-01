@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet gives Juliet a frank, active desire that breaks the m
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-03-01
+last_updated: 2026-11-01
 lang: en
 ---
 Female desire is the engine that the familiar account of the tragedy keeps misplacing. The received version remembers a girl waited for, watched from below a balcony, praised in comparisons to light, and carried toward a wedding arranged by other hands. The text gives a different figure. Juliet Capulet wants, and the wanting is neither decorative nor accidental. She returns a gaze and completes a sonnet with the stranger who offers it. She interrupts the most famous love scene in English drama to ask what the wooing is for, and she sets the terms on which it may continue. She sends the errand that makes the marriage, counts the minutes until the messenger returns, and then, alone on stage before the wedding night, she commands the sun's horses to hurry and night to arrive so that the marriage can become bodily fact. Desire in most love poetry of the period is something a woman causes. In this play, desire is something the heroine does, in verbs, in conditions, in timetables, and in a soliloquy of erotic impatience that no convention of the silent beloved can contain.

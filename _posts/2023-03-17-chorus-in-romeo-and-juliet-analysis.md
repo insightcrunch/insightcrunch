@@ -9,7 +9,7 @@ excerpt: "The Chorus speaks two sonnet prologues in Romeo and Juliet, then vanis
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2023-03-17
+last_updated: 2026-11-01
 lang: en
 ---
 The Chorus is the most consequential nobody in Romeo and Juliet. A single unnamed figure walks out before the action begins, delivers fourteen lines of verse in the form of a sonnet, withdraws, returns once more before Act 2 with a second sonnet, and is then never heard again in a play that runs for three further acts. The figure has no name, no costume specified in any early text, no interlocutor, and no part in the story being told. Yet the twenty-eight lines this voice speaks contain the whole plot in embryo: the feud, the lovers, the deaths, and the reconciliation those deaths purchase. The verdict argued through this article is plain. The Chorus is not a character and was never meant to be one. It is the playing company speaking in its own person, a professional spokesman hired by the fiction for two specific jobs, the establishment of foreknowledge before the play opens and the management of a difficult transition before Act 2. When those jobs are done, the office lapses, and its disappearance is a mark of design rather than of damage. The textual oddities that surround the figure, above all the complete absence of both speeches from the First Folio of 1623, record the history of the playhouse and the printing house. They do not record an authorial second thought, and they do not make the second sonnet spurious.

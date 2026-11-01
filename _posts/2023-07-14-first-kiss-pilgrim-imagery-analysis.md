@@ -9,7 +9,7 @@ excerpt: "Romeo turns the first kiss into a pilgrimage, casting Juliet as a sain
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2023-07-14
+last_updated: 2026-11-01
 lang: en
 ---
 The first kiss in Romeo and Juliet is not seized, stumbled into, or granted as a favour after pleading. It is argued into existence, line by line, inside a single sustained metaphor that two strangers build together at a crowded feast. Romeo approaches the Capulet daughter with a conceit already loaded: his hand is unworthy, her hand is a holy shrine, his lips are pilgrims, and the kiss he wants is not a kiss at all but the pilgrim's permitted touch, transferred by careful logic from palm to mouth. Juliet does not merely receive the conceit. She corrects it, extends it, sets its terms, and only then allows its conclusion. The verdict of this close reading is plain: the pilgrim imagery presents the lovers' desire as devotion that must be negotiated rather than taken, and its sacred language is neither decoration nor blasphemy but the very mechanism by which consent is dramatized in verse. Every step toward the kiss is a step Juliet licenses, and the metaphor records each licence.

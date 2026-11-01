@@ -9,7 +9,7 @@ excerpt: "Act 1 Scene 4 carries the masked friends toward the ball through Mercu
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 2023-06-23
+last_updated: 2026-11-01
 lang: en
 ---
 ## Act 1 Scene 4 explained: a threshold, not a corridor

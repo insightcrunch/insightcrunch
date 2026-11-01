@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on loyalty and betrayal, as the lovers' bond to
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2024-09-06
+last_updated: 2026-11-01
 lang: en
 ---
 Loyalty and betrayal in Romeo and Juliet are not two themes running side by side through Verona. They are a single transaction viewed from opposite ends, because every act of faithfulness in the tragedy is purchased with an act of treachery against some other bond. The Montague heir keeps faith with his wife by breaking faith with his father, his friend and his prince. The Capulet daughter keeps faith with her husband by deceiving the parents who raised her and the nurse who suckled her. The verdict argued across the pages that follow is firm: the betrayals in the tragedy are impossible choices rather than failures of character, collisions engineered by a feud that loads each person with more allegiances than any one life can honour at once. Verona does not contain a single relationship that can be kept without cost to another relationship, and the catastrophe arrives when the bills for all those kept faiths fall due within five days.

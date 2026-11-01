@@ -9,7 +9,7 @@ excerpt: "Capulet rages, schemes, and dominates the play while Montague barely s
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2023-04-21
+last_updated: 2026-11-01
 lang: en
 ---
 The fathers of Verona are the play's founding falsehood. The Prologue introduces "two households, both alike in dignity" (Prologue, line 1), and generations of summaries have repeated the formula as if the two patriarchs were matched pieces, twin heads of a symmetrical feud. The performed play delivers nothing of the kind. Lord Capulet is one of the largest roles in the tragedy: he hosts the feast, brokers and then commands his daughter's marriage, rages, bustles, grieves in aria, and closes the feud with his own hand. Lord Montague speaks fewer than forty lines in seven speeches across two scenes, never once addresses his son onstage, and reaches the final scene carrying a death report instead of a decision. The verdict argued here is that the imbalance is not an accident of transmission and not a flaw to be excused. It is the design. Shakespeare builds one household from the inside and the other from the outside, because the tragedy needs two opposite failures of the same office: a father who is everywhere, whose love operates as command, and a father who is almost nowhere, whose love operates as anxious inquiry that never arrives. Juliet is destroyed by a surplus of father. Romeo is destroyed in a vacancy where a father should have been.

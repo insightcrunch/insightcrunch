@@ -9,7 +9,7 @@ excerpt: "William Painter's Palace of Pleasure retold Romeo and Juliet in Englis
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2025-10-31
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Second English Romeo and Juliet: Why Painter Matters

@@ -9,7 +9,7 @@ excerpt: "Act 3 Scene 1 is the hinge of Romeo and Juliet, where Mercutio dies, R
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 2023-09-08
+last_updated: 2026-11-01
 lang: en
 ---
 Act 3 Scene 1 is the scene on which the whole of Romeo and Juliet balances, and the verdict of a close reading is stark: the tragedy is not made by fate falling from the stars but by a ladder of choices climbed in a public square, one rung at a time, in full view of witnesses. Every element the scene needs is present in its first four lines. Benvolio opens with a weather report that is also a diagnosis, warning that the Capels are abroad and that "these hot days, is the mad blood stirring" (3.1.4, in the Arden Third Series edition edited by René Weis, the edition quoted throughout). Heat, blood, a public place, and a friend who will not leave it: the scene announces its machinery before a sword is drawn, and then spends some two hundred lines proving that machinery stronger than a secret marriage, stronger than courtesy, and stronger than the Prince's law.

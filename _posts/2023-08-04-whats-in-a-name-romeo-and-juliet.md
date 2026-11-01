@@ -9,7 +9,7 @@ excerpt: "What's in a name turns the balcony scene into a question of identity, 
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2023-08-04
+last_updated: 2026-11-01
 lang: en
 ---
 The "What's in a name?" speech is the most exact piece of reasoning in Romeo and Juliet, and the play spends its remaining three acts proving the reasoning wrong. Juliet Capulet, alone at her window in Act 2 Scene 2 and unaware that the man she is describing can hear every word, builds a small, complete philosophy of naming in about eleven lines: a name is a label fastened to a person from outside, the person beneath the label would be unchanged if the label were exchanged, and therefore the label can be surrendered without loss. "What's in a name? That which we call a rose / By any other name would smell as sweet" (2.2.43 to 44, in the Arden Third Series lineation of René Weis). The sentences are quoted everywhere as a decoration, detached from the argument they serve, and the decoration flatters them into a greeting-card sentiment about love seeing past surfaces. Restored to their place in the speech, the lines are harder and stranger than the sentiment. Juliet is not sighing. She is drafting a contract, clause by clause, and offering to trade the whole of her own name for the removal of his.

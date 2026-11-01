@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet speaks in hyperbole, making the beloved the sun and l
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2025-06-06
+last_updated: 2026-11-01
 lang: en
 ---
 Hyperbole is the load-bearing figure of Romeo and Juliet, the exaggeration by which the lovers measure a feeling that every ordinary scale in Verona refuses to hold. A boy who has known a girl for an evening calls her the sun and asks the sun to murder the moon. The girl answers that her bounty is as boundless as the sea and her love as deep, and that the arithmetic of giving runs backwards in her hands, increasing what it spends. The feud speaks the same swollen dialect in reverse, hating words as it hates hell, boasting servants up against walls, a father announcing that the earth has swallowed all his hopes but one. No major speech in the tragedy is free of the figure, and the figure is never decoration. Hyperbole is how the play thinks about magnitude: what a feeling is worth, what a threat is worth, what a life is worth, all get priced in a currency of suns, seas, eternities and hells because the civic currency of Verona, dowries, alliances, banishments, pardons, keeps failing to price them at all.

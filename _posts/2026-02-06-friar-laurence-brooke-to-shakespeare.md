@@ -9,7 +9,7 @@ excerpt: "Shakespeare inherited Friar Laurence from Brooke but deepened him, giv
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-02-06
+last_updated: 2026-11-01
 lang: en
 ---
 ## Friar Laurence From Brooke to Shakespeare: The Verdict in Brief

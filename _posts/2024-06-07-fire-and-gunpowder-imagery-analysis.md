@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet figures love as fire and gunpowder, brilliant and bri
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-06-07
+last_updated: 2026-11-01
 lang: en
 ---
 ## Fire and Gunpowder Imagery in Romeo and Juliet: The Verdict in Brief

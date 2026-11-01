@@ -9,7 +9,7 @@ excerpt: "The feud changed shape across the sources, from Dante's political fact
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-01-09
+last_updated: 2026-11-01
 lang: en
 ---
 ## How the Feud Evolved Across the Sources: The Verdict First

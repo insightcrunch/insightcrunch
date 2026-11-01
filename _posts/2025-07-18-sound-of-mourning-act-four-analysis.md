@@ -9,7 +9,7 @@ excerpt: "The mourning over the falsely dead Juliet is built from repeated, patt
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 69
 author: "samantha-lee"
-last_updated: 2025-07-18
+last_updated: 2026-11-01
 lang: en
 ---
 ## A Scene Built to Be Heard: The Sound of Mourning in Act Four

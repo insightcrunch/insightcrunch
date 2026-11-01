@@ -9,7 +9,7 @@ excerpt: "Brooke prefaced his poem with a sermon blaming the lovers for lust and
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-02-27
+last_updated: 2026-11-01
 lang: en
 ---
 Arthur Brooke's moralising preface is the severest judgment ever passed on Romeo and Juliet, and it was passed before the story begins. In the address "To the Reader" that stands at the head of *The Tragicall Historye of Romeus and Juliet*, printed in London in 1562, Brooke instructs the reader to meet the lovers as criminals: a couple who enthralled themselves to dishonest desire, neglected parents and friends, took counsel from gossips and friars, abused marriage, and hurried to a wretched death. The poem that follows declines to enforce that sentence. Three decades later the play that took the poem's plot declined even to pronounce it. The argument of the pages that follow is blunt. Brooke's address is a sincere Protestant sermon and a false account of the book it introduces; the poem half believes it; the play discards it as a verdict on desire and reassigns its machinery of blame to the feud, to haste, and to the elders who kept the hatred warm. Dropping the sermon did not soften the story's morality. Dropping the sermon changed the accused.

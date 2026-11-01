@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is saturated with the language of time, hours, minute
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2025-08-08
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Language of Time in Romeo and Juliet: The Verdict in Brief

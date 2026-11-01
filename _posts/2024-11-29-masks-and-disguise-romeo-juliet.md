@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on masks and disguise, from the masked ball whe
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2024-11-29
+last_updated: 2026-11-01
 lang: en
 ---
 Masks and disguise in Romeo and Juliet are not decorations laid over the tragedy but the machinery that builds it. The play's most famous meeting happens between two people who cannot see each other plainly: a masked Montague guest and a Capulet daughter who do not exchange names until the dancing ends and the damage of knowledge arrives. From that first hidden face the pattern never lifts. A marriage is hidden in a friar's cell, a bride rehearses obedience she does not feel, a death is staged that is not a death, letters travel under cover of darkness, and every character who survives long enough learns what the audience learned at the feast, that in Verona a face is the least reliable document a person carries. This article argues a verdict and holds it throughout: the mask in this play is both a festive convention borrowed from the masque and a thematic engine that converts concealment into catastrophe, and neither account cancels the other, because the play deliberately lets a holiday custom do tragic work.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet shows the Capulet wealth in feasts, servants, and a l
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-10-11
+last_updated: 2026-11-01
 lang: en
 ---
 ## Wealth and the Capulet Household Economy: The Verdict in Brief

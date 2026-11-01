@@ -9,7 +9,7 @@ excerpt: "The Friar and the Nurse are the play's great persuaders, and their rhe
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2025-06-27
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Play's Real Engine Is Talk: A Verdict on Its Two Persuaders

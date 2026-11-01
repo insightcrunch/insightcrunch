@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet wraps its love in religious imagery, casting Juliet a
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-03-15
+last_updated: 2026-11-01
 lang: en
 ---
 ## Religion and Pilgrimage Imagery in Romeo and Juliet: The Verdict in Brief

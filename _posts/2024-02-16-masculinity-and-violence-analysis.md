@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet ties manhood to readiness for violence, so that to be
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-02-16
+last_updated: 2026-11-01
 lang: en
 ---
 Masculinity in Romeo and Juliet is not a quality a man possesses in private. It is a performance staged before witnesses, marked by examiners, and paid for in blood when the performance falters. Verona's young men do not simply happen to fight. They fight because the city's definition of manhood leaves them no other legible way to prove that they are men, and the tragedy is the audit of that definition carried out to its final balance. The verdict of this reading is plain: the play condemns the code it depicts. It condemns the code not by sermon but by consequence, arranging its scenes so that every success the code awards is a step toward a corpse, and every refusal the code punishes is the one gesture that might have saved the city. Romeo's story, read through this lens, is the story of a young man who twice declines the examination, once in the square and once at the tomb, and who is destroyed both times by the pressure to sit it after all.

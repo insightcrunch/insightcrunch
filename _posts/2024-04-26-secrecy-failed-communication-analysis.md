@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet runs on secrets and messages that go astray, and the 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2024-04-26
+last_updated: 2026-11-01
 lang: en
 ---
 ## Secrecy and Failed Communication in Romeo and Juliet: The Verdict in Brief

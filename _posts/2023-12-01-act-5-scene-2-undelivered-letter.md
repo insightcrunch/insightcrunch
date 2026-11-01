@@ -9,7 +9,7 @@ excerpt: "Act 5 Scene 2 reveals that plague quarantine stopped Friar John from d
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 2023-12-01
+last_updated: 2026-11-01
 lang: en
 ---
 Act 5 Scene 2 of Romeo and Juliet is the shortest hinge in the play: thirty-one lines, two friars, one cell, and a letter that never arrived. Friar John returns from the road to Mantua without having travelled it, and Friar Laurence learns that the message explaining Juliet's feigned death was sealed inside a quarantined house along with its bearer. Nothing is fought over in this scene, nothing is decided by any character's desire, and yet everything is settled by it. The verdict of this article is plain: Act 5 Scene 2 is not a piece of housekeeping tacked onto the tragedy but its causal keystone, the scene in which Shakespeare shows his hand and reveals that the catastrophe runs on information, not on villainy. Remove the scene and the ending becomes a rumour. Keep it, and the ending becomes an audit, in which every earlier failure of communication in the play is gathered, named, and charged to the account of a sealed door.

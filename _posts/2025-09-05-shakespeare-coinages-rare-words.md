@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is often credited with new and rare words, but the cl
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2025-09-05
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Verdict First: Fewer Coinages Than Legend, More Craft Than the Myth Allows

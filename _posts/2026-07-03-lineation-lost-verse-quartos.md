@@ -9,7 +9,7 @@ excerpt: "The early quartos of Romeo and Juliet sometimes mislineate the verse o
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2026-07-03
+last_updated: 2026-11-01
 lang: en
 ---
 Lineation is the quietest decision on every page of Romeo and Juliet, and one of the most consequential: the division of the play's words into verse lines, the choice of where one pentameter ends and the next begins, is made afresh by every text that transmits the play, and the early quartos of 1597 and 1599 do not always make it well. Their compositors ran verse lines together, split single lines into fragments, and in places set whole stretches of pentameter as prose, so that the metre a reader scans in a modern edition is partly a transmitted inheritance and partly an editorial reconstruction. The verdict argued here is precise rather than alarmist. The skeleton of the verse descends intact from the second quarto, whose lineation follows authorial copy for the great majority of lines; editorial repair clusters at identifiable joints, where the printing house or a reporting actor broke the measure; and at a small residue of famous moments the recovery is conjecture, honestly labelled or not, where two competent editors divide the same words differently and the reader is trusting an ear rather than a document. How large each of those three territories is, and how a reader can learn to see the borders between them, is the subject of the pages that follow.

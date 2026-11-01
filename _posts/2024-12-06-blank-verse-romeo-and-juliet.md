@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is written largely in blank verse, unrhymed iambic pe
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-12-06
+last_updated: 2026-11-01
 lang: en
 ---
 ## Blank Verse in Romeo and Juliet: The Verdict in Brief

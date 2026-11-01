@@ -9,7 +9,7 @@ excerpt: "Mercutio is barely a name in the sources, so the dazzling friend who s
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-01-30
+last_updated: 2026-11-01
 lang: en
 ---
 Mercutio is the figure audiences remember when the lovers blur, and he is the figure the story barely contains before Shakespeare touches it. Across the whole chain of tellings that carries the Verona tale from Italy to the London stage, the friend survives as a name, a seat at a feast, and one physical oddity: a hand so cold that a heroine notices it in a dance. Everything else, the Queen Mab fantasist, the bawdy wit who fences with words, the loyal companion who dies cursing both houses at the tragedy's exact midpoint, is added by the playwright. This article measures that addition source by source, sets the before and the after side by side, and reaches a verdict on the scale of the invention: Mercutio is Shakespeare's largest single act of character creation in Romeo and Juliet, conjured from a hint so slight that the hint itself has to be argued back into visibility.

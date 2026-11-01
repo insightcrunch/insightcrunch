@@ -9,7 +9,7 @@ excerpt: "The act and scene numbers we cite in Romeo and Juliet were not all Sha
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 69
 author: "patrick-dunn"
-last_updated: 2026-05-29
+last_updated: 2026-11-01
 lang: en
 ---
 Every citation of Romeo and Juliet act and scene divisions carries a quiet falsehood. A student who writes "Act 3, Scene 1" for the street fight in which Mercutio dies is using a grid that no Elizabethan reader ever saw, assembled across more than a century by Folio compositors, an Augustan editor working from a fourth-hand folio, a Cambridge schoolmaster with a theory of the cleared stage, and a succession of nineteenth-century printers who turned their combined work into the universal map. The act and scene divisions of Romeo and Juliet are not the author's marks on his manuscript. They are an editorial inheritance, laid over a play written for continuous performance, and the history of how that grid was built, piece by piece and often by accident, is the subject of this article.

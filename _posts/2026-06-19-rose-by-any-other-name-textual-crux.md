@@ -9,7 +9,7 @@ excerpt: "The famous rose line in Romeo and Juliet survives in rival forms, word
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-06-19
+last_updated: 2026-11-01
 lang: en
 ---
 The rose line is the most quoted sentence in *Romeo and Juliet*, and it does not exist. Not in the form the world quotes, at any rate. "What's in a name? That which we call a rose / By any other name would smell as sweet" (2.2.43-44) stands in no book printed in Shakespeare's lifetime: the first quarto of 1597 gives the sentence one shape, the second quarto of 1599 gives it another, and the First Folio of 1623 manages to garble the famous question itself while keeping a reading at odds with the one the public has memorized. Inside the divergence sits a single contested syllable. The second quarto, the authoritative early text from which modern editions descend, prints "by any other word." The first quarto prints "by any other name." One of those readings is what Shakespeare's text, on the documentary evidence, most probably said; the other is what four centuries of quotation have taught the world to say. This article examines the crux as a problem in documents: what each early witness actually prints at the rose line and in the sentences that carry it, how editors from Edmond Malone onward have chosen between the rival forms, what hangs on the choice for Juliet's argument about the detachability of labels, and which reading an honest edition should put on the page.

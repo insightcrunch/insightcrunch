@@ -9,7 +9,7 @@ excerpt: "Ovid's Pyramus and Thisbe, two lovers kept apart by feuding families a
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-11-07
+last_updated: 2026-11-01
 lang: en
 ---
 ## Ovid's Pyramus and Thisbe: The Ancestor Behind the Verona Tragedy

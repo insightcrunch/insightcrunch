@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet mixes the sacred and the profane, setting Romeo's wor
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2024-10-18
+last_updated: 2026-11-01
 lang: en
 ---
 The first words spoken about desire in Romeo and Juliet are a threat to cut off maidenheads, and the most famous words spoken about desire in the play are a prayer at a shrine. Between Sampson's boast in the opening scene and Romeo's pilgrim sonnet at the Capulet feast, the tragedy sets its two great registers of love side by side and refuses, from that point onward, to let either of them speak alone. Romeo calls Juliet a saint, a shrine, a bright angel; Mercutio conjures him out of hiding with a catalogue of a woman's body; the Nurse remembers a toddler's fall and turns it into a joke about the wedding night. The question the language of the play keeps posing is whether these registers are enemies, the holy at war with the bawdy for possession of the lovers, or partners in a single account of what love is. The verdict argued here is that they complete each other. The sacred register without the profane curdles into the empty Petrarchan sighing of the Rosaline scenes, worship addressed to an absence; the profane register without the sacred curdles into the violence of the servants' opening quarrel, appetite with a sword in its hand. What the lovers build, in the brief span the feud allows, is a language in which worship keeps the body honest about its own dignity and bawdy keeps worship honest about its own object, and the play's final judgment falls not on the mixture but on the city that gave the mixture no lawful room to live in.

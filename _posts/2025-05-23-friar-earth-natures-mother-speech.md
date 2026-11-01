@@ -9,7 +9,7 @@ excerpt: "The Friar's dawn soliloquy, that the earth which is nature's mother is
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2025-05-23
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Friar's Earth Speech and the Play's Whole Philosophy in Thirty Lines

@@ -9,7 +9,7 @@ excerpt: "Romeo's warning to Paris at the tomb, that he should not tempt a despe
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2025-04-25
+last_updated: 2026-11-01
 lang: en
 ---
 A desperate man is the most dangerous person in Romeo and Juliet, and the play's hero says so himself, in so many words, nine lines before he kills again. In Act 5 Scene 3, outside the Capulet monument in the small hours, Romeo Montague is intercepted by the County Paris, the man Juliet was to have married, and instead of fighting he does something the feud has never taught him to stop doing: he pleads. "Good gentle youth, tempt not a desperate man" (5.3.59) opens an appeal of nine lines that contains a compliment, a begging, an oath of love, a self-diagnosis and a prophecy of how the encounter will be remembered. Paris refuses every clause of it. Within a minute of stage time Paris is dead, and Romeo, having failed to save a stranger with courtesy, carries the body into the tomb with a tenderness that complicates everything the killing seemed to prove.

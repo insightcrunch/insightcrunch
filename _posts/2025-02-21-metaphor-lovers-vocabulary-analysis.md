@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet builds a shared metaphorical vocabulary of light, pil
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-02-21
+last_updated: 2026-11-01
 lang: en
 ---
 ## A Private Language: The Verdict on the Lovers' Shared Metaphor

@@ -9,7 +9,7 @@ excerpt: "Caroline Spurgeon counted Romeo and Juliet's images and found light ag
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2025-02-07
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Argument in Brief: What Counting the Play's Images Proves, and What It Cannot

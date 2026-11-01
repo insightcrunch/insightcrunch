@@ -9,7 +9,7 @@ excerpt: "Act 4 Scene 3 leaves Juliet alone to drink the Friar's potion, working
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 62
 author: "christopher-wells"
-last_updated: 2023-11-03
+last_updated: 2026-11-01
 lang: en
 ---
 ## Act 4 Scene 3 Explained: A Room Emptied on Purpose

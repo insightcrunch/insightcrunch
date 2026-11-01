@@ -9,7 +9,7 @@ excerpt: "Xenophon of Ephesus's ancient Greek romance the Ephesiaca features a h
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-11-21
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Sleeping Potion in Xenophon's Ephesiaca: The Verdict First

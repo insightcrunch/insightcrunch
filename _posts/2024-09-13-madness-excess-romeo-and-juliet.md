@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet pushes love and grief past all measure, and the play 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-09-13
+last_updated: 2026-11-01
 lang: en
 ---
 Madness and excess are the two charges Romeo and Juliet keeps bringing against its own lovers, and the play brings both charges in the lovers' hearing. A friar warns the bridegroom, minutes before the wedding, that violent delights have violent ends and that the sweetest honey sickens its own eater. A father, refused by his daughter, opens his longest speech with the oath that her refusal makes him mad. A bride, alone with a vial at midnight, rehearses the fear that she will wake among the bones of her ancestors and, distraught, dash out her own brains with a kinsman's bone. The vocabulary is not decoration laid over the story. It is the play's own system of measurement, the scale on which Verona weighs feeling and finds it, scene after scene, over the limit. This article reads that scale, follows its vocabulary from the first lovesick soliloquy to the frenzy in the tomb, and argues a double verdict, because the play's verdict is double. Romeo and Juliet condemns excess in its doctrine and celebrates it in its language, and the tragedy happens in the gap between those two judgments. Every authority in the play states the doctrine of measure. Nearly every speech that audiences carry out of the theatre violates the doctrine beautifully.

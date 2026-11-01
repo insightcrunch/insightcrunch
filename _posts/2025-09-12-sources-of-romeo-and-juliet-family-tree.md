@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet was not invented from nothing but inherited, descendi
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2025-09-12
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Verdict First: An Inherited Plot, an Invented Play

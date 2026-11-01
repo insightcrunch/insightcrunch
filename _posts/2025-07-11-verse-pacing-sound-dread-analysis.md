@@ -9,7 +9,7 @@ excerpt: "The pace of the verse in Romeo and Juliet quickens and stalls with the
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-07-11
+last_updated: 2026-11-01
 lang: en
 ---
 ## Verse Pacing in Romeo and Juliet: The Verdict in Brief

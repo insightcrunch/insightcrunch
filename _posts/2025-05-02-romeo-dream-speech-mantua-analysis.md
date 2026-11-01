@@ -9,7 +9,7 @@ excerpt: "Romeo's dream in Mantua, that his lady found him dead and revived him 
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2025-05-02
+last_updated: 2026-11-01
 lang: en
 ---
 Romeo's dream in Mantua is the cruelest eleven lines in the play, and the cruelty is easy to miss because the dreamer himself finds it sweet. Alone in exile, on the morning the catastrophe becomes irreversible, Romeo wakes in unaccustomed cheer and reports a dream in which Juliet came to him, found him dead, and breathed life back into his body with kisses, so that he revived and was an emperor. Within moments Balthasar rides in with the report that Juliet lies dead in the Capulet monument, and every element of the dream turns inside out: the lady does travel, but to a tomb; she does find her husband dead, but her kisses cannot wake him; nobody is crowned. The verdict of this reading is that the dream is not a hopeful omen misread by an optimist. It is a true picture delivered in reverse, the play's whole ending rehearsed with its outcome inverted, and its function is to arm Romeo with confidence at the exact moment confidence becomes fatal. He believes the morning because the dream has already told him, in code, that death is survivable. The news then finds a man whose defences sleep has lowered, and the speed of what follows, the defiance of the stars, the apothecary, the ride to Verona, is the dream's second life as action.

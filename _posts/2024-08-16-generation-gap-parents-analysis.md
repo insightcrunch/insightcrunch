@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet shows parents who cannot hear their children, decidin
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-08-16
+last_updated: 2026-11-01
 lang: en
 ---
 The generation gap in Romeo and Juliet is not a difference of taste between old and young. It is a failure of hearing, repeated in both great houses until it becomes the tragedy's machinery. Verona's parents decide marriages, declare feuds, fix wedding days, and pronounce disownings, and at nearly every point the decision is taken without the child's own account of the child's own heart ever being heard. Capulet settles his daughter's marriage with the suitor before she has spoken a line in the play. Her mother carries the proposal to her as a message to be delivered, not a question to be discussed. The Montagues, gentler and sadder, commission a nephew to find out why their son weeps, accept his report as knowledge, and never once address the boy themselves. The elders keep a feud whose cause nobody states, and the young inherit it unexplained and die for it unexplained. When the truth about the children finally reaches the parents, it arrives as a friar's narration and a dead son's letter, read aloud over bodies. The play's parents hear everything in the end. They hear it one scene, and two children, too late.

@@ -9,7 +9,7 @@ excerpt: "The young men of Verona, Tybalt, Mercutio, Romeo and the rest, are bre
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2023-05-19
+last_updated: 2026-11-01
 lang: en
 ---
 The young men of Verona are the play's first sight and its last accounting. Before any lover speaks, servingmen quarrel in a public place over which house they serve, and before the tragedy closes, the churchyard holds the bodies of Mercutio's generation one by one: Mercutio himself, Tybalt, Paris, Romeo, and, by a dagger rather than a sword, Juliet, whose death the same machinery arranged. The verdict argued here is that the tragedy anatomizes a system of manhood rather than a run of bad temperaments. Verona teaches its sons that a slight unanswered is a self lost, examines them on that lesson in front of witnesses, licenses the examination through an inherited feud, and then collects the fee in a single week. Each young man in the cohort holds a different rank, temperament, and degree of belief in the code, and the code takes all of them anyway: the believer, the volunteer, the courteous conformist, and the one pupil who tried to resign. That spread of victims is the evidence. A story about individual hotheads would kill the hotheads. This story kills across the whole range of male character, sparing chiefly the peacemaker who refuses every examination and the servants who survive to carry messages and open gates. What destroys the generation is not any man's nature. It is the curriculum they all, willing or not, attended.

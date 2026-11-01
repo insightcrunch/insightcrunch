@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet fills its soliloquies with apostrophe, direct address
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2025-02-14
+last_updated: 2026-11-01
 lang: en
 ---
 Apostrophe is the engine inside the great soliloquies of Romeo and Juliet, and the soliloquies are where the play keeps its real action. The familiar account of these speeches treats them as outpourings: feeling rises, the character speaks, the audience overhears a heart. The text supports a harder reading. Again and again the lovers stop describing their condition and start addressing it, turning from narration to summons, from reflection to command. Juliet does not meditate on the slowness of the day; she orders the sun's horses to gallop. Romeo does not report despair at the news from Verona; he defies the stars to their faces, then walks into a tomb and negotiates with death, with the grave that holds his enemy, and with his own eyes and arms. Soliloquy in this play is not thought overheard. It is appeal lodged, in the vocative case, with every power the lovers believe might still be listening.

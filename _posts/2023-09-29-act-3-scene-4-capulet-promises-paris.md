@@ -9,7 +9,7 @@ excerpt: "Act 3 Scene 4 has Capulet abruptly promise Juliet to Paris and rush th
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 2023-09-29
+last_updated: 2026-11-01
 lang: en
 ---
 Act 3 Scene 4 is the shortest consequential scene in the tragedy, and its consequence is total. In a late-night room, with Tybalt newly dead and the household in mourning, Capulet detains the departing Paris, promises him a daughter who has not been consulted, names a wedding day three nights away, corrects that day in mid-sentence, plans a small ceremony to protect the family's reputation, and sends his wife upstairs to deliver the news to a girl who is, at that hour, receiving her secret husband in her chamber. Nothing in the scene is loud. No sword is drawn, no curse is spoken, no one raises a voice. Yet every disaster that follows is scheduled here. The verdict of this reading is direct: the catastrophe of the play is not dropped from the stars in this scene but decided, dated, and dispatched at a father's table, and the scene's brevity is the measure of how little deliberation the decision required. What takes fifty lines to make takes the rest of the play to unmake, and it cannot be unmade at all.

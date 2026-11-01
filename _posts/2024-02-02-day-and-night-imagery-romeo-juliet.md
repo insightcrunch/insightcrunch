@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet invert the ordinary world, finding safety in night an
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2024-02-02
+last_updated: 2026-11-01
 lang: en
 ---
 Day and night in Romeo and Juliet are not a backdrop but a border, and the lovers live on the wrong side of it. In the ordinary moral geography of a city, daylight is where law, kinship, and honest business are conducted, and darkness is where danger gathers. The play reverses the survey. For Romeo and Juliet, the night is the only jurisdiction in which the marriage exists: it is met in, sworn in, consummated in, and mourned in, all after dark. The day, by contrast, belongs to the feud. Every public catastrophe in the tragedy is a daylight event, timed to a morning, a midday, or a wedding day, and every dawn that breaks over the action arrives as an officer of that other world, come to serve a sentence. The verdict defended through this reading is that the inversion is structural rather than decorative. The play's clock, not merely its imagery, assigns safety to darkness and exposure to light, act by act and scene by scene, until the final morning, when the sun itself refuses to ratify the peace that daylight has purchased.

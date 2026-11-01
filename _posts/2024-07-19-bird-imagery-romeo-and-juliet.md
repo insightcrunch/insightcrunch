@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is full of birds, the lark of dawn, the nightingale o
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2024-07-19
+last_updated: 2026-11-01
 lang: en
 ---
 Bird imagery in Romeo and Juliet is not decoration scattered over a love story. It is a working system, and it does four jobs no other image family in the play is asked to do at once. The birds keep the play's time, since the lark and the nightingale divide night from morning more exactly than any clock in Verona. The birds grade beauty, since a swan, a crow, a dove, and a raven supply the scale on which faces are measured before the lovers have exchanged a word of love. The birds supply a technology of desire, since the falconry of the orchard scenes, the lure, the hood, the silk thread, gives the lovers a tested vocabulary for calling, holding, and releasing what they love. And the birds carry foreboding, since nearly every winged figure in the tragedy arrives with a shadow attached: the dove troops with crows, the snow lies on a raven's back, the lark's music is heard as discord. The verdict of this article is that the aviary is structural. Remove the birds and the play loses its clock, its scale of beauty, its mechanics of longing, and its earliest warnings, all at once. What looks at first like a handful of pretty comparisons is, gathered whole, the load-bearing register through which the tragedy thinks about time, desire, and the nearness of death.

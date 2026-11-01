@@ -9,7 +9,7 @@ excerpt: "The names Romeo and Juliet were not Shakespeare's coinage but came dow
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-03-13
+last_updated: 2026-11-01
 lang: en
 ---
 The two most famous names in English drama were old before the play that carries them was written. Romeo and Juliet were not coined for the Verona tragedy: they arrived with the story, handed down through an Italian novella, a French adaptation, an English poem and an English prose collection, and each name brought a buried cargo of meaning across every border. Romeo began as a common noun, a word for a pilgrim bound for Rome, before Luigi da Porto pinned it to a young Veronese of the Montecchi house. Juliet began as Giulietta, a diminutive, the little Giulia, and reached the London stage with the smallness clipped off her name by the journey. The verdict of the evidence is precise and it divides in two. The pilgrim inside Romeo is documented etymology, and the play, knowingly or not, puts the buried meaning on its feet in the feast scene, where the hero plays a pilgrim at a shrine with his own lips. The July inside Juliet is a resonance rather than a derivation, a real kinship of roots that the play warms with a midsummer calendar without ever speaking it aloud. Keeping those two grades of claim apart, documented descent on one side and suggestive echo on the other, is the whole discipline of the subject, and the names reward the discipline: read strictly, they show a playwright inheriting words the way he inherited the plot, and making the inheritance act.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet sets the Prince's law against a private feud it canno
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2024-08-23
+last_updated: 2026-11-01
 lang: en
 ---
 Verona's civil order fails in Romeo and Juliet for a reason more uncomfortable than a weak ruler or an unjust code: the law is built to arrive after violence, to speak in the street rather than in the house, and to threaten penalties it has no machinery to carry out. Prince Escalus issues three great interventions across the play, an edict in the first scene, a sentence after the duel, and a judgment over the bodies in the tomb, and each one is intelligent, proportioned, and useless. The brawls continue on schedule. The verdict of this article is that the play locates the failure in the design of the legal order itself before it locates it in the man who administers it: Verona's law possesses a voice and no hands, a doctrine of the peace and no instruments between proclamation and death, jurisdiction over corpses and none over the households that manufacture them. Enforcement is poor because the design gives enforcement almost nothing to work with.

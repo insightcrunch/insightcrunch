@@ -9,7 +9,7 @@ excerpt: "Act 4 Scene 5 has the Capulets find Juliet seemingly dead and pour out
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 2023-11-17
+last_updated: 2026-11-01
 lang: en
 ---
 Act 4 Scene 5 of Romeo and Juliet is the play's rehearsal for a funeral that has not happened. The Nurse enters Juliet's chamber on the wedding morning, calls her name into silence, draws the curtains, and finds a body that will not wake. Within minutes the room fills with the fullest formal lament in the play, as mother, father, bridegroom and Friar take their turns over the still figure on the bed. Then, with the corpse barely carried from the audience's mind, the scene hands its closing minutes to hired musicians haggling with a servant over tunes and tips. The verdict defended across this close reading is that the tonal jolt is neither accident nor lapse of taste. The grief is patterned on purpose, stylized so that it can be watched as performance, and the comedy that follows is the price tag the play attaches to performed feeling. Because no mourner in the room knows what the audience knows, that the stillness on the bed is a drug's work and not death's, every lament lands twice: once as the household's catastrophe, and once as a ceremony staged over a sleeping girl who will wake to a worse one.

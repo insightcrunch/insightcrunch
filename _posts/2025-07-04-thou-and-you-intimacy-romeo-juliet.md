@@ -9,7 +9,7 @@ excerpt: "In Romeo and Juliet the shift between thou and you is never idle, mark
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-07-04
+last_updated: 2026-11-01
 lang: en
 ---
 Thou and you are the smallest instruments of feeling in Romeo and Juliet, and among the most precise. Modern English has collapsed the pair into a single word that does every job at once, so a modern audience hears one channel where the first audiences heard two. In the Verona of the play, every speech answers a silent preliminary question before its argument begins: which form of address does this speaker owe this listener, and which form does the speaker choose instead? The gap between the owed form and the chosen form is where the drama lives. A father arranging a marriage, a friar hearing a confession, a swordsman picking a quarrel and a girl at a window talking to a man hidden in her orchard all make that choice line by line, and the play records each choice in grammar too small for the speakers themselves to notice.

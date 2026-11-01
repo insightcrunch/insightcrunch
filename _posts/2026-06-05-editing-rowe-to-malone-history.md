@@ -9,7 +9,7 @@ excerpt: "The text of Romeo and Juliet we read was shaped by eighteenth-century 
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-06-05
+last_updated: 2026-11-01
 lang: en
 ---
 Every reader who opens Romeo and Juliet reads two texts at once. The first is the play the early printers left behind: the short first quarto of 1597, the long second quarto of 1599, and the Folio text of 1623 that descended from them. The second text is the one laid over those witnesses by a century of editors, from Nicholas Rowe in 1709 to Edmond Malone in 1790, who modernized the spelling, repunctuated the verse, amplified the stage directions, demoted lines they distrusted, restored lines they admired, and gradually built the apparatus of evidence underneath the page. The familiar play, the one quoted in classrooms and printed in paperback, is the second text wearing the first one's clothes. Editing Romeo and Juliet from Rowe to Malone is therefore not a footnote to the play's history. It is the history of how the play became readable at all.

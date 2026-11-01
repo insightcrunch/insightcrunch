@@ -9,7 +9,7 @@ excerpt: "Pierre Boaistuau's French version reshaped Bandello's Italian story, a
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2025-10-24
+last_updated: 2026-11-01
 lang: en
 ---
 The standard account of where Romeo and Juliet came from jumps a border. In that account the story is Italian, written by Luigi da Porto and retold by Matteo Bandello, and then it is English, versified by Arthur Brooke and dramatised by Shakespeare, and the map between those two facts is left blank. The blank is the error this article corrects. Between Bandello's novella and Brooke's poem stands a French book, Pierre Boaistuau's Histoires tragiques of 1559, and the French book is not a corridor the story passed through unchanged. It is a workshop in which the story was altered in ways that England inherited and that Shakespeare's audience still watches: a poison bought across a counter in Mantua from a starving man, a heroine who wakes in the tomb one death too late, a narrator stationed outside the tale to deliver its moral verdict before its pleasures can excuse it. Restoring Pierre Boaistuau to the chain changes what the chain means.

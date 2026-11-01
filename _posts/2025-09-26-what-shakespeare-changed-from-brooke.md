@@ -9,7 +9,7 @@ excerpt: "Shakespeare kept Brooke's plot but transformed it, compressing months 
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2025-09-26
+last_updated: 2026-11-01
 lang: en
 ---
 ## The Verdict First: A Kept Skeleton, a Transformed Play

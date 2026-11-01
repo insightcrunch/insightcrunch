@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet stages fate and free will together, naming the lovers
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2023-12-22
+last_updated: 2026-11-01
 lang: en
 ---
 Fate and free will in Romeo and Juliet are not rival explanations competing for the play, and the first service a serious reading can perform is to refuse the contest as it is usually staged. The tragedy announces destiny in its opening breath, calling its lovers star-crossed before either has spoken a word, and then it spends five acts building their destruction out of decisions that somebody on stage visibly makes, hesitates over, or rushes past, threaded together by accidents that no heaven is ever shown arranging. A gatecrashed feast is a choice. A secret wedding is a choice, argued for and consented to in a cell at dawn. A street fight accepted, a prince defied, a wedding day advanced, a potion accepted, a dagger kept ready, a poison bought from a starving man: the catastrophe is a chain of human links. Yet the chain keeps snapping at exactly the points where no human link exists, in a quarantined house, in a servant who happens to witness a funeral, in a waking that comes minutes after a death. The play's design holds both registers at full strength at once, and any verdict that crowns one and dismisses the other has quietly discarded half the evidence.

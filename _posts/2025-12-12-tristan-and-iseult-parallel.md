@@ -9,7 +9,7 @@ excerpt: "The medieval romance of Tristan and Iseult, lovers bound by a fatal dr
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2025-12-12
+last_updated: 2026-11-01
 lang: en
 ---
 The Tristan and Iseult parallel is the strongest corrective available to the lazy assumption that Romeo and Juliet invented the love that ends in a shared grave. Four centuries before the Verona tragedy reached an English stage, the courts of France and Germany were already telling of a Cornish knight and an Irish princess whose passion, kindled by a swallowed draught, carried them through exile, discovery and disgrace to a death that joined what law and marriage had kept apart. The verdict of the comparison, stated plainly at the outset, is this: the medieval romance is a parallel and not a source, and the parallel earns its keep precisely where the two stories diverge. A draught in the Tristan tradition causes love; the Friar's draught in the play counterfeits death. The medieval lovers break faith with a husband and a king; the Verona lovers are married in a church and broken by a feud between households. Tristan and Iseult, in the reading Denis de Rougemont made famous, strain toward death as the proof and consummation of passion; Romeo and Juliet strain toward an ordinary married life and are killed by an undelivered letter, a locked tomb door and minutes of mistiming. Set side by side, the two works expose each other's engines.

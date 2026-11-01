@@ -9,7 +9,7 @@ excerpt: "The second quarto of Romeo and Juliet is the fuller, more authoritativ
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-04-03
+last_updated: 2026-11-01
 lang: en
 ---
 Every reader who opens a modern edition of the tragedy meets the second quarto of 1599 before meeting anything else, whether the edition says so on its cover or not. The second quarto, the long early text that bibliographers call Q2, is the foundation document of the play in print: the fullest of the early editions, the one set in type from a manuscript standing closest to the playwright's own draft, and the copy-text from which nearly every scholarly edition descends. Its title page boasts that the text was newly corrected, augmented, and amended, and the boast is one of the rare pieces of booksellers' advertising that collation sustains. Q2 runs to roughly three thousand lines where the first quarto of 1597 offers roughly twenty-two hundred; it restores speeches the shorter text compresses or drops; and its errors, which are plentiful, are the errors of a printing house working from a difficult authorial manuscript rather than the deformations of a text carried in actors' memories. The verdict argued through this study is plain: the second quarto deserves its standing as the play's foundation text, not because it is clean, but because its very untidiness is the signature of the author's papers passing through a press.

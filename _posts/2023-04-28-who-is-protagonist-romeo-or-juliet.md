@@ -9,7 +9,7 @@ excerpt: "Romeo speaks first and the title names him first, yet Juliet drives mo
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2023-04-28
+last_updated: 2026-11-01
 lang: en
 ---
 Ask a room of readers who the protagonist of Romeo and Juliet is and most will name Romeo before the question has finished landing. The reflex feels safe. His name stands first in the title, he walks into the play first, he speaks first of the two, and the bulk of the famous speeches that schoolrooms assign, the orchard rapture, the defiance of the stars, the long address over the body in the tomb, are his. Against that reflex stands a quieter body of evidence that the play itself keeps insisting on. The Capulet daughter receives more soliloquy than the Montague son, takes the decisions on which the second half depends, grows further across the five acts than anyone else on the stage, and speaks in every act while her husband vanishes from the fourth entirely. The question is therefore genuine, and it deserves better than a reflex. It deserves an audit.

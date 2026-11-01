@@ -9,7 +9,7 @@ excerpt: "Act 4 Scene 4 shows the Capulet house bustling cheerfully through the 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 2023-11-10
+last_updated: 2026-11-01
 lang: en
 ---
 ## Act 4 Scene 4 Explained: A Wedding Prepared Over a Sleeping Bride

@@ -9,7 +9,7 @@ excerpt: "Act 1 Scene 3 introduces Juliet, her distant mother, and the bawdy Nur
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 2023-06-16
+last_updated: 2026-11-01
 lang: en
 ---
 Act 1 Scene 3 is the scene that builds Juliet before the love plot is allowed anywhere near her, and its verdict can be stated plainly: everything the tragedy later destroys is assembled in this one chamber, in under a hundred and ten lines, by three women talking about a marriage. The street brawl has shown Verona's public violence and the Prince has priced it. Capulet has already negotiated with Paris in the scene before, attaching conditions the audience has heard. What remains is the interior where the decision will actually be delivered to the person it concerns, and Shakespeare gives that delivery to a mother who cannot talk to her daughter without a servant in the room, a nurse whose memory keeps swallowing the agenda, and a girl of not quite fourteen who answers the largest question of her life in three lines of flawless, empty courtesy. The scene is usually read as charming exposition before the real play begins. It is closer to the play's foundation stone. The dutiful daughter the balcony scene will transform is manufactured here, in this room, by this machinery, and the rest of the tragedy is measured against what this scene establishes.

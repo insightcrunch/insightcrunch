@@ -9,7 +9,7 @@ excerpt: "Juliet, Lady Capulet, and the Nurse are the only real women in Verona,
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2023-05-05
+last_updated: 2026-11-01
 lang: en
 ---
 The women of Verona can be counted on one hand, and the counting is the argument. Four women speak in Romeo and Juliet: Juliet, Lady Capulet, the Nurse, and Lady Montague. A fifth woman, Rosaline, is named in dialogue, written into a guest list, praised and anatomized by men, and never once brought onto the stage. Everything else in the city belongs to men: two patriarchs, their sons and nephews, a prince, a friar, a crowd of servants, and the machinery of a feud that fills the streets with drawn swords. Read one at a time, each of the four speaking women has attracted a separate shelf of commentary, and each solo study finds a personality. Read together, as a system, the four women map the entire range of lives that Verona permits a woman to live: the silent wife, the prudent broker, the hired intimate, and the protected heir whose marriage is the most valuable transaction either household will ever close.

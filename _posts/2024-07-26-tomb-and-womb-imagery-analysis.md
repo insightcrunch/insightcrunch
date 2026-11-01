@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet fuses tomb and womb, birth and burial, so that the sa
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2024-07-26
+last_updated: 2026-11-01
 lang: en
 ---
 ## Tomb and Womb Imagery in Romeo and Juliet: One Enclosure, Two Doors
