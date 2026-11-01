@@ -116,3 +116,6 @@
 ## how-houdini-did-his-escapes
 - _posts/2014-01-15-the-general-keaton-action-comedy-landmark.md - could carry: "The nickname Buster itself came, on the Keaton family account, from Harry Houdini, whose own route from the variety stage to repeatable physical danger is traced in how Houdini did his escapes."
 - _posts/2026-10-14-how-film-restoration-works.md - could carry: "One recovery of the kind described on this page brought back a Houdini feature counted lost for decades, an episode set out in how Houdini did his escapes."
+
+## nightjar-clean-room-001
+- None. Installment one of the serial: no earlier installments exist to point forward to it. Forward link suggestions begin with installment 002.
