@@ -6,17 +6,17 @@ date: 2027-01-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-landmark", "jonathan-goldberg", "queer-theory", "goldberg-open-rs"]
 excerpt: "Jonathan Goldberg's essay Open Rs gave Romeo and Juliet a landmark queer reading, questioning the play's apparent celebration of a single heterosexual love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-01-08
+lang: en
 ---
-
 ## The Verdict in Brief: A Landmark of the Question, Not of the Proof
 
 Jonathan Goldberg's "Romeo and Juliet's Open Rs," published in *Queering the Renaissance* (Duke University Press, 1994), the collection Goldberg himself edited, is the most consequential piece of queer criticism ever written on the play, and its consequence survives the damage its evidence has taken. The verdict defended across this article is double. As diagnosis, the essay is permanent: Goldberg demonstrated that the play's reign as the culture's icon of one unique heterosexual love is an achievement of reading, not a property of the text, and that desire inside the play runs in substitutions that no doctrine of the couple can contain. As demonstration, the essay is vulnerable at exactly the points where it performs hardest: a word no early edition prints, a sentence the Nurse never finishes, a rose made to carry a predecessor's name. Joseph Pequigney, the most damaging of its critics, wins most of the skirmishes over the letter R. Goldberg wins the war over what the play's desire is doing. An honest account of the landmark has to hold both halves at once, because the essay's own method, a philology that treats letters as evidence, invites judgment by the standard it sets for itself.
 
-![Jonathan Goldberg and the letter R in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jonathan Goldberg and the letter R in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The essay's materials are small and famous. A joke in Act 2, Scene 4, in which the Nurse fails to finish a sentence about the letter R. Six lines in Act 2, Scene 1, in which Mercutio wishes Rosaline were a fruit whose dialect name no early text of the play actually prints. A rose in the orchard scene of Act 2, Scene 2. A sun in the same scene. An adjective, "effeminate," in Act 3, Scene 1. From these Goldberg builds the claim that "the sexual field in which desire operates is the forbidden desire named sodomy" (p. 228), and that "the coupling of Romeo and Juliet is not a unique moment of heterosexual perfection and privacy but part of a series whose substitutions do not respect either the uniqueness of individuals or the boundaries of gender difference" (p. 222). Every quotation from the play in this article follows the Folger Shakespeare, edited by Barbara A. Mowat and Paul Werstine, cited by act, scene, and line; every quotation from Goldberg carries the page of *Queering the Renaissance* where a reader can test it. The essay is paraphrased rather than quoted at length, as its argument deserves and its difficulty requires.
 

@@ -6,15 +6,15 @@ date: 2027-05-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "russian-criticism", "reception", "russian-criticism-of-the-play"]
 excerpt: "Russian criticism of Romeo and Juliet runs through Pasternak's famous translation and the Soviet reading of the feud, giving the play a distinctive afterlife."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-05-28
+lang: en
 ---
-
 Russian criticism of Romeo and Juliet did something no other national tradition attempted: it made the tragedy a foundation document. In England the play could rest as a beloved early work, in France it arrived late and apologetically, in Germany it served a theory of national theatre. In Russia it was translated, argued over, set to music, danced, filmed, taught and edited until it functioned as a piece of Russian literature that happened to have an English author. The verdict argued through this article is that the Russian reception has a single legible shape. Russia read the feud before it read the lovers. From the first prose complete works of 1841 to the Soviet commentary of the 1930s, the tradition fastened on the play's social machinery, the two households, the Prince's failing law, the parents' property in their children, and treated the love as the human answer that machinery provokes and destroys. The romance was never denied. It was, instead, explained, and the explanation is the tradition's distinction and its wound, because the century that perfected the social reading also arrested, exiled or shot an unusual number of the people who produced it.
 
-![A desk with Russian editions and a ballet score of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with Russian editions and a ballet score of the play - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 That shape gives Russian criticism its value to any reader of the play. The Anglophone tradition, from the Romantics onward, tends to begin inside the lovers' consciousness and work outward to Verona. The Russian tradition begins in Verona's square, with the brawl of servants in the first scene, and works inward. Shakespeare's own Prologue licenses the order: "Two households, both alike in dignity, / In fair Verona, where we lay our scene, / From ancient grudge break to new mutiny" (Prologue, lines 1 to 3). The first noun the play offers is not a lover but a household. Russian readers, translators and composers took the hint with a consistency that amounts to a national reading, and the feud-first interpretation produced the tradition's glories: Tchaikovsky's symphonic argument of 1869, Prokofiev's ballet of 1940, and Boris Pasternak's translation of 1941 to 1942, made in wartime evacuation and still the version in which Russia hears the play. It also produced the tradition's characteristic blindness, a reluctance to let chance, bawdy, religion and private feeling count as causes. The sections that follow trace the reception station by station, name its makers and its casualties, and adjudicate its quarrels, including the ugliest one: the 1945 attempt to destroy Pasternak's translation, and with it the translator, on a charge of falsifying Shakespeare.
 

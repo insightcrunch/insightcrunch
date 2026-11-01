@@ -6,15 +6,15 @@ date: 2027-04-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "queer-mercutio", "queer-theory", "queer-mercutio-criticism"]
 excerpt: "Critics from Jonathan Goldberg to Joseph Pequigney have read Mercutio's love for Romeo as homoerotic, building a sustained queer case around the character."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-04-30
+lang: en
 ---
-
 The queer Mercutio is the most consequential reinterpretation of a supporting character in the modern criticism of this tragedy. A line of critics running from Joseph A. Porter's book of 1988 through Jonathan Goldberg's essay of 1994 and into the quarrel that Joseph Pequigney opened against Goldberg in 2004 has argued, in different idioms and with different evidence, that Mercutio's feeling for Romeo is the play's suppressed erotic center: that the wit who mocks every woman Romeo names desires Romeo himself, that his bawdy is a courtship conducted in the only register Verona allows, and that his death, taken under Romeo's arm in Act 3, is the death of a rival the marriage plot had to remove. The counterargument is equally distinguished. Alan Bray's history of Elizabethan male friendship holds that the period's friends embraced, kissed, shared beds, and swore love in language that signified amity, not sodomy, and that reading desire into such signs mistakes the period's most honored institution for its most feared crime. Between those positions this article reaches a verdict, and the verdict is split with intent. As a claim about a character's inner orientation, the queer reading overreaches: the text gives Mercutio no soliloquy, no aside, and no sentence of desire addressed to Romeo, and what cannot be sourced to his speeches cannot be proved of his heart. As a claim about the play's structure of desire, the queer reading is the strongest account available of why Mercutio exists, why his speeches cluster where they cluster, and why the tragedy cannot begin until he is dead. The distinction between those two claims is the article's whole argument, and the tradition's history is the story of critics learning, quarreling, and sometimes refusing to learn it.
 
-![Mercutio conjuring the absent Romeo in Act 2 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mercutio conjuring the absent Romeo in Act 2 - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The method is audit rather than advocacy. Each station of the tradition is given its evidence at full length and then charged for its excesses: Porter for the Marlowe pressure his friendship frame could not contain, Goldberg for a method that found its conclusions in advance, Pequigney for a prosecution that never turned its own tests on the character it might have acquitted or convicted, Bray for a semiotics whose own archive shows the dissociation working harder than the defence admits. The ledger form is chosen for that reason. A reading, like an account, is entitled to be believed exactly where its entries balance against the documents, and the documents here are four scenes of a play, a shelf of criticism dated between 1982 and 2004, and a period doctrine older than both. What follows keeps the three separate until the verdict, where they are finally allowed to settle one another. Critics are cited by name, work, and date throughout, because the tradition's quarrels are unintelligible at any lower resolution than the one its participants wrote at.
 

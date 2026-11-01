@@ -6,17 +6,17 @@ date: 2027-04-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "rehabilitation", "twentieth-century", "rehabilitation-of-the-play"]
 excerpt: "Across the twentieth century criticism reclaimed Romeo and Juliet from the charge of immaturity, treating its mixed form and lyric style as deliberate art."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-04-16
+lang: en
 ---
-
 ## The Rehabilitation of Romeo and Juliet: The Verdict Before the Evidence
 
 The twentieth-century rehabilitation of Romeo and Juliet is the strangest success story in Shakespeare criticism, because the play it rescued had never been in danger anywhere except in the study. On the stage the lovers' tragedy was a fixture from its first performances: the earliest printed text, the quarto of 1597, advertised the play on its title page as one that had been "often (with great applause) plaid publiquely," and no century since has let it rest for long. In the study the verdict ran the other way. The criticism the twentieth century inherited treated the play as a beautiful failure of classification: a tragedy whose catastrophe happens by accident, a lyric poem wearing a tragedy's clothes, the promising apprentice work of a dramatist whose mastery would arrive with *Hamlet*. A. C. Bradley, whose *Shakespearean Tragedy* of 1904 fixed the academic canon for two generations, stated the demotion in a single balanced sentence, quoted in full below: the play was "a pure tragedy, but it is an early work, and in some respects an immature one." Between Bradley's sentence and the century's end, criticism reversed the verdict so completely that the reversal itself needs explaining. This article gives that explanation, and its conclusion can be stated at the start, since the whole argument is a defence of it.
 
-![The rehabilitation of Romeo and Juliet in twentieth-century criticism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rehabilitation of Romeo and Juliet in twentieth-century criticism - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The verdict is this. The rehabilitation was real, it was earned, and it is complete as far as the play's standing is concerned: by the year 2000 the play stood in the editions, the lecture halls, and the repertoire exactly where *Hamlet* stands, edited and argued over at the same scale and with the same presumption of inexhaustibility. But the rehabilitation did not proceed by answering the old charges. It proceeded by replacing the instruments with which plays were judged, one instrument at a time, until the charges could no longer be phrased. Bradley asked whether the catastrophe issues from the hero's character, and on that question the play still fails, because its catastrophe issues from a letter that never arrives. Harry Levin asked instead whether the play's forms cohere, and on that question the play triumphs, because its sonnets, aubades, laments, and duels are a single system of occasions that promises order and delivers wreckage. Nicholas Brooke asked whether a tragedy must follow one pattern, and dissolved the premise. Susan Snyder asked what genre the play begins in, and found comedy's machinery running until it breaks on a corpse. What changed across the century, then, was not the play, whose text stood still in its quartos, and not the applause, which had never stopped. What changed was the definition of the evidence. The rehabilitation is the history of criticism discovering, in succession, that character is not the only source of necessity in a tragedy, that form can carry meaning, that genre can carry causation, that language can carry structure, and that a play's meanings are made by the cultures that keep it. Each discovery was made on other plays too, but Romeo and Juliet was the test case for all of them, because it was the play the old instruments handled worst.
 

@@ -6,12 +6,12 @@ date: 2027-07-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-debate", "structure", "character", "structure-vs-character"]
 excerpt: "Critics of Romeo and Juliet split between those who read it through structure and those who read it through character, two camps with different verdicts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-07-02
+lang: en
 ---
-
 ## Two Readers at the Tomb: The Quarrel This Article Settles
 
 Every serious argument about Romeo and Juliet is, underneath its local subject, an argument between two camps. Popular accounts of the play mix the two approaches unawares, praising the design in one sentence and psychoanalyzing the lovers in the next, and the mixture is harmless in conversation; in criticism it produces verdicts that cannot be checked, because the evidence keeps changing kind. Restoring the divide is not pedantry. It is the precondition of adjudication: only when each camp's claim is stated in its own terms can a scene be asked which claim it supports. One camp reads the play through character: the lovers are persons, their catastrophe is the sum of their choices, temperaments and growth, and the critic's task is to know them as one knows people, from their speeches, their hesitations and their changes. The other camp reads the play through structure: form, imagery, genre and design carry the meaning, the catastrophe is announced in the Prologue's fourteenth line before any person has acted, and the critic's task is to map the pattern that the persons serve. The first camp descends from Coleridge and Anna Jameson through A. C. Bradley. The second descends from Caroline Spurgeon's imagery census through G. Wilson Knight, Harry Levin, Susan Snyder and Nicholas Brooke. Between them they have produced nearly every verdict the play has ever received, and they rarely agree about what kind of evidence a speech is.
@@ -22,7 +22,7 @@ What follows surveys the two camps whole: their founders, their evidence, their 
 
 The divide also has an institutional geography, which explains its persistence. The character camp is the criticism of the theatre and the general reader: it speaks the language of rehearsal, where an actor must decide who Juliet is before deciding how her lines run, and of the classroom, where a first encounter with the play is an encounter with two young people whose fate feels unjust. The structure camp is the criticism of the study: it speaks the language of the edition, the concordance and the seminar, where the play is an object that can be taken apart and its workings demonstrated to a sceptic. Each camp suspects the other of a professional deformation. To the structure reader, character criticism looks like biography written about people who never lived; to the character reader, structural analysis looks like an autopsy performed on a living voice. Both suspicions contain enough truth to keep the quarrel funded, and neither contains enough to settle it. What settles a quarrel of this kind is not polemic but evidence handled scene by scene, which is the procedure the test cases below follow: state each camp's claim at full strength, then ask which claim the passage in question can actually carry.
 
-![Structure and character in Romeo and Juliet criticism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Structure and character in Romeo and Juliet criticism - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## The Camps at a Glance: The InsightCrunch Camps Comparison
 

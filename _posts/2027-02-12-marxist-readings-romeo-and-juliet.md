@@ -6,17 +6,17 @@ date: 2027-02-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "marxist-criticism", "class", "marxist-readings"]
 excerpt: "Marxist criticism reads Romeo and Juliet through class and money, seeing the feud, the marriage market, and the household as expressions of economic power."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-02-12
+lang: en
 ---
-
 ## Marxist Readings of Romeo and Juliet: The Verdict in Advance
 
 Marxist criticism reads Romeo and Juliet as a play whose catastrophe is manufactured by an economic order, and the defended verdict of the reading offered here is that the manufacture is documented in the text itself. The feud is not a weather system of ancient hatred but the competition of two propertied houses, identical in rank, conducted through the labour of servants, arbitrated by a prince whose own family pays the bill, and settled at the end in the currency it always used: gold. Juliet is priced before she is wooed. Her marriage is negotiated as the transfer of an heir. The one honest tradesman in Verona is a starving apothecary whom the law forbids to earn and poverty compels to kill. Against this machinery the lovers speak a language of boundless giving that no ledger can record, and the strongest form of the materialist reading, the cultural materialism that descends from Raymond Williams through Jonathan Dollimore and Alan Sinfield, is the form that explains both halves at once: the economic system that produces the deaths, and the surplus of feeling that the system could neither price nor save. Weaker forms of the reading, which treat the poetry as a decorative screen over class fact, fail on the evidence of the verse. The strong form wins.
 
-![The class order of Verona, its houses, servants, and tradesmen, in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The class order of Verona, its houses, servants, and tradesmen, in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The school has a history, and the history matters because the method changed as it travelled. An early dialectical generation, represented by Christopher Caudwell's *Illusion and Reality* in 1937, read Shakespeare's drama as the art of a rising order breaking against a feudal one. A Soviet station built that frame into an official Shakespeare, edited by A. A. Smirnov's circle, staged as social tragedy, and danced by Prokofiev's ballet, in which the villain is neither lover nor friar but feudal society entire. A British generation then rebuilt the method on subtler foundations: Williams's cultural materialism, Dollimore's *Radical Tragedy* of 1984, and Sinfield's *Faultlines* of 1992, which answered Stephen Greenblatt's doctrine of containment with the claim that dominant orders leak at their faultlines, and that a play's dissidence survives inside its closure. The resistance has been led by Harold Bloom, who names the whole enterprise a school of resentment and insists that the play lives by its persons and its poetry alone. Between the Soviet certainties and Bloom's refusal stands the documentary evidence of the play, and the evidence is where this reading keeps its footing: in the play, money is not a theme laid over the action. Money is one of the action's moving parts.
 

@@ -6,15 +6,15 @@ date: 2027-05-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "french-criticism", "reception", "french-criticism-of-the-play"]
 excerpt: "French criticism of Romeo and Juliet runs from Voltaire's neoclassical doubts to a later embrace, tracing France's long, ambivalent reckoning with Shakespeare."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-05-14
+lang: en
 ---
-
 French criticism of Romeo and Juliet begins with a paradox that no other national tradition matches in quite the same form. France was the first foreign country to argue about Shakespeare in print, the country that produced the most systematic case against his kind of drama, and the country that eventually carried the play into opera, symphony, and its national library. Between those poles lies a reception unlike the English one, in which admiration was early and continuous, and unlike the German one, in which a translator's triumph settled the question for a century. The French record is a negotiation that lasted two hundred years, conducted in prefaces, pamphlets, adaptation workshops, concert halls, and editorial committees, and the play was its favourite test case because it committed, in their most concentrated form, every offence the French classical stage had defined and offered, in the same five acts, the beauties that made those offences impossible to dismiss.
 
-![Harriet Smithson as Juliet in the Paris Odéon season, when French criticism met the play on stage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Harriet Smithson as Juliet in the Paris Odéon season, when French criticism met the play on stage - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The verdict argued through the whole of this article is that France did not, in the end, surrender to the play. France naturalized it by rewriting it, generation after generation, and the famous Romantic embrace changed the rhetoric of French criticism far faster than it changed the French text of the play. Voltaire's objections were never answered on their own ground; they were outlasted, routed around, and quietly absorbed into the practice of adaptation, which kept one hand on the scissors long after the manifestos had declared unconditional love. The documentary proof is a sequence no survey of opinions can explain away: the first French anthology of Shakespeare left the play out entirely; the first French staging cut the brawl and the balcony; the two great French musical settings both borrowed an ending altered in London by David Garrick; and the Comédie-Française, the house of Molière and Racine, waited until 1952 to admit a version its own historian calls faithful. French criticism's long ambivalence is not a failure of taste to be regretted. It is the most instructive reception the play has anywhere, because France kept the accounts of what it was doing: every stage of the negotiation left a dated document, and the documents, read in order, show a national culture deciding what it could afford to admire.
 

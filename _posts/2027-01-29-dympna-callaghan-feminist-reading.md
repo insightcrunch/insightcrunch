@@ -6,17 +6,17 @@ date: 2027-01-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "dympna-callaghan", "feminist-materialism", "callaghan-feminist"]
 excerpt: "Dympna Callaghan read Romeo and Juliet through feminist materialism, arguing the play helped construct the very ideal of romantic love it seems only to depict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-01-29
+lang: en
 ---
-
 ## The Verdict First: Callaghan Puts a Date on Romantic Love
 
 Dympna Callaghan's feminist-materialist reading of Romeo and Juliet begins from a refusal. Where the play's admirers, including many of its feminist admirers, treat the lovers' passion as a fixed star by which Verona's arrangements can be judged and found wanting, Callaghan's essay "The Ideology of Romantic Love: The Case of Romeo and Juliet" asks when the star was hung, who hung it, and what work its light performs. Her answer, argued first in The Weyward Sisters: Shakespeare and Feminist Politics in 1994 and carried into classrooms by reprinting in R. S. White's Contemporary Critical Essays in 2001, is that the love the tragedy celebrates is not nature protesting against society. It is a historically specific formation of desire, assembled in the decades around the play's first performances, serviceable to an emerging order of companionate marriage and emergent capitalism, and installed so successfully that audiences ever since have mistaken the artifact for the human constant it was built to replace.
 
-![Dympna Callaghan and the feminist-materialist reading of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dympna Callaghan and the feminist-materialist reading of the play - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The verdict defended in this article is that Callaghan's reading reveals more about Romeo and Juliet than any rival feminist account of her generation, and that its central claim survives its critics. She is right that the play does ideological work: it teaches a culture to want a particular kind of love, to want it inside marriage, and to feel that wanting as the most private and least historical thing about a person. She is right, further, that feminist criticism pays a price when it exempts that wanting from its own analysis, canonizing Juliet's desire as heroine's truth rather than asking what produced the desire's shape. Where her reading reaches its limit, and the limit matters, is at the tomb: an account of love as manufactured consent has to explain why the manufactured article mourns its makers' world so persuasively, and why the drama's causal weight falls so consistently on the fathers' machinery rather than on the lovers' feeling. Callaghan's essay does not wholly fail that test, but it passes it at a discount, and the discount is the space her critics, Coppelia Kahn from one side and Paul A. Kottman from another, have honorably occupied.
 

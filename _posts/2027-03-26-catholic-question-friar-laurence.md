@@ -6,15 +6,15 @@ date: 2027-03-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "catholicism", "friar-laurence", "catholic-question"]
 excerpt: "Critics have long asked how a Protestant audience read the Catholic world of Romeo and Juliet, where a friar, confession, and shrift all carry the plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-03-26
+lang: en
 ---
-
 Romeo and Juliet is a tragedy whose entire mechanism is Catholic. A Franciscan friar hears what amounts to confession, performs a sacramental marriage in his cell, devises a plan that depends on the secrecy of the confessional, and stands at the end to give the city its authorized account of the dead. None of this machinery is decorative. Remove the friar, the shrift, and the sacrament, and the plot does not merely lose colour; it stops. Yet the play was written in the middle of the 1590s for a London audience whose own country had abolished every one of those institutions two generations earlier: the friaries dissolved, auricular confession struck out of the national church's list of sacraments, sacramental marriage demoted from the count of the gospel sacraments, and friars surviving in print chiefly as figures of suspicion, lechery, and fraud. The Catholic question in Romeo and Juliet is the question of what a Protestant playwright was doing when he rebuilt that abolished world in Verona, kept it standing for five acts, and staffed its most sensitive office with the most trusted man on his stage.
 
-![Friar Laurence and the Catholic question in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence and the Catholic question in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The verdict argued here can be stated at the outset, because the evidence for it is cumulative and checkable. The play is neither a coded Catholic manifesto nor an anti-Catholic satire, and the local colour defence, while true as far as it goes, explains far less than it claims. What Shakespeare does is more exact than any of the three labels. He keeps the old religion's instruments standing and working: the shrift is a real appointment, the marriage is a real sacrament that binds the lovers in law and conscience, the friar is a real pastor whose counsel the young people seek because no other adult in Verona can be trusted with the truth. At the same time he quietly withdraws the promises those instruments were supposed to carry. Confession in this play produces secrets and stratagems, never absolution. The sacrament binds but cannot protect. The friar's final act of confession is made not to a priest but to a prince, in public, as evidence. The frame is Catholic, the handling is humane to the point of tenderness, and the theology is withheld with a consistency that cannot be accidental. The play's own last institutional word on its friar is a pardon spoken by the civil power: "We still have known thee for a holy man" (5.3). A satire does not end that way, and neither does a sermon.
 

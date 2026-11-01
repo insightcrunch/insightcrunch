@@ -6,15 +6,15 @@ date: 2027-05-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "performance-criticism", "theatre", "performance-criticism-living-text"]
 excerpt: "Performance criticism treats Romeo and Juliet as a living text remade in every staging, studying productions as readings as serious as anything on the page."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-05-07
+lang: en
 ---
-
 Performance criticism begins from an embarrassment that page-bound study prefers to ignore: the most consequential interpretations of Romeo and Juliet have not been written in books at all. They have been rehearsed, cast, choreographed, cut, and played before audiences, and most of them have vanished with the runs that housed them. When Peter Brook staged the play at Stratford in 1947 and cut the final reconciliation of the two houses, he published an argument about the ending more forceful than most journal articles of the decade: that the feud's peace is a formality the tragedy has not earned. When John Gielgud and Laurence Olivier alternated as Romeo and Mercutio at the New Theatre in 1935, a single production contained two incompatible accounts of both roles, and reviewers spent months adjudicating between them. Performance criticism is the discipline that takes such events seriously as criticism: it treats each production as a reading, each directorial choice as a claim about the text, and each staging decision as evidence that can be examined, compared, and argued with. Its founding document for this play is Harley Granville-Barker's preface in the Prefaces to Shakespeare, written by a director who approached the text as a score for voices and bodies rather than as a poem for the study. Its institutional charter came half a century later, when J. L. Styan named the stage-centred turn in Shakespeare studies "the Shakespeare revolution" and James C. Bulman's 1996 collection Shakespeare, Theory, and Performance gave the method its theoretical vocabulary.
 
-![A stage production of Romeo and Juliet treated as an act of criticism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A stage production of Romeo and Juliet treated as an act of criticism - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The verdict argued through this article is that performance criticism has earned its central claim, with one discipline imposed on it. The claim is that meaning in this play is made in performance and not merely illustrated there: the text of Romeo and Juliet underdetermines nearly everything that decides what an audience actually experiences, from the distance between a girl at a window and a boy in an orchard to the mechanics of the wound that kills Mercutio, and every production must settle those questions in ways that amount to interpretation. The discipline is the one forced on the method by its sharpest opponents: Lukas Erne's demonstration that Shakespeare also wrote for readers, and W. B. Worthen's warning that performance criticism betrays its own insight whenever it describes a staging as a reading of a text that remains the senior partner. A method that began by liberating the play from the page ends, at its best, in the position Jill Levenson built into her Oxford edition of the play: performance records and printed documents are two archives of the same work, and neither is complete without the other. The cliche this series tracks fixes the lovers inside a book, embalmed in admiration. Performance criticism restores the play to the place where it was always most alive and most argued about: a stage, in front of witnesses, on a particular night that will never recur.
 

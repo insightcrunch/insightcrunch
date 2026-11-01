@@ -6,15 +6,15 @@ date: 2027-04-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "disability-studies", "the-body", "disability-studies-reading"]
 excerpt: "Disability studies reads Romeo and Juliet for its bodies, medicine, and ideas of health, asking how the play imagines the able, the sick, and the drugged body."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-04-23
+lang: en
 ---
-
 Disability studies comes to Romeo and Juliet looking for a disabled hero and finds none, and that absence is the beginning of its argument rather than the end of it. No character in Verona carries a lasting impairment of the kind the criticism of Richard III is built on. What the play has instead is a city that processes bodies without pause: it diagnoses them, doses them, seals them indoors, prices their starvation, misreads their pulses, carries them wounded off the square, lays them out for inspection, and finally casts the two most famous of them in gold. The verdict of this article is that disability studies earns its place among the play's critical schools by shifting the object of study from the impaired body to the disabling arrangement. Verona disables. Its medicine names love a sickness and a daughter's refusal a disease; its law makes the sale of relief a capital crime and then starves the seller; its plague orders disable a healthy friar by locking a door; its households read a drugged girl as a corpse and act on the reading. The lovers die less from anything wrong inside their bodies than from the machinery Verona builds around bodies, and the play says so in its own vocabulary of sickness, physic, poison, and cure.
 
-![The bodies of Verona under the disability lens, the drugged, wounded, and gilded figures of the tragedy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The bodies of Verona under the disability lens, the drugged, wounded, and gilded figures of the tragedy - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The argument proceeds by the play's own sequence of managements, because Shakespeare arranged the bodies in an order that is itself instructive. Act 1 diagnoses: a son's melancholy observed and reported, a daughter's age computed by her nurse. Act 2 prescribes: the eye's infection treated by a rival infection, the blood's disorder treated by a wedding. Act 3 wounds and sentences: a fatal scratch in the square, a bridegroom's temper read in his tears, an exile imposed on the body that dealt the wound. Act 4 counterfeits: a corpse manufactured to specification and certified by the household that commissioned the reading. Act 5 inspects and disposes: a messenger disabled by suspicion, a poison purchased from a starved body, corpses laid out for the city's examination, monuments promised in gold. Diagnosis, prescription, wound, counterfeit, inquest: the disability reading follows that order because it is the order in which Verona itself processes flesh into meaning, and because each stage hands the next its instruments.
 

@@ -6,15 +6,15 @@ date: 2027-06-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "rene-weis", "arden-edition", "weis-arden-third"]
 excerpt: "Rene Weis edited the Arden Third Series Romeo and Juliet, an edition that brings modern scholarship on the play's texts, sources, and afterlife to readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-06-25
+lang: en
 ---
-
 Every generation of readers meets *Romeo and Juliet* inside an edition, and the edition decides far more than spelling. It decides which of the rival early texts supplies the words, how much of the lost first quarto is allowed back into the play, where the notes push the eye, and whose story the introduction says the tragedy is. Since 2012 the scholarly meeting place for the play has been the Arden Third Series volume edited by Rene Weis, Professor of English at University College London, and the volume earns that standing by two acts of restitution that no predecessor attempted together. Weis treats the first quarto of 1597, for two centuries dismissed as a stolen and garbled text, as a document with authority of its own, the record of the play in performance, and he builds from it freely. At the same time his introduction argues, in the publisher's summary of his case, that the play is ultimately Juliet's, and it reorganizes the whole account of the tragedy around her. Those two restitutions, of a text and of a heroine, are the edition's signature, and they survive the sharpest review the volume received. Emma Smith, writing in *The Review of English Studies*, called the book Janus-faced, modern in its feeling for performance and afterlife, old-fashioned in its eclectic text. The charge is accurate as description and wrong as verdict. Weis's eclecticism is not nostalgia. It is the working method of an editor who had already spent a career refusing to let one witness silence another, and its inconsistencies, which are real, sit at the level of single lines rather than at the level of the edition's design.
 
-![The Arden Third Series Romeo and Juliet edited by Rene Weis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Arden Third Series Romeo and Juliet edited by Rene Weis - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The verdict argued through this article is therefore double. As a reading text and a teaching instrument, Weis's edition is the most complete single volume the play has had, because it joins a Q2-based text saturated with the first quarto's stage life to an introduction that gives students the play's poetry, its four-day clock, its stage and screen afterlife, and a facsimile of the 1597 quarto itself in an appendix. As a piece of bibliographical reasoning, it is less systematic than its own learning deserves, and at three or four famous places its editor intervenes in the words without printing the argument that would justify the intervention. Both halves of that verdict matter. An edition is the form in which scholarship reaches readers who will never open a textual monograph, and Weis understood the responsibility in those terms. What follows examines the editor he was before this play, the textual policy he brought to it, the decisions where his judgment is most exposed, the introduction's Juliet, the clock he builds under the action, his handling of sources and commentary, the afterlife he records, and the disagreement among his reviewers, before the evidence is gathered into the InsightCrunch Weis profile.
 

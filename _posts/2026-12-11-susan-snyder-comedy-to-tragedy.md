@@ -6,17 +6,17 @@ date: 2026-12-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-landmark", "susan-snyder", "genre", "snyder-comedy-to-tragedy"]
 excerpt: "Susan Snyder argued that Romeo and Juliet begins as a comedy and turns tragic at Mercutio's death, a reading that reshaped how its structure is understood."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-12-11
+lang: en
 ---
-
 ## Susan Snyder's Thesis: A Tragedy the Play Becomes, Not One It Simply Is
 
 Susan Snyder's reading of Romeo and Juliet rests on a single grammatical distinction with structural consequences large enough to reorganize the criticism of the play. Other tragedies, she argues, are tragic from their foundations; this one becomes tragic, partway through, in full view of the audience. The action opens inside the recognizable machinery of romantic comedy: a young man cured of a Petrarchan infatuation, two old men whose quarrel functions as an obstacle rather than a curse, a masked feast at which the right girl appears, a witty companion whose talk outruns every situation, a go-between nurse, a helpful friar. Then, in a street fight that lasts a few dozen lines, the machinery breaks. Mercutio dies jesting, Romeo kills the man he had refused to fight an hour earlier, and every device the comedy supplied, the letter, the potion, the secret wedding, the helpful elder, starts producing corpses instead of marriages. The verdict argued through this study is that Snyder's account remains the most powerful structural explanation of the play ever offered, because it explains not only the felt change of weather at the duel but also the play's oldest critical embarrassment, the way its catastrophe depends on accident rather than on character. Where the reading needs correction, the correction comes from inside its own logic: the comic matrix is not discarded at the hinge but carried forward under new management, and Snyder's book, taken whole, says nearly that. The essay's sharper slogans invite a cleaner turn than the play performs; the book's deeper concept survives the complication.
 
-![Susan Snyder and the comedy-to-tragedy reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Susan Snyder and the comedy-to-tragedy reading - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The standing question behind the reading is the one the series takes up in its study of [The Genre Problem: A Comedy That Turns Tragic](/2022/02/25/romeo-and-juliet-genre-comedy-to-tragedy/): why a play whose deaths are announced in its first fourteen lines spends two acts behaving like the comedies Shakespeare was writing in the same years. Before Snyder, the usual answers were tonal. The early scenes were called relief, or youthful exuberance, or the playwright's immaturity showing. Snyder replaced tone with structure. Her claim is not that the first movement feels comic but that it is built as a comedy, from comedy's parts, running on comedy's rules, and that the tragedy is what happens when those rules are withdrawn while the parts are still on stage. That distinction, between a comic colouring and a comic construction, is the reading's engine, and it is why the reading could be tested, contested, and taught for half a century while vaguer accounts of the play's mixture faded. A claim about structure can be checked scene by scene; a claim about atmosphere can only be agreed with. Snyder gave the genre debate something it had never had: a mechanism.
 

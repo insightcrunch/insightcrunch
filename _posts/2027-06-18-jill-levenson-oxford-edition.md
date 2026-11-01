@@ -6,17 +6,17 @@ date: 2027-06-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "jill-levenson", "oxford-edition", "levenson-oxford"]
 excerpt: "Jill Levenson's Oxford edition of Romeo and Juliet earns its authority from its detailed performance history and its bold handling of the two early quartos."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2027-06-18
+lang: en
 ---
-
 ## The Verdict First: Why the Oxford Edition Settled the Text
 
 Jill Levenson's Oxford edition of Romeo and Juliet, published by Oxford University Press in 2000, is the edition against which every rival text of the play is measured, and the reason can be stated in one sentence: Levenson was the first editor of the play to refuse both of the easy settlements on offer, declining to bury the short 1597 quarto as a corrupt report and declining to patch the long 1599 quarto into a composite that no early printer ever produced. Where her predecessors chose between the two early texts, or conflated them into a third, Levenson printed both, each modernized, each complete, and each treated as an independent witness to what her introduction calls a mobile text. The verdict argued through this article is that the decision was right, that it has worn better than the conflations printed since, and that the edition's second great act, the reconstruction of the play's performance history from some 170 promptbooks, gives its text an authority no competitor matches: this is an edition built from the play's whole life, on the page and on the stage, rather than from one document privileged in advance.
 
-![Jill Levenson and the Oxford edition of Romeo and Juliet, with the two early quartos - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jill Levenson and the Oxford edition of Romeo and Juliet, with the two early quartos - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The word settlement, applied to this edition, has a specific content for each constituency it served. For textual scholars it settled the legitimacy of the short quarto as a printable whole: after Levenson, the live question was no longer whether the 1597 text deserved print but what any given study would do with it. For theatre historians it settled the standing of promptbook evidence, which her archive raised from anecdote to data set, catalogued, counted, and deposited where other scholars could test it. For ordinary scholarly readers it settled the default: the Oxford volume became the edition in which the play's doubleness is not a scandal to be managed but the first fact to be learned. Settlements of this kind are not eternal, and Levenson's is already being revised at its edges by editors who conflate where she separated and by scholars who press a single genealogy where she stayed agnostic. A settlement is recognisable, all the same, by the way later work writes from inside it, and the decades since the edition appeared have produced editions, essays, and productions that assume her frame even while contesting her conclusions. The article that follows tests the settlement against the documents: the two quartos, the promptbook archive, the introduction's reading, the reviewers' verdicts, and the successor editions that defined themselves against her.
 

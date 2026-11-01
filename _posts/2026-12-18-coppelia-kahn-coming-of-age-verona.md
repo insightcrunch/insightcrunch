@@ -6,17 +6,17 @@ date: 2026-12-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-landmark", "coppelia-kahn", "feminist", "kahn-coming-of-age"]
 excerpt: "Coppelia Kahn read Romeo and Juliet as a story of coming of age inside a violent patriarchy, where the feud shapes masculine identity and endangers the lovers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-12-18
+lang: en
 ---
-
 ## What Did Coppelia Kahn Argue in "Coming of Age in Verona"?
 
 Coppelia Kahn's "Coming of Age in Verona," published in Modern Language Studies in the winter of 1977-78, is the essay that relocated the tragedy of Romeo and Juliet from the stars to the street. Its opening sentence refuses the romance outright: the play, Kahn writes, is about a pair of adolescents trying to grow up. Growing up, in her account, means separating from parents by forming a bond with a partner that supersedes the claims of the household, and Verona is arranged to make that ordinary task lethal. The milieu she names is patriarchal in a precise sense, organized around the father: his name, his honor, his house, his power to dispose of children in marriage and to demand sons in his quarrels. Kahn's central claim is that the feud, understood as a social mechanism rather than as an agent of fate, is the primary tragic force in the play, an extreme and peculiar expression of a patriarchal society that Shakespeare shows to be tragically self-destructive. The verdict of this article is that she is right about the mechanism and that the essay remains the founding landmark of the play's modern gender criticism: every serious account of masculinity, patriarchy, or adolescence in Romeo and Juliet written since passes through Kahn's Verona, including the accounts that correct her.
 
-![Verona's fathers and sons in Coppelia Kahn's coming-of-age reading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Verona's fathers and sons in Coppelia Kahn's coming-of-age reading - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The essay's afterlife confirms the landmark status. Reprinted in The Woman's Part: Feminist Criticism of Shakespeare in 1983, the founding anthology of the field edited by Carolyn Ruth Swift Lenz, Gayle Greene, and Carol Thomas Neely, it reached the generation of feminist scholars then remaking Renaissance studies. Kahn herself carried the argument into her first book, Man's Estate: Masculine Identity in Shakespeare (1981), where the Romeo and Juliet material forms the fourth chapter, "Coming of Age: Marriage and Manhood in Romeo and Juliet and The Taming of the Shrew," and where the play's conflict is stated as a war between two definitions of manhood: manhood as violence on behalf of the fathers, and manhood as separation from the fathers through sexual union with women. Between the journal essay, the anthology, and the book, Kahn built the framework inside which the feud stopped being scenery and became the subject.
 

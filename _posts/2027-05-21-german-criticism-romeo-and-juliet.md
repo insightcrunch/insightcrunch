@@ -6,17 +6,17 @@ date: 2027-05-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "german-criticism", "reception", "german-criticism-of-the-play"]
 excerpt: "German criticism made Romeo and Juliet almost a national possession, from Schlegel's Romantic reading and translation to a deep modern scholarly tradition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-05-21
+lang: en
 ---
-
 ## The Play in German Criticism: The Verdict in Advance
 
 German criticism did not merely receive Romeo and Juliet. It rebuilt the play a second time, in another language, and then spent two centuries arguing about what it had made. The verdict of this article is that the German tradition is the most consequential foreign reception the play has anywhere had, and that its consequence rests on labour rather than on the blood-kinship its loudest champions claimed. Three German acts decided the matter. August Wilhelm Schlegel read the tragedy as a single organism whose every part served one impression of love against hate, and he translated it into verse that Germans could mistake for an original. The nineteenth century then institutionalized that reading: a complete corpus, a learned society founded at Weimar in 1864, a yearbook, a university philology, an editor in Nikolaus Delius who edited the English text from its originals on German soil. The twentieth century, finally, corrected the inheritance from inside, when Levin Ludwig Schücking demanded history instead of rapture, when the theatres rebelled against the canonical translation, and when Wolfgang Clemen rebuilt the study of the play's imagery on developmental evidence.
 
-![Romeo and Juliet in German criticism, from the wandering stage to the Weimar society - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet in German criticism, from the wandering stage to the Weimar society - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 Each act carried a distortion inside its achievement, and this article weighs both. Schlegel's canonization fixed the lovers as lyric absolutes and pushed Verona's civic machinery, the feud, the marriage market, the friar's casuistry, toward the margin of German attention. The national claim that crested in 1864 and again in Friedrich Gundolf's Shakespeare und der deutsche Geist of 1911 confused adoption with ancestry, and the confusion had to be dismantled by the tradition's own scholars before the tradition could be trusted. What survives the dismantling is the stronger thing: Roger Paulin's conclusion, in The Critical Reception of Shakespeare in German 1682-1914, that Shakespeare can without further ado be called a German classic, akin to Goethe or Schiller. Paulin's sentence is a finding about work done, translations made, editions printed, societies kept, schools stocked, and it stands precisely because it needs no metaphysics of the German spirit to support it.
 

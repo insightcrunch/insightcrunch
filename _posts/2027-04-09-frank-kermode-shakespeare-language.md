@@ -6,19 +6,19 @@ date: 2027-04-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "frank-kermode", "language", "kermode-language"]
 excerpt: "Frank Kermode's study of Shakespeare's language placed Romeo and Juliet among the early plays, where rhetorical brilliance had not yet given way to maturity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-04-09
+lang: en
 ---
-
 ## Where Does Kermode Place the Play in Shakespeare's Development?
 
 Frank Kermode's *Shakespeare's Language*, published in 2000, places Romeo and Juliet firmly among the early works: a play of the middle 1590s, written before the great change that Kermode detects in Shakespeare's verse around 1600, and therefore a supreme example of the manner that change displaced. In the early manner, as the critic describes it, verse is patterned before it is pressured. Lines tend to complete themselves, rhymes arrive on schedule, speeches are built as set pieces that an audience can admire as feats, and the characteristic figure is antithesis: love against hate, light against dark, youth against age, each term balanced against its opposite in symmetrical clauses. The lovers' first speeches could be lifted from the action and read as poems, because in a strict sense they are poems, sonnets and conceits inserted into a play that has not yet learned, or not yet chosen, to make its verse think.
 
 That placing is the starting point of this article, and the verdict can be stated at once. Kermode's map is right and his ranking is wrong. The description survives every test that editors and metrists have applied to the text: the play is saturated with rhyme to a degree no later tragedy approaches, its big speeches are disproportionately formal, and its verse does move by balanced period and completed line rather than by the broken, elliptical, mid-course syntax of Hamlet or King Lear. What does not survive scrutiny is the value sign attached to the description. To call this manner early, in Kermode's scheme, is to call it preliminary, a brilliance awaiting discipline, and the play itself refutes the demotion. Romeo and Juliet is not a tragedy that happens to be written in the decorative style of its decade. It is a tragedy about that style: about young people imprisoned in received forms of speech, learning at terrible speed which forms can carry feeling and which collapse under it, while the older generation speaks nothing else. The formality Kermode files under youth is the play's subject, its mechanism, and finally its indictment.
 
-![Frank Kermode and Shakespeare's language in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frank Kermode and Shakespeare's language in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The argument that follows proceeds in the order the evidence demands. It first establishes what Kermode wrote, where the play actually sits inside *Shakespeare's Language*, and what his developmental scheme claims. It then tests the scheme against the text scene by scene, against Harry Levin's rival account of the same formality, against Caroline Spurgeon's census of images, against the defence of the early style mounted by Russ McDonald, and against the practical verdict of the editors who print the play. The complication named in every serious discussion of Kermode, whether a developmental history of a style must undervalue whatever comes first in it, is faced directly at the end. The conclusion reached there is a split one, and it is defended throughout: keep Kermode's chronology, discard his ladder.
 

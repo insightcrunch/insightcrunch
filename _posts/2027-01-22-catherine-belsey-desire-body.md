@@ -6,17 +6,17 @@ date: 2027-01-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "catherine-belsey", "desire", "belsey-desire-body"]
 excerpt: "Catherine Belsey read Romeo and Juliet through desire, the body, and naming, asking how the play represents a love caught between language and physical longing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-01-22
+lang: en
 ---
-
 ## Catherine Belsey and the Play That Liberal Humanism Loves Too Easily
 
 Catherine Belsey's reading of Romeo and Juliet begins by refusing the compliment the play is usually paid. The compliment runs that the tragedy shows love in its natural state: two young people feel something immediate, bodily and self-evident, and a corrupt social order of feuding fathers and arranged marriages crushes the feeling from outside. On that account the play needs no theory, because desire explains itself, and criticism's task is to sympathize. Belsey's verdict, built across a career that runs from Critical Practice (1980) through her essay "The Name of the Rose in Romeo and Juliet" (1993) to the book-length Romeo and Juliet: Language and Writing (2014), is that the compliment mistakes the play's construction for nature. What audiences take to be spontaneous passion arrives in the play already written: in sonnet form, in Petrarchan oxymoron, in names inherited from a feud, in speeches whose conventions precede the speakers. Her reading asks how the play represents a love caught between language and physical longing, and her answer is the most unsettling one modern criticism has produced about this tragedy: desire in Romeo and Juliet is not a natural force that language expresses but an effect that language produces, and the body the lovers keep reaching for is reachable only through the words that fail to deliver it.
 
-![Catherine Belsey's reading of desire and the body in the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Catherine Belsey's reading of desire and the body in the play - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The verdict this article reaches, after testing her argument against the text and against the critics who contest it, is that Belsey's reading is the indispensable account of what the play's love is made of, and an incomplete account of what that love feels like from inside a theatre. She is right about the naming, right about the borrowed rhetoric, and right about the ending, where two bodies are converted into golden statues and a story told by survivors. She is less complete on the orchard scene's local miracles of adjustment, where Edward Snow hears two speakers building a shared idiom rather than reciting scripts, and on the legal fact Susan Snyder restores to Juliet's name speech, the early modern marriage that really did rename a wife. The essay's deepest claim survives both corrections: the play stands early enough, as Belsey puts the point in her essay's opening movement, on the edge of the Enlightenment structures that would later install the autonomous, self-transparent subject, and so the tragedy can still show that subject being assembled out of names, conventions and other people's sentences. Romeo and Juliet, for Belsey, is not the charter myth of romantic love. The play is the place where the myth's machinery remains visible.
 
