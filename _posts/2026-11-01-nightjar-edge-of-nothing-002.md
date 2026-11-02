@@ -6,19 +6,19 @@ date: 2026-11-01
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "An Accord auditor is held in her own rooms in Melora by men who have not decided her fate, and one room in the courts annex holds a line where weight stops."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 115
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-01
+lang: en
 ---
-
 ## The Report She Would Not Send
 
 The kitchen smells of boiled grain and the iron tang of the tap, and beyond the thin wall the stairwell carries the damp smell of coats hung too close together. Morning light comes through the one window in a flat grey sheet and lays itself over the table, over her hands, over the cup gone cold beside the paper. From where she sits Inez Calloway can hear the building settle, pipe by pipe, and she can hear the small locked click of her own back service door whenever the draught moves in the passage behind the kitchen. That door has a voice of its own, a loose tongue in its frame, and she has learned its hours the way she once learned the hours of a hearing list. It clicks when the baker below opens his yard gate. It clicks when the wind comes up from the lower streets. It does not click for a key, not yet, and she notes that in the private ledger she keeps in her head because no other ledger is safe.
 
 She writes at the kitchen table because they let her write, and because writing is what an auditor does when she is frightened and wishes to remain a person with habits. The paper is from her own drawer, ruled, the blue lines faint. The pen is hers too, its nib slightly sprung from years of pressure at the same angle. She writes slowly, not from hesitation but from method. A facilities audit memo wants nouns before it wants judgments. It wants measurements, door widths, the state of a latch, the condition of a floor where trolleys pass. She gives it those things first. She describes the courts annex as she found it on her last complete round, corridor by corridor, because order is a form of patience and patience has kept her fed and unhurt through the long hours in this chair.
 
-![A shuttered apartment above a market street in Melora, an unfinished report on a kitchen table - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A shuttered apartment above a market street in Melora, an unfinished report on a kitchen table - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The chair is the second chair from the window, the one with the repaired rung and the seat that has taken the shape of work done at this table through many ordinary evenings. She has sat in it for long hours now, longer than any sitting she ever kept in a hearing, and her body has made its inventory without being asked. Her left foot finds the rung. Her back knows where the upright presses. Her shoulders know not to rise when a voice behind her sharpens. She shifts only when her hand cramps, and then she flexes her fingers under the table where the movement will not be mistaken for anything else. To be still without being frozen is a skill. She practices it the way she practiced double entry at the start of her training, by attention and by repetition, until the practice holds her instead.
 
