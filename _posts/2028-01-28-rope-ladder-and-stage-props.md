@@ -6,17 +6,17 @@ date: 2028-01-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "stage-props", "rope-ladder", "rope-ladder-props"]
 excerpt: "Small props carry large weight in Romeo and Juliet, from the rope ladder for the wedding night to the friar's vial, the poison, and the fatal daggers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-01-28
+lang: en
 ---
-
 ## The Verdict First: A Tragedy Executed by Hand Props
 
 The rope ladder is the most famous stage property in Romeo and Juliet, and the play never once uses it. The cords are ordered with precise nautical relish in Act 2, carried on stage in Act 3, thrown down, wept over, apostrophized, and taken up again, all in full view of the audience. The climb they were built for happens offstage, between scenes, in the dark the play declines to stage. That single fact, properly weighed, reorganizes the whole question of how this tragedy works. Romeo and Juliet is a play whose plot is executed almost entirely by hand properties: a ladder that is never climbed, a vial that is drunk on schedule, a letter that never arrives, a ring that does, an iron crow ordered for a rescue and a second crow carried to a violation, a dagger that changes owners at the moment of death. Swords settle the feud in public, but objects settle the love story in private, and the catastrophe, when it comes, is a failure of delivery. A prop misses its destination by a few hours, and two households bury their children.
 
-![The rope ladder and the play's hand properties - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rope ladder and the play's hand properties - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The argument of this article is that the properties of Romeo and Juliet fall into three classes, and that the tragedy lives in the gaps between them. The first class is shown but never used: the rope ladder, the mattock and crow of iron at the tomb, the golden statues that are vowed and never built. The second class is used but barely shown: the Friar's letter, which spends the play in transit and in quarantine, and Tybalt's written challenge, which reaches the audience as gossip rather than paper. The third class is shown and used, the travellers: the ring, the vial, the Friar's crow, and Romeo's dagger, small objects that complete journeys from hand to hand and arrive charged with everything their journeys have done to them. Andrew Sofer, whose The Stage Life of Props (2003) remains the standard account of how properties mean, defines a prop as an object that goes on a journey, tracing a spatial trajectory and a temporal narrative through a performance. This play tests that definition to destruction, because its most eloquent objects are the ones whose journeys are interrupted, refused, or never begun.
 

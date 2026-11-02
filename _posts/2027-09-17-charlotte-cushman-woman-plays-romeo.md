@@ -6,15 +6,15 @@ date: 2027-09-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "charlotte-cushman", "breeches-role", "cushman-as-romeo"]
 excerpt: "The American actress Charlotte Cushman played Romeo to wide acclaim, her powerful performance opposite her sister Susan as Juliet drawing admiring crowds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-09-17
+lang: en
 ---
-
 Charlotte Cushman played Romeo as no actor of her century, male or female, finally matched, and the American actress did it by refusing every term on which a woman in the part was supposed to be forgiven. She did not present the lover as a novelty, a burlesque turn, or a glimpse of legs in tights. She presented him as the tragedy's engine: ardent in the balcony, lethal in the street fight, broken in the Friar's cell, and annihilated in the tomb, played at full tragic weight opposite her own sister as Juliet. The verdict defended through this article is that her Romeo stands as the nineteenth century's most consequential assumption of the role, because it changed three things at once. It restored Shakespeare's ending to the stage in 1845 after the long reign of Garrick's adaptation. It proved that the part's mixture of tenderness and violence, the very mixture the text keeps naming as a gender puzzle, could be carried by a woman more completely than by the leading men of the age. And it left a documentary trail, in reviews, portraits, letters, and playbills, rich enough that scholars still fight over what her audiences saw in her, which is the surest sign that the performance mattered beyond its evenings.
 
-![Charlotte Cushman in costume as Romeo beside Susan Cushman as Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Charlotte Cushman in costume as Romeo beside Susan Cushman as Juliet - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The bare chronology already rebukes the cliché that fixes Romeo as a young man's part and treats every other casting as an experiment. Cushman first played the role in Albany in the later eighteen-thirties, a provincial proving ground far from metropolitan scrutiny. She carried it to London in December 1845, opposite Susan Cushman, and made it the sensation of a season in the capital that had invented the modern Shakespearean stage. She played it across Britain and America for three decades, opposite a succession of Juliets, in theatres that billed her name above the title. When the Illustrated London News reviewed her Romeo at the Haymarket in 1855, a full decade after the London triumph, its judgment was comparative and absolute at once: for force and passion, the performance exceeded that of any male performer, and yet avoided exaggeration. A verdict of that kind, printed in the era's great illustrated paper about a woman in a breeches role, is not a courtesy. It is a surrender document, signed by the critical establishment of the day.
 

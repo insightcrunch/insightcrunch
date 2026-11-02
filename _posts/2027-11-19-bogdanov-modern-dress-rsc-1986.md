@@ -6,15 +6,15 @@ date: 2027-11-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "michael-bogdanov", "modern-dress", "bogdanov-rsc-production"]
 excerpt: "Michael Bogdanov's RSC Romeo and Juliet set the play in a modern Italy of sports cars and wealth, reading the feud as a story of money, media, and power."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-11-19
+lang: en
 ---
-
 Michael Bogdanov brought his modern-dress Romeo and Juliet to the Royal Shakespeare Theatre at Stratford in the spring of 1986, and the production remains the sharpest political reading of the tragedy staged by the Royal Shakespeare Company in its decade. Sean Bean played Romeo and Niamh Cusack played Juliet in a Verona of marble, chrome and designer tailoring, where Tybalt drove a red Alfa Romeo sports car, the Friar arrived on a motorbike, Romeo died by a hypodermic needle bought from a drug dealer, and the golden statues promised by the fathers in the final scene stood unveiled before an invasion of press photographers. The verdict of the staging was stated in objects rather than speeches. The feud was a contest of wealth and display conducted by rich households whose children were assets, and the lovers died inside an economy that then converted their corpses into publicity. The production clarified the play by taking its money seriously.
 
-![Michael Bogdanov's modern-dress RSC production of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Michael Bogdanov's modern-dress RSC production of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The argument of the staging can be recovered from the record with unusual completeness, because the Royal Shakespeare Company's own production archive preserves the cast, the design team, the contemporary reviews and the production's signature images. Chris Dyer designed the set, Ginny Humphreys the costumes, Chris Ellis the lighting and Hiroshi Sato the music. Michael Kitchen played Mercutio, Hugh Quarshie played Tybalt, Martin Jacobs played Benvolio, Dilys Laye played the Nurse, Robert Demeger played Friar Lawrence, Richard Moore played Capulet and David Glover played Prince Escalus. Against that documented company, the sections that follow test the production scene by scene: the wager of the modern dress, the marble city Dyer built, the wealth that Capulet embodied, the plainness of the two lovers, the car that organized the street fighting, the needle that replaced the poison, the ending that refused reconciliation, the quarrel among the critics, the transfer to London, and the place of the staging in the longer history of dressing Shakespeare in the clothes of the audience's own time. The production's reputation as a scandal survives in the record. Its reputation as an interpretation is stronger, and the evidence for that stronger claim is what the staging itself left behind.
 

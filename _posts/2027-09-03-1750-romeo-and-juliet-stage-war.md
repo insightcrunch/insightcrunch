@@ -6,15 +6,15 @@ date: 2027-09-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "stage-war", "garrick-and-barry", "rival-romeos"]
 excerpt: "Two London theatres once staged Romeo and Juliet against each other night after night, in the famous rivalry remembered as the great stage war of the Romeos."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-09-03
+lang: en
 ---
-
 In the autumn of 1750, the Romeo and Juliet stage war gave London a spectacle no repertory system was built to produce: the same tragedy, in the same adaptation, played on the same nights by the only two theatres licensed to stage it, with David Garrick at Drury Lane facing the two stars he had lost, Spranger Barry and Susannah Cibber, at Covent Garden. For twelve nights the town had to choose a house before it could see the lovers, and the choice became a public argument about acting itself. The verdict this article defends is precise. Barry took the palm for Romeo, Cibber kept the tragic palm for Juliet, Bellamy took the town's vote for charm, and Garrick lost the acting contest while winning everything that lasted: the text, the receipts model, and the play's permanent place as box-office property. The true victor of the stage war was the tragedy, which walked out of a fortnight of commercial combat converted from a repertory piece into an event.
 
-![The rival Romeos of 1750 at their two patent theatres - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rival Romeos of 1750 at their two patent theatres - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The war matters because it exposes what the play had become by the middle of the eighteenth century. A century and a half after its first performances, the tragedy of the star-crossed lovers was not a monument to be revered at a distance. It was an asset two businesses were willing to spend a season's goodwill fighting over, a property strong enough to fill two large houses against each other on identical nights. The Chorus opens the play with the words "Two households, both alike in dignity" (Prologue, line 1, in the Folger Shakespeare text), and in 1750 London supplied the matching image in its own streets: two playhouses, both alike in dignity, breaking from ancient grudge to new mutiny over the profits of the feud itself. What follows examines the contest as an event: how the duopoly of the patent theatres made it possible, how the defections of Garrick's leading players made it personal, how the twelve nights ran, how the two Romeos and the two Juliets divided the town, what the press made of the quarrel, and what the whole episode proves about the play's standing in its century.
 

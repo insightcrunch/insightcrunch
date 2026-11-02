@@ -6,12 +6,12 @@ date: 2027-08-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "elizabethan-stage", "original-staging", "elizabethan-staging"]
 excerpt: "On the Elizabethan stage Romeo and Juliet played in daylight on a bare platform, with boy actors, an upper level, and the audience's imagination doing the work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-08-06
+lang: en
 ---
-
 ## A Bare Platform in Daylight: The First Staging and Its Verdict
 
 Romeo and Juliet began its stage life in conditions almost opposite to the ones its fame has built for it. The Elizabethan stage that first carried the tragedy was an open-air platform in a London amphitheatre, lit by the afternoon sky, ringed on three sides by standing spectators, and furnished with little more than two doors, an upper playing level, a curtained space, a trap, and the bodies of a dozen or so actors. On that platform a company of grown sharers and hired men, with boys playing Juliet, the Nurse's mistress and every other woman in Verona, ran the whole catastrophe in roughly the span the Prologue advertises, without scenery, without intervals, and without darkness for the night scenes on which the love story depends.
@@ -22,7 +22,7 @@ The reconstruction offered here observes a discipline that the subject demands a
 
 One error must be cleared before the rebuilding starts, because it sits at the door of almost every popular account. The play was not written for the Globe. The Globe rose on Bankside in 1599, assembled from the timbers of an older house, and it inherited Romeo and Juliet as an established repertory piece. The tragedy's first home stood north of the river, in the Shoreditch playhouse district, in either the Theatre or the Curtain, the two amphitheatres the Lord Chamberlain's Men used in the middle 1590s. The point matters beyond pedantry. The myth of a purpose-built Globe original flatters the play with a monument; the record gives it something more interesting, a working repertory production mounted by a young company in leased rooms, revised in print within two years of its first appearance, and popular enough by 1597 for a publisher to advertise its applause on a title page. The cliche imagines a scenic balcony inside a famous round building. The documents describe a platform, a window, and an audience close enough to be splashed.
 
-![The Elizabethan stage of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Elizabethan stage of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## The InsightCrunch Original-Staging Reconstruction
 

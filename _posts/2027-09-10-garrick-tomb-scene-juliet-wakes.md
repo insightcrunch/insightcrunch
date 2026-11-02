@@ -6,15 +6,15 @@ date: 2027-09-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "garrick", "tomb-scene", "garrick-tomb-scene"]
 excerpt: "Garrick's tomb scene let Juliet wake before Romeo died, adding an agonized dialogue of reunion that thrilled audiences and held the stage for a hundred years."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-09-10
+lang: en
 ---
-
 In the ending Shakespeare wrote, the lovers never speak again after the orchard farewell and the parting at dawn. Romeo dies in the Capulet vault believing the still body beside him to be a corpse, and Juliet wakes to find a corpse in place of the husband she expected. In the ending David Garrick built for the stage of Drury Lane, that silence is broken. Garrick's tomb scene, first played in 1748 and printed in 1750 as the additional scene of his altered text, lets Juliet wake after Romeo has swallowed the poison and before the poison finishes its work, and it gives the pair a long, anguished conversation that Shakespeare withheld from them. The change is the most famous single alteration in the whole history of the play on stage, and it held the English and American stage for roughly a century, shaping how generations of playgoers understood what kind of tragedy this was. The wider account of [David Garrick's Adaptation of 1748](/2027/08/27/david-garrick-adaptation-1748/) treats the whole altered version, its cuts, its funeral procession, and its removal of Rosaline; the concern of the present study is the one scene, examined as a piece of writing, a piece of stagecraft, and a piece of interpretation.
 
-![The Capulet tomb in Garrick's altered ending, with Juliet waking as Romeo dies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet tomb in Garrick's altered ending, with Juliet waking as Romeo dies - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The verdict reached here can be stated plainly at the outset. Garrick's added dialogue is accomplished theatre and diminished tragedy at the same time. As theatre, it converts a catastrophe the audience watches in helpless knowledge into a catastrophe the victims themselves come to understand, and it hands two performers a sustained duet of recognition, hope, error corrected, and hope extinguished, played against a clock of poison that every person in the house can feel running down. As tragedy, it spends the play's hardest asset, the irony of a rescue arriving minutes too late, and it purchases tears with a consolation Shakespeare refused: the lovers die, but they die knowing, absolved of the final misunderstanding, folded into a farewell. Garrick understood exactly what the alteration bought and what it cost, because his own printed Advertisement defends the scene as a restoration rather than an invention, tracing the waking to Bandello's Italian novella and to Thomas Otway's Roman adaptation before it. That defence is half honest. The device was old when Garrick took it up, and the dialogue he wrote for it was mostly his own, but the credit he claimed for supplying a failure of Shakespeare's was credit for answering a wish that Shakespeare, on the evidence of the text, had deliberately declined to answer.
 

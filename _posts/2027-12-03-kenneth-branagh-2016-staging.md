@@ -6,15 +6,15 @@ date: 2027-12-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "kenneth-branagh", "modern-staging", "kenneth-branagh-theatre-company"]
 excerpt: "Kenneth Branagh's London Romeo and Juliet, styled after mid-century Italian cinema, paired star casting with a glamorous Verona and a witty, aged Mercutio."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-12-03
+lang: en
 ---
-
 Kenneth Branagh's 2016 staging of Romeo and Juliet at the Garrick Theatre in London was the most publicised British production of the play of its decade, and it remains the clearest modern test of a single question: what happens to the tragedy when a director thinks like a film-maker, casts like a studio, and rebuilds Verona as a set from mid-century Italian cinema? The Kenneth Branagh Theatre Company played the production from 12 May to 13 August 2016, co-directed by Branagh and Rob Ashford, with Richard Madden and Lily James as the lovers, Derek Jacobi, aged seventy-seven, as Mercutio, and Meera Syal as the Nurse. The verdict argued through this article is firm. The staging was a handsome, swift, starlit entertainment whose centre of gravity sat in the wrong generation: its design argued, its elders blazed, and its young people were asked to carry a tragedy whose engine is wasted youth while the production spent its boldest ideas on age. Then, on 7 July 2016, the same performance was relayed live to cinemas in black and white, and the calculation inverted. On screen, in monochrome close-up, the concept cohered. Branagh had built a film of the play inside a theatre production, and the two halves of that sentence each found a different audience.
 
-![Kenneth Branagh's Garrick staging of Romeo and Juliet, with its stone piazza and nineteen-fifties Italian styling - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kenneth Branagh's Garrick staging of Romeo and Juliet, with its stone piazza and nineteen-fifties Italian styling - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 ## A Season Built Like a Studio Slate
 

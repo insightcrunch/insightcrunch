@@ -6,15 +6,15 @@ date: 2027-07-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "new-criticism", "close-reading", "new-criticism-reading"]
 excerpt: "New Criticism read Romeo and Juliet as a self-contained verbal artifact, prizing its paradoxes, oxymorons, and image patterns over biography or history."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-07-16
+lang: en
 ---
-
 New Criticism gave Romeo and Juliet the most consequential rereading of the twentieth century without ever giving the play a book of its own. The school's central text, Cleanth Brooks's The Well Wrought Urn of 1947, builds its doctrine on ten poems and reaches Shakespeare through Macbeth alone. Yet the doctrine travelled. Once paradox, irony, tension, and the verbal icon had been named as the properties that make a literary work a work, the tragedy of the Veronese lovers became a test case the method could hardly avoid, because no play in English announces its own doubleness so openly. Its Prologue calls the lovers both star-crossed and death-marked in a single breath. Its hero opens his part with a catalogue of oxymorons. Its heroine answers a love scene with a string of oxymorons of her own, sharper than his. A method built to prize exactly those figures found, in this play, a structure that seemed to have been waiting for it.
 
-![New Criticism and the well-wrought play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![New Criticism and the well-wrought play - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The verdict argued here is measured and two-sided. New Criticism contributed the indispensable discipline of treating the play's language as its action: the antitheses are not decoration on a story about a feud, they are the feud rendered in grammar, and the light imagery is not ornament on the love, it is the love thinking about itself. Against that gain stand two losses the school's rivals named at the time and named correctly. R. S. Crane's charge of monism, the reduction of every work to one device, lands wherever a reading finds paradox because paradox was the only instrument in the case. Rosemond Tuve's historical objection lands wherever a reading assigns a word a meaning its century had not given it. Between the gain and the losses sits the figure who shows what the method could do at its best on this particular play: Harry Levin, whose essay of 1960 took the formalist instruments, loosened their dogma, and produced the reading of the play's formality against which later accounts still measure themselves.
 

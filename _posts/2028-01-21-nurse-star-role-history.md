@@ -6,17 +6,17 @@ date: 2028-01-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "the-nurse", "star-role", "nurse-star-role"]
 excerpt: "Across stage history the Nurse has been a coveted star role in Romeo and Juliet, a comic and tender part that great character actresses have made their own."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-01-21
+lang: en
 ---
-
 ## The Verdict First: A Servant's Part Built Like a Lead
 
 The Nurse is a star role, and the case does not rest on sentiment about great actresses rescuing a small part. It rests on the text's own arithmetic and on four centuries of casting behaviour. A servant who speaks the third-largest share of a tragedy, who appears in eleven scenes, who carries the plot's messages, its secret, and its moral collapse, is not support in any sense a casting office would recognize. The lovers have the poetry and the poster. The older woman has the play's machinery in her hands, and the actresses who built careers in the role, from the stock companies to the film studios, were not decorating the tragedy. They were occupying one of its three largest speaking assignments, an assignment written with a completeness most leads never receive: a childhood, a marriage, a bereavement, a profession, a philosophy, and a failure, all before the interval of Act 4.
 
-![The Nurse in performance across the centuries, a celebrated line of stage Nurses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse in performance across the centuries, a celebrated line of stage Nurses - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The verdict of this survey is therefore plain. The part attracts stars because it was built to hold one: its size is a lead's size, its range is wider than either lover's, its scenes are the ones audiences repeat on the way home, and its final exit, before the tomb, leaves a vacancy the last act never fills. The stage history traced here is a record of theatres repeatedly discovering that arithmetic, sometimes by design and sometimes by accident, when a character actress of the first rank took the role and the notices rearranged themselves around her. The complication is real and will be faced in its own section: a part this strong can tilt a production. But the tilt is a casting problem with a textual answer, because the playwright himself retires his Nurse before the final act and hands the catastrophe back to the young. What follows examines the material the role offers, the lineage of women who proved its drawing power, the critics who quarrelled over what the part means, and the mechanics by which a servant's role became a succession of dames, tragediennes, and film stars.
 

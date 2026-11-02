@@ -6,17 +6,17 @@ date: 2027-12-31
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-debate", "balcony-scene", "staging", "no-balcony"]
 excerpt: "The word balcony never appears in Romeo and Juliet, and the early texts call only for a window aloft, so the famous balcony is a later staging tradition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2027-12-31
+lang: en
 ---
-
 The most famous piece of scenery in Romeo and Juliet does not exist. The scene the world calls the balcony scene contains no balcony: the word appears nowhere in the play, and the early printed texts, the only witnesses with any claim on the playwright's intentions, ask for something smaller and stranger, a window with Juliet above it and Romeo hidden in the orchard below. The balcony arrived later, through a documented chain of custody that runs from an adaptation's printed direction through eighteenth-century stage practice into the illustrated editions and paintings that fixed the scene's picture for good. The verdict of the evidence is plain. Height belongs to the text. The window belongs to the text. The railed platform projecting from the wall, the object every postcard shows and every school edition names, belongs to the tradition, and the tradition's birthday can be dated.
 
 The distinction is not pedantry, because a balcony and a window do opposite theatrical work. A balcony is built for display: it projects outward, it presents its occupant to the street and the house, it turns a girl into a picture framed by a railing. A window is built for overhearing: it opens out of an interior the audience never sees, it can be withdrawn from in an instant, and it places its occupant half inside a private room and half inside the night. Shakespeare's scene runs on the second machine. Juliet speaks her most unguarded lines believing herself unheard, Romeo hears them from concealment, and the whole exchange depends on an architecture that lets her appear, vanish, and return while never once coming within his reach. Build the first machine instead, and the scene's engine has to be faked with lighting and convention.
 
-![Juliet at a window above the orchard wall, the famous scene staged without its balcony - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at a window above the orchard wall, the famous scene staged without its balcony - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 What follows works through the evidence in the order a stage manager would meet it. First the missing word and what its absence proves. Then the directions the early texts actually print, and the agreement between two quartos that agree on little else. Then the geometry the dialogue itself builds, the spoken measurements that fix how high Juliet stands and how far below her Romeo waits. Then the balcony's documented route into the tradition, the pictorial century that made it unkillable, and the nineteenth-century name that completed its conquest. The closing sections weigh the documented stagings that discarded the balcony, hear the strongest case for keeping it, and deliver a ruling: a production may build a balcony as an acknowledged interpretation, but no edition, textbook, or programme note may print one as Shakespeare's direction, because Shakespeare's direction is a window.
 

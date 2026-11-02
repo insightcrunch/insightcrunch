@@ -6,15 +6,15 @@ date: 2027-07-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "feminist-criticism", "overview", "feminist-criticism-overview"]
 excerpt: "Feminist criticism of Romeo and Juliet examines Juliet's agency, the marriage market, and the violent patriarchy of Verona, gathering several decades of debate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2027-07-09
+lang: en
 ---
-
 Feminist criticism of Romeo and Juliet begins from a refusal: the refusal to let the most famous love story in English literature be read as a story about two people and their feelings alone. Behind the lovers stands a city. In that city a father disposes of a daughter in marriage as an instrument of policy, a mother delivers the sales pitch for a husband the daughter has never spoken to, a nurse carries messages until the messages become dangerous, and a feud conducted entirely by men prices everything, including grief. Feminist criticism is the body of scholarship that made that city visible. Before its arrival, the play's criticism ran on two tracks that the feminist readers of the 1970s inherited and rejected: the romance track, which celebrated the lovers as the standard of pure feeling, and the moral track, inherited from Arthur Brooke's poem of 1562, which blamed them for disobedience. Both tracks treat Verona as scenery. The feminist reading treats Verona as the subject.
 
-![Juliet and the women of Verona read through feminist criticism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet and the women of Verona read through feminist criticism - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The verdict this survey reaches, and defends section by section, can be stated in advance. Feminist criticism has established three things about the play beyond serious dispute. First, the tragedy has a social engine: the patriarchal household, which owns its daughters' marriages and trains its sons for violence, and not the stars, drives the plot from the first brawl to the tomb. Second, the love that appears to escape that engine was manufactured inside it: the lovers' desire arrives in borrowed poetic forms, speaks in the metaphors of property and exchange, and aims at marriage, the very institution the fathers administer. Third, the play exposes the order that kills its heroine rather than endorsing it, because the text assigns its causal weight, its pricing vocabulary, and its final obscene transaction to the fathers' system, while giving Juliet the most searching intelligence in Verona with which to judge that system. The first finding is Coppelia Kahn's, the second is Dympna Callaghan's correction of Kahn, and the third is the verdict the two findings produce when they are held together, with Catherine Belsey's account of desire and language explaining how the manufacturing feels from inside. The celebratory reading that began the field, Juliet Dusinberre's claim that Shakespeare was an ally of women ahead of his age, survives only in fragments. What survives whole is the materialist core: a criticism that reads the household before the heart.
 

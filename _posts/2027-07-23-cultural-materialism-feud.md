@@ -6,17 +6,17 @@ date: 2027-07-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "critical-history", "cultural-materialism", "the-feud", "cultural-materialism-feud"]
 excerpt: "Cultural materialism reads Romeo and Juliet politically, treating the feud, the Prince, and the households as a contest of power within a given social order."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-07-23
+lang: en
 ---
-
 ## A Political Reading of the Feud
 
 Cultural materialism reads the feud in Romeo and Juliet as a contest of power before it reads the lovers as a romance, and the verdict of the method is plain from the first page of the play. The Prologue announces "two households, both alike in dignity" (Prologue, line 1) locked in "new mutiny" (Prologue, line 3), and the tragedy that follows is the record of what that mutiny costs a city whose ruler cannot rule it. A cultural materialist reading holds that the deaths in the tomb are produced by institutions: two great households competing for standing, a prince whose law threatens more than it performs, a marriage market that prices a daughter, and a church that can bless a union but cannot protect one. The love story is real, and the method never denies its force. The claim is narrower and stronger. Whatever the lovers feel, the conditions that decide whether feeling becomes marriage or burial are political conditions, set by the distribution of authority in Verona, and the play knows it. Its final speech is given not to a parent, a priest, or a survivor of the romance but to the head of state, and that speech is an audit of government: "All are punished" (5.3.295).
 
-![A Verona street held between two great households and the Prince's law - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Verona street held between two great households and the Prince's law - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The method that produces this reading was named in Britain in the middle of the 1980s, in the foreword to Political Shakespeare: Essays in Cultural Materialism (1985), edited by Jonathan Dollimore and Alan Sinfield. Its founders defined it against two opponents at once. Against the older criticism, it refused to treat the play as a vessel of permanent human nature floating free of the moment that made it. Against quieter forms of historicism, it refused to pretend that the critic stands outside politics. The foreword states the commitment without decoration: cultural materialism "registers its commitment to the transformation of a social order which exploits people on grounds of race, gender and class." A reading built on that sentence will ask of any text three questions. What order does the text show? Where does that order crack under its own contradictions? And whose side does the reading take? Applied to Verona, those questions turn a feud usually treated as background scenery into the play's central political machine.
 

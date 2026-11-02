@@ -6,15 +6,15 @@ date: 2027-10-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "text-restoration", "staging", "restoring-the-text"]
 excerpt: "For nearly two centuries the stage gave audiences adapted versions of Romeo and Juliet, and only gradually did productions restore Shakespeare's own words."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2027-10-08
+lang: en
 ---
-
 Restoring Shakespeare's text to the stage was not an event but a transfer of authority, and Romeo and Juliet is the play that proves it. For roughly a century after 1748, the tragedy that English-speaking audiences applauded was a licensed adaptation: David Garrick's version, with Rosaline erased, the bawdy laundered, a funeral procession interpolated between the acts, and a tomb scene rebuilt so that the lovers could wake, recognise each other, and die in conversation. The restoration that displaced that version is usually told as a simple homecoming, the true text returning from exile in 1845 and 1847. The documentary record supports a slower and more instructive story. Garrick's additions fell in stages, at different speeds in America and Britain, on the stage and in print, while the habits of cutting that adaptation had normalised survived inside productions that advertised themselves as faithful. What changed first was not the wording of the play but the answer to a prior question: whose word governed the stage, the author's page or the manager's taste. The verdict argued here is that the restoration of the text was the consequence of that transfer, not its cause, and that every station on the road back, from Charlotte Cushman's Romeo in 1845 to the scholarly promptbooks of the twentieth century, is best understood as a negotiation over authority conducted in the vocabulary of fidelity.
 
-![Restoring Shakespeare's text to the stage across two centuries of performance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Restoring Shakespeare's text to the stage across two centuries of performance - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 The distinction matters because the word restoration conceals two different achievements. A repertory can be restored without a text being restored: Garrick himself restored the play to the centre of the English repertory in 1748, rescuing it from Thomas Otway's Roman rewrite, and he did so by adapting it. A text, by contrast, is restored only when the words performed are the words the early editions transmit, including the words a given age finds indecorous, inconvenient, or theatrically expensive. Between those two achievements lies the whole history traced in this article. The stations are well documented. Otway's Caius Marius held the stage from 1680. Theophilus Cibber's scaffold of 1744 prepared the hybrid Garrick inherited. Garrick's version, examined change by change in the account of [David Garrick's Adaptation of 1748](/2027/08/27/david-garrick-adaptation-1748/), then held the British stage for ninety-seven years, a span closed on the stage by Cushman's restoration of Shakespeare's conception of the ending in 1845 and by Samuel Phelps at Sadler's Wells in 1847, and closed in print only in 1882, when an edition restored Rosaline and let Romeo die at once after the poison. Around and between those brackets stand the half-restorations that the clean story omits: actor-managers who dropped the tomb duet and kept the cuts, antiquarian productions that buried a shortened text under archaeological scenery, scholarly editions that restored the reading text a generation before the acting text followed. The InsightCrunch restoration timeline, set out below, gathers the stations into a single reference, and the sections that follow test each station against the question the timeline raises: what, exactly, did each restorer restore?
 

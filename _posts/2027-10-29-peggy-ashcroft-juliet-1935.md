@@ -6,15 +6,15 @@ date: 2027-10-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "peggy-ashcroft", "juliet", "ashcroft-juliet"]
 excerpt: "Peggy Ashcroft's Juliet was praised for its freshness and intelligence, renewing the modern stage image of Shakespeare's young Capulet heroine in Verona."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-10-29
+lang: en
 ---
-
 Peggy Ashcroft's Juliet at the New Theatre in 1935 did something rarer than win praise. It changed what the part was allowed to be. The Capulet daughter had spent generations on the English stage as an occasion for pathos, a young heroine admired chiefly for suffering beautifully, and Ashcroft replaced that figure with a girl who thinks. Her Juliet was fresh because the playing was unforced, quick, and free of inherited gesture, and it was intelligent because every feeling in the performance arrived through an act of understanding. The verdict of this article is plain: Ashcroft's Juliet is the hinge between the sentimental stage heroine of the nineteenth century and the modern heroine, and the performance deserves to be ranked as the single most consequential Juliet of the twentieth century, ahead of the famous contest between the two Romeos who shared her stage.
 
-![Peggy Ashcroft as Juliet at the New Theatre - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Peggy Ashcroft as Juliet at the New Theatre - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 That ranking needs defending, because the production that carried her performance is usually remembered for somebody else. John Gielgud directed the play at the New Theatre in London in the autumn of 1935 and built the evening around a celebrated experiment: Gielgud and Laurence Olivier alternated in the roles of Romeo and Mercutio. Olivier opened as Romeo in October 1935, and the two men exchanged roles in late November, so that the town could compare a poetical Romeo against a physical one and a darting Mercutio against a broader reading of the part. Edith Evans played the Nurse. Ashcroft played Juliet at every performance, opposite both Romeos in turn, across a run of 186 performances that set a record for the play. The experiment made the production famous. It also distorted the record, because the one performer who never changed places became, in the retelling, the still point that critics took for granted.
 

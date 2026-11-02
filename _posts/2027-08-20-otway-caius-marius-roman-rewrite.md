@@ -6,15 +6,15 @@ date: 2027-08-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "thomas-otway", "adaptation", "otway-caius-marius"]
 excerpt: "Thomas Otway moved Romeo and Juliet into ancient Rome as Caius Marius, and the Roman rewrite held the stage while Shakespeare's play disappeared from it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2027-08-20
+lang: en
 ---
-
 For roughly two generations, the English stage knew the lovers of Verona only in Roman dress. Thomas Otway's *The History and Fall of Caius Marius*, first acted by the Duke's Company at the Dorset Garden Theatre in the autumn of 1679, took Shakespeare's *Romeo and Juliet* apart, carried its love plot into the civil wars of Marius and Sylla, and then held the stage in the original's place. Romeo became Marius junior, son of the great general. Juliet became Lavinia, daughter of Metellus. The feud became a struggle for the consulship of Rome, fought with votes, armies and proscriptions rather than street brawls. Shakespeare's play, in anything like Shakespeare's shape, vanished from the London repertory behind it.
 
-![The stage history of Romeo and Juliet and its Restoration adaptations](/assets/images/blog/blog-01.webp)
+![The stage history of Romeo and Juliet and its Restoration adaptations](/assets/images/blog/blog-66.webp)
 
 This article treats *Caius Marius* as what its own prologue admitted it to be: an adaptation, openly built from stolen materials, and not a corruption to be apologized for or a curiosity to be patronized. The verdict argued through the evidence below is that Otway was the most consequential editor the tragedy had between Shakespeare's own company and the age of Garrick. He cut the duel that turns Shakespeare's play, dissolved its comedy into a political tribune who outlives his model, moved the lovers' marriage to the front of the action, and rebuilt the tomb scene so that Lavinia wakes while Marius junior still lives and the two can speak. That single change, made in 1679, governed the stage's handling of the ending for well over a century afterward, passing through Theophilus Cibber's revival of 1744 into the Garrick tradition and beyond it into opera. A playwright remembered for *Venice Preserved* and *The Orphan* deserves a second entry in the history of *Romeo and Juliet*: not as its vandal, but as the adapter who kept its story alive by refusing to keep its text.
 

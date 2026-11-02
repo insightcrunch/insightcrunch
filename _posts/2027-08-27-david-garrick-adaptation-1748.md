@@ -6,15 +6,15 @@ date: 2027-08-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "david-garrick", "adaptation", "garrick-adaptation"]
 excerpt: "David Garrick's adaptation of Romeo and Juliet brought the play back to Verona from Otway's Roman rewrite, though Garrick still cut and reshaped the text."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2027-08-27
+lang: en
 ---
-
 David Garrick's adaptation of Romeo and Juliet is the most consequential act of editing in the play's stage history, and the verdict of the documentary record is sharper than the familiar story allows. The familiar story credits Garrick with a pure restoration: Shakespeare driven off the stage by Thomas Otway's Roman rewrite, Shakespeare rescued by the actor-manager of Drury Lane in 1748, Verona recovered, the text made whole. The record shows something more interesting and less clean. Garrick restored the repertory, not the text. He made Shakespeare's tragedy, in Shakespeare's city, with Shakespeare's plot and the greater part of Shakespeare's verse, the standard possession of the English stage for ninety-seven years, and that achievement is real. But the version through which three generations knew the play was a hybrid built on Theophilus Cibber's scaffold, carrying Otway's tomb device, Garrick's own cuts, Garrick's own pathos, and a funeral procession invented in the heat of a commercial war between two theatres. Restoration and adaptation were not two phases of Garrick's work on the play. They were the same gesture, and the article that follows separates what he restored from what he kept changing, change by change, until the ledger balances.
 
-![David Garrick's adaptation of Romeo and Juliet on the eighteenth-century stage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![David Garrick's adaptation of Romeo and Juliet on the eighteenth-century stage - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The stakes are not antiquarian. For roughly a century, to see Romeo and Juliet was to see Garrick's Romeo and Juliet, and to read the play in a Garrick-derived acting edition was a common experience well into the Victorian period. Berg's study of the play's stage fortunes, quoted in Banner's analysis, calls Garrick's script the most enduringly successful production of the play, and the superlative is earned by the simplest evidence: no other single version of the tragedy, before or since, has held a national stage as its standard text for anything like ninety-seven years while simultaneously colonizing the printed editions through which readers met the work. The lovers that the eighteenth century wept over met in a Verona from which Rosaline had been erased. Their final meeting in the tomb lasted through a long waking conversation that Shakespeare never wrote. Between the fourth and fifth acts, a procession of friars, choristers, nuns and mourners carried the heroine to the Capulet monument while a dirge composed for the occasion filled the theatre. Anyone who wants to understand what the play meant to the audiences who canonized it has to understand the version Garrick built, because that version, and not the quarto text, was the play for the age that fixed its reputation.
 
