@@ -123,3 +123,7 @@
 ## patrick-stewart-acting-method
 - _posts/2010-10-07-claudius-hamlet-character-analysis.md - could carry: "The Claudius this analysis examines on the page was played at the Royal Shakespeare Company in 2008 by Patrick Stewart, whose acting method is traced across his whole career in patrick stewart acting method."
 - _posts/2015-12-01-on-the-waterfront-brando-method-acting.md - could carry: "Against the Method break stands the classical route that reached its fullest screen form a generation later, in how Patrick Stewart's verse training became screen command."
+
+## nightjar-edge-of-nothing-002
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room that held nothing in Carrowmere was a whole room; the absence Mira later walked in a Melora hearing room had an edge, a line on the floor where weight stopped and started."
+- Only one earlier installment exists in the serial, so only one forward link can be suggested this run. The two-suggestion pattern begins with installment 003.

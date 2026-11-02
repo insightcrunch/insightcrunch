@@ -51,3 +51,25 @@ spine notch:              Rung one. A room where something certainly happened ho
 characters:               Mira Kovac, Arvo Leyden, Tomas Rask, Petra Dunmore, Sabel Orry (new), Henrik Dall (new), Edran Voss, Bram Tull (new), Odric Fenn (new), Ondrej Pahl (new, in records)
 canon written back:       Three facts under Established canon, each numbered 001: Sabel Orry and the discovery; Henrik Dall's detention for the killing of Edran Voss; Voss's draft memorandum and its blank Names page
 callbacks:                none, installment one
+
+## Installment 002
+slug:                     nightjar-edge-of-nothing-002
+published:                2026-11-01
+story span:               Three days in the Twenty Ninth Session, from the morning Mira reached Melora to the night the transport left it
+arc:                      The Clean Room, case 2
+case type:                Exfiltration or rescue
+words:                    27228
+outcome:                  full success
+cost paid:                Calloway's name. Mira signs the defection finding that ends the woman's career and understands exactly what she is signing
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the line on the floor
+clues planted:            Calloway's facilities memo describing the annex; the shared register showing two other auditors flagged the same accounts in the same month; Calloway's route sheet placing her in the annex on her last working day; the annex room register entry nine minutes after three service passes; the stairwell rotation; the market bells and the timing table built on them
+capabilities established: The facilities escort pass for the annex only (Tasking, Ground truth); the stairwell read and the twice daily rotation (Ground truth); the back service door and its locking times (Ground truth); Rask's position on the stair (Tasking, Ground truth); the market timing table (Ground truth); the room register and route sheet (The collapse)
+damage carried:           In: Voss's last ten minutes from 001. Adds: signing away Calloway's career, and six weeks of a stairwell
+endurance:                entering reduced; reduced at the pressure beat
+legend beat:              none
+close consumed:           Rask's stair position, the back service door, the market timing, the stairwell rotation, and Calloway's own description of the building in her facilities memo; every one established earlier in this same installment
+false lead:               The court accounts Calloway flagged. Two other auditors flagged the same accounts in the same month, in the same terms, and nothing happened to either of them; she was taken for what she saw in a building, not in a ledger
+spine notch:              Rung two. The absence has an edge, a boundary she can walk. In the south hearing room she walked a line on the floor where weight stops and starts
+characters:               Mira Kovac, Tomas Rask, Petra Dunmore, Inez Calloway (new), Venn (new), Kest (new), Ilves (new)
+canon written back:       Three facts under Established canon, each numbered 002: Inez Calloway and the false defection finding; the bounded absence with a walkable edge in the south hearing room; the unsigned service passes with the copied retired stamp
+callbacks:                001, one internal link, to the transit room that held nothing

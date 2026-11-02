@@ -305,6 +305,10 @@ rewritten.
 001 Henrik Dall, senior assessor of the Carrowmere bonded wharf, was detained by the Ninth Office for the killing of Edran Voss, effected by substituting a cask of winter fuel for a cask of salt fish in transit room nine and pressing a seal over the room afterwards with the wharf's own die.
 001 Edran Voss, supervisor of the Carrowmere bonded wharf, died in transit room nine; his unfinished draft memorandum to the bonded chain's directors, its final page headed Names and left blank, is held under Accord impoundment.
 
+002 Inez Calloway is an Accord auditor serving the arbitration courts in Melora. She was held in her own apartment by three men after she saw the sealed deposition case of the south hearing room open with its seals whole, and she was extracted from Melora by Mira Kovac. Her service was told she had defected, and the Accord let that false finding stand.
+002 In the south hearing room of the courts annex in Melora there is a bounded region in which no weight lies. The region has an edge a Weigher can walk, with ordinary weight on one side of it and absence on the other.
+002 The service passes used to enter the courts annex in the week Calloway was taken were never signed by any clerk. They carried a copied stamp from a retired annex porter's issue, and the porter had left Melora a Session before and was provably elsewhere on every day that mattered.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.
