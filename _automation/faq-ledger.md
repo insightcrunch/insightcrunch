@@ -780,3 +780,27 @@ expect-fail-generation-next-patrick-stewart | patrick-stewart-acting-method | Di
 his-mak-memoir-patrick-stewart-write | patrick-stewart-acting-method | What did Patrick Stewart write in his memoir Making It So?
 jean-luc-patrick-picard-play-prepare-stewart | patrick-stewart-acting-method | How did Patrick Stewart prepare to play Jean-Luc Picard?
 actor-consider-generation-great-his-one-patrick-stage-stewart | patrick-stewart-acting-method | Why is Patrick Stewart considered one of the great stage actors of his generation?
+
+## film-pans-labyrinth
+
+### how-pans-labyrinth-was-made
+about-labyrinth-pan' | how-pans-labyrinth-was-made | What is Pan's Labyrinth about?
+direct-labyrinth-pan'-screenplay-wrote | how-pans-labyrinth-was-made | Who directed Pan's Labyrinth and who wrote the screenplay?
+del-el-fauno-laberinto-mean-spanish-title | how-pans-labyrinth-was-made | What does the Spanish title El laberinto del fauno mean?
+call-creature-faun-pan-rather-spanish-than-title | how-pans-labyrinth-was-made | Why is the creature called a faun rather than Pan in the Spanish title?
+faun-labyrinth-man-pale-pan'-play | how-pans-labyrinth-was-made | Who played the Faun and the Pale Man in Pan's Labyrinth?
+apply-day-each-faun-long-makeup-take | how-pans-labyrinth-was-made | How long did the Faun makeup take to apply each day?
+compos-labyrinth-music-pan' | how-pans-labyrinth-was-made | Who composed the music for Pan's Labyrinth?
+function-labyrinth-lullaby-pan'-score | how-pans-labyrinth-was-made | How does the lullaby function in the score of Pan's Labyrinth?
+cinematographer-labyrinth-pan' | how-pans-labyrinth-was-made | Who was the cinematographer of Pan's Labyrinth?
+academy-award-labyrinth-many-pan'-win | how-pans-labyrinth-was-made | How many Academy Awards did Pan's Labyrinth win and for what?
+festival-labyrinth-pan'-premiere | how-pans-labyrinth-was-made | At which festival did Pan's Labyrinth premiere?
+background-form-labyrinth-pan'-war | how-pans-labyrinth-was-made | What war forms the background of Pan's Labyrinth?
+cast-labyrinth-ofelia-pan'-play-she | how-pans-labyrinth-was-made | Who played Ofelia in Pan's Labyrinth and how was she cast?
+cost-earn-labyrinth-make-much-pan' | how-pans-labyrinth-was-made | How much did Pan's Labyrinth cost to make and how much did it earn?
+companion-del-earlier-film-guillermo-labyrinth-pan'-toro | how-pans-labyrinth-was-made | Which earlier Guillermo del Toro film is the companion to Pan's Labyrinth?
+creat-fairi-labyrinth-pan' | how-pans-labyrinth-was-made | How were the fairies in Pan's Labyrinth created?
+academy-award-country-film-labyrinth-language-pan'-submitt | how-pans-labyrinth-was-made | What language is Pan's Labyrinth filmed in and which country submitted it for the Academy Awards?
+color-labyrinth-pan'-separate-two-world | how-pans-labyrinth-was-made | How does color separate the two worlds in Pan's Labyrinth?
+beehive-compare-critic-labyrinth-pan'-spirit | how-pans-labyrinth-was-made | Why do critics compare Pan's Labyrinth to The Spirit of the Beehive?
+be-labyrinth-magic-meant-pan'-real | how-pans-labyrinth-was-made | Is the magic in Pan's Labyrinth meant to be real?
