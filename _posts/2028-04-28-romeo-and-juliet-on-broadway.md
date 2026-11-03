@@ -6,15 +6,15 @@ date: 2028-04-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "broadway", "new-york", "romeo-and-juliet-broadway"]
 excerpt: "Romeo and Juliet has a long Broadway history, from the 1930s staging with the Barrymores to modern star-driven revivals that draw new audiences to Verona."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-04-28
+lang: en
 ---
-
 Romeo and Juliet on Broadway is a history of famous names in two famous parts, and the first thing the record teaches is that the street's way with this play was set long before the district had a name. The commercial New York stage took the tragedy up in 1754, when the Hallam company played it at the New Theatre with Mrs. Hallam as Juliet and Mr. Rigby as Romeo, and it has never put the play down for long. Between that colonial evening and the amplified Verona that filled Circle in the Square in 2024, the play passed through the hands of Edwin Booth, Maude Adams, Julia Marlowe, Ethel Barrymore, Jane Cowl, Eva Le Gallienne, Katharine Cornell, Laurence Olivier and Vivien Leigh, Olivia de Havilland, Claire Bloom, Regina Taylor, Orlando Bloom, and the youngest pair of lovers the street has fielded, Kit Connor and Rachel Zegler. No other Shakespeare tragedy has been so steadily used as a proving ground for stardom in New York. Hamlet belongs to its great soloists; this play belongs to its pairs, and to the producers who wagered that two marketable names could carry three hours of verse in a commercial house.
 
-![Romeo and Juliet on Broadway, from the Hallam company to the amplified Verona of Circle in the Square - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet on Broadway, from the Hallam company to the amplified Verona of Circle in the Square - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The verdict of this study can be stated at the outset, because the whole chronicle argues it. Broadway did not degrade the play by selling it through stars; the star vehicle was the instrument by which America kept the tragedy in continuous professional life for two and a half centuries, through decades when no subsidized company existed to carry it. The costs were real and they are itemized in the record: texts cut to fit a leading lady's evening, Romeos hired for their cheekbones and found wanting in the verse, a film-bred Juliet of 1940 whose beauty the camera had certified and the stage could not use. But the ledger's other side is longer. Star casting filled the houses that paid for Edith Evans to play the Nurse uncut in 1934. Star casting gave Jane Cowl 157 performances in which to refine a Juliet before a paying public. Star casting, twice in the record, collapsed so completely that the failure itself became the lesson, in 1940 and again in gentler form in 2013, and star casting in 2024 finally solved the equation that had defeated it for a century by hiring lovers who were actually young and letting their fame arrive from television and film at teenage scale. The play survived Broadway's method. More than survived it: the method became one of the play's meanings, a standing American argument about whether celebrity can speak poetry, restaged by every generation that buys a ticket.
 

@@ -6,15 +6,15 @@ date: 2028-08-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "silent-film", "early-cinema", "earliest-films"]
 excerpt: "Romeo and Juliet reached the screen in the silent era, in brief early films that compressed the tragedy into a few minutes of pantomime and intertitles."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-08-18
+lang: en
 ---
-
 The earliest Romeo and Juliet films were not crude sketches waiting for sound to complete them. They were a distinct screen art that solved the play under severe constraint, and solved it in ways the sound cinema never unlearned. Between a Paris exhibition novelty of 1900 and the rival American features of 1916, producers in France, Italy and the United States compressed the tragedy into an aria, into a single reel, into two reels released a week apart, and finally into competing eight-reel and seven-reel features, each version selecting the same handful of scenes and discarding the same great speeches. The verdict this article defends is that the silents, not George Cukor, begin the screen tradition of the play: the habits of selection, quotation by title card, star casting and pictorial Verona that govern every later version were all fixed before a single line of the play could be heard in a cinema. Graham Holderness and Kenneth McCullough, cataloguing the film versions in Shakespeare Survey, count twenty-three adaptations of the play, the earliest made in France in 1900; Kenneth S. Rothwell and Annabelle Henkin Melzer, in the most comprehensive filmography, record sixty-one versions of every kind. Both lists start in the same place, and the starting place is stranger, thinner and more instructive than the familiar story allows.
 
-![A one-reel silent Romeo and Juliet unspooling in an early picture palace - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A one-reel silent Romeo and Juliet unspooling in an early picture palace - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The strangeness begins with the evidence itself. Of the roughly three hundred silent Shakespeare films Judith Buchanan counts between 1899 and 1927, only about forty survive, and the earliest films of this play follow the same brutal arithmetic. Some entries in the catalogue below rest on surviving prints that can still be screened. Others rest on a copyright record, a trade-paper synopsis, a single database line, or a performer's memoir written decades later. Every claim in this article is graded by that hierarchy of evidence, and the grades are stated openly rather than smoothed away, because a lost film's rumoured contents are not evidence of anything except the rumour. Where the catalogues divide, over a director's name, a release date within a single year, or even the year of an Italian production, the division is reported and adjudicated rather than silently resolved. Readers who collate the rival catalogue entries for these films into a single presentation, weighing a copyright card against a memoir, find the [ReportMedic PPT Viewer](https://reportmedic.org/tools/ppt-viewer.html) a practical way to lay the competing records side by side before judging between them.
 

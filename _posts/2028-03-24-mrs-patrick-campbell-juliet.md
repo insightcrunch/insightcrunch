@@ -6,15 +6,15 @@ date: 2028-03-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "mrs-patrick-campbell", "victorian-juliet", "campbell-juliet"]
 excerpt: "Mrs Patrick Campbell, the magnetic late Victorian star, played Juliet with the intensity and individuality that made her one of the era's most talked-of stars."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-03-24
+lang: en
 ---
-
 Mrs Patrick Campbell played Juliet at the Lyceum Theatre in September 1895, and the casting remains the most argued-over piece of nerve in the late Victorian Shakespearean theatre. She was thirty years old, a mother of two, and the most discussed actress in London, famous not for girlhood innocence but for playing women with pasts: Pinero's Paula Tanqueray, the adulteress who shoots herself, and Agnes Ebbsmith, the free-thinking heroine of the season just ended. Johnston Forbes-Robertson, taking over the Lyceum while Henry Irving toured America, built the opening production of his management on her. The verdict of the performance has never settled, because the performance itself refused to settle the question it raised: whether Juliet is a girl to be impersonated or a force to be embodied. This article argues a definite answer. Campbell's Juliet was not a failed attempt at girlishness. It was a deliberate, calculating seizure of the part by the era's most modern actress, and its mixture of triumph and misfit is the exact record of the Victorian Juliet giving way to the twentieth-century one. Judged by the standard Anna Jameson had fixed for the century, the wistful child who is "love itself", Campbell failed, and meant to. Judged by what the role became once actresses were permitted to bring a whole personality to it, she was the bridge across which the part walked into modernity.
 
-![Mrs Patrick Campbell as Juliet at the Lyceum in 1895, the mature star in the girl's part - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mrs Patrick Campbell as Juliet at the Lyceum in 1895, the mature star in the girl's part - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The method of this article follows from the state of that evidence. The production's facts, its dates, theatre, management, and cast, are stated from the museum and biographical record. The period's verdicts are quoted only where a named source preserves the wording, and are otherwise reported as positions, attributed to their holders and never dressed in invented quotation marks. The heroine's text is cited from the play itself, by act and scene, so that every claim about what the part demands can be checked against what Shakespeare wrote. Where the record runs out, the article says so, because a performance that survives in fragments is ill served by a history that pretends otherwise, and because the fragments, honestly weighed, are enough.
 

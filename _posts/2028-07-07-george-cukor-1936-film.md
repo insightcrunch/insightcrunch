@@ -6,15 +6,15 @@ date: 2028-07-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "george-cukor", "mgm-film", "prestige-picture"]
 excerpt: "George Cukor's MGM Romeo and Juliet was a lavish, reverent Hollywood film whose celebrated stars were both far older than the teenage lovers they played."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-07-07
+lang: en
 ---
-
 George Cukor's Romeo and Juliet, released by Metro-Goldwyn-Mayer in August 1936, is the studio system's monument to Shakespeare: the most expensive sound film MGM had made to that date, the most carefully researched, the most reverently cast, and, by the measure of the play it adapts, among the least alive. The verdict of this study is that the picture succeeds almost completely at the task its producer set and fails almost completely at the task the playwright set, and that the distance between those two tasks is the most instructive fact in the screen history of the tragedy. Irving Thalberg wanted a production that no professor could fault and no rival studio could match, a proof that Hollywood craftsmanship had come of age. William Shakespeare wrote a play about two teenagers whose speed, appetite, and heedlessness outrun every adult institution in Verona. Cukor's film honours the first intention in nearly every frame and betrays the second in nearly every casting decision, and it does both so handsomely, with such craft and such evident love of the text, that it remains the essential starting point for any account of the play on film.
 
-![Norma Shearer and Leslie Howard as the lovers in the Verona of George Cukor's MGM film - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Norma Shearer and Leslie Howard as the lovers in the Verona of George Cukor's MGM film - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The film also carries a distinction that frames everything else in the screen cluster of this series. Silent cameras had filmed the tragedy repeatedly from the first years of the century, in the one-reel and feature versions surveyed in [the earliest Romeo and Juliet films of the 1900s](/2028/08/18/earliest-romeo-juliet-films-1900s/), but those pictures could show the story only in pantomime and intertitle. Cukor's production was the play's first sound-era feature, the first version able to carry the verse itself, and it understood that ability as a solemn trust. Where the silent films had treated the play as a famous plot to be illustrated, MGM treated it as a sacred text to be enshrined. The enshrinement cost just over two million dollars, employed the studio's most decorated craftsmen, consulted professors from Harvard and Cornell, and placed the producer's wife, a star in her mid-thirties, opposite a Romeo of forty-three. Every one of those facts belongs to the same decision, and the decision, rather than any single performance or set, is the film's real subject.
 

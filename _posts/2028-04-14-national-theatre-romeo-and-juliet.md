@@ -6,15 +6,15 @@ date: 2028-04-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "national-theatre", "modern-staging", "national-theatre-production"]
 excerpt: "Britain's National Theatre has staged Romeo and Juliet in landmark productions, including a striking filmed version made for the screen during the lockdown."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-04-14
+lang: en
 ---
-
 The National Theatre's history with Romeo and Juliet is short, strange, and disproportionately influential. The company's own archive records four encounters with the tragedy across nearly five decades: a mobile education production at the Old Vic in 1974, a single main-stage staging in the Olivier Theatre in 2000, a one-hour version for young audiences that began in 2013 and kept returning in new forms, and an original film shot inside the closed Lyttelton Theatre in 2021. No other major British company has built so distinctive a record from so few productions, and none has allowed the play to migrate so far from the conditions for which Shakespeare wrote it. The verdict defended across this article is precise. The National never produced a definitive full-text stage Romeo and Juliet, and its one attempt at a flagship main-stage revival divided its critics and satisfied few of them. Its real contribution lies elsewhere: the National treated the tragedy as an instrument for testing the boundaries of its own institution, asking who Shakespeare belongs to, where a performance may happen, and what a performance becomes when the stage itself is withdrawn. The 2021 film, directed by Simon Godwin with Josh O'Connor and Jessie Buckley, is the culmination of that pattern and the National's one unambiguous landmark in the play's modern history.
 
-![The National Theatre's Romeo and Juliet across the Old Vic, the Olivier, the Shed and the Lyttelton film set - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The National Theatre's Romeo and Juliet across the Old Vic, the Olivier, the Shed and the Lyttelton film set - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That verdict requires the whole record, not the film alone. A history that begins with the lockdown production mistakes an ending for a story. The National's first Romeo and Juliet was not a prestige revival but a touring production built for young audiences, carried to sixteen centres outside London before it played six performances at the Old Vic. Its second was an education staging in all but name: Tim Supple's 2000 Olivier production cast a mesmeric young Romeo, split its households by race, lost its director before the press night, and drew from Michael Billington the judgement that it was a muddled, mediocre affair. Its third, Ben Power's adaptation directed by Bijan Sheibani, cut the play to a single hour for children aged eight and above, toured schools, played three different National spaces across three different casts, and survived as a classroom recording. Only then came the film. Read in sequence, the four productions form a single institutional argument conducted over forty-seven years: the tragedy of the young lovers kept being assigned to the young, to the mobile, to the compressed, and finally to the camera. The National's Romeo and Juliet is a history of mediation, and the film succeeded because mediation had been the company's habit with this play all along.
 

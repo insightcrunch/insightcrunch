@@ -6,17 +6,17 @@ date: 2028-06-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "contemporary-theatre", "21st-century", "21st-century-theatre"]
 excerpt: "In twenty-first-century theatre Romeo and Juliet is restaged through diverse casting, gender fluidity, multimedia, and a sharp focus on youth and violence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-06-16
+lang: en
 ---
-
 ## How Romeo and Juliet Entered the Twenty-First Century
 
 The twenty-first century did not inherit a monument. It inherited a machine for making meaning, a tragedy whose parts had been handled so often that the handling itself had become invisible, and its first act was to make the handling visible again. Between 2001 and the century's third decade, Romeo and Juliet was restaged through every variable a production can change: the bodies of the lovers, the sex of Mercutio, the medium of delivery, the length of the evening, the age of Juliet, the architecture of the room, the language of the feud. Some of these experiments failed in full view of the record. The failures are part of the evidence, and this article weighs them beside the successes, because the century's stage life of the play is a single argument conducted across dozens of productions, and the argument has a verdict. The verdict is this: the century renewed the tragedy whenever a director treated one of the play's givens as a question the text itself had asked, and the century merely redecorated the tragedy whenever a director treated a given as an embarrassment to be covered. Casting, cameras, cuts and concepts all pass or fail by that one test, and the record assembled below applies it production by production.
 
-![A contemporary Verona of cameras, youth and divided houses in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A contemporary Verona of cameras, youth and divided houses in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 The cliché is the enemy the whole century fought. By 2000 the play's stage image had hardened into a received picture: a balcony, a pair of beautiful young bodies in period dress, a swordfight, a double suicide, all of it sealed under the glass of familiarity. The picture was not false, but it was finished, and a finished picture asks nothing of an audience except recognition. The productions that matter after 2000 are the ones that broke the glass. They broke it in different places, and the breaks did not all hold, but the direction of travel is unmistakable in the chronicle that theatre historians such as Robert Smallwood spent the late twentieth century assembling for Stratford and that their successors extended into the new century's very different landscape. Smallwood's chronicles end where the subsidized repertory system that sustained them begins to loosen; after 2000 the play's life disperses across flagship companies, independent directors, festival stages, school halls, cinema relays and one social-media platform, and no single institution's archive contains it. That dispersal is the first fact of the play in twenty-first-century theatre, and the survey that follows is organized by the variables the directors changed rather than by the buildings they changed them in, because the buildings stopped being the story.
 

@@ -6,12 +6,12 @@ date: 2028-02-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "stage-music", "incidental-music", "music-in-performance"]
 excerpt: "Music has shaped Romeo and Juliet in the theatre from Elizabethan consorts at the ball to lush Victorian scores and the spare soundscapes of modern staging."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-02-25
+lang: en
 ---
-
 ## Music in Performance History: The Layer the Cliche Forgets
 
 Music is the interpretation nobody quotes. A production of the tragedy can be described by its sets, its costumes, its cuts and its stars, and the description will still have missed the element that told the audience, minute by minute, how to feel about what it saw: the sound that framed the feud, sweetened the ball, thickened the street scenes and fell silent, pointedly, at the tomb. The performance history of the play is usually written as a history of actors and directors. Written as a history of music, it becomes a different and in some ways a more honest record, because scoring decisions are interpretation decisions, taken afresh by every era and disguised as decoration. The Elizabethan company played the ball with a hired consort and then staged a scene in which musicians refuse to play at all. The eighteenth century sang a dirge over Juliet that the text never requested. The nineteenth century wrapped the whole evening in an orchestral score and played music between the acts while the scenery changed. The twentieth century first stripped the score away in the name of the verse, then handed the play to resident composers, and ended with amplified songs and electronic weather. Each of those choices argues something about what the tragedy is. The consort argues that Verona is a working city whose pleasures and griefs are serviced by tradesmen. The dirge argues that Juliet's funeral deserves a liturgy the play withheld. The Victorian score argues that the audience's feelings need conducting. The modern soundscape argues that atmosphere is a design material like light. None of these arguments is neutral, and the history of the play's stage music is the history of productions confessing their readings in sound before a word was spoken.
@@ -34,7 +34,7 @@ The editorial history of the cues shows editors quietly enlarging the text's dem
 
 The absences deserve the same precision as the cues, because Sternfeld built his reading of the tragedies partly on what each play withholds. The history plays and the Roman tragedies spend trumpets freely: flourishes, sennets and tuckets herald authority whenever it enters. This play, whose Verona is governed by a Prince who enters to scold a street brawl, spends none. The Prince's appearances are unheralded in the early texts; the city's authority arrives to the sound of a fray, not a flourish, and the one flourish-like expectation the action raises, the wedding procession, collapses into the musicians' refusal before it can sound. Drums, the wars' instrument, are absent with the wars; the feud is a civilian disorder fought with rapiers in a square, and the text keeps it acoustic, voices and steel, where a history play would have scored it. Even the night watch and the final assembly gather without ceremony. The inventory's meaning is distributional: this tragedy's public world makes its music at feasts and weddings, in the service of pleasure and alliance, and the state that should command the trumpets commands nothing but silence and speeches. A production that heralds the Prince or drums the brawls is importing the sound of a different genre, and the importation is legible to any audience that has heard the histories played straight. The text's sound design, in short, is generic as well as local: a tragedy that begins in a dance and ends in a hush, with the machinery of martial and civic music conspicuously uninstalled.
 
-![A stage consort of viols, lute and flute sounding the Capulet ball - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A stage consort of viols, lute and flute sounding the Capulet ball - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## The Ball Consort: What Played While the Measures Turned
 

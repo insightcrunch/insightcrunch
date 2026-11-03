@@ -6,17 +6,17 @@ date: 2028-08-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "carlo-carlei", "carlei-film", "fellowes-script"]
 excerpt: "Carlo Carlei's Romeo and Juliet looked lavishly traditional, but Julian Fellowes's script rewrote much of Shakespeare's verse, drawing pointed criticism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-08-11
+lang: en
 ---
-
 ## The Verdict First: A Handsome Film Built on a Broken Bargain
 
 Carlo Carlei's Romeo and Juliet, released in October 2013 with Douglas Booth as Romeo and Hailee Steinfeld as Juliet, sold itself as the traditional version of the play for a generation raised on Baz Luhrmann's guns and Franco Zeffirelli's memory. The costumes were Renaissance, the streets were the real streets of Verona and Mantua, the faces were young, and the marketing promised a return to roots. What the film actually delivered was something no major screen version had attempted before: a period production, dressed as fidelity, whose dialogue had been quietly rewritten by its screenwriter, Julian Fellowes, who cut Shakespeare's text hard, paraphrased passages he judged difficult, and composed new lines in an imitation of the original manner. The verdict of this study is plain. The Carlei film is the most instructive failure among the famous screen versions of the play, because its failure was structural rather than accidental. A film may legitimately cut Shakespeare, as Zeffirelli cut him, or rehouse Shakespeare, as Luhrmann rehoused him, and survive on the strength of what remains. A film that keeps the play's plot, the play's period and the play's most famous speeches, while silently replacing the connective verse with pastiche, has kept the one element audiences could have supplied for themselves, the story, and discarded the one element that makes the story worth filming, the language in which it thinks.
 
-![The palaces and streets of Verona as Carlo Carlei's film presents them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The palaces and streets of Verona as Carlo Carlei's film presents them - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 A note on sources belongs at the threshold, since the film's literature is unusually contaminated by its own publicity. The account that follows rests on the trade record of the production, Screen Daily and The Hollywood Reporter and Variety reporting from Cannes and from the release; on the review file of October 2013, from the notices quoted by name throughout; on the aggregators' tallies, which are cited as tallies and not as judgements; on the interviews in which Fellowes and Carlei explained themselves, in Entertainment Weekly, the BBC and the Canadian press; and on the scholarly responses, Levenson's above all, that tested the makers' claims against the play in the Oxford edition. Where the sources divide, on the budget's exact composition or the dialogue's exact percentage, the division is reported rather than resolved. The film itself, at 118 minutes, is short enough that every claim made here about its contents can be checked against a single viewing, and readers disposed to check are encouraged toward exactly that scepticism, since the study's whole argument is that Shakespeare's audiences, like this film's, deserve material they can verify.
 

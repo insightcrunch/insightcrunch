@@ -6,15 +6,15 @@ date: 2028-09-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "west-side-story", "wise-robbins-film", "west-side-story-film"]
 excerpt: "The film of West Side Story carried the Romeo and Juliet musical to a vast audience and swept the Oscars, fixing the gang-tragedy retelling in memory."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-09-01
+lang: en
 ---
-
 The 1961 film of West Side Story is the version of the Romeo and Juliet story that the twentieth century actually kept. The stage musical of 1957 had run 732 performances at the Winter Garden and lost the Tony Award for Best Musical to The Music Man; honourable numbers, the record of a succès d'estime. The film, directed by Robert Wise and Jerome Robbins and released by United Artists in October 1961, took the same property and made it unavoidable: the highest-grossing musical film ever released to that date, the owner of a soundtrack album that sat at the top of the Billboard charts for 54 weeks, the winner of ten Academy Awards from eleven nominations, and for generations of schoolchildren the form in which Shakespeare's plot first reached them, usually in a classroom, usually with the lights off. The verdict argued through this article is that the film deserves its dominion and that its dominion is built on a substitution. What conquered the world was not quite the thing the credits advertise. The two lovers at the centre are, in song, other people: Natalie Wood's Maria is sung by Marni Nixon, Richard Beymer's Tony by Jimmy Bryant. The Puerto Rican gang is played largely by non-Puerto Rican actors in a single shared shade of dark makeup. The co-director who invented the work's movement was fired before the film was finished. And yet the result outlasted nearly every more respectable object of its year, because Wise and Robbins understood what the stage production's record is examined for in [the Broadway original's own history](/2028/08/25/west-side-story-broadway-1957/): that this tragedy is carried by its ensembles, its streets and its score, and that a camera which serves those three things can survive compromises that would sink a more intimate work.
 
-![The Jets and Sharks of the 1961 West Side Story film on a New York street - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Jets and Sharks of the 1961 West Side Story film on a New York street - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The film's premise is the musical's premise, and the musical's premise is the play's, stripped to the frame. Shakespeare's Prologue promises "Two households, both alike in dignity" and "a pair of star-cross'd lovers" before a line of dialogue is spoken (Prologue, Oxford Shakespeare, ed. Levenson). The film replaces the spoken chorus with altitude: it opens on a helicopter shot of Manhattan, the island abstracted into geometry, and descends, block by block, until the camera finds a playground in the Lincoln Square district of the Upper West Side and a gang of boys who communicate in finger snaps. No narration explains the feud. The descent is the explanation. Verona has become a grid of contested pavement, the households have become the Jets, native-born whites led by Riff, and the Sharks, Puerto Ricans led by Bernardo, and the dignity the Prologue grants both houses has become the one thing neither gang possesses and both are fighting to fake: ownership of streets that the city is about to demolish under them. A former Jet named Tony, by then working at Doc's drugstore, will fall in love at a gym dance with Bernardo's sister Maria, newly arrived from Puerto Rico. The audience that knows the play knows the rest, and the film banks on that knowledge from its first reel, quoting the plot's machinery with the confidence of an heir spending a famous inheritance.
 

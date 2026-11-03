@@ -6,15 +6,15 @@ date: 2028-06-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "famous-romeos", "twentieth-century", "famous-romeos"]
 excerpt: "The twentieth century produced a gallery of famous Romeos, from Gielgud and Olivier to later stars, each reimagining the young lover for the theatre of his day."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-06-09
+lang: en
 ---
-
 Famous Romeos are the twentieth century's most instructive failures. The century that rebuilt Shakespearean acting from the ground up, that produced Gielgud and Olivier, Scofield and McKellen, never produced a Romeo the record could call complete. It produced instead a gallery of partial triumphs, each one famous for the half of the part it mastered and quietly forgiven for the half it missed. The lover of Verona is written as two men sharing one name: a lyric poet who invents a private language with Juliet in the orchard, and a street fighter who kills her cousin in the public square an act later. Actors with the voice for the first man kept failing the second; actors with the blood for the second kept slighting the first. The gallery assembled in this article, the InsightCrunch Romeo gallery, sets the century's celebrated performances side by side so that the pattern can be read at a glance, and the verdict argued through the whole survey is simple. Romeo is the role the modern stage never solved, and the reason is structural: the part grades its interpreters on two incompatible examinations, and every famous Romeo of the century passed one and negotiated the other.
 
-![Twentieth-century stage Romeos from Gielgud and Olivier to the century's last Stratford lovers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Twentieth-century stage Romeos from Gielgud and Olivier to the century's last Stratford lovers - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The cliche imagines one Romeo, a generic young lover in tights, sighing under a balcony. The record restores a century of reinventions instead: a Victorian tragedian of forty-four humiliated by the part in 1882, a twenty-year-old lyric prodigy jeered for his legs in 1924, two rivals exchanging the role nightly in 1935 in full view of the London press, a twenty-four-year-old Italianate naturalist in 1960 who made casting directors rethink the age of the lover, a thirty-six-year-old intellectual in 1976 whose Romeo the scholarship files as a near miss, and a twenty-nine-year-old television comic actor closing the century at Stratford in 2000 to reviews that could not agree whether he was the part's future or its warning. Each performance answered the theatre of its own moment. Forbes-Robertson's refinement answered a stage drowning in scenery. Olivier's physicality answered a stage embalmed in elocution. Stride's youth answered a stage of ageing juveniles. Tennant's speed answered a stage of reverence. Read in sequence, the gallery is less a hall of fame than a history of the century's acting written through its most exposing part.
 

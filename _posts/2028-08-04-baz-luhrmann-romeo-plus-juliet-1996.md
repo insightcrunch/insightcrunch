@@ -6,17 +6,17 @@ date: 2028-08-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "baz-luhrmann", "verona-beach-film", "luhrmann-film"]
 excerpt: "Baz Luhrmann's film kept Shakespeare's words but set them in a brash frenetic modern Verona Beach of guns, cars and MTV-era style, with DiCaprio and Danes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-08-04
+lang: en
 ---
-
 ## Baz Luhrmann's Romeo + Juliet: The Verdict on Verona Beach
 
 Baz Luhrmann's *Romeo + Juliet* is the boldest act of translation in the play's screen history, and the verdict of this profile is that its famous style serves the verse far more often than it swamps it. The film takes the whole of its dialogue from Shakespeare, in the words of the Oxford Shakespeare edition of the play edited by Jill L. Levenson, and then rebuilds everything around those words: the city, the weapons, the music, the news media, the very frame through which the story reaches its audience. What looks at first glance like decoration is in fact a system. The Prologue becomes a television news bulletin. The swords become handguns whose barrels carry the names Sword, Dagger and Rapier. The feud becomes a war between two business empires whose towers face each other across a beach resort. Every substitution answers a phrase in the text, and the substitutions hold together because they all perform the same operation, which is to give a 1996 cinema audience the experience the play's first audiences had: a loud, fast, violent, funny and heartbreaking entertainment that assumed no reverence and asked for no homework.
 
-![Baz Luhrmann's Romeo + Juliet and the Verona Beach film world - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Baz Luhrmann's Romeo + Juliet and the Verona Beach film world - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 The costs are real and this profile counts them. Roughly half the play, on the most generous contemporary count, was cut to fit a running time of exactly two hours. Some verse is shouted over gunfire or drowned in score, a choice the director defended as intentional and his angriest critic treated as vandalism. The film's Friar is a tattooed priest with a greenhouse of herbs, its Prince a police captain, its Mantua a trailer park in the desert, and none of these inventions is neutral. Yet the counterfactual matters. The reverent alternative had been tried, at vast expense, in 1936, and had embalmed the play. Franco Zeffirelli's 1968 film had set the terms of fidelity for a generation: real teenagers, real Italian stone, a pruned text spoken gently. Luhrmann's film is best understood as an argument with that inheritance, and the argument is conducted inside the play's own language, which is why the argument could be won. A worldwide gross of some $147 million on a $14.5 million budget, a soundtrack album that reached No. 2 on the Billboard 200, and three decades of classroom use are the receipts. The quarrel among critics, examined in full below, divides between those who heard the verse survive the noise and those who heard only the noise. The evidence assembled in this profile supports the first party, with the second party's strongest point, the treatment of the verse at full volume, conceded and priced in. In the account that follows, the film is taken device by device, from the anchorwoman's desk to the brand names on the gun barrels, and each device is tested against the mechanism of the play it claims to translate. The record assembled here, of workshops and hurricanes, of casting crises and soundtrack sales, of a modest wager that returned ten times its cost, is the evidence on which the translation thesis stands or falls. The verdict defended throughout is that it stands, and that the film's excesses are the price of a method that has nowhere to hide.
 

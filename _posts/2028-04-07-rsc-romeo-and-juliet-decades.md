@@ -6,15 +6,15 @@ date: 2028-04-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "rsc", "royal-shakespeare-company", "rsc-through-decades"]
 excerpt: "The Royal Shakespeare Company has restaged Romeo and Juliet across the decades, each production reading the lovers and the feud through its own moment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-04-07
+lang: en
 ---
-
 The Royal Shakespeare Company has staged Romeo and Juliet sixteen times since 1961, and the sequence amounts to the fullest single record of how one play changes when one institution keeps returning to it. The lovers have been played by Brian Murray and Dorothy Tutin in the founding season and by Bally Gill and Karen Fishwick fifty-seven years later; between those poles stand Ian McKellen, Daniel Day-Lewis, Mark Rylance, David Tennant and a dozen others, directed by Peter Hall, Trevor Nunn, Michael Bogdanov, Rupert Goold and Erica Whyman among their peers. No other British company offers a comparable run: a permanent ensemble, a Stratford home, a London base, and a habit of restaging the same tragedy roughly once every three or four years, each time as if the previous solutions had expired.
 
-![Sixteen RSC productions of the tragedy at Stratford and in London - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sixteen RSC productions of the tragedy at Stratford and in London - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The verdict of this survey can be stated at the outset. The RSC has no house style for this play, and the proof is that its productions contradict one another on every question that matters: whether Verona is a place or a pressure, whether the feud or the love affair drives the evening, whether the ending reconciles or indicts. What the company has instead of a style is a memory, carried by recurring actors, designers, composers and fight directors, and a stage built for verse at speed. The institution's contribution is the conversation itself. Each Stratford Romeo and Juliet answers an earlier one, corrects it, or rebels against it, and the play's celebrated flexibility is visible nowhere more plainly than in the record of a single company arguing with its own past for six decades.
 

@@ -6,15 +6,15 @@ date: 2028-03-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "john-philip-kemble", "georgian-stage", "kemble-verona"]
 excerpt: "John Philip Kemble's Romeo and Juliet brought a stately, dignified manner to Verona, the classical style of the late Georgian stage before the Romantic turn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-03-10
+lang: en
 ---
-
 John Philip Kemble's name stands on the title page of the Romeo and Juliet that Georgian London actually watched, and the part of Romeo does not stand beside it. That single bibliographical fact is the key to his Verona. The acting edition printed for the Theatre Royal, Covent Garden, in 1811 announces the tragedy as adapted to the stage by David Garrick and revised by J. P. Kemble, published as it is acted at that house; its list of persons represented then assigns Romeo to Mr. C. Kemble, the reviser's younger brother Charles, and Juliet to a Miss Norton. The elder Kemble, manager of the house, proprietor of a sixth share in it, the most carefully studied tragedian of his generation, appears in his own production only as the intelligence that chose the text, cast the company, drilled the processions, and set the terms on which Verona would be allowed to feel. His Verona was governed before it was wooed in.
 
-![John Philip Kemble and the stately Georgian Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![John Philip Kemble and the stately Georgian Verona - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The verdict of this article follows from that division of labour. Kemble's Romeo and Juliet is the great control experiment in the play's stage history: a production regime of genuine intelligence, classical discipline, and institutional power, applied for a quarter of a century to the fastest and most private tragedy Shakespeare wrote. What it preserved was the play's public skeleton, the feud as civic disorder, the Prince as law, the fathers as monuments, the funeral as state ceremony. What it mislaid was the play's pulse: haste, secrecy, wit, and the sensation of two young people outrunning every institution around them. Kemble did not fail at the play through incompetence. He succeeded at a different play, a senatorial tragedy of Verona in which dignity audits passion at every entrance, and the record he left behind, an edition, a cast list, a shelf of marked prompt copies, a generation of hostile and adoring criticism, allows the experiment to be graded with unusual completeness.
 

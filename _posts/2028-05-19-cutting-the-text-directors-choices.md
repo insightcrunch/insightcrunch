@@ -6,15 +6,15 @@ date: 2028-05-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "textual-cuts", "directing", "cutting-the-text"]
 excerpt: "Almost every production of Romeo and Juliet cuts the text, and the choices about what to lose shape the pace, the characters, and the meaning of the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-05-19
+lang: en
 ---
-
 Cutting the text of Romeo and Juliet is the oldest continuous practice in the play's stage history, older than any surviving promptbook and arguably older than the printed text itself. Every director who stages the tragedy inherits a script of some three thousand lines and an evening that cannot hold all of them at the pace a living audience can absorb, and so every director becomes an editor, whether the programme admits the editorship or not. The choices differ; the necessity does not. What varies across four centuries is not whether the play is cut but which passages a given age finds expendable, and that pattern of expendability is the most honest record the theatre keeps of what each age thought the play was about. The bawdy goes when an age is decorous. The Friar's sermons go when an age is impatient with doctrine. Paris goes when an age wants the lovers alone in the tomb. The second Chorus goes almost always, because almost no age has known what to do with a summary it has just watched enacted.
 
-![A director's marked script of the tragedy with passages struck through for performance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A director's marked script of the tragedy with passages struck through for performance - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The verdict argued through the pages that follow is plain. Cutting is not the enemy of the play; unexamined cutting is. A cut made for a reason that can be stated, defended, and priced is an act of interpretation, and the play has survived four centuries of such acts precisely because its structure tolerates them. A cut made by reflex, inherited from the previous production's promptbook or from a century of acting editions, is an act of erosion, and erosion has a direction: it removes whatever slows the love story down, and it leaves a smaller play about two young people in a hurry, stripped of the civic, comic, and clerical machinery that makes their hurry fatal. The director's real choice is never between the whole text and a shorter one. The choice is between editing the play and merely shortening it.
 

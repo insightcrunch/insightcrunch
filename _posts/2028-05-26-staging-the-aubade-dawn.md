@@ -6,15 +6,15 @@ date: 2028-05-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "aubade", "dawn-parting", "staging-the-aubade"]
 excerpt: "Staging the dawn parting of Romeo and Juliet means conjuring daybreak on a daylight stage as the lovers argue whether the bird they hear is lark or nightingale."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-05-26
+lang: en
 ---
-
 The dawn parting in Act 3 Scene 5 of *Romeo and Juliet*, the scene the French tradition named the aubade, is the most light-dependent passage in the play, and its staging history turns on a paradox that no lighting rig has ever dissolved. The scene must show daybreak arriving inside a bedchamber, minute by minute, while two people argue that the light is not there. On the stage for which the scene was written, an open-air platform under an afternoon sky, daybreak could not be shown at all, and the words carried the whole event. On the stages that inherited the scene, equipped with gas, limelight and electricity, daybreak could be painted in full, and the words risked becoming a caption to a picture. The verdict defended through this article is plain: the dawn of the aubade is an argument before it is an illumination, and the productions that stage it best are the ones that keep the light subordinate to the quarrel, so that daybreak seems to be won speech by speech against the lovers rather than switched on over their heads.
 
-![Staging the aubade dawn parting at Juliet's window - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Staging the aubade dawn parting at Juliet's window - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That verdict rests on evidence of three kinds, and the article keeps the kinds separate. The first is the text itself, quoted from the Folger edition edited by Barbara A. Mowat and Paul Werstine, checked against the two early quartos of 1597 and 1599, whose stage directions are the nearest surviving record of the scene's first life. The second is the documentary record of production: programmes, promptbooks, scenic synopses and first-night notices, the paper trail that Jill Levenson's Oxford edition of the play assembled from some 170 promptbooks and that her *Shakespeare in Performance* volume turned into the standard history of the tragedy on stage. The third kind is tradition, the staging lore that clings to famous dawns without a surviving notice to support it, and wherever a celebrated effect rests on memory rather than paper, the article says so and grades it as tradition. A dawn that cannot be documented cannot be used as evidence, however often it is repeated.
 

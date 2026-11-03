@@ -6,15 +6,15 @@ date: 2028-09-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "west-side-story", "spielberg", "spielberg-remake"]
 excerpt: "Steven Spielberg's West Side Story reimagines the Romeo and Juliet musical on screen, with Latino Sharks, untranslated Spanish in the dialogue, and Rita Moreno."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-09-08
+lang: en
 ---
-
 Steven Spielberg's West Side Story, released in December 2021 from a screenplay by Tony Kushner, is the third major screen version of the Romeo and Juliet story that Jerome Robbins, Leonard Bernstein, Stephen Sondheim and Arthur Laurents built in 1957, and it is best understood not as a remake of the 1961 film but as a restoration of the stage musical's whole argument. The verdict of this article is direct: as a reading of the material, the 2021 film surpasses the 1961 film, because it repairs the two faults that six decades of criticism had documented in the earlier version, the Sharks' thinness and the feud's weightlessness, while keeping the Bernstein and Sondheim score at the centre. It does not surpass the 1961 film as choreography, because no film could, and its Tony is its weakest element. Its commercial failure, $76 million against a $100 million production budget, is a fact about the theatrical market of its release winter, not a verdict on the film. What Spielberg and Kushner made is the version in which the musical's Romeo and Juliet machinery finally runs on both sides of the street.
 
-![Rachel Zegler as Maria and Ansel Elgort as Tony beneath the fire escape in Spielberg's West Side Story - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rachel Zegler as Maria and Ansel Elgort as Tony beneath the fire escape in Spielberg's West Side Story - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The story needs no summary beyond its Shakespearean skeleton. Two gangs, the white Jets and the Puerto Rican Sharks, fight over a few blocks of Manhattan's Upper West Side in 1957. Tony, a former Jet trying to leave the life, falls for Maria, the Shark leader Bernardo's sister, at a dance. A rumble leaves Bernardo and the Jets' leader Riff dead, Tony kills Bernardo, and the approved suitor Chino kills Tony, leaving Maria alive to pronounce judgment over his body. Laurents' book had translated the play's devices one by one: the houses became gangs, the balcony a fire escape, Friar Laurence the drugstore owner Doc, Tybalt's function Bernardo's, Paris's function Chino's, and the Prince's authority shrank into two policemen, Lieutenant Schrank and Sergeant Krupke. The 2021 film keeps every one of those substitutions and then goes behind them, asking what the substitutions were for and whether the ground under them can be made solid. Its answer, delivered through Kushner's screenplay, Justin Peck's choreography and Janusz Kamiński's photography, is that the musical was always an argument about a city deciding whose children counted, and that earlier versions had staged that argument with one hand tied.
 

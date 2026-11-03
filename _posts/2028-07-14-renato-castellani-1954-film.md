@@ -6,15 +6,15 @@ date: 2028-07-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "renato-castellani", "golden-lion-film", "castellani-film"]
 excerpt: "Renato Castellani's Anglo-Italian Romeo and Juliet won the Golden Lion at Venice for its painterly realism, though some found it more lovely than moving."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-07-14
+lang: en
 ---
-
 Renato Castellani's Romeo and Juliet of 1954 is the most beautiful failure in the play's screen history, and its failure is the instructive kind: a film that solved every problem except the one the audience came for. Castellani took Shakespeare's tragedy out of the studio, set it down in the real streets and churches of Renaissance Italy, clothed it after Botticelli and Piero della Francesca, and won the Golden Lion at Venice for the result. Yet the same season's reviewers kept reaching for the vocabulary of the picture postcard, and the paying public stayed away in numbers that made trade journalists call the picture the unchallenged flop of its year. The verdict defended across this article is that both responses were accurate about different films inhabiting the same reels. As a reading of Verona, of a whole society arranged around a feud, Castellani's film remains the most intelligent of the three famous versions, the one that understood the play as the portrait of a city before it is the portrait of a love affair. As a performance of the lovers' passion it is cautious, airless, and strangely incurious about the two people at its centre. Beauty in this film is not decoration laid over drama. Beauty is the argument, and the argument exacts a price in dramatic life that the film never quite repays.
 
-![Renato Castellani's 1954 Romeo and Juliet on location in Italy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Renato Castellani's 1954 Romeo and Juliet on location in Italy - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The film matters beyond its own merits because it isolates, in the purest available form, the choice every adaptation of this play must make and most make unconsciously. The received idea of Romeo and Juliet, the cliché the centuries have polished, wants emotion: two beautiful young people, a balcony, a tomb, and an audience's tears conducted by whatever means the medium allows. Castellani's film is the great refusal of that contract. It restores instead the tension the cliché dissolves, between beauty and drama, and holds the tension open for 138 minutes, declining every opportunity to settle it in feeling's favour. A refusal so complete becomes a critical instrument. Measured against this film, the compromises of its rivals come into focus: Cukor purchasing emotion with reverence and star authority, Zeffirelli purchasing it with youth and motion, each paying in a different currency for the same commodity. Castellani declines to purchase, and the declension, honoured at Venice and punished at the box office, remains the most intellectually respectable failure in the play's screen history, the version a serious account of the play on film has to argue with rather than merely include.
 

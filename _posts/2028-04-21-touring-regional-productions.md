@@ -6,15 +6,15 @@ date: 2028-04-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "touring", "regional-theatre", "touring-regional"]
 excerpt: "Beyond the famous houses, Romeo and Juliet lives in countless touring and regional productions that carry the play to schools, parks, and small-town stages."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-04-21
+lang: en
 ---
-
 Touring and regional productions are not the margin of this play's stage life. They are its main body. For every performance of Romeo and Juliet in a famous metropolitan house, the documented record shows companies carrying the tragedy into guildhalls, barns, tents, parks, school halls and small-town theatres, season after season, century after century, in numbers that the capital stages have never approached. The marquee production is the fraction of the play's existence that got reviewed, photographed and archived. The road is where the play was actually lived, by most of its performers and most of its audiences, most of the time.
 
-![A touring company performing the tragedy on a small provincial stage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A touring company performing the tragedy on a small provincial stage - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The verdict argued here can be stated plainly at the outset. The wider stage life of this play is not a diluted copy of metropolitan Shakespeare, distributed outward from a creative centre. It is the larger half of the play's performance history, and its work was causal, not residual. Touring and regional production manufactured the audience that the famous houses inherited, trained the profession that staffed them, and kept testing the text against every kind of room until flexibility became the play's defining stage property. The cliche of performance history fixes on celebrated stagings in celebrated buildings. Restoring the touring life shows the play everywhere, and shows it working: the popularity that the marquee productions are credited with creating was in fact created off the marquee, in places whose names survive mainly in civic account books, playbills and the weekly columns of the theatrical press.
 

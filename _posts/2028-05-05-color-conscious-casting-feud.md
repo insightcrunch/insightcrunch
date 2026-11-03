@@ -6,15 +6,15 @@ date: 2028-05-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "casting", "color-conscious-casting", "casting-the-feud"]
 excerpt: "Some productions of Romeo and Juliet cast the two feuding houses across racial or ethnic lines, making the ancient grudge speak to real-world division."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-05-05
+lang: en
 ---
-
 Color-conscious casting of the feud is the boldest interpretive device available to a director of this play, because it aims at the one thing the text leaves blank. Shakespeare never explains why the Capulets and Montagues hate each other. A production that draws the line between the houses along a racial, ethnic, or national division proposes an answer the script withholds, and it proposes that answer in the one theatrical language an audience reads before a single line is spoken: the visible bodies of the two families. This article examines that device across its documented history, from a reported Romeo at New York's African Theatre in the 1820s to a divided Verona on the United States and Mexico border, and it reaches a firm verdict. Color-conscious casting of the feud can reveal what no other staging choice reaches, the felt mechanics of inherited hatred between groups who are, in every quality the play measures, identical. It reveals that truth only under discipline: the division mapped must be one the audience genuinely lives inside, the symmetry of the two houses must survive the mapping, and the production must read its own casting rather than merely display it. Where those conditions fail, the record shows the device cancelling itself, splitting the houses on the poster and reuniting them in indifference on the stage.
 
-![Two households divided by color-conscious casting in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two households divided by color-conscious casting in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 The verdict matters because the alternative devices are weaker than their reputations. Color-blind casting, the older ideal, rests on a premise the scholarship has dismantled: that an audience can be asked not to see what it plainly sees. Color-conscious casting begins from the opposite premise, that the audience will read the bodies in front of it whether the production plans for that reading or not, and that a director may therefore compose with the reading instead of pretending it away. Between those two premises stands this play, whose feud is the most famous unexplained hatred in English drama, and whose first line of description insists that the two households are "both alike in dignity" (Prologue, line 1). A device that makes the houses visibly different while the text insists they are alike sets up the exact tension the tragedy runs on. Handled with rigor, the staging argues that the difference is the costume and the sameness is the fact. Handled carelessly, it argues the reverse, and the play's judgment on the feud collapses into a judgment on one side of it.
 

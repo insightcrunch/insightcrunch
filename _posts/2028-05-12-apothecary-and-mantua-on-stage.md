@@ -6,15 +6,15 @@ date: 2028-05-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "the-apothecary", "mantua", "apothecary-on-stage"]
 excerpt: "Staging Romeo's exile in Mantua and his bargain with the starving apothecary lets Romeo and Juliet sharpen the poverty and the desperation of that scene."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-05-12
+lang: en
 ---
-
 The Apothecary and Mantua form the smallest complete staging problem in Romeo and Juliet: one street, one shut shop, one starving tradesman with seven lines, and a sale that takes less than a minute to conclude. The scene runs to roughly a hundred and twenty lines in the Folger text, and a production can cut it, shrink it, or play it in a corridor of light between two doors. Yet everything the tragedy has argued about money, law, and hunger is transacted inside it. The verdict of this article is stated at the outset so that the evidence can be weighed against it: the Mantua scene earns its length on stage only when a production stages the whole errand, the walk, the remembered shop, the summons, the haggle over law and gold, and the consent, because the scene's subject is not the purchase of a drug but the manufacture of a seller. Cut the errand down to the transaction and the poison arrives in the tomb as a prop without a history; stage the errand entire and the audience has watched poverty being converted, step by step, into an instrument of death. The apothecary breakdown set out below is the instrument this article uses to make that judgement scene by scene, and the staging record, from the first platform stage to the small-cast doubling charts of the modern theatre, supports it at almost every point where the record can be checked.
 
-![The apothecary's shut shop and the street in Mantua - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The apothecary's shut shop and the street in Mantua - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 Three facts govern everything that follows, and each is a fact about the text before it is a fact about any production. The first is that Mantua is built out of speech. Verona has been given streets, a hall, a cell, a churchyard, an orchard, a monument; Mantua is given one soliloquy of memory in which Romeo describes a shop he saw on some earlier walk through his exile city: "And in his needy shop a tortoise hung, / An alligator stuffed, and other skins / Of ill-shaped fishes" (5.1.45-47). No direction in any early text orders a tortoise to be hung or an alligator to be stuffed. The second fact is that the shop is shut. "Being holiday, the beggar's shop is shut" (5.1.57): the Apothecary must be called out of his own premises by a customer shouting in the street, and his first line, "Who calls so loud?" (5.1.58), is the complaint of a man disturbed at rest on a day when trade is forbidden to restlessness. The third fact is that the scene contains the play's only completed cash purchase of consequence, forty ducats for a dram of poison, negotiated against a statute that makes the sale a capital offence: "Such mortal drugs I have, but Mantua's law / Is death to any he that utters them" (5.1.67-68). A staging that honours those three facts has honoured the scene. A staging that overrides them, by building a picturesque shop the speech never asked for, by opening the premises before Romeo calls, or by hurrying the bargain into a muttered exchange of vial and coin, has staged a different and lesser scene of its own invention.
 

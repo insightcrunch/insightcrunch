@@ -6,15 +6,15 @@ date: 2028-03-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "forbes-robertson", "victorian-stage", "forbes-robertson-romeo"]
 excerpt: "Johnston Forbes-Robertson brought refined grace and beautiful verse-speaking to Romeo, an admired late Victorian lover poised between spectacle and modernity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-03-17
+lang: en
 ---
-
 In September 1895 the Lyceum Theatre, the most famous Shakespearean address in London, opened its autumn season with a Romeo played by a forty-two-year-old actor-manager who had spent much of his career in other men's companies, and the performance that followed quietly reset what a Romeo could be. Johnston Forbes-Robertson did not storm the part, and he did not drown it in scenery. He spoke it. The verdict argued through this article is that his Romeo matters less as a triumph of one season than as a transfer of power inside the role: away from the painted city and the manager's spectacle, toward the speaking voice and the thinking actor, so that the line from his Lyceum season runs forward to the lyrical Romeos of the twentieth century and, on the evidence of the notices, begins with him. The refined lover of 1895 was not the part cooled down. He was the part re-centred on its verse, performed by an actor whose Hamlet, two years later in the same house, would be praised by the most feared critic in London in terms no Romeo of the period ever earned. The Romeo came first, and the Romeo explains the Hamlet.
 
-![Johnston Forbes-Robertson as Romeo at the Lyceum in 1895 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Johnston Forbes-Robertson as Romeo at the Lyceum in 1895 - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The record needs care, because the Hamlet legend has swallowed the Romeo whole in most short accounts of the career. The documented sequence is plain. Forbes-Robertson took the Lyceum under his own management in 1895, while Henry Irving, the house's presiding genius, was absent in America. He opened with Romeo and Juliet in September of that year, playing Romeo to the Juliet of Mrs Patrick Campbell, and the production was still filling the theatre at the end of November. Two seasons later, in September 1897, he played Hamlet in the same house for the first time, at the age of forty-four, and that performance fixed his fame. George Bernard Shaw, then the Saturday Review's dramatic critic, wrote of the Hamlet in terms his collected reviews preserve as near the summit of his praise for any actor. Shaw went further than praise: he wrote the part of Caesar in Caesar and Cleopatra for this actor, an honour he granted no other performer of the age. When the greatest dramatic critic of the period builds a role around an actor's instrument, the instrument deserves examination in the part where it was first heard at full stretch in Shakespeare's love tragedy. That part is Romeo, and the examination follows.
 

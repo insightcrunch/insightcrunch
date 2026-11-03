@@ -6,17 +6,17 @@ date: 2028-07-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "franco-zeffirelli", "zeffirelli-film", "italian-cinema"]
 excerpt: "Franco Zeffirelli's Romeo and Juliet cast teenagers Leonard Whiting and Olivia Hussey as the lovers, a lush, youthful film, the standard screen version."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-07-21
+lang: en
 ---
-
 ## Why Zeffirelli's Romeo and Juliet Became the Screen's Standard Version
 
 One decision made Franco Zeffirelli's film the screen version of Romeo and Juliet against which every later adaptation is measured, and the decision was taken before a camera rolled. Zeffirelli cast the lovers at the ages the play assigns them. Shakespeare's Juliet has not yet turned fourteen; her mother states the count in the play's third scene, "She's not fourteen" (1.3), and the Nurse fixes the birthday to Lammas Eve. Every celebrated screen Juliet before 1968 had been a grown woman playing down, and every celebrated screen Romeo a man in his thirties or forties playing young. Zeffirelli, fresh from filming The Taming of the Shrew with the two most famous married stars in the world, Richard Burton and Elizabeth Taylor, reversed the policy completely. He searched three continents for unknowns, cast a sixteen-year-old boy and a fifteen-year-old girl, and built the picture around faces that needed no act of audience charity to be believed. The verdict of this article is that the gamble was the making of the film and the remaking of the play on screen: the casting recovered the tragedy's first premise, that its catastrophe is a children's catastrophe, and no subsequent Romeo and Juliet on film has been able to unmake that recovery, whatever it gained in other currencies.
 
-![Leonard Whiting and Olivia Hussey as the teenage lovers in Zeffirelli's Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Leonard Whiting and Olivia Hussey as the teenage lovers in Zeffirelli's Verona - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The claim needs one qualification at once, because the film's admirers and its detractors have spent five decades talking past each other on precisely this point. The picture is a great film of the play's situation and a partial film of the play's language. Zeffirelli cut roughly half the text, trimmed the long speeches his young leads could not yet carry, and let photographed streets, real churches and Nino Rota's score do work that on a stage only verse can do. Critics who prize the film, Roger Ebert at their head, answer that cinema is under no obligation to be a recitation, and that what a stage production must describe, a film can show. Critics who resist it, Jack Jorgens most searchingly, answer that the price was the tragedy's intelligence: a story of sentiment and pathos where Shakespeare wrote a story of young people who come, at the end, to understand the world that is killing them. Both charges are sustained by the record, and this article adjudicates between them rather than pretending either away. Its conclusion is that the trade was worth making and that its terms should be stated honestly: Zeffirelli bought back the lovers' youth with the lovers' eloquence, and the purchase, on balance, served the play's screen life better than any fidelity-first alternative on record, because a Romeo and Juliet whose lovers are visibly children changes what every scene means, while a Romeo and Juliet that keeps every line and loses the ages is annotating a premise it has already surrendered.
 

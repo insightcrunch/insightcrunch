@@ -6,15 +6,15 @@ date: 2028-08-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "west-side-story", "broadway", "west-side-story-musical"]
 excerpt: "West Side Story remade Romeo and Juliet as a Broadway musical, turning the feuding houses into rival New York gangs and the lovers into Tony and Maria."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-08-25
+lang: en
 ---
-
 West Side Story is the most consequential thing that ever happened to Romeo and Juliet on an American stage, and it is not a production of the play at all. It is a transformation. When the musical opened at the Winter Garden Theatre on 26 September 1957, with a book by Arthur Laurents, music by Leonard Bernstein, lyrics by Stephen Sondheim, and conception, direction, and choreography by Jerome Robbins, it took the tragedy apart at the joints and rebuilt it inside a different art form, on a different continent, in a different century's idiom. Two households became two street gangs. A masked ball became a dance at a gym. A friar became a drugstore owner. A balcony became a fire escape. And at the climax the adaptation committed its boldest act of editing: it refused the double death. Tony dies. Maria lives, picks up the gun, and indicts both gangs to their faces. That single change is the musical's thesis, and this article's verdict follows from it. The 1957 West Side Story is not the play abridged or the play illustrated. It is the play answered. What it keeps is not the plot, which it alters at the most sacred point, but the engine: the speed, the symmetry, the compression of a love affair into a few days, and a civic order that arrives, as the Prince arrives in Verona, always one corpse too late.
 
-![The original Broadway production of West Side Story at the Winter Garden Theatre, the Jets and Sharks in the rumble - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The original Broadway production of West Side Story at the Winter Garden Theatre, the Jets and Sharks in the rumble - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The verdict needs its evidence laid out in order, because the show's reputation has been carried so far by its film, its school productions, and its cast album that the 1957 stage production itself is often praised for the wrong things or blamed for things it did not do. The original production ran 732 performances, a strong run for its season and no phenomenon. It was nominated for six Tony Awards and won two, losing Best Musical to The Music Man. Its first reviewers were excited, divided, and in several cases startled rather than reverent. Its creators finished the process barely on speaking terms with its director. Its book was accused then and since of melodrama, its Puerto Rican characters of being imagined from outside, its lyrics of cleverness beyond their speakers. All of that belongs in the record, and this article enters all of it. What the record also shows is a work of unusual structural intelligence, in which the adaptation of Shakespeare is carried not by reverence but by substitution: every element of the tragedy is replaced by a functional equivalent in the new medium, and the equivalents interlock. Dance does the work of the sword fight. The tritone does the work of the stars. A failed errand does the work of an undelivered letter. And a surviving heroine does the work of the Prince's closing judgment, which the musical gives to the victim instead of the magistrate. That is the argument. The pages that follow test it against the genesis, the tryouts, the opening, the score, and the critics.
 
