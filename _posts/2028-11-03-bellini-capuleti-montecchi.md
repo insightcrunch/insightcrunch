@@ -6,17 +6,17 @@ date: 2028-11-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "bellini", "opera", "bellini-opera"]
 excerpt: "Bellini's opera I Capuleti e i Montecchi draws the lovers' story from the Italian novelle rather than Shakespeare, with Romeo sung by a mezzo-soprano."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-11-03
+lang: en
 ---
-
 ## The Verdict First: Bellini's Capuleti Is Not an Opera of the Play
 
 Bellini's *I Capuleti e i Montecchi*, first performed at the Teatro La Fenice in Venice on 11 March 1830, is the most famous Romeo and Juliet opera that Shakespeare never wrote. The distinction matters, and this article defends it as the key to everything the work is. Vincenzo Bellini's score sets a libretto by Felice Romani, and Romani's text descends from the Italian novella tradition through Luigi Scevola's tragedy *Giulietta e Romeo* of 1818 and through Romani's own earlier libretto for Nicola Vaccai. No English text stands anywhere in that line of descent. The opera is therefore not an adaptation of the play, loose or otherwise. It is a parallel treatment of a shared story, composed in the same Italian line that produced the tale before the English playwright ever touched it, and its differences from the play are not liberties. They are inheritances.
 
-![Giuditta Grisi as Romeo in Bellini's I Capuleti e i Montecchi at the La Fenice premiere - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Giuditta Grisi as Romeo in Bellini's I Capuleti e i Montecchi at the La Fenice premiere - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The verdict can be stated plainly at the outset. Judged as an adaptation of Shakespeare, *I Capuleti e i Montecchi* looks mutilated: the balcony scene is gone, Mercutio is gone, the Nurse is gone, Paris is gone, and Juliet wakes before Romeo dies, which reverses the play's most famous stage picture. Judged as what it is, a bel canto tragedy drawn from the novelle through Scevola, the work is coherent, concentrated, and in its final scene arguably closer to the emotional logic of the oldest Italian telling than the play itself. The opera keeps five singing principals, a political feud between Guelph and Ghibelline factions, a heroine betrothed to her lover's enemy, a physician instead of a friar, and an ending in which the lovers die awake and in each other's arms. Every one of those features is traceable to the Italian line. None of them is a mistake.
 

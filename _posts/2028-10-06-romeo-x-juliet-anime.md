@@ -6,15 +6,15 @@ date: 2028-10-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "romeo-x-juliet", "anime", "romeo-x-juliet-anime"]
 excerpt: "Gonzo's anime Romeo x Juliet rebuilds the doomed lovers' story in Neo Verona, a floating fantasy city where a hidden Capulet heir raises an armed rebellion."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-10-06
+lang: en
 ---
-
 A television anime that moves Verona into the sky, exterminates one of the two households before the story opens, and hands Juliet a sword is not an adaptation that failed to read the play. *Romeo x Juliet*, the 24-episode series produced by the studio Gonzo with SKY Perfect Well Think and broadcast in Japan in 2007, read the play closely enough to know exactly which load-bearing walls it was removing. The verdict argued through this article is that Gonzo's series is the rare loose adaptation that is faithful at the level of architecture while faithless at the level of plot. Shakespeare's tragedy ends with two private deaths converted into a public settlement: a prince's judgment, two reconciled fathers, golden statues promised over the bodies. Gonzo discards nearly every mechanism that produces that ending in the play, the missed letter, the sleeping potion, the double suicide in the tomb, and then rebuilds the ending's function from fantasy materials. The lovers still die, and their deaths still remake the city. What the anime changes is the currency of the sacrifice, and that change, not the floating island or the dragon steeds, is its real argument about the play.
 
-![Juliet as the Red Whirlwind above the floating city of Neo Verona in the Romeo x Juliet anime - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet as the Red Whirlwind above the floating city of Neo Verona in the Romeo x Juliet anime - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The series also makes a second argument, quieter than the first, about ownership. Shakespeare's play gives the feud no cause: the Prologue calls it an "ancient grudge" (Prologue.3) and the text never supplies a reason. Gonzo supplies the most legible reason a feud can have, a coup d'état, and in doing so turns a tragedy of unexplained hatred into a drama of tyranny and restoration. Whether that trade strengthens or betrays the source is the disagreement this article adjudicates, using the play in Jill Levenson's Oxford edition as the standard, the scholarship of Veronica Popescu as the case for the defence, and the reviewing record, led by Theron Martin of Anime News Network, as the case for the prosecution. The conclusion reached is that the anime passes the only test that matters for a loose adaptation. It keeps the doomed-love core intact, it earns its ending rather than borrowing the play's, and its inventions cluster where the play itself is silent.
 

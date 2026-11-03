@@ -6,15 +6,15 @@ date: 2029-02-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "bbc-shakespeare", "television", "bbc-production"]
 excerpt: "The BBC Television Romeo and Juliet opened the complete BBC Shakespeare series with a full-text studio production prized more for fidelity than for fire."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-02-16
+lang: en
 ---
-
 The BBC Television Romeo and Juliet of 1978 is the most instructive failure and the most durable success in the screen history of the tragedy, and the two descriptions belong to the same object. As drama, Alvin Rakoff's studio production is cautious, level, and short on erotic danger. As an artifact, it is the fullest record of the play ever placed before a mass audience by a broadcaster: a near-complete text, spoken by a strong company, preserved as the opening exhibit of the BBC Television Shakespeare, the seven-season project that carried all thirty-seven plays into homes and classrooms between 1978 and 1985. The verdict defended across this article is plain. The production fails the test that cinema set for the tragedy, the test of fire, and passes a harder test that cinema never attempted, the test of the whole text. Judged as a film manqué it disappoints. Judged as what its producer Cedric Messina built it to be, a standard televised reading of the complete play, it remains the version against which the meaning of fidelity in adaptation is most usefully measured.
 
-![Alvin Rakoff's BBC Television Shakespeare Romeo and Juliet with Patrick Ryecart and Rebecca Saire - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alvin Rakoff's BBC Television Shakespeare Romeo and Juliet with Patrick Ryecart and Rebecca Saire - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The distinction matters because the production has usually been reviewed under the wrong heading. It arrived on BBC Two on 3 December 1978, a decade after Franco Zeffirelli's film had fixed the screen image of the lovers as sunlit, mobile, and young, and the comparison was made instantly and unfavourably. The studio Verona looked flat beside Italian locations. The verse-speaking sounded deliberate beside Zeffirelli's breathless naturalism. Yet the comparison conceals the production's actual brief, which was not to rival a film but to open a canon. Messina's series proposed that a public broadcaster should hold the entire dramatic works in trust, performed straight, in period dress, at full length, and sold with printed texts and study materials so that a school with one television set could teach any play in the canon from the same shelf. Rakoff's production was the pilot exhibit of that proposition, taped at BBC Television Centre in the first week of February 1978, and every strength and weakness in it descends from the proposition. The flatness is the price of the completeness. The completeness is the achievement that outlasted the flatness.
 

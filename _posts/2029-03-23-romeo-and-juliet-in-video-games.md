@@ -6,17 +6,17 @@ date: 2029-03-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "video-games", "interactive-media", "video-games"]
 excerpt: "Video games have borrowed Romeo and Juliet for plots and references, from direct retellings to feuding-clan stories and knowing nods to the star-crossed lovers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-03-23
+lang: en
 ---
-
 ## Romeo and Juliet in Video Games: A Borrowed Story, Not a Played One
 
 The verdict comes first, because the evidence permits a firm one. Interactive media have borrowed the tragedy constantly and adapted the tragedy almost never. Across four decades of commercial production, the documented record holds one large simulation neighbourhood built from the feud, one famous raid encounter built from the double death, a scatter of small direct retellings that survive by letting the lovers live, a Japanese otome line that keeps the names and replaces the plot, a co-operative action title that turns linked death into a system rule, and a long tail of nods, skins, quest names, and place names. What the record does not hold is a major title that stages the play's sequence, in the play's order, with the play's ending intact and the player's hand on the controls. That absence is the finding. The play in games is a story about a medium discovering, exhibit by exhibit, that a controller is a promise the tragedy cannot honour. A game, whatever else it is, tells the person holding the controls that input matters. The tragedy tells its audience, in the Prologue's sixth line, that its lovers are "star-crossed" and that their deaths are already written. Every documented exhibit in the field is a negotiation between those two sentences, and each negotiation has a price that can be named.
 
-![A games survey map of Verona's feud translated into interactive media - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A games survey map of Verona's feud translated into interactive media - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The negotiation matters beyond novelty. Film took the lovers and gave them faces, opera gave them voices that could sustain a duet past the point of speech, and ballet gave them bodies whose partnering made the feud legible as weight and balance. Each of those media could keep the ending because each asks its audience to watch rather than to act. The interactive medium asks something else. It asks a participant to inhabit a role, to test a system, to fail and retry. Against that request, a plot whose entire engine is the refusal of effective action becomes a design problem of a special kind. Romeo acts constantly and every action tightens the knot. Juliet acts with more intelligence than anyone around her and her best plan kills her. The Friar acts, the Nurse acts, the Prince acts, and the sum of all that competent, well-meant activity is two bodies in a tomb. A medium built on the premise that doing things changes outcomes meets a text built on the premise that doing things is how the outcome arrives. The friction between those premises, not a shortage of affection for the play, explains the shape of the record surveyed here.
 

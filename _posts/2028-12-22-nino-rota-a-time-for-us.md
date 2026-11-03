@@ -6,15 +6,15 @@ date: 2028-12-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "nino-rota", "film-music", "nino-rota-theme"]
 excerpt: "Nino Rota's love theme for Zeffirelli's Romeo and Juliet, later given English lyrics as A Time for Us, became one of the most beloved pieces of film music."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2028-12-22
+lang: en
 ---
-
 Nino Rota wrote many melodies that film audiences carry for life, but one of them escaped its film altogether and became the default sound of the lovers themselves: the love theme from Franco Zeffirelli's 1968 Romeo and Juliet, sung inside the film as "What Is a Youth", reborn outside the film as the instrumental that topped the American chart in the summer of 1969 and as the song "A Time for Us". The theme is the rare film cue that behaves like a folk standard while remaining, on the documentary record, a single composer's construction, credited to Rota alone in its instrumental form and to Rota with Larry Kusik and Eddie Snyder in its famous English lyric form. Its history divides neatly into states, and each state changed what the melody meant: a diegetic ballad warning two teenagers at a ball, an orchestral signature under a balcony and a wedding and a tomb, a piano-led single that displaced the Beatles at number one, a title track for Johnny Mathis, an album track for Andy Williams, an Italian farewell song with words by a major novelist, and a sample under a twenty-first-century pop record. The argument of the pages that follow is a verdict, stated plainly at the start: the theme succeeded in every state because Rota composed it as a song before it was ever treated as one, with a closed, balanced, singable period structure that a film orchestra, a dance band, a crooner and an opera tenor could each inhabit without breaking it, and the pop afterlife did not betray the film cue but completed a design the film cue already contained.
 
-![Nino Rota's love theme for Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nino Rota's love theme for Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 That verdict needs defending against a respectable opposing case, because the theme has detractors with ears. The case against runs that the melody is a romantic commonplace, that Henry Mancini's hit arrangement smoothed away the film version's period character, and that the flood of easy-listening covers turned a precise dramatic instrument into wallpaper for weddings. Parts of that case are true and will be granted in their place. The arrangement question is real: the film version carries a pavane-like middle section with neo-Elizabethan colouring, and Mancini recomposed that middle section for the single, so the hit record is an adaptation of Rota and not a transcription. The wallpaper charge is also partly earned, since any melody recorded in the hundreds of versions will accumulate routine performances. Yet the verdict stands, for a reason the cover record itself proves: the versions that last, from Mancini's piano to Luciano Pavarotti's Italian farewell, keep returning to the same small set of musical facts, a minor-mode opening strain of long-breathed phrases, a contrasting strain of brighter character, and a return that lands like a fate restated. A melody that survives that much handling with its identity intact is not a commonplace that got lucky. The melody is a piece of engineering, and the engineering is audible.
 

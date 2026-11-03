@@ -6,17 +6,17 @@ date: 2028-10-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "romeo-must-die", "action-film", "romeo-must-die"]
 excerpt: "Romeo Must Die loosely remixes Romeo and Juliet as a martial-arts action thriller, pitting feuding crime families against each other on the Oakland waterfront."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-10-13
+lang: en
 ---
-
 ## Romeo Must Die: The Loosest Romeo and Juliet That Still Counts
 
 Romeo Must Die is the limiting case of Shakespeare adaptation, the film that keeps the least of Romeo and Juliet and still earns the comparison. Released by Warner Bros. in March 2000, directed by Andrzej Bartkowiak in his debut as a director, it stars Jet Li as Han Sing and Aaliyah, in her first film, as Trish O'Day, the son and daughter of two Oakland crime organizations whose rivalry drives the plot. Of the play, the film retains the feuding houses, the attraction across the divide, a pair of dead young men, and a title. It retains no line of the verse, no balcony, no secret marriage, no potion, no tomb, and no double suicide. Its Romeo does not die. Measured as fidelity, the film is a failure so complete that the measurement itself becomes suspect, and that is the film's value to the study of adaptation: it isolates the one element of the play that can survive the removal of everything else, and it proves that the element is the feud. The verdict of this article is that Romeo Must Die is a genuine but minimal adaptation, an analogy rather than a version, and that its failures are as instructive as its single success. The success is structural: two households, a forbidden attachment, a body count among the young. The failures are everything the play uses to make that structure tragic, and they cluster in one place, the romance the film advertises and then declines to stage.
 
-![Jet Li and Aaliyah as the lovers of Romeo Must Die, the Oakland action remix of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jet Li and Aaliyah as the lovers of Romeo Must Die, the Oakland action remix of the play - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The film's own credits announce the distance. The screenplay is by Eric Bernt and John Jarrell, from a story by Mitchell Kapner, and neither text makes any claim on Shakespeare's language. Producer Joel Silver, who built the film at Silver Pictures, arrived at the play from the opposite direction to a literary adaptation: by his own account he was frustrated by the staleness of American action cinema and turned to Hong Kong for a fresh grammar, casting Jet Li after Li's villainous turn in Lethal Weapon 4 (1998), which Bartkowiak had photographed as cinematographer. Shakespeare supplied the chassis, Hong Kong supplied the engine, and hip hop supplied the sound. A reputable account of the production therefore has to hold three facts together: the play is present as a premise, absent as a text, and marketed as a name. The title does the work that in earlier adaptations was done by quotation. Nothing in the film is called Romeo or Juliet, and the only Shakespearean words in it are the four syllables of its title, two of which are an instruction the film disobeys.
 

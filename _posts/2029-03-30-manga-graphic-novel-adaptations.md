@@ -6,15 +6,15 @@ date: 2029-03-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "manga", "graphic-novels", "manga-graphic-novels"]
 excerpt: "Manga and graphic novels worldwide have retold Romeo and Juliet, from faithful comic editions to manga reimaginings that recast the lovers in new worlds."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-03-30
+lang: en
 ---
-
 Manga and graphic-novel versions of the Verona tragedy hold a distinction no stage revival and no film can claim: the panel fixes an interpretation in ink and then hands the pace of performance to the reader. A stage production decides how long the balcony scene lasts. A film decides the length of every pause before the potion speech. A comic decides neither. The drawn page proposes faces, rooms, weather, and wounds, and the reader supplies duration, emphasis, and breath. That transfer of control is the medium's gift to the play, and the history of the play in comics is the history of artists learning, edition by edition, how much of the performance to seize and how much to surrender. The verdict of the record assembled here is plain. Comics succeed with the tragedy when the drawing interprets, and fail when the drawing merely illustrates a shortened script. The faithful school edition and the radical manga reinvention stand at opposite ends of the shelf, and each camp has produced both kinds of book, which is why fidelity alone has never predicted quality in print.
 
-![Manga and graphic-novel editions of the Verona tragedy on a reading desk - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Manga and graphic-novel editions of the Verona tragedy on a reading desk - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The shelf divides into four families. The first family is the educational comic, built to carry a set text into classrooms: the Classics Illustrated issue of the nineteen fifties, the unabridged comic-strip edition of the nineteen eighties, the three-text Classical Comics volume of 2009, and the No Fear graphic line. The second family is the manga line, British and Japanese: the SelfMadeHero Manga Shakespeare volume of 2007, which moves Verona to the Shibuya district of Tokyo, and the Japanese print tradition behind and beside that volume, from robot fables of the nineteen sixties to the shōjo magazine serial spun out of a television anime. The third family is the single-author graphic novel, represented at the highest level by Gareth Hinds, whose 2013 Candlewick edition casts the households across continents and lets a wordless double-page spread carry the tomb. The fourth family is the free reinvention, crowned by Romeo and Juliet: The War, the science-fiction volume in which cyborg Montagues face genetically enhanced Capulets across a futuristic empire. Four families, four contracts with the source, one question running through every contract: what does the drawn image add that prose summary and stage blocking cannot?
 
@@ -255,11 +255,6 @@ The pattern across a century of print is consistent. The play entered comics as 
 Rank the families by the standard the record supports. The single-author graphic novel stands first, because unified interpretation across text, image, casting, and silence is the fullest form of the panel's co-authorship, and Hinds sets the mark. The manga line stands second and rising, because the grammar of interiority fits the heroine's centrality, because relocation in the Leong volume conducts criticism by casting, and because the Japanese residents of the form take risks with consciousness that the imported volumes admire from the shore. The faithful school family stands third as art and first as infrastructure, the ladders on which most readers climb, honourably built when the rungs are labelled. The free reinvention stands last in this ranking, chrome over thought in the flagship example, awaiting the volume that spends the chassis's freedom on meaning as boldly as the manga spent relocation. The cliché keeps the play in prose and on stage. The panel keeps the play in the hand, at the reader's pace, in the gutter's silence, and the hand, given a drawn Verona worth holding, has never yet let the tragedy drop.
 
 A shelf graded by the survey's standard also describes the commission the record leaves open. The drawn Verona awaits a single-author manga-scale treatment from inside the shōjo tradition at full length, a resident artist spending the grammar of interiority on the complete architecture with the ambition Hinds brought to watercolour; awaits a school edition that labels every rung and still dares a wordless tomb; awaits a reinvention that spends the chassis's freedom on the heroine's mind rather than on the houses' chrome. Each gap in the pattern is an instruction to publishers written by the pattern itself. The editions that fill the gaps will be graded by the same two columns, language kept and argument drawn, and the grading will hold because the columns measure the two things the medium can give the play: the words, in whatever measure honesty allows, and the pictures, in whatever measure courage allows.
-
-
-
-
-
 
 
 ## Frequently Asked Questions

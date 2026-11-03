@@ -6,15 +6,15 @@ date: 2029-01-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "ram-leela", "bollywood", "ram-leela"]
 excerpt: "Sanjay Leela Bhansali's Ram-Leela transplants Romeo and Juliet to a gun-running Gujarat of rival feuding clans, told in lavish color, song, music, and dance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2029-01-19
+lang: en
 ---
-
 Ram-Leela, released in full as Goliyon Ki Raasleela Ram-Leela, is the strongest mainstream Indian answer to a stubborn critical habit: the habit of treating Verona as the natural home of Romeo and Juliet and every other setting as decoration. Sanjay Leela Bhansali's 2013 Hindi film moves the tragedy to Ranjaar, a fictional Gujarati town where two clans manufacture and sell firearms in the open, and the move is not decoration. The guns change the feud's physics, the festivals change the plot's machinery, the matriarch who runs the Capulet house changes the tragedy's balance of power, and the soundtrack changes how desire itself is staged. The verdict defended across this study is direct: Ram-Leela keeps the tragic core of the play intact, and spectacle in the film functions less as an escape from that core than as the vernacular language in which the core is spoken. Where the film falters, in a stretched second half and in one ornamental song placed for star value, the failures are failures of proportion rather than of nerve. The double death survives translation, restaged as a mutual shooting agreed by both lovers, and the peace that follows arrives too late in the precise Shakespearean manner. A tragedy that ends with two households cremating their children together has not traded its core for color. The color is how the core reaches its audience.
 
-![Ram-Leela and the gun-running Gujarat of Bhansali's adaptation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ram-Leela and the gun-running Gujarat of Bhansali's adaptation - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The play's own opening supplies the standard against which the adaptation should be measured. The Prologue announces "Two households, both alike in dignity" (Prologue, line 1) and an "ancient grudge" breaking "to new mutiny" (Prologue, line 3), then promises that "a pair of star-cross'd lovers take their life" (Prologue, line 6). Three commitments follow from those lines: parity between the houses, a feud older than any living grievance, and a foreknown ending in which the lovers' deaths carry the moral weight. Ram-Leela honors all three commitments with unusual literalness. The Rajadi and Sanera clans hold matched power in Ranjaar, matched arsenals, matched codes of honor. The feud between them is dated by the film's own narration at five hundred years, an antiquity no character can explain and none can escape. The ending is never in doubt for any viewer who knows the source, and Bhansali builds the final movement as a countdown toward a death the lovers choose with open eyes. Fidelity of that order is rare in popular adaptation, and it frames every liberty the film takes elsewhere. The liberties are extensive: a heroine promoted to clan chief, a villain with no counterpart in the play, a mother rebuilt as a gang sovereign, songs that pause the action for communal dance. Each liberty is examined in turn against the three commitments, and each survives the examination except where proportion fails.
 

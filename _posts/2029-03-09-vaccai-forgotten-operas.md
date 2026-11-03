@@ -6,17 +6,17 @@ date: 2029-03-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "vaccai", "opera", "forgotten-operas"]
 excerpt: "Beyond the famous settings, many forgotten operas told the Romeo and Juliet story, including Vaccai's, whose final act was once swapped into Bellini's opera."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-03-09
+lang: en
 ---
-
 ## Vaccai and the Forgotten Operas: A Crowded Field Behind Two Famous Names
 
 The forgotten operas of the Verona story outnumber the famous ones by a wide margin, and Nicola Vaccai stands at the centre of that hidden repertory as its most instructive case. Ask a concertgoer to name an operatic treatment of the lovers and the answer rarely travels beyond two titles: the Bellini setting of 1830 and the Gounod setting of 1867. Between and around those landmarks, however, a whole shelf of scores once filled European stages, from a German Singspiel of 1776 that let the lovers live to an Italian tragedy of 1865 that held respectable houses for a generation. The verdict argued through this article is plain: the vanished settings did not disappear because the tale failed them. They disappeared because repertory is a narrow gate, and the gatekeepers were singers, publishers, and the slow hardening of a canon that admits only a handful of works per story. Vaccai proves the point with unusual clarity, because his opera both lost and won at the same time. The complete score slipped out of the repertory, while its tomb scene, detached and transplanted into the Bellini opera, enjoyed a stage life of sixty-five years inside another composer's work. A fragment outlived its parent by decades. That paradox, examined closely, explains more about how operas survive than any success story can.
 
-![The tomb scene of Vaccai's Giulietta e Romeo - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The tomb scene of Vaccai's Giulietta e Romeo - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 The scale of the forgetting deserves emphasis at the outset. The Verona tale attracted composers in every operatic nation and in every decade from the 1770s onward. German Singspiel, French opera with spoken dialogue, Italian dramma per musica, and grand opera all took their turn at the feud, the ball, the balcony, and the tomb. Most of those scores were performed, applauded, printed in vocal score, and then shelved as taste moved on. Their libretti sit in library catalogues. Their music survives in archives, in a few cases in modern editions, in fewer cases still on recordings. Yet the standard concert and opera repertory behaves as though the tale had been set only twice. Restoring the forgotten settings to view changes the picture of the story's musical appeal. The tale was not a rare inspiration seized by two geniuses. It was a standing resource of the European stage, a property that managers reached for whenever a company needed passion, youth, and a tomb scene that could be relied upon to draw tears. The crowded field is the fact; the two survivors are the exception that requires explanation.
 
@@ -70,7 +70,6 @@ That happy ending is the single most revealing document on the early shelf. It d
 The French stage answered in the following decade. Daniel Steibelt, a Berlin-born keyboard virtuoso of formidable reputation and equally formidable self-regard, composed Roméo et Juliette to a libretto by Joseph-Alexandre de Ségur, first performed at the Théâtre Feydeau in Paris on 9 October 1793, in the middle of the Revolution's most violent season. The work is an opéra in three acts with spoken dialogue between the musical numbers, the form that the French stage called opéra comique regardless of subject. Steibelt restored the tragic ending that Gotter had removed, and his score, published by the composer in Paris in the year of the premiere, circulated in the arrangements and extracts through which most contemporaries encountered new opera. The piece held the Feydeau stage respectably and then faded as its composer's fame migrated to the piano: Steibelt the virtuoso, famous for a celebrated and possibly apocryphal contest with Beethoven in Vienna in 1800, eclipsed Steibelt the opera composer, a pattern that the Vaccai case repeats in a different key.
 
 Between the Paris work and the Milan one stands the Italian entry that dominated the tale's operatic life before Vaccai. Niccolò Antonio Zingarelli, a Neapolitan master of the old school, set Giulietta e Romeo to a libretto by Giuseppe Maria Foppa, first performed at La Scala on 30 January 1796. The score won a reputation out of proportion to its composer's later standing: accounts describe a composition of remarkable speed, and the opera held the Italian repertory well into the nineteenth century. Its Romeo became a favourite vehicle for Malibran herself in the years around 1830, which gives the singer a unique place in this history. The same artist who championed the Zingarelli setting in her youth later ordered the Vaccai tomb scene into the Bellini opera, a one-woman thread connecting three of the shelf's principal exhibits. Zingarelli's setting faded as bel canto taste hardened around Rossini and his successors; its idiom, rooted in the eighteenth century, came to sound like the past. The pattern repeats across the shelf: each generation's setting is displaced not by failure but by the next generation's style, and the tale itself, indifferent to style, passes to new hands.
-
 
 
 ## The InsightCrunch Forgotten-Opera Catalogue

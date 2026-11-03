@@ -6,17 +6,17 @@ date: 2029-03-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "zandonai", "opera", "zandonai-opera"]
 excerpt: "Riccardo Zandonai's opera Giulietta e Romeo sets the Veronese tragedy in a late-Romantic Italian idiom drawn from the Italian novelle rather than the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-03-02
+lang: en
 ---
-
 ## The Verdict First: Zandonai Restores the Italian Operatic Line
 
 Riccardo Zandonai's *Giulietta e Romeo*, first performed at the Teatro Costanzi in Rome on 14 February 1922, is the last major opera in which the Veronese tragedy returns home. The claim needs its terms fixed before it can be defended. The story of the two lovers was Italian before it was English: Luigi da Porto gave the lovers their names, their city, and their tomb in a novella printed in 1530, and Matteo Bandello retold the tale a generation later in the version that travelled north. Shakespeare received the story through Arthur Brooke's English poem and rebuilt it so completely that the rebuilt version swallowed its sources in the world's memory. Operas followed the same fork. Some settings descend from the play. Others descend from the novelle line that produced the tale before the play existed. Zandonai's opera belongs to the second descent, and its librettist, Arturo Rossato, built the text from the novelle of da Porto and Bandello rather than from the English drama. That single fact of descent explains the opera's shape, its cast list, its ending, and its strange position in the repertoire: a famous story in an unfamiliar form, sung in the idiom of Italian verismo at the moment that idiom was ageing.
 
-![Gilda dalla Rizza and Miguel Fleta, the first Giulietta and Romeo of Zandonai's opera at the Teatro Costanzi - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gilda dalla Rizza and Miguel Fleta, the first Giulietta and Romeo of Zandonai's opera at the Teatro Costanzi - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The verdict argued through this article is that *Giulietta e Romeo* is a minor opera standing in a major line, and that the line, not the ranking, is the reason the work matters. Judged bar by bar against the composer's own *Francesca da Rimini* of 1914, the later score is the less inspired of the two: its melody comes in shorter breaths, its love music leans on orchestral colour where the earlier opera sang. Judged as an act of restoration, the 1922 score has no rival in its century. Ninety-two years after Bellini's *I Capuleti e i Montecchi* and ninety-seven years after Nicola Vaccai's *Giulietta e Romeo*, an Italian composer of the first rank set the Veronese tragedy again from its Italian sources, with a tenor Romeo in place of the old trouser role, a promised husband who carries da Porto's own name for him, and an ending in which the heroine wakes, speaks, and dies without a dagger. The opera failed to hold the stage after the middle of the twentieth century. The failure was a failure of fashion and of casting economics, not of conception, and the pages that follow defend that distinction section by section.
 

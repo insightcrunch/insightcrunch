@@ -6,15 +6,15 @@ date: 2028-12-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "kenneth-macmillan", "ballet", "macmillan-ballet"]
 excerpt: "MacMillan's Romeo and Juliet ballet set Prokofiev's score in choreography of rare dramatic force, made legendary by Fonteyn and Nureyev at Covent Garden."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-12-01
+lang: en
 ---
-
 Kenneth MacMillan's Romeo and Juliet for the Royal Ballet is the definitive English ballet version of the tragedy, and its claim rests on the choreography rather than on the celebrated names who danced its first night. The production opened at the Royal Opera House, Covent Garden, on 9 February 1965, with Margot Fonteyn and Rudolf Nureyev in the title roles, Nicholas Georgiadis designing a towering Renaissance Verona, and Sergei Prokofiev's score carrying a drama that the steps, not the words, had to speak. MacMillan was thirty-five, the work was his first full-length three-act ballet, and he had built it in under five months on two young dancers who were then displaced from the premiere by casting politics. Every element of that sentence has been contested in print. The argument of this article is that the contest misses the point: the ballet survived its own premiere, outlived both pairs of originators, crossed the Atlantic as a signature work for a second great company, and remains the standard against which English narrative ballet is measured, because MacMillan solved the problem the play sets any wordless adapter. The statistics state the case in numbers: six decades in one repertory, more than five hundred performances at the Royal Opera House alone, a second national company across the Atlantic treating the identical steps as a birthright, and a filmed archive that runs from the year after the premiere to the high-definition era. The cliche needs speech, and speech is the one thing a ballet cannot use. MacMillan's answer was to restore the tragedy as danced drama, to make movement carry motive, decision and consequence with the precision the verse carries them in the theatre.
 
-![Kenneth MacMillan's Romeo and Juliet ballet at Covent Garden, with the lovers dwarfed by the Verona of Nicholas Georgiadis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kenneth MacMillan's Romeo and Juliet ballet at Covent Garden, with the lovers dwarfed by the Verona of Nicholas Georgiadis - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The verdict matters because the legend points the other way. In the popular telling, the evening of 9 February 1965 belongs to Fonteyn and Nureyev: forty-three curtain calls, forty minutes of applause, the iron curtain lowered at last to send the audience home. A production remembered chiefly as a star vehicle, however, dies with its stars, and this one conspicuously did not. It became the Royal Ballet's signature Romeo, the work with which the company presents the tragedy to the world, and it did so on the strength of three pas de deux, a potion scene played as pure external behaviour, and a tomb scene of a brutality that ballet had not previously permitted itself. Those are choreographic facts, available to any cast, and they are the facts this article examines: the genesis of the work in a Canadian television studio, the casting decision that shadowed its birth, the balcony duet from which the whole structure grew, the Verona of crowds and harlots that frames the lovers, the bedroom and tomb scenes at its centre, the film that fixed the first cast on celluloid, and the long afterlife in London, Washington and Birmingham. The evidence throughout is the documented record: Jann Parry's biography of the choreographer, the memoirs of the dancers, the first-night criticism, and the scholarship that has since weighed the work as an adaptation.
 

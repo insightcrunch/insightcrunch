@@ -6,15 +6,15 @@ date: 2029-04-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "japanese-adaptations", "japan", "japanese-adaptations"]
 excerpt: "Japan has long embraced Romeo and Juliet, retelling it in translation, on the all-female Takarazuka stage, in anime, and in stagings touched by older theatre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-04-06
+lang: en
 ---
-
 Japanese adaptations of Romeo and Juliet form the strongest national tradition of the play outside the English-speaking stage, and the verdict of this survey is stated without hedging: Japan did not receive the tragedy as a foreign classic and preserve it under glass. Japan rebuilt the tragedy inside its own houses, its own companies, its own school and clan loyalties, until the feud between Montague and Capulet read as a native story about what a family, a firm, or a troupe may demand from the young. The Chorus announces the mechanism in the opening lines, "Two households, both alike in dignity, / In fair Verona, where we lay our scene" (Prologue, lines 1 to 2), and every durable Japanese production has understood that the households matter as much as the lovers. Where a Western staging habitually sells the balcony, the Japanese record sells the house: the ie, the family as a continuing corporation of the living and the dead, against which a private attachment registers as a breach of obligation before it registers as a romance.
 
-![Japanese stage and screen tradition of the lovers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Japanese stage and screen tradition of the lovers - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That verdict rests on a documented sequence rather than on atmosphere. The sequence runs from a puppet-theatre grammar of doomed love that predates any contact with the English text, through the first translations of the Meiji period, through Tsubouchi Shoyo's complete translation and its kabuki stagings, through the faithful-text discipline of shingeki, through Yukio Ninagawa's four decades of returns to the play, through the all-female Takarazuka Revue's licensed life with the French musical, and out into television film, pop-musical cinema, and the feud borrowings of genre directors. Each stage of the sequence is examined on the documentary record in the sections that follow, and each exhibit is graded: a full staging of the translated text counts as one kind of evidence, a licensed musical counts as another, and a western that borrows a feud and a cross-clan child counts as a third and much weaker kind. The argument that Japan made the play a mirror for its own houses survives only if the grading stays honest, and the grading stays honest throughout this article.
 

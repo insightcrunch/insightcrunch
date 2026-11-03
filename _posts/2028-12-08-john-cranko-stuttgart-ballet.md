@@ -6,15 +6,15 @@ date: 2028-12-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "john-cranko", "ballet", "cranko-ballet"]
 excerpt: "John Cranko's Romeo and Juliet for the Stuttgart Ballet shaped the modern dance tradition, its storytelling influencing MacMillan and many later versions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-12-08
+lang: en
 ---
-
 John Cranko's Romeo and Juliet, premiered by the Stuttgart Ballet on 2 December 1962, is the production that taught the Western ballet stage how to tell Shakespeare's tragedy whole. The verdict of this article is plain: Kenneth MacMillan's more famous London version of 1965 stands on ground that Cranko surveyed, fenced and built upon three years earlier, and the modern full-length story ballet of the play begins in Stuttgart, not at Covent Garden. The fame order and the founding order run in opposite directions, and dance history has too often repeated the fame order as if it were the chronology.
 
-![John Cranko's Romeo and Juliet performed by the Stuttgart Ballet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![John Cranko's Romeo and Juliet performed by the Stuttgart Ballet - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 The evidence for the verdict is documentary rather than sentimental. Cranko made his first version of the ballet in 1958 for La Scala, staged in the open air at Venice with Carla Fracci as Juliet, and rebuilt it in Stuttgart in 1962 with designs by Jürgen Rose and a creating cast led by Marcia Haydée and Ray Barra. Within two years a foreign company had acquired the staging. Within seven years the production had conquered New York, where Clive Barnes of the New York Times called it the best of a distinguished field of rival versions. Kenneth MacMillan saw the Stuttgart production in 1964, with his future Juliet Lynn Seymour guesting in the title role, and resolved to make his own. Every later choreographer who has set Prokofiev's score has worked in a landscape that these facts define.
 

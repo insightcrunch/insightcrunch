@@ -6,15 +6,15 @@ date: 2029-02-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "china-girl", "abel-ferrara", "china-girl"]
 excerpt: "Abel Ferrara's film China Girl reworks Romeo and Juliet as a violent gangland romance across the border between Little Italy and Chinatown in New York."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-02-09
+lang: en
 ---
-
 China Girl, Abel Ferrara's 1987 film of Nicholas St. John's screenplay, is the screen adaptation that takes the feud seriously as economics. Other versions treat the hatred between the houses as weather, an unexplained climate the lovers must endure. Ferrara and St. John treat it as a border dispute over shrinking ground, fought by businesses, gangs, and families who share one crowded corner of Manhattan and a single street, Canal Street, as the line between their worlds. The verdict of the pages that follow is plain: as a romance the film is deliberately slight, and as a feud tragedy it is the most structurally honest loose adaptation of the play in American cinema, because it rebuilds the tragedy's machinery, the meeting, the clandestine courtship, the middle death, the elders' failed peacemaking, and the double death of the lovers, out of the materials of a real turf war.
 
-![Street border between Little Italy and Chinatown in Ferrara's China Girl - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Street border between Little Italy and Chinatown in Ferrara's China Girl - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The play's own prologue announces a feud with no stated cause. "From ancient grudge break to new mutiny, / Where civil blood makes civil hands unclean" (1.0.3-4): the grudge is ancient, which is to say its origin has been forgotten even by the people bleeding for it. China Girl restores the cause and prices it. In the film's Manhattan, the Italian presence north of Chinatown has contracted within living memory from forty blocks to three, and the contraction is the feud. Every fight in the film is over ground, rent, protection money, or the right to trade on a contested street. The lovers meet inside that economy and are killed by it, and the film's fidelity lies exactly there: it understands that the play's lovers die not because fate dislikes them but because two households have organized their whole lives around a hatred, and a household organized around hatred eventually spends its children.
 

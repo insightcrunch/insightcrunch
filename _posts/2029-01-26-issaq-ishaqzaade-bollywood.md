@@ -6,15 +6,15 @@ date: 2029-01-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "issaq", "ishaqzaade", "bollywood-feuds"]
 excerpt: "The Bollywood films Issaq and Ishaqzaade both retell Romeo and Juliet through Indian feuds of caste, religion, and politics that doom their young lovers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2029-01-26
+lang: en
 ---
-
 Two Hindi films, released fourteen months apart in the same northern Indian state, set out to retell the same tragedy, and they divide the play between them almost as if by negotiation. Habib Faisal's *Ishaqzaade* (2012) takes the feud of religion and electoral politics. Manish Tiwary's *Issaq* (2013) takes the feud of clan, caste pride and land. One film became a commercial hit, launched a leading man, and carried its heroine to a National Film Award special mention. The other became a documented box office disaster and a byword among reviewers for adaptation gone wrong. The verdict of this comparison is plain, and the evidence for it is structural rather than sentimental: *Ishaqzaade* is a genuine adaptation of *Romeo and Juliet*, because it understands that the play's feud is not background colour but a working system with its own economy, its own honours and its own appetite, while *Issaq* borrows the plot's furniture, renames the families, and loses the system in transit. Issaq keeps more of the play's incidents. Ishaqzaade keeps more of the play.
 
-![Issaq and Ishaqzaade compared as Bollywood adaptations of the Verona feud - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Issaq and Ishaqzaade compared as Bollywood adaptations of the Verona feud - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The comparison matters beyond two filmographies because the play itself refuses to explain its feud. An adapter of *Romeo and Juliet* cannot copy the cause of the hatred, since the text supplies none; the cause must be invented, and the invention is the adaptation. What a filmmaker chooses as the reason two households kill each other is the truest statement the film makes about the society it addresses. Faisal chose an election fought across a Hindu and Muslim divide in a fictional Uttar Pradesh town. Tiwary chose a war between two sand-mining clans on the ghats of Banaras, complicated by a Naxal insurgency that neither family controls. Both choices are intelligent on paper. Only one survives contact with the play's design, and the distance between the two outcomes is the most instructive lesson the Indian screen offers about what this tragedy is actually made of.
 

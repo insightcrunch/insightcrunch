@@ -6,10 +6,11 @@ date: 2028-10-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "gounod", "opera", "gounod-opera"]
 excerpt: "Charles Gounod's opera Romeo et Juliette sets the lovers' story to lyric French music, building the whole work around a chain of rapturous love duets."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2028-10-27
+lang: en
 ---
 ## The Verdict in Brief: An Opera That Trusts the Duet
 
@@ -17,7 +18,7 @@ Charles Gounod's Roméo et Juliette, first performed at the Théâtre Lyrique in
 
 The verdict argued through this article is that the wager was right, and right for a reason its first detractors missed. Critics from 1867 onward complained that the opera is a string of pretty duets with a tragedy attached. The description is accurate and the judgment is wrong. The play itself concentrates its emotional capital in scenes for two voices: a shared sonnet at a ball, an exchange across a balcony, a dawn parting, a double suicide in a tomb. Gounod simply promoted the play's own architecture into the opera's load-bearing structure, and poured into the spaces between the duets the finest lyric writing of his career. Where the opera fails, it fails at the edges, in a feud that never acquires musical weight and a Verona that exists only to be escaped. Where it succeeds, it succeeds at the center, and the center is where the play lives.
 
-![The lovers of Gounod's Roméo et Juliette in the garden scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers of Gounod's Roméo et Juliette in the garden scene - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The series thesis for the adaptation studies holds that the cliché keeps the play spoken, a monument of verse guarded by the stage. Gounod's setting refutes the cliché by demonstration. His opera treats the play as a score waiting for its music, a French lyric tragedy latent inside the English text, and the transformation is thorough enough that the sung version became, for generations of listeners who never opened the play, the form in which the story was known. A serious account of the opera therefore has to do three things. It has to trace how Barbier and Carré rebuilt the play, including the altered ending they inherited from David Garrick's stage tradition, the ending in which Juliette wakes while Roméo still lives. It has to examine the score number by number at the points where the argument is won, the waltz, the cavatina, the ballad of Queen Mab, the potion aria, and the four duets themselves. And it has to weigh the opera's strange textual history, an opera that exists in several states, with spoken dialogue and with recitative, with a ballet and without one, revised at one point by Georges Bizet, because the work's refusal of a single definitive form is part of what it is.
 

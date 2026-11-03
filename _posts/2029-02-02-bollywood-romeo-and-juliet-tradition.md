@@ -6,15 +6,15 @@ date: 2029-02-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "bollywood", "indian-cinema", "bollywood-tradition"]
 excerpt: "Indian cinema has retold Romeo and Juliet again and again, because its feud of families maps so readily onto India's divisions of caste, religion, and class."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2029-02-02
+lang: en
 ---
-
 The Bollywood Romeo and Juliet tradition is the strongest proof outside the English-speaking stage that the Verona tragedy belongs to any society where kinship decides marriage. Hindi popular cinema did not borrow the tragedy as a foreign ornament. The industry rebuilt the feud, the secret union, the flight, and the grave inside caste councils, clan pride, religious division, party machines, language rivalry, and the economics of family honour, until the borrowed plot read as a native form. That verdict governs every exhibit in the survey that follows. Films that name the source, films that remake an earlier Indian success, and films that share structure without a credit belong in one map only when the grades of descent stay distinct. A direct adaptation, an acknowledged remake, and a work of structural kinship do different cultural labour, and flattening the three into a single claim of influence weakens the tradition instead of honouring the scale of the achievement.
 
-![A Bollywood Romeo and Juliet tradition collage of feuding families and young lovers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Bollywood Romeo and Juliet tradition collage of feuding families and young lovers - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The play supplies a spare machine. Two households, alike in dignity, hold an ancient grudge whose origin the Prologue never explains. A son of one house and a daughter of the other meet at a feast, exchange a shared sonnet in Act 1, Scene 5, marry in secret through Friar Laurence in Act 2, Scene 6, and lose the protection of secrecy when Mercutio and Tybalt die in Act 3, Scene 1. A banished husband, a forced match with Paris, a potion, a failed letter, and a tomb complete the design. Indian popular cinema recognised the machine at once because the social materials around the machine required almost no translation. Verona asks spectators to believe that a surname can forbid desire. Whole districts of the Indian screen ask the same belief about a caste name, a village council, a religious label, a mother tongue, and a party flag, and the belief arrives with documentary force rather than period distance.
 

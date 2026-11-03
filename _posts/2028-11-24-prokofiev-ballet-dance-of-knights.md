@@ -6,15 +6,15 @@ date: 2028-11-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "prokofiev", "ballet", "prokofiev-ballet"]
 excerpt: "Prokofiev's Romeo and Juliet ballet, with its thunderous Dance of the Knights, became the definitive danced version, though its tragic end was nearly changed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2028-11-24
+lang: en
 ---
-
 Sergei Prokofiev's ballet score for the star-crossed lovers, Op. 64, holds a position no rival dance setting approaches: the play's tragedy survives translation into pure movement and orchestral argument with its architecture intact, its feud embodied in brass and strings, and its ending restored to the deaths the play demands. The verdict argued through every section below is plain. Among all danced versions of the tragedy, this score stands first because it treats the source as a structure to be rebuilt in music rather than a mood to be decorated, and because its most famous number, the Dance of the Knights, compresses the whole Capulet world of ceremony, menace, and pride into a single processional weight. Choreographers inherit that achievement rather than replace it. Kenneth MacMillan built on the score, John Cranko built on the score, and every later staging of consequence begins from the same foundation: a complete tragic narrative carried by an orchestra that thinks in scenes, themes, and consequences.
 
-![Prokofiev's ballet score and the Dance of the Knights - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Prokofiev's ballet score and the Dance of the Knights - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The claim needs the evidence of the score's strange birth. The music emerged from a commission that collapsed, a theatre that lost its nerve, a planned ending in which the lovers survived, a premiere handed to a theatre in Brno while Soviet stages hesitated, and a five-year wait before the Kirov production of 1940 fixed the work in the repertory. Each stage of that history left marks inside the music. The hesitation over the ending forced the composer to think hardest about the tomb scene, and the tomb scene became the score's crowning test of whether dance could carry grief without a single spoken word. The shelving forced the music into concert halls first, through two orchestral suites and a set of piano pieces, so the score conquered listeners before it conquered stages. A researcher assembling the documentary trail of scores, suites, and staging records into a single viewable deck can keep the whole chronology straight with a presentation tool such as the [ReportMedic PPT Viewer](https://reportmedic.org/tools/ppt-viewer.html), because the work's history is a history of documents: contracts, scenarios, letters, and revised endings.
 

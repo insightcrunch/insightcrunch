@@ -6,15 +6,15 @@ date: 2029-04-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "soviet-cinema", "russian-screen", "soviet-russian-screen"]
 excerpt: "Soviet and Russian filmmakers brought Romeo and Juliet to the screen, above all in a celebrated filmed Bolshoi ballet that captured the Prokofiev choreography."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-04-13
+lang: en
 ---
-
 The Soviet screen tradition of Romeo and Juliet rests on a single paradox that decides every judgement in this survey. The state that built an entire culture around translated words, around Boris Pasternak's Russian text and around spoken Shakespeare in hundreds of theatres, sent the Verona tragedy abroad in the one form that needed no words at all. The central Soviet screen Romeo and Juliet is a ballet film. Galina Ulanova became the canonical Soviet Juliet without speaking a line, and the film that carries her performance, directed by Lev Arnshtam with Leonid Lavrovsky and produced by Mosfilm, won the prize for Best Lyrical Film at Cannes in 1955 in competition for the Palme d'Or. A dramatic cinema that produced Grigori Kozintsev's Hamlet and King Lear, Sergei Yutkevich's Othello and Yan Frid's Twelfth Night produced no comparable spoken feature of the Verona play. The absence is not a failure of interest. The absence is the argument. Where the play entered Soviet cinema at full feature scale, the play entered as dance, as Prokofiev's score made visible, and the reasons reach into censorship, export policy, the economics of a wordless art, and the particular authority of one ballerina whose Juliet had already conquered two stages before a camera recorded the interpretation.
 
-![Galina Ulanova as Juliet in the Soviet ballet film - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Galina Ulanova as Juliet in the Soviet ballet film - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 ## The Verdict on the Soviet Screen Tradition
 

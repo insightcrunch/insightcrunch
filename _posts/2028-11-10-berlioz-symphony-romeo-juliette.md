@@ -6,15 +6,15 @@ date: 2028-11-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "berlioz", "symphony", "berlioz-symphony"]
 excerpt: "Hector Berlioz's dramatic symphony Romeo et Juliette set the story in orchestra and chorus, letting instruments alone carry the lovers' wordless scenes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2028-11-10
+lang: en
 ---
-
 Hector Berlioz's symphony on Romeo and Juliet makes the boldest single decision in the whole adaptation history of the play: the lovers never sing. In *Roméo et Juliette*, Op. 17, the dramatic symphony completed in 1839 to a text by Émile Deschamps, Romeo and Juliet possess no voices at all. A contralto commentator sings in the Prologue, a tenor spins the Scherzetto, choruses fight and mourn and swear, and Friar Laurence steps forward in the finale to demand an oath over two bodies. The pair at the center of the tragedy, the pair whose shared sonnet at the Capulet ball stands among the most quoted exchanges in English drama, are entrusted to the orchestra alone. Berlioz defended the choice in the preface to the score with an argument that still governs hearings of the work: the sublimity of the love in question made verbal setting dangerous, and instrumental language, richer, more varied, less finite than sung words, gained power from imprecision itself. The verdict argued through every section that follows is plain. The gamble succeeds. *Roméo et Juliette* is the strongest concert adaptation of the tragedy because the wordless center is not an evasion but a reading, a claim about where the play keeps its meaning, tested against the play scene by scene and against the rival settings that chose the opposite path.
 
-![Berlioz's Romeo et Juliette symphony score and orchestra - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Berlioz's Romeo et Juliette symphony score and orchestra - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The claim needs its evidence laid out in order. A composer who had never heard a word of English in the theatre carried the 1827 Paris performances of an English company in memory for twelve years, then spent a virtuoso's gift of 20,000 francs on seven months of freedom to build a form that had no shelf waiting for it: neither opera nor cantata, by the preface's own insistence, but a choral symphony. Inside that form, voices perform every task except the central one. The Prologue's fourteen singers outline the action in choral recitative, following the example of the play's own Chorus. The ball blazes in pure orchestra. The garden scene, the love duet that operatic tradition would have crowned the evening, unfolds as an adagio for instruments. Mercutio's Queen Mab speech, the most verbal flight in the play's first act, shrinks to a scherzo of gossamer strings and winds. The tomb, where the play gives Romeo a long soliloquy and Juliet a waking recognition, plays out as orchestral pantomime so specific that the score labels each stage of the catastrophe. Only at the end, when private feeling gives way to public consequence, do words return in force, in the Friar's narrative and the reconciliation oath sworn by two full choruses. Form and interpretation are the same gesture throughout: speech governs the feud's world, and music without speech governs the lovers' world, and the tragedy lives in the border between the two.
 
