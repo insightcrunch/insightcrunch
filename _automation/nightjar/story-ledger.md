@@ -73,3 +73,25 @@ spine notch:              Rung two. The absence has an edge, a boundary she can 
 characters:               Mira Kovac, Tomas Rask, Petra Dunmore, Inez Calloway (new), Venn (new), Kest (new), Ilves (new)
 canon written back:       Three facts under Established canon, each numbered 002: Inez Calloway and the false defection finding; the bounded absence with a walkable edge in the south hearing room; the unsigned service passes with the copied retired stamp
 callbacks:                001, one internal link, to the transit room that held nothing
+
+## Installment 003
+slug:                     nightjar-lever-at-melora-003
+published:                2026-11-02
+story span:               Four days in the Twenty Ninth Session, from Harrand's tasking in Carrowmere to the evening the stood down sitting was shown in a Melora bar
+arc:                      The Clean Room, case 3
+case type:                Geopolitical lever
+words:                    23196
+outcome:                  full success
+cost paid:                She hands Harrand a true thing and watches it become a weapon she would not have chosen
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of Harrand's interest
+clues planted:            Harrand's stated terms and her personal tasking; the five deadline rupture clock; the hotel staff rota corroborating Veyrin's rehearsal; the debt record in the arbitration record system; the Valtessa waiver filing with no register twin; the sealed minute both delegations signed over the warehouse death; the settlement record's place in the record annexe; the bonded intermediary's ledger; the annexe night keeper's round and bonded alarm
+capabilities established: The hotel room read from Veyrin's desk and chair, arranged through the bonded clerk and Dunmore's paper (Ground truth); the record annexe index and the certified copy taken under Dunmore's seal (Ground truth, The collapse); the record room read showing an unhurried prior search (The collapse); the annexe alarm and the keeper's round (Pressure, established before the set piece)
+damage carried:           In: Voss's last ten minutes from 001, Calloway's signed away career from 002. Adds: handing Harrand a true thing and watching it become a weapon
+endurance:                entering full; reduced at the pressure beat
+legend beat:              none
+close consumed:           The settlement record and its certified copy, the waiver filing read together with it, Veyrin's rehearsal and the fear the hotel room gave her, and Harrand's stated terms; every one established earlier in this same installment
+false lead:               The private debt held over Veyrin. It is real, documented and would have worked as leverage, and it was settled a year past by a Valtessa bonded house, so the settlement record, not the debt, is what both sides are protecting
+spine notch:              Rung three. Absence is not blindness. The warehouse room attached to the record annexe, tied to a death both delegations agreed not to discuss, reads perfectly normally under her hand, which rules out the simplest explanation for the empty rooms: that she is failing
+characters:               Mira Kovac, Ilse Harrand, Petra Dunmore, Osk Veyrin (new), Hallis (new)
+canon written back:       Three facts under Established canon, each numbered 003: Osk Veyrin and the settled debt and ungiven resignation; the record annexe, certified copies under an analyst's seal, and the night keeper's bonded alarm; the quiet Valtessa waiver with no register twin as one half of the arrangement
+callbacks:                001 and 002, two internal links, to the transit room that held nothing and to the signature that spent Calloway's career

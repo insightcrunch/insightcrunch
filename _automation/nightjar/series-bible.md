@@ -309,6 +309,10 @@ rewritten.
 002 In the south hearing room of the courts annex in Melora there is a bounded region in which no weight lies. The region has an edge a Weigher can walk, with ordinary weight on one side of it and absence on the other.
 002 The service passes used to enter the courts annex in the week Calloway was taken were never signed by any clerk. They carried a copied stamp from a retired annex porter's issue, and the porter had left Melora a Session before and was provably elsewhere on every day that mattered.
 
+003 Osk Veyrin is the Dravin trade delegate to the arbitration sittings in Melora. He carried a private debt that a Valtessa bonded house settled on his behalf a year before the rupture sitting, and he had drafted a resignation speech for the sitting that he never gave.
+003 The arbitration record annexe in Melora keeps settlement records apart from the main record rooms. A certified copy of a settlement record is taken under the seal of the analyst who requisitions it, and the annexe is watched at night by a keeper whose round can raise a bonded alarm.
+003 Valtessa granted Dravin a quiet inspection waiver that was filed with no register twin, and the settlement of the delegate's debt and the waiver were the two halves of one arrangement that neither delegation would allow to be read aloud in the arbitration chamber.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

@@ -131,3 +131,7 @@
 ## how-pans-labyrinth-was-made
 - _posts/2026-10-14-how-film-restoration-works.md - could carry: "The discipline described on this page is what a later generation applied to Pan's Labyrinth, whose making joined original elements, supervised color and a hand built fantasy."
 - _posts/2016-01-10-spanish-civil-war-explained.md - could carry: "The war this account explains ended in 1939, and five years later its aftermath became the ground of a fairy tale, in how Pan's Labyrinth was made."
+
+## nightjar-lever-at-melora-003
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room that held nothing in Carrowmere was the first; a warehouse room in Melora later read perfectly normally under her hand, and the ordinariness was the fact that mattered."
+- _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The signature that spent Calloway's career in Melora was the first true thing Mira handed over; the settlement record she gave Harrand was the second, and it cost her more."
