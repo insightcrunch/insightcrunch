@@ -33,3 +33,5 @@
 2026-11-01 | nightjar-edge-of-nothing-002 | nightjar | installment 002 | The Clean Room | Exfiltration or rescue | full | Leisure | literature-nightjar
 2026-11-02 | how-pans-labyrinth-was-made | Film and television | how was Pan's Labyrinth made | How was Pan's Labyrinth made, and what do its production choices explain about why the film endures? | Leisure | film-pans-labyrinth
 2026-11-02 | nightjar-lever-at-melora-003 | nightjar | installment 003 | The Clean Room | Geopolitical lever | full | Leisure | literature-nightjar
+
+2026-11-03 | how-sovereign-cloud-works | Technology and computing | how does sovereign cloud work | When a cloud service claims sovereignty, what actually decides which country's law, courts, operator and staff can reach the data, and how is that control built from location, legal structure, encryption keys, software and exit rights? | Technology | technology-sovereign-cloud

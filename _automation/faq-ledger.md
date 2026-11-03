@@ -826,3 +826,27 @@ academy-award-country-film-labyrinth-language-pan'-submitt | how-pans-labyrinth-
 color-labyrinth-pan'-separate-two-world | how-pans-labyrinth-was-made | How does color separate the two worlds in Pan's Labyrinth?
 beehive-compare-critic-labyrinth-pan'-spirit | how-pans-labyrinth-was-made | Why do critics compare Pan's Labyrinth to The Spirit of the Beehive?
 be-labyrinth-magic-meant-pan'-real | how-pans-labyrinth-was-made | Is the magic in Pan's Labyrinth meant to be real?
+
+## technology-sovereign-cloud
+
+### how-sovereign-cloud-works
+cloud-simpl-sovereign-term | how-sovereign-cloud-works | What is a sovereign cloud in simple terms?
+cloud-data-different-ordinary-residency-sovereign | how-sovereign-cloud-works | How is a sovereign cloud different from ordinary data residency?
+act-cloud-matter-outsid-stat-unit | how-sovereign-cloud-works | Why does the CLOUD Act matter to clouds outside the United States?
+chang-data-ii-judgment-schrem-transfer | how-sovereign-cloud-works | What did the Schrems II judgment change for data transfers?
+cloud-encryption-hold-key-sovereign | how-sovereign-cloud-works | Who holds the encryption keys in a sovereign cloud?
+bring-differenc-hold-key-own-your | how-sovereign-cloud-works | What is the difference between bring your own key and hold your own key?
+abroad-cloud-compel-data-government-hand-provider-stor | how-sovereign-cloud-works | Can a government compel a cloud provider to hand over data stored abroad?
+control-matter-plan-sovereignty | how-sovereign-cloud-works | What is a control plane and why does it matter for sovereignty?
+cloud-favour-open-softwar-sourc-sovereign | how-sovereign-cloud-works | Why do sovereign clouds favour open source software?
+requir-secnumcloud | how-sovereign-cloud-works | What is SecNumCloud and what does it require?
+build-gaia-try-x | how-sovereign-cloud-works | What is Gaia-X trying to build?
+cloud-hyperscaler-offering-sovereign-structur-their | how-sovereign-cloud-works | How do hyperscalers structure their sovereign cloud offerings?
+comput-confidential-protect | how-sovereign-cloud-works | What is confidential computing and what does it protect?
+cloud-cost-more-sovereign-standard | how-sovereign-cloud-works | Does a sovereign cloud cost more than a standard cloud?
+abroad-happen-provider-send-sovereignty-telemetry | how-sovereign-cloud-works | What happens to sovereignty when a provider sends telemetry abroad?
+befor-claim-organisation-sign-sovereignty-verify | how-sovereign-cloud-works | How can an organisation verify a sovereignty claim before signing?
+data-differ-localisation-sovereignty | how-sovereign-cloud-works | What is data localisation and how does it differ from sovereignty?
+countri-data-government-infrastructur-requir-sovereign-stay | how-sovereign-cloud-works | Which countries require government data to stay on sovereign infrastructure?
+against-cloud-determin-limit-sovereign-stat | how-sovereign-cloud-works | What are the limits of a sovereign cloud against a determined state?
+backup-cloud-disaster-handl-recovery-sovereign | how-sovereign-cloud-works | How does a sovereign cloud handle backups and disaster recovery?

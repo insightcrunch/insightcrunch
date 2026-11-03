@@ -135,3 +135,7 @@
 ## nightjar-lever-at-melora-003
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room that held nothing in Carrowmere was the first; a warehouse room in Melora later read perfectly normally under her hand, and the ordinariness was the fact that mattered."
 - _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The signature that spent Calloway's career in Melora was the first true thing Mira handed over; the settlement record she gave Harrand was the second, and it cost her more."
+
+## how-sovereign-cloud-works
+- _posts/2026-10-07-how-data-centers-work.md - could carry: "The buildings described on this page settle only the first of five controls, because a sovereign cloud also has to settle which law reaches the operator, who holds the keys and how the tenant can leave."
+- _posts/2026-10-28-how-ai-accelerators-work.md - could carry: "The hardware on this page is the layer governments mean when sovereign AI programmes demand domestic compute, and the control stack above the chips is what decides whether that compute is sovereign in law as well as in place."
