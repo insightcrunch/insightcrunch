@@ -6,19 +6,19 @@ date: 2026-11-02
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "Two Accord members stand days from a tariff rupture that ends inspection rights in both, and the one fact that stops it is a settlement nobody will own."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-11-02
+lang: en
 ---
-
 ## The Word He Could Not Say
 
 The hotel room above the arbitration quarter smelled of rain on hot stone and of the oil the clerk burned in the corridor lamps, a thin sweet smoke that came under the door whenever the night wind moved through the stairwell. Osk Veyrin had shut the shutters against the square below and then opened them again, because the closed room made his own breathing too loud, and through the gap he could hear the fountain in the empty court, the soft knock of a loose awning against a pole, and a cart crossing wet cobbles toward the record annexe. The desk lamp made a small yellow country of the writing desk. Beyond its edge the bed, the chair with one leg a fraction short, the washstand and his travelling case fell away into a brown dusk, and he preferred it that way, because in the dusk the room looked less like a place a man had lived in alone for weeks and more like a place any delegate might pass through for a night.
 
 He stood with the page in both hands, as he had been taught to stand when a statement had to be carried across a chamber without notes shaking, and he read the opening silently first to settle its order in his mind. The address to the presiding officer was correct. The thanks to the delegation were correct, and brief enough not to sound like pleading. The sentence about service was correct, though it had taken him three evenings to make it sound plain rather than grand. Then came the sentence that mattered, the one for which all the other sentences existed, and he set his shoulders the way he set them before a tariff vote and tried to say the whole speech aloud from the beginning, in the level voice he used for figures that no one in the room wished to hear.
 
-![A trade delegate alone at a hotel desk at night above a quiet arbitration quarter, a single page under his hand - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A trade delegate alone at a hotel desk at night above a quiet arbitration quarter, a single page under his hand - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 That was the first time. He reached the sentence, felt its shape rise in his throat, and heard himself say continuation where the page said resignation, clean and clear and entirely wrong, as if his mouth had chosen a safer errand and run it without asking him. He stopped. The fountain went on below. He looked at the page to confirm that the fault was not printed there, and the word sat in its proper place in his own handwriting, underlined once on the second evening he had worked on the draft, when underlining had still felt like decision rather than rehearsal. He folded the page along a crease gone soft from folding and set it down under his palm until his hand was still. A continuation could be managed, minuted, adjourned, taken up again after consultation. It asked no one to rise. It left every chair warm.
 
