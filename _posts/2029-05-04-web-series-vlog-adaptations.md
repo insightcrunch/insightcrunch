@@ -6,15 +6,15 @@ date: 2029-05-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "web-series", "social-media", "web-series-vlogs"]
 excerpt: "Web series and vlog adaptations retell Romeo and Juliet through social media, casting the lovers as teenagers who post, text, and stream their doomed romance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-05-04
+lang: en
 ---
-
 Web series and vlog adaptations of Romeo and Juliet ask a precise question of the play: what happens to a tragedy built on public violence and private longing when the only stage is a webcam and the only audience is a subscription feed? The documented record gives a short, lopsided answer. Between 2012 and 2016 the literary web series became a proven adaptation form, with an Emmy at its professional end and festival honours in its school and student branches, yet the form's practitioners chose Austen's novels and Shakespeare's comedies again and again, and the whole era produced exactly one full vlog retelling of the Verona tragedy: *Jules and Monty*, an eighteen-episode series made by students at Tufts University in 2014. That imbalance is not an accident of taste. It is the format rendering a verdict on the play. The vlog is a soliloquy machine, the most exact device adaptation has ever found for the play's interior life, and it is structurally incapable of the play's public machinery: two households, a street, a feud, a tomb. Every documented exhibit in the InsightCrunch web-series survey confirms one half of that sentence or the other, and the single tragedy in the catalogue confirms both halves at once, succeeding for ten episodes of courtship and straining through eight episodes of fall.
 
-![A student vlogger recording a video diary episode in a dorm room - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student vlogger recording a video diary episode in a dorm room - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The argument of this article is therefore a verdict with two clauses. First, the web series restored something the mainstream screen had spent a century thinning out: the experience of being alone with a character's mind while events gather elsewhere, which is the experience the play's soliloquies were built to produce. Second, the same form amputated the causal machinery that makes the play a tragedy rather than a romance with a sad ending, and *Jules and Monty* shows the amputation happening in its own episode map, its own shifts of camera grammar, and its own ending, in which nobody dies and a farewell video stands where the tomb should be. The critics divide over that ending, and the division is instructive. Myles McNutt, the television scholar who followed the series as it aired, treated the missing deaths as a puzzle of genre classification. The reviewer for PopOptiq, surveying the literary web series in 2014, treated the ending as a plain failure that left a bitter taste. Both readings are documented below, and the evidence adjudicates between them: the failure is real, but it is structural rather than a lapse of talent, and McNutt's frame explains the reviewer's experience better than the reviewer's frame explains the series.
 

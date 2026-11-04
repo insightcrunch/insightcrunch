@@ -6,17 +6,17 @@ date: 2029-06-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "juliet-club", "letters-to-juliet", "juliet-club"]
 excerpt: "Thousands write love letters to Juliet in Verona each year, and a volunteer Juliet Club answers them, a real ritual around Romeo and Juliet's heroine."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-06-29
+lang: en
 ---
-
 ## The Letters to Juliet: A Correspondence with a Fictional Confidante
 
 Every week, envelopes arrive in Verona addressed to a girl who never lived. The addresses on them are often no more than a name and a city: Juliet, Verona. The Italian postal service delivers them anyway, and in a small office in the historic centre a team of volunteers opens them, sorts them by language, reads them, and answers every one by hand, signing the reply with the name of the addressee. The institution that performs this work is the Juliet Club, the Club di Giulietta, a nonprofit cultural association founded in Verona in 1972. Its members are known as Juliet's secretaries, and the mail they answer has been arriving, in one form or another, since the 1930s. The letters ask for what letters to a confidante have always asked for: counsel in a love affair that parents oppose, comfort after a betrayal, a verdict on whether to forgive, to wait, to leave, to confess. The writers address the one figure in world literature who kept a love secret under the worst possible pressure and never betrayed it, because the price of her silence was her life.
 
-![Juliet Club volunteers answering letters at a table in Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet Club volunteers answering letters at a table in Verona - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The verdict of this article can be stated at the outset and defended across the whole record. The letters to Juliet are not a tourist attraction that happens to use the postal service. They are a reading practice, carried on by correspondents who have read the play closely enough to know exactly which of its characters can be trusted with a secret. The club that answers the letters is an institution built around a practice it did not invent and could not fabricate, because the raw material of the practice, the mail itself, arrives uninvited from every continent, in dozens of languages, in handwriting that ranges from a schoolgirl's to a dying woman's. Verona's tourist industry owns the balcony and profits from the courtyard; the mail belongs to the writers. What the Juliet Club does, and what this article examines in detail, is administer that mail with a seriousness that the play's own Verona never managed. In the tragedy, the decisive letter is the one that never arrives. In the modern city, a small office exists for the single purpose of ensuring that letters addressed to the heroine are answered, each and every one, without exception. The reversal is not a coincidence of tourism. It is the meaning of the phenomenon.
 

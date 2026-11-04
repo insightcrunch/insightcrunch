@@ -6,17 +6,17 @@ date: 2029-10-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "weddings", "vows", "play-at-weddings"]
 excerpt: "Couples often quote Romeo and Juliet in wedding readings and vows, borrowing the lovers' words of devotion despite the tragedy that swiftly engulfs them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-10-19
+lang: en
 ---
-
 # The Play at Weddings and in Vows: Irony, Readings and Ritual
 
 Romeo and Juliet is the only tragedy in the language that doubles as wedding stationery. Its speeches are read aloud at ceremonies, copied into vows, printed on invitations and table cards, and staged as decor, while its plot, two teenagers married in secret on a Monday and dead before the week ends, is the precise opposite of the event the words are hired to bless. No other canonical text is asked to perform this double duty. Couples do not read from Hamlet at christenings or borrow Macbeth for anniversary cards. The lovers of Verona alone are summoned, week after week, to preside over the rite their own story renders impossible, and the summons is issued with full knowledge of how the story ends. Every guest at every ceremony where the bounty speech is read already knows the ending. The reading proceeds anyway. That persistence, not the irony alone, is the phenomenon this article examines: what couples take from the play, what they leave behind, what the trade that supplies the words does to the text in transit, and whether the borrowing is a falsification or a defensible act of editing.
 
-![A wedding reading drawn from the balcony scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A wedding reading drawn from the balcony scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The verdict, stated at the outset and defended through the evidence that follows, divides the practice into two operations that are usually confused. The first operation is excerpting: a couple takes the balcony scene's pledge language, words that are in their original setting reciprocal, future-facing and spoken as the substance of a betrothal, and re-performs them as the substance of a marriage. That operation is defensible, and the strongest evidence for the defence sits inside the scene itself, where Juliet proposes the marriage, sets its terms and supplies the words the trade keeps reprinting. The second operation is branding: the sales layer of guides, venues and municipalities that presents the lovers not as speakers of fine vows but as proof that intense love succeeds, an emblem of the outcome the couple hopes to copy. That operation is falsification, because the play's outcome is the one fact about it that cannot be excerpted away, and because the play's own first advertisement, the Prologue, refuses the frame in advance. The charge of amputation, which this article was commissioned to weigh, therefore lands unevenly. It convicts the marketing. It largely acquits the marrying couples, whose documented behaviour, reading the warnings and proceeding, keeping the poison bottles on the tables at themed receptions, marrying in the friar's own convent with the tomb a stair below, shows editors at work rather than an audience deceived.
 

@@ -6,15 +6,15 @@ date: 2029-07-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "romeos-house", "verona-tourism", "verona-geography"]
 excerpt: "Verona offers tourists a whole geography of Romeo and Juliet sites, from a so-called Romeo's house to the balcony and tomb, mapping a fiction onto the city."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-07-20
+lang: en
 ---
-
 The most instructive Romeo and Juliet site in Verona is the one that refuses to open. On Via Arche Scaligere, a few metres from the Gothic tombs of the Scaliger lords and a short walk from the most visited courtyard in Italian literary tourism, stands the Casa di Romeo: a fortified medieval palace of brick and white tuff, three wings around a courtyard, a round-arched gate in a crenellated wall, and beside the gate two plaques. The gate stays shut. The building is a private residence, documented from 1339, owned across its recorded life by the Scaliger, the Nogarola and the Bevilacqua-Lazise, and attached to Romeo by a tradition that cannot produce a single document placing his family inside it. Verona built a ticketed shrine industry on the heroine's side of the story, complete with a balcony assembled in the twentieth century, and on the hero's side it maintains two plaques that cleaners periodically scrub free of graffiti. This article argues a verdict and defends it across the whole map: Verona's Romeo and Juliet geography is a single-protagonist geography, and the asymmetry is not an accident of neglect but the shape of the myth itself, because the play gives Juliet architecture and gives Romeo weather. Juliet receives a window, a chamber, a tomb, rooms that a city can furnish and sell. Romeo receives a sycamore grove outside the walls, a street brawl, the outside of another family's orchard wall, a friar's borrowed cell and a road to Mantua. Tourism can only build where the text builds rooms, and the text built Romeo none. The closed gate on Via Arche Scaligere is therefore the most honest object on the entire itinerary: the one site that admits, in brick, that the fiction is a fiction.
 
-![The crenellated street wall and closed gate of Romeo's house on Via Arche Scaligere - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The crenellated street wall and closed gate of Romeo's house on Via Arche Scaligere - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 ## Where Is Romeo's House in Verona? The Fortified Palazzo on Via Arche Scaligere
 

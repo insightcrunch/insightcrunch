@@ -6,15 +6,15 @@ date: 2030-03-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "gcse", "uk-curriculum", "uk-gcse"]
 excerpt: "In the UK GCSE, Romeo and Juliet is a set Shakespeare text, taught and examined in ways that shape how a generation of English students first reads the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "lukas-weber"
 last_updated: 2030-03-08
+lang: en
 ---
-
 Romeo and Juliet reaches most English readers for the first time inside a specification. Before the play is a tragedy it is a line on a board's set-text list, a question number on a May morning, a row in a mark scheme and a grade on an August certificate, and the encounter is engineered at every stage by institutions that never meet the student: a department in Whitehall that names the categories, a regulator that fixes the assessment objectives, four exam boards that translate those objectives into papers, and an examining workforce that prices every answer against level descriptors. The GCSE is not a frame placed around an unchanged play. It is a reading machine, built to produce one defensible kind of reading at national scale, and the Romeo and Juliet that emerges from English classrooms is the play that machine can process.
 
-![Romeo and Juliet in the UK GCSE examination hall and classroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet in the UK GCSE examination hall and classroom - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The machine's scale deserves stating before its parts. In summer 2024, examiners and awarding bodies certified 615,220 GCSE English literature results across the United Kingdom, and the Department for Education's own account of the system observes that those taking a GCSE in English literature form the majority of Key Stage 4 pupils. Every one of those candidates studied a Shakespeare play, because the subject content for the qualification requires at least one. Among the plays the four English boards offer, one is chosen by an overwhelming majority of schools and a second, the play examined here, holds the largest minority of classrooms in the system. Romeo and Juliet at GCSE is therefore not one option among many in any lived sense. It is, after Macbeth, the single most consequential reading of Shakespeare in English education, repeated annually in tens of thousands of classrooms, rehearsed in mock examinations from Year 10 onward, and cashed out in a timed handwritten essay written from memory.
 

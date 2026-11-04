@@ -6,17 +6,17 @@ date: 2029-09-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "romeo-and-juliet-laws", "law", "romeo-and-juliet-laws"]
 excerpt: "Several legal systems use the term Romeo and Juliet laws for close-in-age exemptions, borrowing the lovers' names for statutes about young couples near in age."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-09-07
+lang: en
 ---
-
 ## Romeo and Juliet Laws: When a Play's Title Enters the Criminal Law
 
 Romeo and Juliet laws are real provisions in American criminal codes, and the phrase that names them appears in none of the statutory texts themselves. The term is a nickname, carried by court opinions, legislative debate, news coverage, and legal commentary, for a family of rules that treat two young people close in age differently from an adult who targets a child. A Texas defendant raises the idea as an affirmative defence. A Florida petitioner raises it as a plea to be removed from a public registry. An Indiana statute builds it into a defence that turns on whether the pair were dating. A Kansas court struck words out of its version on constitutional grounds, and in doing so called the provision, in a published opinion, the Romeo and Juliet statute. The lovers lend their names to all of it, and the lending is the subject. What work does a tragedy's title do inside a criminal code, and does the borrowing survive an honest reading of the play it borrows from?
 
-![A courtroom bench beside an open edition of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A courtroom bench beside an open edition of the play - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The verdict of the pages that follow has two halves, and neither half cancels the other. The provisions themselves are defensible, even necessary, repairs to a body of law that for decades made little distinction between a predatory adult and a pair of schoolmates. The nickname is a different matter. It is the most effective piece of literary advocacy in modern American statute commentary, and it works by editing the play: it keeps the love, the youth, the hostile world, and it cuts the coercion, the haste, the Friar's warning, and the tomb. Naming a protective statute after a thirteen-year-old who dies by her own hand, in a marriage arranged in secret against her father's command, is an irony no amount of legislative good intention dissolves. The name should be kept, because no plainer label has ever moved a legislature as reliably. It should also be understood, because a name that argues is a name that can mislead, and this one argues constantly.
 

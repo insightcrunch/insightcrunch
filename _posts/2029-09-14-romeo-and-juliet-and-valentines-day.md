@@ -6,15 +6,15 @@ date: 2029-09-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "valentines-day", "romance", "valentines-day"]
 excerpt: "Romeo and Juliet have become the patron couple of Valentine's Day, their names and balcony invoked each February as the very image of romantic love itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-09-14
+lang: en
 ---
-
 Romeo and Juliet preside over Valentine's Day from a calendar position the play never gave them. The feast of 14 February fills shop windows with the lovers' names, stages the balcony in chocolate and cardboard, and borrows the couple as the standing picture of romantic love. The play itself contains no February, no saint's day, and no valentine of any kind. Its action sits in the heat of a Veronese summer, four or five days counted from a Sunday brawl to a Thursday dawn, and its one fixed date is a birthday at the end of July. The occupation of the February feast by a summer tragedy is the strangest annexation in the play's long afterlife, stranger than the borrowed balcony in Verona or the letters addressed to a fictional girl, because the feast and the play contradict each other on the record. The feast promises that love, declared on the right day with the right card, ends in union. The play announces in its fourteenth line that the lovers die, and then spends five acts keeping the announcement.
 
-![A February valentine pairing the lovers' names with the balcony emblem - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A February valentine pairing the lovers' names with the balcony emblem - Insight Crunch](/assets/images/blog/blog-107.webp)
 
 The verdict of the present study can be stated before the evidence, because the evidence is unusually one-sided. The lovers did not earn the feast, and the feast did not misunderstand the lovers by accident. Saint Valentine's Day became a lovers' feast through a documented act of literary invention in the fourteenth century, when Geoffrey Chaucer fastened the language of mating and choice onto a martyr whose record held a name, a road, and a date and almost nothing else. The feast therefore began as a fiction attached to an empty file. Print, cheap postage, and the nineteenth-century card trade then built the feast into an industry that ran on anonymous messages, verses bought from booklets, and tokens sent without signatures. An industry of anonymous love required, at last, a face and a pair of names, and the market supplied the most famous lovers in the language. Romeo and Juliet are the patron couple of Valentine's Day not because their story blesses the feast but because their fame solved the feast's oldest problem: a celebration of unsigned desire needed patrons whose names every buyer already knew. The icon that resulted is an edit, not a portrait. It keeps the feast-day meeting, the window, and the kiss, and it discards the feud, the haste, the bride's age, and the five deaths that the play counts after the wedding. Restoring the discarded material does not merely embarrass the card trade. It reveals that the play predicted its own February fate, because the first people to convert the lovers into precious public images were the fathers in the tomb, vowing statues of pure gold over the bodies.
 

@@ -6,15 +6,15 @@ date: 2030-05-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "arabic-adaptations", "arab-world", "arabic-adaptations"]
 excerpt: "The Arab world has translated and staged Romeo and Juliet and read it beside its own ancient tale of doomed love, the famous story of Layla and Majnun."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-05-24
+lang: en
 ---
-
 Romeo and Juliet arrived in Arabic before the Arab world had a word for what it was doing with the play, and that early arrival is the key to the whole reception. The verdict of this article is that the Arabic life of the tragedy is not a footnote to European Shakespeare but a second life with its own chronology, its own canon, and its own verdicts: translation made the play classical Arabic literature, relocation made it political evidence, and the standing comparison with Layla and Majnun both dignified it and distorted it. The play mattered most in Arabic where it stopped being an import and became a local instrument, and the parallel with Layla and Majnun is most useful when it is read as a measure of distance rather than as a declaration of identity. Everything that follows tests that verdict against the documented record: the printed versions of 1898 and 1901, the blank-verse experiment of the 1930s, the classroom standard of the late twentieth century, and three stagings in Jerusalem, Beirut, and Baghdad that each rewrote the feud in a different local grammar.
 
-![Romeo and Juliet in Arabic translation and on Arab stages - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet in Arabic translation and on Arab stages - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The play itself supplies the machinery that Arab adapters kept returning to, and it is worth stating that machinery plainly before following it across languages. The Prologue opens with a civic formula: "Two households, both alike in dignity, / In fair Verona, where we lay our scene, / From ancient grudge break to new mutiny" (Prologue, 1 to 3). The feud is symmetrical, public, and inherited. The lovers meet at a masked feast and exchange a sonnet, a piece of verse built so that the two voices complete a single fourteen-line form. Juliet asks the question that organizes the whole tragedy: "What's in a name? That which we call a rose / By any other name would smell as sweet" (2.2.43 to 44). The answer the play gives is that a name is everything in Verona, because the name is the feud, and the feud is the law of the city. The deaths end the play not with a wedding but with an accounting, and the Prince closes it with a verdict on the city rather than a blessing on the couple: "A glooming peace this morning with it brings; / The sun, for sorrow, will not show his head" (5.3.304 to 305). Arab adapters kept all of that machinery and changed the city. That is the single most important sentence in the Arabic reception, and every section below is a variation on it.
 

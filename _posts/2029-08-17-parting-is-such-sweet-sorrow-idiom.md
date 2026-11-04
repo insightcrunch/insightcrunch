@@ -6,15 +6,15 @@ date: 2029-08-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "parting-sweet-sorrow", "idiom", "sweet-sorrow-idiom"]
 excerpt: "Juliet's farewell line parting is such sweet sorrow entered everyday English as a stock phrase for bittersweet goodbyes, often used with no thought of the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-08-17
+lang: en
 ---
-
 "Parting is such sweet sorrow" is the most borrowed goodbye in English, and almost nobody who borrows it uses it the way Juliet used it. Juliet speaks the words at the close of the balcony scene, in the Arden text edited by Brian Gibbons at 2.2.184, and she speaks them in order to keep a conversation alive rather than to close one. The line is a device for not leaving. The culture took the device, turned it around, and made it into the politest available instrument for leaving: a phrase for signatures at the foot of farewell columns, for retirement speeches, for the last page of a leaving card, for a president walking out of the Oval Office. That reversal is the subject of this article, and the verdict can be stated at the start. The idiom succeeded because it lies politely. It lets a leaver claim the feeling of the person who stays. Juliet's sorrow is the sorrow of the one left at the window, who must watch the other walk into danger; the farewell speaker who quotes her borrows that sorrow as a credential, proof of attachment, while collecting all the benefits of departure: the ranch, the freedom, the next job, the summer holiday. The phrase's whole career, from quotation book to valediction, is a long exercise in that licensed borrowing, and the measure of its success is how completely the borrowing goes unnoticed.
 
-![Juliet at the balcony window at the close of the night scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at the balcony window at the close of the night scene - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The claim is not that the idiom is a corruption to be scolded. A phrase that survives four centuries of extraction has earned an explanation, not a rebuke, and the explanation lies in the engineering of the original couplet. Juliet's two lines are built like a machine for generating their own misuse. The first line states a contradiction, sweet against sorrow, in five words that scan as a complete sentence and detach without grammatical damage. The second line then explains the contradiction by postponing the ending it seems to announce: "That I shall say good night till it be morrow" (2.2.185). Parting hurts, Juliet says, so the remedy is to refuse the parting and stretch the goodbye across the whole night. Every later user keeps the first line and drops the second. The culture preserved the diagnosis and discarded the prescription, and the discarded half is the half that made the line honest. What remains is a sigh with excellent credentials: sorrow that certifies love, sweetness that certifies sorrow, and no obligation to stay a minute longer.
 

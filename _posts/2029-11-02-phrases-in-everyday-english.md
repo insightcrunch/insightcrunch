@@ -6,15 +6,15 @@ date: 2029-11-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "idioms", "everyday-english", "phrases-in-english"]
 excerpt: "Romeo and Juliet stocked everyday English with phrases, from star-crossed lovers to a rose by any other name, used daily by people who may never have read it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-11-02
+lang: en
 ---
-
 The phrases of Romeo and Juliet in everyday English are the play's most widely distributed property, and also its most carelessly catalogued. Speakers who have never opened the text call a doomed couple star-crossed, curse two quarrelling parties with a plague on both their houses, dismiss a hopeless search as a wild-goose chase, and take leave with parting is such sweet sorrow, and each of these utterances is a small act of quotation performed without a quoter. The standard account of this traffic says that the play coined its phrases, that a single inventive mind stocked the language the way a merchant stocks a shelf. The record, examined phrase by phrase against the dictionaries, supports a different and more interesting verdict. The play invented less than the legend claims and achieved more than invention would explain. Its distinctive gift was naturalization: it took compounds, curses, proverbs, and racing slang, set them at the emotional pressure points of a story everyone would retell, and sent them out with enough force to survive the death of the world that produced them. A census that grades each claimed export by the documentary record, rather than by the warmth of the claim, finds a small core of full idioms, a penumbra of quotations that behave like idioms on ceremonial occasions, a set of famous lines that never left the quotation marks, and a residue of phrases credited to the play that belong to Chaucer, to another Shakespeare play, or to the following century. That graded shape, and not a raw count, is the real measure of the play's gift to English.
 
-![The phrases of Romeo and Juliet passing into everyday English speech - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The phrases of Romeo and Juliet passing into everyday English speech - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The verdict can be stated plainly at the outset, because everything that follows is its evidence. Of the expressions habitually listed as the play's donations, only a handful pass every test a lexicographer can apply: attestation in the text, first surviving record in the text or decisive popularization by it, and a living career outside quotation marks in the mouths of speakers who owe the play nothing. Star-crossed and wild-goose chase pass all three tests, though the second passes them in a sense its first speaker would not recognize. The plague curse passes as a grammatical template rather than as a fixed string. The balcony scene's three great exports, wherefore art thou, the rose sentence, and the sweet sorrow couplet, pass the first two tests and live a double life, quoted by people who know the source and used by people who do not, which is why companion studies in this series treat each of them at full length. Fortune's fool and the Friar's violent delights remain quotations, one at steady low heat, the other after a dormancy of four centuries. And the tail of the popular lists, the fool's errand, love is blind, break the ice, fails the first test outright: those words stand in other texts, or in no text of the period at all. A census that prints the failures beside the passes is not pedantry. The failures are data, because they show the gravitational pull the play exerts on the language's memory, attracting neighbouring phrases into its orbit until the attribution itself becomes a fact about the play's fame rather than about its text.
 

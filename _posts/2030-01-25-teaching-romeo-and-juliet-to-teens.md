@@ -6,15 +6,15 @@ date: 2030-01-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "teaching", "teenagers", "teaching-to-teens"]
 excerpt: "Teaching Romeo and Juliet to teenagers works best when lessons meet them where they are, treating the lovers as real teens facing love, family, and pressure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-01-25
+lang: en
 ---
-
 Teaching Romeo and Juliet to teenagers is the most consequential encounter with Shakespeare in the whole of schooling, because for most students it is the first full play placed in their hands and the one against which every later play is measured. The verdict defended through this article is plain. The play lands with teenagers when the class treats the text as a script to be performed and interrogated from the first lesson, with students speaking, moving, cutting, and directing the words themselves; it falls flat when the class treats the text as a document to be summarised, translated, and tested. Every strategy examined below is graded against that verdict, and the grading is not a matter of taste. It follows the documented record of the three institutions that have shaped classroom practice on this play for four decades: Rex Gibson's Shakespeare and Schools Project at Cambridge, the Folger Shakespeare Library's performance-based method in Washington, and the Royal Shakespeare Company's rehearsal-room programme in Stratford. Where the research evidence is strong, the article says so. Where the evidence is testimonial, promotional, or borrowed from younger children, the article says that too, because a pedagogy that cannot survive its own evidence audit has no business asking for a teenager's trust.
 
-![A teenage classroom rehearsing the balcony scene with scripts in hand - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A teenage classroom rehearsing the balcony scene with scripts in hand - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Why the play sits in the timetable at all is a question of canon, curriculum machinery, and examination history, and it belongs to [the account of why this play became the standard school text](/2030/01/18/why-it-is-the-standard-school-text/). The question owned here begins the moment the books are handed out. A class of fourteen-year-olds opens a text in which the heroine is younger than they are, the hero's age is never stated, the whole catastrophe runs from a Sunday street fight to a Thursday dawn, and the adults charged with protecting the young people fail at every decision that matters. Gibson saw the scale of the encounter earlier than most scholars. In his Shakespeare Survey essay on pedagogy and the afterlife of this play, he observed that school Shakespeare is a substantial fraction of the play's afterlife that scholarship largely ignores, and he counted at least half a million fourteen-year-olds in England and Wales alone required each year to study one of three set plays, this tragedy among them. That arithmetic has shifted with curricula since, but the structural fact has not: the classroom is where the play's largest audience meets it, and the meeting is compulsory. Compulsion changes the ethics of teaching. A bored adult can leave a theatre. A bored student cannot leave the room, and the teacher's first problem is therefore not interpretation but permission: how a class grants this old text the right to its attention.
 

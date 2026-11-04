@@ -6,15 +6,15 @@ date: 2030-02-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "misconceptions", "teaching", "student-misconceptions"]
 excerpt: "Students often misread Romeo and Juliet, from the wherefore line to the lovers' ages and the length of the romance, mistakes a good lesson sets out to correct."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-02-01
+lang: en
 ---
-
 Ask a class of fourteen-year-olds what happens in Romeo and Juliet before the book is opened, and the standard misconceptions arrive fully formed: a girl calls down from a balcony to the boy below, two young adults fall in love across a feud, the affair runs for weeks, the stars take the blame, and the story stands as the pattern of romantic love itself. Nearly every clause of that confident summary is wrong, and none of it was learned from the play. The balcony is absent from the text, the girl is thirteen, the courtship occupies days rather than weeks, and the boy spends the opening scenes in love with somebody else entirely. These student misconceptions were installed before the lesson began, by pictures, castings, summaries, and slogans that carry an authority no teacher issued and no teacher can match for reach.
 
-![Juliet at the window above the Capulet orchard in the scene students call the balcony scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at the window above the Capulet orchard in the scene students call the balcony scene - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The verdict argued through this article is that the common errors are transmissions, not failures. Each durable misconception survives because a vehicle with more circulation than any classroom repeats it: a stage picture reproduced across three centuries, a film face, a one-paragraph summary, a marketing label, an adaptation that rewrote the ending and held the stage for well over a century. Correction fails when it treats the error as ignorance, a gap to be filled with the right fact, and it succeeds when it identifies the carrier and answers in kind: picture against picture, text against summary, frame against label. The InsightCrunch misconception checklist set out below therefore grades every error by the vehicle that teaches it, because the grade determines the remedy, and a remedy aimed at the wrong carrier is effort spent on a door that was never the entrance.
 

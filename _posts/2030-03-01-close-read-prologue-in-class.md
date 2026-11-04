@@ -6,15 +6,15 @@ date: 2030-03-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "prologue", "close-reading", "close-read-prologue"]
 excerpt: "The Romeo and Juliet Prologue is an ideal classroom text, a compact sonnet that previews the plot and rewards close reading of its form, imagery, and words."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-03-01
+lang: en
 ---
-
 The Prologue to Romeo and Juliet is the most efficient first lesson in Shakespeare's language that a curriculum owns: fourteen lines, one complete sonnet, spoken before a word of dialogue, carrying the whole plot in advance and the whole method of the play in miniature. The verdict of this study is plain. A class that close-reads the Prologue as its first sustained work on the play learns faster, argues better, and misreads less than a class that receives the same fourteen lines as a plot summary with vocabulary attached. The Chorus's speech is not a preface to the real business. Handled in stages, with its form mapped before its meanings are settled and its ending treated as a working instrument rather than an embarrassment, the Prologue is the real business in its smallest compass: a sonnet that teaches a class how this playwright builds meaning out of pattern, pressure, and withheld causes.
 
-![A class close-reading the Prologue sonnet of Romeo and Juliet, line by line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A class close-reading the Prologue sonnet of Romeo and Juliet, line by line - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The lesson described here is a described lesson, not a script for imitation in the dark. Its stages follow the published record of how the Prologue has actually been taught by the institutions that publish teaching materials for the play: the Folger Shakespeare Library's lesson archive and teacher writing, the Cambridge School Shakespeare tradition shaped by Rex Gibson, and, as the contrasting design, a widely distributed American curriculum that treats the same lines as a plot-annotation exercise. Against that record, the lesson takes positions. Form comes before paraphrase. The ending the Chorus announces comes before the scenes that earn it, and the announcement is put to work rather than apologized for. The two hardest phrases in the sonnet, star-crossed and death-marked, are postponed until the class holds enough of the play to test them. Each position is argued from the text and from the evidence, and each is stated with its limit attached.
 

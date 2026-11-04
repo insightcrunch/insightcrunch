@@ -6,17 +6,17 @@ date: 2029-06-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "casa-di-giulietta", "verona-tourism", "casa-di-giulietta"]
 excerpt: "Verona's Casa di Giulietta draws crowds to a balcony said to be Juliet's, though the house and balcony are a tourist myth built around a fictional character."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-06-22
+lang: en
 ---
-
 ## Is the Casa di Giulietta real? The verdict on Verona's balcony
 
 The Casa di Giulietta at Via Cappello 23 in Verona is a genuine medieval tower house wearing a false name, and its famous balcony is a twentieth-century construction assembled from old tomb marble. That double verdict, half acquittal and half conviction, is the only honest starting point for the most visited literary address in Italy. The building exists, and parts of it stood when Dante was alive. The heroine whose house it claims to be never existed at all. Between those two facts the city of Verona built a shrine, and the shrine, rather than the stones, is the real subject: a fiction so beloved that a municipality gave it a front door, a courtyard, and the single architectural feature the play itself never names.
 
-![The courtyard of the Casa di Giulietta in Verona beneath the added balcony - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The courtyard of the Casa di Giulietta in Verona beneath the added balcony - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The argument of this article is that the balcony lies, but that the lie is precise, datable, and more instructive than most truths in the heritage business. The word balcony appears in no early text of the play. The family that owned the house for centuries was called Cappello, not Capuleti, and the carved hat that sealed the identification is a pun in stone, not a genealogy. The balcony itself was fixed to the courtyard wall in the restoration campaign of 1939 and 1940, under the direction of Antonio Avena, the city's museum director, and its carved front was assembled from fourteenth-century marble that had spent decades in the stores of the Castelvecchio museum. None of this is rumour. Every element of the fabrication sits in the documented record, and much of it sits in the city's own published descriptions. The myth survives not because the evidence is hidden but because the evidence does not matter to the ritual performed beneath the balcony, and separating those two registers, the archive and the ritual, is the work of the pages that follow.
 

@@ -6,15 +6,15 @@ date: 2029-05-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "lion-king-2", "hidden-plots", "lion-king-2"]
 excerpt: "The Lion King 2 quietly retells Romeo and Juliet through cubs from rival prides, one of many family films that hide the star-crossed plot inside a new story."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-05-11
+lang: en
 ---
-
 The most complete retelling of Romeo and Juliet in family film never says the play's name. The Lion King II: Simba's Pride, released direct to video by Walt Disney Video Premiere on 27 October 1998, rebuilds the tragedy joint by joint on the African savanna: two houses divided by an inherited grudge, an heir raised inside the prohibition, a lover bred in the enemy's camp, a wise intermediary who engineers the match, a banishment pronounced by a ruler who will not hear the defence, and a final confrontation at a rocky gorge where the feud comes to collect its price. Every load-bearing structure of the play is present and working. One element alone has been removed and replaced, and it is the element the whole structure exists to deliver in Verona: the ending. In the play, the houses reconcile over the bodies of their children. In the film, the children step between the houses, argue the feud down in front of both armies, and live to rule the united kingdom. The verdict argued through this article is that the sequel is neither a diluted copy nor a coincidence of plotting. It is the play's machine with the play's moral reversed, and the reversal is the most instructive event in the tragedy's modern afterlife, because it isolates the one component of Romeo and Juliet that popular storytelling cannot reuse. The feud, the prohibition, the exile and the intermediary all transfer without loss. The corpses do not. What the film proves, by the precision of everything it keeps, is that the play's meaning lives in its ending, and that a Romeo and Juliet with the ending removed is a different argument wearing the same plot.
 
-![Kiara and Kovu between the rival prides in The Lion King II Simba's Pride - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kiara and Kovu between the rival prides in The Lion King II Simba's Pride - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The hiding is part of the evidence. Shakespeare receives no billing in the film, no character speaks a line of the play, and the word Verona is never heard, yet the director of the sequel has stated the debt in plain terms, and the production record shows the borrowing being negotiated at the highest level of the studio while the film was made. Family audiences bought the result in quantities that made the sequel one of the defining direct-to-video releases of its period, which means the play's plot, unnamed and unpriced as an adaptation, reached a generation of children in the one form guaranteed to be remembered: as the shape of a story already loved. Recognizing the hidden plot is therefore not a parlour trick of source-spotting. It is the measurement of the tragedy's saturation of popular narrative, and the film's happy ending, examined closely, turns out to be the tragedy's most faithful reader in one respect. The filmmakers understood exactly what the play's ending costs, priced it, and declined to pay. Their refusal, and the elaborate machinery they built to make the refusal work, is the subject of everything that follows.
 

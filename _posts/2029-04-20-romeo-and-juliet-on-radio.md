@@ -6,15 +6,15 @@ date: 2029-04-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "radio-drama", "broadcast", "romeo-and-juliet-radio"]
 excerpt: "Radio has long carried Romeo and Juliet to listeners, telling the tragedy through voice, music, and sound alone, from early broadcasts to modern audio dramas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-04-20
+lang: en
 ---
-
 Romeo and Juliet on radio is the adaptation that looks like a deprivation and behaves like a homecoming. Strip away the balcony, the masked ball, the swordplay and the tomb, and the tragedy does not collapse; it concentrates. The play survives the loss of every picture because its decisive events were always acoustic before they were visual. Tybalt identifies his enemy by ear at the feast, announcing, "This, by his voice, should be a Montague" (1.5). The lovers meet inside a shared sonnet, a form built from two voices answering each other. Juliet conducts the most famous love scene in the language from a window the first audiences could barely see, in darkness, to a man hidden below her. A play this dependent on overhearing, eavesdropping, mistaken sounds and voices in the dark does not merely tolerate a blind medium. It was, in large stretches, composed for one.
 
-![Actors gathered around a single studio microphone in an early broadcasting drama studio - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Actors gathered around a single studio microphone in an early broadcasting drama studio - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The verdict of this survey is plain, and the evidence assembled below defends it section by section. Of every medium that has adapted the tragedy, radio loses the least and, in the scenes that matter most, gains the most. What the microphone removes is the play's public choreography: the opening brawl, the dance at the Capulet feast, the duels, the final tableau of bodies in the tomb. Those losses are real, and this article prices them honestly. What the microphone returns is larger. It restores the verse as the event itself rather than as commentary on an event. It frees the lovers from the camera's merciless arithmetic of age, the problem that haunts every film version and that the screen articles in this series adjudicate at length. It admits voices of genuine youth, and it admits them across a documented century of broadcasts and recordings, from a schools transmission of 1930 that no longer exists anywhere except a listing, to complete unabridged editions built for the ear alone. Radio is not the tragedy's refuge from better media. On the evidence of the record, it is the medium in which the play's own priorities are least distorted.
 

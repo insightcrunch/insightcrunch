@@ -6,15 +6,15 @@ date: 2029-11-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "advertising", "branding", "advertising-history"]
 excerpt: "Advertisers have long sold products with Romeo and Juliet, invoking the balcony, the names, and the romance to lend goods from sweets to cars a glow of love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2029-11-09
+lang: en
 ---
-
 Romeo and Juliet is the most rented property in advertising, and the rent is never paid in money. No estate licenses the lovers, no agent negotiates their image, and yet the pair have fronted campaigns for telephone networks, denim, perfume, wine, cigars, jewellery and ice cream across a hundred and forty years of documented trading. This article reads that trading as a price list. Its verdict is simple: advertising is the honest broker of the play's afterlife, because advertising alone states, in selections any buyer can audit, what the culture actually values in the story. The balcony is the most valuable thirty seconds in English drama. The tomb, in a hundred and forty years of documented campaigns, has never attracted a single bid. Every other element of the story, the feud, the names, the window, the kiss, the courtyard wall in Verona, has been priced, packaged and sold by somebody. Between those two prices lies the whole public meaning of the play, and the campaigns surveyed here, from a one-shilling pack of paper scraps to a hundred pieces of Paris high jewellery, are the ledger in which that meaning is kept.
 
-![The balcony tableau of Romeo and Juliet restaged as advertising imagery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The balcony tableau of Romeo and Juliet restaged as advertising imagery - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The play arrives with its own advertisement attached. The Chorus opens the action by giving the ending away: "A pair of star-cross'd lovers take their life" (Prologue, 6), and promises only "the two hours' traffic of our stage" (Prologue, 12) in exchange for attention. The Prologue is a poster that spoils the plot on purpose, because the play's first sellers understood that foreknowledge is a feature: an audience told the cost in advance watches the spending. The advertisers who followed are less candid than the Chorus. They keep the promise and strike the disclosure, selling the meeting while declining to mention the price the meeting exacts. That single editorial habit, repeated across media and centuries, is the subject of everything that follows.
 

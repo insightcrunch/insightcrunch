@@ -6,15 +6,15 @@ date: 2030-04-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "essay-questions", "writing", "essay-questions"]
 excerpt: "Good Romeo and Juliet essay questions push students past plot summary toward real argument about fate, character, language, and the play's unsettled meanings."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-04-12
+lang: en
 ---
-
 An essay question is the smallest complete theory of Romeo and Juliet that a student ever meets. Before a class has read a scene, the questions on the board have already decided what kind of object the play is: a story to be retold, a warehouse of themes to be inventoried, or an argument to be joined. The verdict of this article is stated at the outset and defended throughout. An essay question on the play works when it makes plot summary unusable and disagreement unavoidable. It does so by three means: it names a tension the play itself sustains and refuses to settle, it fixes the evidence on which the disagreement must be fought, and it installs a scale, a how far or a to what extent, in place of a destination. A question missing any one of the three collapses into a known failure mode. Without the tension it becomes a topic. Without the evidence demand it becomes an opinion poll. Without the scale it becomes a verdict looking for a scribe, and students oblige by writing the verdict's biography, which is the plot again, wearing a conclusion as a hat.
 
-![An essay question on Romeo and Juliet framed as an argument rather than a topic - Insight Crunch](/assets/images/blog/blog-01.webp)
+![An essay question on Romeo and Juliet framed as an argument rather than a topic - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The play's own opening performs the design problem in fourteen lines. The Chorus announces the ending before the action begins: "From forth the fatal loins of these two foes / A pair of star-cross'd lovers take their life" (Prologue.5-6, Folger Shakespeare Library edition, edited by Barbara A. Mowat and Paul Werstine, the edition used for quotation throughout this article). A text that spoils itself on purpose cannot be examined by asking what happens in it. Every candidate, every student, every reader already holds the outcome. What remains contestable is everything the announcement leaves open: whether the stars or the households did the killing, whether haste was the lovers' glory or their defect, whether the adults who arranged the marriage market or the children who fled it bear the charge. The examination of a self-spoiling play is therefore a pure case of question design. Where nothing can be asked about the destination, the whole weight of assessment falls on the route, and the route is built by the wording of the question. Bad wording yields the plot retold at walking pace. Good wording yields an argument about mechanism, responsibility, and degree. The difference between the two yields is not talent. It is design, and design can be specified, taught, and audited. That specification is the business of the pages that follow.
 

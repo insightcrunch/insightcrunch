@@ -6,15 +6,15 @@ date: 2029-06-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "baz-luhrmann", "textual-cuts", "luhrmann-cuts"]
 excerpt: "Baz Luhrmann kept Shakespeare's language in Romeo + Juliet but cut and rearranged the play heavily, fitting its verse to a fast, image-driven film world."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-06-01
+lang: en
 ---
-
 The most repeated fact about Baz Luhrmann's *Romeo + Juliet* is also the most misleading: the film keeps Shakespeare's language. It does, and it does not: it keeps the language and cuts the play that language builds to a third of its length. Every spoken line in the film is Shakespeare's, because Craig Pearce and Baz Luhrmann set themselves a rule against writing a single sentence of imitation verse, yet the play they speak from has been taken apart and rebuilt. Roughly a third of the text survives. The lovers' lyric peaks survive almost entire. The play's public architecture, its Chorus, its civic judgments, its closing audit, its servants, messengers, musicians and mourners, is demolished, and the weight those passages carried is transferred to a television newsreader, a police captain, a montage of headlines and the cutting rhythm of editor Jill Bilcock. How Luhrmann cut and kept the text is therefore not one decision but two, taken at different altitudes: at the level of the line, a fidelity so strict it became the film's marketing; at the level of the structure, a demolition so thorough that the same marketing conceals it. This article measures both, passage by passage, and reaches a verdict: the film is the most faithful screen version of the play ever made in its diction and among the least faithful in its architecture, and the two facts are a single method, not a contradiction.
 
-![A television news broadcast framing the recut text of Romeo and Juliet in Verona Beach - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A television news broadcast framing the recut text of Romeo and Juliet in Verona Beach - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The method matters because the cliché about the film gets the direction of its daring exactly backwards. The received story says Luhrmann modernized the play: guns for swords, cars for horses, a swimming pool for a balcony. In fact the modernization is the conservative half of the enterprise, a change of costume over an unchanged tongue. The radical half is invisible in the posters. Luhrmann treated the text the way his own generation treated recorded music, as material to be sampled, looped, re-sited and dropped, and the film's admirers and detractors have been arguing past each other ever since because each side is describing a different layer of the result. The admirers hear the lines and call the film faithful. The detractors miss the scenes and call it a travesty. The breakdown assembled in this article, passage by passage, shows both hearings to be accurate about the layer each attends to, and it shows which layer carries the play's meaning when the two are separated. A companion study of [Baz Luhrmann's Romeo + Juliet as a cultural event, its making, its casting and its box-office afterlife](/2028/08/04/baz-luhrmann-romeo-plus-juliet-1996/) covers the film whole; the subject here is narrower and stranger: the surgery performed on the words themselves.
 

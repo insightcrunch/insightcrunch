@@ -6,17 +6,17 @@ date: 2030-05-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "pasternak", "russian-translation", "pasternak-translation"]
 excerpt: "Boris Pasternak's Russian Romeo and Juliet, made by a great poet under Soviet pressure, became the standard stage version and a landmark of translation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-05-03
+lang: en
 ---
-
 Boris Pasternak's Russian Romeo and Juliet is the text Russian audiences mean when they quote the play. It was written in a wartime evacuation town in a matter of weeks, printed first in 1943, and then reprinted, staged, broadcast, and memorised for the rest of the century, outlasting the state that commissioned it. Twenty-nine standalone editions of this single play appeared in his translation between the 1940s and 2014, more than for any of the other seven Shakespeare plays he rendered, and the theatres that might have chosen a more literal version chose his instead, decade after decade. Any account of the play's world afterlife that treats translation as a clear pane of glass will fail on this case, because nothing about Pasternak's version is transparent. It is a Russian poem built from an English play, and it has to be judged as one.
 
 The verdict of this article is stated at the outset so that the evidence can be weighed against it. Judged as a copy, Pasternak's Romeo and Juliet is wanting: famous lines change their meaning, the Prologue's astrology disappears, the servants' opening duel of puns dissolves, and registers that Shakespeare keeps apart are levelled into one lyric idiom. Judged as what its maker said a translation should be, an independent artistic work producing an impression of life rather than of literature, it is a triumph with a documented price. What survives the crossing is the play's architecture, its heat, its speed, and even the sonnet frame of its Prologue. What the crossing spends is the fate machinery, the wordplay, and the spread of voices. The scholarly charges against the version, Georgy Shengeli's in 1945 and the academic preference for a rival translator ever since, are answered not by denying a single departure but by identifying the kind of object the departures make. A translation that filled a vacancy on a nation's stages and in its schoolrooms is a different thing from a crib, and the records of stage and print settle which kind this is.
 
-![Pasternak's Russian Romeo and Juliet in print and on the Soviet stage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pasternak's Russian Romeo and Juliet in print and on the Soviet stage - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The making matters because the conditions are part of the text's character. Pasternak turned to Shakespeare in the late 1930s, when publishing original poetry under Stalin had narrowed to a dangerous trickle, and he completed this play in Chistopol, the Volga town to which Moscow's writers had been evacuated after the German invasion of 1941. The translation was commissioned by a state publisher of books for young readers, dashed off within his first two months in exile, and argued for in a letter of March 1942 that rejected the reigning doctrine of literal equivalence outright. From those facts the whole subsequent story unfolds: the wartime book that became a peacetime standard, the poet's version the academy declined to canonise in its complete Shakespeare, the text an actor of Alexei Batalov's standing chose for the state radio archive in 1985, and the libretto source for a St Petersburg rock opera in 2010. Each stage of that afterlife is a piece of evidence about what the translation is, and each will be examined in turn.
 

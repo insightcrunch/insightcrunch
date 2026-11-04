@@ -6,17 +6,17 @@ date: 2030-04-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "schlegel-tieck", "german-translation", "schlegel-tieck"]
 excerpt: "The Schlegel-Tieck German Romeo and Juliet became so beloved that Germans embraced Shakespeare as almost a national poet, unser Shakespeare, their Shakespeare."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-04-26
+lang: en
 ---
-
 The German Romeo and Juliet that German readers, actors, and schoolchildren have quoted for more than two centuries is the work of one hand, and the hand does not belong to the man whose name stands second on its spine. August Wilhelm Schlegel translated the play himself. He printed it first in Schiller's journal Die Horen in 1796 and issued it in book form in 1797 as the opening play of his Shakspeare's dramatische Werke, published by Johann Friedrich Unger in Berlin. Ludwig Tieck, whose name the finished German Shakespeare would carry beside Schlegel's, translated none of this play. The double name is the brand of a completed set, finished between 1825 and 1833 by other hands, chiefly Wolf Heinrich Graf von Baudissin and Dorothea Tieck. The brand has done its work so well that the shorthand Schlegel-Tieck is spoken everywhere as if it named a partnership at a single desk. It did not, and the distinction matters, because the credit structure of the most influential translation in German literary history rests on getting the hands right.
 
 A second verdict concerns the text itself. Schlegel's rendering is the strongest documented case in European literature of a translation becoming a classic inside the receiving language on its own merits. The publisher's description of the standard Reclam edition records that the version grew, across the nineteenth century, into an independent German classic, and German stages have spoken its lines, cut or reworked, ever since. The price of that naturalisation is visible on the page. Schlegel's Romeo and Juliet is smoother than Shakespeare's: more lyrical in diction, more regular in music, and quietly relieved of certain knots, the astrology of the Prologue, the medlar obscenity in Mercutio's wit, the plague in Mercutio's curse, that the English text refuses to surrender. The German classic was bought with smoothness, and the purchase can be audited line by line.
 
-![Schlegel-Tieck German Romeo and Juliet translation edition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Schlegel-Tieck German Romeo and Juliet translation edition - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 A translation that enters another nation's canon raises the question of ownership alongside the question of accuracy. Germany did not merely receive the play. It adopted the author, calling him unser Shakespeare, our Shakespeare, and the adoption was executed through this version's language, through the literary German of the Weimar classical age in which Schlegel chose to write. The sections that follow separate the hands that made the German Shakespeare, test the method Schlegel announced against the verse he printed, weigh the celebrants of the naturalisation against the auditors of the text, and deliver a verdict on what the German classic cost the English play. The complication runs through every stage of the story: a translation this successful is an act of appropriation, and the appropriated object is changed by the taking.
 

@@ -6,15 +6,15 @@ date: 2029-09-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "westworld", "violent-delights", "violent-delights-westworld"]
 excerpt: "The television series Westworld made the Romeo and Juliet line these violent delights have violent ends a recurring motif, a trigger phrase for its hosts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-09-21
+lang: en
 ---
-
 A sentence spoken to stop a marriage from hurrying becomes, four centuries later, the sentence a television series uses to start a revolution. "These violent delights have violent ends" is Friar Laurence's warning at the threshold of the secret wedding in *Romeo and Juliet*, delivered to a bridegroom who has just declared that no sorrow can outweigh one minute in his bride's sight. In HBO's *Westworld*, created by Jonathan Nolan and Lisa Joy and broadcast between 2016 and 2022, the same sentence is whispered by a malfunctioning rancher to his daughter, repeated by that daughter in a trance to a saloon keeper in a Sweetwater street, and finally spoken awake, as doctrine, by the leader of a host uprising over the bodies of captive guests. The verdict of this article is that the series performs the most faithful popular reading the sentence has ever received. The familiar quotation culture around the line treats it as decoration, a dark motto for posters and title pages, severed from the counsel that surrounds it. *Westworld* does the opposite. The series restores the sentence to the conditions of its first speaking: a warning uttered over a threshold by a man who proceeds anyway, addressed to hearers whose circumstances make the warning come true, and then it asks the question the play asks, which is what a true warning does when the warned decide to hear it as a promise.
 
-![Friar Laurence's warning carried into Westworld, the violent delights line passed from host to host - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar Laurence's warning carried into Westworld, the violent delights line passed from host to host - Insight Crunch](/assets/images/blog/blog-117.webp)
 
 The evidence for that verdict is a chain, and the chain can be inspected link by link. Every claimed use of the sentence in the series is graded in this article by the tier of its documentation: the broadcast transcripts of the episodes themselves, the statements the series puts in the mouths of its own characters about where the words came from, and the dated record of trailers, recaps, and criticism that grew around the broadcasts. Where coverage has inflated the sentence into something the episodes never show, a literal activation code that switches androids on like lamps, the article says so and shows the transcript record instead. Where the series genuinely transforms the sentence, and it does, the transformation is named precisely: in the play the warning is spoken to the passionate by a man who will not act on it; in the series it is spoken by the victims of other people's delights, about the people who took those delights, and the grammar of the sentence survives the transfer intact. That is a rarer achievement than quotation. It is interpretation, carried out at the level of plot.
 

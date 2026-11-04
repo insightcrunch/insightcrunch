@@ -6,17 +6,17 @@ date: 2029-12-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "stamps", "coins", "stamps-and-coins"]
 excerpt: "Many nations have honored Romeo and Juliet on postage stamps and commemorative coins, putting the fictional lovers onto the official mail and coins of states."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-12-21
+lang: en
 ---
-
 ## Romeo and Juliet on Stamps and Coins: The Verdict in Advance
 
 Romeo and Juliet have appeared on the postage stamps and coins of real states, and the fact deserves a moment of plain astonishment before any catalogue work begins. A postage stamp is the smallest portrait a government ever commissions of itself. The space beside the sovereign's head, or in the corner where a republic prints its name, is the most guarded square centimetre in a nation's visual life. What a state places there, it endorses. A coin goes further: it is state speech that passes from hand to hand as money, legal tender backed by the issuing authority, designed to be trusted without being read. When governments spend that authority on Romeo and Juliet, they spend it on two fictional teenagers invented by a foreign playwright four centuries ago, children of houses that never existed, in a city whose claim on them is itself a legend. No treaty required it. No citizen petitioned for it in most cases. The lovers hold no office, founded no state, won no war. They are, in the strictest sense, nobody. And yet their faces and their scenes have been engraved, printed, perforated, struck, and issued under the names of nations.
 
-![The balcony and the tomb, the two images between which official issues of the lovers divide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The balcony and the tomb, the two images between which official issues of the lovers divide - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The verdict of this article can be stated before the evidence, because the evidence is unusually consistent. Governments almost never print the play. They print the emblem the public already carries: the balcony, the embrace, the entwined pair, the rose. The tragedy ends with two corpses in a vault and a prince pronouncing the saddest summary in drama, "For never was a story of more woe / Than this of Juliet and her Romeo" (Folger Shakespeare Library edition, 5.3.309-310), yet official imagery stops the story at its midpoint, at the window, in the moonlight, with both lovers alive and the catastrophe politely out of frame. The single verified exception in the catalogue record, an Italian issue of 2022 that shows Juliet grieving over Romeo's body, comes from the one state that can claim the lovers as its own dead, and that exception sharpens the rule rather than breaking it. A stamp, in short, is a state portrait in miniature, and the portrait is never really of the lovers. It is of the issuing nation's idea of itself: Britain honoring its national author, Italy mourning its own legendary children, small states borrowing prestige, mints selling keepsakes. Read in sequence, the stamps and coins of Romeo and Juliet form a diplomatic history of the play's reputation, written by governments.
 

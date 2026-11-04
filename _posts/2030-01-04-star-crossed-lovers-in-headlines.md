@@ -6,15 +6,15 @@ date: 2030-01-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "headlines", "journalism", "star-crossed-headlines"]
 excerpt: "Journalists reach for star-crossed lovers and Romeo and Juliet to frame real stories of forbidden romance, divided families, and love across hostile borders."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-01-04
+lang: en
 ---
-
 A headline that calls two real people star-crossed lovers has already finished their story. Before the first paragraph begins, the label has supplied the plot (two houses, one love), the emotional register (sympathy for the couple, sorrow at the world that opposes them), and the ending (the grave), and it has issued all three as fact rather than as forecast. This article examines that transaction across a documented century and a half of news practice, from the metropolitan reporters who descended on the Hatfield and McCoy feud in 1888 to a wire dispatch from besieged Sarajevo in 1993, from an Afghan couple labelled by the New York Times in 2014 to a headline over two disputed deaths in Uttar Pradesh in 2015. The verdict argued throughout is that the frame is a kindness with a cost, and that the cost is charged in advance. The kindness is real: the label lends strangers instant sympathy, dignifies people whom a colder vocabulary would call elopers, runaways, or victims, and gives a distant reader a story-shaped handhold on a conflict that would otherwise arrive as factions and acronyms. The cost is structural: the play's name spends the play's ending before the evidence is in, so a couple framed as star-crossed is read as doomed while their case is still a police inquiry, a court hearing, or a life in hiding. The survey assembled here finds the prophecy fulfilled in full in only a minority of the checkable cases. In the rest, the labelled people survived, recanted, were abandoned by the partner the label paired them with, or were disputing the very facts the headline had settled.
 
-![A newspaper front page carrying the star-crossed lovers frame - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A newspaper front page carrying the star-crossed lovers frame - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The habit is not a decorative weakness of feature writers. It follows from how headlines are made, whom they are made by, and what a headline is for. A headline is the one part of a news story written to be read by people who will never read the story. It is composed late, usually by an editor rather than the reporter, under a space constraint measured in characters, and its first duty is not summary but summons: it must make a passer-by stop. A borrowed plot is the most efficient summons ever devised, because it arrives pre-understood. Two words of it, star-crossed, do the work of a paragraph of exposition. Everything in the record that follows is explained by that efficiency, and everything that goes wrong follows from it too, because a plot borrowed entire brings its ending with it, and the ending of this plot is a tomb.
 

@@ -6,15 +6,15 @@ date: 2030-02-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy-debate", "no-fear-shakespeare", "modern-translation", "no-fear-shakespeare"]
 excerpt: "No Fear Shakespeare prints Romeo and Juliet beside a plain modern paraphrase, a hugely popular study aid that critics fear lets students skip the actual poetry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-02-15
+lang: en
 ---
-
 No Fear Shakespeare, the SparkNotes series that prints Romeo and Juliet with a complete modern English paraphrase on the page facing the original, is neither the rescue its publisher promises nor the cheat its detractors describe. It is a contract. Used under one set of terms, as a scaffold erected against a hard text and then deliberately taken down, the aid helps: readers who would otherwise abandon the play in its first scene instead finish it, follow its argument, and arrive at the original lines with the plot already in hand. Used under the opposite terms, as a permanent substitute that a student reads while the verse sits unread across the gutter, the aid harms: the student completes the assignment, passes the quiz, and never once performs the act the play exists to demand, which is the reading of Shakespeare's words. The verdict of this article is therefore a grading, not a slogan. The No Fear volume is acquitted of the charge of cheating, because the book never hides what it is and never removes the original. It is convicted of a lesser and more precise offence: its design makes the harmful use easier than the helpful one, and any teacher, parent, or solitary reader who hands it over without terms has accepted the publisher's marketing in place of a pedagogy. Help or harm is decided at the moment of use, and the evidence assembled here, from reading research, from a classic of literary criticism, from national test data, and from the paraphrase's own pages, shows exactly which uses fall on which side of the line.
 
-![A student comparing the original text and the modern paraphrase in a No Fear Shakespeare volume of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student comparing the original text and the modern paraphrase in a No Fear Shakespeare volume of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The debate matters because this play is where the question bites hardest. Romeo and Juliet is the tragedy most students in the English-speaking school systems meet first, set for early secondary classes whose readers are the least equipped for early modern syntax and the most likely to be handed a rescue device. A study aid attached to a later, harder play would reach older readers with more defences. Attached to this one, the volume lands on desks at the precise point where a lifelong relation to Shakespeare is either founded or foreclosed. If the first encounter teaches a student that the verse is an obstacle to be routed around, the routing habit is what gets learned. If the first encounter teaches that the verse yields to effort, with the paraphrase standing by as a checked and temporary support, the effort habit is what gets learned. Everything in the argument that follows is a working out of that single fork.
 

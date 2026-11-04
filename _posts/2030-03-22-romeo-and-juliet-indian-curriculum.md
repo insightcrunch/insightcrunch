@@ -6,15 +6,15 @@ date: 2030-03-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "indian-curriculum", "india", "indian-curriculum"]
 excerpt: "In India's schools and universities Romeo and Juliet is a long-established text, taught within a deep English tradition and read against Indian realities."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-03-22
+lang: en
 ---
-
 Romeo and Juliet reached the Indian curriculum as an instrument of government before it reached Indian readers as a play. English literary study was assembled in the colony, funded by an education grant, defended in a minute of 1835 that dismissed the literatures of India and Arabia in a single sentence, and then examined into permanence by universities founded in 1857. Any honest account of the play in Indian education has to begin with that machinery, because the machinery is documented in a way that literary enthusiasm is not: resolutions, syllabi, prescribed-text lists, examination blueprints. This article reads the play's Indian school and university career from those documents, board by board and level by level, and reaches a verdict that the documents support. The verdict is that the instrument changed hands, unevenly. At the top of the system the transfer is complete and demonstrable: Indian universities teach the whole play, Indian scholars edit the standard collections on its Indian career, and Indian syllabi set Macaulay's Minute itself as an object of study beside the canon it was written to serve. At the bottom of the system the transfer remains partial: in most Indian classrooms the play survives as a few examinable speeches inside an English subject whose sorting power, the power to separate the fluent from the rest, is the one colonial function the subject never surrendered.
 
-![An Indian school edition of Romeo and Juliet beside board syllabus papers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![An Indian school edition of Romeo and Juliet beside board syllabus papers - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The unevenness is the finding, and it has a shape. Where an Indian institution prescribes the play whole, students meet Verona entire: the feud, the fathers, the Friar, the market in daughters that the text sets out in its second scene. Where an institution prescribes extracts, students meet two speeches about beauty and a death they are told about in a summary, and the play's argument about kinship, obedience and arranged marriage evaporates from the lesson. Where the national board prescribes nothing at all, which is the case for the largest school system in the country, the play circulates as reputation, film memory and guidebook paraphrase. Three different plays are being taught under one title, and only one of them is Shakespeare's. The sections that follow establish each claim from the record: the policy that installed English literature, the scholarly argument that named its function, the Calcutta classrooms that answered back within a generation, the examination universities that fixed the canon, and then the board-by-board map of what an Indian student in fact meets, from a Karnataka textbook's three teaching hours to a Delhi university's full-text drama paper.
 

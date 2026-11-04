@@ -6,15 +6,15 @@ date: 2030-02-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "bawdy", "teaching", "teaching-the-bawdy"]
 excerpt: "Romeo and Juliet is full of bawdy wit, and teachers must decide how honestly to handle the ribald jokes when the play is taught to younger students in class."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-02-08
+lang: en
 ---
-
 Every classroom that takes up Romeo and Juliet meets the same moment, usually within the first week. The play opens not with the lovers but with two servants trading boasts, and the jokes they trade are bawdy jokes, built on double senses that a four-hundred-year-old shift in the language has half buried. Somewhere in the room, a student works out that a second sense exists, or half works it out, and looks up. What happens next is the subject of this article. The teacher can explain the joke, can skip it, can soften it into paraphrase, or can hope the moment passes unnoticed. Each of those choices teaches something beyond the line itself, because each tells the class what kind of book this is and what kind of reading the room practices. A skipped joke teaches that the edition cannot be trusted to say what the words mean. A leered-over joke teaches that the classroom is a place where embarrassment is entertainment. Between those failures stands the honest treatment, and the honest treatment has a precise shape.
 
-![The servants' bawdy opening scene of Romeo and Juliet read aloud in a classroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The servants' bawdy opening scene of Romeo and Juliet read aloud in a classroom - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The verdict argued here is that the bawdy lines of Romeo and Juliet should be taught honestly, and that honesty has a level. A class should learn what kind of joke each joke is, who speaks it, where it stands in the play's architecture, and what work it performs in the hearing of the scenes around it. A class is not owed, and a teacher is not obliged to deliver, a full exposition of every second sense a pun can carry. That distinction, between mechanism and gloss, is the whole discipline of the subject. It satisfies the textual claim, because the bawdy is not decoration on the play but one of its load-bearing registers, the ground bass against which the lovers' lyricism is tuned and measured. It satisfies the cautionary claim, because a classroom is a compelled audience of minors, and compulsion changes what honesty requires: not less truth, but a governed dose, delivered at the level where the truth is about the play rather than about the students in the room. The history of the question supports the verdict. For two centuries the dominant technology was subtraction, the expurgated edition, and subtraction demonstrably falsified the text it claimed to protect. For the last half century the scholarly instruments, dictionaries, glossaries, and frank editions, have made the full record available to any teacher who wants it. The question is no longer whether the knowledge exists. The question is what a teacher does with it in a room of fourteen-year-olds, and that question deserves a reckoning rather than a shrug.
 

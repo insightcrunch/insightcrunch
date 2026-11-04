@@ -6,15 +6,15 @@ date: 2029-12-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "visual-art", "painting", "lovers-in-visual-art"]
 excerpt: "Painters from the Romantics to the Pre-Raphaelites pictured Romeo and Juliet, fixing the balcony, the dawn parting, and the tomb as lasting images of the pair."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2029-12-14
+lang: en
 ---
-
 Painting gave Romeo and Juliet their public faces, and the gift came with an editor's pencil. Between the first illustrated editions of the eighteenth century and the last great Victorian canvases, painters performed on the play the most consequential act of selection in its whole afterlife. They chose five stations from a crowded five-act tragedy and promoted them into a visual canon: the meeting at the feast, the conversation at the window, the parting at dawn, the discovery of the apparently dead Juliet, and the tomb. Then, in the portrait galleries of the later nineteenth century, they performed a second selection and discarded the scenes altogether, keeping only a face. The verdict of this article is that painting did not illustrate the tragedy. Painting re-edited it, fixing the lovers' story in an order the text does not have, with the window scene first, though the play never speaks the word balcony, and the causes of the catastrophe, the feud, the plague, the machinery of the failed letter, left unpainted in every generation. For most of the world that has encountered the pair without reading a line, the painters' edit is the play.
 
-![The lovers of Romeo and Juliet as the painters fixed them, window above and tomb below - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers of Romeo and Juliet as the painters fixed them, window above and tomb below - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The evidence discipline of the survey matters, because art lore divides as readily as theatre lore. Every canvas treated here is carried at the precision of its holding institution's record or a scholarly catalogue: artist, title, date, medium, present home, and the scene depicted. Where the record itself divides, as it does on the size of the Boydell collection and on the present home of Leighton's oil, the division is stated rather than smoothed. Line references to the play follow the Folger Shakespeare edited by Barbara A. Mowat and Paul Werstine, the edition this series quotes throughout. The argument's shape follows from the verified corpus. A census of what got painted, repeated across a hundred and fifty years by artists who owed one another nothing, is stronger evidence about the play's public meaning than any single masterpiece, because repetition is the mechanism by which an image becomes a fact. One painter choosing the window scene is a preference. Fifty painters, three national schools, and a century of print sellers choosing the window scene is a verdict delivered by the culture itself, and the business of this article is to read that verdict closely: what it keeps, what it cuts, and what the cutting cost.
 

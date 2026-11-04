@@ -6,15 +6,15 @@ date: 2030-01-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "school-text", "education", "standard-school-text"]
 excerpt: "Romeo and Juliet is the Shakespeare play most students meet first, chosen for its young leads, clear plot, famous lines, and themes that speak to teenagers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-01-18
+lang: en
 ---
-
 Romeo and Juliet holds a title no examination board ever awarded it: the standard school text, the first Shakespeare most students meet. The claim is repeated by publishers, teacher guides and revision sites as if it were a single fact about the world. It is not a single fact. It is three different claims wearing one coat, and the evidence gives a different answer for each. In the United States the claim is measured and true: national surveys of teachers, taken a generation apart, place this play at the head of everything taught in secondary English, not merely at the head of the Shakespeare list. In England the claim fails in the examination hall: the boards' own published figures for the reformed GCSE put Macbeth first by a wide margin and this play second. In Scotland the claim cannot even be put to the test, because the Scottish qualifications system prescribes its own national texts and otherwise leaves the choice of plays to schools, crowning nobody.
 
-![A school edition of the play open beside examination papers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A school edition of the play open beside examination papers - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The verdict argued through this article is that the play's dominance is an institutional artifact with literary assists. Examination machinery, entrance requirements, a statutory compulsion that names the author and not the play, a school-edition industry, and a teaching profession that reproduces its own schooling built the throne. The play's own properties, two leads younger than the students reading them, a plot that announces itself in a fourteen-line prologue, conflicts a class can name in a single lesson, and a stock of lines the culture has already memorised, decided which play the machinery would carry. Neither half of that explanation survives alone. Machinery without the assists could have carried Macbeth everywhere, and in England's examination entries it largely did. The assists without the machinery would have left a popular play, not a compulsory experience shared by millions of fourteen-year-olds. The status is real, it is narrower than the slogan, and it was built. What was built can be audited, and the audit that follows ends in a qualified defence: the play deserves to keep a leading place, held as a decision renewed by each generation of teachers rather than as an inheritance none of them chose.
 

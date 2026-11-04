@@ -6,15 +6,15 @@ date: 2029-08-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "bronze-juliet", "superstition", "bronze-juliet-statue"]
 excerpt: "A bronze statue of Juliet in Verona has been rubbed shiny by visitors who touch it for luck in love, a modern superstition worn into the metal of the figure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-08-03
+lang: en
 ---
-
 The bronze Juliet who stands in the courtyard of the Casa di Giulietta in Verona is the most handled work of sculpture in the Romeo and Juliet afterlife, and the handling has left evidence no archive could have commissioned. Her right breast shines the colour of new coinage against the dark patina of the rest of the figure, because for half a century visitors have touched that one place, in the belief that the touch brings luck in love. The first figure placed in the courtyard, Nereo Costantini's original of 1972, was touched until the metal cracked at the breast and fractured at the arm, and in 2014 the city withdrew the original into museum keeping and set a replica in its place. The replica has been touched in its turn, and within ten years the same small wound opened in the same place. This article examines the statue and its superstition as a single object of study: the sculptor and the commission, the ritual and its undocumented birth, the physics of the wear, the retirement and the copy, the statue's sisters in Munich, its cousins among the rubbed bronzes of Europe, and the objections the rite has drawn. The verdict argued throughout is that the bronze is the one object in Verona the myth made by use rather than by decree. The house was identified by an antiquarian's pun and composed by a museum director; the balcony was assembled from tomb marble by a civic workshop; the letters are answered by an organized club. The superstition attached to the statue has no author, no founding document, no office, and no script. It was made by hands, it is recorded by hands, and its physical trace, a breast polished bright and then worn through, is the courtyard's only honest archive: the single exhibit at the site whose every claim about itself is true.
 
-![The bronze Juliet statue in the Verona courtyard, her right breast polished bright by ritual touching - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The bronze Juliet statue in the Verona courtyard, her right breast polished bright by ritual touching - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The distinction matters because the Casa di Giulietta is a site where nearly everything else arrives with paperwork. The identification of the Via Cappello house with the Capulets rests on the Cappello family's documented tenure and on Antonio Avena's restoration campaign of 1939 and 1940, which gave the courtyard its famous balcony; the full audit of that composition belongs to the companion examination of [the Casa di Giulietta and the balcony that its record cannot support](/2029/06/22/casa-di-giulietta-balcony-myth/). The statue entered that composed courtyard three decades later, in 1972, into a shrine whose liturgy was already forming, and it altered the liturgy's centre of gravity. A balcony can only be looked at. A letter can be written and left. A bronze body at ground level, at the scale of a body, can be touched, and touch is the one devotional act that leaves a cumulative, measurable, and finally destructive record of itself. The statue's biography is therefore readable in a way the balcony's is not: not in municipal files, though those exist, but in the metal. The shine is a census. The crack is a finding. The hole is a verdict delivered by the material on the ritual that made the material famous.
 

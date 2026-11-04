@@ -6,17 +6,17 @@ date: 2029-06-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "global-cinema", "world-film", "global-cinema-map"]
 excerpt: "From Bollywood to Japan to Brazil, filmmakers worldwide have localized Romeo and Juliet, mapping its feud and forbidden love onto their own societies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-06-15
+lang: en
 ---
-
 The screen life of Romeo and Juliet does not belong to Verona, or to London, or to Hollywood. It belongs equally to a Mexico City bus station where a rich girl dies in a poor boy's arms, to a Singapore hawker centre where two chicken rice stalls wage the feud, to a Rio de Janeiro beach kiosk where police bullets do the work of the poison and the dagger, and to a South African township where the lovers' deaths begin a community's healing. This article maps that worldwide screen life as one object: the global cinema of the play, surveyed territory by territory, graded row by row, and judged as a whole. The map covers the cinemas the Anglophone and Italian film articles in this series treat as the centre, and then keeps going, into Mexico, Brazil, Spain, Portugal, Egypt, India, Singapore, South Korea, Indonesia, South Africa and beyond, logging the versions that filmographies record, the retellings that scholarship documents, the titles that merely borrow the lovers' names, and the territories where a search found nothing at all.
 
 The map's method is its argument in miniature. Every entry carries a grade. A documented adaptation stands on a filmographic record, a festival listing, a national database or a scholarly account. A documented retelling stands on the same evidence with a looser hold on the plot. A title citation borrows the names and nothing else, and the map says so. A reported entry rests on a single source and is labelled as such. A searched-and-not-found entry records the search itself, because a map of world cinema that hides its blank spaces is a sales brochure, not a map. Under this discipline the famous universality of the play becomes a testable claim rather than a compliment, and the result of the test is the verdict this article defends from its first section to its last.
 
-![World map charting Romeo and Juliet film adaptations across national cinemas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![World map charting Romeo and Juliet film adaptations across national cinemas - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## The Verdict First: A Skeleton Travels, the Play Stays Home
 

@@ -6,17 +6,17 @@ date: 2030-03-15
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy", "us-high-schools", "american-curriculum", "us-high-schools"]
 excerpt: "In US high schools Romeo and Juliet is the classic ninth-grade Shakespeare, the play through which most American students first meet the playwright in depth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-03-15
+lang: en
 ---
-
 ## The Verdict First: A Deposit, Not a Destiny
 
 Romeo and Juliet holds a position in US high schools that no law created and no national authority maintains. The play is the first Shakespeare most American students read in depth, and it arrives in the ninth grade, the opening year of high school, in district after district whose curriculum committees have never compared notes. The position looks designed. A tragedy about teenagers, assigned to teenagers, at the threshold of the high-school years: the fit seems so natural that the assignment is usually explained by the fit. This article argues the opposite order of events. The ninth-grade slot is a historical deposit, laid down by college entrance examinations that never named the play, by textbook economics that rewarded a single national list, by teacher inheritance, and by two films that made the text teachable at scale. The developmental justification, that fourteen-year-olds are the play's natural readers, was composed afterward to explain a placement already made, and the record supports it only in part. The play deserves its American eminence. It has not earned the specific chair it sits in, and the difference matters for how the chair should be used.
 
-![Romeo and Juliet in US high schools, the ninth-grade Shakespeare classroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet in US high schools, the ninth-grade Shakespeare classroom - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The play's own Chorus announces the pattern in advance. "From forth the fatal loins of these two foes / A pair of star-cross'd lovers take their life" (Prologue, lines 5 to 6, Folger Shakespeare Library edition). The Prologue tells the audience the ending before the action begins, and American schooling does something similar to its students: the curriculum announces, years ahead, that these lovers will be waiting in the ninth-grade classroom, and the announcement is fulfilled with a regularity that no other book-length work in the system matches. What the surveys measure, what the entrance lists explain, and what the critics dispute is how a local decision, repeated fifty thousand times, hardened into something that behaves like a national one.
 

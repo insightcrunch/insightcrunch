@@ -6,19 +6,19 @@ date: 2030-05-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "chinese-theatre", "china", "chinese-theatre"]
 excerpt: "China has staged Romeo and Juliet in spoken drama and traditional opera forms, and often reads it beside its own legend of doomed lovers, the Butterfly Lovers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-05-17
+lang: en
 ---
-
 ## Romeo and Juliet Arrived in China as a Story, Not a Play
 
 Romeo and Juliet entered Chinese theatre by a route no other Shakespeare play took in quite the same order. The lovers arrived first as a story, retold in classical prose for readers who had never seen a play; then as a scenario, improvised on stage by actors who had no complete text; then as a translated script, argued over by rival translators; and only much later as an operatic property, sung in the forms that had carried Chinese drama for centuries. The verdict of this article is that China did not receive the play once. China refounded it three times, and each refounding remade it: the tale made it Chinese property, the spoken drama made it a political instrument, and the opera stage made it a local feud. The Butterfly Lovers parallel, the legend routinely named China's Romeo and Juliet, is the proof of the metabolization rather than the explanation of it. The pattern of young love blocked by an older order was already Chinese property a thousand years before the play arrived. What the play added was a feud between two houses at war, a machinery of stars, and a tomb that offers no consolation.
 
 The record this article follows is uneven, and its unevenness is part of the evidence. Some of its entries rest on production documentation, named companies, theatres and dates. Some rest on the surveys of scholars who have spent careers in the archives, Li Ruru and Guo Jinghua and Alexander Huang among them. A few famous entries rest on anecdote, and the article marks them as anecdote rather than promoting them to fact. A history of a play in a foreign theatre is always partly a history of what that theatre needed the play to be, and the Chinese record is unusually frank about its needs. Reformers needed a weapon. Translators needed a bookshelf. A state needed a certificate of culture. A festival needed a collision. The lovers were conscripted into every one of those projects, and the article's task is to keep the projects distinct while following the lovers through all of them.
 
-![Romeo and Juliet in Chinese theatre - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet in Chinese theatre - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The evidence for that verdict runs in a single chronology, and the article follows it. The word play itself needs discipline in this history. Three different objects travel under the title in the Chinese record. The first is a plot, a sequence of events that can be retold in classical prose, carried in a scenario, or mapped onto a local legend. The second is a text, a sequence of words in English and then in Chinese, whose fortunes are the fortunes of translation. The third is a production, an event in a theatre, with a company, a director, a date and a quarrel attached. The three objects have separate chronologies, and much confusion in writing about Shakespeare in China comes from running them together. The plot arrived in 1904. The text arrived in the early 1920s. The production, in the full sense of a staging of a translated text, arrived in 1937. The article keeps the three apart, because the play's Chinese life is the story of their gradual, contested convergence. Where the record's own counts disagree, in the festival arithmetic, in the translation dates and in the anecdote rows of the map, the disagreement is reported rather than smoothed.
 

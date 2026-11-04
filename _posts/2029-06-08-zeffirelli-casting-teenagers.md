@@ -6,17 +6,17 @@ date: 2029-06-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "zeffirelli", "casting", "zeffirelli-teen-casting"]
 excerpt: "Zeffirelli's choice to cast teenagers Leonard Whiting and Olivia Hussey as the lovers gave his Romeo and Juliet a youthful realism no earlier film had matched."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-06-08
+lang: en
 ---
-
 ## The Verdict: Zeffirelli Casting Teenagers Was the Decision the Whole Film Stands On
 
 Franco Zeffirelli's casting of teenagers as the lovers was the single decision on which his film of the play stands or falls, and the verdict of the record is that the decision stands. Every other element of the production, the Tuscan locations, the cut text, the Nino Rota score, the Renaissance cloth and stone, has been matched or surpassed by some later version. The casting has never been matched, because no other major film of the tragedy had put performers of the lovers' own years in front of the camera, and none has done so since with the same completeness: a Romeo chosen at sixteen, a Juliet chosen at fifteen, neither a star, neither known to cinema, both found by a search that treated the play's central fact, the age of its lovers, as a specification rather than an inconvenience. The full account of [Franco Zeffirelli's 1968 Romeo and Juliet](/2028/07/21/franco-zeffirelli-1968-film/) records the film's whole achievement; the casting decision that made the achievement possible is the subject here, and the argument is plain. Zeffirelli did not merely find two photogenic adolescents. He reversed the economics and the aesthetics of Shakespeare filming at a stroke, accepting a documented set of risks, inexperience, vocal fragility, legal minority, the impossibility of insuring a production on two unknown children, in exchange for the one quality no adult star could simulate: the sight of the feud's waste measured in actual young lives.
 
-![Zeffirelli directing teenage leads Leonard Whiting and Olivia Hussey on set - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Zeffirelli directing teenage leads Leonard Whiting and Olivia Hussey on set - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The gamble is usually praised in the language of freshness, and freshness was real, but freshness understates what the casting purchased. An adult Juliet invites the audience to admire a performance; a teenage Juliet removes the audience's shelter. When the potion speech is spoken by a woman of thirty-four, however gifted, the scene is a bravura exercise whose outcome the house watches with professional appreciation. When the same speech is spoken by a girl of sixteen, the scene becomes a document of a child alone in a room with a vial, and the house's response changes in kind. Zeffirelli understood that the tragedy's horror is arithmetical before it is poetic: the play counts its dead in children, and a production that hides the children's ages has quietly falsified the count. His casting restored the arithmetic. The feud stops looking like an unfortunate backdrop for a romance and starts looking like what the Prince calls it at the end, a scourge laid upon two houses, paid for by the houses' heirs.
 

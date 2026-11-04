@@ -6,17 +6,17 @@ date: 2029-07-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "letters-to-juliet", "film", "letters-to-juliet-film"]
 excerpt: "Gary Winick's Letters to Juliet builds a romance on Verona's letter tradition, carrying the story of Juliet's secretaries to cinema audiences worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-07-06
+lang: en
 ---
-
 ## Letters to Juliet: The Verdict on the Film and Its Tradition
 
 Letters to Juliet, Gary Winick's romantic drama of 2010, is a modest picture built on an immodest premise: that a single unanswered letter, written to a fictional girl in 1957 and left in a Verona wall, could wait half a century for its reply and then repair the life that wrote it. The verdict of this article is plain. As drama, the film is slight, predictable and content to be both. As an act of cultural transmission, it is the most consequential screen treatment the play's afterlife produced in its decade, because it did something no straight adaptation attempts. It took the one piece of machinery the tragedy runs on, the letter that fails, and rebuilt an entire romance out of that machinery succeeding. The play ends because a message miscarries. The film begins because a message, against every rule of the postal system and of probability, does not.
 
-![A courtyard wall in Verona covered with letters addressed to Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A courtyard wall in Verona covered with letters addressed to Juliet - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 That inversion is the film's real subject, and it is why the picture belongs in a series on the play rather than in a footnote to the romantic comedy shelf. Verona receives thousands of letters a year addressed to a heroine who never lived, and a small corps of volunteers answers them in her name, by hand. Lise Friedman and Ceil Friedman chronicled that practice in their 2006 non-fiction book, also called Letters to Juliet, and the film draws on their account. What Winick and his screenwriters, José Rivera and Tim Sullivan, added was a plot: a young American fact checker, a buried letter, a widowed Englishwoman, a skeptical grandson, and a search across Tuscany for one man among seventy-four namesakes. Around that invented spine, the picture wraps a documented institution, a documented city and a documented literary descent, for the letter that arrives too late is not Hollywood's invention. It is Shakespeare's engine, inherited from his sources, and the film is best understood as the engine running in reverse.
 

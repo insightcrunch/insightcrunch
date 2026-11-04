@@ -6,15 +6,15 @@ date: 2029-07-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "tomb-of-juliet", "verona-tourism", "tomb-of-juliet"]
 excerpt: "Verona shows visitors a tomb of Juliet, an empty stone sarcophagus in an old monastery that pilgrims have visited for centuries despite Juliet being fictional."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2029-07-13
+lang: en
 ---
-
 The tomb of Juliet in Verona is an empty box, and its emptiness is the most honest thing about it. In the crypt of a former Franciscan convent, inside the fresco museum of San Francesco al Corso, stands an open sarcophagus of red Verona marble: no lid, no inscription, no bones, no documented occupant at any point in its long existence. The girl whose name it carries never lived, never died, and never lay in any tomb anywhere. Yet the box has drawn pilgrims for centuries, has been chipped by relic-takers, demoted to a water trough by embarrassed custodians, rebuilt by a museum director into the likeness of a film set, and adopted as the ceremonial heart of a building where real couples marry. This article argues a verdict and defends it across the whole documented record. The tomb is not a fraud, because a fraud requires a counterfeit content, and the tomb offers none: its emptiness is displayed, not concealed. It is the honest twin of Juliet's house across the city. The house is a genuine medieval building carrying a fabricated feature, the famous balcony, assembled in the twentieth century; the tomb is a genuine medieval object carrying an unattributable name. Between the two, the tomb makes the weaker claim and keeps it better. What the visitors do at the two sites proves the distinction. At the house, crowds perform the living girl: they queue, they photograph, they touch. At the sarcophagus, visitors lower their voices, leave flowers in an empty basin, and sign marriage registers in the frescoed halls of the same convent. The tomb licenses mourning and vows. The house licenses impersonation. An empty sarcophagus turns out to be the one Verona shrine whose central fact a visitor can verify at a glance, and that fact, properly read, is not that a fiction failed to become real. It is that a story acquired a grave without ever needing a body.
 
-![The empty red marble sarcophagus of the tomb of Juliet in the crypt at San Francesco al Corso, Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The empty red marble sarcophagus of the tomb of Juliet in the crypt at San Francesco al Corso, Verona - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 ## What Is the Tomb of Juliet, Exactly?
 

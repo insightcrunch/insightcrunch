@@ -6,16 +6,17 @@ date: 2029-08-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "wherefore-art-thou", "misreading", "wherefore-misreading"]
 excerpt: "The line wherefore art thou Romeo is constantly misread as asking where Romeo is, when wherefore means why, so Juliet really asks why he must be a Montague."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-08-10
+lang: en
 ---
 The most famous line in Romeo and Juliet is famous in a form its speaker never intended. "O Romeo, Romeo! wherefore art thou Romeo?" (2.2.33) reaches most ears as a call across a garden, a girl at a raised window scanning the dark for a boy who has vanished, and the scene that follows in the popular imagination is a search. The text stages something else entirely. Juliet speaks the line believing herself alone, in a private argument about a name, and the boy she is said to be searching for is standing close beneath her, close enough to hear every word and close enough to frighten her when he finally speaks. Wherefore does not mean where. It means why, or more exactly, for what reason, and the line is the first move in the most concentrated piece of reasoning the heroine ever delivers: a demand to know on what ground a name, a mere word, acquires the power to make an enemy of the man she loves.
 
 This article argues a verdict and holds to it. The misreading is not a failure of intelligence in its audience, and it cannot be cured by the footnote that has accompanied the line in school texts for generations. The error is architectural. It was built, piece by piece, by the detachment of the line from the three lines that disambiguate it, by a stage picture that turns private reasoning into public address, by a word for a piece of architecture that the early texts never contained, and by a tourist courtyard in Verona that gave the false scene bricks and a gate. Against the error stands the speech itself, whose grammar, whose sequel, and whose staging all testify to the same fact: the Capulet daughter is reasoning about causation, asking what a name does and whether it must do it. The pages that follow take the line apart word by word, follow the error through its built environments, weigh the famous correction and find it right but incomplete, and restore what the correct reading gives back, a Juliet who argues rather than a Juliet who calls.
 
-![Juliet at the window in the balcony scene, the wherefore line and its misreading - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at the window in the balcony scene, the wherefore line and its misreading - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## The Scene in Its Minute: A Girl Reasoning, Not Calling
 

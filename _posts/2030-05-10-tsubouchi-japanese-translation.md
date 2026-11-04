@@ -6,15 +6,15 @@ date: 2030-05-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "tsubouchi", "japanese-translation", "tsubouchi-translation"]
 excerpt: "Tsubouchi Shoyo's Japanese Romeo and Juliet, part of his complete Shakespeare, helped bring the playwright into modern Japan and onto its new Westernized stage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-05-10
+lang: en
 ---
-
 Tsubouchi Shōyō translated the lovers' tragedy in 1910, in the middle of the most consequential translation enterprise in the history of Japanese literature, and the date matters more than the play. His version of Romeo and Juliet belongs to the fourth of the five stages into which he later divided his own practice, the stage he called the mixture of literary and spoken styles, and it carries the marks of a method still being invented. The verdict of this article is that Tsubouchi's Romeo and Juliet should be judged as a national-literature act rather than as a finished translation: it is the play that taught Japan that Shakespeare could be Japanese literature, even though the version itself needed successors to become speakable on the modern stage. The evidence for that verdict is the enterprise around the single play, forty volumes of the complete works published between 1909 and 1928, a theatre society founded to stage them, a museum built to house them, and a quarrel about their language that lasted a century. The play's own translation note, recorded by the Shōyō association, is the most quoted sentence in Japanese Shakespeare translation studies: the play's translation begs stylistic license. That confession, read against the five stages, is the article's key. Tsubouchi admitted, in print, that the lovers' scenes resisted the dignified register he had built for the tragedies of state, and the admission is more instructive than any praise of his achievement, because it shows a translator learning, in public, what his language could not yet do.
 
-![Tsubouchi Shoyo's Japanese translation of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tsubouchi Shoyo's Japanese translation of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 ## Tsubouchi the Translator Before the Translation
 

@@ -6,15 +6,15 @@ date: 2030-06-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "latin-american-adaptations", "latin-america", "latin-american"]
 excerpt: "Across Latin America Romeo and Juliet has been staged, filmed, and rewritten, its feud mapped onto divisions of class, race, and politics from Mexico to Brazil."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-06-07
+lang: en
 ---
-
 The verdict on the Latin American life of Romeo and Juliet can be stated in one sentence: the tragedy did not arrive in the region as a finished European possession and get politely received; it was seized, translated by poets, laughed into new shapes by comedians, carried into streets and circus rings, and fed into the serial machinery of radio and television, and at every stage of that journey the price of admission was the same, a local feud and a local form. What Latin America did to the play is the strongest evidence in the whole global record for a proposition the rest of the series has tested country by country: the play survives travel not by being protected from its new home but by being surrendered to it. The surrender, though, was never free. Each host culture paid for the play in its own currency, and the exchange rate can be read off the endings. Where a region's forms prize reconciliation, the lovers tend to live. Where its forms can hold a corpse in public view and call the sight necessary, the lovers die on schedule. Tracing that exchange rate, from the first Spanish rewritings that reached American stages to a Brazilian football comedy and an Argentine television serial, is the work of the pages that follow.
 
-![A street-theatre Verona of circus colour and regional song, the form the tragedy took in Brazil - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A street-theatre Verona of circus colour and regional song, the form the tragedy took in Brazil - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The documentary spine of the account is the scholarship gathered in Latin American Shakespeares (2005), the collection edited by Bernice W. Kliman and Rick J. Santos for Fairleigh Dickinson University Press, still the only book in English devoted to the subject, and the archive work of projects such as the MIT Global Shakespeares and its Brazilian partner site. Santos names the phenomenon in his introduction with the region's own master word: a mestizo Shakespeare, mixed as the peoples of the continent are mixed, native, colonial, and immigrant at once. Mestizaje is not a compliment in that sentence. It is a method. It says the play in Latin America is never found pure, because nothing in Latin America is found pure, and the mixture is where the meaning gets made.
 

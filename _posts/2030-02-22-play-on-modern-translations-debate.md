@@ -6,15 +6,15 @@ date: 2030-02-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "pedagogy-debate", "play-on", "modern-translation", "play-on-debate"]
 excerpt: "The Play On project commissioned full modern-English versions of Shakespeare, including Romeo and Juliet, raising debate over whether to rewrite the plays."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-02-22
+lang: en
 ---
-
 On 29 September 2015 the Oregon Shakespeare Festival announced Play On!, a commission without precedent in the English-speaking theatre: thirty-six living playwrights, each paired with a dramaturg, would translate all thirty-nine plays attributed to Shakespeare, Romeo and Juliet among them, into contemporary modern English. The announcement detonated the loudest argument about Shakespeare's language in a generation. A Columbia professor denounced the project in The New York Times within a week. The festival's artistic director answered in print. A linguist who had championed the scheme in The Wall Street Journal and a scholar who had chronicled four centuries of textual tampering staked out positions between the poles. The quarrel has usually been reported as a shouting match between access and reverence, and shouting matches produce heat rather than verdicts. A verdict is available, and it turns on a distinction the shouting obscured.
 
-![Play On modern translations debate and Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Play On modern translations debate and Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The verdict of this article is twofold, and both halves carry weight. Full modern translation of the kind Play On! commissioned is a legitimate instrument of the stage, because a translation adds a text to the shelf rather than removing one, and the Play On! charter bound its translators to rules stricter than the discipline most editors apply to the originals. Full modern translation becomes an injury only at the point of displacement, when a school, a company, or a season lets the translation stand as the sole encounter with the play and calls the debt to Shakespeare paid. James Shapiro, the project's most eminent opponent, wins the aesthetic premise: with Shakespeare, the language is not the packaging of the work but the work itself, since the plots were borrowed goods. John McWhorter, the project's most eminent champion, wins the access premise: in a theatre seat, at performance speed, stretches of Early Modern English function for many listeners as a foreign tongue functions, and pretending otherwise confuses a pleasure available to the trained with a right owed to everyone. The synthesis is not a compromise but a criterion. Judge every modern translation by a single question: does the original remain in the room, on the syllabus, in the season, when the translation is used? Play On! as designed passes that test. Play On! as feared by its critics, a replacement repertoire, would fail it. Hansol Jung's Romeo and Juliet, the hardest commission of the thirty-nine to fill and the first of the translations of this play to reach a full professional stage, shows both halves of the verdict in one text: a translation careful enough to leave much of Shakespeare standing, bold enough at its flashpoints to become a new play, and received by reviewers in 2023 with precisely the split response the criterion predicts.
 

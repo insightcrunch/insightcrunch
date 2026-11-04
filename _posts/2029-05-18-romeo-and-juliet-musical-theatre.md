@@ -6,15 +6,15 @@ date: 2029-05-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "adaptation-study", "musical-theatre", "stage-musical", "musical-theatre"]
 excerpt: "Beyond West Side Story, Romeo and Juliet has inspired many stage musicals, from the French hit Romeo et Juliette to other sung retellings of the tragedy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2029-05-18
+lang: en
 ---
-
 Romeo and Juliet in musical theatre is a story the standard account tells wrongly, because the standard account stops at one address in New York. The play has in fact sustained two distinct musical traditions. The first is the franchised spectacle built in Paris by Gérard Presgurvic, whose Roméo et Juliette: de la haine à l'amour opened in January 2001 and went on to be rebuilt in language after language, in Vienna, Budapest, Moscow, Bucharest, Tokyo and beyond, becoming the most widely travelled stage musical the tragedy has ever produced. The second is the revisionist jukebox of & Juliet, the 2019 London hit with a book by David West Read and a score borrowed from the catalogue of Max Martin, which resurrects Juliet at the tomb door and puts the ending of the play itself on trial. Between them, these two works expose the law that governs every sung Verona. The stage musical expands whatever the play compresses and compresses whatever the play expands. Shakespeare gives the lovers a single shared sonnet at their first meeting and an entire scene of dawn argument before their parting; he gives the tomb a long, slow liturgy of error. The musical reverses the ratio. It builds the ball into a production number, stretches the balcony into a duet sequence, turns the wedding into an anthem, and then hurries the vault, because a pop score can sell longing at any length and can sell death only briefly, as a climax rather than a meditation.
 
-![A sung Verona of scaffold towers, ball gowns and balcony light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A sung Verona of scaffold towers, ball gowns and balcony light - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 That law, and not any failure of talent, explains the shape of the whole field. It explains why Presgurvic's score needs thirty-seven numbers to reach a tomb it then crosses in three. It explains why the one modern musical that escapes the law, & Juliet, escapes it by the drastic method of refusing the tomb altogether and making the refusal its plot. And it explains why the English-speaking theatre, which congratulates itself on owning the play, produced the tradition's most embarrassing failure when the French show reached London in 2002: the adaptors translated the words and kept the proportions, when the proportions were the one thing every successful foreign production had rebuilt. This article surveys the stage musicals of the play as adaptations, weighs the French franchise against its London collapse and its Viennese and Hungarian triumphs, sets & Juliet against the ending it rewrites, and reaches a verdict. The verdict is that the play survives musical theatre by being treated as a machine for longing rather than a text to be honoured, and that the machine works everywhere its operators are allowed to rebuild it. Where the machine is merely translated, in London in 2002, it stops. Where a writer argues with the machine's oldest setting, the double death, the result is the most consequential musical the play has yet produced in English.
 
