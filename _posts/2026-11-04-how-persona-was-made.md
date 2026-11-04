@@ -6,10 +6,11 @@ date: 2026-11-04
 categories: ["Leisure"]
 tags: ["cinema-history", "persona-film", "ingmar-bergman", "swedish-cinema", "modernist-film", "film-production"]
 excerpt: "How Persona was made explains its mystery: a hospital script, two actresses on one island, black and white faces, and editing that shows the film strip."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-04
+lang: en
 ---
 ## A Film Built From a Face, a Projector and a Refusal to Speak
 
@@ -17,7 +18,7 @@ Persona was made small, from a hospital script, two actresses, one island, one s
 
 The production gathered a small number of elements and pressed each one hard. Two women dominate the screen, one speaking and one silent, and their exchange becomes the plot, the psychology, and the visual design at once. A hospital room, a theatre stage, and a summer house supply almost the whole world of the film, while the sea, the stone, and the summer light of Fårö supply the rest. Sven Nykvist photographed the film in black and white on 35mm, Ulla Ryghe edited it, Lars Johan Werle composed its music, Bibi Lindström designed its sets, and Mago designed its costumes.
 
-![Liv Ullmann and Bibi Andersson face to face in Persona, the merged identity at the centre of Bergman film - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Liv Ullmann and Bibi Andersson face to face in Persona, the merged identity at the centre of Bergman film - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 The refusal at the heart of the story belongs to Elisabet Vogler, an actress played by Liv Ullmann, who stops speaking during a stage performance of Elektra. Alma, a nurse played by Bibi Andersson, is assigned to care for her, and the doctor who sends them together to a summer house expects rest and quiet to do their work. Alma talks, confesses, accuses, and pleads, while Elisabet listens, watches, and withholds speech, and the balance between them shifts until the viewer can no longer assign every thought, memory, and guilt to one woman with confidence. The camera stays close enough for that uncertainty to register as a physical fact.
 
