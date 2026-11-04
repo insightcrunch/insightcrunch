@@ -8,10 +8,10 @@ tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere"
 excerpt: "A smuggling chain moving restricted practice materials through three members is ready to be taken in one night, and the Office has four officers free."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-03
+lang: en
 ---
-
 ## Counting Bridges
 
 Pell Anders drove with both hands high on the wheel and the cab heater ticking against his knees, and still the cold came in. It came through the door seal on the left side where the rubber had perished the winter before, and it came up through the floor around the pedals, and it settled in the seams of his coat while the road climbed. Outside the glass the night was thin and hard at altitude. The headlamps threw a short white road ahead of him and took the rest in pieces, stone wall, pine trunk, a marker post with its paint gone, then darkness again above a drop he could not see but could hear, because the river ran far below the road and its sound rose whenever the wind dropped. He kept his speed low. The sealed box behind the cab rode quiet. He had not loaded it, he had not watched it loaded, and he did not know what it held beyond the fact that it was sealed and that men who sealed things expected the seal to arrive unbroken.
