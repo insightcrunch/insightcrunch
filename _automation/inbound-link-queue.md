@@ -143,3 +143,7 @@
 ## nightjar-bonded-cargo-004
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room that held nothing in Carrowmere was the first; a sealed store room in a Teshkar depot later held nothing either, in another member state and a different kind of room, and she wrote that one down in her own notebook too."
 - _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The hearing room where the weight stopped at a line on the floor was a bounded absence; the depot store room in Teshkar had no boundary she could walk, only a whole room of nothing behind a sealed door."
+
+## how-persona-was-made
+- _posts/2022-01-01-seventh-seal-bergman-mortality.md - could carry: "Bergman's later chamber experiment stripped the cast to two women on Faro, and the production history of Persona shows how far that stripping could go."
+- _posts/2016-05-01-vertigo-hitchcock-auteur-obsession.md - could carry: "The doubled woman built from one actress in two roles became, in Bergman's hands, two actresses merging into a single face, as the making of Persona records."

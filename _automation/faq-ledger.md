@@ -872,3 +872,27 @@ data-differ-localisation-sovereignty | how-sovereign-cloud-works | What is data 
 countri-data-government-infrastructur-requir-sovereign-stay | how-sovereign-cloud-works | Which countries require government data to stay on sovereign infrastructure?
 against-cloud-determin-limit-sovereign-stat | how-sovereign-cloud-works | What are the limits of a sovereign cloud against a determined state?
 backup-cloud-disaster-handl-recovery-sovereign | how-sovereign-cloud-works | How does a sovereign cloud handle backups and disaster recovery?
+
+## film-persona
+
+### how-persona-was-made
+about-persona-simple-term | how-persona-was-made | What is Persona about in simple terms?
+direct-first-persona-releas | how-persona-was-made | Who directed Persona and when was it first released?
+alma-elisabet-persona-play-vogler | how-persona-was-made | Who plays Alma and Elisabet Vogler in Persona?
+elisabet-persona-speak-stop | how-persona-was-made | Why does Elisabet stop speaking in Persona?
+film-persona | how-persona-was-made | Where was Persona filmed?
+defin-imag-persona-photograph | how-persona-was-made | Who photographed Persona and what defines its images?
+happen-persona-prologue | how-persona-was-made | What happens in the prologue of Persona?
+mean-persona-title | how-persona-was-made | What does the title Persona mean?
+all-elisabet-persona-speak | how-persona-was-made | Does Elisabet speak at all in Persona?
+box-office-persona-release-succes | how-persona-was-made | Was Persona a box office success on release?
+andersson-award-bibi-persona-win | how-persona-was-made | What awards did Persona and Bibi Andersson win?
+alter-america-britain-censor-persona | how-persona-was-made | How did censors alter Persona in Britain and America?
+face-image-made-persona-split | how-persona-was-made | How was the split face image in Persona made?
+career-change-liv-persona-ullmann' | how-persona-was-made | How did Persona change Liv Ullmann's career?
+about-argue-persona-sontag-susan | how-persona-was-made | What did Susan Sontag argue about Persona?
+film-influence-later-persona-show-which | how-persona-was-made | Which later films show the influence of Persona?
+bas-event-persona-real | how-persona-was-made | Is Persona based on real events?
+footage-include-new-persona-television | how-persona-was-made | Why does Persona include television news footage?
+aspect-format-persona-ratio-shot | how-persona-was-made | In what format and aspect ratio was Persona shot?
+about-critic-disagree-mean-persona | how-persona-was-made | Why do critics disagree about what Persona means?
