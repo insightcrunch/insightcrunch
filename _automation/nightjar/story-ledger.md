@@ -95,3 +95,25 @@ spine notch:              Rung three. Absence is not blindness. The warehouse ro
 characters:               Mira Kovac, Ilse Harrand, Petra Dunmore, Osk Veyrin (new), Hallis (new)
 canon written back:       Three facts under Established canon, each numbered 003: Osk Veyrin and the settled debt and ungiven resignation; the record annexe, certified copies under an analyst's seal, and the night keeper's bonded alarm; the quiet Valtessa waiver with no register twin as one half of the arrangement
 callbacks:                001 and 002, two internal links, to the transit room that held nothing and to the signature that spent Calloway's career
+
+## Installment 004
+slug:                     nightjar-bonded-cargo-004
+published:                2026-11-03
+story span:               Three days in the Twenty Ninth Session, from the tasking in Carrowmere to the morning after the depot take in Teshkar
+arc:                      The Clean Room, case 4
+case type:                Network rollup
+words:                    22312
+outcome:                  partial
+cost paid:                Reni Vosk is unsupported for nineteen minutes when the sting is moved forward and handles it, and Mira tells her plainly afterwards that those minutes were not the plan and that the decision was hers
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the warm chair
+clues planted:            The rollup board of four positions; Reni's position at the lower yard gate and her watch and report instructions; the depot back door on the north side, its latch lifted not pushed; the bridge count procedure, expected count nine; the odd rendering of the Selvara district name in one bonded copy; the bridge toll chits and the pass checkpoint reports
+capabilities established: The manifest comparison across three members' bonded copies and the toll chit reconciliation (Ground truth); the depot plan and staffing study and the radio rehearsal of Reni's position (Ground truth); the transcription error confirmed on the depot originals, Selvara rendered Salvarra with the same transposed toll totals in all three sets (The collapse); the depot back door used for entry (Tasking, Ground truth, Pressure)
+damage carried:           In: Voss's last ten minutes from 001, Calloway's signed away career from 002. Adds: Reni unsupported for nineteen minutes
+endurance:                entering full; low at the pressure beat, which is why the depot door is lost
+legend beat:              none
+close consumed:           The transcription error in the three paper sets, the changed bridge count from nine to eight, the simultaneity of the four positions, the depot back door, and the two reads, of the depot office and of the driver's cab; every one established earlier in this same installment
+false lead:               Three organisations sharing a route. Every piece of evidence supports it, because the chain built that appearance on purpose, knowing the Office hunts single organisations
+spine notch:              Rung four. A second absence, in another member state, in a different kind of room: the sealed store room at the Teshkar depot holds no weight at all. Mira writes it in her own notebook and does not connect it aloud to Carrowmere
+characters:               Mira Kovac, Arvo Leyden, Tomas Rask, Petra Dunmore, Reni Vosk (new, standing cast from here), Pell Anders (new), Sef Ardal (new), Marta Ilsen (new)
+canon written back:       Three facts under Established canon, each numbered 004: Reni Vosk's first field position and her nineteen unsupported minutes; the chain as one organisation pretending to be three, eleven taken and the principal not among them; the Teshkar depot store room as the second empty room
+callbacks:                001 and 002, two internal links, to the transit room that held nothing and to the hearing room where the weight stopped at a line on the floor

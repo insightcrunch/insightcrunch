@@ -139,3 +139,7 @@
 ## how-sovereign-cloud-works
 - _posts/2026-10-07-how-data-centers-work.md - could carry: "The buildings described on this page settle only the first of five controls, because a sovereign cloud also has to settle which law reaches the operator, who holds the keys and how the tenant can leave."
 - _posts/2026-10-28-how-ai-accelerators-work.md - could carry: "The hardware on this page is the layer governments mean when sovereign AI programmes demand domestic compute, and the control stack above the chips is what decides whether that compute is sovereign in law as well as in place."
+
+## nightjar-bonded-cargo-004
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room that held nothing in Carrowmere was the first; a sealed store room in a Teshkar depot later held nothing either, in another member state and a different kind of room, and she wrote that one down in her own notebook too."
+- _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The hearing room where the weight stopped at a line on the floor was a bounded absence; the depot store room in Teshkar had no boundary she could walk, only a whole room of nothing behind a sealed door."

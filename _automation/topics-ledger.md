@@ -35,3 +35,4 @@
 2026-11-02 | nightjar-lever-at-melora-003 | nightjar | installment 003 | The Clean Room | Geopolitical lever | full | Leisure | literature-nightjar
 
 2026-11-03 | how-sovereign-cloud-works | Technology and computing | how does sovereign cloud work | When a cloud service claims sovereignty, what actually decides which country's law, courts, operator and staff can reach the data, and how is that control built from location, legal structure, encryption keys, software and exit rights? | Technology | technology-sovereign-cloud
+2026-11-03 | nightjar-bonded-cargo-004 | nightjar | installment 004 | The Clean Room | Network rollup | partial | Leisure | literature-nightjar

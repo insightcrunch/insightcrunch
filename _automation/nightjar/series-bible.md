@@ -313,6 +313,10 @@ rewritten.
 003 The arbitration record annexe in Melora keeps settlement records apart from the main record rooms. A certified copy of a settlement record is taken under the seal of the analyst who requisitions it, and the annexe is watched at night by a keeper whose round can raise a bonded alarm.
 003 Valtessa granted Dravin a quiet inspection waiver that was filed with no register twin, and the settlement of the delegate's debt and the waiver were the two halves of one arrangement that neither delegation would allow to be read aloud in the arbitration chamber.
 
+004 Reni Vosk is a junior officer of the Ninth Office, twenty one years of age, assigned to Mira Kovac. On her first field position she held the lower yard gate approach at the Teshkar depot through the bonded cargo rollup, held it alone for nineteen minutes when the sting was moved forward, reported the car that passed her, and did not engage.
+004 The smuggling chain taken in the bonded cargo rollup was one organisation pretending to be three. Its three sets of bonded paperwork were written by one hand, which rendered the Selvara district as Salvarra and transposed the same toll totals in every set. Eleven of the chain were taken and the route was closed, and the principal was not among the eleven.
+004 In the Teshkar depot, a sealed store room off the principal's office corridor held no weight at all when Mira Kovac read it after the take, in a working depot where the office, the warehouse and a driver's cab all read heavily. It is the second empty room she has found, in another member state and in a different kind of room from the Carrowmere transit room.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.
