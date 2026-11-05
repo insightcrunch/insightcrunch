@@ -9,7 +9,7 @@ excerpt: "John Gielgud and Laurence Olivier alternated as Romeo and Mercutio at 
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-10-15
+last_updated: 2026-11-05
 lang: en
 ---
 In October 1935, at the New Theatre in St Martin's Lane, John Gielgud and Laurence Olivier began alternating as Romeo and Mercutio in a single production of the tragedy, and the London stage acquired its most instructive controlled experiment. One director, one company, one Juliet, one design, one text: every condition held constant except the man inside the two parts. What changed, night by night and block by block, was the acting itself, and the change was systematic enough to read. Gielgud carried the verse as music, phrasing the line as a scored utterance whose sense rode on its sound. Olivier carried the part as event, phrasing the line as behaviour whose sound followed its physical impulse. The alternation therefore did more than double the publicity of a strong production. It staged, inside one run of 186 performances, the central quarrel of twentieth-century Shakespearean acting, and it forced critics, audiences, and the two men themselves to choose between definitions of what playing the lover means.

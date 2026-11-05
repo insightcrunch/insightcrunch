@@ -9,7 +9,7 @@ excerpt: "Manga and graphic novels worldwide have retold Romeo and Juliet, from 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-03-30
+last_updated: 2026-11-05
 lang: en
 ---
 Manga and graphic-novel versions of the Verona tragedy hold a distinction no stage revival and no film can claim: the panel fixes an interpretation in ink and then hands the pace of performance to the reader. A stage production decides how long the balcony scene lasts. A film decides the length of every pause before the potion speech. A comic decides neither. The drawn page proposes faces, rooms, weather, and wounds, and the reader supplies duration, emphasis, and breath. That transfer of control is the medium's gift to the play, and the history of the play in comics is the history of artists learning, edition by edition, how much of the performance to seize and how much to surrender. The verdict of the record assembled here is plain. Comics succeed with the tragedy when the drawing interprets, and fail when the drawing merely illustrates a shortened script. The faithful school edition and the radical manga reinvention stand at opposite ends of the shelf, and each camp has produced both kinds of book, which is why fidelity alone has never predicted quality in print.

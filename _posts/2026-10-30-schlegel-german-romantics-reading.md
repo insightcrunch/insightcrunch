@@ -9,7 +9,7 @@ excerpt: "August Wilhelm Schlegel and the German Romantics exalted Romeo and Jul
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-10-30
+last_updated: 2026-11-05
 lang: en
 ---
 The prestige of Romeo and Juliet was not found but made, and the workshop where much of it was manufactured stood in Jena and Vienna, in the person of August Wilhelm Schlegel. Before Schlegel, the play's standing in England rested on the stage: audiences loved it, adapters improved it, and critics apologized for its puns, its haste, and its mixture of clowning with catastrophe. Schlegel reversed the polarity of the whole discussion. In his Vienna lectures on dramatic art and literature, delivered in 1808 and published between 1809 and 1811, he treated the tragedy not as a flawed popular success but as a finished poem whose every scene was necessary, whose contrasts were its structure, and whose mingled mirth was part of its design. The verdict of this article is that Schlegel's reading, carried across Europe by his celebrated German translation of Shakespeare, by Madame de Staël's championship, and by John Black's English translation of the lectures, did more than any other single critical act to convert the play from theatrical property into canonical literature. The reading was not flawless. Its unity is partly a unity of impression rather than of construction, and later critics have shown the seams Schlegel preferred to blend. But the prestige the play now enjoys as a poem, studied whole and quoted as a single sustained utterance on love, descends from the German Romantic reframing in a direct line.

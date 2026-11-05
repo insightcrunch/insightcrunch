@@ -9,7 +9,7 @@ excerpt: "Peggy Ashcroft's Juliet was praised for its freshness and intelligence
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2027-10-29
+last_updated: 2026-11-05
 lang: en
 ---
 Peggy Ashcroft's Juliet at the New Theatre in 1935 did something rarer than win praise. It changed what the part was allowed to be. The Capulet daughter had spent generations on the English stage as an occasion for pathos, a young heroine admired chiefly for suffering beautifully, and Ashcroft replaced that figure with a girl who thinks. Her Juliet was fresh because the playing was unforced, quick, and free of inherited gesture, and it was intelligent because every feeling in the performance arrived through an act of understanding. The verdict of this article is plain: Ashcroft's Juliet is the hinge between the sentimental stage heroine of the nineteenth century and the modern heroine, and the performance deserves to be ranked as the single most consequential Juliet of the twentieth century, ahead of the famous contest between the two Romeos who shared her stage.

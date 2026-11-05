@@ -9,7 +9,7 @@ excerpt: "John Cranko's Romeo and Juliet for the Stuttgart Ballet shaped the mod
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2028-12-08
+last_updated: 2026-11-05
 lang: en
 ---
 John Cranko's Romeo and Juliet, premiered by the Stuttgart Ballet on 2 December 1962, is the production that taught the Western ballet stage how to tell Shakespeare's tragedy whole. The verdict of this article is plain: Kenneth MacMillan's more famous London version of 1965 stands on ground that Cranko surveyed, fenced and built upon three years earlier, and the modern full-length story ballet of the play begins in Stuttgart, not at Covent Garden. The fame order and the founding order run in opposite directions, and dance history has too often repeated the fame order as if it were the chronology.

@@ -9,7 +9,7 @@ excerpt: "Samuel Johnson praised the variety of Romeo and Juliet in his great ed
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2026-10-09
+last_updated: 2026-11-05
 lang: en
 ---
 Samuel Johnson delivered the most consequential short judgement on Romeo and Juliet that the eighteenth century produced, and he delivered it in a handful of sentences at the end of his 1765 edition. The play, he wrote, is one of the most pleasing of its author's performances; its scenes are busy and various, its incidents numerous and important, its catastrophe irresistibly affecting. Then, in the same breath, he withdrew part of the gift: the comic scenes are happily wrought, but the pathetic strains are always polluted with some unexpected depravations, and the distressed persons of the tragedy keep a conceit in their misery, a miserable conceit. Praise and reservation sit side by side in Johnson's verdict, and the verdict has outlasted every rival from his century because both halves of it are earned. The praise rests on an argued theory of drama, worked out in the Preface to his edition, that acquits this play of the charges neoclassical criticism had pending against it. The reservation rests on a real defect, which Johnson located more exactly than any critic before him, even where his own framework prevented him from seeing what the defect was for.

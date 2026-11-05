@@ -9,7 +9,7 @@ excerpt: "Dryden reported the famous claim that Shakespeare killed Mercutio in t
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-10-02
+last_updated: 2026-11-05
 lang: en
 ---
 The most quoted sentence ever written about Mercutio is a sentence John Dryden did not believe. In the *Defence of the Epilogue*, published with *The Conquest of Granada* in 1672, Dryden reported a saying attributed to Shakespeare himself: that the playwright had shown the best of his skill in Mercutio and had been forced to kill him in the third act to prevent being killed by him. Generations of critics, teachers, and programme writers have repeated the report as though it were Dryden's own verdict on the character, a Restoration critic's awestruck testimony that Mercutio's vitality threatened to overwhelm the tragedy around him. The passage on the page says something stranger and more interesting. Dryden quotes the saying, then votes against it. Mercutio, he continues, was no dangerous person at all; there is nothing in the character but what was so exceeding harmless that he might have lived to the end of the play and died in his bed, without offence to any man. The famous quip about Shakespeare killing Mercutio is, in its original setting, an anecdote retailed in order to be discounted.

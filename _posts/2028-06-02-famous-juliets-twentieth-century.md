@@ -9,7 +9,7 @@ excerpt: "The twentieth century gave Romeo and Juliet a gallery of famous Juliet
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-06-02
+last_updated: 2026-11-05
 lang: en
 ---
 The famous Juliets of the twentieth century do not form a portrait. They form a gallery, and the difference between a portrait and a gallery is the whole argument of this survey. A portrait presumes one sitter and one settled likeness: the girl of the balcony, moonlit, passive, waiting to be loved and lost. A gallery admits that the sitter kept changing because the painters kept changing, and that every generation of actresses repainted the heroine in the image of what that generation believed a young woman to be. The cliché imagines one Juliet, an essence that performers approximate with varying fidelity. The record of the century's stages shows something more interesting and more honest: a sequence of renewals, each one argued for in rehearsal rooms and fought over in the newspapers, in which the part was repeatedly taken apart and rebuilt. Peggy Ashcroft rebuilt it around intelligence in 1935. Claire Bloom rebuilt it around youthful finish in 1952. Judi Dench rebuilt it around behaviour in 1960. Niamh Cusack rebuilt it inside modern dress in 1986, in a Verona of cars and cameras where the heroine's will read as contemporary fact rather than period pathos. Between and around those hinges stand the star Juliets of the American commercial stage, the lyric Juliet of Gwen Ffrangcon-Davies, the ensemble Juliets of Stratford, and the screen's two famous candidates, one of whom the stage examined and declined to crown.

@@ -9,7 +9,7 @@ excerpt: "Indian cinema has retold Romeo and Juliet again and again, because its
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2029-02-02
+last_updated: 2026-11-05
 lang: en
 ---
 The Bollywood Romeo and Juliet tradition is the strongest proof outside the English-speaking stage that the Verona tragedy belongs to any society where kinship decides marriage. Hindi popular cinema did not borrow the tragedy as a foreign ornament. The industry rebuilt the feud, the secret union, the flight, and the grave inside caste councils, clan pride, religious division, party machines, language rivalry, and the economics of family honour, until the borrowed plot read as a native form. That verdict governs every exhibit in the survey that follows. Films that name the source, films that remake an earlier Indian success, and films that share structure without a credit belong in one map only when the grades of descent stay distinct. A direct adaptation, an acknowledged remake, and a work of structural kinship do different cultural labour, and flattening the three into a single claim of influence weakens the tradition instead of honouring the scale of the achievement.

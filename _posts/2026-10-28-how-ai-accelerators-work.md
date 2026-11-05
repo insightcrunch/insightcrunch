@@ -9,7 +9,7 @@ excerpt: "How AI accelerators work: the matrix units, memory paths, precision ch
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 84
 author: "william-knight"
-last_updated: 2026-10-28
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Chip That Wins by Refusing to Be General

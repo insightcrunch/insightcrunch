@@ -9,7 +9,7 @@ excerpt: "A Barrow States inspector who testified against a bonded chain goes ho
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 102
 author: "chloe-martin"
-last_updated: 2026-11-04
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Man on Bracken Hill

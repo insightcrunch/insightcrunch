@@ -9,7 +9,7 @@ excerpt: "Some productions of Romeo and Juliet cast the two feuding houses acros
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2028-05-05
+last_updated: 2026-11-05
 lang: en
 ---
 Color-conscious casting of the feud is the boldest interpretive device available to a director of this play, because it aims at the one thing the text leaves blank. Shakespeare never explains why the Capulets and Montagues hate each other. A production that draws the line between the houses along a racial, ethnic, or national division proposes an answer the script withholds, and it proposes that answer in the one theatrical language an audience reads before a single line is spoken: the visible bodies of the two families. This article examines that device across its documented history, from a reported Romeo at New York's African Theatre in the 1820s to a divided Verona on the United States and Mexico border, and it reaches a firm verdict. Color-conscious casting of the feud can reveal what no other staging choice reaches, the felt mechanics of inherited hatred between groups who are, in every quality the play measures, identical. It reveals that truth only under discipline: the division mapped must be one the audience genuinely lives inside, the symmetry of the two houses must survive the mapping, and the production must read its own casting rather than merely display it. Where those conditions fail, the record shows the device cancelling itself, splitting the houses on the poster and reuniting them in indifference on the stage.

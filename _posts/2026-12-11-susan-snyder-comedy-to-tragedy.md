@@ -9,7 +9,7 @@ excerpt: "Susan Snyder argued that Romeo and Juliet begins as a comedy and turns
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-12-11
+last_updated: 2026-11-05
 lang: en
 ---
 ## Susan Snyder's Thesis: A Tragedy the Play Becomes, Not One It Simply Is

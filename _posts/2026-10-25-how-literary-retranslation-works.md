@@ -9,7 +9,7 @@ excerpt: "How literary retranslation works: why a classic returns in a new Engli
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 77
 author: "amanda-ross"
-last_updated: 2026-10-25
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Classic Readers Thought They Knew Arrives Again

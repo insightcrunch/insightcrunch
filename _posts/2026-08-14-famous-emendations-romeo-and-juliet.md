@@ -9,7 +9,7 @@ excerpt: "Several beloved lines in Romeo and Juliet are editorial emendations, c
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2026-08-14
+last_updated: 2026-11-05
 lang: en
 ---
 Some of the most quoted words in Romeo and Juliet were written by editors. When Juliet, alone on her wedding night, asks for her husband to be cut out in little stars after death, the pronoun on which the whole fantasy turns is not stable across the play's texts: the Second Quarto of 1599, the documentary foundation of every scholarly edition, reads "when I shall die," and the "he" that generations of readers have memorized arrived later, as an emendation carried into the text by other hands. When Romeo speaks his first lines to Juliet in the shared sonnet at the Capulet feast, two of the eighteenth century's greatest editorial intelligences agreed that a word in the quarto was wrong and proposed a replacement that Samuel Johnson admired, and the modern editions have voted the replacement down. The text of this play, the most familiar love tragedy in English, is a fabric in which authorial words and editorial conjectures are woven so closely that only the small print at the foot of a scholarly page can tell them apart.

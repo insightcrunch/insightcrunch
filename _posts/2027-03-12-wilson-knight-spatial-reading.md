@@ -9,7 +9,7 @@ excerpt: "G. Wilson Knight read Shakespeare spatially, attending to atmosphere a
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2027-03-12
+last_updated: 2026-11-05
 lang: en
 ---
 Romeo and Juliet is usually read as a sequence: a brawl, a feast, a wedding, a duel, a potion, a tomb. The story is so familiar that the plot can feel like the whole meaning, and criticism that follows the plot tends to retell it with commentary attached. G. Wilson Knight proposed a different act of attention. A play by Shakespeare, he argued, is set spatially as well as temporally in the mind: beneath the chain of events there runs a set of correspondences, images answering images across the whole design, and that pattern is not decoration on the story. The pattern is a second and equal bearer of the meaning, in this play arguably the senior partner. Read spatially, Romeo and Juliet stops being a tale of two unlucky teenagers and becomes a single poetic world in which light, night, stars, gold, poison and music hold fixed relations to one another, and in which the catastrophe is legible from the first Chorus because the world itself, not merely its events, is built the way the ending requires.

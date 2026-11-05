@@ -9,7 +9,7 @@ excerpt: "The BBC Television Romeo and Juliet opened the complete BBC Shakespear
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-02-16
+last_updated: 2026-11-05
 lang: en
 ---
 The BBC Television Romeo and Juliet of 1978 is the most instructive failure and the most durable success in the screen history of the tragedy, and the two descriptions belong to the same object. As drama, Alvin Rakoff's studio production is cautious, level, and short on erotic danger. As an artifact, it is the fullest record of the play ever placed before a mass audience by a broadcaster: a near-complete text, spoken by a strong company, preserved as the opening exhibit of the BBC Television Shakespeare, the seven-season project that carried all thirty-seven plays into homes and classrooms between 1978 and 1985. The verdict defended across this article is plain. The production fails the test that cinema set for the tragedy, the test of fire, and passes a harder test that cinema never attempted, the test of the whole text. Judged as a film manqué it disappoints. Judged as what its producer Cedric Messina built it to be, a standard televised reading of the complete play, it remains the version against which the meaning of fidelity in adaptation is most usefully measured.

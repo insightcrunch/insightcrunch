@@ -9,7 +9,7 @@ excerpt: "Harley Granville-Barker's preface read Romeo and Juliet as a working s
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-11-27
+last_updated: 2026-11-05
 lang: en
 ---
 ## Granville-Barker's Preface: The Essay That Put the Play Back on Its Feet

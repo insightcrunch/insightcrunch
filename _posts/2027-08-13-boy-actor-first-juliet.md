@@ -9,7 +9,7 @@ excerpt: "Juliet was first played by a boy actor, a trained apprentice whose per
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-08-13
+last_updated: 2026-11-05
 lang: en
 ---
 The first Juliet was a boy actor, and that single casting fact changes how the heroine should be read. The performer who first spoke the balcony speeches, traded the shared sonnet at the Capulet feast, and carried the potion soliloquy alone in Act 4 was a trained male apprentice of the Lord Chamberlain's Men, most plausibly in the middle or later teens, bound to an adult sharer of the company and schooled in voice, movement, music, and fencing. No cast list for the first production survives, and the name of that first performer is not documented in any record that scholarship can test. The honest history therefore has two parts that must never be merged: a convention that is certain, and an identity that is lost. Restoring the boy actor matters because the role was written for the instrument that played it. Juliet's verse, wit, erotic candour, and physical daring were composed for a skilled apprentice whose artistry the company trusted with the third-longest female part in the canon, and the writing bears the marks of that trust on every page.

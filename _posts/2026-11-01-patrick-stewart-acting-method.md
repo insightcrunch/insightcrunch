@@ -9,7 +9,7 @@ excerpt: "Patrick Stewart acting method: the verse training, breath control and 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 91
 author: "chloe-martin"
-last_updated: 2026-11-01
+last_updated: 2026-11-05
 lang: en
 ---
 ## Authority Was a Technique Before It Was an Image

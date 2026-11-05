@@ -9,7 +9,7 @@ excerpt: "How archaeologists date ancient shipwrecks when the hull has rotted aw
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 66
 author: "william-knight"
-last_updated: 2026-10-20
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Date With No Ship Attached

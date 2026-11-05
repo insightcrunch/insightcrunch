@@ -9,7 +9,7 @@ excerpt: "Steven Spielberg's West Side Story reimagines the Romeo and Juliet mus
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2028-09-08
+last_updated: 2026-11-05
 lang: en
 ---
 Steven Spielberg's West Side Story, released in December 2021 from a screenplay by Tony Kushner, is the third major screen version of the Romeo and Juliet story that Jerome Robbins, Leonard Bernstein, Stephen Sondheim and Arthur Laurents built in 1957, and it is best understood not as a remake of the 1961 film but as a restoration of the stage musical's whole argument. The verdict of this article is direct: as a reading of the material, the 2021 film surpasses the 1961 film, because it repairs the two faults that six decades of criticism had documented in the earlier version, the Sharks' thinness and the feud's weightlessness, while keeping the Bernstein and Sondheim score at the centre. It does not surpass the 1961 film as choreography, because no film could, and its Tony is its weakest element. Its commercial failure, $76 million against a $100 million production budget, is a fact about the theatrical market of its release winter, not a verdict on the film. What Spielberg and Kushner made is the version in which the musical's Romeo and Juliet machinery finally runs on both sides of the street.

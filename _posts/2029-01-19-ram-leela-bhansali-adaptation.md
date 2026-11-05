@@ -9,7 +9,7 @@ excerpt: "Sanjay Leela Bhansali's Ram-Leela transplants Romeo and Juliet to a gu
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2029-01-19
+last_updated: 2026-11-05
 lang: en
 ---
 Ram-Leela, released in full as Goliyon Ki Raasleela Ram-Leela, is the strongest mainstream Indian answer to a stubborn critical habit: the habit of treating Verona as the natural home of Romeo and Juliet and every other setting as decoration. Sanjay Leela Bhansali's 2013 Hindi film moves the tragedy to Ranjaar, a fictional Gujarati town where two clans manufacture and sell firearms in the open, and the move is not decoration. The guns change the feud's physics, the festivals change the plot's machinery, the matriarch who runs the Capulet house changes the tragedy's balance of power, and the soundtrack changes how desire itself is staged. The verdict defended across this study is direct: Ram-Leela keeps the tragic core of the play intact, and spectacle in the film functions less as an escape from that core than as the vernacular language in which the core is spoken. Where the film falters, in a stretched second half and in one ornamental song placed for star value, the failures are failures of proportion rather than of nerve. The double death survives translation, restaged as a mutual shooting agreed by both lovers, and the peace that follows arrives too late in the precise Shakespearean manner. A tragedy that ends with two households cremating their children together has not traded its core for color. The color is how the core reaches its audience.

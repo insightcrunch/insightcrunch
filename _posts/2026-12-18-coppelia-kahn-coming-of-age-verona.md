@@ -9,7 +9,7 @@ excerpt: "Coppelia Kahn read Romeo and Juliet as a story of coming of age inside
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-12-18
+last_updated: 2026-11-05
 lang: en
 ---
 ## What Did Coppelia Kahn Argue in "Coming of Age in Verona"?

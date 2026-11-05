@@ -9,7 +9,7 @@ excerpt: "How the Purcell principle works: why federal courts leave election rul
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 82
 author: "ryan-walsh"
-last_updated: 2026-10-26
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Rule About Timing That Decides Cases Without Deciding Them

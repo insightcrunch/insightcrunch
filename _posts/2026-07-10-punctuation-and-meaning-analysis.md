@@ -9,7 +9,7 @@ excerpt: "The punctuation in Romeo and Juliet is largely editorial, and a mispla
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-07-10
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: Whose Punctuation Does a Reader Actually Read?

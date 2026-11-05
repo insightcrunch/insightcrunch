@@ -9,7 +9,7 @@ excerpt: "In his lectures Coleridge gave Romeo and Juliet a warm Romantic readin
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-10-16
+last_updated: 2026-11-05
 lang: en
 ---
 ## What Did Coleridge's Lectures Change About Romeo and Juliet?

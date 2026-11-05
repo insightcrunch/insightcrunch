@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet reached the screen in the silent era, in brief early 
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-08-18
+last_updated: 2026-11-05
 lang: en
 ---
 The earliest Romeo and Juliet films were not crude sketches waiting for sound to complete them. They were a distinct screen art that solved the play under severe constraint, and solved it in ways the sound cinema never unlearned. Between a Paris exhibition novelty of 1900 and the rival American features of 1916, producers in France, Italy and the United States compressed the tragedy into an aria, into a single reel, into two reels released a week apart, and finally into competing eight-reel and seven-reel features, each version selecting the same handful of scenes and discarding the same great speeches. The verdict this article defends is that the silents, not George Cukor, begin the screen tradition of the play: the habits of selection, quotation by title card, star casting and pictorial Verona that govern every later version were all fixed before a single line of the play could be heard in a cinema. Graham Holderness and Kenneth McCullough, cataloguing the film versions in Shakespeare Survey, count twenty-three adaptations of the play, the earliest made in France in 1900; Kenneth S. Rothwell and Annabelle Henkin Melzer, in the most comprehensive filmography, record sixty-one versions of every kind. Both lists start in the same place, and the starting place is stranger, thinner and more instructive than the familiar story allows.

@@ -9,7 +9,7 @@ excerpt: "George Cukor's MGM Romeo and Juliet was a lavish, reverent Hollywood f
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-07-07
+last_updated: 2026-11-05
 lang: en
 ---
 George Cukor's Romeo and Juliet, released by Metro-Goldwyn-Mayer in August 1936, is the studio system's monument to Shakespeare: the most expensive sound film MGM had made to that date, the most carefully researched, the most reverently cast, and, by the measure of the play it adapts, among the least alive. The verdict of this study is that the picture succeeds almost completely at the task its producer set and fails almost completely at the task the playwright set, and that the distance between those two tasks is the most instructive fact in the screen history of the tragedy. Irving Thalberg wanted a production that no professor could fault and no rival studio could match, a proof that Hollywood craftsmanship had come of age. William Shakespeare wrote a play about two teenagers whose speed, appetite, and heedlessness outrun every adult institution in Verona. Cukor's film honours the first intention in nearly every frame and betrays the second in nearly every casting decision, and it does both so handsomely, with such craft and such evident love of the text, that it remains the essential starting point for any account of the play on film.

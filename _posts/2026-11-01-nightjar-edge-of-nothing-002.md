@@ -9,7 +9,7 @@ excerpt: "An Accord auditor is held in her own rooms in Melora by men who have n
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 115
 author: "rachel-foster"
-last_updated: 2026-11-01
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Report She Would Not Send

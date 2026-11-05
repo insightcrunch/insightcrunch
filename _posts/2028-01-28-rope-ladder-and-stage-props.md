@@ -9,7 +9,7 @@ excerpt: "Small props carry large weight in Romeo and Juliet, from the rope ladd
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2028-01-28
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: A Tragedy Executed by Hand Props

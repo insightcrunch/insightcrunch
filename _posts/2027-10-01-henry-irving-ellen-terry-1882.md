@@ -9,7 +9,7 @@ excerpt: "Henry Irving and Ellen Terry staged a lavish Romeo and Juliet at the L
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2027-10-01
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict on Henry Irving, Ellen Terry, and the Lyceum

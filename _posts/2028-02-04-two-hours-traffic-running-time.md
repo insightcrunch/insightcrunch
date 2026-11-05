@@ -9,7 +9,7 @@ excerpt: "The Prologue promises the two hours' traffic of the stage, a famous cl
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2028-02-04
+last_updated: 2026-11-05
 lang: en
 ---
 The Chorus who opens Romeo and Juliet makes the audience a promise about the clock before making any promise about the story. The fearful passage of the lovers' death-marked love, the sonnet says, "Is now the two hours' traffic of our stage" (Prologue, line 12, in René Weis's Arden Third Series edition). Two hours: the whole feud, the ball, the balcony, the duel, the wedding, the potion, the tomb, priced in advance at a single round figure and announced in the play's first minute. No other major tragedy in the period carries its running time on its face in this way, and no production since has been able to treat the figure as a dead letter. Directors cut toward it, apologists explain it away, editors footnote it, and audiences measuring a three-hour evening against it feel, obscurely, that a contract has been breached. The figure deserves a full reckoning: what it meant when it was spoken, what the surviving texts do to it, and how the stage has answered it across four centuries.

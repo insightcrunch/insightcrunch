@@ -9,7 +9,7 @@ excerpt: "Russian criticism of Romeo and Juliet runs through Pasternak's famous 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-05-28
+last_updated: 2026-11-05
 lang: en
 ---
 Russian criticism of Romeo and Juliet did something no other national tradition attempted: it made the tragedy a foundation document. In England the play could rest as a beloved early work, in France it arrived late and apologetically, in Germany it served a theory of national theatre. In Russia it was translated, argued over, set to music, danced, filmed, taught and edited until it functioned as a piece of Russian literature that happened to have an English author. The verdict argued through this article is that the Russian reception has a single legible shape. Russia read the feud before it read the lovers. From the first prose complete works of 1841 to the Soviet commentary of the 1930s, the tradition fastened on the play's social machinery, the two households, the Prince's failing law, the parents' property in their children, and treated the love as the human answer that machinery provokes and destroys. The romance was never denied. It was, instead, explained, and the explanation is the tradition's distinction and its wound, because the century that perfected the social reading also arrested, exiled or shot an unusual number of the people who produced it.

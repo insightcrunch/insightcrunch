@@ -9,7 +9,7 @@ excerpt: "William Hazlitt read Romeo and Juliet as the play of young love itself
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-10-23
+last_updated: 2026-11-05
 lang: en
 ---
 ## Hazlitt's Chapter and the Making of the Young-Love Play

@@ -9,7 +9,7 @@ excerpt: "John Philip Kemble's Romeo and Juliet brought a stately, dignified man
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-03-10
+last_updated: 2026-11-05
 lang: en
 ---
 John Philip Kemble's name stands on the title page of the Romeo and Juliet that Georgian London actually watched, and the part of Romeo does not stand beside it. That single bibliographical fact is the key to his Verona. The acting edition printed for the Theatre Royal, Covent Garden, in 1811 announces the tragedy as adapted to the stage by David Garrick and revised by J. P. Kemble, published as it is acted at that house; its list of persons represented then assigns Romeo to Mr. C. Kemble, the reviser's younger brother Charles, and Juliet to a Miss Norton. The elder Kemble, manager of the house, proprietor of a sixth share in it, the most carefully studied tragedian of his generation, appears in his own production only as the intelligence that chose the text, cast the company, drilled the processions, and set the terms on which Verona would be allowed to feel. His Verona was governed before it was wooed in.

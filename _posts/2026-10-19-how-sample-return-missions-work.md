@@ -9,7 +9,7 @@ excerpt: "How sample return missions work: a spacecraft collects material on ano
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 86
 author: "jason-mckenzie"
-last_updated: 2026-10-19
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Handful of Another World, Returned Deliberately

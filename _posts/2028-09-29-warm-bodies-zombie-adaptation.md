@@ -9,7 +9,7 @@ excerpt: "Warm Bodies reworks Romeo and Juliet as a zombie romance, naming its l
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-09-29
+last_updated: 2026-11-05
 lang: en
 ---
 ## Warm Bodies: The Verdict on a Zombie Romeo and Juliet

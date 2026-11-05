@@ -9,7 +9,7 @@ excerpt: "Disability studies reads Romeo and Juliet for its bodies, medicine, an
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-04-23
+last_updated: 2026-11-05
 lang: en
 ---
 Disability studies comes to Romeo and Juliet looking for a disabled hero and finds none, and that absence is the beginning of its argument rather than the end of it. No character in Verona carries a lasting impairment of the kind the criticism of Richard III is built on. What the play has instead is a city that processes bodies without pause: it diagnoses them, doses them, seals them indoors, prices their starvation, misreads their pulses, carries them wounded off the square, lays them out for inspection, and finally casts the two most famous of them in gold. The verdict of this article is that disability studies earns its place among the play's critical schools by shifting the object of study from the impaired body to the disabling arrangement. Verona disables. Its medicine names love a sickness and a daughter's refusal a disease; its law makes the sale of relief a capital crime and then starves the seller; its plague orders disable a healthy friar by locking a door; its households read a drugged girl as a corpse and act on the reading. The lovers die less from anything wrong inside their bodies than from the machinery Verona builds around bodies, and the play says so in its own vocabulary of sickness, physic, poison, and cure.

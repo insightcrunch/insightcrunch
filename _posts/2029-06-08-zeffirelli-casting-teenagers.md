@@ -9,7 +9,7 @@ excerpt: "Zeffirelli's choice to cast teenagers Leonard Whiting and Olivia Husse
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2029-06-08
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict: Zeffirelli Casting Teenagers Was the Decision the Whole Film Stands On

@@ -9,7 +9,7 @@ excerpt: "Tchaikovsky's Romeo and Juliet fantasy-overture distilled the story in
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2028-11-17
+last_updated: 2026-11-05
 lang: en
 ---
 Tchaikovsky's fantasy-overture on Romeo and Juliet is the most successful act of compression the play has ever undergone, and the verdict of this article is stated at the outset so that every section can be held against it. In a single orchestral movement of about twenty minutes, Pyotr Ilyich Tchaikovsky reduced a five-act tragedy of some three thousand lines to three musical forces locked in one design: a chorale for the friar who tries to mediate, a violent Allegro for the feud that fills the streets of Verona, and a love theme in D-flat major for the two young people caught between the chorale and the violence. The reduction sounds like a loss. It is instead a reading, and a severe one. The overture argues that the play is not, at its core, a sequence of famous scenes waiting to be illustrated. The overture argues that the tragedy is a conflict of forces in which private love is structurally outmatched, and it makes that argument with the strictest musical machinery available to a nineteenth-century composer, the machinery of sonata form.

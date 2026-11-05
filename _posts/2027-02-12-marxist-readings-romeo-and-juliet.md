@@ -9,7 +9,7 @@ excerpt: "Marxist criticism reads Romeo and Juliet through class and money, seei
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-02-12
+last_updated: 2026-11-05
 lang: en
 ---
 ## Marxist Readings of Romeo and Juliet: The Verdict in Advance

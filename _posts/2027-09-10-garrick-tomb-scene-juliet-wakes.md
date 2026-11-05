@@ -9,7 +9,7 @@ excerpt: "Garrick's tomb scene let Juliet wake before Romeo died, adding an agon
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-09-10
+last_updated: 2026-11-05
 lang: en
 ---
 In the ending Shakespeare wrote, the lovers never speak again after the orchard farewell and the parting at dawn. Romeo dies in the Capulet vault believing the still body beside him to be a corpse, and Juliet wakes to find a corpse in place of the husband she expected. In the ending David Garrick built for the stage of Drury Lane, that silence is broken. Garrick's tomb scene, first played in 1748 and printed in 1750 as the additional scene of his altered text, lets Juliet wake after Romeo has swallowed the poison and before the poison finishes its work, and it gives the pair a long, anguished conversation that Shakespeare withheld from them. The change is the most famous single alteration in the whole history of the play on stage, and it held the English and American stage for roughly a century, shaping how generations of playgoers understood what kind of tragedy this was. The wider account of [David Garrick's Adaptation of 1748](/2027/08/27/david-garrick-adaptation-1748/) treats the whole altered version, its cuts, its funeral procession, and its removal of Rosaline; the concern of the present study is the one scene, examined as a piece of writing, a piece of stagecraft, and a piece of interpretation.

@@ -9,7 +9,7 @@ excerpt: "Scholars debate whether Shakespeare's first audiences pitied or condem
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-04-02
+last_updated: 2026-11-05
 lang: en
 ---
 ## Did the First Audiences Pity or Condemn the Suicides?

@@ -9,7 +9,7 @@ excerpt: "Baz Luhrmann's film kept Shakespeare's words but set them in a brash f
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2028-08-04
+last_updated: 2026-11-05
 lang: en
 ---
 ## Baz Luhrmann's Romeo + Juliet: The Verdict on Verona Beach

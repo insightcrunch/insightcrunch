@@ -9,7 +9,7 @@ excerpt: "Caroline Spurgeon's 1930s study of Shakespeare's imagery changed criti
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-03-05
+last_updated: 2026-11-05
 lang: en
 ---
 Caroline Spurgeon changed what a critic of Romeo and Juliet is allowed to claim, and she changed it with a card catalogue. Before her book appeared in 1935, a reader could praise the play's glowing language and stop there, safe in the loftiest vagueness. After Shakespeare's Imagery and What It Tells Us, praise had to survive a census. Spurgeon had collected every image in Shakespeare, sorted the harvest into classes, counted what she found, and announced that this play is governed by one running pattern: light in all its forms, blazing against darkness. Sun, moon, stars, fire, lightning, the flash of gunpowder, the reflected light of beauty and of love on one side; night, clouds, rain, mist and smoke on the other. That finding became the standard account of the play's atmosphere, repeated in classrooms and edition introductions until it reads like a fact of nature rather than one scholar's construction. This article argues a split verdict, and argues it from her own pages. The light finding stands: it survives her critics, her own appendix, and every serious rereading of the play since. The instrument that produced it stands too, but demoted: counting is a way of finding patterns, not a way of proving them, and Spurgeon's book is at its weakest exactly where it forgets the difference, in the confident biography it builds out of the tallies. The revolution she started was real. Its first triumph was this play. Its limits were printed, by Spurgeon herself, in her own appendix.

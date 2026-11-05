@@ -9,7 +9,7 @@ excerpt: "Beyond the famous settings, many forgotten operas told the Romeo and J
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2029-03-09
+last_updated: 2026-11-05
 lang: en
 ---
 ## Vaccai and the Forgotten Operas: A Crowded Field Behind Two Famous Names

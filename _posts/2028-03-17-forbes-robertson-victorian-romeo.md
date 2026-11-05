@@ -9,7 +9,7 @@ excerpt: "Johnston Forbes-Robertson brought refined grace and beautiful verse-sp
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2028-03-17
+last_updated: 2026-11-05
 lang: en
 ---
 In September 1895 the Lyceum Theatre, the most famous Shakespearean address in London, opened its autumn season with a Romeo played by a forty-two-year-old actor-manager who had spent much of his career in other men's companies, and the performance that followed quietly reset what a Romeo could be. Johnston Forbes-Robertson did not storm the part, and he did not drown it in scenery. He spoke it. The verdict argued through this article is that his Romeo matters less as a triumph of one season than as a transfer of power inside the role: away from the painted city and the manager's spectacle, toward the speaking voice and the thinking actor, so that the line from his Lyceum season runs forward to the lyrical Romeos of the twentieth century and, on the evidence of the notices, begins with him. The refined lover of 1895 was not the part cooled down. He was the part re-centred on its verse, performed by an actor whose Hamlet, two years later in the same house, would be praised by the most feared critic in London in terms no Romeo of the period ever earned. The Romeo came first, and the Romeo explains the Hamlet.

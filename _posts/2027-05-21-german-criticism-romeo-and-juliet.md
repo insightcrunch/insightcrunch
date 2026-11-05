@@ -9,7 +9,7 @@ excerpt: "German criticism made Romeo and Juliet almost a national possession, f
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-05-21
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Play in German Criticism: The Verdict in Advance

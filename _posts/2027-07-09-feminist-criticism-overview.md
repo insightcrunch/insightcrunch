@@ -9,7 +9,7 @@ excerpt: "Feminist criticism of Romeo and Juliet examines Juliet's agency, the m
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2027-07-09
+last_updated: 2026-11-05
 lang: en
 ---
 Feminist criticism of Romeo and Juliet begins from a refusal: the refusal to let the most famous love story in English literature be read as a story about two people and their feelings alone. Behind the lovers stands a city. In that city a father disposes of a daughter in marriage as an instrument of policy, a mother delivers the sales pitch for a husband the daughter has never spoken to, a nurse carries messages until the messages become dangerous, and a feud conducted entirely by men prices everything, including grief. Feminist criticism is the body of scholarship that made that city visible. Before its arrival, the play's criticism ran on two tracks that the feminist readers of the 1970s inherited and rejected: the romance track, which celebrated the lovers as the standard of pure feeling, and the moral track, inherited from Arthur Brooke's poem of 1562, which blamed them for disobedience. Both tracks treat Verona as scenery. The feminist reading treats Verona as the subject.

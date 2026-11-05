@@ -9,7 +9,7 @@ excerpt: "Renato Castellani's Anglo-Italian Romeo and Juliet won the Golden Lion
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2028-07-14
+last_updated: 2026-11-05
 lang: en
 ---
 Renato Castellani's Romeo and Juliet of 1954 is the most beautiful failure in the play's screen history, and its failure is the instructive kind: a film that solved every problem except the one the audience came for. Castellani took Shakespeare's tragedy out of the studio, set it down in the real streets and churches of Renaissance Italy, clothed it after Botticelli and Piero della Francesca, and won the Golden Lion at Venice for the result. Yet the same season's reviewers kept reaching for the vocabulary of the picture postcard, and the paying public stayed away in numbers that made trade journalists call the picture the unchallenged flop of its year. The verdict defended across this article is that both responses were accurate about different films inhabiting the same reels. As a reading of Verona, of a whole society arranged around a feud, Castellani's film remains the most intelligent of the three famous versions, the one that understood the play as the portrait of a city before it is the portrait of a love affair. As a performance of the lovers' passion it is cautious, airless, and strangely incurious about the two people at its centre. Beauty in this film is not decoration laid over drama. Beauty is the argument, and the argument exacts a price in dramatic life that the film never quite repays.

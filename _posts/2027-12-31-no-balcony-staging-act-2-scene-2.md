@@ -9,7 +9,7 @@ excerpt: "The word balcony never appears in Romeo and Juliet, and the early text
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 69
 author: "samantha-lee"
-last_updated: 2027-12-31
+last_updated: 2026-11-05
 lang: en
 ---
 The most famous piece of scenery in Romeo and Juliet does not exist. The scene the world calls the balcony scene contains no balcony: the word appears nowhere in the play, and the early printed texts, the only witnesses with any claim on the playwright's intentions, ask for something smaller and stranger, a window with Juliet above it and Romeo hidden in the orchard below. The balcony arrived later, through a documented chain of custody that runs from an adaptation's printed direction through eighteenth-century stage practice into the illustrated editions and paintings that fixed the scene's picture for good. The verdict of the evidence is plain. Height belongs to the text. The window belongs to the text. The railed platform projecting from the wall, the object every postcard shows and every school edition names, belongs to the tradition, and the tradition's birthday can be dated.

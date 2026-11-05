@@ -9,7 +9,7 @@ excerpt: "How copyright termination rights work: after decades, an author or sta
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 87
 author: "marcus-hall"
-last_updated: 2026-10-24
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Grant Signed Decades Ago Can Be Ended by Statute

@@ -9,7 +9,7 @@ excerpt: "New Criticism read Romeo and Juliet as a self-contained verbal artifac
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2027-07-16
+last_updated: 2026-11-05
 lang: en
 ---
 New Criticism gave Romeo and Juliet the most consequential rereading of the twentieth century without ever giving the play a book of its own. The school's central text, Cleanth Brooks's The Well Wrought Urn of 1947, builds its doctrine on ten poems and reaches Shakespeare through Macbeth alone. Yet the doctrine travelled. Once paradox, irony, tension, and the verbal icon had been named as the properties that make a literary work a work, the tragedy of the Veronese lovers became a test case the method could hardly avoid, because no play in English announces its own doubleness so openly. Its Prologue calls the lovers both star-crossed and death-marked in a single breath. Its hero opens his part with a catalogue of oxymorons. Its heroine answers a love scene with a string of oxymorons of her own, sharper than his. A method built to prize exactly those figures found, in this play, a structure that seemed to have been waiting for it.

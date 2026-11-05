@@ -9,7 +9,7 @@ excerpt: "Romeo Must Die loosely remixes Romeo and Juliet as a martial-arts acti
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-10-13
+last_updated: 2026-11-05
 lang: en
 ---
 ## Romeo Must Die: The Loosest Romeo and Juliet That Still Counts

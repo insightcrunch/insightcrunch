@@ -9,7 +9,7 @@ excerpt: "The early texts of Romeo and Juliet tangle their guest lists and names
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-08-21
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Rosaline Confusion in the Early Stage Directions: A Name in the Documents, a Body Nowhere

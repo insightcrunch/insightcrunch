@@ -9,7 +9,7 @@ excerpt: "In Form and Formality, Harry Levin showed the lovers of Romeo and Juli
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-12-04
+last_updated: 2026-11-05
 lang: en
 ---
 Nine pages of print settled how the world hears the language of Romeo and Juliet. In the Winter 1960 issue of Shakespeare Quarterly, across pages 3 to 11, Harry Levin published "Form and Formality in Romeo and Juliet," and the essay's central perception has organized the reading of the play's style ever since: the tragedy is built from set forms, sonnets, dances, duels, sestets, ceremonial laments, and its lovers fight their way out of those forms toward speech that sounds discovered rather than recited. The popular ear hears one seamless poetic voice pouring from the play, a single golden manner shared by hero, heroine, friar, nurse, and prince. Levin restored the movement inside that voice. His essay hears two registers at war, the borrowed dialect of convention and the pressured utterance of feeling, and it tracks the lovers' migration from the first to the second with an index anyone can check: the incidence of rhyme.

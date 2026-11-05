@@ -9,7 +9,7 @@ excerpt: "From Bollywood to Japan to Brazil, filmmakers worldwide have localized
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-06-15
+last_updated: 2026-11-05
 lang: en
 ---
 The screen life of Romeo and Juliet does not belong to Verona, or to London, or to Hollywood. It belongs equally to a Mexico City bus station where a rich girl dies in a poor boy's arms, to a Singapore hawker centre where two chicken rice stalls wage the feud, to a Rio de Janeiro beach kiosk where police bullets do the work of the poison and the dagger, and to a South African township where the lovers' deaths begin a community's healing. This article maps that worldwide screen life as one object: the global cinema of the play, surveyed territory by territory, graded row by row, and judged as a whole. The map covers the cinemas the Anglophone and Italian film articles in this series treat as the centre, and then keeps going, into Mexico, Brazil, Spain, Portugal, Egypt, India, Singapore, South Korea, Indonesia, South Africa and beyond, logging the versions that filmographies record, the retellings that scholarship documents, the titles that merely borrow the lovers' names, and the territories where a search found nothing at all.

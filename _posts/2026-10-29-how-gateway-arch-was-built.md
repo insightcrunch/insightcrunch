@@ -9,7 +9,7 @@ excerpt: "How the Gateway Arch was built: the weighted catenary curve, triangula
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 84
 author: "gregory-marsh"
-last_updated: 2026-10-29
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Monument That Is Its Own Structure

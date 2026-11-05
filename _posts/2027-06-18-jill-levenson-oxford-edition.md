@@ -9,7 +9,7 @@ excerpt: "Jill Levenson's Oxford edition of Romeo and Juliet earns its authority
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "simon-hartley"
-last_updated: 2027-06-18
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: Why the Oxford Edition Settled the Text

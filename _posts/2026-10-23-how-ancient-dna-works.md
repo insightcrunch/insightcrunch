@@ -9,7 +9,7 @@ excerpt: "How ancient DNA works: short damaged fragments are recovered from bone
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 78
 author: "andrew-price"
-last_updated: 2026-10-23
+last_updated: 2026-11-05
 lang: en
 ---
 ## Fragments, Not Intact Genomes, Are What Survive

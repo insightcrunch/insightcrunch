@@ -9,7 +9,7 @@ excerpt: "Michael Bogdanov's RSC Romeo and Juliet set the play in a modern Italy
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2027-11-19
+last_updated: 2026-11-05
 lang: en
 ---
 Michael Bogdanov brought his modern-dress Romeo and Juliet to the Royal Shakespeare Theatre at Stratford in the spring of 1986, and the production remains the sharpest political reading of the tragedy staged by the Royal Shakespeare Company in its decade. Sean Bean played Romeo and Niamh Cusack played Juliet in a Verona of marble, chrome and designer tailoring, where Tybalt drove a red Alfa Romeo sports car, the Friar arrived on a motorbike, Romeo died by a hypodermic needle bought from a drug dealer, and the golden statues promised by the fathers in the final scene stood unveiled before an invasion of press photographers. The verdict of the staging was stated in objects rather than speeches. The feud was a contest of wealth and display conducted by rich households whose children were assets, and the lovers died inside an economy that then converted their corpses into publicity. The production clarified the play by taking its money seriously.

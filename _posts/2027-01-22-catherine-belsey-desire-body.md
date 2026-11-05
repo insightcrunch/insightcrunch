@@ -9,7 +9,7 @@ excerpt: "Catherine Belsey read Romeo and Juliet through desire, the body, and n
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2027-01-22
+last_updated: 2026-11-05
 lang: en
 ---
 ## Catherine Belsey and the Play That Liberal Humanism Loves Too Easily

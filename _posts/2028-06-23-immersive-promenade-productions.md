@@ -9,7 +9,7 @@ excerpt: "Immersive and promenade productions of Romeo and Juliet move the audie
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-06-23
+last_updated: 2026-11-05
 lang: en
 ---
 Immersive and promenade productions of Romeo and Juliet ask the oldest question in the play's staging history in a new form: where should the audience stand? The conventional answer, hardened over three centuries of proscenium practice, seats playgoers apart from Verona, facing it across a lit divide. The promenade answer puts them inside Verona instead, walking its streets behind the actors, crowding its ballroom, and gathering at last around its tomb. The verdict of the documented record is narrower than the mode's publicity suggests. Promenade staging, in which a guided audience follows the whole play from place to place, recovers something the text was built for: a crowd that is itself part of the fiction, citizens of the city whose feud the play anatomizes. Free-roam immersion, in which spectators wander a world and assemble the story for themselves, recovers far less, because Romeo and Juliet is not a world to explore but a sequence of speeches to overhear. The productions that honour the play narrow the audience's freedom exactly where the play narrows to two voices; the productions that surrender the text to the environment become festivals around the play rather than performances of it.

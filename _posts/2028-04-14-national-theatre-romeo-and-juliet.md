@@ -9,7 +9,7 @@ excerpt: "Britain's National Theatre has staged Romeo and Juliet in landmark pro
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-04-14
+last_updated: 2026-11-05
 lang: en
 ---
 The National Theatre's history with Romeo and Juliet is short, strange, and disproportionately influential. The company's own archive records four encounters with the tragedy across nearly five decades: a mobile education production at the Old Vic in 1974, a single main-stage staging in the Olivier Theatre in 2000, a one-hour version for young audiences that began in 2013 and kept returning in new forms, and an original film shot inside the closed Lyttelton Theatre in 2021. No other major British company has built so distinctive a record from so few productions, and none has allowed the play to migrate so far from the conditions for which Shakespeare wrote it. The verdict defended across this article is precise. The National never produced a definitive full-text stage Romeo and Juliet, and its one attempt at a flagship main-stage revival divided its critics and satisfied few of them. Its real contribution lies elsewhere: the National treated the tragedy as an instrument for testing the boundaries of its own institution, asking who Shakespeare belongs to, where a performance may happen, and what a performance becomes when the stage itself is withdrawn. The 2021 film, directed by Simon Godwin with Josh O'Connor and Jessie Buckley, is the culmination of that pattern and the National's one unambiguous landmark in the play's modern history.

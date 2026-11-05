@@ -9,7 +9,7 @@ excerpt: "Gonzo's anime Romeo x Juliet rebuilds the doomed lovers' story in Neo 
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2028-10-06
+last_updated: 2026-11-05
 lang: en
 ---
 A television anime that moves Verona into the sky, exterminates one of the two households before the story opens, and hands Juliet a sword is not an adaptation that failed to read the play. *Romeo x Juliet*, the 24-episode series produced by the studio Gonzo with SKY Perfect Well Think and broadcast in Japan in 2007, read the play closely enough to know exactly which load-bearing walls it was removing. The verdict argued through this article is that Gonzo's series is the rare loose adaptation that is faithful at the level of architecture while faithless at the level of plot. Shakespeare's tragedy ends with two private deaths converted into a public settlement: a prince's judgment, two reconciled fathers, golden statues promised over the bodies. Gonzo discards nearly every mechanism that produces that ending in the play, the missed letter, the sleeping potion, the double suicide in the tomb, and then rebuilds the ending's function from fantasy materials. The lovers still die, and their deaths still remake the city. What the anime changes is the currency of the sacrifice, and that change, not the floating island or the dragon steeds, is its real argument about the play.

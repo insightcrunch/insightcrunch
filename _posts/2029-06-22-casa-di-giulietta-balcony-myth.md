@@ -9,7 +9,7 @@ excerpt: "Verona's Casa di Giulietta draws crowds to a balcony said to be Juliet
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2029-06-22
+last_updated: 2026-11-05
 lang: en
 ---
 ## Is the Casa di Giulietta real? The verdict on Verona's balcony

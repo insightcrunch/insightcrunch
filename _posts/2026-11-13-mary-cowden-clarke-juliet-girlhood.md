@@ -9,7 +9,7 @@ excerpt: "Mary Cowden Clarke imagined Juliet's childhood in a Victorian story th
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-11-13
+last_updated: 2026-11-05
 lang: en
 ---
 In 1851 Mary Cowden Clarke published a story that Romeo and Juliet never asked for and has never quite escaped: a hundred-page childhood for Juliet Capulet, written two and a half centuries after the play. The tale, "Juliet; The White Dove of Verona," forms the tenth of the fifteen narratives in The Girlhood of Shakespeare's Heroines, and it does something no editor, actor, or critic of the play had attempted at that scale. It takes a heroine whom Shakespeare introduces at the edge of fourteen, already inside a marriage negotiation, and it walks backwards into the nursery, the schoolroom years, and the slow cooling of the Capulet household, inventing the formation that the tragedy withholds. The result is the most sustained piece of creative criticism the play received in the nineteenth century, and the most revealing failure of sympathy and scholarship to stay in their separate lanes.

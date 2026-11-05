@@ -9,7 +9,7 @@ excerpt: "Brian Gibbons edited the Arden Second Series Romeo and Juliet, the inf
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2027-06-11
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Edition That Shaped the Play Its Readers Met

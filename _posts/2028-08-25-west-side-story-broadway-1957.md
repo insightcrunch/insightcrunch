@@ -9,7 +9,7 @@ excerpt: "West Side Story remade Romeo and Juliet as a Broadway musical, turning
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-08-25
+last_updated: 2026-11-05
 lang: en
 ---
 West Side Story is the most consequential thing that ever happened to Romeo and Juliet on an American stage, and it is not a production of the play at all. It is a transformation. When the musical opened at the Winter Garden Theatre on 26 September 1957, with a book by Arthur Laurents, music by Leonard Bernstein, lyrics by Stephen Sondheim, and conception, direction, and choreography by Jerome Robbins, it took the tragedy apart at the joints and rebuilt it inside a different art form, on a different continent, in a different century's idiom. Two households became two street gangs. A masked ball became a dance at a gym. A friar became a drugstore owner. A balcony became a fire escape. And at the climax the adaptation committed its boldest act of editing: it refused the double death. Tony dies. Maria lives, picks up the gun, and indicts both gangs to their faces. That single change is the musical's thesis, and this article's verdict follows from it. The 1957 West Side Story is not the play abridged or the play illustrated. It is the play answered. What it keeps is not the plot, which it alters at the most sacred point, but the engine: the speed, the symmetry, the compression of a love affair into a few days, and a civic order that arrives, as the Prince arrives in Verona, always one corpse too late.

@@ -9,7 +9,7 @@ excerpt: "How a prepackaged bankruptcy works: the plan is negotiated and voted o
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 81
 author: "alex-cunningham"
-last_updated: 2026-10-22
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Bankruptcy Negotiated Before It Is Filed

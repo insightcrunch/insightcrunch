@@ -9,7 +9,7 @@ excerpt: "On the Elizabethan stage Romeo and Juliet played in daylight on a bare
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2027-08-06
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Bare Platform in Daylight: The First Staging and Its Verdict

@@ -9,7 +9,7 @@ excerpt: "A brief bedroom scene in Zeffirelli's Romeo and Juliet, played by teen
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2028-07-28
+last_updated: 2026-11-05
 lang: en
 ---
 The Zeffirelli nudity controversy is the longest argument in the history of Shakespeare on film, and it has never been one argument. It is three, habitually confused: an argument about what happened on an Italian film set in the summer of 1967, an argument about what the law may do with a celebrated film more than half a century later, and an argument about what standards a production owes the youngest people on its call sheet. The first of those arguments rests on testimony that was never tested at trial. The second was answered twice by California courts, in May 2023 and again in October 2024, and both times the answer was dismissal. The third was answered by the film industry itself, in the years between those two events and long before them, through written riders, closed-set protocols and a new profession whose entire purpose is the documented consent of performers. A measured account of the controversy has to keep the three arguments apart, because nearly every confused thing written about the case comes from collapsing them into one.

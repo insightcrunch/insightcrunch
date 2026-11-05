@@ -9,7 +9,7 @@ excerpt: "A supervisor is found dead in a sealed transit room in Carrowmere, and
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 87
 author: "rachel-foster"
-last_updated: 2026-11-01
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Round at Room Nine

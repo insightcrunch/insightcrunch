@@ -9,7 +9,7 @@ excerpt: "How birthright citizenship works under the Citizenship Clause, from bi
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 86
 author: "jordan-ellis"
-last_updated: 2026-10-17
+last_updated: 2026-11-05
 lang: en
 ---
 ## Citizenship Assigned by a Fact of Birth

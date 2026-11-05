@@ -9,7 +9,7 @@ excerpt: "Video games have borrowed Romeo and Juliet for plots and references, f
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2029-03-23
+last_updated: 2026-11-05
 lang: en
 ---
 ## Romeo and Juliet in Video Games: A Borrowed Story, Not a Played One

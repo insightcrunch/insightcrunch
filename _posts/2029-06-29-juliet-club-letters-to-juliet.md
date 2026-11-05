@@ -9,7 +9,7 @@ excerpt: "Thousands write love letters to Juliet in Verona each year, and a volu
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-06-29
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Letters to Juliet: A Correspondence with a Fictional Confidante

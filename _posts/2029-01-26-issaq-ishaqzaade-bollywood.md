@@ -9,7 +9,7 @@ excerpt: "The Bollywood films Issaq and Ishaqzaade both retell Romeo and Juliet 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2029-01-26
+last_updated: 2026-11-05
 lang: en
 ---
 Two Hindi films, released fourteen months apart in the same northern Indian state, set out to retell the same tragedy, and they divide the play between them almost as if by negotiation. Habib Faisal's *Ishaqzaade* (2012) takes the feud of religion and electoral politics. Manish Tiwary's *Issaq* (2013) takes the feud of clan, caste pride and land. One film became a commercial hit, launched a leading man, and carried its heroine to a National Film Award special mention. The other became a documented box office disaster and a byword among reviewers for adaptation gone wrong. The verdict of this comparison is plain, and the evidence for it is structural rather than sentimental: *Ishaqzaade* is a genuine adaptation of *Romeo and Juliet*, because it understands that the play's feud is not background colour but a working system with its own economy, its own honours and its own appetite, while *Issaq* borrows the plot's furniture, renames the families, and loses the system in transit. Issaq keeps more of the play's incidents. Ishaqzaade keeps more of the play.

@@ -9,7 +9,7 @@ excerpt: "For nearly two centuries the stage gave audiences adapted versions of 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-10-08
+last_updated: 2026-11-05
 lang: en
 ---
 Restoring Shakespeare's text to the stage was not an event but a transfer of authority, and Romeo and Juliet is the play that proves it. For roughly a century after 1748, the tragedy that English-speaking audiences applauded was a licensed adaptation: David Garrick's version, with Rosaline erased, the bawdy laundered, a funeral procession interpolated between the acts, and a tomb scene rebuilt so that the lovers could wake, recognise each other, and die in conversation. The restoration that displaced that version is usually told as a simple homecoming, the true text returning from exile in 1845 and 1847. The documentary record supports a slower and more instructive story. Garrick's additions fell in stages, at different speeds in America and Britain, on the stage and in print, while the habits of cutting that adaptation had normalised survived inside productions that advertised themselves as faithful. What changed first was not the wording of the play but the answer to a prior question: whose word governed the stage, the author's page or the manager's taste. The verdict argued here is that the restoration of the text was the consequence of that transfer, not its cause, and that every station on the road back, from Charlotte Cushman's Romeo in 1845 to the scholarly promptbooks of the twentieth century, is best understood as a negotiation over authority conducted in the vocabulary of fidelity.

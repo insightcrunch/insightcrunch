@@ -9,7 +9,7 @@ excerpt: "Thomas Otway moved Romeo and Juliet into ancient Rome as Caius Marius,
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2027-08-20
+last_updated: 2026-11-05
 lang: en
 ---
 For roughly two generations, the English stage knew the lovers of Verona only in Roman dress. Thomas Otway's *The History and Fall of Caius Marius*, first acted by the Duke's Company at the Dorset Garden Theatre in the autumn of 1679, took Shakespeare's *Romeo and Juliet* apart, carried its love plot into the civil wars of Marius and Sylla, and then held the stage in the original's place. Romeo became Marius junior, son of the great general. Juliet became Lavinia, daughter of Metellus. The feud became a struggle for the consulship of Rome, fought with votes, armies and proscriptions rather than street brawls. Shakespeare's play, in anything like Shakespeare's shape, vanished from the London repertory behind it.

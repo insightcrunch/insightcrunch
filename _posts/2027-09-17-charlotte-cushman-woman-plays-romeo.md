@@ -9,7 +9,7 @@ excerpt: "The American actress Charlotte Cushman played Romeo to wide acclaim, h
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-09-17
+last_updated: 2026-11-05
 lang: en
 ---
 Charlotte Cushman played Romeo as no actor of her century, male or female, finally matched, and the American actress did it by refusing every term on which a woman in the part was supposed to be forgiven. She did not present the lover as a novelty, a burlesque turn, or a glimpse of legs in tights. She presented him as the tragedy's engine: ardent in the balcony, lethal in the street fight, broken in the Friar's cell, and annihilated in the tomb, played at full tragic weight opposite her own sister as Juliet. The verdict defended through this article is that her Romeo stands as the nineteenth century's most consequential assumption of the role, because it changed three things at once. It restored Shakespeare's ending to the stage in 1845 after the long reign of Garrick's adaptation. It proved that the part's mixture of tenderness and violence, the very mixture the text keeps naming as a gender puzzle, could be carried by a woman more completely than by the leading men of the age. And it left a documentary trail, in reviews, portraits, letters, and playbills, rich enough that scholars still fight over what her audiences saw in her, which is the surest sign that the performance mattered beyond its evenings.

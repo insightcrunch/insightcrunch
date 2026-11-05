@@ -9,7 +9,7 @@ excerpt: "How personalized pricing works: the data, models and market power that
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 88
 author: "benjamin-scott"
-last_updated: 2026-10-30
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Price Quoted to One Person

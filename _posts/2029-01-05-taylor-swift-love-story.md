@@ -9,7 +9,7 @@ excerpt: "Taylor Swift's hit Love Story borrows Romeo and Juliet for a tale of f
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-01-05
+last_updated: 2026-11-05
 lang: en
 ---
 Taylor Swift's "Love Story" is the most consequential Romeo and Juliet song in the pop catalogue, and the verdict of this article is direct: the track succeeds because the happy ending is a deliberate act of adaptation rather than an accident of innocence. Swift knew the tragedy, borrowed its names, its balcony, and its disapproving father, and then refused the tomb. The refusal is the design. A songwriter who had missed the point of the play would have softened the feud or forgotten the deaths. Swift kept every pressure that makes the play dangerous, parental veto, secrecy, haste, and then changed the single element the whole structure hangs on, the ending. The result is a loose adaptation with a tight argument: given a father who can be persuaded and a suitor who asks permission before acting, the catastrophe has no remaining cause. The song tests that claim across three verses, a bridge built on waiting and doubt, and a final chorus lifted by a key change into a proposal. Judged as fidelity, the track fails on purpose. Judged as adaptation, it ranks among the sharpest popular readings of the play, because it isolates the exact joint where Shakespeare's plot can be turned from tragedy toward comedy, and it turns that joint with full knowledge of the cost.

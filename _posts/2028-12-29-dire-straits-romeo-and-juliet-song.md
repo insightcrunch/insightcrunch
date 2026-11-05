@@ -9,7 +9,7 @@ excerpt: "Dire Straits' song Romeo and Juliet reworks the lovers as a modern tal
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2028-12-29
+last_updated: 2026-11-05
 lang: en
 ---
 The Dire Straits song "Romeo and Juliet" earns its title rather than borrowing the title's prestige. Mark Knopfler's ballad, the second track on the 1980 album Making Movies and a United Kingdom top-ten single in 1981, takes the two most borrowed names in English drama and does something the borrowers rarely attempt: it rebuilds the play's emotional machinery inside a modern breakup. The feud becomes a career. The balcony becomes a street corner and a window that stays shut. The deaths become a departure. What survives intact is the structure of feeling that the Prologue announces in a single phrase, a pair of "star-cross'd lovers" (Prologue, line 6) whose timing was wrong from the first meeting. The verdict argued through this article is plain: the track is a loose adaptation, loose in plot and exact in architecture, and its looseness is the method rather than the failure. Knopfler keeps almost nothing of Verona and nearly everything of the predicament, and the result is the rare pop borrowing that sends a listener back to the play with sharper eyes for what the play itself was doing.

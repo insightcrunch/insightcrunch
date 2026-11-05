@@ -9,7 +9,7 @@ excerpt: "Glen Byam Shaw's 1950s Stratford Romeo and Juliet won praise for its c
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-03-31
+last_updated: 2026-11-05
 lang: en
 ---
 ## Glen Byam Shaw at Stratford: The Verdict on the Middle Path

@@ -9,7 +9,7 @@ excerpt: "Web series and vlog adaptations retell Romeo and Juliet through social
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2029-05-04
+last_updated: 2026-11-05
 lang: en
 ---
 Web series and vlog adaptations of Romeo and Juliet ask a precise question of the play: what happens to a tragedy built on public violence and private longing when the only stage is a webcam and the only audience is a subscription feed? The documented record gives a short, lopsided answer. Between 2012 and 2016 the literary web series became a proven adaptation form, with an Emmy at its professional end and festival honours in its school and student branches, yet the form's practitioners chose Austen's novels and Shakespeare's comedies again and again, and the whole era produced exactly one full vlog retelling of the Verona tragedy: *Jules and Monty*, an eighteen-episode series made by students at Tufts University in 2014. That imbalance is not an accident of taste. It is the format rendering a verdict on the play. The vlog is a soliloquy machine, the most exact device adaptation has ever found for the play's interior life, and it is structurally incapable of the play's public machinery: two households, a street, a feud, a tomb. Every documented exhibit in the InsightCrunch web-series survey confirms one half of that sentence or the other, and the single tragedy in the catalogue confirms both halves at once, succeeding for ten episodes of courtship and straining through eight episodes of fall.

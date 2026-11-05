@@ -9,7 +9,7 @@ excerpt: "How Persona was made explains its mystery: a hospital script, two actr
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 82
 author: "rachel-foster"
-last_updated: 2026-11-04
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Film Built From a Face, a Projector and a Refusal to Speak

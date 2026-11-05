@@ -9,7 +9,7 @@ excerpt: "Cukor, Castellani, Zeffirelli, Luhrmann, and Carlei all filmed Romeo a
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2029-05-25
+last_updated: 2026-11-05
 lang: en
 ---
 ## Which Film Version of Romeo and Juliet Is Best? The Short Verdict

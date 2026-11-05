@@ -9,7 +9,7 @@ excerpt: "Franco Zeffirelli's Romeo and Juliet cast teenagers Leonard Whiting an
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2028-07-21
+last_updated: 2026-11-05
 lang: en
 ---
 ## Why Zeffirelli's Romeo and Juliet Became the Screen's Standard Version

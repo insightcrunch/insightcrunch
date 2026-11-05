@@ -9,7 +9,7 @@ excerpt: "Anna Jameson's landmark study of Shakespeare's heroines gave Juliet a 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-11-06
+last_updated: 2026-11-05
 lang: en
 ---
 In 1832 a separated Irish writer who needed the money published a two-volume study of Shakespeare's women and, inside it, the chapter that fixed Juliet's image for a century. Anna Jameson's reading of Juliet in *Characteristics of Women, Moral, Poetical, and Historical* is the foundation document of the Victorian Juliet: the first sustained, book-length defence of the heroine written by a woman, addressed in large part to women, and built on the claim that Juliet is not a type of girlish romance but a complete and credible woman whose passion has the force of a destiny. The verdict of this article is that the chapter deserves both halves of its fame and neither half of its caricature. It is more daring than the angel-making parody later centuries made of it, because Jameson defends Juliet's desire, defends her secrecy, defends her deception of her parents, and scolds the prudes who flinched at her wedding-night longing. It is also more limited than its admirers allow, because the same chapter explains Juliet's courage away as an accident of passion, declines to count her age, and files her under an eternal feminine nature that no evidence could disturb. The Victorian century took the portrait and dropped the argument: it kept the halo and lost the brief for the defence. Recovering the whole chapter, the daring and the limits together, is the only way to see what Jameson actually did, and why her Juliet ruled for so long.

@@ -9,7 +9,7 @@ excerpt: "A.C. Bradley left Romeo and Juliet out of his famous Shakespearean Tra
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-11-20
+last_updated: 2026-11-05
 lang: en
 ---
 A.C. Bradley's *Shakespearean Tragedy* (1904) is the most influential book ever written about Shakespeare's tragedies, and Romeo and Juliet is not in it. The exclusion was a decision about the scope of one book: Bradley announced in his Introduction that he would consider "the four principal tragedies" from a single point of view, and he placed the lovers' play outside that design with one sentence, calling it "a pure tragedy, but it is an early work, and in some respects an immature one." Because the book became the discipline's court of appeal, a filing decision hardened into a ranking, and the play spent a century under a suspicion it had done nothing fresh to earn: that it is a lesser tragedy, a beautiful apprentice piece that fails the tests the great four pass.

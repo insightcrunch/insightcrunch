@@ -9,7 +9,7 @@ excerpt: "Two Accord members stand days from a tariff rupture that ends inspecti
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 98
 author: "diana-patel"
-last_updated: 2026-11-02
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Word He Could Not Say

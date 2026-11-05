@@ -9,7 +9,7 @@ excerpt: "How the Universal Service Fund works: carriers contribute a share of i
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 88
 author: "andrew-price"
-last_updated: 2026-10-18
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Charge on the Bill and a Fund Behind It

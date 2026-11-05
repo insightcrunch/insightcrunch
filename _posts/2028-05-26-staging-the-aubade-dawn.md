@@ -9,7 +9,7 @@ excerpt: "Staging the dawn parting of Romeo and Juliet means conjuring daybreak 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2028-05-26
+last_updated: 2026-11-05
 lang: en
 ---
 The dawn parting in Act 3 Scene 5 of *Romeo and Juliet*, the scene the French tradition named the aubade, is the most light-dependent passage in the play, and its staging history turns on a paradox that no lighting rig has ever dissolved. The scene must show daybreak arriving inside a bedchamber, minute by minute, while two people argue that the light is not there. On the stage for which the scene was written, an open-air platform under an afternoon sky, daybreak could not be shown at all, and the words carried the whole event. On the stages that inherited the scene, equipped with gas, limelight and electricity, daybreak could be painted in full, and the words risked becoming a caption to a picture. The verdict defended through this article is plain: the dawn of the aubade is an argument before it is an illumination, and the productions that stage it best are the ones that keep the light subordinate to the quarrel, so that daybreak seems to be won speech by speech against the lovers rather than switched on over their heads.

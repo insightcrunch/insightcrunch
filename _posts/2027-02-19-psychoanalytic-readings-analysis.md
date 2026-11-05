@@ -9,7 +9,7 @@ excerpt: "Psychoanalytic criticism reads Romeo and Juliet through unconscious de
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-02-19
+last_updated: 2026-11-05
 lang: en
 ---
 ## Psychoanalytic Readings and the Verdict They Earn

@@ -9,7 +9,7 @@ excerpt: "Radio has long carried Romeo and Juliet to listeners, telling the trag
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-04-20
+last_updated: 2026-11-05
 lang: en
 ---
 Romeo and Juliet on radio is the adaptation that looks like a deprivation and behaves like a homecoming. Strip away the balcony, the masked ball, the swordplay and the tomb, and the tragedy does not collapse; it concentrates. The play survives the loss of every picture because its decisive events were always acoustic before they were visual. Tybalt identifies his enemy by ear at the feast, announcing, "This, by his voice, should be a Montague" (1.5). The lovers meet inside a shared sonnet, a form built from two voices answering each other. Juliet conducts the most famous love scene in the language from a window the first audiences could barely see, in darkness, to a man hidden below her. A play this dependent on overhearing, eavesdropping, mistaken sounds and voices in the dark does not merely tolerate a blind medium. It was, in large stretches, composed for one.

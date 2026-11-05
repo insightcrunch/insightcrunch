@@ -9,7 +9,7 @@ excerpt: "Frank Kermode's study of Shakespeare's language placed Romeo and Julie
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2027-04-09
+last_updated: 2026-11-05
 lang: en
 ---
 ## Where Does Kermode Place the Play in Shakespeare's Development?

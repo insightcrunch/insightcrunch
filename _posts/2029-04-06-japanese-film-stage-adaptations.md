@@ -9,7 +9,7 @@ excerpt: "Japan has long embraced Romeo and Juliet, retelling it in translation,
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2029-04-06
+last_updated: 2026-11-05
 lang: en
 ---
 Japanese adaptations of Romeo and Juliet form the strongest national tradition of the play outside the English-speaking stage, and the verdict of this survey is stated without hedging: Japan did not receive the tragedy as a foreign classic and preserve it under glass. Japan rebuilt the tragedy inside its own houses, its own companies, its own school and clan loyalties, until the feud between Montague and Capulet read as a native story about what a family, a firm, or a troupe may demand from the young. The Chorus announces the mechanism in the opening lines, "Two households, both alike in dignity, / In fair Verona, where we lay our scene" (Prologue, lines 1 to 2), and every durable Japanese production has understood that the households matter as much as the lovers. Where a Western staging habitually sells the balcony, the Japanese record sells the house: the ie, the family as a continuing corporation of the living and the dead, against which a private attachment registers as a breach of obligation before it registers as a romance.

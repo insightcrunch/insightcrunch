@@ -9,7 +9,7 @@ excerpt: "Abel Ferrara's film China Girl reworks Romeo and Juliet as a violent g
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2029-02-09
+last_updated: 2026-11-05
 lang: en
 ---
 China Girl, Abel Ferrara's 1987 film of Nicholas St. John's screenplay, is the screen adaptation that takes the feud seriously as economics. Other versions treat the hatred between the houses as weather, an unexplained climate the lovers must endure. Ferrara and St. John treat it as a border dispute over shrinking ground, fought by businesses, gangs, and families who share one crowded corner of Manhattan and a single street, Canal Street, as the line between their worlds. The verdict of the pages that follow is plain: as a romance the film is deliberately slight, and as a feud tragedy it is the most structurally honest loose adaptation of the play in American cinema, because it rebuilds the tragedy's machinery, the meeting, the clandestine courtship, the middle death, the elders' failed peacemaking, and the double death of the lovers, out of the materials of a real turf war.

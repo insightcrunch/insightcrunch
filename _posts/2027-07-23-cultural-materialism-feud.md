@@ -9,7 +9,7 @@ excerpt: "Cultural materialism reads Romeo and Juliet politically, treating the 
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-07-23
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Political Reading of the Feud

@@ -9,7 +9,7 @@ excerpt: "Baz Luhrmann kept Shakespeare's language in Romeo + Juliet but cut and
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-06-01
+last_updated: 2026-11-05
 lang: en
 ---
 The most repeated fact about Baz Luhrmann's *Romeo + Juliet* is also the most misleading: the film keeps Shakespeare's language. It does, and it does not: it keeps the language and cuts the play that language builds to a third of its length. Every spoken line in the film is Shakespeare's, because Craig Pearce and Baz Luhrmann set themselves a rule against writing a single sentence of imitation verse, yet the play they speak from has been taken apart and rebuilt. Roughly a third of the text survives. The lovers' lyric peaks survive almost entire. The play's public architecture, its Chorus, its civic judgments, its closing audit, its servants, messengers, musicians and mourners, is demolished, and the weight those passages carried is transferred to a television newsreader, a police captain, a montage of headlines and the cutting rhythm of editor Jill Bilcock. How Luhrmann cut and kept the text is therefore not one decision but two, taken at different altitudes: at the level of the line, a fidelity so strict it became the film's marketing; at the level of the structure, a demolition so thorough that the same marketing conceals it. This article measures both, passage by passage, and reaches a verdict: the film is the most faithful screen version of the play ever made in its diction and among the least faithful in its architecture, and the two facts are a single method, not a contradiction.

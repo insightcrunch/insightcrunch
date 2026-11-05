@@ -9,7 +9,7 @@ excerpt: "French criticism of Romeo and Juliet runs from Voltaire's neoclassical
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-05-14
+last_updated: 2026-11-05
 lang: en
 ---
 French criticism of Romeo and Juliet begins with a paradox that no other national tradition matches in quite the same form. France was the first foreign country to argue about Shakespeare in print, the country that produced the most systematic case against his kind of drama, and the country that eventually carried the play into opera, symphony, and its national library. Between those poles lies a reception unlike the English one, in which admiration was early and continuous, and unlike the German one, in which a translator's triumph settled the question for a century. The French record is a negotiation that lasted two hundred years, conducted in prefaces, pamphlets, adaptation workshops, concert halls, and editorial committees, and the play was its favourite test case because it committed, in their most concentrated form, every offence the French classical stage had defined and offered, in the same five acts, the beauties that made those offences impossible to dismiss.

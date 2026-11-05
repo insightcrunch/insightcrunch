@@ -9,7 +9,7 @@ excerpt: "Across stage history the Nurse has been a coveted star role in Romeo a
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2028-01-21
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: A Servant's Part Built Like a Lead

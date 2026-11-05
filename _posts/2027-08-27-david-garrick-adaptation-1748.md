@@ -9,7 +9,7 @@ excerpt: "David Garrick's adaptation of Romeo and Juliet brought the play back t
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2027-08-27
+last_updated: 2026-11-05
 lang: en
 ---
 David Garrick's adaptation of Romeo and Juliet is the most consequential act of editing in the play's stage history, and the verdict of the documentary record is sharper than the familiar story allows. The familiar story credits Garrick with a pure restoration: Shakespeare driven off the stage by Thomas Otway's Roman rewrite, Shakespeare rescued by the actor-manager of Drury Lane in 1748, Verona recovered, the text made whole. The record shows something more interesting and less clean. Garrick restored the repertory, not the text. He made Shakespeare's tragedy, in Shakespeare's city, with Shakespeare's plot and the greater part of Shakespeare's verse, the standard possession of the English stage for ninety-seven years, and that achievement is real. But the version through which three generations knew the play was a hybrid built on Theophilus Cibber's scaffold, carrying Otway's tomb device, Garrick's own cuts, Garrick's own pathos, and a funeral procession invented in the heat of a commercial war between two theatres. Restoration and adaptation were not two phases of Garrick's work on the play. They were the same gesture, and the article that follows separates what he restored from what he kept changing, change by change, until the ledger balances.

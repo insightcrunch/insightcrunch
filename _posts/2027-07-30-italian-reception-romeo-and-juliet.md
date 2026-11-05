@@ -9,7 +9,7 @@ excerpt: "Italy gave Romeo and Juliet a curious reception, receiving back from S
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-07-30
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Italian Reception of Romeo and Juliet: A Homecoming on Italy's Terms

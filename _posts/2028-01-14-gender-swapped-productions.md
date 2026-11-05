@@ -9,7 +9,7 @@ excerpt: "Modern productions have recast Romeo and Juliet across gender, from wo
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-01-14
+last_updated: 2026-11-05
 lang: en
 ---
 Gender-swapped productions of Romeo and Juliet form the longest continuous experiment in the play's stage history, and the verdict of the record is sharper than the debate around it usually allows. The swap is not one device but three, and the three behave differently under pressure. A performer of one sex can play a character whose sex stays unchanged inside the fiction, which is cross-casting. A company can be drawn from one sex only, which is single-sex casting. Or a production can change the sex of the characters themselves, pronouns and all, which is re-gendering. Confusing the three has produced most of the loose talk on the subject, because a triumph of one device is routinely quoted as proof about another. When the three are separated, a pattern stands out across four centuries of evidence. A swap illuminates the tragedy when the production knows which device it is running and lets that decision govern every scene. A swap strains the tragedy when the casting announcement is the whole of the idea and the verse, the fights, and the households are left to behave as though nothing had changed. That distinction, between a swap as a reading and a swap as a roster, is the argument of this article, and it is tested against the documented record from the boy players of the first performances to an all-female Verona in Jacksonville Beach in 2020.

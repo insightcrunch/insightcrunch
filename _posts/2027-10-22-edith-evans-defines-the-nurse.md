@@ -9,7 +9,7 @@ excerpt: "Edith Evans's Nurse became the definitive twentieth-century reading of
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2027-10-22
+last_updated: 2026-11-05
 lang: en
 ---
 ## Edith Evans and the Nurse: The Verdict Before the Evidence

@@ -9,7 +9,7 @@ excerpt: "Compositor analysis studies how the printers set Romeo and Juliet by h
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2026-07-24
+last_updated: 2026-11-05
 lang: en
 ---
 Compositor analysis is the bibliographical discipline that reads a printed book as the record of the hands that made it, and Romeo and Juliet needs that discipline more than most plays of its period. Every early text of the tragedy, the two quartos and the First Folio, passed letter by letter through the fingers of workmen whose names are lost, whose spelling habits differed from the playwright's and from each other's, and whose errors stand in the line of descent between the lost manuscript and every modern edition. The verdict argued through this study is plain: compositor analysis cannot hand back the author's manuscript, and its boldest claims deserve the scepticism they have drawn, but it remains the only method that can separate, page by page and habit by habit, what the playwright wrote from what the shop imposed. Without it, an editor mistakes a typesetter's favourite spelling for an author's, a tired apprentice's guess for a reading, and a press correction for an intention. With it, used at its proper strength, the early pages become evidence twice over: for the words on them, and for the workshop that put the words there.

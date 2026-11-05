@@ -9,7 +9,7 @@ excerpt: "Private Romeo sets Romeo and Juliet inside an all-male military academ
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-10-20
+last_updated: 2026-11-05
 lang: en
 ---
 ## Private Romeo: The Military Retelling and Its Verdict

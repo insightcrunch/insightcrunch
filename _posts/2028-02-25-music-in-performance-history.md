@@ -9,7 +9,7 @@ excerpt: "Music has shaped Romeo and Juliet in the theatre from Elizabethan cons
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-02-25
+last_updated: 2026-11-05
 lang: en
 ---
 ## Music in Performance History: The Layer the Cliche Forgets

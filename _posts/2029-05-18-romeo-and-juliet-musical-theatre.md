@@ -9,7 +9,7 @@ excerpt: "Beyond West Side Story, Romeo and Juliet has inspired many stage music
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2029-05-18
+last_updated: 2026-11-05
 lang: en
 ---
 Romeo and Juliet in musical theatre is a story the standard account tells wrongly, because the standard account stops at one address in New York. The play has in fact sustained two distinct musical traditions. The first is the franchised spectacle built in Paris by Gérard Presgurvic, whose Roméo et Juliette: de la haine à l'amour opened in January 2001 and went on to be rebuilt in language after language, in Vienna, Budapest, Moscow, Bucharest, Tokyo and beyond, becoming the most widely travelled stage musical the tragedy has ever produced. The second is the revisionist jukebox of & Juliet, the 2019 London hit with a book by David West Read and a score borrowed from the catalogue of Max Martin, which resurrects Juliet at the tomb door and puts the ending of the play itself on trial. Between them, these two works expose the law that governs every sung Verona. The stage musical expands whatever the play compresses and compresses whatever the play expands. Shakespeare gives the lovers a single shared sonnet at their first meeting and an entire scene of dawn argument before their parting; he gives the tomb a long, slow liturgy of error. The musical reverses the ratio. It builds the ball into a production number, stretches the balcony into a duet sequence, turns the wedding into an anthem, and then hurries the vault, because a pop score can sell longing at any length and can sell death only briefly, as a climax rather than a meditation.

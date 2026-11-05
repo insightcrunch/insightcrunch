@@ -9,7 +9,7 @@ excerpt: "Nicholas Brooke placed Romeo and Juliet among Shakespeare's early trag
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-03-19
+last_updated: 2026-11-05
 lang: en
 ---
 ## Nicholas Brooke and the Tragic Form: The Verdict First

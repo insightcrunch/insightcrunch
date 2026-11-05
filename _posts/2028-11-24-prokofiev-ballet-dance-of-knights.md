@@ -9,7 +9,7 @@ excerpt: "Prokofiev's Romeo and Juliet ballet, with its thunderous Dance of the 
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-11-24
+last_updated: 2026-11-05
 lang: en
 ---
 Sergei Prokofiev's ballet score for the star-crossed lovers, Op. 64, holds a position no rival dance setting approaches: the play's tragedy survives translation into pure movement and orchestral argument with its architecture intact, its feud embodied in brass and strings, and its ending restored to the deaths the play demands. The verdict argued through every section below is plain. Among all danced versions of the tragedy, this score stands first because it treats the source as a structure to be rebuilt in music rather than a mood to be decorated, and because its most famous number, the Dance of the Knights, compresses the whole Capulet world of ceremony, menace, and pride into a single processional weight. Choreographers inherit that achievement rather than replace it. Kenneth MacMillan built on the score, John Cranko built on the score, and every later staging of consequence begins from the same foundation: a complete tragic narrative carried by an orchestra that thinks in scenes, themes, and consequences.

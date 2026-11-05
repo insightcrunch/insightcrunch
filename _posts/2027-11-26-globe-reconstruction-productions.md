@@ -9,7 +9,7 @@ excerpt: "Productions at the rebuilt Shakespeare's Globe stage Romeo and Juliet 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-11-26
+last_updated: 2026-11-05
 lang: en
 ---
 A reconstruction is an argument built in timber, and the rebuilt Shakespeare's Globe on Bankside is the most consequential argument ever made about how Romeo and Juliet works in performance. The verdict of this article is stated at the threshold, because everything after it is evidence. Globe reconstruction productions of the tragedy test functions rather than recover an event: they demonstrate, in working conditions, what shared daylight does to direct address, what a thrust platform does to scene speed, what a standing yard does to comedy, and what period clothing and period music do to the social legibility of the feud. They cannot demonstrate what the first audiences of the middle 1590s felt, because those audiences are the one component no architect can rebuild. A production that honours that distinction earns the name of experiment. A production that blurs it sells a diorama. The Globe's own record contains both temptations, and the play has been its sharpest test case, because no other tragedy in the repertory leans so hard on the exact conditions the building restores: darkness described in daylight, privacy performed in public, speed enforced by architecture, and a chorus that speaks to the crowd as a crowd.

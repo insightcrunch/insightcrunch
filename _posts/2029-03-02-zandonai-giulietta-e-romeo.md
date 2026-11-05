@@ -9,7 +9,7 @@ excerpt: "Riccardo Zandonai's opera Giulietta e Romeo sets the Veronese tragedy 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-03-02
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: Zandonai Restores the Italian Operatic Line

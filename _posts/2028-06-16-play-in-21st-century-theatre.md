@@ -9,7 +9,7 @@ excerpt: "In twenty-first-century theatre Romeo and Juliet is restaged through d
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2028-06-16
+last_updated: 2026-11-05
 lang: en
 ---
 ## How Romeo and Juliet Entered the Twenty-First Century

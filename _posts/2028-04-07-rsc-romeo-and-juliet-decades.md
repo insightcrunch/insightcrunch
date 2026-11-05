@@ -9,7 +9,7 @@ excerpt: "The Royal Shakespeare Company has restaged Romeo and Juliet across the
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-04-07
+last_updated: 2026-11-05
 lang: en
 ---
 The Royal Shakespeare Company has staged Romeo and Juliet sixteen times since 1961, and the sequence amounts to the fullest single record of how one play changes when one institution keeps returning to it. The lovers have been played by Brian Murray and Dorothy Tutin in the founding season and by Bally Gill and Karen Fishwick fifty-seven years later; between those poles stand Ian McKellen, Daniel Day-Lewis, Mark Rylance, David Tennant and a dozen others, directed by Peter Hall, Trevor Nunn, Michael Bogdanov, Rupert Goold and Erica Whyman among their peers. No other British company offers a comparable run: a permanent ensemble, a Stratford home, a London base, and a habit of restaging the same tragedy roughly once every three or four years, each time as if the previous solutions had expired.

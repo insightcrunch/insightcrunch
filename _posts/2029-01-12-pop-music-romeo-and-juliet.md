@@ -9,7 +9,7 @@ excerpt: "From doo-wop to hip-hop, pop music keeps returning to Romeo and Juliet
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-01-12
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: Pop Music Keeps Romeo and Juliet and Rewrites the Ending

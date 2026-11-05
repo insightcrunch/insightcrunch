@@ -9,7 +9,7 @@ excerpt: "The Prologue to Romeo and Juliet has an odd textual life, printed whol
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2026-07-17
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Prologue's Strange Textual Status: A Sonnet with Three Different Lives

@@ -9,7 +9,7 @@ excerpt: "Carlo Carlei's Romeo and Juliet looked lavishly traditional, but Julia
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2028-08-11
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: A Handsome Film Built on a Broken Bargain

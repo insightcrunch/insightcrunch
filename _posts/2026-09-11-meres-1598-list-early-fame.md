@@ -9,7 +9,7 @@ excerpt: "Meres named Romeo and Juliet among Shakespeare's tragedies in Palladis
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2026-09-11
+last_updated: 2026-11-05
 lang: en
 ---
 The first fame of Romeo and Juliet survives on a single page of a clergyman's commonplace book. In Palladis Tamia, entered in the Stationers' Register on 7 September 1598, Francis Meres set the lovers' tragedy last in a roll of six tragedies and offered the whole list as witness that its author was the most excellent English writer in both kinds for the stage. No earlier book, pamphlet, letter, or diary that has come down names the play at all. The verdict argued through this article is that the page deserves its fame and has also been made to carry more than a page can bear. Read strictly, it establishes three things beyond serious dispute: that a play called Romeo and Juliet existed by the autumn of 1598, that a contemporary with no playhouse interest credited it to Shakespeare by name, and that the play stood, in that witness's judgement, in the first rank of the author's tragedies. Read loosely, as handbooks have often read it, it gets stretched into evidence for a composition date, for the identity of the text that survives, and for a triumph at the box office. It proves none of those three. The list is the play's first record of reputation, and reputation is a specific kind of fact: narrower than popularity, harder than gossip, and exactly the kind of fact that print preserves.

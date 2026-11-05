@@ -9,7 +9,7 @@ excerpt: "Open-air and festival productions of Romeo and Juliet fill parks, cour
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-06-30
+last_updated: 2026-11-05
 lang: en
 ---
 Open-air and festival stagings of Romeo and Juliet are not a decorative branch of the play's performance history but its main line. The tragedy was composed for a roofless amphitheatre, an afternoon sky, and a crowd that stood in the same light as the actors, and every park, courtyard, and festival stage that has housed the play since has been recovering, knowingly or not, the conditions of its birth. The verdict argued through this article is plain: the open-air stage is the play's most faithful interpreter, because it restores the two things the indoor stage took away, a shared light between stage and audience and a public that can see itself. What the sky gives the tragedy is not atmosphere in the weak sense, a prettier backdrop for the balcony, but structure. Verona is a city of public places, its catastrophe begins with a brawl in a square at noon and ends with a prince addressing a crowd in a churchyard, and a play built out of crowds plays best before one.

@@ -9,7 +9,7 @@ excerpt: "On the bare Elizabethan stage Verona was built from words alone, the s
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-02-18
+last_updated: 2026-11-05
 lang: en
 ---
 Verona, on the bare Elizabethan stage, was a spoken city. The first audiences of Romeo and Juliet met its streets, its orchard, its great houses, and its tomb in the one medium the platform stage possessed in abundance, the verse, and the verdict argued through the performance cluster and settled here is that the absence of scenery was not a poverty the play survived but the condition the play was engineered for. The Chorus opens the tragedy by handing the house a map made of a single line: "Two households, both alike in dignity, / In fair Verona, where we lay our scene" (Prologue, 1 to 2). No painted flat rose behind the speaker. No drop curtain fell on an Italian square. A platform of boards, a tiring-house wall with doors, a level above, and a trap below constituted the entire visible world, and into that bare geometry the company poured a city of feuding households, a walled orchard, a friar's cell, an apothecary's shop in Mantua, and a candlelit vault, each conjured at the speed of speech and struck again the moment the speakers left the boards.

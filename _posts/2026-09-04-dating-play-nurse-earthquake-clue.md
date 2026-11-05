@@ -9,7 +9,7 @@ excerpt: "The Nurse recalls an earthquake eleven years past, a line some have us
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2026-09-04
+last_updated: 2026-11-05
 lang: en
 ---
 ## What Is the Earthquake Clue, and What Has Been Built on It?

@@ -9,7 +9,7 @@ excerpt: "Jonathan Goldberg's essay Open Rs gave Romeo and Juliet a landmark que
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2027-01-08
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict in Brief: A Landmark of the Question, Not of the Proof

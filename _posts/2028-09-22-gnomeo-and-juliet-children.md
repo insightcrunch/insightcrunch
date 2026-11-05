@@ -9,7 +9,7 @@ excerpt: "The animated film Gnomeo and Juliet recasts the feuding households as 
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2028-09-22
+last_updated: 2026-11-05
 lang: en
 ---
 Gnomeo and Juliet performs the boldest single edit in the play's four centuries on screen and stage: it deletes the ending. Kelly Asbury's animated film of 2011 moves the feud from Verona to two adjoining gardens in Stratford-upon-Avon, staffs the Montagues and Capulets with painted ceramic gnomes, scores the quarrel with the Elton John catalogue, and then, at the point where the tragedy demands two bodies in a tomb, lets its lovers climb out of the rubble and marry. The critical reflex is to call that a betrayal, a tragedy with its tragedy removed. This article argues the opposite verdict. The film is a structural translation, not a vandalism: it keeps the play's mechanism entire, the groundless feud, the love across the line, the escalation through injury and mistaken death, the reconciliation purchased by loss, and changes only the currency in which the loss is paid. Where the play spends lives, the film spends things, a mower, a hat, a wisteria, a garden, things a gnome can lose and a child can watch being lost. The one scene that settles the argument is the film's own invention, in which Gnomeo climbs to a statue of William Shakespeare, hears the original ending recited by its author, and rejects it to his face. A film that stages its disagreement with the playwright, and wins the argument on screen, has earned its happy ending rather than stolen it.

@@ -9,7 +9,7 @@ excerpt: "Peter Brook's Stratford Romeo and Juliet was a bold, youthful staging 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2027-11-05
+last_updated: 2026-11-05
 lang: en
 ---
 Peter Brook's Stratford production of Romeo and Juliet, mounted at the Shakespeare Memorial Theatre in the spring of 1947, was the work of a director who had turned twenty two only days before the first notices appeared, and it announced itself as a deliberate break with the reverent, pictorial Shakespeare that British audiences had been trained to applaud. Brook filled the public scenes with crowds, colour, and orchestrated brawling, played the lovers' scenes against gaunt and unsoftened settings, cut hard at the text, and removed the closing reconciliation of the two houses altogether, so that the tragedy ended without the handshake Shakespeare wrote for the fathers. The notices of 7 April 1947 split along a clean line. One camp saw a recklessly spectacular evening that sacrificed poetry to pictorial splendour. The other saw a fresh rendering, vigorous and untrammelled by tradition, that had found the living heart of the tragedy. Both camps were describing the same staging decisions, and the disagreement between them is the production's permanent value, because it forced a question that staging history had avoided for generations: whether the play belongs to its verse or to its world.

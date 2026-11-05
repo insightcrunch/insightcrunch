@@ -9,7 +9,7 @@ excerpt: "Critics debate whether Romeo and Juliet has a tragic flaw at all, or w
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-06-04
+last_updated: 2026-11-05
 lang: en
 ---
 ## Tragic Flaw or Hamartia? The Verdict Before the Evidence

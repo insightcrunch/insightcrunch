@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet has a long Broadway history, from the 1930s staging w
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-04-28
+last_updated: 2026-11-05
 lang: en
 ---
 Romeo and Juliet on Broadway is a history of famous names in two famous parts, and the first thing the record teaches is that the street's way with this play was set long before the district had a name. The commercial New York stage took the tragedy up in 1754, when the Hallam company played it at the New Theatre with Mrs. Hallam as Juliet and Mr. Rigby as Romeo, and it has never put the play down for long. Between that colonial evening and the amplified Verona that filled Circle in the Square in 2024, the play passed through the hands of Edwin Booth, Maude Adams, Julia Marlowe, Ethel Barrymore, Jane Cowl, Eva Le Gallienne, Katharine Cornell, Laurence Olivier and Vivien Leigh, Olivia de Havilland, Claire Bloom, Regina Taylor, Orlando Bloom, and the youngest pair of lovers the street has fielded, Kit Connor and Rachel Zegler. No other Shakespeare tragedy has been so steadily used as a proving ground for stardom in New York. Hamlet belongs to its great soloists; this play belongs to its pairs, and to the producers who wagered that two marketable names could carry three hours of verse in a commercial house.

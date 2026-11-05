@@ -9,7 +9,7 @@ excerpt: "How Houdini did his escapes: the lock knowledge, built apparatus, trai
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 90
 author: "kevin-reeves"
-last_updated: 2026-10-31
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Escape Was a System, Not a Gift

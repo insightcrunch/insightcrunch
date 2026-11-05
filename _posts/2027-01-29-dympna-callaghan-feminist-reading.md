@@ -9,7 +9,7 @@ excerpt: "Dympna Callaghan read Romeo and Juliet through feminist materialism, a
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2027-01-29
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict First: Callaghan Puts a Date on Romantic Love

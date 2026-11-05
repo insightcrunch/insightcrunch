@@ -9,7 +9,7 @@ excerpt: "The title pages of the early Romeo and Juliet quartos name acting comp
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2026-08-28
+last_updated: 2026-11-05
 lang: en
 ---
 Every early edition of Romeo and Juliet opens with a page that is not the play. Before the Prologue speaks its first line, "Two households, both alike in dignity" (Prologue.1), a title page has already made a series of claims: what kind of play this is, how often it has been performed, whose servants performed it, who printed the book, who financed it, and where a copy could be bought. Those pages are the oldest documents of the play's public existence, older than any review, any cast list, any diary entry, and they survive for every early edition: the first quarto of 1597, the second of 1599, the third of 1609, the fourth quarto in two distinct issues from about 1622, and, in transformed shape, the First Folio of 1623, where the play loses its own page altogether and takes a single line in a catalogue instead. Read one at a time, each page is an advertisement. Read as a sequence, the six pages compose the play's first biography, written not by a biographer but by the book trade, in the trade's own shorthand of formulas, billings, and imprints.

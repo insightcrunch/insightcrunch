@@ -9,7 +9,7 @@ excerpt: "Beyond the famous houses, Romeo and Juliet lives in countless touring 
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-04-21
+last_updated: 2026-11-05
 lang: en
 ---
 Touring and regional productions are not the margin of this play's stage life. They are its main body. For every performance of Romeo and Juliet in a famous metropolitan house, the documented record shows companies carrying the tragedy into guildhalls, barns, tents, parks, school halls and small-town theatres, season after season, century after century, in numbers that the capital stages have never approached. The marquee production is the fraction of the play's existence that got reviewed, photographed and archived. The road is where the play was actually lived, by most of its performers and most of its audiences, most of the time.

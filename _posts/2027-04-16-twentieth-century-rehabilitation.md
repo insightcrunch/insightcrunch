@@ -9,7 +9,7 @@ excerpt: "Across the twentieth century criticism reclaimed Romeo and Juliet from
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-04-16
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Rehabilitation of Romeo and Juliet: The Verdict Before the Evidence

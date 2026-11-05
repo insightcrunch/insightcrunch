@@ -9,7 +9,7 @@ excerpt: "A digital cinema package carries a film as encrypted picture and sound
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 82
 author: "marcus-hall"
-last_updated: 2026-10-21
+last_updated: 2026-11-05
 lang: en
 ---
 ## A Film That Arrives Locked

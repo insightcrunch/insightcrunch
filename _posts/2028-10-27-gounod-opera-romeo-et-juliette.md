@@ -9,7 +9,7 @@ excerpt: "Charles Gounod's opera Romeo et Juliette sets the lovers' story to lyr
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-10-27
+last_updated: 2026-11-05
 lang: en
 ---
 ## The Verdict in Brief: An Opera That Trusts the Duet

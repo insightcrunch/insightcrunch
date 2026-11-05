@@ -9,7 +9,7 @@ excerpt: "Animation has retold Romeo and Juliet many times, from condensed carto
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-02-23
+last_updated: 2026-11-05
 lang: en
 ---
 Romeo and Juliet in animation is a smaller, stranger corpus than the play's stage and live-action screen afterlives, and the smallness is the finding. Across nine decades the drawn and computer-generated record offers burlesque shorts, a robot television special, an educational abridgement of unusual discipline, animal features, and structural borrowings inside franchises that never name Verona in their titles. No major studio has ever given the tragedy the full prestige feature treatment in drawn form. The verdict argued through the survey is precise. Animation preserves the plot machine of the tragedy with remarkable fidelity and reverses the ending of the tragedy with remarkable consistency, and the two habits divide along a single line. Versions made to teach the play keep the deaths. Versions made to sell the story to families remove the deaths. The medium itself is innocent. The market addressed through the medium decides whether the lovers die.

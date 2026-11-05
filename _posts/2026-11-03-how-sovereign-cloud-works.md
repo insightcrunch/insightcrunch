@@ -9,7 +9,7 @@ excerpt: "A sovereign cloud keeps data under one legal order, and the claim hold
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 80
 author: "ryan-walsh"
-last_updated: 2026-11-03
+last_updated: 2026-11-05
 lang: en
 ---
 ## Sovereignty Is a Stack of Controls, Not a Place

@@ -9,7 +9,7 @@ excerpt: "Critics of Romeo and Juliet split between those who read it through st
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2027-07-02
+last_updated: 2026-11-05
 lang: en
 ---
 ## Two Readers at the Tomb: The Quarrel This Article Settles

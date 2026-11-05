@@ -9,7 +9,7 @@ excerpt: "The Elizabethan upper stage and discovery space shaped Romeo and Julie
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2028-02-11
+last_updated: 2026-11-05
 lang: en
 ---
 The upper stage and the discovery space are the two features of the Elizabethan playhouse that Romeo and Juliet tests hardest, and the play returns a split verdict on them. The upper level passes every test the texts can set: the dialogue measures its height, the early quartos place a window in it, and two of the tragedy's defining scenes cannot be played without it. The discovery space passes a weaker test. One direction in the First Quarto, and one only, proves that a curtained enclosure stood at the back of the stage and that Juliet's bed stood inside it; beyond that single proof, the curtained recess fades into inference, and the deep inner room of older theatre history fades further still, into a conjecture the play never asks for. That graded result is the argument of this article. The height is the building's. The curtain is the building's, used once and used decisively. The room is the scholars'.

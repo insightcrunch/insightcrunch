@@ -9,7 +9,7 @@ excerpt: "Staging the fights of Romeo and Juliet is a craft in itself, since the
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-12-10
+last_updated: 2026-11-05
 lang: en
 ---
 Staging the duel in this tragedy is a branch of interpretation disguised as athletics. The choreography of a stage fight decides what an audience believes about blame, chance, and character before a single speech of explanation has been heard, and in Act 3, Scene 1 the decision carries the whole structure of the play. Two men die in that scene. The first death must look like an accident produced by a peacemaker standing in the wrong place. The second death must look like a choice produced by grief. A fight director who reverses those two impressions has rewritten the tragedy, whatever fidelity the spoken text maintains. The verdict of the pages that follow is plain. Good duel choreography in this play is legible storytelling under strict safety discipline, in which period fencing detail serves the pivot from comedy to tragedy and never competes with the pivot for attention. Spectacle earns a place only when the house can still answer three questions at the fall of each body. Who acted. What went wrong. Why the street will never return to comedy.

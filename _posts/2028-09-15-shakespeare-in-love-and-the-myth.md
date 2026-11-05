@@ -9,7 +9,7 @@ excerpt: "Shakespeare in Love imagined Romeo and Juliet born from a forbidden af
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2028-09-15
+last_updated: 2026-11-05
 lang: en
 ---
 ## Shakespeare in Love: A Verdict on the Film and the Myth It Made

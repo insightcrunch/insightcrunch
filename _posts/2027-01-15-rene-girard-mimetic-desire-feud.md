@@ -9,7 +9,7 @@ excerpt: "Rene Girard read Romeo and Juliet through mimetic desire, arguing that
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2027-01-15
+last_updated: 2026-11-05
 lang: en
 ---
 Rene Girard wrote the most ambitious account of desire in Shakespeare that the twentieth century produced, and he left Romeo and Juliet out of it. The omission was not oversight, contempt, or a gap in the theory. In the introduction to A Theatre of Envy, his 1991 study of the plays, Girard confessed that his essay on this play had grown too long for an already unwieldy book and that he had decided to omit it entirely, adding, in the same breath, the verdict the lost essay presumably defended: the romantic Romeo and Juliet is full of mimetic satire. A reading that exists as one adjective and one regret is an invitation and a warning. The invitation is to reconstruct what Girard's machinery makes of the feud and the love, since the machinery is fully published elsewhere and the play fits it with uncanny closeness. The warning is that the reconstruction must mark its own joins, because the theory's founder never signed this particular application of it.

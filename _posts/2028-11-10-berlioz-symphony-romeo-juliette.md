@@ -9,7 +9,7 @@ excerpt: "Hector Berlioz's dramatic symphony Romeo et Juliette set the story in 
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2028-11-10
+last_updated: 2026-11-05
 lang: en
 ---
 Hector Berlioz's symphony on Romeo and Juliet makes the boldest single decision in the whole adaptation history of the play: the lovers never sing. In *Roméo et Juliette*, Op. 17, the dramatic symphony completed in 1839 to a text by Émile Deschamps, Romeo and Juliet possess no voices at all. A contralto commentator sings in the Prologue, a tenor spins the Scherzetto, choruses fight and mourn and swear, and Friar Laurence steps forward in the finale to demand an oath over two bodies. The pair at the center of the tragedy, the pair whose shared sonnet at the Capulet ball stands among the most quoted exchanges in English drama, are entrusted to the orchestra alone. Berlioz defended the choice in the preface to the score with an argument that still governs hearings of the work: the sublimity of the love in question made verbal setting dangerous, and instrumental language, richer, more varied, less finite than sung words, gained power from imprecision itself. The verdict argued through every section that follows is plain. The gamble succeeds. *Roméo et Juliette* is the strongest concert adaptation of the tragedy because the wordless center is not an evasion but a reading, a claim about where the play keeps its meaning, tested against the play scene by scene and against the rival settings that chose the opposite path.

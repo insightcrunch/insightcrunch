@@ -9,7 +9,7 @@ excerpt: "Presentism reads Romeo and Juliet openly from the concerns of the pres
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2027-02-05
+last_updated: 2026-11-05
 lang: en
 ---
 Presentism is the critical method that begins by confessing where every reading of Romeo and Juliet actually starts: in the reader's own moment. Where the older schools treated that starting point as a source of error to be corrected, and where new historicism treated it as an embarrassment to be managed, presentism treats it as the one instrument no critic can put down. The method's claim is simple to state and difficult to refute. A play text survives from the 1590s, but reading does not. Reading happens in a living mind, stocked with a living world, and the questions that mind brings to Verona were formed by the streets it actually walks. Presentism argues that this condition should be declared, examined, and put to work, rather than denied in the name of a recovery of original meaning that no reader has ever performed from outside a present of the reader's own.
