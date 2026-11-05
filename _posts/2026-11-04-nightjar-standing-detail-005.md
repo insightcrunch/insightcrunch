@@ -6,19 +6,19 @@ date: 2026-11-04
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "A Barrow States inspector who testified against a bonded chain goes home to a town nine miles from where Mira grew up, and someone is quietly coming for him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-04
+lang: en
 ---
-
 ## The Man on Bracken Hill
 
 Bracken Hill rose behind Ostrel in a long, ungenerous slope, its bracken turned the colour of old copper and its stone showing through in grey ribs where the wind had thinned the soil. From the hollow where Idris Kolm sat, with his back to a broken wall and his boots set clear of the wet, he could see the whole of Elka Reske's plot without lifting his head far: the low house with its limewashed gable and soot darkened chimney, the yard beaten hard by feet and rain, the privy and the wood store, and the fence that ran along the lane in a line that had sagged for years and had begun, that week, to stand straighter under fresh paint. Below the hill the town made its ordinary sounds and smells. The mill down by the River Sarn gave off a low, continuous breathing through its vents, flour dust and hot oil and wet stone, and above it the bell tower rose clean against the sky. When the wind came off the river it carried the reek of the dye sheds and the sweet rot of spent grain. When it came off the hill it carried bracken and sheep and cold earth. Kolm had learned both winds by the second day and had stopped remarking on either by the third.
 
 He sat where he was meant to be seen sitting. That was the plain shape of the work as it had been given to him, and he kept to the shape without embellishing it. He had chosen the hollow because a man in it showed his head and shoulders against the wall from the lane, from the house yard, and from the upper windows of the two cottages that faced the hill across the lane. A man who wished to hide would have lain lower, behind the wall, or higher, among the bracken where the colour of his coat would have broken among the stems. Kolm did neither. He sat upright on a folded groundsheet, his pack at his left hand, his water bottle at his right, his notebook closed on his knee, and he let the town get used to the sight of him the way it got used to a new post at a gate or a cart left too long by the mill yard. By the fourth day children had stopped pointing. By the fifth the mill hands on the lane had stopped slowing to look. Being overlooked after being noticed was, in his experience, a kind of cover all its own, and a cheaper one than any attempt at vanishing.
 
-![A watcher above a mill town fence line - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A watcher above a mill town fence line - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Toma Reske was painting the fence again. He had been painting it, in sections, for as long as Kolm had been on the hill, and he painted in the manner of a man who had done practical work all his life and saw no reason to hurry a job that rewarded patience. He worked from the gate toward the corner by the wood store, perhaps eight feet of fence in a morning when the light held, less when cloud came over the hill and flattened everything to the same grey. He wore an old coat cut down at the sleeves, a cap that had lost its shape, and gloves with the fingers cut away, and he kept the paint pot on a board at his feet so that he would not set it in the dust of the yard. Every few strokes he stepped back, not far, and looked along the line he had done, and then he bent again. The brush made a soft, regular sound against the wood, audible on the hill when the mill vents eased and the lane was empty. Kolm had come to time small parts of his own day by that sound without intending to. When the brushing stopped, Reske had gone in for water, or to speak to his mother through the kitchen door, or to stand in the yard with his hands on his hips looking at the sky as a man does who is deciding whether rain will spoil work already done.
 
