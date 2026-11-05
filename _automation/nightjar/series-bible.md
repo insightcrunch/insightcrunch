@@ -317,6 +317,10 @@ rewritten.
 004 The smuggling chain taken in the bonded cargo rollup was one organisation pretending to be three. Its three sets of bonded paperwork were written by one hand, which rendered the Selvara district as Salvarra and transposed the same toll totals in every set. Eleven of the chain were taken and the route was closed, and the principal was not among the eleven.
 004 In the Teshkar depot, a sealed store room off the principal's office corridor held no weight at all when Mira Kovac read it after the take, in a working depot where the office, the warehouse and a driver's cab all read heavily. It is the second empty room she has found, in another member state and in a different kind of room from the Carrowmere transit room.
 
+005 Toma Reske is a bonded inspector of the Barrow States who testified against the bonded chain before an inquiry panel and afterwards at the substantive hearing in Vessmark. During the Ninth Office standing detail on him at his mother Elka's house in Ostrel, the attempt on him came on the road at the mill bridge over the River Sarn on the day he travelled to lodge the signed copy of his testimony, and it failed, and he testified on the twelfth day under the Barrow witness service.
+005 Idris Kolm is a hired watcher who sat openly on Bracken Hill above the house in Ostrel and had bought a long rifle in Tarnwick in his own name, signed for in daylight, so that the purchase would be found. He was a decoy, paid to be seen and to report the detail's pattern, which he had timed to the mill bell. He was taken alive off the hill and declined to answer.
+005 Tomas Rask stated on the record, in a statement Petra Dunmore filed in Carrowmere, that a Stiller's suppression has a source and a slope, centred on the Stiller and thinning with distance, and that the empty rooms Mira Kovac has found had neither. The statement is the first document in a trail the Office now keeps.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

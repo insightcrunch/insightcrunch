@@ -117,3 +117,25 @@ spine notch:              Rung four. A second absence, in another member state, 
 characters:               Mira Kovac, Arvo Leyden, Tomas Rask, Petra Dunmore, Reni Vosk (new, standing cast from here), Pell Anders (new), Sef Ardal (new), Marta Ilsen (new)
 canon written back:       Three facts under Established canon, each numbered 004: Reni Vosk's first field position and her nineteen unsupported minutes; the chain as one organisation pretending to be three, eleven taken and the principal not among them; the Teshkar depot store room as the second empty room
 callbacks:                001 and 002, two internal links, to the transit room that held nothing and to the hearing room where the weight stopped at a line on the floor
+
+## Installment 005
+slug:                     nightjar-standing-detail-005
+published:                2026-11-04
+story span:               Twelve days in the Twenty Ninth Session, from the tasking in Carrowmere to the hearing in Vessmark
+arc:                      The Clean Room, case 5
+case type:                Protection detail
+words:                    24145
+outcome:                  full success
+cost paid:                She reads her own region and gets her childhood back with it, which costs her two nights; the hill above Ostrel and the Ostrel ground give her Tarnwick back whether she wants it or not
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the filed statement and the trail it starts
+clues planted:            The threat window table of nine days against house, road and hearing; Dunmore's paper on the long rifle sold in Tarnwick with the buyer signed openly; the watcher's scrape on Bracken Hill and his bell regular pattern; the kitchen at Elka Reske's house and the threat Reske never reported; the day eight lodging journey fixed in writing with the hearing clerk; the mill bridge gate and its chain
+capabilities established: The route survey of the Ostrel to Vessmark road and the mill bridge as its one narrow place (Ground truth); Rask's Stilling demonstrated at the house, even, sourced and thinning with distance (Ground truth); the rifle purchase confirmed as Kolm's own open signature (The collapse); the hill read and the kitchen read (The collapse); Reni's position hidden in the rear locker of the cart, and Mira driving dressed as a carter (The collapse, Pressure)
+damage carried:           In: Voss's last ten minutes from 001, Reni's nineteen unsupported minutes from 004. Adds: two nights of her own childhood, read back off a hillside
+endurance:                entering full; reduced at the pressure beat
+legend beat:              none
+close consumed:           The day eight lodging journey, the bridge gate and its chain, Rask's suppression demonstrated at the house, the open rifle purchase and the watcher's pattern, and the kitchen threat that fixed the chain's true aim; every one established earlier in this same installment
+false lead:               Dead. A watcher sits openly on Bracken Hill and a long rifle was sold three towns over, and every sign says a killing is being prepared at the house; the rifle was bought in the watcher's own name, signed for in daylight, because the purchase was meant to be found
+spine notch:              Rung five. Rask, working a suppression on the road, gives her the comparison directly, and states it on the record: a Stiller's flatness and the absence are different things. Dunmore files the statement, and it becomes the first document in a trail
+characters:               Mira Kovac, Arvo Leyden, Tomas Rask, Petra Dunmore, Reni Vosk, Toma Reske (new), Elka Reske (new), Idris Kolm (new), Dain Ferro (new), Ivo Senn (new)
+canon written back:       Three facts under Established canon, each numbered 005: Toma Reske's testimony and the failed attempt at the Sarn mill bridge; Idris Kolm the decoy watcher and his openly signed rifle purchase; Rask's on-record statement on suppression and absence, filed by Dunmore as the first document in a trail
+callbacks:                001, 003 and 004, three internal links, to the transit room that held nothing, to the true record handed to Harrand in Melora, and to the chain taken apart at the Teshkar depot

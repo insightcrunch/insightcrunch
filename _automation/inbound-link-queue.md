@@ -147,3 +147,7 @@
 ## how-persona-was-made
 - _posts/2022-01-01-seventh-seal-bergman-mortality.md - could carry: "Bergman's later chamber experiment stripped the cast to two women on Faro, and the production history of Persona shows how far that stripping could go."
 - _posts/2016-05-01-vertigo-hitchcock-auteur-obsession.md - could carry: "The doubled woman built from one actress in two roles became, in Bergman's hands, two actresses merging into a single face, as the making of Persona records."
+
+## nightjar-standing-detail-005
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "Rask would not name what had emptied the room; on a Barrow road, standing inside his own suppression at the mill bridge, she learned what his flatness actually was, and afterwards he said the difference on the record, that his trade has a source and a slope and the empty rooms had neither."
+- _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The chain taken at the depot had witnesses as well as cargo; a Barrow inspector who had testified against it went home under a standing detail, and the attempt on him came on the road to the hearing, at a mill bridge, and failed."

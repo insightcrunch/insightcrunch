@@ -801,6 +801,28 @@ after-broken-closure-network-procedure-route | nightjar-bonded-cargo-004 | What 
 appli-discipline-night-radio-rollup | nightjar-bonded-cargo-004 | What radio discipline applies on a rollup night?
 at-depot-during-present-principal-rarely-taking | nightjar-bonded-cargo-004 | Why is a principal rarely present at a depot during a taking?
 
+### nightjar-standing-detail-005
+barrow-federation-held-stat-their-together | nightjar-standing-detail-005 | What are the Barrow States, and how is their federation held together?
+accord-day-nine-protection-rule-witnes-work | nightjar-standing-detail-005 | How does Accord witness protection work, and what is the nine day rule?
+field-stiller | nightjar-standing-detail-005 | What does a Stiller do in the field?
+barrow-hear-lodg-system-testimony-work | nightjar-standing-detail-005 | How does the Barrow hearing system work, and how is testimony lodged?
+as-barrow-like-live-mill-place-town-work | nightjar-standing-detail-005 | What are the Barrow mill towns like as a place to live and work?
+bond-inspect-inspector-one | nightjar-standing-detail-005 | What is a bonded inspector, and what does one inspect?
+differ-hear-inquiry-panel-substantive | nightjar-standing-detail-005 | How does an inquiry panel differ from a substantive hearing?
+copy-lodg-matter-sign-testimony | nightjar-standing-detail-005 | How is a signed copy of testimony lodged, and why does the lodging matter?
+bond-bridg-charg-mill-road-them-toll-work | nightjar-standing-detail-005 | How do mill bridges work, and how are bonded road tolls charged on them?
+detail-rotation-stand-work | nightjar-standing-detail-005 | What is a standing detail, and how are its rotations worked?
+hired-report-their-watcher-worth | nightjar-standing-detail-005 | What are hired watchers, and what are their reports worth?
+fenc-life-mill-shape-smallholding-town | nightjar-standing-detail-005 | How do fences and smallholdings shape life in the mill towns?
+mill-right-river-sarn-water-work | nightjar-standing-detail-005 | What is the River Sarn, and how do mill water rights work on it?
+case-hand-member-ninth-office-protection-service | nightjar-standing-detail-005 | How does the Ninth Office hand a protection case to a member service?
+after-happen-has-he-testifi-witnes | nightjar-standing-detail-005 | What happens to a witness after he has testified?
+binder'-defeat-holdfast-suppression | nightjar-standing-detail-005 | What is a Binder's holdfast, and why does suppression defeat it?
+bond-cart-carter-locker-rear-road | nightjar-standing-detail-005 | What do carters do on the bonded road, and what is the rear locker of a bonded cart for?
+clerk'-office-vessmark-work | nightjar-standing-detail-005 | What is Vessmark, and how does its clerk's office work?
+evidence-itself-openly-purchase-sign | nightjar-standing-detail-005 | Why is an openly signed purchase evidence in itself?
+file-made-office-officer'-record-statement | nightjar-standing-detail-005 | How does the Office file an officer's statement made on the record?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
