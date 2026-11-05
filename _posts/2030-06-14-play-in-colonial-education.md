@@ -6,15 +6,15 @@ date: 2030-06-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "colonial-education", "empire", "colonial-education"]
 excerpt: "Across the British Empire Romeo and Juliet was taught as a tool of colonial education, used to spread English language, values, and the authority of the canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-06-14
+lang: en
 ---
-
 Romeo and Juliet entered the colonial classroom as paperwork before it entered as poetry. Across the British Empire the play was prescribed, printed, annotated and examined inside an education system whose architects stated their purpose in plain language: to manufacture a class of colonial subjects who would be, in Thomas Babington Macaulay's words of 1835, "Indian in blood and colour, but English in taste, in opinions, in morals, and in intellect." The tragedy of two disobedient children, punished by death while their fathers repent over the bodies, was an almost perfect instrument for that design, and generations of students in Calcutta, Freetown, Mombasa, Port of Spain and a hundred lesser school towns met it first as a set book, under examination conditions, in editions prepared for minds the empire intended to form.
 
-![A colonial-era schoolroom edition of the play open beside examination papers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A colonial-era schoolroom edition of the play open beside examination papers - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The verdict of this article can be stated at the outset, because the documents support it in both directions and the honest answer is double. As policy, the brief's premise is confirmed: the play was used, deliberately and on the record, as a tool of colonial education, a carrier of the English language, of English moral furniture, and of the canon's authority to certify who counted as educated. As history, the same record convicts the policy of failure at its point of proudest confidence. The students the system examined memorized the play, quoted it back in essays written to please their examiners, and then, within a single generation in Bengal and within living memory elsewhere, translated it, rewrote it, indicted the curriculum that had assigned it, and built national literatures partly out of its materials. The instrument worked as a credential and failed as a cage. What follows weighs the machinery first, the textbook second, the student's actual encounter third, and the reassessment last, grading each claim by the strength of its evidence, because the colonial archive is eloquent about intentions and patchy about this play in particular, and the difference matters.
 

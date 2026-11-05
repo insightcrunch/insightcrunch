@@ -6,15 +6,15 @@ date: 2030-06-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "global-classrooms", "education", "global-classrooms"]
 excerpt: "Romeo and Juliet is studied in classrooms around the world today, in many languages and curricula, making it perhaps the most widely taught play on the planet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-06-28
+lang: en
 ---
-
 The excerpt printed above this article makes the largest claim any school text can carry: that Romeo and Juliet is perhaps the most widely taught play on the planet. The claim deserves a trial rather than a repetition, because the evidence for it is not a world census, and no world census exists. What exists is a patchwork of national measurements, board lists, syllabus documents and translation records, assembled country by country across this series, and the patchwork does not return one verdict. It returns four. In the United States the play's classroom lead is measured and real. In England the lead belongs to another play. In Scotland the contest is never held. In India the whole play is absent from the national school readers and present in fragments, while in Kenya the play was expelled from the syllabus by a sovereign decision and restored by another one in 1992. A synthesis that irons those four verdicts into a slogan would be a worse article than the slogan deserves and a false one. This article therefore does the slower thing: it lays the national records side by side, grades each claim by the strength of its evidence and the year of its measurement, and reaches the verdict the records support. That verdict is narrower than the excerpt and stronger for being narrower. The play is the most widely carried dramatic text in the world's classrooms, present in more systems, in more languages, at more levels than any rival the record names. It is not the most widely read whole play, because in several of its largest homes it is not read whole at all: it is excerpted, translated, paraphrased, or displaced by Macbeth at the point where teaching is counted. Presence is global. The object present differs by country, and the difference is the story.
 
-![A world map of school systems in which Romeo and Juliet is taught, listed or excerpted - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A world map of school systems in which Romeo and Juliet is taught, listed or excerpted - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 ## The Most Widely Taught Play: Grading the Claim Before Using It
 

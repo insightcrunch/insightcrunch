@@ -6,15 +6,15 @@ date: 2030-10-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "prologue", "variant", "star-crossed-or-death-marked"]
 excerpt: "The Romeo and Juliet Prologue calls the lovers star-crossed and their love death-marked, and the early texts differ in ways that shape how we read the opening."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-10-11
+lang: en
 ---
-
 The Prologue to Romeo and Juliet announces the tragedy twice over, in two phrases that do not say the same thing. In one breath the Chorus calls Romeo and Juliet "a pair of star-cross'd lovers" (Prologue.6), assigning their ruin to the heavens, to stars whose adverse configuration crosses a human life the way weather crosses a sea route. Four lines later the Chorus calls their love "death-mark'd" (Prologue.9), assigning the same ruin to a mark carried on the love itself, a stamp of mortality that names no agent and blames no sky. One phrase accuses the cosmos. The other describes a condition. Generations of quotation have fused them into a single gesture of doom, and the fusion hides a genuine contest: the play that follows the Prologue spends five acts testing which of the two announcements its events will ratify, and the early printed texts, examined closely, stage the same contest in miniature before a single character speaks.
 
-![The Chorus's Prologue sonnet and its two fate phrases in the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Chorus's Prologue sonnet and its two fate phrases in the early quartos of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The textual half of the contest can be settled from the documents, and the documents give a lopsided result. The Second Quarto of 1599 (Q2) prints the Prologue as a complete fourteen-line sonnet, and in Q2 both phrases stand in their canonical positions, the star phrase crowning the second quatrain, the death phrase opening the third. The First Quarto of 1597 (Q1) prints a Prologue of twelve lines, and its damage falls with strange precision: "starre-crost" survives almost untouched, while the line that carries "death-mark'd love" vanishes as a line, and the strong word itself washes up inside a parenthetical patch, reassigned to the parents' rage. The First Folio of 1623 (F) settles nothing, because it omits the Prologue altogether and preserves neither phrase. Of the two most quoted fate formulas in English drama, one was never in textual danger and the other hangs by a single book.
 

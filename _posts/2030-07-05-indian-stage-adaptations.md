@@ -6,15 +6,15 @@ date: 2030-07-05
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "indian-stage", "parsi-theatre", "indian-stage-adaptations"]
 excerpt: "Long before Bollywood, Indian stage traditions like Parsi theatre adapted Romeo and Juliet into local languages, music, and spectacle for popular audiences."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2030-07-05
+lang: en
 ---
-
 India's Romeo and Juliet was a stage creation before it was a screen inheritance, and the stage that created it was not the classroom or the colonial playhouse but the commercial company theatre of Bombay. Indian stage adaptations of the tragedy begin inside the Parsi theatre, the company-based entertainment that from the 1850s carried Gujarati, Urdu and Hindi drama across the subcontinent and beyond it, and that took Shakespeare into its repertoire as raw material for songs, spectacle and local feeling. The verdict of this article is plain at the outset: the Parsi companies did not transmit the play, they rebuilt it, and the rebuilding was not a failure of reverence but the founding transaction of Indian popular theatre. When an Urdu dramatist of that stage turned the lovers' tragedy into a three-act tragicomedy with a happy ending, he was not betraying a text his audience revered in English. He was honouring the only contract his audience had signed, the contract of the ticket, which promised an evening of music, marvels and feeling, and which the tragedy of Verona, suitably rebuilt, could fill better than almost any story in the world.
 
-![A Parsi theatre company stage with painted backdrop and footlights in Bombay - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Parsi theatre company stage with painted backdrop and footlights in Bombay - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The documentary base for everything that follows is the theatre history of the period, above all Somnath Gupt's The Parsi Theatre: Its Origins and Development, the Hindi study of 1981 that Kathryn Hansen translated, abridged and edited for its English editions, and that Hansen calls the best single reference for the early period of Parsi theatre history. Gupt wrote from within reach of the survivors: his coverage begins with the antecedent phase of English theatre in eighteenth and early nineteenth-century Bombay and extends through the end of the nineteenth century, and his pages preserve play titles, company rosters and performance details that exist nowhere else, because the plays from the early period of the Parsi theatre are nowhere to be found as printed texts. That evidentiary shape governs the method of this article throughout. Where the record supports a playbill, the playbill is given. Where it supports only a title in a catalogue, the title is graded as a title. Where a date is divided in the scholarship, the division is stated rather than silently resolved. The Parsi record is rich and uneven at once, and an honest profile of the pre-Bollywood Indian stage has to keep both facts in view at every step.
 

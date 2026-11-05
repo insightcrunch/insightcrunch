@@ -6,15 +6,15 @@ date: 2030-07-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "timeline", "compression", "how-long-action-takes"]
 excerpt: "The whole action of Romeo and Juliet unfolds in under five days, from a Sunday ball to a Thursday tomb, a breathless compression of Shakespeare's sources."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-115.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-07-26
+lang: en
 ---
-
 The action of Romeo and Juliet takes under five days. It opens on a Sunday morning a little before nine and it ends on the Thursday night of the same week, in a tomb, with the waking of a girl who was supposed to sleep two and forty hours and the deaths of the two people the sleep was meant to save. Between those points the play fits a first meeting, a secret wedding, two killings, a banishment, a wedding night, a second wedding arranged and advanced, a feigned death, a funeral, a failed letter and a double suicide. The verdict of this reconstruction is that the shortness is not an impression left by fast playing. It is a calendar, written into the dialogue in weekdays, clock hours and one measured dose, and it can be proved marker by marker from the text itself.
 
-![The five-day calendar of Romeo and Juliet, from the Sunday brawl to the Thursday tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The five-day calendar of Romeo and Juliet, from the Sunday brawl to the Thursday tomb - Insight Crunch](/assets/images/blog/blog-115.webp)
 
 The proof matters because the calendar is the tragedy's mechanism. Nearly every rescue attempted in the play is a timetable, and every timetable misses by hours: a nurse who takes three hours on a half-hour errand, a wedding moved one day nearer, a letter that never leaves the city, a friar who arrives at a tomb some minutes before a waking and finds the waking already useless. A reader who cannot say which day a scene falls on cannot say why it fails. Guidebooks that answer the duration question with "about four or five days" are evading a question the text answers exactly, and the evasion costs the reader the play's central device, since a tragedy engineered in hours cannot be understood in approximations. The method used here is strict. A day assignment is claimed only where a spoken marker fixes it, where a chain of scenes permits no night to intervene, or where a character's later testimony certifies it; where the assignment rests on inference, the inference is labelled. Where the markers strain against each other, the strain is named rather than smoothed, and the play's few genuine impossibilities are left to the article that owns them. What survives that discipline is the strongest single calendar the text supports: Sunday to Thursday, under five days, with its seams showing.
 

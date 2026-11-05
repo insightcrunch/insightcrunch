@@ -6,15 +6,15 @@ date: 2030-08-30
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "poison", "apothecary", "fast-poison"]
 excerpt: "Romeo dies almost instantly from the apothecary's poison, and what real substance could act so fast is a question of Renaissance lore and dramatic compression."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-08-30
+lang: en
 ---
-
 The poison that kills Romeo has no name, and the absence is the answer to the question this article examines. Across two scenes, the purchase in Mantua and the death in the Capel tomb, the play specifies the drug by one property only: its speed. Romeo orders an effect, the apothecary guarantees an effect, and the tomb scene delivers the effect on schedule, inside two lines of speech. No substance in the period's own medical record, not even the poison its authorities ranked swiftest of all, was credited with work anywhere near that fast by the writers who feared it most. The verdict argued here is that the poison is theatrical license dressed in the costume of period belief: the lore gave the first audiences permission to accept an instant death, and the structure of the ending gave the playwright his orders. What follows tests that verdict against the text of 5.1 and 5.3, against the toxicology the audience carried into the theatre, against the one timed and witnessed poisoning the age's most famous surgeon put on record, and against the stage tradition that later tried to slow the poison down and thereby proved what its speed was for.
 
-![The apothecary's needy shop in Mantua, where Romeo buys the unnamed poison - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The apothecary's needy shop in Mantua, where Romeo buys the unnamed poison - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The numbers frame the problem before any lore is consulted. This is a play that counts. It counts the days of its action from Sunday to Thursday, counts the years of a nurse's memory and the fortnight and odd days to a birthday, and counts, most famously, the hours of a feigned death: two and forty. Against that company, the poison's figure stands out for its smallness. The Friar's art is given the largest pharmaceutical number in the play, and the apothecary's art is given the smallest unit of theatrical time, the interval between two lines of a single speech. A reader who asks what the poison was has usually been asking the smaller question. The larger one is why a dramatist who numbers everything else in this plot, down to the half hour a servant reports at a tomb door, left this one quantity at the vanishing point, and whether the culture of poison he wrote for can carry the weight his plot declines to. The evidence divides into four kinds: the words of the two scenes themselves; the toxicology, learned and popular, that the first audience brought through the door; the timed observations the period happened to leave behind; and the behaviour of the play on stages that later tried amending the number. Each kind is taken in turn, and the disagreement among their interpreters is settled at the end.
 

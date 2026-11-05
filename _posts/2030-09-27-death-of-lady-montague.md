@@ -6,15 +6,15 @@ date: 2030-09-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "lady-montague", "ending", "death-of-lady-montague"]
 excerpt: "In the final scene of Romeo and Juliet, Montague reports that grief over Romeo's exile has killed his wife, an off-stage death many readers and audiences miss."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-09-27
+lang: en
 ---
-
 The death of Lady Montague is the easiest loss in Romeo and Juliet to miss, and the miss is understandable. She has no death scene, no sickroom, no farewell, no body carried through the streets, and no mourner assigned to her. She dies off stage, at an unstated place, at the hands of a cause stated in five words, and the play spends her entire dying inside three lines of her husband's entrance speech in the final scene, lines delivered before he has seen the tomb and answered by nobody. Readers finish the tragedy counting the lovers. Productions cut the announcement and lose nothing they can feel. Yet the report is in the text, in both early quartos, placed with care at the head of the last movement, and it changes the arithmetic of the ending for anyone who stops to register it: the feud's final toll is not two young lives but six deaths, and the sixth belongs to the older generation, to a woman who never raised a hand in the quarrel and whose whole part in the play is three lines long.
 
-![Lady Montague's off-stage death announced in the final scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lady Montague's off-stage death announced in the final scene of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The verdict argued through this study is that the death is a meaningful loss and not a loose end. The sceptical account, which treats the announcement as a tidying device that clears the stage for the fathers' settlement, or as a patch over a casting problem, explains why Lady Montague cannot be present in the last scene. It does not explain why the play reports her dead, and the report is the fact under examination. A dramatist clearing a stage needs a direction, not a bereavement. The bereavement was chosen, kept through revision while a companion reported death beside it was cut, and added to a story whose sources end without it. What the choice accomplishes is the feud's widest measurement. Every other death in the play is dealt by a weapon, a poison, or a dagger, in view of witnesses, inside the young people's world. Hers is dealt by a sentence of law, off stage, inside a marriage, and it proves that the feud's costs were never confined to the street fighters and the lovers who dominate the counting. Restoring the sixth death to the record is the work of the sections that follow: the announcement itself, the three lines that are her whole part, the quarto evidence, the sources, the census of the dead, the calendar, the named cause, the contrast with the mother who survives, the sceptical case at full strength, and the verdict the evidence supports.
 

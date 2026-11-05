@@ -6,15 +6,15 @@ date: 2030-06-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "global-reception", "translation", "puns", "translating-puns"]
 excerpt: "The dense puns of Romeo and Juliet, from grave to gall to gold, pose a near-impossible task for translators, who must choose what to save and what to sacrifice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-06-21
+lang: en
 ---
-
 Translating Shakespeare's puns in Romeo and Juliet is the point where translation stops behaving like transfer and starts behaving like triage. A plot can cross a border intact. A metre can be rebuilt in a receiving language that keeps a comparable measure. An image can be exchanged for a cousin image and lose only its accent. A pun can do none of these things, because a pun is not a meaning carried by a sound but two meanings fused inside one sound, and the fusion is an accident of one particular language's history. When Mercutio, bleeding to death in the third act, promises that tomorrow his friends will find him a grave man, the joke and the death sentence occupy the same two syllables. English happens to store seriousness and burial in a single word. German does not. Russian does not. A translator standing at that line is not looking for an equivalent, since none exists in the language's inventory. The translator is deciding which half of the word to save and which half to bury, and the decision is visible forever in the finished text, an audited loss.
 
-![A translator's desk with parallel texts of the play in several languages, the English page open at Mercutio's death scene - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A translator's desk with parallel texts of the play in several languages, the English page open at Mercutio's death scene - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The verdict of this article can be stated before the evidence, because the evidence only prices it. The individual pun, taken one at a time, is frequently untranslatable in the strict sense: no target-language word holds the same two senses in the same shape, and any rendering that pretends otherwise is a forgery. The punning of the play, taken as a whole activity, is translatable, because wordplay is a function a text performs and functions can be redistributed. A translator who loses the grave joke can repay the text by inventing a joke at a nearby joint where the receiving language happens to offer an accident of its own. Dirk Delabastita, whose parallel-text study of Hamlet's wordplay in There's a Double Tongue (1993) remains the field's foundation, catalogued the manoeuvres translators actually perform and found every one of them in use: substitution, compensation, rhetorical replacement, omission, direct copying, and the editorial confession of the footnote. The play's punning survives translation the way an army survives a campaign, by losing named positions and holding the campaign's object. What cannot survive is any particular position the enemy has already surveyed. The word impossible, then, is the honest starting position of every translator who opens this play. It is a poor finishing position, and the history of the play in German, Russian, French, and Japanese is the record of craftsmen refusing to finish there.
 

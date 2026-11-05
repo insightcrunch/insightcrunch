@@ -6,17 +6,17 @@ date: 2030-09-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "rosaline", "structure", "rosaline-device-or-theme"]
 excerpt: "Rosaline, the woman Romeo loves before Juliet and who never appears, may be a mere plot device or a deliberate theme about the nature of Romeo's love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-09-13
+lang: en
 ---
-
 ## Is Rosaline a Plot Device or a Theme? The Verdict in Advance
 
 Rosaline never enters. She has no speech, no entrance, no exit, no body on the stage at any point in Romeo and Juliet, and yet the play's first movement cannot run a single scene without her. Romeo loves her before the action opens, suffers for her through the first act, gate-crashes a feast to glimpse her, abandons her in one couplet at the sight of Juliet, and hears her post-mortem delivered by a friar the next morning. A figure with that workload and no lines invites the oldest quarrel in the play's criticism. One side calls Rosaline a plot device, a piece of machinery: she exists to put Romeo in the Capulet hall on the one night that matters and to give his later love a discarded draft to be measured against. The other side calls her a theme wearing a character's name: the play's argument about performed love and felt love, about a young man in love with the posture of loving, cannot be stated without her, because she is the evidence on which the argument is tried.
 
-![Rosaline, the unseen first love weighed as plot device or theme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rosaline, the unseen first love weighed as plot device or theme - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The verdict of this article is for the theme, and it is not a verdict that splits the difference. The machinery is real, and the device reading describes the machinery accurately; every fact it cites is a fact. What the device reading cannot explain is the play's conduct toward its own mechanism. A dramatist who needs only a trigger writes the trigger, fires it, and lets it drop. This dramatist withholds the beloved's name for a whole scene, delivers the name as handwriting on a servant's list, frames the transfer to Juliet as an experiment proposed in advance and judged while it runs, buries the discarded love in a formal Chorus sonnet, lets her name go on circulating among characters who have not heard the news, and then stages a scene in which a friar cross-examines the lover and pronounces the play's thesis over her grave: young men's love lies not in their hearts but in their eyes. Devices do not receive funerals, post-mortems, and thesis statements. The play annotates its device until the annotation becomes the meaning, and the correct description of Rosaline is a theme that a plot device was used to carry. Quotations in this article follow the Folger Shakespeare Library edition, cited by act, scene, and line.
 

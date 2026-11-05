@@ -6,15 +6,15 @@ date: 2030-08-09
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "structural-analysis", "mercutio", "turning-point", "mercutio-death-hinge"]
 excerpt: "Mercutio's death at the center of Romeo and Juliet is the play's hinge, the moment its bright comedy turns irreversibly toward the tragedy of its second half."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-08-09
+lang: en
 ---
-
 Mercutio's death is the hinge of Romeo and Juliet, and the claim can be tested rather than merely felt. The play contains twenty-four scenes. Eleven of them run their course before the fatal street scene begins, twelve follow once it has closed, and the death itself falls inside the twelfth, a scene that straddles the arithmetical middle of the text. Before that scene, no one in Verona has died. The action has produced a brawl dispersed by authority, a feast crashed without consequence, a courtship completed at a window, and a marriage performed in secret. After that scene, the same machinery that produced those outcomes produces banishment, a forced second marriage, a sleeping potion, a sealed door, and six corpses. The hinge is the point where the play's mechanisms reverse their direction, and Mercutio's death is that point, because his is the first wound that cannot be laughed off, apologized for, or married away.
 
-![Mercutio's death as the hinge of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mercutio's death as the hinge of the play - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This article argues the hinge claim on measurements, not on mood. Mood is real, and audiences register the temperature drop in Act 3 Scene 1 within minutes, but mood cannot be checked. What can be checked is the play's arithmetic: where the death falls in the scene count and the line count, how the distribution of prose and verse shifts across it, how the calendar compresses behind it, how many deaths stand on each side of it, and how a single word spoken in the street scene travels forward to stop a letter four acts later. Measured on those instruments, the hinge is not an impression critics share. It is a joint the playwright built, visible in the structure the way a door's hinge is visible in the door.
 

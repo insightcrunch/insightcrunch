@@ -6,15 +6,15 @@ date: 2030-10-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "dramatic-technique", "dramatic-irony", "prologue", "dramatic-irony"]
 excerpt: "Romeo and Juliet runs on dramatic irony, for the Prologue tells the audience the lovers will die, so every hopeful moment is shadowed by a doom we already know."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-10-25
+lang: en
 ---
-
 Dramatic irony is not a decoration on Romeo and Juliet. It is the load-bearing structure of the whole play, installed before the first scene begins and never dismantled. A Chorus walks out ahead of the action and spends the ending in public: "A pair of star-crossed lovers take their life," and their death will "bury their parents' strife" (Prologue 6-8, Folger text). From that moment, no spectator watches the lovers walk toward an unknown future. Every hope voiced on stage is heard against a grave the house has already been shown, every plan is audited against an outcome the planners cannot imagine, and every joke about death lands in ears that know the death is scheduled. The verdict of this article is stated at the outset because the play states its own ending at the outset: the announcement is not a leak in the design but the design itself, the deliberate conversion of suspense into dread, and the source of the pathos that four centuries of audiences, nearly all of whom arrived knowing the story, have reliably felt. A play that can be rewatched, reread, taught, parodied, and quoted for generations without exhausting its grip is a standing refutation of the idea that a known ending is a spoiled one.
 
-![The Chorus announcing the lovers' deaths to the audience before the action begins - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Chorus announcing the lovers' deaths to the audience before the action begins - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The distinction matters because the two kinds of tension obey different laws. Suspense asks what will happen, and it dies the moment the answer is known. Dread asks how the known thing will arrive, who will be standing where when it does, and which small human error will serve as its instrument, and dread survives every answer except the last detail. Shakespeare's play runs almost entirely on the second fuel. Its famous uncertainties are never about destination. They are about mechanism and timing: whether a letter will travel faster than a rumour, whether a sleeper will wake before or after a cup is drained, whether a friar crossing a churchyard will arrive inside a window measured in minutes. Bertrand Evans, whose Shakespeare's Tragic Practice (1979) remains the fullest anatomy of the method, named the underlying condition discrepant awareness: a sustained, engineered inequality between what the audience knows and what each character knows, scene by scene, speech by speech. In this play the inequality is not an occasional effect. It is the medium in which every scene is suspended, and the Prologue is the act of filling that medium before the action starts.
 

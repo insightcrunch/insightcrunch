@@ -8,10 +8,10 @@ tags: ["romeo-and-juliet", "shakespeare", "close-reading", "potion", "pharmacolo
 excerpt: "Friar Laurence's potion gives Juliet a death-like trance for exactly forty-two hours, a precise effect that invites a sober look at its science and stage logic."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-08-23
+lang: en
 ---
-
 Friar Laurence's potion is the most precisely specified drug in Shakespeare. It arrives in Act 4 Scene 1 with a vial, a single draught, a checklist of bodily signs it will produce, and a term of service stated to the hour: two and forty hours, after which Juliet will awake as from a pleasant sleep. No other medicine in the canon comes with anything like this documentation. The apothecary's poison in Act 5 is described only by its speed. The love juice in A Midsummer Night's Dream is described only by its errand. The Friar's liquor, by contrast, is specified the way a clinician specifies, sign by sign and hour by hour, and the specification invites the question this article answers: is the draught a piece of magic that a charitable audience excuses, or a piece of pharmacology that a period audience could examine? The verdict argued throughout is that the potion is dramatic engineering built from genuine materia medica. Its materials, its vocabulary, and its promised signs all belong to the real soporific culture of the sixteenth century. Its guarantee does not. Shakespeare took a drug tradition that was variable, dangerous, and honest about its uncertainty, and rewrote it as a contract with a fixed term, because the plot of the tragedy runs on that contract and on nothing else.
 
 ![Friar Laurence's vial and the forty-two-hour potion of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)

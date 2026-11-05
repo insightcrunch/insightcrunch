@@ -6,15 +6,15 @@ date: 2030-07-12
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "myth-bust", "balcony", "stage-history", "did-shakespeare-invent-balcony"]
 excerpt: "The famous balcony is not in Shakespeare's Romeo and Juliet, the word never appears, and the iconic scene was created by later stage tradition, not the writer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2030-07-12
+lang: en
 ---
-
 No. Shakespeare did not invent the balcony in Romeo and Juliet, because there is no balcony in Romeo and Juliet. The word appears nowhere in the play, in no speech and in no direction, and the scene the whole world calls the balcony scene was furnished by other hands: by an Italian storyteller who had used a balcony eighty years before the play existed and whose successors took it away, by a Restoration adapter who put the word into a stage direction in 1679, by actors who staged what editors declined to print, by painters who fixed the picture, by an opera that built the structure into its scenery, and finally by a city in Italy that built the thing itself in stone. The verdict of this article is that the balcony is an heirloom of the story, older than the play in one branch of its ancestry and younger than the play in its English life, and that Shakespeare's contribution to the most famous architectural feature of his most famous scene was to leave it out. What he wrote instead was a window, a height, and a wall, and the scene he built from those three plain coordinates behaves differently from the scene the balcony later froze into an emblem.
 
-![Juliet at her window above the Capulet orchard, the scene tradition renamed for a balcony the text never mentions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at her window above the Capulet orchard, the scene tradition renamed for a balcony the text never mentions - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The correction matters for more than tidiness. A balcony and a window are not two names for one piece of scenery. A balcony is a platform outside the house, a place a person steps onto and occupies, built for standing, leaning, and being seen. A window is an opening in a wall, a threshold a person looks through and speaks through while remaining inside. The play's Juliet is a daughter inside her father's house, overheard through its fabric, twice withdrawn into the house and twice returning to its opening, in a scene whose whole rhythm is approach and retreat across a boundary she does not cross. Give her a platform and the rhythm dies: the icon replaces the negotiation. Tracing how the platform arrived, exhibit by datable exhibit, is therefore not antiquarian housekeeping. It restores the scene's actual mechanics, and it gives the myth a biography precise enough to retire it. Quotations from the play in what follows are from the Folger Shakespeare Library text, with the early quartos consulted in the diplomatic transcriptions of the SENS archive at the University of Verona.
 

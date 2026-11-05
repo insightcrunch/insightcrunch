@@ -6,15 +6,15 @@ date: 2030-10-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "first-performance", "elizabethan-theatre", "first-performed"]
 excerpt: "Where Romeo and Juliet was first performed is uncertain, but the evidence points to the playhouses of the mid-1590s, likely the Theatre or Curtain in London."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-10-18
+lang: en
 ---
-
 Where was Romeo and Juliet first performed? The honest opening answer is that no surviving document says. No diary entry, no payment warrant, no letter, and no title page names the room in which the tragedy of the Montague and Capulet children was first played. Yet the question is far from empty, because the evidence surrounding the play is dense, datable, and mutually checking. A title page fixes the company and narrows the performances it boasts of to a window of about eight months. A patronage succession dates that window to the season on either side of the spring of 1597. A lease, a landlord, a lawsuit, a rival manager's account book, a Treasury warrant, and the ground plans of two excavated Shoreditch playhouses each contribute a strand. Followed one by one and weighed without inflation, the strands converge on a single address: the Theatre in Shoreditch, the playhouse James Burbage raised in 1576 on leased ground north of Bishopsgate, where Shakespeare's company, the Lord Chamberlain's Men, was based from its formation in 1594.
 
-![The Theatre and the Curtain in Shoreditch, the two candidate houses for the first performance of the play - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Theatre and the Curtain in Shoreditch, the two candidate houses for the first performance of the play - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 The verdict of this article is therefore precise but graded. The first performance of Romeo and Juliet belongs in all probability to the Theatre, in the middle years of the 1590s, before the company's landlord troubles broke into the open. The Curtain, two hundred yards away, remains a genuine alternative only inside a narrow corridor of months in 1597, while the company was being levered out of its first home; it cannot support the later dating, found in otherwise respectable places, that would make the Curtain the scene of a premiere in 1598 or 1599. The Globe, the house that popular imagination supplies for every Shakespeare premiere, is excluded by simple arithmetic: the tragedy was in print, already boasting of frequent performance, two years before the Globe's timbers rose on Bankside. The cliché pictures the lovers under the Globe's thatch. The evidence restores the earlier, plainer, more interesting truth: a young company, a borrowed name, a failing lease, and a play that had to make its first impression in the first great public playhouse of the London suburbs.
 

@@ -6,15 +6,15 @@ date: 2030-08-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "plague", "friar-john", "plague-delayed-friar"]
 excerpt: "In Romeo and Juliet a plague outbreak traps Friar John in quarantine, so the crucial letter never reaches Romeo, a small accident that seals the lovers' deaths."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2030-08-02
+lang: en
 ---
-
 The catastrophe of Romeo and Juliet does not end with a villain's blow or a star's decree. It ends with a door. In Act 5, Scene 2, Friar John returns to Laurence's cell carrying the most consequential piece of paper in the play, the letter that would have told Romeo that Juliet's death is a performance and her tomb a waiting room, and he reports that the letter never left Verona. He had gone to find a fellow friar to travel with him, the companion was found visiting the sick, and the searchers of the town, suspecting that both men had been inside a house where pestilence reigned, sealed up the doors and would not let them forth. No substitute messenger could be found, because everyone feared infection. The plague that delayed Friar John is the smallest mechanism in the tragedy and the one on which everything finally turns: a routine act of public health, performed by minor officers on suspicion alone, in a city the audience never sees infected at all.
 
-![Friar John reporting the plague quarantine that delayed his letter to Mantua - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friar John reporting the plague quarantine that delayed his letter to Mantua - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The verdict of this article can be stated at once. The plague device is not Shakespeare's invention and not his embarrassment. He inherited the failed letter, plague and all, from Arthur Brooke's poem of 1562 and from William Painter's prose tale of 1567, and what he did to the inheritance was to tighten it at every joint: he moved the stoppage from the far end of the journey to its starting point, replaced a confirmed plague death with a mere suspicion, abolished the overnight recovery the sources allow, and set the whole mechanism inside a potion's clock of forty-two hours. The old charge that the ending rests on a contrived coincidence survives only against the raw event, which is borrowed. Against the writing, it fails. The accident arrives prepared by the play's own language, since Mercutio's dying curse names a plague on both houses three acts before the plot delivers one, and it arrives legible to its first audience, for whom a sealed door was not an exotic Italian device but the most familiar sight of the plague years that had closed London's theatres from 1592 to 1594. What seals the lovers' deaths is not chance wearing a costume. It is the ordinary machinery of their world, and of the audience's world, working exactly as designed.
 
