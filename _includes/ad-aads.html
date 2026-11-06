@@ -1,0 +1,41 @@
+{%- comment -%}
+  A-Ads banner unit - InsightCrunch
+  --------------------------------------------------------------
+  Usage:
+    {% include ad-aads.html slot="inarticle" %}
+    {% include ad-aads.html slot="endpost" %}
+    {% include ad-aads.html slot="home"    unit=site.ads.aads.unit_home %}
+    {% include ad-aads.html slot="sidebar" unit=site.ads.aads.unit_sidebar %}
+
+  Parameters
+    slot   - inarticle | endpost | home | sidebar   (drives the CSS class)
+    unit   - A-Ads unit id; defaults to site.ads.aads.unit_id
+    label  - set to "false" to drop the "Advertisement" caption
+
+  Global kill switch: site.ads.enabled in _config.yml
+  Per-post opt out:   no_ads: true in the post front matter
+{%- endcomment -%}
+{%- comment -%} Paywalled posts stay ad-free: blocker-detect.html promises the
+     reader "no ads, no tracking". Flip ads.skip_on_paywall to false only if you
+     also rewrite that copy. {%- endcomment -%}
+{%- assign aa_block = false -%}
+{%- if site.ads.skip_on_paywall != false and page.paywall -%}{%- assign aa_block = true -%}{%- endif -%}
+{%- if site.ads.enabled and page.no_ads != true and aa_block == false -%}
+{%- assign aa_unit = include.unit | default: site.ads.aads.unit_id -%}
+{%- assign aa_slot = include.slot | default: "inline" -%}
+<!-- BEGIN AADS AD UNIT {{ aa_unit }} ({{ aa_slot }}) -->
+<div class="ad-slot ad-slot--{{ aa_slot }}">
+  {%- unless include.label == false or include.label == "false" %}
+  <span class="ad-slot__label">Advertisement</span>
+  {%- endunless %}
+  <iframe class="ad-frame"
+          data-aa="{{ aa_unit }}"
+          src="https://acceptable.a-ads.com/{{ aa_unit }}/?size=Adaptive"
+          title="Advertisement"
+          loading="lazy"
+          scrolling="no"
+          frameborder="0"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<!-- END AADS AD UNIT {{ aa_unit }} -->
+{%- endif -%}

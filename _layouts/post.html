@@ -690,9 +690,29 @@ article {
     | replace: 'srcset="/assets/', asset_srcset_prefix
   %}
 
+  {%- comment -%} In-article ad lives in a <template>: nothing loads until JS
+      decides the article is long enough, so short posts stay completely ad-free. {%- endcomment -%}
+  <template id="adInArticleTpl">{% include ad-aads.html slot="inarticle" %}</template>
+
   <div class="post-content">
     {{ fixed_content }}
   </div>
+
+  <script>
+  (function(){
+    var tpl = document.getElementById('adInArticleTpl');
+    var box = document.querySelector('.post-content');
+    if(!tpl || !box || !tpl.content || !tpl.content.firstElementChild) return;
+    var MIN = {{ site.ads.min_paragraphs | default: 8 }};
+    var paras = box.querySelectorAll(':scope > p');
+    if(paras.length < MIN) return;
+    var after = paras[Math.min(3, paras.length - 4)];
+    if(!after) return;
+    after.insertAdjacentElement('afterend', tpl.content.firstElementChild.cloneNode(true));
+  })();
+  </script>
+
+  {% include ad-aads.html slot="endpost" %}
  
   {% if page.paywall %}
     {% include blocker-detect.html %}

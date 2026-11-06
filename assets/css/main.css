@@ -597,3 +597,34 @@ body::before {
 /* Hide any injected author avatar */
 .sb-card img, .sb-avatar,
 .sb-card [class*="avatar"], .sb-card [class*="photo"] { display: none !important; }
+
+
+/* ── Ad slots (A-Ads) ─────────────────────────────────────────── */
+.ad-slot{
+  margin: 30px 0; padding: 12px 0 14px;
+  border-top: 1px solid var(--rule2); border-bottom: 1px solid var(--rule2);
+  text-align: center; background: rgba(253,250,245,.55);
+}
+.ad-slot__label{
+  display: block; margin-bottom: 8px;
+  font-family: 'DM Sans', sans-serif; font-size: 9px;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--soft);
+}
+/* Fixed box = zero layout shift. A-Ads Adaptive fills whatever box it gets. */
+.ad-slot .ad-frame{
+  display: block; margin: 0 auto; border: 0; padding: 0;
+  width: 100%; max-width: 468px; height: 60px; overflow: hidden;
+}
+.ad-slot--home{ margin: 0 0 4px; background: transparent; border-bottom: none; }
+.ad-slot--endpost{ margin-top: 34px; }
+.ad-slot--sidebar{
+  margin: 16px 0 0; padding: 10px 0 0; background: transparent;
+  border: none; border-top: 1px solid rgba(255,255,255,.08);
+}
+.ad-slot--sidebar .ad-slot__label{ color: rgba(255,255,255,.32); }
+.ad-slot--sidebar .ad-frame{ max-width: 196px; height: 200px; }
+@media (max-width: 760px){
+  .ad-slot .ad-frame{ max-width: 320px; height: 50px; }
+  .ad-slot--sidebar .ad-frame{ max-width: 320px; height: 50px; }
+}
+@media print{ .ad-slot{ display: none !important; } }

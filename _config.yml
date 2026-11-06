@@ -46,6 +46,20 @@ kramdown:
     guess_lang: false
     line_numbers: false
 
+# ── Monetisation ─────────────────────────────────────────────────
+# Master switch. Set enabled: false to strip every ad from the site
+# in one commit, with no layout edits.
+ads:
+  enabled: true
+  aads:
+    unit_id:      "2461250"   # in-article + end-of-article
+    unit_home:    "2461250"   # swap when you cut a separate home unit
+    unit_sidebar: "2461250"   # swap when you cut a separate sidebar unit
+  # Paywalled posts stay ad-free (blocker-detect.html promises "no ads").
+  skip_on_paywall: true
+  # Posts with fewer top-level paragraphs than this get no in-article ad.
+  min_paragraphs: 8
+
 defaults:
   - scope:
       path: ""
