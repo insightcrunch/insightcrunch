@@ -36,6 +36,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -123,6 +124,19 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      # ── Diagnostics: how big is the site we are asking Pages to publish? ──
+      # GitHub Pages has a 1 GB soft limit on the published site. A large
+      # file count is the usual reason the deploy step crawls.
+      - name: Report built site size
+        run: |
+          echo "### Built site" >> $GITHUB_STEP_SUMMARY
+          echo "Total size: $(du -sh _site | cut -f1)" >> $GITHUB_STEP_SUMMARY
+          echo "File count: $(find _site -type f | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "HTML files: $(find _site -name '*.html' | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "Avg HTML KB: $(find _site -name '*.html' -printf '%s\n' | awk '{t+=$1;n++} END {if(n>0) printf "%.0f", t/n/1024}')" >> $GITHUB_STEP_SUMMARY
+          du -sh _site
+          find _site -type f | wc -l
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
@@ -132,7 +146,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    timeout-minutes: 40
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Default is 600000 ms (10 min), which is exactly where runs
+          # #1417 and #1418 died ("Timeout reached, aborting!" at 10m06s).
+          # This action only POLLS the Pages API - raising the ceiling
+          # costs nothing when the deploy is healthy.
+          timeout: 1800000          # 30 minutes
+          error_count: 10           # tolerate more transient API errors
+          reporting_interval: 15000 # poll every 15s instead of every 5s
