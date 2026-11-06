@@ -9,7 +9,7 @@ excerpt: "A vast study-guide industry shapes how students read Romeo and Juliet,
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-04-19
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet reaches most of its readers through an intermediary. Between the student and the play stands the study-guide industry, a trade that began in a Toronto bookshop's back room, industrialized in a Lincoln, Nebraska basement, and migrated onto advertising-funded websites and subscription platforms. Its products are summaries, character sketches, theme lists, glossaries, and sample essays, sold first as pamphlets priced in cents and later given away against the value of a student's attention. The trade's defenders describe a democratization of help. Its critics describe a machine for not reading. Both descriptions fit parts of the record, and the argument of this article is that neither touches the real mechanism. The industry's decisive product is not information. It is sequence. A guide determines what a student meets first, and whatever is met first frames everything after it: the summary's plot becomes the play's plot, the theme list becomes the play's meaning, and the original text, when it is opened at all, is read as an expansion of a digest already absorbed. A student who reads the play first and the guide second owns an instrument. A student who reads the guide first and the play second owns a verdict in search of evidence.

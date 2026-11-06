@@ -9,7 +9,7 @@ excerpt: "In Romeo and Juliet a plague outbreak traps Friar John in quarantine, 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-08-02
+last_updated: 2026-11-06
 lang: en
 ---
 The catastrophe of Romeo and Juliet does not end with a villain's blow or a star's decree. It ends with a door. In Act 5, Scene 2, Friar John returns to Laurence's cell carrying the most consequential piece of paper in the play, the letter that would have told Romeo that Juliet's death is a performance and her tomb a waiting room, and he reports that the letter never left Verona. He had gone to find a fellow friar to travel with him, the companion was found visiting the sick, and the searchers of the town, suspecting that both men had been inside a house where pestilence reigned, sealed up the doors and would not let them forth. No substitute messenger could be found, because everyone feared infection. The plague that delayed Friar John is the smallest mechanism in the tragedy and the one on which everything finally turns: a routine act of public health, performed by minor officers on suspicion alone, in a city the audience never sees infected at all.

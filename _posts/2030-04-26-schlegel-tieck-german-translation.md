@@ -9,7 +9,7 @@ excerpt: "The Schlegel-Tieck German Romeo and Juliet became so beloved that Germ
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-04-26
+last_updated: 2026-11-06
 lang: en
 ---
 The German Romeo and Juliet that German readers, actors, and schoolchildren have quoted for more than two centuries is the work of one hand, and the hand does not belong to the man whose name stands second on its spine. August Wilhelm Schlegel translated the play himself. He printed it first in Schiller's journal Die Horen in 1796 and issued it in book form in 1797 as the opening play of his Shakspeare's dramatische Werke, published by Johann Friedrich Unger in Berlin. Ludwig Tieck, whose name the finished German Shakespeare would carry beside Schlegel's, translated none of this play. The double name is the brand of a completed set, finished between 1825 and 1833 by other hands, chiefly Wolf Heinrich Graf von Baudissin and Dorothea Tieck. The brand has done its work so well that the shorthand Schlegel-Tieck is spoken everywhere as if it named a partnership at a single desk. It did not, and the distinction matters, because the credit structure of the most influential translation in German literary history rests on getting the hands right.

@@ -4,11 +4,11 @@ title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
 date: 2026-03-08
 categories: ['Industry']
 tags: ['CAT', 'MBA']
-excerpt: 'A thorough, strategic, and highly practical guide to preparing for CAT, from understanding the exam architecture to mastering mocks, building section-wise...'
+excerpt: 'CAT exam preparation blueprint: VARC, DILR, and QA section strategies, mock test planning, time management, and the study approach that cracks 99...'
 image: '/assets/images/blog/blog-96.webp'
 reading_time: 32
 author: "alex-cunningham"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: en
 ---
 ## **1. Introduction**

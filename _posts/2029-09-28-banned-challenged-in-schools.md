@@ -9,7 +9,7 @@ excerpt: "Though a classroom staple, Romeo and Juliet has been challenged and so
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-09-28
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet is the most assigned play in the English-speaking schoolroom and one of the least removable, and those two facts define its censorship history. The play has been objected to, expurgated, abridged without notice, reviewed by a state committee, and reduced to excerpts by a large Florida district, yet it has never held a place on the American Library Association's lists of the most challenged books in any published decade, and no district in the documented record has succeeded in striking it from a curriculum outright. The verdict this article defends is precise: the formal challenges to the play are almost always defeated, because challengers and defenders are arguing over property the school itself owns, while the restrictions that succeed arrive quietly, through an editor's pencil, a publisher's silent abridgment, or an administrator's pre-emptive excerpt. The friction is real. The play's bawdy, its clandestine marriage, its wedding night, its street killings, and its double suicide are all genuinely in the text, and every ground ever raised against the play can be pointed to, line by line, in a named edition. What the record does not support is the remedy. Case by case, from an 1807 family edition to a 2024 state review, restriction has either failed or shrunk the text without settling the objection, while the defenses that worked shared one form: the complete play, plainly labeled, defended in writing by the profession assigned to teach it.

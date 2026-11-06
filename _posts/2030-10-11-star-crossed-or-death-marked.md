@@ -9,7 +9,7 @@ excerpt: "The Romeo and Juliet Prologue calls the lovers star-crossed and their 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-10-11
+last_updated: 2026-11-06
 lang: en
 ---
 The Prologue to Romeo and Juliet announces the tragedy twice over, in two phrases that do not say the same thing. In one breath the Chorus calls Romeo and Juliet "a pair of star-cross'd lovers" (Prologue.6), assigning their ruin to the heavens, to stars whose adverse configuration crosses a human life the way weather crosses a sea route. Four lines later the Chorus calls their love "death-mark'd" (Prologue.9), assigning the same ruin to a mark carried on the love itself, a stamp of mortality that names no agent and blames no sky. One phrase accuses the cosmos. The other describes a condition. Generations of quotation have fused them into a single gesture of doom, and the fusion hides a genuine contest: the play that follows the Prologue spends five acts testing which of the two announcements its events will ratify, and the early printed texts, examined closely, stage the same contest in miniature before a single character speaks.

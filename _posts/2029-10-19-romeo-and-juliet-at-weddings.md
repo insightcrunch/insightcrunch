@@ -9,7 +9,7 @@ excerpt: "Couples often quote Romeo and Juliet in wedding readings and vows, bor
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-10-19
+last_updated: 2026-11-06
 lang: en
 ---
 # The Play at Weddings and in Vows: Irony, Readings and Ritual

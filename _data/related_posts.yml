@@ -33206,12 +33206,6 @@ insolvency-bankruptcy-code-2016-guide:
   category: industry
   image: /assets/images/blog/blog-93.webp
   lang: en
-- slug: how-prepackaged-bankruptcy-works
-  title: How Prepackaged Bankruptcy Works From Deal to Court
-  url: /2026/10/22/how-prepackaged-bankruptcy-works/
-  category: industry
-  image: /assets/images/blog/blog-75.webp
-  lang: en
 nepa-environmental-impact-statement:
 - slug: national-environmental-policy-act-guide
   title: National Environmental Policy Act Guide to Federal Review
@@ -43344,12 +43338,6 @@ surveillance-law-court-cases:
   url: /2017/09/15/internet-law-supreme-court-cases/
   category: industry
   image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: how-purcell-principle-works
-  title: 'Purcell Principle Explained: Courts and Election Timing'
-  url: /2026/10/26/how-purcell-principle-works/
-  category: industry
-  image: /assets/images/blog/blog-81.webp
   lang: en
 wizard-of-oz-meaning-allegory-analysis:
 - slug: princess-bride-cult-fantasy-adaptation
@@ -71819,12 +71807,6 @@ competition-act-2002-explained:
   url: /2013/02/15/sarfaesi-act-2002-explained/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: why-media-companies-merge
-  title: 'Why Media Companies Merge: Consolidation Explained'
-  url: /2026/10/05/why-media-companies-merge/
-  category: industry
-  image: /assets/images/blog/blog-32.webp
   lang: en
 crouching-tiger-wuxia-global-crossover:
 - slug: brokeback-mountain-ang-lee-lgbtq
@@ -123197,6 +123179,12 @@ gatsby-vagueness-mystery:
   image: /assets/images/blog/blog-25.webp
   lang: en
 why-media-companies-merge:
+- slug: how-corporate-spin-offs-work
+  title: 'How Corporate Spin-Offs Work: The Mechanics of Splitting'
+  url: /2026/11/06/how-corporate-spin-offs-work/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: competition-act-2002-explained
   title: 'The Competition Act 2002 Explained: The Three Pillars'
   url: /2020/02/15/competition-act-2002-explained/
@@ -123214,12 +123202,6 @@ why-media-companies-merge:
   url: /2017/10/02/dhurandhar-media-real-killings/
   category: industry
   image: /assets/images/blog/blog-13.webp
-  lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
-  category: industry
-  image: /assets/images/blog/blog-111.webp
   lang: en
 how-vote-by-mail-works:
 - slug: how-employment-green-card-sponsorship-works
@@ -124084,6 +124066,12 @@ ukraine-ceasefire-safer-or-riskier:
   image: /assets/images/blog/blog-04.webp
   lang: en
 how-prepackaged-bankruptcy-works:
+- slug: how-corporate-spin-offs-work
+  title: 'How Corporate Spin-Offs Work: The Mechanics of Splitting'
+  url: /2026/11/06/how-corporate-spin-offs-work/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: insolvency-bankruptcy-code-2016-guide
   title: 'Insolvency and Bankruptcy Code 2016: The Complete Guide'
   url: /2012/04/01/insolvency-bankruptcy-code-2016-guide/
@@ -124101,12 +124089,6 @@ how-prepackaged-bankruptcy-works:
   url: /2012/04/15/ibc-implementation-record/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: uri-surgical-strikes-new-doctrine
-  title: Uri to Surgical Strikes New Doctrine
-  url: /2019/09/23/uri-surgical-strikes-new-doctrine/
-  category: industry
-  image: /assets/images/blog/blog-20.webp
   lang: en
 hazlitt-characters-romeo-and-juliet:
 - slug: coleridge-lectures-romeo-and-juliet
@@ -124209,6 +124191,12 @@ how-literary-retranslation-works:
   image: /assets/images/blog/blog-93.webp
   lang: en
 how-purcell-principle-works:
+- slug: how-federal-grant-conditions-work
+  title: 'How Federal Grant Conditions Work: The Law of Strings'
+  url: /2026/11/05/how-federal-grant-conditions-work/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: surveillance-law-court-cases
   title: 'Surveillance Law in the Courts: The Standing Wall Explained'
   url: /2014/06/01/surveillance-law-court-cases/
@@ -124226,12 +124214,6 @@ how-purcell-principle-works:
   url: /2010/07/01/voting-rights-act-section-5-preclearance/
   category: industry
   image: /assets/images/blog/blog-67.webp
-  lang: en
-- slug: ada-supreme-court-cases
-  title: 'Supreme Court ADA Cases: Disability Rights Landmark Rulings'
-  url: /2015/08/15/ada-supreme-court-cases/
-  category: industry
-  image: /assets/images/blog/blog-52.webp
   lang: en
 prohibition-bootlegging-gatsby:
 - slug: speakeasies-nightlife-gatsby
@@ -124670,6 +124652,37 @@ nightjar-standing-detail-005:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+how-federal-grant-conditions-work:
+- slug: mmdr-act-mining-law-india
+  title: The MMDR Act 1957 and Mining Law in India Explained
+  url: /2020/10/15/mmdr-act-mining-law-india/
+  category: industry
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: atomic-energy-act-1954-guide
+  title: 'Atomic Energy Act: Private Nuclear Power Under Federal Law'
+  url: /2016/09/15/atomic-energy-act-1954-guide/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: education-concurrent-list-federalism
+  title: 'Education on the Concurrent List: India''s Federal Fault Line'
+  url: /2015/05/01/education-concurrent-list-federalism/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: federal-drug-law-vs-state-law
+  title: 'Federal Drug Law vs State Legalization: Who Governs What'
+  url: /2018/09/01/federal-drug-law-vs-state-law/
+  category: industry
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: how-purcell-principle-works
+  title: 'Purcell Principle Explained: Courts and Election Timing'
+  url: /2026/10/26/how-purcell-principle-works/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 anna-jameson-victorian-juliet:
 - slug: mary-cowden-clarke-juliet-girlhood
   title: 'Mary Cowden Clarke and Juliet''s Girlhood: The White Dove'
@@ -124694,6 +124707,31 @@ anna-jameson-victorian-juliet:
   url: /2027/04/16/twentieth-century-rehabilitation/
   category: leisure
   image: /assets/images/blog/blog-50.webp
+  lang: en
+how-corporate-spin-offs-work:
+- slug: why-media-companies-merge
+  title: 'Why Media Companies Merge: Consolidation Explained'
+  url: /2026/10/05/why-media-companies-merge/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: how-prepackaged-bankruptcy-works
+  title: How Prepackaged Bankruptcy Works From Deal to Court
+  url: /2026/10/22/how-prepackaged-bankruptcy-works/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: uri-surgical-strikes-new-doctrine
+  title: Uri to Surgical Strikes New Doctrine
+  url: /2019/09/23/uri-surgical-strikes-new-doctrine/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: sat-practice-test-analysis
+  title: SAT Practice Test Analysis Done Properly
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
   lang: en
 f-scott-fitzgerald-biography:
 - slug: gatsby-alternate-titles

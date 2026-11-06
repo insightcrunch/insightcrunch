@@ -9,7 +9,7 @@ excerpt: "In the final scene of Romeo and Juliet, Montague reports that grief ov
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2030-09-27
+last_updated: 2026-11-06
 lang: en
 ---
 The death of Lady Montague is the easiest loss in Romeo and Juliet to miss, and the miss is understandable. She has no death scene, no sickroom, no farewell, no body carried through the streets, and no mourner assigned to her. She dies off stage, at an unstated place, at the hands of a cause stated in five words, and the play spends her entire dying inside three lines of her husband's entrance speech in the final scene, lines delivered before he has seen the tomb and answered by nobody. Readers finish the tragedy counting the lovers. Productions cut the announcement and lose nothing they can feel. Yet the report is in the text, in both early quartos, placed with care at the head of the last movement, and it changes the arithmetic of the ending for anyone who stops to register it: the feud's final toll is not two young lives but six deaths, and the sixth belongs to the older generation, to a woman who never raised a hand in the quarrel and whose whole part in the play is three lines long.

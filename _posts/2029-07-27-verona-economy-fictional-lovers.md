@@ -9,7 +9,7 @@ excerpt: "A real city's tourist economy rests on two characters who never lived,
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2029-07-27
+last_updated: 2026-11-06
 lang: en
 ---
 Verona runs an economy on Romeo and Juliet that no balance sheet in the city fully records, and the parts that can be counted point the same way: the lovers generate enormous volume at small yield per visitor, the scarcest asset in the system is a balcony the city itself attached to a medieval house in the 1930s, and the value the legend creates is captured unevenly, by the municipality that prices the sites, by the hoteliers and restaurateurs who absorb the spillover, and by unpaid volunteers whose labour subsidizes the whole structure. This article audits the money system whole: the visitor counts, the ticket prices, the wedding fees, the letter trade, the souvenir trade, the maintenance bills and the brand. Its verdict, defended against the commodification critics and against the city's own promotional arithmetic alike, is that Verona operates a devotion economy. The product is not deception, because the fabrication is openly documented and the visitors arrive informed. The product is participation in a fiction at the place the fiction names, and the play itself announced that product in its closing scene, when Montague promised to raise Juliet's statue in pure gold while Verona bore the name (5.3). The city has spent a century building the fulfilment of that promise into ticket offices, tariff schedules and festival programming.

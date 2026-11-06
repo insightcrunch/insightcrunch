@@ -9,7 +9,7 @@ excerpt: "Across Latin America Romeo and Juliet has been staged, filmed, and rew
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-06-07
+last_updated: 2026-11-06
 lang: en
 ---
 The verdict on the Latin American life of Romeo and Juliet can be stated in one sentence: the tragedy did not arrive in the region as a finished European possession and get politely received; it was seized, translated by poets, laughed into new shapes by comedians, carried into streets and circus rings, and fed into the serial machinery of radio and television, and at every stage of that journey the price of admission was the same, a local feud and a local form. What Latin America did to the play is the strongest evidence in the whole global record for a proposition the rest of the series has tested country by country: the play survives travel not by being protected from its new home but by being surrendered to it. The surrender, though, was never free. Each host culture paid for the play in its own currency, and the exchange rate can be read off the endings. Where a region's forms prize reconciliation, the lovers tend to live. Where its forms can hold a corpse in public view and call the sight necessary, the lovers die on schedule. Tracing that exchange rate, from the first Spanish rewritings that reached American stages to a Brazilian football comedy and an Argentine television serial, is the work of the pages that follow.

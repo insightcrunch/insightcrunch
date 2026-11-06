@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet helped shape the modern ideal of romantic love itself
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-11-30
+last_updated: 2026-11-06
 lang: en
 ---
 ## Did Romeo and Juliet Invent Romantic Love? The Claim and the Verdict

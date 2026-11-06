@@ -9,7 +9,7 @@ excerpt: "In India's schools and universities Romeo and Juliet is a long-establi
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-03-22
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet reached the Indian curriculum as an instrument of government before it reached Indian readers as a play. English literary study was assembled in the colony, funded by an education grant, defended in a minute of 1835 that dismissed the literatures of India and Arabia in a single sentence, and then examined into permanence by universities founded in 1857. Any honest account of the play in Indian education has to begin with that machinery, because the machinery is documented in a way that literary enthusiasm is not: resolutions, syllabi, prescribed-text lists, examination blueprints. This article reads the play's Indian school and university career from those documents, board by board and level by level, and reaches a verdict that the documents support. The verdict is that the instrument changed hands, unevenly. At the top of the system the transfer is complete and demonstrable: Indian universities teach the whole play, Indian scholars edit the standard collections on its Indian career, and Indian syllabi set Macaulay's Minute itself as an object of study beside the canon it was written to serve. At the bottom of the system the transfer remains partial: in most Indian classrooms the play survives as a few examinable speeches inside an English subject whose sorting power, the power to separate the fluent from the rest, is the one colonial function the subject never surrendered.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet tattoos turn the lovers, the masks, and famous lines 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2029-10-26
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet tattoos make the largest claim any admirer of the play can make, and they make it in the only medium that cannot take the claim back at the price of a keystroke. A film can be recut, a poster reprinted, a wedding reading list revised the night before the ceremony. Ink sits where it was put, through the relationship it celebrates, through the job interview it complicates, through the decade in which the wearer's taste quietly changes. The lovers of Verona are therefore the severest test the tattoo medium offers, because the play chosen for this permanent honour is itself a four-hour argument against permanent pledges made in haste. Juliet states the objection in the orchard, in the middle of accepting the pledge: "I have no joy of this contract tonight. / It is too rash, too unadvised, too sudden" (2.2). The girl who says that line is dead within four days of stage time. The person who wears her words has volunteered for the opposite schedule, decades of carrying a sentence spoken by someone who never had to carry anything for long.

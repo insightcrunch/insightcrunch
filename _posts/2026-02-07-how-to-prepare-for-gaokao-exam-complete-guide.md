@@ -4,11 +4,11 @@ title: '高考备战全攻略：从考试架构到心态管理的系统性指南
 date: 2026-02-07
 categories: ['Analytics']
 tags: ['高考', '备考策略', '学习方法']
-excerpt: '一篇面向高考考生的深度战略指南，涵盖考试架构解析、各科目备考方法论、模考策略、时间管理、心态调控与资源选择，帮助你在这场决定性考试中建立系统化的准备体系。'
+excerpt: '高考备战全攻略：语数外理综文综各科目复习方法论、模考分析策略、时间管理技巧、心态调控方法与最后阶段冲刺规划的系统性指南。'
 image: '/assets/images/blog/blog-89.webp'
 reading_time: 35
 author: "zhang-hao"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: zh
 ---
 ## **1. 引言**

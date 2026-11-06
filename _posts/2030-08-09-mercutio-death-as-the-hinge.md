@@ -9,7 +9,7 @@ excerpt: "Mercutio's death at the center of Romeo and Juliet is the play's hinge
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2030-08-09
+last_updated: 2026-11-06
 lang: en
 ---
 Mercutio's death is the hinge of Romeo and Juliet, and the claim can be tested rather than merely felt. The play contains twenty-four scenes. Eleven of them run their course before the fatal street scene begins, twelve follow once it has closed, and the death itself falls inside the twelfth, a scene that straddles the arithmetical middle of the text. Before that scene, no one in Verona has died. The action has produced a brawl dispersed by authority, a feast crashed without consequence, a courtship completed at a window, and a marriage performed in secret. After that scene, the same machinery that produced those outcomes produces banishment, a forced second marriage, a sleeping potion, a sealed door, and six corpses. The hinge is the point where the play's mechanisms reverse their direction, and Mercutio's death is that point, because his is the first wound that cannot be laughed off, apologized for, or married away.

@@ -4,11 +4,11 @@ title: '大学英语四六级备考全攻略：从考试架构到实战策略的
 date: 2026-01-25
 categories: ['Analytics']
 tags: ['CET-4', 'CET-6', '四六级', '英语考试']
-excerpt: '一篇面向大学英语四六级考生的深度战略指南，涵盖考试架构解析、听力突破、阅读提速、写作与翻译方法论、备考时间规划与心态管理，帮助你在这场全国性英语能力考试中建立系统化的准备体系。'
+excerpt: '大学英语四六级备考全攻略：听力精听突破技巧、阅读理解提速方法、写作高分模板、翻译实战策略与考前30天冲刺时间规划详解。'
 image: '/assets/images/blog/blog-08.webp'
 reading_time: 35
 author: "tang-jing"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: zh
 ---
 ## **1. 引言**

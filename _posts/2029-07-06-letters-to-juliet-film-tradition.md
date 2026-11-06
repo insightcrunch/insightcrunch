@@ -9,7 +9,7 @@ excerpt: "Gary Winick's Letters to Juliet builds a romance on Verona's letter tr
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2029-07-06
+last_updated: 2026-11-06
 lang: en
 ---
 ## Letters to Juliet: The Verdict on the Film and Its Tradition

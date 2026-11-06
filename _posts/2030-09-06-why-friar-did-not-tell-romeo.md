@@ -9,7 +9,7 @@ excerpt: "A nagging question in Romeo and Juliet is why Friar Laurence trusts a 
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-09-06
+last_updated: 2026-11-06
 lang: en
 ---
 Every reader of the play eventually asks the question, usually in the small hours of Act 5, when Friar John walks back into the cell with the letter still in his hand. Friar Laurence had a secret of life and death to deliver to Romeo in Mantua. The secret concerned a banished man, a counterfeit corpse, and a waking timed to the hour. Instead of carrying the news himself, the Friar entrusted the whole design to a single sheet of paper and a fellow Franciscan who never left Verona. The lovers died of that decision, and the decision has been prosecuted ever since as the soft spot in the plot: the moment where the tragedy's machinery shows, where a sensible man does an indefensible thing because the story requires the message to fail.

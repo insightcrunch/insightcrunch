@@ -9,7 +9,7 @@ excerpt: "Internet culture keeps Romeo and Juliet alive as memes and jokes, mock
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-10-12
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet reaches the meme feed with its reputation reversed. Print culture spent four centuries polishing the lovers into an emblem of devotion; the feed prosecutes them. The recurring online treatment of the play is not worship but a charge sheet, delivered as comedy: two teenagers met, married within a day, and left six corpses behind them, and the internet finds this less moving than actionable. Around the prosecution sit the softer genres, the balcony picture endlessly re-captioned, the famous lines fitted into reaction templates, the film stills recycled as emotional shorthand. A survey of that record, graded honestly for evidence, supports a verdict that neither the mockers nor the mourners quite state. Memes are the heirs of the quotation dictionary that first detached the play's lines and sold them as household wisdom, with one inversion of method: the dictionary detached the line and kept the words exact, while the meme keeps the picture and lets the words drift. What survives the drift is the plot, compressed to its causally funniest bones. What thins out is the poetry, except where a caption happens to preserve it verbatim. The mockery transmits; it transmits an edited play.

@@ -9,7 +9,7 @@ excerpt: "The balcony scene of Romeo and Juliet is endlessly parodied, from cart
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-12-28
+last_updated: 2026-11-06
 lang: en
 ---
 Parodies of the balcony scene form the longest-running comedy tradition attached to any single passage of Romeo and Juliet, and the tradition's verdict is available before its evidence: the spoofs do not erode the scene, they distribute it. A French print parody was mocking the lovers within a year of the play's first French staging in the early 1770s. A London travesty of 1859 rebuilt the tragedy as one act of slang and song and ended it with every corpse back on its feet. A Warner Bros. cartoon of 1959 let its Juliet leap from a castle window and declined to catch her. The Reduced Shakespeare Company turned the wooing into a sprint up a ladder, performed by a man in a wig, and ran the joke for nine years in the West End. Each of these works assumes a house that already holds the scene entire: the raised girl, the boy below, the call, the vow. None of them teaches that picture. All of them spend it, and spending it is what keeps it in circulation.

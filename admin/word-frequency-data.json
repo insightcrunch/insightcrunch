@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-05T14:22:23Z",
+  "generated": "2026-11-06T20:49:41Z",
   "threshold": 50,
-  "totalPosts": 5360,
-  "flaggedPosts": 3294,
+  "totalPosts": 5362,
+  "flaggedPosts": 3295,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
@@ -361459,6 +361459,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-04-nightjar-standing-detail-005.md"
     },
     {
+      "filename": "2026-11-05-how-federal-grant-conditions-work.md",
+      "slug": "how-federal-grant-conditions-work",
+      "title": "How Federal Grant Conditions Work: The Law of Strings",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10312,
+      "topWord": "condition",
+      "topCount": 207,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-05-how-federal-grant-conditions-work.md",
+      "flaggedWords": [
+        {
+          "word": "condition",
+          "count": 207
+        }
+      ],
+      "top20": [
+        {
+          "word": "condition",
+          "count": 207
+        },
+        {
+          "word": "federal",
+          "count": 200
+        },
+        {
+          "word": "program",
+          "count": 156
+        },
+        {
+          "word": "congress",
+          "count": 113
+        },
+        {
+          "word": "conditions",
+          "count": 103
+        },
+        {
+          "word": "states",
+          "count": 92
+        },
+        {
+          "word": "funds",
+          "count": 92
+        },
+        {
+          "word": "grant",
+          "count": 88
+        },
+        {
+          "word": "spending",
+          "count": 87
+        },
+        {
+          "word": "court",
+          "count": 78
+        },
+        {
+          "word": "money",
+          "count": 75
+        },
+        {
+          "word": "recipient",
+          "count": 71
+        },
+        {
+          "word": "power",
+          "count": 65
+        },
+        {
+          "word": "statute",
+          "count": 60
+        },
+        {
+          "word": "courts",
+          "count": 56
+        },
+        {
+          "word": "agency",
+          "count": 53
+        },
+        {
+          "word": "terms",
+          "count": 50
+        },
+        {
+          "word": "funding",
+          "count": 50
+        },
+        {
+          "word": "coercion",
+          "count": 40
+        },
+        {
+          "word": "general",
+          "count": 40
+        }
+      ]
+    },
+    {
       "filename": "2026-11-06-anna-jameson-victorian-juliet.md",
       "slug": "anna-jameson-victorian-juliet",
       "title": "Anna Jameson and the Victorian Juliet She Defended",
@@ -361563,6 +361669,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2026-11-06-how-corporate-spin-offs-work.md",
+      "slug": "how-corporate-spin-offs-work",
+      "title": "How Corporate Spin-Offs Work: The Mechanics of Splitting",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10642,
+      "topWord": "company",
+      "topCount": 178,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-06-how-corporate-spin-offs-work.md"
     },
     {
       "filename": "2026-11-09-f-scott-fitzgerald-biography.md",

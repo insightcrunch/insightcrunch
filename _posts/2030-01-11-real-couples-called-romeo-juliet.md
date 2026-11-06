@@ -9,7 +9,7 @@ excerpt: "Real couples divided by family, faith, or war are repeatedly called th
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-01-11
+last_updated: 2026-11-06
 lang: en
 ---
 Real couples called Romeo and Juliet are the subject of this article: not couples in plays or films, but documented men and women whose own families, faiths, castes or wars divided them, and onto whose lives strangers pressed the names of Shakespeare's lovers. The pressing is the story. When a newspaper, a documentary or a book reaches for the play's names, it lends a real couple a ready-made plot, a pre-assembled sympathy and an ending the audience already knows, and the loan always has terms. The verdict argued here, and tested case by case in the survey that closes the article, is that the name honours a couple only under three conditions: when the bereaved or the couple themselves keep and ratify it, when the printed record bears the weight the name puts on it, and when the borrower declines to import the play's ending into a life that has not finished, or never followed, that plot. Where those terms hold, as they largely hold in Sarajevo, the naming is an act of witness. Where they fail, as they fail in the mountains of Appalachia, the naming is an appropriation dressed as a compliment.

@@ -5,11 +5,11 @@ page_title: "O Que Engenheiros Brasileiros Podem Fazer Agora: O Guia Completo de
 date: 2026-03-26
 categories: ["Industry"]
 tags: ["Engenheiros Brasil", "Mercado de Trabalho TI 2026", "IA Carreiras", "Salário Desenvolvedor Brasil", "Requalificação", "Nubank", "Mercado Livre", "Trabalho Remoto Internacional", "PJ Dólar", "Carreira Tech"]
-excerpt: "Um guia de 25.000 palavras baseado em dados reais para engenheiros e profissionais de TI brasileiros navegando a onda global de demissões impulsionadas por IA. Cobre quais funções estão desaparecendo, quais explodem em demanda, salários em reais e em dólar, o caminho CLT versus PJ internacional, as empresas brasileiras que mais contratam, e um plano de ação de 90 dias para cada estágio de carreira."
+excerpt: "Decodifique a carreira do engenheiro brasileiro na era da IA com estratégias práticas e adaptadas ao mercado local."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 90
 author: "matheus-oliveira"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: pt
 ---
 Os dois artigos anteriores desta série mapearam os 20 maiores empregadores de TI do mundo e seus números específicos de demissão, e depois analisaram o papel da Anthropic em acelerar o deslocamento de empregos. Este artigo tem um propósito e um público diferentes. Ele foi escrito para um leitor específico: o engenheiro ou profissional de TI brasileiro que está acompanhando as manchetes sobre 30.000 demissões na Amazon e 15.000 na Microsoft, que sente que o mercado está mudando de baixo dos seus pés, e que quer orientação baseada em evidências em vez de platitudes sobre "abraçar a mudança".

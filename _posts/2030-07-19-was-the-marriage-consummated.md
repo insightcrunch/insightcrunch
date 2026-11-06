@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet implies the lovers spend one night together before pa
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-07-19
+last_updated: 2026-11-06
 lang: en
 ---
 The marriage of Romeo and Juliet is the engine of the tragedy, and one question about it has followed the play through four centuries of editing, staging, and teaching: whether the lovers' single night together, spent between the secret wedding and the dawn parting, completed the union they had made in Friar Laurence's cell. The question is sometimes treated as indelicate, as if asking it were a failure of taste. It is nothing of the kind. It is a textual question with legal, theatrical, and moral consequences, and the play itself insists on it: the wedding is planned together with the wedding night, the bride speaks of the night in advance in the language of possession and enjoyment, the Friar who married the couple orders the banished husband to his wife's chamber under a curfew, and the next scene opens with both lovers together at a window at dawn, reluctant to part. A reader who refuses the question cannot explain why the Friar's potion plot is necessary, why Juliet's refusal of Paris carries the weight it does, or why the dawn scene is written as a farewell between husband and wife rather than between betrothed lovers. The evidence deserves to be assembled in order and judged as evidence.

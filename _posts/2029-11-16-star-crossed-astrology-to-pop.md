@@ -9,7 +9,7 @@ excerpt: "The phrase star-crossed, coined for Romeo and Juliet, carried a real b
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2029-11-16
+last_updated: 2026-11-06
 lang: en
 ---
 Star-crossed is the most successful astrological term ever coined for a stage, and its success is the measure of a disappearance. When the Chorus of Romeo and Juliet pronounced the lovers star-cross'd in the Prologue, the word was a technical verdict delivered inside a working science: the configurations of the heavens at a birth could favour a life or cross it, and a crossing was not a metaphor but a mechanism, as concrete to that audience as weather. The verdict this article defends is that the phrase's journey from astrology to pop culture is not a story of survival but of amputation. The modern cliché kept the doom and dropped the cosmos. It preserved the conclusion of the astrological judgment, that this couple cannot thrive, while discarding everything that once made the judgment intelligible: the spheres, the aspects, the malefic planets, the cast chart, and the professional reader paid to interpret them. What circulates in headlines, song titles, and valentine prose as star-crossed is therefore a conclusion without its premises, a sentence still being pronounced by a court that no longer sits.

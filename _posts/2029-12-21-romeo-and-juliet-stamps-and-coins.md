@@ -9,7 +9,7 @@ excerpt: "Many nations have honored Romeo and Juliet on postage stamps and comme
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-12-21
+last_updated: 2026-11-06
 lang: en
 ---
 ## Romeo and Juliet on Stamps and Coins: The Verdict in Advance

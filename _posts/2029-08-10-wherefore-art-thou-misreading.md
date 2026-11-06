@@ -9,7 +9,7 @@ excerpt: "The line wherefore art thou Romeo is constantly misread as asking wher
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2029-08-10
+last_updated: 2026-11-06
 lang: en
 ---
 The most famous line in Romeo and Juliet is famous in a form its speaker never intended. "O Romeo, Romeo! wherefore art thou Romeo?" (2.2.33) reaches most ears as a call across a garden, a girl at a raised window scanning the dark for a boy who has vanished, and the scene that follows in the popular imagination is a search. The text stages something else entirely. Juliet speaks the line believing herself alone, in a private argument about a name, and the boy she is said to be searching for is standing close beneath her, close enough to hear every word and close enough to frighten her when he finally speaks. Wherefore does not mean where. It means why, or more exactly, for what reason, and the line is the first move in the most concentrated piece of reasoning the heroine ever delivers: a demand to know on what ground a name, a mere word, acquires the power to make an enemy of the man she loves.

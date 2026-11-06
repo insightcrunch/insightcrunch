@@ -9,7 +9,7 @@ excerpt: "Several legal systems use the term Romeo and Juliet laws for close-in-
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-09-07
+last_updated: 2026-11-06
 lang: en
 ---
 ## Romeo and Juliet Laws: When a Play's Title Enters the Criminal Law

@@ -4,11 +4,11 @@ title: "Whole to part panorama"
 date: 2021-04-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "..."
+excerpt: "Tableau whole-to-part analysis: evaluating raw data to derive meaningful insights. A panoramic approach from overview to granular detail in visualization."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 1
 author: "alex-rivera"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: en
 ---
 ![](/assets/images/blog/blog-35.webp)

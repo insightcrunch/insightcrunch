@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is full of bawdy wit, and teachers must decide how ho
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-02-08
+last_updated: 2026-11-06
 lang: en
 ---
 Every classroom that takes up Romeo and Juliet meets the same moment, usually within the first week. The play opens not with the lovers but with two servants trading boasts, and the jokes they trade are bawdy jokes, built on double senses that a four-hundred-year-old shift in the language has half buried. Somewhere in the room, a student works out that a second sense exists, or half works it out, and looks up. What happens next is the subject of this article. The teacher can explain the joke, can skip it, can soften it into paraphrase, or can hope the moment passes unnoticed. Each of those choices teaches something beyond the line itself, because each tells the class what kind of book this is and what kind of reading the room practices. A skipped joke teaches that the edition cannot be trusted to say what the words mean. A leered-over joke teaches that the classroom is a place where embarrassment is entertainment. Between those failures stands the honest treatment, and the honest treatment has a precise shape.

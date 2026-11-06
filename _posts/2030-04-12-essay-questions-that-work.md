@@ -9,7 +9,7 @@ excerpt: "Good Romeo and Juliet essay questions push students past plot summary 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2030-04-12
+last_updated: 2026-11-06
 lang: en
 ---
 An essay question is the smallest complete theory of Romeo and Juliet that a student ever meets. Before a class has read a scene, the questions on the board have already decided what kind of object the play is: a story to be retold, a warehouse of themes to be inventoried, or an argument to be joined. The verdict of this article is stated at the outset and defended throughout. An essay question on the play works when it makes plot summary unusable and disagreement unavoidable. It does so by three means: it names a tension the play itself sustains and refuses to settle, it fixes the evidence on which the disagreement must be fought, and it installs a scale, a how far or a to what extent, in place of a destination. A question missing any one of the three collapses into a known failure mode. Without the tension it becomes a topic. Without the evidence demand it becomes an opinion poll. Without the scale it becomes a verdict looking for a scribe, and students oblige by writing the verdict's biography, which is the plot again, wearing a conclusion as a hat.

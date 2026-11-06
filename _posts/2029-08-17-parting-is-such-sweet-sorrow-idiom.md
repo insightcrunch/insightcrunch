@@ -9,7 +9,7 @@ excerpt: "Juliet's farewell line parting is such sweet sorrow entered everyday E
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-08-17
+last_updated: 2026-11-06
 lang: en
 ---
 "Parting is such sweet sorrow" is the most borrowed goodbye in English, and almost nobody who borrows it uses it the way Juliet used it. Juliet speaks the words at the close of the balcony scene, in the Arden text edited by Brian Gibbons at 2.2.184, and she speaks them in order to keep a conversation alive rather than to close one. The line is a device for not leaving. The culture took the device, turned it around, and made it into the politest available instrument for leaving: a phrase for signatures at the foot of farewell columns, for retirement speeches, for the last page of a leaving card, for a president walking out of the Oval Office. That reversal is the subject of this article, and the verdict can be stated at the start. The idiom succeeded because it lies politely. It lets a leaver claim the feeling of the person who stays. Juliet's sorrow is the sorrow of the one left at the window, who must watch the other walk into danger; the farewell speaker who quotes her borrows that sorrow as a credential, proof of attachment, while collecting all the benefits of departure: the ranch, the freedom, the next job, the summer holiday. The phrase's whole career, from quotation book to valediction, is a long exercise in that licensed borrowing, and the measure of its success is how completely the borrowing goes unnoticed.

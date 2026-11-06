@@ -9,7 +9,7 @@ excerpt: "The Play On project commissioned full modern-English versions of Shake
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2030-02-22
+last_updated: 2026-11-06
 lang: en
 ---
 On 29 September 2015 the Oregon Shakespeare Festival announced Play On!, a commission without precedent in the English-speaking theatre: thirty-six living playwrights, each paired with a dramaturg, would translate all thirty-nine plays attributed to Shakespeare, Romeo and Juliet among them, into contemporary modern English. The announcement detonated the loudest argument about Shakespeare's language in a generation. A Columbia professor denounced the project in The New York Times within a week. The festival's artistic director answered in print. A linguist who had championed the scheme in The Wall Street Journal and a scholar who had chronicled four centuries of textual tampering staked out positions between the poles. The quarrel has usually been reported as a shouting match between access and reverence, and shouting matches produce heat rather than verdicts. A verdict is available, and it turns on a distinction the shouting obscured.

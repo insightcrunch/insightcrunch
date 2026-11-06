@@ -9,7 +9,7 @@ excerpt: "Teaching Romeo and Juliet to teenagers works best when lessons meet th
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-01-25
+last_updated: 2026-11-06
 lang: en
 ---
 Teaching Romeo and Juliet to teenagers is the most consequential encounter with Shakespeare in the whole of schooling, because for most students it is the first full play placed in their hands and the one against which every later play is measured. The verdict defended through this article is plain. The play lands with teenagers when the class treats the text as a script to be performed and interrogated from the first lesson, with students speaking, moving, cutting, and directing the words themselves; it falls flat when the class treats the text as a document to be summarised, translated, and tested. Every strategy examined below is graded against that verdict, and the grading is not a matter of taste. It follows the documented record of the three institutions that have shaped classroom practice on this play for four decades: Rex Gibson's Shakespeare and Schools Project at Cambridge, the Folger Shakespeare Library's performance-based method in Washington, and the Royal Shakespeare Company's rehearsal-room programme in Stratford. Where the research evidence is strong, the article says so. Where the evidence is testimonial, promotional, or borrowed from younger children, the article says that too, because a pedagogy that cannot survive its own evidence audit has no business asking for a teenager's trust.

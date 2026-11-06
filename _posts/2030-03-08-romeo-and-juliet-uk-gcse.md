@@ -9,7 +9,7 @@ excerpt: "In the UK GCSE, Romeo and Juliet is a set Shakespeare text, taught and
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "lukas-weber"
-last_updated: 2030-03-08
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet reaches most English readers for the first time inside a specification. Before the play is a tragedy it is a line on a board's set-text list, a question number on a May morning, a row in a mark scheme and a grade on an August certificate, and the encounter is engineered at every stage by institutions that never meet the student: a department in Whitehall that names the categories, a regulator that fixes the assessment objectives, four exam boards that translate those objectives into papers, and an examining workforce that prices every answer against level descriptors. The GCSE is not a frame placed around an unchanged play. It is a reading machine, built to produce one defensible kind of reading at national scale, and the Romeo and Juliet that emerges from English classrooms is the play that machine can process.

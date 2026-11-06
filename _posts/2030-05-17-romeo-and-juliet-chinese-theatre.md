@@ -9,7 +9,7 @@ excerpt: "China has staged Romeo and Juliet in spoken drama and traditional oper
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-05-17
+last_updated: 2026-11-06
 lang: en
 ---
 ## Romeo and Juliet Arrived in China as a Story, Not a Play

@@ -9,7 +9,7 @@ excerpt: "Across the British Empire Romeo and Juliet was taught as a tool of col
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2030-06-14
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet entered the colonial classroom as paperwork before it entered as poetry. Across the British Empire the play was prescribed, printed, annotated and examined inside an education system whose architects stated their purpose in plain language: to manufacture a class of colonial subjects who would be, in Thomas Babington Macaulay's words of 1835, "Indian in blood and colour, but English in taste, in opinions, in morals, and in intellect." The tragedy of two disobedient children, punished by death while their fathers repent over the bodies, was an almost perfect instrument for that design, and generations of students in Calcutta, Freetown, Mombasa, Port of Spain and a hundred lesser school towns met it first as a set book, under examination conditions, in editions prepared for minds the empire intended to form.

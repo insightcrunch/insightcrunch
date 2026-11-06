@@ -9,7 +9,7 @@ excerpt: "Advertisers have long sold products with Romeo and Juliet, invoking th
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-11-09
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet is the most rented property in advertising, and the rent is never paid in money. No estate licenses the lovers, no agent negotiates their image, and yet the pair have fronted campaigns for telephone networks, denim, perfume, wine, cigars, jewellery and ice cream across a hundred and forty years of documented trading. This article reads that trading as a price list. Its verdict is simple: advertising is the honest broker of the play's afterlife, because advertising alone states, in selections any buyer can audit, what the culture actually values in the story. The balcony is the most valuable thirty seconds in English drama. The tomb, in a hundred and forty years of documented campaigns, has never attracted a single bid. Every other element of the story, the feud, the names, the window, the kiss, the courtyard wall in Verona, has been priced, packaged and sold by somebody. Between those two prices lies the whole public meaning of the play, and the campaigns surveyed here, from a one-shilling pack of paper scraps to a hundred pieces of Paris high jewellery, are the ledger in which that meaning is kept.

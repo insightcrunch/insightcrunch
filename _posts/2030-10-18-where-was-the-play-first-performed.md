@@ -9,7 +9,7 @@ excerpt: "Where Romeo and Juliet was first performed is uncertain, but the evide
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-10-18
+last_updated: 2026-11-06
 lang: en
 ---
 Where was Romeo and Juliet first performed? The honest opening answer is that no surviving document says. No diary entry, no payment warrant, no letter, and no title page names the room in which the tragedy of the Montague and Capulet children was first played. Yet the question is far from empty, because the evidence surrounding the play is dense, datable, and mutually checking. A title page fixes the company and narrows the performances it boasts of to a window of about eight months. A patronage succession dates that window to the season on either side of the spring of 1597. A lease, a landlord, a lawsuit, a rival manager's account book, a Treasury warrant, and the ground plans of two excavated Shoreditch playhouses each contribute a strand. Followed one by one and weighed without inflation, the strands converge on a single address: the Theatre in Shoreditch, the playhouse James Burbage raised in 1576 on leased ground north of Bishopsgate, where Shakespeare's company, the Lord Chamberlain's Men, was based from its formation in 1594.

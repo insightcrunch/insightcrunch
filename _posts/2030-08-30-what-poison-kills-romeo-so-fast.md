@@ -9,7 +9,7 @@ excerpt: "Romeo dies almost instantly from the apothecary's poison, and what rea
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
 author: "rachel-foster"
-last_updated: 2030-08-30
+last_updated: 2026-11-06
 lang: en
 ---
 The poison that kills Romeo has no name, and the absence is the answer to the question this article examines. Across two scenes, the purchase in Mantua and the death in the Capel tomb, the play specifies the drug by one property only: its speed. Romeo orders an effect, the apothecary guarantees an effect, and the tomb scene delivers the effect on schedule, inside two lines of speech. No substance in the period's own medical record, not even the poison its authorities ranked swiftest of all, was credited with work anywhere near that fast by the writers who feared it most. The verdict argued here is that the poison is theatrical license dressed in the costume of period belief: the lore gave the first audiences permission to accept an instant death, and the structure of the ending gave the playwright his orders. What follows tests that verdict against the text of 5.1 and 5.3, against the toxicology the audience carried into the theatre, against the one timed and witnessed poisoning the age's most famous surgeon put on record, and against the stage tradition that later tried to slow the poison down and thereby proved what its speed was for.

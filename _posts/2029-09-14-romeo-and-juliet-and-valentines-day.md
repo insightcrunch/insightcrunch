@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet have become the patron couple of Valentine's Day, the
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2029-09-14
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet preside over Valentine's Day from a calendar position the play never gave them. The feast of 14 February fills shop windows with the lovers' names, stages the balcony in chocolate and cardboard, and borrows the couple as the standing picture of romantic love. The play itself contains no February, no saint's day, and no valentine of any kind. Its action sits in the heat of a Veronese summer, four or five days counted from a Sunday brawl to a Thursday dawn, and its one fixed date is a birthday at the end of July. The occupation of the February feast by a summer tragedy is the strangest annexation in the play's long afterlife, stranger than the borrowed balcony in Verona or the letters addressed to a fictional girl, because the feast and the play contradict each other on the record. The feast promises that love, declared on the right day with the right card, ends in union. The play announces in its fourteenth line that the lovers die, and then spends five acts keeping the announcement.

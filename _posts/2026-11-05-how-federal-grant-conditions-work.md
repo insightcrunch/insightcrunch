@@ -9,7 +9,7 @@ excerpt: "How federal grant conditions work: who may attach strings to money Con
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 84
 author: "ryan-walsh"
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 lang: en
 ---
 ## The Bargain at the Center of Federal Grants

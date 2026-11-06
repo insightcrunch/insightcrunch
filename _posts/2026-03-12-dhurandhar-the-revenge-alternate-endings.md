@@ -5,11 +5,11 @@ page_title: "What If Hamza Never Came Home? Exploring Alternative Endings to Dhu
 date: 2026-03-12
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "ranveer-singh", "spy-thriller", "alternate-endings", "aditya-dhar"]
-excerpt: "Aditya Dhar's blockbuster duology concludes on March 19 with Dhurandhar: The Revenge -- but the trailer, the hidden details, and the unresolved threads of..."
+excerpt: "Dhurandhar The Revenge alternate endings: what if Hamza never came home, Ranveer's character turned double agent, or the spy thriller ended without..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
 author: "nandini-sen"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: en
 ---
 Seven days before *Dhurandhar: The Revenge* opens in theatres, the internet is already arguing about how it should end. This is not unusual for a film of this magnitude -- a sequel to the highest-grossing Hindi film in history, starring Ranveer Singh in what critics are already calling the performance of his career, directed by Aditya Dhar who proved with *Uri: The Surgical Strike* (2019) that he understands how to close a national story with maximum emotional impact. The argument is, in this case, unusually specific and unusually rich, because the first film left its threads not merely open but vibrating with implication.

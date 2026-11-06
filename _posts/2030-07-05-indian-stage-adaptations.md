@@ -9,7 +9,7 @@ excerpt: "Long before Bollywood, Indian stage traditions like Parsi theatre adap
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "amit-chatterjee"
-last_updated: 2030-07-05
+last_updated: 2026-11-06
 lang: en
 ---
 India's Romeo and Juliet was a stage creation before it was a screen inheritance, and the stage that created it was not the classroom or the colonial playhouse but the commercial company theatre of Bombay. Indian stage adaptations of the tragedy begin inside the Parsi theatre, the company-based entertainment that from the 1850s carried Gujarati, Urdu and Hindi drama across the subcontinent and beyond it, and that took Shakespeare into its repertoire as raw material for songs, spectacle and local feeling. The verdict of this article is plain at the outset: the Parsi companies did not transmit the play, they rebuilt it, and the rebuilding was not a failure of reverence but the founding transaction of Indian popular theatre. When an Urdu dramatist of that stage turned the lovers' tragedy into a three-act tragicomedy with a happy ending, he was not betraying a text his audience revered in English. He was honouring the only contract his audience had signed, the contract of the ticket, which promised an evening of music, marvels and feeling, and which the tragedy of Verona, suitably rebuilt, could fill better than almost any story in the world.

@@ -9,7 +9,7 @@ excerpt: "The dense puns of Romeo and Juliet, from grave to gall to gold, pose a
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-06-21
+last_updated: 2026-11-06
 lang: en
 ---
 Translating Shakespeare's puns in Romeo and Juliet is the point where translation stops behaving like transfer and starts behaving like triage. A plot can cross a border intact. A metre can be rebuilt in a receiving language that keeps a comparable measure. An image can be exchanged for a cousin image and lose only its accent. A pun can do none of these things, because a pun is not a meaning carried by a sound but two meanings fused inside one sound, and the fusion is an accident of one particular language's history. When Mercutio, bleeding to death in the third act, promises that tomorrow his friends will find him a grave man, the joke and the death sentence occupy the same two syllables. English happens to store seriousness and burial in a single word. German does not. Russian does not. A translator standing at that line is not looking for an equivalent, since none exists in the language's inventory. The translator is deciding which half of the word to save and which half to bury, and the decision is visible forever in the finished text, an audited loss.

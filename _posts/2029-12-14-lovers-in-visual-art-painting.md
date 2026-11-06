@@ -9,7 +9,7 @@ excerpt: "Painters from the Romantics to the Pre-Raphaelites pictured Romeo and 
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2029-12-14
+last_updated: 2026-11-06
 lang: en
 ---
 Painting gave Romeo and Juliet their public faces, and the gift came with an editor's pencil. Between the first illustrated editions of the eighteenth century and the last great Victorian canvases, painters performed on the play the most consequential act of selection in its whole afterlife. They chose five stations from a crowded five-act tragedy and promoted them into a visual canon: the meeting at the feast, the conversation at the window, the parting at dawn, the discovery of the apparently dead Juliet, and the tomb. Then, in the portrait galleries of the later nineteenth century, they performed a second selection and discarded the scenes altogether, keeping only a face. The verdict of this article is that painting did not illustrate the tragedy. Painting re-edited it, fixing the lovers' story in an order the text does not have, with the window scene first, though the play never speaks the word balcony, and the causes of the catastrophe, the feud, the plague, the machinery of the failed letter, left unpainted in every generation. For most of the world that has encountered the pair without reading a line, the painters' edit is the play.

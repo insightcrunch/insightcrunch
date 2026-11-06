@@ -9,7 +9,7 @@ excerpt: "Rosaline, the woman Romeo loves before Juliet and who never appears, m
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2030-09-13
+last_updated: 2026-11-06
 lang: en
 ---
 ## Is Rosaline a Plot Device or a Theme? The Verdict in Advance

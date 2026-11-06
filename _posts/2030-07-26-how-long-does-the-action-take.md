@@ -9,7 +9,7 @@ excerpt: "The whole action of Romeo and Juliet unfolds in under five days, from 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2030-07-26
+last_updated: 2026-11-06
 lang: en
 ---
 The action of Romeo and Juliet takes under five days. It opens on a Sunday morning a little before nine and it ends on the Thursday night of the same week, in a tomb, with the waking of a girl who was supposed to sleep two and forty hours and the deaths of the two people the sleep was meant to save. Between those points the play fits a first meeting, a secret wedding, two killings, a banishment, a wedding night, a second wedding arranged and advanced, a feigned death, a funeral, a failed letter and a double suicide. The verdict of this reconstruction is that the shortness is not an impression left by fast playing. It is a calendar, written into the dialogue in weekdays, clock hours and one measured dose, and it can be proved marker by marker from the text itself.

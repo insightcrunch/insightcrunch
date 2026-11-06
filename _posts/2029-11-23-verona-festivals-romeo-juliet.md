@@ -9,7 +9,7 @@ excerpt: "Verona stages festivals around Romeo and Juliet, from a Valentine's se
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2029-11-23
+last_updated: 2026-11-06
 lang: en
 ---
 ## Romeo and Juliet in Verona: A City That Commemorates by Calendar

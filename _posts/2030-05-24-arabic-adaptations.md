@@ -9,7 +9,7 @@ excerpt: "The Arab world has translated and staged Romeo and Juliet and read it 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2030-05-24
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet arrived in Arabic before the Arab world had a word for what it was doing with the play, and that early arrival is the key to the whole reception. The verdict of this article is that the Arabic life of the tragedy is not a footnote to European Shakespeare but a second life with its own chronology, its own canon, and its own verdicts: translation made the play classical Arabic literature, relocation made it political evidence, and the standing comparison with Layla and Majnun both dignified it and distorted it. The play mattered most in Arabic where it stopped being an import and became a local instrument, and the parallel with Layla and Majnun is most useful when it is read as a measure of distance rather than as a declaration of identity. Everything that follows tests that verdict against the documented record: the printed versions of 1898 and 1901, the blank-verse experiment of the 1930s, the classroom standard of the late twentieth century, and three stagings in Jerusalem, Beirut, and Baghdad that each rewrote the feud in a different local grammar.

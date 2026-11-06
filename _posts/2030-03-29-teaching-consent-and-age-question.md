@@ -9,7 +9,7 @@ excerpt: "Teaching Romeo and Juliet today means addressing Juliet's youth and qu
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-03-29
+last_updated: 2026-11-06
 lang: en
 ---
 The consent and age question in Romeo and Juliet is not a modern difficulty pasted onto an old play. It is the play's own first argument, staged before either lover has spoken a word of love. Juliet is thirteen, not yet fourteen, and the opening act contains a formal debate about whether she is old enough to marry, conducted by her father, her suitor, her mother, and her nurse, in which every position a modern classroom might take is already represented by a character with an interest. Capulet argues delay. Paris argues precedent. Lady Capulet argues from her own early maternity. The Nurse argues from the calendar. Juliet, the person whose consent the whole negotiation concerns, is asked for almost nothing, and what she gives is a formula of obedience rather than an answer. A teacher who raises the age question is therefore not interrupting the play with an agenda. A teacher who suppresses it is interrupting the play, because the text returns to the question at every turn: in the suitor's confidence, in the friar's haste, in the father's Thursday deadline, in the daughter's performed submission, and in the Prince's closing audit of the adults. The verdict of this article is that the consent debate succeeds in a classroom when it is taught as the play's own debate, followed outward scene by scene, corrected at each step by a three-layer historical record of text, law, and demography, and governed by one discipline: the modern word consent is admitted as a question with a date on it, never smuggled in as a verdict.

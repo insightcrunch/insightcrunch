@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is the Shakespeare play most students meet first, cho
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-01-18
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet holds a title no examination board ever awarded it: the standard school text, the first Shakespeare most students meet. The claim is repeated by publishers, teacher guides and revision sites as if it were a single fact about the world. It is not a single fact. It is three different claims wearing one coat, and the evidence gives a different answer for each. In the United States the claim is measured and true: national surveys of teachers, taken a generation apart, place this play at the head of everything taught in secondary English, not merely at the head of the Shakespeare list. In England the claim fails in the examination hall: the boards' own published figures for the reformed GCSE put Macbeth first by a wide margin and this play second. In Scotland the claim cannot even be put to the test, because the Scottish qualifications system prescribes its own national texts and otherwise leaves the choice of plays to schools, crowning nobody.

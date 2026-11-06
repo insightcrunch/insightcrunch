@@ -9,7 +9,7 @@ excerpt: "The famous balcony is not in Shakespeare's Romeo and Juliet, the word 
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2030-07-12
+last_updated: 2026-11-06
 lang: en
 ---
 No. Shakespeare did not invent the balcony in Romeo and Juliet, because there is no balcony in Romeo and Juliet. The word appears nowhere in the play, in no speech and in no direction, and the scene the whole world calls the balcony scene was furnished by other hands: by an Italian storyteller who had used a balcony eighty years before the play existed and whose successors took it away, by a Restoration adapter who put the word into a stage direction in 1679, by actors who staged what editors declined to print, by painters who fixed the picture, by an opera that built the structure into its scenery, and finally by a city in Italy that built the thing itself in stone. The verdict of this article is that the balcony is an heirloom of the story, older than the play in one branch of its ancestry and younger than the play in its English life, and that Shakespeare's contribution to the most famous architectural feature of his most famous scene was to leave it out. What he wrote instead was a window, a height, and a wall, and the scene he built from those three plain coordinates behaves differently from the scene the balcony later froze into an emblem.

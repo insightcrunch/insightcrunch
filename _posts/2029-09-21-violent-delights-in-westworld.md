@@ -9,7 +9,7 @@ excerpt: "The television series Westworld made the Romeo and Juliet line these v
 image: "/assets/images/blog/blog-117.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2029-09-21
+last_updated: 2026-11-06
 lang: en
 ---
 A sentence spoken to stop a marriage from hurrying becomes, four centuries later, the sentence a television series uses to start a revolution. "These violent delights have violent ends" is Friar Laurence's warning at the threshold of the secret wedding in *Romeo and Juliet*, delivered to a bridegroom who has just declared that no sorrow can outweigh one minute in his bride's sight. In HBO's *Westworld*, created by Jonathan Nolan and Lisa Joy and broadcast between 2016 and 2022, the same sentence is whispered by a malfunctioning rancher to his daughter, repeated by that daughter in a trance to a saloon keeper in a Sweetwater street, and finally spoken awake, as doctrine, by the leader of a host uprising over the bodies of captive guests. The verdict of this article is that the series performs the most faithful popular reading the sentence has ever received. The familiar quotation culture around the line treats it as decoration, a dark motto for posters and title pages, severed from the counsel that surrounds it. *Westworld* does the opposite. The series restores the sentence to the conditions of its first speaking: a warning uttered over a threshold by a man who proceeds anyway, addressed to hearers whose circumstances make the warning come true, and then it asks the question the play asks, which is what a true warning does when the warned decide to hear it as a promise.

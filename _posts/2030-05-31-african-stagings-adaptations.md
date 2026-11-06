@@ -9,7 +9,7 @@ excerpt: "Across Africa Romeo and Juliet has been translated and staged in many 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-05-31
+last_updated: 2026-11-06
 lang: en
 ---
 Romeo and Juliet reached Africa as an examination text, a missionary tale, and a statesman's translation project long before it became an African stage play, and that order of arrival is the whole argument of this article. The verdict is that the continent's claim on the tragedy is appropriation rather than inheritance, but only in the places where African hands chose the language, the venue, and the use. Where the play arrived as an imposed English set text, the charge of colonial inheritance still holds. Where African translators, directors, and schoolroom audiences remade it in Sesotho, Afrikaans, Chichewa, Kinyarwanda, and a dozen stage languages, the play became African property by the only test that matters, which is use. The proof runs through a correction that has to come first, because the most famous African name attached to the play does not belong to it at all.

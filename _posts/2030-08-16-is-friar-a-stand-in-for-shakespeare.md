@@ -9,7 +9,7 @@ excerpt: "Some critics read Friar Laurence as a stand-in for Shakespeare in Rome
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-08-16
+last_updated: 2026-11-06
 lang: en
 ---
 # Is the Friar a Stand-In for Shakespeare in the Play?

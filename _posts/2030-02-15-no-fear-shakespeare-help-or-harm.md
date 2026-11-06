@@ -9,7 +9,7 @@ excerpt: "No Fear Shakespeare prints Romeo and Juliet beside a plain modern para
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-02-15
+last_updated: 2026-11-06
 lang: en
 ---
 No Fear Shakespeare, the SparkNotes series that prints Romeo and Juliet with a complete modern English paraphrase on the page facing the original, is neither the rescue its publisher promises nor the cheat its detractors describe. It is a contract. Used under one set of terms, as a scaffold erected against a hard text and then deliberately taken down, the aid helps: readers who would otherwise abandon the play in its first scene instead finish it, follow its argument, and arrive at the original lines with the plot already in hand. Used under the opposite terms, as a permanent substitute that a student reads while the verse sits unread across the gutter, the aid harms: the student completes the assignment, passes the quiz, and never once performs the act the play exists to demand, which is the reading of Shakespeare's words. The verdict of this article is therefore a grading, not a slogan. The No Fear volume is acquitted of the charge of cheating, because the book never hides what it is and never removes the original. It is convicted of a lesser and more precise offence: its design makes the harmful use easier than the helpful one, and any teacher, parent, or solitary reader who hands it over without terms has accepted the publisher's marketing in place of a pedagogy. Help or harm is decided at the moment of use, and the evidence assembled here, from reading research, from a classic of literary criticism, from national test data, and from the paraphrase's own pages, shows exactly which uses fall on which side of the line.

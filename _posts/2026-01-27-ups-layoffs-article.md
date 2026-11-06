@@ -5,11 +5,11 @@ page_title: "UPS Layoffs January 2026: 30,000 Jobs Cut, Amazon Breakup, $9 Billi
 date: 2026-01-27
 categories: ["Industry"]
 tags: ["ups layoffs", "ups job cuts 2026", "ups amazon", "logistics layoffs", "ups restructuring", "carol tome", "ups automation", "teamsters ups", "supply chain layoffs", "network of the future"]
-excerpt: "UPS announced 30,000 job cuts on Jan 27, 2026 as it dumps Amazon volume and pivots to automation. Full analysis inside."
+excerpt: "Decode the UPS 2026 layoffs across scope, roles affected, financial context, and industry impact."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 55
 author: "thomas-reid"
-last_updated: 2026-04-01
+last_updated: 2026-11-06
 lang: en
 ---
 On the morning of January 27, 2026, United Parcel Service CEO Carol Tome stepped before analysts and investors during the company's fourth-quarter 2025 earnings call and delivered a message that, while not entirely unexpected, sent shockwaves through the logistics industry and the labor market alike. UPS would be eliminating up to 30,000 operational positions in 2026, closing 24 facilities in the first half of the year, and reducing total operational hours by approximately 25 million. The cuts represented the second consecutive year of massive workforce reductions at the 118-year-old shipping giant, coming on top of 48,000 jobs already eliminated in 2025. Taken together, UPS was on track to shed approximately 78,000 positions in just two years, a staggering restructuring that would reshape one of America's most iconic companies from the inside out.

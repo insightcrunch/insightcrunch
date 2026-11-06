@@ -9,7 +9,7 @@ excerpt: "In US high schools Romeo and Juliet is the classic ninth-grade Shakesp
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2030-03-15
+last_updated: 2026-11-06
 lang: en
 ---
 ## The Verdict First: A Deposit, Not a Destiny

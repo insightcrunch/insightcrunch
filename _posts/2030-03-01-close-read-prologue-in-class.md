@@ -9,7 +9,7 @@ excerpt: "The Romeo and Juliet Prologue is an ideal classroom text, a compact so
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2030-03-01
+last_updated: 2026-11-06
 lang: en
 ---
 The Prologue to Romeo and Juliet is the most efficient first lesson in Shakespeare's language that a curriculum owns: fourteen lines, one complete sonnet, spoken before a word of dialogue, carrying the whole plot in advance and the whole method of the play in miniature. The verdict of this study is plain. A class that close-reads the Prologue as its first sustained work on the play learns faster, argues better, and misreads less than a class that receives the same fourteen lines as a plot summary with vocabulary attached. The Chorus's speech is not a preface to the real business. Handled in stages, with its form mapped before its meanings are settled and its ending treated as a working instrument rather than an embarrassment, the Prologue is the real business in its smallest compass: a sonnet that teaches a class how this playwright builds meaning out of pattern, pressure, and withheld causes.

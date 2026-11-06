@@ -9,7 +9,7 @@ excerpt: "Students often misread Romeo and Juliet, from the wherefore line to th
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-02-01
+last_updated: 2026-11-06
 lang: en
 ---
 Ask a class of fourteen-year-olds what happens in Romeo and Juliet before the book is opened, and the standard misconceptions arrive fully formed: a girl calls down from a balcony to the boy below, two young adults fall in love across a feud, the affair runs for weeks, the stars take the blame, and the story stands as the pattern of romantic love itself. Nearly every clause of that confident summary is wrong, and none of it was learned from the play. The balcony is absent from the text, the girl is thirteen, the courtship occupies days rather than weeks, and the boy spends the opening scenes in love with somebody else entirely. These student misconceptions were installed before the lesson began, by pictures, castings, summaries, and slogans that carry an authority no teacher issued and no teacher can match for reach.

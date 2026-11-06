@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet runs on dramatic irony, for the Prologue tells the au
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-10-25
+last_updated: 2026-11-06
 lang: en
 ---
 Dramatic irony is not a decoration on Romeo and Juliet. It is the load-bearing structure of the whole play, installed before the first scene begins and never dismantled. A Chorus walks out ahead of the action and spends the ending in public: "A pair of star-crossed lovers take their life," and their death will "bury their parents' strife" (Prologue 6-8, Folger text). From that moment, no spectator watches the lovers walk toward an unknown future. Every hope voiced on stage is heard against a grave the house has already been shown, every plan is audited against an outcome the planners cannot imagine, and every joke about death lands in ears that know the death is scheduled. The verdict of this article is stated at the outset because the play states its own ending at the outset: the announcement is not a leak in the design but the design itself, the deliberate conversion of suspense into dread, and the source of the pathos that four centuries of audiences, nearly all of whom arrived knowing the story, have reliably felt. A play that can be rewatched, reread, taught, parodied, and quoted for generations without exhausting its grip is a standing refutation of the idea that a known ending is a spoiled one.

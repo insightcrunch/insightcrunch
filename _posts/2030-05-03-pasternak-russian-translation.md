@@ -9,7 +9,7 @@ excerpt: "Boris Pasternak's Russian Romeo and Juliet, made by a great poet under
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2030-05-03
+last_updated: 2026-11-06
 lang: en
 ---
 Boris Pasternak's Russian Romeo and Juliet is the text Russian audiences mean when they quote the play. It was written in a wartime evacuation town in a matter of weeks, printed first in 1943, and then reprinted, staged, broadcast, and memorised for the rest of the century, outlasting the state that commissioned it. Twenty-nine standalone editions of this single play appeared in his translation between the 1940s and 2014, more than for any of the other seven Shakespeare plays he rendered, and the theatres that might have chosen a more literal version chose his instead, decade after decade. Any account of the play's world afterlife that treats translation as a clear pane of glass will fail on this case, because nothing about Pasternak's version is transparent. It is a Russian poem built from an English play, and it has to be judged as one.

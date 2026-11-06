@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet contains small continuity puzzles and time problems, 
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 62
 author: "amanda-ross"
-last_updated: 2030-10-04
+last_updated: 2026-11-06
 lang: en
 ---
 The continuity puzzles of Romeo and Juliet are real, they are numerous, and they are not scattered at random. That is the verdict this article defends. A girl is weaned on the day of an earthquake eleven years before the action and is still not fourteen, although the child of the weaning story could already run, waddle, and answer back. Two old men at a feast assign the same masque to thirty years ago and to twenty-five, and a third figure smuggled into the same exchange refutes them both. A friar announces one night that a letter came back the day before it is shown coming back. A prince declares morning three times in a scene played in darkness, over a girl a watchman calls two days buried after a day and a half in the vault. Against this catalogue stands the finding of the reconstruction this article mirrors: every number the plot leans on, the nine o'clock appointment, the named Thursday, the advanced Wednesday, the forty-two hours, the three-hours warning, is exact and interlocking. The contradictions live where nothing leans. They cluster in memory, in narrative report, and in the mouths of the least informed speakers, and that distribution is the evidence. A careless writer is careless everywhere. This text is precise under load and loose only where the load is absent, and the seams, properly read, are a map of how the play was made: precision spent like a budget, exactly where an audience could audit it.
