@@ -151,3 +151,6 @@
 ## nightjar-standing-detail-005
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "Rask would not name what had emptied the room; on a Barrow road, standing inside his own suppression at the mill bridge, she learned what his flatness actually was, and afterwards he said the difference on the record, that his trade has a source and a slope and the empty rooms had neither."
 - _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The chain taken at the depot had witnesses as well as cargo; a Barrow inspector who had testified against it went home under a standing detail, and the attempt on him came on the road to the hearing, at a mill bridge, and failed."
+## how-federal-grant-conditions-work
+- _posts/2026-10-18-how-universal-service-fund-works.md - could carry: "A subsidy structure that collects and spends federal money through an agency-created administrator raises the same first question as any conditional grant: where in the statute did Congress actually speak, the question the law of federal grant conditions answers in full."
+- _posts/2011-05-15-nfib-v-sebelius-explained.md - could carry: "The coercion question briefed during the Affordable Care Act litigation later produced the first successful coercion holding against a spending condition, a development traced in the account of how federal grant conditions work."

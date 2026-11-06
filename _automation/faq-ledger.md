@@ -918,3 +918,27 @@ bas-event-persona-real | how-persona-was-made | Is Persona based on real events?
 footage-include-new-persona-television | how-persona-was-made | Why does Persona include television news footage?
 aspect-format-persona-ratio-shot | how-persona-was-made | In what format and aspect ratio was Persona shot?
 about-critic-disagree-mean-persona | how-persona-was-made | Why do critics disagree about what Persona means?
+
+## law-conditional-federal-grants
+
+### how-federal-grant-conditions-work
+condition-federal-grant | how-federal-grant-conditions-work | What is a condition on a federal grant?
+attach-condition-congres-federal-get-grant-power | how-federal-grant-conditions-work | Where does Congress get the power to attach conditions to federal grants?
+dakota-decide-dole-south | how-federal-grant-conditions-work | What did South Dakota v. Dole decide?
+clear-pennhurst-rule-statement | how-federal-grant-conditions-work | What is the Pennhurst clear statement rule?
+become-coercion-condition-federal-grant-unconstitutional | how-federal-grant-conditions-work | When does a federal grant condition become unconstitutional coercion?
+about-condition-fund-hold-medicaid-nfib-sebeliu | how-federal-grant-conditions-work | What did NFIB v. Sebelius hold about Medicaid funding conditions?
+condition-different-direct-federal-grant-mandate | how-federal-grant-conditions-work | How is a grant condition different from a direct federal mandate?
+condition-germane-grant-mean | how-federal-grant-conditions-work | What does it mean for a grant condition to be germane?
+age-drink-every-one-raise-state-twenty | how-federal-grant-conditions-work | Why did every state raise its drinking age to twenty-one?
+between-difference-discretionary-formula-grant | how-federal-grant-conditions-work | What is the difference between a formula grant and a discretionary grant?
+challenge-condition-court-federal-grant | how-federal-grant-conditions-work | Who can challenge a federal grant condition in court?
+condition-doctrine-unconstitutional | how-federal-grant-conditions-work | What is the unconstitutional conditions doctrine?
+contract-court-describe-federal-legislation-spend | how-federal-grant-conditions-work | Why do courts describe federal spending legislation as a contract?
+federal-government-grant-money-reclaim-spent-that-wrongly | how-federal-grant-conditions-work | Can the federal government reclaim grant money that was spent wrongly?
+federal-grant-match-requirement | how-federal-grant-conditions-work | What is a matching requirement in a federal grant?
+effort-federal-grant-maintenance-mean-program | how-federal-grant-conditions-work | What does maintenance of effort mean in a federal grant program?
+bind-citi-condition-counti-federal-grant-stat-well | how-federal-grant-conditions-work | Do federal grant conditions bind cities and counties as well as states?
+accept-condition-grant-happen-ignor-money-recipient | how-federal-grant-conditions-work | What happens when a grant recipient accepts the money and ignores a condition?
+block-categorical-condition-differ-grant | how-federal-grant-conditions-work | What is a block grant and how do its conditions differ from a categorical grant?
+accept-condition-federal-official-oppose-stat-their | how-federal-grant-conditions-work | Why do states accept federal conditions that their officials oppose?
