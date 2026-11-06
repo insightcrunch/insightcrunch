@@ -154,3 +154,7 @@
 ## how-federal-grant-conditions-work
 - _posts/2026-10-18-how-universal-service-fund-works.md - could carry: "A subsidy structure that collects and spends federal money through an agency-created administrator raises the same first question as any conditional grant: where in the statute did Congress actually speak, the question the law of federal grant conditions answers in full."
 - _posts/2011-05-15-nfib-v-sebelius-explained.md - could carry: "The coercion question briefed during the Affordable Care Act litigation later produced the first successful coercion holding against a spending condition, a development traced in the account of how federal grant conditions work."
+
+## how-corporate-spin-offs-work
+- _posts/2026-10-05-why-media-companies-merge.md - could carry: "The discount that combination was meant to outgrow is measured the same way when a board later runs the logic in reverse, and the account of how corporate spin-offs work sets out how that measurement is built and where it misleads."
+- _posts/2026-10-22-how-prepackaged-bankruptcy-works.md - could carry: "A solvent separation is negotiated with shareholders and tax counsel; a separation inside distress is negotiated with creditors first, and the prepackaged route shows how that creditor bargain is voted on before a filing."

@@ -942,3 +942,27 @@ bind-citi-condition-counti-federal-grant-stat-well | how-federal-grant-condition
 accept-condition-grant-happen-ignor-money-recipient | how-federal-grant-conditions-work | What happens when a grant recipient accepts the money and ignores a condition?
 block-categorical-condition-differ-grant | how-federal-grant-conditions-work | What is a block grant and how do its conditions differ from a categorical grant?
 accept-condition-federal-official-oppose-stat-their | how-federal-grant-conditions-work | Why do states accept federal conditions that their officials oppose?
+
+## business-spin-off
+
+### how-corporate-spin-offs-work
+corporate-off-simple-spin-term | how-corporate-spin-offs-work | What is a corporate spin-off in simple terms?
+between-difference-off-off-spin-split | how-corporate-spin-offs-work | What is the difference between a spin-off and a split-off?
+between-carve-difference-off-out-spin | how-corporate-spin-offs-work | What is the difference between a spin-off and a carve-out?
+company-division-off-profitable-spin | how-corporate-spin-offs-work | Why would a company spin off a profitable division?
+off-pay-receive-shar-shareholder-spin-tax-they | how-corporate-spin-offs-work | Do shareholders pay tax when they receive spin-off shares?
+355-code-internal-revenue-section | how-corporate-spin-offs-work | What is Section 355 of the Internal Revenue Code?
+company-date-distribution-happen-parent-price-share | how-corporate-spin-offs-work | What happens to the parent company's share price on the distribution date?
+after-announc-been-fail-has-off-spin | how-corporate-spin-offs-work | Can a spin-off fail after it has been announced?
+10-form-off-spin | how-corporate-spin-offs-work | What is a Form 10 in a spin-off?
+debt-decid-divid-off-spin | how-corporate-spin-offs-work | Who decides how the debt is divided in a spin-off?
+agreement-separation | how-corporate-spin-offs-work | What is a separation agreement?
+agreement-servic-transition | how-corporate-spin-offs-work | What is a transition services agreement?
+corporate-long-off-spin-take-usually | how-corporate-spin-offs-work | How long does a corporate spin-off usually take?
+corporate-cost-separation-strand | how-corporate-spin-offs-work | What is stranded cost in a corporate separation?
+get-merg-off-re-revers-some-spin | how-corporate-spin-offs-work | Why do some spin-offs get reversed or re-merged?
+morri-structure-trust | how-corporate-spin-offs-work | What is the Morris Trust structure?
+busines-employe-move-off-spin | how-corporate-spin-offs-work | Do employees move with the business in a spin-off?
+distribution-mean-pro-rata-share | how-corporate-spin-offs-work | What does pro rata mean in a share distribution?
+about-analyst-be-company-off-spun-value | how-corporate-spin-offs-work | How do analysts value a company that is about to be spun off?
+issu-off-spin-trad | how-corporate-spin-offs-work | What is when-issued trading in a spin-off?
