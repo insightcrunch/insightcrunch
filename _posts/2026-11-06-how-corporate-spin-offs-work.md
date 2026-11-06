@@ -6,17 +6,17 @@ date: 2026-11-06
 categories: ["Industry"]
 tags: ["corporate-spin-offs", "mergers-and-acquisitions", "conglomerates", "corporate-restructuring", "business-strategy", "securities-regulation"]
 excerpt: "How corporate spin-offs work: the tax conditions a split must meet, the division of assets and debt, and how a new public company is made without an offering."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-11-06
+lang: en
 ---
-
 ## The Separation in One Paragraph: What a Spin-Off Actually Does
 
 A spin-off is a separation in which a parent company places a distinct business into a new independent public company and distributes the new company shares to existing shareholders in proportion to their holdings, without requiring payment and without an initial public offering. The parent shareholders finish with shares in two listed companies instead of one, the combined assets and liabilities are divided between the two balance sheets, and each company begins trading separately with its own board, management team, filings and capital structure. No cash changes hands in the distribution itself. A spin-off creates no value on the day it closes; it only removes the structure that was hiding value, so every gain attributed to a spin-off is really a gain from the focus, capital allocation and accountability that the combined company could not produce.
 
-![Corporate separation and the division of one listed company into two - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Corporate separation and the division of one listed company into two - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The mechanics begin with a board decision and a perimeter, followed by the preparation of audited carve-out financial statements for the business to be separated. The parent then files SEC Form 10 with the Securities and Exchange Commission, a registration statement that contains financial statements, risk disclosures, management discussion and a description of the separation agreements, and the form becomes effective before the distribution date is set. On the distribution date, shareholders recorded on the record date receive the new shares, often through a book entry distribution administered by a transfer agent, and the new company lists on a stock exchange through the registration rather than through a sale of shares to new investors.
 
