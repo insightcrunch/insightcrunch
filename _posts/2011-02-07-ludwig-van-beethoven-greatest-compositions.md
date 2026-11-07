@@ -6,19 +6,19 @@ date: 2011-02-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "ludwig-van-beethoven", "classical", "beethoven-symphonies", "beethoven-late-quartets", "piano-sonatas", "fidelio"]
 excerpt: "Beethoven greatest works divide into public scores that built a reputation and late works that stopped persuading, and both bodies demand a full hearing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-02-07
+lang: en
 ---
-
 ## A torn title page
 
 In a Viennese archive rests a title page with a hole worn through it. The page heads an early copy of a symphony in E flat, and across its top, in a copyist's hand, two words of dedication once stood, naming Napoleon Bonaparte, First Consul of France. Someone attacked those words with a blade or a pen point, scratching again and again until the ink, and then the paper itself, gave way. The attacker was the composer. The symphony became the Eroica, and that damaged page is the most eloquent object in the catalogue of Beethoven greatest works, because it announces, before a single note is heard, the division this article follows from the first work to the last: a catalogue built in large part by a man writing for the public of his own time, and closing with a body of work that appears to address almost nobody at all.
 
 <!--more-->
 
-![Ludwig van Beethoven greatest compositions, the torn Eroica title page and the two bodies of the catalogue - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ludwig van Beethoven greatest compositions, the torn Eroica title page and the two bodies of the catalogue - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 The page survives because the symphony circulated before it was published. Beethoven had the Eroica copied for private performance and for dispatch to publishers, and the copy preserved in Vienna carries the dedication in its Italian form, intitolata Bonaparte, with the second word worked over so violently that the surface of the sheet is abraded. Nothing else on the page is damaged. The music beneath the dedication was left untouched, which is part of what makes the object so instructive: the composer's quarrel was never with the symphony. It was with the name he had placed above it, and with what that name had come to mean between the summer of composition and the winter of revision.
 

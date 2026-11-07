@@ -6,17 +6,17 @@ date: 2011-09-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "louis-armstrong", "jazz-and-blues", "jazz-solo", "swing-phrasing", "trumpet-technique", "scat-singing"]
 excerpt: "Louis Armstrong musical style explained through the solo built from a reshaped melody, a beat played against rather than obeyed, and a voice used like a horn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-09-07
+lang: en
 ---
-
 A trumpet begins alone. No drums mark a tempo, no piano lays down chords, and there is no count-in to lean on. The player lifts the tune clear of the beat entirely, runs it up and down in one unmeasured flourish, and only then does the band arrive beneath him, exactly where he has decided the music starts. Everything later called the Louis Armstrong musical style is present in that gesture: a melody treated as raw material rather than a text, a beat treated as something to play against rather than obey, and a single voice claiming the right to be the whole event.
 
 <!--more-->
 
-![Louis Armstrong musical style, the unaccompanied trumpet cadenza and the reshaped melody - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Louis Armstrong musical style, the unaccompanied trumpet cadenza and the reshaped melody - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The record is "West End Blues," made in Chicago in June 1928, and the flourish is its opening cadenza, some fifteen seconds of unaccompanied trumpet before the band plays a note. Put yourself in the position of a listener who bought that record when it was new. Records had taught you what a featured player sounded like: a few decorated bars inside the band's texture, a brief licence to embellish, then back into the ranks. Nothing in that experience prepares you for a man who opens by abolishing the tempo, the accompaniment and the tune's rhythm all at once, and who treats the silence of his band not as an absence but as a stage he has cleared for himself. The cadenza does not ask permission. It establishes a jurisdiction. When the band finally enters, it enters on terms the trumpet has already set, and everything that follows on the record, the trombone's slow statement, the singing, the piano's glittering chorus, happens inside the authority those fifteen seconds created.
 

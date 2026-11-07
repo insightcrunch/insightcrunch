@@ -6,12 +6,12 @@ date: 2011-10-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "louis-armstrong", "jazz-and-blues", "accommodation-criticism", "decline-narrative", "lil-hardin-armstrong", "private-archive"]
 excerpt: "Was Louis Armstrong an Uncle Tom? The accommodation charge, the evidence its makers had, the Little Rock statement, and the archive that reframed the case."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2011-10-21
+lang: en
 ---
-
 ## Two facts that have to be held together
 
 In Grand Forks, North Dakota, in September 1957, a fifty-six-year-old trumpet player sat in a hotel room after a concert and told a young reporter exactly what he thought of the President of the United States. The words were printed, and they cost him. Hold that fact. Hold beside it a second one: through the following decade and beyond, younger Black musicians and critics, men whose own music he had made possible, were describing his stage manner as a betrayal, and the bluntest form of their charge was a question, was Louis Armstrong an Uncle Tom. Both facts are documented. They appear to contradict each other, and an honest account of his standing has to hold them together rather than choosing the comfortable one.
@@ -20,7 +20,7 @@ In Grand Forks, North Dakota, in September 1957, a fifty-six-year-old trumpet pl
 
 The thesis of this article follows from that tension. The charge against Armstrong was made seriously, by people with standing to make it, and it was made without access to a documentary record that has since become available. That single circumstance governs everything that follows. If the reassessment of Armstrong rested on nothing more than a softening of taste, it would deserve the suspicion that greets most reputational weather. It rests instead on paper: on an interview that was printed in a small newspaper and largely lost to the national record, on letters and tapes and scrapbooks that sat in his house in Corona, Queens, while the argument about him proceeded in public without them. A change in evidence is a different thing from a change in fashion, and the distinction is the whole argument.
 
-![Louis Armstrong legacy debate, the grin and the handkerchief weighed against the documentary record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Louis Armstrong legacy debate, the grin and the handkerchief weighed against the documentary record - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The method, then, is fixed in advance. The charge gets its strongest statement first, across the next several sections, before any of the counter-evidence is allowed onto the table, because an article that opens by defending its subject has already decided the question it claims to examine. Only after the prosecution has been heard in full does this account turn to where the stage manner came from, what it cost to step outside it, and what the private record contains. Two further arguments wait behind the first: that the later music declined, and that the credit for the earliest famous records was never fairly distributed. Behind those stands a question about money and management, and behind that, the largest claim of all, tested at the end against criteria stated before any names are ranked.
 

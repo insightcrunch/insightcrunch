@@ -6,19 +6,19 @@ date: 2011-01-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "ludwig-van-beethoven", "classical", "beethoven-biography", "vienna-years", "annuity-contract", "conversation-books"]
 excerpt: "Beethoven life and career, from the Bonn court chapel and the Vienna arrival to the annuity that freed him, the hearing loss, the custody fight and the end."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-01-07
+lang: en
 ---
-
 ## A contract that asked for nothing in return
 
 In the early months of 1809, in a Vienna living under the shadow of another French invasion, three aristocrats put their names to a document unlike any other in the history of European music. Between them they promised a composer four thousand florins a year, payable in quarterly instalments, for as long as he remained in Vienna or in the Austrian hereditary lands. The contract named no duties. It required no symphonies, no operas, no teaching, no attendance at any court, no dedication of any score. It did not even require him to compose at all. It simply undertook to pay him to exist where he was, so that a rival offer from a foreign court would lose its power over him, and it stands at the centre of the Beethoven life and career because it converted the oldest bargain in music, service in exchange for bread, into something new: a settlement negotiated between a working musician and his patrons, in which the musician held the stronger hand.
 
 <!--more-->
 
-![Ludwig van Beethoven life and career portrait angle showing the composer in his Vienna years - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ludwig van Beethoven life and career portrait angle showing the composer in his Vienna years - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 The three signatories were Archduke Rudolph, the youngest brother of the Emperor and a pupil of the composer, who undertook fifteen hundred florins; Prince Ferdinand Kinsky, who undertook eighteen hundred; and Prince Franz Joseph Lobkowitz, who undertook seven hundred. The composer was Ludwig van Beethoven, thirty eight years old, already losing his hearing, and already in receipt of an offer from Kassel that would have made him a salaried Kapellmeister in the ordinary way. He chose the annuity instead, and the choice defines the career this article follows. The thesis of the account is that Beethoven was the first composer to make a living from a negotiated settlement with the aristocracy rather than employment by it, and that the independence produced by that settlement is the precondition for everything later described as his heroism. The heroism has been written about exhaustively. The negotiation has not, and it came first.
 

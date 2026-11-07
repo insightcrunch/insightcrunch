@@ -6,19 +6,19 @@ date: 2011-10-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "louis-armstrong", "jazz-and-blues", "popular-singing", "billie-holiday", "bing-crosby"]
 excerpt: "Louis Armstrong influence travelled by record into every jazz instrument and reshaped how Crosby, Holiday and Sinatra sang, and how popular music phrases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 108
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-10-07
+lang: en
 ---
-
 ## Learning phrasing from a record
 
 In a Baltimore house where a girl ran errands, the payment she valued most was permission to use the phonograph in the front room. She would set the needle on the same records again and again, studying how the man who played trumpet and sang on them placed a phrase against the beat, letting a melody trail behind the pulse and then catching it, stretching a syllable across a bar line as if the words were being thought of at the moment of singing. She had no teacher, no method book and no thought of jazz as a profession. What she was absorbing, groove by groove, was Louis Armstrong influence in its most consequential form: phrasing learned from a disc by a listener he would never meet.
 
 <!--more-->
 
-![Louis Armstrong influence carried by his records into the phrasing of popular singers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Louis Armstrong influence carried by his records into the phrasing of popular singers - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The girl was Eleanora Fagan, who sang as Billie Holiday, and her own account of those afternoons names two presences on the phonograph: Bessie Smith, whose weight of voice she wanted, and Armstrong, whose way with a lyric she wanted. That pairing matters, because the argument of this article is not the loose claim that Armstrong mattered to everyone. It is a specific and testable claim about a channel. His influence travelled on shellac, in three-minute sides that could be replayed until their secrets gave way, and it reached its largest audience not among trumpeters but among singers, most of whom never held his instrument and many of whom never described themselves as jazz musicians at all. The thesis defended here is the one his biographer Gary Giddins has argued across two volumes: Armstrong's influence on singing is larger than his influence on jazz, because the phrasing he settled in the 1920s became the default setting for popular vocal music, inherited by singers who learned it from other singers and never knew whose it was.
 

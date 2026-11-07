@@ -6,19 +6,19 @@ date: 2011-02-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "ludwig-van-beethoven", "classical", "beethoven-influence", "ninth-symphony", "music-history"]
 excerpt: "Beethoven influence on music worked less on technique than on expectation, teaching audiences to hear a symphony as an argument and heirs of his to answer it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 97
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-02-21
+lang: en
 ---
-
 ## A giant walking behind him
 
 In the early 1870s a composer in his forties, the most celebrated German musician of his generation, was keeping symphony sketches he had begun before he turned twenty-five and could not bring himself to finish. Friends had seen the material. Parts of it had already escaped into other works, a piano concerto and an orchestral serenade, as though the symphony kept dissolving into safer shapes each time he approached it directly.
 
 <!--more-->
 
-![Beethoven influence on music and the burden his reputation laid on the composers who followed him - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Beethoven influence on music and the burden his reputation laid on the composers who followed him - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The composer was Johannes Brahms, and the reason for the paralysis is preserved in the biography written by his friend Max Kalbeck. Brahms told the conductor Hermann Levi that he would never understand what it meant to keep hearing a giant marching behind him. The giant had been dead for more than four decades. His name was Ludwig van Beethoven, and no single episode shows Beethoven influence on music more plainly, because nothing in it concerns notes. Brahms commanded every technique the orchestra of his day possessed. What he lacked, for roughly twenty years, was permission from himself to set a symphony beside nine particular scores and let the comparison happen.
 

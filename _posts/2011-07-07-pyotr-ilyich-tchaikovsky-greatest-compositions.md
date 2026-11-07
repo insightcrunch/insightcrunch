@@ -6,19 +6,19 @@ date: 2011-07-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "pyotr-ilyich-tchaikovsky", "classical", "ballet", "symphonies", "swan-lake", "eugene-onegin"]
 excerpt: "Tchaikovsky greatest works run from the three ballets to the last symphonies, and the most famous score of them all survives in a shape other men gave it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-07-07
+lang: en
 ---
-
 ## A posthumous version that became the original
 
 The curtain goes up on a lakeside at night, and the ending the audience will applaud three hours later was not written by the composer whose name is on the poster. It was settled in a St Petersburg rehearsal room in 1895, two years after his death, by two choreographers and a theatre conductor who had reordered his numbers, cut what they judged unusable, orchestrated three of his piano pieces to plug the gaps and rebuilt his ending to their own design. The score in question stands at the head of almost every list of Tchaikovsky greatest works, and the version of it that fills theatres on every continent is, in its performing shape, a posthumous reconstruction.
 
 <!--more-->
 
-![Tchaikovsky greatest works and the Swan Lake score that survives in a posthumous version - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tchaikovsky greatest works and the Swan Lake score that survives in a posthumous version - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 That is the embarrassment at the centre of this catalogue, and it is also the clue to its real order. Tchaikovsky wrote six symphonies, eleven operas, three string quartets, two famous concertos and a shelf of orchestral showpieces, yet the works in which his gifts operate with the least friction are the three ballets, the compositions his own century filed under entertainment and his critics treated as a sideline. In the ballets the melodic abundance that could loosen a symphony's argument becomes the argument itself. The orchestral colour that could look like decoration in a concert work becomes stage machinery, carrying place, character and supernatural threat. The long span that he sometimes forced across a symphonic movement is given to him by the evening itself, act by act, so that patience replaces strain. This article defends that ranking work by work, and it keeps faith with the documentary record while doing so, because the second thing a reader needs to know about this catalogue is how often its most repeated stories rest on a single interested witness.
 

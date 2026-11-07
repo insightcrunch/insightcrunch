@@ -6,19 +6,19 @@ date: 2011-08-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "pyotr-ilyich-tchaikovsky", "classical", "legacy-debate", "music-criticism", "russianness-dispute"]
 excerpt: "The Tchaikovsky overrated debate is three arguments in one: over his sentiment, his structure and his Russianness, each a fight for the right to define him."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-08-07
+lang: en
 ---
-
 ## A national emblem with a redacted biography
 
 In 1940 the Moscow Conservatory took his name, in the centenary year of his birth, and in 1958 the Soviet Union founded an international competition that bears it, a fixture of the musical calendar ever since. No Russian composer was more publicly honoured by the state. Yet the editions of his letters that the same state published through those decades were cut, and cut in a particular place, so that a documented part of the man never reached print.
 
 <!--more-->
 
-![Pyotr Ilyich Tchaikovsky legacy debate, the national emblem and the redacted biography - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pyotr Ilyich Tchaikovsky legacy debate, the national emblem and the redacted biography - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 Both facts are true at once, and they stayed true at once for most of the twentieth century. The Tchaikovsky overrated debate, the long quarrel over whether he belongs among the greatest composers or merely among the most loved, ran through the same decades and drew on the same edited record, which is one reason it has proved so hard to settle. A reader who met the composer through the standard Soviet editions met a figure engineered for the honour described above: a suffering, solitary, fastidious artist whose sorrows had no names attached to them, set inside a national story that could be taught in schools. A reader who met him through the manuscripts at Klin, the house where he spent his last years and which became a museum within a year of his death, met somebody more specific and less convenient.
 

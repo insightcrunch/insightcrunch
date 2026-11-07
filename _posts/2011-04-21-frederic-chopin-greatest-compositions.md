@@ -6,19 +6,19 @@ date: 2011-04-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "frederic-chopin", "classical", "chopin-ballades", "chopin-preludes", "chopin-mazurkas", "piano-music"]
 excerpt: "Chopin greatest works reach the player through three first editions that disagree, so every pianist chooses between competing originals of the same piece."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-04-21
+lang: en
 ---
-
 ## Three first editions that disagree
 
 In the autumn of 1839 a pianist shopping in three European capitals could buy the same new set of pieces by Frederic Chopin three times over, once from Maurice Schlesinger in Paris, once from Breitkopf and Härtel in Leipzig and once from Wessel and Company in London, and the three purchases would not match. Notes differed. Ornaments that one printing spelled out in full sat in another as a sign, or were missing. Slurs began and ended in different places, dynamics contradicted each other, and in a handful of passages the notes themselves were not the same notes. None of the three printings was a pirate copy. Each was an authorised first edition, prepared from a manuscript the composer himself had supplied, and that simple commercial fact is the foundation on which any honest account of Chopin greatest works has to be built: the most admired piano catalogue in the Western canon survives in competing originals, and no single authoritative text of it exists.
 
 <!--more-->
 
-![Frederic Chopin greatest works and the three first editions that disagree - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frederic Chopin greatest works and the three first editions that disagree - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The fact deserves stating plainly, because a reader will repeat it. Chopin issued his works through French, German and English publishers at the same time in order to hold copyright in each country, since no international agreement protected him across borders, and the three editions that resulted differ from one another in hundreds of details large and small. Every later edition has had to choose between them. Every performer who opens the music is therefore reading a decision somebody else made, whether the performer knows it or not. This is not a marginal scholarly curiosity attached to an otherwise tidy catalogue. It shapes what the works are, how they are taught, how they are recorded and how they should be ranked, because a ranking of pieces that exist in several versions is always partly a ranking of versions.
 

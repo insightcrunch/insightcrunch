@@ -6,19 +6,19 @@ date: 2011-09-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "louis-armstrong", "jazz-and-blues", "hot-five", "all-stars", "trumpet"]
 excerpt: "Louis Armstrong greatest recordings run from Gennett studio dates and blues accompaniments to the All Stars and late pop hits, one technique throughout."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 132
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-09-21
+lang: en
 ---
-
 ## A show tune, a sixty-two-year-old man and a number one
 
 On the Billboard chart dated 9 May 1964, a record by a sixty-two-year-old trumpeter reached number one in the United States and ended a fourteen-week occupation of that position by the Beatles, who had held it with three different songs in sequence. The record was Hello, Dolly!, a show tune from a Broadway musical that had opened that January, cut the previous December for the Kapp label by a man who was reported to have needed persuading to record it at all. Nothing about the event fits the standard story of Louis Armstrong greatest recordings, which is why this account of them begins there. The standard story says that the essential Armstrong records were made in Chicago in the 1920s, that the trumpet playing on them remade jazz, and that everything after was commerce, clowning and gradual decline. The chart of May 1964 is a documented fact that story cannot digest, because the same singer and the same trumpet that the canon seals inside 1928 were, almost forty years later, the most commercially powerful force in American popular music for one week in the spring. Either the technique had survived the decades intact, or a sixty-two-year-old had outsold the Beatles on charm alone. This article works through the sessions in order and argues the first of those.
 
 <!--more-->
 
-![Louis Armstrong greatest recordings, the trumpet sessions from the Hot Five to the late pop hits examined](/assets/images/blog/blog-01.webp)
+![Louis Armstrong greatest recordings, the trumpet sessions from the Hot Five to the late pop hits examined](/assets/images/blog/blog-39.webp)
 
 The claim defended across the thirty-four sections that follow is precise. The catalogue divides by market, by format and by employer, but it does not divide by technique. The lead playing on the records of 1925 to 1928 and the lead playing on the records of 1954 to 1964 are the same craft applied to different material: a trumpet part built as a paraphrase of the melody that grows bolder with each chorus, a sense of time that sits the beat where the whole band can lean on it, a vocal delivery that treats a lyric as a rhythm part, and a solo architecture of statement, development and climax compressed into whatever space the format allowed. What changed between the periods was the space. A three-minute race-catalogue side, a dance-band arrangement, a twelve-inch LP track and a two-minute pop single each rationed that architecture differently, and the records differ because the rationing differed. Judged by what the playing does rather than by what the market asked, the line from the Hot Five to Hello, Dolly! is continuous, and the famous break in the middle of the catalogue is a feature of the criticism rather than of the records.
 

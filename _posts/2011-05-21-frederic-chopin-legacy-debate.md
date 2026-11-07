@@ -6,19 +6,19 @@ date: 2011-05-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "frederic-chopin", "classical", "legacy-debate", "miniaturist-charge", "national-identity", "gendered-criticism"]
 excerpt: "The Chopin overrated debate starts from four charges that are all true, and asks who built the yardstick that turns them into a verdict on his standing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 101
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-05-21
+lang: en
 ---
-
 ## Four charges, all of them true
 
 Begin with the measurements by which Frederic Chopin is usually found wanting, stated as plainly as his critics state them. He wrote no symphony. He wrote no opera. He wrote almost nothing that does not require a piano, and the exceptions can be listed in a breath: two concertos from his teens, a cello sonata, a piano trio, a set of Polish songs. Few of his works run longer than ten minutes, and most run far shorter, the length of a song or a dance. A composer is brought before these four measurements, and on every one of them he is found deficient. That is the whole of the standard case against him, and it has been repeated, in roughly this form, for more than a century and a half.
 
 <!--more-->
 
-![Frederic Chopin legacy debate, the standard charges against his standing tested against the criteria behind them - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frederic Chopin legacy debate, the standard charges against his standing tested against the criteria behind them - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The first thing to say about the charges is that they are true. This article will not dispute a single one of them, because none of them can be disputed. The catalogue is closed and has been closed since 1849. It contains some two hundred and thirty works, and a reader who searches it for a symphony will not find one, any more than a reader who searches it for an opera, a string quartet or a Mass. The concertos date from 1829 and 1830, when their composer was nineteen and twenty, and after them the orchestra disappears from his output almost entirely. The longest works, the three piano sonatas, the four ballades, the Fantasia in F minor and the Polonaise-Fantaisie, are the exceptions in a catalogue built from nocturnes, mazurkas, waltzes, preludes, études and polonaises. Any defence of Chopin that begins by denying the shape of his output begins by losing, and the honest argument has to start somewhere else.
 

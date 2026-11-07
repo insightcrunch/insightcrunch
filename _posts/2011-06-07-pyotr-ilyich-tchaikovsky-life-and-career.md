@@ -6,19 +6,19 @@ date: 2011-06-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "pyotr-ilyich-tchaikovsky", "classical", "nadezhda-von-meck", "russian-music", "nineteenth-century"]
 excerpt: "Tchaikovsky life and career, from a law clerk's desk to the von Meck allowance, the collapsed marriage, Western tours and a biography rewritten by its keepers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 97
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-06-07
+lang: en
 ---
-
 ## A thousand letters and a standing agreement never to meet
 
 For fourteen years, a widow in Moscow and a composer she had never spoken to conducted one of the most productive relationships in music entirely on paper. She settled on him an allowance of six thousand roubles a year, a sum large enough to free him from teaching and from every other form of paid drudgery, and she attached a single condition that he accepted at once and honoured for the whole fourteen years: they were never to meet. If their paths crossed in a street or a theatre foyer, they were to pass as strangers. She heard his music constantly, read his confessions weekly, knew his finances, his illnesses and his despair in detail, and never once heard his voice. When readers ask how the Tchaikovsky life and career could produce so much music in so short a working life, the answer begins with this arrangement, because the allowance bought the hours and the distance bought the candour. The patron was Nadezhda von Meck. The composer was Pyotr Ilyich Tchaikovsky. The letters they exchanged number more than a thousand, and they survive as the single richest documentary record of his inner life.
 
 <!--more-->
 
-![Pyotr Ilyich Tchaikovsky life and career, the composer and the patron he never met - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pyotr Ilyich Tchaikovsky life and career, the composer and the patron he never met - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The thesis of this biography is that Tchaikovsky was the first Russian composer to sustain a genuinely professional career in the Western sense, and that he built that career inside institutions that had barely been invented when he needed them. No Russian conservatory existed when he was born. No Russian musician of his generation earned a full living from composition, publishing and conducting contracts across several countries. He did, and the route by which he did it explains both the productivity and the strain. The money that freed him came from a private patron rather than from a court, a church or a university, and it came with a rule of distance that suited his temperament so precisely that it reads less like a restriction than like a diagnosis. The private life he recorded in those letters was then twice edited by other hands, first by his brother and then by a state, so that the life has to be told together with an account of who controlled the telling.
 

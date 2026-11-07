@@ -6,19 +6,19 @@ date: 2011-03-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "frederic-chopin", "classical", "chopin-biography", "paris-years", "george-sand", "piano-teaching"]
 excerpt: "Frederic Chopin life and career: a Warsaw childhood, a departure never reversed, and a Paris living earned from daily lessons and publishing contracts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-03-21
+lang: en
 ---
-
 ## Thirty public appearances in a whole career
 
 On the evenings when he played at all, it was in a room like this one: a Paris salon with the curtains drawn, a Pleyel grand pushed toward the corner, and eight or ten listeners seated close enough to hear a single note decay into silence. There was no programme and no platform, because the playing was scaled to the furniture, soft enough that conversation could have continued over it and exact enough that nobody attempted conversation. It is the first fact of the Frederic Chopin life and career that the room, and not the hall, was his workplace. The platform career on which other virtuosos built their names barely exists in his record at all.
 
 <!--more-->
 
-![Frederic Chopin life and career, the pianist in the Paris salon world where he taught and played - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frederic Chopin life and career, the pianist in the Paris salon world where he taught and played - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The thesis of this account follows from that room. Chopin built the first major career in Western music that depended on neither public concerts nor institutional employment. He held no court post, no conservatory chair, no chapel appointment, and after his arrival in Paris in 1831 he almost never stood on a public stage. What he had instead was a teaching practice among the wealthiest families in Europe, a set of publishing contracts renewed country by country, and a reputation carried from drawing room to drawing room by the people who had heard him at close quarters. The intimacy listeners hear in the music is not a metaphor laid over that arrangement. It is the direct product of it. A man who plays for eight people in a carpeted room writes differently from a man who must fill a hall, and he earns differently, plans differently and ages differently too.
 

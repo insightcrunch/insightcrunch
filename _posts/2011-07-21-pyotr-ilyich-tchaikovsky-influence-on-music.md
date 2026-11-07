@@ -6,19 +6,19 @@ date: 2011-07-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "pyotr-ilyich-tchaikovsky", "classical", "ballet-music", "film-music", "stravinsky"]
 excerpt: "Tchaikovsky influence on music travelled through the ballet theatre into film scoring, Russian concert halls and popular song, outrunning his symphonies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-07-21
+lang: en
 ---
-
 ## What a ballet composer's job used to be
 
 In the middle of the nineteenth century, the man who wrote the music for a new ballet at the Imperial Theatres in St Petersburg was an employee in the same sense as the man who painted the scenery. He held a salaried post, he worked to instructions, and his name appeared in small print when it appeared at all. The balletmaster decided what the evening required: a divertissement of national dances here, a pas de deux of a given length there, a storm, a dream, a transformation scene. The composer supplied music to fit those requirements the way a tailor supplies cloth to a pattern. If a dancer needed eight more bars to finish a variation, eight bars were added. If a celebrated guest artist arrived with a favourite solo from another ballet, that solo was lifted out of its old score and stitched into the new one, whatever its composer thought about the surgery. The score was theatre property, and the theatre treated it as raw material. Tchaikovsky influence on music begins in that unglamorous arrangement, because everything that followed started with one composer refusing to treat the arrangement as beneath him.
 
 <!--more-->
 
-![Tchaikovsky influence on music traced from the Imperial Ballet workshops to film scoring - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Tchaikovsky influence on music traced from the Imperial Ballet workshops to film scoring - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The names tell the story of the job's standing. Cesare Pugni, an Italian who settled in St Petersburg, composed the music for several hundred ballets across his career and died in 1870 with his scores already treated as interchangeable stock. Ludwig Minkus, who succeeded to the official post of ballet composer to the Imperial Theatres, wrote efficiently and well within the conventions, and the conventions were the point: the music had to be rhythmically clear, melodically serviceable and instantly replaceable. In Paris the position was marginally better. Adolphe Adam's score for Giselle, written in 1841, showed what a gifted composer could do inside the system, and Léo Delibes went further in Coppélia in 1870 and Sylvia in 1876, writing ballet music with genuine orchestral ambition. But Adam and Delibes were exceptions working against the grain of an institution. The institution itself, as Roland John Wiley documents in his history of the Imperial Ballet's working methods, understood ballet music as a craft service supplied to the choreographer's order, and it discarded scores as casually as it discarded sets.
 

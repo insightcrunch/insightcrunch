@@ -6,17 +6,17 @@ date: 2011-01-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "ludwig-van-beethoven", "classical", "motivic-development", "sonata-form", "late-style"]
 excerpt: "Beethoven musical style builds long movements from fragments too small for melody, letting rhythm, silence and development carry the argument of the music."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 101
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-01-21
+lang: en
 ---
-
 Four notes arrive and stop almost before they have begun. Three are short hammer strokes on the same pitch and the fourth drops lower and holds, and then the whole pattern starts again, transposed, insistently, as if the music had nothing else to say and intended to say it for half an hour. Nothing about the fragment is singable. It has no arc, no climax, no answering phrase, and a listener who tried to hum it as a tune would feel cheated, because a tune promises shape and this promises only pressure. Yet the pressure is the point. Beethoven musical style begins exactly here, in the discovery that a fragment too small to be a melody can be made to generate an entire movement, provided it is worked rather than repeated, broken apart, driven through foreign keys, stretched, compressed and argued with until its few notes have produced a span of music that feels less like a song than like a case being proved. This article defends one claim throughout: Beethoven's central technique is to build long spans of music from material too small to be a tune, which means his works are held together by process rather than by melody, and that is why they feel like arguments rather than songs.
 
 <!--more-->
 
-![Beethoven musical style, motivic development and the working sketchbooks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Beethoven musical style, motivic development and the working sketchbooks - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 ## Four Notes and Half an Hour
 

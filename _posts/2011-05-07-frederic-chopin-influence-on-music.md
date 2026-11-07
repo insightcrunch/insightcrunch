@@ -6,19 +6,19 @@ date: 2011-05-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "frederic-chopin", "classical", "chopin-influence", "piano-music", "debussy", "music-history"]
 excerpt: "Chopin influence on music ran through harmony and pianists' hands, reaching Debussy, Scriabin and the Warsaw competition without his forms being inherited."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 105
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-05-07
+lang: en
 ---
-
 ## A reversal across fifty years
 
 He published his music with nothing to guide a listener but a genre, a key and a tempo mark. He refused the descriptive titles his publishers pressed on him, declined to attach stories or programmes to anything he wrote, and left the curious to make of the sounds what they could. The refusal was not shyness. It was a position: the sounds were the statement, and anything said about them in words was a dilution he would not sign.
 
 <!--more-->
 
-![Chopin influence on music traced through pupils, editions and later composers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Chopin influence on music traced through pupils, editions and later composers - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The puzzle of Chopin influence on music begins with what happened to that refusal. He died in Paris in the autumn of 1849, a composer for one instrument, famous in drawing rooms and respected by musicians, but holding no post, founding no school and explaining nothing. Within fifty years the most advanced piano music in Europe was being built almost entirely out of colour, resonance and suggestion, music whose whole method is to imply rather than to state, and its leading maker pointed back at the silent man as a source. Claude Debussy had taken prizes as a Paris schoolboy playing Chopin's ballades in the 1870s, and in 1915 he sat down to edit Chopin's piano works for a French publisher while writing études of his own. The composer who would not explain himself had become the model for suggestion itself.
 

@@ -6,12 +6,12 @@ date: 2011-08-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "louis-armstrong", "jazz-and-blues", "new-orleans-jazz", "hot-five", "joe-glaser", "little-rock"]
 excerpt: "Louis Armstrong life and career, from the waifs home cornet to the Hot Five sessions, four decades under one manager and the stand at Little Rock, told plainly."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 109
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-08-21
+lang: en
 ---
-
 ## A Birth Date He Kept All His Life
 
 The register lay in a New Orleans church archive, one line of ink among thousands, recording a baptism and giving a birth date of 4 August 1901. The man it named had spent sixty years telling the world something else. On passports, in interviews, in two volumes of his own memoirs, Louis Armstrong gave his birth date as 4 July 1900, a Fourth of July at the turn of the century, and he celebrated it every year of his adult life. The Louis Armstrong life and career that the documents support begins with that small, durable discrepancy, because the register was not found until the 1980s, when the researcher Tad Jones, working through New Orleans church records, located the baptismal entry that no biographer had seen. Armstrong had been dead for more than a decade. He had taken his chosen date with him, undefended and unexplained.
@@ -22,7 +22,7 @@ He was born on 4 August 1901 in New Orleans, according to the baptismal record t
 
 <!--more-->
 
-![Louis Armstrong life and career, the baptismal register and the date he chose - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Louis Armstrong life and career, the baptismal register and the date he chose - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 Why would a man keep a false birth date for sixty years? The question is worth opening with because it governs how everything else in this biography has to be read. Armstrong left two records of his life. One is the public record of contracts, sessions, tours and interviews, much of it controlled by employers and managers. The other is the story he told about himself, in memoirs, in letters, on hundreds of private tape recordings made in his own house, and that story is a performance in its own right, shaped by a man who understood audiences better than almost any musician of his century. The two records agree on most of the large facts. Where they disagree, as they do on the first fact of all, the disagreement itself is evidence. The thesis of this account is that Armstrong made his innovations inside commercial arrangements he did not control, from a studio band that never played in public to four decades under a single manager who held his business affairs, and that the self he presented to the world was the one arrangement he did control completely. The birth date was part of that arrangement.
 

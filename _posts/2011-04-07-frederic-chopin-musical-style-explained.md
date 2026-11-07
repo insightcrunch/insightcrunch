@@ -6,17 +6,17 @@ date: 2011-04-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "frederic-chopin", "classical", "piano-technique", "rubato", "bel-canto"]
 excerpt: "Chopin musical style explained through the singing right hand, the harmonic left hand, rubato over a steady pulse and pedalling written into the score itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-04-07
+lang: en
 ---
-
 A struck piano string begins losing its voice the moment the hammer leaves it. The sound is fullest in its first fraction of a second, and from that moment it only decays, thinning and darkening until the damper falls or the vibration dies of its own accord. A singer in the same room can do precisely the opposite. A note can be taken softly, swelled, coloured and held level for as long as the breath allows, then released when the phrase, and not the physics, says it is finished. Between those facts lies the central problem of Chopin musical style, because Frederic Chopin built a technique and a life's work on persuading an audience that the decaying instrument was the singing one.
 
 <!--more-->
 
-![Frederic Chopin musical style and the singing piano line over a harmonic left hand - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frederic Chopin musical style and the singing piano line over a harmonic left hand - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## An instrument that cannot sustain a note: Chopin musical style and the dying tone
 

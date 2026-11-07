@@ -6,19 +6,19 @@ date: 2011-03-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "ludwig-van-beethoven", "classical", "legacy-debate", "heroic-narrative", "schindler", "late-style"]
 excerpt: "The Beethoven heroic narrative debate weighs the heroic story, the deafness explanation and the forged Schindler record against what documents can prove."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-03-07
+lang: en
 ---
-
 ## What remains after the familiar portrait is removed
 
 The Beethoven heroic narrative debate begins with an act of subtraction. Take away every anecdote that descends from the man who served as his secretary in his last years and then wrote his biography. Take away every inference that starts from the deafness and works backward into the scores. Take away every phrase that nineteenth century criticism coined and the twentieth century repeated until repetition felt like fact. Then ask what is left standing, and how much of the composer most listeners carry in their heads survives the removal. The answer is the subject of this article. A great deal survives, but it is a different shape from the familiar portrait, and the case for the music turns out to rest on grounds the portrait never mentioned.
 
 <!--more-->
 
-![Ludwig van Beethoven legacy debate, the heroic portrait tested against the documentary record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ludwig van Beethoven legacy debate, the heroic portrait tested against the documentary record - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 What survives the subtraction is not nothing. The scores survive, with their sketchbooks behind them, thousands of pages in his own hand showing themes drafted, rejected and rebuilt. His letters survive, more than fifteen hundred of them, covering money, health, publishers, pupils, family quarrels and the ordinary comedy of a working life. A private testament from 1802 survives, written at Heiligenstadt in his own words at the lowest point of his early despair. Financial records survive, contracts, receipts, the archives of the publishers who bought his work in three countries. The conversation books survive in part, the notebooks in which visitors wrote their side of the talk once speech had become useless to him, and they survive even after the entries forged by his own secretary are struck out of them. The life those papers describe is set out in full in [the account of Beethoven's life and career](/2011/01/07/ludwig-van-beethoven-life-and-career/), and this article takes that narration as read, because its concern is not the life but the argument that has been built on top of it.
 
