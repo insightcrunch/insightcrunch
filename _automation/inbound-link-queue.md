@@ -158,3 +158,7 @@
 ## how-corporate-spin-offs-work
 - _posts/2026-10-05-why-media-companies-merge.md - could carry: "The discount that combination was meant to outgrow is measured the same way when a board later runs the logic in reverse, and the account of how corporate spin-offs work sets out how that measurement is built and where it misleads."
 - _posts/2026-10-22-how-prepackaged-bankruptcy-works.md - could carry: "A solvent separation is negotiated with shareholders and tax counsel; a separation inside distress is negotiated with creditors first, and the prepackaged route shows how that creditor bargain is voted on before a filing."
+
+## nightjar-charge-that-failed-006
+- _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The line on the floor had been only an edge; in a Carrowmere lock chamber the nothing stood in the air with sides her hands could find and a ceiling above her head, and she mapped it standing in cold water while the gate moved on its frame."
+- _posts/2026-11-04-nightjar-standing-detail-005.md - could carry: "Rask's statement, filed after the Barrow hearing, was the first document in a trail; the next document the trail earned was a basin engineer's levels and a lock keeper's left handed signature on a statement about a charge that was never meant to fire."

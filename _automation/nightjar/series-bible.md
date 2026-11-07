@@ -321,6 +321,10 @@ rewritten.
 005 Idris Kolm is a hired watcher who sat openly on Bracken Hill above the house in Ostrel and had bought a long rifle in Tarnwick in his own name, signed for in daylight, so that the purchase would be found. He was a decoy, paid to be seen and to report the detail's pattern, which he had timed to the mill bell. He was taken alive off the hill and declined to answer.
 005 Tomas Rask stated on the record, in a statement Petra Dunmore filed in Carrowmere, that a Stiller's suppression has a source and a slope, centred on the Stiller and thinning with distance, and that the empty rooms Mira Kovac has found had neither. The statement is the first document in a trail the Office now keeps.
 
+006 Anse Vetter is the keeper of the Corra Lock on the Carrowmere north cut. Weeks before the charge was found he took a small payment to leave the upper service gate unlatched on two nights and to walk his inspection round short, and he delayed his report of the device by eleven minutes because a report made in the wrong order would have closed the lock on suspicion and destroyed the chamber evidence. He signed his statement left handed.
+006 The Corra Lock chamber held a volume of absence standing in the air where the device had been placed, with a floor, sides and a ceiling a span above Mira Kovac's height, and normal weight above and beyond it. The absence is a volume, never a surface.
+006 A charge that could not fire was placed twice in the Corra Lock gate chamber, removed once and replaced, as a rehearsal for a device intended to work somewhere else. The flood from a failed upper gate would have spared warehouse two on the basin, which stands on its highest sill, and drowned the stock of warehouses one, three and four.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

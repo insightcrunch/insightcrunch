@@ -139,3 +139,25 @@ spine notch:              Rung five. Rask, working a suppression on the road, gi
 characters:               Mira Kovac, Arvo Leyden, Tomas Rask, Petra Dunmore, Reni Vosk, Toma Reske (new), Elka Reske (new), Idris Kolm (new), Dain Ferro (new), Ivo Senn (new)
 canon written back:       Three facts under Established canon, each numbered 005: Toma Reske's testimony and the failed attempt at the Sarn mill bridge; Idris Kolm the decoy watcher and his openly signed rifle purchase; Rask's on-record statement on suppression and absence, filed by Dunmore as the first document in a trail
 callbacks:                001, 003 and 004, three internal links, to the transit room that held nothing, to the true record handed to Harrand in Melora, and to the chain taken apart at the Teshkar depot
+
+## Installment 006
+slug:                     nightjar-charge-that-failed-006
+published:                2026-11-06
+story span:               Three days in the Twenty Ninth Session, from Vetter's morning inspection at the Corra Lock to the reopening of the north cut
+arc:                      The Clean Room, case 6
+case type:                Sabotage prevention
+words:                    23329
+outcome:                  full success
+cost paid:                The cold of the lock chamber and the keeper's shame, which is worse; the chamber cold stays in her hands into the evening and Vetter's shame, taken in the hut read, sits in her longer
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the rehearsal and where the real device is coming
+clues planted:            The flood pattern table of four warehouses with their sills and stock; Dunmore's paper on the service gate left unlatched on two nights; Vetter's report and his eleven minute delay; Reeve's survey of the basin levels; the firing line led to a part that travels the wrong way; the two placements read in the chamber
+capabilities established: The chamber read showing two placements, a removal and a replacement (The collapse, Pressure); the hut read showing Vetter's payment and shame (The collapse); Reeve's levels and sill survey (Ground truth, The collapse); the gate ladder entry and the live chamber read under her own decision (Pressure); the absence mapped as a volume with a ceiling (Pressure)
+damage carried:           In: Voss's last ten minutes from 001, Reni's nineteen unsupported minutes from 004. Adds: the cold of the lock chamber and the keeper's shame
+endurance:                entering reduced; low at the pressure beat, in cold water
+legend beat:              In the Carrowmere lock houses they say NIGHTJAR swam the chamber. She opened the gate and walked in
+close consumed:           The two placements and the second working around the first, Reeve's flood pattern and sill survey, the firing line's wrong way travel, Vetter's payment and the unlatched gate nights, and the chamber read taken at the gate; every one established earlier in this same installment
+false lead:               Insurance. Corin Aske holds warehouse two, owes money in three directions and holds a large recent policy, and it fits; the flood pattern spares his high sill and drowns the three holders either side of him, so the reading dies on arithmetic
+spine notch:              Rung six. The absence is always a volume, never a surface. She maps one in the Corra Lock chamber and it has a ceiling a span above her own height, with normal weight above and beyond it
+characters:               Mira Kovac, Arvo Leyden, Ilse Harrand, Petra Dunmore (by paper), Anse Vetter (new), Corin Aske (new), Sanna Reeve (new)
+canon written back:       Three facts under Established canon, each numbered 006: Anse Vetter and his payment, his eleven minutes and his left handed signature; the Corra Lock chamber absence as a volume with a ceiling; the charge as a rehearsal placed twice, and the flood pattern that spares warehouse two
+callbacks:                002, 004 and 005, three internal links, to the line walked on a floor in Melora, to the sealed store room at the Teshkar depot, and to Rask's on the record statement at the Barrow hearing
