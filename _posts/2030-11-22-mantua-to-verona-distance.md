@@ -6,17 +6,17 @@ date: 2030-11-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "mantua", "geography", "mantua-to-verona"]
 excerpt: "The distance between Mantua and Verona, a real journey of some thirty miles, shapes the fatal timing of Romeo and Juliet and the race that the messengers lose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-11-22
+lang: en
 ---
-
 ## Mantua to Verona: Forty Kilometres and the Race Run on Them
 
 The distance between Mantua and Verona is the silent machinery of the last act. Two cities stand at either end of one plain road across the Lombard flatland: Verona on its river bend of the Adige, Mantua ringed by the lakes of the Mincio. Between them lie about forty kilometres of road, twenty-five miles in English measure, a ride of some three to four hours for a horseman travelling with intent. Everything in the tragedy's final movement is a journey along that road or a failure to make one. A servant rides it south to north with news of a funeral. A banished husband rides it north to south with poison in his possession. A friar's letter, the one document that could have reversed both journeys, covers none of it at all. The verdict of this article is stated at the outset and defended throughout: the geography is realistic, measured against the ground and against the period's own travelling speeds, and the timing is compressed only in its margins, in the total absence of allowance for accident. What kills the lovers is not the length of the road. It is the direction of the traffic on it. Error rides the road at full post speed while truth never leaves Verona, and a distance that a horse can cross in a morning becomes, for the one message that matters, infinite.
 
-![The road from Verona to Mantua across the Lombard plain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The road from Verona to Mantua across the Lombard plain - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 That verdict requires the measurement to be done honestly, because the familiar figure attached to this journey is wrong. Guidebooks, school editions, and the summary prose of the play's own excerpt tradition repeat a journey of some thirty miles. Thirty miles is forty-eight kilometres. The ground refuses it. Measured as the crow flies, the two city centres stand thirty-six kilometres apart, twenty-two miles. Measured by the road a rider must actually travel, south from Verona through Villafranca di Verona and down the Mantuan plain, the distance is about forty kilometres, twenty-five miles. The thirty-mile tradition overstates the road by roughly a fifth. The exaggeration matters less as an error than as a symptom: the number survives because it sounds like a journey, a full day of separation, doom at a dignified remove. The true figure is more frightening. Twenty-five miles is nothing. It is a morning's ride, an errand, the distance a servant covers between a funeral and breakfast in the next city. The play's catastrophe does not need thirty miles of separation to work. It works better, and colder, at twenty-five, because at twenty-five miles every rescue the audience imagines is physically possible, and the failure is therefore never the road's fault.
 

@@ -6,17 +6,17 @@ date: 2030-11-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "tragic-flaw", "hamartia", "lovers-tragic-flaw"]
 excerpt: "Whether Romeo and Juliet have a tragic flaw, the haste and passion that doom them, or are simply victims of fate, is one of the oldest debates about the play."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-11-01
+lang: en
 ---
-
 ## The Tragic Flaw Question, Answered First
 
 The verdict of this article is stated at the outset, because the evidence permits a verdict and the debate has run long enough on indecision: Romeo and Juliet do not have a tragic flaw, if a tragic flaw means what the phrase is usually taken to mean, a defect of character for which the fall is the deserved and intelligible price. What the lovers commit, repeatedly and fatally, are errors. They act on false information, inside time limits set by other people, under a secrecy imposed on them by a feud they did not make. The one disposition the prosecution can actually document in them, speed, is practised harder and with worse warrant by nearly every adult in Verona, and the play's own Chorus, before a single scene has been played, assigns the catastrophe to "the continuance of their parents' rage" rather than to anything in the children. A flaw that belongs to everyone in a city is not a flaw in two of its children; it is the climate of the place. The tragedy has a hamartia, in the strict Aristotelian sense of a missing of the mark, but the play distributes that error across a household quarrel, a friar's unduplicated letter, a prince's postponed justice, and two young people whose share of it is the smallest and the most excusable. To call the lovers flawed is to grade the examination by its weakest candidates.
 
-![The lovers and the tragic flaw question in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers and the tragic flaw question in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The classification is not pedantry, because it governs what the play is doing to its audience and what a production does with its lovers. A tragedy of flaw instructs: it exhibits a defect, exacts its price, and sends the house away resolved against haste, secrecy, and excess, in the posture Brooke's preface prescribes. A tragedy of error implicates: it shows people reasoning as well as their information allows inside arrangements they did not build, and sends the house away examining the arrangements, the feud's missing grounds, the single letter, the edict that arrives after the bodies. Directors decide the question every time the play is staged, in the temperature they give Verona and the intelligence they allow Juliet, whether or not they ever use the word hamartia. Critics decide it every time they choose whether the word for the lovers' share is blame or pity. Aristotle's chapter 13, which this article takes as its standard, is finally a claim about which of those responses a tragedy is for.
 

@@ -6,15 +6,15 @@ date: 2031-07-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-study", "punctuation", "lineation", "q2-cruxes"]
 excerpt: "The Q2 Romeo and Juliet is full of punctuation and lineation cruxes, small marks and breaks whose editing can change the rhythm and the meaning of the verse."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-07-11
+lang: en
 ---
-
 The punctuation and lineation of the second quarto of Romeo and Juliet, the 1599 volume printed by Thomas Creede for Cuthbert Burby, are the least visible and most consequential layer of the play's text. Every reader who has ever met the lovers has met them through marks that the quarto's compositors set and that four centuries of editors have silently replaced: commas where the modern page prints exclamation points, colons where the modern page prints full stops, verse dissolved into prose in the middle of the play's most famous speech, prose dressed up as verse in a host's welcome, parentheses opened and never closed, a question mark standing where a command should end. The words of the play descend from that quarto with high fidelity. The marks arrive filtered, translated, and in places invented, and because a mark can decide how a line is breathed, parsed, and understood, the filter is not a cosmetic layer. It is a second authorship, exercised in the printing house first and in the editor's study ever since.
 
-![The second quarto page of Romeo and Juliet with its original punctuation and lineation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The second quarto page of Romeo and Juliet with its original punctuation and lineation - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The verdict argued through this study can be stated plainly at the outset. The pointing of the second quarto, Q2 in the shorthand of the trade, is neither the playwright's own score nor random noise from the press. It is print-shop punctuation, set by working compositors over authorial copy, in a period system that used stops to pace a voice rather than to diagram a sentence. Its lineation is likewise mechanical at exactly the places where it looks strangest: verse was set as prose to save space, prose was set as verse because the copy or the compositor's eye took it for verse, and a passage the author revised stands printed twice, in two versions, because nobody struck the first one out. An editor is therefore right to repunctuate for a modern reader and right to relineate where the quarto's breaks are accidents of the bench. The editor is wrong only when the substitution is silent at a place where the mark decides the meaning. At such places the quarto's stop is evidence, and evidence is owed to the reader in the note even when the editor overrules it in the text. The cruxes gathered here are the places where that duty bites.
 

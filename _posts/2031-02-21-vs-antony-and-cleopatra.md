@@ -6,15 +6,15 @@ date: 2031-02-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "antony-and-cleopatra", "love-tragedy", "vs-antony-cleopatra"]
 excerpt: "Romeo and Juliet and Antony and Cleopatra are Shakespeare's two great love tragedies, one of youth and first love, the other of middle age, empire, and ruin."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-02-21
+lang: en
 ---
-
 Shakespeare wrote the love tragedy twice, once near the start of his tragic career and once near its summit, and the two attempts stand at opposite poles of the form. *Romeo and Juliet*, composed in the middle of the 1590s, gives the form to a pair of teenagers in a single Italian city, kills them inside a week, and lets a feud neither lover made supply the pressure that crushes them. *Antony and Cleopatra*, composed a decade later in 1606 or 1607, gives the form to a Roman triumvir and an Egyptian queen, stretches their entanglement across ten years of Mediterranean history, and lets the government of the world supply the pressure. Both plays end in a double suicide inside a monument. Almost nothing else about the endings is the same, and the distance between those two endings is the distance the playwright travelled as a tragedian.
 
-![The Capulet vault in Verona set against Cleopatra's monument in Alexandria, the two death chambers of Shakespeare's love tragedies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet vault in Verona set against Cleopatra's monument in Alexandria, the two death chambers of Shakespeare's love tragedies - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The comparison has an authority behind it older than the modern syllabus. A. C. Bradley, whose *Shakespearean Tragedy* of 1904 set the terms for a century of argument, paused in his first lecture to mark the pair off from everything around them: "it is only in the love-tragedies, *Romeo and Juliet* and *Antony and Cleopatra*, that the heroine is as much the centre of the action as the hero. The rest," he added of the single-hero tragedies, "are single stars." Bradley then set both plays aside, devoting his lectures to Hamlet, Othello, Lear and Macbeth, and the habit of setting them aside has proved durable. The Verona play survives in the general imagination as an isolated monument to young love, quoted at weddings and detached from the career that produced it. The Egyptian play survives as a connoisseur's pleasure, admired for its poetry and suspected of shapelessness. Each play is diminished by the isolation. Read together, they explain each other.
 

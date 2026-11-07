@@ -6,17 +6,17 @@ date: 2031-03-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "hamlet", "youth-and-death", "vs-hamlet"]
 excerpt: "Romeo and Juliet and Hamlet both turn on young people and untimely death, but set the impulsive lovers against a brooding thinker who cannot act in time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-03-14
+lang: en
 ---
-
 Two tragedies by the same hand, written within about five years of each other, kill their young people by opposite clocks. In Verona a boy meets a girl on a Sunday, marries her on Monday, kills her cousin on Monday afternoon, and is dead beside her body before the week is out, the whole action crushed into a span of days. In Elsinore a prince receives an exact account of his father's murder in the opening movement of the play and then does not perform the revenge that account demands until the final scene, by which point the court is a field of corpses and the avenger is dying of the same poison that has done his work for him. The first play is the fastest tragedy Shakespeare wrote. The second is the slowest. Set side by side, they look like a controlled experiment: one variable, the tempo of the hero, run at maximum and then at minimum, with the outcome held constant. The outcome is the point. Slowness saves nobody in Denmark. Haste, by itself, explains less in Verona than the proverb built on the play assumes. What the pairing finally exposes is a deeper shared engine, and the verdict of this article can be stated before the evidence is walked through: the two plays are one experiment conducted at two speeds, and the variable that kills in both is not the speed but the report, the message about the dead that reaches the young too damaged, too doubted, or too late to act on safely.
 
 That verdict reverses the usual classroom contrast, in which the lovers stand for feeling and the prince for thought, and in which each play is used to grade the other down. The lovers are treated as children who should have waited; the prince is treated as a thinker who should have struck. The texts refuse both morals. Romeo waits on nothing because the evidence reaching him appears complete, certified by an eyewitness he trusts, and the delivered articles in this series have established that his decision to die was formed in Mantua on that closed evidence-state hours before he saw the tomb. Hamlet strikes at nothing for months because the evidence reaching him arrives from a source his whole education teaches him to distrust, a spirit that announces itself from a place his church has abolished. Give Romeo the prince's evidence problem and his story lengthens. Give the prince Romeo's certainty and his story shortens to a single night. The following sections test that claim against the plays themselves: their spans of time, the documented machinery that fills the Danish interval, the critical quarrel over what the delay means, the haste that Verona distributes far beyond its hero, the moments where each hero borrows the other's tempo, the two young women, the two death-spaces, the poisons, the treatment of self-slaughter, the reports, and the two closing orders that inherit the wreckage.
 
-![The lovers of Verona and the prince of Denmark set against two clocks, one racing and one stalled - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers of Verona and the prince of Denmark set against two clocks, one racing and one stalled - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 ## How Long Does Each Tragedy Take? Days in Verona, Months in Elsinore
 

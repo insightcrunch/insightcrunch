@@ -6,15 +6,15 @@ date: 2031-05-23
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "reception", "bowdler", "censorship", "bowdler-censorship"]
 excerpt: "Thomas and Henrietta Bowdler's Family Shakespeare scrubbed Romeo and Juliet of its bawdy for polite readers, giving English the very word to bowdlerize."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-05-23
+lang: en
 ---
-
 Bowdler's Family Shakespeare is the most successful censorship in the history of Romeo and Juliet, and its success is the problem this article examines. Between 1807 and 1818 a brother and sister from Bath produced an edition of the plays from which, in the title page's own words, "those words and expressions are omitted which cannot with propriety be read aloud in a family". The edition conquered the nineteenth-century parlour, ran through printings for six decades, provoked a public quarrel between the age's leading journals, drew a famous defence from Swinburne and a famous prosecution from Richard Whiteing, founded an industry of rival expurgations, and left the language a verb, to bowdlerize, that remains the common noun's sharpest instrument against protective editing. The tragedy stood near the centre of the enterprise's difficulty. Romeo and Juliet is a play whose comedy is bawdy in its grain, whose heroine speaks her desire in the period's boldest soliloquy, and whose plot is a clandestine marriage; cleaning it was the method's hardest test, and the record of the cleaning, recoverable line by line from the Family text itself, is the evidence on which a verdict can finally rest.
 
-![Bowdler's Family Shakespeare and the clean play of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bowdler's Family Shakespeare and the clean play of Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 The verdict, stated at the outset: the expurgated Romeo and Juliet fails as an edition and succeeds as an event, and the two judgements must be kept separate because the critics have spent two centuries spending each on the other. As an edition it fails by its own doctrine's standard, since the matter removed was not the local decoration the prefaces promised to trim but load-bearing language: the first scene's analysis of the feud, the heroine's desire, the Nurse's worldview, Mercutio's wit. As an event it succeeds beyond any expurgator's deserving, since the clean play carried the tragedy into the households that made Shakespeare the national author, made first readers by the hundred thousand, and fixed the received image of the lovers, refined, suffering, and strangely chaste, that fuller texts have been correcting ever since. Two corrections to the common story govern everything that follows, and both are matters of record rather than interpretation. The tragedy does not appear in the famous 1807 edition at all; its expurgation belongs to Thomas Bowdler's completion of 1818, not to his sister Henrietta's founding volumes. And the cuts, when the Family text of 1825 is collated against the Folger text, fall with a consistency the mockery misses: on diction, register, and the plain naming of bodies, while the tragedy's deeds, its poison, its suicides, its tomb, pass almost untouched. The knife was precise. Precision is what makes its work worth auditing.
 

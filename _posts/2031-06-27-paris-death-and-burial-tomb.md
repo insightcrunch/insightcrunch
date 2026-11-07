@@ -6,15 +6,15 @@ date: 2031-06-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "paris", "tomb", "paris-death-burial"]
 excerpt: "Paris dies at Romeo's hand outside the Capulet tomb and is laid within it, the forgotten third body of Romeo and Juliet whose death the ending barely mourns."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-06-27
+lang: en
 ---
-
 Paris is the forgotten third body of Romeo and Juliet, and the forgetting begins inside the play itself. The familiar count of the tomb stops at two: a husband by poison, a wife by the husband's dagger, laid together in the Capulet monument while Verona gathers outside to hear the story explained. Yet the monument holds a third fresh corpse when the watch arrives, a young count killed at the tomb's entrance less than an hour before the lovers die, carried inside by the man who killed him, and laid down beside the bier at his own dying request. Paris comes to the churchyard to strew flowers on a grave. He leaves it, in the only sense left to him, as a bridegroom buried by his rival in the tomb of the family he never joined. This article reads that death and burial line by line in the Folger text of Act 5 Scene 3, and its verdict can be stated at the outset: Paris's death is not an appendage to the catastrophe but one of its load-bearing members, invented by Shakespeare against his sources, granted the scene's most courteous exchange, and then deliberately under-mourned by an ending whose silence about him is itself a judgement on the world that arranged his marriage.
 
-![The Capulet churchyard at night, a young mourner scattering flowers before a tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Capulet churchyard at night, a young mourner scattering flowers before a tomb - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The scene gives Paris the first word and the first rite. Before Romeo enters with a mattock and a crow of iron, before the Friar hurries in with his lantern and spade, the churchyard belongs to a mourner whose whole equipment is ceremonial: flowers, sweet water, a torch, and a page to carry them. Everything Paris does in his opening minutes is ordered, decorous, and private, and everything Romeo does in his is forced, secret, and violent. The contrast is the scene's ground plan. One man arrives to perform grief according to its forms; the other arrives to break open a grave. When the two collide, the collision is not between a villain and a hero but between the marriage plot's official candidate and its secret fact, each ignorant of the other's standing, each convinced that the churchyard at midnight is his by right. Paris believes the woman inside the tomb was to be his wife on the Thursday that became her funeral. Romeo knows she is his wife already. Neither belief is false in its own terms, and the play kills the man whose belief was the world's arrangement rather than the lovers' choice. The burial that follows, in which the husband performs the last office for the bridegroom, is the tragedy's strangest act of courtesy, and its most neglected.
 

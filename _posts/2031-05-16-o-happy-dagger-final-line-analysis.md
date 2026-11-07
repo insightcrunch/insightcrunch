@@ -6,17 +6,17 @@ date: 2031-05-16
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "o-happy-dagger", "juliet", "happy-dagger"]
 excerpt: "Juliet's last words, O happy dagger, fuse love and death in a single paradox, a compressed close to Romeo and Juliet that caps her clear-eyed final agency."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-05-16
+lang: en
 ---
-
 Juliet's final line is the shortest great speech in Romeo and Juliet, and the least accidental. Waking in the Capulet tomb to find Romeo dead beside her, refused by circumstance, abandoned by the Friar, and granted perhaps a minute before the Watch forces the vault, she speaks five words of decision and two lines of verse: "Yea, noise? Then I'll be brief. O happy dagger, / This is thy sheath; there rust, and let me die" (5.3.174-175 in the Folger lineation; some editions number the lines 168-170). The line is quoted everywhere as a sigh, the decorative crest of a swoon. Read closely, it is nothing of the kind. It is a completed conceit built like a lock: a vocative that promotes a weapon to a person, an adjective that prices the weapon's luck and fitness at once, a metaphor that assigns the speaker's body as the blade's appointed housing, and a pair of imperatives that settle the blade's future and the speaker's in a single breath. The verdict of this close reading is that the line is the most deliberate utterance in the play, the one speech in which metaphor, grammar and action arrive at the same instant, and that its famous wordplay, held at its proper weight, deepens rather than dilutes the gravity of what it says.
 
 The companion study of [Juliet's death, the dagger and the choice she makes with it](/2022/08/12/juliet-death-tomb-dagger-analysis/) covers the death as an event in the plot. The ground here is narrower and harder: the line as a made thing, word by word, variant by variant, against the texts that transmit it and the critics who have weighed it. A girl of not quite fourteen, in a tomb, in the dark, with seconds in hand, produces the play's most finished sentence. The finish is the subject.
 
-![Juliet's final line in the Capulet tomb, the dagger addressed as a person - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet's final line in the Capulet tomb, the dagger addressed as a person - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## The Tomb at the Minute of Waking: What the Speech Has to Carry
 

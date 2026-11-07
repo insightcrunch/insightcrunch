@@ -6,15 +6,15 @@ date: 2031-01-10
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "first-love", "the-ball", "who-loved-first"]
 excerpt: "At the ball Romeo sees Juliet first and is struck dumb, but who truly loves whom first in Romeo and Juliet, and whether it matters, rewards a closer look."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-01-10
+lang: en
 ---
-
 Who loved whom first in Romeo and Juliet is usually answered with a photograph: two faces turning toward each other across a crowded hall, one shared instant, a single lightning strike with two victims. The scene Shakespeare actually wrote in Act 1 Scene 5 is more interesting than the photograph. It is a relay, not a strike. Romeo loves first in feeling, and his loving is complete before he knows a single fact about the woman it fixes on. Juliet loves first in knowledge, in completion, and in action: she is the first of the two to love a person who has been identified rather than a face that has been seen, the first to turn a private sensation into a shared and spoken thing, and the first to do anything about it. The question matters because the split never heals. The whole tragedy is built out of the difference between his way of arriving at love and hers, and the tomb at the end is the ball at the beginning with the stakes raised: he still loves by sight and speed, she still loves by knowledge and decision, and sight and speed get there first.
 
-![The masked ball at Capulet's house, where the lovers meet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The masked ball at Capulet's house, where the lovers meet - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The verdict needs grading before it needs defending, because "first" hides three different races. There is firstness in feeling: whose heart moves earliest, measured by the text's own sequence of speeches. There is firstness in knowledge: whose love attaches to a known identity, a name and a house and a marital status, rather than to an appearance. And there is firstness in act: who first converts the feeling into the social machinery of enquiry, message, and decision. Romeo wins the first race outright and loses the other two. He declares his love, to the audience, in a ten-line aside spoken while Juliet is still dancing with another man and has not heard his voice. She finishes the sonnet he starts, sets the terms on which he kisses her, works through the departing crowd man by man until she finds the one she wants named, and speaks the play's first sentence in which love is predicated of an identified person: "My only love sprung from my only hate" (1.5.152). His love precedes information. Hers is made of it.
 

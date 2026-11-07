@@ -6,19 +6,19 @@ date: 2031-01-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "juliet", "intelligence", "juliet-smarter"]
 excerpt: "Many readers argue Juliet is the smarter of the two lovers in Romeo and Juliet, more practical, self-aware, and clear-eyed than the dreamy, impulsive Romeo."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-01-17
+lang: en
 ---
-
 Is Juliet smarter than Romeo? Put the two lovers through the same scenes and a pattern repeats with the regularity of a stage direction. Romeo meets a situation and reaches for a figure of speech. Juliet meets the same situation and reaches for its consequences. He swears by the moon; she strikes the moon out of the oath. He hears a report and acts on it within a breath; she hears a report and first rebuilds it, word by word, until it can bear weight. The question sounds like a parlour game, and the play refuses to treat it as one, because the answer decides how the tragedy is understood. If the clearer mind belongs to the lover with the least power, the least schooling, and the fewest hours of freedom in Verona, then the catastrophe cannot be laid at the door of foolish youth. It has to be laid somewhere harder.
 
 The method of the weighing matters as much as its result. The lovers are graded by kind of intelligence rather than in the lump, because the lump is where parlour games live: separated into kinds, invention, perception, prudence, and self-correction, the question becomes answerable from scenes. Both lovers are given their strongest evidence, his street certification and archival eye included, and the period's own vocabulary governs throughout, so that the verdict, when it comes, is stated in the terms the play itself supplies. The critics who have divided over the question are weighed with the lovers, since a verdict that cannot survive Bradley's scepticism or Bloom's reservation is worth little. What emerges is not a contest result but a distribution map: two minds, differently built, audited scene by scene against the same emergencies. Each grade in what follows carries its scene with it, so that disagreement can be exact rather than atmospheric, and the play's lines are quoted throughout from the Folger Shakespeare's text, by act and scene.
 
 The verdict of the pages that follow is graded, because the single word smarter conceals at least four different gifts, and Romeo holds one of them at full strength. In verbal invention, the lovers are partners, and the shared sonnet of their first meeting is a joint work. In the other three kinds, the record is lopsided. Juliet reads a moment while it is still unfolding, where Romeo reads it in retrospect. Juliet prices a risk before she takes it, where Romeo prices it after. Juliet audits her own first reading and overturns it onstage, in real time, where Romeo hands his worst error to Fortune and keeps his self-respect intact. Intelligence in this play is not a glow around a character. It is a set of operations, and the operations can be watched, scene by scene, in the Folger Shakespeare text.
 
-![Juliet weighing Romeo's words in the orchard - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet weighing Romeo's words in the orchard - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## What "Smarter" Meant in the Play's Own Century
 

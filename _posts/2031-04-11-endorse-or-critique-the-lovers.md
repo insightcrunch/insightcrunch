@@ -6,17 +6,17 @@ date: 2031-04-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "lovers", "endorsement", "endorse-or-critique"]
 excerpt: "Does Romeo and Juliet celebrate its lovers as ideal or quietly critique their rashness? The play's true attitude to the pair is one of its richest debates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-04-11
+lang: en
 ---
-
 ## Endorse or Critique? The Verdict in Advance
 
 Whether the play endorses or critiques its lovers is the oldest argument in its reception, older than the play's fame, because the argument began in the source. Arthur Brooke's poem of 1562 prefaced the tale with a formal condemnation of the pair, and the tragedy that followed deleted the condemnation while keeping the tale. Every later reading inherits that deletion and has to decide what it means. A play that meant to warn could have kept the warning; a play that meant to celebrate without reserve could have silenced the voices inside the action that question the lovers' haste, secrecy, and despair. The tragedy does neither. It removes the judge from the frame and then distributes judgment among interested parties inside the fiction, a friar who marries and rebukes in the same hour, a friend who mocks the passion he cannot feel, a heroine who calls her own love too rash in the middle of declaring it. The question is what verdict that distribution adds up to.
 
-![The lovers weighed in the play's own balance - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers weighed in the play's own balance - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The verdict argued through this article is a single one with two clauses. The play endorses the lovers: their feeling is the one uncorrupted value in Verona, presented in the text's richest poetry, defended by the structure against every rival account of it, and vindicated at the close when the city's authorities bury their feud over the bodies. And the play critiques the lovers: their conduct is shown, by voices the text treats as intelligent and by consequences the text arranges without mercy, to be hasty, secretive, and finally self-destructive in ways that clearer judgment might have escaped. The two clauses are not a compromise split between camps. They describe one attitude aimed at two different objects. What the play celebrates is what the lovers feel and what their feeling reveals about the world that forbids it. What the play questions is what the lovers do, the speed at which feeling becomes irrevocable act. Endorsement attaches to the love; critique attaches to the conduct; and the tragedy exists in the narrow space between those attachments, because in Verona feeling and conduct could not be separated for longer than five days.
 

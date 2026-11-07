@@ -6,17 +6,17 @@ date: 2031-04-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "feminism", "juliet", "feminist-play"]
 excerpt: "Whether Romeo and Juliet is a feminist play depends on weighing Juliet's striking agency against the patriarchal Verona that controls and finally destroys her."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-04-18
+lang: en
 ---
-
 Is Romeo and Juliet a feminist play? The question survives because the evidence refuses to line up on one side. On one side stands a heroine of thirteen who argues circles around every adult in her world, proposes her own marriage, dictates its terms, drinks a frightening potion alone, and dies by her own hand on her own decision. On the other side stands the world that contains her: a city where daughters are assets, where her father can move her wedding day forward like a delivery date, where every door she tries opens onto a man with a plan for her, and where the only exit the plot ever builds is a tomb. Weigh the heroine and the play looks feminist. Weigh the world and it looks like an exhibit in the case against patriarchy. Weigh both together, which is what the play itself insists on doing, and a graded verdict emerges, and the graded verdict is the argument of this article.
 
 The verdict, stated plainly at the outset: Romeo and Juliet is a feminist play in the diagnostic sense and not in the celebratory one. It is not a play that imagines a woman's freedom and funds it, because no freedom is funded anywhere in Verona; the single future the city finances for a daughter is marriage, and the single alternative it tolerates is the grave. It is a play that exposes, with unusual precision and from inside the heroine's own experience, the machinery by which a patriarchal order prices, transfers, and finally destroys its daughters, and it gives the daughter the finest rhetoric in the text with which to register the destruction. Juliet is exalted and Juliet is crushed, and the play's feminism lies in the refusal to let either fact cancel the other. The cliché of the swooning heroine flattens her into an emblem of romance. The text, read closely in the Folger edition, gives a mind at work under conditions designed to stop minds from mattering.
 
-![Juliet weighing her choices against the order of Verona - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet weighing her choices against the order of Verona - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 That verdict has to be earned rather than asserted, because the word at the centre of the question is an anachronism, because the critics who built the debate disagree about fundamentals, and because the strongest case on each side is genuinely strong. The agency case rests on what Juliet is given: the play's most searching language, the initiative at every hinge of the plot, a desire spoken in her own voice, and a defiance of her father that no other character in the tragedy attempts at comparable cost. The entrapment case rests on what she is denied: counsel, property, vocation, time, and any future the world will fund beyond the bridegroom it selects. The criticism divides along the seam between those two inventories. Coppélia Kahn reads the feud itself as patriarchy at work and the lovers as its scapegoats. Dympna Callaghan warns that the love the play celebrates is itself an ideology with a history, and that celebrating the heroine can mean swallowing the ideology whole. Between those poles the evidence has to be weighed claim by claim, and graded by the kind of evidence each claim is: the words of the text, the conditions of the early modern stage, or the habits of the criticism that inherited both.
 

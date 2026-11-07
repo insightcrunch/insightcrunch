@@ -6,17 +6,17 @@ date: 2030-12-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "performance-history", "chorus", "prologue", "chorus-cut"]
 excerpt: "The chorus of Romeo and Juliet speaks the Prologue and one later sonnet, then vanishes, raising the question of whether the role was cut in early performance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2030-12-13
+lang: en
 ---
-
 ## The Verdict First: A Frame Retired, Then Manhandled
 
 The Chorus of Romeo and Juliet speaks two sonnets and then falls silent for three acts and a catastrophe, and the question this article answers is where that silence was made: in the study, by the dramatist, or in the playhouse, by the cut. Was the Chorus cut, in performance or in transmission, from a frame that once ran the length of the play, or did the frame stop where its author stopped writing it? The two halves of that question have different answers, and keeping them apart is the whole of the case. The speeches that survive were indeed cut, thinned, anonymized, and dropped by performers and by playhouse paperwork from the earliest years of the play's life, and the record of that treatment is documentary. The speeches that do not survive, a chorus before the third, fourth, and fifth acts and a closing chorus to round the action off, were never written at all. No early text contains one, no early text leaves a gap where one stood, and the play's own machinery explains the retirement. After the second act the tragedy runs on secrets, and a voice licensed to tell the truth has no honest work left to do. The Chorus was not cut from a complete frame. It was dismissed by the dramatist who had finished with it, and the theatre's later handling of the two speeches it left behind has disguised a compositional decision as a theatrical loss.
 
-![The Chorus and the vanishing frame in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Chorus and the vanishing frame in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The distinction matters beyond pedantry, because each answer sends the play's handlers in opposite directions. If a fuller frame was written and lost, then editors are custodians of a mutilated design, directors who restore only the two surviving sonnets are staging a fragment, and the critic's task is reconstruction, an imagining of sonnets no document preserves. If the frame was designed to stop, then the two sonnets are complete in themselves, a matched pair of thresholds rather than the stump of a colonnade, and the silence after them is part of the play's meaning, the point at which narration yields to machinery and the audience is left alone with what the characters cannot see. The first reading makes the gap an accident of the archive. The second makes it an event in the play. This article argues the second, on evidence, and argues it against the strongest form of the first: the cut theory has real documents behind it, and they deserve to be weighed at full strength before they are set aside. What the weighing shows is that every document the cut theory owns describes damage to speeches that exist. About speeches that never existed, the documents are unanimous and silent, and their silence, properly read, is the loudest testimony in the case.
 

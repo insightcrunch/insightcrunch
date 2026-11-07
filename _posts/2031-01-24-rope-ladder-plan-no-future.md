@@ -6,15 +6,15 @@ date: 2031-01-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "rope-ladder", "plot", "rope-ladder-plan"]
 excerpt: "Juliet sends for a rope ladder so Romeo can climb to her on their wedding night, a touching plan in Romeo and Juliet that the feud and banishment make hopeless."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-01-24
+lang: en
 ---
-
 The rope ladder is the smallest complete tragedy in Romeo and Juliet, a whole marriage told through one piece of equipment. It is ordered with care, paid for, fetched on time, and carried into the right room on the right evening, and none of that competence saves it, because the ladder was built to serve a future that the play had already cancelled. A rope ladder answers exactly one question: how a husband reaches his wife's chamber in the dark without the household knowing. It cannot answer any of the questions that arrive with the morning. It cannot give the marriage a house, an income, a public name, or a road out of Verona. The verdict of this reading is that the ladder is no blunder and no mere symbol. It is the lovers' plan drawn honestly at its true scale: perfect logistics for secrecy, no logistics at all for a life. Everything the feud needed to destroy the marriage stands outside the ladder's design, and everything inside the design works.
 
-![The rope ladder at Juliet's chamber window in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The rope ladder at Juliet's chamber window in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The prop has a career, and the career is short. Romeo commissions the cords in Act 2 Scene 4, in a street conversation held at noon. The Nurse announces the fetching in Act 2 Scene 5, in the same breath as the wedding itself. The cords reach Juliet's chamber in Act 3 Scene 2, in the Nurse's hands, in the same entrance that brings word of a corpse and a sentence of exile. Juliet then speaks to the ropes directly, the only speech the play gives to any party of the plan addressed to the plan's equipment, and her sentence on them is that they have been cheated of their purpose. After that speech the ladder vanishes from the play's language. The wedding night happens without it being named. The dawn parting happens without it being named. No one in the last two acts, not even the Friar in his long confession of the whole design, mentions that the marriage once had a piece of climbing gear at its center. A prop that three scenes discuss in detail is dropped from the record as completely as the marriage itself is dropped from Verona's public knowledge, and that parallel is the argument in miniature.
 

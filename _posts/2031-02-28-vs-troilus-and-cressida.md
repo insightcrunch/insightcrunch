@@ -6,15 +6,15 @@ date: 2031-02-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "troilus-and-cressida", "love", "vs-troilus-cressida"]
 excerpt: "Romeo and Juliet idealizes young love, while Troilus and Cressida sours it into betrayal, making the two plays a striking study in Shakespeare's range on love."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-02-28
+lang: en
 ---
-
 Set the two plays side by side and a familiar story tells itself: a young playwright idealizes love in Romeo and Juliet, and the same playwright, some seven years older, sours on the whole subject in Troilus and Cressida, replacing the sonnet with the sneer and the tomb with a bawd's diseased farewell. The story is neat, quotable, and wrong in the way that matters. Troilus and Cressida does not refute Romeo and Juliet. It audits its predecessor, taking one element that the Verona play contains, isolates, and criticizes from inside, the Petrarchan posture of the lover who prefers longing to knowledge, and building an entire world in which that posture can never be outgrown, because the world runs on price. In Verona, a boy performs Petrarch for an absent girl, is mocked for the performance by his best friend, and is cured of it in a single evening by a girl who answers back. In Troy, a prince performs the same idiom before a whole civilization of appraisers, and nothing in his world ever answers back with anything except a valuation. The difference between the plays is not that one believes in love and the other has stopped believing. The difference is what each world permits love to become when it is tested.
 
-![Troilus and Cressida weighed against Romeo and Juliet as Shakespeare's two visions of love - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Troilus and Cressida weighed against Romeo and Juliet as Shakespeare's two visions of love - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The verdict of this comparison can be stated plainly at the outset. Romeo and Juliet gives its lovers a feud that kills them and a language that vindicates them; Troilus and Cressida gives its lovers a war that prices them and a language that keeps dissolving into negotiation. Juliet is constant because the play builds scenes in which constancy can be proved, at a balcony, in a cell, over a vial, in a tomb. Cressida is faithless, if faithless is even the right word, because her play builds scenes in which proof is impossible: she is discussed as cargo, exchanged as a counter in a prisoner swap, kissed in turn by a row of enemy generals, and left alone to diagnose herself in a speech nobody answers. Troilus, the lover, ends the play alive and promising revenge, his rhetoric of eternity converted without remainder into a rhetoric of hatred. Romeo ends it dead beside the woman he married, his rhetoric cashed out in act. One play is a tragedy of love destroyed by its world. The other is a satire of a world that has made love's language legal tender and then debased the coinage.
 

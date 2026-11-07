@@ -6,19 +6,19 @@ date: 2031-06-20
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "social-media", "digital", "social-media-age"]
 excerpt: "On social media Romeo and Juliet lives as clips, trends, and debates, the lovers and their lines endlessly remixed across the feeds of a new digital generation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-06-20
+lang: en
 ---
-
 ## The Verdict First: Restored in the Feed
 
 Romeo and Juliet in the social media age is not a story of a classic enduring a new medium by politeness. The verdict of this article is that the platforms restored the play: they returned it from the museum shelf and the examination syllabus to the condition in which it first lived, a fast story carried by messages, overheard speeches, partisan households, and public mourning, passed hand to hand at the speed of appetite. The cliché keeps the play in the theatre, embalmed as the greatest love story in the language, admired at a distance and quoted from a height. The feed keeps no distance. On the platforms the lovers are clipped, captioned, duetted, argued over, recast, and mourned by audiences who treat the text as material rather than monument, and the treatment, for all its violence to duration and decorum, recovers something the monument mislaid: the play as a transmission system that was always about the speed, failure, and publicity of messages.
 
 The restoration is not free. Every platform that carries the tragedy also taxes it, and the tax is flattening: scenes shrink to seconds, speeches shrink to captions, and a five-day catastrophe built from verse paragraphs is rebuilt as a highlight reel whose loudest moments survive and whose connective reasoning is discarded. The contest between engagement and flattening is the complication this article adjudicates case by case, from named and dated artefacts rather than from general impressions about digital culture. A Royal Shakespeare Company experiment that performed the tragedy in tweets across five weeks of 2010, a student web series that rebuilt it as vlogs in 2014, a casting announcement in March 2024 that turned the feud's logic loose on a living actor, a lawsuit filed in 2023 over a film made in 1968: each artefact is a controlled test of what a platform does to the play, and each returns a different ratio of gain to loss. The pattern across the tests is consistent enough to support a verdict stronger than balance. Engagement wins wherever the clip functions as a door, sending its audience toward the scene it came from; flattening wins wherever the clip functions as a substitute, closing the question it opened. The play's social-media afterlife is therefore best understood as a sorting machine, and the sorting favours the play more often than the tragedy's guardians predicted and less often than the platforms' champions promised.
 
-![Juliet at the window, broadcasting to an unseen audience in Romeo and Juliet in the social media age - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Juliet at the window, broadcasting to an unseen audience in Romeo and Juliet in the social media age - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The evidence standard matters, because the literature on both sides is plentiful and loose. Champions of digital Shakespeare deal in potential, pointing at what a platform could do for the canon; mourners deal in anecdote, pointing at a foolish caption as if it were a census. This article proceeds differently, admitting only artefacts with names, dates, and records attached: a production with a documented run and a scholarly post-mortem, a web series with a release year and a catalogue entry, a lawsuit with a filing and a dismissal, a company statement with a date and a letter that answered it. Where the record gives numbers, the numbers are used; where it gives only a form, the form is graded at the strength its documentation supports. The verdict that emerges is therefore narrower than the champions want and warmer than the mourners allow, and it has the advantage of being checkable, artefact by artefact, by any reader who doubts it.
 

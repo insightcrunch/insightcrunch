@@ -6,17 +6,17 @@ date: 2031-07-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "death", "word-frequency", "counting-death"]
 excerpt: "The word death and its kin saturate Romeo and Juliet, recurring far more than in most comedies, a verbal drumbeat that shadows the love story from the start."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-07-18
+lang: en
 ---
-
 ## Counting Death in Romeo and Juliet: The Verdict of the Numbers
 
 Romeo and Juliet names death far more often than it stages it. Six characters die onstage or are reported dead across the action, yet the spoken text returns to the word and its wider family hundreds of times: in threats before any blood is shed, in jokes, in wedding speeches, in a father's lament, in a friar's botany lesson, in the small talk of servants and the formal sentences of a prince. Counting those references, under rules stated openly and applied by script to a named edition, gives the play's famous atmosphere of doom a measurable shape. The count is the subject of this article, and its verdict can be stated at the outset.
 
-![The tomb in Act 5, where the play's death references gather most densely - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The tomb in Act 5, where the play's death references gather most densely - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 The verdict is this. In the Folger Shakespeare text of the play, edited by Barbara A. Mowat and Paul Werstine, the core family of death words occurs 149 times in the dialogue, and the full field of death references, the core family plus its ruled satellite classes, occurs 276 times: one such word in roughly every eighty-seven words spoken. The references are not spread evenly. The first two acts hold only twenty core occurrences between them, a background murmur inside a comedy of feuding and courtship. From the street fight of Act 3 onward the vocabulary thickens by an order of magnitude, until the final scene alone holds thirty-seven core occurrences, more than the whole of Acts 1 and 2 combined. Death in this play is therefore not a climax that arrives at the end. It is an undertone that starts as a whisper in the Prologue, swells at the hinge of the action, and ends as the only language left standing. The cliche hears a love story interrupted by death. The count restores the proportions: a death story whose love scenes are conducted, from the first meeting onward, inside a vocabulary already saturated with mortality.
 

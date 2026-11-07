@@ -6,17 +6,17 @@ date: 2031-04-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "golden-statues", "ending", "statues-of-gold"]
 excerpt: "At the close of Romeo and Juliet the fathers vow gold statues of the dead lovers, a gesture read as true reconciliation or as bitterly ironic and hollow."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2031-04-04
+lang: en
 ---
-
 ## The Statues of Gold: Ten Lines That Settle and Unsettle the Ending
 
 The golden statues of Romeo and Juliet exist for ten lines and are never built. In the Folger text of the final scene, Capulet offers his hand and calls it his daughter's jointure (5.3.296 to 298), Montague answers by promising to raise Juliet's statue in pure gold (5.3.299 to 303), and Capulet matches the promise for Romeo in a single balancing line (5.3.304 to 305). Nothing else in the play has generated a larger interpretive quarrel per line. One camp reads the vows as the feud's true end, grief converted into honour at ruinous cost. The other camp reads them as the feud's last transaction, two rivals outbidding each other in the only currency either house has ever trusted.
 
-![The golden statues vowed over the lovers in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The golden statues vowed over the lovers in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The verdict defended here holds both camps to the words on the page, and the words refuse to separate. The reconciliation is real: a hand is offered and taken, a legal demand is renounced, and the feud's two heads call each other brother over the bodies that ended their quarrel. The medium, though, is ironic through and through, because the peace is negotiated in comparatives of price, more and as rich and at such rate, so that the fathers stop fighting in the feud's language rather than in any new one. The statues are reconciliation, then, but reconciliation spoken by men who have learned the cost of their enmity without learning another tongue in which to pay respects. Gold is at once the proof of sincerity and the evidence of limit, and the play makes the metal carry both charges in the same ten lines.
 

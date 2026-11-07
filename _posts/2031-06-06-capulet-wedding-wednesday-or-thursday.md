@@ -6,15 +6,15 @@ date: 2031-06-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "capulet", "wedding-date", "wedding-wednesday-thursday"]
 excerpt: "Capulet first sets Juliet's wedding to Paris for Thursday, then moves it to Wednesday, a rushed date change in Romeo and Juliet that tightens the fatal timing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-06-06
+lang: en
 ---
-
 The wedding day in Romeo and Juliet is named twice, and the two names cannot both be true. On the Monday night of Act 3, in a scene that begins with a father asking what day it is, Capulet appoints Thursday: Paris confirms the day of the week, Capulet reaches first for Wednesday, corrects himself, and settles the matter with a formula he repeats like a seal, "O' Thursday let it be" (3.4.20). On the Tuesday evening of Act 4, delighted by a repentance that is entirely feigned, the same father annuls his own appointment in a single sentence: "I'll have this knot knit up to-morrow morning" (4.2.24). To-morrow morning, counted from Tuesday, is Wednesday. Between those two sentences the whole machinery of the catastrophe is re-timed. The Friar's plan, designed on the Tuesday of Act 4 Scene 1 for a Thursday wedding, assumes a dose drunk on Wednesday night and a waking on Friday. The advance steals the dose's night, pulls the waking back to Thursday, and leaves a letter describing the old timetable travelling toward Mantua while the new timetable executes itself in Verona. Thursday is the day the wedding was appointed. Wednesday is the day the wedding was enacted, prepared for, dressed for, and found impossible over a daughter's apparently dead body. The play marries Juliet to Paris on neither day, since the ceremony never happens, but every intention, preparation, and consequence in the text obeys Wednesday, and Thursday survives only in the mouths of characters who have not yet heard that the calendar has been torn up by the man who wrote it.
 
-![Capulet's wedding day, Wednesday or Thursday - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Capulet's wedding day, Wednesday or Thursday - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 That verdict has to be earned from the day-references themselves, because the play is unusually generous with them and unusually careless, or unusually cunning, about their agreement. Few Shakespearean plots let an audience count the days at all. This one names Monday outright, names Wednesday twice in opposed senses, names Thursday so often that the word becomes a drumbeat in the second half, and then stages a wedding morning that belongs to the second name, not the first. The argument of the pages that follow is that the contradiction is a decision before it is a discrepancy. Capulet makes the appointment in haste, in grief, minutes after his nephew's corpse has been carried out of the street, and he unmakes it in haste, in delight, minutes after his daughter kneels and performs the obedience he demanded. The same hand holds the pen both times. Reading the date change closely, scene by scene and line by line, shows a father governing his household by pronouncement, a friar building a rescue on a timetable he does not control, and a playwright who understood that in a five-day tragedy a single day is not a detail of the scenery. A single day is a quarter of the world.
 

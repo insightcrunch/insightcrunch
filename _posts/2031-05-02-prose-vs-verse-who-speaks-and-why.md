@@ -6,15 +6,15 @@ date: 2031-05-02
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "prose-and-verse", "prosody", "prose-vs-verse"]
 excerpt: "Romeo and Juliet shifts between verse and prose by character and moment, and tracking who speaks in each reveals class, mood, and the play's shifting registers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-05-02
+lang: en
 ---
-
 The first sound in Romeo and Juliet is not a sonnet but a pun told by two servants in prose, and the last sound is a prince closing the tragedy in measured verse. Between those poles the play runs a second plot written in register: prose and verse are dealt out to speakers like costumes, and the dealing follows a logic a careful map can recover. The verdict of this article is that the allocation is neither random nor a simple badge of rank. Rank sets each speaker's home register, but situation governs the crossings: comedy, errands, commerce, and the body's memory pull speech down into prose, while desire, law, ritual, and death hold it in verse, and the handful of characters who cross the boundary do so at the moments where their dramatic function changes. The cliché hears one poetic voice pouring over the whole cast. The record shows a playwright running two instruments at once and choosing, scene by scene, which one a given mouth should play.
 
-![Servants, nurses, and princes divided between prose and verse on the Verona stage - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Servants, nurses, and princes divided between prose and verse on the Verona stage - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 That claim needs a map before it needs an argument, and the map has a surprise in it. The prose of this tragedy is not scattered evenly like seasoning. It gathers in a small number of deep pools: the opening street brawl, the Nurse's great anecdote, the illiterate servant with the guest list, the long comic morning of Act 2 Scene 4, the prose banter that opens the fatal third act, and the musicians' coda after Juliet is found dead. Everywhere else the verse runs unbroken, sometimes for acts at a stretch. Act 5 contains no prose at all. A reader who counts speaking turns rather than lines finds the same shape: a verse tragedy with prose enclaves, each enclave placed where the play needs the temperature lowered, the pace loosened, or the social floor brought onstage. This article works through the enclaves in order, tests the two explanations critics have offered for them, class first and feeling first, and adjudicates between named scholars before delivering the register map as its artifact.
 

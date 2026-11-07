@@ -6,15 +6,15 @@ date: 2031-02-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "sonnets", "verse-form", "play-and-sonnets"]
 excerpt: "Romeo and Juliet is steeped in the sonnet, from its Prologue to the lovers' shared sonnet at the ball, linking the play closely to Shakespeare's own sonnet art."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2031-02-14
+lang: en
 ---
-
 The sonnets are not a hobby Shakespeare left at the stage door. Romeo and Juliet, the tragedy of the mid-1590s, is built out of the same fourteen-line machinery as the sequence printed in 1609 under the title Shake-speares Sonnets: it opens with a sonnet, pauses for a second sonnet before its second act, and lets its lovers meet inside a third, spoken between two voices at a feast. Set the play beside the Sonnets and neither work looks quite as it did alone. The sequence emerges as a drama that never found its stage, a single voice pleading, boasting, accusing and forgiving across 154 poems addressed to people who never answer. The play emerges as the sequence answered: the same form, the same Petrarchan inheritance, the same war against time, redistributed among a chorus, two lovers and a mocking friend, and driven at a speed no sequence could survive.
 
-![The lovers' shared sonnet at the Capulet feast, where the play's lyric form becomes dialogue - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The lovers' shared sonnet at the Capulet feast, where the play's lyric form becomes dialogue - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The verdict of the comparison can be stated plainly at the start. Shakespeare the lyric poet and Shakespeare the dramatist are not two men sharing a name, nor two phases of a career in which the apprentice sonneteer matured into the professional playwright. They are one craftsman working one material in two media at the same time. The play proves the unity from inside the theatre: its most famous love scene is a sonnet, its frame is a pair of sonnets, and its hero begins the action trapped inside the borrowed postures of the sonnet tradition and escapes them only by learning to speak with another person instead of at an absent one. The Sonnets prove the same unity from inside the book: poem after poem strains toward scene, soliloquy and confrontation, and the sequence's great unsolved problem, a beloved who will not speak, is precisely the problem the play solves in fourteen lines at the Capulet ball.
 

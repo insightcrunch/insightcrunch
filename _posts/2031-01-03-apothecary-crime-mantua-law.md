@@ -6,15 +6,15 @@ date: 2031-01-03
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "apothecary", "law", "apothecary-crime"]
 excerpt: "The apothecary who sells Romeo poison commits a capital crime under Mantua's law, a detail that deepens the scene's theme of poverty and pure desperation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2031-01-03
+lang: en
 ---
-
 The apothecary's crime in Romeo and Juliet is the most completely documented offence in the play. It is the only crime whose statute is quoted before it is committed, the only one committed in full view of the audience, and the only one whose penalty is recited twice, once by each party to the bargain. In Mantua, in Act 5, Scene 1, a starving tradesman sells Romeo a dram of poison although Mantua's law makes the sale itself a capital offence. He knows the penalty. He states it. He sells anyway, for forty ducats, and then he walks out of the play and out of every reckoning the play conducts. No officer arrests him. No witness reports him. The Prince's great audit of the catastrophe, which reaches friars, servants, pages, and fathers, never reaches Mantua at all. The crime is perfect in the legal sense: complete, confessed in advance by its perpetrator, and never prosecuted.
 
-![The apothecary's shuttered shop in Mantua, where the capital sale is made - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The apothecary's shuttered shop in Mantua, where the capital sale is made - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 The verdict argued through this article is a graded one, because the scene distributes guilt across three defendants and a court that never sits. The apothecary is guilty of the act his own mouth defines: he utters mortal drugs under a law that makes the uttering death, and his plea of poverty mitigates the offence to the very edge of excuse without crossing into acquittal. Romeo is guiltier than the man he buys from. He recites the penalty in his soliloquy before he knocks, chooses his seller by the man's starvation, argues him out of his fear with a philosophy of lawlessness, and then pronounces absolution over the bargain as though the accomplice were the judge. Guiltier than either stands the law itself: a capital statute that threatens only the desperate seller, says nothing to the wealthy buyer, and exists in the scene as pure quotation, unenforced, unofficered, and finally irrelevant to every death it was written to prevent. The scene is a trial in miniature, with the evidence given in full and the courtroom left empty. Quotations here follow the Folger Shakespeare Library edition of the play, edited by Barbara A. Mowat and Paul Werstine, cited by act, scene, and line.
 

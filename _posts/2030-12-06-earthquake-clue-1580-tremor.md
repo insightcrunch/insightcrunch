@@ -6,15 +6,15 @@ date: 2030-12-06
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "source-study", "earthquake", "dating", "earthquake-clue"]
 excerpt: "The Nurse recalls an earthquake eleven years before the action, one brief line that generations of scholars have used to pin a date on Romeo and Juliet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2030-12-06
+lang: en
 ---
-
 The earthquake clue is the most quoted dating argument in the whole Romeo and Juliet literature, and it rests on a single sentence spoken by a comic servant about a baby's weaning. In Act 1, Scene 3, the Nurse, boasting that she can tell Juliet's age to the hour, anchors her memory to a disaster: "'Tis since the earthquake now eleven years" (1.3). From that sentence an entire chronology has been built. England's great tremor of the period struck on 6 April 1580. Eleven years after 1580 is 1591. Therefore, the argument runs, the play was written in 1591, and the Nurse has accidentally preserved the date of the tragedy inside a joke about wormwood and a dove-house. The sum is neat, the line is genuine, and the earthquake is real. The conclusion does not follow, and the burden of the pages that follow is to show exactly where it breaks, because the clue deserves better than either blind faith or casual dismissal.
 
-![The Nurse recalling the earthquake of Juliet's weaning in Act 1 Scene 3 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Nurse recalling the earthquake of Juliet's weaning in Act 1 Scene 3 - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The verdict, stated at the outset: the earthquake clue cannot date Romeo and Juliet. It fails at three separate joints, and any one of the failures would be enough. First, the identification of the quake is an assumption dressed as a discovery: the line names no year, no country, and no city, and the period offers more than one candidate tremor, so the same arithmetic that yields 1591 yields 1595 or 1596 when a different, equally documented earthquake is chosen. Second, the witness is unusable: the speaker is a fictional servant whose speech exists to characterize her garrulous, grief-touched, number-drunk memory, and whose figures, pressed hard, contradict one another inside the same breath. Third, the logic is smuggled: even a perfect memory inside the fiction would date the play's imagined present, not the moment of composition, and plays are under no obligation to set their internal calendars in the year of their writing. Against those three failures stands the actual record: debts to books printed in 1592 and 1593, a company name on a 1597 title page that the company bore for only a few months, a rival satirist calling the play new in 1598. That record points to the middle of the 1590s, and it does not need the Nurse's help.
 

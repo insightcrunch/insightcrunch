@@ -6,17 +6,17 @@ date: 2031-08-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "watchmen", "ending", "watchmen-find-bodies"]
 excerpt: "In the last scene of Romeo and Juliet the watchmen discover the bodies in the tomb and raise the alarm, the first stirring of public order returning to Verona."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-08-01
+lang: en
 ---
-
 The last movement of the tragedy belongs to its smallest officers. After the lovers die inside the Capulet tomb, the play does not end in the vault with the bodies: it moves outward, into the churchyard, the street, and the Prince's improvised court, and the agents of that movement are the watchmen, minor functionaries with a handful of lines among them, who find the dead, secure the ground, detain the living, and summon the city to hear what happened. The verdict of this closing reading is plain. The watchmen are the one office in Verona that performs its function exactly as charged: every other instrument of order in the play, the Prince's edicts, the fathers' authority, the Friar's planning, the letter that never arrived, fails at the moment of need, while the patrol that enters at 5.3 with a boy for a guide does each part of its work in sequence and without error. Their competence is the hinge on which the ending turns, because a private catastrophe becomes a public reckoning only when somebody finds it, reports it in order, and holds the witnesses until the magistrate can hear them.
 
 That claim needs the scene read slowly, at the level of orders given and errands run, because the watchmen's importance is structural rather than verbal. They speak little, and what they speak is procedure: search, attach, hold, send, report. Yet the final third of the last scene, everything from the discovery to the Prince's closing judgement, is built out of their actions. Strip the watch away and the tomb keeps its secret: the Friar flees, Balthasar hides, the page runs home, and the two houses learn of the deaths by rumour at whatever hour rumour chooses. With the watch in place, the deaths enter the city's record within the scene, in the right order, before the right officer, with the evidence held in custody. The sections that follow take the sequence apart: the office itself, the page's errand that brings the patrol to the tomb, the Chief Watchman's first orders, the findings inside the vault, the detentions that convert survivors into witnesses, the summons that assembles Verona, and the report that hands the Prince a case instead of a chaos. Quotations follow the Folger text edited by Barbara Mowat and Paul Werstine, cited by act, scene, and line; line numbers in this crowded final scene shift by a line or two between editions, and the discovery's stage directions, like the watchmen's speech prefixes, are partly editorial constructions, a caution the editorial section below takes up directly.
 
-![The watchmen discovering the bodies in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The watchmen discovering the bodies in the Capulet tomb - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## Who Are the Watchmen in the Play's Verona?
 

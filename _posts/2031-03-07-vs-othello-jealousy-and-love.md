@@ -6,19 +6,19 @@ date: 2031-03-07
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "intertext", "othello", "jealousy", "vs-othello"]
 excerpt: "Romeo and Juliet and Othello both show love destroyed, one by feud, haste, and chance, the other by jealousy and a villain's lies, two routes to the same ruin."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2031-03-07
+lang: en
 ---
-
 ## Two Love Tragedies, Two Routes to Ruin
 
 Two tragedies of love destroyed stand about nine years apart in Shakespeare's career, and the distance between them measures a change in where the playwright located the machinery of ruin. Romeo and Juliet, written about 1595 and printed in a first quarto in 1597, kills its lovers with a city: an inherited feud, a culture of haste, and a run of accidents that no character plans and no character can stop. Othello, composed about 1603 to 1604 and first recorded on 1 November 1604, when the King's Men played "The Moor of Venis" before the court in the Banqueting House at Whitehall, kills its heroine with a mind: a general's trust converted, inside some two days on Cyprus, into a husband's certainty that his wife is false. The conventional contrast drawn from the pairing is tidy. The Verona catastrophe is external, a matter of feud, haste, and chance. The Cyprus catastrophe is internal, a matter of jealousy fed by the lies of the ensign Iago. The tidiness deserves respect and suspicion in equal measure, because it describes the weather of each play more accurately than it describes the mechanism.
 
 The verdict argued across this comparison is that the two plays run on the same engine at different addresses. In both, love withstands every direct assault and dies at the moment it is made to reason from evidence. Romeo receives a report of Juliet's death that is accurate in every particular its bearer can vouch for, and the accuracy is the catastrophe's cruellest feature: the facts delivered are right, and the one fact that matters, that the death is a performance staged by a friar's potion, is precisely the fact no report can carry. Othello receives a handkerchief produced as ocular proof of adultery, and the proof is a fabrication: the object is genuine, the inference is planted, and the conclusion it forces is false in every particular. One hero is killed by a truth believed correctly as fact and wrongly as meaning. The other is ruined by a falsehood believed as proof. Between the two stands the shared anatomy. Shakespeare's lovers are not destroyed at the point where love is betrayed, since neither Juliet nor Desdemona betrays anything. They are destroyed at the point where love is placed in the position of a judge and handed a dossier.
 
-![Romeo and Juliet and Othello, two tragedies of love destroyed, compared](/assets/images/blog/blog-01.webp)
+![Romeo and Juliet and Othello, two tragedies of love destroyed, compared](/assets/images/blog/blog-62.webp)
 
 The comparison proceeds in the order the catastrophes proceed: first the engines, then the evidence each engine delivers, then the manipulator, the marriages, the time schemes, the deaths, and the closing judgments, with the critics who have disputed the pairing heard before the verdict is restated. Quotations from both plays follow the Folger Shakespeare Library editions edited by Barbara A. Mowat and Paul Werstine, and both plays are treated on the same evidentiary standard throughout.
 
