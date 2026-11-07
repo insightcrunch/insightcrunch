@@ -6,19 +6,19 @@ date: 2026-11-06
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "A Carrowmere lock is rigged with a charge that cannot work, set to flood four bonded warehouses and kill nobody, and the badness of the work is the point."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 99
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-06
+lang: en
 ---
-
 ## Eleven Minutes at the Corra Lock
 
 The cut still held its night cold when Anse Vetter came down the towpath, and the water in the chamber lay black and flat under a skin of mist. Wet stone met his boots at the steps, stone darkened to the knee by years of rise and fall, and the gate timbers above it stood beaded with dew that had not yet begun to run. The air smelled of green weed softening in the shallows, of iron kept wet, of tar from the paddle gear, and under all of it the faint sour breath of the east basin, where the bonded warehouses waited with their doors shut. He carried his lamp unlit in his left hand, because his right was the one he trusted least before it had worked.
 
 Thirty years on the Carrowmere locks had taught his hands the order of a morning before his mind had finished waking to it. He set the lamp on the coping, where the stone had been worn to a shallow dish by other lamps and other mornings, and went first to the upper gate, as he always went, because the reach pressed hardest there and a fault showed earliest. The balance beam gave under his shoulder with its familiar complaint. The paddle gear turned stiff and then eased, as it eased every morning once the night cold was worked out of it, and the water stirred against the gates and settled again. He noted the level against the marked post, as he noted it whether anyone read the book or not. Then he took the lamp down the iron rungs into the gate recess to look at the frame and the sill.
 
-![A lock chamber on a Carrowmere canal at first light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A lock chamber on a Carrowmere canal at first light - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 The charge was set against the frame of the upper gate, low where the masonry shouldered out to meet the timber, and he saw it first as a wrongness in a place he knew by touch better than by sight. He did not reach for it. His hand stopped in the air, and the poor light showed him a packed shape bedded hard against the wrong face of the frame, set where stone and water stood between it and the work it pretended to threaten. Even a keeper, no engineer and no artificer, could read the error. The masonry would take the force and spend it into the chamber wall. And the line that ran from it, led toward the travelling gear of the gate, had been fixed where the gate in its ordinary work would draw it slack rather than taut, easing away from the pull it would need if it was ever to do anything at all. It was sabotage-shaped. The longer he looked, crouched on wet rungs with his knees complaining, the more surely he understood that it could not perform the work its shape promised.
 
