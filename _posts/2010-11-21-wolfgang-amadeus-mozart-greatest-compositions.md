@@ -6,19 +6,19 @@ date: 2010-11-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "wolfgang-amadeus-mozart", "classical", "mozart-opera", "mozart-requiem", "piano-concertos"]
 excerpt: "Mozart greatest works refuse a single summit: the operas, late symphonies, concertos, quintets and Requiem each advance a separate claim on the listener."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-11-21
+lang: en
 ---
-
 ## An Unfinished Mass and Two Hands
 
 In December 1791 a widow in Vienna held the unfinished score of a funeral mass and a practical problem. The mass had been commissioned anonymously, half paid in advance, and the balance depended on delivering a work the patron would accept as the dead man's own. So Constanze Mozart did what the situation required: she gave the manuscript to a pupil of her husband, Franz Xaver Süssmayr, and he finished it in a hand trained to imitate the one that had stopped. Anyone who sets out to survey Mozart greatest works meets this problem on the first page, because the most famous sacred work in the catalogue is partly by somebody else, and two centuries of scholarship have not finished separating the two hands.
 
 <!--more-->
 
-![Wolfgang Amadeus Mozart greatest compositions and the unfinished Requiem autograph - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wolfgang Amadeus Mozart greatest compositions and the unfinished Requiem autograph - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The claim this article defends is that the difficulty is not an accident of one unfinished mass but the shape of the whole catalogue. Mozart's strongest work is concentrated in his last ten years, and within those years it is spread with unusual evenness across opera, symphony, concerto, chamber music and sacred music, so that no single composition can stand for him the way a single symphony can stand for Beethoven or a single opera for Wagner. Every shortlist of his music is therefore an argument about which genre matters most, disguised as an argument about quality. The pages that follow go through the catalogue genre by genre, work by work, giving for each major piece its circumstances, what it does that its neighbours do not, and how it was received at the time and afterwards.
 

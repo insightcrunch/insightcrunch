@@ -6,17 +6,17 @@ date: 2010-08-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "johann-sebastian-bach", "classical", "counterpoint", "fugue", "baroque-music"]
 excerpt: "Bach musical style explained through counterpoint, fugue, figured bass and tuning, showing how independent lines create expression a listener can learn to hear."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-08-21
+lang: en
 ---
-
 Four notes sound alone, plain and unhurried, a small shape a listener can hold in the ear without effort. Then a second voice enters with the same four notes while the first voice continues into new territory, and the ear must divide its attention between an arrival and a departure at once. A third voice joins with the same shape, then a fourth, so that beginnings and continuations overlap and no single strand owns the moment. That crowded, balanced sound is where Bach musical style first announces itself.
 
 <!--more-->
 
-![Bach musical style and four independent voices in counterpoint - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bach musical style and four independent voices in counterpoint - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 ## Four Voices and One Idea, Described Before It Is Named: Bach musical style in Sound
 

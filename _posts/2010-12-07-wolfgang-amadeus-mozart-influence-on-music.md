@@ -6,19 +6,19 @@ date: 2010-12-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "wolfgang-amadeus-mozart", "classical", "mozart-influence", "mozart-effect", "music-history"]
 excerpt: "Mozart influence on music proved narrow, technical and specific, while his cultural footprint grew far wider through catalogues, teaching and Salzburg."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-12-07
+lang: en
 ---
-
 ## A small study and a very large conclusion
 
 In 1993 a short study from the University of California, Irvine reported that college students who listened to a Mozart sonata for two pianos performed better, for a matter of minutes, on a test of spatial reasoning than students who sat in silence or listened to relaxation instructions, and that narrow result is where any honest account of Mozart influence on music has to begin, because the distance between what those researchers measured and what the wider culture concluded from it contains the whole argument of this article in miniature: the compositional influence was narrow, technical and specific, while the cultural footprint grew enormous, and confusing the second for the first is the error that keeps repeating.
 
 <!--more-->
 
-![Wolfgang Amadeus Mozart influence on music shown through scores, catalogues and concert life - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wolfgang Amadeus Mozart influence on music shown through scores, catalogues and concert life - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 Within five years of that 1993 report, the governor of Georgia, Zell Miller, was proposing public money so that a compact disc of classical music could be given to the parents of newborn children in his state, with Mozart as the name that made the proposal intelligible to voters who had never heard the sonata in question. A laboratory finding about paper folding and cutting, measured in minutes, had become a policy about infant development, measured in press releases. Nobody in that chain had lied about the original experiment. Each step had simply enlarged the claim by one plausible-sounding increment, until a result about a single task performed by adults had turned into a promise about the brains of babies.
 

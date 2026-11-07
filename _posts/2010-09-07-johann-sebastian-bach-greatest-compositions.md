@@ -6,19 +6,19 @@ date: 2010-09-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "johann-sebastian-bach", "classical", "bach-cantatas", "baroque-counterpoint", "keyboard-music"]
 excerpt: "Bach greatest works range from cantatas written against a weekly deadline to late counterpoint written for no occasion and no patron at all, only for study."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-09-07
+lang: en
 ---
-
 ## An unfinished page and the question it leaves
 
 The page holds a fugue in four voices, written out in open score so that each line can be followed on its own staff, and the writing proceeds with the patience of a man demonstrating something rather than inventing it. Voice answers voice in strict imitation. A countersubject locks against the subject at every entry. Then, partway through a passage where a third subject has entered and the texture has tightened to its densest point, the hand stops. The bar is complete. The next bar never begins. There is no flourish, no double bar, no sign that the writer believed the argument had reached its end. He was in his middle sixties when those pages were prepared for the engraver, working without a commission, without a performance in prospect, and without any employer who had asked for the work or would ever hear it. He simply stopped, and the most systematic piece of counterpoint he ever attempted has remained an open question ever since.
 
 <!--more-->
 
-![Bach greatest works and the unfinished final fugue in the Art of Fugue manuscript - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Bach greatest works and the unfinished final fugue in the Art of Fugue manuscript - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 That page belongs to the Art of Fugue, and the composer was Johann Sebastian Bach, but the names matter less at the outset than the condition the page reveals. Here is the central fact about Bach greatest works as a whole, and the thesis the sections that follow defend from the evidence of the catalogue itself. The output divides into music written to a deadline and music written to no deadline at all. The first kind filled the churches of Leipzig week after week, taught pupils, honoured patrons and paid a salary. The second kind, concentrated in the final decade of his life, answered to nobody. No congregation waited for it, no prince had ordered it, and in several cases no performance took place during his lifetime or for long afterward. Yet it is the undeadlined music, the Mass in B minor assembled for no service, the Musical Offering grown from a single royal theme, and the Art of Fugue left open on its final page, that changed what later composers believed a work of music could attempt. The deadline music proves the craft. The undeadlined music reveals the ambition.
 

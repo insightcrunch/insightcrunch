@@ -6,17 +6,17 @@ date: 2010-05-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "folk-and-country-music", "folk-country-songwriters", "country-music-origins", "folk-music-history", "bluegrass-explained"]
 excerpt: "History of folk and country music traces how songs outlived their singers, from oral ballads and collectors through radio, Nashville and folk revivals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-05-21
+lang: en
 ---
-
 In the first week of August 1927, in a warehouse on State Street in Bristol, on the line between Tennessee and Virginia, a talent scout named Ralph Peer sat behind recording equipment hauled south by rail and auditioned mountain singers who had travelled in by wagon, by train and by automobile, among them a family trio from Maces Spring, Virginia, and a brakeman from Mississippi who sang and yodelled. The history of folk and country music turns on that week, because the sessions proved that inherited songs could be sold as records. The claim defended across this article is the one the Bristol week illustrates: folk and country are the two traditions in which the song rather than the performer or the recording is the unit that survives, and both spent their recorded history negotiating between that inheritance and the star system that recording created.
 
 <!--more-->
 
-![History of folk and country music from oral ballad singers to the Nashville session system - Insight Crunch](/assets/images/blog/blog-01.webp)
+![History of folk and country music from oral ballad singers to the Nashville session system - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## What folk means and the problem with the word in the history of folk and country music
 

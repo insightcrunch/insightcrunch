@@ -6,17 +6,17 @@ date: 2010-03-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "jazz-and-blues", "blues-history", "jazz-history", "improvisation", "bebop"]
 excerpt: "The history of jazz and blues traces one shared question across a century of recorded sound, how solo improvisation stays coherent inside a collective form."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-03-21
+lang: en
 ---
-
 A man sat on the platform at Tutwiler, Mississippi, in 1903, waiting for a train that was hours late, and beside him another traveller took out a guitar, pressed a knife blade against the strings, and slid the metal along the neck while singing about where the railroad crossed a highway of dirt. The waiting man was W. C. Handy, a trained bandleader who later wrote the encounter into his autobiography, and the sound he heard that night, a voice and a string bending together around three plain chords, became the seed of his composing career and one of the few dated scenes in the early history of jazz and blues. The history of jazz and blues is the story of what happened to that sound once it entered dance halls, theatres, studios and concert rooms, and the two forms are best understood as two halves of one answer to a single question: how does music built on individual improvisation stay collectively coherent? Every development traced in the pages that follow, from the twelve-bar chorus to the free collective playing of the 1960s, is a renegotiation of that balance between a solo voice and the group that holds it.
 
 <!--more-->
 
-![History of jazz and blues traced from a Delta platform encounter through New Orleans ensembles, swing bands and bebop combos - Insight Crunch](/assets/images/blog/blog-01.webp)
+![History of jazz and blues traced from a Delta platform encounter through New Orleans ensembles, swing bands and bebop combos - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 One plain fact is worth carrying through the whole account, because it corrects the most common picture of the subject. The first vocal blues recording by a Black singer, Mamie Smith's session for Okeh in August 1920, was made in a New York studio by a vaudeville performer born in Cincinnati, backed by a studio band, and it sold in quantities that persuaded an entire industry to build a catalogue around Black buyers. The music that listeners later imagined rising straight out of cotton fields reached the wider world through a northern recording studio, a commercial gamble and a singer whose home ground was the theatre stage. That pattern, in which the rural and the commercial, the local and the national, keep exchanging places, repeats at every stage of the story.
 

@@ -6,19 +6,19 @@ date: 2010-10-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "wolfgang-amadeus-mozart", "classical", "mozart-biography", "vienna-years", "eighteenth-century-music"]
 excerpt: "Mozart life and career told from the documents, from the touring childhood his father managed to the Vienna decade, its earnings, debts and final winter."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-10-21
+lang: en
 ---
-
 ## A father who kept the receipts
 
 A boy of seven is lifted onto a chair so that the audience can see his hands reach the keyboard, and the man who lifts him is already counting the evening: the fee agreed beforehand, the gratuities that might follow, the cost of getting the family home again. His father keeps the receipts. He keeps the itineraries, the programmes, the lodging bills and the long letters written back to Salzburg describing each engagement and each payment, and that paperwork is why the Mozart life and career can be reconstructed from documents where most eighteenth-century childhoods survive as a parish entry and a rumour. Why do we know so much more about this childhood than about almost any other of the period? The short answer is the ledger. The full answer has to wait until the tours themselves are on the table, because paperwork only explains itself once its purpose is clear.
 
 <!--more-->
 
-![Wolfgang Amadeus Mozart life and career, the documented childhood and the Vienna freelance years - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wolfgang Amadeus Mozart life and career, the documented childhood and the Vienna freelance years - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The claim this account defends is simple to state and slow to prove. Mozart was the first major composer to attempt a career without a permanent patron, and almost everything strange about his last decade, the income, the debts, the output and the exhaustion, follows from the fact that nobody had yet worked out how to do that. A salaried chapel had sustained Bach through decades of argument with his employers. A blend of court appointment and foreign impresarios would sustain Haydn. The open market that a later century learned to take for granted, with publishers paying royalties, agents arranging tours and copyright attaching a composer's name to a stream of income, did not exist in the Vienna of 1781. The man who walked out of Salzburg service and into that unfinished market was twenty-five years old, and he had been a professional musician since he was six.
 

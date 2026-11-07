@@ -6,17 +6,17 @@ date: 2010-06-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "recorded-music", "cross-era", "history-of-recording", "recording-technology", "phonograph-effect"]
 excerpt: "How recorded music changed music by turning a fleeting performance into a repeatable object that could be owned, studied, replayed and judged at home."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-06-21
+lang: en
 ---
-
 In the summer of 1877, in a workshop in Menlo Park, New Jersey, Thomas Edison spoke a nursery rhyme into a brass mouthpiece while turning a hand crank, and a needle traced the vibrations of his voice into a sheet of tinfoil wrapped around a cylinder. When the crank turned again, the rhyme came back, thin and wavering but recognisable, out of the same horn. Nothing in that moment sounded like an industry. It sounded like a parlour trick. Yet the trick contained the whole argument of this article, because how recorded music changed music begins with that reversal: a performance, which for all of human history had vanished at the instant it was made, had become an object that could be kept, carried, sold and heard again by people who were never in the room.
 
 <!--more-->
 
-![Recorded music history and how the phonograph, microphone and tape changed what music is made of - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Recorded music history and how the phonograph, microphone and tape changed what music is made of - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 Recording did not simply preserve music. It changed what music was made of, because the moment a performance became a repeatable object, the incentives governing length, arrangement, improvisation, virtuosity and fame all inverted. A song that once had to fill an evening now had to fit a disc side. A solo that once evaporated now had to survive rehearing. A singer who once had to reach the back row of a theatre now had to reach one listener at a time, at close range, through a machine. Mark Katz, in Capturing Sound, published in 2004, gave this cluster of effects a name, the phonograph effect, meaning the ways a recording technology reshapes the musical practices it was built only to capture. Katz treated the effect as reciprocal rather than one way: musicians changed the machines by demanding more from them, and the machines changed the musicians by rewarding some habits and punishing others. That reciprocity is the thread through every section that follows, from the three minute disc to the multitrack studio, and from the village field recording to the global trade that carried local sounds into distant homes.
 

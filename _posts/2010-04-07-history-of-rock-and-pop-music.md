@@ -6,17 +6,17 @@ date: 2010-04-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "history-of-rock-and-pop-music", "rock-and-pop", "rock-and-roll-origins", "british-invasion", "punk-and-metal"]
 excerpt: "The history of rock and pop music runs from electrified blues and the cheap single through radio, albums, punk and metal to the independent label era."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-04-07
+lang: en
 ---
-
 A guitar amplifier fell from the roof of a car on the road into Memphis in March 1951, and when the band plugged it in at the Memphis Recording Service on Union Avenue, the cone tore loose a distorted buzz that the engineer, Sam Phillips, chose to keep rather than fix. The record cut that day, credited to Jackie Brenston and his Delta Cats but played by Ike Turner and his Kings of Rhythm, joined a twelve bar blues frame to a boogie piano figure and a saxophone honking through the choruses, and it reached the top of the rhythm and blues chart within weeks. That accident, preserved because a small studio owner heard money in a broken sound, is a fitting doorway into the history of rock and pop music, because the form was never designed in one place by one mind. It assembled itself where a distribution system, radio plus the cheap single, met a repertoire, the electrified blues, at the moment a young audience with wages of its own appeared, and every movement that followed reacted to how that machine treated the people who fed it.
 
 <!--more-->
 
-![History of rock and pop music and the electrified blues single that carried it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![History of rock and pop music and the electrified blues single that carried it - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 ## What separates rock from pop and why the line keeps moving
 

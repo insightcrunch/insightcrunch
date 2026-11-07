@@ -6,19 +6,19 @@ date: 2010-10-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "johann-sebastian-bach", "classical", "legacy-debate", "greatest-composer", "attribution-disputes", "performance-practice"]
 excerpt: "Is Bach the greatest composer, or does that claim rest on one favored measure of worth? The debate over structure, feeling and faith is examined here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-10-07
+lang: en
 ---
-
 ## The verdict from inside his own family
 
 The harshest early judgment on Johann Sebastian Bach came from inside his own household. In the years around his death in 1750, his sons were building careers in a musical world that prized clarity, grace and immediate charm, and they described their father's manner of writing as old-fashioned. Carl Philipp Emanuel Bach and Wilhelm Friedemann Bach had learned counterpoint at his table, copied his scores and absorbed his discipline. Their verdict was therefore not ignorance speaking. It was informed judgment from musicians who knew the fugues and chorales intimately and who nonetheless heard them as belonging to a passing order. That family verdict opens a question that runs through every later argument about reputation: why did the people who knew the music best think it was already out of date?
 
 <!--more-->
 
-![Johann Sebastian Bach legacy debate on standing and criteria - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Johann Sebastian Bach legacy debate on standing and criteria - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The context sharpens the puzzle. A father's style can embarrass ambitious sons for social reasons alone, since each generation advertises its difference. Yet the sons' reservations were specific and musical rather than merely fashionable. They pointed to dense part writing, to learned counterpoint carried into genres that rewarded lightness, and to a harmonic language that younger composers found heavy. A judgment with technical content deserves a technical hearing. Either the sons misread music they understood deeply, or they perceived something genuine that later admiration has smoothed away. Framing the debate in that way protects both sides from caricature at the outset.
 

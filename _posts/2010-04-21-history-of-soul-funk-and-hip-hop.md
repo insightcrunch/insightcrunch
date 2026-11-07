@@ -6,17 +6,17 @@ date: 2010-04-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "soul-funk-and-hip-hop", "rhythm-and-blues", "gospel-roots", "funk-rhythm", "hip-hop-origins"]
 excerpt: "The history of soul funk and hip hop follows one descent from gospel technique through backbeat and the one to the break and the sampled record itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-04-21
+lang: en
 ---
-
 In May 1967, in a Cincinnati studio owned by King Records, a singer counted his band in and then shifted the weight of the bar onto its first beat, leaving space where a backbeat flourish might have sat and asking the horns to strike as punctuation rather than decoration. The history of soul funk and hip hop is the story of how that kind of decision kept being made at larger scales: soul, funk and hip hop form one line of descent in which each stage relocates the centre of gravity of the music, soul moving it from the written song to the voice, funk moving it from the voice to the rhythm section, and hip hop moving it from live performance to the record itself.
 
 <!--more-->
 
-![History of soul funk and hip hop from gospel technique to the turntable - Insight Crunch](/assets/images/blog/blog-01.webp)
+![History of soul funk and hip hop from gospel technique to the turntable - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 That relocation was never only a matter of taste. Each move depended on an institution that trained the musicians, a business that paid or failed to pay them, and a technology that fixed the result so it could travel. The church trained the singers. The independent label turned the singing into a saleable object under contracts that rewarded the label first. The studio house band turned arrangement into a repeatable regional sound. The turntable then turned the finished record back into raw material, so that a drummer recorded in Cincinnati or Memphis could anchor a track made in the Bronx or Los Angeles decades later. Read in sequence, the three forms explain one another: the melisma in a soul performance, the interlocking bass and drum pattern in a funk performance, and the looped break in a hip hop performance are three answers to the same question of where musical authority sits in a given moment.
 

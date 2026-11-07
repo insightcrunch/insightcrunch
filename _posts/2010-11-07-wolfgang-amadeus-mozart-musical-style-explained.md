@@ -6,17 +6,17 @@ date: 2010-11-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "wolfgang-amadeus-mozart", "classical", "sonata-form", "opera", "wind-writing"]
 excerpt: "Mozart musical style turns opera into instrumental drama, where themes act as characters, winds argue and answer, and balanced phrases break with purpose."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-11-07
+lang: en
 ---
-
 Two voices sing at the same time and want opposite things. One pleads, the other refuses, and a third enters with a private worry that contradicts both, yet a listener follows every strand without confusion, because each voice keeps its own melodic shape, its own rhythm and its own emotional temperature while the combined sound stays coherent. That effect, simultaneous characterisation inside an opera ensemble, is the key to Mozart musical style as a whole. Mozart's instrumental music is built on operatic logic, and the reason his symphonies and concertos feel like events rather than designs is that he writes every important theme as a character who wants something.
 
 <!--more-->
 
-![Mozart musical style and operatic ensemble thinking inside instrumental music - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mozart musical style and operatic ensemble thinking inside instrumental music - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ## Two People Wanting Opposite Things at Once
 

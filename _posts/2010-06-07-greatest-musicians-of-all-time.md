@@ -6,19 +6,19 @@ date: 2010-06-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "cross-era", "music-rankings", "music-criticism", "musical-greatness", "canon-and-reputation"]
 excerpt: "The greatest musicians of all time are chosen by argument rather than measurement, and this article states six criteria in full before it names a single name."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-06-07
+lang: en
 ---
-
 ## Why the Question Is Asked at All
 
 One billion records. That figure followed Elvis Presley through decades of record company publicity, repeated by journalists who rarely asked who had counted, and it is exactly the kind of number that appears to end arguments about the greatest musicians of all time while settling none of them. A sales figure of that size, even if it could be audited, would answer a question about manufacturing, distribution and broadcasting. The question people bring to a phrase like this one is different. They want to know whose music deserves their limited listening life, whose work will repay study, and whose name a newcomer should learn first. Publicity answers with a number because a number looks like a verdict. The honest answer is an argument, and arguments can be examined, weighed and improved in ways that numbers pasted onto reputations cannot.
 
 <!--more-->
 
-![Greatest musicians of all time compared across eras and traditions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Greatest musicians of all time compared across eras and traditions - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The question gets asked because music is one of the few arts in which a lifetime is not long enough to hear everything that matters. A reader who gives an hour to one composer gives it away from another, and ranking is the crude instrument people reach for when they allocate scarce attention. Record shops organised their shelves by it. Radio stations built countdown formats on it. Magazine editors discovered generations ago that a ranked list sells the issue and starts arguments that continue in letters pages and, later, in comment threads, long after the printing bill was paid. Underneath the commerce sits a genuine intellectual need. Every tradition of music carries an internal sense of its own peaks, and the moment two traditions meet in one listener's education, the peaks have to be compared somehow.
 

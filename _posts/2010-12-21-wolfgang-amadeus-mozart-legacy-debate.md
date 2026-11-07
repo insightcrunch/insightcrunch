@@ -6,19 +6,19 @@ date: 2010-12-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "wolfgang-amadeus-mozart", "classical", "legacy-debate", "mozart-myths", "salieri"]
 excerpt: "Mozart myths and legacy rest less on the documentary record than on a stage play and a film; stripping that layer away changes the argument completely."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-12-21
+lang: en
 ---
-
 ## How a drama replaced a biography
 
 A play opened at the National Theatre in London in the winter of 1979, and five years later a film carried its story around the world. Between them, Peter Shaffer's Amadeus installed a version of Mozart in the general mind that no archive supports: a giggling innocent murdered by a jealous rival, a genius too pure for the commercial world that starved him. The replacement happened with remarkable speed. Within a decade of the film, the envious Salieri was the version schoolchildren met first, the version concert programmes had to correct before they could begin, and the version against which every documentary account had to argue its way back. The Mozart myths and legacy that most listeners carry are therefore not a slow sediment of two centuries of biography. They are, in large part, the residue of one dramatic work and its sources, laid over a documented life that looks very different. Almost every popular belief about Mozart originates in a dramatic work rather than a document, and the serious argument about his standing cannot begin until that layer is removed, at which point the case for him changes shape entirely.
 
 <!--more-->
 
-![Wolfgang Amadeus Mozart legacy debate and the Salieri myth examined - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Wolfgang Amadeus Mozart legacy debate and the Salieri myth examined - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The documentary record itself is generous. Few composers of the eighteenth century left so much paper: thousands of family letters, contracts, account entries, a thematic catalogue in the composer's own hand, and an estate inventory drawn up within weeks of his death in 1791. The life those papers describe, the Salzburg childhood, the Vienna decade of freelance work, the marriage, the debts and the unfinished final score, is narrated in full in [the account of Mozart's life and career](/2010/10/21/wolfgang-amadeus-mozart-life-and-career/), and this article takes that narration as read. What concerns this article is not the life but the argument laid over it. Five beliefs dominate the popular picture: that Salieri destroyed him, that the ability arrived untouched by training, that composition cost him no labour, that he died in poverty, and that his early death is itself part of the greatness. Each belief has a traceable origin, and in every case the origin is a stage, a page of fiction or a piece of romantic biography rather than a document from the man's lifetime.
 

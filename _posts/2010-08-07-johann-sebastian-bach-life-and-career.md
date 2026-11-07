@@ -6,19 +6,19 @@ date: 2010-08-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "johann-sebastian-bach", "classical", "bach-biography", "leipzig-cantor", "baroque-music"]
 excerpt: "Johann Sebastian Bach life unfolded as salaried work, argument and overwork, from Eisenach orphanhood through Weimar detention to long Leipzig service."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-08-07
+lang: en
 ---
-
 ## The walk to Lubeck and the hearing that followed
 
 In the autumn of 1705 a twenty year old organist obtained four weeks of leave from the council that employed him, packed for a journey on foot, and walked north out of Arnstadt toward Lubeck, a distance of roughly four hundred kilometres through Thuringian forest, Saxon farmland and the flat country below the Baltic coast. He travelled to hear Dietrich Buxtehude, the ageing organist of St Mary's Church, whose evening music drew listeners from across northern Germany, and he stayed through the winter season, absorbing a manner of playing and a scale of invention that no teacher at home could offer him. He returned about four months after he had left, to a consistory hearing, a written record of complaint, and an employer asking where he had been. The organist was Johann Sebastian Bach, and the Johann Sebastian Bach life that followed repeated that pattern for forty-five years: a salaried post, a hunger that exceeded the post, a collision with the men who paid him, and music made in the middle of the collision rather than in shelter from it.
 
 <!--more-->
 
-![Johann Sebastian Bach life and the Lubeck walk that opened a career of argument with employers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Johann Sebastian Bach life and the Lubeck walk that opened a career of argument with employers - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 The hearing deserves attention because it survives in documents rather than in anecdote. The Arnstadt consistory summoned its young organist in February 1706 and recorded its questions in the dry language of a church court, yet the substance is vivid. He had been absent far beyond his granted leave. He had introduced strange variations into the chorale accompaniments and confused the congregation. He had allowed an unrelated young woman to make music in the choir loft. Each charge describes a working musician testing the edges of a job description that his employers understood narrowly and that he understood as a floor rather than a ceiling. Christoph Wolff, whose biography Johann Sebastian Bach: The Learned Musician appeared in 2000 after decades of archival work in German church and court records, reads the Arnstadt file as the earliest full evidence of a temperament that every later employer would meet. The young man answered his questioners without apology, corrected their understanding of his duties, and treated the proceeding less as a judgement on his conduct than as a negotiation about what an organist was for.
 

@@ -6,12 +6,12 @@ date: 2010-09-21
 categories: ["Leisure"]
 tags: ["immortal-sound", "johann-sebastian-bach", "classical", "bach-influence", "counterpoint", "music-history"]
 excerpt: "Bach influence on music moved by hand copied paper, through pupils and sons, into Vienna studies, printed editions, classrooms and concert halls worldwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-09-21
+lang: en
 ---
-
 ## A worn edition in a Barcelona shop
 
 A teenage cellist in a Barcelona second hand shop picked up a worn edition of six suites for unaccompanied cello that nobody performed complete, and Bach influence on music acquired one of its strangest carriers. By Pablo Casals's own later account, he was thirteen years old in 1890, searching the bins of a music shop near the harbour with his father, when he found a printed copy of the suites by Johann Sebastian Bach, a set of pieces that professional cellists of the period treated as studies, excerpts or curiosities rather than as a cycle for the concert platform. He took the volume home and worked on the music in private for twelve years before playing the suites in public. The scene matters because it overturns the usual shape of an influence story. No famous teacher handed the boy a masterpiece. No academy prescribed the set. A cheap printed edition, produced decades earlier by editors who had kept the suites in circulation as teaching material, sat in a shop until a particular reader recognised what the pages could become in performance.
@@ -20,7 +20,7 @@ The thesis of this article can be stated in one sentence. Bach influence on musi
 
 <!--more-->
 
-![Johann Sebastian Bach influence on music traced through copied manuscripts, editions and the cello suites - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Johann Sebastian Bach influence on music traced through copied manuscripts, editions and the cello suites - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Casals's account comes from his own recollection, given long after the event, and the details vary between his tellings, so the shop scene should be read as his account rather than as a courtroom record. That caution does not weaken the larger point. The edition existed. German publishers had issued the suites during the nineteenth century, editors had fingered and bowed them for students, and cellists such as Alfredo Piatti in London knew individual movements. The paper trail is checkable in publishers' catalogues and library holdings. What Casals added was twelve years of private labour and then a public decision, repeated across decades of recitals and eventually fixed in his recordings of the complete set made between 1936 and 1939, that the six suites belonged on the platform as a cycle. Influence, in this case, travelled from an editor's desk to a shop bin to a practice room, and only at the end of that journey did it reach an audience.
 

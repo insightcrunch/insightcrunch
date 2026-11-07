@@ -6,17 +6,17 @@ date: 2010-03-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "classical-composers", "classical", "classical-music-periods", "western-music-history", "musical-canon"]
 excerpt: "Classical composers history traces how patronage, notation and new public institutions turned separate musical problems into one shared European tradition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 85
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-03-07
+lang: en
 ---
-
 In March 1829 a twenty year old conductor stood before a Berlin choir of several hundred singers and raised his baton over a score that had not been performed in public for generations. Felix Mendelssohn had spent years preparing the St Matthew Passion of Johann Sebastian Bach, and the evening is where classical composers history often pretends to begin, with a forgotten master rescued at a single stroke. The record shows something less tidy and more interesting. Keyboard players and theorists had studied Bach in manuscript throughout the intervening decades, copying his fugues and learning counterpoint from them, so no rescue was required; what changed in 1829 was the scale of the public and the machinery of performance around the music. The Western classical tradition is not a sequence of geniuses but a sequence of problems, and each composer the tradition remembers is remembered because they solved one the previous generation could not.
 
 <!--more-->
 
-![Classical composers history and the patronage, notation and canon that shaped the great composers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Classical composers history and the patronage, notation and canon that shaped the great composers - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 That claim governs everything that follows. A problem, in this sense, is a gap between what musicians wanted to make and what their tools, employers, notation, instruments or audiences allowed them to make. The monk who needed a chant remembered identically in every monastery faced a problem of memory. The opera composer who needed an audience to feel a text rather than admire a singer faced a problem of expression. The symphonist who needed four movements to hold together for forty minutes faced a problem of architecture. Each solution became the next generation's starting condition, and the problems changed accordingly. Read this way, the history of classical composers is a history of institutions as much as a history of individuals: churches that paid salaries, courts that demanded ceremony, publishers who needed saleable parts, conservatories that trained players, and halls that gathered strangers willing to pay for a seat. The names survive because the solutions were strong enough to be taught, printed, performed and argued over after their makers were gone.
 

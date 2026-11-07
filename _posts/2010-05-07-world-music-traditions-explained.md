@@ -6,19 +6,19 @@ date: 2010-05-07
 categories: ["Leisure"]
 tags: ["immortal-sound", "world-traditions", "raga-and-tala", "arab-maqam", "qawwali", "afrobeat", "film-music"]
 excerpt: "World music traditions explained system by system: raga and tala, the Arab maqam, qawwali, West African rhythm and Latin forms, each on its own terms."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-05-07
+lang: en
 ---
-
 ## Where the term world music came from
 
 In the summer of 1987, in the upstairs room of the Empress of Russia, a pub in north London, a small group of people who ran independent record labels tried to agree on a word. Their problem was a shelf. Shops did not know where to file the records their labels were releasing, records of Bulgarian choirs, Lagos dance bands, north Indian classical singers and Andean flute players, and a record that cannot be filed cannot be found, and a record that cannot be found cannot be sold. The word they settled on was world music, and with it, world music traditions that share no scale, no rhythm, no language and no history were gathered under one label. The label was never a description of the music. World music is a marketing term invented by the Western record trade, and the only honest way to write about the traditions filed under it is one musical system at a time, on that system's own terms.
 
 <!--more-->
 
-![World music traditions explained through the instruments and performers of distinct musical systems - Insight Crunch](/assets/images/blog/blog-01.webp)
+![World music traditions explained through the instruments and performers of distinct musical systems - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The people in that room worked for labels such as Hannibal, Earthworks, Stern's and Triple Earth, small companies whose catalogues had outgrown every existing rack. Roger Armstrong of Ace Records is the man most often credited with proposing the winning words, and the alternatives on the table that day show what the trade thought it was doing. World beat was considered and set aside as too narrow, tropical was considered and set aside as too tied to one climate, and the phrase that survived did so precisely because it committed its users to nothing. It promised breadth and delivered a bin. A scholar had used the same two words earlier and for a different purpose. The ethnomusicologist Robert E. Brown had built a programme of study at Wesleyan University in the 1960s around the term world music, meaning by it the serious study of the world's musical systems side by side. The London meeting borrowed the scholar's phrase and put it to a shopkeeper's work, and the gap between those two uses is the gap this article keeps in view.
 
