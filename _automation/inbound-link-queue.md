@@ -162,3 +162,6 @@
 ## nightjar-charge-that-failed-006
 - _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The line on the floor had been only an edge; in a Carrowmere lock chamber the nothing stood in the air with sides her hands could find and a ceiling above her head, and she mapped it standing in cold water while the gate moved on its frame."
 - _posts/2026-11-04-nightjar-standing-detail-005.md - could carry: "Rask's statement, filed after the Barrow hearing, was the first document in a trail; the next document the trail earned was a basin engineer's levels and a lock keeper's left handed signature on a statement about a charge that was never meant to fire."
+## how-neoclouds-work
+- _posts/2026-10-07-how-data-centers-work.md — could carry: "The halls described here increasingly house a single kind of tenant; for the contract and financing model behind those halls, see how neoclouds work."
+- _posts/2026-11-03-how-sovereign-cloud-works.md — could carry: "Dedicated capacity under a legal border is one shape of a wider rental pattern; for the underlying mechanism of rented GPU clusters, see how neoclouds work."
