@@ -6,15 +6,15 @@ date: 2007-09-21
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Literature", "Score a 5", "Study Plan", "Exam Strategy", "Literature"]
 excerpt: "AP English Literature rewards depth over breadth: a few works known cold, close reading practiced weekly, and timed essays that argue rather than summarize."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 88
-author: "katherine-blake"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-09-21
 ---
+
 A 5 on AP English Literature is not a prize for the student who has read the most books. It is a prize for the student who reads a poem or a passage once, under time pressure, and sees how it works: how a shift in diction bends the tone, how an image pattern quietly builds an argument, how a narrator's unreliability turns a simple scene into a question about truth. That skill has a name, close reading, and it can be trained the way any performance skill is trained, through deliberate repetition against real prompts, honest scoring, and a plan with dates on it. The pages that follow build that plan. They lay out a dated calendar, name the mistakes that quietly cap strong readers at a 3 or a 4, and show how a modest shelf of deeply known works outperforms a long list of skimmed titles on every section of the exam.
 
-![A small stack of well-worn novels beside an annotated poem, showing depth of study over breadth - Insight Crunch](/assets/images/blog/blog-47.webp)
+![A small stack of well-worn novels beside an annotated poem, showing depth of study over breadth - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 Plenty of students approach this exam with a quiet fear that the readers expect a walking library, someone who can summon any classic at will and quote chapter and verse. That fear rests on a misunderstanding of what the exam can measure in three hours. Readers cannot test whether a candidate has read two hundred novels. Readers can test, with great precision, whether a candidate can interpret an unfamiliar poem, analyze an unseen prose passage, and build an argument about a self-chosen work with insight rather than summary. Each of those tasks rewards depth: depth of attention, depth of practice, and depth of knowledge about a handful of substantial books and plays. Breadth helps at the margins. Depth decides the score.
 

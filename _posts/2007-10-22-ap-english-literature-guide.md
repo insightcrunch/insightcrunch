@@ -6,17 +6,17 @@ date: 2007-10-22
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Literature", "English", "Study Guide", "Exam Strategy", "Literature"]
 excerpt: "AP English Literature rewards close reading over plot recall: this guide maps the multiple-choice section, three essays, the rubric, and the reading behind a 5."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 88
-author: "patrick-dunn"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-10-22
 ---
+
 AP English Literature and Composition is the Advanced Placement course built around a single conviction: that a poem, a play, or a novel yields its meaning to a reader who knows how to look. The exam does not ask what a famous book is about in the way a trivia contest might. It places passages in front of a student, most of them never seen before, and asks what those passages do, how they do it, and why the doing matters. Everything else in the course flows from that design. Reading widely matters because it builds the instincts the timed tasks reward. Writing matters because an interpretation that cannot be argued in prose cannot earn points. Students who understand the shape of the exam early stop preparing for a test of memory and start preparing for a test of reading, which is a far more trainable skill.
 
 A complete model of the test has four parts. One part is the multiple-choice section, fifty-five questions over prose and poetry passages in a single hour. Another is the free-response section, three essays written in two hours, each scored on a compact rubric that prizes a defensible thesis, well-chosen evidence, and commentary that actually interprets. A third part is scoring itself: how the two sections combine, what the rubric points mean, and why the line for a 5 is a range rather than a fixed number. The fourth part is the reading background, the accumulated experience with novels, plays, and poems that makes unfamiliar passages feel less foreign. This guide walks through all four parts in turn, then turns to the mistakes that cost the most points and the habits that earn them back.
 
-![AP English Literature exam format, essays, scoring rubric, and reading strategy - Insight Crunch](/assets/images/blog/blog-75.webp)
+![AP English Literature exam format, essays, scoring rubric, and reading strategy - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## What the Exam Actually Tests
 

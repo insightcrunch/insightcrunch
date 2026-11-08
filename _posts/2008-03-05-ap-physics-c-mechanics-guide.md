@@ -6,15 +6,15 @@ date: 2008-03-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics C", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics C Mechanics is the calculus-based mechanics exam: ninety minutes of derivatives, integrals, and Newtonian physics at genuine college depth."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 87
-author: "samantha-lee"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-03-05
 ---
+
 AP Physics C Mechanics has a reputation that travels ahead of it into every junior-year scheduling meeting. Counselors call it the hardest ninety minutes in the AP catalog, older students describe it with a mixture of pride and warning, and the phrase calculus-based does quiet intimidation work before a single problem is seen. Some of that reputation is earned. No other AP science exam asks a student to set up an integral, solve a differential equation, and reason about a physical system inside the same free-response question, and none compresses a full semester of college mechanics into an hour and a half. Yet the exam is also more legible than its legend suggests. Its topics form a short list, its calculus draws from a narrow and predictable shelf of moves, and its scoring has historically rewarded solid partial work generously enough that prepared students regularly earn scores their raw percentages would never predict. The gap on this exam is not between the brilliant and the ordinary. The gap is between students who practiced the link between calculus and physics as a single skill and students who learned the two subjects in separate rooms and hoped they would introduce themselves in May.
 
-![AP Physics C Mechanics complete guide with calculus map, exam format, and scoring strategy - Insight Crunch](/assets/images/blog/blog-62.webp)
+![AP Physics C Mechanics complete guide with calculus map, exam format, and scoring strategy - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## What AP Physics C Mechanics is, and who it serves
 

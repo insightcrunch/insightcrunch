@@ -6,15 +6,15 @@ date: 2007-08-29
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "APUSH", "DBQ", "FRQ Strategy", "History"]
 excerpt: "APUSH DBQ success comes from arguing with documents instead of describing them: group them, source them, and let a sharp thesis spend every point on the rubric."
-image: "/assets/images/blog/blog-99.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 88
-author: "jessica-kim"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-08-29
 ---
+
 Seven documents sit in a packet, a prompt sits above them, and the clock offers one hour. Everything the APUSH document-based question asks for is contained in that arrangement, and everything students find intimidating about it is contained there too. The sources in the packet were chosen by exam writers to argue with each other. Some agree, some collide, some quietly change the subject, and one or two usually exist to test whether the writer can notice a voice speaking from an unusual place in the period. A strong essay treats that disagreement as raw material. A weak essay treats the packet as a reading assignment and reports back on each item in turn, which is roughly the difference between practicing law and summarizing a court transcript for someone who was not there.
 
-![Seven APUSH source documents arranged as evidence for an argument rather than a reading list - Insight Crunch](/assets/images/blog/blog-99.webp)
+![Seven APUSH source documents arranged as evidence for an argument rather than a reading list - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Readers who score the exam reward one skill above all others: using evidence to build a case. The rubric never pays for coverage. It pays for a thesis that takes a position, for documents grouped into lines of reasoning, for sourcing that explains why a voice sounds the way it does, for outside knowledge woven into the argument, and for the kind of nuance that shows a writer understands history rarely moves in a single direction. None of those moves requires genius. Each one is a habit, and habits can be drilled until they show up automatically under time pressure. This guide works through every habit in order, from the first reading of the prompt to the final sentence of the conclusion, and it names the central trap plainly at the start: summarizing documents one by one feels like diligence and scores like avoidance.
 

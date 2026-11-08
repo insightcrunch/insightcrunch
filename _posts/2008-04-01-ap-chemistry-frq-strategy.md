@@ -6,19 +6,19 @@ date: 2008-04-01
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry free response is half the examination, and its points are paid for visible reasoning: setups, units, particle-level explanation, and claims."
-image: "/assets/images/blog/blog-109.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 87
-author: "simon-hartley"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-04-01
 ---
+
 ## Where Chemistry Free Response Bleeds Points
 
 Half of the AP Chemistry score is written by hand, in prose, equations, diagrams, and arithmetic that a trained reader grades against a rubric. Students tend to imagine that this half rewards whoever knows the most chemistry. The grading room rewards something narrower and more learnable: whoever shows the most chemistry. A correct final number with no visible path to it earns a fraction of what the same number earns when its setup, substitution, units, and reasoning sit on the page where a reader can pay for them. The section is not a test of answers. It is a test of demonstrated reasoning, and the demonstration is the part students control completely.
 
 The losses follow a pattern so consistent that it can be named. Points bleed where a calculation arrives bare, its method invisible and its units missing. Blood pools where an explanation describes what happens without ever saying why, where a particle diagram is sketched without labels, where a justification names a principle without connecting it to the evidence in the prompt. None of these wounds requires more knowledge to close. Each one closes with a habit: write the setup before touching the calculator, carry units through every line, draw the particles the question is secretly about, and finish every explanation by naming the force, the energy, or the equilibrium that does the work.
 
-![AP Chemistry free response strategy with question types, rubric logic, and showing-work technique - Insight Crunch](/assets/images/blog/blog-109.webp)
+![AP Chemistry free response strategy with question types, rubric logic, and showing-work technique - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This article treats the free-response section as a craft with learnable mechanics. It maps the three question types that recur across administrations, decodes the rubric logic that converts written work into points, and builds the showing-work, significant-figure, particle-level, and justification skills that separate a guarded answer from a paid one. The full subject treatment lives in [the AP Chemistry complete guide](/2008/04/19/ap-chemistry-complete-guide/), and the campaign that turns skill into a top score is laid out in [the score-a-5 Chemistry playbook](/2008/01/25/how-to-get-a-5-on-ap-chemistry/). What follows is narrower and more mechanical: how to write Section II so that the chemistry a student knows becomes the chemistry a grader can reward.
 

@@ -6,15 +6,15 @@ date: 2007-07-06
 categories: ["Industry"]
 tags: ["AP Exams", "AP Human Geography", "Human Geography", "Population", "Migration", "Geography"]
 excerpt: "AP Human Geography population and migration questions reward students who apply the demographic transition and push-pull models to real places, not definitions."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
-author: "katherine-blake"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-07-06
 ---
+
 Population is where AP Human Geography stops being a vocabulary course and becomes an analytical one. The unit asks a deceptively simple pair of questions: why do people live where they live, and why do they move? Behind those two questions sits the most model-rich territory in the entire course. The demographic transition model, the epidemiological transition, population pyramids, Malthusian theory, Ravenstein's laws, the gravity model, and Zelinsky's migration transition all compete to explain the same human patterns from different angles, and the exam is built to test whether a student can pick the right model for a given place, apply it to data that was never shown in class, and defend the reading against a plausible alternative. Students who memorize definitions stall on that task. Students who learn what each model predicts, and what evidence would prove it wrong, collect the points.
 
-![Population pyramids and a demographic transition curve used to read population structure and migration pressure - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Population pyramids and a demographic transition curve used to read population structure and migration pressure - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This deep dive treats population and migration as one connected system rather than two separate chapters, because the exam does. A country's birth and death rates shape its age structure; its age structure shapes its labor force, its dependency burden, and its appetite for immigrant workers; its migration streams then reshape the age structures of both the places people leave and the places they choose. Every section that follows builds one working skill: reading distribution and density, computing and interpreting the standard rates, walking a country through the transition models stage by stage, reading pyramids as compressed history, weighing the Malthusian argument against its critics, and analyzing movement through push and pull factors, intervening obstacles, and the formal models geographers use to predict flows. The treatment deliberately leaves agriculture, cities, and political geography to the companion deep dive, and leaves map technique and spatial analysis to their own article, so that this one can stay at full depth on the population half of the course.
 

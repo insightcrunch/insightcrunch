@@ -6,17 +6,17 @@ date: 2008-03-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 1 mechanics rewards choosing the right principle: when force, energy, and momentum each solve a problem fastest, with worked examples and traps."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 87
-author: "patrick-dunn"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-03-23
 ---
+
 Mechanics is where the AP Physics 1 score is mostly decided, and the deciding skill is not formula recall. A student can memorize every equation on the reference sheet and still stall on a problem that hands over a height instead of a time, or a collision instead of a slope, because the memorized list says nothing about which tool the problem is asking for. The exam's mechanics questions are built around three great principles, force and Newton's second law, energy and its conservation, and momentum with impulse, and each problem quietly announces which principle governs it through the quantities it gives and the quantity it requests. Readers who hear that announcement solve in two lines what other readers grind through in two pages. Readers who miss it default to kinematics, the first tool the course teaches, and discover halfway down a page of algebra that the problem never mentioned time at all.
 
 This article teaches the mechanics core the way the exam tests it, as a choosing discipline wrapped around solid content. The full architecture of the course, its units, its format, and its scoring, lives in [the complete AP Physics 1 guide](/2008/03/28/ap-physics-1-complete-guide/), and a broader method for attacking any mechanics problem lives in [the mechanics problem-solving framework](/2006/05/14/ap-physics-1-problem-solving-framework/). What follows here goes deep on the core itself: kinematics and its graphs, Newton's laws and the free-body diagrams that carry them, friction in its two forms, circular motion, energy and the work-energy theorem, and momentum through collisions, with worked examples whose arithmetic is shown and checked. The governing artifact is the InsightCrunch mechanics principle guide, and its claim deserves stating plainly at the start: mechanics points come from picking the right conservation principle, so studying when to use each principle beats memorizing formulas, every time the two habits compete.
 
-![AP Physics 1 forces, kinematics, and energy with the mechanics principle guide and worked examples - Insight Crunch](/assets/images/blog/blog-66.webp)
+![AP Physics 1 forces, kinematics, and energy with the mechanics principle guide and worked examples - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## Where the mechanics core sits inside the exam
 

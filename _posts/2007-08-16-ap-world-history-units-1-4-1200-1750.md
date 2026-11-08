@@ -6,15 +6,15 @@ date: 2007-08-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP World History", "World History", "Trade Networks", "Exam Strategy", "History"]
 excerpt: "AP World History early units reward students who compare states, faiths, and trade networks across regions rather than memorizing each civilization on its own."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 88
-author: "katherine-blake"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-08-16
 ---
+
 The first four units of AP World History cover five and a half centuries, four continents of major states, three ocean basins of trade, and one landmass-spanning conquest empire, yet the exam built on them rewards a surprisingly narrow talent. That talent is comparison. A student who can hold Song China and the Delhi Sultanate in mind at once, who can explain how the Indian Ocean and the trans-Saharan routes solved the same problems differently, and who can trace what changed when Europeans entered networks that Asians and Africans had run for centuries, will outperform a student who has memorized twice as many facts in isolation. Everything in Units 1 through 4, from the Mongol peace to the silver mines of Potosí, is arranged by the course framework as material for comparison, causation, and continuity-and-change arguments. This article teaches those four units at full depth: the regional states of Unit 1, the exchange networks of Unit 2, the land-based empires of Unit 3, and the transoceanic rewiring of Unit 4, closing with the study architecture that makes the load manageable.
 
-![Caravan and maritime trade routes linking the regions of AP World History Units 1 to 4 - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Caravan and maritime trade routes linking the regions of AP World History Units 1 to 4 - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## Where Units 1 to 4 sit in the exam
 

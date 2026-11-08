@@ -8,10 +8,10 @@ tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology evolution and ecology questions reward connected thinking: Hardy-Weinberg math, evidence, food webs, succession, and biodiversity patterns."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 87
-author: "samantha-lee"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-04-28
 ---
+
 Evolution and ecology occupy a strange and profitable position on the AP Biology exam. Together they span the final two units of the course framework, natural selection and ecology, and together they account for roughly a quarter of the multiple-choice questions and a recurring share of the free-response section, including the long question that asks students to design or interpret an investigation. Yet many students prepare for these units the way they prepare for a vocabulary quiz, memorizing definitions of succession, symbiosis, and speciation as if each term lived alone. The exam disagrees with that approach at every turn. Its questions chain the ideas together: an allele frequency changes, a population splits, a community reorganizes, an ecosystem leaks energy at every transfer, and the student is asked to reason across the whole chain. AP Biology evolution and ecology content is therefore not a set of facts to be stored but a system to be operated, and the students who operate it well pick up points that memorizers leave behind.
 
 ![AP Biology evolution and ecology with Hardy-Weinberg math, food webs, and biodiversity - Insight Crunch](/assets/images/blog/blog-14.webp)
@@ -345,6 +345,7 @@ A single familiar system can hold nearly the whole cluster, and walking one pond
 Aquatic systems organize by light and depth rather than by rainfall, and their zonal vocabulary closes the global patterns survey. The photic zone, sunlit surface water where photosynthesis exceeds respiration, holds the producers on which nearly all aquatic food webs rest; below it the aphotic zone runs on the rain of dead material from above and on whatever its inhabitants import, a detrital economy at planetary scale. Lakes sort further into the warm, oxygen-rich littoral shallows where rooted plants grow, the open limnetic water above the depths, and the cold profundal bottom where decomposition consumes oxygen faster than circulation supplies it in productive systems, which is why deep eutrophic lakes stratify into living surface and suffocating depth each summer. Estuaries, where rivers meet the sea, combine nutrient richness with salinity stress and rank among the most productive systems on Earth per unit area, nurseries whose destruction exam scenarios treat with the seriousness their productivity earns. Intertidal zones impose the harshest schedule in ecology, alternating immersion and exposure twice daily, and their inhabitants zone themselves by tolerance in bands as crisp as any barnacle shore in the competition section. The unifying exam move across all of these is constraint reading: given a zone's light, oxygen, and nutrient profile, students predict which organisms and which productivity patterns belong there, and given a change, nutrient loading, warming, damming, they predict which zone boundary migrates and which community follows it.
 
 ## Frequently Asked Questions
+
 
 
 ### Q: How is evolution tested on the AP Biology exam?

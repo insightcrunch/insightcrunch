@@ -6,17 +6,17 @@ date: 2007-09-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "APUSH", "Study Guide", "Exam Strategy", "History"]
 excerpt: "AP US History rewards reasoning over memorized dates. This guide maps the nine periods, question types, historical-thinking skills, scoring, and study path."
-image: "/assets/images/blog/blog-112.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 88
-author: "hannah-moore"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-09-16
 ---
+
 AP US History has a reputation that precedes it into every scheduling meeting, counselor's office, and family kitchen where course selections get debated each spring. Students hear that the course demands a mountain of memorization, that the essays are graded by mysterious rules, and that only born historians survive it. Nearly all of that reputation is out of date. The modern exam, rebuilt around historical-thinking skills, asks students to do something far more learnable than reciting a chronology: it asks them to read evidence, place developments in context, compare interpretations, and build arguments about causation and change across more than five centuries of North American history. A student who understands that design can prepare for it deliberately, and a student who prepares deliberately can earn a score that once seemed reserved for classmates with photographic memories.
 
 Everything in this guide serves that single insight. You will find the full architecture of the exam laid out in one place: the nine chronological periods and the weight each one carries, the four question types and the minutes each one consumes, the skills and reasoning processes the rubrics actually reward, and the way raw performance converts into the familiar one-to-five score scale. You will also find a study path that treats content knowledge and historical reasoning as two separate muscles, because the exam tests both and weak training plans develop only one. Read the map first, then the mechanics, then the method. By the final section, the test that felt like a trivia contest should look like what it really is: a structured argument exercise stretched across a very long timeline.
 
-![AP US History complete guide: nine periods, question types, skills, and scoring - Insight Crunch](/assets/images/blog/blog-112.webp)
+![AP US History complete guide: nine periods, question types, skills, and scoring - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ## What AP US History Is and Who Should Take It
 

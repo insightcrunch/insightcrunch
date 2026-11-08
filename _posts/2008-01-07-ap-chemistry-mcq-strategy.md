@@ -6,17 +6,17 @@ date: 2008-01-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry multiple choice rewards estimation, elimination, and pace more than long calculation. Learn to triage items, read options, and never leave blanks."
-image: "/assets/images/blog/blog-106.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 88
-author: "maria-santos"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-01-07
 ---
+
 Half of the AP Chemistry score is decided by sixty questions answered without a calculator, and that single fact reorganizes everything about how the section should be played. A student who treats each item as a small free-response problem, setting up a full solution and grinding through four or five arithmetic steps, will run out of minutes somewhere around question forty and donate the last third of the section to haste. A student who reads the section the way its designers built it, as a test of chemical judgment expressed through quick setups, approximations, and option reading, finishes with time to spare and points the grinder never reaches. The gap between those two students is rarely a gap in chemistry knowledge. It is a gap in section craft, and craft can be taught, practiced, and systematized.
 
 That system is the subject of this article. Its central claim, the one everything else hangs on, is that many multiple-choice items in this course are designed to be resolved before a full calculation would even be finished: the options are spaced so that an order-of-magnitude estimate separates them, the distractors encode predictable errors that a careful reader can spot and discard, and a large share of items test reasoning about representations, trends, and experiments with no arithmetic at all. Working that system well means knowing the section's structure cold, sorting items by type at a glance, estimating aggressively, eliminating ruthlessly, pacing against a budget rather than a feeling, and answering every single question, because wrong answers cost exactly nothing.
 
-![A student working through AP Chemistry multiple choice items with a periodic table and estimation notes - Insight Crunch](/assets/images/blog/blog-106.webp)
+![A student working through AP Chemistry multiple choice items with a periodic table and estimation notes - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## The shape of Section I: sixty questions, ninety minutes, no calculator
 

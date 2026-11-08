@@ -6,17 +6,17 @@ date: 2008-01-11
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology multiple choice rewards careful data reading far more than memorized facts, and this guide maps the pacing and elimination tactics that pay."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 88
-author: "patrick-dunn"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-01-11
 ---
+
 Half of the AP Biology score is decided before a single free-response booklet is opened, and it is decided in ninety minutes of multiple choice. Students talk about this section as if it were a vocabulary audit, a place where the prepared mind simply retrieves what it stored. The section behaves differently in practice. A large share of its sixty questions hand the candidate a graph, a data table, a described experiment, or a figure, and then ask what the evidence supports. The facts still matter, because reasoning needs raw material, but the points cluster where reading skill meets biological knowledge. That is the ceiling this article addresses: the multiple-choice score is built less by storing more facts than by handling evidence faster and more accurately than the candidate in the next seat.
 
 Understanding where the ceiling sits changes how a season of preparation should be spent. A student who treats Section I as a recall test will drill flashcards until the definitions blur, then walk into a room full of unfamiliar experiments and wonder why the drilling did not transfer. A student who treats the section as an evidence-reading exercise with a biology accent will practice on graphs, tables, and experimental designs all year, and the facts will consolidate along the way because every data set forces them into use. Both students may know the same amount of biology by May. Their multiple-choice scores will not be close, and the gap will have been created by method rather than by memory.
 
-![AP Biology MCQ strategy for data questions, pacing, and elimination - Insight Crunch](/assets/images/blog/blog-22.webp)
+![AP Biology MCQ strategy for data questions, pacing, and elimination - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 ## Sixty questions, ninety minutes, half the score
 

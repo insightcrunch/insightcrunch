@@ -6,17 +6,17 @@ date: 2008-04-06
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry joins thermodynamics, equilibrium, and electrochemistry as a connected system: free energy sets the equilibrium constant and the cell potential."
-image: "/assets/images/blog/blog-107.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 88
-author: "michael-brooks"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-04-06
 ---
+
 Three of the hardest-working unit clusters on the AP Chemistry exam look, at first glance, like separate subjects that happen to share a textbook. Thermodynamics tracks energy and disorder. Equilibrium describes mixtures that have stopped changing. Electrochemistry moves electrons through wires and solutions. Students who study them as three silos carry three sets of formulas, three sign conventions, and three piles of disconnected facts into the examination room, and the exam punishes that fragmentation every year, because its hardest questions are written precisely at the seams. A free-response problem hands over a galvanic cell and asks for an equilibrium constant. A multiple-choice item gives an equilibrium constant and asks whether a process is spontaneous. Another describes a heated equilibrium mixture and asks about entropy. Every one of those items rewards a single insight: the three topics are one system, governed by one quantity, the Gibbs free energy change, which fixes how far a reaction runs, where it stops, and how much electrical work its electron transfer can perform.
 
 That insight is the spine of this article. Enthalpy and entropy come first, because free energy is built from them. Equilibrium follows, because the equilibrium constant is free energy wearing a different notation. Electrochemistry closes the sequence, because a cell potential is free energy measured with a voltmeter. Readers who want the whole course mapped before drilling into this cluster can start with the [AP Chemistry complete guide](/2008/04/19/ap-chemistry-complete-guide/), which places these units inside the full nine-unit framework, and return here for the deep treatment.
 
-![AP Chemistry thermodynamics, equilibrium, and electrochemistry taught as one connected system of energy, balance, and electron transfer - Insight Crunch](/assets/images/blog/blog-107.webp)
+![AP Chemistry thermodynamics, equilibrium, and electrochemistry taught as one connected system of energy, balance, and electron transfer - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ## Where the trio sits on the exam
 

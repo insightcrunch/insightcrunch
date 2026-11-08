@@ -6,15 +6,15 @@ date: 2007-08-25
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "APUSH", "LEQ", "SAQ", "History"]
 excerpt: "APUSH frees its strongest writers in two opposite directions: the LEQ rewards a complex argument built patiently, and the SAQ rewards precise brevity."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 88
-author: "katherine-blake"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-08-25
 ---
+
 The AP US History exam asks its writers to do two opposite things well, and it asks on the same afternoon. In the short-answer section, credit flows to the student who can say exactly one accurate thing per part, in a handful of sentences, and stop. In the long essay, credit flows to the student who builds a patient, layered argument across several pages, qualifying claims, weighing causes against each other, and developing evidence until the reasoning itself becomes the achievement. Students who treat these two tasks as versions of the same skill, scaled up or scaled down, bleed points in both directions. Their short answers sprawl into unfocused mini-essays that bury the scorable point under decoration, and their long essays shrink into lists of facts that never assemble into an argument. The remedy is not more content knowledge alone. The remedy is learning that the LEQ and the SAQ are different crafts sharing a body of evidence, and training each craft on its own terms.
 
-![The APUSH long essay and short-answer questions side by side, one rewarding a developed argument and the other rewarding precise brevity - Insight Crunch](/assets/images/blog/blog-62.webp)
+![The APUSH long essay and short-answer questions side by side, one rewarding a developed argument and the other rewarding precise brevity - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Everything in this guide hangs on a single distinction, and it is worth stating before any rubric detail. The long essay question, worth fifteen percent of the total score, rewards a complex argument: a defensible thesis, set inside a broader historical context, supported by specific evidence that the writer actively uses rather than merely names, and reasoned through a process such as causation, comparison, or continuity and change over time. The short-answer questions, worth twenty percent of the total score across three questions, reward precise brevity: each part asks for one identification, one explanation, or one piece of development, and each part earns its single point the moment the response delivers that one thing accurately and stops. A student who internalizes that contrast has the strategy already. The remaining work is mechanical: learning where each point lives, practicing the moves that earn it, and pacing two sections whose clocks behave very differently. Readers who want the full course map first will find it in the [complete APUSH guide](/2007/09/16/ap-us-history-complete-guide/), which places these two tasks inside the whole exam and the whole year of study.
 

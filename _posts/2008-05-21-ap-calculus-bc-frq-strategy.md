@@ -6,17 +6,17 @@ date: 2008-05-21
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus BC", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Calculus BC free response pays for type recognition: series, parametric, polar, and vector templates, rubric logic, and pacing turn preparation into points."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 87
-author: "michael-brooks"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-05-21
 ---
+
 The AP Calculus BC free-response section is where strong calculus students discover that knowing calculus and scoring on calculus are two different skills. A candidate can command every convergence test in the course, sketch any polar curve from memory, and still leave eight or nine points on the table because a setup was never written down, a justification named no test, or a polar integral went up without the one-half factor the whole computation depends on. Readers do not grade the mathematics in a candidate's head. They grade the mathematics on the page, part by part, against a rubric that pays for visible setup, defensible reasoning, and answers that respond to the exact verb in the prompt. That gap between private understanding and public evidence is where BC free-response points are won and lost, and closing it is a trainable craft rather than a talent.
 
 This article treats the BC free-response section as a system with learnable rules. The six questions follow a narrow set of recurring types. The BC-only types, series, parametric, polar, and vector motion, carry the score's center of gravity because they cannot be rehearsed from AB material alone, and because their rubrics reward a small number of predictable moves executed cleanly. The strategy that follows maps each type to its approach, decodes how readers convert work into points, builds a pacing plan for the ninety minutes, and works through constructed examples that show what a scoring response actually looks like on the page. The full course architecture lives in [the complete AP Calculus BC guide](/2008/07/27/ap-calculus-bc-complete-guide/), and the content depth behind these types lives in [the BC-only topics deep dive](/2008/07/23/ap-calculus-bc-series-parametric-polar/); this article stays on the section itself, the ninety minutes where preparation becomes a number.
 
-![AP Calculus BC FRQ strategy with BC-only question types, rubric logic, and pacing - Insight Crunch](/assets/images/blog/blog-103.webp)
+![AP Calculus BC FRQ strategy with BC-only question types, rubric logic, and pacing - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## Where BC free-response points actually live
 

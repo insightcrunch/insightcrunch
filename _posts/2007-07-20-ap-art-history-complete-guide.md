@@ -6,15 +6,15 @@ date: 2007-07-20
 categories: ["Industry"]
 tags: ["AP Exams", "AP Art History", "Art History", "Study Guide", "Exam Strategy", "History"]
 excerpt: "AP Art History asks students to analyze 250 required works from every world region and era, and this guide maps the exam format, scoring, and study path."
-image: "/assets/images/blog/blog-103.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 88
-author: "patrick-dunn"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-07-20
 ---
+
 Every AP course has a center of gravity, and AP Art History has the most visible one in the entire program: a required image set of 250 works of art and architecture, drawn from every inhabited continent and from roughly thirty thousand years of human making. A student who finishes the course can walk from a Paleolithic cave wall to a contemporary installation without leaving the syllabus, and can explain not only what each work looks like but who made it, who paid for it, what it was for, and what its makers believed about the world. That double demand, recognition joined to interpretation, defines the exam and shapes everything about how the course should be studied. This guide builds the full model: the ten content areas that organize the 250 works, the regions and periods inside them, the two exam sections and the six free-response tasks, the scoring logic that converts performance into a 1 to 5, and a study path that treats context as the primary memory tool. Readers who want the wider program picture first can start with [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) and return here for the subject itself.
 
-![AP Art History required works across global regions and periods - Insight Crunch](/assets/images/blog/blog-103.webp)
+![AP Art History required works across global regions and periods - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The course rewards a particular kind of attention. A required work is never only a picture to be named. Each of the 250 arrives with a maker or a culture, a material and a technique, a place and a function, and a set of meanings that the people who used it would have recognized. The exam tests all of those layers, sometimes in a single question, and it deliberately includes works that most students have never encountered before the course begins, from a Nukuoro female deity figure to a Marshall Islands navigation chart. Students who try to survive on flashcards of titles and dates discover that the exam keeps asking the second question, the one about purpose, belief, patronage, and change over time. Students who learn each work as a small argument about its culture find that the titles and dates take care of themselves, because a work anchored to its context is far harder to forget than a work memorized as an isolated image. That principle, context first and recall second, runs through every section of this guide, and the framework behind it is developed fully in [the AP Art History analysis framework](/2007/07/15/ap-art-history-analysis-framework/).
 

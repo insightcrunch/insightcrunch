@@ -6,15 +6,15 @@ date: 2008-02-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Environmental Science tests Earth systems as linked cycles, and this guide traces reservoirs, productivity, biomes, and biodiversity as the exam does."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 88
-author: "jessica-kim"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-02-12
 ---
+
 AP Environmental Science rewards a particular kind of thinking, and the Earth systems and ecology cluster is where that thinking is tested most directly. The exam does not ask a candidate to recite the nitrogen cycle as a diagram copied from a textbook. It describes a farm county where well water has turned unsafe, or a lake that has gone green and airless in a single summer, and it asks which reservoir grew, which flux accelerated, which organisms paid for the change, and what would happen next if the input stopped. Every one of those questions is a cycle question wearing a story's clothing. Candidates who studied the cycles as connected machinery answer them with confidence. Candidates who memorized four separate posters discover that the posters never meet, while the exam lives exactly where they overlap.
 
-![Earth systems, nutrient cycles, and ecosystem structure in AP Environmental Science - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Earth systems, nutrient cycles, and ecosystem structure in AP Environmental Science - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 The working premise of this guide is simple to state and demanding to practice: Earth-systems points come from tracing how cycles connect, so studying the linkages beats memorizing isolated terms. A linkage question might begin in the carbon cycle, cross into the water cycle through a flooded field, and end inside a food web where a decomposer population explodes. The candidate has to follow the matter as it moves, because matter is what the cycles carry, and the exam follows matter with the same discipline. Energy behaves differently, flowing in one direction and leaking at every transfer, and holding those two rules apart, matter cycles while energy flows, organizes nearly everything in this cluster of the course.
 

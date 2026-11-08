@@ -6,17 +6,17 @@ date: 2008-03-28
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 1 rewards reasoning over formula hunting. This complete guide maps every unit and weight, explains the scoring, and sets a study order by weight."
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 87
-author: "patrick-dunn"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-03-28
 ---
+
 AP Physics 1 has a reputation that precedes it into every counselor's office and every spring course-selection meeting. Students hear that it is the AP science where strong transcripts go to be humbled, where the share of top scores runs lower than in almost any other exam, and where being good at mathematics somehow fails to protect anyone. Much of that reputation is earned. The exam asks for something most high school courses rarely demand: not the recall of formulas, and not even the fluent execution of procedures, but the ability to reason about a physical situation the student has never seen before, choose the principle that governs it, and defend that choice in plain written language. That demand is why AP Physics 1 breaks the study habits that work in other classes, and it is also why the exam is entirely winnable once a student understands what is actually being graded.
 
 Consider the gap between two students entering the same classroom in September. One treats physics as a catalog of equations to be matched to problem types, collects a formula for every situation, and practices until the matching feels automatic. Another treats each equation as a compressed claim about how the world behaves, asks what would change if a mass doubled or a surface turned slick, and practices explaining motion in sentences before computing anything. By May, the second student is not merely better prepared; the second student is playing a different and much easier game, because the exam's questions are written for that student. Score distributions across the program reflect the split. Strategic students, who study the why behind each equation and train explanation as a skill, reach the top bands in numbers far out of proportion to their share of the enrollment. Unstrategic students, however diligent, plateau at the level their methods can reach. This guide exists to move a reader from the second group into the first, with a full model of the exam: its scope, its units and weights, its scoring, its laboratory strand, and a study order built on where the points actually live.
 
-![AP Physics 1 complete guide with unit weights, exam format, and scoring strategy - Insight Crunch](/assets/images/blog/blog-74.webp)
+![AP Physics 1 complete guide with unit weights, exam format, and scoring strategy - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 ## What AP Physics 1 is, and who should take it
 

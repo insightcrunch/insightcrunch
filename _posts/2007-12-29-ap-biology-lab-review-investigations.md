@@ -6,15 +6,15 @@ date: 2007-12-29
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology lab review: all thirteen investigations mapped to the concepts and skills they test, with chi-square, design, and data strategy that scores."
-image: "/assets/images/blog/blog-101.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 88
-author: "simon-hartley"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-12-29
 ---
+
 An AP Biology lab review sounds like a memory exercise, and that framing quietly costs students points every May. The thirteen required investigations are not thirteen procedures to recite. They are thirteen rehearsals of the same small set of moves: framing a question, controlling variables, measuring something honestly, turning numbers into a claim, and defending that claim against a skeptical reader. A candidate who can perform those moves on an unfamiliar scenario earns laboratory points without ever having touched the exact apparatus in front of them. A candidate who memorized steps freezes the moment the exam swaps the organism, changes the variable, or asks what should have been done differently. This article treats the investigations the way the exam treats them, as vehicles for design and data reasoning, and it maps every one of them to the concept and skill it actually tests.
 
-![The thirteen AP Biology investigations arranged as one design and data curriculum - Insight Crunch](/assets/images/blog/blog-101.webp)
+![The thirteen AP Biology investigations arranged as one design and data curriculum - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The organizing device is the InsightCrunch Biology lab map, presented in full below and then unpacked investigation by investigation. Read the map first and the pattern becomes visible before any detail lands. Every row pairs a biological concept with a transferable skill, and the skill column repeats itself far more than the concept column does. Diffusion and osmosis rehearses quantitative modeling of a gradient. The enzyme investigation rehearses rate measurement under controlled conditions. The population genetics simulation rehearses statistical testing of a null model. Once the repetition is visible, review strategy changes shape: instead of thirteen separate cram sessions, a student runs a handful of skill drills across thirteen different biological costumes, which is precisely how the exam itself recycles the material. The full course context sits in [the complete AP Biology guide](/2008/05/12/ap-biology-complete-guide/), and this review assumes that frame while going deep on the laboratory strand alone.
 

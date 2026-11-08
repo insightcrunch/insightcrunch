@@ -6,15 +6,15 @@ date: 2007-10-31
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "Synthesis Essay", "FRQ Strategy", "Exam Strategy", "Essays"]
 excerpt: "The synthesis essay in AP English Language rewards one skill above all others: weaving provided sources into a single argument that stays unmistakably your own."
-image: "/assets/images/blog/blog-51.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 88
-author: "katherine-blake"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-10-31
 ---
+
 The synthesis essay opens the free-response section of AP English Language, and it unsettles students in a way the other two essays rarely do. A prompt arrives with a packet of sources attached, usually six, sometimes seven, mixing essays, articles, charts, and images, and the task sounds deceptively simple. Read the material. Take a position. Defend that position with evidence drawn from the packet. Students who write well in their own classes often stumble here because the skill being measured is not ordinary essay writing. Nobody asks for your opinion in the abstract, and nobody rewards a tour of what each source happens to say. Readers score the degree to which borrowed material becomes your argument, shaped by your reasoning, arranged by your priorities, and carried by your voice.
 
-![Six source documents arranged around a single thesis statement, showing separate texts woven into one argument - Insight Crunch](/assets/images/blog/blog-51.webp)
+![Six source documents arranged around a single thesis statement, showing separate texts woven into one argument - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That single distinction organizes everything in this guide. Synthesis means combination with transformation. A summary reports a source on the source's own terms, in the source's own order, toward the source's own conclusion. Synthesis dismantles sources into usable parts, statistics, claims, examples, concessions, vivid details, and rebuilds those parts inside an architecture the writer designs. The finished essay should read as one mind thinking, with the packet serving as its evidence locker. Students who grasp the difference early stop asking which source to write about next and start asking which claim needs support next. For the complete map of the course and its three essays, the [full AP English Language guide](/2007/11/14/ap-english-language-guide/) lays out the terrain this essay sits inside.
 

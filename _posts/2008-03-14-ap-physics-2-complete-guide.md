@@ -6,17 +6,17 @@ date: 2008-03-14
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 2", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 2 spans seven units from fluids to quantum physics: the exam format, unit weights, scoring, the circuits trap, and a study order that works."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 87
-author: "michael-brooks"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2008-03-14
 ---
+
 AP Physics 2 has a reputation problem, and the reputation is wrong in an instructive way. Students walk in expecting a sequel, a second helping of the mechanics they survived in Physics 1, and instead meet a survey of nearly everything else physics knows: gases pushing on pistons, charges rearranging themselves on conductors, light bending through lenses and interfering with itself, atoms absorbing photons and nuclei trading particles. The exam that closes the course is three hours long, algebra-based, and unusually honest about what it values. It does not reward the student who memorized the most formulas, because it hands every candidate the formulas on a printed sheet. It rewards the student who built one consistent way of reasoning and carried that reasoning, intact, across seven very different landscapes.
 
 That breadth is the course's defining fact and its defining trap. A student can be brilliant at circuits and silent on thermodynamics, meticulous with ray diagrams and lost inside a photoelectric graph, and the composite score will find every one of those gaps, because each unit carries a published share of the multiple-choice section and the free-response questions roam the whole map. The students who earn 5s rarely know dramatically more physics than the students who earn 3s. They distribute their strength. They know which units carry the points, how the two sections divide the work, where the equation sheet helps and where it sits useless, and how a written explanation converts into rubric points. This guide builds that knowledge in the order the exam rewards it, from the format and the unit weights through scoring, the skills underneath the content, and a study order sequenced by the points each topic actually carries.
 
-![AP Physics 2 complete guide with exam format, unit weights, and scoring strategy - Insight Crunch](/assets/images/blog/blog-60.webp)
+![AP Physics 2 complete guide with exam format, unit weights, and scoring strategy - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## What AP Physics 2 is, and who should take it
 

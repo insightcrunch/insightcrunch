@@ -6,17 +6,17 @@ date: 2007-12-02
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry acid-base points come from reading the titration curve region by region, species by species, until the pH at any added volume is predictable."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 88
-author: "simon-hartley"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-12-02
 ---
+
 Acid-base chemistry is the strand of AP Chemistry where a single picture does the heaviest work on the exam. That picture is the titration curve, and nearly every question in the strand, whether it arrives as a multiple-choice item about a buffer or a free-response part asking for the pH halfway to an equivalence point, is secretly asking whether the reader can look at a solution, name the species that dominate it, and choose the one calculation that matches that cast of species. Students who memorize a drawer full of formulas still miss these questions, because the formulas are not interchangeable: each one belongs to a region, and the region is decided by stoichiometry before it is decided by equilibrium. Students who learn to read the curve itself, region by region and species by species, find that the strand collapses into a small set of repeatable judgments. Name the dominant species. Write the one equilibrium or the one excess that controls the pH. Check the size of the answer against the region the point sits in. This article teaches that reading skill at full depth, from the definitions upward.
 
 The claim that organizes everything below is simple enough to state in one sentence and strong enough to carry the whole strand. Acid-base points come from reading the titration curve, so studying what each region means beats memorizing formulas. A strong student can be handed an unfamiliar curve, a weak base titrated with a strong acid, say, with the axes unlabeled beyond volume and pH, and reconstruct the entire story: the starting pH betrays the strength of the base, the flat middle confesses its pKb at the half-equivalence point, the equivalence volume betrays its concentration, and the steep fall marks the one point where its conjugate acid stands alone and hydrolyzes. Nothing in that performance requires a memorized formula beyond four tools, the pH definition, the Ka and Kb expressions, the Henderson-Hasselbalch relation, and the hydrolysis calculation, and every one of those tools is derived rather than merely quoted in the sections that follow.
 
-![A titration curve for AP Chemistry acids and bases with its regions labeled by dominant species - Insight Crunch](/assets/images/blog/blog-17.webp)
+![A titration curve for AP Chemistry acids and bases with its regions labeled by dominant species - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## Where acid-base chemistry sits in the exam
 

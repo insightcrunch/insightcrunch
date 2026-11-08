@@ -6,17 +6,17 @@ date: 2007-11-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "Argument Essay", "FRQ Strategy", "Exam Strategy", "Essays"]
 excerpt: "AP English Language argument essays reward reasoning over volume: hold a defensible position, build a line of reasoning, and develop evidence tied to the claim."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 88
-author: "maria-santos"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-11-05
 ---
+
 Three essays wait in the free-response section of AP English Language, and the last of them is the one students most often misjudge. The synthesis question hands you a packet of sources. The rhetorical analysis question hands you a passage and asks how its author built an effect. The argument question hands you almost nothing: a short prompt, frequently built around a quotation or a claim about some corner of shared life, and an instruction to take a position and defend it with evidence drawn from your reading, your experience, or your observation. No documents arrive to rescue a writer who has not thought. No passage sits on the page waiting to be mined. What you know, what you have noticed, and how clearly you can reason are the entire supply chain, and that exposure is precisely what makes this question the purest test of argument in the whole exam.
 
 Because the prompt supplies so little, students tend to prepare for it in the wrong direction. They memorize lists of impressive examples, historical episodes, literary titles, scientific findings, hoping that a stocked warehouse will convert into a strong score. Warehouses do not argue. Readers scoring this essay reward something narrower and more learnable: a position a reasonable person could contest, a line of reasoning that develops step by step, evidence chosen because it proves the claim rather than because it was available, and commentary that explains, sentence by sentence, why each piece of proof does the work assigned to it. A short essay built on that architecture routinely outscores a long one built on accumulation. This guide teaches the architecture. It walks through the prompt, the rubric, the template that organizes the response, the craft of evidence and commentary, the qualification and counterargument moves that signal maturity, the pacing that protects all of it under a forty-minute clock, and the habits that separate a developed argument from a decorated opinion.
 
-![A student planning an AP English Language argument essay, mapping a position, two reasons, and evidence on paper before drafting - Insight Crunch](/assets/images/blog/blog-24.webp)
+![A student planning an AP English Language argument essay, mapping a position, two reasons, and evidence on paper before drafting - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 ## Where the argument essay sits inside the exam
 

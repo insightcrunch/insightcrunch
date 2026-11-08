@@ -6,15 +6,15 @@ date: 2007-11-09
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "Rhetorical Analysis", "FRQ Strategy", "Exam Strategy", "Essays"]
 excerpt: "Master the AP English Language rhetorical analysis essay: build a defensible thesis, tie every device to its effect, and write commentary that earns top marks."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 88
-author: "jessica-kim"
-last_updated: 2026-11-08
-lang: en
+author: "Insight Crunch Team"
+last_updated: 2007-11-09
 ---
+
 The second free-response question on the AP English Language exam hands you a passage, a named author, and a single demand: explain how the writer builds an argument or achieves a purpose through deliberate choices of language and structure. Everything else about the task flows from that demand. You are not asked whether you agree with the writer. You are not asked to summarize what the passage says, retell its story, or praise its beauty in general terms. The scorer wants proof that you can watch a skilled writer work and describe the machinery while it runs: which choices were made, where they sit in the passage, and what they do to the audience the writer hoped to move. Students who internalize that distinction early tend to write calmer, sharper essays, because every sentence they produce has a job. Students who miss it often write fluent, earnest pages that score in the middle, since fluency was never the thing being measured.
 
-![A student annotating a printed passage, marking shifts in tone and tracing how a writer's choices build an argument - Insight Crunch](/assets/images/blog/blog-71.webp)
+![A student annotating a printed passage, marking shifts in tone and tracing how a writer's choices build an argument - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This guide treats the rhetorical analysis essay as a craft with learnable parts. It opens with the prompt and the scoring rubric, because strategy without the rubric is guesswork. It then builds the essay piece by piece: a defensible thesis, a disciplined reading of the passage, evidence chosen for analytic value, commentary that connects choice to effect, and the habits that earn the sophistication point. Along the way it names the failure patterns that quietly cap scores, walks through passage types you are likely to meet, and closes with a verdict and a full set of questions and answers. The full course context lives in the [AP English Language and Composition guide](/2007/11/14/ap-english-language-guide/), which maps the whole exam; this article stays inside one essay and takes it apart slowly. If you master the moves here, the companion essays become easier as well, since the [argument essay strategy](/2007/11/05/ap-english-language-argument-essay/) and the [synthesis essay guide](/2007/10/31/ap-english-language-synthesis-essay/) both reward the same habit of tying claims to evidence with explicit reasoning.
 
