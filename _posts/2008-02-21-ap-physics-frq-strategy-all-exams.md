@@ -6,15 +6,15 @@ date: 2008-02-21
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics free response strategy across all four exams: the design, derivation, graphing, and reasoning habits that turn clear setups into scored points."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-02-21
+lang: en
 ---
-
 The costliest habit in AP Physics free response is a page that looks busy and scores thin. A candidate fills the answer space with correct equations, one stacked on the next, arrives at a final number that happens to be right, and still leaves a third of the available points unclaimed because the scoring guideline was paying for things the page never contained: a stated principle, a labeled diagram, a sentence explaining why a quantity is conserved, a unit attached to the result, a procedure another student could repeat. Readers grade against a point structure, not against effort or against the elegance of the algebra. Each part of each question names a handful of earnable elements, and the reader searches the answer for those elements in order. Work that cannot be found cannot be paid for, and reasoning that lives only in the candidate's head is indistinguishable from reasoning that never happened.
 
-![AP Physics free response strategy across all four exams, experimental design, derivations and rubric scoring - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Physics free response strategy across all four exams, experimental design, derivations and rubric scoring - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 That single fact organizes everything about the free-response sections of AP Physics 1, AP Physics 2, AP Physics C Mechanics, and AP Physics C Electricity and Magnetism. The four exams differ in content, in mathematics, and in length, yet their written sections reward the same family of habits. Every one of them asks candidates to design measurements, to derive results from stated principles, to read and build graphs, and to argue in sentences. Every one of them withholds points from answers that present equations as a substitute for explanation. A student who builds the shared habits once can carry them into whichever physics room the schedule holds, and a student who treats each exam's written section as a separate mystery wastes the overlap. This article teaches the shared craft: how the rubrics think, how the recurring question types are built, and how a candidate converts setups, units, and visible reasoning into points across all four exams. Per-exam content, unit weights, and topic depth belong to the subject guides, beginning with [the complete guide to AP Physics 1](/2008/03/28/ap-physics-1-complete-guide/), and this strategy layer sits on top of them.
 

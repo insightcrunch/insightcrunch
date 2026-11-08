@@ -6,17 +6,17 @@ date: 2008-05-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology cell questions reward students who connect structure to function, mapping each organelle, membrane process, and signal to the concept the exam tests."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-05-07
+lang: en
 ---
-
 AP Biology reserves some of its most heavily weighted ground for the cell: how it is built, how it moves materials across its border, how it harvests and spends energy, and how it listens to signals and divides on schedule. Three of the course's eight units live here, and they interlock so tightly that a weakness in one quietly taxes the others. A student who understands membranes but cannot follow a phosphorylation cascade will stall on signaling questions. A student who memorizes the stages of mitosis without grasping why checkpoints exist will miss the cancer questions that the stages exist to set up. This deep dive treats the cluster as one connected system, because the exam does.
 
 The organizing conviction is simple. Every structure in a cell earns its place by doing a job, and every exam question in this territory is, underneath its wording, a question about that relationship. The ribosome is not a vocabulary term to be matched with a definition; it is the site where amino acids become protein, and questions ask what happens to a cell, a tissue, or an organism when that site fails, speeds up, or moves. Students who study the why behind each part consistently outperform students who study lists, and the margin is widest exactly here, where the content inventory is longest and the temptation to memorize without understanding is strongest.
 
-![AP Biology cells, energetics, and communication with organelles, membranes, energy pathways, and signaling mapped to exam concepts - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP Biology cells, energetics, and communication with organelles, membranes, energy pathways, and signaling mapped to exam concepts - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 ## Where cells, energetics, and communication sit inside the exam
 

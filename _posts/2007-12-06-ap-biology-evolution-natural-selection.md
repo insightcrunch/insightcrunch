@@ -6,15 +6,15 @@ date: 2007-12-06
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology evolution questions reward one habit above all: tracing each mechanism, selection, drift, and gene flow, to its effect on allele frequencies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2007-12-06
+lang: en
 ---
-
 Evolution questions on the AP Biology exam look gentle from a distance. The vocabulary is familiar, the scenarios read like nature documentaries, and many students arrive with a comfortable story about finches and moths already in place. Then the questions start asking for numbers: an allele frequency after one generation of selection, the expected direction of change when a predator is removed, the reason a rare allele persists in a population that seems determined to eliminate it. At that moment the comfortable story stops paying. What pays instead is a mechanical habit, the ability to take any evolutionary mechanism, name what it does to the alleles in a population, and follow that effect to its conclusion. AP Biology evolution content is the most quantitative reasoning in the course disguised as natural history, and the students who treat it that way collect points that storytellers leave behind.
 
-![AP Biology evolution and natural selection study guide showing mechanisms traced to allele frequency change - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AP Biology evolution and natural selection study guide showing mechanisms traced to allele frequency change - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 This deep dive treats natural selection and its companion mechanisms at the depth the exam actually demands. The full sweep of evolution, ecology, and biodiversity, including the Hardy-Weinberg equilibrium model and speciation in full dress, lives in the companion treatment of [the evolution, ecology, and biodiversity cluster](/2008/04/28/ap-biology-evolution-ecology-biodiversity/), and this article deliberately stays inside its own territory: selection in its several forms, genetic drift, gene flow, fitness, and the allele-frequency arithmetic that ties them together. Everything here is organized around one discipline. For every mechanism, ask what happens to allele frequencies, in which direction, at what speed, and under what conditions the effect strengthens or fades. A reader who can run that analysis on an unfamiliar scenario owns the hardest part of the unit before the question finishes loading.
 

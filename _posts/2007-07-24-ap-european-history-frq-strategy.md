@@ -6,15 +6,15 @@ date: 2007-07-24
 categories: ["Industry"]
 tags: ["AP Exams", "AP European History", "European History", "DBQ", "FRQ Strategy", "History"]
 excerpt: "AP European History free-response rewards argument over summary: group and source the documents, defend a real thesis, and pace all three written tasks well."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2007-07-24
+lang: en
 ---
-
 Three written tasks decide the argumentative half of the AP European History exam, and they reward one habit above all others: reasoning with evidence instead of reciting it. The document-based question hands you seven sources and asks what they prove together. The long essay question offers a choice of prompts and asks what you can prove alone, from knowledge you carry into the room. The short answer questions ask for precise, compressed explanations tied to stimuli and periods. Students often prepare for these tasks as if they were three different subjects, drilling document summaries for one, memorizing narrative for another, and hoping brevity takes care of itself on the third. Readers scoring the responses see something simpler. Every task pays for a defensible claim, evidence selected to serve that claim, and reasoning that connects the two. Every task withholds points from writing that merely reports.
 
-![A student planning three European History essays around a document set, a thesis, and a pacing schedule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A student planning three European History essays around a document set, a thesis, and a pacing schedule - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 Preparation improves fastest once the three tasks are treated as one skill wearing three costumes. A student who learns to group documents by the argument they support has also learned to organize an LEQ body by lines of reasoning. A student who practices sourcing a pamphlet for authorship and purpose has also practiced the contextual alertness that SAQ parts quietly demand. This guide works through each task at full depth: the rubric lines that govern scoring, the reading period that sets up the DBQ, grouping and sourcing technique, thesis construction for both essays, the discipline of the short answer, and a pacing program that protects all three. Along the way it returns to the central misconception that costs European History students more points than any gap in content knowledge, which is the belief that the DBQ asks for a summary of its documents. It does not. It asks for an argument the documents happen to supply.
 

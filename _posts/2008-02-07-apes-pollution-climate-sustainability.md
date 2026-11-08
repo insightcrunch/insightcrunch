@@ -6,17 +6,17 @@ date: 2008-02-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Environmental Science treats pollution, climate change, and sustainability as one chain: source, mechanism, harm, and a policy fix that can be enforced."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-02-07
+lang: en
 ---
-
 Pollution questions on AP Environmental Science reward a habit that most students never quite build: treating every environmental problem as a chain with four links. A source releases something, a mechanism moves or transforms it, a harm lands on a body or an ecosystem, and a response either breaks the chain or merely relocates it. Students who memorize pollutant names as isolated vocabulary can answer the easy identification items and then stall on the questions that carry the section, because those questions ask what happens next, which reservoir receives the damage, or which intervention actually interrupts the process. The pollution, climate, and sustainability cluster is where the course stops being a survey of nature and becomes an argument about human systems, and the exam grades that argument on mechanism, evidence, and the realism of the proposed fix.
 
 One organizing instrument runs through everything that follows. The InsightCrunch APES problem-solution table maps each environmental problem to its mitigation and the policy instrument that carries the mitigation into the world, because APES rewards proposing realistic solutions and punishes vague goodwill. A free-response answer that ends with "people should pollute less" earns nothing; an answer that names the pollutant, the control technology, and the regulatory lever earns the point and sets up the next one. Students preparing for the full course should anchor this cluster inside [the complete AP Environmental Science guide](/2008/02/16/ap-environmental-science-guide/), which lays out the whole exam, and inside the Earth systems material in [the APES Earth systems, ecosystems, and biodiversity deep dive](/2008/02/12/apes-earth-systems-ecosystems-biodiversity/), because pollution is what happens when the cycles described there get overloaded. Energy choices and land decisions sit upstream of nearly every problem in this article, and their full treatment lives in [the APES energy resources and land use deep dive](/2007/11/23/apes-energy-resources-land-use/), which this article cross-references rather than repeats.
 
-![AP Environmental Science pollution, climate change, and sustainability chain from source to policy solution - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Environmental Science pollution, climate change, and sustainability chain from source to policy solution - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 ## Where pollution, climate, and sustainability sit in the exam
 

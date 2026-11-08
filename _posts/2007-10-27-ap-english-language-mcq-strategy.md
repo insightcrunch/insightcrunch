@@ -6,15 +6,15 @@ date: 2007-10-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "Multiple Choice", "MCQ Strategy", "Exam Strategy", "Reading Skills"]
 excerpt: "AP English Language multiple choice rewards readers who think like writers: read each passage rhetorically, revise with purpose, and eliminate with discipline."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2007-10-27
+lang: en
 ---
-
 The multiple choice section of AP English Language looks, at a glance, like a reading test, and many students prepare for it exactly that way, by reading more and hoping comprehension carries them. That preparation misses what the section actually measures. Half of its work asks students to read prose the way a rhetorician reads it, tracking what a writer is doing, why the writer is doing it, and how each choice lands on an audience. The other half hands students a draft of student-style prose and asks them to revise it, which means the section also tests whether a reader can think like a writer making decisions. Points accumulate for students who do both kinds of thinking under a steady clock, and points leak away from students who treat every question as a search for a keyword or a test of obscure vocabulary. Strategy for this section is therefore not a bag of shortcuts. Strategy here means a repeatable method for reading, a disciplined way of discarding wrong options, and a pacing plan that protects the final passage from the clock.
 
-![AP English Language passage marked with rhetorical annotations beside a set of multiple choice questions - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP English Language passage marked with rhetorical annotations beside a set of multiple choice questions - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 Everything in this article connects back to one claim: Language multiple choice points are won by reading rhetorically and eliminating, not by hunting for a single keyword in the passage. Keyword hunting fails because the exam writers build distractors out of the passage's own language, so the option that repeats the most passage words is often the trap rather than the answer. Rhetorical reading succeeds because it asks a different question of every line, namely what work the line performs inside the writer's larger purpose. Elimination succeeds because a wrong option almost always contains one element the passage cannot support, and a trained reader can find that element faster than they can prove the right option correct. Students who internalize those two habits find the section becomes steadier with practice, while students who rely on recognition and instinct find their scores swing wildly from one practice set to the next. The full course context sits in the series guide to [AP English Language](/2007/11/14/ap-english-language-guide/), and this article stays inside the multiple choice room, working the section question type by question type.
 

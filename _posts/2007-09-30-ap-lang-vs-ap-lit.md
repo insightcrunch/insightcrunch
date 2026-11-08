@@ -6,15 +6,15 @@ date: 2007-09-30
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "AP English Literature", "Comparison", "Exam Strategy", "Course Selection"]
 excerpt: "AP English offers two exams, and choosing between Language and Literature comes down to how you read, what you write, and where your studies point next."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2007-09-30
+lang: en
 ---
-
 Every spring, students who like English face a fork that students in mathematics or science rarely meet. Two Advanced Placement courses carry the English label, both promise college-level reading and writing, both end with a three-hour exam, and both can earn credit. AP English Language and Composition studies rhetoric, argument, and the nonfiction prose of public life. AP English Literature and Composition studies poetry, drama, and fiction through sustained close reading. A student choosing between them is not choosing between a serious course and a lighter one. The choice runs along taste: what kind of pages you enjoy, what kind of writing you want to practice, and what kind of thinking you want to strengthen before college.
 
-![Two stacks of books, nonfiction essays beside poetry and novels, marking the choice between AP Lang and AP Lit - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two stacks of books, nonfiction essays beside poetry and novels, marking the choice between AP Lang and AP Lit - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 Confusion persists because the two courses share a surname and a reputation economy that ranks them without evidence. Counselors hear the same questions each scheduling season. Which one looks better? Which one is harder? Which one do colleges want? Those questions assume a hierarchy that the exams themselves do not support. Each course certifies a different skill set, each rewards a different reading temperament, and each disappoints students who enroll for the wrong reasons. A student who loves novels but signs up for Language because a friend called it practical will spend a year annotating speeches while resenting them. A student who picks Literature for prestige and then discovers a genuine dislike of poetry will spend a year dreading the very texts the course loves most. Fit, argued honestly, beats reputation every time, and fit is measurable once the two courses are laid side by side.
 

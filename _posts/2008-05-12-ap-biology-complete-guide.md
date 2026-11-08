@@ -6,17 +6,17 @@ date: 2008-05-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology is a reasoning exam wearing a memorization costume: eight units, six science practices, and data-rich questions decide who earns the top score."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-05-12
+lang: en
 ---
-
 AP Biology carries a reputation that misleads almost everyone who repeats it. Students call it the memorization exam, the flashcard course, the vocabulary marathon, and then they sit down in May and discover that the questions in front of them are not asking what anything is called. A graph shows enzyme activity bending under conditions the student has never seen. A table reports gene frequencies in a population that changed across generations. An experiment describes a treatment group, a control group, and a result that needs interpreting rather than reciting. AP Biology is a reasoning exam wearing a memorization costume, and the costume fools exactly the students who can least afford to be fooled, because a year spent stockpiling terms produces a student who knows the language of the subject and cannot yet do the subject. The gap between a 3 and a 5 in this course is rarely a gap in how much was memorized. It is a gap in how the material was practiced: whether the student learned to look at unfamiliar living systems and reason about them with evidence, or learned to wait for questions that had already been answered in a review book.
 
 That gap is the subject of this guide. The full model of the exam is here: the three-hour format and its two sections, the eight units with their published weight ranges, the six science practices the exam actually scores, the composite arithmetic behind the 1 to 5 scale, and a study path weighted by where the points live. The organizing instrument is the InsightCrunch Biology unit map, an exam-weighted study order for AP Biology that ranks the units by the share of the exam each one commands and sequences review accordingly. A student who reads this guide once and works from its map for a season will know what the exam is, which is the single advantage that separates prepared candidates from strong memorizers.
 
-![AP Biology complete guide with unit weights, science practices, and an exam-weighted study path - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP Biology complete guide with unit weights, science practices, and an exam-weighted study path - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 ## What AP Biology is, and who should take it
 

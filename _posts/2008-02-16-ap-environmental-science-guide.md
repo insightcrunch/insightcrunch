@@ -6,15 +6,15 @@ date: 2008-02-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Environmental Science tests whether students can connect ecosystems, resources, pollution, and policy into one system, and this guide maps the exam fully."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2008-02-16
+lang: en
 ---
-
 AP Environmental Science carries a reputation it did not earn and a difficulty it does not advertise. Students walk in expecting the gentle AP science, the one guidance counselors describe as a friendly elective, and they meet an exam that asks them to compute an energy budget, read a population graph, reason through a pollution case, and defend a policy remedy in writing, all in a single morning. The students who score well are rarely the ones who memorized the longest vocabulary list. They are the ones who understood early that this subject is a single connected system wearing nine unit labels, and who studied the connections as seriously as the content.
 
-![AP Environmental Science complete guide mapping the nine units, exam format, and quantitative demands - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Environmental Science complete guide mapping the nine units, exam format, and quantitative demands - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 That gap between reputation and reality is the organizing fact of this guide. The exam draws on biology, chemistry, geology, and public policy in the same questions, often in the same paragraph. It permits a calculator and then demands real quantitative fluency: unit conversions, percent change, energy arithmetic, population growth, and data read off graphs under time pressure. It closes with free-response questions that grade the quality of a proposed solution, not the volume of recalled facts. A student who prepares for the exam that actually exists, rather than the exam of reputation, holds an advantage that compounds across every section, and building that preparation in the right order is what the InsightCrunch APES unit map, set out below, is designed to do.
 

@@ -6,15 +6,15 @@ date: 2007-11-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Environmental Science tests energy resources and land use as tradeoff reasoning, weighing fossil fuels, renewables, nuclear power, farms, mines, and cities."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2007-11-23
+lang: en
 ---
-
 AP Environmental Science builds its energy and land-use questions around a single habit of mind, and candidates who acquire that habit early find this cluster generous while candidates who memorize source by source find it slippery. The exam rarely asks what a fuel is. It asks what a fuel costs, in money, in land, in waste, and in risk, and then it asks what the same service would cost if a different source supplied it. A question might describe a county choosing between a gas plant and a wind farm, or a farm losing topsoil faster than bedrock can replace it, and the scoring guide rewards the answer that weighs both sides of the ledger in the open. Definitions earn little here. Comparisons earn nearly everything.
 
-![Energy resources and land use tradeoffs in AP Environmental Science - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Energy resources and land use tradeoffs in AP Environmental Science - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The working premise of this guide is the series thesis applied to one cluster: energy and land-use points come from weighing tradeoffs, so studying the cost and benefit of each source beats memorizing definitions. Every section that follows trains that one skill. Fossil fuels, nuclear fission, sunlight, and soybean fields all get the same treatment, described by what they deliver, what they consume, what they leave behind, and where they fail. Land receives identical respect, because a hectare is also a resource with a yield, a cost, and a residue. The reader who finishes this guide should be able to take any scenario the exam invents, lay it across the comparison frame, and produce a balanced, specific, defensible answer.
 

@@ -6,17 +6,17 @@ date: 2008-04-10
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry turns on reactions, stoichiometry, and kinetics: this deep dive maps every question type in the cluster to the dependable method that solves it."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-04-10
+lang: en
 ---
-
 Three skills decide more AP Chemistry points than any others, and they decide them quietly, inside questions that appear to be about something else. A question dressed as laboratory analysis is, underneath, a limiting reactant problem. A question dressed as an industrial process is, underneath, a rate law waiting to be read from a data table. A question about a glowing reaction mixture is, underneath, a mole ratio wearing a costume. Students who score at the top of this exam share a recognizable habit: they classify each problem before they calculate anything, and they run a practiced method for that class instead of inventing a fresh approach under time pressure. Students in the middle of the distribution often know the same chemistry. What they lack is the classification step, and its absence costs them the first minute of every problem, the moment when the setup is chosen and the arithmetic either lines up behind a correct ratio or wanders into a plausible wrong answer.
 
 This article treats reactions, stoichiometry, and kinetics as one connected cluster, because the exam treats them that way. The balanced equation is the contract that stoichiometry enforces. The rate law is the contract that kinetics enforces. Both contracts reward the same discipline: read what the question actually gives, convert it into moles or into rates with care, and let the ratios in the equation or the exponents in the law dictate the numbers that follow. Improvisation feels faster and scores worse. Method feels slower for the first two practice sets and then quietly becomes the fastest thing a student owns.
 
-![AP Chemistry reactions, stoichiometry, and kinetics with balanced equations, mole ratios, and rate laws - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP Chemistry reactions, stoichiometry, and kinetics with balanced equations, mole ratios, and rate laws - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## Where reactions, stoichiometry, and kinetics sit in the exam
 

@@ -6,17 +6,17 @@ date: 2008-05-25
 categories: ["Industry"]
 tags: ["AP Exams", "AP Statistics", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Statistics free response rewards stated conditions, visible mechanics, and conclusions written in context across all six questions and the task itself."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-05-25
+lang: en
 ---
-
 AP Statistics free response is where strong calculators go to lose points they already earned in their heads. A student can run a flawless test on the machine, know the right interval cold, and still watch the score stall, because the section does not pay for private correctness. It pays for a written record: conditions named and checked, mechanics shown in the open, numbers tied to the actual variables in the story, and a conclusion sentence that says what the evidence means for the people or objects the question described. Computation is the entry fee. Communication is the score.
 
 That gap between knowing and showing is the whole subject of this article. The free-response section holds six questions and ninety minutes, and it carries half the examination's weight, so the habits built for it move the final score more than any single topic review can. The full subject map sits in the [AP Statistics complete guide](/2008/07/14/ap-statistics-complete-guide/), which covers the course theme by theme; this article stays inside one section and takes it apart. What follows is a strategy for the writing itself: how readers grade, which question types return, what a complete inference answer looks like as a piece of prose, and how the investigative task differs from everything before it.
 
-![AP Statistics FRQ strategy covering the checklist, the investigative task, and conclusion writing - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP Statistics FRQ strategy covering the checklist, the investigative task, and conclusion writing - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 ## Six questions, ninety minutes, half the score
 

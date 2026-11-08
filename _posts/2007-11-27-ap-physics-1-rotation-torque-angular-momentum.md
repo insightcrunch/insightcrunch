@@ -6,15 +6,15 @@ date: 2007-11-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 1 rotation pairs every linear idea with an angular twin: torque, moment of inertia, and angular momentum, with worked races, pivots, and traps."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2007-11-27
+lang: en
 ---
-
 Rotation is the unit where AP Physics 1 students discover whether they learned physics or learned formulas. A spinning wheel, a rolling ball, a door pushed near its hinge, a skater pulling in her arms: none of these scenarios surrenders to the linear equations in their raw form, yet every one of them yields to a method the student already owns, translated into angular language. That translation is the whole subject. Position becomes angle, velocity becomes angular velocity, force becomes torque, mass becomes moment of inertia, and momentum becomes angular momentum, with each new quantity obeying a law whose shape the reader has seen before. Students who build the translation table for themselves find the unit short and almost friendly. Students who memorize a second, disconnected formula sheet find it long, arbitrary, and punishing under time pressure.
 
-![AP Physics 1 rotation study with torque, moment of inertia, and angular momentum worked examples - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP Physics 1 rotation study with torque, moment of inertia, and angular momentum worked examples - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 Performance data from graded practice tells a consistent story about where this unit bites. Errors cluster in three places: choosing the wrong moment of inertia for the object or the axis named in the prompt, dropping or inventing signs in torque sums, and treating rolling as pure translation with a decorative spin attached. Each error is a translation failure rather than a knowledge failure, which is encouraging news, because translation can be drilled. This article works the cluster at full depth: rotational kinematics, torque and the rotational form of Newton's second law, moment of inertia, rotational energy, angular momentum and its conservation, and rolling without slipping, with every worked number checked twice and the linear mechanics underneath it routed to the companion deep dive where it belongs.
 

@@ -6,15 +6,15 @@ date: 2008-03-19
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 1 waves, sound, and simple harmonic motion taught as linked relationships: period, frequency, wave speed, standing waves, resonance, and energy."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-03-19
+lang: en
 ---
-
 A pendulum, a guitar string, and a shout across a field look like three unrelated physics problems, yet AP Physics 1 treats them as one family bound by a single habit of thought. Each system repeats, each carries energy without carrying matter very far, and each answers questions through relationships between a handful of variables rather than through isolated facts. Students who memorize the period formula, the wave speed formula, and the standing wave conditions as separate trivia routinely stall on questions that change one given and hide another. Students who learn how the variables lean on each other find that most questions in this territory collapse into one or two reasoning steps. That difference, between stored equations and understood links, is what this article builds.
 
-![AP Physics 1 waves, sound, and simple harmonic motion with oscillation graphs, standing waves, and the wave relationship table - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP Physics 1 waves, sound, and simple harmonic motion with oscillation graphs, standing waves, and the wave relationship table - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 ## Why oscillation and wave questions reward relationship readers
 
