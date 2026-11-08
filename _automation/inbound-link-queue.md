@@ -169,3 +169,6 @@
 ## nightjar-false-provenance-007
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room had kept nothing of a death; two Sessions of cases later a storeroom above the Melora court quarter kept nothing either, and this time the nothing had a whole room of stored centuries on either side of it to be measured against."
 - _posts/2026-11-06-nightjar-charge-that-failed-006.md - could carry: "The chamber's nothing had a ceiling; in Melora the nothing had a door, a floor of boards and two neighbouring rooms reading normally, and the woman who mapped the first recognised the second before her hand had finished crossing the threshold."
+## how-supreme-court-overrules-precedent
+- _posts/2026-10-17-how-birthright-citizenship-works.md - could carry: "The citizenship rule has survived every challenge since Wong Kim Ark in part because displacing a constitutional precedent demands the special justification that the account of how the Supreme Court overrules precedent sets out factor by factor."
+- _posts/2026-11-05-how-federal-grant-conditions-work.md - could carry: "South Dakota v. Dole still structures every conditional grant because no later majority has assembled the showing an overruling requires, the showing mapped in the account of how the Supreme Court overrules its own precedents."

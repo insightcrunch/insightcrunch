@@ -1033,3 +1033,27 @@ broker-differ-gpu-marketplace-neocloud | how-neoclouds-work | How does a neoclou
 accept-contract-customer-gpu-multi-risk-year | how-neoclouds-work | What risks does a customer accept in a multi-year GPU contract?
 bandwidth-cluster-design-high-memory-shape | how-neoclouds-work | What is high bandwidth memory and why does it shape cluster design?
 cloud-gpu-neocloud-reader-reseller-tell-whether | how-neoclouds-work | How can a reader tell whether a GPU cloud is a neocloud or a reseller?
+
+## law-stare-decisis
+
+### how-supreme-court-overrules-precedent
+decisi-language-mean-plain-stare | how-supreme-court-overrules-precedent | What does stare decisis mean in plain language?
+all-court-follow-precedent | how-supreme-court-overrules-precedent | Why do courts follow precedent at all?
+ask-court-overrule-precedent-supreme | how-supreme-court-overrules-precedent | Who can ask the Supreme Court to overrule a precedent?
+before-old-overrul-precedent | how-supreme-court-overrules-precedent | Does a precedent have to be old before it can be overruled?
+alive-keep-play-precedent-reliance-role | how-supreme-court-overrules-precedent | What role does reliance play in keeping a precedent alive?
+constitutional-harder-one-overrule-precedent-statutory-than | how-supreme-court-overrules-precedent | Why are statutory precedents harder to overrule than constitutional ones?
+about-casey-overrul-parenthood-plann-roe-say-wade | how-supreme-court-overrules-precedent | What did Planned Parenthood v. Casey say about overruling Roe v. Wade?
+casey-dobb-health-jackson-justify-organization-overrul-roe-women | how-supreme-court-overrules-precedent | How did Dobbs v. Jackson Women's Health Organization justify overruling Roe and Casey?
+board-brown-education-ferguson-happen-plessy-reject | how-supreme-court-overrules-precedent | What happened when Brown v. Board of Education rejected Plessy v. Ferguson?
+approach-case-economic-end-era-lochner-regulation | how-supreme-court-overrules-precedent | Which case ended the Lochner era approach to economic regulation?
+factor-list-louisiana-overrul-precedent-ramo | how-supreme-court-overrules-precedent | What factors did Ramos v. Louisiana list for overruling a precedent?
+believ-court-lower-overrule-precedent-supreme-treat-would | how-supreme-court-overrules-precedent | How does a lower court treat a precedent it believes the Supreme Court would overrule?
+congress-court-decision-law-new-pass-reverse-supreme | how-supreme-court-overrules-precedent | Can Congress reverse a Supreme Court decision by passing a new law?
+decision-plurality-precedential-uncertain-value | how-supreme-court-overrules-precedent | What is a plurality decision and why is its precedential value uncertain?
+bright-chevron-court-deference-enterpris-loper-overrule-raimondo | how-supreme-court-overrules-precedent | Why did the Court overrule Chevron deference in Loper Bright Enterprises v. Raimondo?
+decision-mean-narrow-overrul-rather-than | how-supreme-court-overrules-precedent | What does it mean for a decision to be narrowed rather than overruled?
+before-danger-fall-justic-precedent-signal | how-supreme-court-overrules-precedent | How do justices signal that a precedent is in danger before it falls?
+between-decisi-difference-horizontal-stare-vertical | how-supreme-court-overrules-precedent | What is the difference between horizontal and vertical stare decisis?
+after-bower-hardwick-interval-lawrence-overrule-short-texa | how-supreme-court-overrules-precedent | Why did Lawrence v. Texas overrule Bowers v. Hardwick after a short interval?
+after-cas-decid-happen-overrul-precedent-under | how-supreme-court-overrules-precedent | What happens to cases decided under a precedent after that precedent is overruled?
