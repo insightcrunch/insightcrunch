@@ -161,3 +161,25 @@ spine notch:              Rung six. The absence is always a volume, never a surf
 characters:               Mira Kovac, Arvo Leyden, Ilse Harrand, Petra Dunmore (by paper), Anse Vetter (new), Corin Aske (new), Sanna Reeve (new)
 canon written back:       Three facts under Established canon, each numbered 006: Anse Vetter and his payment, his eleven minutes and his left handed signature; the Corra Lock chamber absence as a volume with a ceiling; the charge as a rehearsal placed twice, and the flood pattern that spares warehouse two
 callbacks:                002, 004 and 005, three internal links, to the line walked on a floor in Melora, to the sealed store room at the Teshkar depot, and to Rask's on the record statement at the Barrow hearing
+
+## Installment 007
+slug:                     nightjar-false-provenance-007
+published:                2026-11-07
+story span:               Three days in the Twenty Ninth Session, from Dunmore's morning filing in Carrowmere to the stopped sale in Melora
+arc:                      The Clean Room, case 7
+case type:                Forgery or disinformation
+words:                    22480
+outcome:                  full success
+cost paid:                Two centuries of a room full of objects at once, taken across the gallery and strong room reads on the night she entered the collection; it puts her out of the field for a day she does not take
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the phrase clean room in the eighteen year old file and who wrote it first
+clues planted:            The provenance chain table of seven transfers with their documents; Ilva Marrow's report and the reservation inside its wording; the forty year gap between the fourth and fifth transfers; the pen lift habit and the retired toll form on the fifth transfer page; the seller's right of withdrawal established at the tasking; the north storeroom's shut door on the top floor
+capabilities established: The comparative binding read against two undisputed bound objects in the collection (The collapse); Dunmore's toll form register check against the court registers (Ground truth, The collapse, Close); Ilva's key and her admission of Mira to the collection at night (The collapse, Pressure); the storeroom read on the top floor (Pressure); Ilva's supplementary note stating the reservation plainly (Close)
+damage carried:           In: Voss's last ten minutes from 001, the keeper's shame from 006. Adds: two centuries of a storeroom taken at once
+endurance:                entering full; reduced at the pressure beat
+legend beat:              none
+close consumed:           The comparative binding read that killed the forgery reading, Dunmore's register finding on the retired toll form, Ilva's supplementary note, the seller's established right of withdrawal, and the coffer held where the night attempt left it on its shelf; every one established earlier in this same installment
+false lead:               The object is a forgery. The ironwork is plain for its claimed period, the binding's knot pattern is one a later Binder could copy, and the seller's polish fits a man selling a made thing on beautiful papers; the binding's own weight, read against two undisputed objects of the same age, kills the reading, because no forger who could fake it would need the sale
+spine notch:              Rung seven. In Dunmore's archive search, a Ninth Office file from eighteen years ago uses the phrase clean room, in quotation marks, as if borrowing it
+characters:               Mira Kovac, Petra Dunmore, Ilva Marrow (new), Edric Vay (new)
+canon written back:       Three facts under Established canon, each numbered 007: Ilva Marrow and her report, her reservation and her supplementary note; the Vey Coffer, its genuine binding, its one false page and the retired toll form, its holding under seal and the seller's uncharged withdrawal; the north storeroom of the Helden Collection holding no weight at all
+callbacks:                001, 003 and 006, three internal links, to the transit room at Carrowmere where a supervisor died, to the trade lever Commissioner Harrand pulled at Melora, and to the lock chamber on the north cut

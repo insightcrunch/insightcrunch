@@ -165,3 +165,7 @@
 ## how-neoclouds-work
 - _posts/2026-10-07-how-data-centers-work.md — could carry: "The halls described here increasingly house a single kind of tenant; for the contract and financing model behind those halls, see how neoclouds work."
 - _posts/2026-11-03-how-sovereign-cloud-works.md — could carry: "Dedicated capacity under a legal border is one shape of a wider rental pattern; for the underlying mechanism of rented GPU clusters, see how neoclouds work."
+
+## nightjar-false-provenance-007
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room had kept nothing of a death; two Sessions of cases later a storeroom above the Melora court quarter kept nothing either, and this time the nothing had a whole room of stored centuries on either side of it to be measured against."
+- _posts/2026-11-06-nightjar-charge-that-failed-006.md - could carry: "The chamber's nothing had a ceiling; in Melora the nothing had a door, a floor of boards and two neighbouring rooms reading normally, and the woman who mapped the first recognised the second before her hand had finished crossing the threshold."

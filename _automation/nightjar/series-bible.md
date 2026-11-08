@@ -325,6 +325,10 @@ rewritten.
 006 The Corra Lock chamber held a volume of absence standing in the air where the device had been placed, with a floor, sides and a ceiling a span above Mira Kovac's height, and normal weight above and beyond it. The absence is a volume, never a surface.
 006 A charge that could not fire was placed twice in the Corra Lock gate chamber, removed once and replaced, as a rehearsal for a device intended to work somewhere else. The flood from a failed upper gate would have spared warehouse two on the basin, which stands on its highest sill, and drowned the stock of warehouses one, three and four.
 
+007 Ilva Marrow is the archivist of the Helden Collection in Melora, engaged by the collection's trust to authenticate the provenance of the Vey Coffer. She found the flaw in the fifth transfer page, wrote her report around it in a reservation a hurried reader slides past, and after the night attempt on the coffer stated the reservation in plain words in a signed supplementary note.
+007 The Vey Coffer is a Binder-made coffer of two centuries, its binding fixing the lid so that it cannot be opened without the binding showing the opening forever. The coffer is genuine and old. Its provenance of seven transfers carries one false page, the Melora court receipt covering the fifth transfer, which papers over a gap of forty years and uses a toll form the court had retired a decade before the page's claimed date. The coffer is held under Accord seal in the Helden Collection strong room, and its seller, Edric Vay, withdrew from the Melora court sale without charge.
+007 The north storeroom on the top floor of the Helden Collection holds no weight at all across its whole volume, while the storerooms either side of it read normally with two centuries of stored objects.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.
