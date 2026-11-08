@@ -6,19 +6,19 @@ date: 2026-11-07
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "fiction-serial"]
 excerpt: "A bound object with two centuries of papers is about to be sold through the Melora courts, and one page of its provenance is a careful lie that has to break."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-07
+lang: en
 ---
-
 ## The Report She Wrote Around
 
 The long gallery of the Helden Collection smelled of cold stone and old paper and the faint oil used on the hinges of the strong room door. Evening light came through the tall windows in narrow bands and fell across the floorboards, and dust moved slowly in each band. Ilva Marrow sat at the reading table with the provenance file open before her and the Vey Coffer standing on a cloth to her left, and she listened to the house settle. Below, a door closed. Above, in the storerooms on the top floor, a shutter tapped once and then was still. The gallery held shelves along both walls and a row of bound objects in their places, and Ilva had worked among such rooms for thirty years and knew how to be patient with them.
 
 She was in her fifties and she had spent her working life among other people's stored objects, first as a junior clerk in a Valtessa warehouse where bound crates arrived with seals intact and papers in three tongues, then in a chancery archive where the ink had faded to brown on the oldest pages, and then here in Melora, as archivist to the Helden Collection, a family trust collection kept in a tall house above the court quarter. The trust paid her to keep the records straight and to say when a paper did not match the thing it claimed to describe. She had learned early that a trust did not want a problem unless the problem could be solved without noise, and that a quiet house preferred a quiet report. She had learned to leave the truth where a careful reader could find it, and she had learned that most readers were not careful.
 
-![A tall house of stored objects above a court quarter at dusk - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A tall house of stored objects above a court quarter at dusk - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The coffer had come to the collection on deposit, held for a seller who wished to put it through the Melora court sale. It was a small iron bound coffer, plain in its making, with a binding that fixed the lid so that it could not be opened without the binding showing the opening forever. Its iron bands were dull in the evening light and the wood beneath them was dark with age and handling. It looked like a thing carried under seal for a long time, and that was part of its value. A coffer like it had once carried Accord instruments between members in the early Sessions, and the trust papers said so in a careful hand on the first page of the file.
 
