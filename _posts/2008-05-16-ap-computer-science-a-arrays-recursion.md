@@ -233,6 +233,7 @@ The length of the two-dimensional array itself counts rows, because the outer st
 
 Processing a whole grid means nesting one traversal inside another, and the outer loop's choice fixes the visiting order. Rows on the outside and columns on the inside produce row-major order, the reading order, in which the walk finishes an entire row before dropping to the next.
 
+{% raw %}
 ```java
 int[][] grid = {{3, 6, 2}, {8, 1, 4}};
 int count = 0;
@@ -247,6 +248,7 @@ for (int r = 0; r < grid.length; r++)
     }
 }
 ```
+{% endraw %}
 
 The fragment counts even entries in a two-row, three-column grid. Tracing it visits 3, 6, 2, 8, 1, 4 in that order and increments on 6, 2, 8, and 4, ending with a count of four. Every whole-grid operation is this nest with a different body: sum replaces count, comparison replaces the parity test, assignment replaces both. The guards deserve the same discipline as the one-dimensional case, one loop per dimension, each guard reading the length of the structure it walks. A guard that consults grid.length for the column loop compiles fine on a square grid and fails everywhere else, which is exactly why square grids appear so often in the faulty options and so rarely in the correct ones.
 
