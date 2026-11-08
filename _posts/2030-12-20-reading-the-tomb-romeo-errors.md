@@ -9,7 +9,7 @@ excerpt: "In the tomb Romeo misreads every sign, the color in Juliet's cheeks, t
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
 author: "diana-patel"
-last_updated: 2030-12-20
+last_updated: 2026-11-08
 lang: en
 ---
 The last scene of Romeo and Juliet is usually remembered as a race lost by minutes, a matter of cruel timing arranged by the stars. Read closely, at the speed the verse itself moves, it is something more exact and more uncomfortable: a sequence of readings, each one performed by the same man, each one wrong in a different way, and each one correctable by evidence lying within reach of his hand or his ear. Romeo enters the Capulet monument in Verona's churchyard carrying a conclusion, and everything he meets in the dark is processed as confirmation of it. A living stranger becomes an obstacle. A dead man's face becomes legible only after the sword has made it safe to study. A sleeping woman's color, announced aloud in the play's most famous piece of self-refutation, becomes proof not of life but of death's desire. The tomb scene is the play's final examination in the skill its hero has practiced from the first act, the reading of signs, and he fails it sign by sign, in ascending order of cost, while the audience watches with the answer open in front of them.

@@ -9,7 +9,7 @@ excerpt: "AP Chemistry free response is half the examination, and its points are
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 87
 author: "simon-hartley"
-last_updated: 2008-04-01
+last_updated: 2026-11-08
 lang: en
 ---
 ## Where Chemistry Free Response Bleeds Points

@@ -9,7 +9,7 @@ excerpt: "AP Calculus AB multiple choice rewards pacing, elimination, and nerve:
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 87
 author: "samantha-lee"
-last_updated: 2008-05-30
+last_updated: 2026-11-08
 lang: en
 ---
 Half of the AP Calculus AB score is decided before a single free-response booklet is opened, and it is decided under conditions that reward method as much as knowledge. The multiple-choice section holds forty-five questions in two parts, and its points are distributed with a cold fairness: an easy limit question answered in twenty seconds is worth exactly as much as a punishing accumulation question answered in four minutes. Students who understand that equality treat the section as a resource-allocation problem. Students who treat it as a queue, working in order and spending whatever each question demands, routinely donate points at the end of each part, where unanswered items sit worth zero and a handful of reachable questions never got their two minutes. The gap between a strong multiple-choice performance and a mediocre one is rarely a gap in calculus. It is a gap in pacing, in elimination craft, in calculator discipline, and in the willingness to answer everything.

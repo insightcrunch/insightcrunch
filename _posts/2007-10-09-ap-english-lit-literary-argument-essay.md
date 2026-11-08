@@ -9,7 +9,7 @@ excerpt: "AP English Literature ends with a single open question: argue a theme 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2007-10-09
+last_updated: 2026-11-08
 lang: en
 ---
 The third and final question of the AP English Literature free-response section hands the student something no other part of the exam offers: a choice. The poetry question supplies its poem. The prose question supplies its passage. Question 3 supplies only an idea, a theme stated in a sentence or two, and then steps back. Choose a work, the prompt says. Build an argument. Defend a reading of a novel or play that nobody in the room assigned for that morning, and defend it from memory, in handwriting, inside a suggested forty minutes shared with two other essays. For a prepared student, that freedom is the friendliest territory on the whole exam, because the ground was chosen months earlier, at a desk, with a book open. For an unprepared student, the same freedom is a trap with the door standing open: every work ever read competes for selection, memory blurs under pressure, and the clock does not negotiate.

@@ -9,7 +9,7 @@ excerpt: "How neoclouds work comes down to contracts, chips and power: rented gr
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 74
 author: "benjamin-scott"
-last_updated: 2026-11-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## How Do Neoclouds Work in One Clear Pass

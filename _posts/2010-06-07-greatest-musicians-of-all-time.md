@@ -9,7 +9,7 @@ excerpt: "The greatest musicians of all time are chosen by argument rather than 
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 93
 author: "diana-patel"
-last_updated: 2010-06-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## Why the Question Is Asked at All

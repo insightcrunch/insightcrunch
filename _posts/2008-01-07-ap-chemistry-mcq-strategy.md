@@ -9,7 +9,7 @@ excerpt: "AP Chemistry multiple choice rewards estimation, elimination, and pace
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2008-01-07
+last_updated: 2026-11-08
 lang: en
 ---
 Half of the AP Chemistry score is decided by sixty questions answered without a calculator, and that single fact reorganizes everything about how the section should be played. A student who treats each item as a small free-response problem, setting up a full solution and grinding through four or five arithmetic steps, will run out of minutes somewhere around question forty and donate the last third of the section to haste. A student who reads the section the way its designers built it, as a test of chemical judgment expressed through quick setups, approximations, and option reading, finishes with time to spare and points the grinder never reaches. The gap between those two students is rarely a gap in chemistry knowledge. It is a gap in section craft, and craft can be taught, practiced, and systematized.

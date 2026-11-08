@@ -9,7 +9,7 @@ excerpt: "Johann Sebastian Bach life unfolded as salaried work, argument and ove
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 102
 author: "diana-patel"
-last_updated: 2010-08-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## The walk to Lubeck and the hearing that followed

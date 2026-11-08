@@ -9,7 +9,7 @@ excerpt: "AP Computer Science A free response is an object-oriented exam at hear
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 87
 author: "hannah-moore"
-last_updated: 2008-06-30
+last_updated: 2026-11-08
 lang: en
 ---
 AP Computer Science A hands students a peculiar bargain. Half of the exam asks you to write code by hand, on paper, without a compiler, without an error message, and without the safety net of running the program to see what it does. Students who fear that half usually fear the wrong thing. They imagine the free-response section rewards brilliance, as if each question demanded a clever invention produced under time pressure. It does not. The written half of CSA is built from a small family of object-oriented patterns that return year after year in new costumes: design a class from a specification, write a method inside a class someone else designed, extend a class that already exists, implement an interface, and trace what happens when objects interact. Whoever recognizes the pattern in the first minute spends the remaining minutes executing. Whoever treats each question as a fresh invention spends those minutes deciding what to build, and the building is where the points quietly leak away.

@@ -9,7 +9,7 @@ excerpt: "Staging the duel in Romeo and Juliet is a craft in itself, as fight di
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-06-13
+last_updated: 2026-11-08
 lang: en
 ---
 Staging the duel is the point where Romeo and Juliet stops being a text and becomes a physical problem that a company must solve with bodies, steel, distance, and timing. The words of Act 3, Scene 1 are famous: the threats, the refusal, the jokes that continue over a mortal wound. The movements are not in the words. Between the first quarto of 1597 and the second quarto of 1599, the printed directions for the most consequential fight in English drama amount to a handful of phrases, and the single most important action of the scene, the thrust that kills Mercutio beneath Romeo's intervening arm, survives in full only in the earlier and shorter text. Every production since has had to invent what the page withholds, and the history of that invention is a history of fencing culture, of actors' skills, of a craft that spent centuries without a name and then, in the twentieth century, acquired manuals, societies, certifications, and a credit line of its own.

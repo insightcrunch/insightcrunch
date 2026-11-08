@@ -9,7 +9,7 @@ excerpt: "Prince Escalus enters Romeo and Juliet just three times, at the first 
 image: "/assets/images/blog/blog-115.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-07-04
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Prince's Three Entrances and the Frame They Build

@@ -9,7 +9,7 @@ excerpt: "APUSH frees its strongest writers in two opposite directions: the LEQ 
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-08-25
+last_updated: 2026-11-08
 lang: en
 ---
 The AP US History exam asks its writers to do two opposite things well, and it asks on the same afternoon. In the short-answer section, credit flows to the student who can say exactly one accurate thing per part, in a handful of sentences, and stop. In the long essay, credit flows to the student who builds a patient, layered argument across several pages, qualifying claims, weighing causes against each other, and developing evidence until the reasoning itself becomes the achievement. Students who treat these two tasks as versions of the same skill, scaled up or scaled down, bleed points in both directions. Their short answers sprawl into unfocused mini-essays that bury the scorable point under decoration, and their long essays shrink into lists of facts that never assemble into an argument. The remedy is not more content knowledge alone. The remedy is learning that the LEQ and the SAQ are different crafts sharing a body of evidence, and training each craft on its own terms.

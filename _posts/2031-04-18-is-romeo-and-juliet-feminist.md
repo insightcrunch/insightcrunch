@@ -9,7 +9,7 @@ excerpt: "Whether Romeo and Juliet is a feminist play depends on weighing Juliet
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2031-04-18
+last_updated: 2026-11-08
 lang: en
 ---
 Is Romeo and Juliet a feminist play? The question survives because the evidence refuses to line up on one side. On one side stands a heroine of thirteen who argues circles around every adult in her world, proposes her own marriage, dictates its terms, drinks a frightening potion alone, and dies by her own hand on her own decision. On the other side stands the world that contains her: a city where daughters are assets, where her father can move her wedding day forward like a delivery date, where every door she tries opens onto a man with a plan for her, and where the only exit the plot ever builds is a tomb. Weigh the heroine and the play looks feminist. Weigh the world and it looks like an exhibit in the case against patriarchy. Weigh both together, which is what the play itself insists on doing, and a graded verdict emerges, and the graded verdict is the argument of this article.

@@ -9,7 +9,7 @@ excerpt: "On social media Romeo and Juliet lives as clips, trends, and debates, 
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2031-06-20
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Verdict First: Restored in the Feed

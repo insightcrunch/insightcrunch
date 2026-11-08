@@ -9,7 +9,7 @@ excerpt: "AP Calculus AB free response rewards archetype recognition over speed:
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 86
 author: "samantha-lee"
-last_updated: 2008-08-01
+last_updated: 2026-11-08
 lang: en
 ---
 Most AP Calculus AB free response points are not lost on hard calculus. Walk through a stack of scored responses and the same quiet failures surface again and again: a correct value with no setup anywhere above it, an integral written as a decimal with the integrand never shown, a conclusion announced without the reasoning the prompt demanded, a part abandoned because its first line went wrong even though later parts could still have paid. The mathematics in those responses is often fine. What failed was the scoring craft, and scoring craft fails in predictable places, which means it can be trained in predictable ways. A student who treats Section II as six unfamiliar problems will bleed points in all six places. A student who treats it as a small set of recurring archetypes, each with a known rubric shape, walks in with most of the section already solved at the level of method. What remains is execution.

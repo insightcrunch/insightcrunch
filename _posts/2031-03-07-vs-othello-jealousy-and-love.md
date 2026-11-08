@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet and Othello both show love destroyed, one by feud, ha
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2031-03-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## Two Love Tragedies, Two Routes to Ruin

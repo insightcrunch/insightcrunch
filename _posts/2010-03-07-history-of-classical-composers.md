@@ -9,7 +9,7 @@ excerpt: "Classical composers history traces how patronage, notation and new pub
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 85
 author: "chloe-martin"
-last_updated: 2010-03-07
+last_updated: 2026-11-08
 lang: en
 ---
 In March 1829 a twenty year old conductor stood before a Berlin choir of several hundred singers and raised his baton over a score that had not been performed in public for generations. Felix Mendelssohn had spent years preparing the St Matthew Passion of Johann Sebastian Bach, and the evening is where classical composers history often pretends to begin, with a forgotten master rescued at a single stroke. The record shows something less tidy and more interesting. Keyboard players and theorists had studied Bach in manuscript throughout the intervening decades, copying his fugues and learning counterpoint from them, so no rescue was required; what changed in 1829 was the scale of the public and the machinery of performance around the music. The Western classical tradition is not a sequence of geniuses but a sequence of problems, and each composer the tradition remembers is remembered because they solved one the previous generation could not.

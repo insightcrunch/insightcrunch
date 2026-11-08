@@ -9,7 +9,7 @@ excerpt: "AP Statistics design, sampling, and inference form one connected argum
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 87
 author: "patrick-dunn"
-last_updated: 2008-07-09
+last_updated: 2026-11-08
 lang: en
 ---
 Most students meet AP Statistics design questions with a calculator in hand and a quiet sense that the numbers will rescue them, and most of those students lose the points anyway. The design, sampling, and inference strand of the course is the one part of the exam where computation cannot compensate for a misread study. A candidate can execute a flawless procedure on data that were collected so badly that no conclusion survives, and the readers grading that work will award almost nothing, because the exam treats design literacy as the gate through which every other skill must pass. The student who can look at a described study and state precisely what it permits, what it forbids, and why, owns the highest-leverage skill in the entire subject.

@@ -9,7 +9,7 @@ excerpt: "A Carrowmere lock is rigged with a charge that cannot work, set to flo
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 99
 author: "chloe-martin"
-last_updated: 2026-11-06
+last_updated: 2026-11-08
 lang: en
 ---
 ## Eleven Minutes at the Corra Lock

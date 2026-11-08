@@ -9,7 +9,7 @@ excerpt: "AP English offers two exams, and choosing between Language and Literat
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 88
 author: "daniel-morgan"
-last_updated: 2007-09-30
+last_updated: 2026-11-08
 lang: en
 ---
 Every spring, students who like English face a fork that students in mathematics or science rarely meet. Two Advanced Placement courses carry the English label, both promise college-level reading and writing, both end with a three-hour exam, and both can earn credit. AP English Language and Composition studies rhetoric, argument, and the nonfiction prose of public life. AP English Literature and Composition studies poetry, drama, and fiction through sustained close reading. A student choosing between them is not choosing between a serious course and a lighter one. The choice runs along taste: what kind of pages you enjoy, what kind of writing you want to practice, and what kind of thinking you want to strengthen before college.

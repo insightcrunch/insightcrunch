@@ -9,7 +9,7 @@ excerpt: "AP Physics 1 rotation pairs every linear idea with an angular twin: to
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 88
 author: "christopher-wells"
-last_updated: 2007-11-27
+last_updated: 2026-11-08
 lang: en
 ---
 Rotation is the unit where AP Physics 1 students discover whether they learned physics or learned formulas. A spinning wheel, a rolling ball, a door pushed near its hinge, a skater pulling in her arms: none of these scenarios surrenders to the linear equations in their raw form, yet every one of them yields to a method the student already owns, translated into angular language. That translation is the whole subject. Position becomes angle, velocity becomes angular velocity, force becomes torque, mass becomes moment of inertia, and momentum becomes angular momentum, with each new quantity obeying a law whose shape the reader has seen before. Students who build the translation table for themselves find the unit short and almost friendly. Students who memorize a second, disconnected formula sheet find it long, arbitrary, and punishing under time pressure.

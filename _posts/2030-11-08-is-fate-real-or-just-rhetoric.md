@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is saturated with talk of fate and stars, but whether
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-11-08
+last_updated: 2026-11-08
 lang: en
 ---
 Fate is the first explanation Romeo and Juliet offers for itself, and the explanation this article puts on trial. Before any character speaks, a Chorus announces "a pair of star-cross'd lovers" whose love is "death-mark'd" (Prologue, lines 6 and 9), and the play that follows is drenched in the vocabulary of stars, fortune, heaven and ominous dreams. The question is whether that vocabulary describes the play's physics or merely its weather: whether destiny is a force operating inside Verona, or a language its inhabitants speak over a machinery of feud, law, haste, weather, plague and gold that the text itself itemizes with unusual completeness. The verdict argued here is precise, and it splits the question at the joint where the play splits it. Inside the fiction, fate never acts. No star inclines, no omen intervenes, no providence reaches into a single scene; every disaster arrives by a human or natural mechanism that the play names in plain terms. Fate is real in exactly one place: between the stage and the audience, where the Prologue's foreknowledge turns contingent accidents into a pattern the spectator watches close, link by link, like a noose being braided. Within Verona, fate is rhetoric: the idiom in which the guilty excuse themselves, the overwhelmed name their pain, and the bereaved make a grammar for what their own city did.

@@ -9,7 +9,7 @@ excerpt: "AP classes for STEM majors work best as a stack built around calculus,
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 86
 author: "patrick-dunn"
-last_updated: 2008-08-28
+last_updated: 2026-11-08
 lang: en
 ---
 A student aiming at a technical degree rarely suffers from a shortage of ambition. The transcript fills with science courses, the mathematics sequence accelerates, and by the middle of high school the schedule carries more laboratory periods than free ones. Yet admissions readers and first-year advisors keep meeting the same puzzle: a record heavy with STEM coursework that somehow argues for nothing in particular. The courses were chosen one at a time, each for its own sake, and the sum of them reads as appetite rather than direction. That gap between effort and argument is where AP classes for STEM majors are won or lost, because a technical faculty does not read a transcript as a tally. It reads the transcript as a claim about what the student is preparing to become, and it asks whether the coursework forms a structure that can carry that claim.

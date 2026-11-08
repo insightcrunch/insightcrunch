@@ -9,7 +9,7 @@ excerpt: "AP Biology genetics rewards a procedure over guesswork, and this deep 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 88
 author: "natalie-webb"
-last_updated: 2008-05-03
+last_updated: 2026-11-08
 lang: en
 ---
 AP Biology genetics is the strand where strong students separate themselves, not because the ideas are the hardest in the course, but because the questions reward a procedure executed calmly under time pressure. A heredity problem hands you a paragraph of family history or a table of offspring counts and asks what must be true. Students who improvise a fresh method for every problem run out of time and confidence. Students who run one reliable decision path, choosing the right tool for the problem in front of them, collect points that their classmates leave scattered across the page. Gene expression works the same way. The molecular machinery is intricate, yet the exam asks a small set of questions about it again and again: what is copied, what is built, what switches the process on or off, and what breaks when a single nucleotide changes.

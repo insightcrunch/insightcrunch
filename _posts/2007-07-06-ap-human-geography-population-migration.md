@@ -9,7 +9,7 @@ excerpt: "AP Human Geography population and migration questions reward students 
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-07-06
+last_updated: 2026-11-08
 lang: en
 ---
 Population is where AP Human Geography stops being a vocabulary course and becomes an analytical one. The unit asks a deceptively simple pair of questions: why do people live where they live, and why do they move? Behind those two questions sits the most model-rich territory in the entire course. The demographic transition model, the epidemiological transition, population pyramids, Malthusian theory, Ravenstein's laws, the gravity model, and Zelinsky's migration transition all compete to explain the same human patterns from different angles, and the exam is built to test whether a student can pick the right model for a given place, apply it to data that was never shown in class, and defend the reading against a plausible alternative. Students who memorize definitions stall on that task. Students who learn what each model predicts, and what evidence would prove it wrong, collect the points.

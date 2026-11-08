@@ -9,7 +9,7 @@ excerpt: "The distance between Mantua and Verona, a real journey of some thirty 
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2030-11-22
+last_updated: 2026-11-08
 lang: en
 ---
 ## Mantua to Verona: Forty Kilometres and the Race Run on Them

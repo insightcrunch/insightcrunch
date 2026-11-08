@@ -9,7 +9,7 @@ excerpt: "The history of soul funk and hip hop follows one descent from gospel t
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 88
 author: "chloe-martin"
-last_updated: 2010-04-21
+last_updated: 2026-11-08
 lang: en
 ---
 In May 1967, in a Cincinnati studio owned by King Records, a singer counted his band in and then shifted the weight of the bar onto its first beat, leaving space where a backbeat flourish might have sat and asking the horns to strike as punctuation rather than decoration. The history of soul funk and hip hop is the story of how that kind of decision kept being made at larger scales: soul, funk and hip hop form one line of descent in which each stage relocates the centre of gravity of the music, soul moving it from the written song to the voice, funk moving it from the voice to the rhythm section, and hip hop moving it from live performance to the record itself.

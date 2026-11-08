@@ -9,7 +9,7 @@ excerpt: "Juliet's last words, O happy dagger, fuse love and death in a single p
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2031-05-16
+last_updated: 2026-11-08
 lang: en
 ---
 Juliet's final line is the shortest great speech in Romeo and Juliet, and the least accidental. Waking in the Capulet tomb to find Romeo dead beside her, refused by circumstance, abandoned by the Friar, and granted perhaps a minute before the Watch forces the vault, she speaks five words of decision and two lines of verse: "Yea, noise? Then I'll be brief. O happy dagger, / This is thy sheath; there rust, and let me die" (5.3.174-175 in the Folger lineation; some editions number the lines 168-170). The line is quoted everywhere as a sigh, the decorative crest of a swoon. Read closely, it is nothing of the kind. It is a completed conceit built like a lock: a vocative that promotes a weapon to a person, an adjective that prices the weapon's luck and fitness at once, a metaphor that assigns the speaker's body as the blade's appointed housing, and a pair of imperatives that settle the blade's future and the speaker's in a single breath. The verdict of this close reading is that the line is the most deliberate utterance in the play, the one speech in which metaphor, grammar and action arrive at the same instant, and that its famous wordplay, held at its proper weight, deepens rather than dilutes the gravity of what it says.

@@ -9,7 +9,7 @@ excerpt: "AP Calculus BC free response pays for type recognition: series, parame
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2008-05-21
+last_updated: 2026-11-08
 lang: en
 ---
 The AP Calculus BC free-response section is where strong calculus students discover that knowing calculus and scoring on calculus are two different skills. A candidate can command every convergence test in the course, sketch any polar curve from memory, and still leave eight or nine points on the table because a setup was never written down, a justification named no test, or a polar integral went up without the one-half factor the whole computation depends on. Readers do not grade the mathematics in a candidate's head. They grade the mathematics on the page, part by part, against a rubric that pays for visible setup, defensible reasoning, and answers that respond to the exact verb in the prompt. That gap between private understanding and public evidence is where BC free-response points are won and lost, and closing it is a trainable craft rather than a talent.

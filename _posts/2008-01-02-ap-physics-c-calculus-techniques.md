@@ -9,7 +9,7 @@ excerpt: "AP Physics C calculus techniques link each scenario to its derivative 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2008-01-02
+last_updated: 2026-11-08
 lang: en
 ---
 Every AP Physics C problem begins twice. The first beginning is the physics: a force law, a field, a circuit rule, a conservation statement. The second beginning is the calculus: the derivative or integral that the physics quietly demands before any number can appear. Students who struggle in this course usually lose the second beginning rather than the first. They know that force causes acceleration, yet they freeze when a spring force depends on position, when a drag force depends on velocity, when a rod carries more mass near one end than the other. The exam is built to find that freeze. AP Physics C calculus techniques, treated as a single trainable skill, are the answer to it: a finite, recognizable set of setups that recur across both examinations, Mechanics and Electricity and Magnetism, wearing different costumes each time.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet repeatedly imagines death as a bridegroom claiming Ju
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-05-30
+last_updated: 2026-11-08
 lang: en
 ---
 Death enters this play as a bridegroom long before anyone dies, and the image that names him is the most disciplined piece of engineering in the tragedy. Romeo and Juliet does not scatter its marriage-and-mortality fusion across decorative metaphors. It builds a system: a sequence of passages, distributed across every act and across six speakers, in which Death, the grave, or the tomb is given a spouse's or a lover's grammatical role toward Juliet, and in which each new speaker inherits the figure from an earlier one and hardens it. Juliet assigns the role in a conditional vow at the feast. Her mother repeats it as a curse. The Friar schedules it as a timetable. Her father signs it as a property settlement over her apparently dead body. Paris performs its rite in ignorance at the tomb. Romeo finally meets the figure face to face and answers it with a counter-contract of his own. The verdict argued throughout this article is that the bridegroom system is the play's master image because it is the marriage plot's own language completing itself: in a city where a daughter is transferred between households by contract, where a wedding is an instrument for settling a feud and securing an heir, Death is the one bridegroom who can satisfy every term of the bargain at once, and the feud's economics, not any private morbidity in the lovers, is what prices the match.

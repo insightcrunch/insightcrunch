@@ -9,7 +9,7 @@ excerpt: "AP Environmental Science tests whether students can connect ecosystems
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 88
 author: "simon-hartley"
-last_updated: 2008-02-16
+last_updated: 2026-11-08
 lang: en
 ---
 AP Environmental Science carries a reputation it did not earn and a difficulty it does not advertise. Students walk in expecting the gentle AP science, the one guidance counselors describe as a friendly elective, and they meet an exam that asks them to compute an energy budget, read a population graph, reason through a pollution case, and defend a policy remedy in writing, all in a single morning. The students who score well are rarely the ones who memorized the longest vocabulary list. They are the ones who understood early that this subject is a single connected system wearing nine unit labels, and who studied the connections as seriously as the content.

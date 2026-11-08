@@ -9,7 +9,7 @@ excerpt: "AP score sending turns finished exams into college value when the free
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 86
 author: "michael-brooks"
-last_updated: 2008-09-15
+last_updated: 2026-11-08
 lang: en
 ---
 Every May, millions of AP exams are written, graded, and converted into numbers on a 1 to 5 scale. Then, for a surprisingly large share of students, the record simply stops moving. The scores sit inside an account while applications are assembled, deadlines pass, and enrollment deposits are paid, because nobody in the family treated the act of sending as a decision with its own timing, its own costs, and its own strategy. A score that never reaches a college earns no credit, supports no placement request, and strengthens no application. The exam created the value. Sending is what delivers it.

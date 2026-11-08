@@ -9,7 +9,7 @@ excerpt: "Whether the ending of Romeo and Juliet is hopeful, with the feud ended
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2031-03-28
+last_updated: 2026-11-08
 lang: en
 ---
 The ending of Romeo and Juliet is hopeful or hopeless depending on whose account the question settles, and the play has already separated the accounts. For Verona, the ending is the only morning in the tragedy without a drawn sword: the feud that opened the play with a street brawl closes it with a handshake, an exchanged vow, and a ruler who confesses his own share in the damage. For the lovers, the ending offers nothing at all: no rescue, no reunion beyond the tomb, no word spoken to them or for them that they can hear. This article argues a graded verdict. The hope is real, and it belongs entirely to the city that survived; the hopelessness is also real, and it belongs entirely to the two young people who did not. Any reading that merges the two accounts, whether into a warm redemption or into an unrelieved despair, has stopped listening to a final scene that keeps them apart with unusual discipline.

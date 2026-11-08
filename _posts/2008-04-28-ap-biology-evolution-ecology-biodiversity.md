@@ -9,7 +9,7 @@ excerpt: "AP Biology evolution and ecology questions reward connected thinking: 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 87
 author: "samantha-lee"
-last_updated: 2008-04-28
+last_updated: 2026-11-08
 lang: en
 ---
 Evolution and ecology occupy a strange and profitable position on the AP Biology exam. Together they span the final two units of the course framework, natural selection and ecology, and together they account for roughly a quarter of the multiple-choice questions and a recurring share of the free-response section, including the long question that asks students to design or interpret an investigation. Yet many students prepare for these units the way they prepare for a vocabulary quiz, memorizing definitions of succession, symbiosis, and speciation as if each term lived alone. The exam disagrees with that approach at every turn. Its questions chain the ideas together: an allele frequency changes, a population splits, a community reorganizes, an ecosystem leaks energy at every transfer, and the student is asked to reason across the whole chain. AP Biology evolution and ecology content is therefore not a set of facts to be stored but a system to be operated, and the students who operate it well pick up points that memorizers leave behind.

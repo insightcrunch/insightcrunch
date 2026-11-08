@@ -9,7 +9,7 @@ excerpt: "Learn how to get a 5 on AP Statistics with a dated study plan, weekly 
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2008-06-12
+last_updated: 2026-11-08
 lang: en
 ---
 The distance between a typical AP Statistics student and a 5 is smaller than the distance in almost any other AP subject, and it is measured in a strange currency. Students imagine the gap is computational: faster calculator work, more formulas memorized, quicker arithmetic. Walk through a stack of scored free-response booklets and a different gap appears. The 4 and the 5 often run the same procedure, choose the same test, and reach the same number. Where they part company is the sentence around the number. One answer says the result is significant and stops. The other names the hypotheses in context, checks the conditions before touching the formula, interprets the p-value as a statement about the data under a stated assumption, and lands a closing claim tied to the question that was actually asked. Learning how to get a 5 on AP Statistics is mostly learning to write that second answer until it becomes reflex, and this playbook is built around that single fact.

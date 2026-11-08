@@ -9,7 +9,7 @@ excerpt: "AP Computer Science A's array and recursion questions repeat a small f
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 87
 author: "simon-hartley"
-last_updated: 2008-05-16
+last_updated: 2026-11-08
 lang: en
 ---
 Four of the ten units in AP Computer Science A orbit a single skill: storing a collection of values and then doing something reliable with every one of them. Arrays hold the collection in fixed slots. ArrayLists hold it in a structure that grows and shrinks. Two-dimensional arrays arrange it in a grid. Recursion attacks it one shrinking piece at a time. Students tend to study these as four separate topics and meet the exam surprised by how often a single question blends them, asking for a recursive helper over a list, or a nested traversal that fills a grid, or a free-response part that removes elements while it counts them. The blend is the point. Whoever owns the underlying patterns owns all four units at once, because the patterns are few, they repeat without disguise, and the exam rewards executing them cleanly far more than it rewards inventing anything.

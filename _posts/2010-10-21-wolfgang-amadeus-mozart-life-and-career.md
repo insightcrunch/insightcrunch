@@ -9,7 +9,7 @@ excerpt: "Mozart life and career told from the documents, from the touring child
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 89
 author: "rachel-foster"
-last_updated: 2010-10-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## A father who kept the receipts

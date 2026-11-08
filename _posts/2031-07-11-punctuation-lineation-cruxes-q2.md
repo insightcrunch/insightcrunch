@@ -9,7 +9,7 @@ excerpt: "The Q2 Romeo and Juliet is full of punctuation and lineation cruxes, s
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-07-11
+last_updated: 2026-11-08
 lang: en
 ---
 The punctuation and lineation of the second quarto of Romeo and Juliet, the 1599 volume printed by Thomas Creede for Cuthbert Burby, are the least visible and most consequential layer of the play's text. Every reader who has ever met the lovers has met them through marks that the quarto's compositors set and that four centuries of editors have silently replaced: commas where the modern page prints exclamation points, colons where the modern page prints full stops, verse dissolved into prose in the middle of the play's most famous speech, prose dressed up as verse in a host's welcome, parentheses opened and never closed, a question mark standing where a command should end. The words of the play descend from that quarto with high fidelity. The marks arrive filtered, translated, and in places invented, and because a mark can decide how a line is breathed, parsed, and understood, the filter is not a cosmetic layer. It is a second authorship, exercised in the printing house first and in the editor's study ever since.

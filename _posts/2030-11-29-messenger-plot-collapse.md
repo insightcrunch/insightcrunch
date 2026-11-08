@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet turns on a messenger plot that collapses, as the wron
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2030-11-29
+last_updated: 2026-11-08
 lang: en
 ---
 Romeo and Juliet is usually described as a tragedy of fate, of haste, or of the feud. Read by its traffic rather than by its themes, it is a tragedy of information: a play in which almost every event of consequence travels from one character to another along a channel, and in which the channels fail in the same way, in scene after scene, until the failure costs two lives. The feud supplies the hatred, the potion supplies the deadline, and the stars supply the vocabulary, but the mechanism that actually kills the lovers is a communications system. Verona has no public post, no neutral carrier, and no habit of confirmation. Every household keeps its own servants, every secret keeps its own courier, and every message of weight rides on a single pair of legs, uncopied and unacknowledged. When the catastrophe comes, it does not come as a bolt from the heavens. It comes as the predictable output of that system, run once too often under a deadline.

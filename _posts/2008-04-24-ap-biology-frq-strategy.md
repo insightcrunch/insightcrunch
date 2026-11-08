@@ -9,7 +9,7 @@ excerpt: "This AP Biology free response guide maps the long and short questions,
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 87
 author: "christopher-wells"
-last_updated: 2008-04-24
+last_updated: 2026-11-08
 lang: en
 ---
 The most expensive habit in AP Biology free response is also the most common one: a student who knows a great deal writes a great deal, filling the answer space with accurate biology that the scoring guideline never asked for, while the specific claims the guideline does reward sit buried in the middle of the third paragraph or never appear at all. Readers score against a point structure, not against effort, and they search each answer for named elements: a variable identified, a trend described, a mechanism stated, a conclusion tied to evidence. An answer can be scientifically rich and still score poorly when those elements are hard to find, loosely connected, or mixed with claims the question never raised. The students who capture the most points treat every part of every question as a small contract. The prompt names a task, the answer performs that task in precise scientific language, and the justification links the claim back to the data or the mechanism that supports it.

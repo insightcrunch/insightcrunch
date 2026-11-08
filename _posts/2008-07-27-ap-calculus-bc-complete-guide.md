@@ -9,7 +9,7 @@ excerpt: "AP Calculus BC extends the AB course with series, parametric, polar, a
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 86
 author: "jessica-kim"
-last_updated: 2008-07-27
+last_updated: 2026-11-08
 lang: en
 ---
 AP Calculus BC is the fullest version of high school calculus the AP program offers, and it asks a distinctive bargain of the students who choose it. Everything in AP Calculus AB is present: limits, derivatives, integrals, differential equations, and the applications that tie them together. Layered on top of that foundation sits a second stratum of material that AB never touches, including infinite series, parametric equations, polar coordinates, and vector-valued functions. A BC student therefore prepares for an exam that is wider than AB rather than deeper in any single shared topic, and that single fact shapes everything about how the course should be studied, paced, and judged. This guide maps the whole territory: the format, the scoring, the subscore that makes BC reporting unique, the content split between shared and BC-only topics, and the preparation strategy that treats the extension material as the high-leverage zone it genuinely is.

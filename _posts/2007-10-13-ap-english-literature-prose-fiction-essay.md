@@ -9,7 +9,7 @@ excerpt: "The prose fiction essay in AP English Literature rewards writers who a
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2007-10-13
+last_updated: 2026-11-08
 lang: en
 ---
 A passage of prose fiction lands in front of a student during the second section of the AP English Literature exam, and the clock offers roughly forty minutes to do something difficult with it. The excerpt might come from a nineteenth-century novel, a modern short story, or a work whose author the student has never encountered. Names, settings, and historical periods vary from year to year, yet the underlying task stays remarkably stable. Read the passage closely, form an interpretation of what it is doing, and defend that interpretation by showing how the writer built the effect. That three-part movement, from reading to interpretation to technical evidence, is the whole assignment. Everything else in this guide exists to make those forty minutes feel rehearsed rather than improvised.

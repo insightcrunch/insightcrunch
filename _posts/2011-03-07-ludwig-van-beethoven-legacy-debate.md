@@ -9,7 +9,7 @@ excerpt: "The Beethoven heroic narrative debate weighs the heroic story, the dea
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
 author: "chloe-martin"
-last_updated: 2011-03-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## What remains after the familiar portrait is removed

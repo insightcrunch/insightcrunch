@@ -9,7 +9,7 @@ excerpt: "An AP exam study plan built on exam weight, spaced practice, and timed
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 86
 author: "daniel-morgan"
-last_updated: 2008-09-19
+last_updated: 2026-11-08
 lang: en
 ---
 Two students can log the same total hours of AP review and walk into the same May examination room with entirely different scores, and the difference is rarely intelligence or effort. An AP exam study plan is the thing that separates them. One student studied in the order the textbook presented the material, reread chapters that felt comfortable, and discovered the shape of the timed exam during the final frantic week. The other student sequenced review by exam weight, returned to hard material on a spacing rhythm, sat full-length timed tests early enough for the results to change the schedule, and arrived knowing the exam as a format as well as a subject. Same hours. Different architecture. The score gap between those two students is the subject of this article, because a schedule is not administrative decoration around studying. A schedule is the strategy itself, made visible on a calendar.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet and Antony and Cleopatra are Shakespeare's two great 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-02-21
+last_updated: 2026-11-08
 lang: en
 ---
 Shakespeare wrote the love tragedy twice, once near the start of his tragic career and once near its summit, and the two attempts stand at opposite poles of the form. *Romeo and Juliet*, composed in the middle of the 1590s, gives the form to a pair of teenagers in a single Italian city, kills them inside a week, and lets a feud neither lover made supply the pressure that crushes them. *Antony and Cleopatra*, composed a decade later in 1606 or 1607, gives the form to a Roman triumvir and an Egyptian queen, stretches their entanglement across ten years of Mediterranean history, and lets the government of the world supply the pressure. Both plays end in a double suicide inside a monument. Almost nothing else about the endings is the same, and the distance between those two endings is the distance the playwright travelled as a tragedian.

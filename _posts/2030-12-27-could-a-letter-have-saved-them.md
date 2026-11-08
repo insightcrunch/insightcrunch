@@ -9,7 +9,7 @@ excerpt: "The tragedy of Romeo and Juliet hinges on near misses, and asking whet
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2030-12-27
+last_updated: 2026-11-08
 lang: en
 ---
 A single letter carries the ending of Romeo and Juliet, and the letter never arrives. That much is famous. What the fame skips is the audit: the letter was one component in a rescue machine with a dozen moving parts, and the machine's failure can be taken apart joint by joint, priced joint by joint, and graded joint by joint. When the audit is done honestly, with every proposed rescue forced to name its smallest change and trace its consequences through the machinery the play itself specifies, the famous question changes shape. The answer is not that a letter would have saved them, and it is not that nothing could have. The answer is that the rescue was fragile where it was cheap and impregnable where it was dear: in Acts 4 and early 5, three separate repairs, each costing almost nothing, would each have saved both lovers; by the time the action reaches the tomb, no single change of any price can save them, because the catastrophe there is overdetermined. The tragedy is not a fate grinding toward its mark. It is a chain that could have been repaired at several links and was repaired at none.

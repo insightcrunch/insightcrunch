@@ -9,7 +9,7 @@ excerpt: "Mozart greatest works refuse a single summit: the operas, late symphon
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 87
 author: "amanda-ross"
-last_updated: 2010-11-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## An Unfinished Mass and Two Hands

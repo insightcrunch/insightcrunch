@@ -9,7 +9,7 @@ excerpt: "AP exam registration rewards fall action: order inside the window, cla
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 86
 author: "patrick-dunn"
-last_updated: 2008-09-28
+last_updated: 2026-11-08
 lang: en
 ---
 Every spring, a small number of students discover that the AP exam they spent a year preparing for was never ordered, or was ordered for the wrong subject, or carries a late charge that nobody in the family knew existed. The academic work was done. The failure was administrative, and it happened months earlier, in the fall, at the one moment when a signature, a form, or a payment would have settled everything. Registration is the least glamorous part of the AP program and the only part where a paperwork lapse can erase a year of study in a single stroke. That asymmetry is why registration deserves the same strategic attention families give to course selection and test preparation.

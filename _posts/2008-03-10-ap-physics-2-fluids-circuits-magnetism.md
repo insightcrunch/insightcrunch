@@ -9,7 +9,7 @@ excerpt: "AP Physics 2 fluids, circuits, and magnetism organized by governing pr
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2008-03-10
+last_updated: 2026-11-08
 lang: en
 ---
 AP Physics 2 rewards a particular kind of thinker. The course ranges across fluids, thermodynamics, electricity, magnetism, optics, and the physics of atoms and nuclei, and that breadth tempts students into memorizing a separate trick for every problem they meet. Strong candidates work differently. Each area of the course rests on one governing relationship, sometimes two, and nearly every exam question is that relationship wearing a disguise. Pressure in a static fluid answers to density, gravity, and depth. A direct current circuit answers to charge conservation and energy conservation expressed through two loop and junction rules. A lens answers to a single equation whose signs carry the geometry. Organizing study around those principles, rather than around problem types, converts six intimidating topics into six manageable arguments, and it is the organizing idea behind the InsightCrunch Physics 2 principle table presented in this article.

@@ -9,7 +9,7 @@ excerpt: "Louis Armstrong musical style explained through the solo built from a 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 93
 author: "amanda-ross"
-last_updated: 2011-09-07
+last_updated: 2026-11-08
 lang: en
 ---
 A trumpet begins alone. No drums mark a tempo, no piano lays down chords, and there is no count-in to lean on. The player lifts the tune clear of the beat entirely, runs it up and down in one unmeasured flourish, and only then does the band arrive beneath him, exactly where he has decided the music starts. Everything later called the Louis Armstrong musical style is present in that gesture: a melody treated as raw material rather than a text, a beat treated as something to play against rather than obey, and a single voice claiming the right to be the whole event.

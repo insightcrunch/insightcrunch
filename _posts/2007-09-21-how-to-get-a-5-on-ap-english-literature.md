@@ -9,7 +9,7 @@ excerpt: "AP English Literature rewards depth over breadth: a few works known co
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-09-21
+last_updated: 2026-11-08
 lang: en
 ---
 A 5 on AP English Literature is not a prize for the student who has read the most books. It is a prize for the student who reads a poem or a passage once, under time pressure, and sees how it works: how a shift in diction bends the tone, how an image pattern quietly builds an argument, how a narrator's unreliability turns a simple scene into a question about truth. That skill has a name, close reading, and it can be trained the way any performance skill is trained, through deliberate repetition against real prompts, honest scoring, and a plan with dates on it. The pages that follow build that plan. They lay out a dated calendar, name the mistakes that quietly cap strong readers at a 3 or a 4, and show how a modest shelf of deeply known works outperforms a long list of skimmed titles on every section of the exam.

@@ -9,7 +9,7 @@ excerpt: "Does Romeo and Juliet celebrate its lovers as ideal or quietly critiqu
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2031-04-11
+last_updated: 2026-11-08
 lang: en
 ---
 ## Endorse or Critique? The Verdict in Advance

@@ -9,7 +9,7 @@ excerpt: "AP credit policies decide whether a strong AP score becomes tuition sa
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
 author: "katherine-blake"
-last_updated: 2008-10-07
+last_updated: 2026-11-08
 lang: en
 ---
 A family can spend two years building an AP record, celebrate a row of strong scores in July, and then discover in the first advising meeting of freshman year that the record buys far less than anyone assumed. Nothing was misreported. Nobody failed. The scores were real, the effort was real, and the disappointment is still real, because AP credit policies are written college by college, department by department, and score by score, and the gap between what a family imagines a score is worth and what a registrar actually grants can be measured in thousands of dollars and a full semester of repeated coursework. That gap is the subject of this article, and closing it is a matter of reading policies the way a strategist reads them: before the exams are chosen, before the scores are chased, and before a college list hardens into an application list.

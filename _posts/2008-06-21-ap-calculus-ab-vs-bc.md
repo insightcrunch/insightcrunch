@@ -9,7 +9,7 @@ excerpt: "AP Calculus AB vs BC is a choice about scope, pace, and credit: AB cov
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 87
 author: "christopher-wells"
-last_updated: 2008-06-21
+last_updated: 2026-11-08
 lang: en
 ---
 The AP Calculus AB vs BC decision is the one fork in the AP mathematics sequence where a student chooses between two credentials rather than between a course and nothing. Both end in a May examination, both are scored on the same 1 to 5 scale, and both can convert into college credit. Yet they are not the same year of school. One is a full, self-contained treatment of a semester of college calculus taught at a pace a strong class can absorb while still practicing. The other compresses that same semester, adds a second semester of material, and moves at a tempo that punishes hesitation. Students who choose on prestige alone discover the difference in November, when the BC class is already deep into integration techniques the AB class will not meet until winter.

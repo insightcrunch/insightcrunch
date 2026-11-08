@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet and Hamlet both turn on young people and untimely dea
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2031-03-14
+last_updated: 2026-11-08
 lang: en
 ---
 Two tragedies by the same hand, written within about five years of each other, kill their young people by opposite clocks. In Verona a boy meets a girl on a Sunday, marries her on Monday, kills her cousin on Monday afternoon, and is dead beside her body before the week is out, the whole action crushed into a span of days. In Elsinore a prince receives an exact account of his father's murder in the opening movement of the play and then does not perform the revenge that account demands until the final scene, by which point the court is a field of corpses and the avenger is dying of the same poison that has done his work for him. The first play is the fastest tragedy Shakespeare wrote. The second is the slowest. Set side by side, they look like a controlled experiment: one variable, the tempo of the hero, run at maximum and then at minimum, with the outcome held constant. The outcome is the point. Slowness saves nobody in Denmark. Haste, by itself, explains less in Verona than the proverb built on the play assumes. What the pairing finally exposes is a deeper shared engine, and the verdict of this article can be stated before the evidence is walked through: the two plays are one experiment conducted at two speeds, and the variable that kills in both is not the speed but the report, the message about the dead that reaches the young too damaged, too doubted, or too late to act on safely.

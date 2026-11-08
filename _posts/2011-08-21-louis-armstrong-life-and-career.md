@@ -9,7 +9,7 @@ excerpt: "Louis Armstrong life and career, from the waifs home cornet to the Hot
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 109
 author: "amanda-ross"
-last_updated: 2011-08-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## A Birth Date He Kept All His Life

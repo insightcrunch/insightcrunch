@@ -9,7 +9,7 @@ excerpt: "Chopin influence on music ran through harmony and pianists' hands, rea
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 105
 author: "chloe-martin"
-last_updated: 2011-05-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A reversal across fifty years

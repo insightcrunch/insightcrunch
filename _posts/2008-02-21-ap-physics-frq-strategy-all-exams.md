@@ -9,7 +9,7 @@ excerpt: "AP Physics free response strategy across all four exams: the design, d
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 88
 author: "patrick-dunn"
-last_updated: 2008-02-21
+last_updated: 2026-11-08
 lang: en
 ---
 The costliest habit in AP Physics free response is a page that looks busy and scores thin. A candidate fills the answer space with correct equations, one stacked on the next, arrives at a final number that happens to be right, and still leaves a third of the available points unclaimed because the scoring guideline was paying for things the page never contained: a stated principle, a labeled diagram, a sentence explaining why a quantity is conserved, a unit attached to the result, a procedure another student could repeat. Readers grade against a point structure, not against effort or against the elegance of the algebra. Each part of each question names a handful of earnable elements, and the reader searches the answer for those elements in order. Work that cannot be found cannot be paid for, and reasoning that lives only in the candidate's head is indistinguishable from reasoning that never happened.

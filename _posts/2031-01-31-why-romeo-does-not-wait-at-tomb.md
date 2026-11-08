@@ -9,7 +9,7 @@ excerpt: "Romeo reaches the tomb, believes Juliet dead, and takes the poison at 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-01-31
+last_updated: 2026-11-08
 lang: en
 ---
 Romeo stands in the Capel monument with a cup of poison in his hand, a living woman breathing in front of him, and rescue less than half an hour behind him on the road, and he does not wait. The question sounds like an accusation, and generations of readers have levelled it as one: why did he not pause, not watch her face a little longer, not give the night one more minute in which something might change? The accusation assumes that the tomb is where the decision happened, that a man arrived undecided at a grave and chose death in a rush, on the spot, the way he had chosen everything else in the play's five frantic days. Restoring the sequence of Act 5 dissolves that assumption. Romeo does not wait at the tomb because nothing at the tomb is presented to him as a decision. The decision was taken in Mantua, inside a dozen lines of Balthasar's report, and it was taken in the forms that make decisions irreversible: a vow spoken aloud, a means purchased, a letter of explanation written and entrusted to a courier. Everything that follows, the ride, the churchyard, the farewell, is execution.

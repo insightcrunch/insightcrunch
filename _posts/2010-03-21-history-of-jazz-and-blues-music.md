@@ -9,7 +9,7 @@ excerpt: "The history of jazz and blues traces one shared question across a cent
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 86
 author: "diana-patel"
-last_updated: 2010-03-21
+last_updated: 2026-11-08
 lang: en
 ---
 A man sat on the platform at Tutwiler, Mississippi, in 1903, waiting for a train that was hours late, and beside him another traveller took out a guitar, pressed a knife blade against the strings, and slid the metal along the neck while singing about where the railroad crossed a highway of dirt. The waiting man was W. C. Handy, a trained bandleader who later wrote the encounter into his autobiography, and the sound he heard that night, a voice and a string bending together around three plain chords, became the seed of his composing career and one of the few dated scenes in the early history of jazz and blues. The history of jazz and blues is the story of what happened to that sound once it entered dance halls, theatres, studios and concert rooms, and the two forms are best understood as two halves of one answer to a single question: how does music built on individual improvisation stay collectively coherent? Every development traced in the pages that follow, from the twelve-bar chorus to the free collective playing of the 1960s, is a renegotiation of that balance between a solo voice and the group that holds it.

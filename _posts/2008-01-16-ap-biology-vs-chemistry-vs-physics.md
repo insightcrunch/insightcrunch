@@ -9,7 +9,7 @@ excerpt: "AP Biology vs Chemistry vs Physics compares the core AP sciences on ma
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 88
 author: "michael-brooks"
-last_updated: 2008-01-16
+last_updated: 2026-11-08
 lang: en
 ---
 ## Three sciences, one schedule slot

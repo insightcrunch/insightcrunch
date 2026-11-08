@@ -9,7 +9,7 @@ excerpt: "AP Scholar awards are automatic honors earned with strong AP scores, a
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 86
 author: "jessica-kim"
-last_updated: 2008-09-01
+last_updated: 2026-11-08
 lang: en
 ---
 Every year, students who have never heard the phrase AP Scholar open their score accounts in the summer and discover that a designation has appeared on their record, awarded without an application, an essay, a nomination, or a fee. AP Scholar awards are the College Board's formal recognition layer for the AP program: a set of honors granted automatically when a student's combined exam record crosses defined thresholds of breadth and quality. They cost nothing to enter, they require no campaigning, and they arrive as a byproduct of work the student was already doing for credit and admissions. Yet around these modest honors a small mythology has grown. Families speak of them as if they were scholarships. Students speak of them as if admissions offices kept a separate pile for applications carrying the title. Counselors field questions about whether one more exam, taken for no other reason, might purchase the next tier up the ladder.

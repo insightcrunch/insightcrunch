@@ -9,7 +9,7 @@ excerpt: "Tchaikovsky musical style explained through long-breathed melody, orch
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 106
 author: "chloe-martin"
-last_updated: 2011-06-21
+last_updated: 2026-11-08
 lang: en
 ---
 Play the love theme from Romeo and Juliet in your head, or better, put on a recording and listen to what the melody actually does. It does not grope its way forward. It rises in a long arch, gathers warmth as it climbs, leans on its highest notes as though they were the whole point of the journey, and then subsides in a descent that feels as inevitable as the rise. By the time it ends, some forty seconds after it began, it has had a beginning, a climax and a close, and it has left nothing obviously unfinished. It is a complete utterance. And that completeness, which is the first thing any listener notices about Tchaikovsky musical style, is also a serious technical problem, because a symphony is not forty seconds long. A composer who thinks in melodies like this one has started every movement with material that behaves as though the piece were already over.

@@ -9,7 +9,7 @@ excerpt: "AP Statistics free response rewards stated conditions, visible mechani
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2008-05-25
+last_updated: 2026-11-08
 lang: en
 ---
 AP Statistics free response is where strong calculators go to lose points they already earned in their heads. A student can run a flawless test on the machine, know the right interval cold, and still watch the score stall, because the section does not pay for private correctness. It pays for a written record: conditions named and checked, mechanics shown in the open, numbers tied to the actual variables in the story, and a conclusion sentence that says what the evidence means for the people or objects the question described. Computation is the entry fee. Communication is the score.

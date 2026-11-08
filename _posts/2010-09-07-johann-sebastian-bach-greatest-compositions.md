@@ -9,7 +9,7 @@ excerpt: "Bach greatest works range from cantatas written against a weekly deadl
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 86
 author: "rachel-foster"
-last_updated: 2010-09-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## An unfinished page and the question it leaves

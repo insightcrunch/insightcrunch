@@ -9,7 +9,7 @@ excerpt: "AP Art History asks students to analyze 250 required works from every 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 88
 author: "patrick-dunn"
-last_updated: 2007-07-20
+last_updated: 2026-11-08
 lang: en
 ---
 Every AP course has a center of gravity, and AP Art History has the most visible one in the entire program: a required image set of 250 works of art and architecture, drawn from every inhabited continent and from roughly thirty thousand years of human making. A student who finishes the course can walk from a Paleolithic cave wall to a contemporary installation without leaving the syllabus, and can explain not only what each work looks like but who made it, who paid for it, what it was for, and what its makers believed about the world. That double demand, recognition joined to interpretation, defines the exam and shapes everything about how the course should be studied. This guide builds the full model: the ten content areas that organize the 250 works, the regions and periods inside them, the two exam sections and the six free-response tasks, the scoring logic that converts performance into a 1 to 5, and a study path that treats context as the primary memory tool. Readers who want the wider program picture first can start with [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) and return here for the subject itself.

@@ -9,7 +9,7 @@ excerpt: "AP Human Geography explained in full: seven units, core models, questi
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 88
 author: "daniel-morgan"
-last_updated: 2007-07-11
+last_updated: 2026-11-08
 lang: en
 ---
 Some courses ask students to memorize a body of facts, and AP Human Geography only pretends to be one of them. The vocabulary list looks long, the atlas pages look dense, and the first week of class can feel like a spelling contest built around words like agglomeration and acculturation. Underneath that surface sits a different subject entirely, one concerned with patterns on the surface of the Earth and the processes that produced them. A rice terrace, a suburban cul-de-sac, a language boundary, a refugee corridor, a factory cluster: each is treated as evidence, and the student's job is to read that evidence the way a geographer would, asking where things are, why they are there, and what follows from that arrangement.

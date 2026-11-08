@@ -9,7 +9,7 @@ excerpt: "Frederic Chopin life and career: a Warsaw childhood, a departure never
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 94
 author: "amanda-ross"
-last_updated: 2011-03-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## Thirty public appearances in a whole career

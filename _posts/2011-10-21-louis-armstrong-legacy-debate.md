@@ -9,7 +9,7 @@ excerpt: "Was Louis Armstrong an Uncle Tom? The accommodation charge, the eviden
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 98
 author: "simon-hartley"
-last_updated: 2011-10-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## Two facts that have to be held together

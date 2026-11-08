@@ -9,7 +9,7 @@ excerpt: "AP World History Units 5 to 9 trace revolutions, industrialization, em
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 88
 author: "daniel-morgan"
-last_updated: 2007-08-11
+last_updated: 2026-11-08
 lang: en
 ---
 Somewhere between the first steam engine and the first container ship, the world students meet in the early units of this course turns into the world they actually inhabit. Units 5 through 9 of AP World History carry that transformation. They begin around 1750, when revolutionary ideas and coal-fired industry start rearranging political authority and economic life at the same moment, and they run through two centuries of empire, global war, ideological contest, decolonization, and accelerating connection, ending in a present shaped by all of it. Students often approach these five units as a pile of famous events, a parade of revolutions, wars, and treaties to be memorized in sequence. Graders reward something different. They reward the student who can show how a development in one region altered conditions in another, how an institution persisted while everything around it changed, and how causes that look purely political turn out to be economic at the root. This deep dive treats Units 5 to 9 as one connected argument about change over time, because that is how the exam treats them.

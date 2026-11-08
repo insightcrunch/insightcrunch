@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet shifts between verse and prose by character and momen
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2031-05-02
+last_updated: 2026-11-08
 lang: en
 ---
 The first sound in Romeo and Juliet is not a sonnet but a pun told by two servants in prose, and the last sound is a prince closing the tragedy in measured verse. Between those poles the play runs a second plot written in register: prose and verse are dealt out to speakers like costumes, and the dealing follows a logic a careful map can recover. The verdict of this article is that the allocation is neither random nor a simple badge of rank. Rank sets each speaker's home register, but situation governs the crossings: comedy, errands, commerce, and the body's memory pull speech down into prose, while desire, law, ritual, and death hold it in verse, and the handful of characters who cross the boundary do so at the moments where their dramatic function changes. The cliché hears one poetic voice pouring over the whole cast. The record shows a playwright running two instruments at once and choosing, scene by scene, which one a given mouth should play.

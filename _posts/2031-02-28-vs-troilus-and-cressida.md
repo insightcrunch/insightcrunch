@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet idealizes young love, while Troilus and Cressida sour
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 69
 author: "amanda-ross"
-last_updated: 2031-02-28
+last_updated: 2026-11-08
 lang: en
 ---
 Set the two plays side by side and a familiar story tells itself: a young playwright idealizes love in Romeo and Juliet, and the same playwright, some seven years older, sours on the whole subject in Troilus and Cressida, replacing the sonnet with the sneer and the tomb with a bawd's diseased farewell. The story is neat, quotable, and wrong in the way that matters. Troilus and Cressida does not refute Romeo and Juliet. It audits its predecessor, taking one element that the Verona play contains, isolates, and criticizes from inside, the Petrarchan posture of the lover who prefers longing to knowledge, and building an entire world in which that posture can never be outgrown, because the world runs on price. In Verona, a boy performs Petrarch for an absent girl, is mocked for the performance by his best friend, and is cured of it in a single evening by a girl who answers back. In Troy, a prince performs the same idiom before a whole civilization of appraisers, and nothing in his world ever answers back with anything except a valuation. The difference between the plays is not that one believes in love and the other has stopped believing. The difference is what each world permits love to become when it is tested.

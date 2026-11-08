@@ -9,7 +9,7 @@ excerpt: "Music and politics history reveals how song assembles crowds, carries 
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 98
 author: "amanda-ross"
-last_updated: 2010-07-21
+last_updated: 2026-11-08
 lang: en
 ---
 In September 1973, in a stadium in Santiago that had been converted into a detention centre, guards recognised a singer among the prisoners because fellow detainees had been singing his repertoire in the cells, passing verses from bunk to bunk in the dark without paper, instruments or rehearsal. That single documented scene contains the whole argument of music and politics history in miniature. A repertoire learned by ear had crossed a prison wall that printed leaflets could not cross, it had assembled frightened strangers into something resembling a public, and it had done so in a form that its captors could hear without being able to confiscate. The thesis defended across the sections that follow is plain. Musical sound gains political force less from the propositions its words state than from two older capacities: it gathers bodies into one place and one tempo, and it lodges in memory among people who may never read a pamphlet. States grasped both capacities early, which is why governments across centuries spent comparable energy paying for performance and forbidding it.

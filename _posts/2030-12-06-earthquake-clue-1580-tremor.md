@@ -9,7 +9,7 @@ excerpt: "The Nurse recalls an earthquake eleven years before the action, one br
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2030-12-06
+last_updated: 2026-11-08
 lang: en
 ---
 The earthquake clue is the most quoted dating argument in the whole Romeo and Juliet literature, and it rests on a single sentence spoken by a comic servant about a baby's weaning. In Act 1, Scene 3, the Nurse, boasting that she can tell Juliet's age to the hour, anchors her memory to a disaster: "'Tis since the earthquake now eleven years" (1.3). From that sentence an entire chronology has been built. England's great tremor of the period struck on 6 April 1580. Eleven years after 1580 is 1591. Therefore, the argument runs, the play was written in 1591, and the Nurse has accidentally preserved the date of the tragedy inside a joke about wormwood and a dove-house. The sum is neat, the line is genuine, and the earthquake is real. The conclusion does not follow, and the burden of the pages that follow is to show exactly where it breaks, because the clue deserves better than either blind faith or casual dismissal.

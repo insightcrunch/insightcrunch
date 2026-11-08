@@ -9,7 +9,7 @@ excerpt: "Tchaikovsky greatest works run from the three ballets to the last symp
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 89
 author: "diana-patel"
-last_updated: 2011-07-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A posthumous version that became the original

@@ -9,7 +9,7 @@ excerpt: "At the close of Romeo and Juliet the fathers vow gold statues of the d
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2031-04-04
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Statues of Gold: Ten Lines That Settle and Unsettle the Ending

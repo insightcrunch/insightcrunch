@@ -9,7 +9,7 @@ excerpt: "AP European History runs from Renaissance courts to a united Europe, a
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 88
 author: "christopher-wells"
-last_updated: 2007-08-02
+last_updated: 2026-11-08
 lang: en
 ---
 Five and a half centuries separate a Medici banker counting florins in Florence from a commuter tapping a transit card in Berlin, and AP European History asks students to hold that entire span in one mind at once. The course begins around 1450, with printing presses spreading across the continent, Ottoman armies pressing against its eastern edges, and Atlantic voyages about to redraw every map in Europe. It ends in the present era, with a union of European states sharing a currency, open borders, and arguments about what Europe means. Between those poles lie the Reformation and the wars it ignited, the rise of absolute monarchs and the revolutions that answered them, factories that rebuilt society from the ground up, two world wars of industrial scale, a cold war that split the continent in two, and a long, uneven project of integration. A student who treats that span as a warehouse of facts will drown in it. A student who learns to trace themes across the centuries, watching how power, belief, money, and identity keep rearranging themselves, discovers that the course has a shape. This guide exists to hand over that shape whole: the periods and units, the themes and skills, the four question types, the scoring machinery, and a study path that builds thematic reasoning instead of rewarding recall alone.

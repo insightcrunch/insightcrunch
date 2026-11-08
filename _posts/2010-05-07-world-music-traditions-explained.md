@@ -9,7 +9,7 @@ excerpt: "World music traditions explained system by system: raga and tala, the 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 100
 author: "chloe-martin"
-last_updated: 2010-05-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## Where the term world music came from

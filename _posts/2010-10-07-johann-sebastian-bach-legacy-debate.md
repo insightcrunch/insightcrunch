@@ -9,7 +9,7 @@ excerpt: "Is Bach the greatest composer, or does that claim rest on one favored 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
 author: "diana-patel"
-last_updated: 2010-10-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## The verdict from inside his own family

@@ -9,7 +9,7 @@ excerpt: "AP Biology evolution questions reward one habit above all: tracing eac
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2007-12-06
+last_updated: 2026-11-08
 lang: en
 ---
 Evolution questions on the AP Biology exam look gentle from a distance. The vocabulary is familiar, the scenarios read like nature documentaries, and many students arrive with a comfortable story about finches and moths already in place. Then the questions start asking for numbers: an allele frequency after one generation of selection, the expected direction of change when a predator is removed, the reason a rare allele persists in a population that seems determined to eliminate it. At that moment the comfortable story stops paying. What pays instead is a mechanical habit, the ability to take any evolutionary mechanism, name what it does to the alleles in a population, and follow that effect to its conclusion. AP Biology evolution content is the most quantitative reasoning in the course disguised as natural history, and the students who treat it that way collect points that storytellers leave behind.

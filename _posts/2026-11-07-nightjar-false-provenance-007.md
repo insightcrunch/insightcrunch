@@ -9,7 +9,7 @@ excerpt: "A bound object with two centuries of papers is about to be sold throug
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 95
 author: "amanda-ross"
-last_updated: 2026-11-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Report She Wrote Around

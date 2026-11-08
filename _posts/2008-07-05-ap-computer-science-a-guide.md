@@ -9,7 +9,7 @@ excerpt: "AP Computer Science A rewards fluent handwritten Java, and this guide 
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 87
 author: "jessica-kim"
-last_updated: 2008-07-05
+last_updated: 2026-11-08
 lang: en
 ---
 AP Computer Science A holds a distinction no other exam in the program can claim: it tests a skill students practice on a machine, under conditions where no machine is present. All year, a compiler catches the missing semicolon, an editor flags the mismatched brace, and the run button delivers a verdict in a second. On exam day, every one of those safety nets disappears. The student sits with paper, a pencil, and three hours, and the only compiler available is the one built inside the student's own head. That single fact explains the score gap this guide exists to close. Students who understand the course but never train for its written medium lose points to syntax slips, untraceable logic, and half-remembered method signatures. Students who prepare for the exam as it actually exists, a handwriting test about Java as much as a programming test, convert the same knowledge into far stronger scores.

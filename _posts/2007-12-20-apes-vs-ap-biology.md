@@ -9,7 +9,7 @@ excerpt: "AP Environmental Science and AP Biology reward different strengths: sy
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 87
 author: "christopher-wells"
-last_updated: 2007-12-20
+last_updated: 2026-11-08
 lang: en
 ---
 ## Two Life Sciences, One Schedule Slot

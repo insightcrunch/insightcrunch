@@ -9,7 +9,7 @@ excerpt: "The Tchaikovsky overrated debate is three arguments in one: over his s
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 100
 author: "amanda-ross"
-last_updated: 2011-08-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A national emblem with a redacted biography

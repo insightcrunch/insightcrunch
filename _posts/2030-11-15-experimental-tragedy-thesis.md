@@ -9,7 +9,7 @@ excerpt: "One influential thesis holds that Romeo and Juliet is an experimental 
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2030-11-15
+last_updated: 2026-11-08
 lang: en
 ---
 The experimental tragedy thesis makes a large claim about a famous play: that *Romeo and Juliet* is not a tragedy that happens to contain comedy, but a deliberate trial of the tragic form itself, an attempt to discover whether the machinery of romantic comedy, young lovers, a scheming friar, a garrulous nurse, a masked ball, could be made to bear the full weight of tragic consequence. On this account the playwright took the cast and plot grammar of comedy, ran that plot honestly to the point where comedy's protections fail, and let the same machinery produce corpses. The thesis is associated above all with Susan Snyder, whose 1970 essay and 1979 book gave the reading its scholarly spine, and it has become one of the standard ways of explaining why this tragedy feels unlike any other in the canon: why its first half sparkles, why its lovers are children, why its catastrophe arrives through a sealed door and a mistimed waking rather than through the unfolding of a great man's error.

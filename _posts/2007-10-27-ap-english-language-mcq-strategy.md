@@ -9,7 +9,7 @@ excerpt: "AP English Language multiple choice rewards readers who think like wri
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 88
 author: "natalie-webb"
-last_updated: 2007-10-27
+last_updated: 2026-11-08
 lang: en
 ---
 The multiple choice section of AP English Language looks, at a glance, like a reading test, and many students prepare for it exactly that way, by reading more and hoping comprehension carries them. That preparation misses what the section actually measures. Half of its work asks students to read prose the way a rhetorician reads it, tracking what a writer is doing, why the writer is doing it, and how each choice lands on an audience. The other half hands students a draft of student-style prose and asks them to revise it, which means the section also tests whether a reader can think like a writer making decisions. Points accumulate for students who do both kinds of thinking under a steady clock, and points leak away from students who treat every question as a search for a keyword or a test of obscure vocabulary. Strategy for this section is therefore not a bag of shortcuts. Strategy here means a repeatable method for reading, a disciplined way of discarding wrong options, and a pacing plan that protects the final passage from the clock.

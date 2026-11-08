@@ -9,7 +9,7 @@ excerpt: "The apothecary who sells Romeo poison commits a capital crime under Ma
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 61
 author: "chloe-martin"
-last_updated: 2031-01-03
+last_updated: 2026-11-08
 lang: en
 ---
 The apothecary's crime in Romeo and Juliet is the most completely documented offence in the play. It is the only crime whose statute is quoted before it is committed, the only one committed in full view of the audience, and the only one whose penalty is recited twice, once by each party to the bargain. In Mantua, in Act 5, Scene 1, a starving tradesman sells Romeo a dram of poison although Mantua's law makes the sale itself a capital offence. He knows the penalty. He states it. He sells anyway, for forty ducats, and then he walks out of the play and out of every reckoning the play conducts. No officer arrests him. No witness reports him. The Prince's great audit of the catastrophe, which reaches friars, servants, pages, and fathers, never reaches Mantua at all. The crime is perfect in the legal sense: complete, confessed in advance by its perpetrator, and never prosecuted.

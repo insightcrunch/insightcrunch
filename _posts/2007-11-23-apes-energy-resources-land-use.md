@@ -9,7 +9,7 @@ excerpt: "AP Environmental Science tests energy resources and land use as tradeo
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2007-11-23
+last_updated: 2026-11-08
 lang: en
 ---
 AP Environmental Science builds its energy and land-use questions around a single habit of mind, and candidates who acquire that habit early find this cluster generous while candidates who memorize source by source find it slippery. The exam rarely asks what a fuel is. It asks what a fuel costs, in money, in land, in waste, and in risk, and then it asks what the same service would cost if a different source supplied it. A question might describe a county choosing between a gas plant and a wind farm, or a farm losing topsoil faster than bedrock can replace it, and the scoring guide rewards the answer that weighs both sides of the ledger in the open. Definitions earn little here. Comparisons earn nearly everything.

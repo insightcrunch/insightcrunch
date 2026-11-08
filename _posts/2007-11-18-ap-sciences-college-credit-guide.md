@@ -9,7 +9,7 @@ excerpt: "AP science credit can erase a full introductory course or quietly cost
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 88
 author: "patrick-dunn"
-last_updated: 2007-11-18
+last_updated: 2026-11-08
 lang: en
 ---
 A score report arrives in July carrying a single digit for each science exam, and that digit looks deceptively simple. A 4 in AP Biology, a 5 in AP Chemistry, a 3 in AP Physics 1: each one feels like a verdict, and families tend to read it as a prize already won. The reality is quieter and more consequential. That digit is not credit. It is an application for credit, filed with an institution that has its own rules about which applications it honors, what each approved application is worth, and what conditions attach to the award. One college converts a 4 in chemistry into a full year of general chemistry with laboratory hours attached. Another college, sometimes in the same state system, converts the same 4 into placement alone, a permission slip to start higher without a single hour added to the degree total. A third grants elective hours that fill no requirement the student actually has. The exam was identical. The student was identical. Only the policy differed, which is why AP science credit rewards the student who reads policies the way a lawyer reads contracts, hunting for the clause that changes the value of everything else.

@@ -9,7 +9,7 @@ excerpt: "Set beside Shakespeare's other couples, the lovers of Romeo and Juliet
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2031-03-21
+last_updated: 2026-11-08
 lang: en
 ---
 Set the lovers of Romeo and Juliet beside the other couples of Shakespeare's plays and a pattern emerges that no single-play reading can supply. The canon is crowded with pairs: wits who spar in Messina, a disguised heroine who runs a tutorial in Arden, a general whose marriage collapses in Cyprus, a Scottish couple whose partnership turns to murder, young pairs in the late romances who are separated and restored. Against that whole field, the Verona lovers hold a position that this survey will argue precisely. They are the canon's control case for love itself: the one couple whose devotion is fully mutual from its first hour, spoken by both partners in a shared poetic form, and destroyed entirely from outside the bond, by a feud neither lover made and by messages that failed, rather than by any failure of feeling, faith, or knowledge inside the bond.

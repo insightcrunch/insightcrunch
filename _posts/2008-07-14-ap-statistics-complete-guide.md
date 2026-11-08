@@ -9,7 +9,7 @@ excerpt: "AP Statistics is the AP mathematics course built on evidence: designin
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 86
 author: "natalie-webb"
-last_updated: 2008-07-14
+last_updated: 2026-11-08
 lang: en
 ---
 AP Statistics occupies a strange position in the AP catalog. Counselors describe it as the approachable mathematics option, students repeat that description to each other, and then the May administration arrives and a large share of those students discover that the exam never asked them to be brilliant at arithmetic. It asked them to design a study that could actually answer a question, to look at a messy distribution and say what the mess means, to run an inference procedure only after checking whether the procedure was allowed to run, and to write the conclusion in sentences a skeptical reader would accept. AP Statistics is a course about evidence and argument wearing a mathematics label, and the students who understand that early study for a completely different exam than the students who treat it as a softer algebra class.

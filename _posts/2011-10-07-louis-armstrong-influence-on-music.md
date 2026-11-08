@@ -9,7 +9,7 @@ excerpt: "Louis Armstrong influence travelled by record into every jazz instrume
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 108
 author: "chloe-martin"
-last_updated: 2011-10-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## Learning phrasing from a record

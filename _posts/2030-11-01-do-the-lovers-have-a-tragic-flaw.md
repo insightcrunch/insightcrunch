@@ -9,7 +9,7 @@ excerpt: "Whether Romeo and Juliet have a tragic flaw, the haste and passion tha
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 69
 author: "chloe-martin"
-last_updated: 2030-11-01
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Tragic Flaw Question, Answered First

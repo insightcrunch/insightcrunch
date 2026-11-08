@@ -9,7 +9,7 @@ excerpt: "AP Environmental Science tests Earth systems as linked cycles, and thi
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2008-02-12
+last_updated: 2026-11-08
 lang: en
 ---
 AP Environmental Science rewards a particular kind of thinking, and the Earth systems and ecology cluster is where that thinking is tested most directly. The exam does not ask a candidate to recite the nitrogen cycle as a diagram copied from a textbook. It describes a farm county where well water has turned unsafe, or a lake that has gone green and airless in a single summer, and it asks which reservoir grew, which flux accelerated, which organisms paid for the change, and what would happen next if the input stopped. Every one of those questions is a cycle question wearing a story's clothing. Candidates who studied the cycles as connected machinery answer them with confidence. Candidates who memorized four separate posters discover that the posters never meet, while the exam lives exactly where they overlap.

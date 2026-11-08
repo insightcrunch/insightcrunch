@@ -9,7 +9,7 @@ excerpt: "AP Chemistry turns on reactions, stoichiometry, and kinetics: this dee
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 87
 author: "jessica-kim"
-last_updated: 2008-04-10
+last_updated: 2026-11-08
 lang: en
 ---
 Three skills decide more AP Chemistry points than any others, and they decide them quietly, inside questions that appear to be about something else. A question dressed as laboratory analysis is, underneath, a limiting reactant problem. A question dressed as an industrial process is, underneath, a rate law waiting to be read from a data table. A question about a glowing reaction mixture is, underneath, a mole ratio wearing a costume. Students who score at the top of this exam share a recognizable habit: they classify each problem before they calculate anything, and they run a practiced method for that class instead of inventing a fresh approach under time pressure. Students in the middle of the distribution often know the same chemistry. What they lack is the classification step, and its absence costs them the first minute of every problem, the moment when the setup is chosen and the arithmetic either lines up behind a correct ratio or wanders into a plausible wrong answer.

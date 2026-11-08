@@ -9,7 +9,7 @@ excerpt: "AP Chemistry acid-base points come from reading the titration curve re
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 88
 author: "simon-hartley"
-last_updated: 2007-12-02
+last_updated: 2026-11-08
 lang: en
 ---
 Acid-base chemistry is the strand of AP Chemistry where a single picture does the heaviest work on the exam. That picture is the titration curve, and nearly every question in the strand, whether it arrives as a multiple-choice item about a buffer or a free-response part asking for the pH halfway to an equivalence point, is secretly asking whether the reader can look at a solution, name the species that dominate it, and choose the one calculation that matches that cast of species. Students who memorize a drawer full of formulas still miss these questions, because the formulas are not interchangeable: each one belongs to a region, and the region is decided by stoichiometry before it is decided by equilibrium. Students who learn to read the curve itself, region by region and species by species, find that the strand collapses into a small set of repeatable judgments. Name the dominant species. Write the one equilibrium or the one excess that controls the pH. Check the size of the answer against the region the point sits in. This article teaches that reading skill at full depth, from the definitions upward.

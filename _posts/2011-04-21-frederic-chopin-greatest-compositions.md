@@ -9,7 +9,7 @@ excerpt: "Chopin greatest works reach the player through three first editions th
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 103
 author: "diana-patel"
-last_updated: 2011-04-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## Three first editions that disagree

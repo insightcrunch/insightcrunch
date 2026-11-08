@@ -9,7 +9,7 @@ excerpt: "Serious self-study for an AP exam succeeds when the subject fits indep
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 86
 author: "christopher-wells"
-last_updated: 2008-10-03
+last_updated: 2026-11-08
 lang: en
 ---
 ## Self-study for AP exams is a strategy decision, not a shortcut

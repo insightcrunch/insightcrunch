@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet belongs to Shakespeare's lyric mid-1590s, sharing its
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 69
 author: "rachel-foster"
-last_updated: 2031-02-07
+last_updated: 2026-11-08
 lang: en
 ---
 The lovers' tragedy is usually read as if Shakespeare had written it in a room of his own, alone with an Italian tale and a pair of invented teenagers. The documentary record tells a more crowded and more interesting story. In the middle years of the 1590s, in a span of roughly two theatrical seasons, the same pen produced the comedy that stages the lovers' own story as a joke, the history play that turns a king's fall into a sequence of formal lyrics, and the comedy that treats courtship as a tournament of wits, while sonnets from the same hand were passing from reader to reader in manuscript. Romeo and Juliet stands in the middle of that family, and the family explains the play: its sonnet machinery, its rhymed set pieces, its obsession with time, and its strange double nature as the most fashionable and the most fatal work of its seasons. Restoring the chronology does not diminish the tragedy's singularity. It locates the singularity precisely, in the one place none of the siblings follows: the lyric instruments of the mid-1590s, built for courtship and ceremony, are here loaded with death and made to carry a double funeral.

@@ -9,7 +9,7 @@ excerpt: "Mozart influence on music proved narrow, technical and specific, while
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 91
 author: "amanda-ross"
-last_updated: 2010-12-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A small study and a very large conclusion

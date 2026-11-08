@@ -9,7 +9,7 @@ excerpt: "AP Calculus BC turns on four exclusive territories, parametric motion,
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 86
 author: "hannah-moore"
-last_updated: 2008-07-23
+last_updated: 2026-11-08
 lang: en
 ---
 Two students can share the same AB foundation, the same derivative fluency, the same integral instincts, and still finish a full letter grade apart on the BC exam, because AP Calculus BC is not simply a longer version of the AB course. Roughly three fifths of the BC paper retests the shared core of limits, derivatives, integrals, and differential equations, and a prepared student harvests those points with AB skills alone. The remaining territory belongs to BC candidates only: parametric equations, polar coordinates, vector-valued functions, and infinite series. Those four topics decide the top of the score distribution, because they cannot be improvised from AB habits. Each one runs on its own mechanics, its own notation, and its own small set of reliable procedures, and each one punishes students who meet it for the first time under exam pressure.

@@ -9,7 +9,7 @@ excerpt: "Thomas and Henrietta Bowdler's Family Shakespeare scrubbed Romeo and J
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 69
 author: "diana-patel"
-last_updated: 2031-05-23
+last_updated: 2026-11-08
 lang: en
 ---
 Bowdler's Family Shakespeare is the most successful censorship in the history of Romeo and Juliet, and its success is the problem this article examines. Between 1807 and 1818 a brother and sister from Bath produced an edition of the plays from which, in the title page's own words, "those words and expressions are omitted which cannot with propriety be read aloud in a family". The edition conquered the nineteenth-century parlour, ran through printings for six decades, provoked a public quarrel between the age's leading journals, drew a famous defence from Swinburne and a famous prosecution from Richard Whiteing, founded an industry of rival expurgations, and left the language a verb, to bowdlerize, that remains the common noun's sharpest instrument against protective editing. The tragedy stood near the centre of the enterprise's difficulty. Romeo and Juliet is a play whose comedy is bawdy in its grain, whose heroine speaks her desire in the period's boldest soliloquy, and whose plot is a clandestine marriage; cleaning it was the method's hardest test, and the record of the cleaning, recoverable line by line from the Family text itself, is the evidence on which a verdict can finally rest.

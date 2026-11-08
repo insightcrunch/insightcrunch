@@ -9,7 +9,7 @@ excerpt: "Why does Romeo and Juliet still speak in the twenty-first century? Its
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2031-04-25
+last_updated: 2026-11-08
 lang: en
 ---
 The question posed by Romeo and Juliet for the 21st century is usually answered with a compliment, and the compliment is the problem. The compliment calls the tragedy timeless, as if survival were a property sealed inside the text at its first printing, needing no labour from any later age. The record argues otherwise. A text does not survive four centuries by being exempt from time. It survives by being rebuilt, repeatedly, by ages that find their own machinery reflected in its design and their own embarrassments exposed by its values. The verdict defended across the sections that follow is precise: the play's relevance is structural, not sentimental. What crosses the centuries intact is a set of working machines, a feud that runs on inherited identity, a love conducted in secret at dangerous speed, a family authority that mistakes obedience for care, and an information system in which the decisive message fails to arrive. What does not cross intact is the moral furniture arranged around those machines: a bride not yet fourteen, a marriage market that prices daughters, a code of honour that settles argument by blood. A century that inherits the play inherits both columns of that ledger, and the honest case for its relevance keeps the columns separate.

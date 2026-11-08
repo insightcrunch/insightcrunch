@@ -9,7 +9,7 @@ excerpt: "Louis Armstrong greatest recordings run from Gennett studio dates and 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 132
 author: "amanda-ross"
-last_updated: 2011-09-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## A show tune, a sixty-two-year-old man and a number one

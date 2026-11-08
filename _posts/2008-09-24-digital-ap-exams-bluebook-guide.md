@@ -9,7 +9,7 @@ excerpt: "How digital AP exams work in Bluebook: the built-in tools, the timing 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 86
 author: "natalie-webb"
-last_updated: 2008-09-24
+last_updated: 2026-11-08
 lang: en
 ---
 Digital AP exams reward a kind of preparation that paper testing never demanded. Content knowledge still decides the ceiling of a score, yet the floor of a score is set by something less glamorous: whether the student sitting in front of the screen has rehearsed inside the Bluebook application before the morning that counts. A candidate who knows where the timer lives, how flagging works, and what the recovery design does during a freeze spends the whole session thinking about the subject. A candidate meeting the interface for the first time spends the opening minutes of a timed exam learning software, and those minutes never come back. That asymmetry is the reason a guide to an application belongs in a strategy series at all.

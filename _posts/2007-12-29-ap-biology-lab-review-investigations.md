@@ -9,7 +9,7 @@ excerpt: "AP Biology lab review: all thirteen investigations mapped to the conce
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 88
 author: "simon-hartley"
-last_updated: 2007-12-29
+last_updated: 2026-11-08
 lang: en
 ---
 An AP Biology lab review sounds like a memory exercise, and that framing quietly costs students points every May. The thirteen required investigations are not thirteen procedures to recite. They are thirteen rehearsals of the same small set of moves: framing a question, controlling variables, measuring something honestly, turning numbers into a claim, and defending that claim against a skeptical reader. A candidate who can perform those moves on an unfamiliar scenario earns laboratory points without ever having touched the exact apparatus in front of them. A candidate who memorized steps freezes the moment the exam swaps the organism, changes the variable, or asks what should have been done differently. This article treats the investigations the way the exam treats them, as vehicles for design and data reasoning, and it maps every one of them to the concept and skill it actually tests.

@@ -9,7 +9,7 @@ excerpt: "Beethoven influence on music worked less on technique than on expectat
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 97
 author: "diana-patel"
-last_updated: 2011-02-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## A giant walking behind him

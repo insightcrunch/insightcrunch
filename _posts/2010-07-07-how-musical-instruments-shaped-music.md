@@ -9,7 +9,7 @@ excerpt: "How musical instruments shaped music by turning physical limits into h
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 85
 author: "amanda-ross"
-last_updated: 2010-07-07
+last_updated: 2026-11-08
 lang: en
 ---
 In a Florentine workshop in 1700, Bartolomeo Cristofori, keeper of instruments at the Medici court, fitted a harpsichord case with hammers that struck the strings and fell away at once, so that a finger pressing a key could make a note soft or loud by touch alone. The change sounds small, a matter of felt, leather and timing measured in fractions of a second, yet it shows in miniature how musical instruments shaped music across every tradition examined here: a mechanism decides what is easy, what is awkward and what is impossible, and players build habits inside those borders until the borders feel like taste. The claim defended throughout is plain. Instruments are not neutral carriers for ideas formed elsewhere in the mind. What a body of wood, gut, brass or wire can readily do becomes, over generations, what the music of a culture mostly does.

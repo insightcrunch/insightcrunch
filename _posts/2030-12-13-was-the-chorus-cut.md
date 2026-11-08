@@ -9,7 +9,7 @@ excerpt: "The chorus of Romeo and Juliet speaks the Prologue and one later sonne
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2030-12-13
+last_updated: 2026-11-08
 lang: en
 ---
 ## The Verdict First: A Frame Retired, Then Manhandled

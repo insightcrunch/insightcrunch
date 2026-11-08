@@ -9,7 +9,7 @@ excerpt: "APUSH DBQ success comes from arguing with documents instead of describ
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2007-08-29
+last_updated: 2026-11-08
 lang: en
 ---
 Seven documents sit in a packet, a prompt sits above them, and the clock offers one hour. Everything the APUSH document-based question asks for is contained in that arrangement, and everything students find intimidating about it is contained there too. The sources in the packet were chosen by exam writers to argue with each other. Some agree, some collide, some quietly change the subject, and one or two usually exist to test whether the writer can notice a voice speaking from an unusual place in the period. A strong essay treats that disagreement as raw material. A weak essay treats the packet as a reading assignment and reports back on each item in turn, which is roughly the difference between practicing law and summarizing a court transcript for someone who was not there.

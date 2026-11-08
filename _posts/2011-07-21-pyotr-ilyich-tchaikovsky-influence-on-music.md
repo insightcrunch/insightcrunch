@@ -9,7 +9,7 @@ excerpt: "Tchaikovsky influence on music travelled through the ballet theatre in
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 92
 author: "rachel-foster"
-last_updated: 2011-07-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## What a ballet composer's job used to be

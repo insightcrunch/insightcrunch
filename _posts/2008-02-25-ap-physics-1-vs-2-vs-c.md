@@ -9,7 +9,7 @@ excerpt: "AP Physics comes in four exams at two math levels. Compare their scope
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 88
 author: "michael-brooks"
-last_updated: 2008-02-25
+last_updated: 2026-11-08
 lang: en
 ---
 Every spring, course-selection season turns one question into a small household negotiation: which AP Physics should a student take? The catalog lists four exams under one name, and the names mislead. Physics 1 sounds like a beginning, Physics 2 sounds like its sequel, and Physics C sounds like a third year for the stubborn. A family reading the numbers as a staircase will make a sequencing error before the school year even starts, because the numbering conceals the real structure. Two of these exams are algebra-based and two are calculus-based. Two cover a broad year of material each, and two each cover a single semester of material at greater mathematical depth. Choosing well means seeing that structure clearly, then matching it against four facts about the student: the mathematics already in hand, the years remaining, the major taking shape, and the kind of college credit actually worth collecting.

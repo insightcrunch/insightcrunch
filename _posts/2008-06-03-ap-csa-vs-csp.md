@@ -9,7 +9,7 @@ excerpt: "Computer Science A vs Principles compares a Java programming course ag
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 87
 author: "jessica-kim"
-last_updated: 2008-06-03
+last_updated: 2026-11-08
 lang: en
 ---
 Two course titles sit side by side in the catalog, close enough in name that many families assume they are two difficulties of the same subject, a regular and an honors version of one idea. That assumption quietly wrecks schedules every year. AP Computer Science A and AP Computer Science Principles are different courses built for different purposes, and the student who chooses between them by guessing at which one sounds easier is making a decision about coding depth, college credit, and major preparation without ever naming those stakes. One course teaches a student to write software in Java, by hand, under examination conditions. The other teaches how computing works as a field, from data and the internet to algorithms and the social consequences of code, and it asks for a working program built across the school year rather than a written examination performance alone.

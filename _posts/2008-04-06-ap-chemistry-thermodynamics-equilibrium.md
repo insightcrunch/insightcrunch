@@ -9,7 +9,7 @@ excerpt: "AP Chemistry joins thermodynamics, equilibrium, and electrochemistry a
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 88
 author: "michael-brooks"
-last_updated: 2008-04-06
+last_updated: 2026-11-08
 lang: en
 ---
 Three of the hardest-working unit clusters on the AP Chemistry exam look, at first glance, like separate subjects that happen to share a textbook. Thermodynamics tracks energy and disorder. Equilibrium describes mixtures that have stopped changing. Electrochemistry moves electrons through wires and solutions. Students who study them as three silos carry three sets of formulas, three sign conventions, and three piles of disconnected facts into the examination room, and the exam punishes that fragmentation every year, because its hardest questions are written precisely at the seams. A free-response problem hands over a galvanic cell and asks for an equilibrium constant. A multiple-choice item gives an equilibrium constant and asks whether a process is spontaneous. Another describes a heated equilibrium mixture and asks about entropy. Every one of those items rewards a single insight: the three topics are one system, governed by one quantity, the Gibbs free energy change, which fixes how far a reaction runs, where it stops, and how much electrical work its electron transfer can perform.

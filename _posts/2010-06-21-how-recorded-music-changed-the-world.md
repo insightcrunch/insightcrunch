@@ -9,7 +9,7 @@ excerpt: "How recorded music changed music by turning a fleeting performance int
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 85
 author: "chloe-martin"
-last_updated: 2010-06-21
+last_updated: 2026-11-08
 lang: en
 ---
 In the summer of 1877, in a workshop in Menlo Park, New Jersey, Thomas Edison spoke a nursery rhyme into a brass mouthpiece while turning a hand crank, and a needle traced the vibrations of his voice into a sheet of tinfoil wrapped around a cylinder. When the crank turned again, the rhyme came back, thin and wavering but recognisable, out of the same horn. Nothing in that moment sounded like an industry. It sounded like a parlour trick. Yet the trick contained the whole argument of this article, because how recorded music changed music begins with that reversal: a performance, which for all of human history had vanished at the instant it was made, had become an object that could be kept, carried, sold and heard again by people who were never in the room.

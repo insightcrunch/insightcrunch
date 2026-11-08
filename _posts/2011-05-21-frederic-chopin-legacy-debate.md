@@ -9,7 +9,7 @@ excerpt: "The Chopin overrated debate starts from four charges that are all true
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 101
 author: "chloe-martin"
-last_updated: 2011-05-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## Four charges, all of them true

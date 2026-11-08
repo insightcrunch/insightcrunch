@@ -9,7 +9,7 @@ excerpt: "Bach musical style explained through counterpoint, fugue, figured bass
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 95
 author: "diana-patel"
-last_updated: 2010-08-21
+last_updated: 2026-11-08
 lang: en
 ---
 Four notes sound alone, plain and unhurried, a small shape a listener can hold in the ear without effort. Then a second voice enters with the same four notes while the first voice continues into new territory, and the ear must divide its attention between an arrival and a departure at once. A third voice joins with the same shape, then a fourth, so that beginnings and continuations overlap and no single strand owns the moment. That crowded, balanced sound is where Bach musical style first announces itself.

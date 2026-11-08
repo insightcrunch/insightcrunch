@@ -9,7 +9,7 @@ excerpt: "AP Physics 1 rewards reasoning over formula hunting. This complete gui
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 87
 author: "patrick-dunn"
-last_updated: 2008-03-28
+last_updated: 2026-11-08
 lang: en
 ---
 AP Physics 1 has a reputation that precedes it into every counselor's office and every spring course-selection meeting. Students hear that it is the AP science where strong transcripts go to be humbled, where the share of top scores runs lower than in almost any other exam, and where being good at mathematics somehow fails to protect anyone. Much of that reputation is earned. The exam asks for something most high school courses rarely demand: not the recall of formulas, and not even the fluent execution of procedures, but the ability to reason about a physical situation the student has never seen before, choose the principle that governs it, and defend that choice in plain written language. That demand is why AP Physics 1 breaks the study habits that work in other classes, and it is also why the exam is entirely winnable once a student understands what is actually being graded.

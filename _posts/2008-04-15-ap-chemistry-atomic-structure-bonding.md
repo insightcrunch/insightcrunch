@@ -9,7 +9,7 @@ excerpt: "AP Chemistry atomic structure and bonding decide whole families of exa
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 87
 author: "hannah-moore"
-last_updated: 2008-04-15
+last_updated: 2026-11-08
 lang: en
 ---
 Some AP Chemistry students memorize the periodic table the way tourists memorize a phrasebook, one isolated fact at a time, and then wonder why the exam feels like a foreign country. The candidates who score well learn the language instead. Atomic structure and bonding form that language: a compact set of ideas about where electrons live, how strongly the nucleus holds them, and how atoms share, transfer, or pool electrons when they join. Nearly every prediction the course asks for, from which chloride melts hotter to which liquid boils first, runs through that chain of reasoning.

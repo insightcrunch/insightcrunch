@@ -9,7 +9,7 @@ excerpt: "AP Biology multiple choice rewards careful data reading far more than 
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 88
 author: "patrick-dunn"
-last_updated: 2008-01-11
+last_updated: 2026-11-08
 lang: en
 ---
 Half of the AP Biology score is decided before a single free-response booklet is opened, and it is decided in ninety minutes of multiple choice. Students talk about this section as if it were a vocabulary audit, a place where the prepared mind simply retrieves what it stored. The section behaves differently in practice. A large share of its sixty questions hand the candidate a graph, a data table, a described experiment, or a figure, and then ask what the evidence supports. The facts still matter, because reasoning needs raw material, but the points cluster where reading skill meets biological knowledge. That is the ceiling this article addresses: the multiple-choice score is built less by storing more facts than by handling evidence faster and more accurately than the candidate in the next seat.

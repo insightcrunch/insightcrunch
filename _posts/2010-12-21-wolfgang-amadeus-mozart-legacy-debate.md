@@ -9,7 +9,7 @@ excerpt: "Mozart myths and legacy rest less on the documentary record than on a 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 85
 author: "amanda-ross"
-last_updated: 2010-12-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## How a drama replaced a biography

@@ -9,7 +9,7 @@ excerpt: "This AP exam day guide covers what to bring, prohibited items, check-i
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 86
 author: "michael-brooks"
-last_updated: 2008-10-16
+last_updated: 2026-11-08
 lang: en
 ---
 The single most preventable way to lose points on an Advanced Placement test has nothing to do with how well a student knows the material. It happens at the door, at the desk, and in the first ten minutes of check-in, before a single question gets answered. A capable student who has prepared for months can still have a score canceled for carrying a phone into the room, bringing the wrong calculator, mislabeling an answer sheet, or arriving after the proctor has started reading the instructions. AP exam day is governed by a strict set of administration rules, and the students who treat those rules as seriously as the content are the ones who keep every point they earned.

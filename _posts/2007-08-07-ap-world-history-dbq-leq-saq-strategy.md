@@ -9,7 +9,7 @@ excerpt: "AP World History free response rewards argument over recall: grouped a
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2007-08-07
+last_updated: 2026-11-08
 lang: en
 ---
 Three written tasks stand between a prepared student and the back half of an AP World History score, and each one punishes a different bad habit. The short-answer questions punish rambling, because their points hide inside small, precise moves that a wandering paragraph buries. The document-based question punishes description, because its rubric pays for an argument built out of grouped and sourced evidence rather than a tour of the document set. The long essay question punishes vagueness, because it hands the writer no documents at all and asks memory to supply evidence specific enough to defend a claim. Students who drill content alone walk into the room knowing a great deal of history and still leak points on every task, not because the knowledge is missing but because the craft of converting knowledge into scored moves was never practiced as a craft.

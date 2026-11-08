@@ -9,7 +9,7 @@ excerpt: "Tchaikovsky life and career, from a law clerk's desk to the von Meck a
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 97
 author: "chloe-martin"
-last_updated: 2011-06-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A thousand letters and a standing agreement never to meet

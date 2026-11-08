@@ -9,7 +9,7 @@ excerpt: "AP sciences shape the pre-med path twice, first as the foundation bene
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 88
 author: "hannah-moore"
-last_updated: 2007-12-15
+last_updated: 2026-11-08
 lang: en
 ---
 Every autumn, two freshmen with nearly identical transcripts sit down in the same advising office and make opposite mistakes with the same AP scores. The first hands over a 5 in AP Chemistry, accepts the credit, and registers for organic chemistry in the opening semester, where the class assumes a fluency with equilibrium, kinetics, and laboratory routine that a single high school course never quite built. By December the grade in the one subject medical schools watch most closely has done damage that three strong semesters will struggle to repair. The second freshman, frightened by stories like that one, declines every credit offered, repeats a year of material already mastered, and reaches junior year with a beautiful GPA and no room left for biochemistry, research, or the second language a packed application needed. AP sciences caused neither failure. A missing framework caused both, because an AP science score is not a prize to cash in or a threat to hide from. Handled well, it is the first installment of the longest course sequence in undergraduate education, and the students who handle it well are the ones who decide, course by course, whether each score should serve as foundation or as acceleration.

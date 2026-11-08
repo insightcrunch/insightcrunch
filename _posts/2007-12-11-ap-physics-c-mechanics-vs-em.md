@@ -9,7 +9,7 @@ excerpt: "AP Physics C Mechanics and Electricity and Magnetism share a name and 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2007-12-11
+last_updated: 2026-11-08
 lang: en
 ---
 A course catalog prints the two names side by side, Mechanics and Electricity and Magnetism, under a single heading that makes them look like two chapters of one subject. Families read the listing, see one course code and one calculus prerequisite, and reasonably assume a single decision: take Physics C or skip it. That assumption hides the real decision, which is finer and more consequential. The two Physics C examinations are separate tests with separate scores, separate college credit decisions, and genuinely different intellectual demands, and a student can take one without the other, both in sequence, or both inside a single school year. Choosing well requires comparing them on the axes that actually separate them: the kind of calculus each one leans on, the concepts each one asks a student to hold in the imagination, the order in which schools teach them, and the preparation a given student brings through the door.

@@ -9,7 +9,7 @@ excerpt: "The synthesis essay in AP English Language rewards one skill above all
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-10-31
+last_updated: 2026-11-08
 lang: en
 ---
 The synthesis essay opens the free-response section of AP English Language, and it unsettles students in a way the other two essays rarely do. A prompt arrives with a packet of sources attached, usually six, sometimes seven, mixing essays, articles, charts, and images, and the task sounds deceptively simple. Read the material. Take a position. Defend that position with evidence drawn from the packet. Students who write well in their own classes often stumble here because the skill being measured is not ordinary essay writing. Nobody asks for your opinion in the abstract, and nobody rewards a tour of what each source happens to say. Readers score the degree to which borrowed material becomes your argument, shaped by your reasoning, arranged by your priorities, and carried by your voice.

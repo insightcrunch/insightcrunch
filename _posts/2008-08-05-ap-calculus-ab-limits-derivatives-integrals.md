@@ -9,7 +9,7 @@ excerpt: "AP Calculus AB turns on three linked skills, limits, derivatives, and 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 86
 author: "jessica-kim"
-last_updated: 2008-08-05
+last_updated: 2026-11-08
 lang: en
 ---
 AP Calculus AB is often described as three subjects stacked in a trench coat: limits first, then derivatives, then integrals, each marched out in its own unit and quizzed as though the others did not exist. Students who believe that description study the course as three separate vocabularies, and the exam punishes them for it, because nearly every hard question on the paper is a place where the three skills touch. A limit hides inside the definition of every derivative. A derivative wears the clothes of a rate in every application problem. An integral quietly asks whether the reader understands accumulation, which is the derivative story told backward. The students who score well are rarely the ones who memorized the most rules. They are the ones who built the map connecting rule, recognition, and question type, so that a problem announces which tool it wants within seconds of being read.

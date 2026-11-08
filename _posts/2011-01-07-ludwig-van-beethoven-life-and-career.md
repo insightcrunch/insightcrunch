@@ -9,7 +9,7 @@ excerpt: "Beethoven life and career, from the Bonn court chapel and the Vienna a
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 90
 author: "amanda-ross"
-last_updated: 2011-01-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A contract that asked for nothing in return

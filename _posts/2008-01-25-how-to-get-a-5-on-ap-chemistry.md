@@ -9,7 +9,7 @@ excerpt: "Learn how to get a 5 on AP Chemistry with a dated plan that pairs calc
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 88
 author: "daniel-morgan"
-last_updated: 2008-01-25
+last_updated: 2026-11-08
 lang: en
 ---
 ## The distance to a 5 is shorter than the reputation suggests

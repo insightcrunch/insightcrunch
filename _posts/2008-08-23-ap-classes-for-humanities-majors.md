@@ -9,7 +9,7 @@ excerpt: "AP humanities classes earn their keep when they form a coherent stack.
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
 author: "natalie-webb"
-last_updated: 2008-08-23
+last_updated: 2026-11-08
 lang: en
 ---
 A humanities application succeeds or fails on an argument, and the transcript is where that argument begins. AP humanities classes give a student the raw material for that argument: courses in English, history, government, economics, and world languages that, chosen with intent, describe a mind at work on questions of text, evidence, power, and value. Chosen at random, the same catalog produces a scattered record that reads like a sampler plate, a little of everything and a case for nothing. Admissions readers at liberal arts colleges and university humanities programs are trained to notice the difference. A stack that coheres tells them the applicant knows what these fields ask, has practiced their methods at a college level, and will arrive ready to do more of the same work at greater depth.

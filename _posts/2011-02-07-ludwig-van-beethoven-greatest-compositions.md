@@ -9,7 +9,7 @@ excerpt: "Beethoven greatest works divide into public scores that built a reputa
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 103
 author: "rachel-foster"
-last_updated: 2011-02-07
+last_updated: 2026-11-08
 lang: en
 ---
 ## A torn title page

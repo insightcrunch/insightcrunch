@@ -9,7 +9,7 @@ excerpt: "AP Computer Science Principles complete guide to the big ideas, the Cr
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 87
 author: "simon-hartley"
-last_updated: 2008-06-26
+last_updated: 2026-11-08
 lang: en
 ---
 AP Computer Science Principles is the only AP course whose score is partly decided months before the student ever sits down in the testing room, and that single fact reorganizes everything about how the course should be approached. A student can walk into the end-of-course exam having already secured a substantial share of the available credit through a program built slowly, tested carefully, and written about with precision during the school year. A second student with equal talent can walk in having treated that program as an afterthought, and no brilliance on exam day can fully repair the loss. The gap between those two students is rarely a gap in intelligence or even in coding skill. It is a gap in planning, and it opens early, quietly, in the first weeks of the course, when the performance task still feels like a distant spring obligation rather than what it actually is: the first half of the examination, administered on the installment plan.

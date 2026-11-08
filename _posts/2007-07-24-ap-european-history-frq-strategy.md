@@ -9,7 +9,7 @@ excerpt: "AP European History free-response rewards argument over summary: group
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2007-07-24
+last_updated: 2026-11-08
 lang: en
 ---
 Three written tasks decide the argumentative half of the AP European History exam, and they reward one habit above all others: reasoning with evidence instead of reciting it. The document-based question hands you seven sources and asks what they prove together. The long essay question offers a choice of prompts and asks what you can prove alone, from knowledge you carry into the room. The short answer questions ask for precise, compressed explanations tied to stimuli and periods. Students often prepare for these tasks as if they were three different subjects, drilling document summaries for one, memorizing narrative for another, and hoping brevity takes care of itself on the third. Readers scoring the responses see something simpler. Every task pays for a defensible claim, evidence selected to serve that claim, and reasoning that connects the two. Every task withholds points from writing that merely reports.

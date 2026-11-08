@@ -9,7 +9,7 @@ excerpt: "Bach influence on music moved by hand copied paper, through pupils and
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 88
 author: "diana-patel"
-last_updated: 2010-09-21
+last_updated: 2026-11-08
 lang: en
 ---
 ## A worn edition in a Barcelona shop

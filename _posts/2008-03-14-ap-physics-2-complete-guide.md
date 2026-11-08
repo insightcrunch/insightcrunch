@@ -9,7 +9,7 @@ excerpt: "AP Physics 2 spans seven units from fluids to quantum physics: the exa
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 87
 author: "michael-brooks"
-last_updated: 2008-03-14
+last_updated: 2026-11-08
 lang: en
 ---
 AP Physics 2 has a reputation problem, and the reputation is wrong in an instructive way. Students walk in expecting a sequel, a second helping of the mechanics they survived in Physics 1, and instead meet a survey of nearly everything else physics knows: gases pushing on pistons, charges rearranging themselves on conductors, light bending through lenses and interfering with itself, atoms absorbing photons and nuclei trading particles. The exam that closes the course is three hours long, algebra-based, and unusually honest about what it values. It does not reward the student who memorized the most formulas, because it hands every candidate the formulas on a printed sheet. It rewards the student who built one consistent way of reasoning and carried that reasoning, intact, across seven very different landscapes.

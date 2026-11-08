@@ -9,7 +9,7 @@ excerpt: "At the ball Romeo sees Juliet first and is struck dumb, but who truly 
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-01-10
+last_updated: 2026-11-08
 lang: en
 ---
 Who loved whom first in Romeo and Juliet is usually answered with a photograph: two faces turning toward each other across a crowded hall, one shared instant, a single lightning strike with two victims. The scene Shakespeare actually wrote in Act 1 Scene 5 is more interesting than the photograph. It is a relay, not a strike. Romeo loves first in feeling, and his loving is complete before he knows a single fact about the woman it fixes on. Juliet loves first in knowledge, in completion, and in action: she is the first of the two to love a person who has been identified rather than a face that has been seen, the first to turn a private sensation into a shared and spoken thing, and the first to do anything about it. The question matters because the split never heals. The whole tragedy is built out of the difference between his way of arriving at love and hers, and the tomb at the end is the ball at the beginning with the stakes raised: he still loves by sight and speed, she still loves by knowledge and decision, and sight and speed get there first.

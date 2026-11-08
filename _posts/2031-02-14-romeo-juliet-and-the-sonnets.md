@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet is steeped in the sonnet, from its Prologue to the lo
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2031-02-14
+last_updated: 2026-11-08
 lang: en
 ---
 The sonnets are not a hobby Shakespeare left at the stage door. Romeo and Juliet, the tragedy of the mid-1590s, is built out of the same fourteen-line machinery as the sequence printed in 1609 under the title Shake-speares Sonnets: it opens with a sonnet, pauses for a second sonnet before its second act, and lets its lovers meet inside a third, spoken between two voices at a feast. Set the play beside the Sonnets and neither work looks quite as it did alone. The sequence emerges as a drama that never found its stage, a single voice pleading, boasting, accusing and forgiving across 154 poems addressed to people who never answer. The play emerges as the sequence answered: the same form, the same Petrarchan inheritance, the same war against time, redistributed among a chorus, two lovers and a mocking friend, and driven at a speed no sequence could survive.
