@@ -6,19 +6,19 @@ date: 2007-02-26
 categories: ["Industry"]
 tags: ["AP Exams", "AP Human Geography", "Geography", "Score 5", "Exam Strategy", "Social Studies"]
 excerpt: "A 5 on AP Human Geography comes from models applied to real places. This playbook maps the units, task verbs, free-response design, and a study system."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2007-02-26
+lang: en
 ---
-
 A 5 in AP Human Geography rarely belongs to the student who memorized the longest glossary. It belongs to the student who can look at an unfamiliar place, a fresh data table, or a photograph of a landscape nobody in the room has visited, and still say something precise about the pattern on display. The exam rewards recognition under pressure: a skyline implies a land-use model, a population pyramid implies a stage of transition, a language map implies a diffusion history. Every question, whether multiple choice or free response, quietly asks the same thing, which is whether a concept can travel from the textbook page into a setting the student has never seen.
 
 That single fact should reorganize how preparation happens. Vocabulary still matters, because nobody can apply a term they cannot define, yet definitions are the floor rather than the ceiling. A candidate aiming at the top score treats each term as a tool with a handle and a blade: the handle is the definition, the blade is the example, the counter-example, and the place where the pattern breaks down. Preparation built on that principle looks different from a stack of flashcards. It involves sketching models from memory, arguing with maps, writing short explanations under a clock, and returning to missed questions until the reasoning error, rather than the fact error, has been found and named.
 
 The pages ahead lay out a complete system for that kind of preparation. They map the seven units into one connected argument, isolate the models that carry the heaviest load, explain how the free-response section is actually scored, and present a dated study calendar called the InsightCrunch Human Geography 5-point plan. Along the way they name the mistakes that quietly cap strong students at a 4, including vocabulary-only review, passive rereading, and free-response answers that describe a stimulus instead of analyzing it. A reader who works through the plan steadily, rather than heroically in a final fortnight, gives the top score a realistic chance to happen.
 
-![How to Get a 5 on AP Human Geography - Insight Crunch](/assets/images/blog/blog-04.webp)
+![How to Get a 5 on AP Human Geography - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## What the Top Score Actually Demands
 

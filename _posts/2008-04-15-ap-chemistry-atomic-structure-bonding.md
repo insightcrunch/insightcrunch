@@ -6,15 +6,15 @@ date: 2008-04-15
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Chemistry atomic structure and bonding decide whole families of exam questions: master configuration, periodicity, and forces to predict properties."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2008-04-15
+lang: en
 ---
-
 Some AP Chemistry students memorize the periodic table the way tourists memorize a phrasebook, one isolated fact at a time, and then wonder why the exam feels like a foreign country. The candidates who score well learn the language instead. Atomic structure and bonding form that language: a compact set of ideas about where electrons live, how strongly the nucleus holds them, and how atoms share, transfer, or pool electrons when they join. Nearly every prediction the course asks for, from which chloride melts hotter to which liquid boils first, runs through that chain of reasoning.
 
-![AP Chemistry atomic structure and bonding with electron configuration, periodic trends, and intermolecular forces - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Chemistry atomic structure and bonding with electron configuration, periodic trends, and intermolecular forces - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The stakes are structural rather than incidental. The opening units of the course carry a meaningful share of the multiple choice section, and their ideas reappear inside nearly every later topic: equilibrium constants depend on bond strengths, acid behavior depends on polarity and charge distribution, electrochemistry depends on attraction between oppositely charged species. A weakness here is never contained. It leaks into thermochemistry, into kinetics explanations, into the justification paragraphs of free response questions written months later. Strength here compounds in the opposite direction, paying dividends across the entire paper.
 

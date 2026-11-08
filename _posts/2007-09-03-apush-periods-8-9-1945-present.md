@@ -6,15 +6,15 @@ date: 2007-09-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "APUSH", "Cold War", "Exam Strategy", "History"]
 excerpt: "APUSH Periods 8 and 9 reward students who trace how Cold War rivalry, civil rights organizing, and a conservative revival remade politics and daily life."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2007-09-03
+lang: en
 ---
-
 Every APUSH course eventually reaches the decades students feel closest to, and that closeness turns out to be a trap. Period 8 runs from the end of the Second World War to the close of the nineteen seventies, and Period 9 carries the story from the election of Ronald Reagan toward the present. Because grandparents remember much of this era and news footage covers the rest, students often assume they already know it. Familiarity, though, is not the same as exam readiness. The College Board does not ask who won a famous election or when a famous speech occurred in isolation. Prompts ask why containment shaped decisions on three continents, how grassroots organizing forced federal action, why a broad liberal consensus fractured within a single decade, and how globalization redistributed opportunity inside the United States. Those questions reward causal reasoning, and causal reasoning has to be built deliberately from evidence rather than absorbed from family stories or documentary clips.
 
-![Modern American history from the Cold War through the age of globalization, mapped by theme for APUSH study - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Modern American history from the Cold War through the age of globalization, mapped by theme for APUSH study - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 Weight is the second misunderstanding to clear away early. A durable piece of classroom folklore claims that the exam barely touches events after the Second World War, so class time and study time belong to earlier centuries. The framework tells a different story. Period 8 carries a substantial share of the course, roughly comparable to the other large periods, and Period 9, while the smallest slice, still supplies multiple choice questions, short answer material, and essay evidence every cycle. Examiners also love the modern era for a structural reason: its sources are abundant and varied. Photographs, television transcripts, campaign advertisements, court opinions, popular songs, and federal statistics all survive in forms that fit neatly into stimulus based questions. A student who skips the final fifth of the course surrenders easy stimulus points and, worse, loses the ending of nearly every long story the course tells, from the growth of federal power to the expansion of civil rights. The companion survey of the whole course, the [full APUSH guide](/2007/09/16/ap-us-history-complete-guide/), places these two periods inside the complete nine period framework and shows how their weight compares with earlier blocks.
 

@@ -6,15 +6,15 @@ date: 2007-10-09
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Literature", "Literary Argument", "FRQ Strategy", "Exam Strategy", "Essays"]
 excerpt: "AP English Literature ends with a single open question: argue a theme through a work you know by heart. Choice, memory, and nerve decide the essay score."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2007-10-09
+lang: en
 ---
-
 The third and final question of the AP English Literature free-response section hands the student something no other part of the exam offers: a choice. The poetry question supplies its poem. The prose question supplies its passage. Question 3 supplies only an idea, a theme stated in a sentence or two, and then steps back. Choose a work, the prompt says. Build an argument. Defend a reading of a novel or play that nobody in the room assigned for that morning, and defend it from memory, in handwriting, inside a suggested forty minutes shared with two other essays. For a prepared student, that freedom is the friendliest territory on the whole exam, because the ground was chosen months earlier, at a desk, with a book open. For an unprepared student, the same freedom is a trap with the door standing open: every work ever read competes for selection, memory blurs under pressure, and the clock does not negotiate.
 
-![A student choosing among classic novels and plays for the literary argument essay - Insight Crunch](/assets/images/blog/blog-14.webp)
+![A student choosing among classic novels and plays for the literary argument essay - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Everything about this question rewards decisions made long before the exam booklet opens. The score rests on a thematic argument grounded in a work the writer knows deeply, so the lever that moves the score is not a trick of phrasing learned in the final week. The lever is the shelf: the small set of complex novels and plays a student has read slowly, argued about in class, and revisited until characters, scenes, and sentences can be summoned on demand. A student who owns four or five such works owns the question, because nearly any theme the prompt names can be argued through at least one of them. A student who owns none is reduced to hoping the theme matches the one book half remembered from the previous autumn, and hope is not a strategy the rubric recognizes. The full shape of the course, its sections, and its scoring is mapped in the [complete AP English Literature guide](/2007/10/22/ap-english-literature-guide/), and this article takes one question from that map and walks it end to end: how the prompt is built, how readers score the response, how to choose the work, how to store evidence in memory, how to turn literary elements into meaning, and how to write the argument itself at exam speed.
 

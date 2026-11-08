@@ -6,19 +6,19 @@ date: 2007-04-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP World Languages", "World Languages", "Study Guide", "Exam Strategy", "Comparison"]
 excerpt: "Nine world languages, one shared AP design. This comparison maps how the language exams align, where they differ, and how heritage speakers choose well."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2007-04-07
+lang: en
 ---
-
 Choosing an AP world language looks simple from a course catalog and complicated from inside a real student's life. One candidate grew up hearing Spanish at the kitchen table and reading it only in text messages. Another has spent four school years building French sentence by sentence, workbook by workbook. A third fell in love with Japanese popular culture and wonders whether enthusiasm can substitute for coursework, while a fourth reads Latin for the pleasure of old stories and has never spoken a word of it aloud. Each of them faces a shelf of exams that share a family resemblance, yet each exam rewards a different history, a different set of habits, and a different kind of preparation.
 
 That is why a comparison has to go deeper than reputation. Students trade stories about which test is easy and which is brutal, but those stories usually describe the students who sat for the exam rather than the exam itself. The AP world language program was built on a shared architecture, with common themes, common communication goals, and a common proficiency target, and the meaningful differences live in delivery, in skill balance, in script and writing systems, and in the background a typical candidate brings through the door. Match the exam to the student and the choice becomes almost obvious. Mismatch them and even a strong student can spend a year preparing for a test that measures a profile they do not have.
 
 This guide compares the modern language exams in Spanish, French, German, Italian, Chinese, and Japanese with AP Latin, and it touches the separate Spanish Literature course where that course changes a decision. It maps format against format, weighs the years of study each exam quietly assumes, sorts out where heritage speakers thrive and where they stumble, and frames difficulty and college credit as patterns a family can reason about rather than rumors a hallway repeats. A single decision rule runs through every section: background and goals first, reputation last.
 
-![AP World Language Comparison - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP World Language Comparison - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## One Blueprint Behind the Modern Language Exams
 

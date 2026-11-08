@@ -6,19 +6,19 @@ date: 2007-06-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP Comparative Government", "Government", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "AP Comparative Government studies six countries through one framework. This guide maps the concepts, regime types, policy tools, scoring, and comparison method."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2007-06-05
+lang: en
 ---
-
 AP Comparative Government and Politics is the rare Advanced Placement course that treats the whole world as its classroom. Rather than tracing one nation's institutions in depth, the course sets six countries side by side, China, Iran, Mexico, Nigeria, Russia, and the United Kingdom, and asks students to explain how political power is organized, challenged, and justified in each one. A single analytical framework runs through every case, so a lesson about legislatures in London becomes a lens for reading legislatures in Beijing, and a study of elections in Mexico City sharpens the questions a student brings to elections in Moscow.
 
 That comparative design is exactly what makes the course powerful, and it is also what defeats students who prepare for it the wrong way. Anyone who memorizes six separate country summaries owns six fragile piles of facts, and an exam built around comparison will pull those piles apart. Students who thrive learn the concepts first, attach each country to those concepts, and practice moving evidence across borders on demand. This guide lays out the full model: the framework, the six cases, the exam format, the scoring logic, the question types, and a study path that builds comparative reasoning instead of rewarding recall alone.
 
 Parents and students often meet this course while comparing it with its better known sibling, and the complete guide to [AP US Government](/2007/06/14/ap-us-government-guide/) makes a useful companion read. Where the United States course goes deep on one constitutional system, the comparative course goes wide across six, trading some institutional detail for a broader theory of how regimes differ. Both courses reward the same underlying habit, though, since each asks students to connect structures to behavior and behavior to outcomes, in writing, under time pressure.
 
-![AP Comparative Government Complete Guide - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP Comparative Government Complete Guide - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## What the Course Is Really About
 

@@ -6,19 +6,19 @@ date: 2007-03-20
 categories: ["Industry"]
 tags: ["AP Exams", "AP Drawing", "Art and Design", "Study Guide", "Portfolio", "Arts"]
 excerpt: "The AP Drawing portfolio rewards mark-making, composition, and risk. This guide maps sustained investigation, selected works, the rubric, and submission."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2007-03-20
+lang: en
 ---
-
 Most Advanced Placement courses end with a clock, a booklet, and a room full of students writing against the same deadline. AP Drawing ends differently. Instead of a timed test, you assemble a body of work across a school year, photograph it, write about the thinking behind it, and send the whole package to trained readers who study each image and score the evidence you leave behind. The course is built around a simple conviction: drawing is a way of investigating the world, and a portfolio can show that investigation unfolding in a way no single afternoon of testing ever could.
 
 That difference changes everything about how you should prepare. Success does not come from memorizing facts or drilling timed responses. It grows out of sustained studio habits, a guiding question that keeps your hand moving, honest revision when a piece stalls, and written reflection that helps a stranger understand choices the images alone cannot explain. Students who treat the year as a slow accumulation of unrelated assignments usually end up with a scattered submission. Students who build around one inquiry, return to it from many angles, and document the process tend to produce work that reads as a coherent artistic voice.
 
 This guide walks through the entire structure in plain terms. You will find the two scored sections mapped against each other, the rubric rows readers apply, the role of written evidence, guidance on materials and mark-making, a realistic working calendar, and the mistakes that quietly pull scores down. Where a companion guide covers a neighboring topic in more depth, such as the broader advice in the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/), this page points you toward it so each part of your preparation sits in the right place.
 
-![AP Drawing Portfolio Guide - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Drawing Portfolio Guide - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 ## A Portfolio Instead of a Timed Exam
 

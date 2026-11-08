@@ -6,19 +6,19 @@ date: 2007-06-18
 categories: ["Industry"]
 tags: ["AP Exams", "AP Psychology", "Psychology", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "Development, disorders, and social influence form the human half of AP Psychology. This deep dive covers lifespan stages, abnormal psychology, and groups."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2007-06-18
+lang: en
 ---
-
 Three large territories share one habit of mind in this course: each asks why a person behaves as that person does, given a history, a mind under strain, and a surrounding crowd. Development traces change across the lifespan, from an infant learning whom to trust through an adolescent searching for identity and into an older adult reviewing a life. Abnormal psychology asks where ordinary variation ends and disorder begins, then pairs each pattern of difficulty with treatments designed to relieve it. Social psychology watches the individual inside the group, where presence, pressure, and perception quietly reshape choices that feel entirely private.
 
 Questions built from these territories rarely reward a memorized label alone. A prompt describes a toddler who protests when a caregiver leaves, a student who echoes friends she privately disagrees with, or a client whose dread of elevators governs his commute, and the credited response connects that scene to a construct. Groundwork for the whole subject sits in the [full Psychology guide](/2007/06/27/ap-psychology-complete-guide/), while the companion treatment of neurons, conditioning, and recall lives in the [biological bases, learning, and memory article](/2007/06/23/ap-psychology-bio-bases-learning-memory/). Reading both alongside this one gives the complete map before the deeper drills begin.
 
 Preparation pays best when scenarios lead and vocabulary follows. Build a small library of vivid cases, one for each major construct, then practice naming the principle inside each case and explaining why rival principles fit less well. That routine mirrors the scoring guides, which award credit for application rather than for reciting a theorist roster. Pair the routine with the [score-a-5 Psychology playbook](/2007/03/02/how-to-get-a-5-on-ap-psychology/) for pacing and review structure, and keep the [research methods and ethics article](/2006/07/07/ap-psychology-research-methods-ethics/) nearby, because study design questions borrow examples from every domain covered here.
 
-![AP Psychology: Developmental, Abnormal, Social - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP Psychology: Developmental, Abnormal, Social - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## How the Three Domains Fit Together
 

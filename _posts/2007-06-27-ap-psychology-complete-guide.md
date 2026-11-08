@@ -6,19 +6,19 @@ date: 2007-06-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP Psychology", "Psychology", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "AP Psychology looks gentle and grades on application. This guide maps the units, question types, research skills, scoring, and study path that earn top marks."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-113.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2007-06-27
+lang: en
 ---
-
 AP Psychology carries a friendly reputation that survives about one practice test. Students walk in expecting a gentle vocabulary exercise built around famous names and odd experiments, and they walk out having been asked to predict behavior, critique study designs, and explain why a memory failed inside a scenario they had never seen before. That gap between expectation and reality is the whole subject. The course teaches the science of behavior and mental processes, and the exam grades whether a student can use that science on fresh material rather than recite it back from a glossary page.
 
 A complete map helps before any studying begins. Knowing how the units divide the discipline, how the two sections divide the score, and how the free-response questions divide strong answers from weak ones turns a vague pile of terms into a structure a student can actually train against. This guide lays out that structure in full: the format, the content domains, the question types, the research skills, the scoring logic, and a study path that builds application skill in the order the exam rewards it.
 
 Plenty of students also meet advanced coursework for the first time through this class, which makes the guide doubly useful. Habits formed here, reading questions for their scenario before their terminology, checking what a study can and cannot prove, and writing answers that apply a named concept to a named detail, transfer to every other exam in the series. The broader roadmap in the [AP Exams complete guide](/2008/11/08/ap-exams-complete-guide/) shows where this course sits among its neighbors, and the pages that follow here stay focused on psychology itself: what it contains, how it is scored, and how a prepared student earns the top mark.
 
-![AP Psychology Complete Guide - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP Psychology Complete Guide - Insight Crunch](/assets/images/blog/blog-113.webp)
 
 ## A Science of Behavior, Not a Gallery of Names
 

@@ -6,19 +6,19 @@ date: 2007-03-25
 categories: ["Industry"]
 tags: ["AP Exams", "AP 3-D Art and Design", "Art and Design", "Study Guide", "Portfolio", "Arts"]
 excerpt: "The AP 3-D Art and Design portfolio judges form in space through photographs. This guide maps sustained investigation, selected works, the rubric, and evidence."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2007-03-25
+lang: en
 ---
-
 A ceramic vessel can be turned in the hands, walked around, and lifted to feel its weight, yet the readers who score the AP 3-D Art and Design portfolio will never touch it. They will meet the work as a set of photographs on a screen, accompanied by short written statements, and from those flat images they must judge volume, balance, surface, and ambition. That single fact shapes everything about the portfolio. The exam is not a timed test with bubbles and essays. It is a body of three-dimensional work, built across a school year, photographed with care, and submitted digitally, and the students who score well are the ones who understand early that they are really submitting two things at once: the objects they made, and the evidence that lets a stranger see those objects clearly.
 
 Because the portfolio replaces a written exam, its structure rewards habits that a one-day test cannot measure. A sustained investigation follows one line of inquiry through many pieces, false starts, and revisions, so persistence and honest change become visible parts of the grade. Five selected works then stand apart as finished statements, the pieces a student would put forward if a gallery asked for the strongest objects in the room. Around both sections sits the written evidence, brief statements that name the guiding questions, the materials, and the processes, giving readers the vocabulary they need to interpret what the photographs show. None of this can be assembled in a weekend. The portfolio is closer to an apprenticeship compressed into a school year, and this guide walks through its sections, its scoring rows, its image limits, and the practical decisions that separate a coherent submission from a pile of unrelated objects.
 
 One warning belongs at the start, because it overturns the assumption most beginners bring into the studio. Technical polish alone does not carry a 3-D portfolio. A flawlessly glazed bowl that answers no question, risks nothing, and resembles every other bowl in the kiln room may photograph beautifully and still earn a middling score, because the rubric pays for inquiry, experimentation, and revision alongside skill. The investigation matters as much as the objects it produces. Students who grasp that trade early build differently: they test, break, rebuild, and document as they go, and their final photographs show a mind working in three dimensions rather than a hand merely copying forms.
 
-![AP 3-D Art and Design Portfolio Guide - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP 3-D Art and Design Portfolio Guide - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## What the AP 3-D Art and Design Portfolio Actually Is
 

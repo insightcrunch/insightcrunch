@@ -6,17 +6,17 @@ date: 2007-05-04
 categories: ["Industry"]
 tags: ["AP Exams", "AP French", "French", "Study Guide", "Exam Strategy", "World Languages"]
 excerpt: "AP French Language tests communication across listening, reading, speaking, and writing. This guide maps the six themes, task types, scoring, and strategy."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2007-05-04
+lang: en
 ---
-
 AP French Language and Culture is an exam about using French, not merely knowing facts about French. Every task on it asks you to do something with the language: understand a broadcast, answer an email, argue a position, or hold a conversation. Students who prepare by memorizing verb charts alone usually discover that the exam rewards a different ability, the ability to communicate meaning inside real cultural contexts. This guide builds a complete model of the test, from its two sections and four task types to its scoring, its six global themes, and a study path that matches how the exam actually measures proficiency.
 
 The course behind the exam assumes several years of prior study, and the test is calibrated for students who have built genuine proficiency through sustained coursework. That proficiency is organized around three modes of communication: interpretive, interpersonal, and presentational. Interpretive work means making sense of texts and audio you did not create. Interpersonal work means exchanging messages and conversation with another person. Presentational work means producing speech or writing for an audience. Every scored task on the exam belongs to one of these modes, and understanding which mode you are in at any moment tells you exactly what the graders are looking for.
 
-![AP French Language and Culture Guide - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP French Language and Culture Guide - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 ## The Exam at a Glance: The InsightCrunch French Exam Map
 

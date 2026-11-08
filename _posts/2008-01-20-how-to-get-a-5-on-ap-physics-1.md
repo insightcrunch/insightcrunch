@@ -6,15 +6,15 @@ date: 2008-01-20
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Physics 1 pays for reasoning, and a 5 is a trainable result. This playbook sets the dated plan, the priority units, and the habits that cap scores."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2008-01-20
+lang: en
 ---
-
 A 5 on AP Physics 1 sits closer than most students believe, and farther than most study habits reach. The distance between a typical prepared student and the top score is rarely a distance of talent or of hours. Plenty of students log long evenings with this course and stall at a 3 or a 4, while classmates with similar transcripts and similar mathematics grades break through. The difference is almost never how much physics the two groups have seen. It is what each group practiced doing with the physics. One group practiced recognizing formulas and executing procedures on problems that resembled the homework. The other practiced reading an unfamiliar situation, deciding which principle governs it, and explaining that decision in sentences a grader can reward. The exam pays for the second set of skills, openly and consistently, across both of its sections. A student who trains those skills on a schedule, in the order the exam weights them, turns the 5 from a hope into a plan.
 
-![A student working through an AP Physics 1 five-point study plan with priority units and weekly milestones - Insight Crunch](/assets/images/blog/blog-06.webp)
+![A student working through an AP Physics 1 five-point study plan with priority units and weekly milestones - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 This playbook is that plan, and it carries a name worth remembering: the InsightCrunch Physics 1 5-point plan, a dated path to a 5 in AP Physics 1 built from the course's own structure. It assumes the reader already has access to the full content treatment in [the complete AP Physics 1 guide](/2008/03/28/ap-physics-1-complete-guide/), which maps every unit, the scoring, and the experimental strand in depth. What follows here is narrower and more operational. It ranks the units by the points they control, sequences sixteen weeks of work and a six-week rescue version, names the practice that moves scores fastest, and catalogs the mistakes that quietly cap capable students below the top band. Where free-response tactics need more room than a playbook allows, it hands off to [the physics free-response strategy article](/2008/02/21/ap-physics-frq-strategy-all-exams/). Everything else a 5 requires fits on these pages.
 

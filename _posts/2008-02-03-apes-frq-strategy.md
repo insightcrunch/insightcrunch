@@ -6,17 +6,17 @@ date: 2008-02-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Environmental Science free response rewards shown units, specific and feasible solutions, and justified claims across three questions in seventy minutes."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2008-02-03
+lang: en
 ---
-
 The AP Environmental Science free response section is where strong content knowledge goes to be converted into points or quietly wasted, and the conversion rate depends almost entirely on craft. Three questions, seventy minutes, thirty points, forty percent of the examination score: the arithmetic of the section is simple, and yet every May, students who can explain eutrophication fluently in conversation hand in pages that earn half of what their understanding deserves. The losses rarely come from missing knowledge. They come from calculations reported as bare numbers with no units attached, from solutions proposed at the level of slogan rather than mechanism, and from explanations that assert a claim without ever building the chain of cause and effect that a reader is paid to find.
 
 AP Environmental Science free response rewards a particular kind of writing: quantitative work with its units displayed like evidence, experimental designs with named variables and real controls, and environmental solutions specific enough that a skeptical reader can picture them operating in an actual watershed, farm, or city. This article teaches that craft in full. It maps the three recurring question types and the part types nested inside them, decodes how readers turn prose into points, walks through constructed archetype questions in calculation, design, and solution building, and names the habits that separate a ten-point answer from a four-point answer written by a student who knew the same science.
 
-![AP Environmental Science free-response strategy and scoring breakdown - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP Environmental Science free-response strategy and scoring breakdown - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 ## Where APES Free Response Bleeds Points
 

@@ -6,19 +6,19 @@ date: 2007-03-29
 categories: ["Industry"]
 tags: ["AP Exams", "AP 2-D Art and Design", "Art and Design", "Study Guide", "Portfolio", "Arts"]
 excerpt: "The AP 2-D Art and Design portfolio grades sustained investigation over single pieces. This guide maps the sections, rubric rows, evidence, and submission."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2007-03-29
+lang: en
 ---
-
 Most Advanced Placement courses end with a timed examination in a quiet room, rows of students working against a clock. AP 2-D Art and Design ends differently. Instead of a single sitting, the course asks for a body of work assembled across months: photographs of flat artwork, digital images, prints, designs, and collages gathered into one submission that readers study image by image. The grade grows out of decisions made in a studio rather than answers marked in a booklet, and that difference shapes everything about how a student should prepare.
 
 A strong submission rests on two habits that reinforce each other. One habit is depth: choosing a genuine question and pursuing it through many pieces until the work itself shows growth, risk, and revision. The other habit is judgment: selecting finished pieces that prove skill across materials and processes when the inquiry-driven pieces are set aside. Students who understand how those two habits map onto the scoring rubric can plan a school year with unusual clarity, because nearly every studio session either feeds the investigation or sharpens the craft that the selected works must display.
 
 This guide walks through the whole structure. It explains the two sections and their weights, the rubric rows readers apply, the written evidence that travels with the images, the media that suit flat work, and the documentation habits that keep good art from being undersold by poor photography. It also confronts the most persistent misconception in the course, the belief that polished technique by itself earns the top score, and it closes with a practical account of starting well during the opening weeks of the year.
 
-![AP 2-D Art and Design Portfolio Guide - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP 2-D Art and Design Portfolio Guide - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## What the AP 2-D Art and Design Portfolio Actually Is
 

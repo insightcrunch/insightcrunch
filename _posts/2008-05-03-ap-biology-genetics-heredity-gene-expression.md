@@ -6,17 +6,17 @@ date: 2008-05-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology genetics rewards a procedure over guesswork, and this deep dive builds the heredity problem tree for crosses, pedigrees, and gene expression."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2008-05-03
+lang: en
 ---
-
 AP Biology genetics is the strand where strong students separate themselves, not because the ideas are the hardest in the course, but because the questions reward a procedure executed calmly under time pressure. A heredity problem hands you a paragraph of family history or a table of offspring counts and asks what must be true. Students who improvise a fresh method for every problem run out of time and confidence. Students who run one reliable decision path, choosing the right tool for the problem in front of them, collect points that their classmates leave scattered across the page. Gene expression works the same way. The molecular machinery is intricate, yet the exam asks a small set of questions about it again and again: what is copied, what is built, what switches the process on or off, and what breaks when a single nucleotide changes.
 
 This deep dive treats genetics, heredity, and gene expression as one connected territory. Inheritance patterns and crosses come first, because they generate the data the rest of the course interprets. Transcription, translation, regulation, and mutation follow, because they explain where inherited differences come from and how a genotype becomes a living trait. Biotechnology closes the loop, since the exam loves asking what a band on a gel or a copied fragment of DNA actually proves. Throughout, the spine is the InsightCrunch heredity problem tree, a decision path that tells you which cross, which probability rule, and which test fits a given problem before you compute anything at all.
 
-![AP Biology genetics and gene expression with heredity problem solving and worked crosses - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Biology genetics and gene expression with heredity problem solving and worked crosses - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 ## Where heredity and gene expression sit inside the exam
 

@@ -6,19 +6,19 @@ date: 2007-03-02
 categories: ["Industry"]
 tags: ["AP Exams", "AP Psychology", "Psychology", "Score 5", "Exam Strategy", "Social Studies"]
 excerpt: "A 5 on AP Psychology comes from applying concepts to scenarios fast. This playbook maps the units, question types, research skills, and a study system."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2007-03-02
+lang: en
 ---
-
 Earning a 5 on AP Psychology rarely comes down to who memorized the longest glossary. Strong scorers share a different habit: they read a short scenario about a student, a patient, a researcher, or a crowd, and they name the psychological principle operating inside it within seconds. Every question on the exam, from a multiple choice stem about a toddler refusing vegetables to a free-response prompt about a flawed experiment, rewards that single skill of application. Preparation built around scenarios therefore outperforms preparation built around definitions, because the test itself is written in scenarios from the first item to the last.
 
 None of this means vocabulary can be skipped. Psychology has a technical language, and a student who cannot distinguish negative reinforcement from punishment will misread scenarios no matter how much practice accumulates. The distinction that matters is between knowing a term as a dictionary entry and knowing it as a tool. A dictionary entry says that classical conditioning involves a neutral stimulus acquiring the power to elicit a response. A tool says that when a scenario describes a dog salivating at a bell, a child flinching at a dentist office smell, or a song producing nausea after one bad meal, the same mechanism is at work and the answer choices can be sorted accordingly.
 
 This playbook assembles the whole path. It maps the structure of the exam, explains where the score band for a 5 usually sits, gives research methods the attention the scoring rewards, and walks through each content area with an emphasis on the confusions that cost points. It then lays out a dated study calendar, a multiple choice system, a free-response method, and a catalogue of the mistakes that quietly cap otherwise capable students at a 3 or a 4. The full content foundation lives in the [AP Psychology complete guide](/2007/06/27/ap-psychology-complete-guide/), and this article assumes a reader who can return to that guide for any topic that needs a first careful reading.
 
-![How to Get a 5 on AP Psychology - Insight Crunch](/assets/images/blog/blog-03.webp)
+![How to Get a 5 on AP Psychology - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 ## What a 5 Actually Requires
 

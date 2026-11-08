@@ -6,19 +6,19 @@ date: 2007-03-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "APUSH", "Score 5", "Exam Strategy", "History"]
 excerpt: "A 5 on AP US History comes from reasoning under time pressure. This playbook maps the rubrics, the four question types, period weights, and a study system."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2007-03-07
+lang: en
 ---
-
 A 5 on AP US History is rarely the prize of the student who memorized the most dates. It belongs, far more often, to the student who learned to think with evidence under a clock: reading a document and asking who wrote it and why, building an argument that survives counterevidence, and explaining how one era grew out of the era before it. The content load is real, and nobody earns the top score without knowing the material. Knowledge alone, though, behaves like lumber stacked in a yard. The exam rewards the carpenter, the one who can cut, join, and brace that material into a structure while the minutes run down.
 
 This playbook treats the 5 as a trainable outcome rather than a talent. It walks through the four question types and what each one actually scores, translates the published rubrics into daily habits, and lays out a dated study calendar with weekly milestones. It also names the mistakes that quietly cap strong students at a 4: the summary disguised as an argument, the document quoted but never interpreted, the essay that answers a broader question than the one printed on the page. Each error is fixable, and most fixes take weeks rather than months once a student can see them clearly.
 
 One promise runs through every section. Nothing here depends on guessing cut scores or chasing secret thresholds, because the College Board does not publish a fixed raw point total for a 5 and the conversion shifts from one administration to the next. What stays stable is the shape of the work: strong performance across multiple choice, short answers, the document based question, and the long essay, with reasoning quality separating the top band from the band beneath it. Prepare for the shape of the work, and the score follows.
 
-![How to Get a 5 on AP US History - Insight Crunch](/assets/images/blog/blog-02.webp)
+![How to Get a 5 on AP US History - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 ## What a 5 Actually Requires
 

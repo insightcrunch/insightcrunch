@@ -6,15 +6,15 @@ date: 2008-01-29
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "Learn how to get a 5 on AP Biology with a dated sixteen-week plan, the eight units ranked by exam weight, and the mistakes that cap strong students at a 4."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2008-01-29
+lang: en
 ---
-
 The distance between a strong AP Biology student and a 5 is rarely measured in facts. Students imagine the gap is a stack of unlearned chapters: more pathways to memorize, more vocabulary to absorb, more diagrams to trace. Spend time with scored answer booklets and a different gap comes into focus. The 4 and the 5 often know the same biology. Where they separate is what they do with it under pressure. One answer recites a mechanism from memory and hopes the reader connects it to the scenario. The other reads an unfamiliar organism in an unfamiliar setting, pulls the governing principle out of the story, and builds a claim the data can carry. Learning how to get a 5 on AP Biology is mostly learning to produce that second answer on demand, in May, inside a three-hour sitting.
 
-![How to get a 5 on AP Biology with a dated study plan, ranked units, and reasoning practice - Insight Crunch](/assets/images/blog/blog-04.webp)
+![How to get a 5 on AP Biology with a dated study plan, ranked units, and reasoning practice - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 No honest playbook promises a score, because preparation controls inputs rather than outcomes. What a plan can do is remove the randomness from those inputs: sequence the work by exam weight, rehearse reasoning instead of recognition, and convert every practice answer into evidence about what to repair next. The full map of the course lives in [the complete AP Biology guide](/2008/05/12/ap-biology-complete-guide/), and the deep dives carry the topic depth unit by unit. This article does a narrower job. It assumes the content exists somewhere in the reader's head and asks how a candidate turns that content into the highest score on the scale.
 

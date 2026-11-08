@@ -6,15 +6,15 @@ date: 2007-07-11
 categories: ["Industry"]
 tags: ["AP Exams", "AP Human Geography", "Human Geography", "Study Guide", "Exam Strategy", "Geography"]
 excerpt: "AP Human Geography explained in full: seven units, core models, question types, scoring, and a study path designed for a confident first AP experience."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2007-07-11
+lang: en
 ---
-
 Some courses ask students to memorize a body of facts, and AP Human Geography only pretends to be one of them. The vocabulary list looks long, the atlas pages look dense, and the first week of class can feel like a spelling contest built around words like agglomeration and acculturation. Underneath that surface sits a different subject entirely, one concerned with patterns on the surface of the Earth and the processes that produced them. A rice terrace, a suburban cul-de-sac, a language boundary, a refugee corridor, a factory cluster: each is treated as evidence, and the student's job is to read that evidence the way a geographer would, asking where things are, why they are there, and what follows from that arrangement.
 
-![AP Human Geography world patterns, maps, and models - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP Human Geography world patterns, maps, and models - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Readers who finish this guide will hold a complete model of the examination: the seven units and the weight each one carries, the two sections and the question types inside them, the skills the course framework treats as the real curriculum, the scoring machinery that converts raw answers into a reported score, and a study path that builds from vocabulary toward genuine application. Human Geography occupies a special place in the Advanced Placement catalog because schools so often offer it early, sometimes in ninth grade, which makes it the first college-level examination many students ever meet. That early placement shapes how the course should be studied, and this guide returns to that framing repeatedly, because a first AP rewards habits even more than it rewards prior knowledge.
 

@@ -6,19 +6,19 @@ date: 2007-07-02
 categories: ["Industry"]
 tags: ["AP Exams", "AP Human Geography", "Geography", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "Agriculture, cities, and political power shape half of AP Human Geography. This deep dive maps the models, terms, and spatial reasoning the exam rewards."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2007-07-02
+lang: en
 ---
-
 Three of the seven units in AP Human Geography ask a single underlying question in different costumes: why does human activity arrange itself across space in one pattern rather than another? Agriculture asks the question about fields, pastures, and plantations. Urban geography asks it about neighborhoods, suburbs, and entire settlement systems. Political geography asks it about states, boundaries, districts, and alliances. A student who sees only three separate vocabulary lists misses the shared logic underneath, and that shared logic is exactly what the exam rewards most generously.
 
 Fields, cities, and states also lean on one another in ways the free response questions love to expose. Farms cluster where transport and markets make their products profitable, and those markets are cities. Cities grow where food surpluses, trade routes, and administrative power converge, and those forces are political. Governments draw boundaries, subsidize crops, zone land, and draw electoral districts, which then reshapes both farming and urban life. Treating the three units as one connected system turns memorized terms into usable reasoning.
 
 What follows works through each territory at exam depth: agricultural revolutions and land use, the von Thunen model, urbanization and the classic city models, rank-size and central place theory, then states, boundaries, devolution, supranationalism, and gerrymandering. Population and migration receive their own companion treatment elsewhere in this series, and readers building a full preparation plan can anchor everything here to the broader map in the [AP Exams complete guide](/2008/11/08/ap-exams-complete-guide/). Every model below is handled the same way: what it predicts, where it fits, where it breaks, and how a question writer would test it.
 
-![AP Human Geography: Agriculture, Cities, Politics - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Human Geography: Agriculture, Cities, Politics - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## Three Units, One Spatial Habit of Mind
 

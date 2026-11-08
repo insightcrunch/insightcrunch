@@ -6,17 +6,17 @@ date: 2007-03-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP Art and Design", "Art and Design", "Study Guide", "Portfolio", "Arts"]
 excerpt: "Portfolio strategy separates AP Art and Design scores more than talent. This guide maps theme choice, evidence selection, documentation, and revision."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2007-03-16
+lang: en
 ---
-
 Every spring, thousands of students assemble years of studio work into a digital submission and discover, too late, that strong individual pieces do not automatically add up to a strong score. AP Art and Design rewards something different from a greatest hits collection. Readers look for a sustained investigation, a line of inquiry pursued across many works, with evidence of practice, experimentation, and revision woven through the whole submission. Strategy, in other words, is not decoration added after the art is finished. Strategy is the architecture that lets good art read as a coherent, developing argument in visual form.
 
 That architecture can be built deliberately, and building it does not require unusual talent or expensive materials. A student needs one genuine question worth chasing for months, a working rhythm that produces far more work than the submission can hold, honest records of what was tried and what changed, and the discipline to select, document, and describe the final pieces with care. Each of those elements is learnable. Each also fails in predictable ways when left to the final weeks of the course, which is why this guide treats the entire year as the real unit of planning rather than the submission deadline alone.
 
-![AP Art and Design Portfolio Strategy - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Art and Design Portfolio Strategy - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## Why Coherence Beats a Collection of Best Pieces
 

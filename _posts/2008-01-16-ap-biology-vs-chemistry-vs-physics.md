@@ -6,19 +6,19 @@ date: 2008-01-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP Sciences", "Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Biology vs Chemistry vs Physics compares the core AP sciences on math demand, workload, difficulty, scoring patterns, and college credit to guide the choice."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-01-16
+lang: en
 ---
-
 ## Three sciences, one schedule slot
 
 Every spring, counselors watch the same negotiation unfold in course-selection meetings. A student with room for one advanced science asks whether AP Biology vs Chemistry vs Physics is the smarter pick, and the adults in the room answer from reputation: Biology is the gentle one, Chemistry is the grind, Physics is the one that humbles people. Reputation is a poor counselor. Each of these exams rewards a different kind of mind, punishes a different weakness, and converts into a different kind of college value, so the correct answer depends on who is asking, what they intend to study, and which skills they already own.
 
 This comparison replaces reputation with a rule. The right AP science is the one whose daily work matches the student's strengths and whose credit and preparation value match the student's plans. A student who reads dense prose happily and thinks in systems will find Biology's volume manageable and its reasoning familiar. A student who trusts arithmetic and likes problems with checkable answers will settle into Chemistry's rhythm. A student who would rather master a handful of laws and apply them relentlessly will thrive in Physics, provided the algebra underneath is solid. None of these is a consolation prize, and none is a shortcut.
 
-![AP Biology vs Chemistry vs Physics comparison of math demand, workload, difficulty, and college fit - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP Biology vs Chemistry vs Physics comparison of math demand, workload, difficulty, and college fit - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 What follows compares the three core sciences on the dimensions that actually decide outcomes: content style, math demand, memorization load, workload shape, exam format, scoring patterns, laboratory culture, and college value. Pass rates and credit policies are described as patterns rather than fixed figures, because both shift from year to year and from campus to campus. The depth on any single subject lives in its own guide, and this article links to each one at the points where a reader's decision narrows to a single science.
 

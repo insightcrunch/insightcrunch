@@ -6,15 +6,15 @@ date: 2007-08-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP World History", "World History", "DBQ", "FRQ Strategy", "History"]
 excerpt: "AP World History free response rewards argument over recall: grouped and sourced DBQ evidence, a defended LEQ thesis, and exact SAQ answers, task by task."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2007-08-07
+lang: en
 ---
-
 Three written tasks stand between a prepared student and the back half of an AP World History score, and each one punishes a different bad habit. The short-answer questions punish rambling, because their points hide inside small, precise moves that a wandering paragraph buries. The document-based question punishes description, because its rubric pays for an argument built out of grouped and sourced evidence rather than a tour of the document set. The long essay question punishes vagueness, because it hands the writer no documents at all and asks memory to supply evidence specific enough to defend a claim. Students who drill content alone walk into the room knowing a great deal of history and still leak points on every task, not because the knowledge is missing but because the craft of converting knowledge into scored moves was never practiced as a craft.
 
-![AP World History free response strategy, DBQ grouping and sourcing, LEQ argument and SAQ precision - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP World History free response strategy, DBQ grouping and sourcing, LEQ argument and SAQ precision - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 One discipline unites the three tasks. Every point on every rubric in this course is attached to an act of reasoning that a reader can locate on the page: a thesis that takes a position, a piece of evidence chosen because it proves something, an explanation of why a source says what it says, a comparison that names both similarity and difference. Recall supplies the raw material, and reasoning is the machinery that turns raw material into credit. That is why this strategy guide treats the three tasks as one subject taught three ways, and why the [complete guide to AP World History](/2007/08/20/ap-world-history-complete-guide/) handles course content, periodization, and unit weight while the pages below handle only the writing itself. Master the machinery once, and each new prompt becomes a familiar machine with unfamiliar labels.
 

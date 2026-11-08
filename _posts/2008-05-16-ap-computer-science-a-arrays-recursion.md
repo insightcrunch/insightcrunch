@@ -6,17 +6,17 @@ date: 2008-05-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science A", "Computer Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Computer Science A's array and recursion questions repeat a small family of traversal and base-case patterns. Master the patterns and the points follow."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2008-05-16
+lang: en
 ---
-
 Four of the ten units in AP Computer Science A orbit a single skill: storing a collection of values and then doing something reliable with every one of them. Arrays hold the collection in fixed slots. ArrayLists hold it in a structure that grows and shrinks. Two-dimensional arrays arrange it in a grid. Recursion attacks it one shrinking piece at a time. Students tend to study these as four separate topics and meet the exam surprised by how often a single question blends them, asking for a recursive helper over a list, or a nested traversal that fills a grid, or a free-response part that removes elements while it counts them. The blend is the point. Whoever owns the underlying patterns owns all four units at once, because the patterns are few, they repeat without disguise, and the exam rewards executing them cleanly far more than it rewards inventing anything.
 
 That is the promise this deep dive keeps. It teaches the traversal patterns, the accumulator patterns, the grid patterns, and the base-case pattern at working depth, with code you can trace by hand and results you can check. It also draws the borders honestly. Object-oriented design, the class-writing craft that frames many of these questions, lives in the [OOP and FRQ patterns deep dive](/2008/06/30/ap-computer-science-a-oop-frq/), and the sorting and searching algorithms with their efficiency story live in the [sorting and algorithms deep dive](/2006/06/05/ap-computer-science-a-sorting-algorithms/). What belongs here is the machinery those articles assume: how a loop visits every slot, how a list survives surgery during a traversal, how a grid yields its rows and columns in either order, and how a recursive method divides a problem until the pieces answer themselves.
 
-![AP Computer Science A arrays and recursion patterns with traversal, grids, and base cases - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP Computer Science A arrays and recursion patterns with traversal, grids, and base cases - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 ## Where arrays and recursion sit inside the exam
 

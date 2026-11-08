@@ -6,19 +6,19 @@ date: 2007-06-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Psychology", "Psychology", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "Neurons, conditioning, and memory carry the science in AP Psychology. This deep dive explains biological bases, learning theory, and the cognition tested."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2007-06-23
+lang: en
 ---
-
 AP Psychology rests on a scientific spine, and the spine is built from three connected territories: the biology that makes behavior possible, the learning that shapes behavior through experience, and the memory systems that carry experience forward into cognition. Questions drawn from these territories rarely ask for a bare definition read back from a glossary. Instead, the exam stages a small scene, perhaps a driver slamming a brake pedal, a rat pressing a lever for the fortieth time, or a student staring at a familiar name that refuses to surface, and then asks which concept explains what just happened. A student who has memorized vocabulary without practicing recognition will feel the ground shift under familiar material, while a student who has trained on applied examples will see the concept hiding inside the scene almost immediately.
 
 Nowhere does that gap widen more than in the brain material, which many students approach as a labeling exercise, as if the test wanted a colored diagram reproduced from memory. That reading of the unit is a trap. The exam treats anatomy as a set of causal levers: damage this structure and a specific behavior changes, stimulate that pathway and a specific feeling rises, block a chemical messenger and a specific symptom follows. Every structure earns its place in the course because of what it does to behavior, and every question about a structure is secretly a question about the behavior it governs. Studying the brain as a cast of characters, each with a job and a signature failure, converts the most intimidating unit in the course into one of the most predictable.
 
 What follows moves through the territory in the order the mind itself works: signals first, then systems, then the senses that feed them, then the learning that rewires them, then the memory and thinking that the rewiring supports, and finally the states of consciousness and the intelligence testing that attempt to measure the whole apparatus. Along the way, the InsightCrunch Psychology bio-cognition table gathers the core mappings between concept and applied example in one place, because that mapping is precisely the skill the exam scores. Readers who want the full course map before drilling into this territory can start with [the complete AP Psychology guide](/2007/06/27/ap-psychology-complete-guide/), which lays out every unit and shows where the biological and cognitive material sits inside the larger subject.
 
-![AP Psychology: Bio Bases, Learning, Memory - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP Psychology: Bio Bases, Learning, Memory - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## One System, Many Levels: The Biological Bases of Behavior
 

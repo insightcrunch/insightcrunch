@@ -6,19 +6,19 @@ date: 2007-05-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP Microeconomics", "Economics", "Study Guide", "Exam Strategy", "Social Studies"]
 excerpt: "AP Microeconomics is a course about choices at the margin. This guide maps supply and demand, market structures, factor markets, graph skills, and scoring."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2007-05-27
+lang: en
 ---
-
 Every price tag is a decision frozen in place. Behind the number on a coffee cup sits a grower weighing fertilizer costs, a roaster weighing fuel, a cafe owner weighing rent against the wage of one more barista, and a customer weighing that cup against everything else the same money could buy. AP Microeconomics studies decisions at exactly that scale: one buyer, one seller, one market at a time. It asks how individuals and firms allocate scarce resources, how prices coordinate millions of separate choices, and why markets sometimes steer those choices toward outcomes nobody would have picked on purpose.
 
 That focus makes the course unusually teachable. Unlike subjects that reward wide reading and long memorization lists, microeconomics runs on a small set of models that repeat across the whole syllabus. A handful of graphs carries nearly every question the exam can ask, and each graph is a machine the student learns to operate rather than a picture to admire. Supply and demand, the cost curves, the four market structures, the factor market diagram, and the externality wedge form a connected toolkit. Master the toolkit and new questions stop looking new, because a tariff problem, a minimum wage problem, and a pollution problem all turn out to be the same few moves applied to different drawings.
 
 This guide walks the full territory in the order the exam itself is built. It lays out the format and scoring first, then maps each of the six units to the graph that anchors it, then works through the ideas unit by unit with numbers, worked examples, and the traps that cost students points. Readers who want the wider map of the whole AP program can start from the [AP Exams complete guide](/2008/11/08/ap-exams-complete-guide/) and return here for the economics detail. By the final section, a student should be able to pick up any microeconomics graph, label it from scratch, and say exactly what the exam wants read off it.
 
-![AP Microeconomics Complete Guide - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Microeconomics Complete Guide - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## A Course Built on Choices at the Margin
 
