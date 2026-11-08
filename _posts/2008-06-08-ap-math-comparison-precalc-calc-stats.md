@@ -6,15 +6,15 @@ date: 2008-06-08
 categories: ["Industry"]
 tags: ["AP Exams", "Mathematics", "Study Guide", "Course Selection", "Exam Strategy"]
 excerpt: "Compare the four AP math courses head to head: Precalculus, Calculus AB, Calculus BC, and Statistics, for difficulty, prerequisites, credit, and best majors."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2008-06-08
+lang: en
 ---
-
 Four courses share the AP mathematics shelf, and students routinely choose among them as if they were four sizes of the same garment. They are not. AP Precalculus builds the function fluency that later mathematics assumes. AP Calculus AB studies change itself, the derivative and the integral, across a first semester of college calculus. AP Calculus BC covers that same ground and then keeps going, into series, parametric motion, and polar area, at the depth of a second semester. AP Statistics leaves the calculus road entirely and teaches a different discipline: how to gather evidence, reason under uncertainty, and argue from data. Choosing well among them is less a ranking problem than a sequencing problem, because the right answer depends on where a student stands, where the student is headed, and how much runway remains before graduation.
 
-![AP math courses compared across Precalculus, Calculus AB, Calculus BC, and Statistics - Insight Crunch](/assets/images/blog/blog-05.webp)
+![AP math courses compared across Precalculus, Calculus AB, Calculus BC, and Statistics - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 ## The decision this comparison exists to settle
 

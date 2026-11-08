@@ -6,15 +6,15 @@ date: 2008-07-14
 categories: ["Industry"]
 tags: ["AP Exams", "AP Statistics", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Statistics is the AP mathematics course built on evidence: designing studies, reading data, and defending conclusions in clear writing on every section."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2008-07-14
+lang: en
 ---
-
 AP Statistics occupies a strange position in the AP catalog. Counselors describe it as the approachable mathematics option, students repeat that description to each other, and then the May administration arrives and a large share of those students discover that the exam never asked them to be brilliant at arithmetic. It asked them to design a study that could actually answer a question, to look at a messy distribution and say what the mess means, to run an inference procedure only after checking whether the procedure was allowed to run, and to write the conclusion in sentences a skeptical reader would accept. AP Statistics is a course about evidence and argument wearing a mathematics label, and the students who understand that early study for a completely different exam than the students who treat it as a softer algebra class.
 
-![AP Statistics complete guide with data displays, study design, probability, and inference themes mapped in exam weight order - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP Statistics complete guide with data displays, study design, probability, and inference themes mapped in exam weight order - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The score gap in this subject is rarely a knowledge gap in the simple sense. Two students can both compute a standard deviation, both state the formula for a confidence interval, and both recognize a normal distribution on sight, yet finish two full points apart because one of them writes conclusions tied to the context of the problem while the other writes conclusions tied to the numbers alone. Graders pay for interpretation. They pay for conditions checked before procedures, for language that matches the strength of the evidence, and for designs that name their own weaknesses before the rubric does. None of that is talent. All of it is trainable, and training it requires a map of the exam that shows where the points actually live rather than where the textbook chapters happen to sit. That map is the business of this guide, and its organizing tool has a name: the InsightCrunch Statistics theme map, a study order built from the exam's own weights instead of from the order in which a course calendar unfolds.
 

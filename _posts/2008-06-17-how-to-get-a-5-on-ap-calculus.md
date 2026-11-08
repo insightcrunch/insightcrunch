@@ -6,17 +6,17 @@ date: 2008-06-17
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "Learn how to get a 5 on AP Calculus with a dated study plan, exam-weight topic priorities, timed practice, and the error fixes that separate a 5 from a 4."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-06-17
+lang: en
 ---
-
 Every spring, students who worked hard all year in AP Calculus open their score reports and find a 4, or a 3, and wonder what the students who earned 5s did that they did not. The honest answer is rarely a mystery of talent. A 5 in AP Calculus is not a prize reserved for the fastest minds in the room. It is the predictable output of a particular kind of preparation: practice weighted toward the topics the exam actually emphasizes, rehearsal under real time pressure, free-response answers written for a grader rather than for a teacher who already knows what the student meant, and a ruthless campaign against the small errors that quietly drain points from otherwise strong papers. The distance between a typical prepared student and a 5 is real, but it is measurable, and anything measurable can be closed on purpose.
 
 This playbook lays out that closing campaign. It synthesizes the full subject guides into a single plan: what a 5 requires in raw terms, which units deserve the deepest study because they carry the most points, a dated calendar in sixteen-week and six-week versions, the section habits that protect a score once the knowledge is in place, and the mistakes that cap capable students one band below where their understanding should have put them. Nothing here promises a result, because no plan can. What a disciplined plan can do is remove the accidents. Students who follow one stop losing points they already owned, and for most students standing near the boundary, that recovered ground is exactly the width of the gap.
 
-![How to get a 5 on AP Calculus with a weight-prioritized study plan, timed practice, and error repair - Insight Crunch](/assets/images/blog/blog-03.webp)
+![How to get a 5 on AP Calculus with a weight-prioritized study plan, timed practice, and error repair - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 ## The honest distance between a prepared student and a 5
 

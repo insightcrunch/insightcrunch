@@ -6,17 +6,17 @@ date: 2008-10-16
 categories: ["Industry"]
 tags: ["AP Exams", "Exam Strategy", "Study Guide", "Test Day", "College Admissions"]
 excerpt: "This AP exam day guide covers what to bring, prohibited items, check-in identification, arrival timing, the break structure, and avoidable score errors."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-10-16
+lang: en
 ---
-
 The single most preventable way to lose points on an Advanced Placement test has nothing to do with how well a student knows the material. It happens at the door, at the desk, and in the first ten minutes of check-in, before a single question gets answered. A capable student who has prepared for months can still have a score canceled for carrying a phone into the room, bringing the wrong calculator, mislabeling an answer sheet, or arriving after the proctor has started reading the instructions. AP exam day is governed by a strict set of administration rules, and the students who treat those rules as seriously as the content are the ones who keep every point they earned.
 
 This guide treats test day as part of the strategy, not an afterthought to it. The goal is simple: a reader should be able to walk into any AP administration knowing exactly what to bring, what is banned, how the session is structured, how the breaks work, and which small procedural slips quietly void scores every May. The mechanics here are durable. Identification requirements, prohibited-device rules, the morning and afternoon session pattern, and the break structure stay consistent year to year, even as individual subjects shift toward digital delivery.
 
-![AP exam day rules, timing, prohibited items, and check-in strategy - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP exam day rules, timing, prohibited items, and check-in strategy - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 ## Why AP exam day decides points before the first question
 

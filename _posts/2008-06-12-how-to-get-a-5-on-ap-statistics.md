@@ -6,15 +6,15 @@ date: 2008-06-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Statistics", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "Learn how to get a 5 on AP Statistics with a dated study plan, weekly milestones, and the precise written communication that separates a 5 from a strong 4."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-06-12
+lang: en
 ---
-
 The distance between a typical AP Statistics student and a 5 is smaller than the distance in almost any other AP subject, and it is measured in a strange currency. Students imagine the gap is computational: faster calculator work, more formulas memorized, quicker arithmetic. Walk through a stack of scored free-response booklets and a different gap appears. The 4 and the 5 often run the same procedure, choose the same test, and reach the same number. Where they part company is the sentence around the number. One answer says the result is significant and stops. The other names the hypotheses in context, checks the conditions before touching the formula, interprets the p-value as a statement about the data under a stated assumption, and lands a closing claim tied to the question that was actually asked. Learning how to get a 5 on AP Statistics is mostly learning to write that second answer until it becomes reflex, and this playbook is built around that single fact.
 
-![How to get a 5 on AP Statistics with a dated study plan, weekly milestones, and communication practice - Insight Crunch](/assets/images/blog/blog-04.webp)
+![How to get a 5 on AP Statistics with a dated study plan, weekly milestones, and communication practice - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 Nothing in the pages ahead promises a score, because no honest plan can. What a plan can do is remove the randomness from preparation: sequence the work by exam weight, rehearse under the clock, and convert every practice answer into evidence about what to fix next. The full subject map lives in [the complete AP Statistics guide](/2008/07/14/ap-statistics-complete-guide/), and the design and inference machinery gets its own treatment in [the design, sampling, and inference deep dive](/2008/07/09/ap-statistics-design-sampling-inference/). This article does a narrower job. It assumes the course content exists somewhere in the reader's head and asks how a candidate turns that content into the highest score on the scale during one three-hour sitting in May.
 

@@ -6,17 +6,17 @@ date: 2008-07-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus BC", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Calculus BC turns on four exclusive territories, parametric motion, polar area, vector paths, and infinite series, each rewarding practiced technique."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2008-07-23
+lang: en
 ---
-
 Two students can share the same AB foundation, the same derivative fluency, the same integral instincts, and still finish a full letter grade apart on the BC exam, because AP Calculus BC is not simply a longer version of the AB course. Roughly three fifths of the BC paper retests the shared core of limits, derivatives, integrals, and differential equations, and a prepared student harvests those points with AB skills alone. The remaining territory belongs to BC candidates only: parametric equations, polar coordinates, vector-valued functions, and infinite series. Those four topics decide the top of the score distribution, because they cannot be improvised from AB habits. Each one runs on its own mechanics, its own notation, and its own small set of reliable procedures, and each one punishes students who meet it for the first time under exam pressure.
 
 The encouraging truth hiding inside that warning is that BC-only content is unusually learnable. Parametric slope is one quotient. Polar area is one template integral. Vector speed is one magnitude computation. Series questions, for all their intimidating notation, collapse into a short list of recognition patterns and a handful of tests. Nothing in Units 9 and 10 demands the layered ingenuity of a hard related-rates problem or the case analysis of a tricky differential equation. What the material demands is rehearsal: the student who has set up fifty polar area integrals writes the fifty-first without hesitation, while the student who has set up four spends precious minutes reconstructing the formula and still risks the classic error of dropping the one half. This article works through the whole BC-only landscape at exam depth, teaching each technique the way the exam asks for it, flagging the traps that cost points, and keeping the deepest series machinery pointed toward the companion treatment that owns it.
 
-![Parametric curves, polar graphs, vector motion, and series notation on an AP Calculus BC study desk - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Parametric curves, polar graphs, vector motion, and series notation on an AP Calculus BC study desk - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 ## Where the BC-only units sit in the AP Calculus BC exam
 

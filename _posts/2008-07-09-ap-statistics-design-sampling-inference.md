@@ -6,17 +6,17 @@ date: 2008-07-09
 categories: ["Industry"]
 tags: ["AP Exams", "AP Statistics", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Statistics design, sampling, and inference form one connected argument, and this deep dive maps every study design to the conclusions it honestly licenses."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-07-09
+lang: en
 ---
-
 Most students meet AP Statistics design questions with a calculator in hand and a quiet sense that the numbers will rescue them, and most of those students lose the points anyway. The design, sampling, and inference strand of the course is the one part of the exam where computation cannot compensate for a misread study. A candidate can execute a flawless procedure on data that were collected so badly that no conclusion survives, and the readers grading that work will award almost nothing, because the exam treats design literacy as the gate through which every other skill must pass. The student who can look at a described study and state precisely what it permits, what it forbids, and why, owns the highest-leverage skill in the entire subject.
 
 This deep dive treats that skill as a single connected argument. A study begins with a population and a question, passes through a sampling method that decides whose data exist at all, acquires a structure through observation or experiment, and ends at an inference whose strength was fixed long before anyone computed a statistic. Change the design and the same numbers support a different claim, or no claim at all. The sections that follow build the argument in the order a strong student should internalize it, from vocabulary through sampling and experimental design to the logic of inference itself, with the question types, traps, and worked approaches that the exam actually uses.
 
-![AP Statistics study design, sampling methods, and scope of inference - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Statistics study design, sampling methods, and scope of inference - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 ## Why design decides the score before a single number is computed
 

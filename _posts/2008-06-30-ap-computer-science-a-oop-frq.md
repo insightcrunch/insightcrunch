@@ -6,17 +6,17 @@ date: 2008-06-30
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science A", "Computer Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Computer Science A free response is an object-oriented exam at heart. Its design and method patterns repeat, and students who learn them collect the points."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2008-06-30
+lang: en
 ---
-
 AP Computer Science A hands students a peculiar bargain. Half of the exam asks you to write code by hand, on paper, without a compiler, without an error message, and without the safety net of running the program to see what it does. Students who fear that half usually fear the wrong thing. They imagine the free-response section rewards brilliance, as if each question demanded a clever invention produced under time pressure. It does not. The written half of CSA is built from a small family of object-oriented patterns that return year after year in new costumes: design a class from a specification, write a method inside a class someone else designed, extend a class that already exists, implement an interface, and trace what happens when objects interact. Whoever recognizes the pattern in the first minute spends the remaining minutes executing. Whoever treats each question as a fresh invention spends those minutes deciding what to build, and the building is where the points quietly leak away.
 
 This deep dive treats the object-oriented core of the course as what it actually is: the scoring engine of the free-response section. Classes, constructors, encapsulation, inheritance, overriding, interfaces, and polymorphism are not vocabulary to memorize for multiple choice and then forget. Each concept is a moving part inside a recurring question type, and the exam grades how fluently you assemble those parts on paper. The treatment below teaches every concept the way the exam tests it, inside code you are expected to write, with the traps named and the partial-credit logic exposed. Arrays, ArrayLists, and recursion get their own dedicated treatment elsewhere in this series, and sorting and algorithm analysis get theirs, because both topics are deep enough to deserve full articles rather than summary paragraphs.
 
-![AP Computer Science A object-oriented programming and FRQ pattern strategy - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Computer Science A object-oriented programming and FRQ pattern strategy - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 ## Why the Object-Oriented Core Decides the Free-Response Score
 

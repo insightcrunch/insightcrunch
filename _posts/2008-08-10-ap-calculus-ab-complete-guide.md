@@ -6,15 +6,15 @@ date: 2008-08-10
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus AB", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Calculus AB in full: the complete exam format, all eight units and their weights, calculator rules, scoring bands, and the study order aimed at a 5."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-08-10
+lang: en
 ---
-
 AP Calculus AB occupies a strange position in the AP catalog. It carries one of the strongest reputations for rigor of any course a high school offers, colleges treat a good score as genuine evidence of readiness for university mathematics, and yet the exam itself is one of the most predictable instruments in the entire program. The same structures return every May: a particle moving along a line, an accumulation function built from a graph, a table of values that must be read as rates, a differential equation that yields to separation of variables. The students who earn 5s rarely know more calculus than the students who earn 3s. They know the exam better. They know which units carry the points, how the two sections divide the work, where the calculator helps and where it is banned, and how graders convert written reasoning into a nine-point free-response score. This guide builds that knowledge in the order the exam rewards it, from the format and the unit weights through scoring, calculator policy, and a study order sequenced by the points each topic actually carries.
 
-![AP Calculus AB complete guide with exam format, unit weights, and scoring strategy - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Calculus AB complete guide with exam format, unit weights, and scoring strategy - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 ## What AP Calculus AB is, and who should take it
 

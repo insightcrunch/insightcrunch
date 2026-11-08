@@ -6,17 +6,17 @@ date: 2008-09-01
 categories: ["Industry"]
 tags: ["AP Exams", "AP Scholar Awards", "College Admissions", "Study Guide", "College Credit"]
 excerpt: "AP Scholar awards are automatic honors earned with strong AP scores, and this guide maps each tier, its threshold, and what the honor signals to colleges."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-09-01
+lang: en
 ---
-
 Every year, students who have never heard the phrase AP Scholar open their score accounts in the summer and discover that a designation has appeared on their record, awarded without an application, an essay, a nomination, or a fee. AP Scholar awards are the College Board's formal recognition layer for the AP program: a set of honors granted automatically when a student's combined exam record crosses defined thresholds of breadth and quality. They cost nothing to enter, they require no campaigning, and they arrive as a byproduct of work the student was already doing for credit and admissions. Yet around these modest honors a small mythology has grown. Families speak of them as if they were scholarships. Students speak of them as if admissions offices kept a separate pile for applications carrying the title. Counselors field questions about whether one more exam, taken for no other reason, might purchase the next tier up the ladder.
 
 This guide dismantles that mythology while giving the awards their honest due. The AP Scholar designations are real honors with real thresholds, and a student who understands them gains something genuinely useful: a compact way to describe the shape of an AP record, a checkpoint that confirms a course load was both broad and well executed, and a credential that can be listed, accurately and without embarrassment, among the honors on an application. What the awards are not is a currency. They carry no cash value from the organization that grants them, they do not unlock credit that the underlying scores have not already earned, and they do not move an admissions decision that the scores and grades behind them would not move on their own. Holding both truths at once, that the honor is genuine and that its power is limited, is the entire strategic posture this article teaches. The awards reward the record. They do not replace it, improve it, or excuse a student from building it well.
 
-![AP Scholar awards ladder of tiers and thresholds for strong AP records - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AP Scholar awards ladder of tiers and thresholds for strong AP records - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## What the AP Scholar Awards are, in plain terms
 

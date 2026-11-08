@@ -6,15 +6,15 @@ date: 2008-08-19
 categories: ["Industry"]
 tags: ["AP Exams", "International Students", "Exam Strategy", "Study Guide", "College Admissions"]
 excerpt: "AP for international students turns a US exam into a worldwide credential, provided a testing seat is reachable and target universities honor the score."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2008-08-19
+lang: en
 ---
-
 A student in Manila, a student in Munich, and a student in Minneapolis can all sit the same AP Biology exam in the same May week, answer the same questions, and receive scores on the same 1 to 5 scale. That shared standard is the promise of Advanced Placement beyond the borders of the United States: one rigorous, externally graded measure that travels across admissions offices and registrars in many countries. The promise is real. So is the catch. Access to the exam depends on a participating school willing to host the student, and the value of the score depends on a university, sometimes on another continent, deciding what that number is worth. Families who verify those two facts first can use AP as a genuine strategic credential. Families who assume either one often discover the gap after the registration window has closed.
 
-![AP for international students registering and testing at a center abroad - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP for international students registering and testing at a center abroad - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 ## The promise and the catch
 

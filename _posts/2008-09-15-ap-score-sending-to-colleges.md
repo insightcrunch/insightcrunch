@@ -6,17 +6,17 @@ date: 2008-09-15
 categories: ["Industry"]
 tags: ["AP Exams", "AP Scores", "College Admissions", "Study Guide", "Exam Strategy"]
 excerpt: "AP score sending turns finished exams into college value when the free report is used deliberately, strong scores are sent on time, and weak ones held."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-09-15
+lang: en
 ---
-
 Every May, millions of AP exams are written, graded, and converted into numbers on a 1 to 5 scale. Then, for a surprisingly large share of students, the record simply stops moving. The scores sit inside an account while applications are assembled, deadlines pass, and enrollment deposits are paid, because nobody in the family treated the act of sending as a decision with its own timing, its own costs, and its own strategy. A score that never reaches a college earns no credit, supports no placement request, and strengthens no application. The exam created the value. Sending is what delivers it.
 
 Sending looks like a clerical step, and that appearance is exactly why it goes wrong so often. Hidden inside the clerical step sits a free report with a deadline that arrives before the scores themselves are known, a set of paid reports whose fees are set cycle by cycle, a genuine choice about which scores each college sees, and a timing puzzle that runs from the spring of junior year through the first advising meeting after enrollment. Students who handle those four elements deliberately protect the value of strong scores and avoid paying to publicize weak ones. Students who treat sending as an afterthought routinely do the opposite: they miss the free send, pay for reports that a college never needed, or send a borderline result to the one institution where it could only hurt.
 
-![AP score sending decisions and college score report planning - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP score sending decisions and college score report planning - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 ## Sending is a decision, not a formality
 

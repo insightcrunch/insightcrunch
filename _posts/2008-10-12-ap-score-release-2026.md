@@ -6,15 +6,15 @@ date: 2008-10-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Scores", "Study Guide", "Exam Strategy", "College Admissions", "College Credit"]
 excerpt: "AP score release follows a predictable summer rhythm, so knowing exactly when scores post and what to do next is how you protect the value of your work."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2008-10-12
+lang: en
 ---
-
 The hardest part of the AP year is supposed to be the exam. For most students it is the wait that follows. You sit a three-hour test in May, walk out with no idea how it went, and then face two months of silence before the number that decides credit, placement, and sometimes a small piece of your college application finally appears. The AP score release is the moment all of that work converts into something a college will act on, and far too many capable students treat it as a passive event to be refreshed anxiously rather than a decision point to be planned for. That gap is the difference between a student who opens a score and knows exactly what to do with it and one who panics, sends the wrong report, or lets a borderline result sit unused.
 
-![AP score release timing, account access, and the post-release send-or-hold decision explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP score release timing, account access, and the post-release send-or-hold decision explained - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This guide treats the release as the strategic event it actually is. It covers when scores post and why the timing works the way it does, how to read the breakdown that arrives with your number, why some results lag behind the main wave, and the single most important decision you make in the first hour after a score appears: whether to send it to a college or hold it. The number you receive is fixed by the time you see it. What is not fixed is what you do next, and that is where the strategy of the AP program continues long after the proctor calls time.
 

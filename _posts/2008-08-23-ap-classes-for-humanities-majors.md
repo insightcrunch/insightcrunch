@@ -6,17 +6,17 @@ date: 2008-08-23
 categories: ["Industry"]
 tags: ["AP Exams", "Humanities", "College Admissions", "Study Guide", "Course Selection"]
 excerpt: "AP humanities classes earn their keep when they form a coherent stack. This guide maps English, history, government, economics, and language picks by major."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2008-08-23
+lang: en
 ---
-
 A humanities application succeeds or fails on an argument, and the transcript is where that argument begins. AP humanities classes give a student the raw material for that argument: courses in English, history, government, economics, and world languages that, chosen with intent, describe a mind at work on questions of text, evidence, power, and value. Chosen at random, the same catalog produces a scattered record that reads like a sampler plate, a little of everything and a case for nothing. Admissions readers at liberal arts colleges and university humanities programs are trained to notice the difference. A stack that coheres tells them the applicant knows what these fields ask, has practiced their methods at a college level, and will arrive ready to do more of the same work at greater depth.
 
 Coherence, not volume, is the currency this guide trades in. A student aiming at history who carries United States history, European history, English, and a language presents a tighter case than a classmate carrying nine unrelated subjects at the same score level. The connection to the broader program matters here, and any student still assembling a first schedule should ground the plan in [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) before specializing. What follows maps the stack sub-field by sub-field: history and political science, English and writing, economics and the social sciences, and languages, with the credit and placement patterns that make the choices pay after admission. Every recommendation is framed as a pattern across program types, because no single college speaks for the whole landscape, and a stack built on patterns survives any one institution changing its mind.
 
-![AP humanities classes arranged as a major-aligned stack of English, history, government, economics, and language courses - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP humanities classes arranged as a major-aligned stack of English, history, government, economics, and language courses - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## The stakes: a record that argues a case
 

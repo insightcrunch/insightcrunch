@@ -6,15 +6,15 @@ date: 2008-08-01
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus AB", "Free Response", "Study Guide", "Exam Strategy"]
 excerpt: "AP Calculus AB free response rewards archetype recognition over speed: six questions, nine points each, and a rubric that pays for setup and justification."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2008-08-01
+lang: en
 ---
-
 Most AP Calculus AB free response points are not lost on hard calculus. Walk through a stack of scored responses and the same quiet failures surface again and again: a correct value with no setup anywhere above it, an integral written as a decimal with the integrand never shown, a conclusion announced without the reasoning the prompt demanded, a part abandoned because its first line went wrong even though later parts could still have paid. The mathematics in those responses is often fine. What failed was the scoring craft, and scoring craft fails in predictable places, which means it can be trained in predictable ways. A student who treats Section II as six unfamiliar problems will bleed points in all six places. A student who treats it as a small set of recurring archetypes, each with a known rubric shape, walks in with most of the section already solved at the level of method. What remains is execution.
 
-![AP Calculus AB free response strategy, archetype map and rubric scoring breakdown - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP Calculus AB free response strategy, archetype map and rubric scoring breakdown - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Name the claim plainly, because it organizes everything that follows. Call it the InsightCrunch AB FRQ archetype map: a pairing of each recurring free-response question type on the AP Calculus AB exam with the scoring approach that type reliably rewards, so that preparation means rehearsing archetypes and their rubrics rather than hoping a random problem set happens to resemble the real section. Particle motion, accumulation in context, table-based reasoning, area and volume, differential equations, and graph interpretation cover nearly everything the section asks, and each one distributes its nine points in a recognizable pattern. Setup points reward the integral or derivative written in correct form before any number appears. Interpretation points reward a sentence that ties a computed value back to the context with units attached. Justification points reward a named theorem or a sign argument, stated in words. Learn where those points sit inside each archetype, and the section stops being a lottery. Readers who finish this guide will be able to look at any AB free-response question, name its archetype within seconds, and know before writing a line which moves the rubric is waiting to pay for. Depth on the underlying calculus itself lives in [the complete guide to AP Calculus AB](/2008/08/10/ap-calculus-ab-complete-guide/), which covers the units and the full exam blueprint; this article stays on the narrower, richer ground of the free-response section alone.
 

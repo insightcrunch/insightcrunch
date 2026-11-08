@@ -6,17 +6,17 @@ date: 2008-07-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus BC", "Mathematics", "Study Guide", "Exam Strategy"]
 excerpt: "AP Calculus BC extends the AB course with series, parametric, polar, and vector work, and this complete guide maps its format, scoring, and path to a 5."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-07-27
+lang: en
 ---
-
 AP Calculus BC is the fullest version of high school calculus the AP program offers, and it asks a distinctive bargain of the students who choose it. Everything in AP Calculus AB is present: limits, derivatives, integrals, differential equations, and the applications that tie them together. Layered on top of that foundation sits a second stratum of material that AB never touches, including infinite series, parametric equations, polar coordinates, and vector-valued functions. A BC student therefore prepares for an exam that is wider than AB rather than deeper in any single shared topic, and that single fact shapes everything about how the course should be studied, paced, and judged. This guide maps the whole territory: the format, the scoring, the subscore that makes BC reporting unique, the content split between shared and BC-only topics, and the preparation strategy that treats the extension material as the high-leverage zone it genuinely is.
 
 Students usually meet BC through a scheduling decision made a year or more before the exam itself, often while standing at a fork between sequences. Some schools run BC as a second year of calculus after AB. Others teach BC as a single accelerated course that covers the AB core at speed and then pushes into the extension units. Both routes converge on the same May morning and the same paper, which means the preparation logic in this guide applies regardless of the route taken. Readers who want the foundation treated on its own terms should start with [the complete guide to AP Calculus AB](/2008/08/10/ap-calculus-ab-complete-guide/), because BC assumes that material in a way no other AP mathematics course assumes anything. BC is not a replacement for AB knowledge. BC is AB knowledge put to work under greater breadth and greater time pressure.
 
-![AP Calculus BC complete guide covering series, parametric, polar, and vector topics beyond the AB core - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP Calculus BC complete guide covering series, parametric, polar, and vector topics beyond the AB core - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## One exam carrying two courses of calculus
 

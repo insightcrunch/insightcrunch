@@ -6,17 +6,17 @@ date: 2008-07-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science A", "Computer Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Computer Science A rewards fluent handwritten Java, and this guide maps the exam format, unit weights, scoring ranges, and a study order that works."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-07-05
+lang: en
 ---
-
 AP Computer Science A holds a distinction no other exam in the program can claim: it tests a skill students practice on a machine, under conditions where no machine is present. All year, a compiler catches the missing semicolon, an editor flags the mismatched brace, and the run button delivers a verdict in a second. On exam day, every one of those safety nets disappears. The student sits with paper, a pencil, and three hours, and the only compiler available is the one built inside the student's own head. That single fact explains the score gap this guide exists to close. Students who understand the course but never train for its written medium lose points to syntax slips, untraceable logic, and half-remembered method signatures. Students who prepare for the exam as it actually exists, a handwriting test about Java as much as a programming test, convert the same knowledge into far stronger scores.
 
 This guide builds the full mental model a reader needs. It maps the exam format section by section, walks through all ten units in the order the exam weights them, decodes how the composite score becomes a 1 to 5, and lays out study paths for the two very different students who take this course: the true beginner who has never written a line of code, and the experienced young programmer who assumes the course will be easy and is often surprised. The thread running through everything is the series thesis applied to this subject. CSA rewards fluent written Java under time pressure, so handwriting code accurately is itself a trainable exam skill, and the students who treat it as one hold an advantage no textbook alone can give them.
 
-![AP Computer Science A handwritten Java exam with unit weights and scoring strategy - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Computer Science A handwritten Java exam with unit weights and scoring strategy - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 ## What AP Computer Science A is, and who it serves
 

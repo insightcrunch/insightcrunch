@@ -6,15 +6,15 @@ date: 2008-10-07
 categories: ["Industry"]
 tags: ["AP Exams", "College Credit", "College Admissions", "Study Guide", "Exam Strategy"]
 excerpt: "AP credit policies decide whether a strong AP score becomes tuition saved, a course skipped, or nothing at all, and every college writes its own rules."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2008-10-07
+lang: en
 ---
-
 A family can spend two years building an AP record, celebrate a row of strong scores in July, and then discover in the first advising meeting of freshman year that the record buys far less than anyone assumed. Nothing was misreported. Nobody failed. The scores were real, the effort was real, and the disappointment is still real, because AP credit policies are written college by college, department by department, and score by score, and the gap between what a family imagines a score is worth and what a registrar actually grants can be measured in thousands of dollars and a full semester of repeated coursework. That gap is the subject of this article, and closing it is a matter of reading policies the way a strategist reads them: before the exams are chosen, before the scores are chased, and before a college list hardens into an application list.
 
-![AP credit policies and college credit planning by score and institution type - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP credit policies and college credit planning by score and institution type - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The central fact is simple enough to state in one sentence and rich enough to fill an article. An AP score is a standardized credential whose cash value is set entirely by the institution that receives it. The College Board administers the exams and reports scores on a scale from 1 to 5, and then its authority ends. What a 4 in chemistry or a 5 in calculus is worth in units, in placement, in waived requirements, or in nothing at all is decided by each college for itself, and two colleges sitting in the same state system can answer the same score in noticeably different ways. Students who understand that structure early make different choices from students who learn it late. They choose exams with target policies in view, they set score goals that match the thresholds of the colleges they hope to attend, and they read a policy page as a contract with terms rather than as a vague promise that advanced work will somehow be rewarded.
 

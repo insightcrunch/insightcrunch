@@ -6,15 +6,15 @@ date: 2008-09-28
 categories: ["Industry"]
 tags: ["AP Exams", "Exam Registration", "Study Guide", "Exam Strategy", "College Admissions"]
 excerpt: "AP exam registration rewards fall action: order inside the window, claim every fee reduction you qualify for, and avoid late charges that waste money."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-09-28
+lang: en
 ---
-
 Every spring, a small number of students discover that the AP exam they spent a year preparing for was never ordered, or was ordered for the wrong subject, or carries a late charge that nobody in the family knew existed. The academic work was done. The failure was administrative, and it happened months earlier, in the fall, at the one moment when a signature, a form, or a payment would have settled everything. Registration is the least glamorous part of the AP program and the only part where a paperwork lapse can erase a year of study in a single stroke. That asymmetry is why registration deserves the same strategic attention families give to course selection and test preparation.
 
-![AP exam registration deadlines, fees, and waiver planning for the fall ordering window - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP exam registration deadlines, fees, and waiver planning for the fall ordering window - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 Families who handle registration well share a pattern. They treat the fall ordering window as a real deadline rather than a suggestion, they ask about fee reductions before paying anything, they confirm the order in writing, and they revisit the decision once more before cancellation terms harden. Families who handle it badly share a pattern too. They assume the school takes care of everything automatically, they learn about the late window only after entering it, they pay full price while qualifying for a reduction, and they discover in spring that changing a plan costs money they had not budgeted. The difference between the two groups is rarely wealth or sophistication. The difference is information, applied a few weeks earlier.
 

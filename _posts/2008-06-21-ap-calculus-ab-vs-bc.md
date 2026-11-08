@@ -6,17 +6,17 @@ date: 2008-06-21
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus", "Mathematics", "Study Guide", "Course Selection"]
 excerpt: "AP Calculus AB vs BC is a choice about scope, pace, and credit: AB covers one semester of calculus, BC covers two and reports an AB subscore as a safeguard."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2008-06-21
+lang: en
 ---
-
 The AP Calculus AB vs BC decision is the one fork in the AP mathematics sequence where a student chooses between two credentials rather than between a course and nothing. Both end in a May examination, both are scored on the same 1 to 5 scale, and both can convert into college credit. Yet they are not the same year of school. One is a full, self-contained treatment of a semester of college calculus taught at a pace a strong class can absorb while still practicing. The other compresses that same semester, adds a second semester of material, and moves at a tempo that punishes hesitation. Students who choose on prestige alone discover the difference in November, when the BC class is already deep into integration techniques the AB class will not meet until winter.
 
 This article compares the two courses on the grounds that actually decide outcomes: content scope, pace, difficulty, scoring, college credit, placement value, and fit for different intended majors. It gives a decision rule rather than a slogan, because the right answer genuinely changes with the student. A future engineer with a fluent precalculus foundation and room in the schedule faces a different calculation from a future historian who needs one solid calculus credit and carries four other advanced courses. The comparison closes with the InsightCrunch AB-versus-BC matrix, a compact statement of the trade-offs, and with profiles that run the decision rule on recognizable students. Readers who want the full treatment of either course on its own terms will find it in the complete guides, and this comparison deliberately routes depth there instead of repeating it.
 
-![AP Calculus AB vs BC compared on scope, pace, credit, and fit - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Calculus AB vs BC compared on scope, pace, credit, and fit - Insight Crunch](/assets/images/blog/blog-102.webp)
 
 ## The AP Calculus AB vs BC decision, stated plainly
 

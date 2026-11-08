@@ -6,15 +6,15 @@ date: 2008-06-26
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science Principles", "Computer Science", "Study Guide", "Exam Strategy"]
 excerpt: "AP Computer Science Principles complete guide to the big ideas, the Create Performance Task, the score split, and a study path that protects both halves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2008-06-26
+lang: en
 ---
-
 AP Computer Science Principles is the only AP course whose score is partly decided months before the student ever sits down in the testing room, and that single fact reorganizes everything about how the course should be approached. A student can walk into the end-of-course exam having already secured a substantial share of the available credit through a program built slowly, tested carefully, and written about with precision during the school year. A second student with equal talent can walk in having treated that program as an afterthought, and no brilliance on exam day can fully repair the loss. The gap between those two students is rarely a gap in intelligence or even in coding skill. It is a gap in planning, and it opens early, quietly, in the first weeks of the course, when the performance task still feels like a distant spring obligation rather than what it actually is: the first half of the examination, administered on the installment plan.
 
-![AP Computer Science Principles complete guide with big ideas, Create Performance Task, and score split - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AP Computer Science Principles complete guide with big ideas, Create Performance Task, and score split - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The course itself was designed as a door rather than a filter. It introduces the central ideas of computing to students who may never have written a line of code, and it refuses to tie those ideas to one vendor, one syntax, or one programming language. That design makes it the most accessible entry point into computer science in the entire AP catalog, and it also makes the course persistently misunderstood. Students mistake breadth for shallowness. Parents mistake the absence of a required language for an absence of rigor. Counselors sometimes steer strong mathematics students away from it toward the Java based course, as if the two courses were harder and easier versions of the same thing, when in truth they examine different minds: one rewards depth in a single language's machinery, while the other rewards range across the whole landscape of computing, from binary representation to the ethics of data collection. This guide treats the course on its own terms, in the order the score rewards: the structure of the assessment, the five big ideas and their weights, the task that must be planned from the opening month, the exam that must be read as carefully as any program, and the study path that keeps both halves of the score alive at once.
 

@@ -6,15 +6,15 @@ date: 2008-09-19
 categories: ["Industry"]
 tags: ["AP Exams", "Study Plan", "Study Guide", "Exam Strategy", "College Admissions"]
 excerpt: "An AP exam study plan built on exam weight, spaced practice, and timed full-length tests converts scattered review into a schedule that holds under pressure."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2008-09-19
+lang: en
 ---
-
 Two students can log the same total hours of AP review and walk into the same May examination room with entirely different scores, and the difference is rarely intelligence or effort. An AP exam study plan is the thing that separates them. One student studied in the order the textbook presented the material, reread chapters that felt comfortable, and discovered the shape of the timed exam during the final frantic week. The other student sequenced review by exam weight, returned to hard material on a spacing rhythm, sat full-length timed tests early enough for the results to change the schedule, and arrived knowing the exam as a format as well as a subject. Same hours. Different architecture. The score gap between those two students is the subject of this article, because a schedule is not administrative decoration around studying. A schedule is the strategy itself, made visible on a calendar.
 
-![AP exam study plan built on exam weight, spaced practice, and timed tests - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP exam study plan built on exam weight, spaced practice, and timed tests - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 Everything that follows rests on a single claim worth naming at the start, because it organizes every section below and gives the reader a standard against which to judge any competing advice. Call it the InsightCrunch sixteen-week review calendar: a phased AP study schedule in which review order follows exam weight rather than chapter order, practice is spaced rather than massed, full-length timed tests begin early enough to redirect the remaining weeks, and the plan is renegotiated on evidence every week rather than followed blindly into May. Sixteen weeks is the full version, and a compressed six-week skeleton appears later for students who start later in the season. Both versions run on the same four phases, the same weight-first logic, and the same rule that a plan earns its keep by changing in response to practice results. A reader who absorbs nothing else should absorb that: the calendar is a feedback system disguised as a timetable.
 

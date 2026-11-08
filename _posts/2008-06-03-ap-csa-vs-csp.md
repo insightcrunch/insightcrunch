@@ -6,17 +6,17 @@ date: 2008-06-03
 categories: ["Industry"]
 tags: ["AP Exams", "Computer Science", "Study Guide", "Course Selection", "Exam Strategy"]
 excerpt: "Computer Science A vs Principles compares a Java programming course against a survey of computing, and the choice turns on goals, preparation, and credit."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2008-06-03
+lang: en
 ---
-
 Two course titles sit side by side in the catalog, close enough in name that many families assume they are two difficulties of the same subject, a regular and an honors version of one idea. That assumption quietly wrecks schedules every year. AP Computer Science A and AP Computer Science Principles are different courses built for different purposes, and the student who chooses between them by guessing at which one sounds easier is making a decision about coding depth, college credit, and major preparation without ever naming those stakes. One course teaches a student to write software in Java, by hand, under examination conditions. The other teaches how computing works as a field, from data and the internet to algorithms and the social consequences of code, and it asks for a working program built across the school year rather than a written examination performance alone.
 
 The honest way to choose is to stop asking which course is better and start asking which course a particular student's goals actually require. A future software engineer and a future journalist who wants to understand data are both well served by this corner of the AP catalog, but they are served by opposite halves of it. This article builds the comparison the decision deserves: what each course contains, where the syllabi overlap and where they split, how the examinations differ in what a hand must produce, how scoring and credit tend to land, and a decision rule keyed to the factors that genuinely decide the choice. The full program context, for readers placing this choice inside a wider AP plan, sits in [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/), and each course receives its own full treatment elsewhere in this series, so this comparison can stay focused on the seam between them.
 
-![AP Computer Science A vs Principles compared on coding depth, workload, credit, and fit - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Computer Science A vs Principles compared on coding depth, workload, credit, and fit - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## Two courses, one shelf label: what is actually being compared
 

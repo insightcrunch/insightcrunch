@@ -6,15 +6,15 @@ date: 2008-08-28
 categories: ["Industry"]
 tags: ["AP Exams", "STEM", "College Admissions", "Study Guide", "Course Selection"]
 excerpt: "AP classes for STEM majors work best as a stack built around calculus, laboratory science, and computing, matched to the degree a student intends to pursue."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2008-08-28
+lang: en
 ---
-
 A student aiming at a technical degree rarely suffers from a shortage of ambition. The transcript fills with science courses, the mathematics sequence accelerates, and by the middle of high school the schedule carries more laboratory periods than free ones. Yet admissions readers and first-year advisors keep meeting the same puzzle: a record heavy with STEM coursework that somehow argues for nothing in particular. The courses were chosen one at a time, each for its own sake, and the sum of them reads as appetite rather than direction. That gap between effort and argument is where AP classes for STEM majors are won or lost, because a technical faculty does not read a transcript as a tally. It reads the transcript as a claim about what the student is preparing to become, and it asks whether the coursework forms a structure that can carry that claim.
 
-![AP classes for STEM majors arranged as a stack of calculus, science, and computing - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP classes for STEM majors arranged as a stack of calculus, science, and computing - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The structure has a name in this series: a stack. A stack is a deliberate combination of AP courses in which each entry supports the ones around it, the way calculus supports physics, physics supports engineering mechanics, and computing supports nearly every quantitative field a student might enter. The InsightCrunch STEM AP stack is the organizing claim of this article, and everything that follows is an attempt to make it usable. A student who builds a stack can explain, in one sentence, why each course sits where it does. A student who merely accumulates courses can only list them. That difference sounds cosmetic until a reader compares two files side by side, one showing a coherent climb through mathematics into a chosen science and a computing course that ties them together, the other showing the same number of AP entries scattered across whatever was available, impressive in total and silent in meaning.
 

@@ -6,17 +6,17 @@ date: 2008-09-24
 categories: ["Industry"]
 tags: ["AP Exams", "Digital Exams", "Bluebook", "Exam Strategy", "Study Guide"]
 excerpt: "How digital AP exams work in Bluebook: the built-in tools, the timing on screen, the recovery design, and the practice habits that protect a strong score."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2008-09-24
+lang: en
 ---
-
 Digital AP exams reward a kind of preparation that paper testing never demanded. Content knowledge still decides the ceiling of a score, yet the floor of a score is set by something less glamorous: whether the student sitting in front of the screen has rehearsed inside the Bluebook application before the morning that counts. A candidate who knows where the timer lives, how flagging works, and what the recovery design does during a freeze spends the whole session thinking about the subject. A candidate meeting the interface for the first time spends the opening minutes of a timed exam learning software, and those minutes never come back. That asymmetry is the reason a guide to an application belongs in a strategy series at all.
 
 Bluebook is the College Board's digital testing application, the platform through which a growing share of the AP program is delivered. Some exams run fully inside the app, with every question presented and every answer entered on screen. Others run as hybrids, where the multiple-choice work happens in Bluebook and free-response work is recorded in paper booklets in handwriting. A smaller set of subjects, particularly those built around portfolios, performances, or extended handwritten production, keeps paper components at the center. The exact membership of each group shifts as the rollout expands cycle by cycle, which is why this guide teaches the platform and the method of checking a specific exam's format rather than memorizing a roster that will change.
 
-![Digital AP exams in the Bluebook app with on-screen tools and timing - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Digital AP exams in the Bluebook app with on-screen tools and timing - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## Why the interface became part of AP strategy
 
