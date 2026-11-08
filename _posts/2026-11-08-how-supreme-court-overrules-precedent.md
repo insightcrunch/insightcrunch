@@ -6,16 +6,17 @@ date: 2026-11-08
 categories: ["Industry"]
 tags: ["law-and-courts", "supreme-court", "stare-decisis", "constitutional-law", "precedent", "judicial-review"]
 excerpt: "How the Supreme Court overrules a precedent is a question of error, reliance and legitimacy: five factors decide when a settled ruling finally gives way."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-11-08
+lang: en
 ---
 ## How an Overruling Actually Happens, Step by Step
 
 A precedent falls only when the Supreme Court, in a later case squarely presenting the question, holds the earlier rule wrong and replaces it with a different rule. No other institution performs that act, no lower court anticipates it, and no passage of time alone accomplishes it. The overruling happens inside an ordinary appellate decision, with a named case, a record, parties, and a judgment that resolves a live dispute. An overruling is a judgment, reached through a named set of factors, that a precedent is so wrong, so unworkable, or so eroded that keeping it costs the law more than the stability stare decisis exists to protect. The Court weighs error against reliance, workability, and legitimacy, and it announces the result as law for the case at hand and for future cases governed by the same question.
 
-![Marble columns of the Supreme Court building above stacked bound volumes of the United States Reports, the physical archive of precedent - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marble columns of the Supreme Court building above stacked bound volumes of the United States Reports, the physical archive of precedent - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The procedural path begins long before argument, when a litigant files a petition for a writ of certiorari that asks the Court to overrule a precedent by name. The petition must frame the request as a question presented, tie the request to the facts of the dispute, and explain why the existing rule controls the outcome below. In Ramos v. Louisiana, 590 U.S. 83 (2020), the request to reconsider the nonunanimous jury rule of Apodaca v. Oregon, 406 U.S. 404 (1972), reached the Court because the conviction in the case at hand depended on that rule. The sequence matters because the Court decides cases, not abstract propositions, and an overruling detached from a judgment would exceed the judicial role described in Article III of the Constitution.
 
@@ -277,7 +278,6 @@ The thesis requires narrowing at that point, and the narrowed claim concerns jus
 ## How Other Courts and Other Countries Handle the Same Problem
 
 The Practice Statement issued by the House of Lords in 1966 resolved the problem of self binding precedent in the United Kingdom, when Lord Chancellor Gardiner announced in the Practice Statement (1966) that the House of Lords would depart from a previous decision when a departure appeared right to do so, a step that ended the self binding rule the House of Lords had followed since London Street Tramways Company v. London County Council, decided in 1898. The Practice Statement (1966) freed the House of Lords from that complete self binding rule in London Street Tramways (1898), while warning in the Practice Statement (1966) that precedent supplies an indispensable foundation for deciding cases with certainty and that departure would be used sparingly where contracts and property settlements rested on an existing rule. The first full exercise of the power in the Practice Statement (1966) came in Conway v. Rimmer, decided in 1968, where the House of Lords departed in Conway (1968) from Duncan v. Cammell Laird and Company, decided in 1942, on the disclosure of government documents in litigation after Duncan (1942).
-
 
 
 Canada states a framework through decided cases rather than a practice statement, and Canada (Attorney General) v. Bedford, 2013 SCC 72, supplies the formulation in Bedford (2013), under which a lower court in Canada may depart from binding precedent in Bedford (2013) where a new legal issue is raised or where a change in circumstances or evidence in Bedford (2013) fundamentally shifts the parameters of the debate. Chief Justice Beverley McLachlin applied that framework in Bedford (2013) to a challenge involving prostitution related provisions.
