@@ -176,3 +176,6 @@
 ## nightjar-nine-officers-008
 - _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The chair had been warm because a warning reached the depot before the sting did; the trail of that warning ran back through a Carrowmere records building, a request slip with no name on it, and a clerk who was paid in advance by a man he never saw named."
 - _posts/2026-11-07-nightjar-false-provenance-007.md - could carry: "The old file Dunmore slid across her desk that day was pulled properly afterwards, on a signed request, and when the two of them opened it under her lamp, two of its pages were gone, taken out cleanly, with the stitching whole on both sides of the gap."
+## how-x-rays-work
+- _posts/2026-10-08-chirality-molecular-handedness.md - could carry: "The handedness that decides how a molecule behaves was settled as physical structure when diffraction patterns were read as atomic arrangements, the method the account of how X-rays work traces from the Braggs to Photo 51."
+- _posts/2026-10-23-how-ancient-dna-works.md - could carry: "Before a bone is drilled for the fragments it holds, its interior is mapped by the shadow method, and the account of how X-rays work explains how that map is formed without opening the specimen."

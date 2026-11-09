@@ -45,3 +45,4 @@
 2026-11-07 | nightjar-false-provenance-007 | nightjar | installment 007 | The Clean Room | Forgery or disinformation | full | Leisure | literature-nightjar
 2026-11-08 | how-supreme-court-overrules-precedent | Law and courts | how does the Supreme Court overrule a precedent | When the United States Supreme Court abandons one of its own earlier decisions, what must be shown, which factors decide the question, and how does an overruling actually happen in practice? | Industry | law-stare-decisis
 2026-11-08 | nightjar-nine-officers-008 | nightjar | installment 008 | The Clean Room | Mole hunt | full | Leisure | literature-nightjar
+2026-11-09 | how-x-rays-work | Science and research | how do x-rays work | When X-rays pass through a body, how are they produced, how do different tissues change them, and how does a detector turn that change into an image that shows structure without opening the body? | Technology | science-x-rays

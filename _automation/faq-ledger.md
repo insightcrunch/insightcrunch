@@ -1079,3 +1079,26 @@ before-danger-fall-justic-precedent-signal | how-supreme-court-overrules-precede
 between-decisi-difference-horizontal-stare-vertical | how-supreme-court-overrules-precedent | What is the difference between horizontal and vertical stare decisis?
 after-bower-hardwick-interval-lawrence-overrule-short-texa | how-supreme-court-overrules-precedent | Why did Lawrence v. Texas overrule Bowers v. Hardwick after a short interval?
 after-cas-decid-happen-overrul-precedent-under | how-supreme-court-overrules-precedent | What happens to cases decided under a precedent after that precedent is overruled?
+## science-x-rays
+
+### how-x-rays-work
+simple-term-xray | how-x-rays-work | What is an X-ray in simple terms?
+discovered-xray-year | how-x-rays-work | Who discovered X-rays and in what year?
+called-they-xray | how-x-rays-work | Why are they called X-rays?
+produce-tube-xray | how-x-rays-work | How does an X-ray tube produce X-rays?
+between-difference-gamma-rays-xray | how-x-rays-work | What is the difference between X-rays and gamma rays?
+appear-bone-image-white-xray | how-x-rays-work | Why does bone appear white on an X-ray image?
+air-appear-black-chest-image | how-x-rays-work | Why does air appear black on a chest image?
+attenuation-radiography | how-x-rays-work | What is attenuation in radiography?
+between-difference-fluoroscopy-radiography | how-x-rays-work | What is the difference between radiography and fluoroscopy?
+ct-diff-plain-scan-xray | how-x-rays-work | How does a CT scan differ from a plain X-ray?
+hounsfield-unit | how-x-rays-work | What are Hounsfield units?
+radiograph | how-x-rays-work | What does a radiographer do?
+image-matt-quality-radiation-scatt | how-x-rays-work | What is scatter radiation and why does it matter for image quality?
+detector-diff-digital-film | how-x-rays-work | How do digital detectors differ from film?
+diffraction-used-xray | how-x-rays-work | What is X-ray diffraction used for?
+body-human-image-oth-than-thing-xray | how-x-rays-work | Can X-rays image things other than the human body?
+agent-contrast-imag-xray | how-x-rays-work | What is a contrast agent in X-ray imaging?
+detail-image-limit-show-xray | how-x-rays-work | What limits the detail an X-ray image can show?
+first-harm-radiation-recognized-xray | how-x-rays-work | How was radiation harm from X-rays first recognized?
+image-impossible-interpret-make-xray | how-x-rays-work | What would make an X-ray image impossible to interpret?
