@@ -6,17 +6,17 @@ date: 2026-11-09
 categories: ["Technology"]
 tags: ["science-and-research", "x-rays", "radiography", "medical-imaging", "roentgen", "electromagnetic-radiation"]
 excerpt: "How X-rays work depends on a controlled shadow: a tube generates the rays, each tissue weakens them differently, and a detector turns survival into an image."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-11-09
+lang: en
 ---
-
 ## A Shadow That Carries Information
 
 How X-rays work can be stated plainly. A tube creates a beam of high energy photons, the beam passes through a body, and a detector on the far side records how many photons survived the crossing. Bone weakens the beam more than muscle does, muscle weakens it more than air does, and the pattern of survival becomes the image. An X-ray image is therefore not a picture taken of the body in the ordinary sense. It is a measurement of loss, and the anatomy is inferred from that pattern of loss.
 
-![X-ray tube and detector forming a shadow image of a hand - Insight Crunch](/assets/images/blog/blog-01.webp)
+![X-ray tube and detector forming a shadow image of a hand - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The distinction matters because it explains nearly every strength and every limit of the method. A camera records light reflected from a surface. An X-ray detector records light that passed through a volume. Every point in the image sums everything that lay along one straight line from the tube to the detector, so depth collapses into a single shade. The shade at one spot says nothing about where along the line the absorption happened, only how much happened in total. Radiography, fluoroscopy and computed tomography all begin from that single fact, and each of them is a different way of coping with it.
 
