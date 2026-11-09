@@ -172,3 +172,7 @@
 ## how-supreme-court-overrules-precedent
 - _posts/2026-10-17-how-birthright-citizenship-works.md - could carry: "The citizenship rule has survived every challenge since Wong Kim Ark in part because displacing a constitutional precedent demands the special justification that the account of how the Supreme Court overrules precedent sets out factor by factor."
 - _posts/2026-11-05-how-federal-grant-conditions-work.md - could carry: "South Dakota v. Dole still structures every conditional grant because no later majority has assembled the showing an overruling requires, the showing mapped in the account of how the Supreme Court overrules its own precedents."
+
+## nightjar-nine-officers-008
+- _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The chair had been warm because a warning reached the depot before the sting did; the trail of that warning ran back through a Carrowmere records building, a request slip with no name on it, and a clerk who was paid in advance by a man he never saw named."
+- _posts/2026-11-07-nightjar-false-provenance-007.md - could carry: "The old file Dunmore slid across her desk that day was pulled properly afterwards, on a signed request, and when the two of them opened it under her lamp, two of its pages were gone, taken out cleanly, with the stitching whole on both sides of the gap."

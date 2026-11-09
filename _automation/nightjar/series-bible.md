@@ -329,6 +329,10 @@ rewritten.
 007 The Vey Coffer is a Binder-made coffer of two centuries, its binding fixing the lid so that it cannot be opened without the binding showing the opening forever. The coffer is genuine and old. Its provenance of seven transfers carries one false page, the Melora court receipt covering the fifth transfer, which papers over a gap of forty years and uses a toll form the court had retired a decade before the page's claimed date. The coffer is held under Accord seal in the Helden Collection strong room, and its seller, Edric Vay, withdrew from the Melora court sale without charge.
 007 The north storeroom on the top floor of the Helden Collection holds no weight at all across its whole volume, while the storerooms either side of it read normally with two centuries of stored objects.
 
+008 Benet Sarre is a records clerk of the Carrowmere records building, eleven years on the late rotation. On the warning night of the bonded cargo rollup he pulled the depot movement file against a request slip that named no requesting officer, and he had pulled the same file once before, on a quiet night weeks earlier. He was paid twice, both times in advance, by a man who never gave a name. He is removed from the records floor and held for questioning by the building's own authority.
+008 The Carrowmere records system accepts a request slip with no requesting officer named and files it without argument, because the building was built for speed. The unsigned slip is a standing door in the system, and the depot movement file passed through it twice. The warning to the depot principal was stamped in the depot log at 21:50 by the depot clock, forty minutes before the only officer of the nine who entered the records building that night signed the night book at 22:30.
+008 The Ninth Office file from eighteen years ago that uses the phrase clean room in quotation marks has been pulled properly on a signed request, and two pages are missing from it, removed cleanly and not torn, with the stitching intact on both sides of the gap.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

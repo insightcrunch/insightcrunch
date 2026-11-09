@@ -867,6 +867,28 @@ chain-custody-dangerou-forty-interval-span-year | nightjar-false-provenance-007 
 court-disput-examiner-melora-sale | nightjar-false-provenance-007 | What does an examiner of the Melora court do in a disputed sale?
 as-evidence-ninth-object-office-read-record | nightjar-false-provenance-007 | How does the Ninth Office record a read of an object as evidence?
 
+### nightjar-nine-officers-008
+accord-record-request-slip-work | nightjar-nine-officers-008 | How do Accord records requests work, and what does a request slip record?
+clear-nine-ninth-office-officer-they | nightjar-nine-officers-008 | What are the nine officers of the Ninth Office, and how are they cleared?
+build-carrowmere-organis-record | nightjar-nine-officers-008 | What is the Carrowmere records building, and how is it organised?
+accord-authority-govern-inside-internal-investigation | nightjar-nine-officers-008 | What authority governs an internal investigation inside the Accord?
+advance-buyer-information-paying-signal | nightjar-nine-officers-008 | What does paying in advance signal about a buyer of information?
+book-build-night-record-writ | nightjar-nine-officers-008 | What is the records building night book, and who writes in it?
+accord-against-check-clock-depot-standard-time | nightjar-nine-officers-008 | How is a depot clock checked against Accord standard time?
+build-late-record-rotation-work | nightjar-nine-officers-008 | How does the late rotation work in a records building?
+change-day-left-shift-slip-tray-until | nightjar-nine-officers-008 | What is a day tray, and why are slips left in it until the shift change?
+build-differ-read-record-room-stack | nightjar-nine-officers-008 | How does a stack room differ from a reading room in a records building?
+depot-file-movement-record | nightjar-nine-officers-008 | What is a depot movement file, and what does it record?
+before-begin-condition-investigation-office-set | nightjar-nine-officers-008 | Why does the Office set conditions on an investigation before it begins?
+accord-build-night-porter | nightjar-nine-officers-008 | What does a night porter do in an Accord building?
+file-itself-office-old-properly-pull-review | nightjar-nine-officers-008 | How is an old file pulled properly for review by the Office itself?
+bound-file-miss-page-show-stitch | nightjar-nine-officers-008 | What does the stitching of a bound file show when pages are missing?
+bound-file-gap-number-page-show | nightjar-nine-officers-008 | How are the pages of a bound file numbered, and what does a gap in the numbering show?
+accept-name-no-record-request-slip-system | nightjar-nine-officers-008 | Why does the records system accept a request slip with no name on it?
+clerk-floor-happen-record-remov | nightjar-nine-officers-008 | What happens to a records clerk who is removed from the floor?
+before-charge-hold-laid-office-person-question | nightjar-nine-officers-008 | How does the Office hold a person for questioning before any charge is laid?
+book-consult-day-kept-long-may-request-slip-them | nightjar-nine-officers-008 | How long are request slips and day books kept, and who may consult them?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method

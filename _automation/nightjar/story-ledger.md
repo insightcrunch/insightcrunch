@@ -183,3 +183,25 @@ spine notch:              Rung seven. In Dunmore's archive search, a Ninth Offic
 characters:               Mira Kovac, Petra Dunmore, Ilva Marrow (new), Edric Vay (new)
 canon written back:       Three facts under Established canon, each numbered 007: Ilva Marrow and her report, her reservation and her supplementary note; the Vey Coffer, its genuine binding, its one false page and the retired toll form, its holding under seal and the seller's uncharged withdrawal; the north storeroom of the Helden Collection holding no weight at all
 callbacks:                001, 003 and 006, three internal links, to the transit room at Carrowmere where a supervisor died, to the trade lever Commissioner Harrand pulled at Melora, and to the lock chamber on the north cut
+
+## Installment 008
+slug:                     nightjar-nine-officers-008
+published:                2026-11-08
+story span:               Three days in the Twenty Ninth Session, from Leyden's morning tasking in Carrowmere to the name spoken in his office
+arc:                      The Clean Room, case 8
+case type:                Mole hunt
+words:                    23298
+outcome:                  full success
+cost paid:                She broke a condition she gave her word on when she accepted the hunt, interviewing the clerk without Leyden's knowledge; Leyden knows, and neither of them says it
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the two pages missing from the eighteen year old file and who had the time to remove them cleanly
+clues planted:            The unsigned request slip and the day tray; the request slip timeline of six entries set against the depot clock; the depot log's stamped receipt of the warning at 21:50; the officer's night book entry at 22:30 in his own hand; the shuttered canteen and Sarre's claimed meal break across the warning hour; the second unsigned slip from the practice pull weeks earlier; the counter chair at the records counter
+capabilities established: The stack room read giving one person working and one person waiting, with its limit named on the page (Ground truth); Dunmore's depot clock check against Accord standard time, entry by entry against the building's books (The collapse); the counter chair read giving the length of the wait (The collapse); the two other late rotation clerks accounting cleanly (The collapse); the interview with Sarre in the records building after his shift (Pressure)
+damage carried:           In: the keeper's shame from 006, two centuries from 007. Adds: a condition she gave her word on and broke
+endurance:                entering reduced; reduced at the pressure beat
+legend beat:              none
+close consumed:           The request slip timeline and Dunmore's depot clock arithmetic that cleared the officer, the counter chair read matching the fifty minutes the file was out, the practice pull through the same unsigned door, Sarre's unaccounted hour against the shuttered canteen, and his own words once held; every one established earlier in this same installment
+false lead:               An officer. One of the nine was in the records building on the warning night, his entry in the night book in his own hand, and he cannot account for his hour in the building well; the depot's own clock kills the reading, because the warning was stamped at the depot forty minutes before he arrived
+spine notch:              Rung eight. The eighteen year old file from 007 is pulled properly on a signed request, and two pages are missing from it, removed cleanly, not torn, the stitching intact on both sides of the gap
+characters:               Mira Kovac, Arvo Leyden, Petra Dunmore, Benet Sarre (new)
+canon written back:       Three facts under Established canon, each numbered 008: Benet Sarre, his two advance payments, the two pulls of the depot file and his removal from the records floor; the unsigned request slip as a standing door in the Carrowmere records system, with the warning stamped at 21:50 against the officer's 22:30 night book entry; the eighteen year old file pulled properly, with two pages missing, removed cleanly, the stitching intact on both sides
+callbacks:                004, 005 and 007, three internal links, to the depot office where the principal's chair stood warm and empty, to the statement Rask gave on the record at the Barrow hearing, and to the Melora court sale case
