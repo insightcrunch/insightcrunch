@@ -1,30 +1,30 @@
 {
   "1997-01-25-sat-rw-hardest-question-types.md": {
-    "current": 0,
+    "current": 1,
     "original": "The 15 hardest Digital SAT RW question types decoded with the trap, the strategy, and a fully worked solution for each.",
     "variant_1": "Master the toughest Digital SAT Reading and Writing questions with cataloged traps, fixes, and step-by-step worked answers.",
     "variant_2": "From inference to evidence pairing, conquer the 15 hardest SAT RW question types with proven strategies and worked examples."
   },
   "1997-01-30-sat-rw-pacing-strategy.md": {
-    "current": 0,
+    "current": 1,
     "original": "The complete Digital SAT RW pacing system: time budgets per question, flag-and-return tactic, and a 32-minute model walkthrough.",
     "variant_1": "27 questions in 32 minutes: master Digital SAT RW pacing with module-aware time budgets and a full walkthrough.",
     "variant_2": "Beat the SAT RW clock with a question-type time budget, flag-and-return strategy, and Module 1 vs 2 pacing differences."
   },
   "1997-02-03-sat-reading-speed-strategy.md": {
-    "current": 0,
+    "current": 1,
     "original": "Read faster on the Digital SAT without losing accuracy. First-sentence strategy, skim vs read decisions, and dense text tactics.",
     "variant_1": "Digital SAT reading speed guide: when to skim, when to read deep, and why most speed problems are comprehension problems.",
     "variant_2": "Stop losing time on SAT short passages. Learn the first-sentence approach and tactics for handling dense academic text fast."
   },
   "1997-02-08-sat-rw-module-strategy.md": {
-    "current": 0,
+    "current": 1,
     "original": "Digital SAT adaptive RW modules explained: how Module 1 sets your ceiling and why a hard Module 2 is the best news on test day.",
     "variant_1": "Master SAT RW Module 1 and Module 2 strategy: ceiling math, accuracy targets, and why hard Module 2 means a high score.",
     "variant_2": "How the SAT RW adaptive engine works, what each module signals about your score, and the strategy for both rounds."
   },
   "1997-02-12-sat-sentence-boundaries.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT Writing sentence boundaries decoded: comma splices, run-ons, fragments, and the four legal ways to join independent clauses.",
     "variant_1": "Stop losing easy SAT Writing points to comma splices and fragments. The complete sentence boundary rule set, with examples.",
     "variant_2": "Master SAT sentence boundary questions with 30+ examples covering splices, fragments, and clause-joining punctuation rules."
@@ -96,91 +96,91 @@
     "variant_2": "Prose fiction and poetry on the Digital SAT, fully decoded. Every question type, every interpretive strategy."
   },
   "1997-04-07-sat-reading-history-passages.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT history and social science passages decoded: archaic language, paired text analysis, and six full passage walkthroughs.",
     "variant_1": "The hardest reading type on the SAT, made manageable. Decode dense historical prose with strategy-first walkthroughs.",
     "variant_2": "Master SAT history passages with techniques for archaic syntax, author purpose, and the paired-text comparison format."
   },
   "1997-04-12-sat-reading-science-passages.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT science passages decoded: biology, chemistry, psychology texts, technical vocabulary, and data-to-answer reasoning.",
     "variant_1": "Master the most objective SAT reading passages with science-specific strategies for terms, data, and inference questions.",
     "variant_2": "Bio, chem, and psych passages on the Digital SAT, fully decoded. Every question pattern, every reasoning shortcut."
   },
   "1997-04-16-sat-math-last-2-weeks-checklist.md": {
-    "current": 0,
+    "current": 1,
     "original": "The complete 14-day SAT Math countdown: two practice tests, error review, Desmos drills, and day-by-day guidance to test day.",
     "variant_1": "Two weeks to SAT Math test day: a structured countdown plan covering practice, review, formulas, and Desmos drills.",
     "variant_2": "The final 14 days before SAT Math, mapped: what to review, what to drill, and how to peak on test day."
   },
   "1997-04-21-sat-math-past-question-analysis.md": {
-    "current": 0,
+    "current": 1,
     "original": "Data-driven SAT Math question distribution from 2023 to 2026 with a three-tier priority system for limited prep time.",
     "variant_1": "Where to focus your SAT Math prep based on four years of question frequency data and a tiered priority framework.",
     "variant_2": "SAT Math past question pattern analysis 2023 to 2026: see exactly which topics dominate and where to spend your time."
   },
   "1997-04-25-sat-math-interpreting-coefficients.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT coefficient interpretation decoded: slope as rate, y-intercept as starting value, and the precise wording traps to avoid.",
     "variant_1": "Master SAT interpretation questions for slope, intercept, and exponential base with rule-by-rule context analysis.",
     "variant_2": "Read every SAT linear and exponential model correctly with this complete coefficient and constant interpretation guide."
   },
   "1997-04-30-sat-math-margin-of-error-confidence.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT margin of error, confidence intervals, sample size, and the valid-inference vs overgeneralization distinction explained.",
     "variant_1": "Master SAT statistics inference questions with the complete guide to margin of error and confidence intervals.",
     "variant_2": "Confidence intervals and sampling on the SAT, decoded with the inference vs overgeneralization rule the test loves."
   },
   "1997-05-04-sat-math-for-students-who-hate-math.md": {
-    "current": 0,
+    "current": 1,
     "original": "An 8-week SAT Math plan for math-anxious students starting from below 400, built around minimum concepts and Desmos.",
     "variant_1": "SAT Math for students who hate math: a compassionate, strategic 8-week plan to score 500+ from below 400.",
     "variant_2": "Hate math? This SAT Math guide builds you from the ground up with the 80/20 rule, Desmos, and a forgiving timeline."
   },
   "1997-05-09-sat-math-formula-reference-sheet.md": {
-    "current": 0,
+    "current": 1,
     "original": "Every SAT Math formula and concept organized by domain, each with a one-line note on when you actually need it.",
     "variant_1": "Your complete SAT Math reference sheet: algebra, advanced math, geometry, and statistics formulas in one place.",
     "variant_2": "All the SAT Math formulas you need, organized by domain with usage notes for fast test-day recall."
   },
   "1997-05-13-sat-math-process-elimination-backsolving.md": {
-    "current": 0,
+    "current": 1,
     "original": "Backsolving, plug-in, and elimination on SAT Math: 8+ examples showing when each technique is 3x faster than algebra.",
     "variant_1": "Master non-algebraic SAT Math techniques and learn when backsolving, plugging in, and elimination beat traditional solving.",
     "variant_2": "Stop solving every SAT Math question with algebra. The complete guide to backsolving, plug-in, and elimination tactics."
   },
   "1997-05-18-sat-math-careless-mistakes.md": {
-    "current": 0,
+    "current": 1,
     "original": "The 15 most common SAT Math careless errors with concrete examples and behavioral techniques to prevent each one.",
     "variant_1": "Stop losing easy SAT Math points to careless mistakes with this 15-error catalog and prevention checklist.",
     "variant_2": "Identify your SAT Math careless errors and eliminate them with targeted behavioral fixes and worked examples."
   },
   "1997-05-22-sat-math-hardest-question-types.md": {
-    "current": 0,
+    "current": 1,
     "original": "Full worked solutions for the 15 hardest Digital SAT Math question types from parametric systems to circle equations.",
     "variant_1": "Master the toughest SAT Math question types with step-by-step worked solutions covering every recurring trap.",
     "variant_2": "From discriminant analysis to non-standard exponential periods, conquer the 15 hardest SAT Math question patterns."
   },
   "1997-05-27-sat-math-pacing-strategy.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT Math 3-pass pacing decoded: easy first, medium second, hard third, with a minute-by-minute model walkthrough.",
     "variant_1": "Beat the SAT Math clock with the 3-pass strategy and module-aware pacing for both Module 1 and Module 2.",
     "variant_2": "22 questions in 35 minutes: master SAT Math pacing with the 3-pass system and a full walkthrough."
   },
   "1997-05-31-sat-math-module-1-vs-2.md": {
-    "current": 0,
+    "current": 1,
     "original": "Digital SAT Math adaptive scoring explained: the score ceiling difference between easy and hard Module 2 routes.",
     "variant_1": "How SAT Math Module 1 accuracy determines your score ceiling, and why a hard Module 2 means a top result.",
     "variant_2": "Master the SAT Math adaptive engine: what each module signals, what your ceiling really is, and how to maximize both."
   },
   "1997-06-05-sat-desmos-calculator-strategy.md": {
-    "current": 0,
+    "current": 1,
     "original": "Master every Desmos technique for SAT Math: graphing, intersections, equivalence, sliders, regression, and tables.",
     "variant_1": "Your complete Digital SAT Desmos playbook with technique-by-technique walkthroughs and a decision framework.",
     "variant_2": "From zeros to regression, unlock the full power of Desmos on the SAT with this complete strategy guide."
   },
   "1997-06-09-sat-math-linear-vs-exponential-models.md": {
-    "current": 0,
+    "current": 1,
     "original": "SAT linear vs exponential models decoded: the diagnostic test, growth and decay translation, and modeling questions.",
     "variant_1": "Master SAT modeling questions with the linear vs exponential diagnostic and real-world translation framework.",
     "variant_2": "Spot linear from exponential on the SAT in seconds with this diagnostic guide and worked modeling examples."
@@ -2178,7 +2178,7 @@
     "variant_2": "Decode Hedwig across the books: friendship without language, freedom in a cage, and the loss that hits first."
   },
   "2012-11-18-gilderoy-lockhart-complete-character-analysis.md": {
-    "current": 0,
+    "current": 1,
     "original": "A deep literary analysis of Gilderoy Lockhart: vanity, fraud, memory, and the cost of building a self from stolen stories.",
     "variant_1": "Lockhart fully decoded: the celebrity wizard who was nothing under the smile, and the spell that erases him.",
     "variant_2": "Gilderoy Lockhart across the books: fraud, fame, and the man who lost the only thing he ever had."
@@ -4968,469 +4968,469 @@
     "variant_2": "What marks do you need to pass TCS NQT? Section-wise cutoff details, how qualifying scores translate to interview calls, and score benchmarks by year."
   },
   "2021-05-18-infosys-resignation-process.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys resignation process step by step: notice, buyout, handover, exit interview, FnF, and how to leave without burning bridges.",
     "variant_1": "Decode the Infosys resignation process across notice rules, buyout options, handover, and the FnF settlement timeline.",
     "variant_2": "Master the Infosys resignation walkthrough with notice period rules, exit interview tactics, and FnF timing."
   },
   "2021-05-26-infosys-pf-withdrawal-gratuity.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys PF withdrawal, transfer, and gratuity decoded: claim status, calculation, eligibility, and what every employee needs to know.",
     "variant_1": "Decode Infosys PF withdrawal, transfer, and gratuity claims with step-by-step walkthroughs and timelines.",
     "variant_2": "Master Infosys PF and gratuity processes with claim guidance, calculation methods, and tracking strategies."
   },
   "2021-06-03-infosys-onsite-deputation.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys onsite deputation decoded: selection, visa types, compensation, living abroad, return process, and the real experience.",
     "variant_1": "Decode the Infosys onsite deputation process from selection through return with the compensation and visa details.",
     "variant_2": "Master the Infosys onsite deputation pathway with the selection criteria, visa options, and the expat reality."
   },
   "2021-06-11-infosys-wfh-remote-policy.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys work from home policy decoded: official rules, client override reality, attendance tracking, and WFH navigation.",
     "variant_1": "Decode the Infosys WFH and hybrid policy across the rules and the actual employee experience at every level.",
     "variant_2": "Master Infosys remote and hybrid work with the official policy and the practical reality across career stages."
   },
   "2021-06-19-infosys-salary-hike-increment.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys salary hikes and increments decoded: appraisal bands, variable pay, promotion raises, and growth maximization tactics.",
     "variant_1": "Decode Infosys salary hike percentages across appraisal bands, variable pay, and promotion-driven raises.",
     "variant_2": "Master Infosys salary growth at every career stage with the band breakdown and the maximization tactics that work."
   },
   "2021-06-24-what-is-the-syllabus-of-tcs-nqt.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Tata Consultancy Services conducts the National Qualifier Test (NQT) every year to assess thousands of candidates. The TCS NQT exam is the recruitment...",
     "variant_1": "TCS NQT syllabus breakdown: every topic covered in aptitude, verbal, reasoning, and coding sections with weightage and recommended preparation order.",
     "variant_2": "Complete TCS NQT syllabus with topic-wise detail. What to study for each section, which topics carry the most marks, and the smartest preparation sequence."
   },
   "2021-06-27-infosys-performance-appraisal.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys performance appraisal decoded: iRace, self-assessment, calibration, forced distribution, and the appeal process.",
     "variant_1": "Decode the Infosys appraisal process across iRace, calibration, and the strategies that actually move ratings up.",
     "variant_2": "Master the Infosys performance appraisal with self-assessment writing, calibration navigation, and the appeal path."
   },
   "2021-07-05-infosys-lateral-hiring-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys lateral hiring decoded: application, interview format, salary negotiation, designation mapping, and what to know first.",
     "variant_1": "Decode Infosys lateral hiring across the interview process, designation mapping, and salary negotiation tactics.",
     "variant_2": "Master Infosys lateral hiring with the application walkthrough, interview prep, and the negotiation strategy that works."
   },
   "2021-07-08-who-is-eligible-for-tcs-nqt.md": {
-    "current": 1,
+    "current": 2,
     "original": "Tata Consultancy Services National Qualifier Test (TCS NQT) is one of the most popular tests taken by software engineers today. The test evaluates the...",
     "variant_1": "TCS NQT eligibility criteria: degree types accepted, minimum percentage, backlog rules, graduation year limits, and branch-wise requirements.",
     "variant_2": "Can you take TCS NQT? Full eligibility details covering engineering and non-engineering degrees, percentage thresholds, backlog policies, and age limits."
   },
   "2021-07-13-infosys-fresher-first-90-days.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys first 90 days on a project: an honest account from project allocation through first delivery with practical guidance.",
     "variant_1": "Decode the Infosys fresher first 90 days with an honest project-by-project view of what new joiners actually face.",
     "variant_2": "Master your Infosys first 90 days with the realistic timeline, the early wins, and the survival tips for first delivery."
   },
   "2021-07-21-infosys-mysore-training.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys Mysore training decoded: daily life, assessments, stream allocation, and practical survival tips for new joiners.",
     "variant_1": "Decode Infosys Mysore training across the routines, the assessments, and the realities nobody warns you about.",
     "variant_2": "Master Infosys Mysore training with daily life details, stream allocation strategy, and survival tips that work."
   },
   "2021-07-29-infosys-background-verification-process.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys background verification decoded: what gets checked, timelines, what triggers flags, and how to resolve discrepancies.",
     "variant_1": "Decode the Infosys BGV process with timelines, document requirements, and discrepancy resolution strategies.",
     "variant_2": "Master the Infosys background verification process with the timeline, the checks, and the flag resolution path."
   },
   "2021-08-06-infosys-offer-letter-iconect-joining.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys offer letter, iConnect, and joining decoded: portal walkthrough, document checklist, and the pre-joining timeline.",
     "variant_1": "Decode the Infosys joining process from offer letter to iConnect to first day with document and timeline guides.",
     "variant_2": "Master Infosys joining with the iConnect portal walkthrough, document checklist, and pre-joining steps."
   },
   "2021-08-12-tcs-nqt-package.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Tata Consultancy Services NQT exam is one of the most popular exams today. The test is taken by hundreds of thousands of candidates every year who are...",
     "variant_1": "TCS NQT salary package: CTC for Digital, Ninja, and Prime roles based on NQT score tiers. In-hand salary, benefits, and how scores map to offers.",
     "variant_2": "What package does TCS NQT offer? CTC breakdown for different score tiers, the difference between Ninja and Digital offers, and actual in-hand figures."
   },
   "2021-08-14-infosys-hr-interview-questions.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys HR interview decoded: 60+ questions, sample answers, what interviewers really evaluate, and rejection-causing mistakes.",
     "variant_1": "Decode the Infosys HR interview with question-by-question answer frameworks and the evaluation criteria.",
     "variant_2": "Master the Infosys HR interview with the question bank, sample answers, and the mistakes that cost candidates offers."
   },
   "2021-08-22-infosys-technical-interview-questions.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys technical interview questions for freshers: 200+ questions across OOP, Java, DBMS, OS, and networking with answers.",
     "variant_1": "Decode the Infosys technical interview with 200+ questions and answer frameworks across core CS subjects.",
     "variant_2": "Master the Infosys technical interview with the 200+ question bank and the topic-wise prep strategy that works."
   },
   "2021-08-30-infosys-coding-questions.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys coding questions decoded: 80+ solved problems in Python and Java across arrays, strings, DP, recursion, and pseudocode.",
     "variant_1": "Decode Infosys coding rounds with 80+ solved problems and a 4-week prep plan for the exam format.",
     "variant_2": "Master Infosys coding rounds with the 80+ solved problem set, language-specific solutions, and the strategy guide."
   },
   "2021-09-07-infosys-aptitude-questions-answers.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys aptitude questions: 600+ solved problems across quantitative, logical reasoning, and verbal with detailed explanations.",
     "variant_1": "Decode Infosys aptitude rounds with 600+ solved questions and section-wise strategy frameworks.",
     "variant_2": "Master Infosys aptitude with the 600+ question bank covering quantitative, logical reasoning, and verbal sections."
   },
   "2021-09-15-infosys-placement-papers.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys placement papers: 200+ previous year questions with detailed solutions and exam pattern analysis across all sections.",
     "variant_1": "Decode Infosys placement papers with 200+ historical questions, solutions, and pattern analysis.",
     "variant_2": "Master Infosys placement prep with the 200+ previous year question set and the pattern analysis that targets prep."
   },
   "2021-09-16-tcs-itis-pra-questions-and-answers.md": {
-    "current": 1,
+    "current": 2,
     "original": "The TCS Information Technology Infrastructure Services module is one of the most popular service industry modules today. The demand and criticality to...",
     "variant_1": "TCS ITIS PRA questions and answers: infrastructure services module topics, real question patterns, and how to prepare for the ITIS practical assessment.",
     "variant_2": "Preparing for TCS ITIS PRA? Real questions, topic coverage for infrastructure services, answer strategies, and the pass criteria for this assessment."
   },
   "2021-09-23-infosys-springboard-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys Springboard decoded: what it is, how it differs from InfyTQ, the best free courses, and placement implications.",
     "variant_1": "Decode Infosys Springboard with the platform walkthrough, course recommendations, and certification value.",
     "variant_2": "Master Infosys Springboard with the free course guide, certification path, and the connection to Infosys placement."
   },
   "2021-10-01-hackwithinfy-preparation.md": {
-    "current": 0,
+    "current": 1,
     "original": "HackWithInfy preparation decoded: every round, problem types, scoring rules, and the prize tier structure.",
     "variant_1": "Decode HackWithInfy with round-by-round prep guidance and the problem patterns that recur each year.",
     "variant_2": "Master HackWithInfy with the complete preparation guide covering rounds, problem types, and the scoring system."
   },
   "2021-10-09-infytq-preparation-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "InfyTQ preparation guide: registration, certification, exam pattern, and topic-wise prep strategies that lead to offers.",
     "variant_1": "Decode InfyTQ from registration through certification with topic-wise preparation guidance.",
     "variant_2": "Master InfyTQ with the complete prep walkthrough, exam pattern breakdown, and the path from certification to offer."
   },
   "2021-10-17-infosys-ase-specialist-programmer.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys ASE and Specialist Programmer roles decoded: selection, salary differences, career paths, and SE/PP comparisons.",
     "variant_1": "Decode the Infosys ASE and Specialist Programmer tracks across selection, compensation, and career trajectory.",
     "variant_2": "Master the Infosys ASE and Specialist Programmer roles with the selection process, salary, and career path differences."
   },
   "2021-10-25-infosys-power-programmer-dse.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys Power Programmer and DSE roles decoded: eligibility, salary, projects, and the career path differences explained.",
     "variant_1": "Decode the Infosys Power Programmer and DSE tracks across eligibility, compensation, and career trajectory.",
     "variant_2": "Master the Infosys Power Programmer and DSE elite tracks with eligibility, salary, and project type guidance."
   },
   "2021-10-27-tcs-nqt-salary.md": {
-    "current": 1,
+    "current": 2,
     "original": "Tata Consultancy Services National Qualifier Test (NQT) is one of the most competitive exams in the software industry today. The TCS NQT exam helps...",
     "variant_1": "TCS NQT salary structure: CTC, in-hand pay, and benefits for Ninja and Digital roles. How your NQT score tier determines your starting compensation.",
     "variant_2": "How much does TCS pay after NQT? Complete salary comparison between Ninja and Digital roles with CTC breakdown, deductions, and take-home estimates."
   },
   "2021-11-02-infosys-digital-careers-cloud-data-ai.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys digital careers decoded: Cobalt cloud, Topaz AI, data engineering, and how to access premium technology positions.",
     "variant_1": "Decode the Infosys Cobalt, Topaz, and digital tracks for both freshers and experienced professionals.",
     "variant_2": "Master Infosys digital career tracks with the Cobalt, Topaz, and data engineering paths and access strategies."
   },
   "2021-11-09-tcs-nqt-syllabus.md": {
-    "current": 1,
+    "current": 2,
     "original": "Tata Consultancy Services conducts the National Qualifier Test (NQT) for its selection process from a large pool of candidates. Hundreds of thousands of...",
     "variant_1": "TCS NQT syllabus for foundation and advanced sections: aptitude topics, verbal ability areas, programming concepts, and coding question categories.",
     "variant_2": "What is on the TCS NQT syllabus? Topic list for every section with difficulty indicators, preparation priority, and which areas carry the most weight."
   },
   "2021-11-10-infosys-for-non-it-branches.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys for non-IT branches decoded: eligibility, prep, stream allocation, training, and career trajectory for ME, EE, EC, CE.",
     "variant_1": "Decode the Infosys path for Mechanical, Civil, EEE, and ECE students with stream and training guidance.",
     "variant_2": "Master Infosys for non-IT branches with the prep guide, eligibility rules, and the career trajectory after joining."
   },
   "2021-11-18-infosys-work-culture-onsite-exit.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys work life decoded: onsite selection, bench survival, bond clauses, and the full resignation process explained.",
     "variant_1": "Decode Infosys work culture with onsite selection, bench dynamics, bonds, and the realistic exit process.",
     "variant_2": "Master Infosys work life with the onsite path, bench survival tactics, bond clauses, and the resignation walkthrough."
   },
   "2021-11-26-infosys-vs-wipro-vs-cognizant.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys vs Wipro vs Cognizant decoded: salary, culture, growth, digital strategy, appraisal, WFH, and onsite opportunities.",
     "variant_1": "Decode the Infosys, Wipro, and Cognizant comparison across every dimension that matters for a career decision.",
     "variant_2": "Master the Infosys vs Wipro vs Cognizant choice with side-by-side analysis on culture, salary, and growth."
   },
   "2021-12-04-infosys-vs-tcs-vs-wipro-comparison.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys vs TCS vs Wipro vs HCL vs Cognizant: head-to-head comparison on salary, culture, onsite, bonds, and growth.",
     "variant_1": "Decode the Indian IT services comparison across the big five with hard data on every career-relevant dimension.",
     "variant_2": "Master the Indian IT services choice with the side-by-side comparison of TCS, Infosys, Wipro, HCL, and Cognizant."
   },
   "2021-12-12-infosys-career-growth.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys career growth decoded: the SE to VP ladder, promotion timelines, appraisal process, and salary jumps at each level.",
     "variant_1": "Decode the Infosys career path from System Engineer to Vice President with timelines and salary progression.",
     "variant_2": "Master the Infosys promotion path with the level-by-level timeline, appraisal strategy, and salary jumps to expect."
   },
   "2021-12-17-tcs-nqt-eligibility.md": {
-    "current": 1,
+    "current": 2,
     "original": "TCS National Qualifier Test (NQT) is one of the most popular tests for software engineers aspiring to be a part of Tata Consultancy Services. If you are...",
     "variant_1": "TCS NQT eligibility explained: accepted degrees, percentage requirements, backlog limits, age criteria, and special rules for experienced candidates.",
     "variant_2": "Check if you qualify for TCS NQT. Detailed eligibility for all branches, graduation years, and the backlog and percentage rules that catch people off..."
   },
   "2021-12-20-infosys-salary-structure.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys salary structure decoded: CTC and in-hand breakdown at every level from fresher to manager with all deductions.",
     "variant_1": "Decode the Infosys salary structure across CTC components, deductions, and final take-home at each career stage.",
     "variant_2": "Master the Infosys salary breakdown with level-by-level CTC, in-hand calculations, and the components that vary."
   },
   "2021-12-28-infosys-hiring-process.md": {
-    "current": 0,
+    "current": 1,
     "original": "Infosys hiring process decoded: every stage from application to offer letter with prep strategies for each round.",
     "variant_1": "Decode the Infosys hiring funnel from application through offer with stage-by-stage prep guidance.",
     "variant_2": "Master the Infosys hiring process with the complete walkthrough, prep strategies, and timeline for every round."
   },
   "2022-01-05-tcs-2022-joining-date.md": {
-    "current": 0,
+    "current": 1,
     "original": "Getting the joining date for Tata Consultancy Services is indeed a great feeling. However often we have seen that the joining date is unexpectedly delayed...",
     "variant_1": "TCS 2022 batch joining date updates: expected onboarding timeline, reasons for delays, and what freshers should do while waiting for their joining call.",
     "variant_2": "Waiting for your TCS 2022 joining date? Why delays happen, the typical onboarding timeline, and how to stay productive while you wait."
   },
   "2022-03-17-tcs-bps-hiring-guide-and-tcs-bps-practice-questions.md": {
-    "current": 0,
+    "current": 1,
     "original": "TCS Business Process Services (BPS) centers around managing and executing business operations seamlessly. All industries today execute in a complex...",
     "variant_1": "TCS BPS hiring guide: Business Process Services interview questions, selection process, skills tested, and preparation tips for BPS candidates.",
     "variant_2": "Preparing for TCS BPS? The hiring process, interview question types, skills evaluated, and how BPS recruitment differs from the IT hiring track."
   },
   "2022-04-22-meta-hiring-freeze.md": {
-    "current": 0,
+    "current": 1,
     "original": "Meta is the parent company of Facebook. The hiring plans of Meta have been slashed by at least 30% in the current year. CEO Mark Zuckerberg has informed...",
     "variant_1": "Meta hiring freeze official: 30% cut to recruitment plans, Zuckerberg's internal memo, and what it means for current employees and pending candidates.",
     "variant_2": "Meta officially freezes hiring. Zuckerberg's internal announcement, the 30% recruitment cut, and the impact on teams, candidates, and company morale."
   },
   "2022-05-20-tcs-work-from-home-regulations.md": {
-    "current": 0,
+    "current": 1,
     "original": "The technology service industry has transformed in recent years. Working from home has become the norm for many individuals. The productivity has remained...",
     "variant_1": "TCS work from home policy: current WFH regulations, hybrid model expectations, who qualifies for remote work, and how the policy has evolved post-COVID.",
     "variant_2": "Can you work from home at TCS? Current remote work policy, hybrid expectations, manager discretion, and what changed after the return-to-office push."
   },
   "2022-06-10-how-the-recession-can-affect-tcs-hiring.md": {
-    "current": 0,
+    "current": 1,
     "original": "A recession is defined as a decline in economic activity spread across various sectors, and lasting for a few months. A decline in GDP for two consecutive...",
     "variant_1": "How a recession impacts TCS hiring: historical patterns, which roles get cut first, fresher onboarding delays, and what to expect during an economic...",
     "variant_2": "Will a recession slow TCS hiring? What past downturns tell us about fresher delays, reduced headcount, and how TCS adjusts its workforce in tough times."
   },
   "2022-07-19-the-virtual-web3-paradise.md": {
-    "current": 0,
+    "current": 1,
     "original": "Despite the obscure rise of the term Web3 and it's close association with crypto currency and blockchain, it is interesting to see how the recent...",
     "variant_1": "Web3 explained: decentralization, blockchain, crypto connections, and whether the hype around a new internet paradigm has any substance beneath the...",
     "variant_2": "Is Web3 real or just crypto hype? What decentralization actually means for the internet, who benefits, and whether the technology matches the promises."
   },
   "2022-08-08-tcs-hiring-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "TCS is hiring for the batch of 2023 through the **TCS National Qualifier Test**, or TCS NQT. The TCS NQT follows an integrated test pattern which is...",
     "variant_1": "TCS hiring guide for 2023 batch: NQT registration, test pattern, interview process, and resources to prepare for Tata Consultancy Services recruitment.",
     "variant_2": "Complete TCS hiring guide. NQT registration steps, integrated test pattern, interview stages, and the preparation resources that improve your chances."
   },
   "2022-08-13-facebook-interview-process-core-values-and-interview-questions.md": {
-    "current": 1,
+    "current": 2,
     "original": "Meta is one of the top organizations in the world today with a variety of products and platforms. I won’t be surprised if you are one of the millions of...",
     "variant_1": "Meta interview questions and core values: how Facebook's culture shapes their hiring, real interview questions across roles, and what evaluators...",
     "variant_2": "What does Meta look for in candidates? Core values that drive hiring decisions, real interview questions, and how to align your answers with Meta's..."
   },
   "2022-09-06-kyndryl-stock-price.md": {
-    "current": 0,
+    "current": 1,
     "original": "Chairman and CEO Martin Schroeter with his impressive profile has an important job in his hands. Leading one of the largest IT infrastructure service...",
     "variant_1": "Kyndryl stock price analysis: the IBM spinoff's market performance, CEO Martin Schroeter's strategy, and what the numbers say about the company's future.",
     "variant_2": "How is Kyndryl stock performing after the IBM spinoff? Market analysis, leadership strategy, revenue trajectory, and the outlook for investors."
   },
   "2022-09-09-tableau-certification.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data visualization tools today. Business across the world are using Tableau to analyze their data. The demand for...",
     "variant_1": "Tableau certification overview: exam types, difficulty levels, career value, and whether getting certified is worth the investment for data professionals.",
     "variant_2": "Is Tableau certification worth it? Exam options, what each level covers, how employers view it, and the career boost you can realistically expect."
   },
   "2022-09-22-killers-of-the-flower-moon.md": {
-    "current": 0,
+    "current": 1,
     "original": "The movie Killers of the Flower Moon is an American Western crime drama film which is directed by Martin Scorsese. The film is based on the best-selling...",
     "variant_1": "Killers of the Flower Moon movie review: Martin Scorsese's adaptation of the Osage murders. Cast, storyline, historical accuracy, and overall verdict.",
     "variant_2": "Scorsese's Killers of the Flower Moon reviewed. The Osage murder story, DiCaprio and De Niro's performances, and whether the film lives up to the book."
   },
   "2022-09-23-wipro-salary-hike-fy22-for-employees-and-freshers.md": {
-    "current": 0,
+    "current": 1,
     "original": "Wipro has announced that they will give out annual increments for the financial year ended on March 31. This is also known as the Merit Salary Increase or...",
     "variant_1": "Wipro FY22 salary hike: annual increment details for employees and freshers. Merit Salary Increase percentages, timing, and how it compares to TCS and...",
     "variant_2": "How much did Wipro raise salaries in FY22? MSI percentage, fresher vs experienced hikes, payout timing, and comparison with other IT company increments."
   },
   "2022-09-24-taylor-swift-fans-hoping-shes-headlining-super-bowl-2023.md": {
-    "current": 0,
+    "current": 1,
     "original": "The news is that Taylor Swift is gearing up to headline the upcoming Super Bowl halftime show. This came after a major NFL announcement. The corporation...",
     "variant_1": "Taylor Swift Super Bowl 2023 halftime speculation: fan excitement after the Apple Music sponsorship announcement and what a Swift performance would mean.",
     "variant_2": "Will Taylor Swift headline the Super Bowl? Fan hopes after the Apple Music deal, the rumors, and why Swifties believe this halftime show is happening."
   },
   "2022-09-24-the-china-coup-and-xi-jinping-house-arrest.md": {
-    "current": 0,
+    "current": 1,
     "original": "In the last week of September 2022, the internet became alive with rumors of something happening in China even though there has been no official version...",
     "variant_1": "China coup rumors and Xi Jinping house arrest claims: what the internet speculated in September 2022, the evidence, and what actually happened.",
     "variant_2": "Was there a coup in China? The viral Xi Jinping house arrest rumors of September 2022, what sparked them, and separating internet speculation from facts."
   },
   "2022-09-25-black-panther-wakanda-forever.md": {
-    "current": 0,
+    "current": 1,
     "original": "The movie Black Panther: Wakanda Forever is a sequel to the immensely popular Black Panther movie by Marvel Studios. The film will focus on the titular...",
     "variant_1": "Black Panther: Wakanda Forever preview: Marvel's sequel honoring Chadwick Boseman. New characters, Namor, and what the film means for the MCU's future.",
     "variant_2": "Wakanda Forever without Chadwick Boseman. How Marvel's Black Panther sequel honors the late star while introducing Namor and expanding the MCU."
   },
   "2022-10-19-amazon-workforce.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is continuing to grow and becoming one of the largest online marketplace and supply chain platforms in the world. There are a variety of warehouses...",
     "variant_1": "Amazon's global workforce: how many people Amazon employs, distribution across warehouses and offices, and what the growth trajectory looks like.",
     "variant_2": "How big is Amazon's workforce? Employee count across warehouses, corporate offices, and tech divisions, plus the hiring trends driving expansion."
   },
   "2022-10-21-amazon-work-from-home-reviews.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest companies in the world today, and the technologies it works on is one of the latest and greatest where innovations are...",
     "variant_1": "Amazon work from home reviews from real employees: schedule flexibility, management style, pay satisfaction, and the honest pros and cons of remote roles.",
     "variant_2": "What do Amazon WFH employees actually say? Real reviews covering pay, flexibility, workload, management, and whether remote Amazon roles are worth it."
   },
   "2022-10-28-amazon-warehouse-jobs.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world, and it provides a variety of job opportunities for people of different skill sets. Amazon offers a...",
     "variant_1": "Amazon warehouse jobs overview: picker, packer, stower, and sorter roles explained with pay rates, physical demands, shift options, and benefits.",
     "variant_2": "Types of Amazon warehouse jobs and what each one involves. Pay rates, physical requirements, shift schedules, and the benefits package for fulfillment..."
   },
   "2022-10-30-amazon-warehouse-jobs-part-time.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today and it has hundreds of warehouses where thousands of people are working to provide the best...",
     "variant_1": "Amazon part-time warehouse jobs: shift options, hourly pay, benefits eligibility, scheduling flexibility, and how to find part-time openings near you.",
     "variant_2": "Part-time at an Amazon warehouse: what shifts are available, how much it pays per hour, which benefits you still get, and how scheduling works."
   },
   "2022-10-30-does-amazon-pay-you-to-work-from-home.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon employs thousands of workers all across the world and provides work form home opportunity. The work from home opportunities that are provided by...",
     "variant_1": "Does Amazon pay for remote work? WFH compensation structure, hourly rates, salary ranges by role, and whether pay differs from in-office positions.",
     "variant_2": "Yes, Amazon pays remote workers. Here is how WFH compensation works, what roles pay, hourly vs salary structures, and how it compares to in-office."
   },
   "2022-10-30-which-job-is-best-in-amazon.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today, and it continues to offer a variety of different types of roles and responsibilities based...",
     "variant_1": "Best jobs at Amazon by pay, growth, and satisfaction: comparing warehouse, customer service, corporate, and tech roles to find the right fit for you.",
     "variant_2": "Which Amazon job should you go for? Pay comparison, growth potential, and employee satisfaction across warehouse, WFH, corporate, and engineering roles."
   },
   "2022-11-02-amazon-warehouse-near-me.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon has a large number of warehouses all across the world where it employs thousands of employees. The employees can be full time, part time, or hourly...",
     "variant_1": "Find Amazon warehouses and fulfillment centers near your location. How to search openings, check if your area has facilities, and apply locally.",
     "variant_2": "Looking for an Amazon warehouse near you? How to locate fulfillment centers in your area, check open positions, and apply for local roles."
   },
   "2022-11-04-how-much-does-amazon-pay-you-to-work-from-home.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon employs thousands of workers across its warehouses and corporate offices across the globe. The job that Amazon provides start from hourly and span...",
     "variant_1": "Amazon WFH pay rates: hourly and salary ranges for remote customer service, tech support, and corporate roles. What you actually take home working...",
     "variant_2": "How much does Amazon pay remote workers? Hourly rates for customer service, salary ranges for corporate WFH roles, and total compensation details."
   },
   "2022-11-06-amazon-jobs-work-from-home.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest employers around the world with a huge number of offices and Service Centers. There are a variety of work from home jobs...",
     "variant_1": "Amazon work from home job listings: current remote openings, required skills, application process, and tips for landing a virtual position at Amazon.",
     "variant_2": "Find Amazon WFH jobs. The types of remote positions available, qualification requirements, how to apply, and what the virtual onboarding looks like."
   },
   "2022-11-08-will-amazon-hire-with-no-work-experience.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world that employs millions of people all over the globe in different warehouses and corporate offices of...",
     "variant_1": "Can you get hired at Amazon with no experience? Entry-level roles that require zero prior work history, the application process, and training provided.",
     "variant_2": "No work experience? Amazon still hires. The entry-level positions that need no prior experience, how to apply, and what training you receive on the job."
   },
   "2022-11-10-amazon-work-from-home-jobs-part-time.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today and it employs numerous full time, part-time, and hourly workers. There are a variety of jobs...",
     "variant_1": "Amazon part-time work from home jobs: available remote roles with flexible hours, pay rates, minimum hour requirements, and how to find current openings.",
     "variant_2": "Part-time and remote at Amazon. Which WFH roles offer flexible hours, what the minimum weekly commitment is, and how much part-time positions pay."
   },
   "2022-11-12-tableau-certified-data-analyst-prep.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data visualization tools in the market today. Thousands of aspiring professionals who want to be a part of the data...",
     "variant_1": "Tableau Certified Data Analyst exam prep: topics covered, question format, recommended study resources, and a preparation strategy that actually works.",
     "variant_2": "Preparing for the Tableau Data Analyst certification? Study topics, exam format, time allocation, and the resources that help you pass on the first try."
   },
   "2022-11-14-tableau-data-analyst-certification-questions.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data analytics and visualization tools used by businesses all over the world today. The Tableau Certified Data Analyst...",
     "variant_1": "Tableau Data Analyst certification questions: real exam topics, question patterns, tricky areas, and the concepts that candidates struggle with most.",
     "variant_2": "What questions come on the Tableau Data Analyst exam? Topic coverage, question styles, calculation challenges, and the areas most candidates underestimate."
   },
   "2022-11-16-tableau-data-analyst-certification-review.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most widely used data visualization and analytical tool today. Businesses of all sizes are in critical need of getting insights from...",
     "variant_1": "Tableau Data Analyst certification review: exam experience, difficulty assessment, time management, and honest verdict on whether the certification...",
     "variant_2": "Took the Tableau Data Analyst certification. Here is how the exam went, what was harder than expected, and whether the credential is worth your time."
   },
   "2022-11-18-does-amazon-work-from-home-pay-weekly.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the top companies in the world and it implies hundreds of 1000s of people who can work from home or also has different types of jobs that...",
     "variant_1": "Does Amazon pay remote workers weekly? Payment frequency for WFH roles, pay schedule for different position types, and when to expect your first check.",
     "variant_2": "How often does Amazon pay WFH employees? Weekly vs biweekly pay schedules for different remote role types and when your first payment arrives."
   },
   "2022-11-20-how-much-does-amazon-pay-for-work-from-home.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest companies in the world and one of the common questions that I have come across candidates who are looking forward to being a...",
     "variant_1": "Amazon remote work pay: detailed compensation for customer service, data entry, tech support, and corporate WFH roles across different experience levels.",
     "variant_2": "What does Amazon pay for work from home? Role-by-role pay breakdown for remote positions from entry-level customer service to senior corporate roles."
   },
   "2022-11-22-amazon-jobs-login-with-pin.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the popular organizations in the world and employs hundreds of thousands of people. Amazon is one of the best organizations, which has...",
     "variant_1": "Amazon jobs login with PIN: how to access the employee portal, reset your PIN, troubleshoot login issues, and navigate the Amazon workforce dashboard.",
     "variant_2": "Trouble logging into Amazon jobs with your PIN? Step-by-step fix for portal access issues, PIN resets, and navigating the Amazon employee dashboard."
   },
   "2022-11-24-is-there-any-work-from-home-in-amazon.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon provides a variety of work from home opportunities where candidates can work part time or also full time. There are varieties of roles where...",
     "variant_1": "Amazon offers multiple work from home roles: customer service, virtual tech support, corporate positions, and seasonal remote jobs across various...",
     "variant_2": "Does Amazon have WFH jobs? Yes, across customer service, tech support, and corporate functions. Here are the roles, pay, and how to apply."
   },
   "2022-11-26-amazon-online-jobs-work-from-home-no-experience.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today. There are a variety of jobs that are provided to individuals with different skill sets.",
     "variant_1": "Amazon WFH jobs that need no experience: entry-level remote roles, training provided, application process, and realistic pay expectations for beginners.",
     "variant_2": "No experience needed for these Amazon online jobs. Remote entry-level positions with training provided, what they pay, and how to get started."
   },
   "2022-11-28-how-do-freshers-get-jobs-at-amazon.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the top technology companies in the world that employs thousands of people globally. Candidates who were freshers also can get jobs at...",
     "variant_1": "How freshers land Amazon jobs: campus recruitment, entry-level roles, required skills, and the preparation path from college to an Amazon offer letter.",
     "variant_2": "College graduate aiming for Amazon? The hiring paths for freshers, what Amazon looks for in campus recruits, and how to prepare while still in college."
   },
   "2022-11-30-amazon-application-login.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations around the world and it employs hundreds of 1000s of people. The Amazon job application process is extremely...",
     "variant_1": "Amazon job application login: how to access your candidate profile, track application status, update your resume, and troubleshoot portal issues.",
     "variant_2": "Can't log into the Amazon application portal? Steps to access your profile, check application status, reset credentials, and fix common login errors."
   },
   "2022-12-02-how-much-does-amazon-pay-to-work-from-home.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world, and it employs hundreds of thousands of people all across the globe in its variety of offices and...",
     "variant_1": "Amazon WFH salary and hourly rates by role type. What remote customer service, virtual assistants, and corporate employees actually earn working from home.",
     "variant_2": "Amazon remote work pay breakdown. Hourly rates for support roles, salary ranges for corporate WFH positions, and how pay compares to in-office work."
   },
   "2022-12-04-amazon-work-from-home-data-entry-jobs.md": {
-    "current": 0,
+    "current": 1,
     "original": "Emerson is one of the largest corporations in the world that employs hundreds of workers who help it in its warehouses and technological progresses in...",
     "variant_1": "Amazon data entry work from home: available positions, required typing speed and accuracy, hourly pay, and how to apply for remote data processing roles.",
     "variant_2": "Looking for Amazon data entry WFH jobs? What the roles involve, pay rates, skill requirements, and the application process for remote data positions."
   },
   "2022-12-06-amazon-force-jobs.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world and every year it employs and hires hundreds of thousands of hourly workers. We see a huge number...",
     "variant_1": "Amazon Force jobs portal: how hourly warehouse workers find shifts, check schedules, manage availability, and access employment resources through AtoZ.",
     "variant_2": "What is Amazon Force? The workforce management portal for hourly employees to view shifts, manage schedules, and access job resources at Amazon."
   },
   "2022-12-08-amazon-force.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today, and they are a variety of opportunities for candidates who want to work at Amazon. The...",
     "variant_1": "Amazon Force explained: the internal platform for warehouse and fulfillment workers to manage schedules, view pay, request time off, and access HR...",
     "variant_2": "Understanding Amazon Force. How warehouse employees use this internal platform for shift management, pay stubs, PTO requests, and employment details."
   },
   "2022-12-10-download-and-convert-audible-aax-files-to-mp3.md": {
-    "current": 0,
+    "current": 1,
     "original": "Audible is one of the most popular audiobooks services in the world. One of the most common questions that I have come across users using Audible is if it...",
     "variant_1": "Convert Audible AAX files to MP3: methods, tools, DRM considerations, and how to play your audiobooks on any device without the Audible app.",
     "variant_2": "Want your Audible books in MP3 format? How to convert AAX files, the tools that work, and what to know about DRM before you start the conversion."
   },
   "2022-12-12-amazon-job-fair-today.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world, and it employs hundreds of thousands of people. There are a variety of job opportunities that are...",
     "variant_1": "Amazon job fairs: how to find hiring events near you, what to bring, what happens at the event, and how on-the-spot offers work at Amazon recruitment days.",
     "variant_2": "Attending an Amazon job fair? What to expect, documents to bring, the on-site interview process, and how same-day offers work at Amazon hiring events."
@@ -5442,25 +5442,25 @@
     "variant_2": "高考后填志愿的全流程攻略。从查分渠道到位次换算，从平行志愿到补录追踪，每一步都有清晰指引。"
   },
   "2022-12-14-are-tableau-certification-worth-it.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data visualization and analytical tools available today. Hundreds of business corporations are constantly using Tableau...",
     "variant_1": "Are Tableau certifications worth the cost? Career impact analysis, employer perception, salary data, and when certification makes sense vs when it does...",
     "variant_2": "Should you invest in Tableau certification? Honest analysis of career impact, salary difference, employer expectations, and when it actually pays off."
   },
   "2022-12-16-tcs-nqt-2023.md": {
-    "current": 1,
+    "current": 2,
     "original": "TCS is one of the largest technology corporations in the world today which employs more than half a million employees. The number of employees in Tata...",
     "variant_1": "TCS NQT 2023 complete overview: exam pattern changes, registration process, new scoring system, expected dates, and preparation strategy for this cycle.",
     "variant_2": "Everything about TCS NQT 2023: updated exam format, section-wise changes, registration steps, and how to prepare for the current year's test pattern."
   },
   "2022-12-18-how-do-i-log-into-my-amazon-employee-account.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today. Hundreds of 1000s of employees all over the world. Work in Amazon in a variety of corporate...",
     "variant_1": "Amazon employee account login: AtoZ app access, password reset steps, common login errors, and how to reach HR support if you are locked out.",
     "variant_2": "Locked out of your Amazon employee account? How to log in through AtoZ, reset your password, fix common errors, and contact HR for account recovery."
   },
   "2022-12-20-amazon-work-from-home-30-an-hour.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today and there are a variety of job that is provided by Amazon to its employees. Based on the...",
     "variant_1": "Amazon WFH jobs paying $30 per hour: which remote roles hit this pay level, required experience, and how to find high-paying virtual positions at Amazon.",
     "variant_2": "Can you earn $30/hour working from home at Amazon? The remote roles that pay this rate, what qualifications they need, and how to land them."
@@ -5472,25 +5472,25 @@
     "variant_2": "高考当天的小时级行动手册。清晨准备、考场流程、科目衔接、午休安排与突发处理，让发挥真正匹配实力。"
   },
   "2022-12-22-amazon-leadership-principles.md": {
-    "current": 0,
+    "current": 1,
     "original": "Amazon is one of the largest corporations in the world today and there are a variety of principles that Amazon uses to nurture its employees. Amazon has a...",
     "variant_1": "Amazon's 16 Leadership Principles explained: Customer Obsession, Ownership, Bias for Action, and every principle that drives hiring and promotions at...",
     "variant_2": "Why Amazon leadership principles matter for your interview. All 16 principles explained with how they are evaluated during the hiring process."
   },
   "2022-12-24-meta-layoffs-and-hiring-freeze.md": {
-    "current": 0,
+    "current": 1,
     "original": "Meta is one of the largest corporations in the world today and there are billions of people who are using its products including Facebook, WhatsApp, and...",
     "variant_1": "Meta layoffs and hiring freeze combined impact: job cuts across Facebook, Instagram, and WhatsApp teams alongside a prolonged recruitment shutdown.",
     "variant_2": "The double hit at Meta: mass layoffs plus a hiring freeze. Which teams lost people, which roles are frozen, and what the combined impact looks like."
   },
   "2022-12-26-tableau-certified-data-analyst-salary.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data visualization and analytics tool used in the industry today. The Tableau certified data analyst salary is one of...",
     "variant_1": "Tableau Certified Data Analyst salary: average pay ranges, how certification affects compensation, and salary comparison with non-certified professionals.",
     "variant_2": "How much do Tableau certified analysts earn? Salary data across regions and industries, and whether the certification leads to measurably higher pay."
   },
   "2022-12-28-amazon-work-from-home-free-laptop.md": {
-    "current": 0,
+    "current": 1,
     "original": "It comes in is one of the largest corporations in the world and it is provides a wide variety of opportunities for people coming from diverse backgrounds.",
     "variant_1": "Does Amazon provide a free laptop for remote workers? Equipment policy for WFH roles, what devices are provided, and what you need to supply yourself.",
     "variant_2": "Will Amazon give you a laptop to work from home? Which remote roles get company equipment, what is provided, and what you need to buy on your own."
@@ -5502,13 +5502,13 @@
     "variant_2": "高考考前一周该做与不该做的全部清单。复习节奏、睡眠节奏、心理节奏，全部为考场发挥服务。"
   },
   "2022-12-30-which-tableau-certification-is-best.md": {
-    "current": 0,
+    "current": 1,
     "original": "Tableau is one of the most popular data visualization tools in the market today. All the businesses around the world today are storing large amounts of...",
     "variant_1": "Which Tableau certification should you get? Data Analyst vs Server Certified Associate vs Desktop Specialist compared on difficulty, cost, and career...",
     "variant_2": "Confused about Tableau certification options? Comparison of every available cert on exam difficulty, career relevance, cost, and which to pursue first."
   },
   "2023-01-02-tableau-certification-a-step-by-step-path-to-success.md": {
-    "current": 0,
+    "current": 1,
     "original": "In today's data-driven world, the ability to visualize and interpret data is a skill that holds paramount importance. Tableau, a powerful data...",
     "variant_1": "Tableau certification step by step: from choosing the right exam to study planning, practice tests, and exam day strategy for data visualization...",
     "variant_2": "Your step-by-step Tableau certification roadmap. Choosing the exam, building a study plan, finding practice tests, and nailing the test on exam day."
@@ -5520,7 +5520,7 @@
     "variant_2": "高考百日冲刺的每一天都该怎么过。复习节奏、模拟考策略、体能管理与心理调适，全部为最后冲刺服务。"
   },
   "2023-01-09-top-resources-for-tableau-certification-preparation.md": {
-    "current": 0,
+    "current": 1,
     "original": "In the tradition of Hemingway's protagonists who navigate the uncharted, the pursuit of Tableau certification demands a robust arsenal of resources. This...",
     "variant_1": "Best Tableau certification study resources: official guides, practice exams, video courses, community forums, and the materials that make the real...",
     "variant_2": "The Tableau certification resources that actually work. Official prep, third-party courses, practice exams, and community content ranked by usefulness."
@@ -5532,7 +5532,7 @@
     "variant_2": "高考备考一年的完整规划。掌握月度里程碑、复习轮次、科目节奏与关键转换点，让整年备考有节有序。"
   },
   "2023-01-16-cracking-the-code-strategies-for-passing-tableau-certification.md": {
-    "current": 0,
+    "current": 1,
     "original": "In the world of data-driven decision-making, Tableau certification serves as a beacon of proficiency and expertise. Just as Hemingway's protagonists...",
     "variant_1": "Strategies for passing Tableau certification: time management, question patterns, hands-on practice focus, and the preparation approach that beats...",
     "variant_2": "How to crack Tableau certification without just memorizing. The strategy, practice approach, and time management that lead to passing scores."
@@ -5550,7 +5550,7 @@
     "variant_2": "高考志愿与公务员职业的深度关联。掌握选调生、国考、省考的院校与专业要求，让志愿填报具有职业前瞻。"
   },
   "2023-02-02-demystifying-tableau-certification-your-questions-answered.md": {
-    "current": 0,
+    "current": 1,
     "original": "In the realm of data analytics and visualization, Tableau stands as a beacon of excellence. Its impact on transforming raw data into meaningful insights...",
     "variant_1": "Tableau certification FAQ: cost, difficulty, validity period, retake policy, career impact, and straightforward answers to the questions every candidate...",
     "variant_2": "Everything you want to know about Tableau certification. Cost, difficulty, how long it lasts, retake rules, and whether employers actually care."
@@ -5568,7 +5568,7 @@
     "variant_2": "高考评分的全部秘密。从阅卷流程到双评机制，让每一道主观题都能写出阅卷老师想看到的答案。"
   },
   "2023-02-16-from-novice-to-certified-pro-your-tableau-journey.md": {
-    "current": 0,
+    "current": 1,
     "original": "Just as Hemingway's characters embark on quests of self-discovery and growth, your journey to becoming a Tableau certified professional is a testament to...",
     "variant_1": "From Tableau beginner to certified professional: the learning path, skill milestones, certification timeline, and what changes in your career after...",
     "variant_2": "Zero Tableau experience to certified professional. The learning stages, practice milestones, and realistic timeline for going from novice to certified."
@@ -6048,13 +6048,13 @@
     "variant_2": "Master TCS interviews with the question bank organized by round and topic, with answer frameworks for each."
   },
   "2023-11-05-gaokao-scu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "四川大学高考录取完全指南。华西医学顶尖实力、文史哲传统、综合学科布局与成都城市魅力全解析。",
     "variant_1": "四川大学报考的全方位攻略。从华西医学到文史传统到城市生态，圆梦西部综合名校。",
     "variant_2": "四川大学高考志愿填报的完整指南。医学、文史、综合学科的优势与各省分数线全面梳理。"
   },
   "2023-11-13-gaokao-hit-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "哈尔滨工业大学高考录取完全指南。航天国防特色、三校区差异、C9联盟定位与强基计划全方位解析。",
     "variant_1": "哈工大报考的全方位攻略。从航天国防到三校区到C9定位，圆梦中国工科旗舰名校。",
     "variant_2": "哈工大高考志愿填报的完整指南。航天、国防、机械、计算机的优势与各省分数线全面梳理。"
@@ -6066,7 +6066,7 @@
     "variant_2": "Master TCS interview prep with the patterns from hundreds of real interviews across every TCS profile."
   },
   "2023-11-21-gaokao-xjtu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "西安交通大学高考录取完全指南。西迁精神传承、工程能源学科优势、C9联盟定位与强基招生全解析。",
     "variant_1": "西交大报考的全方位攻略。从工程能源到西迁精神到C9定位，圆梦西部顶级学府。",
     "variant_2": "西交大高考志愿填报的完整指南。能源、机械、电气、动力的优势与各省分数线全面梳理。"
@@ -6078,7 +6078,7 @@
     "variant_2": "Master TCS ILP Java with the curriculum walkthrough, IRA prep, and the week-by-week learning roadmap."
   },
   "2023-11-29-gaokao-tju-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "天津大学高考录取完全攻略。化工建筑机械顶尖专业、北洋传统、与南开互补格局与各省差异化志愿策略。",
     "variant_1": "天津大学报考的全方位攻略。从化工建筑到北洋精神到天津就业，圆梦中国最早现代大学。",
     "variant_2": "天津大学高考志愿填报的完整指南。化工、建筑、机械的优势专业与各省分数线全面梳理。"
@@ -6090,7 +6090,7 @@
     "variant_2": "Master TCS ILP with the stream walkthrough, the assessment system, and the post-training project allocation reality."
   },
   "2023-12-07-gaokao-nankai-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "南开大学高考录取完全攻略。经济学化学数学顶尖专业、周恩来精神传承、与天大互补格局与各省策略。",
     "variant_1": "南开大学报考的全方位攻略。从经济学到化学到周恩来精神，圆梦百年爱国名校。",
     "variant_2": "南开大学高考志愿填报的完整指南。经济、化学、数学、历史的优势与各省分数线全面梳理。"
@@ -6102,7 +6102,7 @@
     "variant_2": "Master your first year at TCS with the honest fresher experience guide covering training, projects, and culture."
   },
   "2023-12-15-gaokao-seu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "东南大学高考录取完全攻略。建筑土木电子信息生物医学工程顶尖专业、江苏主场优势与南京就业生态。",
     "variant_1": "东南大学报考的全方位攻略。从建筑土木到电子信息到江苏就业，圆梦江苏工科名校。",
     "variant_2": "东南大学高考志愿填报的完整指南。建筑、土木、电子、生医的优势与各省分数线全面梳理。"
@@ -6114,7 +6114,7 @@
     "variant_2": "Master TCS placement email writing with the format guide, scenario templates, and the communication skills that matter."
   },
   "2023-12-23-gaokao-tongji-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "同济大学高考录取完全攻略。建筑土木城规汽车工程顶尖专业、德国学术渊源与上海就业生态全解析。",
     "variant_1": "同济大学报考的全方位攻略。从建筑土木到德国渊源到上海就业，圆梦百年名校。",
     "variant_2": "同济大学高考志愿填报的完整指南。建筑、土木、城规、汽车的优势与各省分数线全面梳理。"
@@ -6126,7 +6126,7 @@
     "variant_2": "Master TCS eligibility with the program-by-program criteria covering CGPA, backlogs, gap years, and common questions."
   },
   "2023-12-31-gaokao-buaa-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "北京航空航天大学高考录取完全攻略。航空航天计算机人工智能顶尖专业、国防特色资源与就业优势全解析。",
     "variant_1": "北航报考的全方位攻略。从航空航天到人工智能到国防特色，圆梦航天强国梦想摇篮。",
     "variant_2": "北航高考志愿填报的完整指南。航空、航天、计算机、AI的优势与各省分数线全面梳理。"
@@ -6138,7 +6138,7 @@
     "variant_2": "Master the TCS Digital interview with advanced technical prep, whiteboard coding tactics, and HR strategy."
   },
   "2024-01-08-gaokao-ruc-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "中国人民大学高考录取完全攻略。法学经济学新闻公共管理顶尖专业、与文社法经类名校横向对比全解析。",
     "variant_1": "人大报考的全方位攻略。从法学到经济学到新闻传播，圆梦中国社会科学最高学府。",
     "variant_2": "人大高考志愿填报的完整指南。法学、经济学、新闻、公共管理的优势与各省分数线全面梳理。"
@@ -6150,7 +6150,7 @@
     "variant_2": "Master TCS Digital with the premium profile prep walkthrough covering coding, interviews, and compensation."
   },
   "2024-01-16-gaokao-sysu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "中山大学高考录取完全攻略。医学商科法学顶尖专业、广州珠海深圳三校区布局与粤港澳大湾区就业优势。",
     "variant_1": "中大报考的全方位攻略。从医学商科到三校区到大湾区就业，圆梦华南第一名校。",
     "variant_2": "中大高考志愿填报的完整指南。医学、商科、法学的优势专业与各省分数线全面梳理。"
@@ -6162,7 +6162,7 @@
     "variant_2": "Master TCS Digital coding with advanced DSA, original problems, and the 45-day roadmap to competition-level skill."
   },
   "2024-01-24-gaokao-hust-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "华中科技大学高考录取完全攻略。机械电气计算机光电顶尖工科、同济医学院申请与强基计划报名条件。",
     "variant_1": "华科报考的全方位攻略。从工科顶尖到同济医学到武汉就业，圆梦中部工科强校。",
     "variant_2": "华科高考志愿填报的完整指南。机械、电气、计算机、光电的优势与各省分数线全面梳理。"
@@ -6174,7 +6174,7 @@
     "variant_2": "Master TCS Digital coding problems with the advanced solution workbook built for serious Digital candidates."
   },
   "2024-02-01-gaokao-whu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "武汉大学高考录取完全攻略。法学文学遥感顶尖专业、强基计划、与华科横向对比与各省差异化策略。",
     "variant_1": "武大报考的全方位攻略。从法学文学到遥感到山水校园，圆梦中部综合名校。",
     "variant_2": "武大高考志愿填报的完整指南。法学、文学、遥感、测绘的优势与各省分数线全面梳理。"
@@ -6186,7 +6186,7 @@
     "variant_2": "Master TCS Digital advanced quants and reasoning with speed techniques for the 25-minute time crunch."
   },
   "2024-02-09-gaokao-ustc-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "中国科学技术大学高考录取完全攻略。少年班、强基计划、物理数学化学顶尖专业与合肥城市概况。",
     "variant_1": "中科大报考的全方位攻略。从少年班到强基计划到物理数学，圆梦精英科学殿堂。",
     "variant_2": "中科大高考志愿填报的完整指南。物理、数学、化学的优势与各省分数线全面梳理。"
@@ -6198,7 +6198,7 @@
     "variant_2": "Master TCS coding with the original problem bank, four-language solutions, and the difficulty progression for every profile."
   },
   "2024-02-17-gaokao-nju-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "南京大学高考录取完全攻略。匡亚明学院申请、天文学等优势专业、强基计划与江苏志愿填报策略全解析。",
     "variant_1": "南大报考的全方位攻略。从匡亚明学院到天文学到江苏主场优势，圆梦顶级综合名校。",
     "variant_2": "南大高考志愿填报的完整指南。匡亚明学院、天文学、物理学的优势与各省分数线全面梳理。"
@@ -6210,7 +6210,7 @@
     "variant_2": "Master TCS CodeVita with the competition format, the Digital hiring connection, and the 60-day prep roadmap."
   },
   "2024-02-25-gaokao-zju-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "浙江大学高考录取完全攻略。竺可桢学院、计算机医学等顶尖专业、各省录取分数线与志愿填报实战策略。",
     "variant_1": "浙大报考的全方位攻略。从竺可桢学院到计算机医学到杭州就业，圆梦江南顶级综合名校。",
     "variant_2": "浙大高考志愿填报的完整指南。竺可桢学院、计算机、医学的优势与各省分数线全面梳理。"
@@ -6222,7 +6222,7 @@
     "variant_2": "Master TCS coding in C and C++ with the complete solution set, compiler quirks, and command line guidance."
   },
   "2024-03-04-gaokao-sjtu-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "上海交通大学高考录取完全攻略。工程学科主导地位、致远荣誉计划、各省分数线与志愿填报实战策略。",
     "variant_1": "上海交大报考的全方位攻略。从工程顶尖到致远学院到上海就业，圆梦顶级理工名校。",
     "variant_2": "上海交大高考志愿填报的完整指南。工程、机械、电子、致远的优势与各省分数线全面梳理。"
@@ -6234,7 +6234,7 @@
     "variant_2": "Master TCS BPS with the syllabus walkthrough, salary breakdown, and the realistic career trajectory after joining."
   },
   "2024-03-12-gaokao-fudan-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "复旦大学高考录取完全攻略。各省分数线、最强专业、人文社科与基础医学优势与志愿填报实战策略。",
     "variant_1": "复旦报考的全方位攻略。从人文社科到基础医学到上海就业，圆梦顶级综合名校。",
     "variant_2": "复旦高考志愿填报的完整指南。新闻、临床医学、经济学、数学的优势与各省分数线全面梳理。"
@@ -6246,7 +6246,7 @@
     "variant_2": "Master TCS BPS hiring with the complete prep guide built for non-engineering graduates entering IT services."
   },
   "2024-03-20-gaokao-peking-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "北京大学高考录取完全攻略。各省分数线、PKU与清华横向对比、元培学院与志愿填报实战策略全解析。",
     "variant_1": "北大报考的全方位攻略。从元培学院到文理强势学科到首都就业，圆梦中国顶级学府。",
     "variant_2": "北大高考志愿填报的完整指南。元培、光华、理科基础学科的优势与各省分数线全面梳理。"
@@ -6258,7 +6258,7 @@
     "variant_2": "Master TCS BPS aptitude with the basics-to-ready prep plan built for non-engineering graduates."
   },
   "2024-03-28-gaokao-tsinghua-admission-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "清华大学高考录取完全攻略。各省分数线、计算机姚班数学领军等顶尖项目与志愿填报实战策略全解析。",
     "variant_1": "清华报考的全方位攻略。从姚班到计算机到数学领军，圆梦中国理工科最高学府。",
     "variant_2": "清华高考志愿填报的完整指南。计算机、姚班、数学领军、电子的优势与各省分数线全面梳理。"
@@ -6270,7 +6270,7 @@
     "variant_2": "Master TCS Aspire with the module priority guide, assignment strategies, and the bridge to formal ILP training."
   },
   "2024-04-05-gaokao-politics-philosophy-economics.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考政治完全攻略。马克思主义哲学、经济学理论、政治制度与时事应用，覆盖必修四模块与时政热点全解析。",
     "variant_1": "高考政治四大必修模块的全部考点。哲学、经济、政治、文化，每一块都有清晰的备考路径。",
     "variant_2": "高考政治备考的核心方法。从马哲到经济学到时政分析，掌握答题思路与素材运用。"
@@ -6282,7 +6282,7 @@
     "variant_2": "Master TCS aptitude with topic-by-topic walkthroughs, speed techniques, and the original practice problem bank."
   },
   "2024-04-13-gaokao-physical-geography.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考自然地理完全攻略。大气环流、气候类型、洋流、板块构造与水文学全面掌握，让自然地理变成稳定得分项。",
     "variant_1": "高考自然地理的核心考点全解。从气候到地质到水文，每一个考点都有清晰方法。",
     "variant_2": "高考地理备考的实战指南。气候类型、大气环流、地质构造与水循环，全部一站式梳理。"
@@ -6300,7 +6300,7 @@
     "variant_2": "How much does Infosys actually pay? Level-wise CTC breakdown with in-hand calculations after PF, tax, and insurance deductions for freshers to managers."
   },
   "2024-04-21-gaokao-world-history.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考世界史完全攻略。从古代文明到工业革命到两次世界大战到冷战与全球化，时间线与主题脉络全解析。",
     "variant_1": "高考世界史的全部主线与考点。让分散的世界史知识形成清晰的时间脉络与主题网络。",
     "variant_2": "高考世界史备考的实战手册。古代文明、革命、世界大战、冷战与全球化，全部一站式掌握。"
@@ -6312,13 +6312,13 @@
     "variant_2": "How to crack InfyTQ? Complete prep guide covering the exam format, coding question types, database topics, certification value, and the score that matters."
   },
   "2024-04-29-gaokao-modern-chinese-history.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考中国近代史完全攻略。从鸦片战争到辛亥革命到新中国成立到改革开放，关键事件与历史主线全解析。",
     "variant_1": "高考中国近代史的全部主线与考点。让百年历史形成清晰的时间脉络与主题网络。",
     "variant_2": "高考近代史备考的实战指南。鸦片战争、辛亥革命、新民主主义革命与改革开放，全部一站式梳理。"
   },
   "2024-05-07-gaokao-ancient-chinese-history.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考中国古代史完全攻略。各朝代政治制度、思想文化、经济发展与史料分析方法全面掌握。",
     "variant_1": "高考中国古代史的全部主线与考点。让两千年朝代史形成清晰的时间与主题网络。",
     "variant_2": "高考古代史备考的实战指南。从先秦到明清的政治、思想、经济与史料分析，全部讲透。"
@@ -6330,7 +6330,7 @@
     "variant_2": "Power Programmer or Digital Specialist Engineer at Infosys? Side-by-side comparison of roles, CTC, interview process, projects, and long-term career..."
   },
   "2024-05-15-gaokao-biology-experiments.md": {
-    "current": 0,
+    "current": 1,
     "original": "高考生物实验设计完全攻略。对照变量、实验方法学、结论书写与典型实验题答题模板全面解析。",
     "variant_1": "高考生物实验题的核心方法全解。从对照设置到变量控制到结论书写，全部一站式掌握。",
     "variant_2": "高考生物实验设计的实战指南。掌握控制变量、实验设计思路与规范答题，让实验题稳拿分。"
@@ -7842,7 +7842,7 @@
     "variant_2": "高考的全方位手册。报名、考试、查分、志愿与录取的完整指引。"
   },
   "2026-03-19-complete-analysis-dhurandhar-part-1.md": {
-    "current": 0,
+    "current": 1,
     "original": "Complete analysis of Dhurandhar Part 1: the plot, the spy world, the characters, and the storytelling decoded.",
     "variant_1": "Decode Dhurandhar Part 1 across plot, characters, themes, and the spy world Aditya Dhar built.",
     "variant_2": "The full analysis of Dhurandhar Part 1: every character, every twist, and every choice the film makes."
@@ -7878,13 +7878,13 @@
     "variant_2": "O guia definitivo para engenheiros brasileiros navegarem a era da IA com decisões de carreira informadas."
   },
   "2026-03-28-it-sector-layoffs-2026-global-analysis.md": {
-    "current": 0,
+    "current": 1,
     "original": "IT sector layoffs 2026: the definitive global analysis of job cuts at the world's largest tech companies and the why.",
     "variant_1": "Decode the 2026 IT layoff wave across companies, regions, and the structural drivers behind the cuts.",
     "variant_2": "Master the 2026 IT layoff story with the global analysis covering scope, drivers, and the AI-era context."
   },
   "2026-03-29-hamza-open-letter-to-aditya-dhar.md": {
-    "current": 0,
+    "current": 1,
     "original": "Hamza's open letter to Aditya Dhar: the in-character reflection on the Dhurandhar arc and what was unsaid.",
     "variant_1": "Decode the Hamza open letter as the in-character reflection that completes the Dhurandhar emotional arc.",
     "variant_2": "Hamza's letter to Aditya Dhar: the in-character closure that the films themselves leave deliberately open."
@@ -7908,13 +7908,13 @@
     "variant_2": "Master the Oracle 2026 layoff story with the complete breakdown of scope, drivers, and the cloud transition context."
   },
   "2026-04-01-anthropic-role-it-sector-layoffs-2026.md": {
-    "current": 0,
+    "current": 1,
     "original": "Anthropic and the IT layoff wave: how a safety-conscious AI lab became the most disruptive force in the global job market.",
     "variant_1": "Decode Anthropic's role in the 2026 IT layoff wave with the paradox of safety-first AI as the labor disruptor.",
     "variant_2": "How Anthropic shaped the 2026 layoff wave: the safety-first AI company at the center of the labor shift."
   },
   "2026-04-01-oracle-layoffs-strategic-analysis.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle layoffs 2026 strategic analysis: industry fallout, competitive implications, and what the cuts signal for cloud.",
     "variant_1": "Decode the Oracle 2026 layoff strategic analysis across competitive position and cloud strategy implications.",
     "variant_2": "Master the Oracle 2026 layoff strategic context with industry fallout, cloud signals, and competitive implications."
@@ -7932,7 +7932,7 @@
     "variant_2": "Master the Oracle 2026 layoff Q and A with the complete answer set for affected employees and observers."
   },
   "2026-04-03-us-engineer-career-guide-ai-era-2026.md": {
-    "current": 0,
+    "current": 1,
     "original": "What US citizen engineers can do right now: the complete career survival and advancement guide for the AI era.",
     "variant_1": "Decode the US engineer career path in the AI era with practical strategies for 2026 and beyond.",
     "variant_2": "The complete US engineer career guide for the AI era with survival, advancement, and adaptation strategies."
@@ -8052,49 +8052,49 @@
     "variant_2": "Dhurandhar's visual language fully analyzed with cinematography, framing, and the color palette decisions."
   },
   "2026-05-31-dhurandhar-vs-uri-surgical-strike-compared.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar vs Uri The Surgical Strike compared: Aditya Dhar's two military films and what each one tries to accomplish.",
     "variant_1": "Decode Dhurandhar against Uri with side-by-side analysis of Aditya Dhar's two military films.",
     "variant_2": "Dhurandhar and Uri compared: the same director, two military stories, and what each film argues differently."
   },
   "2026-06-03-dhurandhar-controversies-explained.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar controversies explained: the political reactions, censorship debates, and social media storms around the films.",
     "variant_1": "Decode the Dhurandhar controversies across political reactions, censorship, and the public debates that followed.",
     "variant_2": "Every Dhurandhar controversy explained with the political, censorship, and social media context behind each."
   },
   "2026-06-07-dhurandhar-dialogue-writing-analysis.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar dialogue writing analyzed: the lines that defined the films and the writing choices that made them work.",
     "variant_1": "Decode Dhurandhar dialogue across both films with the most quoted lines and the writing decisions behind them.",
     "variant_2": "Dhurandhar's dialogue writing fully analyzed with the standout lines and the language choices that shape character."
   },
   "2026-06-10-dhurandhar-part-1-vs-part-2-compared.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar Part 1 vs Part 2 compared: tone, structure, character arcs, and how the second film completes the duology.",
     "variant_1": "Decode Dhurandhar Part 1 against Part 2 with side-by-side analysis of structure, tone, and arcs.",
     "variant_2": "Dhurandhar's two parts compared: the structural and tonal differences and the way Part 2 completes the story."
   },
   "2026-06-13-ranveer-singh-career-best-performance-dhurandhar.md": {
-    "current": 0,
+    "current": 1,
     "original": "Ranveer Singh's career-best performance in Dhurandhar: why his Hamza Ali Mazari sets a new bar in his filmography.",
     "variant_1": "Decode Ranveer Singh's Dhurandhar performance as the career-best work and what makes it stand apart.",
     "variant_2": "Why Ranveer Singh's Dhurandhar role is his career best with analysis of the performance choices that prove it."
   },
   "2026-06-17-dhurandhar-franchise-complete-guide.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar franchise complete guide: both films, the production journey, the cast, and the cultural impact decoded.",
     "variant_1": "Decode the entire Dhurandhar franchise across both films, production, cast, and reception.",
     "variant_2": "The complete Dhurandhar franchise guide with both films, production history, and cultural impact analyzed."
   },
   "2026-06-20-why-dhurandhar-changed-bollywood-forever.md": {
-    "current": 0,
+    "current": 1,
     "original": "Why Dhurandhar changed Bollywood forever: the production, performance, and reception that reset what Hindi cinema can do.",
     "variant_1": "Decode why Dhurandhar marks a Bollywood inflection point across production, performance, and audience response.",
     "variant_2": "How Dhurandhar reshaped Bollywood with the production scale, performance bar, and reception that changed expectations."
   },
   "2026-06-23-dhurandhar-ending-explained-both-parts.md": {
-    "current": 0,
+    "current": 1,
     "original": "Dhurandhar ending explained for both parts: every twist, every payoff, and what the duology's final scenes mean.",
     "variant_1": "Decode the Dhurandhar ending across both films with twist analysis and the duology's full thematic resolution.",
     "variant_2": "Dhurandhar's ending fully explained for both Part 1 and Part 2 with every twist, payoff, and unresolved thread."

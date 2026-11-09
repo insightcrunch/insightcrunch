@@ -9,7 +9,7 @@ excerpt: "AP US Government rewards students who argue with the Constitution open
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2007-06-14
+last_updated: 2026-11-09
 lang: en
 ---
 AP US Government and Politics is a course about power: who holds it, how the Constitution distributes it, and how ordinary people push against it. The exam reflects that design. Instead of asking students to recite a civics glossary, it places them inside scenarios, a committee hearing, a court ruling, a campaign decision, and asks what the rules predict, what the evidence shows, and what a defensible claim looks like when both sides can quote the founding texts.

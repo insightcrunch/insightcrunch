@@ -9,7 +9,7 @@ excerpt: "AP Latin reads Vergil and Caesar in the original language. This guide 
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 88
 author: "christopher-wells"
-last_updated: 2007-04-12
+last_updated: 2026-11-09
 lang: en
 ---
 AP Latin asks a student to do something no translation can do on the student's behalf: sit down with lines written two thousand years ago and construe them, word by word, case ending by case ending, until an English sentence stands up that the Roman author would recognize as his own. The course is built around two authors whose styles pull in opposite directions. Vergil compresses grief, fate, and empire into dense poetic lines where a single adjective may wait six words for its noun. Caesar writes prose that looks plain and moves fast, yet hides careful self-presentation inside apparently plain military reporting. Mastering both voices, and moving between them without confusion, is the real subject of the exam.

@@ -4,11 +4,11 @@ title: "Which Tableau certification is best?"
 date: 2022-12-30
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most popular data visualization tools in the market today. All the businesses around the world today are storing large amounts of..."
+excerpt: "Which Tableau certification should you get? Data Analyst vs Server Certified Associate vs Desktop Specialist compared on difficulty, cost, and career..."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 12
 author: "jordan-ellis"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

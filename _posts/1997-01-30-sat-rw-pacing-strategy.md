@@ -5,11 +5,11 @@ page_title: "SAT Reading and Writing Pacing: Spending Time by Question Type Acro
 date: 1997-01-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Pacing", "Time Management", "Strategy"]
-excerpt: "SAT RW pacing explained: spending time by question type across a 32-minute module, the flag-and-return rule and module differences, with a worked model."
+excerpt: "27 questions in 32 minutes: master Digital SAT RW pacing with module-aware time budgets and a full walkthrough."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "hannah-moore"
-last_updated: 1997-01-30
+last_updated: 2026-11-09
 lang: en
 ---
 A reader who finishes the Reading and Writing section with four items unanswered has not lost four hard questions. More often, those four were easy, and they went unanswered because the clock ran out on a passage somebody read three times. That is the quiet arithmetic of this section: points are rarely lost to difficulty alone. They are lost to misallocation, to spending ninety seconds on a comma rule that deserved thirty and then having nothing left for an inference that deserved a hundred. The fix is not reading faster, though that helps. The fix is spending unevenly on purpose.

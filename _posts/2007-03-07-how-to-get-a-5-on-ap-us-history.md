@@ -9,7 +9,7 @@ excerpt: "A 5 on AP US History comes from reasoning under time pressure. This pl
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2007-03-07
+last_updated: 2026-11-09
 lang: en
 ---
 A 5 on AP US History is rarely the prize of the student who memorized the most dates. It belongs, far more often, to the student who learned to think with evidence under a clock: reading a document and asking who wrote it and why, building an argument that survives counterevidence, and explaining how one era grew out of the era before it. The content load is real, and nobody earns the top score without knowing the material. Knowledge alone, though, behaves like lumber stacked in a yard. The exam rewards the carpenter, the one who can cut, join, and brace that material into a structure while the minutes run down.

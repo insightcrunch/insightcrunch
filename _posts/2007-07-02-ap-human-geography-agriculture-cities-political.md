@@ -9,7 +9,7 @@ excerpt: "Agriculture, cities, and political power shape half of AP Human Geogra
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 88
 author: "jessica-kim"
-last_updated: 2007-07-02
+last_updated: 2026-11-09
 lang: en
 ---
 Three of the seven units in AP Human Geography ask a single underlying question in different costumes: why does human activity arrange itself across space in one pattern rather than another? Agriculture asks the question about fields, pastures, and plantations. Urban geography asks it about neighborhoods, suburbs, and entire settlement systems. Political geography asks it about states, boundaries, districts, and alliances. A student who sees only three separate vocabulary lists misses the shared logic underneath, and that shared logic is exactly what the exam rewards most generously.

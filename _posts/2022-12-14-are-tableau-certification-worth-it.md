@@ -4,11 +4,11 @@ title: "Are Tableau certification worth it?"
 date: 2022-12-14
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most popular data visualization and analytical tools available today. Hundreds of business corporations are constantly using Tableau..."
+excerpt: "Are Tableau certifications worth the cost? Career impact analysis, employer perception, salary data, and when certification makes sense vs when it does..."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 12
 author: "maya-chen"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Overview

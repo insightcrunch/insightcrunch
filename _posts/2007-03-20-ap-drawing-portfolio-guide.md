@@ -9,7 +9,7 @@ excerpt: "The AP Drawing portfolio rewards mark-making, composition, and risk. T
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 88
 author: "natalie-webb"
-last_updated: 2007-03-20
+last_updated: 2026-11-09
 lang: en
 ---
 Most Advanced Placement courses end with a clock, a booklet, and a room full of students writing against the same deadline. AP Drawing ends differently. Instead of a timed test, you assemble a body of work across a school year, photograph it, write about the thinking behind it, and send the whole package to trained readers who study each image and score the evidence you leave behind. The course is built around a simple conviction: drawing is a way of investigating the world, and a portfolio can show that investigation unfolding in a way no single afternoon of testing ever could.

@@ -5,11 +5,11 @@ page_title: "SAT Math Careless Mistakes: The 15 Most Common Errors and the Behav
 date: 1997-05-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Error Prevention", "Mistakes", "Strategy"]
-excerpt: "SAT math careless mistakes fixed: the 15 most common errors from sign slips to wrong-coordinate picks, each with a concrete behavioral cure, with examples."
+excerpt: "Stop losing easy SAT Math points to careless mistakes with this 15-error catalog and prevention checklist."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1997-05-18
+last_updated: 2026-11-09
 lang: en
 ---
 A student walks out of a practice section convinced she knew every problem, then opens the score report and finds six wrong. She reads the solutions, and on five of the six her reaction is the same wince: "I knew that." She solved the quadratic correctly and bubbled the wrong root. She set up the percent change flawlessly and divided by the new amount instead of the old one. She solved for x in eleven seconds and forgot the prompt asked for x plus three. None of those five misses came from a gap in what she knows. Every one came from how she executed under a clock, and that distinction is the most under-coached lever in the entire SAT math preparation landscape.

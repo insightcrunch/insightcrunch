@@ -9,7 +9,7 @@ excerpt: "A 5 on AP Psychology comes from applying concepts to scenarios fast. T
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2007-03-02
+last_updated: 2026-11-09
 lang: en
 ---
 Earning a 5 on AP Psychology rarely comes down to who memorized the longest glossary. Strong scorers share a different habit: they read a short scenario about a student, a patient, a researcher, or a crowd, and they name the psychological principle operating inside it within seconds. Every question on the exam, from a multiple choice stem about a toddler refusing vegetables to a free-response prompt about a flawed experiment, rewards that single skill of application. Preparation built around scenarios therefore outperforms preparation built around definitions, because the test itself is written in scenarios from the first item to the last.

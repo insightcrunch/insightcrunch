@@ -5,11 +5,11 @@ page_title: "TCS Work from Home Policy - Remote Work Rules, Hybrid Model, Return
 date: 2022-05-20
 categories: ["Industry"]
 tags: ["TCS", "Work from Home", "Remote Work", "Hybrid Model"]
-excerpt: "The technology service industry has transformed in recent years. Working from home has become the norm for many individuals. The productivity has remained..."
+excerpt: "TCS work from home policy: current WFH regulations, hybrid model expectations, who qualifies for remote work, and how the policy has evolved post-COVID."
 image: "/assets/images/blog/blog-113.webp"
 reading_time: 45
 author: "meera-pillai"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 TCS's approach to work from home and hybrid working is one of the most watched in India's IT industry. As the country's largest IT employer with over 600,000 employees, how TCS structures remote and office work directly affects hundreds of thousands of professionals and their families across India. The 25/25 model, the Occasional Operating Zones rollout, the SEZ compliance rules, and the ongoing return-to-office push each represent different dimensions of a workplace transformation that is still evolving.

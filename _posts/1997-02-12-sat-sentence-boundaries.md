@@ -5,11 +5,11 @@ page_title: "SAT Sentence Boundaries: Comma Splices, Run-Ons, Fragments and the 
 date: 1997-02-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Sentence Boundaries", "Comma Splice", "Grammar"]
-excerpt: "SAT sentence boundaries explained: comma splices, run-ons and fragments, the four legal ways to join clauses and the dependent-clause test, with examples."
+excerpt: "Stop losing easy SAT Writing points to comma splices and fragments. The complete sentence boundary rule set, with examples."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1997-02-12
+last_updated: 2026-11-09
 lang: en
 ---
 A student opens the Reading and Writing section, reaches a Standard English Conventions item, and reads two perfectly grammatical halves stitched together with a comma. Each half is fine. The subject agrees with its verb, the modifier sits where it belongs, the diction is clean. The student, seeing nothing wrong inside either half, keeps the comma and moves on, and the point is gone. That single misread is the heart of SAT sentence boundaries, the question family that turns on one thing only: whether the words on each side of a junction can stand alone as a complete thought. Get that judgment right and the four answer choices sort themselves in seconds. Get it wrong and a clean, careful reader still loses a question that was never about meaning at all.

@@ -5,11 +5,11 @@ page_title: "SAT Math Final Two Weeks: A Day-by-Day Countdown Plan to Peak on Te
 date: 1997-04-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Final Review", "Study Plan", "Checklist"]
-excerpt: "SAT math final two weeks mapped day by day: practice tests, error analysis, Desmos drills, formula review and a taper, ending calm and ready on test day."
+excerpt: "Two weeks to SAT Math test day: a structured countdown plan covering practice, review, formulas, and Desmos drills."
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 60
 author: "natalie-webb"
-last_updated: 1997-04-16
+last_updated: 2026-11-09
 lang: en
 ---
 The fourteen days before the digital exam are the stretch where most students lose points they had already earned. Not in the obvious way, by forgetting a formula, but in the quiet way: they keep cramming new material, their accuracy on the things they already knew starts to slip, and they walk in tired, jittery, and convinced that one more topic will be the one that saves them. The SAT math final review is not about adding knowledge in the last fortnight. It is about protecting the knowledge you already have and arranging it so that it fires cleanly under timed pressure on the morning that counts.

@@ -4,11 +4,11 @@ title: "Amazon Warehouse Jobs"
 date: 2022-10-28
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world, and it provides a variety of job opportunities for people of different skill sets. Amazon offers a..."
+excerpt: "Amazon warehouse jobs overview: picker, packer, stower, and sorter roles explained with pay rates, physical demands, shift options, and benefits."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 10
 author: "andrew-price"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

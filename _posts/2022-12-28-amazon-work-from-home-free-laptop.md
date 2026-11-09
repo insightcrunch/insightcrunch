@@ -4,11 +4,11 @@ title: "Amazon work from home free laptop"
 date: 2022-12-28
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "It comes in is one of the largest corporations in the world and it is provides a wide variety of opportunities for people coming from diverse backgrounds."
+excerpt: "Does Amazon provide a free laptop for remote workers? Equipment policy for WFH roles, what devices are provided, and what you need to supply yourself."
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 13
 author: "david-thornton"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

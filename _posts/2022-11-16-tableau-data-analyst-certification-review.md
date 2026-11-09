@@ -4,11 +4,11 @@ title: "Tableau Data Analyst Certification Review"
 date: 2022-11-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most widely used data visualization and analytical tool today. Businesses of all sizes are in critical need of getting insights from..."
+excerpt: "Tableau Data Analyst certification review: exam experience, difficulty assessment, time management, and honest verdict on whether the certification..."
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 12
 author: "nina-petrova"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

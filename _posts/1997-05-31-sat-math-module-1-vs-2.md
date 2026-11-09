@@ -5,11 +5,11 @@ page_title: "SAT Math Module 1 vs Module 2: How Adaptive Difficulty Gates Your S
 date: 1997-05-31
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Digital SAT", "Adaptive Testing", "Module Strategy"]
-excerpt: "SAT math Module 1 vs Module 2 explained: how adaptive routing gates your score ceiling and why Module 1 accuracy matters more than speed, with strategy."
+excerpt: "How SAT Math Module 1 accuracy determines your score ceiling, and why a hard Module 2 means a top result."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1997-05-31
+last_updated: 2026-11-09
 lang: en
 ---
 Two students sit down for the SAT math section on the same morning, in the same room, on identical laptops. When the scores arrive, one of them has a 760 and the other has a 640. Here is the part that stings: the 640 answered more questions correctly than the 760 did. Not a typo. The lower scorer got more right and still finished a hundred and twenty points behind. The SAT math Module 1 vs Module 2 routing system is the reason, and almost no one who walks into the exam understands it well enough to use it. That single gap in understanding is the most expensive thing a strong math student can carry into the digital test, and closing it is worth more points than any new content topic you could cram in the final week.

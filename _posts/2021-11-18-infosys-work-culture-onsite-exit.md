@@ -5,11 +5,11 @@ page_title: "Infosys Work Culture, Onsite Opportunities, Bench Policy, and Resig
 date: 2021-11-18
 categories: ["Industry"]
 tags: ["Infosys Work Culture", "Infosys Onsite", "Infosys Bench Policy", "Infosys Resignation", "Infosys Notice Period", "Infosys Bond Clause", "Infosys Service Agreement", "Infosys Exit Process"]
-excerpt: "Insider guide to Infosys work life covering onsite selection, bench survival, bond clauses, and the full resignation process."
+excerpt: "Decode Infosys work culture with onsite selection, bench dynamics, bonds, and the realistic exit process."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 45
 author: "arun-verma"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The experience of working at Infosys is shaped by forces that no offer letter mentions. The daily culture of a project team, the dynamics of being on bench between assignments, the process and politics of getting selected for an onsite posting, the mechanics and emotional weight of resigning, and the rules around moonlighting and internal movement all determine what it actually feels like to build a career at this company. These are the things people learn after joining, sometimes the hard way.

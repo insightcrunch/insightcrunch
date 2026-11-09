@@ -9,7 +9,7 @@ excerpt: "A depot principal was warned from inside an Accord building, and the o
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 98
 author: "diana-patel"
-last_updated: 2026-11-08
+last_updated: 2026-11-09
 lang: en
 ---
 ## The Slip With No Name On It

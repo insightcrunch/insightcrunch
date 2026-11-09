@@ -9,7 +9,7 @@ excerpt: "Development, disorders, and social influence form the human half of AP
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 88
 author: "samantha-lee"
-last_updated: 2007-06-18
+last_updated: 2026-11-09
 lang: en
 ---
 Three large territories share one habit of mind in this course: each asks why a person behaves as that person does, given a history, a mind under strain, and a surrounding crowd. Development traces change across the lifespan, from an infant learning whom to trust through an adolescent searching for identity and into an older adult reviewing a life. Abnormal psychology asks where ordinary variation ends and disorder begins, then pairs each pattern of difficulty with treatments designed to relieve it. Social psychology watches the individual inside the group, where presence, pressure, and perception quietly reshape choices that feel entirely private.

@@ -9,7 +9,7 @@ excerpt: "Romeo and Juliet calls for music within its own text, from the consort
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-07-25
+last_updated: 2026-11-09
 lang: en
 ---
 ## Music Cues and Instruments in Romeo and Juliet: A Score in Three Evidences

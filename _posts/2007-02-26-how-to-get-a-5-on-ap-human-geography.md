@@ -9,7 +9,7 @@ excerpt: "A 5 on AP Human Geography comes from models applied to real places. Th
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 88
 author: "natalie-webb"
-last_updated: 2007-02-26
+last_updated: 2026-11-09
 lang: en
 ---
 A 5 in AP Human Geography rarely belongs to the student who memorized the longest glossary. It belongs to the student who can look at an unfamiliar place, a fresh data table, or a photograph of a landscape nobody in the room has visited, and still say something precise about the pattern on display. The exam rewards recognition under pressure: a skyline implies a land-use model, a population pyramid implies a stage of transition, a language map implies a diffusion history. Every question, whether multiple choice or free response, quietly asks the same thing, which is whether a concept can travel from the textbook page into a setting the student has never seen.

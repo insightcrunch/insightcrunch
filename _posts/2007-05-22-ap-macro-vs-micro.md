@@ -9,7 +9,7 @@ excerpt: "AP Macro and Micro share tools and split on scale. This comparison map
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 88
 author: "maria-santos"
-last_updated: 2007-05-22
+last_updated: 2026-11-09
 lang: en
 ---
 Choosing between the two economics courses offered in the Advanced Placement program feels like a fork in a road that keeps rejoining itself, because both routes travel through supply, demand, scarcity, and choice, yet each one stops at different landmarks along the way. Macroeconomics asks how an entire national economy behaves, tracking output, employment, prices, and growth across millions of households and firms at once. Microeconomics slows the camera down until a single market fills the frame, studying how one industry sets prices, how one firm hires workers, and how one consumer weighs a purchase against a budget. Students who grasp that difference in scale early tend to choose calmly, since the decision becomes a matter of fit rather than a contest between a supposedly easy option and a supposedly brutal one.

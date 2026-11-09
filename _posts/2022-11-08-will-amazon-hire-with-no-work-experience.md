@@ -4,11 +4,11 @@ title: "Will Amazon hire with no work experience?"
 date: 2022-11-08
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world that employs millions of people all over the globe in different warehouses and corporate offices of..."
+excerpt: "Can you get hired at Amazon with no experience? Entry-level roles that require zero prior work history, the application process, and training provided."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 11
 author: "robert-quinn"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

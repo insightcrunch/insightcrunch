@@ -9,7 +9,7 @@ excerpt: "The Constitution and civil liberties anchor AP US Government. This dee
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-06-09
+last_updated: 2026-11-09
 lang: en
 ---
 Every question on the AP US Government exam eventually returns to a single document and the arguments built around it. The Constitution supplies the structure of the federal government, divides authority between nation and states, and sets the limits that protect individual freedom. Civil liberties grow directly out of that structure, because the Bill of Rights and the Fourteenth Amendment define what government may not do to a person, even when a majority wants it done. Students who treat these topics as separate chapters miss the design. The framers built a machine for governing and a fence around personal freedom in the same text, and the exam rewards readers who can move between the machine and the fence without confusing them.

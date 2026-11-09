@@ -9,7 +9,7 @@ excerpt: "In the last scene of Romeo and Juliet the watchmen discover the bodies
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 61
 author: "amanda-ross"
-last_updated: 2031-08-01
+last_updated: 2026-11-09
 lang: en
 ---
 The last movement of the tragedy belongs to its smallest officers. After the lovers die inside the Capulet tomb, the play does not end in the vault with the bodies: it moves outward, into the churchyard, the street, and the Prince's improvised court, and the agents of that movement are the watchmen, minor functionaries with a handful of lines among them, who find the dead, secure the ground, detain the living, and summon the city to hear what happened. The verdict of this closing reading is plain. The watchmen are the one office in Verona that performs its function exactly as charged: every other instrument of order in the play, the Prince's edicts, the fathers' authority, the Friar's planning, the letter that never arrived, fails at the moment of need, while the patrol that enters at 5.3 with a boy for a guide does each part of its work in sequence and without error. Their competence is the hinge on which the ending turns, because a private catastrophe becomes a public reckoning only when somebody finds it, reports it in order, and holds the witnesses until the magistrate can hear them.

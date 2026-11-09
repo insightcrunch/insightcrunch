@@ -4,11 +4,11 @@ title: "Tableau Certification"
 date: 2022-09-09
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most popular data visualization tools today. Business across the world are using Tableau to analyze their data. The demand for..."
+excerpt: "Tableau certification overview: exam types, difficulty levels, career value, and whether getting certified is worth the investment for data professionals."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 11
 author: "alex-rivera"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Overview

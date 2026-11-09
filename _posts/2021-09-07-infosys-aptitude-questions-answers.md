@@ -5,11 +5,11 @@ page_title: "Infosys Aptitude Questions and Answers: Quantitative, Logical Reaso
 date: 2021-09-07
 categories: ["Industry"]
 tags: ["Infosys Aptitude Questions", "Infosys Aptitude Questions and Answers", "Infosys Online Test", "Infosys Quantitative Aptitude", "Infosys Logical Reasoning", "Infosys Verbal Ability", "Infosys Assessment", "Infosys Placement Papers"]
-excerpt: "600+ solved Infosys aptitude questions with detailed explanations across quantitative, logical reasoning, and verbal sections plus section-wise strategy."
+excerpt: "Decode Infosys aptitude rounds with 600+ solved questions and section-wise strategy frameworks."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "vikram-iyer"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The Infosys online assessment is the primary filter between an application and an interview call, and the aptitude sections of this assessment eliminate the majority of candidates who sit for it. Not because the questions are impossibly hard, but because most candidates walk in without understanding how these sections are structured, what specific topics are tested, or how to manage time across questions of varying difficulty.

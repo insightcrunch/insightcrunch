@@ -4,11 +4,11 @@ title: "Amazon workforce"
 date: 2022-10-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is continuing to grow and becoming one of the largest online marketplace and supply chain platforms in the world. There are a variety of warehouses..."
+excerpt: "Amazon's global workforce: how many people Amazon employs, distribution across warehouses and offices, and what the growth trajectory looks like."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 10
 author: "alex-cunningham"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

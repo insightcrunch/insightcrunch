@@ -5,11 +5,11 @@ page_title: "Infosys for Non-IT Branches: Eligibility, Preparation, Stream Alloc
 date: 2021-11-10
 categories: ["Industry"]
 tags: ["Infosys Non-IT", "Infosys for Mechanical Students", "Infosys for Civil Engineering", "Infosys for EEE Students", "Infosys Non-CS Branch", "Infosys Core vs IT", "Infosys Eligibility Non-IT", "Non-IT Students Infosys"]
-excerpt: "Complete guide for Mechanical, Civil, EEE, ECE, and other non-IT branch students on joining Infosys: eligibility, preparation, stream allocation, training, and career trajectory."
+excerpt: "Decode the Infosys path for Mechanical, Civil, EEE, and ECE students with stream and training guidance."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 50
 author: "sneha-reddy"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 Every year, tens of thousands of engineering students from Mechanical, Civil, Electrical, Electronics, Chemical, and other non-IT branches receive Infosys offer letters. Many of them feel uncertain about what they have signed up for: will their degree background hold them back, will they be given inferior projects, will they struggle through technical training designed for CS students, and does joining Infosys as a non-IT student represent a compromise or an opportunity?

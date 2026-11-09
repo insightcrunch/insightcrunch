@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-08T20:35:12Z",
+  "generated": "2026-11-09T15:42:13Z",
   "threshold": 50,
-  "totalPosts": 5551,
-  "flaggedPosts": 3345,
+  "totalPosts": 5583,
+  "flaggedPosts": 3346,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 171.2,
+  "avgTopCount": 171.0,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -45077,6 +45077,24 @@
       ]
     },
     {
+      "filename": "2007-02-21-how-to-get-a-5-on-ap-world-history.md",
+      "slug": "how-to-get-a-5-on-ap-world-history",
+      "title": "How to Get a 5 on AP World History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11505,
+      "topWord": "student",
+      "topCount": 119,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-21-how-to-get-a-5-on-ap-world-history.md"
+    },
+    {
       "filename": "2007-02-22-monroe-doctrine-seven-paragraphs.md",
       "slug": "monroe-doctrine-seven-paragraphs",
       "title": "Monroe Doctrine: The Seven Paragraphs That Built Empire",
@@ -45185,6 +45203,24 @@
           "count": 28
         }
       ]
+    },
+    {
+      "filename": "2007-02-26-how-to-get-a-5-on-ap-human-geography.md",
+      "slug": "how-to-get-a-5-on-ap-human-geography",
+      "title": "How to Get a 5 on AP Human Geography",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12016,
+      "topWord": "exam",
+      "topCount": 66,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-26-how-to-get-a-5-on-ap-human-geography.md"
     },
     {
       "filename": "2007-02-28-jefferson-first-inaugural-1801.md",
@@ -45311,6 +45347,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-01-animal-cults-late-egyptian-religion.md"
     },
     {
+      "filename": "2007-03-02-how-to-get-a-5-on-ap-psychology.md",
+      "slug": "how-to-get-a-5-on-ap-psychology",
+      "title": "How to Get a 5 on AP Psychology",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11882,
+      "topWord": "students",
+      "topCount": 88,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-02-how-to-get-a-5-on-ap-psychology.md"
+    },
+    {
       "filename": "2007-03-05-washington-farewell-address-hamilton-edits.md",
       "slug": "washington-farewell-address-hamilton-edits",
       "title": "Washington's Farewell: The Hamilton Edits",
@@ -45415,6 +45469,24 @@
           "count": 29
         }
       ]
+    },
+    {
+      "filename": "2007-03-07-how-to-get-a-5-on-ap-us-history.md",
+      "slug": "how-to-get-a-5-on-ap-us-history",
+      "title": "How to Get a 5 on AP US History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11283,
+      "topWord": "students",
+      "topCount": 122,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-07-how-to-get-a-5-on-ap-us-history.md"
     },
     {
       "filename": "2007-03-11-clinton-balanced-budget-gingrich-truth.md",
@@ -45523,6 +45595,42 @@
       ]
     },
     {
+      "filename": "2007-03-11-how-to-get-a-5-on-ap-spanish-language.md",
+      "slug": "how-to-get-a-5-on-ap-spanish-language",
+      "title": "How to Get a 5 on AP Spanish Language",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11295,
+      "topWord": "exam",
+      "topCount": 120,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-11-how-to-get-a-5-on-ap-spanish-language.md"
+    },
+    {
+      "filename": "2007-03-16-ap-art-and-design-portfolio-strategy.md",
+      "slug": "ap-art-and-design-portfolio-strategy",
+      "title": "AP Art and Design Portfolio Strategy",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11048,
+      "topWord": "evidence",
+      "topCount": 108,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-16-ap-art-and-design-portfolio-strategy.md"
+    },
+    {
       "filename": "2007-03-16-truman-decided-alone-bomb-myth.md",
       "slug": "truman-decided-alone-bomb-myth",
       "title": "Truman Decided Alone on the Bomb: The Advisory Structure",
@@ -45627,6 +45735,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2007-03-20-ap-drawing-portfolio-guide.md",
+      "slug": "ap-drawing-portfolio-guide",
+      "title": "AP Drawing Portfolio Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10978,
+      "topWord": "drawing",
+      "topCount": 139,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-20-ap-drawing-portfolio-guide.md"
     },
     {
       "filename": "2007-03-22-eisenhower-farewell-full-warnings.md",
@@ -45739,6 +45865,24 @@
       ]
     },
     {
+      "filename": "2007-03-25-ap-3d-art-and-design-portfolio-guide.md",
+      "slug": "ap-3d-art-and-design-portfolio-guide",
+      "title": "AP 3-D Art and Design Portfolio Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10792,
+      "topWord": "portfolio",
+      "topCount": 143,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-25-ap-3d-art-and-design-portfolio-guide.md"
+    },
+    {
       "filename": "2007-03-27-lincoln-republican-party-switch-myth.md",
       "slug": "lincoln-republican-party-switch-myth",
       "title": "Lincoln's Party: 1860 Republicans Were Not Today's",
@@ -45843,6 +45987,24 @@
           "count": 38
         }
       ]
+    },
+    {
+      "filename": "2007-03-29-ap-2d-art-and-design-portfolio-guide.md",
+      "slug": "ap-2d-art-and-design-portfolio-guide",
+      "title": "AP 2-D Art and Design Portfolio Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11159,
+      "topWord": "inquiry",
+      "topCount": 132,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-03-29-ap-2d-art-and-design-portfolio-guide.md"
     },
     {
       "filename": "2007-04-01-egypt-influence-on-greek-thought.md",
@@ -46061,6 +46223,42 @@
       ]
     },
     {
+      "filename": "2007-04-03-ap-music-theory-complete-guide.md",
+      "slug": "ap-music-theory-complete-guide",
+      "title": "AP Music Theory Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11443,
+      "topWord": "students",
+      "topCount": 126,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-03-ap-music-theory-complete-guide.md"
+    },
+    {
+      "filename": "2007-04-07-ap-world-language-comparison.md",
+      "slug": "ap-world-language-comparison",
+      "title": "AP World Language Comparison",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11385,
+      "topWord": "language",
+      "topCount": 222,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-07-ap-world-language-comparison.md"
+    },
+    {
       "filename": "2007-04-07-jackson-duel-record-wife-defense.md",
       "slug": "jackson-duel-record-wife-defense",
       "title": "Jackson's Duel Record: Defending His Wife's Honor",
@@ -46167,6 +46365,24 @@
       ]
     },
     {
+      "filename": "2007-04-12-ap-latin-complete-guide.md",
+      "slug": "ap-latin-complete-guide",
+      "title": "AP Latin Complete Guide: Vergil and Caesar",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11761,
+      "topWord": "reading",
+      "topCount": 96,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-12-ap-latin-complete-guide.md"
+    },
+    {
       "filename": "2007-04-13-nixon-1960-debate-makeup-myth.md",
       "slug": "nixon-1960-debate-makeup-myth",
       "title": "Nixon Lost Because of Makeup: The Debate Myth Graded",
@@ -46185,6 +46401,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-13-nixon-1960-debate-makeup-myth.md"
     },
     {
+      "filename": "2007-04-16-ap-japanese-language-guide.md",
+      "slug": "ap-japanese-language-guide",
+      "title": "AP Japanese Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11363,
+      "topWord": "student",
+      "topCount": 152,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-16-ap-japanese-language-guide.md"
+    },
+    {
       "filename": "2007-04-18-fdr-pearl-harbor-conspiracy-debunked.md",
       "slug": "fdr-pearl-harbor-conspiracy-debunked",
       "title": "FDR Knew About Pearl Harbor: The Conspiracy Debunked",
@@ -46201,6 +46435,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-18-fdr-pearl-harbor-conspiracy-debunked.md"
+    },
+    {
+      "filename": "2007-04-21-ap-chinese-language-guide.md",
+      "slug": "ap-chinese-language-guide",
+      "title": "AP Chinese Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11888,
+      "topWord": "characters",
+      "topCount": 92,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-21-ap-chinese-language-guide.md"
     },
     {
       "filename": "2007-04-24-jfk-boston-irish-myth-machine.md",
@@ -46309,6 +46561,24 @@
       ]
     },
     {
+      "filename": "2007-04-25-ap-italian-language-guide.md",
+      "slug": "ap-italian-language-guide",
+      "title": "AP Italian Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10975,
+      "topWord": "italian",
+      "topCount": 186,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-25-ap-italian-language-guide.md"
+    },
+    {
       "filename": "2007-04-29-reagan-teflon-president-myth-graded.md",
       "slug": "reagan-teflon-president-myth-graded",
       "title": "The Teflon President: What Reagan Actually Survived",
@@ -46415,6 +46685,24 @@
       ]
     },
     {
+      "filename": "2007-04-30-ap-german-language-guide.md",
+      "slug": "ap-german-language-guide",
+      "title": "AP German Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11327,
+      "topWord": "german",
+      "topCount": 161,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-04-30-ap-german-language-guide.md"
+    },
+    {
       "filename": "2007-05-01-herodotus-account-of-egypt.md",
       "slug": "herodotus-account-of-egypt",
       "title": "Herodotus and His Account of Egypt",
@@ -46431,6 +46719,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-01-herodotus-account-of-egypt.md"
+    },
+    {
+      "filename": "2007-05-04-ap-french-language-guide.md",
+      "slug": "ap-french-language-guide",
+      "title": "AP French Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11373,
+      "topWord": "exam",
+      "topCount": 136,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-04-ap-french-language-guide.md"
     },
     {
       "filename": "2007-05-05-washington-wooden-teeth-real-materials.md",
@@ -46543,6 +46849,24 @@
       ]
     },
     {
+      "filename": "2007-05-09-ap-spanish-literature-guide.md",
+      "slug": "ap-spanish-literature-guide",
+      "title": "AP Spanish Literature and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11659,
+      "topWord": "students",
+      "topCount": 131,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-09-ap-spanish-literature-guide.md"
+    },
+    {
       "filename": "2007-05-10-lincoln-gettysburg-napkin-myth-debunked.md",
       "slug": "lincoln-gettysburg-napkin-myth-debunked",
       "title": "Lincoln Wrote Gettysburg on a Napkin: The Myth Killed",
@@ -46647,6 +46971,24 @@
           "count": 27
         }
       ]
+    },
+    {
+      "filename": "2007-05-13-ap-spanish-language-speaking-writing-tasks.md",
+      "slug": "ap-spanish-language-speaking-writing-tasks",
+      "title": "AP Spanish Language: Speaking and Writing Tasks",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11385,
+      "topWord": "student",
+      "topCount": 182,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-13-ap-spanish-language-speaking-writing-tasks.md"
     },
     {
       "filename": "2007-05-16-jefferson-sally-hemings-dna-1998.md",
@@ -46759,6 +47101,24 @@
       ]
     },
     {
+      "filename": "2007-05-18-ap-spanish-language-guide.md",
+      "slug": "ap-spanish-language-guide",
+      "title": "AP Spanish Language and Culture Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11527,
+      "topWord": "students",
+      "topCount": 171,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-18-ap-spanish-language-guide.md"
+    },
+    {
       "filename": "2007-05-21-washington-cherry-tree-myth-debunked.md",
       "slug": "washington-cherry-tree-myth-debunked",
       "title": "Washington's Cherry Tree: Who Invented It, Why It Stuck",
@@ -46775,6 +47135,130 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-21-washington-cherry-tree-myth-debunked.md"
+    },
+    {
+      "filename": "2007-05-22-ap-macro-vs-micro.md",
+      "slug": "ap-macro-vs-micro",
+      "title": "AP Macro vs Micro",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11952,
+      "topWord": "course",
+      "topCount": 204,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-22-ap-macro-vs-micro.md"
+    },
+    {
+      "filename": "2007-05-27-ap-microeconomics-guide.md",
+      "slug": "ap-microeconomics-guide",
+      "title": "AP Microeconomics Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11494,
+      "topWord": "cost",
+      "topCount": 241,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-27-ap-microeconomics-guide.md",
+      "flaggedWords": [
+        {
+          "word": "cost",
+          "count": 241
+        }
+      ],
+      "top20": [
+        {
+          "word": "cost",
+          "count": 241
+        },
+        {
+          "word": "price",
+          "count": 198
+        },
+        {
+          "word": "marginal",
+          "count": 160
+        },
+        {
+          "word": "unit",
+          "count": 130
+        },
+        {
+          "word": "quantity",
+          "count": 108
+        },
+        {
+          "word": "demand",
+          "count": 103
+        },
+        {
+          "word": "market",
+          "count": 99
+        },
+        {
+          "word": "revenue",
+          "count": 87
+        },
+        {
+          "word": "students",
+          "count": 85
+        },
+        {
+          "word": "curve",
+          "count": 81
+        },
+        {
+          "word": "average",
+          "count": 79
+        },
+        {
+          "word": "exam",
+          "count": 75
+        },
+        {
+          "word": "graph",
+          "count": 69
+        },
+        {
+          "word": "questions",
+          "count": 68
+        },
+        {
+          "word": "firm",
+          "count": 65
+        },
+        {
+          "word": "supply",
+          "count": 62
+        },
+        {
+          "word": "total",
+          "count": 62
+        },
+        {
+          "word": "profit",
+          "count": 58
+        },
+        {
+          "word": "course",
+          "count": 56
+        },
+        {
+          "word": "product",
+          "count": 55
+        }
+      ]
     },
     {
       "filename": "2007-05-27-fdr-recent-critiques-decline.md",
@@ -46881,6 +47365,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2007-05-31-ap-macroeconomics-guide.md",
+      "slug": "ap-macroeconomics-guide",
+      "title": "AP Macroeconomics Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11706,
+      "topWord": "rate",
+      "topCount": 123,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-05-31-ap-macroeconomics-guide.md"
     },
     {
       "filename": "2007-06-01-persian-vs-native-rule-in-egypt.md",
@@ -47099,6 +47601,24 @@
       ]
     },
     {
+      "filename": "2007-06-05-ap-comparative-government-guide.md",
+      "slug": "ap-comparative-government-guide",
+      "title": "AP Comparative Government Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12565,
+      "topWord": "party",
+      "topCount": 115,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-05-ap-comparative-government-guide.md"
+    },
+    {
       "filename": "2007-06-07-hoover-rehabilitation-keeps-failing.md",
       "slug": "hoover-rehabilitation-keeps-failing",
       "title": "Hoover's Rehabilitation: Why It Keeps Failing",
@@ -47205,6 +47725,24 @@
       ]
     },
     {
+      "filename": "2007-06-09-ap-us-government-constitution-civil-liberties.md",
+      "slug": "ap-us-government-constitution-civil-liberties",
+      "title": "AP US Government: Constitution, Civil Liberties",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11915,
+      "topWord": "amendment",
+      "topCount": 149,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-09-ap-us-government-constitution-civil-liberties.md"
+    },
+    {
       "filename": "2007-06-12-nixon-never-ending-decline-records.md",
       "slug": "nixon-never-ending-decline-records",
       "title": "Nixon's Never-Ending Decline: The Records Get Worse",
@@ -47221,6 +47759,42 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-12-nixon-never-ending-decline-records.md"
+    },
+    {
+      "filename": "2007-06-14-ap-us-government-guide.md",
+      "slug": "ap-us-government-guide",
+      "title": "AP US Government and Politics Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12746,
+      "topWord": "students",
+      "topCount": 153,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-14-ap-us-government-guide.md"
+    },
+    {
+      "filename": "2007-06-18-ap-psychology-developmental-abnormal-social.md",
+      "slug": "ap-psychology-developmental-abnormal-social",
+      "title": "AP Psychology: Developmental, Abnormal, Social",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 13618,
+      "topWord": "social",
+      "topCount": 92,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-18-ap-psychology-developmental-abnormal-social.md"
     },
     {
       "filename": "2007-06-18-carter-post-presidency-reputation-climb.md",
@@ -47347,6 +47921,42 @@
       ]
     },
     {
+      "filename": "2007-06-23-ap-psychology-bio-bases-learning-memory.md",
+      "slug": "ap-psychology-bio-bases-learning-memory",
+      "title": "AP Psychology: Bio Bases, Learning, Memory",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11845,
+      "topWord": "memory",
+      "topCount": 88,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-23-ap-psychology-bio-bases-learning-memory.md"
+    },
+    {
+      "filename": "2007-06-27-ap-psychology-complete-guide.md",
+      "slug": "ap-psychology-complete-guide",
+      "title": "AP Psychology Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12661,
+      "topWord": "students",
+      "topCount": 129,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-06-27-ap-psychology-complete-guide.md"
+    },
+    {
       "filename": "2007-06-29-jackson-trail-of-tears-ranking-fall.md",
       "slug": "jackson-trail-of-tears-ranking-fall",
       "title": "Jackson Drops From 9th to 21st: The Trail of Tears Fall",
@@ -47469,6 +48079,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-07-01-ptolemaic-egypt-complete-guide.md"
+    },
+    {
+      "filename": "2007-07-02-ap-human-geography-agriculture-cities-political.md",
+      "slug": "ap-human-geography-agriculture-cities-political",
+      "title": "AP Human Geography: Agriculture, Cities, Politics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12716,
+      "topWord": "city",
+      "topCount": 110,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-07-02-ap-human-geography-agriculture-cities-political.md"
     },
     {
       "filename": "2007-07-04-wilson-segregationist-reputation-fall.md",
@@ -366623,6 +367251,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-08-how-supreme-court-overrules-precedent.md"
     },
     {
+      "filename": "2026-11-08-nightjar-nine-officers-008.md",
+      "slug": "nightjar-nine-officers-008",
+      "title": "Nightjar: Nine Officers and Two Pages Cleanly Removed",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8832,
+      "topWord": "file",
+      "topCount": 160,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-08-nightjar-nine-officers-008.md"
+    },
+    {
       "filename": "2026-11-09-f-scott-fitzgerald-biography.md",
       "slug": "f-scott-fitzgerald-biography",
       "title": "F. Scott Fitzgerald: A Life for Readers",
@@ -366731,6 +367377,24 @@
           "count": 17
         }
       ]
+    },
+    {
+      "filename": "2026-11-09-how-x-rays-work.md",
+      "slug": "how-x-rays-work",
+      "title": "How X-Rays Work: Seeing Inside the Body Without Opening It",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 9090,
+      "topWord": "energy",
+      "topCount": 138,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-09-how-x-rays-work.md"
     },
     {
       "filename": "2026-11-11-what-poland-learned-from-ukraine.md",

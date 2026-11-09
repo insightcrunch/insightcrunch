@@ -5,11 +5,11 @@ page_title: "SAT Interpreting Coefficients and Constants in Context: Slope as a 
 date: 1997-04-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Interpretation", "Context", "Problem Solving"]
-excerpt: "SAT interpreting coefficients in context explained: slope as a rate of change, intercept as a starting value, and the wording trap, with worked examples."
+excerpt: "Master SAT interpretation questions for slope, intercept, and exponential base with rule-by-rule context analysis."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
 author: "jessica-kim"
-last_updated: 1997-04-25
+last_updated: 2026-11-09
 lang: en
 ---
 A delivery service charges a flat dispatch fee plus a per-mile rate, and the model on the screen reads C = 1.4d + 5. The prompt asks what the 1.4 represents. Four choices sit below it, and three of them are written to sound almost right: the total charge for the delivery, the charge for each mile driven, the base fee before any driving, the number of miles covered. A student who solved the equation correctly, who could graph it, factor near it, and solve for any variable inside it, still loses the point because they matched the right number to the wrong sentence. That gap between knowing the math and reading the description is the entire subject of this guide, and on the digital exam it is worth more raw points than almost any single algebra skill, because the question that asks "what does this number mean here" shows up on nearly every form.

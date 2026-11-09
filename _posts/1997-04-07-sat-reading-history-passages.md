@@ -5,11 +5,11 @@ page_title: "SAT History Passages: Decoding Old English Syntax, Author Purpose a
 date: 1997-04-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "History Passages", "Social Science", "Strategy"]
-excerpt: "SAT history passages explained: decoding dense older syntax, finding author purpose and handling dual-text disagreement, with step-by-step parsing walkthroughs."
+excerpt: "The hardest reading type on the SAT, made manageable. Decode dense historical prose with strategy-first walkthroughs."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 59
 author: "maria-santos"
-last_updated: 1997-04-07
+last_updated: 2026-11-09
 lang: en
 ---
 A reader sits down in the Bluebook app, clears the literature openers without trouble, breezes through a science extract about migrating birds, and then hits a forty-word block of eighteenth-century prose that loops back on itself three times before it reaches a verb. The eyes slow. The reader goes back to the start of the line. Then back again. Two minutes evaporate on a single screen, and the question underneath, which turns out to be a plain request for the writer's main point, never gets the attention it needed. This is the history and social-science passage, and the trouble it causes is almost never about ideas. It is about grammar that was assembled before American punctuation settled into its modern habits.

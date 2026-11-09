@@ -5,11 +5,11 @@ page_title: "The Complete Guide to the Dhurandhar Franchise - Everything You Nee
 date: 2026-06-17
 categories: ["Leisure"]
 tags: ["dhurandhar", "franchise-guide", "bollywood", "complete-guide", "ranveer-singh", "aditya-dhar"]
-excerpt: "The complete map to the Dhurandhar saga: both films, every major character, the full ten-year timeline, the box office records, and what comes next on screen."
+excerpt: "Decode the entire Dhurandhar franchise across both films, production, cast, and reception."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2026-06-17
+last_updated: 2026-11-09
 lang: en
 ---
 Most people meet Dhurandhar in the wrong order. They hear the box office numbers before they hear the premise, they catch a clip of Ranveer Singh disappearing into a Karachi alleyway before they understand why he is there, and they arrive at the post-credits stinger of the second film without ever grasping the decade of grief that set the whole machine in motion. This guide exists to fix that. It is not a recap and it is not a ranking. It is a map, and the territory it charts is the most ambitious project Hindi cinema has attempted in a generation: two long, brutal, morally tangled spy films that together argue Indian audiences were ready for something the industry had spent years too afraid to make.

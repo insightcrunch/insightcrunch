@@ -9,7 +9,7 @@ excerpt: "AP Microeconomics is a course about choices at the margin. This guide 
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 88
 author: "katherine-blake"
-last_updated: 2007-05-27
+last_updated: 2026-11-09
 lang: en
 ---
 Every price tag is a decision frozen in place. Behind the number on a coffee cup sits a grower weighing fertilizer costs, a roaster weighing fuel, a cafe owner weighing rent against the wage of one more barista, and a customer weighing that cup against everything else the same money could buy. AP Microeconomics studies decisions at exactly that scale: one buyer, one seller, one market at a time. It asks how individuals and firms allocate scarce resources, how prices coordinate millions of separate choices, and why markets sometimes steer those choices toward outcomes nobody would have picked on purpose.

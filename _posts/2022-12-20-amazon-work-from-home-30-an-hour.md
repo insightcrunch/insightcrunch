@@ -4,11 +4,11 @@ title: "Amazon work from home 30 an hour"
 date: 2022-12-20
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and there are a variety of job that is provided by Amazon to its employees. Based on the..."
+excerpt: "Amazon WFH jobs paying $30 per hour: which remote roles hit this pay level, required experience, and how to find high-paying virtual positions at Amazon."
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 14
 author: "alex-cunningham"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

@@ -4,11 +4,11 @@ title: "How much does Amazon pay for work from home?"
 date: 2022-11-20
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest companies in the world and one of the common questions that I have come across candidates who are looking forward to being a..."
+excerpt: "Amazon remote work pay: detailed compensation for customer service, data entry, tech support, and corporate WFH roles across different experience levels."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 12
 author: "ryan-walsh"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

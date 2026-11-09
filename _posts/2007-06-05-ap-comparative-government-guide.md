@@ -9,7 +9,7 @@ excerpt: "AP Comparative Government studies six countries through one framework.
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2007-06-05
+last_updated: 2026-11-09
 lang: en
 ---
 AP Comparative Government and Politics is the rare Advanced Placement course that treats the whole world as its classroom. Rather than tracing one nation's institutions in depth, the course sets six countries side by side, China, Iran, Mexico, Nigeria, Russia, and the United Kingdom, and asks students to explain how political power is organized, challenged, and justified in each one. A single analytical framework runs through every case, so a lesson about legislatures in London becomes a lens for reading legislatures in Beijing, and a study of elections in Mexico City sharpens the questions a student brings to elections in Moscow.

@@ -9,7 +9,7 @@ excerpt: "Portfolio strategy separates AP Art and Design scores more than talent
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
 author: "maria-santos"
-last_updated: 2007-03-16
+last_updated: 2026-11-09
 lang: en
 ---
 Every spring, thousands of students assemble years of studio work into a digital submission and discover, too late, that strong individual pieces do not automatically add up to a strong score. AP Art and Design rewards something different from a greatest hits collection. Readers look for a sustained investigation, a line of inquiry pursued across many works, with evidence of practice, experimentation, and revision woven through the whole submission. Strategy, in other words, is not decoration added after the art is finished. Strategy is the architecture that lets good art read as a coherent, developing argument in visual form.

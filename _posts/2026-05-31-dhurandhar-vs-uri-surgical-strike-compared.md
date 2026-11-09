@@ -5,11 +5,11 @@ page_title: "Dhurandhar vs Uri The Surgical Strike Compared - How Aditya Dhar Ev
 date: 2026-05-31
 categories: ["Leisure"]
 tags: ["dhurandhar", "uri", "aditya-dhar", "movie-comparison", "bollywood", "spy-thriller"]
-excerpt: "Dhurandhar vs Uri compared in full: how Aditya Dhar evolved from a lean, urgent strike film into a sprawling, morally complex two-part Karachi spy saga."
+excerpt: "Decode Dhurandhar against Uri with side-by-side analysis of Aditya Dhar's two military films."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2026-05-31
+last_updated: 2026-11-09
 lang: en
 ---
 The question that matters is not whether Dhurandhar is the superior achievement next to Uri: The Surgical Strike. Settling a ranking like that is both easy and beside the point. The real question, the one that tells us something about how an artist grows, is what Aditya Dhar learned in the years between calling action on a lean military procedural and unleashing a sprawling two-part espionage epic. Did the scale he reached for later make him a more capable storyteller, or merely a more reckless one? Put Uri and Dhurandhar together in the same frame and an answer begins to emerge, though it is stranger and more interesting than the marketing of either would suggest.

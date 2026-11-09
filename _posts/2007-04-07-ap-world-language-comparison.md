@@ -9,7 +9,7 @@ excerpt: "Nine world languages, one shared AP design. This comparison maps how t
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 88
 author: "simon-hartley"
-last_updated: 2007-04-07
+last_updated: 2026-11-09
 lang: en
 ---
 Choosing an AP world language looks simple from a course catalog and complicated from inside a real student's life. One candidate grew up hearing Spanish at the kitchen table and reading it only in text messages. Another has spent four school years building French sentence by sentence, workbook by workbook. A third fell in love with Japanese popular culture and wonders whether enthusiasm can substitute for coursework, while a fourth reads Latin for the pleasure of old stories and has never spoken a word of it aloud. Each of them faces a shelf of exams that share a family resemblance, yet each exam rewards a different history, a different set of habits, and a different kind of preparation.

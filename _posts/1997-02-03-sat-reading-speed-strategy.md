@@ -5,11 +5,11 @@ page_title: "SAT Reading Speed: First-Sentence-First Reading for Short Passages 
 date: 1997-02-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Reading Speed", "Comprehension", "Strategy"]
-excerpt: "SAT reading speed explained: first-sentence-first reading for short passages, when to read closely or skim, and why comprehension is the real cure, with drills."
+excerpt: "Digital SAT reading speed guide: when to skim, when to read deep, and why most speed problems are comprehension problems."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-02-03
+last_updated: 2026-11-09
 lang: en
 ---
 The student who runs out of time on the Reading and Writing section almost never has slow eyes. They have a slow first pass that fails to land, forcing a second pass that should never have been necessary. They read the short passage once, understand maybe seventy percent of it, feel uncertain at the answer choices, and go back to read it again. That second trip is where the clock dies. Two readings of a four-sentence passage at a shallow first reading cost more total time than one reading done with full attention, and the student who learns this single fact recovers more time than any speed-reading course will ever give them. SAT reading speed is not a function of how fast you move your eyes across a line. It is a function of how completely you understand the passage the first time you touch it.

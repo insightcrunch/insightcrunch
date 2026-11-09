@@ -4,11 +4,11 @@ title: "Tableau Certified Data Analyst Salary"
 date: 2022-12-26
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most popular data visualization and analytics tool used in the industry today. The Tableau certified data analyst salary is one of..."
+excerpt: "Tableau Certified Data Analyst salary: average pay ranges, how certification affects compensation, and salary comparison with non-certified professionals."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 12
 author: "nina-petrova"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

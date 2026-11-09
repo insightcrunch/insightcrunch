@@ -4,11 +4,11 @@ title: "Amazon application login"
 date: 2022-11-30
 categories: ["Industry"]
 tags: []
-excerpt: "Amazon is one of the largest corporations around the world and it employs hundreds of 1000s of people. The Amazon job application process is extremely..."
+excerpt: "Amazon job application login: how to access your candidate profile, track application status, update your resume, and troubleshoot portal issues."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 14
 author: "thomas-reid"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

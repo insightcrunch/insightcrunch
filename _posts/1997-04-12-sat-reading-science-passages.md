@@ -5,11 +5,11 @@ page_title: "SAT Science Passages: Why They Are the Most Answerable Passage Type
 date: 1997-04-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Science Passages", "Reading Comprehension", "Strategy"]
-excerpt: "SAT science passages decoded: data-driven answers, technical vocabulary and the conclusion-versus-data question, with worked passage walkthroughs throughout."
+excerpt: "Master the most objective SAT reading passages with science-specific strategies for terms, data, and inference questions."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
 author: "daniel-morgan"
-last_updated: 1997-04-12
+last_updated: 2026-11-09
 lang: en
 ---
 Most students brace for the science excerpts on the Reading and Writing section the way they brace for a pop quiz in a subject they never took. They see a paragraph about photosynthesis or planetary geology or working memory, and the dread arrives before they have read a single line. That dread is the costliest mistake you can make on this part of the digital exam, and it is built entirely on a misunderstanding. A science text on the Reading and Writing section is not a test of what you know about biology or chemistry. It is a test of whether you can find the one fact on the screen that settles the matter. The terrain is friendlier than any other reading category for one reason: the right answer is sitting in the text, measurable and objective, and the wrong answers are not.

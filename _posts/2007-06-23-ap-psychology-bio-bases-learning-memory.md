@@ -9,7 +9,7 @@ excerpt: "Neurons, conditioning, and memory carry the science in AP Psychology. 
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 88
 author: "samantha-lee"
-last_updated: 2007-06-23
+last_updated: 2026-11-09
 lang: en
 ---
 AP Psychology rests on a scientific spine, and the spine is built from three connected territories: the biology that makes behavior possible, the learning that shapes behavior through experience, and the memory systems that carry experience forward into cognition. Questions drawn from these territories rarely ask for a bare definition read back from a glossary. Instead, the exam stages a small scene, perhaps a driver slamming a brake pedal, a rat pressing a lever for the fortieth time, or a student staring at a familiar name that refuses to surface, and then asks which concept explains what just happened. A student who has memorized vocabulary without practicing recognition will feel the ground shift under familiar material, while a student who has trained on applied examples will see the concept hiding inside the scene almost immediately.

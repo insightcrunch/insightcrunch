@@ -5,11 +5,11 @@ page_title: "IT Sector Layoffs 2026: The Definitive Global Analysis of Job Cuts 
 date: 2026-03-28
 categories: ["Industry"]
 tags: ["Layoffs", "IT Sector", "TCS", "Amazon", "Microsoft", "Meta", "Tech Jobs", "AI", "Workforce Reduction", "Infosys", "Wipro"]
-excerpt: "An unprecedented global analysis of IT sector layoffs covering the 5 largest tech employers by headcount in India, the US, the EU, and the UK. Includes verified job cut numbers, root causes, role-level breakdowns, and a data-backed forecast of what workers can expect through the rest of the year."
+excerpt: "Decode the 2026 IT layoff wave across companies, regions, and the structural drivers behind the cuts."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 85
 author: "siddharth-rao"
-last_updated: 2026-04-01
+last_updated: 2026-11-09
 lang: en
 ---
 The number that no industry analyst will say out loud at a conference but that every tech worker whispers at the coffee machine is this: in the first quarter of this year alone, the global technology sector has already eliminated more than 59,000 jobs. At a pace of roughly 736 per day, the industry is cutting faster in early 2026 than it did during all of 2025, when the full-year toll reached 245,953 across 783 separate layoff events.

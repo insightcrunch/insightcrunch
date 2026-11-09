@@ -9,7 +9,7 @@ excerpt: "The AP 3-D Art and Design portfolio judges form in space through photo
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 88
 author: "daniel-morgan"
-last_updated: 2007-03-25
+last_updated: 2026-11-09
 lang: en
 ---
 A ceramic vessel can be turned in the hands, walked around, and lifted to feel its weight, yet the readers who score the AP 3-D Art and Design portfolio will never touch it. They will meet the work as a set of photographs on a screen, accompanied by short written statements, and from those flat images they must judge volume, balance, surface, and ambition. That single fact shapes everything about the portfolio. The exam is not a timed test with bubbles and essays. It is a body of three-dimensional work, built across a school year, photographed with care, and submitted digitally, and the students who score well are the ones who understand early that they are really submitting two things at once: the objects they made, and the evidence that lets a stranger see those objects clearly.

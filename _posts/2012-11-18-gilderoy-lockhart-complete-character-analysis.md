@@ -5,11 +5,11 @@ page_title: "Gilderoy Lockhart Character Analysis: Vanity, Fraud, and the Theft 
 date: 2012-11-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gilderoy Lockhart", "Chamber of Secrets", "Memory Charm", "Celebrity Culture"]
-excerpt: "Complete literary analysis of Gilderoy Lockhart in Harry Potter - vanity, Memory Charm fraud, the fame machine, and the comedy that conceals real cruelty."
+excerpt: "Lockhart fully decoded: the celebrity wizard who was nothing under the smile, and the spell that erases him."
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 66
 author: "olivia-grant"
-last_updated: 2012-11-18
+last_updated: 2026-11-09
 lang: en
 ---
 ## Introduction: The Smile That Was Stolen From Other Wizards

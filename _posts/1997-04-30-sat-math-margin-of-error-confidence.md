@@ -5,11 +5,11 @@ page_title: "SAT Margin of Error and Confidence Intervals: Plain-English Meaning
 date: 1997-04-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Margin of Error", "Data Analysis"]
-excerpt: "SAT margin of error and confidence intervals explained in plain English: sample size effects, valid inference and the overgeneralization trap, with examples."
+excerpt: "Master SAT statistics inference questions with the complete guide to margin of error and confidence intervals."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1997-04-30
+last_updated: 2026-11-09
 lang: en
 ---
 The SAT margin of error question is the rare item that almost never asks you to calculate anything, and that is exactly why so many strong students lose it. You spend the whole exam training yourself to compute, to manipulate, to reach for an arithmetic move the moment you see a number. Then a survey question arrives, hands you a percentage and a small range, and asks which conclusion the data supports. There is nothing to solve. There is only something to read, carefully, with statistical sense rather than a calculator. The students who treat it as a computation problem dig for a formula that is not needed. The students who treat it as a reading problem, and who know the one trap the test plants every single time, answer it in under thirty seconds and move on.

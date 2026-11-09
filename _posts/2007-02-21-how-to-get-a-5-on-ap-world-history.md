@@ -9,7 +9,7 @@ excerpt: "A 5 on AP World History comes from comparison across regions and centu
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 88
 author: "simon-hartley"
-last_updated: 2007-02-21
+last_updated: 2026-11-09
 lang: en
 ---
 AP World History frightens students with sheer scale. Eight centuries of content, five major world regions, dozens of empires, revolutions, trade networks, and belief systems all compete for space in one exam booklet, and the student who tries to memorize everything usually masters nothing. The encouraging truth is that the exam does not reward encyclopedic recall. It rewards a smaller set of repeatable skills applied to a framework of periods and themes, and those skills can be trained deliberately over a period of months.

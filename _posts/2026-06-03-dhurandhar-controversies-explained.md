@@ -5,11 +5,11 @@ page_title: "Every Major Dhurandhar Controversy Explained - The Propaganda Debat
 date: 2026-06-03
 categories: ["Leisure"]
 tags: ["dhurandhar", "controversies", "bollywood", "propaganda-debate", "censorship", "cultural-impact"]
-excerpt: "Every Dhurandhar controversy explained: the propaganda debate, Baloch objections, CBFC censorship, Gulf-region bans, and the strange economics of outrage."
+excerpt: "Decode the Dhurandhar controversies across political reactions, censorship, and the public debates that followed."
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 71
 author: "nandini-sen"
-last_updated: 2026-06-03
+last_updated: 2026-11-09
 lang: en
 ---
 Most blockbusters generate controversy as a side effect of their success. A scene offends, a song borrows too freely, a star says something careless on a talk show, and the noise fades by the second weekend. Dhurandhar did something rarer and more uncomfortable. It generated controversy as a structural feature, the way a building generates shadows, and the shadows turned out to be the most revealing thing about the building. The disputes that gathered around Aditya Dhar's two-part epic were not accidents of reception. They were the predictable result of a saga that planted itself directly on the fault line where Indian popular cinema has always pretended it was not standing, the line between telling a story and making a case.

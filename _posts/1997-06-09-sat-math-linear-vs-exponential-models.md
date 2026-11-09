@@ -5,11 +5,11 @@ page_title: "SAT Linear vs Exponential Models: The Differences-and-Ratios Test a
 date: 1997-06-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Modeling", "Linear", "Exponential"]
-excerpt: "SAT linear versus exponential models explained: the differences-and-ratios diagnostic, real-world cues and piecewise models, with side-by-side worked examples."
+excerpt: "Master SAT modeling questions with the linear vs exponential diagnostic and real-world translation framework."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "katherine-blake"
-last_updated: 1997-06-09
+last_updated: 2026-11-09
 lang: en
 ---
 Two tables sit side by side on the screen. One shows a savings account that adds forty dollars every month. The other shows a culture of bacteria that grows by twelve percent every hour. Both columns climb. Both look, at a glance, like the same kind of upward march. A student who treats them as interchangeable picks the wrong equation, plugs into the wrong form, and loses a point that was never about arithmetic at all. It was about a single decision made in the first ten seconds: is this relationship additive or multiplicative, straight-line or compounding, the kind that grows by a fixed amount or the kind that grows by a fixed proportion.

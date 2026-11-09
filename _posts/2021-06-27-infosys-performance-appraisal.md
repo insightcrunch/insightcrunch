@@ -5,11 +5,11 @@ page_title: "Infosys Performance Appraisal Process Explained: Self-Assessment Wr
 date: 2021-06-27
 categories: ["Industry"]
 tags: ["Infosys Performance Appraisal", "Infosys Appraisal Process", "Infosys iRace Appraisal", "Infosys Self Assessment", "Infosys Performance Rating", "Infosys Appraisal Tips", "Infosys Bell Curve", "Infosys Performance Review"]
-excerpt: "Complete guide to the Infosys performance appraisal process: how iRace works, writing a strong self-assessment, navigating calibration, understanding forced distribution, the appeal process, and how managers evaluate performance at every stage."
+excerpt: "Decode the Infosys appraisal process across iRace, calibration, and the strategies that actually move ratings up."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 50
 author: "sneha-reddy"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The Infosys performance appraisal is the single most consequential recurring event in an Infosys employee's career. It determines salary increments, variable pay, promotion eligibility, project assignments, and ultimately whether the career trajectory accelerates, plateaus, or begins a decline. Yet most employees navigate it reactively: filling out the self-assessment form in two hours the night before it is due, accepting whatever rating the manager communicates, and spending the rest of the year vaguely hoping for better results next time.

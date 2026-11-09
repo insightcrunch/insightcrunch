@@ -5,11 +5,11 @@ page_title: "Infosys HR Interview Questions and Answers for Freshers: Complete G
 date: 2021-08-14
 categories: ["Industry"]
 tags: ["Infosys HR Interview Questions", "Infosys HR Round", "Infosys HR Interview Questions and Answers", "Infosys Interview Questions for Freshers", "Infosys HR Interview Preparation", "Tell Me About Yourself Infosys", "Infosys Interview Tips"]
-excerpt: "Complete Infosys HR interview guide with 60+ questions, sample answers, what interviewers really evaluate, and the exact mistakes that get candidates rejected."
+excerpt: "Decode the Infosys HR interview with question-by-question answer frameworks and the evaluation criteria."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 50
 author: "shruti-agarwal"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The Infosys HR interview is the final gate between a candidate and an offer letter, and it eliminates more candidates than most people expect. Not because the questions are difficult in a technical sense, but because most candidates treat this round as a formality rather than a genuine evaluation. They walk in with memorized answers to the five questions they Googled, and the experienced HR interviewer identifies this within the first two minutes.

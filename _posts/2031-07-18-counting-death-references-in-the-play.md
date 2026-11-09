@@ -9,7 +9,7 @@ excerpt: "The word death and its kin saturate Romeo and Juliet, recurring far mo
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2031-07-18
+last_updated: 2026-11-09
 lang: en
 ---
 ## Counting Death in Romeo and Juliet: The Verdict of the Numbers

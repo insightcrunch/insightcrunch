@@ -5,11 +5,11 @@ page_title: "Infosys Power Programmer and Digital Specialist Engineer: Eligibili
 date: 2021-10-25
 categories: ["Industry"]
 tags: ["Infosys Power Programmer", "Infosys DSE", "Digital Specialist Engineer", "Infosys SP", "Infosys Specialist Programmer", "Infosys Salary", "Infosys Careers", "HackWithInfy"]
-excerpt: "Complete guide to Infosys Power Programmer and DSE roles covering eligibility, salary, projects, and career path differences."
+excerpt: "Decode the Infosys Power Programmer and DSE tracks across eligibility, compensation, and career trajectory."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
 author: "ritika-singh"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 Most conversations about Infosys fresher hiring center on the Systems Engineer role, the standard entry-level designation that the company hires at scale every cycle. But within the same fresher hiring ecosystem, Infosys runs two premium entry-level tracks that attract significantly less attention despite offering materially different compensation, different work environments, and a different career trajectory from day one. These are the Power Programmer and the Digital Specialist Engineer designations.

@@ -4,11 +4,11 @@ title: "How much does Amazon pay to work from home?"
 date: 2022-12-02
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world, and it employs hundreds of thousands of people all across the globe in its variety of offices and..."
+excerpt: "Amazon WFH salary and hourly rates by role type. What remote customer service, virtual assistants, and corporate employees actually earn working from home."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 13
 author: "thomas-reid"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

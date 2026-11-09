@@ -5,11 +5,11 @@ page_title: "Infosys Hiring Process Explained From Start to Finish: Online Test,
 date: 2021-12-28
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Hiring Process", "Infosys Interview", "Infosys Recruitment", "Infosys Selection Process", "IT Jobs India", "Campus Placement", "Infosys Careers"]
-excerpt: "Complete guide to every stage of the Infosys hiring process from application to offer letter with preparation strategies."
+excerpt: "Decode the Infosys hiring funnel from application through offer with stage-by-stage prep guidance."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "ritika-singh"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The Infosys hiring process is one of the most structured and well-documented recruitment pipelines in the Indian IT industry. Whether you are a final-year engineering student waiting for campus placements, a fresh graduate searching for off-campus opportunities, or an experienced professional considering a lateral move, understanding how Infosys evaluates and selects candidates is the single most important step you can take before entering the process.

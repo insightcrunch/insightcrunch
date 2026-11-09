@@ -5,11 +5,11 @@ page_title: "SAT Math for Students Who Hate Math: A Calm, Step-by-Step Path From
 date: 1997-05-04
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Beginner", "Study Plan", "Test Prep"]
-excerpt: "SAT math for students who dread it: an empathetic ground-up path, the minimum topics for a solid base, Desmos as support and a calm eight-week study plan."
+excerpt: "SAT Math for students who hate math: a compassionate, strategic 8-week plan to score 500+ from below 400."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 59
 author: "maria-santos"
-last_updated: 1997-05-04
+last_updated: 2026-11-09
 lang: en
 ---
 If you opened the calculator portion of a practice test and felt your chest tighten before you read a single line, this guide is written for you specifically. Not for the kid who finished AP Calculus a year early. For the student who has been told, gently or otherwise, that they are "not a math person," and who has half believed it for so long that the belief now feels like a fact about the world rather than a story someone once told them. SAT math, for that student, is rarely a content problem first. It starts as a feeling, and the feeling shuts the thinking down before the thinking gets a chance.

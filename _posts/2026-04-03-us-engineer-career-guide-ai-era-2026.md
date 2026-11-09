@@ -5,11 +5,11 @@ page_title: "What US Citizen Engineers Can Actually Do Right Now: The Complete C
 date: 2026-04-03
 categories: ["Industry"]
 tags: ["US Engineers", "Tech Layoffs 2026", "AI Careers", "Software Engineering", "Career Pivot", "MLOps", "AI Skills", "Reskilling", "Defense Tech", "Cybersecurity", "Career Strategy"]
-excerpt: "An evidence-based playbook exclusively for US citizen engineers navigating the 2026 AI displacement wave. Covers which roles are dying, which are surging, the specific skills that command $170K-$350K+ salaries, citizenship-gated career paths unavailable to visa holders, retraining timelines, geographic moves worth making, and a 90-day action plan for engineers at every stage."
+excerpt: "Decode the US engineer career path in the AI era with practical strategies for 2026 and beyond."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 90
 author: "ryan-walsh"
-last_updated: 2026-04-01
+last_updated: 2026-11-09
 lang: en
 ---
 The previous two articles in this series catalogued the scale of IT sector layoffs globally and Anthropic's specific role in accelerating the employment disruption. This article is different in purpose and in audience. It is written for a single, specific reader: a US citizen who works in engineering or technology, who is watching the headlines about 30,000 Amazon jobs and 15,000 Microsoft jobs and wondering what it means for them, and who wants evidence-based guidance rather than platitudes about "embracing change."

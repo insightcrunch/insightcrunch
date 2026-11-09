@@ -5,11 +5,11 @@ page_title: "SAT Math Formulas: The Complete Reference Beyond the Provided Sheet
 date: 1997-05-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Formulas", "Reference", "Study Guide"]
-excerpt: "SAT math formula reference by domain: algebra, geometry and statistics formulas beyond the provided sheet, each with a one-line note on when you need it."
+excerpt: "Your complete SAT Math reference sheet: algebra, advanced math, geometry, and statistics formulas in one place."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1997-05-09
+last_updated: 2026-11-09
 lang: en
 ---
 A student opens the Bluebook testing app, taps into the math section, and finds a blue link near the corner of the screen labeled Reference. Tapping it reveals a small panel of shapes and equations. Relief washes over the unprepared candidate: the formulas are right there, so memorizing them was never necessary. That relief is the single most expensive feeling in the math section, because the supplied panel is a trap of false security. It hands you the area of a circle and the volume of a cone, then stays silent on the slope of a line, the coordinates of a parabola's vertex, the distance between two points, and roughly a dozen other relationships that appear far more often than any solid the panel bothers to define. The candidate who relies only on the provided list walks into Module 2 missing the exact tools the harder items demand.

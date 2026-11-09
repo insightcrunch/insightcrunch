@@ -4,11 +4,11 @@ title: "Amazon work from home jobs part time"
 date: 2022-11-10
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and it employs numerous full time, part-time, and hourly workers. There are a variety of jobs..."
+excerpt: "Amazon part-time work from home jobs: available remote roles with flexible hours, pay rates, minimum hour requirements, and how to find current openings."
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 12
 author: "marcus-hall"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 ## Background

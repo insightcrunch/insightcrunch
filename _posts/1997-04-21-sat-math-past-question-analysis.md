@@ -5,11 +5,11 @@ page_title: "SAT Math Question Patterns: A Priority Tier System for Where to Spe
 date: 1997-04-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Study Plan", "Question Analysis", "Strategy"]
-excerpt: "SAT math question patterns analyzed into a priority tier system: which topics to study first, second and last, and how Module 1 and Module 2 differ in mix."
+excerpt: "Where to focus your SAT Math prep based on four years of question frequency data and a tiered priority framework."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1997-04-21
+last_updated: 2026-11-09
 lang: en
 ---
 Two students put in the same forty hours of math prep and walk out with scores eighty points apart. The gap is rarely talent. More often it is sequence: one student spent those hours on the handful of skills the digital exam leans on hardest, and the other spread the same effort evenly across a textbook that gives a rare solids problem the same shelf space as the linear equation that shows up again and again. Effort spent evenly is effort spent badly, because the test is not even. Its question mix is lopsided, predictable, and public enough to reverse-engineer, and once you can see the shape of it you can aim your study hours at the points that are actually on the table.

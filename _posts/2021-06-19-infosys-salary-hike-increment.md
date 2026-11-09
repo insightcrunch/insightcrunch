@@ -5,11 +5,11 @@ page_title: "Infosys Salary Hike Percentage, Increment Timing, Appraisal Bands, 
 date: 2021-06-19
 categories: ["Industry"]
 tags: ["Infosys Salary Hike", "Infosys Increment Percentage", "Infosys Appraisal Hike", "Infosys Annual Increment", "Infosys Variable Pay", "Infosys Promotion Increment", "Infosys Salary Increase", "Infosys Performance Rating Hike"]
-excerpt: "Complete guide to Infosys salary hike percentages, appraisal band increments, variable pay, promotion raises, and how to maximize your compensation growth at every career stage."
+excerpt: "Decode Infosys salary hike percentages across appraisal bands, variable pay, and promotion-driven raises."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 The question every Infosys employee asks around appraisal season is the same: what increment will I actually receive? The answer is almost never the figure that circulates in WhatsApp groups and college placement forums, which tend to mix up average hike percentages with top-band percentages, annual increments with promotion raises, and fixed pay increases with variable pay payouts. The resulting confusion leads employees to either dramatically overestimate what they will receive or accept below-market increments without realizing it.

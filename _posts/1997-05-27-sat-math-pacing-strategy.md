@@ -5,11 +5,11 @@ page_title: "SAT Math Pacing: The Three-Pass System for a 35-Minute Module and W
 date: 1997-05-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Pacing", "Time Management", "Strategy"]
-excerpt: "SAT math pacing explained: a three-pass system for a 35-minute module, the skip decision and Module 1 versus Module 2 timing, with a minute-by-minute model."
+excerpt: "Beat the SAT Math clock with the 3-pass strategy and module-aware pacing for both Module 1 and Module 2."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1997-05-27
+last_updated: 2026-11-09
 lang: en
 ---
 Most students lose points on the digital SAT math section that they were fully capable of earning. The arithmetic was within reach, the concept was familiar, the answer was sitting there waiting. What stole the credit was not difficulty. It was the clock, and a budget spent in the wrong order. A test-taker grinds four minutes on one stubborn item, gets it right, feels productive, and then watches three easy problems vanish unanswered when the module closes. That trade, four minutes for one point at the cost of three, is the single most expensive habit in the entire math section, and almost nobody is taught to see it as the disaster it is.

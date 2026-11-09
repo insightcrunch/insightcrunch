@@ -9,7 +9,7 @@ excerpt: "The AP 2-D Art and Design portfolio grades sustained investigation ove
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 88
 author: "christopher-wells"
-last_updated: 2007-03-29
+last_updated: 2026-11-09
 lang: en
 ---
 Most Advanced Placement courses end with a timed examination in a quiet room, rows of students working against a clock. AP 2-D Art and Design ends differently. Instead of a single sitting, the course asks for a body of work assembled across months: photographs of flat artwork, digital images, prints, designs, and collages gathered into one submission that readers study image by image. The grade grows out of decisions made in a studio rather than answers marked in a booklet, and that difference shapes everything about how a student should prepare.

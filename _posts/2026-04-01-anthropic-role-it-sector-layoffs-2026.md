@@ -5,11 +5,11 @@ page_title: "Anthropic and the IT Layoff Wave: How the World's Most Safety-Consc
 date: 2026-04-01
 categories: ["Industry"]
 tags: ["Anthropic", "Claude", "IT Layoffs", "AI Jobs", "Claude Code", "Dario Amodei", "Workforce Disruption", "AI Safety", "Enterprise AI", "Software Engineers"]
-excerpt: "A deeply researched analysis of how Anthropic - founded explicitly to make AI safe for humanity - has become the single most disruptive company in the global IT labour market through Claude Code, Cowork, and a relentless pace of enterprise deployment. Covers the economic research, the product roadmap, the human cost, and the extraordinary tension at the heart of a company that studies the damage it is doing."
+excerpt: "Decode Anthropic's role in the 2026 IT layoff wave with the paradox of safety-first AI as the labor disruptor."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 90
 author: "thomas-reid"
-last_updated: 2026-04-01
+last_updated: 2026-11-09
 lang: en
 ---
 There is a five-floor office building in San Francisco where the first thing visitors receive is a small book. It is the size of the pocket Bibles that proselytisers hand out on street corners, and it contains a 14,000-word essay that the company's CEO, Dario Amodei, wrote in 2024. The essay is called "Machines of Loving Grace," and it envisions AI as the mechanism through which humanity defeats disease, conquers poverty, and achieves scientific progress at a pace that was previously inconceivable. It is a sincere and carefully argued document. Visitors are expected to read it.

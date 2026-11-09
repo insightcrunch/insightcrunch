@@ -5,11 +5,11 @@ page_title: "Infosys Resignation Process: Notice Period, Handover, Exit Intervie
 date: 2021-05-18
 categories: ["Industry"]
 tags: ["Infosys Resignation", "Infosys Notice Period", "Infosys Resignation Process", "Infosys Exit Process", "Infosys Full and Final Settlement", "Infosys Relieving Letter", "Infosys Resignation Letter", "Infosys Exit Interview"]
-excerpt: "Complete step-by-step guide to resigning from Infosys: how to submit resignation, notice period rules, buyout options, handover process, exit interview, FnF settlement timeline, and how to leave without burning bridges."
+excerpt: "Decode the Infosys resignation process across notice rules, buyout options, handover, and the FnF settlement timeline."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "arjun-nair"
-last_updated: 2026-04-02
+last_updated: 2026-11-09
 lang: en
 ---
 Leaving Infosys is one of the most consequential professional decisions an employee makes, and one of the most poorly navigated. The decision gets made carefully but the execution often does not: the resignation is communicated before the offer letter is in hand, the notice period negotiation is handled emotionally rather than strategically, the handover is incomplete, the experience letter is delayed by months because of a documentation error in the pre-joining period, and the relationship with the manager ends badly rather than well.
