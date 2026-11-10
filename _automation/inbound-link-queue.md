@@ -179,3 +179,7 @@
 ## how-x-rays-work
 - _posts/2026-10-08-chirality-molecular-handedness.md - could carry: "The handedness that decides how a molecule behaves was settled as physical structure when diffraction patterns were read as atomic arrangements, the method the account of how X-rays work traces from the Braggs to Photo 51."
 - _posts/2026-10-23-how-ancient-dna-works.md - could carry: "Before a bone is drilled for the fragments it holds, its interior is mapped by the shadow method, and the account of how X-rays work explains how that map is formed without opening the specimen."
+
+## nightjar-last-interview-009
+- _posts/2026-11-07-nightjar-false-provenance-007.md - could carry: "The file Dunmore had found in her archive search, the one that borrowed the phrase clean room in quotation marks, had an author after all, and he was alive in a stone house at Highstile, burning paper in his sink at four in the morning."
+- _posts/2026-11-08-nightjar-nine-officers-008.md - could carry: "The two pages missing from that file were never recovered, and the man who could have said why they were taken died at his own kitchen table before Mira reached him, in a house whose study read as nothing at all."

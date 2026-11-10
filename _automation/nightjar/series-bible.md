@@ -333,6 +333,10 @@ rewritten.
 008 The Carrowmere records system accepts a request slip with no requesting officer named and files it without argument, because the building was built for speed. The unsigned slip is a standing door in the system, and the depot movement file passed through it twice. The warning to the depot principal was stamped in the depot log at 21:50 by the depot clock, forty minutes before the only officer of the nine who entered the records building that night signed the night book at 22:30.
 008 The Ninth Office file from eighteen years ago that uses the phrase clean room in quotation marks has been pulled properly on a signed request, and two pages are missing from it, removed cleanly and not torn, with the stitching intact on both sides of the gap.
 
+009 Corwen Ash is the retired Ninth Office officer who wrote the file from eighteen years ago that uses the phrase clean room in quotation marks. He lived alone for eighteen years in a stone house at Highstile that came to him from his mother's family. He received one payment eighteen years ago and never spent any of it, and the account that holds it was never drawn on.
+009 Dain Oric led the people who watched and then breached the house at Highstile. His people wanted Corwen Ash taken alive and talking, and Ash died in the breach, his heart giving out at his kitchen table, not by Mira Kovac's hand and not by the besiegers' intent.
+009 The study of Corwen Ash's house at Highstile reads as nothing at all, its shelves ordered and its desk bare in a way that is not the bareness of burning. It is the second room attached to Ash that holds no weight, and it was sealed after his death with Highstile constabulary tape, unread by any practice.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

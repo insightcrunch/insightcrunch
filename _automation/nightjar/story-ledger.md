@@ -205,3 +205,25 @@ spine notch:              Rung eight. The eighteen year old file from 007 is pul
 characters:               Mira Kovac, Arvo Leyden, Petra Dunmore, Benet Sarre (new)
 canon written back:       Three facts under Established canon, each numbered 008: Benet Sarre, his two advance payments, the two pulls of the depot file and his removal from the records floor; the unsigned request slip as a standing door in the Carrowmere records system, with the warning stamped at 21:50 against the officer's 22:30 night book entry; the eighteen year old file pulled properly, with two pages missing, removed cleanly, the stitching intact on both sides
 callbacks:                004, 005 and 007, three internal links, to the depot office where the principal's chair stood warm and empty, to the statement Rask gave on the record at the Barrow hearing, and to the Melora court sale case
+
+## Installment 009
+slug:                     nightjar-last-interview-009
+published:                2026-11-09
+story span:               Three days in the Twenty Ninth Session, from Dunmore's dawn finding in Carrowmere to the breach at Highstile at dusk on the third day
+arc:                      The Clean Room, case 9
+case type:                Siege or interrogation
+words:                    23176
+outcome:                  objective lost
+cost paid:                Eighteen years of a stranger's fear, taken in one read at the kitchen wall, and she is out of the field for the rest of the installment
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the study at Highstile that reads as nothing
+clues planted:            The Highstile timeline of eleven entries from the first watch report to the breach; Ash burning paper in the kitchen sink with the tap running from the fourth hour of the first morning; the single payment of eighteen years ago and the account never drawn on; the house deeds from his mother's family predating the payment; the kitchen chair and eighteen years of one man's disciplined fear; the local service's one hour assembly time; the study door that is never opened before the breach
+capabilities established: The kitchen read at the back wall giving eighteen years of one man sitting in the same chair being afraid (Ground truth); Dunmore's payment trail and deed check closed by telephone from Carrowmere (The collapse); the sink read giving the order of the burning and none of its content (The collapse); the door decision and the yard side entry (Pressure); her statement on the page that she cannot read the dead (Close)
+damage carried:           In: two centuries from 007, her broken word from 008. Adds: eighteen years of Corwen Ash's fear, the heaviest read of the arc
+endurance:                entering reduced; spent at the pressure beat
+legend beat:              none
+close consumed:           The kitchen read and its eighteen years, Dunmore's payment trail that killed the seller reading, the sink read's order of burning, the local service's established one hour and Oric's established impatience, and the study read taken after the breach; every one established earlier in this same installment
+false lead:               Seller. Ash has money he should not have and a house he should not own, on one payment eighteen years ago; the payment was never spent and the house was inherited, which is not what a seller does, and the reading dies on those two facts
+spine notch:              Rung nine. The one person who could explain the phrase dies before she reaches him, and the study he kept it in reads as nothing
+characters:               Mira Kovac, Arvo Leyden, Petra Dunmore, Corwen Ash (new, dies), Reni Vosk, Dain Oric (new)
+canon written back:       Three facts under Established canon, each numbered 009: Corwen Ash, the file's author, his eighteen years at Highstile, the single payment never spent and the house inherited; Dain Oric and his people, who wanted Ash alive and talking, and Ash's death in the breach by no one's hand and no one's intent; the study at Highstile reading as nothing, sealed with constabulary tape unread by any practice
+callbacks:                005, 007 and 008, three internal links, to the Barrow hearing where Rask gave his statement on the record, to the Melora storeroom that had read as nothing at all, and to the gap in the file held open under Dunmore's desk lamp
