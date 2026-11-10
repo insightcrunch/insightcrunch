@@ -6,19 +6,19 @@ date: 2006-07-20
 categories: ["Industry"]
 tags: ["AP Exams", "AP World History", "Comparison", "Causation", "Reasoning Skills", "History"]
 excerpt: "World History grades the same three lenses across a wider canvas. This guide maps comparison, causation, and continuity-change across all its regions."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2006-07-20
+lang: en
 ---
-
 Every AP history course asks students to reason, but World History asks them to reason at a scale no other course attempts. The canvas runs from 1200 to the present and stretches across Afro-Eurasia, the Americas, and Oceania, which means a single exam question can place West African trading states beside Southeast Asian port cities and expect a student to think clearly about both. Facts alone cannot carry that load. A student who memorizes each civilization as a separate exhibit will run out of memory long before the course ends, while a student who learns to compare, to trace causes, and to track change across centuries owns a set of tools that works on any region the exam names.
 
 Three historical reasoning processes organize the entire course: comparison, causation, and continuity and change over time. They appear in the framework as skills to be practiced, in the multiple choice questions as habits of reading, and in the written responses as the difference between an essay that lists and an essay that argues. Students sometimes treat them as vocabulary words to define on a quiz. That is a costly mistake. Each process is a way of moving through evidence, and the exam rewards the movement itself far more than any definition recited from memory.
 
 What follows treats the three processes as working instruments rather than labels. It shows how comparison behaves when the two cases sit an ocean apart, how causation behaves when the chain runs across three centuries, and how continuity and change behaves when the span is long enough for empires to rise, transform, and vanish inside a single prompt. The companion [AP World History complete guide](/2007/08/20/ap-world-history-complete-guide/) covers the course as a whole, while this article isolates the reasoning itself, because reasoning across regions is precisely the skill that separates strong World History scores from average ones.
 
-![AP World History: Comparison, Causation, CCOT - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP World History: Comparison, Causation, CCOT - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## Three Lenses Ground into One Instrument
 

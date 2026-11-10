@@ -6,19 +6,19 @@ date: 2006-07-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Language", "Rhetoric", "Rhetorical Analysis", "Essays", "English"]
 excerpt: "Rhetorical analysis asks what a writer's choices do, not what they are called. This guide maps appeals, diction, syntax, purpose, and passage method too."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-07-16
+lang: en
 ---
-
 Every passage on the AP English Language exam arrives with a job already in progress. A columnist is defending a policy, a memoirist is rebuilding a childhood room, a president is steadying a frightened country, and each of them is making hundreds of small decisions about words, sentences, evidence, and arrangement in order to move a particular audience in a particular direction. The exam does not ask whether you can summarize what those writers said. It asks whether you can explain how their choices work, why those choices suit the audience in front of them, and what the choices reveal about the purpose driving the whole performance. That explanation, built sentence by sentence from evidence in the text, is rhetorical analysis.
 
 Students often meet this skill as a vocabulary exercise, as if analysis meant attaching the correct Greek label to whatever a writer happened to do. A paragraph gets tagged with anaphora, a sentence gets tagged with ethos, and the labeling feels like work because the terms are real and the identifications are sometimes right. Yet a label names a choice without touching its function. Analysis begins one step later, at the moment a reader asks what the repetition builds, whose trust the credential earns, and which claim the whole arrangement is quietly serving. The pages that follow build that step into a habit: a reading routine that starts with purpose, moves through appeals and choices, and ends with effects a reader can defend.
 
 Because the skill underlies nearly everything else in the course, it rewards the student who treats it as the center rather than as one topic among many. The multiple-choice section asks about function and effect in question after question. The rhetorical analysis essay asks for the same thinking in sustained prose. Even the argument and synthesis essays lean on it, since a writer who can see how choices persuade can borrow those choices deliberately. Master the analysis and the rest of the exam becomes a set of formats for showing it.
 
-![AP English Language: How to Analyze Rhetoric - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP English Language: How to Analyze Rhetoric - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## Reading for How and Why, Not for What
 

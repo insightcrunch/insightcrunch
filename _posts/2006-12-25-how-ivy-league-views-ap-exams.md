@@ -6,19 +6,19 @@ date: 2006-12-25
 categories: ["Industry"]
 tags: ["AP Exams", "Ivy League", "College Admissions", "College Credit", "Application Strategy", "College Prep"]
 excerpt: "Ivy League schools read AP records inside a demanding holistic review. This guide maps rigor expectations, credit limits, and what strong records show."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-12-25
+lang: en
 ---
-
 Few questions in college admissions carry as much anxiety, or as much misinformation, as the question of how the Ivy League treats Advanced Placement work. Families ask it as though a formula exists, as though some number of exams, some threshold of scores, unlocks a gate at Harvard or Yale or Princeton. No such formula exists, and the sooner a family absorbs that fact, the better its planning becomes. What exists instead is a reading practice: trained admissions officers, working inside a holistic review, interpret an AP record as one strand of evidence among many, weighing what courses a student chose, how the student performed in them, what the resulting exam scores confirm, and how all of that fits the school the student attended and the class the college is trying to build.
 
 That reading practice is learnable. Although each of the eight schools guards its own deliberations, the broad patterns are consistent enough to describe honestly, and describing them is the work of this guide. AP courses function at these colleges primarily as a signal of rigor and intellectual appetite, secondarily as a source of placement into advanced coursework, and only weakly, unevenly, as a source of degree credit. Exam scores matter, but they matter as confirmation of a transcript rather than as a substitute for one. Volume matters, but only relative to opportunity, and only when the grades and scores hold up under the load. Every one of those claims has texture and exceptions, and the sections below work through them school by school and theme by theme.
 
 Planning well starts from the whole system rather than from any single exam, which is why this guide sits inside a larger map of the territory; readers who want the full architecture of the program itself can begin with [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) and return here for the selective-college layer. The thesis running through everything that follows is simple: the Ivy League does not reward AP accumulation, it rewards AP judgment. A record built with judgment shows a student choosing demanding courses for coherent reasons, performing at a high level inside them, and presenting scores that corroborate the story the transcript tells. A record built by accumulation shows something else, and experienced readers can tell the difference within minutes.
 
-![How Ivy League Schools View AP Exams - Insight Crunch](/assets/images/blog/blog-03.webp)
+![How Ivy League Schools View AP Exams - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## Holistic Review: The Room Where AP Records Are Read
 

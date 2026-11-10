@@ -6,19 +6,19 @@ date: 2006-05-09
 categories: ["Industry"]
 tags: ["AP Exams", "DBQ", "AP World History", "AP European History", "Essay Writing"]
 excerpt: "Every history DBQ grades the same moves in different costumes. This guide maps thesis, sourcing, evidence, grouping, and the complexity point in full."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-05-09
+lang: en
 ---
-
 A student who has learned to write the document-based question for one history course has, whether she knows it or not, learned most of the essay for the other two. The prompts wear different costumes. One asks about the causes of a revolution in the Atlantic world, another about industrialization and its discontents in nineteenth-century Europe, a third about the political battles of the early American republic. Underneath the costumes sits a single skeleton: a claim to defend, a set of documents to interrogate, a fund of outside knowledge to deploy, and a grader reading with one shared rubric in hand. Students who treat each exam's DBQ as a wholly separate invention waste the most valuable asset they own, which is transfer. Students who see the skeleton spend their preparation refining one method instead of memorizing three rituals.
 
 The framework laid out in this guide is deliberately universal. It begins with the rubric the three exams share, because the rubric is the contract that tells a writer exactly which performances earn points. It then moves through the working sequence a strong essay follows: reading the prompt with a lawyer's care, reading the documents with a detective's suspicion, drafting a thesis that can organize seven sources without flattening them, grouping those sources into arguments rather than summaries, sourcing them in ways that change what they mean, and weaving in outside evidence that the documents point toward but do not contain. Along the way it names the habits that quietly drain points from otherwise knowledgeable essays, and it closes with the hardest point on the rubric, the complexity point, treated not as a mystery reserved for prodigies but as a set of learnable moves.
 
 None of this replaces course content. A universal method cannot tell you why the Haitian Revolution frightened slaveholders across the Americas, or how Bismarck's alliance system worked, or what the Second Great Awakening did to American reform movements. What the method does is guarantee that whatever content you carry into the room gets converted into points at the highest possible rate. Content without method leaks. Method without content is an empty vessel. The students who earn the top scores bring both, and they bring them in an order that the rubric rewards.
 
-![AP History DBQ Writing: A Universal Framework - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP History DBQ Writing: A Universal Framework - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## One Rubric Beneath Three Costumes
 

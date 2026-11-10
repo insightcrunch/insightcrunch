@@ -6,19 +6,19 @@ date: 2006-12-02
 categories: ["Industry"]
 tags: ["AP Exams", "Homeschool", "Self-Study", "Registration", "Transcripts", "College Prep"]
 excerpt: "Homeschooled students can take AP exams with the right arrangements. This roadmap maps registration, test sites, course labels, and transcript strategy."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2006-12-02
+lang: en
 ---
-
 A homeschooled teenager who wants to sit an Advanced Placement exam faces a puzzle that a student in a conventional school never has to solve. The exam itself is identical, the scoring is identical, and the college credit on offer is identical, yet nearly every step that leads to the testing room runs through institutions built for enrolled students. Registration happens through schools. Exam booklets are ordered by school coordinators. Even the practice platform expects a classroom to exist somewhere behind the student. None of this makes the exam closed to homeschoolers, but it does mean that a homeschool family has to understand the machinery of the program and operate parts of it by hand.
 
 The good news deserves to be stated plainly at the start. Homeschooled students may take AP exams, and they do so in large numbers every spring. The College Board designs the program so that the exam, rather than the course, is the point of access: a student earns the score by performing on the exam in May, and no rule requires that the learning behind that performance happened inside a school building. What the system does require is arrangement. A homeschooler cannot order an exam directly, cannot walk into a testing room unannounced, and cannot label a home course with the AP trademark unless the course has passed a specific authorization process. Each of those hurdles is manageable, and each one rewards the family that starts early.
 
 This article maps the whole route. It explains how registration through a participating school works, how to find and secure a test site, what course authorization means and when it matters, how to prepare for a college level exam without a classroom, and how to present AP work on a homeschool transcript so that colleges read it clearly. The through line is the series thesis in its most practical form: AP success rewards informed planning, so understanding how the system works beats guessing. A homeschool family that treats the logistics as part of the coursework, handled months ahead rather than weeks, will find that the door to the testing room was open all along.
 
-![AP for Homeschooled Students - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP for Homeschooled Students - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## The Open Door: Who May Sit an AP Exam
 

@@ -6,19 +6,19 @@ date: 2006-07-11
 categories: ["Industry"]
 tags: ["AP Exams", "AP English Literature", "Close Reading", "Poetry", "Prose Analysis", "English"]
 excerpt: "Close reading slows the eye until diction, imagery, and structure confess the theme. This guide maps poetry and prose method, annotation, and speakers."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-07-11
+lang: en
 ---
-
 A poem of fourteen lines can hold a patient reader for an hour, and that simple fact explains the whole design of the AP English Literature exam. The test does not ask who can finish a passage fastest. It asks who can stay with one longest, noticing how a single shifted word, a broken line, or a quiet change of tone carries the meaning of the entire piece. Close reading names that staying power. Practiced deliberately, it turns an intimidating page into a set of answerable questions about craft.
 
 Every scored section cashes the same skill in a different currency. Multiple choice items reward the reader who can locate the exact line where an attitude turns. The poetry essay rewards the reader who can explain how sound and image build an argument. The prose essay rewards the reader who watches narration, pacing, and detail conspire toward significance. Even the literary argument essay, written about a work studied across months, grows out of hundreds of small moments of attention paid to scenes, sentences, and speeches. Students who read closely possess evidence; students who skim possess impressions, and impressions collapse under the first hard question.
 
 What follows treats close reading as a learnable method rather than a talent. A repeatable routine, named here the InsightCrunch close-reading routine, gives the eye a route through any poem or passage: a first encounter, an annotation pass, a search for patterns, a structural survey, and a synthesis of meaning. Around that routine, this guide examines the individual instruments of craft one by one, diction, imagery, figurative language, syntax, tone, speaker, structure, and symbolism, then applies them to worked examples in verse and prose before turning to exam strategy and practice.
 
-![AP English Literature: Close Reading - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP English Literature: Close Reading - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 ## Reading at the Speed of Attention
 

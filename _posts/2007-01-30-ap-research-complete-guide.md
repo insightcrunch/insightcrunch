@@ -6,19 +6,19 @@ date: 2007-01-30
 categories: ["Industry"]
 tags: ["AP Exams", "AP Research", "AP Capstone", "Research Skills", "Study Guide", "College Prep"]
 excerpt: "AP Research turns a question into a year-long paper and a defense. This guide maps the inquiry process, the academic paper, the oral defense, and scoring."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2007-01-30
+lang: en
 ---
-
 Most Advanced Placement courses end the same way, with a timed exam in May, a booklet of questions, and a score that reflects a few hours of performance. AP Research breaks that pattern completely. Nobody hands the student a prompt. Instead, each student spends a school year investigating a question of his or her own choosing, gathering evidence through a deliberate method, and producing an academic paper of 4,000 to 5,000 words. The year closes with a presentation of the findings and an oral defense, during which a panel asks the student to explain and justify the choices behind the work. Freedom, in this course, is the curriculum itself.
 
 That freedom explains both the appeal of the course and its danger. A student who chooses well works on a question that genuinely matters to her, reads scholarship in a field she may later study in college, and finishes with a piece of writing far longer and more personal than anything else in her high school record. A student who chooses carelessly inherits a sprawling topic, a method that cannot answer the question posed, and a paper assembled in a panic during the final month. Nearly every difference between a strong project and a weak one traces back to decisions made in the opening weeks, long before any serious writing begins.
 
 The pages that follow treat AP Research as what it really is, a managed investigation rather than an extended essay assignment. They walk through the whole arc of the course, from the first brainstormed interest to the final defense questions, and they give that arc a name, the InsightCrunch Research roadmap. Along the way they cover how scoring works, how the academic paper is structured, how the presentation and defense are judged, which mistakes quietly sink otherwise capable students, and how colleges view the course. A reader who absorbs the roadmap early gains the one advantage that matters most in a year-long project, a clear view of the destination before the journey starts.
 
-![AP Research Complete Guide - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP Research Complete Guide - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## What AP Research Is, and Where It Sits in the Capstone Sequence
 

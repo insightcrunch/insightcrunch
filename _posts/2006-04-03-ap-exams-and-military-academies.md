@@ -6,19 +6,19 @@ date: 2006-04-03
 categories: ["Industry"]
 tags: ["AP Exams", "Military Academies", "Service Academies", "Course Planning", "College Admissions"]
 excerpt: "Service academies weigh rigor alongside leadership and fitness. This guide maps the AP classes, credit validation, and planning an applicant needs most."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2006-04-03
+lang: en
 ---
-
 Applying to a service academy is not the same project as applying to a civilian university, and the difference shapes how a student should think about Advanced Placement work. West Point, the Naval Academy, the Air Force Academy, the Coast Guard Academy, and the Merchant Marine Academy each run admissions as a whole-candidate evaluation, one that places the transcript beside leadership evidence, athletic participation, a fitness assessment, medical screening, character review, and, for most of the academies, a nomination from a member of Congress or another authorized source. An AP record enters that file as proof of academic preparation, and it matters, sometimes a great deal. It never enters alone, and it never carries the file by itself.
 
 That framing matters because families often approach academy admissions with a civilian mental model, one in which grades and test scores dominate and everything else decorates the margins. The academies invert that model. Academic strength is a threshold and a signal, yet the institutions are commissioning officers, not merely enrolling students, so they ask whether an applicant can lead under pressure, withstand physical demand, accept a service obligation, and thrive inside a regimented environment. A transcript stacked with demanding AP courses answers the first of those questions persuasively. It says nothing by itself about the rest, which is why this guide treats AP planning as one strand of a larger preparation, important enough to plan carefully and limited enough to keep in proportion.
 
 The pages that follow map the relationship from several directions. They explain how admissions boards read rigor, which subjects carry the most weight for academy coursework, how credit actually works through validation and placement rather than transfer, how AP results connect to ROTC scholarships at civilian colleges, and how a student can sequence courses across four years of high school without starving the leadership and fitness parts of the file. The aim is a plan a real applicant can follow, one that respects both the academic bar and the wider demands that make academy admissions unlike any other college search.
 
-![AP Exams and Military Academies - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Exams and Military Academies - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## Why Rigor Carries Weight at a Service Academy
 

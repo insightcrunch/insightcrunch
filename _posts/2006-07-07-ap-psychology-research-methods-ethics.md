@@ -6,17 +6,17 @@ date: 2006-07-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP Psychology", "Research Methods", "Ethics", "Experiments", "Social Science"]
 excerpt: "Psychology stands or falls on its methods. This guide maps experiments, correlation, sampling, statistics, and the ethics that govern every single study."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-07-07
+lang: en
 ---
-
 Psychology makes a bold promise. It claims to study the mind and behavior with the same discipline that physics brings to falling objects and chemistry brings to reactions, even though its subject matter talks back, lies on questionnaires, guesses what the researcher wants, and changes simply because it knows it is being watched. Everything in the field that deserves trust rests on how a study was built, and everything shaky in the field can be traced to a study that was built carelessly. That is why the AP Psychology course gives research methods and ethics a place at the very front of the framework, and why exam questions return to method again and again inside scenarios that look, on the surface, like questions about memory, development, or personality.
 
 A student who masters this material gains something more durable than a set of definitions. The student gains a way of reading. Any claim about behavior, whether it appears in an exam scenario, a headline, or a conversation, can be interrogated with the same sequence of questions. What exactly was measured. Who was studied. What was compared with what. What else could explain the result. Whether the people in the study were treated decently. Working through this guide builds that interrogation habit piece by piece, and the full course map in the [AP Psychology complete guide](/2007/06/27/ap-psychology-complete-guide/) shows where this foundation sits inside the larger discipline.
 
-![AP Psychology: Research Methods and Ethics - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP Psychology: Research Methods and Ethics - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ## Why Method Decides What a Study Is Allowed to Claim
 

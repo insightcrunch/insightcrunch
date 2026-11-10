@@ -6,17 +6,17 @@ date: 2006-06-10
 categories: ["Industry"]
 tags: ["AP Exams", "AP Art History", "Comparison Essay", "Required Works", "Essay Skills", "Arts"]
 excerpt: "The AP Art History comparison essay rewards juxtaposition with evidence, not parallel description. This guide maps structure, selection, and scoring in full."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2006-06-10
+lang: en
 ---
-
 Every free-response section has one question that separates students who memorized images from students who can think with them, and on the AP Art History exam that question is the comparison essay. The prompt places a work from the required image set in front of the candidate and asks for a second work, chosen by the candidate, to be set against it. Two objects, two cultures or two moments, one argument. Nothing in the task rewards a tidy summary of each work delivered in sequence, because the scoring guide hunts for something else entirely: a stated resemblance or difference, developed through observable evidence, and carried toward a claim about what the pairing reveals. Students who understand that the essay grades the relationship between works, rather than the works themselves, write a fundamentally different response from students who treat the prompt as two short identifications stapled together.
 
 That misunderstanding is the complication this guide exists to repair. Listing similarities without analysis feels safe, since every listed similarity is true, and truth feels like credit. Yet a similarity that is never interpreted earns almost nothing, because the reader cannot tell whether the writer noticed it by accident or understood it as evidence. A comparison thesis solves the problem by deciding in advance what the pairing proves. Once a writer knows that two buildings both stage a ruler's claim to divine sanction, or that two painters both weaponize stillness, every observed detail becomes a witness called to testify. The pages that follow build that skill in stages: choosing the second work, framing the claim, deploying evidence across form, content, function, and context, and managing the clock. Broader course coverage sits in the [AP Art History complete guide](/2007/07/20/ap-art-history-complete-guide/), while the mechanics of single-work analysis belong to a companion treatment; the concern here is strictly the space between two works and how to write inside it.
 
-![AP Art History: Comparison Essay - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Art History: Comparison Essay - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## The Shape of the Task
 

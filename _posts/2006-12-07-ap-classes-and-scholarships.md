@@ -6,19 +6,19 @@ date: 2006-12-07
 categories: ["Industry"]
 tags: ["AP Exams", "Scholarships", "Merit Aid", "College Costs", "College Admissions", "College Prep"]
 excerpt: "AP rigor can strengthen a scholarship file, even when scores alone do not pay. This guide maps merit aid, National Merit context, and where AP work counts."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2006-12-07
+lang: en
 ---
-
 Every spring, students who survived a year of AP coursework ask a blunt money question: does any of this effort turn into scholarship dollars? The honest answer is layered. AP achievement rarely writes a check by itself, yet it quietly shapes the record that colleges and foundations reward, and it can erase tuition charges outright when scores convert into credit. Families who understand the indirect routes make better course choices than families who chase a direct one that barely exists.
 
 Confusion starts because three different things travel under one label. An AP course on a transcript, the grade earned inside that classroom, and the score earned on the May exam are separate signals, read by separate audiences, at separate moments. A scholarship committee might weigh the first two heavily while never seeing the third. Another program might reward placement and credit without caring which teacher taught the class. Sorting those signals apart is the first planning skill this guide teaches.
 
 What follows maps the whole terrain: how merit aid formulas actually work, where exam results enter an aid file, why the National Merit Scholarship belongs to a different test entirely, and how credit policies translate strong scores into semesters that never get billed. The through line matches the wider series argument in the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/): AP success rewards informed planning, so understanding how the system works beats guessing at every stage.
 
-![AP Classes and Scholarships - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP Classes and Scholarships - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## Three Signals, Three Audiences
 

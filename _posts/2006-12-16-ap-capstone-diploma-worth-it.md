@@ -6,17 +6,17 @@ date: 2006-12-16
 categories: ["Industry"]
 tags: ["AP Exams", "AP Capstone", "AP Capstone Diploma", "College Admissions", "College Prep", "Guidance"]
 excerpt: "The AP Capstone Diploma joins Seminar, Research, and four more exams. This guide maps the requirements, the Certificate, and how colleges read the award."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2006-12-16
+lang: en
 ---
-
 Every few years, a new credential appears in the high school course catalog and families have to decide whether it is a genuine opportunity or an extra hoop dressed up as one. The AP Capstone Diploma sits squarely in that category of questions. It comes from the College Board, the same organization behind the Advanced Placement program, and it asks students to complete two yearlong courses built around research and argument, then back them with strong scores on four additional AP exams. On paper the structure looks tidy. In practice the decision touches course schedules, teacher availability, college ambitions, and the finite hours in a teenager's week.
 
 This guide works through the award from the ground up. It lays out the exact requirements, separates the Diploma from the smaller Certificate that many families confuse with it, and looks honestly at how colleges treat the credential when it appears on an application. The recurring theme is the one that runs through every smart AP decision: the system rewards informed planning, and understanding how a credential actually works beats guessing at its value from the brochure language.
 
-![AP Capstone Diploma: Is It Worth It - Insight Crunch](/assets/images/blog/blog-05.webp)
+![AP Capstone Diploma: Is It Worth It - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 ## What the AP Capstone Diploma Actually Is
 

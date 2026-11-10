@@ -6,19 +6,19 @@ date: 2006-10-14
 categories: ["Industry"]
 tags: ["AP Exams", "Burnout", "Stress Management", "Wellbeing", "Study Strategy", "Student Support"]
 excerpt: "AP burnout is a load problem before it is a character problem. This guide maps the warning signs, prevention habits, recovery steps, and when to cut back."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2006-10-14
+lang: en
 ---
-
 Every spring, strong students quietly fall apart in the same predictable way. A junior who handled September with energy and good humor reaches March unable to open a textbook without a wave of dread. The grades that once felt like a game become a threat. Sleep thins out, patience wears down, and work that used to take an hour stretches across an entire evening. Nothing about the student's ability has changed. What has changed is the balance between demand and recovery, and that imbalance has a name: burnout.
 
 Burnout is a load problem before it is a character problem. It is not laziness, and it is not weakness, and it is certainly not proof that a student chose the wrong courses or lacks the talent to finish them. It is what happens when effort continues for months while rest, variety, and support quietly disappear from the schedule. The student keeps spending energy long after the account is empty, and the mind responds the only way it can, by making everything feel heavier, slower, and strangely pointless.
 
 This guide treats burnout as an engineering problem with human stakes. It maps the warning signs stage by stage, explains why extra hours stop helping once exhaustion sets in, and lays out the habits that prevent depletion in the first place. It also covers the harder territory: how to recover once a student is already depleted, how to ask for help without shame, and when dropping a class is not surrender but sound judgment. Protecting wellbeing is not a distraction from AP success. Sustainable effort beats grinding to exhaustion, and students who guard their rest almost always outperform the version of themselves that tried to run on fumes.
 
-![AP Burnout: Managing Stress - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP Burnout: Managing Stress - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## What AP Burnout Actually Is
 

@@ -6,17 +6,17 @@ date: 2006-03-03
 categories: ["Industry"]
 tags: ["AP Exams", "Myths", "Exam Facts", "Scoring", "College Credit", "Admissions"]
 excerpt: "AP folklore survives because it sounds like insider knowledge. This guide tests the common myths against how scoring, credit, and admissions really work."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2006-03-03
+lang: en
 ---
-
 Every spring, the same confident claims circulate through school hallways, group chats, and family kitchens. A senior announces that a blank answer hurts less than a wrong one. A parent repeats that only perfect scores earn credit. Someone's cousin insists that colleges count the number of AP classes on a transcript and admit whoever has the most. These statements arrive with the polish of insider knowledge, and they shape real decisions about course loads, study time, money, and stress. Yet a striking share of them are wrong, half wrong, or true only inside one building or one college catalog.
 
 Folklore of this kind deserves a careful audit rather than a shrug. A student who believes guessing is punished answers fewer questions and leaves points on the table. A family that believes credit requires a 5 may push a child toward an overloaded schedule or dismiss a hard-earned 3 as worthless. A counselor's warning that a canceled score can never be recovered matters enormously to a student deciding whether to cancel at all. Because the consequences are practical, each claim below is tested against how the program actually operates: how exams are scored, how colleges grant credit, how admissions offices read files, and how scores move from a testing room to a college.
 
-![AP Exam Myths Debunked - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP Exam Myths Debunked - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## Why AP Folklore Refuses to Die
 

@@ -6,19 +6,19 @@ date: 2006-04-26
 categories: ["Industry"]
 tags: ["AP Exams", "Score Cancellation", "Score Withholding", "Score Choice", "College Admissions"]
 excerpt: "A score you regret forces a choice among canceling, withholding, and simply not sending. This guide maps each option, its timing, and its trade-offs in full."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2006-04-26
+lang: en
 ---
-
 Every spring, a familiar scene plays out in kitchens and counseling offices across the country. A student who prepared for months walks out of an Advanced Placement exam room with a hollow feeling, convinced that the performance bore no resemblance to the year of work behind it. Weeks later, when scores arrive, that feeling sometimes hardens into a number the student wishes did not exist. The wish is understandable, and it produces an urgent question: should this score be erased, hidden, or simply left alone? The three impulses feel similar in the moment, yet they lead to very different places, and choosing among them deserves more care than panic usually allows.
 
 This guide exists to slow that decision down. Canceling a score and withholding a score are distinct tools built for distinct problems, and a third option, sending nothing at all to a particular college, quietly solves many cases that students assume require drastic action. The mechanics of forms, deadlines, and fees live in a companion guide, because the decision itself is the harder part. What matters here is judgment: how each choice behaves over time, how colleges tend to read each one, how reversibility changes the risk, and how the growing practice of score choice at individual colleges has reshaped the whole calculation. A regretted score feels like an emergency. Treated properly, it is a small administrative puzzle with a calm solution.
 
 One principle organizes everything that follows, and it is worth stating plainly at the start. Withholding is reversible, while canceling is permanent, so withholding is usually the safer first move whenever doubt is genuine. A withheld score can be released later if a college wants it, if a credit policy makes it valuable, or if the student simply changes perspective with distance. A canceled score cannot be recovered by any later change of heart, because the record itself is gone. Students who internalize that single asymmetry tend to make better decisions under stress, since they stop asking which option feels most decisive and start asking which option keeps the most doors open while emotions settle.
 
-![AP Score Cancellation vs Withholding - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP Score Cancellation vs Withholding - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 ## Two Tools That Sound Alike and Behave Nothing Alike
 

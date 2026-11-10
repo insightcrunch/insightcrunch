@@ -6,19 +6,19 @@ date: 2006-11-10
 categories: ["Industry"]
 tags: ["AP Exams", "Score Cancellation", "Score Withholding", "College Board", "Score Reporting", "Guidance"]
 excerpt: "Canceling an AP score deletes it; withholding only hides it from one college. This guide maps both tools, their deadlines, fees, and when each makes sense."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-11-10
+lang: en
 ---
-
 Every spring, in the nervous weeks after AP exams end and before results arrive, thousands of students go searching for an undo button. They remember the free-response question that went sideways, the multiple-choice section where the clock won, the essay written on three hours of sleep. Somewhere between dread and hope, a rumor surfaces: you can cancel an AP score, or hide it, and the college will never know. The rumor is half right, and the half that is wrong can cost a student a credential that took a full year to earn. Cancellation and withholding are real tools in the College Board system, but they do different things, answer to different deadlines, and carry very different consequences for the future.
 
 One of them is a shredder. The other is an envelope you choose not to mail. Cancellation removes a score from your record entirely, as though the exam result had never been produced, and no request made afterward can bring it back. Withholding leaves the score perfectly intact on your record and simply instructs the College Board not to include it on reports sent to one particular college, an instruction you may reverse whenever you wish. Students confuse the two constantly, sometimes because a counselor used the words loosely, sometimes because a forum post treated them as synonyms, and the confusion matters because the irreversible choice is the one people reach for in a panic.
 
 This guide works through both mechanisms slowly and completely: what each one does to a score record, how a request is made, which deadlines govern it, what fees attach, how colleges experience the result, and how a student should think before touching either lever. Fees and forms follow official College Board processes, and those processes change, so treat every procedural detail here as a map of how the system is built rather than a promise about this season's paperwork. Before you act on any deadline or charge, confirm the rule on the College Board website, where the operative version always lives. With that caution stated plainly, the architecture of the two tools is stable enough to understand deeply, and understanding is what prevents the expensive mistake.
 
-![AP Exam Cancellation and Score Withholding - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Exam Cancellation and Score Withholding - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 ## Two Doors in the Same Hallway
 

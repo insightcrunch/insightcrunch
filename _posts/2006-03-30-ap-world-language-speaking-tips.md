@@ -6,19 +6,19 @@ date: 2006-03-30
 categories: ["Industry"]
 tags: ["AP Exams", "AP World Languages", "Speaking Section", "AP Spanish", "AP French", "Exam Technique"]
 excerpt: "The AP world language speaking section is a performance with a rubric. This guide maps the conversation, the comparison, timing, and fluency building."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2006-03-30
+lang: en
 ---
-
 A recorded voice, a silent room, and a clock that refuses to pause: the speaking section of an AP world language exam strips away every support that written work provides. There is no dictionary at your elbow, no draft to revise, no chance to cross out a sentence and begin again. What the reader eventually hears is a single unedited performance, and that performance is scored against a rubric that rewards something more forgiving than perfection. Across Spanish, French, German, Italian, Chinese, and Japanese, the architecture of the tasks is shared, and the skills that raise a score in one language raise it in all of them.
 
 That shared architecture is the great gift of this section. A student preparing for AP Spanish and a student preparing for AP Chinese face different alphabets, different sounds, and different cultural content, yet both walk into the same two speaking performances: a simulated conversation that tests whether they can respond as a participant, and a cultural comparison that tests whether they can present an organized spoken argument. Master the shape of those two performances and the strategies in this guide transfer across the whole family of exams, while the companion piece on the [AP Spanish Language guide](/2007/05/18/ap-spanish-language-guide/) shows how the same shape wears Spanish clothes.
 
 Readers scoring these recordings are not hunting for the accent of a newsreader or the vocabulary of a poet. They listen for communication that succeeds under pressure: a response that answers the prompt, language that keeps moving, errors that get repaired rather than feared, and a speaker who sounds like a person talking rather than a student reciting. The broader [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/) places this section inside the full exam, but the speaking section deserves its own strategy because its currency is time measured in seconds and its raw material is a voice that must not stop.
 
-![AP World Language Speaking Section Tips - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP World Language Speaking Section Tips - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## The Speaking Section at a Glance
 

@@ -6,19 +6,19 @@ date: 2006-05-27
 categories: ["Industry"]
 tags: ["AP Exams", "AP Environmental Science", "Calculations", "Formulas", "Math Skills", "Science"]
 excerpt: "AP Environmental Science hides a math exam inside a science exam. This guide maps dimensional analysis, percent change, energy and population math skills."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-05-27
+lang: en
 ---
-
 Every AP Environmental Science student eventually meets the moment. The multiple choice question looks like ecology, the free response prompt sounds like policy, and then the numbers arrive: a watershed measured in hectares, a power plant rated in megawatts, a population growing by a stated percent each year. Students who treated the course as pure vocabulary feel betrayed by that moment, while students who expected it simply reach for a pencil. Environmental science is a quantitative field wearing a descriptive costume, and the exam honors that reality. Roughly a fifth of the test asks you to compute something, and much of the rest asks you to interpret quantities that somebody else computed.
 
 None of that arithmetic is hard in the way calculus is hard. The exam never asks for a derivative, a logarithm table lookup, or a trigonometric ratio. What it demands instead is fluency with a small family of moves: converting units without losing track of them, expressing change as a percent, handling very large and very small numbers in scientific notation, and applying a handful of population and energy relationships. Each move is simple in isolation. Points disappear when the moves are chained carelessly, when a decimal slides two places, or when a student divides by the wrong base and never notices because the answer was never checked against common sense.
 
 The good news is that this material rewards discipline more than talent. A student with modest math confidence and a rigid unit-tracking habit will outscore a brilliant mental calculator who works loosely, because the exam designs its numbers to cooperate with careful people. Given values cancel cleanly, conversion factors come in tidy pairs, and most answers land near round numbers that can be estimated before they are computed. This guide treats the math as a craft with learnable routines. Work through the routines here, then test them against the full course map in the [AP Environmental Science guide](/2008/02/16/ap-environmental-science-guide/), and the calculation questions will stop feeling like ambushes.
 
-![APES: Calculations, Formulas, Math Skills - Insight Crunch](/assets/images/blog/blog-05.webp)
+![APES: Calculations, Formulas, Math Skills - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## Why a Science Exam Keeps Asking for Arithmetic
 

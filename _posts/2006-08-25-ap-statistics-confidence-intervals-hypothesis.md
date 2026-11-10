@@ -6,19 +6,19 @@ date: 2006-08-25
 categories: ["Industry"]
 tags: ["AP Exams", "AP Statistics", "Confidence Intervals", "Hypothesis Tests", "Inference", "Math"]
 excerpt: "Inference turns sample evidence into careful claims about whole populations. This guide maps confidence intervals, hypothesis tests, errors, and power."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2006-08-25
+lang: en
 ---
-
 Every interesting question in statistics eventually asks for more than the data in hand. A school board does not care only about the 400 students who answered a survey; it wants to know what all students in the district think. A manufacturer does not merely wonder whether the 250 batteries on a test bench passed inspection; it wants a claim about every battery rolling off the line. Inference is the branch of the subject built for exactly that leap, the disciplined move from a sample that was measured to a population that was not, and confidence intervals and hypothesis tests are its two working tools.
 
 The AP Statistics exam treats this material as the heart of the course, and it is scored accordingly. Inference questions reward a way of thinking more than a bag of formulas: name the parameter, check the conditions, choose the procedure that matches the design, carry out the arithmetic cleanly, and then say what the result means in the language of the original question. Students who internalize that order find that the individual procedures start to look like variations on one theme, which is precisely how the exam intends them to be learned.
 
 This guide works through the whole inference core in that spirit. It builds confidence intervals from their logic outward, states what a p-value is with the precision graders demand, walks the difference between an interval and a test until the two feel like siblings rather than strangers, and finishes with errors, power, and procedure choice. The wider course context sits in [the complete AP Statistics guide](/2008/07/14/ap-statistics-complete-guide/), which maps where inference lives among the other units; here the machinery itself gets the full stage.
 
-![AP Statistics: Confidence Intervals, Hypothesis - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Statistics: Confidence Intervals, Hypothesis - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 ## Why Inference Carries the Back Half of the Course
 

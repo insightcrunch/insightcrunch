@@ -6,19 +6,19 @@ date: 2006-09-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus AB", "Differential Equations", "Slope Fields", "Growth Models", "Math"]
 excerpt: "Differential equations let a rate law describe a whole future. This guide maps slope fields, separation of variables, growth models, and Euler steps alike."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2006-09-03
+lang: en
 ---
-
 Every earlier unit of calculus runs in one direction. You are handed a function, perhaps a position or a cost or a temperature, and the machinery of derivatives tells you how fast that function changes. Differential equations reverse the traffic. Here the rate law arrives first, stated as a relationship involving a derivative, and the unknown is the function itself. Recovering a whole curve from instructions about its steepness is the central puzzle of the unit, and it changes how the entire subject feels, because the answer to a problem is no longer a number or a slope but a family of possible worlds.
 
 The territory in AP Calculus AB is deliberately narrow, and that narrowness is a gift. The course asks you to solve separable equations, to read and sketch slope fields, to pin down particular solutions with initial conditions, and to build exponential growth and decay models. Two companion ideas round out the picture: the logistic model, which bends growth toward a ceiling, and Euler's method, which approximates a solution numerically when algebra runs out. Nothing in the unit is computationally savage. The difficulty lives in interpretation, in knowing what each symbol claims about a changing quantity, and in keeping the bookkeeping of constants and domains honest.
 
 One habit carries a student further here than any formula sheet. Read every equation as a rate model before touching a pencil to its algebra. A differential equation describes how something changes, so each term has a meaning in the story the problem tells: a population reproducing, a cup cooling, a tank filling, a rumor spreading. When the meaning stays in view, separation of variables stops being a ritual and becomes the obvious move, because the steps mirror the structure of the model. The [AP Calculus AB complete guide](/2008/08/10/ap-calculus-ab-complete-guide/) places this unit inside the full arc of the course, and the pages below work it from first reading to final answer.
 
-![AP Calculus AB: Differential Equations - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Calculus AB: Differential Equations - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## Reading a Differential Equation as a Rate Law
 

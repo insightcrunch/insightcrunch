@@ -6,19 +6,19 @@ date: 2006-04-30
 categories: ["Industry"]
 tags: ["AP Exams", "Last-Minute Review", "Study Plan", "Exam Prep", "Time Management", "Practice Exams"]
 excerpt: "Two weeks is not much time, but it is enough time used ruthlessly well. This guide maps triage, practice exams, daily structure, and exam-day readiness."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2006-04-30
+lang: en
 ---
-
 Fourteen days before an AP exam feels like a cliff edge to most students, and the feeling deserves respect rather than dismissal. A course that unfolded across an entire school year cannot be rebuilt inside two weeks, and any plan pretending otherwise sets a trap. What fourteen days can hold is something narrower and far more useful: a disciplined campaign that finds the points still available, repairs the weaknesses that cost the most, and walks into the testing room with timing, format, and nerves already rehearsed.
 
 Panic usually pushes students toward the worst possible response, which is opening the textbook at page one and reading forward in a fog. Coverage feels responsible, yet coverage without diagnosis wastes the scarcest resource in the room, namely hours. The students who gain the most from a late start behave almost like medics on a crowded field. They sort before they treat. They ask which topics appear constantly, which skills the exam rewards directly, and which personal errors keep repeating across practice work, then they spend their limited hours exactly there.
 
 This guide builds that campaign in full. It lays out a day by day calendar, explains how practice exams become the engine of the whole effort, shows how to divide attention among several exams, and protects the unglamorous foundations of sleep, food, and calm. Nothing here promises miracles. A two week plan is damage control, honest and structured, and damage control done well can move a score further than most students expect when the calendar first frightens them.
 
-![AP Last-Minute Review: Two-Week Emergency Plan - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP Last-Minute Review: Two-Week Emergency Plan - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## The honest arithmetic of fourteen days
 

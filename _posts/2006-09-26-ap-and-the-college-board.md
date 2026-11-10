@@ -6,19 +6,19 @@ date: 2006-09-26
 categories: ["Industry"]
 tags: ["AP Exams", "College Board", "How Exams Are Made", "Scoring", "Readers", "College Prep"]
 excerpt: "Every AP exam is written, secured, graded, and equated by a large quiet system. This guide goes behind the scenes at the College Board and its readers."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-09-26
+lang: en
 ---
-
 Every spring, millions of students sit down on the same mornings, open the same sealed booklets or the same secure digital tests, and answer questions that were written years earlier by people they will never meet. A few weeks later, those answers travel to enormous grading halls, pass through the hands of teachers and professors flown in from across the country, and emerge as a single number between 1 and 5. Students see only the two ends of that journey, the test on the desk and the score on the screen. Everything in between belongs to a large, quiet, deliberately unglamorous system run by the College Board, and understanding that system changes how a student prepares, how a score should be read, and how much trust a family can reasonably place in the process.
 
 This guide walks through the whole machinery in the order a question experiences it. It begins with the organization itself, a membership nonprofit whose member colleges and schools shape the programs it runs. It follows development committees as they draft and discard questions, explains field testing and the security culture that treats an unreleased item like a state secret, and describes the Course Audit that decides which classrooms may carry the AP label. It then moves to exam week, to the Reading where free responses are graded, and to the psychometric work that converts raw points into reported scores. Readers who want the full program picture first can start with [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) and return here for the machinery underneath it.
 
 One promise runs through every section: nothing here is folklore. The curve is not a rumor passed between seniors, the grading is not a mystery box, and the cutoffs are not drawn from a hat. Each of those things is a documented human process with committees, rubrics, statistics, and review steps, and each can be described plainly. Where the process involves professional judgment rather than a mechanical rule, this guide says so, because that distinction, judgment versus mechanism, is the single most misunderstood feature of the entire AP system.
 
-![AP and the College Board: Behind the Scenes - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP and the College Board: Behind the Scenes - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## The Organization Behind the Program
 

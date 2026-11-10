@@ -6,19 +6,19 @@ date: 2006-04-21
 categories: ["Industry"]
 tags: ["AP Exams", "Engineering", "AP Physics C", "AP Calculus", "Course Planning", "Careers"]
 excerpt: "Engineering admissions reward a deliberate AP pattern, not a random pile of rigor. This guide maps the math, physics, and science sequence that matters."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2006-04-21
+lang: en
 ---
-
 Engineering begins long before the first college lecture hall, in the quiet decisions a student makes about which hard classes to take and which to leave for later. A future engineer does not need every Advanced Placement course a school offers, and chasing all of them usually weakens the very record that admissions readers hope to see. What matters is a pattern: mathematics that climbs steadily toward calculus, physics that grows more demanding as the math matures, and supporting sciences chosen with a destination in mind. Read as a sequence rather than a shopping list, an AP transcript tells a story about preparation, persistence, and fit.
 
 That story matters because engineering is among the most sequential of all college majors. A student who arrives ready for calculus and calculus-based physics can move through prerequisite chains on schedule, while a student who arrives a step behind often spends the first year catching up inside courses that grant little room for delay. AP classes serve two purposes at once on this path. They rehearse the actual content of early engineering coursework, and they demonstrate to admissions committees that the applicant has already survived material of comparable pace and abstraction. Both purposes reward depth in the core disciplines far more than breadth across unrelated ones.
 
 This guide lays out the InsightCrunch engineering AP roadmap, a subject-by-subject map of the classes that serve an engineering path, together with honest treatment of credit, placement, and the mistakes families most often make. Nothing here promises admission to any particular program, because no honest guide can. Policies differ across institutions, engineering colleges inside a single university often set expectations apart from the wider campus, and individual students bring different strengths to the table. The roadmap instead offers a way to think: which courses form the spine, which ones support it, which ones are optional, and how to arrange all of them across four years of high school without breaking the student in the process.
 
-![AP Classes for Future Engineers - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Classes for Future Engineers - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 ## Why Engineering Reads a Transcript Differently
 

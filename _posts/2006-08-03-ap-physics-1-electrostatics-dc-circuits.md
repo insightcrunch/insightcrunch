@@ -6,19 +6,19 @@ date: 2006-08-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Electrostatics", "DC Circuits", "Circuits", "Science"]
 excerpt: "Circuits are conservation laws wearing wires. This guide maps charge, Coulomb and Ohm, series and parallel analysis, equivalent resistance, and power."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-114.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-08-03
+lang: en
 ---
-
 Electricity frightens many strong mechanics students because nothing in a circuit can be seen moving. A projectile traces a visible arc, a block slides down a visible ramp, but charge drifts through copper at a pace slower than a crawling ant while the effects appear instantly at every point in the loop. The good news is that AP Physics 1 electricity rests on a remarkably small foundation. Two conservation laws, one force law, and one empirical relationship between voltage, current, and resistance generate every circuit question on the exam. Students who internalize those few ideas and practice applying them methodically can handle networks that look forbidding at first glance.
 
 Charge sits at the bottom of the whole subject. Before current, before voltage, before any circuit diagram makes sense, a student needs a firm grip on what charge is, how it is measured, why it comes in discrete packets, and why the total amount of it in an isolated system never changes. Coulomb's law then explains how charges push and pull on one another across empty space, and the electric field packages that influence into a quantity defined at every point. Only after those electrostatic ideas are secure does the moving version of the story, the DC circuit, become straightforward rather than a thicket of memorized formulas.
 
 Circuits reward a routine. The analysis developed in this guide treats every network the same way: identify what is conserved, reduce the network step by step, and let Ohm's law finish each stage of the work. That routine, named the InsightCrunch circuit routine, is spelled out in full later in the article with a worked table. Readers who want the wider course context first can start with the [AP Physics 1 complete guide](/2008/03/28/ap-physics-1-complete-guide/), which maps this material onto the full year of study. What follows here is the deep dive: electrostatics first, then current and resistance, then series, parallel, and combined circuits, then the measurement tools and ranking problems the exam loves.
 
-![AP Physics 1: Electrostatics and DC Circuits - Insight Crunch](/assets/images/blog/blog-05.webp)
+![AP Physics 1: Electrostatics and DC Circuits - Insight Crunch](/assets/images/blog/blog-114.webp)
 
 ## Electric Charge: The Fundamental Quantity
 

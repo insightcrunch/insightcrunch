@@ -6,17 +6,17 @@ date: 2006-08-07
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Gas Laws", "Solutions", "Molarity", "Science"]
 excerpt: "Gases obey a handful of laws and solutions obey a recipe of ratios. This guide maps the ideal gas law, partial pressures, molarity, and dilution work."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2006-08-07
+lang: en
 ---
-
 Few corners of AP Chemistry reward careful setup as generously as gases and solutions. The mathematics involved is rarely harder than a ratio or a single multiplication chain, yet these questions generate a steady stream of avoidable errors every exam season. Students lose points because a temperature stayed in Celsius, because a pressure arrived in torr while the constant expected atmospheres, because a dilution was read as a concentration change in the wrong direction. Almost none of those mistakes are conceptual. They are bookkeeping failures, and bookkeeping failures yield to a habit: write the conditions down first, convert them second, and only then reach for an equation.
 
 Gases and solutions also belong together for a deeper reason. Both topics ask how particles behave when they are free to move and mix, and both are governed by counting. A gas sample is described by how many particles it holds, how much room they occupy, how hard they strike the walls, and how warm they are. A solution is described by how many solute particles are dispersed through a given amount of solvent or mixture. Once that shared logic clicks, the formulas stop looking like a catalog to memorize and start looking like variations on one theme.
 
-![AP Chemistry: Gas Laws and Solutions - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP Chemistry: Gas Laws and Solutions - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 ## Two Families of Problems, One Working Habit
 

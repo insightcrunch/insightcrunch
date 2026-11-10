@@ -6,19 +6,19 @@ date: 2006-05-14
 categories: ["Industry"]
 tags: ["AP Exams", "AP Physics 1", "Problem Solving", "Mechanics", "Exam Technique", "Study Skills"]
 excerpt: "Physics problems stop being puzzles once a routine runs them. This guide maps systems, diagrams, principle choice, setup discipline, and answer checks."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-05-14
+lang: en
 ---
-
 Every spring, strong students walk out of the AP Physics 1 exam surprised by their own performance, and the surprise usually runs in the wrong direction. They knew the formulas. Many could recite the equation sheet from memory, define every variable on it, and solve the tidy textbook exercises their teacher had assigned all year. What they could not do, under time pressure and facing a scenario they had never seen, was decide what a strange new problem was actually about. The gap between knowing physics and scoring in physics lives almost entirely in that deciding.
 
 That gap is not a talent gap. Watch an experienced physicist meet an unfamiliar problem and you will not see brilliance first. You will see routine. She reads slowly. She sketches before she calculates. She names the system, picks a principle, writes the governing relationship in symbols, and only then reaches for numbers, and at the end she interrogates the answer like a skeptical colleague. None of those moves requires genius. Each one is a habit, and habits can be installed deliberately, practiced deliberately, and run the same way on an easy warm-up question and on the final free-response problem of the exam.
 
 This guide is about installing that routine. It presents a five-step framework for attacking any problem in the course, walks through each step in depth, shows the framework running on worked examples from kinematics, forces, energy, momentum, rotation, waves, and circuits, and explains the checks that catch errors before a grader does. The companion [complete AP Physics 1 guide](/2008/03/28/ap-physics-1-complete-guide/) maps the whole course, while this page owns one skill only: the repeatable process that turns an unknown problem into a sequence of known moves.
 
-![AP Physics 1: Problem-Solving Framework - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP Physics 1: Problem-Solving Framework - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## Why Formula Hunting Fails
 

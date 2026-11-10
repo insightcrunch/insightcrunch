@@ -6,19 +6,19 @@ date: 2007-01-16
 categories: ["Industry"]
 tags: ["AP Exams", "Gaokao", "China Education", "Comparison", "International Students", "College Prep"]
 excerpt: "AP exams and the Gaokao could hardly differ more in design. This comparison maps purpose, structure, stakes, grading, and what each means for admission."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "yang-bo"
 last_updated: 2007-01-16
+lang: en
 ---
-
 Two examination systems dominate the plans of ambitious students on opposite sides of the Pacific, and they could hardly be built more differently. The Advanced Placement program offers a menu of separate subject examinations, each taken voluntarily, each scored on its own five point scale, each designed to show that a student has handled college level work while still in secondary school. The Gaokao, China's national college entrance examination, works in almost the opposite way: a single coordinated test event near the end of high school, taken by nearly every student who hopes to attend a university at home, with one composite score carrying almost the entire weight of admission.
 
 Comparisons between the two systems usually go wrong at the first step, because they treat the two tests as rival versions of the same instrument. They are not. An AP exam answers a narrow question about one subject: has this student mastered material roughly equal to an introductory college course? The Gaokao answers a sorting question for an entire nation: among millions of candidates in a province, who has earned a place at which university, in which major? Purpose shapes everything else about each test, from the number of papers a student sits to the way a score is read by an admissions office.
 
 A fair comparison therefore has to move dimension by dimension, looking at purpose, structure, grading, timing, stakes, and recognition, and it has to keep one principle in view from start to finish. Neither exam is better in the abstract. Each one is powerful inside the system that built it and weak outside that system, so the meaningful question for any student is never which test wins, but which destination the student is aiming at, and which evidence that destination actually rewards.
 
-![AP Exams vs Gaokao - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP Exams vs Gaokao - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## Two exams built for different jobs
 

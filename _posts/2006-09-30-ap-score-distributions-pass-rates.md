@@ -6,19 +6,19 @@ date: 2006-09-30
 categories: ["Industry"]
 tags: ["AP Exams", "Score Distributions", "Pass Rates", "Scoring", "Data", "College Prep"]
 excerpt: "AP pass rates look like verdicts, but they are really distributions with stories inside them. This guide reads the numbers by subject and explains them."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2006-09-30
+lang: en
 ---
-
 Every spring, millions of exam papers move through the Advanced Placement program, and every summer the results settle into a shape. That shape, five columns of numbers for each subject, is the score distribution, and the single figure most people pull from it is the pass rate: the share of students whose work earned a 3, a 4, or a 5. Families quote these rates in kitchen conversations, counselors quote them in course selection meetings, and students quote them when deciding which classes feel safe and which feel dangerous. The quoting is easy. The reading is harder, because a pass rate is never just a measurement of an exam. It is a measurement of an exam multiplied by the population that chose to sit for it.
 
 This guide treats the distribution as the real document and the pass rate as one summary among several. It explains how the numbers are built, why they differ so sharply from subject to subject, why they drift from one administration to the next, and why the most selective exams often post the most flattering figures. The full program overview in the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/) sets out how the courses and exams fit together; this article stays with the results themselves and with the discipline of interpreting them honestly. A reader who finishes it should be able to open any published distribution, in any subject, and say what the numbers can support and what they cannot.
 
 One warning belongs at the start. Percentages in this territory behave like weather reports for a town the reader has never visited: accurate as far as they go, and dangerously easy to misread. The College Board publishes distributions for each administration, and those published figures belong to a particular year and a particular group of students. The patterns described here are the durable ones, the shapes that recur across administrations, while any single figure belongs to its year and should be quoted with its year attached.
 
-![AP Score Distributions: Pass Rates by Subject - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP Score Distributions: Pass Rates by Subject - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 ## What a Score Distribution Actually Is
 

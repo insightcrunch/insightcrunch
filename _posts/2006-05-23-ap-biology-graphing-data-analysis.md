@@ -6,19 +6,19 @@ date: 2006-05-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Biology", "Graphing", "Data Analysis", "Lab Skills", "Science Practices"]
 excerpt: "AP Biology rewards students who can turn a table of numbers into a defensible claim. This guide maps graph choice, axes, error bars, and data reasoning."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2006-05-23
+lang: en
 ---
-
 Data runs through the AP Biology exam like a second syllabus hiding inside the first. A question about photosynthesis may open with a table of oxygen production measured under three lamp distances, and a question about evolution may hinge on a graph of beak depth across a drought. The biology content matters, of course, yet the points often sit one step earlier, in the figure itself. Students who can build a clean graph, read one under time pressure, and say precisely what the numbers support collect those points in every unit of the course. Students who treat figures as decoration leave them scattered across the whole exam.
 
 That is why this guide treats graphing as a single transferable skill rather than a lab-week chore. The [AP Biology complete guide](/2008/05/12/ap-biology-complete-guide/) maps the course framework and its science practices, and data analysis sits inside nearly all of them: representing data, performing calculations, and arguing from evidence. A well-made graph is a compressed argument. Its axes declare which variables matter, its scale declares how much difference counts as large, and its error bars declare how far the writer trusts the numbers. Learning to control each of those decisions turns a vague impression of a data set into a claim a grader can reward.
 
 The common failure is not weak mathematics. Most students can compute a mean. The failure is treating the graph as a picture that illustrates a conclusion reached some other way, when the exam instead asks the graph to be the conclusion. A figure with unlabeled axes, a scale chosen to flatter a tiny effect, or error bars ignored in the written answer tells the grader that the student never actually reasoned from the data. Every section that follows works against that habit, moving from graph choice through construction, uncertainty, comparison, and the final step of tying a pattern back to a biological mechanism.
 
-![AP Biology: Graphing and Data Analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Biology: Graphing and Data Analysis - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 ## Why Graphs Carry So Many Points
 

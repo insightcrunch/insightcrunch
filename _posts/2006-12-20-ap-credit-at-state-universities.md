@@ -6,19 +6,19 @@ date: 2006-12-20
 categories: ["Industry"]
 tags: ["AP Exams", "College Credit", "State Universities", "College Costs", "Credit Policy", "College Prep"]
 excerpt: "State universities turn AP scores into credit under published rules. This guide maps thresholds, caps, placement, transfers, and how to check a policy."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2006-12-20
+lang: en
 ---
-
 A student who earns strong AP scores and enrolls at a public university steps into the most rule-bound corner of American higher education. State universities publish their AP credit policies in formal tables, apply them through registrars rather than through individual negotiation, and answer to legislatures, governing boards, and taxpayers who expect consistency. That formality is a gift to families willing to read carefully. Where a private college might weigh a transcript as a whole and award credit through discretion, a state campus usually works from a printed grid: this exam, at this score, earns this course, for this many hours. The grid can be generous or tight, and it changes from state to state and even from campus to campus inside one system, yet it exists in public view long before an application is filed. Planning therefore starts years before enrollment, with the policy table treated as a planning document rather than as a surprise discovered at orientation.
 
 Families meet this system at very different levels of preparation. Some arrive with a dozen exam scores and a spreadsheet. Others learn at orientation that the scores they earned were never sent, or that a passing score at one campus in the system earns less at the flagship across the state. Neither outcome reflects the student's ability. Both reflect how early the family understood that AP credit at a state university is an administrative process with published rules, deadlines, and ceilings, and that the process rewards people who read the rules before they make course choices in high school. The wider landscape of score policies is mapped in the series hub, the [complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/), and this article narrows the focus to the public sector, where the majority of American undergraduates actually study.
 
 One more idea belongs at the front. Credit is only one of three things a strong score can buy at a public university. The second is placement, meaning permission to begin a sequence higher up, and the third is freedom, meaning room in a four-year schedule for a minor, a second major, an internship semester, or a lighter final year. Money saved through fewer paid terms is real but usually arrives as a consequence of those three, and it varies too much by state and campus to quote as a single figure. Read the sections that follow as a tour of the machinery: how scores convert, where ceilings sit, how departments guard their sequences, how transfers carry credit across a state system, and how a family can evaluate any public campus with one repeatable checklist.
 
-![AP Credit at State Universities - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP Credit at State Universities - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 ## Why Public Campuses Run on Published Tables
 

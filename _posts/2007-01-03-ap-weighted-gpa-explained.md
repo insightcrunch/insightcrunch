@@ -6,19 +6,19 @@ date: 2007-01-03
 categories: ["Industry"]
 tags: ["AP Exams", "Weighted GPA", "GPA", "College Admissions", "Transcripts", "Guidance"]
 excerpt: "A weighted GPA rewards hard courses, but every school weights differently. This guide maps the scales, the transcript, and how colleges recalculate them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2007-01-03
+lang: en
 ---
-
 Every spring, report cards land in kitchens across the country carrying a number that looks simple and behaves like a puzzle. A student opens the portal, sees a 4.37 where a 4.0 was supposed to be the ceiling, and asks the obvious question: how can an average exceed its own maximum? The answer sits inside one of the least standardized corners of American schooling, the weighted grade point average, a figure that tries to reward students for choosing harder courses while quietly depending on rules that change from one district, one school, sometimes one counselor's office to the next.
 
 Families meet this number at the exact moment it starts to matter most. Course selection sheets circulate in February, college lists take shape in junior year, and class rank postings turn friendly classmates into quiet competitors. Through all of it, the weighted average acts like a scoreboard that everyone watches and few people can fully explain. Parents compare figures across schools that use incompatible scales. Students stack advanced courses partly for love of the subject and partly for the arithmetic those courses perform on a transcript. Counselors translate. Colleges, receiving thousands of these locally flavored numbers, largely set them aside and rebuild the calculation in their own way.
 
 A clear map of the territory helps more than any single formula. Weighted systems rest on a plain unweighted foundation, add a bonus for course difficulty, express the result on scales that vary widely, and then pass through a second round of interpretation when admissions offices recalculate. Each of those stages has its own logic, its own traps, and its own planning lessons. Working through them in order turns a confusing figure into a tool a student can actually steer, which is the entire point: informed planning beats guessing, in course selection as surely as in exam preparation.
 
-![AP Weighted GPA Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AP Weighted GPA Explained - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 ## The Unweighted Foundation Under Every Weighted Number
 

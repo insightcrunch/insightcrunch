@@ -6,19 +6,19 @@ date: 2006-11-01
 categories: ["Industry"]
 tags: ["AP Exams", "Free Response", "FRQ Strategy", "Exam Strategy", "Study Strategy", "College Prep"]
 excerpt: "AP free-response questions reward the same core moves in every subject. This guide maps prompt reading, structure, reasoning, timing, and partial credit."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-11-01
+lang: en
 ---
-
 Every spring, students open free-response booklets in subjects that seem to share nothing at all. One candidate derives an integral and justifies each step, another weighs evidence from seven documents to build an argument about empire, a third explains why a population of beetles changed across generations. The ink, the vocabulary, and the knowledge on display could hardly differ more, yet the scoring machinery underneath all three performances runs on the same principles. Trained readers work from written rubrics. Those rubrics divide credit into discrete points, and each point attaches to something a grader can locate on the page: a stated claim, a correct setup, a piece of evidence used for a purpose, a conclusion tied to a reason. Free-response success, in any subject, is largely the craft of making those point-earning elements easy to find and hard to miss.
 
 A stubborn belief says that each subject's free-response section is a separate universe with its own secret customs, so a student strong in one exam starts from zero in the next. Classroom experience keeps contradicting that belief. The student who underlines command words in a history prompt does the same thing, almost without deciding to, in a psychology prompt. The candidate who labels parts of a physics answer in order begins labeling parts of a government answer too, and graders in both rooms reward the clarity. Habits migrate because the underlying task never really changes: read precisely what is asked, produce the elements the rubric names, show the reasoning that connects them, and manage the clock while doing it. Content knowledge decides how much raw material a student brings into the room, but the universal habits decide how much of that material converts into points.
 
 This guide stays deliberately on that universal layer. Subject-specific tactics, the exact essay forms of a document-based question or the justification style of a calculus problem, live in the subject strategy articles across this series, and the [complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) maps the whole program for readers who want the full picture. What follows here is the transferable core: how to read any prompt, how command words steer a rubric, how to structure an answer so a tired grader at hour six still follows it, how reasoning earns its own credit, how timing protects every section, and how partial credit turns partial knowledge into real score gains. Master these moves once and they pay out in every booklet a student will ever open.
 
-![AP Free Response Strategies for Every Subject - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Free Response Strategies for Every Subject - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## The Shared Machinery Beneath Every Subject
 

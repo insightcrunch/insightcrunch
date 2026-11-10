@@ -6,19 +6,19 @@ date: 2006-11-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calendar", "Deadlines", "Registration", "Planning", "College Prep"]
 excerpt: "The AP year runs on a fixed rhythm from fall registration to summer scores. This calendar maps each month, its deadlines, and the actions that matter."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2006-11-05
+lang: en
 ---
-
 Most students first picture the Advanced Placement year as a pair of frantic weeks in May, a blur of early alarms, sharpened pencils, and crowded gymnasiums. That picture captures the finale and misses the opera. The AP year actually runs for twelve months, and nearly everything that makes May feel either manageable or miserable was decided during the quiet seasons that came before it, in registration lines, ordering windows, and classroom routines that attracted no attention at all.
 
 A calendar changes the emotional texture of the whole enterprise. Deadlines that arrive as surprises feel like ambushes, while deadlines that sit on a family calendar for months feel like appointments. The College Board publishes the skeleton of the year well in advance, schools fill in their local details, and students who learn the rhythm early gain something more valuable than information. They gain slack, the margin that absorbs a sick day, a bus that never comes, or a unit that refuses to make sense the first time through.
 
 This guide maps the AP year month by month, from the summer stirrings before classes begin through the score release that closes the cycle in July. Readers new to the program can ground themselves in the [complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) first, then return here for the calendar itself. One caution runs through every page that follows: exact calendar dates shift from year to year, because the College Board sets them against weekends, holidays, and the school calendars of thousands of districts. Treat the months and seasons below as the durable rhythm, and confirm every specific day with the College Board and with the school coordinator who administers the exams locally.
 
-![The AP Exam Timeline: Month by Month - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The AP Exam Timeline: Month by Month - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## The Shape of the AP Year
 

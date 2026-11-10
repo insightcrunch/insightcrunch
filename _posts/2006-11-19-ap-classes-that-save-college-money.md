@@ -6,19 +6,19 @@ date: 2006-11-19
 categories: ["Industry"]
 tags: ["AP Exams", "College Credit", "College Costs", "Tuition Savings", "Credit Policy", "College Prep"]
 excerpt: "Some AP exams convert into far more college credit than others. This guide maps which courses save real money, how savings work, and how to verify them."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-11-19
+lang: en
 ---
-
 Every spring, families pay a modest fee for each Advanced Placement exam and hear a hopeful promise in return: score well on enough of these tests and college will cost less. The promise can hold true. It can also quietly fail, because an AP score is not money. A score is a claim on credit, and credit becomes savings only under particular conditions that a family can check well in advance. This guide maps those conditions. It explains which exams tend to carry the largest credit value, how colleges convert credit into smaller bills or shorter degrees, and where the savings leak away when a plan rests on assumptions instead of a published policy.
 
 The distinction that marketing language blurs is the one that decides everything. In response to a strong score, a college may award subject credit that replaces a named course in a degree plan. It may instead award elective credit, which adds hours to a transcript without replacing any particular course. It may grant placement, which lets a student skip an introductory course and begin higher in a sequence while adding no hours at all. Or it may grant a waiver, excusing a requirement while adding neither hours nor a replacement. Only subject credit reliably reduces what a student pays, and even subject credit pays off only when the course it replaces is one the student would genuinely have taken.
 
 Readers who want the widest frame for the program can start with our [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/), which covers the full landscape of courses and scores. This page takes a narrower, more mercenary angle. It treats each exam as a small financial instrument whose return depends on three variables: how many credit hours the receiving college attaches to it, whether those hours satisfy requirements in the student's degree plan, and how the college charges for the hours or terms the student no longer needs. When any one of those variables collapses to zero, the return collapses with it, no matter how impressive the score looks on the report.
 
-![AP Classes That Save the Most College Money - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP Classes That Save the Most College Money - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 ## The Only Credit That Saves Money Is Credit You Use
 

@@ -6,17 +6,17 @@ date: 2006-08-30
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus BC", "Series", "Taylor Series", "Convergence", "Math"]
 excerpt: "Series decide whether endless sums settle, and Taylor polynomials make functions computable. This guide maps the tests, the intervals, and error bounds."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-08-30
+lang: en
 ---
-
 Every other topic in calculus deals with finite processes: a finite slope, a finite area, a finite list of operations carried out one at a time. Series break that pattern. A series asks what happens when addition never stops, when infinitely many terms pile onto a running total and the total either settles toward a single number or drifts away forever. That question sits at the heart of AP Calculus BC, because the final unit of the course is devoted to infinite sequences and series, and because the tools built there reach backward into everything earlier: integrals become sums, functions become polynomials of unlimited degree, and approximations come with guarantees about their own error. A student who masters this unit owns the most distinctive material on the BC exam, the material that separates the BC syllabus from the AB syllabus most sharply.
 
 The good news is that series reward method over inspiration. Nearly every convergence question on the exam yields to a small set of tests, and the real skill lies in matching the right test to the structure of the series in front of you. Students who struggle with series usually do not lack computational ability; they apply tests at random, the way a person might try keys on a ring one by one without looking at the lock. This guide builds the alternative: a decision framework, organized as the InsightCrunch series toolkit, that pairs each common series shape with the test designed for it, then extends the same thinking to power series, intervals of convergence, Taylor and Maclaurin series, and the two error bounds the course requires. The companion overview of the whole course lives in [the complete guide to AP Calculus BC](/2008/07/27/ap-calculus-bc-complete-guide/), and this article stays inside its assigned territory: convergence and Taylor series, leaving parametric, polar, and vector work to its own dedicated treatment.
 
-![AP Calculus BC: Convergence and Taylor Series - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Calculus BC: Convergence and Taylor Series - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 ## Sequences, Partial Sums, and What Convergence Means
 

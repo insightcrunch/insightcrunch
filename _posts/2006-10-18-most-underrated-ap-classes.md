@@ -6,19 +6,19 @@ date: 2006-10-18
 categories: ["Industry"]
 tags: ["AP Exams", "Underrated AP Classes", "Course Selection", "College Credit", "Guidance", "College Prep"]
 excerpt: "Some AP classes deliver outsized value and still get overlooked. This guide maps the underrated courses, why they hide, and who benefits from each one."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-10-18
+lang: en
 ---
-
 Every spring, course selection season follows a familiar script. A handful of famous names absorb nearly all the attention in the counseling office, while quieter courses down the hall fill slowly or never fill at all. Students crowd into the classes their older siblings took, the classes whispered about in group chats, the classes assumed to impress. Meanwhile a course with a gentler workload, a generous credit record, and a direct line into a student's intended major sits half empty, chosen mostly by accident.
 
 Underrated does not mean easy, obscure for its own sake, or secretly rigorous beyond reason. The word describes a mismatch between what a course returns and what it costs. Some Advanced Placement courses return college credit that colleges grant readily, skills that transfer across many majors, and a workload a busy student can genuinely sustain. When reputation lags behind that return, a course becomes underrated, and the students who find it gain an edge that has nothing to do with gaming the system and everything to do with reading the catalog carefully.
 
 Families who plan an AP path well tend to ask a different question than the crowd asks. Instead of wondering which courses sound most impressive in the abstract, they ask which courses fit a particular student's strengths, schedule, and destination. Readers who want the full landscape first can start with the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/) and then return here for the quieter corners of the catalog. The famous courses earn their fame honestly, yet fame is a lagging indicator, and the gap between reputation and value is where smart planning lives.
 
-![Most Underrated AP Classes - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Most Underrated AP Classes - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## What Underrated Actually Means
 

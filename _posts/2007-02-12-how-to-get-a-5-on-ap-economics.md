@@ -6,19 +6,19 @@ date: 2007-02-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Economics", "Economics", "Exam Strategy", "Score 5 Playbook", "Social Studies"]
 excerpt: "A 5 on AP Economics comes from graphs drawn fast and reasoning chained cleanly. This playbook maps the study plan for both exams and the errors that cap scores."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2007-02-12
+lang: en
 ---
-
 Two different exams hide behind the single label AP Economics, and students earn a 5 on each of them in almost exactly the same way. Macroeconomics zooms out to national income, unemployment, inflation, banking, and trade between nations. Microeconomics zooms in to the choices of households, firms, and single markets. The content differs, yet the skill that decides the score is identical on both papers: given a change in the world, can you draw the right model, shift the right curve, and explain in plain sentences why the outcome follows. Everything in this playbook serves that one skill.
 
 Students who miss a 5 rarely miss it because a definition escaped them. They miss it because a graph went unlabeled, because a shift went the wrong direction under time pressure, or because an explanation stopped one link short of the conclusion the grader was waiting to reward. Those are trainable failures. A student who can produce a clean aggregate demand and aggregate supply diagram in ninety seconds, narrate the adjustment out loud while drawing it, and then do the same for a monopoly diagram has already done most of the work a 5 requires. What remains is coverage, timing, and the discipline of practicing under honest conditions.
 
 The plan below treats the two exams as one campaign with two fronts. It assumes you want a study system rather than a pile of tips: a dated calendar, a graph fluency program, a free-response method, a weekly routine, and a catalogue of the mistakes that quietly cap strong students at a 4. Read it once for the shape of the campaign, then work it week by week.
 
-![How to Get a 5 on AP Economics - Insight Crunch](/assets/images/blog/blog-07.webp)
+![How to Get a 5 on AP Economics - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 ## Two exams, one playbook
 

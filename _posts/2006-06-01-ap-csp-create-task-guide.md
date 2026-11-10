@@ -6,19 +6,19 @@ date: 2006-06-01
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science Principles", "Create Task", "Performance Task", "Programming", "Computer Science"]
 excerpt: "The Create Task is a program, a video, and written responses built inside a set window. This guide maps requirements, scoring, and planning the build."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-06-01
+lang: en
 ---
-
 Most of AP Computer Science Principles asks students to reason about programs that other people wrote. The Create Task reverses the direction. Inside a set window of class time, each student designs and builds a program of their own, records a short video of that program running, and writes responses that explain the thinking embedded in the code. The subject of the program is the student's choice, the language is the student's choice, and the design decisions are the student's responsibility from the first sketch to the final check. That freedom is the point of the task, and it is also where the difficulty lives, because nobody hands the student a prompt narrow enough to hide inside.
 
 The three pieces of the submission work as one argument presented in three forms. A working program embodies a set of decisions about data, structure, and behavior. A video demonstrates that the program genuinely runs and responds to input the way its author claims. Written responses then explain why the code is organized as it is, where its important ideas live, and how its central algorithm behaves. Readers score the submission by looking for evidence across all three pieces, so a strength in one place cannot fully rescue a silence in another. Students who grasp that unity early tend to find the whole task calmer, because every hour of coding doubles as preparation for the writing.
 
 Planning is the skill that separates comfortable finishes from frantic ones. The window for the work is fixed, the requirements are published in advance, and the difference between a strong submission and a thin one is rarely raw coding talent. Strong submissions come from students who chose an idea sized to the window, designed their list and their main procedure before the code grew tangled, and treated the written responses as a parallel product rather than a chore appended at the end. This guide follows that arc in order: the shape of the task, the choice of an idea, the program requirement, the list, the procedure, the algorithm, the video, the responses, and a checklist that carries a project from first sketch to submission. For the course as a whole, the companion [guide to AP Computer Science Principles](/2008/06/26/ap-computer-science-principles-guide/) covers the concepts and the end-of-course exam that surround this task.
 
-![AP Computer Science Principles: The Create Task - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP Computer Science Principles: The Create Task - Insight Crunch](/assets/images/blog/blog-112.webp)
 
 ## One Task, Three Artifacts
 

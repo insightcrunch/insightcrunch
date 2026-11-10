@@ -6,19 +6,19 @@ date: 2006-03-16
 categories: ["Industry"]
 tags: ["AP Exams", "Score Trends", "Digital Exams", "College Board", "Exam Policy"]
 excerpt: "Pandemic years bent AP testing out of its usual shape, and the marks remain. This guide maps what changed, what reverted, and how to read the trends honestly."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-03-16
+lang: en
 ---
-
 Every spring, students open their score reports and ask a deceptively simple question: are these numbers normal? For most of AP history, the answer rested on a quiet assumption, that one year's exams resembled the years around them closely enough for comparisons to mean something. The pandemic broke that assumption in public. Exams moved into kitchens and bedrooms, formats shrank and then stretched back, participation lurched, and the distributions of scores shifted in ways that were real, uneven, and far harder to interpret than the headlines built on top of them. Anyone reading trend lines that cross those years is reading across a fault line, and the honest way to read them is slowly, with the disruptions kept in view.
 
 The disruption was never one event. It was a sequence of administrations, each improvised under different pressures, each leaving a different fingerprint on the data. The emergency spring of 2020 produced abbreviated at-home exams unlike anything the program had run before. The following year offered a patchwork of paper and digital administrations spread across multiple windows. Only after that did full-length, school-based testing reassert itself, and even then the ground kept moving, because the longer transition toward digital delivery continued underneath the recovery. A trend line drawn through those years connects measurements taken with different instruments, under different conditions, from differently prepared cohorts. That does not make the numbers useless. It makes them evidence that has to be cross-examined before it is believed.
 
 This guide walks through what actually changed, what changed back, and what appears to have stayed changed. It treats score trends the way careful analysts treat any interrupted series: as patterns to be described with humility, hedged where the evidence is thin, and always read against the conditions that produced them. Specific figures are deliberately scarce here, because the honest story of pandemic-era AP scores is a story of directions, shapes, and contexts rather than of decimal points that pretend to settle arguments they cannot settle. Where the record is genuinely ambiguous, this guide says so, because a student planning a course load deserves better than false precision dressed up as insight.
 
-![AP Exam Score Trends Post-COVID - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Exam Score Trends Post-COVID - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 ## The Spring the Exam Room Moved Home
 

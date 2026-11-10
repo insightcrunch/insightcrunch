@@ -6,19 +6,19 @@ date: 2006-06-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP Computer Science A", "Sorting", "Searching", "Algorithms", "Computer Science"]
 excerpt: "Sorting and searching are where AP Computer Science A turns loops into algorithms. This guide maps selection, insertion, merge sort, and binary search."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2006-06-05
+lang: en
 ---
-
 Sorting and searching form the beating heart of the algorithms work in AP Computer Science A. Other units in the course teach students to store values, move values, and transform values, yet this stretch of the syllabus is where stored values start behaving like a system. An array stops being a passive row of boxes and becomes a structure whose organization decides how quickly anything inside it can be found, ordered, or rearranged. Selection sort, insertion sort, and merge sort supply the course with its three sorting stories, while sequential search and binary search frame a contrast that echoes through all of computer science: the difference between looking everywhere and looking cleverly.
 
 A stubborn misconception follows many students into this unit. Code for these algorithms is short, so the code looks memorizable, and a learner can recite a selection sort the way a song lyric gets recited, word perfect and understanding optional. The exam quietly punishes that approach. Questions seldom ask for the code itself; instead they show code in motion, freeze it halfway through a pass, swap two values, bend an index by one, and ask what the data holds now. Points flow to students who can trace, who can walk a procedure across a specific set of values and report the state of every variable at every step. Tracing, more than recall, is the skill this guide is built to train.
 
 Everything that follows is organized around that skill. Each algorithm receives a careful hand trace on a small array, an honest count of the comparisons and moves it performs, and a close look at the mistakes its exam questions are designed to catch. A reference table gathers the whole unit onto one screen for fast review before a test. Readers who want the full course map first can begin with [the AP Computer Science A guide](/2008/07/05/ap-computer-science-a-guide/), which places this unit among the course's other major topics, and readers who meet unfamiliar vocabulary along the way will find pointers to the companion pieces that own those topics in depth.
 
-![AP Computer Science A: Sorting and Algorithms - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP Computer Science A: Sorting and Algorithms - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## Where Sorting and Searching Sit in the Course and on the Exam
 

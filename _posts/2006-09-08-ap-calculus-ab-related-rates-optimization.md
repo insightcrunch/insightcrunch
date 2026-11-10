@@ -6,19 +6,19 @@ date: 2006-09-08
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus AB", "Related Rates", "Optimization", "Derivatives", "Math"]
 excerpt: "Related rates and optimization turn derivatives into decisions about moving, changing quantities. This guide maps setups, constraints, and clean tests."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-09-08
+lang: en
 ---
-
 Two families of problems dominate the applications of derivatives on the AP Calculus AB exam, and both begin life as paragraphs of ordinary English rather than as equations. Related rates problems describe a physical scene in motion, a ladder sliding, a tank filling, a shadow lengthening, and ask how fast some quantity is changing at a particular instant. Optimization problems describe a situation with a goal, a fence to build, a box to fold, a can to manufacture, and ask for the dimensions or the decision that produces the largest or smallest possible value of something. Students often experience these as the hardest questions on the exam, yet the calculus inside them is usually brief. The difficulty lives in the translation, in turning a story about the world into a relationship between variables, and that translation is a learnable, repeatable skill.
 
 This guide treats the two families as siblings. Both reward the same discipline: name every quantity, decide which quantities are variables and which are fixed, write one governing equation, and only then reach for a derivative. A related rates problem differentiates a relationship with respect to time. An optimization problem reduces a relationship to one variable and then differentiates with respect to that variable. Everything else, the chain rule mechanics, the algebra, the arithmetic, is supporting work. Readers who want the broader map of the course, including limits, derivative rules, and integrals, will find it in the [complete guide to AP Calculus AB](/2008/08/10/ap-calculus-ab-complete-guide/), which frames where these applications sit inside the full syllabus.
 
 Worked examples carry much of the teaching here, because setup skill grows from watching setups happen. Each classic scenario below is solved slowly, with the modeling decisions stated out loud before any symbol is differentiated. The guide also names a single study tool, the InsightCrunch applications template, a side-by-side solving frame that places the related rates routine next to the optimization routine so the shared skeleton becomes visible. By the end, the aim is simple to state: given a fresh word problem, a reader should know exactly which first three moves to make, and should make them before touching a derivative.
 
-![AP Calculus AB: Related Rates and Optimization - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP Calculus AB: Related Rates and Optimization - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 ## Two Problem Families, One Habit of Mind
 

@@ -6,19 +6,19 @@ date: 2006-05-05
 categories: ["Industry"]
 tags: ["AP Exams", "AP English", "Essay Rubric", "AP Language", "AP Literature", "Essay Writing"]
 excerpt: "The AP English rubric is short, public, and widely misread. This guide decodes its three rows and shows what earns each point and what quietly loses it."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-05-05
+lang: en
 ---
-
 Few documents in American secondary education carry as much consequence per word as the AP English essay rubric. The whole scoring apparatus for the free response sections of AP English Language and AP English Literature fits on a single page, three rows of criteria that convert a handwritten essay into a number, and that number into college credit, admissions evidence, and a student's private verdict on two semesters of work. Yet for something so short and so public, the rubric is remarkably often misread. Students memorize its vocabulary without absorbing its logic. Teachers post it on classroom walls where it fades into wallpaper. Families encounter it for the first time inside a score report, months after the essays were written, when nothing can be changed.
 
 Decoding the rubric means reading it the way its authors intended, as a compressed description of what trained readers reward when they move through thousands of essays at speed. Every phrase in the three rows was chosen because readers, across many scoring sessions, kept returning to the same distinctions: whether an essay commits to a defensible position, whether its evidence is explained rather than merely displayed, and whether the whole performance shows a mind working with nuance rather than reciting a formula. Once those distinctions are understood, the rubric stops being a grading mystery and becomes something far more useful, a planning document. An essay written with the three rows in mind is not a tricked or gamed essay. It is simply an essay whose strengths are legible to the person paid to find them.
 
 One structural fact deserves emphasis before any detail, because it overturns the most common student assumption. The two English exams share the same rubric architecture. The rhetorical analysis essay on the Language exam, the synthesis essay, the argument essay, the poetry analysis and prose analysis and literary argument essays on the Literature exam, all of them are scored on thesis, evidence and commentary, and sophistication. Six prompts, one skeleton. That shared design is a gift to any student willing to learn the skeleton once and then study how each prompt asks the skeleton to move. This guide works through the three rows one at a time, then turns to the reading room itself, then to planning, practice, and the mistakes that quietly drain points from essays that deserved better.
 
-![AP English Essay Rubric Decoded - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP English Essay Rubric Decoded - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 ## Three Rows and Six Points: The Shape of the Whole Thing
 

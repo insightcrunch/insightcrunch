@@ -6,19 +6,19 @@ date: 2006-12-29
 categories: ["Industry"]
 tags: ["AP Exams", "Common App", "Score Reporting", "College Admissions", "Application Strategy", "College Prep"]
 excerpt: "AP scores on the Common App are self-reported and largely optional. This guide maps where scores go, what to include, and how colleges later verify them."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-12-29
+lang: en
 ---
-
 Every fall, a student opens the Common App, reaches the testing page, and meets a small grid that asks for Advanced Placement results. Nothing about the grid looks dramatic. There is a place for the exam name, a place for the date, and a place for the score, and the student is expected to type the entries in by hand. No document is uploaded, no seal is attached, and no office stamps anything. That plain design is the source of nearly all the confusion around AP scores on the Common App, because the numbers typed into that grid are claims made by the applicant, not records delivered by the College Board. Understanding the difference between a claim and a record is the starting point for every sound decision about what to report.
 
 Because the entries are typed by the applicant, the harder question is rarely where the scores go. The harder question is which scores belong on the form at all. A five in calculus and a two in a sophomore elective can sit one line apart, and the person who decides what the list contains is the student. Some colleges welcome every score a student cares to share. Others barely glance at the grid during admission and care only when credit is awarded after enrollment. A family that assumes the grid works the same way at every college will make avoidable mistakes in both directions, sharing numbers that hurt at one school and hiding numbers that would have helped at another.
 
 The pages below follow the scores through their whole journey. They explain where the entries live on the application, how a reader actually uses them, when an official report replaces the typed claim, how verification works after a student enrolls, and how test-optional admission changes the weight of a number that was always voluntary. A decision guide in the middle of the article turns those principles into a score-by-score method any student can apply at the kitchen table. The thread running through all of it is the series thesis in miniature: AP success rewards informed planning, and understanding how the system works beats guessing at every stage, from choosing courses in ninth grade to filling in a grid in the fall of senior year.
 
-![AP Exam Scores on the Common App - Insight Crunch](/assets/images/blog/blog-02.webp)
+![AP Exam Scores on the Common App - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## Two Records That Travel Separately
 

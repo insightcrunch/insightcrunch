@@ -6,19 +6,19 @@ date: 2006-08-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Lewis Structures", "VSEPR", "Molecular Geometry", "Science"]
 excerpt: "A Lewis structure is a hypothesis that VSEPR turns into a shape with consequences. This guide maps electrons, formal charge, resonance, and geometry in full."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2006-08-12
+lang: en
 ---
-
 A drawing with dots and lines looks modest on paper, yet it carries a surprising amount of chemistry inside a few strokes. A Lewis structure records where valence electrons are assigned, which atoms share pairs, which atoms keep lone pairs, and where charge has to be acknowledged rather than hidden. Once that assignment is honest, shape stops being a matter of taste. Electron domains push apart, atoms settle into positions that reflect that push, and the resulting geometry controls polarity, intermolecular contact, and much of a substance's visible behavior.
 
 Many students treat the drawing step as decoration added after the real answer is already known. That habit reverses the logic of the topic. The drawing is the reasoning. A correct count, a defensible skeleton, a careful check of octets and formal charges, and an explicit account of resonance turn a formula such as SO3 or NH4+ into a structure that can be interrogated. From that structure a student can name an electron-domain geometry, name a molecular geometry, estimate bond angles, assign hybridization, count sigma and pi bonds, and judge whether bond dipoles cancel. Each later claim traces back to decisions made with a pencil at the start.
 
 Readers who want the wider course map around this topic can begin with the [AP Chemistry complete guide](/2008/04/19/ap-chemistry-complete-guide/), while the companion treatment of atomic structure and bonding types lives in the [atomic structure and bonding guide](/2008/04/15/ap-chemistry-atomic-structure-bonding/). This deep dive owns a narrower and more practical territory: how to build a Lewis structure that deserves trust, how to let VSEPR read shape from that structure, and how to carry shape forward into polarity and properties without guessing.
 
-![AP Chemistry: Lewis Structures and VSEPR - Insight Crunch](/assets/images/blog/blog-03.webp)
+![AP Chemistry: Lewis Structures and VSEPR - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 ## Why a Lewis Structure Is a Hypothesis
 

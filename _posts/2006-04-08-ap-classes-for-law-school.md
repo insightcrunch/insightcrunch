@@ -6,19 +6,19 @@ date: 2006-04-08
 categories: ["Industry"]
 tags: ["AP Exams", "Pre-Law", "AP Government", "AP English", "Course Planning", "Careers"]
 excerpt: "Law school rewards readers and arguers, and AP builds both early. This guide maps the government, history, and English classes that sharpen legal skills."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2006-04-08
+lang: en
 ---
-
 Somewhere in a sophomore classroom, a student who dreams of a courtroom is usually asking the wrong question. The question sounds sensible: which classes should a future lawyer take, as if a registrar somewhere kept a list and law schools checked it twice. No such list exists. Law schools admit students from physics departments, conservatories, engineering programs, and philosophy seminars, and they do so without apology, because the work of law rests on abilities that many different classrooms can build. What an admissions committee wants to see is evidence that an applicant can read dense material closely, argue both sides of a hard problem, and write with enough clarity that a busy judge could follow the reasoning on the first pass.
 
 That shift, from credentials to skills, is where Advanced Placement enters the picture honestly. An AP course cannot admit anyone to law school, and no transcript line in high school carries weight in a law school admissions office years later. What AP can do, and do well, is start the training early. The student who spends a year in AP English Language learns to dissect an argument the way a lawyer dissects a brief. The student who works through AP United States Government meets the constitutional architecture that every law student later inhabits. The student who finishes AP Research has already survived a long, supervised project in which a question had to be framed, evidence gathered, and conclusions defended in writing and aloud. Those are legal skills wearing high school clothes.
 
 This guide maps the AP classes that build a pre-law foundation, subject by subject, and it names the pattern plainly: the InsightCrunch pre-law AP roadmap, a plan organized by skill rather than by superstition. Government, history, and English carry the heaviest load, with Seminar and Research close behind, and a supporting cast of statistics, psychology, economics, comparative government, and world languages adding range. Along the way, the guide separates what AP credit can genuinely buy in college from what it cannot, and it dismantles the most durable myth in pre-law planning, the belief that a fixed track exists and that straying from it closes a door. Nothing closes. Skills open doors, and skills can be built in many rooms.
 
-![AP Classes for Law School - Insight Crunch](/assets/images/blog/blog-01.webp)
+![AP Classes for Law School - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 ## The Honest Starting Point: No Track Exists
 

@@ -6,19 +6,19 @@ date: 2006-06-28
 categories: ["Industry"]
 tags: ["AP Exams", "AP US Government", "SCOTUS Cases", "Supreme Court", "Required Cases", "Government"]
 excerpt: "Fifteen required Supreme Court cases anchor AP US Government. This guide maps each case's facts, holding, and principle, plus the comparison question."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-06-28
+lang: en
 ---
-
 Fifteen Supreme Court cases sit at the center of AP US Government and Politics, named by the course framework as required knowledge for every student who takes the exam. They span more than two centuries, from a dispute over judicial appointments in the opening years of the republic to arguments over campaign money in the twenty-first century. Each one settled a fight about how American government actually works: who holds power, where that power stops, and which rights stand beyond the reach of a majority.
 
 A student who treats these decisions as a vocabulary list walks into a trap the exam sets deliberately. The test rarely rewards a bare name dropped into a paragraph. Instead, questions hand you fresh facts, a school board policy, a campaign finance rule, a police practice, and ask what the older decisions say about the new situation. One entire free-response question exists for this purpose alone, pairing a case you were never assigned with a required case you were, and the argument essay expects case evidence woven into a defensible claim.
 
 So the work here is conversion: turning fifteen stories into fifteen working tools. This guide builds each decision from its facts upward, through the constitutional question presented, the holding the justices announced, and the principle that outlived the dispute itself. The broader [AP US Government guide](/2007/06/14/ap-us-government-guide/) maps the whole course, while the pages below give the required cases the depth their exam weight deserves.
 
-![AP US Government: SCOTUS Cases to Know - Insight Crunch](/assets/images/blog/blog-13.webp)
+![AP US Government: SCOTUS Cases to Know - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## Why Fifteen Cases Carry So Much Weight
 

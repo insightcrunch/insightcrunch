@@ -6,19 +6,19 @@ date: 2006-11-14
 categories: ["Industry"]
 tags: ["AP Exams", "Honors Classes", "Course Rigor", "Weighted GPA", "Comparison", "Guidance"]
 excerpt: "AP and honors classes differ in exam, weighting, and how colleges read them. This comparison maps rigor, workload, and choosing the right level per subject."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-11-14
+lang: en
 ---
-
 Every spring, course selection sheets move through high school households like weather systems, and the same question lands on kitchen tables everywhere: should the box checked for next year say AP or honors? The choice looks small on paper. One line on a form, one letter code in a scheduling system, one conversation with a counselor that lasts perhaps ten minutes. Yet the decision quietly shapes the next nine months of a student's life. It sets the weight of the nightly homework pile, the arithmetic of the grade point average, the pace of every school day, and a piece of the story the finished transcript will tell colleges several years from now.
 
 Part of the confusion comes from the way the two labels sound. AP and honors sit side by side in course catalogs, both marketed as the serious option, both understood to be harder than the standard track. Families naturally treat them as adjacent rungs on a single ladder, with honors one step below AP and AP the obvious prize for anyone strong enough to reach it. That picture is not exactly wrong, but it hides the more useful truth. The two labels come from different systems, answer to different authorities, and reward different things. AP is a national program with a published syllabus and a common exam. Honors is a local designation, created by a school or district, with no external standard behind it at all. Comparing them well means comparing those systems, not just the words printed on a schedule.
 
 The pages that follow work through the five dimensions that actually separate the two levels: rigor, GPA weighting, the presence or absence of a national exam, workload, and the way colleges read each label on a transcript. No single dimension decides the question on its own. A course can win on rigor and lose on fit. A label can carry a bigger GPA bonus and still produce a worse record if the grade inside it collapses. The aim here is a workable decision rule, one a family can apply subject by subject and year by year, grounded in how these courses function rather than in hallway reputation. The short version is simple to state and harder to practice: both levels demonstrate rigor, and the right choice is the level of challenge a student can sustain at a high standard across a full school year.
 
-![AP vs Honors Classes - Insight Crunch](/assets/images/blog/blog-12.webp)
+![AP vs Honors Classes - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## Two Labels, Two Systems
 

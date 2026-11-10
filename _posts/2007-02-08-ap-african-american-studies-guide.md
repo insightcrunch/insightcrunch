@@ -6,19 +6,19 @@ date: 2007-02-08
 categories: ["Industry"]
 tags: ["AP Exams", "AP African American Studies", "African American Studies", "Study Guide", "Social Studies", "Humanities"]
 excerpt: "AP African American Studies crosses history, literature, the arts, and social science. This guide maps the units, the project, the exam, and the scoring."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2007-02-08
+lang: en
 ---
-
 Some courses ask a student to master a single discipline and prove it in a single sitting. AP African American Studies asks for something wider and, in the end, more honest about how knowledge actually works. The course follows the African diaspora from the kingdoms of early Africa through enslavement, emancipation, migration, and the movements of the modern era, and it refuses to stay inside one department while doing so. A week spent on the transatlantic slave trade might move from shipping records and demography to the spirituals enslaved people sang, then to an abolitionist pamphlet, then to the legal architecture that protected the whole system. History supplies the chronology, yet literature, visual art, music, and social science supply much of the evidence, and the course treats all of it as primary material worthy of close reading.
 
 That breadth is the first thing a prospective student should understand, because it shapes everything else: the four units, the individual project each student designs and defends, the source-heavy exam, and the way a final score is assembled. Students who thrive here are rarely the ones who memorize the longest list of dates. They are the ones who learn to follow a through-line, a question about freedom, belonging, creativity, or power, as it changes shape across centuries and across kinds of evidence. A sermon, a census table, a Jacob Lawrence panel, and a Supreme Court opinion can all speak to the same question, and the course trains students to hear them in conversation with one another.
 
 This guide maps the whole structure. It explains what each unit covers, what the project demands, how the end-of-course exam is built, how scoring combines those pieces, and how colleges have treated the course. It also confronts the practical questions families ask about a newer AP offering: whether the course is available at a given school, what background helps, and what a serious study plan looks like when the material spans four fields at once.
 
-![AP African American Studies Complete Guide - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP African American Studies Complete Guide - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## A Course Built Across Disciplines
 

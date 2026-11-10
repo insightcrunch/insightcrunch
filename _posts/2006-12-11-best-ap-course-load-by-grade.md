@@ -6,19 +6,19 @@ date: 2006-12-11
 categories: ["Industry"]
 tags: ["AP Exams", "Course Load", "High School Planning", "College Prep", "Guidance", "Study Strategy"]
 excerpt: "The best AP load grows one step at a time across four years. This roadmap maps a realistic progression by grade, with overload warnings at each stage."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2006-12-11
+lang: en
 ---
-
 Every spring, families sit down with a course catalog and a deceptively simple question: how many AP classes should a student take next year? The question sounds like it wants a single number, the way a recipe wants a number of eggs. In practice it wants a judgment, one that weighs the student's preparation, the school's offerings, the rest of the schedule, and the life that has to fit around schoolwork. A load that stretches one teenager productively can bury another, and a load that looks impressive in ninth grade can quietly sabotage the grades and health that colleges will weigh far more heavily than raw course counts.
 
 The healthiest way to think about an AP load is as a four year progression rather than a yearly contest. Students grow into advanced work. A freshman is learning how high school itself operates, how teachers grade, how homework accumulates, and how to study for tests that cover months instead of days. Each year adds maturity, stamina, and subject knowledge, and the AP schedule should grow alongside those capacities instead of racing ahead of them. The families who end up happiest with their choices almost never ask how much a student can survive. They ask how much a student can handle well, with room left over for sleep, friendships, activities, and the occasional evening with nothing due at all.
 
 This guide lays out a grade by grade roadmap for that progression, names the courses that suit each stage, and marks the warning signs that a load has crossed from ambitious into harmful. The numbers here are ranges, not quotas, because the right load depends on the student and the school. A small school may offer eight AP courses in total while a large suburban school offers thirty, and no honest roadmap can pretend those two settings produce the same right answer. What transfers across settings is the shape of the progression: start smaller than you think, scale deliberately, peak when preparation peaks, and protect the student's wellbeing at every step, because the whole point of the exercise is a stronger education, not a longer list.
 
-![Best AP Course Load by Grade - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Best AP Course Load by Grade - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## What a course load actually measures
 

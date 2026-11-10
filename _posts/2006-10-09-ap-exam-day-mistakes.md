@@ -6,19 +6,19 @@ date: 2006-10-09
 categories: ["Industry"]
 tags: ["AP Exams", "Exam Day", "Test Day Tips", "Exam Strategy", "Mistakes to Avoid", "College Prep"]
 excerpt: "Exam day punishes small mistakes that have nothing to do with knowledge. This checklist maps supplies, bubbling, timing, nerves, and the strong finish."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2006-10-09
+lang: en
 ---
-
 Every spring, students file into gymnasiums, cafeterias, and borrowed classrooms carrying months of preparation in their heads. The knowledge is real. Essays have been outlined, formulas rehearsed, timelines memorized, and practice questions answered by the hundreds. Yet the score that eventually arrives is not a pure measure of that knowledge. It is the knowledge that survived one particular morning: a morning of sign-in lines, seating charts, proctor instructions, unfamiliar rooms, ticking clocks, and a pencil moving across an answer sheet. Points leak out of that morning through holes that have nothing to do with intelligence or effort, and the leak is quiet enough that many students never learn it happened.
 
 Consider how small the holes are. A bubble filled one row away from its question silently converts a right answer into a wrong one and shifts every answer after it. A direction line skimmed too quickly turns a request for the best answer into a hunt for a true statement. A student who spends twelve minutes wrestling one stubborn problem discovers at the end that three easier questions went unanswered. None of these students needed more tutoring. Each of them needed a routine: a small set of habits that protects the score their preparation already earned.
 
 That is the promise of the material ahead. Exam-day errors are the most fixable category of lost points in the entire AP enterprise, because they respond to preparation of a different kind. Nobody can absorb a semester of chemistry in a weekend, but anybody can learn to bubble accurately in an afternoon, pack a bag correctly in ten minutes, and rehearse a pacing plan during a single practice test. The InsightCrunch exam-day checklist gathers those habits into one place, and the sections that follow explain each habit, why it works, and how it fails when it is missing.
 
-![AP Exam Day Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-05.webp)
+![AP Exam Day Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 ## The Score You Bring and the Score You Keep
 

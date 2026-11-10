@@ -6,19 +6,19 @@ date: 2006-03-25
 categories: ["Industry"]
 tags: ["AP Exams", "AP History", "Exam Timing", "Pacing", "DBQ", "Essay Writing"]
 excerpt: "History exams are lost on the clock as often as on content. This guide maps section budgets, document reading time, essay splits, and recovery tactics."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2006-03-25
+lang: en
 ---
-
 Every spring, students walk out of AP history exams insisting they knew the material, and many of them are telling the truth. They could explain the causes of the Civil War, compare colonial systems across two continents, and analyze a political cartoon with real sophistication. What they could not do was fit all of that knowledge inside the hours printed on the exam booklet. Their multiple-choice section consumed the morning's best energy, their short answers sprawled, and the document-based question, the single richest source of points on the paper, received whatever minutes happened to remain. Knowledge was never the binding constraint. The clock was.
 
 Pacing is the skill that converts knowledge into points under a deadline, and it deserves the same deliberate training as content review. A pacing plan is not a vague promise to work faster. It is a set of decisions made in advance, when judgment is calm, about how many minutes each section may spend, where the checkpoints fall, what gets cut when trouble appears, and how the final minutes of every section are protected. Students who rehearse those decisions stop negotiating with themselves during the exam, and that quiet is worth real points. This guide builds the plan section by section, explains the reasoning behind each budget, and shows how to recover when a section refuses to follow the script.
 
 The framework here applies across the AP history family, to United States History, World History, and European History alike, because the architecture of the exams is shared even where the content differs. Each course asks for stimulus-based multiple choice, short answers that reward precision, a document-based question built on analysis and synthesis, and a long essay chosen from paired prompts. The budgets below speak to that shared architecture. Where a course adds its own texture, the plan bends without breaking, and the habits underneath, checkpoint, cap, recover, finish, stay exactly the same.
 
-![AP History Exam Timing and Pacing - Insight Crunch](/assets/images/blog/blog-04.webp)
+![AP History Exam Timing and Pacing - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## The clock is part of the test
 

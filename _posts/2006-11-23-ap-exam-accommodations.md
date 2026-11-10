@@ -6,19 +6,19 @@ date: 2006-11-23
 categories: ["Industry"]
 tags: ["AP Exams", "Accommodations", "Extended Time", "504 Plan", "IEP", "Student Support"]
 excerpt: "AP exam accommodations follow an official approval path with strict timing. This guide maps extended time, documentation, 504 and IEP links, and steps."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2006-11-23
+lang: en
 ---
-
 For a student who reads more slowly because of a processing difference, or who manages a medical condition that interrupts concentration, or whose written expression lags far behind the quality of the ideas in their head, an Advanced Placement exam can feel less like a test of knowledge than a test of barriers. The knowledge is there. The preparation is real. What stands between that student and a fair score is the format of the administration itself, and that is precisely the gap that AP exam accommodations exist to close. Extended time, extra breaks, a separate room, a reader, a scribe, assistive technology: each of these supports exists so that the score a college receives reflects what the student knows, not how the student's disability interacts with a clock, a crowded room, or a dense page of print.
 
 Yet for many families, the accommodations system is the most confusing part of the entire AP program, and the confusion usually begins with one wrong assumption. Parents see that their child receives extended time on classroom tests under a 504 plan or an individualized education program, and they reasonably assume the same support will simply be in place when the AP exam arrives in May. It will not, at least not automatically. AP exams are administered by the College Board under national rules, and every accommodation used on an AP exam must be approved in advance through the College Board's own process, which the organization runs through its Services for Students with Disabilities office, universally shortened to SSD. A school plan is powerful evidence inside that process, but it is not a substitute for it, and the distinction costs students their supports every single year when families learn it too late.
 
 This guide maps the whole terrain in one place. It explains which accommodations exist, how a request travels from a school office to a College Board decision, what documentation persuades reviewers, how 504 plans and IEPs connect to the process without replacing it, and why the calendar matters as much as the paperwork. The through line is the series thesis in its most practical form: AP success rewards informed planning, and nowhere is planning rewarded more reliably than here, because a family that understands the system in the autumn rarely has a crisis in the spring.
 
-![AP Exam Accommodations: Extended Time, 504, IEP - Insight Crunch](/assets/images/blog/blog-10.webp)
+![AP Exam Accommodations: Extended Time, 504, IEP - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 ## What an Accommodation Is, and What It Is Not
 

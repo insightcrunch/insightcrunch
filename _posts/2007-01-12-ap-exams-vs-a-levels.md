@@ -6,19 +6,19 @@ date: 2007-01-12
 categories: ["Industry"]
 tags: ["AP Exams", "A-Levels", "UK Education", "Comparison", "International Students", "College Prep"]
 excerpt: "AP exams and A-Levels trade breadth for depth in opposite ways. This comparison maps structure, grading, subject counts, and university recognition alike."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "charlotte-davies"
 last_updated: 2007-01-12
+lang: en
 ---
-
 Every spring, two groups of teenagers sit down to examinations that both describe themselves as advanced, college level, and rigorous, yet the papers in front of them could hardly look more different. In an American high school, a student might face a three hour AP exam in biology in the morning and another in European history two days later, one of five or six such exams scattered across a single May. In a school in England, Wales, or Northern Ireland, a student of similar age faces the second year of a course that began twenty months earlier, in one of only three subjects, knowing that a handful of papers across June will decide the grade on which a university place depends. Both students are able. Both examinations are demanding. They are simply built for different destinations.
 
 The Advanced Placement program, run by the College Board in the United States, lets high school students take year long courses modeled on introductory college classes and then sit standardized exams each May. Scores arrive on a scale of 1 to 5, and students typically accumulate several AP courses across their high school years while still completing a broad diploma that includes English, mathematics, science, history, and often a language. A-Levels, formally the General Certificate of Education Advanced Level, work from the opposite instinct. A student finishing GCSEs at sixteen chooses a small number of subjects, usually three, sometimes four, and studies nothing else at advanced level for two full years. The grades, running from A* down to E, become the central currency of university admission in the United Kingdom.
 
 Neither system is a defective version of the other, and the most common error families make is to ask which one is better in the abstract. The honest question is narrower and more useful: better for which student, applying to which universities, in which country, to study which subject. AP rewards breadth, accumulation, and the ability to perform across many fields in timed conditions. A-Levels reward depth, sustained focus, and the willingness to commit to a few disciplines before knowing exactly where they lead. A reader who wants the full map of the American side first can work through the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/), which lays out the course catalog and exam calendar in one place. This comparison then takes the two systems dimension by dimension: purpose, structure, grading, assessment style, timing, and recognition, so that a family can match the qualification to the destination instead of to a reputation.
 
-![AP Exams vs A-Levels - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Exams vs A-Levels - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 ## Two Systems Built for Different Jobs
 

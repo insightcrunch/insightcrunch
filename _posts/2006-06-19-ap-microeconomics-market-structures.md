@@ -6,19 +6,19 @@ date: 2006-06-19
 categories: ["Industry"]
 tags: ["AP Exams", "AP Microeconomics", "Market Structures", "Game Theory", "Graph Models", "Economics"]
 excerpt: "Four market structures and one game matrix organize AP Micro's firm behavior. This guide maps each structure's graph, profit logic, and efficiency outcomes."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-06-19
+lang: en
 ---
-
 Every firm on the AP Microeconomics exam faces the same underlying question, and the exam returns to it from a dozen directions: how much control does this seller have over the price it charges? A wheat farmer checking the morning quote has none at all. A patented drug maker holds a great deal, bounded only by what patients and insurers will pay. Between those poles sit the coffee shop with its loyal regulars and the airline watching a rival adjust fares by the hour. The four market structures of the course, perfect competition, monopoly, monopolistic competition, and oligopoly, are best understood as four answers to that single question, arranged along a spectrum of market power rather than as four unrelated models to memorize in isolation.
 
 Students often meet the structures as separate chapters with separate graphs, and the fragments never fuse into a system. Graph mix-ups follow predictably: a monopoly drawn with a horizontal demand line, a competitive firm shading an economic profit in long-run equilibrium, a payoff matrix read backward. Those errors come from treating each diagram as its own small world. This guide takes the opposite approach, building one axis, market power, and hanging every structure, every graph, and every efficiency verdict on that axis, so a shift in competitive pressure moves a firm along the spectrum in a direction a reader can anticipate. Anyone who wants the full course map, from supply and demand through factor markets, will find it in [the complete AP Microeconomics guide](/2007/05/27/ap-microeconomics-guide/); the pages here stay inside firm behavior and own that territory completely.
 
 Game theory belongs in the same guide because it answers the one question the four graphs cannot settle: what happens when a seller's best move depends on a rival's response? Oligopoly creates exactly that dependence, and the payoff matrix turns it into arithmetic a student can solve by inspection. By the end of this guide, a reader should be able to classify any described market, sketch its graph without a template in view, compute profit or loss from the picture, judge the outcome against the efficiency benchmarks, and work through a two-firm game cell by cell. Students aiming at the top score can pair this material with [the score playbook for AP Economics](/2007/02/12/how-to-get-a-5-on-ap-economics/), which tracks how firm-behavior points spread across a full exam.
 
-![AP Micro: Market Structures and Game Theory - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Micro: Market Structures and Game Theory - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## Market Power: The One Axis Behind Four Structures
 

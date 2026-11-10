@@ -6,19 +6,19 @@ date: 2006-09-12
 categories: ["Industry"]
 tags: ["AP Exams", "AP Calculus AB", "Riemann Sums", "Fundamental Theorem", "Integrals", "Math"]
 excerpt: "Riemann sums turn motion and area into arithmetic the FTC then makes exact. This guide maps left, right, midpoint, trapezoid, and accumulation work in full."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2006-09-12
+lang: en
 ---
-
 A car rolls along a straight road while its speedometer needle wanders, rising on the downhill stretches and sagging on the climbs. Ask how far the car traveled during one hour of that uneven driving and the arithmetic of earlier courses falls silent, because the speed refuses to sit still long enough for a single multiplication to describe it. Calculus AB answers the question with an idea so sturdy that it carries the entire second half of the course: chop the hour into thin slices, pretend the speed holds steady inside each slice, multiply, add, and then let the slices shrink until the pretense becomes exact. That chopping and adding is a Riemann sum, and the theorem that certifies the limit of the process is the Fundamental Theorem of Calculus.
 
 Students often meet integration first as a hunt for antiderivatives, a reverse gear for differentiation, and that first meeting quietly distorts everything that follows. Antidifferentiation is a technique, one tool among several, while integration itself is a measurement: the measurement of accumulated change. A definite integral reports how much of something piled up while a rate varied, whether that something is distance, water, population, cost, or area under a curve. Riemann sums keep that meaning visible because every rectangle in the sum stands for a small, understandable piece of the pile. The Fundamental Theorem then connects the pile to the rate in both directions, and fluency with those two directions is precisely what the AP exam rewards.
 
 This guide works the whole arc in one place. It builds Riemann sums from tables, graphs, and formulas, compares left, right, midpoint, and trapezoidal estimates and their errors, walks one accumulation problem end to end, states and uses both parts of the Fundamental Theorem, and finishes with accumulation functions, average value, net change, and the habits that separate strong exam answers from near misses. Readers who want the full course map first can start with the [AP Calculus AB complete guide](/2008/08/10/ap-calculus-ab-complete-guide/), and those who need the limit and derivative foundations refreshed will find them in the companion treatment of [limits, derivatives, and basic integrals](/2008/08/05/ap-calculus-ab-limits-derivatives-integrals/).
 
-![AP Calculus AB: Riemann Sums and the FTC - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP Calculus AB: Riemann Sums and the FTC - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 ## Accumulation: the Idea Under Everything
 
@@ -68,7 +68,6 @@ Bounds are the practical prize. Whenever a left and right sum disagree on an inc
 ### Why does the trapezoidal rule average the two endpoint heights?
 
 A trapezoid over one subinterval has parallel sides equal to the function values at the two edges, and the area of a trapezoid equals its width times the average of its parallel sides. Averaging the endpoint heights therefore gives the exact area of the approximating trapezoid, which hugs a slanted curve more closely than either flat-topped rectangle can.
-
 
 
 Continue with chunk 3: the walkthrough with table (unequal widths rate table), accumulation with initial value.

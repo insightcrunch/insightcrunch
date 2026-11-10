@@ -6,19 +6,19 @@ date: 2006-02-26
 categories: ["Industry"]
 tags: ["AP Exams", "Future of AP", "Digital Exams", "College Board", "Course Planning"]
 excerpt: "AP is mid-redesign, and students choosing classes now will meet the new shape. This guide maps digital testing, new courses, credit pressure, and trends."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-02-26
+lang: en
 ---
-
 A ninth grader signing a course request form this spring is placing a four year bet. She chooses a sequence of classes now, yet the exams waiting at the end of that sequence may arrive on a laptop screen instead of in a shrink wrapped paper booklet, may cover a redesigned syllabus, and may earn credit under rules her target colleges have rewritten twice in the meantime. The future of AP exams is therefore not a curiosity for education watchers. It is a planning problem for every family that treats Advanced Placement as part of a path toward college.
 
 Forecasts about the program arrive with far more confidence than the evidence supports. Social media accounts announce sweeping changes that no official source has approved, tutoring companies sell preparation for formats that exist only as pilots, and rumor moves through school corridors dressed as policy. Against that noise, a careful reader needs three separate buckets. One holds changes the College Board has formally announced. A second holds directions that follow logically from pressures the program faces. A third holds open questions that nobody can settle yet, however loudly they argue. Mixing those buckets is the central mistake this guide is built to prevent.
 
 What follows maps the territory bucket by bucket. Digital delivery comes first, because it touches the largest number of students in the shortest time. Course creation follows, then the credit policies that decide what a score actually buys. Scoring, technology, and artificial intelligence each get their own hearing. Readers who want the program's present shape before its possible shapes can start with [the complete guide to AP exams](/2008/11/08/ap-exams-complete-guide/) and return here for the forward view, which ends with a named outlook table and a set of habits that survive every redesign the College Board has ever shipped.
 
-![The Future of AP Exams - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Future of AP Exams - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## A Program That Has Never Stood Still
 

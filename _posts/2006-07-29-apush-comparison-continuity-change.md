@@ -6,17 +6,17 @@ date: 2006-07-29
 categories: ["Industry"]
 tags: ["AP Exams", "AP US History", "Comparison", "Continuity and Change", "Reasoning Skills", "History"]
 excerpt: "Comparison, causation, and continuity-change are the three lenses APUSH grades by. This guide maps each skill, its evidence habits, and its common traps."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-07-29
+lang: en
 ---
-
 Every question on the AP United States History exam, whatever its format, asks the student to do something with the past rather than simply hand it back. A multiple choice item built around a passage from a Puritan sermon is not really asking who wrote sermons. It is asking why the sermon mattered, what it resembled, what it opposed, and what changed because people believed it. A short answer set on the market revolution is not satisfied with a list of inventions. It wants causes sorted from effects, similarities drawn between regions, and a judgment about what endured while everything seemed to move. The exam is, at its core, a test of three reasoning skills: comparison, causation, and continuity and change over time. Students who master those three moves find that the content of nine periods starts to organize itself, because the skills supply the questions that content answers.
 
 None of this means content is optional. Reasoning without evidence is opinion, and APUSH readers can smell unsupported opinion from the first paragraph. What the skills change is the job description of memory. Instead of storing facts as isolated entries, the student stores them as material for arguments: this event caused that one, this region resembled another in one respect and diverged in a second, this institution survived a revolution in altered form. Facts gathered with those relationships already attached are easier to recall under pressure, because each fact has neighbors and a function. The pages that follow treat each skill in turn, show how it behaves inside each question type, and build a practice system around the moves themselves. Readers who want the full course map first can start with the [AP US History complete guide](/2007/09/16/ap-us-history-complete-guide/) and return here for the reasoning layer that sits underneath it.
 
-![APUSH: Comparison and Continuity-Change - Insight Crunch](/assets/images/blog/blog-06.webp)
+![APUSH: Comparison and Continuity-Change - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 ## Three Skills, One Habit of Mind
 

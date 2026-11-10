@@ -6,17 +6,17 @@ date: 2007-01-07
 categories: ["Industry"]
 tags: ["AP Exams", "College Admissions", "Course Rigor", "College Prep", "Application Strategy", "Guidance"]
 excerpt: "Admissions officers read AP classes as evidence of rigor and direction. This guide maps how course choices and scores weigh inside a full holistic review."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2007-01-07
+lang: en
 ---
-
 Every fall, families ask some version of the same anxious question: will Advanced Placement classes actually move the needle when a college decides who gets in? The honest answer is yes, but not in the mechanical way the question usually assumes. No admissions office runs a formula that counts AP courses and converts the total into a verdict. Instead, readers treat the AP record as one of the clearest windows into how a student chose to spend four years of high school, what level of challenge the student sought out when easier paths were available, and whether the grades held up under that challenge. The transcript carries more weight than any single score, and AP courses sit at the center of how that transcript gets read.
 
 That reading happens inside holistic review, a process in which grades, course selection, essays, recommendations, activities, and context all qualify one another. An AP-heavy schedule means one thing at a school that offers twenty AP courses and something quite different at a school that offers four. A strong score means one thing beside top grades in the matching class and something else beside mediocre ones. Because the meaning shifts with context, the families who plan well are the ones who stop chasing raw counts and start thinking about signal: what will this particular set of courses, at this particular school, with these particular grades, tell a reader about this particular student? This guide works through that question piece by piece, from how rigor gets judged to how scores get reported, and it closes with a practical checklist for choosing and presenting AP classes with admissions in mind.
 
-![AP Classes and College Admissions - Insight Crunch](/assets/images/blog/blog-15.webp)
+![AP Classes and College Admissions - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 ## How Admissions Officers Actually Read a Transcript
 

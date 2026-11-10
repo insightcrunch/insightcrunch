@@ -6,19 +6,19 @@ date: 2006-10-05
 categories: ["Industry"]
 tags: ["AP Exams", "Difficulty Tier List", "Course Selection", "Hardest AP Classes", "Planning", "College Prep"]
 excerpt: "No two AP classes ask the same price in time and strain. This tier list ranks the major courses by workload, exam demand, and how their scores distribute."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2006-10-05
+lang: en
 ---
-
 Every spring, registration forms circulate through advising offices and kitchen tables, and one question dominates nearly all of those conversations: how hard is that class, really? Families ask it about a single course, counselors hear it about entire schedules, and students repeat it in hallways as if a single number could settle a year of evenings. A tier list cannot give that number, because no such number exists, yet a careful ranking can do something almost as useful. Placing courses beside one another, with the reasons for each placement stated plainly, turns rumor into a planning tool that a student can argue with, adjust, and finally use.
 
 Rankings of this kind earn trust only when their criteria sit in the open. Three measures shape every placement in the pages ahead: the nightly and weekly workload a course imposes across a full school year, the intellectual demand of its exam under timed conditions, and the broad pattern in how scores distribute when large national cohorts sit for that exam. Workload captures volume, reading density, problem sets, laboratory writing, and revision cycles. Exam demand captures abstraction, precision, speed, and the distance between familiar practice material and unfamiliar questions on test day. Score patterns, handled qualitatively here, hint at how forgiving or severe a scoring cohort tends to be, without pretending that a distribution can measure how a course will feel to one particular teenager.
 
 Personal fit bends every one of those measures, sometimes dramatically. A student who reads history for pleasure may glide through a document heavy course that exhausts a classmate, while that same classmate handles symbolic manipulation in physics with an ease the reader cannot match. Heritage speakers experience a language exam as recognition, where beginners experience the identical paper as translation under pressure. Musicians hear structures in a theory course that leave other strong students counting intervals on their fingers. For that reason, the InsightCrunch AP difficulty tiers describe the typical encounter between a prepared, interested student and a well taught course, and the final sections explain how to shift any placement up or down for individual strengths, gaps, and circumstances.
 
-![AP Class Difficulty Tier List - Insight Crunch](/assets/images/blog/blog-06.webp)
+![AP Class Difficulty Tier List - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 ## How the InsightCrunch AP Difficulty Tiers Are Built
 

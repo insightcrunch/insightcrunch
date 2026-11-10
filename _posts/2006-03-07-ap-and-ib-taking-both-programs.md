@@ -6,19 +6,19 @@ date: 2006-03-07
 categories: ["Industry"]
 tags: ["AP Exams", "IB Program", "Course Planning", "College Credit", "Workload"]
 excerpt: "AP and IB can share a transcript, but only with honest planning. This guide maps overlap, workload, credit, exam calendars, and the final decision itself."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-03-07
+lang: en
 ---
-
 Every spring, in schools that offer both programs, a familiar conversation unfolds in counseling offices. A student who has heard that Advanced Placement signals ambition and that the International Baccalaureate signals depth wants to know whether collecting both signals is possible, and whether collecting both is wise. The honest answer to the first question is yes, with conditions. The honest answer to the second is that it depends almost entirely on fit: on which subjects overlap, on how the two exam calendars collide, on what the student's colleges actually reward, and on whether the combined week still leaves room for sleep, friends, and a life outside coursework.
 
 That dependence on fit is what this guide exists to map. AP and IB overlap enough in content that combining them can genuinely work, and thousands of students do it each year in one form or another. Overlap, though, is only one of four variables. Structure matters, because the two programs organize learning in fundamentally different ways. Workload matters, because each program was designed as if it were the main event in a student's schedule. Credit matters, because a score only helps where a college chooses to honor it. A student who weighs all four variables with clear eyes usually lands on a combination that strengthens an application. A student who weighs only prestige usually lands on a transcript that looks impressive in September and feels punishing by February.
 
 What follows works through each variable in turn. It explains how the two programs are built, where their syllabi genuinely overlap and where they only appear to, how their assessment styles differ, and how the famous collision of exam seasons in May can be planned around rather than suffered through. It also presents the InsightCrunch AP-and-IB guide, a decision table that matches common student situations to sensible combination patterns. The through line is simple enough to state in one sentence: the real question is never whether both programs are impressive, because both are, but whether a particular student's schedule, goals, and stamina make the combination sustainable.
 
-![AP and IB: Taking Both Programs - Insight Crunch](/assets/images/blog/blog-08.webp)
+![AP and IB: Taking Both Programs - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 ## Two Programs, Two Philosophies
 

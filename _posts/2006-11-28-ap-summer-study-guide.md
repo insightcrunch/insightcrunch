@@ -6,19 +6,19 @@ date: 2006-11-28
 categories: ["Industry"]
 tags: ["AP Exams", "Summer Study", "Self-Study", "Study Guide", "Study Strategy", "College Prep"]
 excerpt: "Summer can preview a course or carry a whole self-study plan. This guide maps what to study, weekly rhythms, retention habits, and how to rest as well."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2006-11-28
+lang: en
 ---
-
 Summer arrives with a strange gift for an AP student: time without a timetable. The school year parcels learning into forty-five minute fragments, each one interrupted by a bell, a hallway, and the next obligation. Summer removes the fragments. A student who wants to can sit with one hard idea for an entire morning, follow it into a second subject, and return to it after lunch with fresh eyes. That unbroken quality is what makes summer study different from school study, and it is why a modest, well-aimed summer plan can change the feel of an entire AP year that follows.
 
 The temptation, of course, runs in the opposite direction. Freed from the school calendar, some students try to swallow a whole course in June, racing through a textbook at homework speed multiplied by panic. Others sign up for three self-studies, a job, and a volunteer post, then discover that ambition without arithmetic collapses by the second week of July. Between those poles sits the approach this guide defends: a sustainable head start, built on honest hours, chosen subjects, and a retention plan, so that September begins from strength rather than from exhaustion or regret.
 
 Everything that follows rests on one conviction that runs through this whole series: AP success rewards informed planning, and understanding how the system works beats guessing. Summer is not a shortcut around the AP program. Used well, it is a way to meet the program on calmer terms, to convert the most pressured months of the school year into months of consolidation, and to arrive at the May exams having already done the slow learning that cramming can never reproduce.
 
-![AP Summer Study Guide - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP Summer Study Guide - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## Why Summer Is a Different Kind of Study Season
 

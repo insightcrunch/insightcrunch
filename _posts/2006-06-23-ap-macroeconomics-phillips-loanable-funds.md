@@ -6,19 +6,19 @@ date: 2006-06-23
 categories: ["Industry"]
 tags: ["AP Exams", "AP Macroeconomics", "Phillips Curve", "Loanable Funds", "Graph Models", "Economics"]
 excerpt: "The Phillips curve and the loanable funds market carry much of AP Macro's second half. This guide maps both models, their shifts, and their policy effects."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2006-06-23
+lang: en
 ---
-
 Two graph models decide a surprising share of success in the second half of AP Macroeconomics. The Phillips curve ties inflation to unemployment and forces a student to think clearly about what an economy can and cannot sustain. Saving and investment meet in the loanable funds market, whose real interest rate forces a student to think clearly about where the funds for growth actually come from. Each model rewards careful reading on its own, yet the deeper reward comes from seeing that neither model lives alone. A policy drawn on one graph sends pressure through the interest rate into the other market, and from there into output, employment, and prices.
 
 That connection is the organizing idea of this guide. Many students meet the Phillips curve in one week and the loanable funds market in another, filing each away as a separate picture with separate shifters to memorize. The exam quietly punishes that habit. Free response questions chain the models together, asking what a government deficit does to the real interest rate, what that rate does to investment and aggregate demand, and where the economy finally settles on the Phillips curve. A student who has practiced the chain answers in one smooth motion. A student who stored the graphs in isolation has to rebuild the logic under time pressure, and that is where points leak away.
 
 What follows treats the two models as one connected system, with the money market standing between them as the place where the nominal interest rate is set. Every section builds the machinery in plain language first, then works through shifts, policy effects, and exam style reasoning. Readers who want the full course map before diving into these two models can start with the [AP Macroeconomics guide](/2007/05/31/ap-macroeconomics-guide/), which keeps the overall content of the course in one place while this deep dive owns the Phillips curve and loanable funds models in detail.
 
-![AP Macro: Phillips Curve, Loanable Funds - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Macro: Phillips Curve, Loanable Funds - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## Two Models, One Connected Economy
 

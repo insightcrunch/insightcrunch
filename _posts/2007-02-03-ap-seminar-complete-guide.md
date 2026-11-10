@@ -6,17 +6,17 @@ date: 2007-02-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Seminar", "AP Capstone", "Research Skills", "Study Guide", "College Prep"]
 excerpt: "AP Seminar grades research and argument, not a body of facts. This guide maps the team project, the individual essay and presentation, the exam, and scoring."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2007-02-03
+lang: en
 ---
-
 Most Advanced Placement courses hand students a defined body of knowledge and then test how much of it stuck. AP Seminar works in the opposite direction. The course hands students questions that have no single settled answer, a stack of sources that disagree with one another, and a set of deadlines spread across the school year, then it grades how well they investigate, argue, write, and speak. A student who thrives on memorized content may find the openness unsettling at first, while a student who loves chasing a problem through libraries and databases often discovers that Seminar feels less like a class and more like an apprenticeship in thinking.
 
 Because the grading rewards process as much as product, preparation looks different here. Nobody can cram for AP Seminar in a frantic weekend, and nobody needs to. The score grows out of habits built month by month: reading sources with suspicion and generosity at the same time, narrowing a sprawling curiosity into a researchable question, building an argument that survives hostile questions, and presenting findings to an audience that is allowed to push back. This guide walks through the whole architecture of the course, task by task and skill by skill, so a student, a parent, or a teacher new to the program can see exactly where the points live and how strong work earns them.
 
-![AP Seminar Complete Guide - Insight Crunch](/assets/images/blog/blog-09.webp)
+![AP Seminar Complete Guide - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 ## A Course Built Around Questions Rather Than Answers
 

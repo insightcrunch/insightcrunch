@@ -6,19 +6,19 @@ date: 2006-05-18
 categories: ["Industry"]
 tags: ["AP Exams", "AP Chemistry", "Calculations", "Stoichiometry", "Problem Solving", "Exam Technique"]
 excerpt: "AP Chemistry is won or lost in the calculation column. This guide maps mole setups, unit tracking, significant figures, estimation, and answer checks."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2006-05-18
+lang: en
 ---
-
 AP Chemistry asks two kinds of questions, ones that test whether a student understands what particles are doing, and ones that test whether a student can count those particles accurately under time pressure. The second kind decides more scores than the first. A student can hold a perfectly sound mental picture of equilibrium, bonding, or thermochemistry and still bleed points across an entire exam because a conversion factor flipped, because a volume stayed in milliliters inside a molarity calculation, or because an answer came out with six digits of borrowed precision. The knowledge and the arithmetic travel together, and the arithmetic is the part that collapses when nerves rise. That is why calculation deserves to be trained as a skill in its own right, the way an athlete trains footwork separately from game strategy.
 
 Most lost calculation points share a discouraging feature: they were preventable. Graders and teachers see the same handful of failures return season after season, the dropped unit, the inverted ratio, the logarithm taken in the wrong direction, the answer that is off by a factor of a thousand because a prefix never got converted. Underneath nearly all of them sits one habit performed too quickly, rushing into arithmetic before the setup has been made safe. A calculator rewards that haste with fast, confident, wrong answers. Paper, used well, punishes it: a setup that is written down can be inspected, and an inspection takes ten seconds while a wrong free-response part can poison every part that follows it.
 
 This guide builds the quantitative layer of the course as a single transferable routine rather than a pile of topic tricks. The routine has a name used throughout the series study materials, the InsightCrunch Chemistry calculation checklist, and it runs from the first reading of a problem to the final reasonableness check on the answer. Significant figures, dimensional analysis, mole conversions, multi-step chains, estimation, and mental arithmetic all plug into that routine at fixed stations. Stoichiometry as a chemical concept and the algebra of gases and solutions live in their own deep dives elsewhere in the series; this page owns the technique layer that those topics depend on, the layer a student carries from the first unit to the last.
 
-![AP Chemistry: Calculation Mastery - Insight Crunch](/assets/images/blog/blog-07.webp)
+![AP Chemistry: Calculation Mastery - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 ## Why the Calculation Column Decides the Score
 

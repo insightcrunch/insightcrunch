@@ -6,19 +6,19 @@ date: 2006-04-17
 categories: ["Industry"]
 tags: ["AP Exams", "Pre-Health", "AP Biology", "AP Chemistry", "Course Planning", "Careers"]
 excerpt: "Future doctors build their case long before medical school applications. This guide maps the science sequence, the credit cautions, and the long-term planning."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2006-04-17
+lang: en
 ---
-
 A student who announces an ambition to become a doctor at fifteen is making a promise that will take more than a decade to keep. Between that announcement and a white coat sit high school courses, college prerequisites, a demanding admissions examination, and years of training, and the very first layer of that long structure is built from Advanced Placement classes chosen in the ninth, tenth, eleventh, and twelfth grades. Families who understand what those classes can and cannot do hold a real advantage, because the plan that serves a future physician looks different from the plan that serves a future engineer, a future lawyer, or a student who simply wants the longest possible list of AP courses on a transcript.
 
 The central tension of pre-health planning is easy to state and hard to hold onto. AP classes genuinely help an aspiring doctor, sometimes enormously, yet the help they give is mostly preparatory rather than substitutive. A strong score in AP Biology does not excuse a student from college biology in the eyes of many medical schools, and a strong score in AP Chemistry does not reliably erase a required semester of general chemistry. What those scores do instead is build the knowledge, the laboratory habits, and the examination stamina that make the college versions of the same subjects go better, and they signal to college admissions readers that the student has already survived college-paced science and asked for more.
 
 Everything in this guide follows from that distinction. The pages ahead map the science sequence a future doctor should build, explain why the prerequisite caution matters so much, set out the InsightCrunch pre-health AP roadmap as a single findable plan, and show how to use AP credit as a way to get ahead rather than as a shortcut that quietly removes required courses from a record. Students who want the widest view of how all the pieces fit together can start with the [AP exams complete guide](/2008/11/08/ap-exams-complete-guide/), and then return here for the pre-health specifics.
 
-![AP Classes for Future Doctors - Insight Crunch](/assets/images/blog/blog-14.webp)
+![AP Classes for Future Doctors - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 ## Planning Backward from the Medical School Door
 
