@@ -625,6 +625,10 @@ body::before {
 .ad-slot--sidebar .ad-frame{ max-width: 196px; height: 200px; }
 @media (max-width: 760px){
   .ad-slot .ad-frame{ max-width: 320px; height: 50px; }
-  .ad-slot--sidebar .ad-frame{ max-width: 320px; height: 50px; }
+  /* The sidebar collapses to a flex top bar on mobile, so a slot in it
+     becomes a sibling of the logo and search box and breaks the header.
+     Hidden here, same as .sb-card / .sb-lbl / .sb-tags above.
+     In-article and end-of-post slots still serve mobile normally. */
+  .ad-slot--sidebar{ display: none; }
 }
 @media print{ .ad-slot{ display: none !important; } }
