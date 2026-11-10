@@ -1124,3 +1124,26 @@ agent-contrast-imag-xray | how-x-rays-work | What is a contrast agent in X-ray i
 detail-image-limit-show-xray | how-x-rays-work | What limits the detail an X-ray image can show?
 first-harm-radiation-recognized-xray | how-x-rays-work | How was radiation harm from X-rays first recognized?
 image-impossible-interpret-make-xray | how-x-rays-work | What would make an X-ray image impossible to interpret?
+
+## literature-booker-prize
+### how-booker-prize-works
+booker-prize | how-booker-prize-works | What is the Booker Prize?
+award-booker-first-prize | how-booker-prize-works | When was the Booker Prize first awarded?
+booker-first-prize-winner | how-booker-prize-works | Who was the first winner of the Booker Prize?
+booker-call-prize | how-booker-prize-works | Why is it called the Booker Prize?
+booker-dozen | how-booker-prize-works | What is the Booker dozen?
+booker-booker-difference-international-prize-prize | how-booker-prize-works | What is the difference between the Booker Prize and the International Booker Prize?
+booker-first-international-prize-winner | how-booker-prize-works | Who was the first winner of the International Booker Prize?
+author-booker-prize-twice-won | how-booker-prize-works | Which authors have won the Booker Prize twice?
+been-booker-ever-prize-shar-two-winner | how-booker-prize-works | Has the Booker Prize ever been shared by two winners?
+booker-booker | how-booker-prize-works | What was the Booker of Bookers?
+away-berger-give-half-his-john-money-prize | how-booker-prize-works | Why did John Berger give away half of his prize money?
+barn-bingo-booker-call-julian-mean-posh-prize | how-booker-prize-works | What did Julian Barnes mean by calling the Booker Prize posh bingo?
+booker-judg-manage-novel-prize-read-so | how-booker-prize-works | How do Booker Prize judges manage to read so many novels?
+booker-kind-most-novel-often-prize-win | how-booker-prize-works | What kinds of novels win the Booker Prize most often?
+booker-endure-fade-other-prize-some-while-winner | how-booker-prize-works | Why do some Booker Prize winners fade while others endure?
+booker-help-longlist-prize-publisher-small | how-booker-prize-works | How does a Booker Prize longlisting help a small publisher?
+at-award-booker-ceremony-happen-prize | how-booker-prize-works | What happens at the Booker Prize award ceremony?
+booker-booker-call-man-prize-prize-time | how-booker-prize-works | Why was the Booker Prize called the Man Booker Prize for a time?
+ark-become-film-list-schindler-schindler | how-booker-prize-works | How did Schindler's Ark become the film Schindler's List?
+booker-britain-matter-outside-prize-reader | how-booker-prize-works | Why does the Booker Prize matter to readers outside Britain?

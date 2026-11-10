@@ -47,3 +47,4 @@
 2026-11-08 | nightjar-nine-officers-008 | nightjar | installment 008 | The Clean Room | Mole hunt | full | Leisure | literature-nightjar
 2026-11-09 | how-x-rays-work | Science and research | how do x-rays work | When X-rays pass through a body, how are they produced, how do different tissues change them, and how does a detector turn that change into an image that shows structure without opening the body? | Technology | science-x-rays
 2026-11-09 | nightjar-last-interview-009 | nightjar | installment 009 | The Clean Room | Siege or interrogation | objective lost | Leisure | literature-nightjar
+2026-11-10 | how-booker-prize-works | Literature | how does the Booker Prize work | How does the Booker Prize work: who may enter, who judges, how the field narrows from submissions to one winner, and why does winning change a book's fate? | Leisure | literature-booker-prize

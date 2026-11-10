@@ -183,3 +183,7 @@
 ## nightjar-last-interview-009
 - _posts/2026-11-07-nightjar-false-provenance-007.md - could carry: "The file Dunmore had found in her archive search, the one that borrowed the phrase clean room in quotation marks, had an author after all, and he was alive in a stone house at Highstile, burning paper in his sink at four in the morning."
 - _posts/2026-11-08-nightjar-nine-officers-008.md - could carry: "The two pages missing from that file were never recovered, and the man who could have said why they were taken died at his own kitchen table before Mira reached him, in a house whose study read as nothing at all."
+
+## how-booker-prize-works
+- _posts/2026-10-25-how-literary-retranslation-works.md - could carry: "A translated novel crowned by the International Booker has already passed through the narrowing machine mapped in the account of how the Booker Prize works, where the translator's half of the prize is treated as a structural fact rather than a courtesy."
+- _posts/2019-06-15-schindlers-list-spielberg-holocaust.md - could carry: "The novel behind the film arrived at its adaptation with a Booker Prize attached, and the account of how the Booker Prize works explains what that medal certified about Keneally's documentary method before a camera was involved."
