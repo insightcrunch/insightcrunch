@@ -6,14 +6,15 @@ date: 2010-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Surplus Value", "Karl Marx", "Marxist Economics", "Political Theory"]
 excerpt: "Absolute and relative surplus value distinguished by mechanism: lengthening the day, cheapening the wage basket, and the intensification that blurs the line."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-11-15
+lang: en
 ---
 Absolute and relative surplus value are the two names Karl Marx gives to the two ways a capitalist working day can be made to yield more unpaid labour, and the distinction between them is the hinge on which the middle of Capital turns. Revision guides usually dispose of the pair in a sentence apiece, as though the reader needed nothing beyond a label for lengthening and a label for machinery. That treatment wastes the concept. Properly understood, the pair is an analytical instrument: given any change in how work is organised, in any period and in any industry, the distinction lets a reader ask which margin moved, the length of the day, the density of the hour, or the share of the day that merely replaces the wage, and to say why the answer matters for wages, for profits, and for the forms that workplace conflict takes.
 
-![Absolute and relative surplus value in Marx, the two forms and the intensity third - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Absolute and relative surplus value in Marx, the two forms and the intensity third - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Everything in the distinction rests on a division that the preceding account of surplus value established and that this article takes as its starting point. A worker sells labour power, the capacity to work, for a wage that represents the value of the goods and services required to keep that worker alive, housed, fed, trained, and replaced by a succeeding generation. Producing those goods takes a definite amount of socially necessary labour time, and the portion of the working day in which the worker creates value equal to the wage is called necessary labour. Whatever the worker produces beyond that point, during the remaining portion of the day, is surplus labour, and its product, appropriated by the employer, is surplus value. Readers who want the parent concept built from the ground up, including the puzzle of how any surplus can arise when every commodity exchanges at full value, will find it in the [surplus value complete guide](/2010/11/01/surplus-value-complete-guide/), which this glossary article presupposes and refines rather than repeats.
 

@@ -6,15 +6,15 @@ date: 2011-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Primitive Accumulation", "Karl Marx", "History", "Marxist Economics"]
 excerpt: "Primitive accumulation explained as separation, not saving: how producers were parted from the means of production, and why the name itself misleads readers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-01-01
+lang: en
 ---
-
 Primitive accumulation is the name Karl Marx gives to the historical process that made capitalist production possible, and almost everything in the standard summary of it is slightly wrong. Primitive accumulation was not a matter of somebody, somewhere, patiently saving up a stock of wealth until investment could begin. Nobody in Part Eight of Capital Volume One grows rich by thrift. What happens instead is a parting. On one side of the parting stand people who once fed, clothed, and housed themselves by working land and tools they could reach through custom, tenure, or common right. On the other side stand the owners of money who find, waiting for them in the market, a population with nothing left to sell except its capacity to work. Marx calls the process that produced those two populations primitive accumulation, and he insists that its secret is separation. A fortune can change hands a thousand times without creating capitalism. Separation, carried far enough, creates the one relation capitalism cannot do without, the relation between an owner of means of production and a worker who must be hired before those means can be used at all.
 
-![Primitive accumulation in Marx, separation, enclosure and colonial extraction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Primitive accumulation in Marx, separation, enclosure and colonial extraction - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 Three corrections organise everything that follows, and each of them repairs an error that competing summaries repeat. First, the adjective in the title is a translation artefact, and the English word primitive imports a meaning about crudity and early stages that the German does not carry. Second, Marx attaches the words so-called to the term because he is quoting the political economists and mocking their origin story, not because he endorses the label. Third, the concept is identified by a social result rather than by an amount of treasure, so the test for whether some episode belongs under the heading is whether it manufactured wage labourers by detaching producers from their conditions of work. Hold those three corrections together and Part Eight stops looking like a grim historical appendix bolted onto a theoretical book. It becomes what Marx designed it to be, the answer to a question the theoretical chapters deliberately postponed. Where did the worker come from, the one who walks into Chapter Six owning nothing but labour power, and where did the money owner come from who is waiting to employ that worker? The [surplus value complete guide](/2010/11/01/surplus-value-complete-guide/) shows what happens after the two meet. Part Eight explains how there came to be two such figures to meet in the first place.
 

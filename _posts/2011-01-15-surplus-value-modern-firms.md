@@ -6,17 +6,17 @@ date: 2011-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Surplus Value", "Marxist Economics", "Contemporary Analysis", "Sociology"]
 excerpt: "Surplus value in a modern firm, worked honestly: productive labour, platforms and software, and why no rate can be read off a published income statement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 87
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-01-15
+lang: en
 ---
-
 The question most readers bring to this subject is disarmingly practical. They have a company in mind, perhaps their own employer, perhaps a firm whose annual report they have just read, and they want to know how much surplus value that company takes and how the taking works inside an organisation that employs software engineers, franchise managers, warehouse pickers, designers, drivers, and sales staff rather than the mill hands of a nineteenth-century engraving. The Marxian framework was built on the factory, and a fair suspicion follows it into every discussion of the modern firm: perhaps the categories simply do not survive the journey from the spinning mill to the software campus, the logistics platform, and the outsourced supply chain. This article tests that suspicion by doing the work rather than gesturing at it. It takes four kinds of firm, applies the same set of questions to each, and reports where the framework fits cleanly, where it strains, and where it honestly cannot reach.
 
 One conclusion should be announced at the start, because everything else in the article hangs on it and because it disappoints the most common hope readers bring. You cannot compute a company's rate of exploitation from its published accounts. That is not a complaint about missing data or a plea for better disclosure. It is a structural fact about how accounts are built, and this article will name it the accounts warning: no rate of exploitation can be read off a published income statement, because the accounts are constructed on categories that cut across the Marxian ones at several separate points, so any figure produced that way measures the accounting convention rather than the relation it claims to describe. The popular alternative, dividing a firm's profit by its wage bill and calling the quotient a rate of exploitation, is wrong for at least four identifiable reasons, and each reason will be examined in turn.
 
-![Surplus value in modern firms, productive labour, platforms and why accounts cannot give the rate - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Surplus value in modern firms, productive labour, platforms and why accounts cannot give the rate - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 What can be done, and what this article does instead, is more modest and more useful. A Marxian analysis of a firm can identify where value is produced inside and around it, which workers count as productive labour in the technical sense, where surplus value is realised in money, which incomes are shares of surplus value produced elsewhere, and which mechanisms move the rate of surplus value up or down. It can say a great deal about the structure of a business model. It can explain why a loss-making firm may still organise the extraction of surplus value and why a highly profitable firm may produce very little of its own. What it cannot do is hand the reader a single defensible percentage for a named company, and any source that offers one without a long account of its reclassification decisions is selling false precision. The foundation for everything here is the concept itself, set out in full in the [surplus value complete guide](/2010/11/01/surplus-value-complete-guide/), and this article assumes that foundation while concentrating on the application.
 

@@ -6,14 +6,15 @@ date: 2011-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Surplus Value", "Exam Preparation", "Karl Marx", "Marxist Economics"]
 excerpt: "Surplus value exam answers built on one distinction: labour against labour power, the formula, the textual anchor, and the error that costs the most marks."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-03-15
+lang: en
 ---
 A strong script on surplus value is rarely the script that knows the most facts about Marx. Markers reward something narrower and more learnable: a candidate who can state one distinction cleanly, run a mechanism without breaking it, place a short piece of textual evidence where it does real work, and then judge the theory with a named objection that hits a specified part of the argument. Weak scripts usually know the vocabulary. They can write about wages, profit, exploitation and the working day at length. What they cannot do is keep the machinery in the right order under time pressure, and the marks leak away through a handful of repeatable errors rather than through ignorance of the topic as a whole.
 
-![Surplus value exam answers, the one-distinction rule and the costliest error - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Surplus value exam answers, the one-distinction rule and the costliest error - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This guide treats the examination as a craft problem with a content core. The content core is small enough to hold in the hand. Labour power is the commodity the worker sells. Labour is what the buyer gets to use after the sale. The value of labour power is fixed by the cost of keeping the worker alive, skilled and able to return to work, including the training, housing, food and family support that reproduction requires, and Marx insists that this cost carries a historical and moral element that varies between societies and periods. The working day divides into necessary labour, which replaces the value of labour power, and surplus labour, which creates value the worker does not receive. The rate of surplus value compares the second portion with the first, and that denominator matters more than most candidates realise. Around that core sits the craft: how questions are phrased, how command words change the job, how much exposition a marker wants before evaluation begins, which examples clarify and which examples quietly wreck the theory they were meant to illustrate, and how a closing judgement can lift a script a whole band without adding a single new fact.
 

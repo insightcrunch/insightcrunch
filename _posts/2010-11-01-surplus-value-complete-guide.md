@@ -6,14 +6,15 @@ date: 2010-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Surplus Value", "Karl Marx", "Marxist Economics", "Political Theory", "Das Kapital"]
 excerpt: "Surplus value explained through the no-cheating condition: labour power bought at full value, the working day divided, and the rate worked out step by step."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-11-01
+lang: en
 ---
 Surplus value is the concept on which the whole of Marx's critique of political economy turns, and it is also the concept that popular summary most reliably gets wrong. Ask a search engine where profit comes from in Marx and the answer that surfaces describes a gap between what a worker produces and what the worker is paid, as though the mechanism were a shortfall in the wage packet. That description gestures at a real difference while missing the argument entirely, because Marx's claim is stranger and stronger than any complaint about short pay. His claim is that the extra arises even when the wage is complete, even when every party honours every bargain, even when no deception, no monopoly, and no sharp practice enters the story at any point.
 
-![Surplus value and the working day in Marx's Capital, the no-cheating condition explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Surplus value and the working day in Marx's Capital, the no-cheating condition explained - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Hold that strangeness in view and the rest of this guide falls into place. A theory of cheating would be a weak theory, since cheating can be policed, prosecuted, and reformed away while the system that hosts it carries on untouched. Marx wanted something else: an account of how an economy built on equal exchange between free owners of commodities generates, by its own ordinary rules, a systematic transfer of unpaid labour from one class to another. The name he gave the transferred portion is surplus value, and the discipline he imposed on his own explanation, that no step may rely on anyone being short changed, is what this guide calls the no-cheating condition. Everything that follows is an unpacking of that condition: where it appears in the text, how the machinery works, which mistakes dissolve it, and where its critics have pressed hardest.
 

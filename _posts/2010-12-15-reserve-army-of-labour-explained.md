@@ -6,15 +6,15 @@ date: 2010-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Reserve Army of Labour", "Karl Marx", "Marxist Economics", "Sociology"]
 excerpt: "The reserve army of labour is not a synonym for unemployment: Marx's four forms, the relative surplus population, and the argument against Malthus in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-12-15
+lang: en
 ---
-
 The reserve army of labour is the population of workers that capitalist accumulation itself makes available beyond the numbers capital can profitably employ at a given moment, held in varying degrees of readiness to be drawn into production, pushed back out of it, or kept at its edges on irregular terms. Few phrases in Marx travel so widely with so little of their argument attached. In lecture slides, revision guides, and newspaper columns the term usually arrives flattened into a synonym for unemployment, decorated with a military metaphor and stripped of the two claims that give it force. Those claims are precise. First, the surplus population is produced by accumulation rather than inherited from nature or demography, so its size and shape change with the history of investment, mechanisation, and the organisation of work. Second, the surplus is relative rather than absolute, meaning relative to the requirements of capital at a particular stage of its development, not relative to the means of subsistence available in a society. A reader who keeps those two claims in view has the concept. A reader who loses them has a slogan.
 
-![The reserve army of labour in Marx, its four forms and the argument against Malthus - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The reserve army of labour in Marx, its four forms and the argument against Malthus - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 Precision matters here because the concept sits at a junction in Marx's system. It explains why wages tend to settle around the value of labour power rather than rising without limit when trade is good, and that explanation depends on the account of [surplus value in the complete guide](/2010/11/01/surplus-value-complete-guide/), where labour power is bought at its value and then used for longer than the time required to reproduce that value. It explains part of the human cost that the same system records as progress, since the machinery and reorganisation that raise productivity also expel workers or prevent their absorption. It also carries a polemic that most summaries omit entirely. Marx wrote the relevant chapter of Capital as a direct attack on Thomas Robert Malthus and on the doctrine that population presses eternally against food supply. Against that doctrine he argued that every historically specific mode of production has its own law of population, and that the surplus population of capitalism is an artefact of capitalist accumulation, not a verdict of nature. Recovering that argument is the difference between understanding the reserve army and merely recognising the phrase.
 

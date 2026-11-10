@@ -6,15 +6,15 @@ date: 2011-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Surplus Value", "Profit", "Marxist Economics", "Political Theory"]
 excerpt: "Surplus value and profit are not the same: the denominator rule, the three ratios, and how one pool of surplus value is divided among competing claims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-02-15
+lang: en
 ---
-
 Surplus value and profit are treated as two names for one thing in almost every casual discussion of Marx, and that single habit of speech quietly wrecks nearly everything built on top of it. A reader who assumes the words are interchangeable cannot follow why Marx needs three volumes to reach profit, cannot see why the rate of profit behaves differently from the rate of exploitation, and cannot make sense of interest, rent, or commercial earnings except as separate mysteries with separate sources. The confusion is understandable. Both terms point at a gain. Both are measured in money once accounts are drawn up. A firm that extracts a large surplus usually reports a healthy profit, so in ordinary experience the two magnitudes rise and fall together often enough to feel identical. Marx's whole construction depends on refusing that feeling. Surplus value names something produced, in a specific place, by a specific activity. Profit names something received, through a specific distribution, by a specific claimant. Production and reception are related, but they are not the same event, and the distance between them is where Volume Three of Capital does its work.
 
-![Surplus value vs profit, the denominator rule and the three ratios in Marx - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Surplus value vs profit, the denominator rule and the three ratios in Marx - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The stakes of the distinction are easiest to feel through the puzzles it dissolves. A merchant house earns a solid return while employing no one who makes anything. A bank collects interest year after year without a factory floor anywhere in its operations. A landlord draws rent from land nobody in the transaction created. A manufacturer, meanwhile, can organise exhausting shifts, pay wages far below the value the workforce adds, and still report a loss because prices moved against the firm or interest charges swallowed the gain. If profit and surplus value were synonyms, each of those cases would be a contradiction. A theory that equates them has to say the bank creates value out of paper, the merchant creates value out of shelving, and the loss-making manufacturer exploited nobody despite the unpaid hours on the timesheet. Marx's answer is that one pool of surplus value, produced in productive workplaces across the economy, is divided among many hands, and profit is the name for a share of that pool as it arrives in a particular set of accounts. Some recipients produced none of the pool themselves. Some producers receive less than they produced, or nothing, or less than nothing once debts are settled. That is the comparison this article works through, with the formulas stated in prose, one numerical example carried from beginning to end, and a verdict on which term answers which question.
 
