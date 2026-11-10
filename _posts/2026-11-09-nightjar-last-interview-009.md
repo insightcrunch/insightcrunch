@@ -6,19 +6,19 @@ date: 2026-11-09
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "highstile", "fiction-serial"]
 excerpt: "The man who wrote of the clean room is barricaded in his own house at Highstile, and the people waiting outside are not the Accord and will not wait for long."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-09
+lang: en
 ---
-
 ## Four in the Morning
 
 The kitchen at the back of the house was cold in the way stone stayed cold after a clear night, through the floor and up through the soles of his feet, and Corwen Ash stood at the sink in his socks and felt it without minding it. The tap ran in a thin, steady thread, not open full, because a full tap drummed in the pipes and carried down the lane, and he had learned long ago which sounds this house made for itself and which sounds it gave away. The sink was iron, deep and scarred along one side where pans had struck it for years before his time, and the water ran dark for a breath where the ash had already gathered and then ran clear again. Outside the small window the lane was still without light and without rain. It was the first morning of a kind he had rehearsed so often that the rehearsal and the morning itself had the same shape, and his hands knew the order of the work before his mind had finished waking to it.
 
 He had risen at the fourth hour, as he rose most days, and dressed as he always dressed, shirt first, then trousers, then the heavy cardigan with the leather buttons his mother had sewn on when the house was still hers in everything but paper. He had not lit the range. A lit range sent smoke up the chimney, and smoke at this hour told anyone watching that the house had woken early and meant to be busy. The cold range stood against the wall with its door shut and its top wiped clean from the night before, because a clean top was easier to leave than a dirty one. He had made no tea. Tea could wait until the first bundle was done, and if tea never came, that too had been considered years ago and set down among the smaller losses.
 
-![The stone house at the top of the lane in Highstile, its upper windows dark against the rain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The stone house at the top of the lane in Highstile, its upper windows dark against the rain - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The first bundle waited on the kitchen table, tied once with twine and then untied again before he carried it to the sink, because twine burned badly and smoked and left a smell that was not paper. He set the pages down in a neat stack beside the basin, squared them with the edge of his palm, and took the top sheet between finger and thumb the way a clerk took a sheet, without haste and without fumbling. The sheet caught at one corner from the match and burned in a slow bloom across its own surface, the writing going first at the edges where the flame thinned it, then in the middle where the heat gathered. He held it until holding it was no longer sensible, then let it fall into the sink, where the running water took the ash down in a grey swirl and the flame died against wet iron with a small, private sound. Then he took the next sheet.
 
