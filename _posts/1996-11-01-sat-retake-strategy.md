@@ -9,7 +9,7 @@ excerpt: "SAT retake strategy: when a retake is worth it, when to stop, the dimi
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1996-11-01
+last_updated: 2026-11-10
 lang: en
 ---
 A student opens a score report, sees a number lower than the one they had imagined all autumn, and within ten minutes has decided to register again. No diagnosis, no error review, no comparison against a target band, just the reflex that another sitting must produce a better outcome. That reflex is the single most expensive habit in the entire score-improvement conversation, and an SAT retake strategy worth the name exists precisely to interrupt it. The decision to sit the test a second or third time should rest on evidence about where points were lost, not on the disappointment of the moment, and the gap between those two ways of deciding is worth dozens of points and many wasted weekends.

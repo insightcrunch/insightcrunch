@@ -9,7 +9,7 @@ excerpt: "A small school with three AP classes is a constraint, not a verdict. T
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 90
 author: "michael-brooks"
-last_updated: 2006-03-12
+last_updated: 2026-11-10
 lang: en
 ---
 A graduating class of forty changes what a school can offer. Courses need enough enrolled students to justify a teacher, a room, and a schedule slot, and a small rural school may be able to run only a handful of Advanced Placement classes even when its teachers care deeply and its students are ready for more. That arithmetic can feel personal in October of junior year, when a student compares a course list with a cousin in a large suburb and sees a gap that effort alone did not create. The gap is real, and pretending otherwise helps nobody. What matters is the distinction between a constraint and a verdict. A constraint limits the first route you imagined. A verdict would mean no other route exists, and for AP that is not true.

@@ -5,11 +5,11 @@ page_title: "SAT Punctuation: Colon, Semicolon, Dash and Apostrophe Rules When A
 date: 1997-03-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Punctuation", "Colon Semicolon", "Grammar"]
-excerpt: "SAT punctuation explained: colon, semicolon, dash and apostrophe rules, including the its-versus-it's trap, for questions that offer all four marks as choices."
+excerpt: "Master the four punctuation marks the SAT tests most aggressively with rule-by-rule walkthroughs and worked examples."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1997-03-02
+last_updated: 2026-11-10
 lang: en
 ---
 Picture the moment that decides a punctuation item. The screen shows one sentence with a single blank, and the four answer choices are a colon, a semicolon, a comma, and a dash. The sentence itself has not changed across the four options. Only the mark in the gap moves. A test-taker who reads the sentence four times, listening for which version "sounds right," will guess, and on this kind of item the ear is a coin flip. A test-taker who applies one mechanical check, whether the words on each side of the gap form a complete sentence on their own, will answer in seven seconds and move on with the point banked.

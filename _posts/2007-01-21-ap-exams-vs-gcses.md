@@ -9,7 +9,7 @@ excerpt: "AP exams and GCSEs sit at different stages of schooling. This comparis
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 89
 author: "lukas-weber"
-last_updated: 2007-01-21
+last_updated: 2026-11-10
 lang: en
 ---
 Families who move between Britain and the United States, or who simply shop across the two systems, often line up Advanced Placement exams and GCSEs side by side and ask which one a student should take. The pairing looks natural at first glance. Both are named qualifications with syllabuses, examiners, grades, and a reputation that travels beyond the school gate. Both appear on applications and in conversations about university readiness. Yet the resemblance dissolves quickly once purpose enters the picture, because the two credentials were built to certify different moments in a student's life. One marks the end of compulsory schooling and the sorting that follows it. The other samples university level study while a student is still in secondary school and asks colleges to reward that reach.

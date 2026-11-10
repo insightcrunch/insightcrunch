@@ -5,11 +5,11 @@ page_title: "SAT Command of Evidence: Textual and Quantitative Support, the Two-
 date: 1997-03-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Command of Evidence", "Data Interpretation", "Strategy"]
-excerpt: "SAT command of evidence explained: textual and quantitative support, a two-step method and the right-topic-wrong-claim trap, with worked examples both subtypes."
+excerpt: "Master both Command of Evidence subtypes on the Digital SAT with the two-step process and 8+ worked examples."
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1997-03-25
+last_updated: 2026-11-10
 lang: en
 ---
 A student reads a short passage about a historian's argument, glances at four answer choices, and picks the one that sounds the most like the passage. The choice is on topic. It uses the same vocabulary. It even repeats a phrase the author used. And it is wrong, because it supports a claim the question never asked about. That single habit, choosing the option that matches the subject rather than the option that matches the exact claim, costs more command of evidence points than any reading-comprehension weakness ever will.

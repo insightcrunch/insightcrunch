@@ -5,11 +5,11 @@ page_title: "UPSC Cut-Off Analysis: Prelims, Mains and Final Cut-Offs by Categor
 date: 2003-06-09
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Cut Off", "IAS Cut Off", "UPSC Prelims Cut Off", "UPSC Mains Cut Off"]
-excerpt: "Set realistic UPSC targets with multi-year cut-off data across Prelims, Mains, and final stages, detailed preparation strategy and approach, exam guide"
+excerpt: "Decode UPSC cut-off trends across categories and stages to plan your score targets with confidence."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2026-04-13
+last_updated: 2026-11-10
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "cut"

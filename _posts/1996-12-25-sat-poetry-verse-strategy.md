@@ -9,7 +9,7 @@ excerpt: "SAT poetry excerpts explained: reading compressed language, finding fi
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
 author: "elena-wright"
-last_updated: 1996-12-25
+last_updated: 2026-11-10
 lang: en
 ---
 A short stack of lines sits at the top of the screen, eight of them, maybe ten, and a single multiple-choice item waits underneath. Most candidates lose this point not because the verse is hard but because they read it the way they read a text message: once, fast, for the surface event. Poetry on the digital exam punishes that habit harder than any other passage type, because compressed language hides its real claim one layer down, and the wrong answers are built specifically to reward the surface read. A student who sees a poem about a closed window and a quiet room writes down "the speaker is describing a house," picks the choice that says exactly that, and walks straight into the trap. The line was never about the house.

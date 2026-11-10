@@ -5,11 +5,11 @@ page_title: "SAT Grammar: The Complete Standard English Conventions Reference, O
 date: 1997-03-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Grammar", "Standard English", "Conventions"]
-excerpt: "SAT Standard English Conventions: every tested grammar rule ordered by test frequency, from agreement to punctuation, with error-and-fix examples throughout."
+excerpt: "The complete SAT grammar reference covering agreement, punctuation, structure, and modifiers, organized by test frequency."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 62
 author: "natalie-webb"
-last_updated: 1997-03-11
+last_updated: 2026-11-10
 lang: en
 ---
 Most students study grammar the way they clean a messy room: they start wherever their eye lands, fix whatever bothers them first, and run out of energy before the important corner gets touched. That habit costs real points on the SAT, because the Standard English Conventions questions are the most recoverable points on the entire exam. They reward a finite, knowable rule set rather than open-ended judgment. There is no passage to interpret three ways, no author's intent to argue about, no trap built from ambiguity. A semicolon either joins two independent clauses or it does not. A verb either matches its real subject or it does not. The answer is mechanical, and mechanical things can be learned to mastery in a way that reading interpretation never quite can.

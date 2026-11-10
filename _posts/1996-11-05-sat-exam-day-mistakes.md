@@ -9,7 +9,7 @@ excerpt: "SAT exam day mistakes that cost points: 15 test-day errors from poor s
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "natalie-webb"
-last_updated: 1996-11-05
+last_updated: 2026-11-10
 lang: en
 ---
 A student who has spent three months working through algebra drills and reading passages walks into the exam room having done almost everything right, and then loses forty points before the first question loads. Not because the preparation failed. Because the morning did. The alarm went off late, breakfast was a single energy bar eaten standing up, the tablet was at nine percent battery, and by the time the proctor read the instructions, that test-taker was already breathing shallow and thinking about the parking situation rather than the first reading prompt. None of those losses show up on a practice test. All of them show up on the real one.

@@ -9,7 +9,7 @@ excerpt: "Canceling an AP score deletes it; withholding only hides it from one c
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-11-10
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, in the nervous weeks after AP exams end and before results arrive, thousands of students go searching for an undo button. They remember the free-response question that went sideways, the multiple-choice section where the clock won, the essay written on three hours of sleep. Somewhere between dread and hope, a rumor surfaces: you can cancel an AP score, or hide it, and the college will never know. The rumor is half right, and the half that is wrong can cost a student a credential that took a full year to earn. Cancellation and withholding are real tools in the College Board system, but they do different things, answer to different deadlines, and carry very different consequences for the future.

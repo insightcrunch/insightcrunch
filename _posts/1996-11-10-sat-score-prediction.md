@@ -9,7 +9,7 @@ excerpt: "SAT score prediction: using official practice tests and the PSAT, why 
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1996-11-10
+last_updated: 2026-11-10
 lang: en
 ---
 Two weeks before the real thing, a student emails me a single number. "I got a 1380 on a practice test. Will I get a 1380?" The honest answer is that one practice result tells you almost nothing on its own, and treating it as a forecast is the most common way students walk into the exam either falsely calm or falsely panicked. A single timed run is a snapshot of one morning, one set of passages, one Math module, one breakfast, one mood. The morning that counts will be a different morning. What you can do, and what almost nobody does carefully, is convert several practice results into a defensible range, then read the shape of those results to learn something more useful than the range itself: whether you are a steady performer who will land near your average, or a swinging one whose outcome depends on which version of you shows up.

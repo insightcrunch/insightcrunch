@@ -9,7 +9,7 @@ excerpt: "Inference turns sample evidence into careful claims about whole popula
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 89
 author: "christopher-wells"
-last_updated: 2006-08-25
+last_updated: 2026-11-10
 lang: en
 ---
 Every interesting question in statistics eventually asks for more than the data in hand. A school board does not care only about the 400 students who answered a survey; it wants to know what all students in the district think. A manufacturer does not merely wonder whether the 250 batteries on a test bench passed inspection; it wants a claim about every battery rolling off the line. Inference is the branch of the subject built for exactly that leap, the disciplined move from a sample that was measured to a population that was not, and confidence intervals and hypothesis tests are its two working tools.

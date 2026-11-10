@@ -9,7 +9,7 @@ excerpt: "The Phillips curve and the loanable funds market carry much of AP Macr
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 89
 author: "michael-brooks"
-last_updated: 2006-06-23
+last_updated: 2026-11-10
 lang: en
 ---
 Two graph models decide a surprising share of success in the second half of AP Macroeconomics. The Phillips curve ties inflation to unemployment and forces a student to think clearly about what an economy can and cannot sustain. Saving and investment meet in the loanable funds market, whose real interest rate forces a student to think clearly about where the funds for growth actually come from. Each model rewards careful reading on its own, yet the deeper reward comes from seeing that neither model lives alone. A policy drawn on one graph sends pressure through the interest rate into the other market, and from there into output, employment, and prices.

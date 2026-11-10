@@ -9,7 +9,7 @@ excerpt: "Some AP classes deliver outsized value and still get overlooked. This 
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-10-18
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, course selection season follows a familiar script. A handful of famous names absorb nearly all the attention in the counseling office, while quieter courses down the hall fill slowly or never fill at all. Students crowd into the classes their older siblings took, the classes whispered about in group chats, the classes assumed to impress. Meanwhile a course with a gentler workload, a generous credit record, and a direct line into a student's intended major sits half empty, chosen mostly by accident.

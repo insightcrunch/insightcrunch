@@ -9,7 +9,7 @@ excerpt: "Four market structures and one game matrix organize AP Micro's firm be
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-06-19
+last_updated: 2026-11-10
 lang: en
 ---
 Every firm on the AP Microeconomics exam faces the same underlying question, and the exam returns to it from a dozen directions: how much control does this seller have over the price it charges? A wheat farmer checking the morning quote has none at all. A patented drug maker holds a great deal, bounded only by what patients and insurers will pay. Between those poles sit the coffee shop with its loyal regulars and the airline watching a rival adjust fares by the hour. The four market structures of the course, perfect competition, monopoly, monopolistic competition, and oligopoly, are best understood as four answers to that single question, arranged along a spectrum of market power rather than as four unrelated models to memorize in isolation.

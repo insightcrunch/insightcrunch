@@ -9,7 +9,7 @@ excerpt: "AP is mid-redesign, and students choosing classes now will meet the ne
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 90
 author: "jessica-kim"
-last_updated: 2006-02-26
+last_updated: 2026-11-10
 lang: en
 ---
 A ninth grader signing a course request form this spring is placing a four year bet. She chooses a sequence of classes now, yet the exams waiting at the end of that sequence may arrive on a laptop screen instead of in a shrink wrapped paper booklet, may cover a redesigned syllabus, and may earn credit under rules her target colleges have rewritten twice in the meantime. The future of AP exams is therefore not a curiosity for education watchers. It is a planning problem for every family that treats Advanced Placement as part of a path toward college.

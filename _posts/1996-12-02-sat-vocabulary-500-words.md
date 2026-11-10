@@ -9,7 +9,7 @@ excerpt: "SAT vocabulary core: 500 essential words in three tiers with definitio
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 79
 author: "hannah-moore"
-last_updated: 1996-12-02
+last_updated: 2026-11-10
 lang: en
 ---
 ## The vocabulary myth that costs verbal points

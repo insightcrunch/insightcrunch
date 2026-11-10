@@ -9,7 +9,7 @@ excerpt: "Every history DBQ grades the same moves in different costumes. This gu
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 90
 author: "jessica-kim"
-last_updated: 2006-05-09
+last_updated: 2026-11-10
 lang: en
 ---
 A student who has learned to write the document-based question for one history course has, whether she knows it or not, learned most of the essay for the other two. The prompts wear different costumes. One asks about the causes of a revolution in the Atlantic world, another about industrialization and its discontents in nineteenth-century Europe, a third about the political battles of the early American republic. Underneath the costumes sits a single skeleton: a claim to defend, a set of documents to interrogate, a fund of outside knowledge to deploy, and a grader reading with one shared rubric in hand. Students who treat each exam's DBQ as a wholly separate invention waste the most valuable asset they own, which is transfer. Students who see the skeleton spend their preparation refining one method instead of memorizing three rituals.

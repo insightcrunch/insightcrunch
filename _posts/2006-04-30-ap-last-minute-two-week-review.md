@@ -9,7 +9,7 @@ excerpt: "Two weeks is not much time, but it is enough time used ruthlessly well
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 90
 author: "michael-brooks"
-last_updated: 2006-04-30
+last_updated: 2026-11-10
 lang: en
 ---
 Fourteen days before an AP exam feels like a cliff edge to most students, and the feeling deserves respect rather than dismissal. A course that unfolded across an entire school year cannot be rebuilt inside two weeks, and any plan pretending otherwise sets a trap. What fourteen days can hold is something narrower and far more useful: a disciplined campaign that finds the points still available, repairs the weaknesses that cost the most, and walks into the testing room with timing, format, and nerves already rehearsed.

@@ -5,11 +5,11 @@ page_title: "SAT Literature Passages: Character, Tone, Figurative Language and R
 date: 1997-04-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Literature", "Fiction", "Reading Strategy"]
-excerpt: "SAT literature and poetry passages: reading character, precise tone, figurative language and verse, with interpretive walkthroughs for both prose and verse."
+excerpt: "Master every SAT literature passage type with strategies for tone, character, and figurative language interpretation."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1997-04-03
+last_updated: 2026-11-10
 lang: en
 ---
 A literature item on the digital SAT can stall a strong test-taker for a full minute, and almost never because the language is hard. The excerpt is short, often under a hundred words, and the sentences are plain enough. The stall comes from a quieter problem: the candidate reads the lines correctly, understands every clause, and then cannot decide which answer choice the text actually supports. Two of the four options feel right. One says the narrator is "frustrated," another says she is "wistful," and the reader, having followed the scene perfectly, has no procedure for choosing between them. That gap, between comprehending a literary excerpt and proving an interpretation against it, is where points on the literature items quietly disappear.

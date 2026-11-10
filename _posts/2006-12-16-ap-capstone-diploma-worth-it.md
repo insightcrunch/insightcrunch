@@ -9,7 +9,7 @@ excerpt: "The AP Capstone Diploma joins Seminar, Research, and four more exams. 
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2006-12-16
+last_updated: 2026-11-10
 lang: en
 ---
 Every few years, a new credential appears in the high school course catalog and families have to decide whether it is a genuine opportunity or an extra hoop dressed up as one. The AP Capstone Diploma sits squarely in that category of questions. It comes from the College Board, the same organization behind the Advanced Placement program, and it asks students to complete two yearlong courses built around research and argument, then back them with strong scores on four additional AP exams. On paper the structure looks tidy. In practice the decision touches course schedules, teacher availability, college ambitions, and the finite hours in a teenager's week.

@@ -5,11 +5,11 @@ page_title: "SAT Student Notes Questions: Matching the Goal to the Notes on a Di
 date: 1997-03-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Student Notes", "Summary", "Digital SAT"]
-excerpt: "SAT student notes questions explained: matching the stated goal to the bullet-point notes and the goal-first method, with worked examples for each goal type."
+excerpt: "Master the SAT's newest question format with this complete guide to notes and summary questions, with worked examples."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 59
 author: "maria-santos"
-last_updated: 1997-03-20
+last_updated: 2026-11-10
 lang: en
 ---
 A student loses this question not because the facts are hard but because they answer a question nobody asked. The screen shows four short bullet facts a researcher jotted down, and the prompt says the writer wants to emphasize a difference between two methods. Three of the four choices are flawless restatements of the facts. They are accurate, fluent, grammatically clean. Only one of them actually puts the two methods side by side and names the contrast, and that single trait is the entire point. The other three are traps built from true sentences. If you grade an answer by whether it is correct rather than by whether it does the job the directive named, you will pick a true sentence that fails the assignment, and you will do it fast and confidently, which is the worst way to be wrong.

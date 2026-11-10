@@ -9,7 +9,7 @@ excerpt: "SAT reading and writing question patterns analyzed into a priority tie
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-12-11
+last_updated: 2026-11-10
 lang: en
 ---
 Two students sit down with the same six weeks, the same stack of official practice, and the same goal of clearing the verbal section with room to spare. One of them opens a grammar textbook at chapter one and works forward, page by page, giving the subjunctive mood and the rules for parallel comparison the same loving attention as the comma splice. The other looks first at what the digital format actually asks, sorts every question type by how often it shows up, and spends the first two weeks almost entirely on the handful of patterns that carry the most points. Six weeks later, the second student is scoring forty to seventy points higher, and the difference has almost nothing to do with talent or vocabulary. It is a difference of allocation. The verbal section rewards the test-taker who studies in the order the section itself tests, not the order a syllabus happens to list.

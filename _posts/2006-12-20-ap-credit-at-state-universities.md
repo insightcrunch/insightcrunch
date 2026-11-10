@@ -9,7 +9,7 @@ excerpt: "State universities turn AP scores into credit under published rules. T
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 89
 author: "katherine-blake"
-last_updated: 2006-12-20
+last_updated: 2026-11-10
 lang: en
 ---
 A student who earns strong AP scores and enrolls at a public university steps into the most rule-bound corner of American higher education. State universities publish their AP credit policies in formal tables, apply them through registrars rather than through individual negotiation, and answer to legislatures, governing boards, and taxpayers who expect consistency. That formality is a gift to families willing to read carefully. Where a private college might weigh a transcript as a whole and award credit through discretion, a state campus usually works from a printed grid: this exam, at this score, earns this course, for this many hours. The grid can be generous or tight, and it changes from state to state and even from campus to campus inside one system, yet it exists in public view long before an application is filed. Planning therefore starts years before enrollment, with the policy table treated as a planning document rather than as a surprise discovered at orientation.

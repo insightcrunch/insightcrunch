@@ -9,7 +9,7 @@ excerpt: "Law school rewards readers and arguers, and AP builds both early. This
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 90
 author: "hannah-moore"
-last_updated: 2006-04-08
+last_updated: 2026-11-10
 lang: en
 ---
 Somewhere in a sophomore classroom, a student who dreams of a courtroom is usually asking the wrong question. The question sounds sensible: which classes should a future lawyer take, as if a registrar somewhere kept a list and law schools checked it twice. No such list exists. Law schools admit students from physics departments, conservatories, engineering programs, and philosophy seminars, and they do so without apology, because the work of law rests on abilities that many different classrooms can build. What an admissions committee wants to see is evidence that an applicant can read dense material closely, argue both sides of a hard problem, and write with enough clarity that a busy judge could follow the reasoning on the first pass.

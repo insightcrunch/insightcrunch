@@ -9,7 +9,7 @@ excerpt: "AP and honors classes differ in exam, weighting, and how colleges read
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-11-14
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, course selection sheets move through high school households like weather systems, and the same question lands on kitchen tables everywhere: should the box checked for next year say AP or honors? The choice looks small on paper. One line on a form, one letter code in a scheduling system, one conversation with a counselor that lasts perhaps ten minutes. Yet the decision quietly shapes the next nine months of a student's life. It sets the weight of the nightly homework pile, the arithmetic of the grade point average, the pace of every school day, and a piece of the story the finished transcript will tell colleges several years from now.

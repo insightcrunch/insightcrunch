@@ -9,7 +9,7 @@ excerpt: "SAT transitions explained: ignore the choices, read before and after, 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1997-01-03
+last_updated: 2026-11-10
 lang: en
 ---
 A transition question hands you four words that all sound like reasonable English, and exactly one of them is right. The other three are not grammar errors. They are not awkward. They will read perfectly smoothly in the blank, which is the whole trap. The writers know that a tired test-taker will slot in the choice that flows nicely off the tongue and move on, and they build the wrong answers to flow nicely off the tongue. The word "however" can sit in a blank and feel completely natural while quietly reversing a relationship that was never a contrast in the first place. If you choose by ear, you lose the point and never feel the loss.

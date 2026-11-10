@@ -9,7 +9,7 @@ excerpt: "How to get a perfect 1600 on the SAT: the shift from getting questions
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1996-11-28
+last_updated: 2026-11-10
 lang: en
 ---
 A perfect 1600 is not a harder version of a 1500. It is a different game with different rules, and the player who does not understand that almost never arrives. At 1500 you are still earning points by knowing more than the next test-taker, by recognizing a function transformation faster, by spotting the comma splice the careless reader walks past. Knowledge is still the currency. Cross into the 1550-plus territory and the currency changes hands entirely. There is almost nothing left for you to learn. You already know the content cold. The only thing standing between you and the top of the scale is the handful of small, avoidable slips your brain makes when it is moving fast and feeling confident, and the entire discipline of getting a 1600 reduces to one sentence: stop trying to get questions right and start refusing to miss a single one.

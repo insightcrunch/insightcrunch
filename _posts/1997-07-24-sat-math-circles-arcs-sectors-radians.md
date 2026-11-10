@@ -5,11 +5,11 @@ page_title: "SAT Circle Geometry: Completing the Square, Arc Length, Sector Area
 date: 1997-07-24
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Circles", "Geometry", "Trigonometry"]
-excerpt: "SAT circle geometry explained: the standard equation, completing the square, arc length, sector area and radian conversion, with worked examples throughout."
+excerpt: "Master SAT circle questions with the equation-of-a-circle method, arc and sector formulas, and radian rules."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "simon-hartley"
-last_updated: 1997-07-24
+last_updated: 2026-11-10
 lang: en
 ---
 A student opens a Module 2 math item and sees this: x squared plus y squared minus 6x plus 8y minus 11 equals 0. There is no obvious shape, no center, no radius, nothing that looks like geometry at all. It reads like an algebra problem that wandered into the wrong section. The unprepared test-taker stares, decides it is too hard, and skips it. The prepared one notices a single feature, the equal coefficients on the two squared terms, recognizes the expression as a circle in disguise, completes the square in about forty seconds, and walks away with a free point. That gap, between a blank stare and a fast solve, is the entire subject of this guide, and it is the clearest example on the whole exam of how a tiny act of pattern recognition converts a hard-looking question into an easy one.

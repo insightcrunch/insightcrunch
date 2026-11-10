@@ -9,7 +9,7 @@ excerpt: "A score you regret forces a choice among canceling, withholding, and s
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 90
 author: "michael-brooks"
-last_updated: 2006-04-26
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, a familiar scene plays out in kitchens and counseling offices across the country. A student who prepared for months walks out of an Advanced Placement exam room with a hollow feeling, convinced that the performance bore no resemblance to the year of work behind it. Weeks later, when scores arrive, that feeling sometimes hardens into a number the student wishes did not exist. The wish is understandable, and it produces an urgent question: should this score be erased, hidden, or simply left alone? The three impulses feel similar in the moment, yet they lead to very different places, and choosing among them deserves more care than panic usually allows.

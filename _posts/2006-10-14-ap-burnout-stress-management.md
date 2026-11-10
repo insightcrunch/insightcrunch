@@ -9,7 +9,7 @@ excerpt: "AP burnout is a load problem before it is a character problem. This gu
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2006-10-14
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, strong students quietly fall apart in the same predictable way. A junior who handled September with energy and good humor reaches March unable to open a textbook without a wave of dread. The grades that once felt like a game become a threat. Sleep thins out, patience wears down, and work that used to take an hour stretches across an entire evening. Nothing about the student's ability has changed. What has changed is the balance between demand and recovery, and that imbalance has a name: burnout.

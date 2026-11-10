@@ -9,7 +9,7 @@ excerpt: "No two AP classes ask the same price in time and strain. This tier lis
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 90
 author: "samantha-lee"
-last_updated: 2006-10-05
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, registration forms circulate through advising offices and kitchen tables, and one question dominates nearly all of those conversations: how hard is that class, really? Families ask it about a single course, counselors hear it about entire schedules, and students repeat it in hallways as if a single number could settle a year of evenings. A tier list cannot give that number, because no such number exists, yet a careful ranking can do something almost as useful. Placing courses beside one another, with the reasons for each placement stated plainly, turns rumor into a planning tool that a student can argue with, adjust, and finally use.

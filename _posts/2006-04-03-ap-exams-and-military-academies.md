@@ -9,7 +9,7 @@ excerpt: "Service academies weigh rigor alongside leadership and fitness. This g
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 90
 author: "michael-brooks"
-last_updated: 2006-04-03
+last_updated: 2026-11-10
 lang: en
 ---
 Applying to a service academy is not the same project as applying to a civilian university, and the difference shapes how a student should think about Advanced Placement work. West Point, the Naval Academy, the Air Force Academy, the Coast Guard Academy, and the Merchant Marine Academy each run admissions as a whole-candidate evaluation, one that places the transcript beside leadership evidence, athletic participation, a fitness assessment, medical screening, character review, and, for most of the academies, a nomination from a member of Congress or another authorized source. An AP record enters that file as proof of academic preparation, and it matters, sometimes a great deal. It never enters alone, and it never carries the file by itself.

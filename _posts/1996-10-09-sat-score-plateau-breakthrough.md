@@ -9,7 +9,7 @@ excerpt: "SAT score plateaus diagnosed: the four causes from practicing too easy
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1996-10-09
+last_updated: 2026-11-10
 lang: en
 ---
 You have taken four practice tests and the composite has not moved. The first jump came easily, fifty or sixty points from learning the format and shaking off the rust, and then the number froze. You are studying the same hours, drilling the same sets, and the result on test after test lands inside the same narrow band. The instinct at this point is brutally simple and almost always wrong: do more. More practice tests, more drills, more late nights with the same materials that have already taken you as far as they are going to. A stalled result is not a volume problem. It is a diagnosis problem, and pouring more hours into the wrong cure is how motivated students lose entire months without gaining a point.

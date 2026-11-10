@@ -9,7 +9,7 @@ excerpt: "AP Seminar grades research and argument, not a body of facts. This gui
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 89
 author: "jessica-kim"
-last_updated: 2007-02-03
+last_updated: 2026-11-10
 lang: en
 ---
 Most Advanced Placement courses hand students a defined body of knowledge and then test how much of it stuck. AP Seminar works in the opposite direction. The course hands students questions that have no single settled answer, a stack of sources that disagree with one another, and a set of deadlines spread across the school year, then it grades how well they investigate, argue, write, and speak. A student who thrives on memorized content may find the openness unsettling at first, while a student who loves chasing a problem through libraries and databases often discovers that Seminar feels less like a class and more like an apprenticeship in thinking.

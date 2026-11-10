@@ -5,11 +5,11 @@ page_title: "SAT Verb Tense and Mood: Tense Consistency, Past Perfect and the Su
 date: 1997-02-17
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Verb Tense", "Grammar", "Conventions"]
-excerpt: "SAT verb tense and mood explained: tense consistency, when shifts are valid, past perfect sequencing and the subjunctive, with error-and-fix examples."
+excerpt: "Resolve any SAT verb tense or mood question in under 25 seconds with this rule-by-rule guide and worked examples."
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1997-02-17
+last_updated: 2026-11-10
 lang: en
 ---
 A single mismatched verb sits inside an otherwise consistent paragraph, and the Digital SAT asks you to repair it. That is the whole game with the verb questions on the Standard English Conventions portion of Reading and Writing, and yet students lose these points at a rate that has nothing to do with the difficulty of the grammar. They lose them because they read each verb in isolation, weigh whether it "sounds right," and pick whichever choice matches the rhythm of the sentence they just read. The fix sounds right too. The trap choice always sounds right. That is what makes it a trap.

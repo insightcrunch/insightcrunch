@@ -9,7 +9,7 @@ excerpt: "Series decide whether endless sums settle, and Taylor polynomials make
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-08-30
+last_updated: 2026-11-10
 lang: en
 ---
 Every other topic in calculus deals with finite processes: a finite slope, a finite area, a finite list of operations carried out one at a time. Series break that pattern. A series asks what happens when addition never stops, when infinitely many terms pile onto a running total and the total either settles toward a single number or drifts away forever. That question sits at the heart of AP Calculus BC, because the final unit of the course is devoted to infinite sequences and series, and because the tools built there reach backward into everything earlier: integrals become sums, functions become polynomials of unlimited degree, and approximations come with guarantees about their own error. A student who masters this unit owns the most distinctive material on the BC exam, the material that separates the BC syllabus from the AB syllabus most sharply.

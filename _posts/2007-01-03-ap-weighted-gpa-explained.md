@@ -9,7 +9,7 @@ excerpt: "A weighted GPA rewards hard courses, but every school weights differen
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 89
 author: "katherine-blake"
-last_updated: 2007-01-03
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, report cards land in kitchens across the country carrying a number that looks simple and behaves like a puzzle. A student opens the portal, sees a 4.37 where a 4.0 was supposed to be the ceiling, and asks the obvious question: how can an average exceed its own maximum? The answer sits inside one of the least standardized corners of American schooling, the weighted grade point average, a figure that tries to reward students for choosing harder courses while quietly depending on rules that change from one district, one school, sometimes one counselor's office to the next.

@@ -5,11 +5,11 @@ page_title: "SAT Radicals and Rational Equations: Fractional Exponents, Extraneo
 date: 1997-08-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Radicals", "Rational Equations", "Advanced Math"]
-excerpt: "SAT radicals and rational equations explained: fractional exponents, rationalizing, excluded values and the extraneous solution trap, with worked examples."
+excerpt: "Every SAT radical and rational equation pattern, decoded with rule-by-rule walkthroughs and Desmos checks."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1997-08-20
+last_updated: 2026-11-10
 lang: en
 ---
 Two whole families of Digital SAT algebra questions share a single hidden discipline, and the students who never learn it lose points they fully earned with their algebra. SAT radicals and rational equations look like separate topics, one about roots and surds, the other about fractions with variables in the bottom. They are graded by the same instinct. Every time you square both sides of an equation, and every time you clear a denominator by multiplying, you create the possibility of a false root, an answer that satisfies your rewritten line but breaks the original one you were actually asked about. The test writers know this. They build the wrong multiple-choice choices directly out of those false roots, so a student who solves the algebra perfectly and skips the final substitution walks straight into the trap that was set for exactly that moment.

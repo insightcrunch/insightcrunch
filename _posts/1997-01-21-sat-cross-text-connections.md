@@ -9,7 +9,7 @@ excerpt: "SAT cross-text connections explained: pinning both authors' positions,
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1997-01-21
+last_updated: 2026-11-10
 lang: en
 ---
 A student reads the two short passages, finds the choice that perfectly captures what the first writer argued, selects it, and moves on feeling certain. The choice was wrong. It described the first writer with surgical accuracy and then misstated the second one by a single degree, and that single degree is the whole question. This is the signature failure of cross-text connections, the paired-passage item that asks not what either writer thinks but how the two stances relate, and it is the place where careful readers lose points they have no business losing.

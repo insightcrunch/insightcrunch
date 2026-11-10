@@ -9,7 +9,7 @@ excerpt: "AP Environmental Science hides a math exam inside a science exam. This
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-05-27
+last_updated: 2026-11-10
 lang: en
 ---
 Every AP Environmental Science student eventually meets the moment. The multiple choice question looks like ecology, the free response prompt sounds like policy, and then the numbers arrive: a watershed measured in hectares, a power plant rated in megawatts, a population growing by a stated percent each year. Students who treated the course as pure vocabulary feel betrayed by that moment, while students who expected it simply reach for a pencil. Environmental science is a quantitative field wearing a descriptive costume, and the exam honors that reality. Roughly a fifth of the test asks you to compute something, and much of the rest asks you to interpret quantities that somebody else computed.

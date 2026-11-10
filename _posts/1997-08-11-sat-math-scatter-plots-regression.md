@@ -5,11 +5,11 @@ page_title: "SAT Scatter Plots and Regression: Slope in Context, Residuals and t
 date: 1997-08-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Scatter Plots", "Statistics", "Data Analysis"]
-excerpt: "SAT scatter plots and regression explained: slope in context, residuals, interpolation and the correlation-versus-causation trap, with worked examples included."
+excerpt: "Master SAT scatter plot questions with line-of-fit rules, correlation strength, and residual interpretation."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "samantha-lee"
-last_updated: 1997-08-11
+last_updated: 2026-11-10
 lang: en
 ---
 There is a single answer choice that appears, in some disguise, on nearly every scatter plot set the Digital SAT serves you, and it is always wrong. It is the choice that says one variable *causes* the other. A graph shows hours of sleep climbing alongside exam performance, four answer options sit below it, and one of them announces that more sleep proves higher scores. Students who have spent weeks memorizing the slope formula and the equation of a line read that option, recognize the relationship they just saw on the screen, and select it. They lose the point not because the arithmetic defeated them but because they answered a statistics question with intuition instead of a rule. The SAT scatter plot is not really a graphing topic. It is a reading-of-the-answer-choices topic wearing a graph as a costume.

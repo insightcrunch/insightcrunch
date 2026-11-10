@@ -9,7 +9,7 @@ excerpt: "Related rates and optimization turn derivatives into decisions about m
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-09-08
+last_updated: 2026-11-10
 lang: en
 ---
 Two families of problems dominate the applications of derivatives on the AP Calculus AB exam, and both begin life as paragraphs of ordinary English rather than as equations. Related rates problems describe a physical scene in motion, a ladder sliding, a tank filling, a shadow lengthening, and ask how fast some quantity is changing at a particular instant. Optimization problems describe a situation with a goal, a fence to build, a box to fold, a can to manufacture, and ask for the dimensions or the decision that produces the largest or smallest possible value of something. Students often experience these as the hardest questions on the exam, yet the calculus inside them is usually brief. The difficulty lives in the translation, in turning a story about the world into a relationship between variables, and that translation is a learnable, repeatable skill.

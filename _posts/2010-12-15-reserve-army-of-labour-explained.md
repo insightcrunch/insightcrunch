@@ -9,7 +9,7 @@ excerpt: "The reserve army of labour is not a synonym for unemployment: Marx's f
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 86
 author: "diana-patel"
-last_updated: 2010-12-15
+last_updated: 2026-11-10
 lang: en
 ---
 The reserve army of labour is the population of workers that capitalist accumulation itself makes available beyond the numbers capital can profitably employ at a given moment, held in varying degrees of readiness to be drawn into production, pushed back out of it, or kept at its edges on irregular terms. Few phrases in Marx travel so widely with so little of their argument attached. In lecture slides, revision guides, and newspaper columns the term usually arrives flattened into a synonym for unemployment, decorated with a military metaphor and stripped of the two claims that give it force. Those claims are precise. First, the surplus population is produced by accumulation rather than inherited from nature or demography, so its size and shape change with the history of investment, mechanisation, and the organisation of work. Second, the surplus is relative rather than absolute, meaning relative to the requirements of capital at a particular stage of its development, not relative to the means of subsistence available in a society. A reader who keeps those two claims in view has the concept. A reader who loses them has a slogan.

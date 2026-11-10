@@ -9,7 +9,7 @@ excerpt: "AP Chemistry is won or lost in the calculation column. This guide maps
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 90
 author: "patrick-dunn"
-last_updated: 2006-05-18
+last_updated: 2026-11-10
 lang: en
 ---
 AP Chemistry asks two kinds of questions, ones that test whether a student understands what particles are doing, and ones that test whether a student can count those particles accurately under time pressure. The second kind decides more scores than the first. A student can hold a perfectly sound mental picture of equilibrium, bonding, or thermochemistry and still bleed points across an entire exam because a conversion factor flipped, because a volume stayed in milliliters inside a molarity calculation, or because an answer came out with six digits of borrowed precision. The knowledge and the arithmetic travel together, and the arithmetic is the part that collapses when nerves rise. That is why calculation deserves to be trained as a skill in its own right, the way an athlete trains footwork separately from game strategy.

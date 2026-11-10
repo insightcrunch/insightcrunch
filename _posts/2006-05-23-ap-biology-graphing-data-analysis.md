@@ -9,7 +9,7 @@ excerpt: "AP Biology rewards students who can turn a table of numbers into a def
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 90
 author: "maria-santos"
-last_updated: 2006-05-23
+last_updated: 2026-11-10
 lang: en
 ---
 Data runs through the AP Biology exam like a second syllabus hiding inside the first. A question about photosynthesis may open with a table of oxygen production measured under three lamp distances, and a question about evolution may hinge on a graph of beak depth across a drought. The biology content matters, of course, yet the points often sit one step earlier, in the figure itself. Students who can build a clean graph, read one under time pressure, and say precisely what the numbers support collect those points in every unit of the course. Students who treat figures as decoration leave them scattered across the whole exam.

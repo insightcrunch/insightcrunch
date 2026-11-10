@@ -585,12 +585,6 @@ digital-sat-vs-paper-sat-compared:
   category: industry
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: sat-vs-gre-vs-gmat-understanding-us-standardized-tests
-  title: 'SAT vs GRE vs GMAT: Understanding US Standardized Tests'
-  url: /2020/02/09/sat-vs-gre-vs-gmat-understanding-us-standardized-tests/
-  category: industry
-  image: /assets/images/blog/blog-76.webp
-  lang: en
 digital-sat-bluebook-app-complete-guide:
 - slug: sat-bluebook-app-complete-guide
   title: 'SAT Bluebook App: Complete Navigation and Practice Guide'
@@ -1229,6 +1223,12 @@ sat-vs-clt-classic-learning-test-compared:
   image: /assets/images/blog/blog-07.webp
   lang: en
 sat-and-ap-together-application-strategy:
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: easiest-ap-classes-ranked
   title: Easiest AP Classes Ranked by Pass Rate
   url: /2008/09/10/easiest-ap-classes-ranked/
@@ -1246,12 +1246,6 @@ sat-and-ap-together-application-strategy:
   url: /2008/09/06/hardest-ap-classes-ranked/
   category: industry
   image: /assets/images/blog/blog-26.webp
-  lang: en
-- slug: ap-classes-for-stem-majors
-  title: AP Classes for STEM Majors
-  url: /2008/08/28/ap-classes-for-stem-majors/
-  category: industry
-  image: /assets/images/blog/blog-07.webp
   lang: en
 sat-top-100-university-score-matrix:
 - slug: sat-scores-required-top-50-us-universities
@@ -1479,6 +1473,12 @@ sat-transfer-students:
   image: /assets/images/blog/blog-47.webp
   lang: en
 sat-common-app-scores:
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: sat-score-reporting-superscoring-guide
   title: 'SAT Scores: Reporting, Superscoring, and Score Choice Explained'
   url: /2020/10/14/sat-score-reporting-superscoring-guide/
@@ -1496,12 +1496,6 @@ sat-common-app-scores:
   url: /2020/07/18/sat-scores-required-top-50-us-universities/
   category: industry
   image: /assets/images/blog/blog-32.webp
-  lang: en
-- slug: sat-scores-for-ivy-league-admission
-  title: 'SAT Scores for Ivy League: What You Really Need'
-  url: /2020/07/10/sat-scores-for-ivy-league-admission/
-  category: industry
-  image: /assets/images/blog/blog-103.webp
   lang: en
 sat-senior-last-chance:
 - slug: sat-junior-year-timeline
@@ -2147,17 +2141,17 @@ sat-exam-day-mistakes:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: ap-exam-day-mistakes
+  title: AP Exam Day Mistakes That Cost Points
+  url: /2006/10/09/ap-exam-day-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
 - slug: sat-math-careless-mistakes
   title: 'SAT Math: Eliminating Careless Mistakes'
   url: /1997/05/18/sat-math-careless-mistakes/
   category: industry
   image: /assets/images/blog/blog-21.webp
-  lang: en
-- slug: sat-wrong-answer-analysis
-  title: SAT Wrong Answer Analysis by Category
-  url: /1996/09/17/sat-wrong-answer-analysis/
-  category: industry
-  image: /assets/images/blog/blog-44.webp
   lang: en
 sat-score-prediction:
 - slug: sat-practice-test-analysis
@@ -6937,6 +6931,12 @@ upsc-medical-science-optional:
   url: /2001/12/25/upsc-optional-gs-overlap/
   category: industry
   image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: upsc-animal-husbandry-optional
+  title: UPSC Animal Husbandry Optional Complete Guide
+  url: /2002/02/08/upsc-animal-husbandry-optional/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
   lang: en
 upsc-literature-optional-guide:
 - slug: upsc-philosophy-vs-anthropology
@@ -14190,6 +14190,31 @@ operation-bagration-june-1944-army-group-center:
   category: leisure
   image: /assets/images/blog/blog-110.webp
   lang: en
+the-future-of-ap-exams:
+- slug: ap-exam-score-trends-post-covid
+  title: AP Exam Score Trends Post-COVID
+  url: /2006/03/16/ap-exam-score-trends-post-covid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: ap-exams-and-military-academies
+  title: AP Exams and Military Academies
+  url: /2006/04/03/ap-exams-and-military-academies/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ap-classes-for-future-engineers
+  title: AP Classes for Future Engineers
+  url: /2006/04/21/ap-classes-for-future-engineers/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-classes-for-future-doctors
+  title: AP Classes for Future Doctors
+  url: /2006/04/17/ap-classes-for-future-doctors/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 gods-wife-of-amun-temple-power:
 - slug: temples-as-power-centers-egypt
   title: Temples as Power Centers in Late Egypt
@@ -14214,6 +14239,31 @@ gods-wife-of-amun-temple-power:
   url: /2006/08/01/third-intermediate-a-dark-age/
   category: leisure
   image: /assets/images/blog/blog-89.webp
+  lang: en
+ap-exam-myths-debunked:
+- slug: ap-credit-policies-colleges
+  title: 'AP Credit Policies: Which Colleges Accept Scores'
+  url: /2008/10/07/ap-credit-policies-colleges/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-vs-ib-vs-dual-enrollment
+  title: AP vs IB vs Dual Enrollment
+  url: /2008/10/25/ap-vs-ib-vs-dual-enrollment/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: ap-exam-retakes-worth-it
+  title: 'AP Exam Retakes: Can You and Is It Worth It'
+  url: /2008/08/14/ap-exam-retakes-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-scholar-awards-explained
+  title: AP Scholar Awards Explained
+  url: /2008/09/01/ap-scholar-awards-explained/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
   lang: en
 july-20-plot-stauffenberg-bomb:
 - slug: if-hitler-had-died-july-1944-plot-counterfactual
@@ -14240,6 +14290,31 @@ july-20-plot-stauffenberg-bomb:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+ap-and-ib-taking-both-programs:
+- slug: ap-vs-ib-vs-dual-enrollment
+  title: AP vs IB vs Dual Enrollment
+  url: /2008/10/25/ap-vs-ib-vs-dual-enrollment/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: ap-exam-retakes-worth-it
+  title: 'AP Exam Retakes: Can You and Is It Worth It'
+  url: /2008/08/14/ap-exam-retakes-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-exams-and-military-academies
+  title: AP Exams and Military Academies
+  url: /2006/04/03/ap-exams-and-military-academies/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 fall-of-rome-june-4-1944:
 - slug: invasion-of-sicily-july-1943-husky
   title: 'Operation Husky: The Sicily Invasion and Its Flawed Victory'
@@ -14264,6 +14339,31 @@ fall-of-rome-june-4-1944:
   url: /2006/01/13/okinawa-april-june-1945/
   category: leisure
   image: /assets/images/blog/blog-02.webp
+  lang: en
+ap-for-rural-small-school-students:
+- slug: ap-for-homeschooled-students
+  title: AP for Homeschooled Students
+  url: /2006/12/02/ap-for-homeschooled-students/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: how-to-self-study-for-ap-exams
+  title: How to Self-Study for AP Exams
+  url: /2008/10/03/how-to-self-study-for-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-for-first-generation-students
+  title: AP for First-Generation College Students
+  url: /2006/09/17/ap-for-first-generation-students/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
   lang: en
 operation-overlord-planning-1943-1944:
 - slug: if-d-day-had-failed-counterfactual
@@ -14290,6 +14390,31 @@ operation-overlord-planning-1943-1944:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+ap-exam-score-trends-post-covid:
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: ap-exam-cancellation-and-withholding
+  title: AP Exam Cancellation and Score Withholding
+  url: /2006/11/10/ap-exam-cancellation-and-withholding/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: digital-ap-exams-bluebook-guide
+  title: 'Digital AP Exams: Bluebook App Guide'
+  url: /2008/09/24/digital-ap-exams-bluebook-guide/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
 monte-cassino-1944-four-battles:
 - slug: dresden-bombing-february-1945
   title: 'Dresden Bombing: Harris, the Firestorm, and February Raids'
@@ -14314,6 +14439,56 @@ monte-cassino-1944-four-battles:
   url: /2006/04/11/fall-of-mussolini-july-25-1943/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+ap-science-lab-questions:
+- slug: ap-chemistry-lab-skills
+  title: AP Chemistry Lab Skills
+  url: /2007/12/24/ap-chemistry-lab-skills/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: ap-biology-lab-review-investigations
+  title: 'AP Biology Lab Review: All 13 Investigations'
+  url: /2007/12/29/ap-biology-lab-review-investigations/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: ap-biology-mcq-strategy
+  title: AP Biology MCQ Strategy
+  url: /2008/01/11/ap-biology-mcq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-biology
+  title: How to Get a 5 on AP Biology
+  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+ap-history-exam-timing-pacing:
+- slug: ap-history-dbq-writing-framework
+  title: 'AP History DBQ Writing: A Universal Framework'
+  url: /2006/05/09/ap-history-dbq-writing-framework/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: ap-european-history-frq-strategy
+  title: AP European History FRQ Strategy
+  url: /2007/07/24/ap-european-history-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-world-history-dbq-leq-saq-strategy
+  title: 'AP World History: DBQ, LEQ, SAQ Strategy'
+  url: /2007/08/07/ap-world-history-dbq-leq-saq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: apush-dbq-strategy
+  title: 'APUSH: DBQ Strategy and Document Analysis'
+  url: /2007/08/29/apush-dbq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
   lang: en
 tehran-conference-november-1943-second-front:
 - slug: casablanca-conference-january-1943-unconditional-surrender
@@ -14345,6 +14520,31 @@ tehran-conference-november-1943-second-front:
   url: /2005/12/22/potsdam-conference-july-august-1945/
   category: leisure
   image: /assets/images/blog/blog-113.webp
+  lang: en
+ap-world-language-speaking-tips:
+- slug: ap-spanish-language-speaking-writing-tasks
+  title: 'AP Spanish Language: Speaking and Writing Tasks'
+  url: /2007/05/13/ap-spanish-language-speaking-writing-tasks/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-spanish-language
+  title: How to Get a 5 on AP Spanish Language
+  url: /2007/03/11/how-to-get-a-5-on-ap-spanish-language/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: ap-spanish-language-guide
+  title: AP Spanish Language and Culture Guide
+  url: /2007/05/18/ap-spanish-language-guide/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ap-french-language-guide
+  title: AP French Language and Culture Guide
+  url: /2007/05/04/ap-french-language-guide/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
   lang: en
 italian-armistice-september-1943:
 - slug: fall-of-mussolini-july-25-1943
@@ -14396,6 +14596,31 @@ libyan-dynasties-divided-egypt:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
+ap-exams-and-military-academies:
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: ap-exams-complete-guide
+  title: The Complete Guide to AP Exams
+  url: /2008/11/08/ap-exams-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-classes-for-humanities-majors
+  title: AP Classes for Humanities and Social Science Majors
+  url: /2008/08/23/ap-classes-for-humanities-majors/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: how-to-self-study-for-ap-exams
+  title: How to Self-Study for AP Exams
+  url: /2008/10/03/how-to-self-study-for-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
 kursk-hitler-july-1943-citadel:
 - slug: battle-of-the-bulge-hitler-december-1944
   title: 'Battle of the Bulge: Hitler''s Last Gamble in the Ardennes'
@@ -14420,6 +14645,31 @@ kursk-hitler-july-1943-citadel:
   url: /2006/10/20/stalingrad-hitler-no-retreat-order-november-1942/
   category: leisure
   image: /assets/images/blog/blog-08.webp
+  lang: en
+ap-classes-for-law-school:
+- slug: ap-classes-for-future-engineers
+  title: AP Classes for Future Engineers
+  url: /2006/04/21/ap-classes-for-future-engineers/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-classes-for-future-doctors
+  title: AP Classes for Future Doctors
+  url: /2006/04/17/ap-classes-for-future-doctors/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: ap-classes-for-business-finance
+  title: AP Classes for Business and Finance Careers
+  url: /2006/04/12/ap-classes-for-business-finance/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: ap-english-language-guide
+  title: AP English Language and Composition Guide
+  url: /2007/11/14/ap-english-language-guide/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
   lang: en
 fall-of-mussolini-july-25-1943:
 - slug: mussolini-invades-greece-october-1940
@@ -14446,6 +14696,31 @@ fall-of-mussolini-july-25-1943:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+ap-classes-for-business-finance:
+- slug: ap-classes-for-future-doctors
+  title: AP Classes for Future Doctors
+  url: /2006/04/17/ap-classes-for-future-doctors/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: ap-classes-for-future-engineers
+  title: AP Classes for Future Engineers
+  url: /2006/04/21/ap-classes-for-future-engineers/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-classes-for-law-school
+  title: AP Classes for Law School
+  url: /2006/04/08/ap-classes-for-law-school/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
 invasion-of-sicily-july-1943-husky:
 - slug: operation-torch-november-1942-north-africa
   title: 'Operation Torch: Eisenhower''s First Allied Command Gamble'
@@ -14470,6 +14745,62 @@ invasion-of-sicily-july-1943-husky:
   url: /2006/04/11/fall-of-mussolini-july-25-1943/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+ap-classes-for-future-doctors:
+- slug: ap-classes-for-future-engineers
+  title: AP Classes for Future Engineers
+  url: /2006/04/21/ap-classes-for-future-engineers/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-classes-for-business-finance
+  title: AP Classes for Business and Finance Careers
+  url: /2006/04/12/ap-classes-for-business-finance/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: ap-classes-for-law-school
+  title: AP Classes for Law School
+  url: /2006/04/08/ap-classes-for-law-school/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: ap-science-lab-questions
+  title: AP Science Lab Questions
+  url: /2006/03/21/ap-science-lab-questions/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+ap-classes-for-future-engineers:
+- slug: ap-classes-for-future-doctors
+  title: AP Classes for Future Doctors
+  url: /2006/04/17/ap-classes-for-future-doctors/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: ap-classes-for-business-finance
+  title: AP Classes for Business and Finance Careers
+  url: /2006/04/12/ap-classes-for-business-finance/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: ap-classes-for-law-school
+  title: AP Classes for Law School
+  url: /2006/04/08/ap-classes-for-law-school/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: us-engineer-career-guide-ai-era-2026
+  title: What US Citizen Engineers Can Do Right Now in the AI Era
+  url: /2026/04/03/us-engineer-career-guide-ai-era-2026/
+  category: industry
+  image: /assets/images/blog/blog-44.webp
   lang: en
 operation-chastise-dams-raid-may-1943:
 - slug: operation-market-garden-september-1944-airborne
@@ -14496,6 +14827,31 @@ operation-chastise-dams-raid-may-1943:
   category: leisure
   image: /assets/images/blog/blog-23.webp
   lang: en
+ap-score-cancellation-vs-withholding:
+- slug: ap-exam-cancellation-and-withholding
+  title: AP Exam Cancellation and Score Withholding
+  url: /2006/11/10/ap-exam-cancellation-and-withholding/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: sat-score-cancellation
+  title: 'SAT Score Cancellation: When and Why'
+  url: /1996/06/28/sat-score-cancellation/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: sat-score-choice
+  title: 'SAT Score Choice: Which Scores to Send'
+  url: /1996/07/02/sat-score-choice/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: ap-score-sending-to-colleges
+  title: 'AP Score Sending: How and When'
+  url: /2008/09/15/ap-score-sending-to-colleges/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 warsaw-ghetto-uprising-april-1943:
 - slug: warsaw-uprising-august-1944-polish-home-army
   title: 'Warsaw Uprising: The Home Army''s Sixty-Three Day Gamble'
@@ -14520,6 +14876,31 @@ warsaw-ghetto-uprising-april-1943:
   url: /2006/01/02/hitler-suicide-april-30-1945-fuhrerbunker/
   category: leisure
   image: /assets/images/blog/blog-57.webp
+  lang: en
+ap-last-minute-two-week-review:
+- slug: ap-exam-study-plan
+  title: 'AP Exam Study Plan: Build a Review Schedule'
+  url: /2008/09/19/ap-exam-study-plan/
+  category: industry
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: sat-2-week-emergency-plan
+  title: SAT Last 2 Weeks Emergency Plan
+  url: /1996/10/27/sat-2-week-emergency-plan/
+  category: industry
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: sat-studying-while-busy
+  title: SAT Studying While Busy
+  url: /1996/09/08/sat-studying-while-busy/
+  category: industry
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: azure-fundamentals-az-900-practice-exam-microsoft-certification
+  title: Azure Fundamentals AZ 900 Practice Exam Microsoft Certification
+  url: /2016/07/14/azure-fundamentals-az-900-practice-exam-microsoft-certification/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 art-revival-fragmented-egypt:
 - slug: third-intermediate-period-egypt
@@ -14571,6 +14952,31 @@ casablanca-conference-january-1943-unconditional-surrender:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
+ap-english-essay-rubric-decoded:
+- slug: ap-english-language-guide
+  title: AP English Language and Composition Guide
+  url: /2007/11/14/ap-english-language-guide/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: ap-english-literature-guide
+  title: AP English Literature and Composition Guide
+  url: /2007/10/22/ap-english-literature-guide/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: ap-english-language-synthesis-essay
+  title: 'AP English Language: Synthesis Essay Guide'
+  url: /2007/10/31/ap-english-language-synthesis-essay/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: ap-english-language-argument-essay
+  title: 'AP English Language: Argument Essay Strategy'
+  url: /2007/11/05/ap-english-language-argument-essay/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
 guadalcanal-august-1942-marine-landing:
 - slug: okinawa-april-june-1945
   title: 'Okinawa: The 82-Day Fight That Convinced America of the Bomb'
@@ -14595,6 +15001,56 @@ guadalcanal-august-1942-marine-landing:
   url: /2006/05/19/operation-torch-november-1942-north-africa/
   category: leisure
   image: /assets/images/blog/blog-09.webp
+  lang: en
+ap-history-dbq-writing-framework:
+- slug: ap-world-history-dbq-leq-saq-strategy
+  title: 'AP World History: DBQ, LEQ, SAQ Strategy'
+  url: /2007/08/07/ap-world-history-dbq-leq-saq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: ap-european-history-frq-strategy
+  title: AP European History FRQ Strategy
+  url: /2007/07/24/ap-european-history-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: ap-history-exam-timing-pacing
+  title: AP History Exam Timing and Pacing
+  url: /2006/03/25/ap-history-exam-timing-pacing/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: apush-dbq-strategy
+  title: 'APUSH: DBQ Strategy and Document Analysis'
+  url: /2007/08/29/apush-dbq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+ap-physics-1-problem-solving-framework:
+- slug: ap-chemistry-calculation-mastery
+  title: 'AP Chemistry: Calculation Mastery'
+  url: /2006/05/18/ap-chemistry-calculation-mastery/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: ap-physics-1-complete-guide
+  title: AP Physics 1 Complete Guide
+  url: /2008/03/28/ap-physics-1-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-physics-1
+  title: How to Get a 5 on AP Physics 1
+  url: /2008/01/20/how-to-get-a-5-on-ap-physics-1/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: ap-physics-1-forces-kinematics-energy
+  title: 'AP Physics 1: Forces, Kinematics, Energy'
+  url: /2008/03/23/ap-physics-1-forces-kinematics-energy/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
   lang: en
 el-alamein-montgomery-october-1942:
 - slug: operation-market-garden-september-1944-airborne
@@ -14621,6 +15077,31 @@ el-alamein-montgomery-october-1942:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
+ap-chemistry-calculation-mastery:
+- slug: ap-physics-1-problem-solving-framework
+  title: 'AP Physics 1: Problem-Solving Framework'
+  url: /2006/05/14/ap-physics-1-problem-solving-framework/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: ap-chemistry-complete-guide
+  title: AP Chemistry Complete Guide
+  url: /2008/04/19/ap-chemistry-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-chemistry
+  title: How to Get a 5 on AP Chemistry
+  url: /2008/01/25/how-to-get-a-5-on-ap-chemistry/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-chemistry-acids-bases-buffers-titrations
+  title: 'AP Chemistry: Acids, Bases, Buffers, Titrations'
+  url: /2007/12/02/ap-chemistry-acids-bases-buffers-titrations/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
 operation-torch-november-1942-north-africa:
 - slug: invasion-of-sicily-july-1943-husky
   title: 'Operation Husky: The Sicily Invasion and Its Flawed Victory'
@@ -14645,6 +15126,31 @@ operation-torch-november-1942-north-africa:
   url: /2006/05/14/el-alamein-montgomery-october-1942/
   category: leisure
   image: /assets/images/blog/blog-65.webp
+  lang: en
+ap-biology-graphing-data-analysis:
+- slug: ap-biology-complete-guide
+  title: AP Biology Complete Guide
+  url: /2008/05/12/ap-biology-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-biology
+  title: How to Get a 5 on AP Biology
+  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: ap-biology-genetics-heredity-gene-expression
+  title: 'AP Biology: Genetics, Heredity, Gene Expression'
+  url: /2008/05/03/ap-biology-genetics-heredity-gene-expression/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: ap-biology-evolution-natural-selection
+  title: 'AP Biology: Evolution and Natural Selection'
+  url: /2007/12/06/ap-biology-evolution-natural-selection/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
   lang: en
 dieppe-raid-august-1942-canadian:
 - slug: operation-chastise-dams-raid-may-1943
@@ -14671,6 +15177,31 @@ dieppe-raid-august-1942-canadian:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+apes-calculations-formulas-math:
+- slug: apes-energy-resources-land-use
+  title: 'APES: Energy Resources and Land Use'
+  url: /2007/11/23/apes-energy-resources-land-use/
+  category: industry
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: apes-earth-systems-ecosystems-biodiversity
+  title: 'APES: Earth Systems, Ecosystems, Biodiversity'
+  url: /2008/02/12/apes-earth-systems-ecosystems-biodiversity/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: ap-environmental-science-guide
+  title: AP Environmental Science Complete Guide
+  url: /2008/02/16/ap-environmental-science-guide/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: apes-pollution-climate-sustainability
+  title: 'APES: Pollution, Climate Change, Sustainability'
+  url: /2008/02/07/apes-pollution-climate-sustainability/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
 case-blue-hitler-summer-1942-caucasus:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
   title: 'Stalingrad: Hitler''s November 1942 No-Retreat'
@@ -14695,6 +15226,31 @@ case-blue-hitler-summer-1942-caucasus:
   url: /2006/01/02/hitler-suicide-april-30-1945-fuhrerbunker/
   category: leisure
   image: /assets/images/blog/blog-57.webp
+  lang: en
+ap-csp-create-task-guide:
+- slug: ap-computer-science-principles-guide
+  title: AP Computer Science Principles Complete Guide
+  url: /2008/06/26/ap-computer-science-principles-guide/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: ap-csa-vs-csp
+  title: AP Computer Science A vs Principles
+  url: /2008/06/03/ap-csa-vs-csp/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: ap-computer-science-a-guide
+  title: AP Computer Science A Complete Guide
+  url: /2008/07/05/ap-computer-science-a-guide/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-computer-science-a-oop-frq
+  title: 'AP Computer Science A: OOP and FRQ Patterns'
+  url: /2008/06/30/ap-computer-science-a-oop-frq/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
   lang: en
 piye-kushite-conquest-of-egypt:
 - slug: nubian-pharaohs-who-ruled-egypt
@@ -14721,6 +15277,31 @@ piye-kushite-conquest-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
+ap-computer-science-a-sorting-algorithms:
+- slug: ap-computer-science-a-guide
+  title: AP Computer Science A Complete Guide
+  url: /2008/07/05/ap-computer-science-a-guide/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-computer-science-a-arrays-recursion
+  title: 'AP Computer Science A: Arrays and Recursion'
+  url: /2008/05/16/ap-computer-science-a-arrays-recursion/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ap-computer-science-a-oop-frq
+  title: 'AP Computer Science A: OOP and FRQ Patterns'
+  url: /2008/06/30/ap-computer-science-a-oop-frq/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: ap-computer-science-principles-guide
+  title: AP Computer Science Principles Complete Guide
+  url: /2008/06/26/ap-computer-science-principles-guide/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 fall-of-tobruk-june-1942:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
   title: 'Stalingrad: Hitler''s November 1942 No-Retreat'
@@ -14745,6 +15326,31 @@ fall-of-tobruk-june-1942:
   url: /2006/06/21/fall-of-singapore-february-1942/
   category: leisure
   image: /assets/images/blog/blog-15.webp
+  lang: en
+ap-art-history-comparison-essay:
+- slug: ap-art-history-analysis-framework
+  title: 'AP Art History: Analysis Framework'
+  url: /2007/07/15/ap-art-history-analysis-framework/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: ap-world-history-comparison-causation-ccot
+  title: 'AP World History: Comparison, Causation, CCOT'
+  url: /2006/07/20/ap-world-history-comparison-causation-ccot/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: ap-art-history-complete-guide
+  title: 'AP Art History Complete Guide: 250 Works'
+  url: /2007/07/20/ap-art-history-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: ap-2d-art-and-design-portfolio-guide
+  title: AP 2-D Art and Design Portfolio Guide
+  url: /2007/03/29/ap-2d-art-and-design-portfolio-guide/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
   lang: en
 coral-sea-may-1942-first-carrier-battle:
 - slug: midway-nimitz-carrier-commitment-june-1942
@@ -14771,6 +15377,31 @@ coral-sea-may-1942-first-carrier-battle:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
+ap-european-history-most-tested-themes:
+- slug: apush-most-tested-topics
+  title: 'APUSH: Most Tested Topics'
+  url: /2006/07/25/apush-most-tested-topics/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: ap-european-history-periods-themes
+  title: 'AP European History: Periods, Themes, Skills'
+  url: /2007/07/29/ap-european-history-periods-themes/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: ap-european-history-guide
+  title: AP European History Complete Guide
+  url: /2007/08/02/ap-european-history-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: ap-european-history-frq-strategy
+  title: AP European History FRQ Strategy
+  url: /2007/07/24/ap-european-history-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 doolittle-raid-april-1942-tokyo:
 - slug: coral-sea-may-1942-first-carrier-battle
   title: 'Coral Sea: May 1942 First Carrier Battle'
@@ -14795,6 +15426,31 @@ doolittle-raid-april-1942-tokyo:
   url: /2006/01/13/okinawa-april-june-1945/
   category: leisure
   image: /assets/images/blog/blog-02.webp
+  lang: en
+ap-microeconomics-market-structures:
+- slug: ap-microeconomics-guide
+  title: AP Microeconomics Complete Guide
+  url: /2007/05/27/ap-microeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ap-macroeconomics-phillips-loanable-funds
+  title: 'AP Macro: Phillips Curve, Loanable Funds'
+  url: /2006/06/23/ap-macroeconomics-phillips-loanable-funds/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: ap-macro-vs-micro
+  title: AP Macro vs Micro
+  url: /2007/05/22/ap-macro-vs-micro/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: ap-macroeconomics-guide
+  title: AP Macroeconomics Complete Guide
+  url: /2007/05/31/ap-macroeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
   lang: en
 fall-of-singapore-february-1942:
 - slug: doolittle-raid-april-1942-tokyo
@@ -14821,6 +15477,31 @@ fall-of-singapore-february-1942:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
+ap-macroeconomics-phillips-loanable-funds:
+- slug: ap-macroeconomics-guide
+  title: AP Macroeconomics Complete Guide
+  url: /2007/05/31/ap-macroeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ap-microeconomics-market-structures
+  title: 'AP Micro: Market Structures and Game Theory'
+  url: /2006/06/19/ap-microeconomics-market-structures/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: ap-macro-vs-micro
+  title: AP Macro vs Micro
+  url: /2007/05/22/ap-macro-vs-micro/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-economics
+  title: How to Get a 5 on AP Economics
+  url: /2007/02/12/how-to-get-a-5-on-ap-economics/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 wannsee-conference-january-1942-holocaust:
 - slug: stalingrad-hitler-no-retreat-order-november-1942
   title: 'Stalingrad: Hitler''s November 1942 No-Retreat'
@@ -14845,6 +15526,31 @@ wannsee-conference-january-1942-holocaust:
   url: /2006/06/05/fall-of-tobruk-june-1942/
   category: leisure
   image: /assets/images/blog/blog-03.webp
+  lang: en
+ap-us-government-scotus-cases:
+- slug: how-to-get-a-5-on-ap-us-government
+  title: How to Get a 5 on AP US Government
+  url: /2007/02/17/how-to-get-a-5-on-ap-us-government/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: ap-us-government-guide
+  title: AP US Government and Politics Guide
+  url: /2007/06/14/ap-us-government-guide/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: ap-us-government-constitution-civil-liberties
+  title: 'AP US Government: Constitution, Civil Liberties'
+  url: /2007/06/09/ap-us-government-constitution-civil-liberties/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: ap-comparative-government-guide
+  title: AP Comparative Government Complete Guide
+  url: /2007/06/05/ap-comparative-government-guide/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
   lang: en
 temples-as-power-centers-egypt:
 - slug: libyan-dynasties-divided-egypt
@@ -14871,6 +15577,31 @@ temples-as-power-centers-egypt:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
+ap-human-geography-spatial-analysis-maps:
+- slug: ap-human-geography-population-migration
+  title: 'AP Human Geography: Population and Migration'
+  url: /2007/07/06/ap-human-geography-population-migration/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: ap-human-geography-guide
+  title: AP Human Geography Complete Guide
+  url: /2007/07/11/ap-human-geography-guide/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-human-geography
+  title: How to Get a 5 on AP Human Geography
+  url: /2007/02/26/how-to-get-a-5-on-ap-human-geography/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: ap-human-geography-agriculture-cities-political
+  title: 'AP Human Geography: Agriculture, Cities, Politics'
+  url: /2007/07/02/ap-human-geography-agriculture-cities-political/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
 arcadia-conference-december-1941:
 - slug: atlantic-charter-august-1941
   title: 'Atlantic Charter: FDR-Churchill August 1941'
@@ -14895,6 +15626,31 @@ arcadia-conference-december-1941:
   url: /2006/10/09/midway-nimitz-carrier-commitment-june-1942/
   category: leisure
   image: /assets/images/blog/blog-10.webp
+  lang: en
+ap-psychology-research-methods-ethics:
+- slug: ap-psychology-complete-guide
+  title: AP Psychology Complete Guide
+  url: /2007/06/27/ap-psychology-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-113.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-psychology
+  title: How to Get a 5 on AP Psychology
+  url: /2007/03/02/how-to-get-a-5-on-ap-psychology/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
+  lang: en
+- slug: ap-psychology-bio-bases-learning-memory
+  title: 'AP Psychology: Bio Bases, Learning, Memory'
+  url: /2007/06/23/ap-psychology-bio-bases-learning-memory/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: ap-psychology-developmental-abnormal-social
+  title: 'AP Psychology: Developmental, Abnormal, Social'
+  url: /2007/06/18/ap-psychology-developmental-abnormal-social/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
   lang: en
 battle-of-moscow-stalin-december-1941:
 - slug: finnish-winter-war-stalin-november-1939
@@ -14921,6 +15677,31 @@ battle-of-moscow-stalin-december-1941:
   category: leisure
   image: /assets/images/blog/blog-100.webp
   lang: en
+ap-english-literature-close-reading:
+- slug: ap-english-literature-guide
+  title: AP English Literature and Composition Guide
+  url: /2007/10/22/ap-english-literature-guide/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: ap-english-literature-reading-list
+  title: 'AP English Literature: Reading List'
+  url: /2007/10/04/ap-english-literature-reading-list/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-english-literature
+  title: How to Get a 5 on AP English Literature
+  url: /2007/09/21/how-to-get-a-5-on-ap-english-literature/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: ap-english-literature-poetry-analysis-essay
+  title: 'AP English Literature: Poetry Analysis Essay'
+  url: /2007/10/18/ap-english-literature-poetry-analysis-essay/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
 atlantic-charter-august-1941:
 - slug: arcadia-conference-december-1941
   title: 'Arcadia Conference: December 1941 Anglo-US'
@@ -14945,6 +15726,31 @@ atlantic-charter-august-1941:
   url: /2006/03/25/tehran-conference-november-1943-second-front/
   category: leisure
   image: /assets/images/blog/blog-92.webp
+  lang: en
+ap-english-language-analyze-rhetoric:
+- slug: ap-english-language-rhetorical-analysis-essay
+  title: 'AP English Language: Rhetorical Analysis Essay'
+  url: /2007/11/09/ap-english-language-rhetorical-analysis-essay/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-english-language
+  title: How to Get a 5 on AP English Language
+  url: /2007/09/25/how-to-get-a-5-on-ap-english-language/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: ap-english-language-guide
+  title: AP English Language and Composition Guide
+  url: /2007/11/14/ap-english-language-guide/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: ap-english-language-synthesis-essay
+  title: 'AP English Language: Synthesis Essay Guide'
+  url: /2007/10/31/ap-english-language-synthesis-essay/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
   lang: en
 hess-flight-may-1941-scotland:
 - slug: hitler-declares-war-on-us-december-1941
@@ -14971,6 +15777,31 @@ hess-flight-may-1941-scotland:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
+ap-world-history-comparison-causation-ccot:
+- slug: apush-comparison-continuity-change
+  title: 'APUSH: Comparison and Continuity-Change'
+  url: /2006/07/29/apush-comparison-continuity-change/
+  category: industry
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-world-history
+  title: How to Get a 5 on AP World History
+  url: /2007/02/21/how-to-get-a-5-on-ap-world-history/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: ap-world-history-complete-guide
+  title: AP World History Modern Complete Guide
+  url: /2007/08/20/ap-world-history-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: ap-world-history-units-5-9-1750-present
+  title: 'AP World History: Units 5-9 (1750 to Present)'
+  url: /2007/08/11/ap-world-history-units-5-9-1750-present/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
 crete-invasion-german-airborne-may-1941:
 - slug: hess-flight-may-1941-scotland
   title: 'Hess Flight: May 1941 Scotland Mission'
@@ -14995,6 +15826,56 @@ crete-invasion-german-airborne-may-1941:
   url: /2006/09/01/norway-invasion-hitler-april-1940/
   category: leisure
   image: /assets/images/blog/blog-02.webp
+  lang: en
+apush-most-tested-topics:
+- slug: ap-european-history-most-tested-themes
+  title: 'AP European History: Most Tested Themes'
+  url: /2006/06/14/ap-european-history-most-tested-themes/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: apush-periods-1-4-1491-1800
+  title: 'APUSH: Periods 1-4 (1491 to 1800)'
+  url: /2007/09/12/apush-periods-1-4-1491-1800/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: apush-periods-8-9-1945-present
+  title: 'APUSH: Periods 8-9 (1945 to Present)'
+  url: /2007/09/03/apush-periods-8-9-1945-present/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: apush-periods-5-7-1844-1945
+  title: 'APUSH: Periods 5-7 (1844 to 1945)'
+  url: /2007/09/07/apush-periods-5-7-1844-1945/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+apush-comparison-continuity-change:
+- slug: ap-world-history-comparison-causation-ccot
+  title: 'AP World History: Comparison, Causation, CCOT'
+  url: /2006/07/20/ap-world-history-comparison-causation-ccot/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: apush-leq-saq-strategy
+  title: 'APUSH: LEQ and SAQ Strategy'
+  url: /2007/08/25/apush-leq-saq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: apush-most-tested-topics
+  title: 'APUSH: Most Tested Topics'
+  url: /2006/07/25/apush-most-tested-topics/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: apush-dbq-strategy
+  title: 'APUSH: DBQ Strategy and Document Analysis'
+  url: /2007/08/29/apush-dbq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
   lang: en
 lend-lease-act-fdr-march-1941:
 - slug: atlantic-charter-august-1941
@@ -15046,6 +15927,31 @@ third-intermediate-a-dark-age:
   category: leisure
   image: /assets/images/blog/blog-73.webp
   lang: en
+ap-physics-1-electrostatics-dc-circuits:
+- slug: how-to-get-a-5-on-ap-physics-1
+  title: How to Get a 5 on AP Physics 1
+  url: /2008/01/20/how-to-get-a-5-on-ap-physics-1/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: ap-physics-1-complete-guide
+  title: AP Physics 1 Complete Guide
+  url: /2008/03/28/ap-physics-1-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: ap-physics-1-forces-kinematics-energy
+  title: 'AP Physics 1: Forces, Kinematics, Energy'
+  url: /2008/03/23/ap-physics-1-forces-kinematics-energy/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: ap-physics-2-fluids-circuits-magnetism
+  title: 'AP Physics 2: Fluids, Circuits, Magnetism'
+  url: /2008/03/10/ap-physics-2-fluids-circuits-magnetism/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
 mussolini-invades-greece-october-1940:
 - slug: fall-of-mussolini-july-25-1943
   title: 'The Fall of Mussolini: Grand Council''s Fateful July Vote'
@@ -15070,6 +15976,31 @@ mussolini-invades-greece-october-1940:
   url: /2006/11/06/churchill-becomes-pm-may-10-1940/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+ap-chemistry-gas-laws-solutions:
+- slug: ap-chemistry-complete-guide
+  title: AP Chemistry Complete Guide
+  url: /2008/04/19/ap-chemistry-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: ap-chemistry-reactions-stoichiometry-kinetics
+  title: 'AP Chemistry: Reactions, Stoichiometry, Kinetics'
+  url: /2008/04/10/ap-chemistry-reactions-stoichiometry-kinetics/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: ap-chemistry-thermodynamics-equilibrium
+  title: 'AP Chemistry: Thermo, Equilibrium, Electrochem'
+  url: /2008/04/06/ap-chemistry-thermodynamics-equilibrium/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-chemistry
+  title: How to Get a 5 on AP Chemistry
+  url: /2008/01/25/how-to-get-a-5-on-ap-chemistry/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
   lang: en
 tripartite-pact-september-1940-axis-alliance:
 - slug: operation-sea-lion-cancellation-september-1940
@@ -15096,6 +16027,31 @@ tripartite-pact-september-1940-axis-alliance:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+ap-chemistry-lewis-structures-vsepr:
+- slug: how-to-get-a-5-on-ap-chemistry
+  title: How to Get a 5 on AP Chemistry
+  url: /2008/01/25/how-to-get-a-5-on-ap-chemistry/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-chemistry-complete-guide
+  title: AP Chemistry Complete Guide
+  url: /2008/04/19/ap-chemistry-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: ap-chemistry-atomic-structure-bonding
+  title: 'AP Chemistry: Atomic Structure and Bonding'
+  url: /2008/04/15/ap-chemistry-atomic-structure-bonding/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: ap-chemistry-frq-strategy
+  title: AP Chemistry FRQ Strategy
+  url: /2008/04/01/ap-chemistry-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
 battle-of-britain-dowding-fighter-command:
 - slug: churchill-becomes-pm-may-10-1940
   title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
@@ -15120,6 +16076,56 @@ battle-of-britain-dowding-fighter-command:
   url: /2006/01/24/dresden-bombing-february-1945/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+ap-biology-immune-plant-animal-behavior:
+- slug: how-to-get-a-5-on-ap-biology
+  title: How to Get a 5 on AP Biology
+  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: ap-biology-complete-guide
+  title: AP Biology Complete Guide
+  url: /2008/05/12/ap-biology-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: ap-biology-evolution-ecology-biodiversity
+  title: 'AP Biology: Evolution, Ecology, Biodiversity'
+  url: /2008/04/28/ap-biology-evolution-ecology-biodiversity/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-biology-evolution-natural-selection
+  title: 'AP Biology: Evolution and Natural Selection'
+  url: /2007/12/06/ap-biology-evolution-natural-selection/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+ap-biology-free-energy-enzymes-metabolism:
+- slug: ap-biology-complete-guide
+  title: AP Biology Complete Guide
+  url: /2008/05/12/ap-biology-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-94.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-biology
+  title: How to Get a 5 on AP Biology
+  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: ap-biology-cells-energetics-communication
+  title: 'AP Biology: Cells, Energetics, Communication'
+  url: /2008/05/07/ap-biology-cells-energetics-communication/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ap-biology-frq-strategy
+  title: AP Biology FRQ Strategy
+  url: /2008/04/24/ap-biology-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
   lang: en
 operation-sea-lion-cancellation-september-1940:
 - slug: norway-invasion-hitler-april-1940
@@ -15146,6 +16152,31 @@ operation-sea-lion-cancellation-september-1940:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+ap-statistics-confidence-intervals-hypothesis:
+- slug: ap-statistics-complete-guide
+  title: AP Statistics Complete Guide
+  url: /2008/07/14/ap-statistics-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-statistics
+  title: How to Get a 5 on AP Statistics
+  url: /2008/06/12/how-to-get-a-5-on-ap-statistics/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: ap-statistics-design-sampling-inference
+  title: 'AP Statistics: Design, Sampling, Inference'
+  url: /2008/07/09/ap-statistics-design-sampling-inference/
+  category: industry
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: ap-statistics-frq-strategy
+  title: AP Statistics FRQ Strategy
+  url: /2008/05/25/ap-statistics-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
 petain-armistice-june-1940-collaboration:
 - slug: fall-of-france-manstein-sickle-cut-may-1940
   title: 'Fall of France: Manstein''s May 1940 Sickle Cut'
@@ -15170,6 +16201,31 @@ petain-armistice-june-1940-collaboration:
   url: /2006/08/10/tripartite-pact-september-1940-axis-alliance/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+ap-calculus-bc-convergence-taylor-series:
+- slug: ap-calculus-bc-complete-guide
+  title: AP Calculus BC Complete Guide
+  url: /2008/07/27/ap-calculus-bc-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-calculus-bc-series-parametric-polar
+  title: 'AP Calculus BC: Series, Parametric, Polar, Vector'
+  url: /2008/07/23/ap-calculus-bc-series-parametric-polar/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: ap-calculus-bc-frq-strategy
+  title: AP Calculus BC FRQ Strategy
+  url: /2008/05/21/ap-calculus-bc-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: ap-calculus-ab-differential-equations
+  title: 'AP Calculus AB: Differential Equations'
+  url: /2006/09/03/ap-calculus-ab-differential-equations/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
   lang: en
 late-period-of-ancient-egypt:
 - slug: persian-vs-native-rule-in-egypt
@@ -15227,6 +16283,31 @@ norway-invasion-hitler-april-1940:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+ap-calculus-ab-differential-equations:
+- slug: ap-calculus-ab-complete-guide
+  title: AP Calculus AB Complete Guide
+  url: /2008/08/10/ap-calculus-ab-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: ap-calculus-ab-riemann-sums-ftc
+  title: 'AP Calculus AB: Riemann Sums and the FTC'
+  url: /2006/09/12/ap-calculus-ab-riemann-sums-ftc/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: ap-calculus-ab-related-rates-optimization
+  title: 'AP Calculus AB: Related Rates and Optimization'
+  url: /2006/09/08/ap-calculus-ab-related-rates-optimization/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-calculus-ab-limits-derivatives-integrals
+  title: 'AP Calculus AB: Limits, Derivatives, Integrals'
+  url: /2008/08/05/ap-calculus-ab-limits-derivatives-integrals/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 finnish-winter-war-stalin-november-1939:
 - slug: stalin-invades-poland-september-17-1939
   title: 'Stalin Invades Poland: September 17 1939'
@@ -15251,6 +16332,56 @@ finnish-winter-war-stalin-november-1939:
   url: /2006/09/17/britain-declares-war-september-3-1939/
   category: leisure
   image: /assets/images/blog/blog-14.webp
+  lang: en
+ap-calculus-ab-related-rates-optimization:
+- slug: ap-calculus-ab-differential-equations
+  title: 'AP Calculus AB: Differential Equations'
+  url: /2006/09/03/ap-calculus-ab-differential-equations/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-calculus-ab-riemann-sums-ftc
+  title: 'AP Calculus AB: Riemann Sums and the FTC'
+  url: /2006/09/12/ap-calculus-ab-riemann-sums-ftc/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: ap-calculus-ab-complete-guide
+  title: AP Calculus AB Complete Guide
+  url: /2008/08/10/ap-calculus-ab-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: ap-calculus-ab-limits-derivatives-integrals
+  title: 'AP Calculus AB: Limits, Derivatives, Integrals'
+  url: /2008/08/05/ap-calculus-ab-limits-derivatives-integrals/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+ap-calculus-ab-riemann-sums-ftc:
+- slug: ap-calculus-ab-differential-equations
+  title: 'AP Calculus AB: Differential Equations'
+  url: /2006/09/03/ap-calculus-ab-differential-equations/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-calculus-ab-related-rates-optimization
+  title: 'AP Calculus AB: Related Rates and Optimization'
+  url: /2006/09/08/ap-calculus-ab-related-rates-optimization/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: ap-calculus-ab-complete-guide
+  title: AP Calculus AB Complete Guide
+  url: /2008/08/10/ap-calculus-ab-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: ap-calculus-ab-mcq-strategy
+  title: AP Calculus AB MCQ Strategy
+  url: /2008/05/30/ap-calculus-ab-mcq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
   lang: en
 stalin-invades-poland-september-17-1939:
 - slug: finnish-winter-war-stalin-november-1939
@@ -15277,6 +16408,31 @@ stalin-invades-poland-september-17-1939:
   category: leisure
   image: /assets/images/blog/blog-12.webp
   lang: en
+ap-for-first-generation-students:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 britain-declares-war-september-3-1939:
 - slug: munich-agreement-chamberlain-september-1938
   title: 'Munich Agreement: Chamberlain''s September 1938'
@@ -15301,6 +16457,31 @@ britain-declares-war-september-3-1939:
   url: /2006/09/06/finnish-winter-war-stalin-november-1939/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+ap-exam-score-predictions:
+- slug: ap-score-distributions-pass-rates
+  title: 'AP Score Distributions: Pass Rates by Subject'
+  url: /2006/09/30/ap-score-distributions-pass-rates/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: ap-study-resources-ranked
+  title: AP Study Resources Ranked
+  url: /2006/10/23/ap-study-resources-ranked/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: ap-and-the-college-board
+  title: 'AP and the College Board: Behind the Scenes'
+  url: /2006/09/26/ap-and-the-college-board/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
   lang: en
 hitler-invades-poland-september-1-1939:
 - slug: norway-invasion-hitler-april-1940
@@ -15327,6 +16508,31 @@ hitler-invades-poland-september-1-1939:
   category: leisure
   image: /assets/images/blog/blog-57.webp
   lang: en
+ap-and-the-college-board:
+- slug: ap-score-distributions-pass-rates
+  title: 'AP Score Distributions: Pass Rates by Subject'
+  url: /2006/09/30/ap-score-distributions-pass-rates/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: ap-for-first-generation-students
+  title: AP for First-Generation College Students
+  url: /2006/09/17/ap-for-first-generation-students/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: ap-exam-score-trends-post-covid
+  title: AP Exam Score Trends Post-COVID
+  url: /2006/03/16/ap-exam-score-trends-post-covid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 molotov-ribbentrop-pact-august-1939:
 - slug: stalin-invades-poland-september-17-1939
   title: 'Stalin Invades Poland: September 17 1939'
@@ -15351,6 +16557,31 @@ molotov-ribbentrop-pact-august-1939:
   url: /2006/07/08/battle-of-moscow-stalin-december-1941/
   category: leisure
   image: /assets/images/blog/blog-12.webp
+  lang: en
+ap-score-distributions-pass-rates:
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: ap-and-the-college-board
+  title: 'AP and the College Board: Behind the Scenes'
+  url: /2006/09/26/ap-and-the-college-board/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: ap-for-first-generation-students
+  title: AP for First-Generation College Students
+  url: /2006/09/17/ap-for-first-generation-students/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: ap-class-difficulty-tier-list
+  title: AP Class Difficulty Tier List
+  url: /2006/10/05/ap-class-difficulty-tier-list/
+  category: industry
+  image: /assets/images/blog/blog-92.webp
   lang: en
 saite-renaissance-of-egypt:
 - slug: last-native-pharaohs-of-egypt
@@ -15427,6 +16658,31 @@ munich-agreement-chamberlain-september-1938:
   category: leisure
   image: /assets/images/blog/blog-09.webp
   lang: en
+ap-class-difficulty-tier-list:
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: ap-exam-timeline-month-by-month
+  title: 'The AP Exam Timeline: Month by Month'
+  url: /2006/11/05/ap-exam-timeline-month-by-month/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: easiest-ap-classes-ranked
+  title: Easiest AP Classes Ranked by Pass Rate
+  url: /2008/09/10/easiest-ap-classes-ranked/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
 august-8-1974-nixon-decides-to-resign:
 - slug: nixon-resigns-august-1974
   title: 'Nixon Resigns: The August 8 1974 Calculation'
@@ -15450,6 +16706,31 @@ august-8-1974-nixon-decides-to-resign:
   title: 'Nixon and the Tapes: The June 1973 Choice Not to Burn'
   url: /2008/03/08/nixon-tapes-decision-june-1973/
   category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+ap-exam-day-mistakes:
+- slug: sat-exam-day-mistakes
+  title: SAT Exam Day Mistakes That Cost Points
+  url: /1996/11/05/sat-exam-day-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: ap-exam-day-guide
+  title: 'AP Exam Day Guide: Rules, Timing, What to Expect'
+  url: /2008/10/16/ap-exam-day-guide/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: ap-free-response-strategies-all-subjects
+  title: AP Free Response Strategies for Every Subject
+  url: /2006/11/01/ap-free-response-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-multiple-choice-strategies-all-subjects
+  title: AP Multiple Choice Strategies for Every Subject
+  url: /2006/10/27/ap-multiple-choice-strategies-all-subjects/
+  category: industry
   image: /assets/images/blog/blog-106.webp
   lang: en
 midway-nimitz-carrier-commitment-june-1942:
@@ -15502,6 +16783,31 @@ midway-nimitz-carrier-commitment-june-1942:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
+ap-burnout-stress-management:
+- slug: sat-motivation-burnout
+  title: SAT Motivation and Avoiding Burnout
+  url: /1996/09/12/sat-motivation-burnout/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: ap-free-response-strategies-all-subjects
+  title: AP Free Response Strategies for Every Subject
+  url: /2006/11/01/ap-free-response-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 dunkirk-ramsay-operation-dynamo-may-1940:
 - slug: churchill-becomes-pm-may-10-1940
   title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
@@ -15526,6 +16832,31 @@ dunkirk-ramsay-operation-dynamo-may-1940:
   url: /2006/08/26/petain-armistice-june-1940-collaboration/
   category: leisure
   image: /assets/images/blog/blog-03.webp
+  lang: en
+most-underrated-ap-classes:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-classes-that-save-college-money
+  title: AP Classes That Save the Most College Money
+  url: /2006/11/19/ap-classes-that-save-college-money/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-class-difficulty-tier-list
+  title: AP Class Difficulty Tier List
+  url: /2006/10/05/ap-class-difficulty-tier-list/
+  category: industry
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: ap-for-first-generation-students
+  title: AP for First-Generation College Students
+  url: /2006/09/17/ap-for-first-generation-students/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
   lang: en
 truman-vs-eisenhower-containment:
 - slug: truman-doctrine-march-1947-speech
@@ -15576,6 +16907,31 @@ stalingrad-hitler-no-retreat-order-november-1942:
   url: /2006/09/23/hitler-invades-poland-september-1-1939/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+ap-study-resources-ranked:
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-multiple-choice-strategies-all-subjects
+  title: AP Multiple Choice Strategies for Every Subject
+  url: /2006/10/27/ap-multiple-choice-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: ap-free-response-strategies-all-subjects
+  title: AP Free Response Strategies for Every Subject
+  url: /2006/11/01/ap-free-response-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
   lang: en
 jackson-vs-jefferson-democrat-founders:
 - slug: jefferson-first-inaugural-1801
@@ -15633,6 +16989,31 @@ truman-atomic-bomb-decision-july-1945:
   category: leisure
   image: /assets/images/blog/blog-111.webp
   lang: en
+ap-multiple-choice-strategies-all-subjects:
+- slug: ap-free-response-strategies-all-subjects
+  title: AP Free Response Strategies for Every Subject
+  url: /2006/11/01/ap-free-response-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-english-language-mcq-strategy
+  title: AP English Language MCQ Strategy
+  url: /2007/10/27/ap-english-language-mcq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: ap-study-resources-ranked
+  title: AP Study Resources Ranked
+  url: /2006/10/23/ap-study-resources-ranked/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: ap-exam-day-mistakes
+  title: AP Exam Day Mistakes That Cost Points
+  url: /2006/10/09/ap-exam-day-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
 tr-vs-lbj-domestic-reformers:
 - slug: if-oswald-missed-lbj-counterfactual
   title: 'If Oswald Missed: The LBJ Who Never Got Vietnam'
@@ -15682,6 +17063,31 @@ hitler-declares-war-on-us-december-1941:
   url: /2006/09/23/hitler-invades-poland-september-1-1939/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+ap-free-response-strategies-all-subjects:
+- slug: ap-multiple-choice-strategies-all-subjects
+  title: AP Multiple Choice Strategies for Every Subject
+  url: /2006/10/27/ap-multiple-choice-strategies-all-subjects/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: ap-calculus-ab-frq-strategy
+  title: AP Calculus AB FRQ Strategy
+  url: /2008/08/01/ap-calculus-ab-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: ap-exam-day-mistakes
+  title: AP Exam Day Mistakes That Cost Points
+  url: /2006/10/09/ap-exam-day-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 how-persia-conquered-egypt:
 - slug: late-period-of-ancient-egypt
@@ -15733,6 +17139,31 @@ lincoln-vs-fdr-civil-liberties:
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
+ap-exam-timeline-month-by-month:
+- slug: ap-for-homeschooled-students
+  title: AP for Homeschooled Students
+  url: /2006/12/02/ap-for-homeschooled-students/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: ap-class-difficulty-tier-list
+  title: AP Class Difficulty Tier List
+  url: /2006/10/05/ap-class-difficulty-tier-list/
+  category: industry
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 churchill-becomes-pm-may-10-1940:
 - slug: if-churchill-had-been-defeated-1940-counterfactual
   title: What If Halifax Rather Than Churchill Had Become Premier
@@ -15763,6 +17194,31 @@ churchill-becomes-pm-may-10-1940:
   url: /2016/03/05/winston-churchill-ww2-leadership/
   category: leisure
   image: /assets/images/blog/blog-90.webp
+  lang: en
+ap-exam-cancellation-and-withholding:
+- slug: ap-score-cancellation-vs-withholding
+  title: AP Score Cancellation vs Withholding
+  url: /2006/04/26/ap-score-cancellation-vs-withholding/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: ap-exam-score-trends-post-covid
+  title: AP Exam Score Trends Post-COVID
+  url: /2006/03/16/ap-exam-score-trends-post-covid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: the-future-of-ap-exams
+  title: The Future of AP Exams
+  url: /2006/02/26/the-future-of-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
   lang: en
 press-conference-wilson-to-modern:
 - slug: chief-of-staff-history-since-1946
@@ -15814,6 +17270,31 @@ fall-of-france-manstein-sickle-cut-may-1940:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
+ap-vs-honors-classes:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-weighted-gpa-explained
+  title: AP Weighted GPA Explained
+  url: /2007/01/03/ap-weighted-gpa-explained/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 state-of-the-union-letter-to-television:
 - slug: veto-message-weapon-jackson-modern
   title: 'The Veto Message: From Jackson''s Bank to Modern Use'
@@ -15863,6 +17344,31 @@ barbarossa-hitler-june-22-1941-invasion:
   url: /2006/04/05/kursk-hitler-july-1943-citadel/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+ap-classes-that-save-college-money:
+- slug: ap-credit-at-state-universities
+  title: AP Credit at State Universities
+  url: /2006/12/20/ap-credit-at-state-universities/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: ap-classes-and-scholarships
+  title: AP Classes and Scholarships
+  url: /2006/12/07/ap-classes-and-scholarships/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 chief-of-staff-history-since-1946:
 - slug: presidential-pardon-two-centuries
@@ -15914,6 +17420,31 @@ pearl-harbor-yamamoto-december-1941-decision:
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
+ap-exam-accommodations:
+- slug: sat-accommodations-extended-time-guide
+  title: 'SAT Accommodations: Extended Time and Support Services Guide'
+  url: /2020/10/06/sat-accommodations-extended-time-guide/
+  category: industry
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: ap-burnout-stress-management
+  title: 'AP Burnout: Managing Stress'
+  url: /2006/10/14/ap-burnout-stress-management/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: ap-exam-day-guide
+  title: 'AP Exam Day Guide: Rules, Timing, What to Expect'
+  url: /2008/10/16/ap-exam-day-guide/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 cabinet-evolution-four-to-fifteen:
 - slug: executive-order-washington-to-clinton
   title: 'The Executive Order: Washington to Clinton'
@@ -15938,6 +17469,31 @@ cabinet-evolution-four-to-fifteen:
   url: /2006/12/02/veto-message-weapon-jackson-modern/
   category: leisure
   image: /assets/images/blog/blog-89.webp
+  lang: en
+ap-summer-study-guide:
+- slug: how-to-self-study-for-ap-exams
+  title: How to Self-Study for AP Exams
+  url: /2008/10/03/how-to-self-study-for-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
+- slug: ap-study-resources-ranked
+  title: AP Study Resources Ranked
+  url: /2006/10/23/ap-study-resources-ranked/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: ap-for-homeschooled-students
+  title: AP for Homeschooled Students
+  url: /2006/12/02/ap-for-homeschooled-students/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: best-ap-course-load-by-grade
+  title: Best AP Course Load by Grade
+  url: /2006/12/11/best-ap-course-load-by-grade/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 d-day-eisenhower-june-5-1944-go-decision:
 - slug: operation-overlord-planning-1943-1944
@@ -15989,6 +17545,31 @@ last-native-pharaohs-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
+ap-for-homeschooled-students:
+- slug: ap-exam-timeline-month-by-month
+  title: 'The AP Exam Timeline: Month by Month'
+  url: /2006/11/05/ap-exam-timeline-month-by-month/
+  category: industry
+  image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-for-rural-small-school-students
+  title: AP for Rural and Small School Students
+  url: /2006/03/12/ap-for-rural-small-school-students/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ap-for-first-generation-students
+  title: AP for First-Generation College Students
+  url: /2006/09/17/ap-for-first-generation-students/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 veto-message-weapon-jackson-modern:
 - slug: veto-record-pattern-across-presidencies
   title: 'The Veto Record: Who Used It and What It Predicts'
@@ -16013,6 +17594,31 @@ veto-message-weapon-jackson-modern:
   url: /2006/11/15/state-of-the-union-letter-to-television/
   category: leisure
   image: /assets/images/blog/blog-31.webp
+  lang: en
+ap-classes-and-scholarships:
+- slug: ap-classes-that-save-college-money
+  title: AP Classes That Save the Most College Money
+  url: /2006/11/19/ap-classes-that-save-college-money/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
   lang: en
 presidential-pardon-two-centuries:
 - slug: chief-of-staff-history-since-1946
@@ -16039,6 +17645,31 @@ presidential-pardon-two-centuries:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
+best-ap-course-load-by-grade:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 executive-order-washington-to-clinton:
 - slug: cabinet-evolution-four-to-fifteen
   title: 'The Cabinet: From Washington''s Four to Modern 15'
@@ -16063,6 +17694,31 @@ executive-order-washington-to-clinton:
   url: /2006/12/02/veto-message-weapon-jackson-modern/
   category: leisure
   image: /assets/images/blog/blog-89.webp
+  lang: en
+ap-capstone-diploma-worth-it:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-research-complete-guide
+  title: AP Research Complete Guide
+  url: /2007/01/30/ap-research-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: ap-weighted-gpa-explained
+  title: AP Weighted GPA Explained
+  url: /2007/01/03/ap-weighted-gpa-explained/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 lbj-we-shall-overcome-1965:
 - slug: truman-doctrine-march-1947-speech
@@ -16089,6 +17745,31 @@ lbj-we-shall-overcome-1965:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
+ap-credit-at-state-universities:
+- slug: ap-classes-that-save-college-money
+  title: AP Classes That Save the Most College Money
+  url: /2006/11/19/ap-classes-that-save-college-money/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-classes-and-scholarships
+  title: AP Classes and Scholarships
+  url: /2006/12/07/ap-classes-and-scholarships/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: most-underrated-ap-classes
+  title: Most Underrated AP Classes
+  url: /2006/10/18/most-underrated-ap-classes/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 carter-malaise-speech-1979:
 - slug: fdr-first-inaugural-fear-itself
   title: 'FDR''s First Inaugural: The Fear Itself Speech'
@@ -16113,6 +17794,56 @@ carter-malaise-speech-1979:
   url: /2007/01/26/fdr-day-of-infamy-draft-edits/
   category: leisure
   image: /assets/images/blog/blog-07.webp
+  lang: en
+how-ivy-league-views-ap-exams:
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: how-many-ap-classes-ivy-league
+  title: How Many AP Classes for Ivy League and Top Colleges
+  url: /2008/10/30/how-many-ap-classes-ivy-league/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: sat-and-ap-together-application-strategy
+  title: 'SAT and AP Together: Application Strategy'
+  url: /1996/05/27/sat-and-ap-together-application-strategy/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+ap-scores-on-the-common-app:
+- slug: sat-common-app-scores
+  title: 'SAT and the Common App: Reporting Scores'
+  url: /1996/07/11/sat-common-app-scores/
+  category: industry
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: sat-and-ap-together-application-strategy
+  title: 'SAT and AP Together: Application Strategy'
+  url: /1996/05/27/sat-and-ap-together-application-strategy/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
   lang: en
 nixon-resignation-speech-august-1974:
 - slug: nixon-resigns-august-1974
@@ -16164,6 +17895,31 @@ greeks-in-egypt-before-alexander:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+ap-weighted-gpa-explained:
+- slug: ap-vs-honors-classes
+  title: AP vs Honors Classes
+  url: /2006/11/14/ap-vs-honors-classes/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: ap-classes-and-college-admissions
+  title: AP Classes and College Admissions
+  url: /2007/01/07/ap-classes-and-college-admissions/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: sat-vs-gpa-how-colleges-weight-scores
+  title: 'SAT vs GPA: How Colleges Weight Them'
+  url: /1995/11/07/sat-vs-gpa-how-colleges-weight-scores/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 reagan-brandenburg-tear-down-wall:
 - slug: jfk-berlin-wall-august-1961
   title: 'JFK and the Berlin Wall: The August 1961 Non-Response'
@@ -16188,6 +17944,31 @@ reagan-brandenburg-tear-down-wall:
   url: /2007/06/01/reagan-partisan-gap-scholars-public/
   category: leisure
   image: /assets/images/blog/blog-53.webp
+  lang: en
+ap-classes-and-college-admissions:
+- slug: how-ivy-league-views-ap-exams
+  title: How Ivy League Schools View AP Exams
+  url: /2006/12/25/how-ivy-league-views-ap-exams/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: sat-and-ap-together-application-strategy
+  title: 'SAT and AP Together: Application Strategy'
+  url: /1996/05/27/sat-and-ap-together-application-strategy/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
   lang: en
 jfk-inaugural-ask-not-sentences:
 - slug: washington-farewell-address-hamilton-edits
@@ -16214,6 +17995,31 @@ jfk-inaugural-ask-not-sentences:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+ap-exams-vs-a-levels:
+- slug: ap-exams-vs-gcses
+  title: AP Exams vs GCSEs
+  url: /2007/01/21/ap-exams-vs-gcses/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: ap-exams-vs-gaokao
+  title: AP Exams vs Gaokao
+  url: /2007/01/16/ap-exams-vs-gaokao/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: upsc-vs-gcse-a-levels
+  title: 'UPSC vs GCSEs and A-Levels: India vs UK Exams'
+  url: /2001/07/25/upsc-vs-gcse-a-levels/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 eisenhower-farewell-military-industrial:
 - slug: eisenhower-farewell-full-warnings
   title: 'Eisenhower''s Farewell: Beyond Military-Industrial'
@@ -16238,6 +18044,31 @@ eisenhower-farewell-military-industrial:
   url: /2007/02/17/lincoln-second-inaugural-703-words/
   category: leisure
   image: /assets/images/blog/blog-67.webp
+  lang: en
+ap-exams-vs-gaokao:
+- slug: ap-exams-vs-a-levels
+  title: AP Exams vs A-Levels
+  url: /2007/01/12/ap-exams-vs-a-levels/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: ap-exams-vs-gcses
+  title: AP Exams vs GCSEs
+  url: /2007/01/21/ap-exams-vs-gcses/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: sat-vs-gaokao-us-china-admissions
+  title: 'SAT vs Gaokao: US and China Compared'
+  url: /1996/03/03/sat-vs-gaokao-us-china-admissions/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 truman-doctrine-march-1947-speech:
 - slug: truman-vs-eisenhower-containment
@@ -16264,6 +18095,62 @@ truman-doctrine-march-1947-speech:
   category: leisure
   image: /assets/images/blog/blog-116.webp
   lang: en
+ap-exams-vs-gcses:
+- slug: ap-exams-vs-a-levels
+  title: AP Exams vs A-Levels
+  url: /2007/01/12/ap-exams-vs-a-levels/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: ap-exams-vs-gaokao
+  title: AP Exams vs Gaokao
+  url: /2007/01/16/ap-exams-vs-gaokao/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: upsc-vs-gcse-a-levels
+  title: 'UPSC vs GCSEs and A-Levels: India vs UK Exams'
+  url: /2001/07/25/upsc-vs-gcse-a-levels/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+ap-vs-sat:
+- slug: sat-and-ap-together-application-strategy
+  title: 'SAT and AP Together: Application Strategy'
+  url: /1996/05/27/sat-and-ap-together-application-strategy/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ap-exam-study-plan
+  title: 'AP Exam Study Plan: Build a Review Schedule'
+  url: /2008/09/19/ap-exam-study-plan/
+  category: industry
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: sat-score-cancellation
+  title: 'SAT Score Cancellation: When and Why'
+  url: /1996/06/28/sat-score-cancellation/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: hardest-ap-classes-ranked
+  title: Hardest AP Classes Ranked by Data
+  url: /2008/09/06/hardest-ap-classes-ranked/
+  category: industry
+  image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: sat-vs-gre-vs-gmat-understanding-us-standardized-tests
+  title: 'SAT vs GRE vs GMAT: Understanding US Standardized Tests'
+  url: /2020/02/09/sat-vs-gre-vs-gmat-understanding-us-standardized-tests/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 fdr-day-of-infamy-draft-edits:
 - slug: fdr-first-inaugural-fear-itself
   title: 'FDR''s First Inaugural: The Fear Itself Speech'
@@ -16288,6 +18175,31 @@ fdr-day-of-infamy-draft-edits:
   url: /2006/11/04/lincoln-vs-fdr-civil-liberties/
   category: leisure
   image: /assets/images/blog/blog-101.webp
+  lang: en
+ap-research-complete-guide:
+- slug: ap-seminar-complete-guide
+  title: AP Seminar Complete Guide
+  url: /2007/02/03/ap-seminar-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-105.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-drawing-portfolio-guide
+  title: AP Drawing Portfolio Guide
+  url: /2007/03/20/ap-drawing-portfolio-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 fdr-first-inaugural-fear-itself:
 - slug: jefferson-first-inaugural-1801
@@ -16339,6 +18251,31 @@ naucratis-egypt-greece-trade:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+ap-seminar-complete-guide:
+- slug: ap-research-complete-guide
+  title: AP Research Complete Guide
+  url: /2007/01/30/ap-research-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: ap-summer-study-guide
+  title: AP Summer Study Guide
+  url: /2006/11/28/ap-summer-study-guide/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ap-capstone-diploma-worth-it
+  title: 'AP Capstone Diploma: Is It Worth It'
+  url: /2006/12/16/ap-capstone-diploma-worth-it/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: ap-exam-day-guide
+  title: 'AP Exam Day Guide: Rules, Timing, What to Expect'
+  url: /2008/10/16/ap-exam-day-guide/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 wilson-fourteen-points-january-1918:
 - slug: wilson-enters-wwi-march-1917
   title: 'Wilson Enters WWI: The March 1917 Cabinet Reversal'
@@ -16364,6 +18301,31 @@ wilson-fourteen-points-january-1918:
   category: leisure
   image: /assets/images/blog/blog-58.webp
   lang: en
+ap-african-american-studies-guide:
+- slug: ap-macroeconomics-guide
+  title: AP Macroeconomics Complete Guide
+  url: /2007/05/31/ap-macroeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ap-psychology-bio-bases-learning-memory
+  title: 'AP Psychology: Bio Bases, Learning, Memory'
+  url: /2007/06/23/ap-psychology-bio-bases-learning-memory/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: ap-us-government-guide
+  title: AP US Government and Politics Guide
+  url: /2007/06/14/ap-us-government-guide/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: ap-psychology-developmental-abnormal-social
+  title: 'AP Psychology: Developmental, Abnormal, Social'
+  url: /2007/06/18/ap-psychology-developmental-abnormal-social/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 tr-new-nationalism-1910:
 - slug: tr-vs-lbj-domestic-reformers
   title: 'TR vs LBJ as Domestic Reformers: Which Changed More'
@@ -16388,6 +18350,62 @@ tr-new-nationalism-1910:
   url: /2006/12/29/nixon-resignation-speech-august-1974/
   category: leisure
   image: /assets/images/blog/blog-44.webp
+  lang: en
+how-to-get-a-5-on-ap-economics:
+- slug: ap-macro-vs-micro
+  title: AP Macro vs Micro
+  url: /2007/05/22/ap-macro-vs-micro/
+  category: industry
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-us-government
+  title: How to Get a 5 on AP US Government
+  url: /2007/02/17/how-to-get-a-5-on-ap-us-government/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: ap-microeconomics-guide
+  title: AP Microeconomics Complete Guide
+  url: /2007/05/27/ap-microeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ap-macroeconomics-guide
+  title: AP Macroeconomics Complete Guide
+  url: /2007/05/31/ap-macroeconomics-guide/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+how-to-get-a-5-on-ap-us-government:
+- slug: ap-us-government-guide
+  title: AP US Government and Politics Guide
+  url: /2007/06/14/ap-us-government-guide/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: ap-us-government-constitution-civil-liberties
+  title: 'AP US Government: Constitution, Civil Liberties'
+  url: /2007/06/09/ap-us-government-constitution-civil-liberties/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: ap-comparative-government-guide
+  title: AP Comparative Government Complete Guide
+  url: /2007/06/05/ap-comparative-government-guide/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-economics
+  title: How to Get a 5 on AP Economics
+  url: /2007/02/12/how-to-get-a-5-on-ap-economics/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: ap-us-government-scotus-cases
+  title: 'AP US Government: SCOTUS Cases to Know'
+  url: /2006/06/28/ap-us-government-scotus-cases/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
   lang: en
 lincoln-second-inaugural-703-words:
 - slug: gettysburg-address-line-by-line-analysis
@@ -17357,6 +19375,12 @@ ap-spanish-language-speaking-writing-tasks:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: ap-world-language-speaking-tips
+  title: AP World Language Speaking Section Tips
+  url: /2006/03/30/ap-world-language-speaking-tips/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
 jefferson-sally-hemings-dna-1998:
 - slug: jefferson-louisiana-purchase-unconstitutional
   title: 'Jefferson''s Louisiana Purchase: The Unconstitutional Buy'
@@ -17445,17 +19469,17 @@ ap-macro-vs-micro:
   category: industry
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: how-to-get-a-5-on-ap-economics
+  title: How to Get a 5 on AP Economics
+  url: /2007/02/12/how-to-get-a-5-on-ap-economics/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: ap-us-government-constitution-civil-liberties
   title: 'AP US Government: Constitution, Civil Liberties'
   url: /2007/06/09/ap-us-government-constitution-civil-liberties/
   category: industry
   image: /assets/images/blog/blog-109.webp
-  lang: en
-- slug: ap-human-geography-agriculture-cities-political
-  title: 'AP Human Geography: Agriculture, Cities, Politics'
-  url: /2007/07/02/ap-human-geography-agriculture-cities-political/
-  category: industry
-  image: /assets/images/blog/blog-110.webp
   lang: en
 ap-microeconomics-guide:
 - slug: ap-macro-vs-micro
@@ -17532,6 +19556,12 @@ ap-macroeconomics-guide:
   category: industry
   image: /assets/images/blog/blog-81.webp
   lang: en
+- slug: ap-african-american-studies-guide
+  title: AP African American Studies Complete Guide
+  url: /2007/02/08/ap-african-american-studies-guide/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
 persian-vs-native-rule-in-egypt:
 - slug: late-period-of-ancient-egypt
   title: The Late Period of Ancient Egypt
@@ -17595,17 +19625,17 @@ ap-comparative-government-guide:
   category: industry
   image: /assets/images/blog/blog-109.webp
   lang: en
+- slug: how-to-get-a-5-on-ap-us-government
+  title: How to Get a 5 on AP US Government
+  url: /2007/02/17/how-to-get-a-5-on-ap-us-government/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: ap-psychology-complete-guide
   title: AP Psychology Complete Guide
   url: /2007/06/27/ap-psychology-complete-guide/
   category: industry
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: ap-macro-vs-micro
-  title: AP Macro vs Micro
-  url: /2007/05/22/ap-macro-vs-micro/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
   lang: en
 hoover-rehabilitation-keeps-failing:
 - slug: hoover-bonus-army-july-1932
@@ -17645,17 +19675,17 @@ ap-us-government-constitution-civil-liberties:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: how-to-get-a-5-on-ap-us-government
+  title: How to Get a 5 on AP US Government
+  url: /2007/02/17/how-to-get-a-5-on-ap-us-government/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: ap-psychology-complete-guide
   title: AP Psychology Complete Guide
   url: /2007/06/27/ap-psychology-complete-guide/
   category: industry
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: ap-macro-vs-micro
-  title: AP Macro vs Micro
-  url: /2007/05/22/ap-macro-vs-micro/
-  category: industry
-  image: /assets/images/blog/blog-06.webp
   lang: en
 nixon-never-ending-decline-records:
 - slug: nixon-tapes-decision-june-1973
@@ -17689,6 +19719,12 @@ ap-us-government-guide:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: how-to-get-a-5-on-ap-us-government
+  title: How to Get a 5 on AP US Government
+  url: /2007/02/17/how-to-get-a-5-on-ap-us-government/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: ap-us-government-constitution-civil-liberties
   title: 'AP US Government: Constitution, Civil Liberties'
   url: /2007/06/09/ap-us-government-constitution-civil-liberties/
@@ -17700,12 +19736,6 @@ ap-us-government-guide:
   url: /2007/06/27/ap-psychology-complete-guide/
   category: industry
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: ap-human-geography-agriculture-cities-political
-  title: 'AP Human Geography: Agriculture, Cities, Politics'
-  url: /2007/07/02/ap-human-geography-agriculture-cities-political/
-  category: industry
-  image: /assets/images/blog/blog-110.webp
   lang: en
 ap-psychology-developmental-abnormal-social:
 - slug: ap-psychology-complete-guide
@@ -17832,6 +19862,12 @@ ap-psychology-complete-guide:
   category: industry
   image: /assets/images/blog/blog-54.webp
   lang: en
+- slug: ap-psychology-research-methods-ethics
+  title: 'AP Psychology: Research Methods and Ethics'
+  url: /2006/07/07/ap-psychology-research-methods-ethics/
+  category: industry
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 jackson-trail-of-tears-ranking-fall:
 - slug: fdr-recent-critiques-decline
   title: 'FDR''s Decline From Untouchable: The Critiques That Stuck'
@@ -17895,17 +19931,17 @@ ap-human-geography-agriculture-cities-political:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: ap-us-government-guide
-  title: AP US Government and Politics Guide
-  url: /2007/06/14/ap-us-government-guide/
-  category: industry
-  image: /assets/images/blog/blog-54.webp
-  lang: en
 - slug: ap-macro-vs-micro
   title: AP Macro vs Micro
   url: /2007/05/22/ap-macro-vs-micro/
   category: industry
   image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: ap-psychology-bio-bases-learning-memory
+  title: 'AP Psychology: Bio Bases, Learning, Memory'
+  url: /2007/06/23/ap-psychology-bio-bases-learning-memory/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
   lang: en
 wilson-segregationist-reputation-fall:
 - slug: fdr-recent-critiques-decline
@@ -17945,17 +19981,17 @@ ap-human-geography-population-migration:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
 - slug: ap-human-geography-agriculture-cities-political
   title: 'AP Human Geography: Agriculture, Cities, Politics'
   url: /2007/07/02/ap-human-geography-agriculture-cities-political/
   category: industry
   image: /assets/images/blog/blog-110.webp
-  lang: en
-- slug: upsc-geography-optional-paper-2
-  title: UPSC Geography Optional Paper 2 Human and Indian Geography
-  url: /2002/06/05/upsc-geography-optional-paper-2/
-  category: industry
-  image: /assets/images/blog/blog-107.webp
   lang: en
 lbj-split-reputation-civil-rights-vietnam:
 - slug: lbj-vietnam-escalation-july-1965
@@ -18170,17 +20206,17 @@ ap-european-history-periods-themes:
   category: industry
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: ap-european-history-most-tested-themes
+  title: 'AP European History: Most Tested Themes'
+  url: /2006/06/14/ap-european-history-most-tested-themes/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: how-to-get-a-5-on-ap-world-history
   title: How to Get a 5 on AP World History
   url: /2007/02/21/how-to-get-a-5-on-ap-world-history/
   category: industry
   image: /assets/images/blog/blog-35.webp
-  lang: en
-- slug: how-to-get-a-5-on-ap-us-history
-  title: How to Get a 5 on AP US History
-  url: /2007/03/07/how-to-get-a-5-on-ap-us-history/
-  category: industry
-  image: /assets/images/blog/blog-70.webp
   lang: en
 alexander-conquest-of-egypt:
 - slug: greeks-in-egypt-before-alexander
@@ -18301,11 +20337,11 @@ ap-world-history-dbq-leq-saq-strategy:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: ap-world-history-complete-guide
-  title: AP World History Modern Complete Guide
-  url: /2007/08/20/ap-world-history-complete-guide/
+- slug: ap-history-dbq-writing-framework
+  title: 'AP History DBQ Writing: A Universal Framework'
+  url: /2006/05/09/ap-history-dbq-writing-framework/
   category: industry
-  image: /assets/images/blog/blog-52.webp
+  image: /assets/images/blog/blog-15.webp
   lang: en
 ap-world-history-units-5-9-1750-present:
 - slug: ap-world-history-units-1-4-1200-1750
@@ -19119,6 +21155,12 @@ ap-english-literature-guide:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
+- slug: ap-english-literature-close-reading
+  title: 'AP English Literature: Close Reading'
+  url: /2006/07/11/ap-english-literature-close-reading/
+  category: industry
+  image: /assets/images/blog/blog-106.webp
+  lang: en
 outsider-president-18-month-capture-rule:
 - slug: wartime-executive-power-never-returned-pattern
   title: Every Wartime President Expanded Power. None Gave It Back.
@@ -19163,11 +21205,11 @@ ap-english-language-mcq-strategy:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: ap-english-language-synthesis-essay
-  title: 'AP English Language: Synthesis Essay Guide'
-  url: /2007/10/31/ap-english-language-synthesis-essay/
+- slug: ap-multiple-choice-strategies-all-subjects
+  title: AP Multiple Choice Strategies for Every Subject
+  url: /2006/10/27/ap-multiple-choice-strategies-all-subjects/
   category: industry
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-106.webp
   lang: en
 if-polk-skipped-mexico-counterfactual:
 - slug: polk-provokes-mexico-war-90-days
@@ -19332,17 +21374,17 @@ ap-english-language-rhetorical-analysis-essay:
   category: industry
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: ap-english-language-analyze-rhetoric
+  title: 'AP English Language: How to Analyze Rhetoric'
+  url: /2006/07/16/ap-english-language-analyze-rhetoric/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
 - slug: ap-english-literature-poetry-analysis-essay
   title: 'AP English Literature: Poetry Analysis Essay'
   url: /2007/10/18/ap-english-literature-poetry-analysis-essay/
   category: industry
   image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: ap-english-lit-literary-argument-essay
-  title: 'AP English Literature: Literary Argument Essay'
-  url: /2007/10/09/ap-english-lit-literary-argument-essay/
-  category: industry
-  image: /assets/images/blog/blog-84.webp
   lang: en
 if-bush-sr-went-baghdad-counterfactual:
 - slug: bush-sr-stops-kuwait-1991
@@ -19393,6 +21435,12 @@ ap-english-language-guide:
   url: /2007/10/31/ap-english-language-synthesis-essay/
   category: industry
   image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: ap-english-essay-rubric-decoded
+  title: AP English Essay Rubric Decoded
+  url: /2006/05/05/ap-english-essay-rubric-decoded/
+  category: industry
+  image: /assets/images/blog/blog-100.webp
   lang: en
 - slug: ap-lang-vs-ap-lit
   title: AP Lang vs AP Lit
@@ -19474,6 +21522,12 @@ apes-energy-resources-land-use:
   url: /2008/02/03/apes-frq-strategy/
   category: industry
   image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: apes-calculations-formulas-math
+  title: 'APES: Calculations, Formulas, Math Skills'
+  url: /2006/05/27/apes-calculations-formulas-math/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
   lang: en
 if-oswald-missed-lbj-counterfactual:
 - slug: lbj-vietnam-escalation-july-1965
@@ -20125,6 +22179,12 @@ how-to-get-a-5-on-ap-physics-1:
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: ap-physics-1-electrostatics-dc-circuits
+  title: 'AP Physics 1: Electrostatics and DC Circuits'
+  url: /2006/08/03/ap-physics-1-electrostatics-dc-circuits/
+  category: industry
+  image: /assets/images/blog/blog-114.webp
+  lang: en
 bush-sr-raises-taxes-1990-deal:
 - slug: bush-sr-stops-kuwait-1991
   title: 'Bush Sr. Stops at Kuwait: The 1991 Baghdad Call'
@@ -20175,6 +22235,12 @@ how-to-get-a-5-on-ap-chemistry:
   category: industry
   image: /assets/images/blog/blog-25.webp
   lang: en
+- slug: ap-chemistry-lewis-structures-vsepr
+  title: 'AP Chemistry: Lewis Structures and VSEPR'
+  url: /2006/08/12/ap-chemistry-lewis-structures-vsepr/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 bush-sr-stops-kuwait-1991:
 - slug: if-bush-sr-went-baghdad-counterfactual
   title: 'If Bush Sr. Went to Baghdad: The 1991 Occupation'
@@ -20224,6 +22290,12 @@ how-to-get-a-5-on-ap-biology:
   url: /2008/01/11/ap-biology-mcq-strategy/
   category: industry
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: ap-biology-immune-plant-animal-behavior
+  title: 'AP Biology: Immune, Plant, Animal Behavior'
+  url: /2006/08/16/ap-biology-immune-plant-animal-behavior/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
   lang: en
 science-learning-in-alexandria:
 - slug: greek-egyptian-life-alexandria
@@ -20694,17 +22766,11 @@ ap-physics-2-complete-guide:
   category: industry
   image: /assets/images/blog/blog-81.webp
   lang: en
-- slug: ap-physics-1-complete-guide
-  title: AP Physics 1 Complete Guide
-  url: /2008/03/28/ap-physics-1-complete-guide/
+- slug: ap-physics-c-mechanics-guide
+  title: AP Physics C Mechanics Complete Guide
+  url: /2008/03/05/ap-physics-c-mechanics-guide/
   category: industry
-  image: /assets/images/blog/blog-74.webp
-  lang: en
-- slug: ap-physics-2-fluids-circuits-magnetism
-  title: 'AP Physics 2: Fluids, Circuits, Magnetism'
-  url: /2008/03/10/ap-physics-2-fluids-circuits-magnetism/
-  category: industry
-  image: /assets/images/blog/blog-54.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 nixon-opens-china-kissinger-1972:
 - slug: nixon-resigns-august-1974
@@ -20744,17 +22810,17 @@ ap-physics-1-waves-sound-shm:
   category: industry
   image: /assets/images/blog/blog-66.webp
   lang: en
-- slug: ap-physics-1-complete-guide
-  title: AP Physics 1 Complete Guide
-  url: /2008/03/28/ap-physics-1-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-74.webp
-  lang: en
 - slug: ap-physics-c-calculus-techniques
   title: 'AP Physics C: Calculus Techniques'
   url: /2008/01/02/ap-physics-c-calculus-techniques/
   category: industry
   image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ap-physics-c-mechanics-vs-em
+  title: 'AP Physics C: Mechanics vs E&M'
+  url: /2007/12/11/ap-physics-c-mechanics-vs-em/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
   lang: en
 lbj-withdraws-march-1968:
 - slug: lbj-vietnam-escalation-july-1965
@@ -20788,12 +22854,6 @@ ap-physics-1-forces-kinematics-energy:
   category: industry
   image: /assets/images/blog/blog-60.webp
   lang: en
-- slug: how-to-get-a-5-on-ap-physics-1
-  title: How to Get a 5 on AP Physics 1
-  url: /2008/01/20/how-to-get-a-5-on-ap-physics-1/
-  category: industry
-  image: /assets/images/blog/blog-81.webp
-  lang: en
 - slug: ap-physics-c-calculus-techniques
   title: 'AP Physics C: Calculus Techniques'
   url: /2008/01/02/ap-physics-c-calculus-techniques/
@@ -20805,6 +22865,12 @@ ap-physics-1-forces-kinematics-energy:
   url: /2008/03/19/ap-physics-1-waves-sound-shm/
   category: industry
   image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: ap-physics-c-em-guide
+  title: AP Physics C E&M Complete Guide
+  url: /2008/03/01/ap-physics-c-em-guide/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
   lang: en
 lbj-vietnam-escalation-july-1965:
 - slug: lbj-withdraws-march-1968
@@ -20832,12 +22898,6 @@ lbj-vietnam-escalation-july-1965:
   image: /assets/images/blog/blog-87.webp
   lang: en
 ap-physics-1-complete-guide:
-- slug: how-to-get-a-5-on-ap-physics-1
-  title: How to Get a 5 on AP Physics 1
-  url: /2008/01/20/how-to-get-a-5-on-ap-physics-1/
-  category: industry
-  image: /assets/images/blog/blog-81.webp
-  lang: en
 - slug: ap-physics-c-em-guide
   title: AP Physics C E&M Complete Guide
   url: /2008/03/01/ap-physics-c-em-guide/
@@ -20855,6 +22915,12 @@ ap-physics-1-complete-guide:
   url: /2008/03/05/ap-physics-c-mechanics-guide/
   category: industry
   image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: ap-physics-c-mechanics-vs-em
+  title: 'AP Physics C: Mechanics vs E&M'
+  url: /2007/12/11/ap-physics-c-mechanics-vs-em/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
   lang: en
 lbj-civil-rights-act-cloture-1964:
 - slug: lbj-vietnam-escalation-july-1965
@@ -20994,17 +23060,17 @@ ap-chemistry-reactions-stoichiometry-kinetics:
   category: industry
   image: /assets/images/blog/blog-16.webp
   lang: en
-- slug: ap-chemistry-complete-guide
-  title: AP Chemistry Complete Guide
-  url: /2008/04/19/ap-chemistry-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-39.webp
-  lang: en
 - slug: ap-chemistry-mcq-strategy
   title: AP Chemistry MCQ Strategy
   url: /2008/01/07/ap-chemistry-mcq-strategy/
   category: industry
   image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: ap-chemistry-thermodynamics-equilibrium
+  title: 'AP Chemistry: Thermo, Equilibrium, Electrochem'
+  url: /2008/04/06/ap-chemistry-thermodynamics-equilibrium/
+  category: industry
+  image: /assets/images/blog/blog-107.webp
   lang: en
 jfk-berlin-wall-august-1961:
 - slug: eisenhower-u2-incident-1960
@@ -21032,12 +23098,6 @@ jfk-berlin-wall-august-1961:
   image: /assets/images/blog/blog-51.webp
   lang: en
 ap-chemistry-atomic-structure-bonding:
-- slug: ap-chemistry-complete-guide
-  title: AP Chemistry Complete Guide
-  url: /2008/04/19/ap-chemistry-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-39.webp
-  lang: en
 - slug: how-to-get-a-5-on-ap-chemistry
   title: How to Get a 5 on AP Chemistry
   url: /2008/01/25/how-to-get-a-5-on-ap-chemistry/
@@ -21055,6 +23115,12 @@ ap-chemistry-atomic-structure-bonding:
   url: /2007/12/24/ap-chemistry-lab-skills/
   category: industry
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: ap-chemistry-reactions-stoichiometry-kinetics
+  title: 'AP Chemistry: Reactions, Stoichiometry, Kinetics'
+  url: /2008/04/10/ap-chemistry-reactions-stoichiometry-kinetics/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
   lang: en
 jfk-bay-of-pigs-air-cover-1961:
 - slug: jfk-berlin-wall-august-1961
@@ -21105,6 +23171,12 @@ ap-chemistry-complete-guide:
   url: /2008/04/01/ap-chemistry-frq-strategy/
   category: industry
   image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: ap-chemistry-gas-laws-solutions
+  title: 'AP Chemistry: Gas Laws and Solutions'
+  url: /2006/08/07/ap-chemistry-gas-laws-solutions/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
   lang: en
 eisenhower-u2-incident-1960:
 - slug: eisenhower-dien-bien-phu-refusal-1954
@@ -21257,18 +23329,6 @@ truman-fires-macarthur-1951:
   image: /assets/images/blog/blog-12.webp
   lang: en
 ap-biology-genetics-heredity-gene-expression:
-- slug: ap-biology-complete-guide
-  title: AP Biology Complete Guide
-  url: /2008/05/12/ap-biology-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: how-to-get-a-5-on-ap-biology
-  title: How to Get a 5 on AP Biology
-  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
-  lang: en
 - slug: ap-biology-mcq-strategy
   title: AP Biology MCQ Strategy
   url: /2008/01/11/ap-biology-mcq-strategy/
@@ -21281,19 +23341,19 @@ ap-biology-genetics-heredity-gene-expression:
   category: industry
   image: /assets/images/blog/blog-27.webp
   lang: en
+- slug: ap-biology-evolution-ecology-biodiversity
+  title: 'AP Biology: Evolution, Ecology, Biodiversity'
+  url: /2008/04/28/ap-biology-evolution-ecology-biodiversity/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-biology-frq-strategy
+  title: AP Biology FRQ Strategy
+  url: /2008/04/24/ap-biology-frq-strategy/
+  category: industry
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 ap-biology-cells-energetics-communication:
-- slug: ap-biology-complete-guide
-  title: AP Biology Complete Guide
-  url: /2008/05/12/ap-biology-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-94.webp
-  lang: en
-- slug: how-to-get-a-5-on-ap-biology
-  title: How to Get a 5 on AP Biology
-  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
-  lang: en
 - slug: ap-biology-genetics-heredity-gene-expression
   title: 'AP Biology: Genetics, Heredity, Gene Expression'
   url: /2008/05/03/ap-biology-genetics-heredity-gene-expression/
@@ -21305,6 +23365,18 @@ ap-biology-cells-energetics-communication:
   url: /2008/04/24/ap-biology-frq-strategy/
   category: industry
   image: /assets/images/blog/blog-93.webp
+  lang: en
+- slug: ap-biology-evolution-ecology-biodiversity
+  title: 'AP Biology: Evolution, Ecology, Biodiversity'
+  url: /2008/04/28/ap-biology-evolution-ecology-biodiversity/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ap-biology-lab-review-investigations
+  title: 'AP Biology Lab Review: All 13 Investigations'
+  url: /2007/12/29/ap-biology-lab-review-investigations/
+  category: industry
+  image: /assets/images/blog/blog-101.webp
   lang: en
 truman-recognizes-israel-1948:
 - slug: truman-fires-macarthur-1951
@@ -21332,12 +23404,6 @@ truman-recognizes-israel-1948:
   image: /assets/images/blog/blog-41.webp
   lang: en
 ap-biology-complete-guide:
-- slug: how-to-get-a-5-on-ap-biology
-  title: How to Get a 5 on AP Biology
-  url: /2008/01/29/how-to-get-a-5-on-ap-biology/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
-  lang: en
 - slug: ap-biology-mcq-strategy
   title: AP Biology MCQ Strategy
   url: /2008/01/11/ap-biology-mcq-strategy/
@@ -21355,6 +23421,24 @@ ap-biology-complete-guide:
   url: /2007/12/06/ap-biology-evolution-natural-selection/
   category: industry
   image: /assets/images/blog/blog-110.webp
+  lang: en
+- slug: ap-biology-genetics-heredity-gene-expression
+  title: 'AP Biology: Genetics, Heredity, Gene Expression'
+  url: /2008/05/03/ap-biology-genetics-heredity-gene-expression/
+  category: industry
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: ap-biology-graphing-data-analysis
+  title: 'AP Biology: Graphing and Data Analysis'
+  url: /2006/05/23/ap-biology-graphing-data-analysis/
+  category: industry
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: ap-biology-free-energy-enzymes-metabolism
+  title: 'AP Biology: Free Energy, Enzymes, Metabolism'
+  url: /2006/08/21/ap-biology-free-energy-enzymes-metabolism/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
   lang: en
 fdr-japanese-internment-9066:
 - slug: fdr-recent-critiques-decline
@@ -21455,12 +23539,6 @@ ap-calculus-bc-frq-strategy:
   url: /2008/06/17/how-to-get-a-5-on-ap-calculus/
   category: industry
   image: /assets/images/blog/blog-21.webp
-  lang: en
-- slug: ap-calculus-ab-frq-strategy
-  title: AP Calculus AB FRQ Strategy
-  url: /2008/08/01/ap-calculus-ab-frq-strategy/
-  category: industry
-  image: /assets/images/blog/blog-69.webp
   lang: en
 fdr-court-packing-1937:
 - slug: fdr-hundred-days-fifteen-bills
@@ -21837,6 +23915,12 @@ ap-computer-science-principles-guide:
   category: industry
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: ap-csp-create-task-guide
+  title: 'AP Computer Science Principles: The Create Task'
+  url: /2006/06/01/ap-csp-create-task-guide/
+  category: industry
+  image: /assets/images/blog/blog-112.webp
+  lang: en
 wilson-enters-wwi-march-1917:
 - slug: wilson-fourteen-points-january-1918
   title: 'Wilson''s 14 Points: The January 1918 Template'
@@ -21962,6 +24046,12 @@ ap-computer-science-a-guide:
   category: industry
   image: /assets/images/blog/blog-81.webp
   lang: en
+- slug: ap-computer-science-a-sorting-algorithms
+  title: 'AP Computer Science A: Sorting and Algorithms'
+  url: /2006/06/05/ap-computer-science-a-sorting-algorithms/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 tr-takes-panama-canal-1903:
 - slug: tr-coal-strike-mediation-1902
   title: 'TR and the 1902 Coal Strike: The Mediation Precedent'
@@ -22067,6 +24157,12 @@ ap-statistics-complete-guide:
   url: /2008/07/18/ap-precalculus-complete-guide/
   category: industry
   image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: ap-statistics-confidence-intervals-hypothesis
+  title: 'AP Statistics: Confidence Intervals, Hypothesis'
+  url: /2006/08/25/ap-statistics-confidence-intervals-hypothesis/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
   lang: en
 ap-precalculus-complete-guide:
 - slug: ap-calculus-ab-complete-guide
@@ -22192,6 +24288,12 @@ ap-calculus-bc-complete-guide:
   url: /2008/05/21/ap-calculus-bc-frq-strategy/
   category: industry
   image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: ap-calculus-bc-convergence-taylor-series
+  title: 'AP Calculus BC: Convergence and Taylor Series'
+  url: /2006/08/30/ap-calculus-bc-convergence-taylor-series/
+  category: industry
+  image: /assets/images/blog/blog-99.webp
   lang: en
 hayes-ends-reconstruction-1877:
 - slug: fillmore-1850-compromise-fugitive-slave
@@ -22362,11 +24464,11 @@ ap-calculus-ab-complete-guide:
   category: industry
   image: /assets/images/blog/blog-109.webp
   lang: en
-- slug: ap-calculus-bc-frq-strategy
-  title: AP Calculus BC FRQ Strategy
-  url: /2008/05/21/ap-calculus-bc-frq-strategy/
+- slug: ap-calculus-ab-limits-derivatives-integrals
+  title: 'AP Calculus AB: Limits, Derivatives, Integrals'
+  url: /2008/08/05/ap-calculus-ab-limits-derivatives-integrals/
   category: industry
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
 ap-exam-retakes-worth-it:
 - slug: ap-score-release-2026
@@ -22693,12 +24795,6 @@ easiest-ap-classes-ranked:
   category: industry
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: sat-and-ap-together-application-strategy
-  title: 'SAT and AP Together: Application Strategy'
-  url: /1996/05/27/sat-and-ap-together-application-strategy/
-  category: industry
-  image: /assets/images/blog/blog-64.webp
-  lang: en
 polk-provokes-mexico-war-90-days:
 - slug: if-polk-skipped-mexico-counterfactual
   title: 'If Polk Skipped Mexico: The Civil War Without Southwest'
@@ -22798,6 +24894,12 @@ ap-exam-study-plan:
   url: /2008/10/16/ap-exam-day-guide/
   category: industry
   image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: ap-last-minute-two-week-review
+  title: 'AP Last-Minute Review: Two-Week Emergency Plan'
+  url: /2006/04/30/ap-last-minute-two-week-review/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
   lang: en
 jackson-nullification-crisis-1832:
 - slug: jackson-bank-veto-1832
@@ -22999,18 +25101,6 @@ ap-credit-policies-colleges:
   category: industry
   image: /assets/images/blog/blog-111.webp
   lang: en
-- slug: ap-scholar-awards-explained
-  title: AP Scholar Awards Explained
-  url: /2008/09/01/ap-scholar-awards-explained/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
-  lang: en
-- slug: ap-vs-ib-vs-dual-enrollment
-  title: AP vs IB vs Dual Enrollment
-  url: /2008/10/25/ap-vs-ib-vs-dual-enrollment/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
-  lang: en
 madison-war-1812-congressional-vote:
 - slug: jefferson-embargo-act-1807
   title: 'Jefferson''s Embargo: The 1807 Act That Broke New England'
@@ -23185,6 +25275,12 @@ ap-vs-ib-vs-dual-enrollment:
   url: /2007/11/18/ap-sciences-college-credit-guide/
   category: industry
   image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: ap-and-ib-taking-both-programs
+  title: 'AP and IB: Taking Both Programs'
+  url: /2006/03/07/ap-and-ib-taking-both-programs/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
   lang: en
 adams-refuses-war-france-1800:
 - slug: washington-refuses-third-term-1796
@@ -26871,11 +28967,11 @@ marxism-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: mode-of-production-explained
-  title: 'Mode of Production: Marxism''s Core Unit'
-  url: /2010/02/15/mode-of-production-explained/
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
   category: leisure
-  image: /assets/images/blog/blog-91.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 google-news-finally-responds-to-news-pubs:
 - slug: why-bing-would-be-an-eternal-threat-to-google
@@ -27077,17 +29173,17 @@ base-and-superstructure-explained:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 - slug: historical-materialism-exam-answers
   title: 'Historical Materialism: Exam Answer Guide'
   url: /2010/05/01/historical-materialism-exam-answers/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: marxism-complete-guide
-  title: 'Marxism: The Complete Guide'
-  url: /2010/01/01/marxism-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-21.webp
   lang: en
 basic-structure-doctrine-explained:
 - slug: 42nd-vs-44th-amendment-comparison
@@ -27252,17 +29348,17 @@ mode-of-production-explained:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: historical-materialism-complete-guide
   title: 'Historical Materialism: The Complete Guide'
   url: /2010/01/15/historical-materialism-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: marx-vs-marginalist-theory-of-value
-  title: Marx vs Marginalism on Value
-  url: /2010/09/15/marx-vs-marginalist-theory-of-value/
-  category: leisure
-  image: /assets/images/blog/blog-18.webp
   lang: en
 title-vii-eeoc-enforcement-guide:
 - slug: civil-rights-act-1964-titles-explained
@@ -27408,17 +29504,17 @@ german-ideology-readers-guide:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 - slug: labour-theory-of-value-criticisms
   title: Criticisms of the Labour Theory of Value
   url: /2010/09/01/labour-theory-of-value-criticisms/
   category: leisure
   image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: case-against-historical-materialism
-  title: The Case Against Historical Materialism
-  url: /2010/04/15/case-against-historical-materialism/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 history-of-classical-composers:
 - slug: johann-sebastian-bach-influence-on-music
@@ -27695,11 +29791,11 @@ historical-materialism-vs-idealism:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: economic-determinism-debate
-  title: 'Economic Determinism: Does Economics Determine History?'
-  url: /2010/03/15/economic-determinism-debate/
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 - slug: german-ideology-readers-guide
   title: 'The German Ideology: A Reader''s Guide'
@@ -28026,11 +30122,11 @@ historical-materialism-exam-answers:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: marxism-glossary-key-terms
-  title: 'Marxism Glossary: The Key Terms Defined'
-  url: /2010/05/15/marxism-glossary-key-terms/
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
   category: leisure
-  image: /assets/images/blog/blog-62.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 world-music-traditions-explained:
 - slug: pyotr-ilyich-tchaikovsky-influence-on-music
@@ -28857,6 +30953,12 @@ labour-theory-of-value-explained:
   category: leisure
   image: /assets/images/blog/blog-58.webp
   lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: capital-volume-one-complete-guide
   title: 'Capital Volume One: The Complete Guide'
   url: /2010/06/01/capital-volume-one-complete-guide/
@@ -28868,12 +30970,6 @@ labour-theory-of-value-explained:
   url: /2010/10/15/capital-volume-one-exam-guide/
   category: leisure
   image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: labour-theory-of-value-evidence
-  title: Does the Labour Theory of Value Fit Data?
-  url: /2010/10/01/labour-theory-of-value-evidence/
-  category: leisure
-  image: /assets/images/blog/blog-80.webp
   lang: en
 misa-1971-emergency-detention:
 - slug: preventive-detention-law-india-guide
@@ -29175,23 +31271,23 @@ use-value-exchange-value-and-value:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: labour-theory-of-value-explained
   title: The Labour Theory of Value Explained
   url: /2010/07/01/labour-theory-of-value-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: commodity-fetishism-explained
-  title: 'Commodity Fetishism: What Marx Meant'
-  url: /2010/08/01/commodity-fetishism-explained/
+- slug: surplus-value-modern-firms
+  title: How Surplus Value Works in Modern Firms
+  url: /2011/01/15/surplus-value-modern-firms/
   category: leisure
-  image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: capital-volume-one-exam-guide
-  title: 'Capital Volume One: Exam and Essay Guide'
-  url: /2010/10/15/capital-volume-one-exam-guide/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-12.webp
   lang: en
 whats-my-tcs-college-grade:
 - slug: tcs-salary
@@ -29480,11 +31576,11 @@ commodity-fetishism-explained:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
-- slug: labour-theory-of-value-explained
-  title: The Labour Theory of Value Explained
-  url: /2010/07/01/labour-theory-of-value-explained/
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 mosque-of-amr-early-islamic-egypt:
 - slug: al-azhar-oldest-university
@@ -29774,6 +31870,12 @@ citizen-kane-opening-explained:
   image: /assets/images/blog/blog-72.webp
   lang: en
 marx-on-money-and-the-value-form:
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: labour-theory-of-value-explained
   title: The Labour Theory of Value Explained
   url: /2010/07/01/labour-theory-of-value-explained/
@@ -29792,17 +31894,17 @@ marx-on-money-and-the-value-form:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: capital-volume-one-exam-guide
-  title: 'Capital Volume One: Exam and Essay Guide'
-  url: /2010/10/15/capital-volume-one-exam-guide/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
 - slug: use-value-exchange-value-and-value
   title: Use Value, Exchange Value and Value
   url: /2010/07/15/use-value-exchange-value-and-value/
   category: leisure
   image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: commodity-fetishism-explained
+  title: 'Commodity Fetishism: What Marx Meant'
+  url: /2010/08/01/commodity-fetishism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
   lang: en
 voting-rights-act-registration-impact:
 - slug: voting-rights-act-1965-complete-guide
@@ -30941,11 +33043,11 @@ labour-theory-of-value-evidence:
   category: leisure
   image: /assets/images/blog/blog-18.webp
   lang: en
-- slug: marxism-complete-guide
-  title: 'Marxism: The Complete Guide'
-  url: /2010/01/01/marxism-complete-guide/
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
   category: leisure
-  image: /assets/images/blog/blog-21.webp
+  image: /assets/images/blog/blog-06.webp
   lang: en
 preventive-detention-vs-arrest-india:
 - slug: preventive-detention-law-india-guide
@@ -31141,17 +33243,17 @@ capital-volume-one-exam-guide:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: how-to-read-capital-volume-one
   title: How to Read Capital Volume One
   url: /2010/06/15/how-to-read-capital-volume-one/
   category: leisure
   image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: historical-materialism-exam-answers
-  title: 'Historical Materialism: Exam Answer Guide'
-  url: /2010/05/01/historical-materialism-exam-answers/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 citizen-kane-misreadings-corrected:
 - slug: is-citizen-kane-hard-to-watch
@@ -31653,6 +33755,31 @@ social-security-amendments-1965-medicare:
   category: industry
   image: /assets/images/blog/blog-113.webp
   lang: en
+surplus-value-complete-guide:
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: labour-theory-of-value-explained
+  title: The Labour Theory of Value Explained
+  url: /2010/07/01/labour-theory-of-value-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: capital-volume-one-complete-guide
+  title: 'Capital Volume One: The Complete Guide'
+  url: /2010/06/01/capital-volume-one-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 a-story-between-tcs-and-infosys:
 - slug: tcs-vs-accenture-comparison-at-granular-level
   title: TCS vs Accenture - Detailed Comparison
@@ -31858,6 +33985,31 @@ top-popular-extensions-for-google-chrome:
   url: /2010/06/29/pedestrian-follows-google-maps-gets-run-over-and-sues-google-for-100000/
   category: leisure
   image: /assets/images/blog/blog-84.webp
+  lang: en
+absolute-and-relative-surplus-value:
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: surplus-value-vs-profit
+  title: 'Surplus Value vs Profit: The Difference'
+  url: /2011/02/15/surplus-value-vs-profit/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: labour-theory-of-value-explained
+  title: The Labour Theory of Value Explained
+  url: /2010/07/01/labour-theory-of-value-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
   lang: en
 citizen-kane-death-snow-globe-scene:
 - slug: citizen-kane-xanadu-prologue
@@ -32215,6 +34367,37 @@ indian-evidence-act-1872-explained:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+marxist-theory-of-exploitation:
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: reserve-army-of-labour-explained
+  title: The Reserve Army of Labour Explained
+  url: /2010/12/15/reserve-army-of-labour-explained/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: labour-theory-of-value-criticisms
+  title: Criticisms of the Labour Theory of Value
+  url: /2010/09/01/labour-theory-of-value-criticisms/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: measuring-rate-of-exploitation
+  title: Measuring the Rate of Exploitation
+  url: /2011/03/01/measuring-rate-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 medicare-parts-a-b-statute-explained:
 - slug: social-security-amendments-1965-medicare
   title: Medicare and the Social Security Amendments of 1965
@@ -32527,6 +34710,31 @@ medicare-catastrophic-coverage-act-1988:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
+reserve-army-of-labour-explained:
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: primitive-accumulation-explained
+  title: Primitive Accumulation Explained
+  url: /2011/01/01/primitive-accumulation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: labour-theory-of-value-criticisms
+  title: Criticisms of the Labour Theory of Value
+  url: /2010/09/01/labour-theory-of-value-criticisms/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 lock-folders-and-hide-your-secret-files:
 - slug: how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them
   title: How to delete large folders in your PC with GBs of files in them
@@ -32827,6 +35035,31 @@ medicare-modernization-act-2003-part-d:
   category: industry
   image: /assets/images/blog/blog-15.webp
   lang: en
+primitive-accumulation-explained:
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: reserve-army-of-labour-explained
+  title: The Reserve Army of Labour Explained
+  url: /2010/12/15/reserve-army-of-labour-explained/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 othello-character-analysis-deep-dive:
 - slug: desdemona-othello-character-analysis
   title: Desdemona Character Analysis in Shakespeare's Othello
@@ -33101,6 +35334,31 @@ medicare-impact-elderly-poverty:
   url: /2011/03/01/medicare-vs-medicaid-legal-difference/
   category: industry
   image: /assets/images/blog/blog-07.webp
+  lang: en
+surplus-value-modern-firms:
+- slug: surplus-value-vs-profit
+  title: 'Surplus Value vs Profit: The Difference'
+  url: /2011/02/15/surplus-value-vs-profit/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 tcs-ilp-bhubaneswar-survival-of-the-weakest:
 - slug: tcs-ilp-java
@@ -33377,6 +35635,31 @@ ipc-vs-bns-comparison:
   category: industry
   image: /assets/images/blog/blog-15.webp
   lang: en
+is-exploitation-moral-or-technical:
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: historical-materialism-vs-idealism
+  title: Historical Materialism vs Hegelian Idealism
+  url: /2010/04/01/historical-materialism-vs-idealism/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: labour-theory-of-value-criticisms
+  title: Criticisms of the Labour Theory of Value
+  url: /2010/09/01/labour-theory-of-value-criticisms/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 medicaid-statute-structure-explained:
 - slug: social-security-amendments-1965-medicare
   title: Medicare and the Social Security Amendments of 1965
@@ -33577,6 +35860,31 @@ criminal-law-amendment-act-2013:
   category: industry
   image: /assets/images/blog/blog-02.webp
   lang: en
+surplus-value-vs-profit:
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: surplus-value-modern-firms
+  title: How Surplus Value Works in Modern Firms
+  url: /2011/01/15/surplus-value-modern-firms/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 king-lear-character-analysis-deep-dive:
 - slug: goneril-king-lear-character-analysis
   title: Goneril Character Analysis in Shakespeare's King Lear
@@ -33726,6 +36034,31 @@ citizen-kane-takes-over-inquirer:
   url: /2010/02/01/citizen-kane-story-as-analysis/
   category: leisure
   image: /assets/images/blog/blog-04.webp
+  lang: en
+measuring-rate-of-exploitation:
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: reserve-army-of-labour-explained
+  title: The Reserve Army of Labour Explained
+  url: /2010/12/15/reserve-army-of-labour-explained/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: surplus-value-modern-firms
+  title: How Surplus Value Works in Modern Firms
+  url: /2011/01/15/surplus-value-modern-firms/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: mode-of-production-explained
+  title: 'Mode of Production: Marxism''s Core Unit'
+  url: /2010/02/15/mode-of-production-explained/
+  category: leisure
+  image: /assets/images/blog/blog-91.webp
   lang: en
 medicare-vs-medicaid-legal-difference:
 - slug: social-security-amendments-1965-medicare
@@ -33926,6 +36259,31 @@ criminal-law-reform-exam-guide:
   url: /2011/01/15/bharatiya-sakshya-adhiniyam-2023/
   category: industry
   image: /assets/images/blog/blog-38.webp
+  lang: en
+surplus-value-exam-answers:
+- slug: absolute-and-relative-surplus-value
+  title: Absolute and Relative Surplus Value
+  url: /2010/11/15/absolute-and-relative-surplus-value/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: surplus-value-complete-guide
+  title: 'Surplus Value: The Complete Guide'
+  url: /2010/11/01/surplus-value-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: capital-volume-one-exam-guide
+  title: 'Capital Volume One: Exam and Essay Guide'
+  url: /2010/10/15/capital-volume-one-exam-guide/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: surplus-value-vs-profit
+  title: 'Surplus Value vs Profit: The Difference'
+  url: /2011/02/15/surplus-value-vs-profit/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
   lang: en
 us-health-legislation-since-1950:
 - slug: medicare-catastrophic-coverage-act-1988
@@ -53639,17 +55997,17 @@ protestant-reformation-explained:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
+- slug: primitive-accumulation-explained
+  title: Primitive Accumulation Explained
+  url: /2011/01/01/primitive-accumulation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 - slug: latin-american-independence-explained
   title: Latin American Independence Explained
   url: /2015/10/02/latin-american-independence-explained/
   category: leisure
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: cuban-missile-crisis-explained
-  title: The Cuban Missile Crisis Explained
-  url: /2016/03/15/cuban-missile-crisis-explained/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
   lang: en
 ada-supreme-court-cases:
 - slug: ada-amendments-act-2008-guide
@@ -54832,17 +57190,17 @@ meiji-restoration-japan-explained:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: primitive-accumulation-explained
+  title: Primitive Accumulation Explained
+  url: /2011/01/01/primitive-accumulation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 - slug: cold-war-explained-complete-guide
   title: 'The Cold War Explained: Complete Guide'
   url: /2016/03/10/cold-war-explained-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
   lang: en
 irish-great-famine-history-explained:
 - slug: great-depression-explained-complete
@@ -58162,6 +60520,12 @@ greatest-revolutions-history-compared:
   image: /assets/images/blog/blog-08.webp
   lang: en
 azure-fundamentals-az-900-practice-exam-microsoft-certification:
+- slug: ap-exam-score-trends-post-covid
+  title: AP Exam Score Trends Post-COVID
+  url: /2006/03/16/ap-exam-score-trends-post-covid/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 - slug: ap-exam-registration-fees-deadlines
   title: 'AP Exam Registration: Deadlines, Fees, Waivers'
   url: /2008/09/28/ap-exam-registration-fees-deadlines/
@@ -58174,17 +60538,11 @@ azure-fundamentals-az-900-practice-exam-microsoft-certification:
   category: industry
   image: /assets/images/blog/blog-87.webp
   lang: en
-- slug: ap-english-language-guide
-  title: AP English Language and Composition Guide
-  url: /2007/11/14/ap-english-language-guide/
+- slug: ap-exam-day-mistakes
+  title: AP Exam Day Mistakes That Cost Points
+  url: /2006/10/09/ap-exam-day-mistakes/
   category: industry
-  image: /assets/images/blog/blog-61.webp
-  lang: en
-- slug: ap-exam-retakes-worth-it
-  title: 'AP Exam Retakes: Can You and Is It Worth It'
-  url: /2008/08/14/ap-exam-retakes-worth-it/
-  category: industry
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-21.webp
   lang: en
 adoption-law-india-cara-explained:
 - slug: juvenile-age-debate-india
@@ -60459,11 +62817,11 @@ energy-independence-policy-impact:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
   category: industry
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-97.webp
   lang: en
 florida-family-vacation-complete-guide:
 - slug: orlando-family-7-day-itinerary
@@ -66676,11 +69034,11 @@ hatch-waxman-act-1984-guide:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: us-extraordinary-rendition
-  title: US Extraordinary Rendition Program
-  url: /2019/05/06/us-extraordinary-rendition/
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
   category: industry
-  image: /assets/images/blog/blog-111.webp
+  image: /assets/images/blog/blog-97.webp
   lang: en
 states-reorganisation-act-1956-explained:
 - slug: constitution-amendment-process-india
@@ -66845,17 +69203,17 @@ kefauver-harris-amendments-1962:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
 - slug: us-extraordinary-rendition
   title: US Extraordinary Rendition Program
   url: /2019/05/06/us-extraordinary-rendition/
   category: industry
   image: /assets/images/blog/blog-111.webp
-  lang: en
-- slug: international-response-targeted-killings
-  title: International Response Targeted Killings
-  url: /2012/10/27/international-response-targeted-killings/
-  category: industry
-  image: /assets/images/blog/blog-34.webp
   lang: en
 new-states-2000-reorganisation-acts:
 - slug: state-reorganisation-india-guide
@@ -67320,17 +69678,17 @@ drug-scheduling-law-explained:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
 - slug: us-extraordinary-rendition
   title: US Extraordinary Rendition Program
   url: /2019/05/06/us-extraordinary-rendition/
   category: industry
   image: /assets/images/blog/blog-111.webp
-  lang: en
-- slug: international-response-targeted-killings
-  title: International Response Targeted Killings
-  url: /2012/10/27/international-response-targeted-killings/
-  category: industry
-  image: /assets/images/blog/blog-34.webp
   lang: en
 the-mission-morricone-greatest-score:
 - slug: the-graduate-simon-garfunkel-soundtrack
@@ -67488,11 +69846,11 @@ hatch-waxman-generic-drug-impact:
   category: industry
   image: /assets/images/blog/blog-111.webp
   lang: en
-- slug: international-response-targeted-killings
-  title: International Response Targeted Killings
-  url: /2012/10/27/international-response-targeted-killings/
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
   category: industry
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-97.webp
   lang: en
 indie-surge-sex-lies-videotape-slacker:
 - slug: el-mariachi-rodriguez-microbudget-film
@@ -67663,17 +70021,17 @@ fda-approval-law-mechanics:
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: ap-human-geography-spatial-analysis-maps
+  title: 'AP Human Geography: Spatial Analysis and Maps'
+  url: /2006/07/02/ap-human-geography-spatial-analysis-maps/
+  category: industry
+  image: /assets/images/blog/blog-97.webp
+  lang: en
 - slug: us-extraordinary-rendition
   title: US Extraordinary Rendition Program
   url: /2019/05/06/us-extraordinary-rendition/
   category: industry
   image: /assets/images/blog/blog-111.webp
-  lang: en
-- slug: international-response-targeted-killings
-  title: International Response Targeted Killings
-  url: /2012/10/27/international-response-targeted-killings/
-  category: industry
-  image: /assets/images/blog/blog-34.webp
   lang: en
 water-dispute-tribunals-delay-india:
 - slug: inter-state-water-disputes-act-1956
@@ -76050,6 +78408,12 @@ psat-to-sat-preparation-pathway-guide:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: sat-for-students-with-adhd-accommodations
   title: SAT for Students With ADHD
   url: /1996/04/08/sat-for-students-with-adhd-accommodations/
@@ -76061,12 +78425,6 @@ psat-to-sat-preparation-pathway-guide:
   url: /1996/08/03/sat-financial-aid-scholarships/
   category: industry
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: sat-retake-strategy
-  title: 'SAT Retake Strategy: When to Retake or Stop'
-  url: /1996/11/01/sat-retake-strategy/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
   lang: en
 sin-city-graphic-novel-digital-adaptation:
 - slug: mulholland-drive-lynch-reappraisal
@@ -76144,6 +78502,12 @@ northeast-distinct-political-settlement:
   image: /assets/images/blog/blog-55.webp
   lang: en
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests:
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: digital-sat-vs-paper-sat-compared
   title: Digital SAT vs Paper SAT Compared
   url: /1996/01/31/digital-sat-vs-paper-sat-compared/
@@ -76161,12 +78525,6 @@ sat-vs-gre-vs-gmat-understanding-us-standardized-tests:
   url: /1996/02/23/sat-vs-kyotsu-test-us-japan-compared/
   category: industry
   image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: sat-master-strategy-complete-plan
-  title: 'SAT Master Strategy: The Complete Plan'
-  url: /1995/10/24/sat-master-strategy-complete-plan/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 mandal-decisive-moment-indian-politics:
 - slug: mandal-commission-report-1980-explained
@@ -77761,17 +80119,17 @@ places-of-worship-act-1991-politics:
   category: industry
   image: /assets/images/blog/blog-16.webp
   lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: citizenship-amendment-act-debate
   title: The Citizenship Amendment Act Debate Explained in Full
   url: /2020/05/17/citizenship-amendment-act-debate/
   category: industry
   image: /assets/images/blog/blog-108.webp
-  lang: en
-- slug: 2018-sabarimala-judgment-politics
-  title: 'The 2018 Sabarimala Judgment Politics: Kerala''s Long Season'
-  url: /2020/09/15/2018-sabarimala-judgment-politics/
-  category: industry
-  image: /assets/images/blog/blog-15.webp
   lang: en
 sat-error-analysis-mistake-journal-guide:
 - slug: sat-wrong-answer-analysis
@@ -77973,11 +80331,11 @@ election-commission-institution-under-stress:
   category: industry
   image: /assets/images/blog/blog-46.webp
   lang: en
-- slug: 1999-vajpayee-victory-reanalysed
-  title: 'The 1999 Vajpayee Victory Reanalysed: A Congress Collapse'
-  url: /2019/06/17/1999-vajpayee-victory-reanalysed/
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
   category: industry
-  image: /assets/images/blog/blog-27.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 sat-score-benchmarks-by-college-tier:
 - slug: sat-engineering-programs-scores
@@ -78017,17 +80375,17 @@ sukumar-sen-1951-1952-election:
   category: industry
   image: /assets/images/blog/blog-74.webp
   lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: rise-and-kill-first-doctrine
   title: Rise and Kill First Doctrine Explained
   url: /2019/04/29/rise-and-kill-first-doctrine/
   category: industry
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: tenure-security-election-commission
-  title: 'Tenure Security of the Election Commission: Article 324'
-  url: /2020/06/30/tenure-security-election-commission/
-  category: industry
-  image: /assets/images/blog/blog-74.webp
   lang: en
 is-tcs-nqt-easy:
 - slug: tcs-nqt-mock-strategy
@@ -78209,12 +80567,6 @@ how-colleges-use-sat-scores-in-admissions:
   url: /1995/11/02/sat-and-extracurriculars-application-balance/
   category: industry
   image: /assets/images/blog/blog-109.webp
-  lang: en
-- slug: sat-vs-gpa-how-colleges-weight-scores
-  title: 'SAT vs GPA: How Colleges Weight Them'
-  url: /1995/11/07/sat-vs-gpa-how-colleges-weight-scores/
-  category: industry
-  image: /assets/images/blog/blog-76.webp
   lang: en
 evm-vvpat-story-explained-india:
 - slug: uri-attack-2016-explained
@@ -78504,6 +80856,12 @@ simultaneous-elections-debate-india:
   category: industry
   image: /assets/images/blog/blog-108.webp
   lang: en
+- slug: international-response-targeted-killings
+  title: International Response Targeted Killings
+  url: /2012/10/27/international-response-targeted-killings/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: pathankot-airbase-attack-explained
   title: Pathankot Airbase Attack Explained
   url: /2012/05/16/pathankot-airbase-attack-explained/
@@ -78515,12 +80873,6 @@ simultaneous-elections-debate-india:
   url: /2020/04/03/indian-caste-census-debate-explained/
   category: industry
   image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: rise-and-kill-first-doctrine
-  title: Rise and Kill First Doctrine Explained
-  url: /2019/04/29/rise-and-kill-first-doctrine/
-  category: industry
-  image: /assets/images/blog/blog-22.webp
   lang: en
 interacting-with-enhanced-data-interpretations:
 - slug: tableau-certified-data-analyst-prep
@@ -79166,6 +81518,12 @@ sat-for-homeschooled-students:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: ap-for-homeschooled-students
+  title: AP for Homeschooled Students
+  url: /2006/12/02/ap-for-homeschooled-students/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
 - slug: sat-new-york-students
   title: SAT for New York Students
   url: /1996/06/10/sat-new-york-students/
@@ -79177,12 +81535,6 @@ sat-for-homeschooled-students:
   url: /1996/06/19/sat-texas-students/
   category: industry
   image: /assets/images/blog/blog-17.webp
-  lang: en
-- slug: sat-transfer-students
-  title: SAT for Community College Transfer Students
-  url: /1996/07/07/sat-transfer-students/
-  category: industry
-  image: /assets/images/blog/blog-26.webp
   lang: en
 ir-coelho-ninth-schedule-2007:
 - slug: 2017-privacy-judgment-puttaswamy
@@ -79859,17 +82211,17 @@ sat-accommodations-extended-time-guide:
   category: industry
   image: /assets/images/blog/blog-111.webp
   lang: en
+- slug: ap-exam-accommodations
+  title: 'AP Exam Accommodations: Extended Time, 504, IEP'
+  url: /2006/11/23/ap-exam-accommodations/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 - slug: sat-rw-pacing-strategy
   title: 'SAT RW Pacing: A Module Time Plan'
   url: /1997/01/30/sat-rw-pacing-strategy/
   category: industry
   image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: sat-common-app-scores
-  title: 'SAT and the Common App: Reporting Scores'
-  url: /1996/07/11/sat-common-app-scores/
-  category: industry
-  image: /assets/images/blog/blog-100.webp
   lang: en
 indo-soviet-treaty-1971-politics:
 - slug: 1971-election-bangladesh-war-india
@@ -80389,11 +82741,11 @@ sat-vs-act-which-test-should-you-take:
   category: industry
   image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: digital-sat-vs-paper-sat-compared
-  title: Digital SAT vs Paper SAT Compared
-  url: /1996/01/31/digital-sat-vs-paper-sat-compared/
+- slug: ap-vs-sat
+  title: AP vs SAT
+  url: /2007/01/25/ap-vs-sat/
   category: industry
-  image: /assets/images/blog/blog-33.webp
+  image: /assets/images/blog/blog-15.webp
   lang: en
 2020-galwan-moment-reanalysed:
 - slug: bihar-mandal-politics-reanalysed
@@ -81250,12 +83602,6 @@ sat-3-month-preparation-plan:
   url: /1996/10/14/sat-winter-break-intensive/
   category: industry
   image: /assets/images/blog/blog-95.webp
-  lang: en
-- slug: sat-motivation-burnout
-  title: SAT Motivation and Avoiding Burnout
-  url: /1996/09/12/sat-motivation-burnout/
-  category: industry
-  image: /assets/images/blog/blog-112.webp
   lang: en
 2019-corporate-tax-cut-pli-scheme:
 - slug: tax-cuts-and-jobs-act-2017-guide
@@ -92293,17 +94639,17 @@ gaokao-scoring-rubrics:
   category: industry
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: upsc-marking-scheme
-  title: 'UPSC Marking Scheme: How Prelims and Mains Are Scored'
-  url: /2003/06/13/upsc-marking-scheme/
+- slug: ap-exam-myths-debunked
+  title: AP Exam Myths Debunked
+  url: /2006/03/03/ap-exam-myths-debunked/
   category: industry
-  image: /assets/images/blog/blog-23.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: upsc-animal-husbandry-optional
-  title: UPSC Animal Husbandry Optional Complete Guide
-  url: /2002/02/08/upsc-animal-husbandry-optional/
+- slug: ap-exam-score-predictions
+  title: AP Exam Score Predictions
+  url: /2006/09/21/ap-exam-score-predictions/
   category: industry
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
 from-novice-to-certified-pro-your-tableau-journey:
 - slug: how-to-ace-tableau-certification-expert-insights
@@ -106432,6 +108778,12 @@ complete-college-application-guide:
   category: industry
   image: /assets/images/blog/blog-100.webp
   lang: en
+- slug: ap-scores-on-the-common-app
+  title: AP Exam Scores on the Common App
+  url: /2006/12/29/ap-scores-on-the-common-app/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: sat-junior-year-timeline
   title: 'SAT for Juniors: The Ideal Year-Long Timeline'
   url: /1996/07/20/sat-junior-year-timeline/
@@ -106443,12 +108795,6 @@ complete-college-application-guide:
   url: /1996/08/30/sat-uc-system-scores/
   category: industry
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: sat-sophomore-guide
-  title: 'SAT for Sophomores: When to Start'
-  url: /1996/07/29/sat-sophomore-guide/
-  category: industry
-  image: /assets/images/blog/blog-75.webp
   lang: en
 ai-for-writers:
 - slug: how-to-use-grammarly-ai
@@ -106769,17 +109115,17 @@ complete-guide-paying-for-college:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
+- slug: ap-classes-and-scholarships
+  title: AP Classes and Scholarships
+  url: /2006/12/07/ap-classes-and-scholarships/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
 - slug: harvard-accommodation-costs-breakdown
   title: Harvard Accommodation Costs - Complete Breakdown
   url: /2019/04/05/harvard-accommodation-costs-breakdown/
   category: industry
   image: /assets/images/blog/blog-17.webp
-  lang: en
-- slug: sat-and-rotc-scholarships-score-requirements
-  title: SAT and ROTC Scholarship Requirements
-  url: /1996/05/14/sat-and-rotc-scholarships-score-requirements/
-  category: industry
-  image: /assets/images/blog/blog-74.webp
   lang: en
 ai-for-product-managers:
 - slug: best-offline-note-taking-apps-for-sensitive-data-a-security-first-comparison
@@ -107549,11 +109895,11 @@ ielts-toefl-complete-guide:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: sat-prep-on-budget
-  title: 'SAT Prep on a Budget: Free and Low-Cost'
-  url: /1996/09/03/sat-prep-on-budget/
+- slug: ap-study-resources-ranked
+  title: AP Study Resources Ranked
+  url: /2006/10/23/ap-study-resources-ranked/
   category: industry
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-04.webp
   lang: en
 gaokao-time-management-methodology:
 - slug: gaokao-math-derivatives
@@ -113581,12 +115927,6 @@ it-sector-layoffs-2026-global-analysis:
   category: industry
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: us-engineer-career-guide-ai-era-2026
-  title: What US Citizen Engineers Can Do Right Now in the AI Era
-  url: /2026/04/03/us-engineer-career-guide-ai-era-2026/
-  category: industry
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 hamza-open-letter-to-aditya-dhar:
 - slug: hamza-ali-mazari-character-analysis-dhurandhar
   title: Hamza Ali Mazari Character Analysis
@@ -113863,6 +116203,12 @@ second-quarto-1599-good-quarto:
   image: /assets/images/blog/blog-95.webp
   lang: en
 us-engineer-career-guide-ai-era-2026:
+- slug: ap-classes-for-future-engineers
+  title: AP Classes for Future Engineers
+  url: /2006/04/21/ap-classes-for-future-engineers/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 - slug: future-covert-ops-technology
   title: Future of Covert Operations Technology
   url: /2019/07/29/future-covert-ops-technology/
@@ -113880,12 +116226,6 @@ us-engineer-career-guide-ai-era-2026:
   url: /2004/07/15/electrical-emergency-what-to-do/
   category: industry
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: upsc-vs-ssc-cgl-pcs
-  title: 'UPSC vs SSC CGL vs State PCS: Which to Target'
-  url: /2001/08/16/upsc-vs-ssc-cgl-pcs/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
   lang: en
 dhurandhar-effect-celebrity-reactions:
 - slug: dhurandhar-the-revenge-alternate-endings
@@ -122859,6 +125199,12 @@ h1b-fee-ruling-what-it-settles:
   category: industry
   image: /assets/images/blog/blog-39.webp
   lang: en
+- slug: h1b-fee-ruling-economic-stakes
+  title: 'H-1B Fee Ruling: The Economic Stakes the Court Weighed'
+  url: /2026/07/11/h1b-fee-ruling-economic-stakes/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
 how-artists-get-booked-lollapalooza:
 - slug: what-booking-agents-look-for
   title: What Booking Agents Look For
@@ -127751,11 +130097,11 @@ how-oil-prices-are-set:
   category: industry
   image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: ap-european-history-frq-strategy
-  title: AP European History FRQ Strategy
-  url: /2007/07/24/ap-european-history-frq-strategy/
+- slug: apush-comparison-continuity-change
+  title: 'APUSH: Comparison and Continuity-Change'
+  url: /2006/07/29/apush-comparison-continuity-change/
   category: industry
-  image: /assets/images/blog/blog-83.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
 samuel-johnson-on-romeo-and-juliet:
 - slug: new-criticism-well-wrought-play
@@ -128601,6 +130947,12 @@ how-copyright-termination-rights-work:
   image: /assets/images/blog/blog-83.webp
   lang: en
 how-literary-retranslation-works:
+- slug: how-booker-prize-works
+  title: 'How the Booker Prize Works: Judges, Rules and Effect'
+  url: /2026/11/10/how-booker-prize-works/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
 - slug: translating-shakespeare-puns
   title: 'Translating Shakespeare''s Puns: An Impossible Task'
   url: /2030/06/21/translating-shakespeare-puns/
@@ -128618,12 +130970,6 @@ how-literary-retranslation-works:
   url: /2009/01/19/change-is-finally-here/
   category: leisure
   image: /assets/images/blog/blog-05.webp
-  lang: en
-- slug: title-pages-romeo-and-juliet
-  title: What the Title Pages Tell Us About Romeo and Juliet
-  url: /2026/08/28/title-pages-romeo-and-juliet/
-  category: leisure
-  image: /assets/images/blog/blog-93.webp
   lang: en
 how-purcell-principle-works:
 - slug: how-federal-grant-conditions-work
@@ -128744,17 +131090,17 @@ how-personalized-pricing-works:
   category: industry
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: ap-microeconomics-guide
-  title: AP Microeconomics Complete Guide
-  url: /2007/05/27/ap-microeconomics-guide/
+- slug: how-to-get-a-5-on-ap-economics
+  title: How to Get a 5 on AP Economics
+  url: /2007/02/12/how-to-get-a-5-on-ap-economics/
   category: industry
-  image: /assets/images/blog/blog-93.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: h1b-fee-ruling-economic-stakes
-  title: 'H-1B Fee Ruling: The Economic Stakes the Court Weighed'
-  url: /2026/07/11/h1b-fee-ruling-economic-stakes/
+- slug: ap-microeconomics-market-structures
+  title: 'AP Micro: Market Structures and Game Theory'
+  url: /2006/06/19/ap-microeconomics-market-structures/
   category: industry
-  image: /assets/images/blog/blog-103.webp
+  image: /assets/images/blog/blog-75.webp
   lang: en
 schlegel-german-romantics-reading:
 - slug: german-criticism-romeo-and-juliet
@@ -128800,11 +131146,11 @@ how-houdini-did-his-escapes:
   category: industry
   image: /assets/images/blog/blog-46.webp
   lang: en
-- slug: ap-art-and-design-portfolio-strategy
-  title: AP Art and Design Portfolio Strategy
-  url: /2007/03/16/ap-art-and-design-portfolio-strategy/
+- slug: ap-art-history-comparison-essay
+  title: 'AP Art History: Comparison Essay'
+  url: /2006/06/10/ap-art-history-comparison-essay/
   category: industry
-  image: /assets/images/blog/blog-110.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
 nightjar-clean-room-001:
 - slug: nightjar-bonded-cargo-004
@@ -128961,12 +131307,6 @@ nightjar-lever-at-melora-003:
   url: /2026/11/06/nightjar-charge-that-failed-006/
   category: leisure
   image: /assets/images/blog/blog-96.webp
-  lang: en
-- slug: nightjar-standing-detail-005
-  title: 'Nightjar: A Standing Detail in the Barrow Mill Towns'
-  url: /2026/11/04/nightjar-standing-detail-005/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
   lang: en
 roaring-twenties-gatsby:
 - slug: prohibition-bootlegging-gatsby
@@ -129281,17 +131621,17 @@ nightjar-nine-officers-008:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+- slug: nightjar-last-interview-009
+  title: 'Nightjar: The Last Interview in the House at Highstile'
+  url: /2026/11/09/nightjar-last-interview-009/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: nightjar-lever-at-melora-003
   title: 'Nightjar: The Trade Lever Nobody Admits to Pulling'
   url: /2026/11/02/nightjar-lever-at-melora-003/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: nightjar-false-provenance-007
-  title: 'Nightjar: A False Provenance Written in Four Languages'
-  url: /2026/11/07/nightjar-false-provenance-007/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 f-scott-fitzgerald-biography:
 - slug: gatsby-alternate-titles
@@ -129342,6 +131682,56 @@ how-x-rays-work:
   url: /2026/10/19/how-sample-return-missions-work/
   category: technology
   image: /assets/images/blog/blog-56.webp
+  lang: en
+nightjar-last-interview-009:
+- slug: nightjar-nine-officers-008
+  title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
+  url: /2026/11/08/nightjar-nine-officers-008/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: nightjar-edge-of-nothing-002
+  title: 'Nightjar: The Edge of Nothing on the Melora Court Line'
+  url: /2026/11/01/nightjar-edge-of-nothing-002/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: nightjar-standing-detail-005
+  title: 'Nightjar: A Standing Detail in the Barrow Mill Towns'
+  url: /2026/11/04/nightjar-standing-detail-005/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: nightjar-charge-that-failed-006
+  title: 'Nightjar: The Canal Charge Never Meant to Fire at All'
+  url: /2026/11/06/nightjar-charge-that-failed-006/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+how-booker-prize-works:
+- slug: how-literary-retranslation-works
+  title: 'How Literary Retranslation Works: Why Classics Return'
+  url: /2026/10/25/how-literary-retranslation-works/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: gatsby-canon-high-school
+  title: Gatsby in the Canon of High School Reading
+  url: /2028/11/20/gatsby-canon-high-school/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: themes-symbolism-1984-orwell
+  title: Themes and Symbolism in 1984 Explained
+  url: /2013/12/21/themes-symbolism-1984-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
   lang: en
 what-poland-learned-from-ukraine:
 - slug: cost-of-arming-ukraine-from-poland
@@ -139432,12 +141822,6 @@ translating-shakespeare-puns:
   url: /2030/06/28/play-in-global-classrooms/
   category: leisure
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: how-literary-retranslation-works
-  title: 'How Literary Retranslation Works: Why Classics Return'
-  url: /2026/10/25/how-literary-retranslation-works/
-  category: leisure
-  image: /assets/images/blog/blog-46.webp
   lang: en
 gatsby-ib-individual-oral:
 - slug: revise-gatsby-for-exams

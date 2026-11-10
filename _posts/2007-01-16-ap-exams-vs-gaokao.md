@@ -9,7 +9,7 @@ excerpt: "AP exams and the Gaokao could hardly differ more in design. This compa
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 89
 author: "yang-bo"
-last_updated: 2007-01-16
+last_updated: 2026-11-10
 lang: en
 ---
 Two examination systems dominate the plans of ambitious students on opposite sides of the Pacific, and they could hardly be built more differently. The Advanced Placement program offers a menu of separate subject examinations, each taken voluntarily, each scored on its own five point scale, each designed to show that a student has handled college level work while still in secondary school. The Gaokao, China's national college entrance examination, works in almost the opposite way: a single coordinated test event near the end of high school, taken by nearly every student who hopes to attend a university at home, with one composite score carrying almost the entire weight of admission.

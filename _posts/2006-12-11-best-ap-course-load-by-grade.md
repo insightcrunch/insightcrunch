@@ -9,7 +9,7 @@ excerpt: "The best AP load grows one step at a time across four years. This road
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2006-12-11
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, families sit down with a course catalog and a deceptively simple question: how many AP classes should a student take next year? The question sounds like it wants a single number, the way a recipe wants a number of eggs. In practice it wants a judgment, one that weighs the student's preparation, the school's offerings, the rest of the schedule, and the life that has to fit around schoolwork. A load that stretches one teenager productively can bury another, and a load that looks impressive in ninth grade can quietly sabotage the grades and health that colleges will weigh far more heavily than raw course counts.

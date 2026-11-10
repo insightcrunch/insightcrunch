@@ -9,7 +9,7 @@ excerpt: "Some European History themes recur across all four periods of the cour
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2006-06-14
+last_updated: 2026-11-10
 lang: en
 ---
 Every AP European History student faces the same arithmetic problem. The course spans more than five centuries, from the Renaissance courts of the fifteenth century to the integrated, argumentative Europe of the twenty-first, and no review schedule, however disciplined, can hold every treaty, monarch, manifesto, and battle at equal depth. Something has to give. The students who score well are rarely the ones who tried to memorize the most; they are the ones who decided, early and deliberately, which parts of the course deserved deep knowledge and which parts could rest at recognition level. That decision is not guesswork. The exam is built from a published framework, and the framework is organized around themes that return in period after period, wearing different costumes each time.

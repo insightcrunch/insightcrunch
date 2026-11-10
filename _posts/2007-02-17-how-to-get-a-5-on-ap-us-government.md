@@ -9,7 +9,7 @@ excerpt: "A 5 on AP US Government comes from applying documents and cases under 
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 89
 author: "natalie-webb"
-last_updated: 2007-02-17
+last_updated: 2026-11-10
 lang: en
 ---
 A 5 on AP US Government is not a prize for the student who memorized the most names. The exam gives half its weight to four written answers and half to fifty-five scenario-driven multiple choice questions, and every one of those tasks asks the candidate to do something with knowledge rather than display it. A prompt hands over a dispute about a veto, a polling table, a redistricting fight, or a passage from a founding document, and the points flow to whoever can connect that material to a concept, a clause, or a case and explain the connection cleanly. Students who prepare by rereading notes tend to plateau at 3 or 4. Students who prepare by applying documents and cases to fresh situations, on a clock, climb past that ceiling.

@@ -9,7 +9,7 @@ excerpt: "The AP Art History comparison essay rewards juxtaposition with evidenc
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 89
 author: "maria-santos"
-last_updated: 2006-06-10
+last_updated: 2026-11-10
 lang: en
 ---
 Every free-response section has one question that separates students who memorized images from students who can think with them, and on the AP Art History exam that question is the comparison essay. The prompt places a work from the required image set in front of the candidate and asks for a second work, chosen by the candidate, to be set against it. Two objects, two cultures or two moments, one argument. Nothing in the task rewards a tidy summary of each work delivered in sequence, because the scoring guide hunts for something else entirely: a stated resemblance or difference, developed through observable evidence, and carried toward a claim about what the pairing reveals. Students who understand that the essay grades the relationship between works, rather than the works themselves, write a fundamentally different response from students who treat the prompt as two short identifications stapled together.

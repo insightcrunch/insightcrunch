@@ -9,7 +9,7 @@ excerpt: "AP scores on the Common App are self-reported and largely optional. Th
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 89
 author: "simon-hartley"
-last_updated: 2006-12-29
+last_updated: 2026-11-10
 lang: en
 ---
 Every fall, a student opens the Common App, reaches the testing page, and meets a small grid that asks for Advanced Placement results. Nothing about the grid looks dramatic. There is a place for the exam name, a place for the date, and a place for the score, and the student is expected to type the entries in by hand. No document is uploaded, no seal is attached, and no office stamps anything. That plain design is the source of nearly all the confusion around AP scores on the Common App, because the numbers typed into that grid are claims made by the applicant, not records delivered by the College Board. Understanding the difference between a claim and a record is the starting point for every sound decision about what to report.

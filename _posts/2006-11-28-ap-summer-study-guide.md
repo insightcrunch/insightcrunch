@@ -9,7 +9,7 @@ excerpt: "Summer can preview a course or carry a whole self-study plan. This gui
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 89
 author: "simon-hartley"
-last_updated: 2006-11-28
+last_updated: 2026-11-10
 lang: en
 ---
 Summer arrives with a strange gift for an AP student: time without a timetable. The school year parcels learning into forty-five minute fragments, each one interrupted by a bell, a hallway, and the next obligation. Summer removes the fragments. A student who wants to can sit with one hard idea for an entire morning, follow it into a second subject, and return to it after lunch with fresh eyes. That unbroken quality is what makes summer study different from school study, and it is why a modest, well-aimed summer plan can change the feel of an entire AP year that follows.

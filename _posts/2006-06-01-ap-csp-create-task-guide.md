@@ -9,7 +9,7 @@ excerpt: "The Create Task is a program, a video, and written responses built ins
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-06-01
+last_updated: 2026-11-10
 lang: en
 ---
 Most of AP Computer Science Principles asks students to reason about programs that other people wrote. The Create Task reverses the direction. Inside a set window of class time, each student designs and builds a program of their own, records a short video of that program running, and writes responses that explain the thinking embedded in the code. The subject of the program is the student's choice, the language is the student's choice, and the design decisions are the student's responsibility from the first sketch to the final check. That freedom is the point of the task, and it is also where the difficulty lives, because nobody hands the student a prompt narrow enough to hide inside.

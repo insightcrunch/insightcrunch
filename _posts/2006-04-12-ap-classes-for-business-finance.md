@@ -9,7 +9,7 @@ excerpt: "Business programs read AP transcripts for quantitative promise and bre
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 90
 author: "natalie-webb"
-last_updated: 2006-04-12
+last_updated: 2026-11-10
 lang: en
 ---
 A student aiming at business school often pictures the destination clearly: a trading floor, a consulting firm, a startup garage, a seat in a boardroom where decisions move real money. The path from a high school schedule to that destination runs through quieter territory, through course selection meetings and prerequisite chains and the unglamorous question of which classes to take in which order. Advanced Placement courses sit at the center of that path, because they are the one part of a high school record that speaks two languages at once. To an admissions reader, an AP score reports how a student handled college-level material under standardized conditions. To a college registrar, the same score is a claim on credit or placement, a small piece of the degree already finished.

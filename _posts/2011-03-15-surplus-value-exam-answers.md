@@ -9,7 +9,7 @@ excerpt: "Surplus value exam answers built on one distinction: labour against la
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 86
 author: "rachel-foster"
-last_updated: 2011-03-15
+last_updated: 2026-11-10
 lang: en
 ---
 A strong script on surplus value is rarely the script that knows the most facts about Marx. Markers reward something narrower and more learnable: a candidate who can state one distinction cleanly, run a mechanism without breaking it, place a short piece of textual evidence where it does real work, and then judge the theory with a named objection that hits a specified part of the argument. Weak scripts usually know the vocabulary. They can write about wages, profit, exploitation and the working day at length. What they cannot do is keep the machinery in the right order under time pressure, and the marks leak away through a handful of repeatable errors rather than through ignorance of the topic as a whole.

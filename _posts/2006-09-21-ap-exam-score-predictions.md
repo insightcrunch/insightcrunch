@@ -9,7 +9,7 @@ excerpt: "Students want to know the score before the score exists. This guide ma
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2006-09-21
+last_updated: 2026-11-10
 lang: en
 ---
 A student finishes a timed practice exam, counts correct answers, subtracts nothing for guesses because AP scoring rewards attempts, and then faces a simple question with a complicated answer. What number, from one through five, does this performance suggest? The desire behind that question makes complete sense. Months of coursework, fees paid, college plans discussed at kitchen tables, and a long morning in a testing room all converge on a single digit, and waiting until scores release in summer can feel like waiting for a verdict. Prediction promises to shorten that wait. Used well, it does something more valuable than shortening anything. It turns a practice performance into information that can shape the remaining weeks of preparation.

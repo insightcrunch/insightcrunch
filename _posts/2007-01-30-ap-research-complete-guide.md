@@ -9,7 +9,7 @@ excerpt: "AP Research turns a question into a year-long paper and a defense. Thi
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2007-01-30
+last_updated: 2026-11-10
 lang: en
 ---
 Most Advanced Placement courses end the same way, with a timed exam in May, a booklet of questions, and a score that reflects a few hours of performance. AP Research breaks that pattern completely. Nobody hands the student a prompt. Instead, each student spends a school year investigating a question of his or her own choosing, gathering evidence through a deliberate method, and producing an academic paper of 4,000 to 5,000 words. The year closes with a presentation of the findings and an oral defense, during which a panel asks the student to explain and justify the choices behind the work. Freedom, in this course, is the curriculum itself.

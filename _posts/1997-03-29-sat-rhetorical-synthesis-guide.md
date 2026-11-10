@@ -5,11 +5,11 @@ page_title: "SAT Rhetorical Synthesis: Read the Goal First and Match the Notes, 
 date: 1997-03-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Rhetorical Synthesis", "Digital SAT", "Strategy"]
-excerpt: "SAT rhetorical synthesis explained: read the goal first, match notes to the stated purpose and avoid the factually-true-but-wrong trap, with worked examples."
+excerpt: "Master SAT rhetorical synthesis fast with the goal-first method and worked examples for every rhetorical purpose."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1997-03-29
+last_updated: 2026-11-10
 lang: en
 ---
 Give a strong student the same set of research notes twice, change one sentence in the prompt, and watch them pick two different correct answers. That is rhetorical synthesis, and it is the cleanest demonstration on the entire Digital SAT that the test rewards a procedure over a feeling. Here is the trap in miniature. A bulleted set of facts about a marine biologist sits on the screen. The directive reads, "The student wants to emphasize a difference between the two expeditions." Four answer choices follow, and every single one of them is grammatically perfect and factually true to the notes. Three of them are decoys not because they contain an error, but because they do not do what the sentence asked. The student who hunts for a grammar mistake finds none, panics, and burns ninety seconds. The student who read the directive first, decided "I need both expeditions and an explicit contrast word," and then scanned the choices for that exact shape, answers in under thirty.

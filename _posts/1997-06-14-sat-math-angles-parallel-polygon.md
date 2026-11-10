@@ -5,11 +5,11 @@ page_title: "SAT Angles and Polygons: Parallel-Line Transversals, the Exterior A
 date: 1997-06-14
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "Angles", "Polygons"]
-excerpt: "SAT angle and polygon rules explained: parallel-line transversals, the exterior angle theorem, polygon angle sums and quadrilateral properties, with examples."
+excerpt: "Master every SAT angle and polygon rule with this complete geometry guide and step-by-step worked examples."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1997-06-14
+last_updated: 2026-11-10
 lang: en
 ---
 A figure on the screen shows two parallel lines sliced by a slanted third line, a single measure marked 7 times its neighbor minus a few degrees, and a question asking for a value buried two relationships away from the one labeled. Students who freeze on that figure are not weak at geometry. They are missing a compact, ordered rule set that turns the picture into a chain of one-step deductions. The whole of SAT angle and polygon work, the parallel-line transversal, the exterior shortcut, the polygon-sum formulas, and the quadrilateral families, rests on perhaps a dozen relationships that never change. Learn them in the right order and the intimidating figure collapses into arithmetic.

@@ -9,7 +9,7 @@ excerpt: "Ivy League schools read AP records inside a demanding holistic review.
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 89
 author: "jessica-kim"
-last_updated: 2006-12-25
+last_updated: 2026-11-10
 lang: en
 ---
 Few questions in college admissions carry as much anxiety, or as much misinformation, as the question of how the Ivy League treats Advanced Placement work. Families ask it as though a formula exists, as though some number of exams, some threshold of scores, unlocks a gate at Harvard or Yale or Princeton. No such formula exists, and the sooner a family absorbs that fact, the better its planning becomes. What exists instead is a reading practice: trained admissions officers, working inside a holistic review, interpret an AP record as one strand of evidence among many, weighing what courses a student chose, how the student performed in them, what the resulting exam scores confirm, and how all of that fits the school the student attended and the class the college is trying to build.

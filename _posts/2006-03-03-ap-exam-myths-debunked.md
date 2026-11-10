@@ -9,7 +9,7 @@ excerpt: "AP folklore survives because it sounds like insider knowledge. This gu
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 90
 author: "katherine-blake"
-last_updated: 2006-03-03
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, the same confident claims circulate through school hallways, group chats, and family kitchens. A senior announces that a blank answer hurts less than a wrong one. A parent repeats that only perfect scores earn credit. Someone's cousin insists that colleges count the number of AP classes on a transcript and admit whoever has the most. These statements arrive with the polish of insider knowledge, and they shape real decisions about course loads, study time, money, and stress. Yet a striking share of them are wrong, half wrong, or true only inside one building or one college catalog.

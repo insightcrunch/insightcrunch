@@ -9,7 +9,7 @@ excerpt: "Circuits are conservation laws wearing wires. This guide maps charge, 
 image: "/assets/images/blog/blog-114.webp"
 reading_time: 90
 author: "simon-hartley"
-last_updated: 2006-08-03
+last_updated: 2026-11-10
 lang: en
 ---
 Electricity frightens many strong mechanics students because nothing in a circuit can be seen moving. A projectile traces a visible arc, a block slides down a visible ramp, but charge drifts through copper at a pace slower than a crawling ant while the effects appear instantly at every point in the loop. The good news is that AP Physics 1 electricity rests on a remarkably small foundation. Two conservation laws, one force law, and one empirical relationship between voltage, current, and resistance generate every circuit question on the exam. Students who internalize those few ideas and practice applying them methodically can handle networks that look forbidding at first glance.

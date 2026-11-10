@@ -5,11 +5,11 @@ page_title: "SAT Systems of Equations: Solving for k With No Solution or Infinit
 date: 1997-07-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Systems of Equations", "Algebra", "Advanced Math"]
-excerpt: "SAT systems with no or infinite solutions explained: solving for k, parallel lines, identical equations and the discriminant, with parameter-finding examples."
+excerpt: "Master SAT system questions with the no-solution and infinite-solution rules, plus linear-quadratic strategies."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1997-07-29
+last_updated: 2026-11-10
 lang: en
 ---
 A student who can solve an ordinary pair of linear equations in forty seconds will sometimes stall completely on a single extra word: the question does not ask for x and y, it asks for the value of k that makes the pair have no solution. That swap, from "solve the system" to "find the parameter that controls how many solutions the system has," is one of the most reliable ways the SAT separates a 700 math score from a 770. The arithmetic barely changes. What changes is whether you recognize that solution count is not something you compute by solving; it is something you read off the structure of the two equations before you touch a single number.

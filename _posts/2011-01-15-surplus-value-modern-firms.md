@@ -9,7 +9,7 @@ excerpt: "Surplus value in a modern firm, worked honestly: productive labour, pl
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 87
 author: "diana-patel"
-last_updated: 2011-01-15
+last_updated: 2026-11-10
 lang: en
 ---
 The question most readers bring to this subject is disarmingly practical. They have a company in mind, perhaps their own employer, perhaps a firm whose annual report they have just read, and they want to know how much surplus value that company takes and how the taking works inside an organisation that employs software engineers, franchise managers, warehouse pickers, designers, drivers, and sales staff rather than the mill hands of a nineteenth-century engraving. The Marxian framework was built on the factory, and a fair suspicion follows it into every discussion of the modern firm: perhaps the categories simply do not survive the journey from the spinning mill to the software campus, the logistics platform, and the outsourced supply chain. This article tests that suspicion by doing the work rather than gesturing at it. It takes four kinds of firm, applies the same set of questions to each, and reports where the framework fits cleanly, where it strains, and where it honestly cannot reach.

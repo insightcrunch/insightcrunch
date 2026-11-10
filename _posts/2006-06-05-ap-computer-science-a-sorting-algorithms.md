@@ -9,7 +9,7 @@ excerpt: "Sorting and searching are where AP Computer Science A turns loops into
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 90
 author: "patrick-dunn"
-last_updated: 2006-06-05
+last_updated: 2026-11-10
 lang: en
 ---
 Sorting and searching form the beating heart of the algorithms work in AP Computer Science A. Other units in the course teach students to store values, move values, and transform values, yet this stretch of the syllabus is where stored values start behaving like a system. An array stops being a passive row of boxes and becomes a structure whose organization decides how quickly anything inside it can be found, ordered, or rearranged. Selection sort, insertion sort, and merge sort supply the course with its three sorting stories, while sequential search and binary search frame a contrast that echoes through all of computer science: the difference between looking everywhere and looking cleverly.

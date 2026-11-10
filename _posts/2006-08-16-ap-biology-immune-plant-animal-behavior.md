@@ -9,7 +9,7 @@ excerpt: "Immunity, plant plumbing, and animal behavior look unrelated until sys
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-08-16
+last_updated: 2026-11-10
 lang: en
 ---
 Three topics sit near the end of many AP Biology courses and often receive whatever class time remains: the immune system, the inner workings of plants, and animal behavior. Students tend to file them as leftovers, a pile of vocabulary about antibodies, xylem, hormones, and geese. That filing decision is the first mistake this article exists to correct. Beneath the vocabulary, the three topics share one grammar. Each describes a living system that detects a change, processes information about that change, and produces a regulated response that protects the organism or improves its chances of surviving and reproducing. Immunity is detection and response aimed at invaders. Plant transport and plant responses are detection and response aimed at water, light, gravity, and seasons. Behavior is detection and response carried out by whole animals moving through a social and physical world.

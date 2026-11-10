@@ -9,7 +9,7 @@ excerpt: "A Lewis structure is a hypothesis that VSEPR turns into a shape with c
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2006-08-12
+last_updated: 2026-11-10
 lang: en
 ---
 A drawing with dots and lines looks modest on paper, yet it carries a surprising amount of chemistry inside a few strokes. A Lewis structure records where valence electrons are assigned, which atoms share pairs, which atoms keep lone pairs, and where charge has to be acknowledged rather than hidden. Once that assignment is honest, shape stops being a matter of taste. Electron domains push apart, atoms settle into positions that reflect that push, and the resulting geometry controls polarity, intermolecular contact, and much of a substance's visible behavior.

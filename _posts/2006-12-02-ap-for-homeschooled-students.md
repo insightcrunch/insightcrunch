@@ -9,7 +9,7 @@ excerpt: "Homeschooled students can take AP exams with the right arrangements. T
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 89
 author: "maria-santos"
-last_updated: 2006-12-02
+last_updated: 2026-11-10
 lang: en
 ---
 A homeschooled teenager who wants to sit an Advanced Placement exam faces a puzzle that a student in a conventional school never has to solve. The exam itself is identical, the scoring is identical, and the college credit on offer is identical, yet nearly every step that leads to the testing room runs through institutions built for enrolled students. Registration happens through schools. Exam booklets are ordered by school coordinators. Even the practice platform expects a classroom to exist somewhere behind the student. None of this makes the exam closed to homeschoolers, but it does mean that a homeschool family has to understand the machinery of the program and operate parts of it by hand.

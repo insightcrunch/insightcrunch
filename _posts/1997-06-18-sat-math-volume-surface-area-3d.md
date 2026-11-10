@@ -5,11 +5,11 @@ page_title: "SAT 3D Geometry: Volume, Surface Area and the Scaling Principle Exp
 date: 1997-06-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "3D Geometry", "Volume"]
-excerpt: "SAT 3D geometry explained: volume and surface area formulas, the scaling principle, composite solids and cross-sections, with worked application examples."
+excerpt: "Master SAT 3D geometry with formula tables, the scaling principle, and worked examples for every solid type."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1997-06-18
+last_updated: 2026-11-10
 lang: en
 ---
 A single sentence on the Digital SAT reference sheet quietly hands you most of what 3D geometry asks for, and the students who lose points here almost never lose them because they forgot a formula. They lose them because they treat the figure as something to memorize rather than something to operate. The volume relationships for prisms, cylinders, cones, spheres, and pyramids are printed for you, right there, available on every screen of the test. What is not printed is the one idea that turns a scary-looking solid into a ten-second win: when a length grows, the space inside grows faster, and it grows by a rule you can predict exactly. This article is about SAT 3D geometry as an application game, not a memorization game, and the centerpiece is the scaling principle that the reference sheet will never explain for you.

@@ -9,7 +9,7 @@ excerpt: "First-generation students often meet AP without a family map for it. T
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-09-17
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, in high schools across the country, a quiet sorting takes place long before any exam is administered. Course selection sheets circulate from classroom to classroom, counselors hold short meetings in crowded offices, and some students sign up for Advanced Placement classes almost by reflex. An older sibling took them. A parent remembers the acronym from a college application decades ago. The path has been walked before, and the map of it hangs in the family kitchen. Other students, every bit as capable, never sign up at all. Nobody told them the sheet mattered. Nobody explained what the letters stood for, what a May exam could set in motion, or that a fee reduction existed which they were entitled to claim. The distance between those two groups is rarely a distance of talent. It is a distance of information, and information is precisely what a first-generation student, the first person in a family to aim at a bachelor's degree, cannot borrow from the people at home.

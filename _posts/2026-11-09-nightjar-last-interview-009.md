@@ -9,7 +9,7 @@ excerpt: "The man who wrote of the clean room is barricaded in his own house at 
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 98
 author: "rachel-foster"
-last_updated: 2026-11-09
+last_updated: 2026-11-10
 lang: en
 ---
 ## Four in the Morning

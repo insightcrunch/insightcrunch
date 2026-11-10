@@ -9,7 +9,7 @@ excerpt: "World History grades the same three lenses across a wider canvas. This
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 89
 author: "maria-santos"
-last_updated: 2006-07-20
+last_updated: 2026-11-10
 lang: en
 ---
 Every AP history course asks students to reason, but World History asks them to reason at a scale no other course attempts. The canvas runs from 1200 to the present and stretches across Afro-Eurasia, the Americas, and Oceania, which means a single exam question can place West African trading states beside Southeast Asian port cities and expect a student to think clearly about both. Facts alone cannot carry that load. A student who memorizes each civilization as a separate exhibit will run out of memory long before the course ends, while a student who learns to compare, to trace causes, and to track change across centuries owns a set of tools that works on any region the exam names.

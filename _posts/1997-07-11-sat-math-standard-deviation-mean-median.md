@@ -5,11 +5,11 @@ page_title: "SAT Statistics: Mean vs Median, Standard Deviation Spread and Outli
 date: 1997-07-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Data Analysis", "Test Prep"]
-excerpt: "SAT statistics explained: mean versus median, standard deviation as spread, IQR and outlier effects, with box plots and worked comparison examples throughout."
+excerpt: "Master SAT data interpretation with statistics rules, transformation effects, and worked examples for every chart."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 59
 author: "samantha-lee"
-last_updated: 1997-07-11
+last_updated: 2026-11-10
 lang: en
 ---
 Picture a student two-thirds of the way through a math module who hits a question showing two dot plots side by side and asking which set of values has the greater standard deviation. The instinct, drilled into anyone who once memorized a textbook formula, is to start computing: find each average, subtract, square, total, divide, take a root. Forty seconds vanish. The answer was readable from the picture in five.

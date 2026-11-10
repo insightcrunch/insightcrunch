@@ -9,7 +9,7 @@ excerpt: "Psychology stands or falls on its methods. This guide maps experiments
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-07-07
+last_updated: 2026-11-10
 lang: en
 ---
 Psychology makes a bold promise. It claims to study the mind and behavior with the same discipline that physics brings to falling objects and chemistry brings to reactions, even though its subject matter talks back, lies on questionnaires, guesses what the researcher wants, and changes simply because it knows it is being watched. Everything in the field that deserves trust rests on how a study was built, and everything shaky in the field can be traced to a study that was built carelessly. That is why the AP Psychology course gives research methods and ethics a place at the very front of the framework, and why exam questions return to method again and again inside scenarios that look, on the surface, like questions about memory, development, or personality.

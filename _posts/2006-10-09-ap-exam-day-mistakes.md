@@ -9,7 +9,7 @@ excerpt: "Exam day punishes small mistakes that have nothing to do with knowledg
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 89
 author: "natalie-webb"
-last_updated: 2006-10-09
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, students file into gymnasiums, cafeterias, and borrowed classrooms carrying months of preparation in their heads. The knowledge is real. Essays have been outlined, formulas rehearsed, timelines memorized, and practice questions answered by the hundreds. Yet the score that eventually arrives is not a pure measure of that knowledge. It is the knowledge that survived one particular morning: a morning of sign-in lines, seating charts, proctor instructions, unfamiliar rooms, ticking clocks, and a pencil moving across an answer sheet. Points leak out of that morning through holes that have nothing to do with intelligence or effort, and the leak is quiet enough that many students never learn it happened.

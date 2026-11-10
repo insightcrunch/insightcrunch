@@ -5,11 +5,11 @@ page_title: "SAT Percent Problems: The Multiplier Method, Successive Changes and
 date: 1997-08-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Percentages", "Problem Solving", "Data Analysis"]
-excerpt: "SAT percent problems made fast: the multiplier method, successive changes that multiply not add, and reverse-percent setups, with worked examples throughout."
+excerpt: "Master SAT percent questions fast with the multiplier shortcut and example-driven walkthroughs."
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1997-08-07
+last_updated: 2026-11-10
 lang: en
 ---
 A retailer marks a jacket up by 40% for the season, then puts it on a 25% clearance rack. A student who reads that sentence and thinks the net effect is "up 15%" loses the question before touching the numbers. The true net is a 5% gain, because 1.40 times 0.75 equals 1.05, and the whole point of SAT percent change problems is that the two adjustments multiply rather than add. That single arithmetic fact, missed by a large share of test-takers, is worth real points across the data-analysis content of the digital exam, and it is the reason this topic deserves a method rather than a shrug.

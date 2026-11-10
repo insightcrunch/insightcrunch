@@ -9,7 +9,7 @@ excerpt: "Riemann sums turn motion and area into arithmetic the FTC then makes e
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 89
 author: "christopher-wells"
-last_updated: 2006-09-12
+last_updated: 2026-11-10
 lang: en
 ---
 A car rolls along a straight road while its speedometer needle wanders, rising on the downhill stretches and sagging on the climbs. Ask how far the car traveled during one hour of that uneven driving and the arithmetic of earlier courses falls silent, because the speed refuses to sit still long enough for a single multiplication to describe it. Calculus AB answers the question with an idea so sturdy that it carries the entire second half of the course: chop the hour into thin slices, pretend the speed holds steady inside each slice, multiply, add, and then let the slices shrink until the pretense becomes exact. That chopping and adding is a Riemann sum, and the theorem that certifies the limit of the process is the Fundamental Theorem of Calculus.

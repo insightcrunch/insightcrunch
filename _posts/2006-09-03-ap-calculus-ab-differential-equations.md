@@ -9,7 +9,7 @@ excerpt: "Differential equations let a rate law describe a whole future. This gu
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 89
 author: "hannah-moore"
-last_updated: 2006-09-03
+last_updated: 2026-11-10
 lang: en
 ---
 Every earlier unit of calculus runs in one direction. You are handed a function, perhaps a position or a cost or a temperature, and the machinery of derivatives tells you how fast that function changes. Differential equations reverse the traffic. Here the rate law arrives first, stated as a relationship involving a derivative, and the unknown is the function itself. Recovering a whole curve from instructions about its steepness is the central puzzle of the unit, and it changes how the entire subject feels, because the answer to a problem is no longer a number or a slope but a family of possible worlds.

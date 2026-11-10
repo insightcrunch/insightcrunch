@@ -5,11 +5,11 @@ page_title: "SAT Functions and Transformations: Notation, Composition and the Ho
 date: 1997-08-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Functions", "Transformations", "Advanced Math"]
-excerpt: "SAT functions and transformations explained: notation, composition, domain and range, and the horizontal-shift trap, with graphical and algebraic examples."
+excerpt: "Master SAT function questions with notation rules, transformation effects, and graph reading shortcuts."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 62
 author: "simon-hartley"
-last_updated: 1997-08-02
+last_updated: 2026-11-10
 lang: en
 ---
 A student stares at a multiple-choice item that shows a parabola and four candidate equations. Three of the four use the expression `(x - 4)`. The student knows the vertex sits to the right of the origin, picks the equation that subtracts inside the parentheses, second-guesses because subtracting "feels like left," switches to the answer with `(x + 4)`, and loses the point. That single reversal, the belief that subtracting inside a rule moves a picture left, is the most expensive misconception in this entire corner of the test, and it shows up on most Digital SAT forms in one disguise or another.

@@ -9,7 +9,7 @@ excerpt: "Gases obey a handful of laws and solutions obey a recipe of ratios. Th
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2006-08-07
+last_updated: 2026-11-10
 lang: en
 ---
 Few corners of AP Chemistry reward careful setup as generously as gases and solutions. The mathematics involved is rarely harder than a ratio or a single multiplication chain, yet these questions generate a steady stream of avoidable errors every exam season. Students lose points because a temperature stayed in Celsius, because a pressure arrived in torr while the constant expected atmospheres, because a dilution was read as a concentration change in the wrong direction. Almost none of those mistakes are conceptual. They are bookkeeping failures, and bookkeeping failures yield to a habit: write the conditions down first, convert them second, and only then reach for an equation.

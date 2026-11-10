@@ -9,7 +9,7 @@ excerpt: "A 5 on AP Economics comes from graphs drawn fast and reasoning chained
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 89
 author: "katherine-blake"
-last_updated: 2007-02-12
+last_updated: 2026-11-10
 lang: en
 ---
 Two different exams hide behind the single label AP Economics, and students earn a 5 on each of them in almost exactly the same way. Macroeconomics zooms out to national income, unemployment, inflation, banking, and trade between nations. Microeconomics zooms in to the choices of households, firms, and single markets. The content differs, yet the skill that decides the score is identical on both papers: given a change in the world, can you draw the right model, shift the right curve, and explain in plain sentences why the outcome follows. Everything in this playbook serves that one skill.

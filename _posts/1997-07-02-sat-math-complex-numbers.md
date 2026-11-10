@@ -5,11 +5,11 @@ page_title: "SAT Complex Numbers: The i Power Cycle, FOIL and Conjugate Division
 date: 1997-07-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Complex Numbers", "Advanced Math", "Algebra"]
-excerpt: "SAT complex numbers explained: the definition of i, the power cycle, adding, multiplying with FOIL and dividing by the conjugate, with worked examples included."
+excerpt: "Master SAT complex number operations and the link to quadratic discriminants with worked examples for every type."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1997-07-02
+last_updated: 2026-11-10
 lang: en
 ---
 A single SAT complex numbers item sits in the harder half of the Math section like a coin left on the sidewalk. Most test-takers walk past it. They see the symbol for the square root of negative one, decide the topic belongs to some advanced course they half remember, and guess. The prepared candidate picks the coin up in under ninety seconds, because the whole topic reduces to about six mechanical moves, and not one of them is hard once you have done it a dozen times.

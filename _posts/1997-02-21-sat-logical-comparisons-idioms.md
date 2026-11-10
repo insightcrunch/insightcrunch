@@ -5,11 +5,11 @@ page_title: "SAT Logical Comparisons and Idiomatic Prepositions: The Equal-Sign 
 date: 1997-02-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Comparisons", "Idioms", "Grammar"]
-excerpt: "SAT logical comparisons and idioms explained: the equal-sign test for comparing like to like and the most-tested prepositions, with 25 idioms and examples."
+excerpt: "Two SAT Writing areas that trip up strong students: logical comparisons and idiomatic prepositions, fully decoded."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
 author: "samantha-lee"
-last_updated: 1997-02-21
+last_updated: 2026-11-10
 lang: en
 ---
 # SAT Writing: Logical Comparisons and Idioms

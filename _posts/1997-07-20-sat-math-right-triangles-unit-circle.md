@@ -5,11 +5,11 @@ page_title: "SAT Right Triangles and Trig: Pythagorean Triples, Special Triangle
 date: 1997-07-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Triangles", "Trigonometry", "Unit Circle"]
-excerpt: "SAT right triangles and trig explained: Pythagorean triples, special triangles, SOH CAH TOA and the sin equals cos complementary rule, with worked examples."
+excerpt: "Master SAT trigonometry with special triangles, complementary angle rules, and unit circle shortcuts."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "natalie-webb"
-last_updated: 1997-07-20
+last_updated: 2026-11-10
 lang: en
 ---
 A test-taker who recognizes that a right triangle with legs of 9 and 12 has a hypotenuse of 15 spends three seconds on a question that costs the student beside them ninety. That gap is the entire subject of this guide. SAT right triangles reward recognition over calculation, and the readers who internalize a tiny set of patterns convert grinding arithmetic into instant recall. The Pythagorean theorem is real and it works every time, but on this exam it is frequently the slow road to an answer that a memorized triple hands you for free.

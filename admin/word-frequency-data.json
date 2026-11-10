@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-09T15:42:13Z",
+  "generated": "2026-11-10T17:44:07Z",
   "threshold": 50,
-  "totalPosts": 5583,
-  "flaggedPosts": 3346,
+  "totalPosts": 5675,
+  "flaggedPosts": 3384,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "向量",
   "worstCount": 612,
   "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 171.0,
+  "avgTopCount": 171.5,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -39481,6 +39481,24 @@
       ]
     },
     {
+      "filename": "2006-02-26-the-future-of-ap-exams.md",
+      "slug": "the-future-of-ap-exams",
+      "title": "The Future of AP Exams",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11986,
+      "topWord": "students",
+      "topCount": 145,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-02-26-the-future-of-ap-exams.md"
+    },
+    {
       "filename": "2006-03-01-gods-wife-of-amun-temple-power.md",
       "slug": "gods-wife-of-amun-temple-power",
       "title": "The God's Wife of Amun and Temple Power",
@@ -39591,6 +39609,112 @@
       ]
     },
     {
+      "filename": "2006-03-03-ap-exam-myths-debunked.md",
+      "slug": "ap-exam-myths-debunked",
+      "title": "AP Exam Myths Debunked",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11699,
+      "topWord": "students",
+      "topCount": 236,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-03-ap-exam-myths-debunked.md",
+      "flaggedWords": [
+        {
+          "word": "students",
+          "count": 236
+        }
+      ],
+      "top20": [
+        {
+          "word": "students",
+          "count": 236
+        },
+        {
+          "word": "score",
+          "count": 161
+        },
+        {
+          "word": "student",
+          "count": 146
+        },
+        {
+          "word": "college",
+          "count": 141
+        },
+        {
+          "word": "credit",
+          "count": 121
+        },
+        {
+          "word": "scores",
+          "count": 120
+        },
+        {
+          "word": "ap",
+          "count": 118
+        },
+        {
+          "word": "school",
+          "count": 94
+        },
+        {
+          "word": "exam",
+          "count": 88
+        },
+        {
+          "word": "course",
+          "count": 85
+        },
+        {
+          "word": "myth",
+          "count": 85
+        },
+        {
+          "word": "colleges",
+          "count": 79
+        },
+        {
+          "word": "myths",
+          "count": 58
+        },
+        {
+          "word": "folklore",
+          "count": 57
+        },
+        {
+          "word": "courses",
+          "count": 55
+        },
+        {
+          "word": "exams",
+          "count": 52
+        },
+        {
+          "word": "grades",
+          "count": 46
+        },
+        {
+          "word": "admissions",
+          "count": 45
+        },
+        {
+          "word": "claim",
+          "count": 44
+        },
+        {
+          "word": "schools",
+          "count": 41
+        }
+      ]
+    },
+    {
       "filename": "2006-03-03-july-20-plot-stauffenberg-bomb.md",
       "slug": "july-20-plot-stauffenberg-bomb",
       "title": "July 20 Plot: Stauffenberg's Briefcase Bomb at Wolfsschanze",
@@ -39607,6 +39731,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-03-july-20-plot-stauffenberg-bomb.md"
+    },
+    {
+      "filename": "2006-03-07-ap-and-ib-taking-both-programs.md",
+      "slug": "ap-and-ib-taking-both-programs",
+      "title": "AP and IB: Taking Both Programs",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10911,
+      "topWord": "ap",
+      "topCount": 242,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-07-ap-and-ib-taking-both-programs.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 242
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 242
+        },
+        {
+          "word": "student",
+          "count": 187
+        },
+        {
+          "word": "ib",
+          "count": 156
+        },
+        {
+          "word": "students",
+          "count": 148
+        },
+        {
+          "word": "diploma",
+          "count": 121
+        },
+        {
+          "word": "school",
+          "count": 83
+        },
+        {
+          "word": "course",
+          "count": 83
+        },
+        {
+          "word": "combination",
+          "count": 77
+        },
+        {
+          "word": "subject",
+          "count": 71
+        },
+        {
+          "word": "courses",
+          "count": 71
+        },
+        {
+          "word": "examination",
+          "count": 67
+        },
+        {
+          "word": "program",
+          "count": 66
+        },
+        {
+          "word": "credit",
+          "count": 54
+        },
+        {
+          "word": "plan",
+          "count": 54
+        },
+        {
+          "word": "programs",
+          "count": 53
+        },
+        {
+          "word": "subjects",
+          "count": 51
+        },
+        {
+          "word": "level",
+          "count": 51
+        },
+        {
+          "word": "week",
+          "count": 44
+        },
+        {
+          "word": "score",
+          "count": 40
+        },
+        {
+          "word": "language",
+          "count": 40
+        }
+      ]
     },
     {
       "filename": "2006-03-09-fall-of-rome-june-4-1944.md",
@@ -39627,6 +39857,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-09-fall-of-rome-june-4-1944.md"
     },
     {
+      "filename": "2006-03-12-ap-for-rural-small-school-students.md",
+      "slug": "ap-for-rural-small-school-students",
+      "title": "AP for Rural and Small School Students",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10577,
+      "topWord": "school",
+      "topCount": 186,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-12-ap-for-rural-small-school-students.md"
+    },
+    {
       "filename": "2006-03-14-operation-overlord-planning-1943-1944.md",
       "slug": "operation-overlord-planning-1943-1944",
       "title": "Overlord Planning: Morgan's Path to Eisenhower's Normandy",
@@ -39645,6 +39893,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-14-operation-overlord-planning-1943-1944.md"
     },
     {
+      "filename": "2006-03-16-ap-exam-score-trends-post-covid.md",
+      "slug": "ap-exam-score-trends-post-covid",
+      "title": "AP Exam Score Trends Post-COVID",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10845,
+      "topWord": "era",
+      "topCount": 159,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-16-ap-exam-score-trends-post-covid.md"
+    },
+    {
       "filename": "2006-03-20-monte-cassino-1944-four-battles.md",
       "slug": "monte-cassino-1944-four-battles",
       "title": "Monte Cassino: Four Battles and the Abbey Bombing Decision",
@@ -39661,6 +39927,42 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-20-monte-cassino-1944-four-battles.md"
+    },
+    {
+      "filename": "2006-03-21-ap-science-lab-questions.md",
+      "slug": "ap-science-lab-questions",
+      "title": "AP Science Lab Questions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11664,
+      "topWord": "design",
+      "topCount": 97,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-21-ap-science-lab-questions.md"
+    },
+    {
+      "filename": "2006-03-25-ap-history-exam-timing-pacing.md",
+      "slug": "ap-history-exam-timing-pacing",
+      "title": "AP History Exam Timing and Pacing",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11057,
+      "topWord": "plan",
+      "topCount": 166,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-25-ap-history-exam-timing-pacing.md"
     },
     {
       "filename": "2006-03-25-tehran-conference-november-1943-second-front.md",
@@ -39767,6 +40069,24 @@
           "count": 40
         }
       ]
+    },
+    {
+      "filename": "2006-03-30-ap-world-language-speaking-tips.md",
+      "slug": "ap-world-language-speaking-tips",
+      "title": "AP World Language Speaking Section Tips",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10897,
+      "topWord": "language",
+      "topCount": 135,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-03-30-ap-world-language-speaking-tips.md"
     },
     {
       "filename": "2006-03-31-italian-armistice-september-1943.md",
@@ -39981,6 +40301,112 @@
       ]
     },
     {
+      "filename": "2006-04-03-ap-exams-and-military-academies.md",
+      "slug": "ap-exams-and-military-academies",
+      "title": "AP Exams and Military Academies",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11358,
+      "topWord": "ap",
+      "topCount": 230,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-03-ap-exams-and-military-academies.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 230
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 230
+        },
+        {
+          "word": "academy",
+          "count": 190
+        },
+        {
+          "word": "student",
+          "count": 154
+        },
+        {
+          "word": "students",
+          "count": 90
+        },
+        {
+          "word": "file",
+          "count": 89
+        },
+        {
+          "word": "academies",
+          "count": 86
+        },
+        {
+          "word": "preparation",
+          "count": 70
+        },
+        {
+          "word": "courses",
+          "count": 70
+        },
+        {
+          "word": "course",
+          "count": 69
+        },
+        {
+          "word": "calculus",
+          "count": 68
+        },
+        {
+          "word": "scores",
+          "count": 62
+        },
+        {
+          "word": "science",
+          "count": 62
+        },
+        {
+          "word": "fitness",
+          "count": 59
+        },
+        {
+          "word": "mathematics",
+          "count": 59
+        },
+        {
+          "word": "applicant",
+          "count": 56
+        },
+        {
+          "word": "school",
+          "count": 56
+        },
+        {
+          "word": "physics",
+          "count": 56
+        },
+        {
+          "word": "candidate",
+          "count": 54
+        },
+        {
+          "word": "grades",
+          "count": 51
+        },
+        {
+          "word": "service",
+          "count": 50
+        }
+      ]
+    },
+    {
       "filename": "2006-04-05-kursk-hitler-july-1943-citadel.md",
       "slug": "kursk-hitler-july-1943-citadel",
       "title": "Hitler's Citadel Decision: Kursk's Eastern Front Catastrophe",
@@ -40091,6 +40517,24 @@
       ]
     },
     {
+      "filename": "2006-04-08-ap-classes-for-law-school.md",
+      "slug": "ap-classes-for-law-school",
+      "title": "AP Classes for Law School",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11350,
+      "topWord": "student",
+      "topCount": 224,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-08-ap-classes-for-law-school.md"
+    },
+    {
       "filename": "2006-04-11-fall-of-mussolini-july-25-1943.md",
       "slug": "fall-of-mussolini-july-25-1943",
       "title": "The Fall of Mussolini: Grand Council's Fateful July Vote",
@@ -40107,6 +40551,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-11-fall-of-mussolini-july-25-1943.md"
+    },
+    {
+      "filename": "2006-04-12-ap-classes-for-business-finance.md",
+      "slug": "ap-classes-for-business-finance",
+      "title": "AP Classes for Business and Finance Careers",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11283,
+      "topWord": "business",
+      "topCount": 249,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-12-ap-classes-for-business-finance.md",
+      "flaggedWords": [
+        {
+          "word": "business",
+          "count": 249
+        }
+      ],
+      "top20": [
+        {
+          "word": "business",
+          "count": 249
+        },
+        {
+          "word": "student",
+          "count": 212
+        },
+        {
+          "word": "ap",
+          "count": 156
+        },
+        {
+          "word": "course",
+          "count": 139
+        },
+        {
+          "word": "calculus",
+          "count": 120
+        },
+        {
+          "word": "statistics",
+          "count": 108
+        },
+        {
+          "word": "students",
+          "count": 103
+        },
+        {
+          "word": "courses",
+          "count": 91
+        },
+        {
+          "word": "school",
+          "count": 86
+        },
+        {
+          "word": "economics",
+          "count": 82
+        },
+        {
+          "word": "roadmap",
+          "count": 82
+        },
+        {
+          "word": "core",
+          "count": 77
+        },
+        {
+          "word": "college",
+          "count": 63
+        },
+        {
+          "word": "credit",
+          "count": 63
+        },
+        {
+          "word": "finance",
+          "count": 59
+        },
+        {
+          "word": "quantitative",
+          "count": 52
+        },
+        {
+          "word": "plan",
+          "count": 48
+        },
+        {
+          "word": "placement",
+          "count": 46
+        },
+        {
+          "word": "programs",
+          "count": 45
+        },
+        {
+          "word": "data",
+          "count": 41
+        }
+      ]
     },
     {
       "filename": "2006-04-16-invasion-of-sicily-july-1943-husky.md",
@@ -40127,6 +40677,134 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-16-invasion-of-sicily-july-1943-husky.md"
     },
     {
+      "filename": "2006-04-17-ap-classes-for-future-doctors.md",
+      "slug": "ap-classes-for-future-doctors",
+      "title": "AP Classes for Future Doctors",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11047,
+      "topWord": "student",
+      "topCount": 280,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-17-ap-classes-for-future-doctors.md",
+      "flaggedWords": [
+        {
+          "word": "student",
+          "count": 280
+        },
+        {
+          "word": "ap",
+          "count": 272
+        }
+      ],
+      "top20": [
+        {
+          "word": "student",
+          "count": 280
+        },
+        {
+          "word": "ap",
+          "count": 272
+        },
+        {
+          "word": "college",
+          "count": 157
+        },
+        {
+          "word": "course",
+          "count": 114
+        },
+        {
+          "word": "school",
+          "count": 108
+        },
+        {
+          "word": "science",
+          "count": 101
+        },
+        {
+          "word": "plan",
+          "count": 100
+        },
+        {
+          "word": "chemistry",
+          "count": 99
+        },
+        {
+          "word": "health",
+          "count": 96
+        },
+        {
+          "word": "students",
+          "count": 94
+        },
+        {
+          "word": "medical",
+          "count": 92
+        },
+        {
+          "word": "pre",
+          "count": 88
+        },
+        {
+          "word": "biology",
+          "count": 78
+        },
+        {
+          "word": "credit",
+          "count": 72
+        },
+        {
+          "word": "courses",
+          "count": 67
+        },
+        {
+          "word": "grade",
+          "count": 56
+        },
+        {
+          "word": "schools",
+          "count": 53
+        },
+        {
+          "word": "examination",
+          "count": 51
+        },
+        {
+          "word": "families",
+          "count": 50
+        },
+        {
+          "word": "prerequisite",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "filename": "2006-04-21-ap-classes-for-future-engineers.md",
+      "slug": "ap-classes-for-future-engineers",
+      "title": "AP Classes for Future Engineers",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11696,
+      "topWord": "physics",
+      "topCount": 221,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-21-ap-classes-for-future-engineers.md"
+    },
+    {
       "filename": "2006-04-22-operation-chastise-dams-raid-may-1943.md",
       "slug": "operation-chastise-dams-raid-may-1943",
       "title": "Operation Chastise: The Dambusters Dams Raid Decision",
@@ -40145,6 +40823,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-22-operation-chastise-dams-raid-may-1943.md"
     },
     {
+      "filename": "2006-04-26-ap-score-cancellation-vs-withholding.md",
+      "slug": "ap-score-cancellation-vs-withholding",
+      "title": "AP Score Cancellation vs Withholding",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10312,
+      "topWord": "score",
+      "topCount": 344,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-26-ap-score-cancellation-vs-withholding.md",
+      "flaggedWords": [
+        {
+          "word": "score",
+          "count": 344
+        },
+        {
+          "word": "student",
+          "count": 230
+        }
+      ],
+      "top20": [
+        {
+          "word": "score",
+          "count": 344
+        },
+        {
+          "word": "student",
+          "count": 230
+        },
+        {
+          "word": "college",
+          "count": 152
+        },
+        {
+          "word": "credit",
+          "count": 104
+        },
+        {
+          "word": "scores",
+          "count": 103
+        },
+        {
+          "word": "withholding",
+          "count": 96
+        },
+        {
+          "word": "students",
+          "count": 92
+        },
+        {
+          "word": "record",
+          "count": 92
+        },
+        {
+          "word": "decision",
+          "count": 84
+        },
+        {
+          "word": "colleges",
+          "count": 83
+        },
+        {
+          "word": "cancellation",
+          "count": 58
+        },
+        {
+          "word": "audience",
+          "count": 51
+        },
+        {
+          "word": "send",
+          "count": 49
+        },
+        {
+          "word": "school",
+          "count": 48
+        },
+        {
+          "word": "result",
+          "count": 47
+        },
+        {
+          "word": "guide",
+          "count": 44
+        },
+        {
+          "word": "subject",
+          "count": 41
+        },
+        {
+          "word": "exam",
+          "count": 40
+        },
+        {
+          "word": "question",
+          "count": 40
+        },
+        {
+          "word": "value",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2006-04-27-warsaw-ghetto-uprising-april-1943.md",
       "slug": "warsaw-ghetto-uprising-april-1943",
       "title": "Warsaw Ghetto Uprising: The Fighters' Choice to Resist",
@@ -40161,6 +40949,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-27-warsaw-ghetto-uprising-april-1943.md"
+    },
+    {
+      "filename": "2006-04-30-ap-last-minute-two-week-review.md",
+      "slug": "ap-last-minute-two-week-review",
+      "title": "AP Last-Minute Review: Two-Week Emergency Plan",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11401,
+      "topWord": "exam",
+      "topCount": 177,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-04-30-ap-last-minute-two-week-review.md"
     },
     {
       "filename": "2006-05-01-art-revival-fragmented-egypt.md",
@@ -40197,6 +41003,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-03-casablanca-conference-january-1943-unconditional-surrender.md"
+    },
+    {
+      "filename": "2006-05-05-ap-english-essay-rubric-decoded.md",
+      "slug": "ap-english-essay-rubric-decoded",
+      "title": "AP English Essay Rubric Decoded",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10757,
+      "topWord": "essay",
+      "topCount": 215,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-05-ap-english-essay-rubric-decoded.md"
     },
     {
       "filename": "2006-05-08-guadalcanal-august-1942-marine-landing.md",
@@ -40305,6 +41129,42 @@
       ]
     },
     {
+      "filename": "2006-05-09-ap-history-dbq-writing-framework.md",
+      "slug": "ap-history-dbq-writing-framework",
+      "title": "AP History DBQ Writing: A Universal Framework",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10525,
+      "topWord": "document",
+      "topCount": 168,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-09-ap-history-dbq-writing-framework.md"
+    },
+    {
+      "filename": "2006-05-14-ap-physics-1-problem-solving-framework.md",
+      "slug": "ap-physics-1-problem-solving-framework",
+      "title": "AP Physics 1: Problem-Solving Framework",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10754,
+      "topWord": "force",
+      "topCount": 160,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-14-ap-physics-1-problem-solving-framework.md"
+    },
+    {
       "filename": "2006-05-14-el-alamein-montgomery-october-1942.md",
       "slug": "el-alamein-montgomery-october-1942",
       "title": "El Alamein: Montgomery's October Breakthrough Decision",
@@ -40321,6 +41181,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-14-el-alamein-montgomery-october-1942.md"
+    },
+    {
+      "filename": "2006-05-18-ap-chemistry-calculation-mastery.md",
+      "slug": "ap-chemistry-calculation-mastery",
+      "title": "AP Chemistry: Calculation Mastery",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10891,
+      "topWord": "times",
+      "topCount": 97,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-18-ap-chemistry-calculation-mastery.md"
     },
     {
       "filename": "2006-05-19-operation-torch-november-1942-north-africa.md",
@@ -40341,6 +41219,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-19-operation-torch-november-1942-north-africa.md"
     },
     {
+      "filename": "2006-05-23-ap-biology-graphing-data-analysis.md",
+      "slug": "ap-biology-graphing-data-analysis",
+      "title": "AP Biology: Graphing and Data Analysis",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10940,
+      "topWord": "data",
+      "topCount": 146,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-23-ap-biology-graphing-data-analysis.md"
+    },
+    {
       "filename": "2006-05-25-dieppe-raid-august-1942-canadian.md",
       "slug": "dieppe-raid-august-1942-canadian",
       "title": "Dieppe Raid: The Committee Failure Behind the Disaster",
@@ -40359,6 +41255,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-25-dieppe-raid-august-1942-canadian.md"
     },
     {
+      "filename": "2006-05-27-apes-calculations-formulas-math.md",
+      "slug": "apes-calculations-formulas-math",
+      "title": "APES: Calculations, Formulas, Math Skills",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10487,
+      "topWord": "percent",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-27-apes-calculations-formulas-math.md"
+    },
+    {
       "filename": "2006-05-30-case-blue-hitler-summer-1942-caucasus.md",
       "slug": "case-blue-hitler-summer-1942-caucasus",
       "title": "Case Blue: Hitler's Summer 1942 Caucasus",
@@ -40375,6 +41289,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-05-30-case-blue-hitler-summer-1942-caucasus.md"
+    },
+    {
+      "filename": "2006-06-01-ap-csp-create-task-guide.md",
+      "slug": "ap-csp-create-task-guide",
+      "title": "AP Computer Science Principles: The Create Task",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10485,
+      "topWord": "program",
+      "topCount": 247,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-01-ap-csp-create-task-guide.md",
+      "flaggedWords": [
+        {
+          "word": "program",
+          "count": 247
+        }
+      ],
+      "top20": [
+        {
+          "word": "program",
+          "count": 247
+        },
+        {
+          "word": "student",
+          "count": 178
+        },
+        {
+          "word": "code",
+          "count": 148
+        },
+        {
+          "word": "list",
+          "count": 136
+        },
+        {
+          "word": "procedure",
+          "count": 97
+        },
+        {
+          "word": "algorithm",
+          "count": 95
+        },
+        {
+          "word": "task",
+          "count": 91
+        },
+        {
+          "word": "responses",
+          "count": 89
+        },
+        {
+          "word": "design",
+          "count": 64
+        },
+        {
+          "word": "input",
+          "count": 63
+        },
+        {
+          "word": "purpose",
+          "count": 62
+        },
+        {
+          "word": "session",
+          "count": 59
+        },
+        {
+          "word": "data",
+          "count": 55
+        },
+        {
+          "word": "students",
+          "count": 54
+        },
+        {
+          "word": "window",
+          "count": 52
+        },
+        {
+          "word": "video",
+          "count": 52
+        },
+        {
+          "word": "response",
+          "count": 50
+        },
+        {
+          "word": "create",
+          "count": 49
+        },
+        {
+          "word": "sessions",
+          "count": 49
+        },
+        {
+          "word": "submission",
+          "count": 45
+        }
+      ]
     },
     {
       "filename": "2006-06-01-piye-kushite-conquest-of-egypt.md",
@@ -40483,6 +41503,24 @@
       ]
     },
     {
+      "filename": "2006-06-05-ap-computer-science-a-sorting-algorithms.md",
+      "slug": "ap-computer-science-a-sorting-algorithms",
+      "title": "AP Computer Science A: Sorting and Algorithms",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8300,
+      "topWord": "sort",
+      "topCount": 163,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-05-ap-computer-science-a-sorting-algorithms.md"
+    },
+    {
       "filename": "2006-06-05-fall-of-tobruk-june-1942.md",
       "slug": "fall-of-tobruk-june-1942",
       "title": "Fall of Tobruk: June 1942 Eighth Army",
@@ -40589,6 +41627,24 @@
       ]
     },
     {
+      "filename": "2006-06-10-ap-art-history-comparison-essay.md",
+      "slug": "ap-art-history-comparison-essay",
+      "title": "AP Art History: Comparison Essay",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11437,
+      "topWord": "works",
+      "topCount": 131,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-10-ap-art-history-comparison-essay.md"
+    },
+    {
       "filename": "2006-06-10-coral-sea-may-1942-first-carrier-battle.md",
       "slug": "coral-sea-may-1942-first-carrier-battle",
       "title": "Coral Sea: May 1942 First Carrier Battle",
@@ -40605,6 +41661,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-10-coral-sea-may-1942-first-carrier-battle.md"
+    },
+    {
+      "filename": "2006-06-14-ap-european-history-most-tested-themes.md",
+      "slug": "ap-european-history-most-tested-themes",
+      "title": "AP European History: Most Tested Themes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11062,
+      "topWord": "period",
+      "topCount": 128,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-14-ap-european-history-most-tested-themes.md"
     },
     {
       "filename": "2006-06-16-doolittle-raid-april-1942-tokyo.md",
@@ -40625,6 +41699,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-16-doolittle-raid-april-1942-tokyo.md"
     },
     {
+      "filename": "2006-06-19-ap-microeconomics-market-structures.md",
+      "slug": "ap-microeconomics-market-structures",
+      "title": "AP Micro: Market Structures and Game Theory",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11594,
+      "topWord": "cost",
+      "topCount": 277,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-19-ap-microeconomics-market-structures.md",
+      "flaggedWords": [
+        {
+          "word": "cost",
+          "count": 277
+        },
+        {
+          "word": "price",
+          "count": 273
+        }
+      ],
+      "top20": [
+        {
+          "word": "cost",
+          "count": 277
+        },
+        {
+          "word": "price",
+          "count": 273
+        },
+        {
+          "word": "marginal",
+          "count": 163
+        },
+        {
+          "word": "demand",
+          "count": 139
+        },
+        {
+          "word": "firm",
+          "count": 128
+        },
+        {
+          "word": "profit",
+          "count": 116
+        },
+        {
+          "word": "market",
+          "count": 107
+        },
+        {
+          "word": "curve",
+          "count": 103
+        },
+        {
+          "word": "average",
+          "count": 91
+        },
+        {
+          "word": "monopoly",
+          "count": 87
+        },
+        {
+          "word": "output",
+          "count": 72
+        },
+        {
+          "word": "total",
+          "count": 71
+        },
+        {
+          "word": "revenue",
+          "count": 69
+        },
+        {
+          "word": "exam",
+          "count": 64
+        },
+        {
+          "word": "quantity",
+          "count": 62
+        },
+        {
+          "word": "unit",
+          "count": 61
+        },
+        {
+          "word": "competition",
+          "count": 58
+        },
+        {
+          "word": "loss",
+          "count": 55
+        },
+        {
+          "word": "structure",
+          "count": 52
+        },
+        {
+          "word": "player",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2006-06-21-fall-of-singapore-february-1942.md",
       "slug": "fall-of-singapore-february-1942",
       "title": "Fall of Singapore: February 1942 Collapse",
@@ -40643,6 +41827,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-21-fall-of-singapore-february-1942.md"
     },
     {
+      "filename": "2006-06-23-ap-macroeconomics-phillips-loanable-funds.md",
+      "slug": "ap-macroeconomics-phillips-loanable-funds",
+      "title": "AP Macro: Phillips Curve, Loanable Funds",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11756,
+      "topWord": "rate",
+      "topCount": 376,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-23-ap-macroeconomics-phillips-loanable-funds.md",
+      "flaggedWords": [
+        {
+          "word": "rate",
+          "count": 376
+        },
+        {
+          "word": "curve",
+          "count": 279
+        }
+      ],
+      "top20": [
+        {
+          "word": "rate",
+          "count": 376
+        },
+        {
+          "word": "curve",
+          "count": 279
+        },
+        {
+          "word": "demand",
+          "count": 222
+        },
+        {
+          "word": "inflation",
+          "count": 199
+        },
+        {
+          "word": "funds",
+          "count": 159
+        },
+        {
+          "word": "market",
+          "count": 147
+        },
+        {
+          "word": "supply",
+          "count": 139
+        },
+        {
+          "word": "unemployment",
+          "count": 136
+        },
+        {
+          "word": "money",
+          "count": 131
+        },
+        {
+          "word": "phillips",
+          "count": 129
+        },
+        {
+          "word": "investment",
+          "count": 129
+        },
+        {
+          "word": "short",
+          "count": 125
+        },
+        {
+          "word": "interest",
+          "count": 116
+        },
+        {
+          "word": "loanable",
+          "count": 103
+        },
+        {
+          "word": "shifts",
+          "count": 103
+        },
+        {
+          "word": "economy",
+          "count": 98
+        },
+        {
+          "word": "nominal",
+          "count": 87
+        },
+        {
+          "word": "aggregate",
+          "count": 71
+        },
+        {
+          "word": "graph",
+          "count": 68
+        },
+        {
+          "word": "natural",
+          "count": 68
+        }
+      ]
+    },
+    {
       "filename": "2006-06-27-wannsee-conference-january-1942-holocaust.md",
       "slug": "wannsee-conference-january-1942-holocaust",
       "title": "Wannsee Conference: January 1942 Holocaust",
@@ -40659,6 +41953,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-27-wannsee-conference-january-1942-holocaust.md"
+    },
+    {
+      "filename": "2006-06-28-ap-us-government-scotus-cases.md",
+      "slug": "ap-us-government-scotus-cases",
+      "title": "AP US Government: SCOTUS Cases to Know",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11345,
+      "topWord": "cases",
+      "topCount": 98,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-06-28-ap-us-government-scotus-cases.md"
     },
     {
       "filename": "2006-07-01-temples-as-power-centers-egypt.md",
@@ -40767,6 +42079,24 @@
       ]
     },
     {
+      "filename": "2006-07-02-ap-human-geography-spatial-analysis-maps.md",
+      "slug": "ap-human-geography-spatial-analysis-maps",
+      "title": "AP Human Geography: Spatial Analysis and Maps",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11484,
+      "topWord": "map",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-02-ap-human-geography-spatial-analysis-maps.md"
+    },
+    {
       "filename": "2006-07-02-arcadia-conference-december-1941.md",
       "slug": "arcadia-conference-december-1941",
       "title": "Arcadia Conference: December 1941 Anglo-US",
@@ -40783,6 +42113,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-02-arcadia-conference-december-1941.md"
+    },
+    {
+      "filename": "2006-07-07-ap-psychology-research-methods-ethics.md",
+      "slug": "ap-psychology-research-methods-ethics",
+      "title": "AP Psychology: Research Methods and Ethics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11331,
+      "topWord": "study",
+      "topCount": 158,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-07-ap-psychology-research-methods-ethics.md"
     },
     {
       "filename": "2006-07-08-battle-of-moscow-stalin-december-1941.md",
@@ -40895,6 +42243,24 @@
       ]
     },
     {
+      "filename": "2006-07-11-ap-english-literature-close-reading.md",
+      "slug": "ap-english-literature-close-reading",
+      "title": "AP English Literature: Close Reading",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11461,
+      "topWord": "reading",
+      "topCount": 108,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-11-ap-english-literature-close-reading.md"
+    },
+    {
       "filename": "2006-07-13-atlantic-charter-august-1941.md",
       "slug": "atlantic-charter-august-1941",
       "title": "Atlantic Charter: FDR-Churchill August 1941",
@@ -40999,6 +42365,24 @@
           "count": 31
         }
       ]
+    },
+    {
+      "filename": "2006-07-16-ap-english-language-analyze-rhetoric.md",
+      "slug": "ap-english-language-analyze-rhetoric",
+      "title": "AP English Language: How to Analyze Rhetoric",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10932,
+      "topWord": "audience",
+      "topCount": 194,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-16-ap-english-language-analyze-rhetoric.md"
     },
     {
       "filename": "2006-07-19-hess-flight-may-1941-scotland.md",
@@ -41107,6 +42491,24 @@
       ]
     },
     {
+      "filename": "2006-07-20-ap-world-history-comparison-causation-ccot.md",
+      "slug": "ap-world-history-comparison-causation-ccot",
+      "title": "AP World History: Comparison, Causation, CCOT",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10931,
+      "topWord": "comparison",
+      "topCount": 122,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-20-ap-world-history-comparison-causation-ccot.md"
+    },
+    {
       "filename": "2006-07-24-crete-invasion-german-airborne-may-1941.md",
       "slug": "crete-invasion-german-airborne-may-1941",
       "title": "Crete Invasion: German Airborne May 1941",
@@ -41123,6 +42525,42 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-24-crete-invasion-german-airborne-may-1941.md"
+    },
+    {
+      "filename": "2006-07-25-apush-most-tested-topics.md",
+      "slug": "apush-most-tested-topics",
+      "title": "APUSH: Most Tested Topics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11456,
+      "topWord": "war",
+      "topCount": 113,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-25-apush-most-tested-topics.md"
+    },
+    {
+      "filename": "2006-07-29-apush-comparison-continuity-change.md",
+      "slug": "apush-comparison-continuity-change",
+      "title": "APUSH: Comparison and Continuity-Change",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10965,
+      "topWord": "comparison",
+      "topCount": 126,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-07-29-apush-comparison-continuity-change.md"
     },
     {
       "filename": "2006-07-30-lend-lease-act-fdr-march-1941.md",
@@ -41249,6 +42687,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-01-third-intermediate-a-dark-age.md"
     },
     {
+      "filename": "2006-08-03-ap-physics-1-electrostatics-dc-circuits.md",
+      "slug": "ap-physics-1-electrostatics-dc-circuits",
+      "title": "AP Physics 1: Electrostatics and DC Circuits",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10514,
+      "topWord": "current",
+      "topCount": 220,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-03-ap-physics-1-electrostatics-dc-circuits.md",
+      "flaggedWords": [
+        {
+          "word": "current",
+          "count": 220
+        }
+      ],
+      "top20": [
+        {
+          "word": "current",
+          "count": 220
+        },
+        {
+          "word": "charge",
+          "count": 202
+        },
+        {
+          "word": "resistance",
+          "count": 173
+        },
+        {
+          "word": "voltage",
+          "count": 161
+        },
+        {
+          "word": "battery",
+          "count": 121
+        },
+        {
+          "word": "series",
+          "count": 114
+        },
+        {
+          "word": "circuit",
+          "count": 112
+        },
+        {
+          "word": "branch",
+          "count": 106
+        },
+        {
+          "word": "parallel",
+          "count": 101
+        },
+        {
+          "word": "resistor",
+          "count": 91
+        },
+        {
+          "word": "element",
+          "count": 90
+        },
+        {
+          "word": "energy",
+          "count": 77
+        },
+        {
+          "word": "total",
+          "count": 75
+        },
+        {
+          "word": "charges",
+          "count": 62
+        },
+        {
+          "word": "field",
+          "count": 59
+        },
+        {
+          "word": "coulomb",
+          "count": 55
+        },
+        {
+          "word": "physics",
+          "count": 54
+        },
+        {
+          "word": "conservation",
+          "count": 53
+        },
+        {
+          "word": "force",
+          "count": 53
+        },
+        {
+          "word": "law",
+          "count": 52
+        }
+      ]
+    },
+    {
       "filename": "2006-08-04-mussolini-invades-greece-october-1940.md",
       "slug": "mussolini-invades-greece-october-1940",
       "title": "Mussolini Invades Greece: October 1940",
@@ -41265,6 +42809,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-04-mussolini-invades-greece-october-1940.md"
+    },
+    {
+      "filename": "2006-08-07-ap-chemistry-gas-laws-solutions.md",
+      "slug": "ap-chemistry-gas-laws-solutions",
+      "title": "AP Chemistry: Gas Laws and Solutions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11054,
+      "topWord": "pressure",
+      "topCount": 247,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-07-ap-chemistry-gas-laws-solutions.md",
+      "flaggedWords": [
+        {
+          "word": "pressure",
+          "count": 247
+        }
+      ],
+      "top20": [
+        {
+          "word": "pressure",
+          "count": 247
+        },
+        {
+          "word": "gas",
+          "count": 221
+        },
+        {
+          "word": "temperature",
+          "count": 160
+        },
+        {
+          "word": "volume",
+          "count": 123
+        },
+        {
+          "word": "law",
+          "count": 122
+        },
+        {
+          "word": "solution",
+          "count": 109
+        },
+        {
+          "word": "times",
+          "count": 100
+        },
+        {
+          "word": "mole",
+          "count": 97
+        },
+        {
+          "word": "mass",
+          "count": 86
+        },
+        {
+          "word": "moles",
+          "count": 82
+        },
+        {
+          "word": "particles",
+          "count": 68
+        },
+        {
+          "word": "solvent",
+          "count": 65
+        },
+        {
+          "word": "vapor",
+          "count": 65
+        },
+        {
+          "word": "equals",
+          "count": 58
+        },
+        {
+          "word": "ideal",
+          "count": 56
+        },
+        {
+          "word": "atm",
+          "count": 54
+        },
+        {
+          "word": "concentration",
+          "count": 53
+        },
+        {
+          "word": "gases",
+          "count": 52
+        },
+        {
+          "word": "exam",
+          "count": 52
+        },
+        {
+          "word": "molar",
+          "count": 52
+        }
+      ]
     },
     {
       "filename": "2006-08-10-tripartite-pact-september-1940-axis-alliance.md",
@@ -41373,6 +43023,112 @@
       ]
     },
     {
+      "filename": "2006-08-12-ap-chemistry-lewis-structures-vsepr.md",
+      "slug": "ap-chemistry-lewis-structures-vsepr",
+      "title": "AP Chemistry: Lewis Structures and VSEPR",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12536,
+      "topWord": "bond",
+      "topCount": 251,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-12-ap-chemistry-lewis-structures-vsepr.md",
+      "flaggedWords": [
+        {
+          "word": "bond",
+          "count": 251
+        }
+      ],
+      "top20": [
+        {
+          "word": "bond",
+          "count": 251
+        },
+        {
+          "word": "lone",
+          "count": 242
+        },
+        {
+          "word": "bonds",
+          "count": 184
+        },
+        {
+          "word": "pair",
+          "count": 174
+        },
+        {
+          "word": "carbon",
+          "count": 142
+        },
+        {
+          "word": "charge",
+          "count": 141
+        },
+        {
+          "word": "geometry",
+          "count": 129
+        },
+        {
+          "word": "pairs",
+          "count": 125
+        },
+        {
+          "word": "oxygen",
+          "count": 124
+        },
+        {
+          "word": "electron",
+          "count": 116
+        },
+        {
+          "word": "domains",
+          "count": 112
+        },
+        {
+          "word": "electrons",
+          "count": 111
+        },
+        {
+          "word": "four",
+          "count": 93
+        },
+        {
+          "word": "atom",
+          "count": 86
+        },
+        {
+          "word": "nitrogen",
+          "count": 86
+        },
+        {
+          "word": "formal",
+          "count": 85
+        },
+        {
+          "word": "sulfur",
+          "count": 85
+        },
+        {
+          "word": "double",
+          "count": 76
+        },
+        {
+          "word": "drawing",
+          "count": 75
+        },
+        {
+          "word": "atoms",
+          "count": 75
+        }
+      ]
+    },
+    {
       "filename": "2006-08-15-battle-of-britain-dowding-fighter-command.md",
       "slug": "battle-of-britain-dowding-fighter-command",
       "title": "Battle of Britain: Dowding's Fighter Command",
@@ -41391,6 +43147,42 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-15-battle-of-britain-dowding-fighter-command.md"
     },
     {
+      "filename": "2006-08-16-ap-biology-immune-plant-animal-behavior.md",
+      "slug": "ap-biology-immune-plant-animal-behavior",
+      "title": "AP Biology: Immune, Plant, Animal Behavior",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12677,
+      "topWord": "cells",
+      "topCount": 142,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-16-ap-biology-immune-plant-animal-behavior.md"
+    },
+    {
+      "filename": "2006-08-21-ap-biology-free-energy-enzymes-metabolism.md",
+      "slug": "ap-biology-free-energy-enzymes-metabolism",
+      "title": "AP Biology: Free Energy, Enzymes, Metabolism",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11601,
+      "topWord": "energy",
+      "topCount": 206,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-21-ap-biology-free-energy-enzymes-metabolism.md"
+    },
+    {
       "filename": "2006-08-21-operation-sea-lion-cancellation-september-1940.md",
       "slug": "operation-sea-lion-cancellation-september-1940",
       "title": "Operation Sea Lion: September 1940 Postponement",
@@ -41407,6 +43199,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-21-operation-sea-lion-cancellation-september-1940.md"
+    },
+    {
+      "filename": "2006-08-25-ap-statistics-confidence-intervals-hypothesis.md",
+      "slug": "ap-statistics-confidence-intervals-hypothesis",
+      "title": "AP Statistics: Confidence Intervals, Hypothesis",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10375,
+      "topWord": "sample",
+      "topCount": 210,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-25-ap-statistics-confidence-intervals-hypothesis.md",
+      "flaggedWords": [
+        {
+          "word": "sample",
+          "count": 210
+        }
+      ],
+      "top20": [
+        {
+          "word": "sample",
+          "count": 210
+        },
+        {
+          "word": "interval",
+          "count": 192
+        },
+        {
+          "word": "error",
+          "count": 163
+        },
+        {
+          "word": "value",
+          "count": 149
+        },
+        {
+          "word": "test",
+          "count": 140
+        },
+        {
+          "word": "standard",
+          "count": 132
+        },
+        {
+          "word": "null",
+          "count": 97
+        },
+        {
+          "word": "data",
+          "count": 79
+        },
+        {
+          "word": "parameter",
+          "count": 77
+        },
+        {
+          "word": "percent",
+          "count": 72
+        },
+        {
+          "word": "population",
+          "count": 68
+        },
+        {
+          "word": "statistic",
+          "count": 67
+        },
+        {
+          "word": "true",
+          "count": 67
+        },
+        {
+          "word": "proportion",
+          "count": 66
+        },
+        {
+          "word": "procedure",
+          "count": 64
+        },
+        {
+          "word": "difference",
+          "count": 60
+        },
+        {
+          "word": "claim",
+          "count": 57
+        },
+        {
+          "word": "confidence",
+          "count": 57
+        },
+        {
+          "word": "mean",
+          "count": 57
+        },
+        {
+          "word": "square",
+          "count": 55
+        }
+      ]
     },
     {
       "filename": "2006-08-26-petain-armistice-june-1940-collaboration.md",
@@ -41515,6 +43413,112 @@
       ]
     },
     {
+      "filename": "2006-08-30-ap-calculus-bc-convergence-taylor-series.md",
+      "slug": "ap-calculus-bc-convergence-taylor-series",
+      "title": "AP Calculus BC: Convergence and Taylor Series",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9935,
+      "topWord": "series",
+      "topCount": 427,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-08-30-ap-calculus-bc-convergence-taylor-series.md",
+      "flaggedWords": [
+        {
+          "word": "series",
+          "count": 427
+        }
+      ],
+      "top20": [
+        {
+          "word": "series",
+          "count": 427
+        },
+        {
+          "word": "test",
+          "count": 187
+        },
+        {
+          "word": "term",
+          "count": 184
+        },
+        {
+          "word": "terms",
+          "count": 159
+        },
+        {
+          "word": "sum",
+          "count": 147
+        },
+        {
+          "word": "negative",
+          "count": 141
+        },
+        {
+          "word": "minus",
+          "count": 130
+        },
+        {
+          "word": "convergence",
+          "count": 100
+        },
+        {
+          "word": "ratio",
+          "count": 94
+        },
+        {
+          "word": "limit",
+          "count": 90
+        },
+        {
+          "word": "converges",
+          "count": 85
+        },
+        {
+          "word": "absolute",
+          "count": 85
+        },
+        {
+          "word": "value",
+          "count": 80
+        },
+        {
+          "word": "function",
+          "count": 75
+        },
+        {
+          "word": "interval",
+          "count": 72
+        },
+        {
+          "word": "alternating",
+          "count": 68
+        },
+        {
+          "word": "derivative",
+          "count": 66
+        },
+        {
+          "word": "bound",
+          "count": 61
+        },
+        {
+          "word": "power",
+          "count": 60
+        },
+        {
+          "word": "error",
+          "count": 58
+        }
+      ]
+    },
+    {
       "filename": "2006-09-01-late-period-of-ancient-egypt.md",
       "slug": "late-period-of-ancient-egypt",
       "title": "The Late Period of Ancient Egypt",
@@ -41549,6 +43553,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-01-norway-invasion-hitler-april-1940.md"
+    },
+    {
+      "filename": "2006-09-03-ap-calculus-ab-differential-equations.md",
+      "slug": "ap-calculus-ab-differential-equations",
+      "title": "AP Calculus AB: Differential Equations",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9741,
+      "topWord": "solution",
+      "topCount": 155,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-03-ap-calculus-ab-differential-equations.md"
     },
     {
       "filename": "2006-09-06-finnish-winter-war-stalin-november-1939.md",
@@ -41661,6 +43683,42 @@
       ]
     },
     {
+      "filename": "2006-09-08-ap-calculus-ab-related-rates-optimization.md",
+      "slug": "ap-calculus-ab-related-rates-optimization",
+      "title": "AP Calculus AB: Related Rates and Optimization",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10027,
+      "topWord": "derivative",
+      "topCount": 151,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-08-ap-calculus-ab-related-rates-optimization.md"
+    },
+    {
+      "filename": "2006-09-12-ap-calculus-ab-riemann-sums-ftc.md",
+      "slug": "ap-calculus-ab-riemann-sums-ftc",
+      "title": "AP Calculus AB: Riemann Sums and the FTC",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9983,
+      "topWord": "integral",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-12-ap-calculus-ab-riemann-sums-ftc.md"
+    },
+    {
       "filename": "2006-09-12-stalin-invades-poland-september-17-1939.md",
       "slug": "stalin-invades-poland-september-17-1939",
       "title": "Stalin Invades Poland: September 17 1939",
@@ -41771,6 +43829,112 @@
       ]
     },
     {
+      "filename": "2006-09-17-ap-for-first-generation-students.md",
+      "slug": "ap-for-first-generation-students",
+      "title": "AP for First-Generation College Students",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10199,
+      "topWord": "student",
+      "topCount": 267,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-17-ap-for-first-generation-students.md",
+      "flaggedWords": [
+        {
+          "word": "student",
+          "count": 267
+        }
+      ],
+      "top20": [
+        {
+          "word": "student",
+          "count": 267
+        },
+        {
+          "word": "students",
+          "count": 188
+        },
+        {
+          "word": "ap",
+          "count": 143
+        },
+        {
+          "word": "college",
+          "count": 136
+        },
+        {
+          "word": "course",
+          "count": 112
+        },
+        {
+          "word": "school",
+          "count": 111
+        },
+        {
+          "word": "generation",
+          "count": 95
+        },
+        {
+          "word": "exam",
+          "count": 85
+        },
+        {
+          "word": "family",
+          "count": 84
+        },
+        {
+          "word": "courses",
+          "count": 71
+        },
+        {
+          "word": "guide",
+          "count": 59
+        },
+        {
+          "word": "credit",
+          "count": 55
+        },
+        {
+          "word": "score",
+          "count": 53
+        },
+        {
+          "word": "colleges",
+          "count": 50
+        },
+        {
+          "word": "fee",
+          "count": 46
+        },
+        {
+          "word": "teacher",
+          "count": 46
+        },
+        {
+          "word": "counselor",
+          "count": 45
+        },
+        {
+          "word": "questions",
+          "count": 44
+        },
+        {
+          "word": "grade",
+          "count": 44
+        },
+        {
+          "word": "families",
+          "count": 43
+        }
+      ]
+    },
+    {
       "filename": "2006-09-17-britain-declares-war-september-3-1939.md",
       "slug": "britain-declares-war-september-3-1939",
       "title": "Britain Declares War: Chamberlain September 3",
@@ -41875,6 +44039,24 @@
           "count": 34
         }
       ]
+    },
+    {
+      "filename": "2006-09-21-ap-exam-score-predictions.md",
+      "slug": "ap-exam-score-predictions",
+      "title": "AP Exam Score Predictions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11643,
+      "topWord": "prediction",
+      "topCount": 224,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-21-ap-exam-score-predictions.md"
     },
     {
       "filename": "2006-09-23-hitler-invades-poland-september-1-1939.md",
@@ -41983,6 +44165,24 @@
       ]
     },
     {
+      "filename": "2006-09-26-ap-and-the-college-board.md",
+      "slug": "ap-and-the-college-board",
+      "title": "AP and the College Board: Behind the Scenes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10717,
+      "topWord": "students",
+      "topCount": 168,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-26-ap-and-the-college-board.md"
+    },
+    {
       "filename": "2006-09-28-molotov-ribbentrop-pact-august-1939.md",
       "slug": "molotov-ribbentrop-pact-august-1939",
       "title": "Molotov-Ribbentrop Pact: August 1939",
@@ -42089,6 +44289,24 @@
       ]
     },
     {
+      "filename": "2006-09-30-ap-score-distributions-pass-rates.md",
+      "slug": "ap-score-distributions-pass-rates",
+      "title": "AP Score Distributions: Pass Rates by Subject",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10489,
+      "topWord": "students",
+      "topCount": 179,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-09-30-ap-score-distributions-pass-rates.md"
+    },
+    {
       "filename": "2006-10-01-saite-renaissance-of-egypt.md",
       "slug": "saite-renaissance-of-egypt",
       "title": "The Saite Renaissance of Egypt",
@@ -42143,6 +44361,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-04-munich-agreement-chamberlain-september-1938.md"
     },
     {
+      "filename": "2006-10-05-ap-class-difficulty-tier-list.md",
+      "slug": "ap-class-difficulty-tier-list",
+      "title": "AP Class Difficulty Tier List",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12157,
+      "topWord": "course",
+      "topCount": 169,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-05-ap-class-difficulty-tier-list.md"
+    },
+    {
       "filename": "2006-10-08-august-8-1974-nixon-decides-to-resign.md",
       "slug": "august-8-1974-nixon-decides-to-resign",
       "title": "August 8 1974: Inside the White House as Nixon Resigns",
@@ -42159,6 +44395,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-08-august-8-1974-nixon-decides-to-resign.md"
+    },
+    {
+      "filename": "2006-10-09-ap-exam-day-mistakes.md",
+      "slug": "ap-exam-day-mistakes",
+      "title": "AP Exam Day Mistakes That Cost Points",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10647,
+      "topWord": "student",
+      "topCount": 151,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-09-ap-exam-day-mistakes.md"
     },
     {
       "filename": "2006-10-09-midway-nimitz-carrier-commitment-june-1942.md",
@@ -42373,6 +44627,24 @@
       ]
     },
     {
+      "filename": "2006-10-14-ap-burnout-stress-management.md",
+      "slug": "ap-burnout-stress-management",
+      "title": "AP Burnout: Managing Stress",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10657,
+      "topWord": "student",
+      "topCount": 175,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-14-ap-burnout-stress-management.md"
+    },
+    {
       "filename": "2006-10-15-dunkirk-ramsay-operation-dynamo-may-1940.md",
       "slug": "dunkirk-ramsay-operation-dynamo-may-1940",
       "title": "Dunkirk: Ramsay's Operation Dynamo May 1940",
@@ -42389,6 +44661,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-15-dunkirk-ramsay-operation-dynamo-may-1940.md"
+    },
+    {
+      "filename": "2006-10-18-most-underrated-ap-classes.md",
+      "slug": "most-underrated-ap-classes",
+      "title": "Most Underrated AP Classes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 12088,
+      "topWord": "course",
+      "topCount": 280,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-18-most-underrated-ap-classes.md",
+      "flaggedWords": [
+        {
+          "word": "course",
+          "count": 280
+        }
+      ],
+      "top20": [
+        {
+          "word": "course",
+          "count": 280
+        },
+        {
+          "word": "courses",
+          "count": 224
+        },
+        {
+          "word": "students",
+          "count": 207
+        },
+        {
+          "word": "student",
+          "count": 169
+        },
+        {
+          "word": "credit",
+          "count": 131
+        },
+        {
+          "word": "quiet",
+          "count": 128
+        },
+        {
+          "word": "ap",
+          "count": 124
+        },
+        {
+          "word": "science",
+          "count": 116
+        },
+        {
+          "word": "underrated",
+          "count": 77
+        },
+        {
+          "word": "psychology",
+          "count": 76
+        },
+        {
+          "word": "famous",
+          "count": 71
+        },
+        {
+          "word": "value",
+          "count": 67
+        },
+        {
+          "word": "college",
+          "count": 66
+        },
+        {
+          "word": "statistics",
+          "count": 66
+        },
+        {
+          "word": "school",
+          "count": 64
+        },
+        {
+          "word": "exam",
+          "count": 59
+        },
+        {
+          "word": "colleges",
+          "count": 58
+        },
+        {
+          "word": "geography",
+          "count": 55
+        },
+        {
+          "word": "catalog",
+          "count": 50
+        },
+        {
+          "word": "environmental",
+          "count": 45
+        }
+      ]
     },
     {
       "filename": "2006-10-19-truman-vs-eisenhower-containment.md",
@@ -42603,6 +44981,24 @@
       ]
     },
     {
+      "filename": "2006-10-23-ap-study-resources-ranked.md",
+      "slug": "ap-study-resources-ranked",
+      "title": "AP Study Resources Ranked",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11583,
+      "topWord": "student",
+      "topCount": 151,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-23-ap-study-resources-ranked.md"
+    },
+    {
       "filename": "2006-10-24-jackson-vs-jefferson-democrat-founders.md",
       "slug": "jackson-vs-jefferson-democrat-founders",
       "title": "Jackson vs Jefferson: Two Founders of the Same Party",
@@ -42637,6 +45033,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-26-truman-atomic-bomb-decision-july-1945.md"
+    },
+    {
+      "filename": "2006-10-27-ap-multiple-choice-strategies-all-subjects.md",
+      "slug": "ap-multiple-choice-strategies-all-subjects",
+      "title": "AP Multiple Choice Strategies for Every Subject",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10323,
+      "topWord": "question",
+      "topCount": 128,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-27-ap-multiple-choice-strategies-all-subjects.md"
     },
     {
       "filename": "2006-10-30-tr-vs-lbj-domestic-reformers.md",
@@ -42765,6 +45179,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-10-31-hitler-declares-war-on-us-december-1941.md"
+    },
+    {
+      "filename": "2006-11-01-ap-free-response-strategies-all-subjects.md",
+      "slug": "ap-free-response-strategies-all-subjects",
+      "title": "AP Free Response Strategies for Every Subject",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10696,
+      "topWord": "answer",
+      "topCount": 134,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-01-ap-free-response-strategies-all-subjects.md"
     },
     {
       "filename": "2006-11-01-how-persia-conquered-egypt.md",
@@ -42979,6 +45411,24 @@
       ]
     },
     {
+      "filename": "2006-11-05-ap-exam-timeline-month-by-month.md",
+      "slug": "ap-exam-timeline-month-by-month",
+      "title": "The AP Exam Timeline: Month by Month",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11027,
+      "topWord": "students",
+      "topCount": 202,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-05-ap-exam-timeline-month-by-month.md"
+    },
+    {
       "filename": "2006-11-06-churchill-becomes-pm-may-10-1940.md",
       "slug": "churchill-becomes-pm-may-10-1940",
       "title": "Churchill Becomes PM: May 10 1940 War Cabinet",
@@ -43081,6 +45531,116 @@
         {
           "word": "coalition",
           "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2006-11-10-ap-exam-cancellation-and-withholding.md",
+      "slug": "ap-exam-cancellation-and-withholding",
+      "title": "AP Exam Cancellation and Score Withholding",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10297,
+      "topWord": "score",
+      "topCount": 251,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-10-ap-exam-cancellation-and-withholding.md",
+      "flaggedWords": [
+        {
+          "word": "score",
+          "count": 251
+        },
+        {
+          "word": "college",
+          "count": 207
+        }
+      ],
+      "top20": [
+        {
+          "word": "score",
+          "count": 251
+        },
+        {
+          "word": "college",
+          "count": 207
+        },
+        {
+          "word": "record",
+          "count": 149
+        },
+        {
+          "word": "students",
+          "count": 138
+        },
+        {
+          "word": "withholding",
+          "count": 107
+        },
+        {
+          "word": "student",
+          "count": 103
+        },
+        {
+          "word": "cancellation",
+          "count": 97
+        },
+        {
+          "word": "report",
+          "count": 78
+        },
+        {
+          "word": "ap",
+          "count": 77
+        },
+        {
+          "word": "board",
+          "count": 74
+        },
+        {
+          "word": "scores",
+          "count": 72
+        },
+        {
+          "word": "credit",
+          "count": 71
+        },
+        {
+          "word": "exam",
+          "count": 59
+        },
+        {
+          "word": "decision",
+          "count": 51
+        },
+        {
+          "word": "result",
+          "count": 46
+        },
+        {
+          "word": "audience",
+          "count": 44
+        },
+        {
+          "word": "colleges",
+          "count": 43
+        },
+        {
+          "word": "school",
+          "count": 43
+        },
+        {
+          "word": "file",
+          "count": 43
+        },
+        {
+          "word": "request",
+          "count": 42
         }
       ]
     },
@@ -43213,6 +45773,120 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-11-fall-of-france-manstein-sickle-cut-may-1940.md"
     },
     {
+      "filename": "2006-11-14-ap-vs-honors-classes.md",
+      "slug": "ap-vs-honors-classes",
+      "title": "AP vs Honors Classes",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10502,
+      "topWord": "ap",
+      "topCount": 320,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-14-ap-vs-honors-classes.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 320
+        },
+        {
+          "word": "honors",
+          "count": 302
+        },
+        {
+          "word": "student",
+          "count": 246
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 320
+        },
+        {
+          "word": "honors",
+          "count": 302
+        },
+        {
+          "word": "student",
+          "count": 246
+        },
+        {
+          "word": "course",
+          "count": 165
+        },
+        {
+          "word": "school",
+          "count": 151
+        },
+        {
+          "word": "courses",
+          "count": 141
+        },
+        {
+          "word": "students",
+          "count": 111
+        },
+        {
+          "word": "subject",
+          "count": 69
+        },
+        {
+          "word": "level",
+          "count": 66
+        },
+        {
+          "word": "exam",
+          "count": 63
+        },
+        {
+          "word": "teacher",
+          "count": 62
+        },
+        {
+          "word": "colleges",
+          "count": 60
+        },
+        {
+          "word": "grades",
+          "count": 60
+        },
+        {
+          "word": "grade",
+          "count": 58
+        },
+        {
+          "word": "family",
+          "count": 53
+        },
+        {
+          "word": "families",
+          "count": 47
+        },
+        {
+          "word": "transcript",
+          "count": 43
+        },
+        {
+          "word": "schools",
+          "count": 43
+        },
+        {
+          "word": "rigor",
+          "count": 42
+        },
+        {
+          "word": "college",
+          "count": 40
+        }
+      ]
+    },
+    {
       "filename": "2006-11-15-state-of-the-union-letter-to-television.md",
       "slug": "state-of-the-union-letter-to-television",
       "title": "The State of the Union: From Letter to TV Spectacle",
@@ -43247,6 +45921,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-17-barbarossa-hitler-june-22-1941-invasion.md"
+    },
+    {
+      "filename": "2006-11-19-ap-classes-that-save-college-money.md",
+      "slug": "ap-classes-that-save-college-money",
+      "title": "AP Classes That Save the Most College Money",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10932,
+      "topWord": "credit",
+      "topCount": 308,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-19-ap-classes-that-save-college-money.md",
+      "flaggedWords": [
+        {
+          "word": "credit",
+          "count": 308
+        }
+      ],
+      "top20": [
+        {
+          "word": "credit",
+          "count": 308
+        },
+        {
+          "word": "student",
+          "count": 206
+        },
+        {
+          "word": "course",
+          "count": 161
+        },
+        {
+          "word": "college",
+          "count": 154
+        },
+        {
+          "word": "hours",
+          "count": 145
+        },
+        {
+          "word": "ap",
+          "count": 137
+        },
+        {
+          "word": "degree",
+          "count": 118
+        },
+        {
+          "word": "term",
+          "count": 100
+        },
+        {
+          "word": "courses",
+          "count": 98
+        },
+        {
+          "word": "plan",
+          "count": 97
+        },
+        {
+          "word": "exams",
+          "count": 96
+        },
+        {
+          "word": "score",
+          "count": 88
+        },
+        {
+          "word": "colleges",
+          "count": 75
+        },
+        {
+          "word": "exam",
+          "count": 69
+        },
+        {
+          "word": "sequence",
+          "count": 68
+        },
+        {
+          "word": "chart",
+          "count": 63
+        },
+        {
+          "word": "language",
+          "count": 61
+        },
+        {
+          "word": "money",
+          "count": 59
+        },
+        {
+          "word": "students",
+          "count": 58
+        },
+        {
+          "word": "family",
+          "count": 54
+        }
+      ]
     },
     {
       "filename": "2006-11-21-chief-of-staff-history-since-1946.md",
@@ -43381,6 +46161,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-22-pearl-harbor-yamamoto-december-1941-decision.md"
     },
     {
+      "filename": "2006-11-23-ap-exam-accommodations.md",
+      "slug": "ap-exam-accommodations",
+      "title": "AP Exam Accommodations: Extended Time, 504, IEP",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10401,
+      "topWord": "student",
+      "topCount": 207,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-23-ap-exam-accommodations.md"
+    },
+    {
       "filename": "2006-11-26-cabinet-evolution-four-to-fifteen.md",
       "slug": "cabinet-evolution-four-to-fifteen",
       "title": "The Cabinet: From Washington's Four to Modern 15",
@@ -43487,6 +46285,112 @@
         {
           "word": "single",
           "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2006-11-28-ap-summer-study-guide.md",
+      "slug": "ap-summer-study-guide",
+      "title": "AP Summer Study Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10814,
+      "topWord": "summer",
+      "topCount": 302,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-28-ap-summer-study-guide.md",
+      "flaggedWords": [
+        {
+          "word": "summer",
+          "count": 302
+        }
+      ],
+      "top20": [
+        {
+          "word": "summer",
+          "count": 302
+        },
+        {
+          "word": "student",
+          "count": 168
+        },
+        {
+          "word": "plan",
+          "count": 145
+        },
+        {
+          "word": "study",
+          "count": 123
+        },
+        {
+          "word": "self",
+          "count": 103
+        },
+        {
+          "word": "week",
+          "count": 88
+        },
+        {
+          "word": "hours",
+          "count": 79
+        },
+        {
+          "word": "course",
+          "count": 77
+        },
+        {
+          "word": "school",
+          "count": 72
+        },
+        {
+          "word": "students",
+          "count": 69
+        },
+        {
+          "word": "ap",
+          "count": 58
+        },
+        {
+          "word": "sessions",
+          "count": 58
+        },
+        {
+          "word": "material",
+          "count": 56
+        },
+        {
+          "word": "exam",
+          "count": 54
+        },
+        {
+          "word": "questions",
+          "count": 52
+        },
+        {
+          "word": "session",
+          "count": 51
+        },
+        {
+          "word": "rhythm",
+          "count": 51
+        },
+        {
+          "word": "weeks",
+          "count": 48
+        },
+        {
+          "word": "test",
+          "count": 44
+        },
+        {
+          "word": "second",
+          "count": 41
         }
       ]
     },
@@ -43615,6 +46519,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-01-last-native-pharaohs-of-egypt.md"
     },
     {
+      "filename": "2006-12-02-ap-for-homeschooled-students.md",
+      "slug": "ap-for-homeschooled-students",
+      "title": "AP for Homeschooled Students",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10720,
+      "topWord": "exam",
+      "topCount": 206,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-02-ap-for-homeschooled-students.md"
+    },
+    {
       "filename": "2006-12-02-veto-message-weapon-jackson-modern.md",
       "slug": "veto-message-weapon-jackson-modern",
       "title": "The Veto Message: From Jackson's Bank to Modern Use",
@@ -43719,6 +46641,24 @@
           "count": 30
         }
       ]
+    },
+    {
+      "filename": "2006-12-07-ap-classes-and-scholarships.md",
+      "slug": "ap-classes-and-scholarships",
+      "title": "AP Classes and Scholarships",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11790,
+      "topWord": "student",
+      "topCount": 229,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-07-ap-classes-and-scholarships.md"
     },
     {
       "filename": "2006-12-07-presidential-pardon-two-centuries.md",
@@ -43827,6 +46767,116 @@
       ]
     },
     {
+      "filename": "2006-12-11-best-ap-course-load-by-grade.md",
+      "slug": "best-ap-course-load-by-grade",
+      "title": "Best AP Course Load by Grade",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10593,
+      "topWord": "ap",
+      "topCount": 258,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-11-best-ap-course-load-by-grade.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 258
+        },
+        {
+          "word": "student",
+          "count": 253
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 258
+        },
+        {
+          "word": "student",
+          "count": 253
+        },
+        {
+          "word": "course",
+          "count": 200
+        },
+        {
+          "word": "courses",
+          "count": 166
+        },
+        {
+          "word": "load",
+          "count": 115
+        },
+        {
+          "word": "students",
+          "count": 106
+        },
+        {
+          "word": "school",
+          "count": 90
+        },
+        {
+          "word": "grade",
+          "count": 80
+        },
+        {
+          "word": "plan",
+          "count": 66
+        },
+        {
+          "word": "grades",
+          "count": 61
+        },
+        {
+          "word": "senior",
+          "count": 60
+        },
+        {
+          "word": "schedule",
+          "count": 56
+        },
+        {
+          "word": "roadmap",
+          "count": 56
+        },
+        {
+          "word": "reading",
+          "count": 56
+        },
+        {
+          "word": "families",
+          "count": 55
+        },
+        {
+          "word": "four",
+          "count": 53
+        },
+        {
+          "word": "junior",
+          "count": 51
+        },
+        {
+          "word": "language",
+          "count": 44
+        },
+        {
+          "word": "heavy",
+          "count": 40
+        },
+        {
+          "word": "planning",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2006-12-13-executive-order-washington-to-clinton.md",
       "slug": "executive-order-washington-to-clinton",
       "title": "The Executive Order: Washington to Clinton",
@@ -43845,6 +46895,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-13-executive-order-washington-to-clinton.md"
     },
     {
+      "filename": "2006-12-16-ap-capstone-diploma-worth-it.md",
+      "slug": "ap-capstone-diploma-worth-it",
+      "title": "AP Capstone Diploma: Is It Worth It",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10698,
+      "topWord": "student",
+      "topCount": 232,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-16-ap-capstone-diploma-worth-it.md",
+      "flaggedWords": [
+        {
+          "word": "student",
+          "count": 232
+        },
+        {
+          "word": "research",
+          "count": 216
+        }
+      ],
+      "top20": [
+        {
+          "word": "student",
+          "count": 232
+        },
+        {
+          "word": "research",
+          "count": 216
+        },
+        {
+          "word": "students",
+          "count": 161
+        },
+        {
+          "word": "diploma",
+          "count": 151
+        },
+        {
+          "word": "seminar",
+          "count": 125
+        },
+        {
+          "word": "ap",
+          "count": 117
+        },
+        {
+          "word": "courses",
+          "count": 117
+        },
+        {
+          "word": "subject",
+          "count": 103
+        },
+        {
+          "word": "program",
+          "count": 97
+        },
+        {
+          "word": "four",
+          "count": 92
+        },
+        {
+          "word": "school",
+          "count": 89
+        },
+        {
+          "word": "capstone",
+          "count": 89
+        },
+        {
+          "word": "scores",
+          "count": 87
+        },
+        {
+          "word": "award",
+          "count": 83
+        },
+        {
+          "word": "course",
+          "count": 76
+        },
+        {
+          "word": "exams",
+          "count": 67
+        },
+        {
+          "word": "score",
+          "count": 63
+        },
+        {
+          "word": "families",
+          "count": 62
+        },
+        {
+          "word": "credential",
+          "count": 51
+        },
+        {
+          "word": "college",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2006-12-18-lbj-we-shall-overcome-1965.md",
       "slug": "lbj-we-shall-overcome-1965",
       "title": "LBJ's We Shall Overcome: The March 1965 Speech",
@@ -43861,6 +47021,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-18-lbj-we-shall-overcome-1965.md"
+    },
+    {
+      "filename": "2006-12-20-ap-credit-at-state-universities.md",
+      "slug": "ap-credit-at-state-universities",
+      "title": "AP Credit at State Universities",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10930,
+      "topWord": "credit",
+      "topCount": 261,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-20-ap-credit-at-state-universities.md",
+      "flaggedWords": [
+        {
+          "word": "credit",
+          "count": 261
+        }
+      ],
+      "top20": [
+        {
+          "word": "credit",
+          "count": 261
+        },
+        {
+          "word": "student",
+          "count": 177
+        },
+        {
+          "word": "campus",
+          "count": 170
+        },
+        {
+          "word": "hours",
+          "count": 149
+        },
+        {
+          "word": "ap",
+          "count": 133
+        },
+        {
+          "word": "course",
+          "count": 118
+        },
+        {
+          "word": "table",
+          "count": 109
+        },
+        {
+          "word": "students",
+          "count": 106
+        },
+        {
+          "word": "score",
+          "count": 90
+        },
+        {
+          "word": "degree",
+          "count": 81
+        },
+        {
+          "word": "campuses",
+          "count": 73
+        },
+        {
+          "word": "public",
+          "count": 70
+        },
+        {
+          "word": "scores",
+          "count": 68
+        },
+        {
+          "word": "college",
+          "count": 60
+        },
+        {
+          "word": "tables",
+          "count": 59
+        },
+        {
+          "word": "award",
+          "count": 55
+        },
+        {
+          "word": "placement",
+          "count": 53
+        },
+        {
+          "word": "department",
+          "count": 53
+        },
+        {
+          "word": "courses",
+          "count": 52
+        },
+        {
+          "word": "policy",
+          "count": 51
+        }
+      ]
     },
     {
       "filename": "2006-12-24-carter-malaise-speech-1979.md",
@@ -43969,6 +47235,130 @@
         {
           "word": "national",
           "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2006-12-25-how-ivy-league-views-ap-exams.md",
+      "slug": "how-ivy-league-views-ap-exams",
+      "title": "How Ivy League Schools View AP Exams",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11089,
+      "topWord": "ap",
+      "topCount": 208,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-25-how-ivy-league-views-ap-exams.md"
+    },
+    {
+      "filename": "2006-12-29-ap-scores-on-the-common-app.md",
+      "slug": "ap-scores-on-the-common-app",
+      "title": "AP Exam Scores on the Common App",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10457,
+      "topWord": "college",
+      "topCount": 213,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-12-29-ap-scores-on-the-common-app.md",
+      "flaggedWords": [
+        {
+          "word": "college",
+          "count": 213
+        }
+      ],
+      "top20": [
+        {
+          "word": "college",
+          "count": 213
+        },
+        {
+          "word": "student",
+          "count": 176
+        },
+        {
+          "word": "score",
+          "count": 157
+        },
+        {
+          "word": "scores",
+          "count": 157
+        },
+        {
+          "word": "grid",
+          "count": 156
+        },
+        {
+          "word": "ap",
+          "count": 132
+        },
+        {
+          "word": "record",
+          "count": 109
+        },
+        {
+          "word": "application",
+          "count": 86
+        },
+        {
+          "word": "credit",
+          "count": 85
+        },
+        {
+          "word": "students",
+          "count": 82
+        },
+        {
+          "word": "report",
+          "count": 81
+        },
+        {
+          "word": "colleges",
+          "count": 77
+        },
+        {
+          "word": "official",
+          "count": 76
+        },
+        {
+          "word": "admission",
+          "count": 71
+        },
+        {
+          "word": "reporting",
+          "count": 70
+        },
+        {
+          "word": "exam",
+          "count": 68
+        },
+        {
+          "word": "file",
+          "count": 62
+        },
+        {
+          "word": "school",
+          "count": 61
+        },
+        {
+          "word": "results",
+          "count": 60
+        },
+        {
+          "word": "self",
+          "count": 53
         }
       ]
     },
@@ -44189,6 +47579,24 @@
       ]
     },
     {
+      "filename": "2007-01-03-ap-weighted-gpa-explained.md",
+      "slug": "ap-weighted-gpa-explained",
+      "title": "AP Weighted GPA Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10823,
+      "topWord": "course",
+      "topCount": 193,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-03-ap-weighted-gpa-explained.md"
+    },
+    {
       "filename": "2007-01-04-reagan-brandenburg-tear-down-wall.md",
       "slug": "reagan-brandenburg-tear-down-wall",
       "title": "Reagan at Brandenburg: The Line They Tried to Cut",
@@ -44295,6 +47703,112 @@
       ]
     },
     {
+      "filename": "2007-01-07-ap-classes-and-college-admissions.md",
+      "slug": "ap-classes-and-college-admissions",
+      "title": "AP Classes and College Admissions",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10824,
+      "topWord": "student",
+      "topCount": 225,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-07-ap-classes-and-college-admissions.md",
+      "flaggedWords": [
+        {
+          "word": "student",
+          "count": 225
+        }
+      ],
+      "top20": [
+        {
+          "word": "student",
+          "count": 225
+        },
+        {
+          "word": "ap",
+          "count": 172
+        },
+        {
+          "word": "school",
+          "count": 117
+        },
+        {
+          "word": "course",
+          "count": 116
+        },
+        {
+          "word": "record",
+          "count": 113
+        },
+        {
+          "word": "courses",
+          "count": 110
+        },
+        {
+          "word": "grades",
+          "count": 108
+        },
+        {
+          "word": "readers",
+          "count": 106
+        },
+        {
+          "word": "transcript",
+          "count": 86
+        },
+        {
+          "word": "students",
+          "count": 85
+        },
+        {
+          "word": "college",
+          "count": 84
+        },
+        {
+          "word": "families",
+          "count": 75
+        },
+        {
+          "word": "admissions",
+          "count": 74
+        },
+        {
+          "word": "file",
+          "count": 63
+        },
+        {
+          "word": "colleges",
+          "count": 63
+        },
+        {
+          "word": "rigor",
+          "count": 60
+        },
+        {
+          "word": "schedule",
+          "count": 55
+        },
+        {
+          "word": "evidence",
+          "count": 51
+        },
+        {
+          "word": "senior",
+          "count": 50
+        },
+        {
+          "word": "advanced",
+          "count": 49
+        }
+      ]
+    },
+    {
       "filename": "2007-01-09-jfk-inaugural-ask-not-sentences.md",
       "slug": "jfk-inaugural-ask-not-sentences",
       "title": "JFK's Inaugural: Ask Not and the Ten Sentences",
@@ -44311,6 +47825,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-09-jfk-inaugural-ask-not-sentences.md"
+    },
+    {
+      "filename": "2007-01-12-ap-exams-vs-a-levels.md",
+      "slug": "ap-exams-vs-a-levels",
+      "title": "AP Exams vs A-Levels",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10793,
+      "topWord": "ap",
+      "topCount": 222,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-12-ap-exams-vs-a-levels.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 222
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 222
+        },
+        {
+          "word": "student",
+          "count": 162
+        },
+        {
+          "word": "level",
+          "count": 151
+        },
+        {
+          "word": "students",
+          "count": 142
+        },
+        {
+          "word": "american",
+          "count": 101
+        },
+        {
+          "word": "subject",
+          "count": 95
+        },
+        {
+          "word": "school",
+          "count": 90
+        },
+        {
+          "word": "levels",
+          "count": 81
+        },
+        {
+          "word": "british",
+          "count": 81
+        },
+        {
+          "word": "subjects",
+          "count": 70
+        },
+        {
+          "word": "grades",
+          "count": 68
+        },
+        {
+          "word": "universities",
+          "count": 68
+        },
+        {
+          "word": "examination",
+          "count": 61
+        },
+        {
+          "word": "courses",
+          "count": 59
+        },
+        {
+          "word": "depth",
+          "count": 55
+        },
+        {
+          "word": "systems",
+          "count": 55
+        },
+        {
+          "word": "course",
+          "count": 54
+        },
+        {
+          "word": "qualification",
+          "count": 48
+        },
+        {
+          "word": "single",
+          "count": 47
+        },
+        {
+          "word": "final",
+          "count": 44
+        }
+      ]
     },
     {
       "filename": "2007-01-15-eisenhower-farewell-military-industrial.md",
@@ -44415,6 +48035,116 @@
         {
           "word": "industrial",
           "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2007-01-16-ap-exams-vs-gaokao.md",
+      "slug": "ap-exams-vs-gaokao",
+      "title": "AP Exams vs Gaokao",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10890,
+      "topWord": "ap",
+      "topCount": 236,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-16-ap-exams-vs-gaokao.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 236
+        },
+        {
+          "word": "gaokao",
+          "count": 224
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 236
+        },
+        {
+          "word": "gaokao",
+          "count": 224
+        },
+        {
+          "word": "student",
+          "count": 140
+        },
+        {
+          "word": "students",
+          "count": 125
+        },
+        {
+          "word": "examination",
+          "count": 120
+        },
+        {
+          "word": "score",
+          "count": 98
+        },
+        {
+          "word": "school",
+          "count": 83
+        },
+        {
+          "word": "chinese",
+          "count": 80
+        },
+        {
+          "word": "subject",
+          "count": 76
+        },
+        {
+          "word": "examinations",
+          "count": 76
+        },
+        {
+          "word": "universities",
+          "count": 73
+        },
+        {
+          "word": "systems",
+          "count": 60
+        },
+        {
+          "word": "single",
+          "count": 55
+        },
+        {
+          "word": "university",
+          "count": 54
+        },
+        {
+          "word": "provincial",
+          "count": 54
+        },
+        {
+          "word": "admission",
+          "count": 53
+        },
+        {
+          "word": "scores",
+          "count": 53
+        },
+        {
+          "word": "american",
+          "count": 51
+        },
+        {
+          "word": "language",
+          "count": 48
+        },
+        {
+          "word": "preparation",
+          "count": 44
         }
       ]
     },
@@ -44525,6 +48255,218 @@
       ]
     },
     {
+      "filename": "2007-01-21-ap-exams-vs-gcses.md",
+      "slug": "ap-exams-vs-gcses",
+      "title": "AP Exams vs GCSEs",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11218,
+      "topWord": "ap",
+      "topCount": 271,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-21-ap-exams-vs-gcses.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 271
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 271
+        },
+        {
+          "word": "student",
+          "count": 185
+        },
+        {
+          "word": "gcse",
+          "count": 176
+        },
+        {
+          "word": "school",
+          "count": 104
+        },
+        {
+          "word": "american",
+          "count": 92
+        },
+        {
+          "word": "students",
+          "count": 92
+        },
+        {
+          "word": "gcses",
+          "count": 90
+        },
+        {
+          "word": "subject",
+          "count": 80
+        },
+        {
+          "word": "grade",
+          "count": 75
+        },
+        {
+          "word": "subjects",
+          "count": 65
+        },
+        {
+          "word": "systems",
+          "count": 64
+        },
+        {
+          "word": "university",
+          "count": 63
+        },
+        {
+          "word": "english",
+          "count": 63
+        },
+        {
+          "word": "credential",
+          "count": 58
+        },
+        {
+          "word": "examination",
+          "count": 56
+        },
+        {
+          "word": "scores",
+          "count": 56
+        },
+        {
+          "word": "grades",
+          "count": 52
+        },
+        {
+          "word": "exams",
+          "count": 51
+        },
+        {
+          "word": "course",
+          "count": 51
+        },
+        {
+          "word": "british",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "filename": "2007-01-25-ap-vs-sat.md",
+      "slug": "ap-vs-sat",
+      "title": "AP vs SAT",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10891,
+      "topWord": "ap",
+      "topCount": 218,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-25-ap-vs-sat.md",
+      "flaggedWords": [
+        {
+          "word": "ap",
+          "count": 218
+        }
+      ],
+      "top20": [
+        {
+          "word": "ap",
+          "count": 218
+        },
+        {
+          "word": "sat",
+          "count": 181
+        },
+        {
+          "word": "student",
+          "count": 148
+        },
+        {
+          "word": "test",
+          "count": 139
+        },
+        {
+          "word": "students",
+          "count": 125
+        },
+        {
+          "word": "subject",
+          "count": 121
+        },
+        {
+          "word": "score",
+          "count": 102
+        },
+        {
+          "word": "admissions",
+          "count": 97
+        },
+        {
+          "word": "college",
+          "count": 88
+        },
+        {
+          "word": "school",
+          "count": 83
+        },
+        {
+          "word": "scores",
+          "count": 80
+        },
+        {
+          "word": "tests",
+          "count": 74
+        },
+        {
+          "word": "examination",
+          "count": 69
+        },
+        {
+          "word": "comparison",
+          "count": 63
+        },
+        {
+          "word": "course",
+          "count": 60
+        },
+        {
+          "word": "credit",
+          "count": 53
+        },
+        {
+          "word": "colleges",
+          "count": 50
+        },
+        {
+          "word": "examinations",
+          "count": 49
+        },
+        {
+          "word": "record",
+          "count": 49
+        },
+        {
+          "word": "subjects",
+          "count": 47
+        }
+      ]
+    },
+    {
       "filename": "2007-01-26-fdr-day-of-infamy-draft-edits.md",
       "slug": "fdr-day-of-infamy-draft-edits",
       "title": "FDR's Day of Infamy: The Draft Edits",
@@ -44629,6 +48571,24 @@
           "count": 28
         }
       ]
+    },
+    {
+      "filename": "2007-01-30-ap-research-complete-guide.md",
+      "slug": "ap-research-complete-guide",
+      "title": "AP Research Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10961,
+      "topWord": "student",
+      "topCount": 172,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-01-30-ap-research-complete-guide.md"
     },
     {
       "filename": "2007-01-31-fdr-first-inaugural-fear-itself.md",
@@ -44755,6 +48715,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-01-naucratis-egypt-greece-trade.md"
     },
     {
+      "filename": "2007-02-03-ap-seminar-complete-guide.md",
+      "slug": "ap-seminar-complete-guide",
+      "title": "AP Seminar Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10805,
+      "topWord": "students",
+      "topCount": 172,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-03-ap-seminar-complete-guide.md"
+    },
+    {
       "filename": "2007-02-06-wilson-fourteen-points-january-1918.md",
       "slug": "wilson-fourteen-points-january-1918",
       "title": "Wilson's 14 Points: The January 1918 Template",
@@ -44857,6 +48835,112 @@
         {
           "word": "failed",
           "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2007-02-08-ap-african-american-studies-guide.md",
+      "slug": "ap-african-american-studies-guide",
+      "title": "AP African American Studies Complete Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11230,
+      "topWord": "course",
+      "topCount": 230,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-08-ap-african-american-studies-guide.md",
+      "flaggedWords": [
+        {
+          "word": "course",
+          "count": 230
+        }
+      ],
+      "top20": [
+        {
+          "word": "course",
+          "count": 230
+        },
+        {
+          "word": "students",
+          "count": 173
+        },
+        {
+          "word": "student",
+          "count": 85
+        },
+        {
+          "word": "exam",
+          "count": 84
+        },
+        {
+          "word": "evidence",
+          "count": 81
+        },
+        {
+          "word": "project",
+          "count": 81
+        },
+        {
+          "word": "black",
+          "count": 78
+        },
+        {
+          "word": "african",
+          "count": 66
+        },
+        {
+          "word": "question",
+          "count": 62
+        },
+        {
+          "word": "questions",
+          "count": 61
+        },
+        {
+          "word": "sources",
+          "count": 59
+        },
+        {
+          "word": "source",
+          "count": 58
+        },
+        {
+          "word": "american",
+          "count": 57
+        },
+        {
+          "word": "ap",
+          "count": 56
+        },
+        {
+          "word": "unit",
+          "count": 56
+        },
+        {
+          "word": "studies",
+          "count": 48
+        },
+        {
+          "word": "reading",
+          "count": 47
+        },
+        {
+          "word": "single",
+          "count": 42
+        },
+        {
+          "word": "argument",
+          "count": 41
+        },
+        {
+          "word": "data",
+          "count": 39
         }
       ]
     },
@@ -44965,6 +49049,42 @@
           "count": 32
         }
       ]
+    },
+    {
+      "filename": "2007-02-12-how-to-get-a-5-on-ap-economics.md",
+      "slug": "how-to-get-a-5-on-ap-economics",
+      "title": "How to Get a 5 on AP Economics",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11221,
+      "topWord": "price",
+      "topCount": 100,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-12-how-to-get-a-5-on-ap-economics.md"
+    },
+    {
+      "filename": "2007-02-17-how-to-get-a-5-on-ap-us-government.md",
+      "slug": "how-to-get-a-5-on-ap-us-government",
+      "title": "How to Get a 5 on AP US Government",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11355,
+      "topWord": "exam",
+      "topCount": 92,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-02-17-how-to-get-a-5-on-ap-us-government.md"
     },
     {
       "filename": "2007-02-17-lincoln-second-inaugural-703-words.md",
@@ -76205,6 +80325,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-01-social-security-amendments-1965-medicare.md"
     },
     {
+      "filename": "2010-11-01-surplus-value-complete-guide.md",
+      "slug": "surplus-value-complete-guide",
+      "title": "Surplus Value: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10469,
+      "topWord": "surplus",
+      "topCount": 221,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-01-surplus-value-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "surplus",
+          "count": 221
+        },
+        {
+          "word": "labour",
+          "count": 218
+        }
+      ],
+      "top20": [
+        {
+          "word": "surplus",
+          "count": 221
+        },
+        {
+          "word": "labour",
+          "count": 218
+        },
+        {
+          "word": "value",
+          "count": 204
+        },
+        {
+          "word": "wage",
+          "count": 109
+        },
+        {
+          "word": "marx",
+          "count": 96
+        },
+        {
+          "word": "theory",
+          "count": 83
+        },
+        {
+          "word": "capital",
+          "count": 66
+        },
+        {
+          "word": "worker",
+          "count": 60
+        },
+        {
+          "word": "capacity",
+          "count": 60
+        },
+        {
+          "word": "rate",
+          "count": 51
+        },
+        {
+          "word": "hours",
+          "count": 50
+        },
+        {
+          "word": "hour",
+          "count": 49
+        },
+        {
+          "word": "working",
+          "count": 45
+        },
+        {
+          "word": "wages",
+          "count": 44
+        },
+        {
+          "word": "chapter",
+          "count": 43
+        },
+        {
+          "word": "production",
+          "count": 41
+        },
+        {
+          "word": "necessary",
+          "count": 41
+        },
+        {
+          "word": "profit",
+          "count": 36
+        },
+        {
+          "word": "workers",
+          "count": 36
+        },
+        {
+          "word": "power",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2010-11-02-a-story-between-tcs-and-infosys.md",
       "slug": "a-story-between-tcs-and-infosys",
       "title": "TCS vs Infosys - Complete Comparison",
@@ -76527,6 +80757,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-12-top-popular-extensions-for-google-chrome.md"
+    },
+    {
+      "filename": "2010-11-15-absolute-and-relative-surplus-value.md",
+      "slug": "absolute-and-relative-surplus-value",
+      "title": "Absolute and Relative Surplus Value",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10876,
+      "topWord": "labour",
+      "topCount": 254,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-15-absolute-and-relative-surplus-value.md",
+      "flaggedWords": [
+        {
+          "word": "labour",
+          "count": 254
+        }
+      ],
+      "top20": [
+        {
+          "word": "labour",
+          "count": 254
+        },
+        {
+          "word": "value",
+          "count": 195
+        },
+        {
+          "word": "surplus",
+          "count": 171
+        },
+        {
+          "word": "hours",
+          "count": 113
+        },
+        {
+          "word": "relative",
+          "count": 106
+        },
+        {
+          "word": "wage",
+          "count": 99
+        },
+        {
+          "word": "basket",
+          "count": 82
+        },
+        {
+          "word": "necessary",
+          "count": 80
+        },
+        {
+          "word": "productivity",
+          "count": 80
+        },
+        {
+          "word": "marx",
+          "count": 76
+        },
+        {
+          "word": "power",
+          "count": 65
+        },
+        {
+          "word": "working",
+          "count": 64
+        },
+        {
+          "word": "absolute",
+          "count": 61
+        },
+        {
+          "word": "hour",
+          "count": 59
+        },
+        {
+          "word": "premium",
+          "count": 53
+        },
+        {
+          "word": "workers",
+          "count": 50
+        },
+        {
+          "word": "prolongation",
+          "count": 48
+        },
+        {
+          "word": "worker",
+          "count": 45
+        },
+        {
+          "word": "machinery",
+          "count": 44
+        },
+        {
+          "word": "goods",
+          "count": 42
+        }
+      ]
     },
     {
       "filename": "2010-11-15-citizen-kane-death-snow-globe-scene.md",
@@ -77233,6 +81569,112 @@
         {
           "word": "burden",
           "count": 41
+        }
+      ]
+    },
+    {
+      "filename": "2010-12-01-marxist-theory-of-exploitation.md",
+      "slug": "marxist-theory-of-exploitation",
+      "title": "Exploitation in Marxist Theory",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 11049,
+      "topWord": "labour",
+      "topCount": 232,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-01-marxist-theory-of-exploitation.md",
+      "flaggedWords": [
+        {
+          "word": "labour",
+          "count": 232
+        }
+      ],
+      "top20": [
+        {
+          "word": "labour",
+          "count": 232
+        },
+        {
+          "word": "surplus",
+          "count": 176
+        },
+        {
+          "word": "value",
+          "count": 112
+        },
+        {
+          "word": "exploitation",
+          "count": 96
+        },
+        {
+          "word": "wage",
+          "count": 94
+        },
+        {
+          "word": "theory",
+          "count": 64
+        },
+        {
+          "word": "relation",
+          "count": 61
+        },
+        {
+          "word": "concept",
+          "count": 52
+        },
+        {
+          "word": "period",
+          "count": 52
+        },
+        {
+          "word": "sense",
+          "count": 49
+        },
+        {
+          "word": "worker",
+          "count": 48
+        },
+        {
+          "word": "power",
+          "count": 47
+        },
+        {
+          "word": "marx",
+          "count": 46
+        },
+        {
+          "word": "hours",
+          "count": 45
+        },
+        {
+          "word": "production",
+          "count": 44
+        },
+        {
+          "word": "ownership",
+          "count": 43
+        },
+        {
+          "word": "rate",
+          "count": 41
+        },
+        {
+          "word": "portion",
+          "count": 40
+        },
+        {
+          "word": "claim",
+          "count": 39
+        },
+        {
+          "word": "workers",
+          "count": 39
         }
       ]
     },
@@ -77989,6 +82431,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-15-medicare-catastrophic-coverage-act-1988.md"
     },
     {
+      "filename": "2010-12-15-reserve-army-of-labour-explained.md",
+      "slug": "reserve-army-of-labour-explained",
+      "title": "The Reserve Army of Labour Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10220,
+      "topWord": "reserve",
+      "topCount": 220,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-15-reserve-army-of-labour-explained.md",
+      "flaggedWords": [
+        {
+          "word": "reserve",
+          "count": 220
+        }
+      ],
+      "top20": [
+        {
+          "word": "reserve",
+          "count": 220
+        },
+        {
+          "word": "labour",
+          "count": 178
+        },
+        {
+          "word": "marx",
+          "count": 123
+        },
+        {
+          "word": "army",
+          "count": 86
+        },
+        {
+          "word": "population",
+          "count": 84
+        },
+        {
+          "word": "concept",
+          "count": 76
+        },
+        {
+          "word": "workers",
+          "count": 75
+        },
+        {
+          "word": "employment",
+          "count": 68
+        },
+        {
+          "word": "capital",
+          "count": 66
+        },
+        {
+          "word": "wages",
+          "count": 66
+        },
+        {
+          "word": "accumulation",
+          "count": 65
+        },
+        {
+          "word": "surplus",
+          "count": 61
+        },
+        {
+          "word": "mechanism",
+          "count": 54
+        },
+        {
+          "word": "relative",
+          "count": 49
+        },
+        {
+          "word": "chapter",
+          "count": 48
+        },
+        {
+          "word": "unemployment",
+          "count": 45
+        },
+        {
+          "word": "wage",
+          "count": 41
+        },
+        {
+          "word": "itself",
+          "count": 39
+        },
+        {
+          "word": "law",
+          "count": 38
+        },
+        {
+          "word": "latent",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2010-12-17-lock-folders-and-hide-your-secret-files.md",
       "slug": "lock-folders-and-hide-your-secret-files",
       "title": "Lock Folders and Hide your secret Files",
@@ -78647,6 +83195,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-01-medicare-modernization-act-2003-part-d.md"
+    },
+    {
+      "filename": "2011-01-01-primitive-accumulation-explained.md",
+      "slug": "primitive-accumulation-explained",
+      "title": "Primitive Accumulation Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10616,
+      "topWord": "marx",
+      "topCount": 135,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-01-primitive-accumulation-explained.md"
     },
     {
       "filename": "2011-01-03-othello-character-analysis-deep-dive.md",
@@ -79571,6 +84137,116 @@
       ]
     },
     {
+      "filename": "2011-01-15-surplus-value-modern-firms.md",
+      "slug": "surplus-value-modern-firms",
+      "title": "How Surplus Value Works in Modern Firms",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10153,
+      "topWord": "value",
+      "topCount": 230,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-15-surplus-value-modern-firms.md",
+      "flaggedWords": [
+        {
+          "word": "value",
+          "count": 230
+        },
+        {
+          "word": "labour",
+          "count": 205
+        }
+      ],
+      "top20": [
+        {
+          "word": "value",
+          "count": 230
+        },
+        {
+          "word": "labour",
+          "count": 205
+        },
+        {
+          "word": "surplus",
+          "count": 177
+        },
+        {
+          "word": "firm",
+          "count": 176
+        },
+        {
+          "word": "workers",
+          "count": 88
+        },
+        {
+          "word": "profit",
+          "count": 84
+        },
+        {
+          "word": "production",
+          "count": 80
+        },
+        {
+          "word": "worker",
+          "count": 70
+        },
+        {
+          "word": "wage",
+          "count": 68
+        },
+        {
+          "word": "productive",
+          "count": 61
+        },
+        {
+          "word": "capital",
+          "count": 60
+        },
+        {
+          "word": "produced",
+          "count": 52
+        },
+        {
+          "word": "power",
+          "count": 52
+        },
+        {
+          "word": "analysis",
+          "count": 51
+        },
+        {
+          "word": "whose",
+          "count": 50
+        },
+        {
+          "word": "accounts",
+          "count": 50
+        },
+        {
+          "word": "working",
+          "count": 50
+        },
+        {
+          "word": "article",
+          "count": 45
+        },
+        {
+          "word": "rate",
+          "count": 44
+        },
+        {
+          "word": "company",
+          "count": 41
+        }
+      ]
+    },
+    {
       "filename": "2011-01-16-tcs-ilp-bhubaneswar-survival-of-the-weakest.md",
       "slug": "tcs-ilp-bhubaneswar-survival-of-the-weakest",
       "title": "Surviving TCS ILP - Tips for Beginners",
@@ -80397,6 +85073,112 @@
       ]
     },
     {
+      "filename": "2011-02-01-is-exploitation-moral-or-technical.md",
+      "slug": "is-exploitation-moral-or-technical",
+      "title": "Is Exploitation Moral or Technical?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9960,
+      "topWord": "marx",
+      "topCount": 208,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-01-is-exploitation-moral-or-technical.md",
+      "flaggedWords": [
+        {
+          "word": "marx",
+          "count": 208
+        }
+      ],
+      "top20": [
+        {
+          "word": "marx",
+          "count": 208
+        },
+        {
+          "word": "labour",
+          "count": 104
+        },
+        {
+          "word": "justice",
+          "count": 85
+        },
+        {
+          "word": "moral",
+          "count": 71
+        },
+        {
+          "word": "standard",
+          "count": 69
+        },
+        {
+          "word": "theory",
+          "count": 65
+        },
+        {
+          "word": "debate",
+          "count": 64
+        },
+        {
+          "word": "surplus",
+          "count": 59
+        },
+        {
+          "word": "wood",
+          "count": 59
+        },
+        {
+          "word": "exploitation",
+          "count": 53
+        },
+        {
+          "word": "reading",
+          "count": 52
+        },
+        {
+          "word": "capitalism",
+          "count": 50
+        },
+        {
+          "word": "evidence",
+          "count": 48
+        },
+        {
+          "word": "production",
+          "count": 45
+        },
+        {
+          "word": "distribution",
+          "count": 45
+        },
+        {
+          "word": "claim",
+          "count": 45
+        },
+        {
+          "word": "geras",
+          "count": 45
+        },
+        {
+          "word": "vocabulary",
+          "count": 44
+        },
+        {
+          "word": "article",
+          "count": 41
+        },
+        {
+          "word": "verdict",
+          "count": 38
+        }
+      ]
+    },
+    {
       "filename": "2011-02-01-medicaid-statute-structure-explained.md",
       "slug": "medicaid-statute-structure-explained",
       "title": "The Medicaid Statute Explained: How Title XIX Actually Works",
@@ -81073,6 +85855,120 @@
       ]
     },
     {
+      "filename": "2011-02-15-surplus-value-vs-profit.md",
+      "slug": "surplus-value-vs-profit",
+      "title": "Surplus Value vs Profit: The Difference",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10202,
+      "topWord": "value",
+      "topCount": 287,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-15-surplus-value-vs-profit.md",
+      "flaggedWords": [
+        {
+          "word": "value",
+          "count": 287
+        },
+        {
+          "word": "surplus",
+          "count": 258
+        },
+        {
+          "word": "profit",
+          "count": 257
+        }
+      ],
+      "top20": [
+        {
+          "word": "value",
+          "count": 287
+        },
+        {
+          "word": "surplus",
+          "count": 258
+        },
+        {
+          "word": "profit",
+          "count": 257
+        },
+        {
+          "word": "rate",
+          "count": 134
+        },
+        {
+          "word": "capital",
+          "count": 124
+        },
+        {
+          "word": "labour",
+          "count": 122
+        },
+        {
+          "word": "firm",
+          "count": 105
+        },
+        {
+          "word": "marx",
+          "count": 76
+        },
+        {
+          "word": "production",
+          "count": 76
+        },
+        {
+          "word": "composition",
+          "count": 57
+        },
+        {
+          "word": "wages",
+          "count": 56
+        },
+        {
+          "word": "percent",
+          "count": 56
+        },
+        {
+          "word": "interest",
+          "count": 55
+        },
+        {
+          "word": "total",
+          "count": 53
+        },
+        {
+          "word": "advance",
+          "count": 53
+        },
+        {
+          "word": "exploitation",
+          "count": 49
+        },
+        {
+          "word": "rent",
+          "count": 44
+        },
+        {
+          "word": "distinction",
+          "count": 44
+        },
+        {
+          "word": "denominator",
+          "count": 44
+        },
+        {
+          "word": "produced",
+          "count": 43
+        }
+      ]
+    },
+    {
       "filename": "2011-02-17-king-lear-character-analysis-deep-dive.md",
       "slug": "king-lear-character-analysis-deep-dive",
       "title": "King Lear Character Analysis - Shakespeare's Foolish Monarch",
@@ -81539,6 +86435,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2011-03-01-measuring-rate-of-exploitation.md",
+      "slug": "measuring-rate-of-exploitation",
+      "title": "Measuring the Rate of Exploitation",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10110,
+      "topWord": "labour",
+      "topCount": 153,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-01-measuring-rate-of-exploitation.md"
     },
     {
       "filename": "2011-03-01-medicare-vs-medicaid-legal-difference.md",
@@ -82131,6 +87045,24 @@
           "count": 35
         }
       ]
+    },
+    {
+      "filename": "2011-03-15-surplus-value-exam-answers.md",
+      "slug": "surplus-value-exam-answers",
+      "title": "Surplus Value: Exam Answer Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 10372,
+      "topWord": "labour",
+      "topCount": 197,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-15-surplus-value-exam-answers.md"
     },
     {
       "filename": "2011-03-15-us-health-legislation-since-1950.md",
@@ -367395,6 +372327,130 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-09-how-x-rays-work.md"
+    },
+    {
+      "filename": "2026-11-09-nightjar-last-interview-009.md",
+      "slug": "nightjar-last-interview-009",
+      "title": "Nightjar: The Last Interview in the House at Highstile",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8541,
+      "topWord": "lane",
+      "topCount": 93,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-09-nightjar-last-interview-009.md"
+    },
+    {
+      "filename": "2026-11-10-how-booker-prize-works.md",
+      "slug": "how-booker-prize-works",
+      "title": "How the Booker Prize Works: Judges, Rules and Effect",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9401,
+      "topWord": "prize",
+      "topCount": 220,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-10-how-booker-prize-works.md",
+      "flaggedWords": [
+        {
+          "word": "prize",
+          "count": 220
+        }
+      ],
+      "top20": [
+        {
+          "word": "prize",
+          "count": 220
+        },
+        {
+          "word": "book",
+          "count": 117
+        },
+        {
+          "word": "booker",
+          "count": 100
+        },
+        {
+          "word": "novel",
+          "count": 90
+        },
+        {
+          "word": "judges",
+          "count": 90
+        },
+        {
+          "word": "winner",
+          "count": 70
+        },
+        {
+          "word": "panel",
+          "count": 60
+        },
+        {
+          "word": "readers",
+          "count": 59
+        },
+        {
+          "word": "publishers",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 55
+        },
+        {
+          "word": "books",
+          "count": 53
+        },
+        {
+          "word": "titles",
+          "count": 51
+        },
+        {
+          "word": "single",
+          "count": 49
+        },
+        {
+          "word": "shortlist",
+          "count": 49
+        },
+        {
+          "word": "public",
+          "count": 44
+        },
+        {
+          "word": "five",
+          "count": 43
+        },
+        {
+          "word": "title",
+          "count": 43
+        },
+        {
+          "word": "attention",
+          "count": 41
+        },
+        {
+          "word": "ceremony",
+          "count": 40
+        },
+        {
+          "word": "longlist",
+          "count": 39
+        }
+      ]
     },
     {
       "filename": "2026-11-11-what-poland-learned-from-ukraine.md",

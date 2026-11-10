@@ -9,7 +9,7 @@ excerpt: "Engineering admissions reward a deliberate AP pattern, not a random pi
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 90
 author: "natalie-webb"
-last_updated: 2006-04-21
+last_updated: 2026-11-10
 lang: en
 ---
 Engineering begins long before the first college lecture hall, in the quiet decisions a student makes about which hard classes to take and which to leave for later. A future engineer does not need every Advanced Placement course a school offers, and chasing all of them usually weakens the very record that admissions readers hope to see. What matters is a pattern: mathematics that climbs steadily toward calculus, physics that grows more demanding as the math matures, and supporting sciences chosen with a destination in mind. Read as a sequence rather than a shopping list, an AP transcript tells a story about preparation, persistence, and fit.

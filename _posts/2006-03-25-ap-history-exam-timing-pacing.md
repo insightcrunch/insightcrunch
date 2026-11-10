@@ -9,7 +9,7 @@ excerpt: "History exams are lost on the clock as often as on content. This guide
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 90
 author: "daniel-morgan"
-last_updated: 2006-03-25
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, students walk out of AP history exams insisting they knew the material, and many of them are telling the truth. They could explain the causes of the Civil War, compare colonial systems across two continents, and analyze a political cartoon with real sophistication. What they could not do was fit all of that knowledge inside the hours printed on the exam booklet. Their multiple-choice section consumed the morning's best energy, their short answers sprawled, and the document-based question, the single richest source of points on the paper, received whatever minutes happened to remain. Knowledge was never the binding constraint. The clock was.

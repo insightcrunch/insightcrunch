@@ -9,7 +9,7 @@ excerpt: "AP exams and A-Levels trade breadth for depth in opposite ways. This c
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 89
 author: "charlotte-davies"
-last_updated: 2007-01-12
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, two groups of teenagers sit down to examinations that both describe themselves as advanced, college level, and rigorous, yet the papers in front of them could hardly look more different. In an American high school, a student might face a three hour AP exam in biology in the morning and another in European history two days later, one of five or six such exams scattered across a single May. In a school in England, Wales, or Northern Ireland, a student of similar age faces the second year of a course that began twenty months earlier, in one of only three subjects, knowing that a handful of papers across June will decide the grade on which a university place depends. Both students are able. Both examinations are demanding. They are simply built for different destinations.

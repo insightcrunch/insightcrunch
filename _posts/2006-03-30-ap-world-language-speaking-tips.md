@@ -9,7 +9,7 @@ excerpt: "The AP world language speaking section is a performance with a rubric.
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 90
 author: "maria-santos"
-last_updated: 2006-03-30
+last_updated: 2026-11-10
 lang: en
 ---
 A recorded voice, a silent room, and a clock that refuses to pause: the speaking section of an AP world language exam strips away every support that written work provides. There is no dictionary at your elbow, no draft to revise, no chance to cross out a sentence and begin again. What the reader eventually hears is a single unedited performance, and that performance is scored against a rubric that rewards something more forgiving than perfection. Across Spanish, French, German, Italian, Chinese, and Japanese, the architecture of the tasks is shared, and the skills that raise a score in one language raise it in all of them.

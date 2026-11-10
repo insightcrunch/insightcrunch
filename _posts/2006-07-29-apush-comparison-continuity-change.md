@@ -9,7 +9,7 @@ excerpt: "Comparison, causation, and continuity-change are the three lenses APUS
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 89
 author: "samantha-lee"
-last_updated: 2006-07-29
+last_updated: 2026-11-10
 lang: en
 ---
 Every question on the AP United States History exam, whatever its format, asks the student to do something with the past rather than simply hand it back. A multiple choice item built around a passage from a Puritan sermon is not really asking who wrote sermons. It is asking why the sermon mattered, what it resembled, what it opposed, and what changed because people believed it. A short answer set on the market revolution is not satisfied with a list of inventions. It wants causes sorted from effects, similarities drawn between regions, and a judgment about what endured while everything seemed to move. The exam is, at its core, a test of three reasoning skills: comparison, causation, and continuity and change over time. Students who master those three moves find that the content of nine periods starts to organize itself, because the skills supply the questions that content answers.

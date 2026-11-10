@@ -9,7 +9,7 @@ excerpt: "SAT 12-week beginner plan, week by week: diagnostic and foundation, co
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1996-10-23
+last_updated: 2026-11-10
 lang: en
 ---
 A SAT 12 week plan works for a beginner only when it stops being a wish and becomes a calendar. Most students who decide to study for the SAT in 3 months never write down what happens on a Tuesday in week six, so week six arrives and they do what they did in week one: open a book, read a chapter, feel productive, and learn almost nothing they can use under a clock. The points that separate a first-timer's baseline from a competitive result do not hide in the chapters. They hide in the gap between knowing a concept and executing it correctly in ninety seconds while the next item waits. A plan that respects that gap looks different from a plan that treats preparation as reading. It front-loads a diagnostic, spends its early weeks building the handful of skills that carry the most points, then turns almost entirely toward timed rehearsal and the unglamorous work of reviewing every miss until the pattern behind it is gone.

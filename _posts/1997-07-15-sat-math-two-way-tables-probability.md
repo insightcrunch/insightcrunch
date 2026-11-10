@@ -5,11 +5,11 @@ page_title: "SAT Two-Way Tables and Conditional Probability: Restricting the Den
 date: 1997-07-15
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Two-Way Tables", "Probability", "Data Analysis"]
-excerpt: "SAT two-way tables and conditional probability explained: restricting the denominator, given that wording and association, with worked table examples."
+excerpt: "Master SAT frequency table questions with the conditional probability rule and worked examples for every pattern."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 1997-07-15
+last_updated: 2026-11-10
 lang: en
 ---
 A student stares at a grid of numbers: rows for two age groups, columns for whether each person owns a smartphone, a tidy box of totals along the edges. The question asks for the probability that a randomly chosen person who owns a smartphone is in the younger group. The grid holds every number needed. The student finds the right cell, reads the count, divides by the grand total at the corner, bubbles in the answer, and gets it wrong. Not because the arithmetic failed. Because the phrase "who owns a smartphone" quietly changed which total belongs on the bottom of the fraction, and the student divided by the wrong one.

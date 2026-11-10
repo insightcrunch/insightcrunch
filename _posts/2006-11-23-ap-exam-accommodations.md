@@ -9,7 +9,7 @@ excerpt: "AP exam accommodations follow an official approval path with strict ti
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 89
 author: "christopher-wells"
-last_updated: 2006-11-23
+last_updated: 2026-11-10
 lang: en
 ---
 For a student who reads more slowly because of a processing difference, or who manages a medical condition that interrupts concentration, or whose written expression lags far behind the quality of the ideas in their head, an Advanced Placement exam can feel less like a test of knowledge than a test of barriers. The knowledge is there. The preparation is real. What stands between that student and a fair score is the format of the administration itself, and that is precisely the gap that AP exam accommodations exist to close. Extended time, extra breaks, a separate room, a reader, a scribe, assistive technology: each of these supports exists so that the score a college receives reflects what the student knows, not how the student's disability interacts with a clock, a crowded room, or a dense page of print.

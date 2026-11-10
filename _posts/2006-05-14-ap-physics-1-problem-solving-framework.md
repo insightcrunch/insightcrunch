@@ -9,7 +9,7 @@ excerpt: "Physics problems stop being puzzles once a routine runs them. This gui
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 90
 author: "jessica-kim"
-last_updated: 2006-05-14
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, strong students walk out of the AP Physics 1 exam surprised by their own performance, and the surprise usually runs in the wrong direction. They knew the formulas. Many could recite the equation sheet from memory, define every variable on it, and solve the tidy textbook exercises their teacher had assigned all year. What they could not do, under time pressure and facing a scenario they had never seen, was decide what a strange new problem was actually about. The gap between knowing physics and scoring in physics lives almost entirely in that deciding.

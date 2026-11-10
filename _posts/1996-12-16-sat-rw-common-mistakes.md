@@ -9,7 +9,7 @@ excerpt: "SAT reading and writing mistakes fixed: the 15 costliest errors from m
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 1996-12-16
+last_updated: 2026-11-10
 lang: en
 ---
 A student finishes the Reading and Writing section convinced she nailed it, then opens the score report and finds eleven misses she cannot explain. She knew the grammar. She understood the passages. She was not guessing. So where did the points go? They went, almost all of them, to habits: a verb in the question she skimmed past, an answer that was true about the world but wrong about the text, a grammar rule she half-applied because the clock was loud in her head. None of those misses came from a gap in knowledge. Every one came from a behavior, and behaviors can be trained.

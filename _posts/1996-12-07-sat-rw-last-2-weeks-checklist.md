@@ -9,7 +9,7 @@ excerpt: "SAT reading and writing final two weeks mapped day by day: timed sets,
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1996-12-07
+last_updated: 2026-11-10
 lang: en
 ---
 There is a version of the final fortnight that wrecks scores, and almost everyone falls into it without realizing. A student who has prepared diligently for months arrives at the last stretch, panics that it is not enough, and crams harder than ever: new grammar rules absorbed at midnight, a fresh stack of vocabulary the brain cannot file, a full-length sitting every single afternoon until the eyes blur. They walk into the verbal section exhausted, over-revised, and slower than they were three weeks earlier. The points they lose are not points they never had. They are points they trained away in the closing stretch through fatigue and second-guessing.

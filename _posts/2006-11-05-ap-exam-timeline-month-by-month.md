@@ -9,7 +9,7 @@ excerpt: "The AP year runs on a fixed rhythm from fall registration to summer sc
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 89
 author: "christopher-wells"
-last_updated: 2006-11-05
+last_updated: 2026-11-10
 lang: en
 ---
 Most students first picture the Advanced Placement year as a pair of frantic weeks in May, a blur of early alarms, sharpened pencils, and crowded gymnasiums. That picture captures the finale and misses the opera. The AP year actually runs for twelve months, and nearly everything that makes May feel either manageable or miserable was decided during the quiet seasons that came before it, in registration lines, ordering windows, and classroom routines that attracted no attention at all.

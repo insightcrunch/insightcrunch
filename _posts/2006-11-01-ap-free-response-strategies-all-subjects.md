@@ -9,7 +9,7 @@ excerpt: "AP free-response questions reward the same core moves in every subject
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 89
 author: "jessica-kim"
-last_updated: 2006-11-01
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, students open free-response booklets in subjects that seem to share nothing at all. One candidate derives an integral and justifies each step, another weighs evidence from seven documents to build an argument about empire, a third explains why a population of beetles changed across generations. The ink, the vocabulary, and the knowledge on display could hardly differ more, yet the scoring machinery underneath all three performances runs on the same principles. Trained readers work from written rubrics. Those rubrics divide credit into discrete points, and each point attaches to something a grader can locate on the page: a stated claim, a correct setup, a piece of evidence used for a purpose, a conclusion tied to a reason. Free-response success, in any subject, is largely the craft of making those point-earning elements easy to find and hard to miss.

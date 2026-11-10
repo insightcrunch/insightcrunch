@@ -9,7 +9,7 @@ excerpt: "Rhetorical analysis asks what a writer's choices do, not what they are
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 90
 author: "simon-hartley"
-last_updated: 2006-07-16
+last_updated: 2026-11-10
 lang: en
 ---
 Every passage on the AP English Language exam arrives with a job already in progress. A columnist is defending a policy, a memoirist is rebuilding a childhood room, a president is steadying a frightened country, and each of them is making hundreds of small decisions about words, sentences, evidence, and arrangement in order to move a particular audience in a particular direction. The exam does not ask whether you can summarize what those writers said. It asks whether you can explain how their choices work, why those choices suit the audience in front of them, and what the choices reveal about the purpose driving the whole performance. That explanation, built sentence by sentence from evidence in the text, is rhetorical analysis.

@@ -9,7 +9,7 @@ excerpt: "SAT tone and attitude questions explained: precise tone words, tone-ma
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1996-12-20
+last_updated: 2026-11-10
 lang: en
 ---
 A reader finishes a short passage about a scientist who keeps revising her own published model, picks the answer marked "negative," and loses the point. The stance the writer actually built was wary admiration: respect for the willingness to be wrong, tempered by worry about how slowly the field is catching up. "Negative" is not in the building. The Digital SAT does not reward the broad bucket; it rewards the exact word that the sentences earned, and the gap between "negative" and "wary admiration" is the gap between a missed item and a clean one.

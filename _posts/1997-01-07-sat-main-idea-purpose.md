@@ -9,7 +9,7 @@ excerpt: "SAT main idea and purpose explained: topic versus argument versus why 
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1997-01-07
+last_updated: 2026-11-10
 lang: en
 ---
 # SAT Reading: Main Idea, Purpose, and Central Claim Questions

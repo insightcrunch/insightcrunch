@@ -9,7 +9,7 @@ excerpt: "Fifteen required Supreme Court cases anchor AP US Government. This gui
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-06-28
+last_updated: 2026-11-10
 lang: en
 ---
 Fifteen Supreme Court cases sit at the center of AP US Government and Politics, named by the course framework as required knowledge for every student who takes the exam. They span more than two centuries, from a dispute over judicial appointments in the opening years of the republic to arguments over campaign money in the twenty-first century. Each one settled a fight about how American government actually works: who holds power, where that power stops, and which rights stand beyond the reach of a majority.

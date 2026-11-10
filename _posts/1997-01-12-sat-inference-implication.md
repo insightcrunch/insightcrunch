@@ -9,7 +9,7 @@ excerpt: "SAT inference questions explained: the must-be-true test, one-step ver
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 59
 author: "natalie-webb"
-last_updated: 1997-01-12
+last_updated: 2026-11-10
 lang: en
 ---
 The wrong answer on an inference item is almost never absurd. It is reasonable. It is the kind of statement an intelligent reader would nod along with, the conclusion a thoughtful person might reach after closing the book and thinking it over. That is exactly why it costs students the point. The Reading and Writing section does not reward the most sensible-sounding takeaway. It rewards the one claim the words on the screen actually force you to accept, and it builds its most attractive distractors out of statements that are merely believable. A choice can be true in the real world, consistent with the excerpt, and the sort of thing the author would probably agree with, and still be flatly incorrect, because the text never licensed it.

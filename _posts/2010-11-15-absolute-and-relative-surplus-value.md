@@ -9,7 +9,7 @@ excerpt: "Absolute and relative surplus value distinguished by mechanism: length
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 87
 author: "rachel-foster"
-last_updated: 2010-11-15
+last_updated: 2026-11-10
 lang: en
 ---
 Absolute and relative surplus value are the two names Karl Marx gives to the two ways a capitalist working day can be made to yield more unpaid labour, and the distinction between them is the hinge on which the middle of Capital turns. Revision guides usually dispose of the pair in a sentence apiece, as though the reader needed nothing beyond a label for lengthening and a label for machinery. That treatment wastes the concept. Properly understood, the pair is an analytical instrument: given any change in how work is organised, in any period and in any industry, the distinction lets a reader ask which margin moved, the length of the day, the density of the hour, or the share of the day that merely replaces the wage, and to say why the answer matters for wages, for profits, and for the forms that workplace conflict takes.

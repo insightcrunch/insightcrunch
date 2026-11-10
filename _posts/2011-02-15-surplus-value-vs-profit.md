@@ -9,7 +9,7 @@ excerpt: "Surplus value and profit are not the same: the denominator rule, the t
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 86
 author: "chloe-martin"
-last_updated: 2011-02-15
+last_updated: 2026-11-10
 lang: en
 ---
 Surplus value and profit are treated as two names for one thing in almost every casual discussion of Marx, and that single habit of speech quietly wrecks nearly everything built on top of it. A reader who assumes the words are interchangeable cannot follow why Marx needs three volumes to reach profit, cannot see why the rate of profit behaves differently from the rate of exploitation, and cannot make sense of interest, rent, or commercial earnings except as separate mysteries with separate sources. The confusion is understandable. Both terms point at a gain. Both are measured in money once accounts are drawn up. A firm that extracts a large surplus usually reports a healthy profit, so in ordinary experience the two magnitudes rise and fall together often enough to feel identical. Marx's whole construction depends on refusing that feeling. Surplus value names something produced, in a specific place, by a specific activity. Profit names something received, through a specific distribution, by a specific claimant. Production and reception are related, but they are not the same event, and the distance between them is where Volume Three of Capital does its work.

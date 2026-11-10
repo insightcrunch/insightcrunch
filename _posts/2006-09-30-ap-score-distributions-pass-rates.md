@@ -9,7 +9,7 @@ excerpt: "AP pass rates look like verdicts, but they are really distributions wi
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 89
 author: "natalie-webb"
-last_updated: 2006-09-30
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, millions of exam papers move through the Advanced Placement program, and every summer the results settle into a shape. That shape, five columns of numbers for each subject, is the score distribution, and the single figure most people pull from it is the pass rate: the share of students whose work earned a 3, a 4, or a 5. Families quote these rates in kitchen conversations, counselors quote them in course selection meetings, and students quote them when deciding which classes feel safe and which feel dangerous. The quoting is easy. The reading is harder, because a pass rate is never just a measurement of an exam. It is a measurement of an exam multiplied by the population that chose to sit for it.

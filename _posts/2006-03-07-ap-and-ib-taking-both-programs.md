@@ -9,7 +9,7 @@ excerpt: "AP and IB can share a transcript, but only with honest planning. This 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 90
 author: "simon-hartley"
-last_updated: 2006-03-07
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, in schools that offer both programs, a familiar conversation unfolds in counseling offices. A student who has heard that Advanced Placement signals ambition and that the International Baccalaureate signals depth wants to know whether collecting both signals is possible, and whether collecting both is wise. The honest answer to the first question is yes, with conditions. The honest answer to the second is that it depends almost entirely on fit: on which subjects overlap, on how the two exam calendars collide, on what the student's colleges actually reward, and on whether the combined week still leaves room for sleep, friends, and a life outside coursework.

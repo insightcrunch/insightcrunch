@@ -9,7 +9,7 @@ excerpt: "SAT advanced vocabulary in context explained: connotation, precision a
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1997-01-16
+last_updated: 2026-11-10
 lang: en
 ---
 A student sits in front of the screen and reads a short passage about a nineteenth-century botanist who kept meticulous records. The blank asks for a single term to describe her record-keeping. Four choices wait below. Two of them, "thorough" and "exhaustive," both fit the loose idea of careful work. The student, primed by years of being told that a bigger vocabulary signals a sharper mind, reaches for "exhaustive" because it sounds more impressive. The scoring engine marks it wrong. The passage praised her steady, complete habits, not a draining or all-consuming effort, and "exhaustive" carries the second sense of wearing something out. One blank, one reflex, fifteen lost points across a section that turns on exactly this reflex.

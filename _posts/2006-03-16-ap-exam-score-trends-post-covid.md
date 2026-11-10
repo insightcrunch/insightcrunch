@@ -9,7 +9,7 @@ excerpt: "Pandemic years bent AP testing out of its usual shape, and the marks r
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 90
 author: "simon-hartley"
-last_updated: 2006-03-16
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, students open their score reports and ask a deceptively simple question: are these numbers normal? For most of AP history, the answer rested on a quiet assumption, that one year's exams resembled the years around them closely enough for comparisons to mean something. The pandemic broke that assumption in public. Exams moved into kitchens and bedrooms, formats shrank and then stretched back, participation lurched, and the distributions of scores shifted in ways that were real, uneven, and far harder to interpret than the headlines built on top of them. Anyone reading trend lines that cross those years is reading across a fault line, and the honest way to read them is slowly, with the disruptions kept in view.

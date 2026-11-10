@@ -9,7 +9,7 @@ excerpt: "SAT two-week emergency plan: a triage approach to the easiest score ga
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1996-10-27
+last_updated: 2026-11-10
 lang: en
 ---
 Fourteen days out, the worst thing you can do is open a prep book at chapter one and try to read it cover to cover. That is the instinct, and it is the instinct that burns the two weeks you have left. With a full season you can afford to build foundations, fill every gap, and let mastery accumulate. With fourteen days you cannot, and the students who pretend otherwise spend the time anxiously skimming everything and converting almost none of it into points. The SAT last 2 weeks problem is not a knowledge problem. It is an allocation problem, and the right frame is triage: treat your remaining time the way an emergency room treats a full waiting room, sorting by what can be saved fastest rather than by what is most seriously wrong.

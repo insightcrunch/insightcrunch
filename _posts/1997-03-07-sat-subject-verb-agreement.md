@@ -5,11 +5,11 @@ page_title: "SAT Subject-Verb Agreement and Pronoun Clarity: The Intervening-Phr
 date: 1997-03-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Subject-Verb Agreement", "Pronouns", "Grammar"]
-excerpt: "SAT subject-verb agreement explained: the intervening-phrase trap, collective and indefinite subjects, inverted sentences and pronoun clarity, with examples."
+excerpt: "Master the two grammar concepts the SAT tests most: subject-verb agreement and pronoun-antecedent clarity."
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1997-03-07
+last_updated: 2026-11-10
 lang: en
 ---
 The single most common question in the Standard English Conventions portion of the Digital SAT is not the hardest one. It is the one students miss because the exam hides the answer in plain sight. A sentence reads, "The collection of rare stamps that my grandfather assembled over four decades ___ now worth a small fortune," and the choices offer *is*, *are*, *were*, and *being*. A test-taker scans the words right before the blank, sees "four decades," hears a plural, and picks *are*. The point is gone. The real subject was *collection*, a singular noun sitting eight words back, and the verb had to be *is*. That one move, dropping a phrase between the subject and its verb to disguise the true head noun, generates more agreement errors on this exam than any other design in the conventions category.

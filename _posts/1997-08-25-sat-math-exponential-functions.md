@@ -5,11 +5,11 @@ page_title: "SAT Exponential Functions: Growth, Decay and Modeling Equations Exp
 date: 1997-08-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Exponential Functions", "Advanced Math", "Test Prep"]
-excerpt: "SAT exponential functions made simple: growth, decay, doubling time and modeling equations, with worked examples and the growth-factor trap explained."
+excerpt: "Every SAT exponential pattern from doubling time to half-life, fully decoded with worked examples."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1997-08-25
+last_updated: 2026-11-10
 lang: en
 ---
 A student aiming above the middle band loses more points to one quiet error on exponential functions than to almost any other single Advanced Math idea. The error is not arithmetic. It is reading a phrase like "the population grows 5 percent each year" and writing the model with 5, or 0.05, or 1.5 where the number 1.05 belongs. The wrong factor produces a clean-looking equation, a confident bubble, and a missed point that the score report will never explain. Exponential growth and decay questions look intimidating because they arrive wrapped in bacteria, bank accounts, radioactive samples, and depreciating cars, but underneath the costume they reduce to two equation forms and a short list of decisions. This guide teaches you to make those decisions fast, so the costume stops fooling you.

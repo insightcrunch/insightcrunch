@@ -9,7 +9,7 @@ excerpt: "SAT quantitative data in passages explained: reading tables and graphs
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "maria-santos"
-last_updated: 1996-12-29
+last_updated: 2026-11-10
 lang: en
 ---
 There is a particular question on the Reading and Writing section that students lose for a reason that has nothing to do with vocabulary, grammar, or comprehension. A short paragraph sits beside a small table or a bar chart. The prompt asks which figure from the display best supports a claim the writer makes, and four answer choices each quote a real number lifted straight off the visual. Every number is true. Every number is sitting right there on the page. And the test-taker, scanning for something that matches, picks the largest value, or the one that sounds most dramatic, or the row their eye landed on first, and gets it wrong. The trap is not that the data is hard to read. The trap is that all four wrong answers are also reading the data correctly. They are just answering a different question than the one the writer's claim actually requires.

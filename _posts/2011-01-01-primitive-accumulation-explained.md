@@ -9,7 +9,7 @@ excerpt: "Primitive accumulation explained as separation, not saving: how produc
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 86
 author: "rachel-foster"
-last_updated: 2011-01-01
+last_updated: 2026-11-10
 lang: en
 ---
 Primitive accumulation is the name Karl Marx gives to the historical process that made capitalist production possible, and almost everything in the standard summary of it is slightly wrong. Primitive accumulation was not a matter of somebody, somewhere, patiently saving up a stock of wealth until investment could begin. Nobody in Part Eight of Capital Volume One grows rich by thrift. What happens instead is a parting. On one side of the parting stand people who once fed, clothed, and housed themselves by working land and tools they could reach through custom, tenure, or common right. On the other side stand the owners of money who find, waiting for them in the market, a population with nothing left to sell except its capacity to work. Marx calls the process that produced those two populations primitive accumulation, and he insists that its secret is separation. A fortune can change hands a thousand times without creating capitalism. Separation, carried far enough, creates the one relation capitalism cannot do without, the relation between an owner of means of production and a worker who must be hired before those means can be used at all.

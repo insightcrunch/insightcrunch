@@ -9,7 +9,7 @@ excerpt: "Some APUSH topics return in era after era of released exams. This guid
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 89
 author: "simon-hartley"
-last_updated: 2006-07-25
+last_updated: 2026-11-10
 lang: en
 ---
 Every student who opens an AP US History review book confronts the same uncomfortable arithmetic. The course spans more than five centuries, from the societies of North America before European contact through the close of the twentieth century and beyond, and it contains thousands of names, statutes, battles, court decisions, and movements. No exam can ask about all of it, and no student can master all of it in equal depth. The students who earn the highest scores are rarely the ones who tried to memorize everything. They are the ones who figured out, early enough to act on the insight, which parts of the course the exam returns to again and again, and they built their deepest knowledge exactly there.

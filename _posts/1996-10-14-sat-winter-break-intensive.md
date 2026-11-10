@@ -9,7 +9,7 @@ excerpt: "SAT winter break intensive explained: a two-week December push toward 
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1996-10-14
+last_updated: 2026-11-10
 lang: en
 ---
 Winter break is the most underused fortnight in the entire admissions calendar. For roughly two to three weeks, the school day stops, homework dries up, club meetings pause, and the ordinary tug-of-war between coursework and exam prep simply ends. What remains is a clean runway: a stretch of mornings with no bell schedule, sitting at exactly the right distance from a spring test date to convert effort into a measurable gain. A junior who treats those mornings as a structured intensive can walk into January already ahead of every classmate who spent the same days scrolling. The reader who finishes this guide will know precisely how to spend each of fourteen days, how to fit the work around family time instead of fighting it, and how to keep the habit alive once the decorations come down.

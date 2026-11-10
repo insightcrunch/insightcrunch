@@ -9,7 +9,7 @@ excerpt: "AP multiple choice rewards pace, elimination, and calm across every su
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 89
 author: "jessica-kim"
-last_updated: 2006-10-27
+last_updated: 2026-11-10
 lang: en
 ---
 Every Advanced Placement exam, whatever subject name sits on the cover, hides the same machine underneath the content: a long run of questions, a handful of answer choices attached to each one, a clock that never pauses, and a scoring rule that counts correct answers while ignoring everything else. Students usually treat that machine as furniture, something fixed and beneath notice, while they pour all of their energy into the material the machine carries. That instinct is understandable, and it is expensive. Content decides what you know. The machine decides how much of what you know turns into points. A student with slightly weaker knowledge who handles the machine well will outscore a stronger student who stalls on hard items, leaves blanks, and loses composure halfway through the section. The distance between those two students is not talent. It is a collection of habits, and habits can be learned, drilled, and carried intact from one subject into the next.

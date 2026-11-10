@@ -5,11 +5,11 @@ page_title: "SAT Parallel Structure and Modifier Placement: Fixing Dangling Modi
 date: 1997-02-26
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Parallel Structure", "Modifiers", "Grammar"]
-excerpt: "SAT parallel structure and modifier placement explained: matching list forms, correlative pairs and fixing dangling modifiers, with error-and-fix examples."
+excerpt: "Master the two grammar concepts SAT Writing tests most: parallel structure and modifier placement, with worked examples."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 1997-02-26
+last_updated: 2026-11-10
 lang: en
 ---
 Two sentences can carry the same words, the same punctuation, and the same intended meaning, and only one of them earns the point. "Walking into the exam room, the calculator felt heavy in her bag" reads smoothly, sounds like something a person would say, and is wrong on the Digital SAT. The opening phrase says someone was walking, the grammar then hands that walking to the calculator, and a piece of test equipment cannot stride through a doorway. The correct version moves the actor next to the phrase: "Walking into the exam room, she felt the calculator heavy in her bag." Nothing about the meaning changed. The grammar changed, and on the Reading and Writing section, grammar is what gets scored.

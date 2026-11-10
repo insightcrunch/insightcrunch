@@ -5,11 +5,11 @@ page_title: "SAT Craft and Structure: Purpose, Text Structure, Word Choice and W
 date: 1997-03-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Craft and Structure", "Text Structure", "Purpose"]
-excerpt: "SAT craft and structure explained: purpose, text structure, word choice and audience, asking what the author is doing, with worked examples by subtype."
+excerpt: "Master why-and-how SAT reading questions covering purpose, structure, and tone with example-driven practice."
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1997-03-16
+last_updated: 2026-11-10
 lang: en
 ---
 A reader who has been trained only to ask "what does this say" walks into a craft and structure item and answers the wrong question. The choices in front of them describe what the writer is *doing* (qualifying a claim, setting up a contrast, signaling a shift in the argument), yet the student reaches for the option that paraphrases what the writer literally *said*. That single reflex, content over function, is the most expensive habit a reader brings to this part of the Digital SAT, and it is the habit this guide exists to retrain. Master one reframing move, hold it across every sentence you meet, and a fuzzy category of items collapses into something concrete and fast.

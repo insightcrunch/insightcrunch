@@ -9,7 +9,7 @@ excerpt: "AP African American Studies crosses history, literature, the arts, and
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 89
 author: "michael-brooks"
-last_updated: 2007-02-08
+last_updated: 2026-11-10
 lang: en
 ---
 Some courses ask a student to master a single discipline and prove it in a single sitting. AP African American Studies asks for something wider and, in the end, more honest about how knowledge actually works. The course follows the African diaspora from the kingdoms of early Africa through enslavement, emancipation, migration, and the movements of the modern era, and it refuses to stay inside one department while doing so. A week spent on the transatlantic slave trade might move from shipping records and demography to the spirituals enslaved people sang, then to an abolitionist pamphlet, then to the legal architecture that protected the whole system. History supplies the chronology, yet literature, visual art, music, and social science supply much of the evidence, and the course treats all of it as primary material worthy of close reading.

@@ -5,11 +5,11 @@ page_title: "SAT Word Problems: Translating English to Equations, the \"Let\" St
 date: 1997-06-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Word Problems", "Problem Solving", "Strategy"]
-excerpt: "SAT word problems decoded: a translation dictionary, the \"let\" statement, total-cost and rate templates, and the answer-the-question trap, with worked examples."
+excerpt: "Master SAT word problems with the translation dictionary, system setup framework, and the answer-the-right-question check."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 1997-06-27
+last_updated: 2026-11-10
 lang: en
 ---
 A typical Digital SAT math item does not hand you an equation and ask you to solve it. It hands you a sentence about a moving van, a phone plan, two painters, or a chemist mixing acid, and it expects you to build the equation yourself before any algebra begins. That hidden step, turning ordinary language into symbols, is where most lost points actually go. The arithmetic is rarely the hard part. The translation is. A test-taker who can solve every clean equation in a textbook can still stall on the section because the section refuses to arrive in textbook form. It arrives as paragraphs.

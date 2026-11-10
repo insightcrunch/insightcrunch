@@ -9,7 +9,7 @@ excerpt: "Lab questions test whether students can think like investigators. This
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 90
 author: "katherine-blake"
-last_updated: 2006-03-21
+last_updated: 2026-11-10
 lang: en
 ---
 Every AP science exam hides a second exam inside the first one. Beneath the questions about enzymes, circuits, titrations, and trophic levels sits a family of questions that asks something different: can you think like the person who designed the investigation in front of you? Lab questions hand you a scenario, a table, a graph, or a half-finished procedure, and they grade the quality of your reasoning about evidence rather than the depth of your memory about facts. A student who has memorized every pathway in the textbook can still stall on these items, because the answer rarely lives in a chapter heading. The answer lives in the relationship between a variable that was changed, a variable that was measured, and the comparison that makes the measurement mean something.

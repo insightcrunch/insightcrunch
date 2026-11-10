@@ -9,7 +9,7 @@ excerpt: "Every AP exam is written, secured, graded, and equated by a large quie
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 89
 author: "daniel-morgan"
-last_updated: 2006-09-26
+last_updated: 2026-11-10
 lang: en
 ---
 Every spring, millions of students sit down on the same mornings, open the same sealed booklets or the same secure digital tests, and answer questions that were written years earlier by people they will never meet. A few weeks later, those answers travel to enormous grading halls, pass through the hands of teachers and professors flown in from across the country, and emerge as a single number between 1 and 5. Students see only the two ends of that journey, the test on the desk and the score on the screen. Everything in between belongs to a large, quiet, deliberately unglamorous system run by the College Board, and understanding that system changes how a student prepares, how a score should be read, and how much trust a family can reasonably place in the process.

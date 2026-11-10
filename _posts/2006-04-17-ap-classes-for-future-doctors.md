@@ -9,7 +9,7 @@ excerpt: "Future doctors build their case long before medical school application
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 90
 author: "natalie-webb"
-last_updated: 2006-04-17
+last_updated: 2026-11-10
 lang: en
 ---
 A student who announces an ambition to become a doctor at fifteen is making a promise that will take more than a decade to keep. Between that announcement and a white coat sit high school courses, college prerequisites, a demanding admissions examination, and years of training, and the very first layer of that long structure is built from Advanced Placement classes chosen in the ninth, tenth, eleventh, and twelfth grades. Families who understand what those classes can and cannot do hold a real advantage, because the plan that serves a future physician looks different from the plan that serves a future engineer, a future lawyer, or a student who simply wants the longest possible list of AP courses on a transcript.

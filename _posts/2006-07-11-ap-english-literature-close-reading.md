@@ -9,7 +9,7 @@ excerpt: "Close reading slows the eye until diction, imagery, and structure conf
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 89
 author: "simon-hartley"
-last_updated: 2006-07-11
+last_updated: 2026-11-10
 lang: en
 ---
 A poem of fourteen lines can hold a patient reader for an hour, and that simple fact explains the whole design of the AP English Literature exam. The test does not ask who can finish a passage fastest. It asks who can stay with one longest, noticing how a single shifted word, a broken line, or a quiet change of tone carries the meaning of the entire piece. Close reading names that staying power. Practiced deliberately, it turns an intimidating page into a set of answerable questions about craft.

@@ -9,7 +9,7 @@ excerpt: "Cells run on managed energy, and enzymes decide which reactions happen
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 89
 author: "patrick-dunn"
-last_updated: 2006-08-21
+last_updated: 2026-11-10
 lang: en
 ---
 A living cell is a chemistry set that never sleeps and never gets to choose its surroundings. Inside a bacterium in a pond, inside a root hair pushing through soil, inside a neuron firing in your brain, thousands of reactions proceed at once in a volume smaller than a grain of sand, and nearly all of them would crawl to a stop if left to chance. The reactions that build proteins, copy DNA, pump ions, and contract muscle fibers are not spontaneous in any practical sense at body temperature, and the reactions that release energy from food would release it all at once, as heat, if nothing controlled their pace. The cell survives because it manages energy the way a careful household manages money: it earns in a few dependable ways, it spends through a shared currency, and it employs a vast staff of molecular workers who decide, moment by moment, which transactions actually happen.
