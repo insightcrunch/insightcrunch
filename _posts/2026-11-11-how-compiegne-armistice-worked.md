@@ -6,19 +6,19 @@ date: 2026-11-11
 categories: ["Industry"]
 tags: ["world-war-1", "armistice", "compiegne", "western-front", "military-history", "modern-history"]
 excerpt: "The Compiègne armistice stopped a world war through dated stages of evacuation, counted surrenders of arms and an occupation enforced by a standing commission."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-11-11
+lang: en
 ---
-
 ## The Eleventh Hour and the Legal Shape of an Armistice
 
 An armistice is a convention by which belligerents suspend hostilities by agreement while the state of war continues, and the armistice of 1918 was the instrument that applied that old legal form to the collapse of German power in the west. It was signed in a railway carriage in the forest of Compiègne and took effect at 11 a.m. on November 11, 1918, binding Germany to stages of evacuation, disarmament and occupation, each fixed by date, that removed its capacity to resume fighting even though no peace had been made.
 
 The distinction among armistice, capitulation and peace treaty matters because each carries a different legal consequence. A peace treaty ends the state of war and settles the political questions that caused it. A capitulation surrenders a force or a fortress on terms granted by a commander in the field. An armistice does neither. It leaves sovereignty, territory and the final settlement untouched in law while it rearranges facts on the ground in ways that may decide the settlement before negotiations begin. The Compiègne convention did exactly that. Germany remained a belligerent empire in law on November 11, its government remained in Berlin, and its soldiers had not been ordered to lay down their arms in unconditional surrender, yet the clauses fixed a sequence that stripped the German army of artillery, aircraft, transport and forward positions on a timetable measured in days.
 
-![German and Allied delegates and the railway carriage at Compiègne where the armistice terms were signed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![German and Allied delegates and the railway carriage at Compiègne where the armistice terms were signed - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The legal frame came from the Hague Conventions of 1899 and 1907, whose regulations treated an armistice as a serious contract rather than a courtesy. Articles 36 to 41 of the regulations annexed to the 1907 convention defined an armistice as a suspension of military operations by mutual agreement, distinguished a general armistice from a local one, required notification to officials and troops, and addressed the consequences of violation by one of the parties. The frame assumed that armies would remain in place unless the convention said otherwise, that relations between populations and troops would continue under stated conditions, and that a grave breach could justify denunciation and, in urgent cases, a resumption of hostilities. Compiègne used that frame and then filled it with content the Hague drafters had left to negotiation, turning a procedural category into an enforcement machine.
 
