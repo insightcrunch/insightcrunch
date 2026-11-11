@@ -337,6 +337,10 @@ rewritten.
 009 Dain Oric led the people who watched and then breached the house at Highstile. His people wanted Corwen Ash taken alive and talking, and Ash died in the breach, his heart giving out at his kitchen table, not by Mira Kovac's hand and not by the besiegers' intent.
 009 The study of Corwen Ash's house at Highstile reads as nothing at all, its shelves ordered and its desk bare in a way that is not the bareness of burning. It is the second room attached to Ash that holds no weight, and it was sealed after his death with Highstile constabulary tape, unread by any practice.
 
+010 Hale Brannt is the Highstile constable who boxed Corwen Ash's house under his own authority, found Ash's ledger under a drawer rather than in it, and placed it in the box marked for the Accord. His inventory of the box was signed at the Highstile end and again at receipt in Carrowmere.
+010 Ash's ledger is a heavy bound book in his own hand whose first forty pages read as a retired man's household accounts. Across eighteen years its dates stop being regular in four places, and those four places are four years apart. The ledger was recovered intact and passed into oversight custody with Commissioner Harrand, its chain of custody unbroken.
+010 Mira Kovac keeps a private register of absences in a notebook in her own hand, four entries so far: the Carrowmere transit room, the room off the service stair in a Melora court building, the north storeroom of the Helden Collection, and the study at Highstile. Arvo Leyden told her to stop keeping it, and she agreed to his face, the first time she has lied to him.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

@@ -187,3 +187,7 @@
 ## how-booker-prize-works
 - _posts/2026-10-25-how-literary-retranslation-works.md - could carry: "A translated novel crowned by the International Booker has already passed through the narrowing machine mapped in the account of how the Booker Prize works, where the translator's half of the prize is treated as a structural fact rather than a courtesy."
 - _posts/2019-06-15-schindlers-list-spielberg-holocaust.md - could carry: "The novel behind the film arrived at its adaptation with a Booker Prize attached, and the account of how the Booker Prize works explains what that medal certified about Keneally's documentary method before a camera was involved."
+
+## nightjar-private-register-010
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room was the first of four she would one day set down side by side in a notebook of her own, in her own hand, four lines that settled what each encounter alone had left loose."
+- _posts/2026-11-09-nightjar-last-interview-009.md - could carry: "What survived of Ash was not in the study at all but under a drawer in his own house, a ledger a careful constable boxed for the Accord, and the keeping of books against orders turned out to run in the Office like a trade."

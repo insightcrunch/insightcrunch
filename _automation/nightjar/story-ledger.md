@@ -227,3 +227,25 @@ spine notch:              Rung nine. The one person who could explain the phrase
 characters:               Mira Kovac, Arvo Leyden, Petra Dunmore, Corwen Ash (new, dies), Reni Vosk, Dain Oric (new)
 canon written back:       Three facts under Established canon, each numbered 009: Corwen Ash, the file's author, his eighteen years at Highstile, the single payment never spent and the house inherited; Dain Oric and his people, who wanted Ash alive and talking, and Ash's death in the breach by no one's hand and no one's intent; the study at Highstile reading as nothing, sealed with constabulary tape unread by any practice
 callbacks:                005, 007 and 008, three internal links, to the Barrow hearing where Rask gave his statement on the record, to the Melora storeroom that had read as nothing at all, and to the gap in the file held open under Dunmore's desk lamp
+
+## Installment 010
+slug:                     nightjar-private-register-010
+published:                2026-11-10
+story span:               Three days in the Twenty Ninth Session, from the morning after the breach at Highstile to the notebook going into a coat pocket in Carrowmere
+arc:                      The Clean Room, case 10
+case type:                Artifact recovery
+words:                    25018
+outcome:                  full success
+cost paid:                Leyden tells her to stop keeping a register of her own and she agrees to his face, which is the first time she has lied to him
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the register itself, four entries, hers, unfileable, under a direct instruction not to keep it
+clues planted:            The private register table of four entries with place, room, what was found and volume; Brannt's box and his inventory signed at both ends; the ledger found under a drawer rather than in it; the first forty pages reading as a retired man's accounts; the four irregular dates four years apart across eighteen years; the constable's evidence room and its entry book; the countersignature of Harrand and Leyden together, which had never happened before
+capabilities established: The evidence room read giving careful hands that had been through the box before hers, opening and looking and closing again, with its limit named on the page (Ground truth); the ledger read giving eighteen years of one man's dread in the binding and not one word of its contents (The collapse); Dunmore's dating work on the photographed sample and the constabulary inventory, establishing the four year rhythm (The collapse); the three pages copied by hand in the evidence room in Brannt's sight (Pressure); Brannt's station procedure holding the yard during the transfer (Pressure)
+damage carried:           In: eighteen years of Corwen Ash's fear from 009. Adds: the first lie she has told Leyden to his face
+endurance:                entering spent; low at the pressure beat
+legend beat:              none
+close consumed:           The four year rhythm Dunmore's dating established, the evidence room read and its named limit, the ledger read that gave dread and no information, Brannt's inventory and station procedure, and the hand copying done before the handover; every one established earlier in this same installment
+false lead:               Personal. The ledger reads for its first forty pages exactly as a retired man's accounts, small sums and regular entries, and every early reader makes that reading; the accounts cover eighteen years and their dates stop being regular in four places four years apart, which no household calendar explains, and the reading dies on the rhythm
+spine notch:              Rung ten. Mira starts a private register of absences, four entries so far, and is told to stop. Arc I closes with the register written in her own hand
+characters:               Mira Kovac, Arvo Leyden, Ilse Harrand, Petra Dunmore, Reni Vosk, Hale Brannt (new)
+canon written back:       Three facts under Established canon, each numbered 010: Hale Brannt and his boxing of Ash's house, the ledger found under a drawer and his inventory signed at both ends; Ash's ledger, its forty mild pages, its four irregular dates four years apart across eighteen years, and its passage into oversight custody unbroken; Mira's private register of four absences, Leyden's instruction to stop, and her agreement, the first lie she has told him to his face
+callbacks:                001, 004, 006 and 009, four internal links, to the transit room at Carrowmere where a supervisor died, to the chain taken apart at the Teshkar depot, to the lock chamber on the north cut, and to the man who died in his own kitchen at Highstile while his study read as nothing

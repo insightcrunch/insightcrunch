@@ -911,6 +911,28 @@ audit-officer'-payment-record-suspect-unexplain | nightjar-last-interview-009 | 
 complete-contain-file-officer-once-retir-retirement | nightjar-last-interview-009 | What does the file of a retired officer contain once the retirement is complete?
 accord-dead-house-inquiry-law-man'-open-remain-stand-under | nightjar-last-interview-009 | What is the standing of a dead man's house under Accord law when an inquiry remains open?
 
+### nightjar-private-register-010
+accept-accord-boxed-custody-evidence-item-officer-require | nightjar-private-register-010 | What does Accord evidence custody require of the officer who accepts a boxed item?
+custody-effect-instrument-may-office-oversight-removal-remove-take | nightjar-private-register-010 | What may oversight remove from Office custody, and by what instrument does a removal take effect?
+constabulary-duty-enter-evidence-highstile-keep-may-room-while | nightjar-private-register-010 | How does the Highstile constabulary keep its evidence room, and who may enter it while on duty?
+afterward-before-contain-field-inspection-long-must-pass-register-retain-will | nightjar-private-register-010 | What must a field register contain before it will pass inspection, and how long is it retained afterward?
+hold-keep-note-office-officer-private-rule-stand-under-written | nightjar-private-register-010 | What standing does a note written by an officer for private keeping hold under Office rules?
+at-box-constabulary-inventory-moment-pack-record | nightjar-private-register-010 | What does a constabulary inventory record at the moment a box is packed?
+again-at-inventory-pack-receipt-settl-sign | nightjar-private-register-010 | What is settled when an inventory is signed at packing and again at receipt?
+authority-copy-custody-far-hand-made-run-term | nightjar-private-register-010 | In custody terms, what is a copy made by hand, and how far does its authority run?
+been-before-box-follow-found-has-open-receipt-seal-sign | nightjar-private-register-010 | What follows when a box seal is found opened before receipt has been signed?
+bind-entry-evidence-log-may-open-room-such | nightjar-private-register-010 | Who may open an evidence room log, and what does an entry in such a log bind?
+book-dealt-officer-record-retir-retirement-work | nightjar-private-register-010 | How are the working books of a retired officer dealt with in the retirement record?
+custody-enter-has-may-object-office-once-oversight-recall-term | nightjar-private-register-010 | Once an object has entered oversight custody, may the Office recall it, and on what terms?
+case-notebook-office-page-personal-term-treat-turn | nightjar-private-register-010 | What is a personal notebook in Office terms, and how is it treated when a case turns on its pages?
+box-claim-constabulary-has-long-no-retain-seal-service-town | nightjar-private-register-010 | For how long does a town constabulary retain a sealed box that no service has claimed?
+break-chain-concern-custody-item-stand | nightjar-private-register-010 | What does a break in a chain of custody do to the standing of the item concerned?
+ash-corwen-leave-open-record-retirement-settle | nightjar-private-register-010 | What does the retirement record of Corwen Ash settle, and what does it leave open?
+arrival-as-at-desk-duty-highstile-record-service-station-such-visit | nightjar-private-register-010 | How does the duty desk at a station such as Highstile record the arrival of a visiting service?
+after-amend-be-field-filed-inspect-inspector-may-register-require | nightjar-private-register-010 | Who inspects a field register after it is filed, and what may an inspector require to be amended?
+condition-copy-evidence-govern-hand-inside-room | nightjar-private-register-010 | What conditions govern copying by hand inside an evidence room?
+accord-box-constabulary-custody-hand-seal-transferr-transport | nightjar-private-register-010 | How is custody transferred when a constabulary hands a sealed box to an Accord transport?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
