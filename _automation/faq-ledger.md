@@ -1169,3 +1169,27 @@ at-award-booker-ceremony-happen-prize | how-booker-prize-works | What happens at
 booker-booker-call-man-prize-prize-time | how-booker-prize-works | Why was the Booker Prize called the Man Booker Prize for a time?
 ark-become-film-list-schindler-schindler | how-booker-prize-works | How did Schindler's Ark become the film Schindler's List?
 booker-britain-matter-outside-prize-reader | how-booker-prize-works | Why does the Booker Prize matter to readers outside Britain?
+
+## history-armistice
+
+### how-compiegne-armistice-worked
+armistice-differ-surrender | how-compiegne-armistice-worked | What is an armistice, and how does it differ from a surrender?
+end-first-m-november-war-world | how-compiegne-armistice-worked | Why did the First World War end at 11 a.m. on November 11?
+alli-armistice-germany-sign-sign | how-compiegne-armistice-worked | Who signed the armistice for Germany, and who signed for the Allies?
+armistice-carriage-railway-sign | how-compiegne-armistice-worked | Why was the armistice signed in a railway carriage?
+accept-germany-main-november-term | how-compiegne-armistice-worked | What were the main terms Germany accepted in November 1918?
+armistice-end-first-war-world | how-compiegne-armistice-worked | Did the armistice end the First World War?
+after-blockade-continue-fight-germany-stopp | how-compiegne-armistice-worked | Why did the blockade of Germany continue after the fighting stopped?
+armistice-fleet-german-happen-under | how-compiegne-armistice-worked | What happened to the German fleet under the armistice?
+armistice-last-long-suppos | how-compiegne-armistice-worked | How long was the armistice supposed to last?
+armistice-commission-international-permanent | how-compiegne-armistice-worked | What was the Permanent International Armistice Commission?
+armistice-locomotiv-require-surrender-wagon | how-compiegne-armistice-worked | Why does the armistice require the surrender of locomotives and wagons?
+armistice-negotiable-term | how-compiegne-armistice-worked | Were the armistice terms negotiable?
+armistice-east-require | how-compiegne-armistice-worked | What did the armistice require in the east?
+died-last-many-morn-soldier-war | how-compiegne-armistice-worked | How many soldiers died on the last morning of the war?
+fight-germany-instead-sign-simply | how-compiegne-armistice-worked | Why did Germany not simply fight on instead of signing?
+armistice-back-feed-legend-stab | how-compiegne-armistice-worked | What is the stab-in-the-back legend, and how did the armistice feed it?
+contemporari-judge-severity-term | how-compiegne-armistice-worked | How did contemporaries judge the severity of the terms?
+armistice-armistice-compare-compi-gne-korean | how-compiegne-armistice-worked | How does the Compiègne armistice compare with the Korean armistice of 1953?
+armistice-can-compi-gne-read-surviv-text | how-compiegne-armistice-worked | Where can the text of the armistice be read, and what survives at Compiègne?
+about-argue-document-event-full-historian-surviv-whose | how-compiegne-armistice-worked | Why do historians argue about an event whose document survives in full?

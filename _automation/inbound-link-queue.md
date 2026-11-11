@@ -191,3 +191,7 @@
 ## nightjar-private-register-010
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The room was the first of four she would one day set down side by side in a notebook of her own, in her own hand, four lines that settled what each encounter alone had left loose."
 - _posts/2026-11-09-nightjar-last-interview-009.md - could carry: "What survived of Ash was not in the study at all but under a drawer in his own house, a ledger a careful constable boxed for the Accord, and the keeping of books against orders turned out to run in the Office like a trade."
+
+## how-compiegne-armistice-worked
+- _posts/2015-11-26-treaty-of-versailles-explained.md - could carry: "The truce that the treaty replaced had already disarmed Germany by dated stages, and the account of how the Compiègne armistice worked shows the machinery the peacemakers inherited."
+- _posts/2015-12-16-how-ww1-changed-the-world.md - could carry: "The collapse that set that transformation in motion was converted into fact by a signed schedule of withdrawals and handovers, traced in the account of how the Compiègne armistice worked."
