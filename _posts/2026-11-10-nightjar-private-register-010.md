@@ -6,19 +6,19 @@ date: 2026-11-10
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "highstile", "fiction-serial"]
 excerpt: "A dead man's ledger surfaces under a drawer at Highstile, and three parties want it, and whatever Mira recovers goes to oversight and not to her own Office."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 106
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-10
+lang: en
 ---
-
 ## Under the Drawer
 
 The house stood at the upper end of a lane climbing away from the market square in Highstile, where stone walls leaned close and slate roofs held the night cold into morning. Hale Brannt came in by the back door, because the front step had iced and the seal on the front door was his own work, not to be broken without cause. Inside, the air smelled of cold ash, damp wool, and paper shut away in rooms. Thin light lay across kitchen flagstones worn smooth near the sink. Tape hung still across the study doorway, and everything else kept the tidiness of a man who had lived alone and expected each object to be found in its place.
 
 He set his case on the kitchen table and opened it in the order he had taught younger men. Inventory book first, then a sharpened pencil, string, labels, spare seals. He wrote the heading the form required, the address, the name of the dead man, and the authority for the work. Corwen Ash. Brannt had known the name longer than the man, a common arrangement in Highstile. Ash had been a retired clerk from the Accord offices, home in the hill town on a pension, walking before breakfast, keeping little company. Ash had been civil, exact, and private, as if privacy were a form of good manners.
 
-![A bound ledger in a constable's evidence box at Highstile, its cover plain and its page edges darkened by years of one man's hands - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A bound ledger in a constable's evidence box at Highstile, its cover plain and its page edges darkened by years of one man's hands - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 He began with the rooms that held the least. The kitchen took one box for the dresser and another for papers in a tin above the stove. Receipts, a household notebook, coal deliveries entered in a hand so regular that he paused over it despite himself. Ash had paid each bill and kept the stubs in order, week by week. He was there to list, wrap, and label, and to see that nothing left the house except under a signature.
 
