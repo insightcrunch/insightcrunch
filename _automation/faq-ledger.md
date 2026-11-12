@@ -1215,3 +1215,27 @@ contemporari-judge-severity-term | how-compiegne-armistice-worked | How did cont
 armistice-armistice-compare-compi-gne-korean | how-compiegne-armistice-worked | How does the Compiègne armistice compare with the Korean armistice of 1953?
 armistice-can-compi-gne-read-surviv-text | how-compiegne-armistice-worked | Where can the text of the armistice be read, and what survives at Compiègne?
 about-argue-document-event-full-historian-surviv-whose | how-compiegne-armistice-worked | Why do historians argue about an event whose document survives in full?
+
+## business-bdc
+
+### how-business-development-companies-work
+busines-company-development-simple-term | how-business-development-companies-work | What is a business development company in simple terms?
+busines-company-development-different-equity-from-fund-private | how-business-development-companies-work | How is a business development company different from a private equity fund?
+bank-busines-company-development-different-from | how-business-development-companies-work | How is a business development company different from a bank?
+busines-compani-creat-development | how-business-development-companies-work | Why were business development companies created?
+busines-compani-compani-development-kind-lend | how-business-development-companies-work | What kinds of companies do business development companies lend to?
+asset-busines-company-development-mean-net-value | how-business-development-companies-work | What does net asset value mean for a business development company?
+asset-at-busines-company-development-discount-net-shar-trade-value | how-business-development-companies-work | Why do business development company shares trade at a discount to net asset value?
+asset-at-busines-company-development-net-premium-trade-value | how-business-development-companies-work | Can a business development company trade at a premium to net asset value?
+busines-compani-development-make-money | how-business-development-companies-work | How do business development companies make money?
+between-busines-compani-development-difference-externally-internally-manag-manag | how-business-development-companies-work | What is the difference between internally managed and externally managed business development companies?
+busines-charge-company-development-fee-manager | how-business-development-companies-work | What fees do business development company managers charge?
+busines-company-development-leverage-much-use | how-business-development-companies-work | How much leverage can a business development company use?
+busines-compani-development-distribute-income-most-their | how-business-development-companies-work | Why do business development companies distribute most of their income?
+it-matter-non-accrual-statu | how-business-development-companies-work | What is non-accrual status and why does it matter?
+busines-company-development-income-payment-in-kind-portfolio | how-business-development-companies-work | What is payment-in-kind income in a business development company portfolio?
+investment-it-read-schedule | how-business-development-companies-work | What is a schedule of investments and how is it read?
+busines-company-development-if-loan-not-they-trade-valu | how-business-development-companies-work | How are business development company loans valued if they do not trade?
+busines-compani-development-happen-recession | how-business-development-companies-work | What happens to business development companies in a recession?
+busines-compani-development-merge | how-business-development-companies-work | Why do business development companies merge?
+busines-company-development-tax | how-business-development-companies-work | How is a business development company taxed?

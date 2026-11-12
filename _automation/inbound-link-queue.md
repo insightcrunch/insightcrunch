@@ -199,3 +199,7 @@
 ## nightjar-seal-that-wasnt-011
 - _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The depot sting had closed around an empty room; on the Valtessa docks the emptiness had learned a narrower trade, and it sat behind perfect seals on doors whose rooms read normally in every other way."
 - _posts/2026-11-10-nightjar-private-register-010.md - could carry: "The register she had been told to stop keeping received three photographs a few days later, cut out by hand and put in with the four lines, and the doors in them were the first entries that were not rooms at all."
+
+## how-business-development-companies-work
+- _posts/2026-11-06-how-corporate-spin-offs-work.md — could carry: "A company that chooses the opposite motion from separation, merging a smaller vehicle into a larger one to escape the discount trap, follows the logic traced in the account of how business development companies work."
+- _posts/2026-10-16-how-at1-bonds-work.md — could carry: "Outside banking, another listed vehicle funds private credit under a statutory leverage ceiling and distributes nearly all of its income, the structure explained in the account of how business development companies work."
