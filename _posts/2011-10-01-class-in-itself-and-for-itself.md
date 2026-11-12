@@ -6,17 +6,17 @@ date: 2011-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Class", "Karl Marx", "Sociology", "Political Theory"]
 excerpt: "Class in itself and class for itself are a famous pair with a lopsided history: one phrase Marx used once, the doctrine built on it and the sack of potatoes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 93
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-10-01
+lang: en
 ---
-
 Class in itself and class for itself may be the most confidently quoted pair of terms in the whole vocabulary of Marxism, and the confidence is the problem. Open almost any revision guide, lecture slide, or dictionary of sociology and the two phrases arrive together, set in quotation marks or in the solemn type reserved for a thinker's own coinage, arranged as the two stages of a single journey: a class first exists objectively, sharing a position in production without knowing it, and then awakens, organises, and becomes a class for itself. The picture is neat, memorable, and almost entirely unsupported by the texts it claims to summarise. Marx never wrote the phrase class in itself. He wrote, once, in a book of 1847, that a mass had become a class as against capital but not yet for itself, and that single subordinate clause, buried in a polemic against Proudhon, is the entire textual foundation on which the symmetrical pair and its stage theory were later built. Everything else, the balanced terminology, the developmental ladder, the implication that the second stage ripens out of the first the way a plant ripens out of a seed, was supplied by expositors who borrowed Hegel's German vocabulary and fitted Marx's clause into it.
 
 That is not a pedantic complaint about citation form, and this article is not an exercise in pedantry. The misattribution matters because the borrowed vocabulary smuggles in a philosophy. To call the first stage a class in itself is to describe a collectivity as something that already fully is what it is, with its interests fixed and its identity complete, merely waiting for the veil of unawareness to lift. The historical record of how collectivities actually form, in factories and villages and party offices, is messier than that, and Marx's own concrete writing about peasants, artisans, and industrial workers is messier too. A reader who knows which half of the pair is genuine, where the genuine half occurs, and what work it was doing in its single appearance is protected against a whole family of errors: quoting words Marx never wrote, teaching a doctrine he never stated, and assuming a guaranteed direction of travel that the evidence of class formation does not supply. Precision of this kind costs nothing and pays every time the terms are used in an essay, a seminar, or an editorial meeting.
 
-![Class in itself and class for itself in Marx, the half-quotation, the sack of potatoes and objective interests - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class in itself and class for itself in Marx, the half-quotation, the sack of potatoes and objective interests - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 ## What class in itself is supposed to mean
 

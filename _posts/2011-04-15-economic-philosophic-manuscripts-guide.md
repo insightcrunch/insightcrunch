@@ -6,14 +6,15 @@ date: 2011-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Paris Manuscripts", "Karl Marx", "Political Theory", "Philosophy"]
 excerpt: "The Paris Manuscripts are not a finished book but an editorial reconstruction: how the manuscripts were made, ordered, lost, published and argued over."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 88
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-04-15
+lang: en
 ---
 The Paris Manuscripts are the most influential text in the Marxist tradition that their author never wrote, if writing means finishing, ordering, titling, and releasing a work to readers. What Karl Marx left behind in 1844 was a set of working papers: three incomplete manuscripts, partly written in ruled columns, with pages lost, breaks in the argument, and no instruction anywhere about the order in which the pieces belong. Everything a modern reader encounters between two covers, the title on the spine, the sequence of sections, the sense of a book that begins with wages and ends with a critique of Hegel, was supplied by editors working almost a century later. That single fact changes how the text should be read, cited, taught, and argued from, and it is the fact that nearly all commentary on the manuscripts passes over in silence.
 
-![The Paris Manuscripts, Marx's Economic and Philosophic Manuscripts, their making, ordering and publication - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Paris Manuscripts, Marx's Economic and Philosophic Manuscripts, their making, ordering and publication - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This guide treats the manuscripts as what they materially are before treating them as what they philosophically say. It follows the papers from a Paris desk in the spring and summer of 1844, through their strange physical format and their eighty-eight years of obscurity, to the two rival editions of 1932 that arranged them differently and thereby gave the twentieth century two different young Marxes. It maps each manuscript and section, names the passages that carry the argument, decodes the hard places where readers usually stall, and gives a route through the text that a first reader can actually finish. The reward for this material patience is considerable, because the manuscripts reward it: once their status is understood, arguments that have run for generations about continuity and rupture in Marx's thought can be restated in a form where evidence, rather than editorial habit, decides them.
 

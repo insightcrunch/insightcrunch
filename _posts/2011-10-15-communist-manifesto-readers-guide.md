@@ -6,14 +6,15 @@ date: 2011-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Communist Manifesto", "Karl Marx", "Friedrich Engels", "History"]
 excerpt: "The Communist Manifesto repays reading section by section: what each part argues, which part is dated polemic, the prefaces and the corrections in them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-10-15
+lang: en
 ---
 The Communist Manifesto is the most widely read political pamphlet ever written, and also one of the most persistently misread, because most people meet it under a false description. It is introduced in classrooms, bookshops, and quotation collections as though it were a summary of Marxism, a short version of a theory whose long version sits in Capital. It is nothing of the kind. The Communist Manifesto is a party document, commissioned by a small revolutionary organisation, written in a matter of weeks by two men in their twenties, and published in London in February 1848, two decades before the first volume of Capital appeared. Its authors spent a significant part of their later lives explaining, qualifying, and in a few places correcting it, and they attached those explanations to the text itself in a series of prefaces that most editions print and most readers skip. A reader who knows those facts before opening the pamphlet will read a different and better book than the reader who does not, because nearly every famous difficulty in the text dissolves once its date, its commission, and its genre are held firmly in mind.
 
-![The Communist Manifesto read section by section, its four parts, ten measures, prefaces and corrections - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Communist Manifesto read section by section, its four parts, ten measures, prefaces and corrections - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 What the pamphlet is for can be stated in one sentence. It exists to tell a scattered and quarrelsome revolutionary milieu who its enemy is, what its historical task is, why the rival programmes competing for the same audience are wrong, and what its adherents should do in the countries where they operate. Everything in the text serves one of those four purposes, and the four sections correspond to them almost exactly. The first section gives the enemy a history and the audience a mission. The second states the aims of the communists and answers the objections a sceptical worker or a hostile journalist would raise. The third demolishes the competing socialist literatures that were bidding for the same readers. The fourth, by far the shortest, positions the communists among the opposition parties of the various European states. Read as that kind of document, a founding programme written for immediate use, the Manifesto is coherent, disciplined, and astonishingly efficient. Read as a treatise, it looks sloppy, exaggerated, and full of predictions that failed. The genre is the key, and this guide returns to it at every stage.
 

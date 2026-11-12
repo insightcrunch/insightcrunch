@@ -6,15 +6,15 @@ date: 2011-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Class", "Max Weber", "Sociology", "Karl Marx"]
 excerpt: "Marx and Weber on class differ at the root: production against market situation, status and party, plus the substantial point where Weber agreed with Marx."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-12-15
+lang: en
 ---
-
 Marx and Weber on class is the comparison every student of sociology meets early, and it is usually taught in a form that both thinkers would have disowned. The standard version runs in two sentences. Marx, it is said, divided society into two great classes defined by property, while Weber refined the picture by adding status and party, so that stratification became three dimensional where it had been one. The summary is tidy, memorable, and wrong at its foundation, because it presents Weber as correcting a thinker who had supposedly reduced social rank to wealth alone, and it presents the correction as a substitution of prestige for property. Weber made no such substitution. Read in his own text, Weber grounds class in the ownership and non ownership of property with a bluntness that rivals anything in Marx, and the genuine dispute between the two men lies somewhere more interesting than the textbook contrast suggests. It lies in where a class is constituted, in what a class can be expected to do, and in whether history has a direction. This article reconstructs both frameworks from their strongest statements, names the point of agreement that examination answers routinely erase, and then asks the only comparative question worth asking: which framework answers which question better, judged by a stated criterion rather than by allegiance.
 
-![Marx and Weber on class compared, production against market situation, status, party and life chances - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx and Weber on class compared, production against market situation, status, party and life chances - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The stakes of getting the comparison right are not merely antiquarian. Class remains the working concept through which sociology explains unequal incomes, unequal health, unequal schooling, and unequal political weight, and the two classical frameworks still organise the research that measures those inequalities. The large occupational schemas used in mobility research descend from Weber through a line of scholars who refined his market based categories. The relational schemas used in the study of exploitation and workplace authority descend from Marx through scholars who rebuilt his production based categories for economies he never saw. When the two traditions are tested against the same evidence, the classical dispute becomes an empirical one, and the verdict is more instructive than either side's partisans suggest. A reader who understands what Marx and Weber actually claimed can also see why the modern contest ends so often in a draw on prediction and a genuine divergence on explanation. That is the destination of the argument that follows. The route runs through each framework in its own terms first, because a comparison conducted before both positions are stated fairly is not a comparison at all but a verdict in search of a hearing.
 

@@ -6,15 +6,15 @@ date: 2011-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Class Structure", "Research Methods", "Sociology", "Erik Olin Wright"]
 excerpt: "Class structure has been measured on Marxist criteria in large surveys: Wright's schemas, official classifications and why the totals refuse to agree."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-11-15
+lang: en
 ---
-
 Ask how large the working class is within the class structure of a developed economy and the answers arrive with confidence and without agreement. One source reports a working class that forms a shrinking minority, overtaken by a broad middle. Another reports a working class that remains the large majority of everyone who works for a living. A third declines to use the phrase at all and offers instead a ladder of occupational groups, numbered from the top, in which no boundary is drawn where a Marxist would draw one. The disagreement is usually treated as a dispute about society, as though one side must have miscounted the population. The argument of this article is that the disagreement is principally about measurement, and that once the measurement decisions are made visible, most of the mystery dissolves. Class has been measured, seriously and at scale, on explicitly Marxist criteria, in comparative surveys that asked respondents about ownership, about authority over others at work, and about credentials. What those surveys found is instructive twice over. They found class structures that differed between countries at similar levels of development, which no theory of a uniform modern occupational order would predict. And they demonstrated, in their own internal variations, that the measured size of a class depends more on how a schema treats authority and credentials than on anything respondents actually reported. That second finding deserves a name, and this article gives it one: the asset-inclusion rule.
 
-![Class structure measured on Marxist criteria, Wright's schemas, official classifications and why totals disagree - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class structure measured on Marxist criteria, Wright's schemas, official classifications and why totals disagree - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The claim at stake is testable in a way that much writing about class is not. Marxist theory does not merely assert that class matters; it specifies what class is. A class position, on the relational account developed in the [marxist theory of class guide](/2011/09/01/marxist-theory-of-class-guide/), is defined by a person's relation to the means of production, by whether they own productive assets sufficient to live without selling their capacity to work, by whether they employ others or are employed, and by the authority and autonomy their position carries inside production. If that specification means anything, it should be possible to take a population, ask the relevant questions, sort the population accordingly, and report the resulting distribution. It should also be possible to say what would count against the enterprise: a schema whose categories could be redrawn at will to absorb any result, a distribution that changed only because the coding rules changed, or a set of categories that predicted nothing about the lives of the people sorted into them. This article follows the data and evidence discipline of stating the claim in measurable form before admiring it, and it keeps the same standard when the evidence turns awkward, because the awkward parts of this record are among the most informative.
 

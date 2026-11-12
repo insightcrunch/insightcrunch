@@ -6,14 +6,15 @@ date: 2011-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Working Class", "Class", "Sociology", "Karl Marx"]
 excerpt: "The working class has been declared dead on definitions that would also dissolve it in Marx's own century: the criterion-first rule and the global evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-11-01
+lang: en
 ---
 Few questions in social argument are asked with more confidence and answered with less agreement than this one. One writer announces that the working class has vanished, dissolved into a broad middle mass of homeowners, graduates, and pension holders. Another replies that it has never been larger, that most of humanity now lives by selling its capacity to work, and that reports of the disappearance confuse a change of costume with a death. Both writers can point at real evidence. Both can quote employment statistics, income distributions, and scenes from ordinary life that support their side. Yet the argument never closes, because the two sides are not disagreeing about the same object. Each has quietly adopted a different test for what a working class is, and each test, applied honestly, delivers the verdict its holder announced in advance. The counting is downstream of the definition, and the definition is where the real dispute lives.
 
-![Does the working class still exist, the criterion-first rule, service work, pensions and the precariat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Does the working class still exist, the criterion-first rule, service work, pensions and the precariat - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 This article proceeds on a conviction that the dispute can be made intelligible, and largely resolved, by dragging its hidden machinery into the open. The machinery is a criterion: a rule that decides who counts as working class before any counting begins. State the criterion and the verdict follows almost mechanically. Leave it unstated and two intelligent people can argue forever while measuring different things. That conviction has a name in what follows. The criterion-first rule holds that any claim that the working class has disappeared or persisted is uninterpretable until the criterion is stated, and that once it is stated, most of this debate resolves into two groups measuring different things and disagreeing about which measurement matters. The rule does not decide the argument by itself. It shows where the argument actually is, which parts of it evidence can settle, and which part is a genuine contest about what class is for.
 

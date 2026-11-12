@@ -6,14 +6,15 @@ date: 2011-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Alienation", "Anomie", "Durkheim", "Sociology"]
 excerpt: "Anomie and alienation name different conditions with a similar emotional signature: unregulated desire against estranged production, compared point by point."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-07-01
+lang: en
 ---
 Anomie and alienation arrive in most classrooms as near synonyms, two heavy words for the flat feeling of modern work, and that first impression does lasting damage. A student who files them together will misread both authors, because Karl Marx and Emile Durkheim were not offering rival labels for one mood. Each thinker isolated a different condition, traced it to a different mechanism, and prescribed a different remedy. The feelings can resemble each other from inside a life. A person may feel detached, restless, unrecognised, and unsure what the rules require, and that reported discomfort sounds similar whichever concept a textbook reaches for. Resemblance at the level of feeling, however, is not identity at the level of explanation. One diagnosis asks who controls production and who appropriates its result. The other asks whether shared norms still regulate desire strongly enough to give effort a settled horizon. Confusing those questions produces answers that fit neither.
 
-![Alienation and anomie compared, Marx and Durkheim on different conditions with a similar signature - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alienation and anomie compared, Marx and Durkheim on different conditions with a similar signature - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 A comparison earns its keep only when it supplies a criterion sharp enough to separate cases, and this article is built around one such criterion. Ask what each thinker says about the division of labour, the institution both men placed near the centre of modern life. Durkheim treated specialised interdependence as the normal basis of a new kind of solidarity, dangerous mainly when its moral regulation lagged behind its growth. Marx treated the detailed division of labour inside capitalist production as a mechanism that fragments the worker, subordinates living activity to a plan owned by another, and returns the product as an alien power. Same institution, opposite verdicts. That single contrast, named here the opposite-verdict test, separates the concepts faster and more reliably than any list of definitions, because a definition can be memorised while the verdict reveals the machinery underneath.
 

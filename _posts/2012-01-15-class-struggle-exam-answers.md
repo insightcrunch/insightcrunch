@@ -6,14 +6,15 @@ date: 2012-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Class Struggle", "Exam Preparation", "Karl Marx", "Sociology"]
 excerpt: "Class struggle exam answers earn marks on definition and transfer: the relational definition, one textual anchor, and moving class into new topic areas."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-01-15
+lang: en
 ---
 Class struggle is the most examined idea in the whole Marxist tradition, and it is also the idea most often answered badly by candidates who know a great deal about it. The reason is rarely ignorance. A weak script on class usually contains plenty of material: factories, owners, workers, strikes, revolutions, quotations half remembered from a famous pamphlet. What it lacks is an architecture. The definition arrives late or arrives wrong, the mechanism is asserted rather than shown, the named scholars blur into a single voice, and the evaluation at the end could have been attached to any topic in the specification. Markers read such scripts with a particular weariness, because the candidate has done the reading and still not earned the marks the reading should have bought. This guide exists to repair exactly that gap. It treats class not as a body of notes to be reproduced but as an answer to be built, and it builds that answer out of four components that recur in every strong script: a relational definition stated at the outset, one textual anchor placed where it does argumentative work, one rival framework named precisely enough to bite, and one evaluation that follows from the material rather than floating above it.
 
-![Class and class struggle exam answers, the transfer rule, definitions, anchors and evaluation that earn marks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class and class struggle exam answers, the transfer rule, definitions, anchors and evaluation that earn marks - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 The organising claim of the guide can be stated before any detail, because everything else is an elaboration of it. A single well constructed class paragraph, containing the relational definition, the mechanism that connects position to interest, and one named evaluation held in reserve, can be carried into almost every question in which Marxism appears. Education questions, crime questions, family questions, media questions, work questions and pure theory questions all reward the same opening machinery, adjusted at the point of application rather than rebuilt from nothing. That claim is called the transfer rule in this guide, and it changes the economics of revision. Instead of memorising five separate bodies of content for five separate units, the candidate builds one paragraph to a high standard, learns to aim it at different questions, and spends the saved effort on the evaluative material that separates the highest bands from the merely competent. The sections that follow take the components in order: the definition first, because it carries more marks than any other sentence in the answer; then the mechanism of struggle; then the anchors; then consciousness; then the matrix that organises question types; then two fully worked skeletons; then a failure analysis of the scripts that lose marks they should have kept.
 

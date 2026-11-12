@@ -6,14 +6,15 @@ date: 2011-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Alienation", "Workplace", "Sociology", "Karl Marx"]
 excerpt: "Alienation at work can be told apart from burnout, boredom and bad management: a sorting method for modern complaints, the remedy test and hard cases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-06-15
+lang: en
 ---
 Alienation has become the word reached for whenever work feels wrong, and a word that covers everything ends up explaining nothing. A warehouse picker whose pace is set by a scanner, a nurse holding a stranger's hand through a bad night, a software engineer who cannot say what her team's product is for, a driver who owns his car yet answers to an application he cannot negotiate with: commentary gathers all four under one heading and moves on, as though naming the mood were the same as analysing the condition. Marx's concept was built to do finer work than that. It names a structure, a set of relations between a producer and what she produces, the activity of producing, her own capacities, and other people, and it either fits a given workplace or it does not. Fit matters because diagnosis governs remedy. A complaint that belongs to exhaustion calls for rest and staffing. A complaint that belongs to meaninglessness calls for a different conversation about social usefulness. A complaint that belongs to alienation in the strict sense points at ownership and control, and no rearrangement of the furniture will touch it.
 
-![Alienation in modern workplaces, sorting complaints by the remedy test, burnout and algorithmic management - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Alienation in modern workplaces, sorting complaints by the remedy test, burnout and algorithmic management - Insight Crunch](/assets/images/blog/blog-106.webp)
 
 Sorting is therefore the whole task here. Six widely discussed features of contemporary working life get tested against the four relations that define the concept: algorithmic management, platform work, emotional labour, the meaningless work debate, remote and hybrid arrangements, and the family of disengagement phenomena gathered under labels such as quiet quitting. Some pass the test cleanly. Some pass on one relation and fail on the others. Some turn out to be different problems wearing alienation's coat, with different causes and different cures, and saying so is not pedantry. A vocabulary that cannot rule anything out cannot rule anything in either, and the affirmative cases in this series, the assembly line, the call centre floor, the managed warehouse, carry conviction only because the framework is also willing to say: not this one, not for that reason. Readers who want the concept itself before its applications will find it set out in the companion study of [Marx on alienation](/2011/04/01/marx-on-alienation-complete-guide/), and the four relations are unpacked one by one in the analysis of the [four types of alienation](/2011/05/01/four-types-of-alienation/). What follows assumes that groundwork and spends its length on the harder, more useful exercise of applying the distinctions where they are most often blurred.
 

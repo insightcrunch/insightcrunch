@@ -6,14 +6,15 @@ date: 2011-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Alienation", "Karl Marx", "Political Theory", "Sociology", "Philosophy"]
 excerpt: "Alienation in Marx is an objective relation, not a mood: the product, the activity, human nature and fellow workers confront the producer as alien powers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 89
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-04-01
+lang: en
 ---
 Alienation is the most widely borrowed concept in Karl Marx's vocabulary and the one most reliably damaged in the borrowing. In ordinary usage, and in most of what a search for the term returns, alienation names a feeling: a sense of disconnection at work, a suspicion that one's job is pointless, a flatness that settles over tasks performed for someone else's purposes. Defined that way, the concept belongs to occupational psychology. It can be surveyed, scored, correlated with absence rates, and treated with better management. Marx's concept does none of that work, because it is not about feelings at all. It names a relation, a structured connection between a producer and what the producer makes, does, is, and shares with others, and the relation either obtains or it does not, quite regardless of whether the person inside it reports contentment, misery, or nothing in particular. A well paid professional who loves the work, trusts the employer, and sleeps soundly may stand inside the relation in its complete form. A wretched labourer may be wretched for reasons, hunger, cold, cruelty, that the concept does not describe. Getting this one distinction right reorganises everything else in the topic, and getting it wrong, as most short accounts do, dissolves a theory of production into a complaint about mood.
 
-![Marx on alienation, the objective relation, the four forms and the German terms Entfremdung and Entausserung - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx on alienation, the objective relation, the four forms and the German terms Entfremdung and Entausserung - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 This guide works through the concept at the level the texts support. It begins with a precise statement of what alienation is, then separates the two German words that English translations collapse into one, traces the four older registers of meaning Marx inherited, and follows the argument of the estranged labour manuscript in the order Marx wrote it, relation by relation. It then sets the four relations into a grid that separates the objective condition from the feelings that typically accompany it, states the independence rule that follows, distinguishes alienation from the neighbouring concepts it is habitually confused with, and gives the strongest objection to the whole construction a full hearing before any verdict. The evidence for the concept's presence in the later writings is presented as evidence, with the argument about continuity left to the article that owns it. Nothing in the guide requires the reader to share Marx's conclusions. It requires only that the reader know what the conclusions were.
 

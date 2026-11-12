@@ -6,16 +6,17 @@ date: 2011-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Alienation", "Research Methods", "Sociology", "Karl Marx"]
 excerpt: "Alienation resists measurement in a specific way: the objective claim surveys cannot touch, the subjective scales they can, and the dilemma between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 91
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-08-01
+lang: en
 ---
 Alienation is the concept critics of Marx reach for when they want a charge that sounds decisive and ends discussion. The charge runs like this. A scientific concept must be capable of being wrong: there must be some observation, some result, some state of the world that would count against it, and the concept's defenders must be able to say in advance what that observation would be. Alienation, the critic says, fails this test completely. If workers report misery at work, that is alienation confirmed. If workers report contentment, that is alienation confirmed again, because the theory explains their contentment away as adaptation, false consciousness, or the anaesthetic effect of consumer goods. A concept that is confirmed by every possible answer is confirmed by none of them. It is not a finding about the world. It is a mood with a vocabulary, a piece of moral rhetoric dressed in the borrowed clothes of social science, and it survives not because it describes anything but because it can never lose.
 
 That objection deserves to be taken seriously rather than resented, because it is not stupid and it is not made only by enemies. Versions of it were pressed by sociologists who wanted to use the concept and discovered they could not say what would falsify it, by philosophers of science who used Marxism as their standard example of a theory that protects itself from refutation, and by Marxists themselves who worried that a category immune to evidence had become a liability to a tradition that claims to study the world as it is. The question this article answers is narrower and harder than the usual shouting match. It is not whether alienation is real, and it is not whether Marx was right about capitalism. It is whether the concept of alienation can be brought into contact with evidence at all: whether anything observable bears on it, what the long attempt to measure it actually produced, and what an honest defender and an honest critic should each concede when the record is laid out in full.
 
-![Whether alienation can be measured, Seeman's dimensions, Blauner's research and the falsifiability dilemma - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Whether alienation can be measured, Seeman's dimensions, Blauner's research and the falsifiability dilemma - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 ## The objection at full strength: a concept no evidence can touch
 

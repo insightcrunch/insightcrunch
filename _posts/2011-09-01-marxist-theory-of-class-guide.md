@@ -6,14 +6,15 @@ date: 2011-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Class", "Karl Marx", "Sociology", "Political Theory"]
 excerpt: "Class in Marx is a relation to the means of production, not an income band: the unfinished definition, the two-camp text and the historical complications."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-09-01
+lang: en
 ---
 Almost every account of Marx on class begins in the wrong place. It begins with two names, bourgeoisie and proletariat, arranged opposite each other like chess pieces, and it presents that arrangement as the theory itself. A reader who starts there learns a slogan and misses an argument. The honest place to begin is a gap. Near the very end of the third volume of Capital, in a short chapter titled Classes, Marx set out to answer the question his whole system presupposes: what makes a class? He named three great classes, posed the question, raised a difficulty against his own first answer, wrote a little more, and stopped. The manuscript breaks off after roughly a page and a half, and Friedrich Engels, preparing the volume for publication after Marx's death, let the fragment stand with an editorial note recording that the text ends there. The definition of the central category of Marxist theory was never finished by its author.
 
-![Class in Marxist theory, the relational definition, the unfinished chapter and the historical classes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Class in Marxist theory, the relational definition, the unfinished chapter and the historical classes - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That single fact reorganises everything a careful reader should say about class in Marx. If the definition is a fragment, then every confident summary of what Marx meant by class is partly a reconstruction, built by joining the fragment to the criterion Marx applies consistently across his economics and his historical writing. The criterion is recoverable. He uses it for forty years, in works of very different kinds, and it rarely wavers: a class is defined by its relation to the means of production, by whether its members own productive property and live from the labour of others, or own little beyond their capacity to work and must sell that capacity to live. What is not recoverable is a finished, systematic definition that settles the boundary cases, ranks the criteria when they conflict, or explains how a position in production becomes a collective actor in politics. Marx left those tasks undone, and the history of Marxist class analysis is largely the history of successors attempting them, disagreeing, and each claiming the fragment as authority.
 
@@ -291,7 +292,6 @@ No honest modern treatment can stop at the concession, made earlier, that class 
 Gender cuts deeper still, because the reproduction of labour power itself, the daily and generational work of feeding, caring, cleaning, and raising, is performed largely unpaid and largely by women, inside households that the wage relation presupposes and does not pay for. Engels attempted the connection in his work on the origin of the family, tying women's subordination to the rise of private property, and the argument's broad strokes, historicising the family, linking its forms to property and production, remain generative even where later scholarship has dismantled its anthropology. The durable point for class analysis is that the boundary of the working class does not run neatly around the waged: the unwaged labour that makes wage labour possible belongs inside any complete account of how the class lives and reproduces, and analyses that begin at the factory gate have started the story in the middle. A pillar article need not resolve these debates to respect them. It needs to mark the joints accurately, class explaining the production and appropriation of surplus, other axes explaining divisions and dominations that interact with that process, sometimes reinforcing it, sometimes splitting its actors, never reducible to decoration upon it.
 
 Global scale redraws the map once more. The criterion sorts positions inside a world economy in which the owner of a garment brand, the contractor running a factory on another continent, and the machinist sewing the garments occupy three different relations to the same product's surplus, and in which entire national workforces can stand in quasi-proletarian relation to capitals headquartered elsewhere. Marx anticipated fragments of this in his writings on colonialism and world trade, though his judgements on British rule in India, at once an engine of destruction and an unconscious tool of transformation in his notorious phrase, remain among the most contested pages he wrote, admired for their materialism and condemned for their Eurocentric confidence. The unfinished chapter rule applies with undiminished force at world scale: no finished Marxist theory of global class exists, because no finished theory of class exists, and the analyst's obligation is the same, criterion stated, reconstructions labelled, hard cases faced rather than defined away.
-
 
 
 ## For students and exam candidates

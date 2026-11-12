@@ -6,14 +6,15 @@ date: 2011-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Petty Bourgeoisie", "Middle Class", "Class", "Sociology"]
 excerpt: "The petty bourgeoisie is not a leftover to be waved away: shopkeepers, professionals and managers in Marx's scheme, and three meanings of middle class."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2011-12-01
+lang: en
 ---
 Few labels in political argument do more work with less precision than the petty bourgeoisie and the middle class. A freelance designer is called petty bourgeois by one writer and working class by another. A hospital consultant earning a large salary is described as middle class in a newspaper profile, as a credentialed employee in a sociology paper, and as part of a professional managerial class in a polemical essay, and each description sounds plausible because each is measuring something different. A shopkeeper who employs two assistants, a tenant farmer, a senior manager with share options, a self employed electrician with a van and a full order book: ordinary language sweeps all of them into one broad middle, and then argument proceeds as though the sweep had settled a question rather than postponed it. This article postpones nothing. It separates the things that share a name, states the Marxist criterion exactly, tests the difficult cases one by one, and follows the strange career of a technical term that escaped the seminar room and became an insult.
 
-![The petty bourgeoisie and the middle classes in Marx, shopkeepers, professionals, managers and three meanings - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The petty bourgeoisie and the middle classes in Marx, shopkeepers, professionals, managers and three meanings - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The stakes are not merely terminological. Class vocabulary is used to explain elections, to predict political behaviour, to assign blame for cultural change, and to decide whose interests a policy serves. When the vocabulary is loose, the explanations built on it are loose in the same places, and the looseness is invisible precisely because the words feel familiar. Everyone knows what middle class means until two speakers discover, twenty minutes into an argument, that one of them means an income range and the other means a relation to the means of production. The first service a glossary article can perform is therefore negative: to show which questions the familiar words cannot answer. The second service is positive: to supply the distinctions that can answer them, drawn from Marx's own usage, from the three major attempts to repair that usage for a salaried age, and from the hard cases that break careless versions of all four schemes. Readers who want the wider vocabulary set out systematically can work through the [marxism glossary key terms](/2010/05/15/marxism-glossary-key-terms/), which owns the general definitions; this article owns the intermediate positions and the confusions that gather around them.
 

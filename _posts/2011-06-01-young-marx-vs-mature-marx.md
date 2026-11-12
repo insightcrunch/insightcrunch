@@ -6,14 +6,15 @@ date: 2011-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Young Marx", "Karl Marx", "Althusser", "Political Theory", "Philosophy"]
 excerpt: "The young Marx and the mature Marx are one writer or two, depending on the evidence weighed: the break thesis, the Grundrisse problem and a defended verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-06-01
+lang: en
 ---
 Few questions in the study of a single thinker carry as much hidden weight as the dispute over the young Marx and the mature Marx. Stated plainly, the proposition in dispute is this: somewhere in the middle of the eighteen forties, Karl Marx abandoned the philosophical humanism of his early writings, broke with the vocabulary of alienation and species-being, and founded a science of history and political economy on entirely different foundations, so that the author of the Economic and Philosophic Manuscripts and the author of Capital are best read as two different thinkers who happen to share a name. One side of the argument accepts that proposition and builds a periodisation upon it. The other side denies it, insisting that the concerns of the early writings persist, transformed but recognisable, through the whole of the later work. Both sides can quote texts. Both sides can point to dates. The argument has lasted for decades because the evidence genuinely pulls in two directions, and because a great deal more than chronology rides on the answer.
 
-![The young Marx and the mature Marx, the break thesis, Althusser and the Grundrisse evidence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The young Marx and the mature Marx, the break thesis, Althusser and the Grundrisse evidence - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The stakes become visible once a reader asks what the verdict controls. If the break is real and deep, then alienation is a youthful category that the mature theory discarded, and any reading of Capital that leans on alienation is importing a notion its author had rejected. If continuity holds, then the critique of political economy is the working out, by other means, of a critique of estranged labour that Marx formed in his twenties, and the economic writings lose their deepest motive when they are severed from the early manuscripts. Teachers decide which Marx their students meet first. Editors decide which texts belong in a selection and in what order. Political traditions decide which Marx they claim as an ancestor, the humanist philosopher of freedom or the scientist of capital. A dispute about periodisation is therefore also a dispute about inheritance, and it deserves to be settled by evidence rather than by allegiance. The evidence, handled carefully, does settle more of it than the polemics on either side suggest.
 

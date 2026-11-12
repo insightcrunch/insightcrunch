@@ -6,14 +6,15 @@ date: 2011-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Humanism", "Karl Marx", "Philosophy", "Political Theory"]
 excerpt: "Marxist humanism was a philosophy and a political moment at once: the humanist turn, the Praxis School, Althusser's attack and what survives of the position."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-07-15
+lang: en
 ---
 Marxist humanism was the attempt, made by philosophers on three continents during the middle decades of the twentieth century, to rebuild Marxism around a single recovered insight: that Marx's critique of capitalism began as a critique of what capitalist relations do to human beings, and that the categories of alienation, self activity and species life were not youthful decorations on an otherwise economic theory but the standard by which the whole critique measured its object. The humanists held that a worker estranged from the product of labour, from the act of production, from fellow producers and from the distinctively human capacity for free and conscious activity was not merely underpaid or politically excluded. Such a worker was diminished in a way that wages alone could not describe, and a socialism that reproduced that diminishment under new management had failed by the only criterion that finally mattered.
 
-![Marxist humanism, the Praxis School, Fromm and Althusser's attack on theoretical humanism - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist humanism, the Praxis School, Fromm and Althusser's attack on theoretical humanism - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 That claim sounds gentle, almost obvious, until its setting is restored. Marxist humanism was not born in a seminar room, and it was not a plea for kindness inside an otherwise intact doctrine. It formed at the moment when the official Marxism of the communist states faced its gravest internal crisis, when the secret speech of 1956 and the uprisings that followed it forced communists and ex communists alike to ask how a movement speaking the language of emancipation had produced bureaucratic command, police surveillance and the suppression of workers by states claiming to rule in their name. The humanists answered that the failure was not accidental. A Marxism reduced to laws of history, stages of development and the administration of production had lost the critical core of Marx's own thought, and recovering that core meant returning to writings that official doctrine had treated as immature, marginal or best forgotten. Their opponents, most formidably Louis Althusser, answered that the supposed recovery was itself the error: that Marx had become a scientist precisely by abandoning humanist philosophy, and that a Marxism rebuilt on human essence would explain nothing and console much.
 

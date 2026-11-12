@@ -6,14 +6,15 @@ date: 2011-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Species-Being", "Karl Marx", "Philosophy", "Political Theory"]
 excerpt: "Species-being is Marx's name for distinctively human activity: free, conscious, universal production, and the standard by which alienation is measured."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 90
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2011-05-15
+lang: en
 ---
 Some terms in Marx carry their difficulty on the surface, and species-being is the outstanding case. It arrives in translation wearing a hyphen, it sounds like biology and behaves like philosophy, and the glossaries that serve most readers dispose of it in a single line: species-being, they say, means human nature, or human essence, and the reader is sent onward as though a translation had been supplied. That gloss is not exactly wrong, and that is precisely the trouble with it. It is close enough to pass an examination and too loose to survive one serious question. If species-being simply meant human nature in the ordinary sense, then Marx's elaborate account of what human beings do when they produce, and of what happens to them when their production is estranged, would be decoration around a dictionary entry. The term does work in the texts where it appears. It names a specific account of distinctively human activity, it supplies the standard against which alienation is measured, and it stands at the centre of the longest running dispute in Marx scholarship, the dispute over whether the mature Marx kept a conception of human nature or threw the whole idea away in 1845.
 
-![Species-being in Marx, human nature, free conscious activity and the standard alienation is measured by - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Species-being in Marx, human nature, free conscious activity and the standard alienation is measured by - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 That dispute is not a quarrel about a footnote. It decides how the entire body of work is read. If the young Marx of the Paris manuscripts built his criticism of capitalism on a philosophical anthropology, on a claim about what human beings essentially are and what their activity essentially is, and if the older Marx abandoned that foundation for a science of production relations in which talk of essence has no place, then the early and late writings are two different theories sharing an author, and readers must choose which one they are studying. If, on the other hand, a conception of human nature runs through the work from the manuscripts to Capital, changing its vocabulary and its emphasis but never surrendering its core, then the criticism of capitalism in the later work still rests, quietly, on the standard the early work stated loudly. The sixth thesis on Feuerbach is the text both sides cite, a few sentences long, endlessly conscripted. This article reads the term from its source, follows it into the theory of alienation where it does its work, confronts the sixth thesis directly rather than through slogans, and then sets the whole career's evidence side by side, including a footnote in Capital that settles more of the question than most participants in the argument appear to know exists. The claim defended here has a name, because named claims can be checked. The abstraction reading of the sixth thesis holds that the thesis denies that the human essence is an abstraction inhering in the isolated individual, not that human beings have a nature, and that reading it the second way makes Marx's own later references to human nature unintelligible.
 
