@@ -6,12 +6,12 @@ date: 2026-11-11
 categories: ["Leisure"]
 tags: ["nightjar", "mira-kovac", "ninth-office", "meridian-accord", "valtessa", "fiction-serial"]
 excerpt: "A chain selling forged Accord seals is taken in Valtessa, and on three recovered doors the binding that should be readable is simply not there at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-11
+lang: en
 ---
-
 ## Counting Twice
 The yard behind the bonded store held its heat in stone. Alden Pyke stood with his back to the gate iron and felt the afternoon come off the paving in a slow wash, salt and tar and the green smell of harbour water beyond the warehouse roofs. The store he had inherited took up the long side of the yard, its bonded doors shut and chalked, its lower windows barred. At the far end, set apart by cracked ground where carts had worn two pale tracks, Tobin Rill kept his office in what had once been a tally room. It had a door that fitted, a roof that did not leak in the manner of the other roofs, and a single window with a blind drawn halfway down. Inside that window the air would be cooler, because everything about Rill's side of the yard was kept in the condition a man kept things when he expected other men to notice.
 
@@ -19,7 +19,7 @@ He had come through the gate with the money folded in a canvas packet against hi
 
 Rill's clerk was not in the outer room. The outer room held a table scarred by knife work and cup rings, two chairs that did not match, a ledger press in the corner with its screw down on nothing, and a row of seal boxes on a shelf, each box plain, each lid shut. Through the inner door, which stood open by the width of a hand, Pyke could see the edge of a desk and a man's sleeve resting beside a blotter, still in the way a sleeve rests when its owner has heard a step and chosen not to rise for it. He waited until his breathing had settled, and then he knocked on the open door with one knuckle, although he had plainly been heard already.
 
-![Three bonded doors standing side by side in a Valtessa warehouse, their lead seals catching the light - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Three bonded doors standing side by side in a Valtessa warehouse, their lead seals catching the light - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 Rill looked up and considered him without surprise. He was a spare man, neat in a way that had nothing to do with vanity, and his face gave Pyke the same feeling the yard had given him, that everything here had been placed and would be found again in its place. He gestured to the chair across the desk. He did not offer water, although there was a jug on the side table and the day was hot enough to make a courtesy of it. Pyke sat and set the canvas packet on his knee and held it there, because putting it on the desk at once felt like a surrender he had not rehearsed.
 
