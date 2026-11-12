@@ -6,15 +6,15 @@ date: 2012-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "News Media", "Ideology", "Media Studies", "Sociology"]
 excerpt: "News media ideology works mostly through selection rather than invention: ownership, professional routines, the propaganda model and the intention trap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 99
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-04-15
+lang: en
 ---
-
 Almost every public quarrel about the news media begins with a name. A proprietor is identified, a headline is quoted against him, an editor's past employment is rehearsed, and the argument closes as if a motive had been demonstrated and a mechanism explained. The quarrel feels satisfying because it has a villain, a document, and a verdict. It is also, in the judgement of the strongest Marxist writing on the press and broadcasting, an argument built on the weakest available version of the theory it claims to use. Marxist analysis of news contains at least three distinct accounts of how coverage becomes ideological, and they are not three strengths of one claim. They locate the cause in different places, they predict different patterns in the evidence, they fail in different ways, and an argument that slides between them without noticing will be refuted in the form in which it happens to be standing when the refutation arrives.
 
-![Ideology and the news media, ownership, news selection, routines and structural bias explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ideology and the news media, ownership, news selection, routines and structural bias explained - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The three accounts can be named before they are examined. The instrumentalist account holds that news serves the interests of capital because the organisations that produce it are owned by capitalists, directed by their appointees, and disciplined by their commercial purposes. The structuralist account holds that news would lean in much the same direction whoever owned it, because the routines of gathering, the economics of the format, and the dependence on official sources are built into the production process itself. The hegemonic account, developed most influentially by Stuart Hall, holds that news is a field of contest in which a dominant framing is offered, defended, and sometimes refused, so that consent is continually won rather than simply imposed. Each account has a founding literature, a body of evidence it handles well, and a class of facts it handles badly. The purpose of separating them is not taxonomic tidiness. It is that nearly every real dispute about media bias is lost or won at the moment the disputant, usually without knowing it, selects one of the three and is then attacked, fairly or not, as though the selection were the whole theory.
 

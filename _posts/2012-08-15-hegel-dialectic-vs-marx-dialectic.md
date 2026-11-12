@@ -6,15 +6,15 @@ date: 2012-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Hegel", "Dialectics", "Karl Marx", "Philosophy"]
 excerpt: "Hegel's dialectic and Marx's dialectic differ in what moves and what it moves through: the kernel and shell, the three readings and the presentation clause."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-08-15
+lang: en
 ---
-
 Hegel stands at the origin of nearly everything Karl Marx wrote about method, and yet the standard account of their relationship fits inside a single picture: a thinker discovered standing on his head, turned the right way up by his rebellious student. The picture comes from Marx himself, which gives it authority, and it has been repeated so often that it now functions as the whole explanation. A reader who knows only the inversion image knows that Marx praised something in Hegel and rejected something else, but cannot say what either thing was, cannot locate the praise or the rejection in any particular text, and cannot explain why the opening chapter of Capital reads the way it does. That gap between the image and the method is the subject of this article. The comparison pursued here stays at the level of method throughout: how each thinker believed a subject should be investigated, how its inner connections should be set out, what a negation does inside an argument, and why the order in which results are presented is itself a philosophical decision. Worldviews enter only where method requires them, since the wider quarrel between materialism and idealism as doctrines of what exists belongs to a companion discussion of [historical materialism vs idealism](/2010/04/01/historical-materialism-vs-idealism/), which treats that question directly.
 
-![Hegel's dialectic compared with Marx's dialectic, the kernel and the shell and the debt in Capital - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hegel's dialectic compared with Marx's dialectic, the kernel and the shell and the debt in Capital - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The stakes of the comparison are practical as well as scholarly. Anyone who opens Capital meets the debt on the first page, in an argument about commodities that proceeds by distinctions, doublings and transitions rather than by evidence in the ordinary sense, and generations of readers have stumbled there without knowing why the book begins in that register. Anyone who studies philosophy meets the debt from the other side, in lecture summaries that reduce Hegel to a mechanical formula he never used and Marx to a pupil who simply changed the subject matter. Both encounters go better once the method is understood on its own terms. Three bodies of evidence govern what follows. Marx's own methodological statements, above all the introduction drafted in 1857 and the Afterword written for the second German edition of Capital in 1873, supply his account of what he took and what he refused. Hegel's Science of Logic supplies the machinery that any honest comparison must describe before judging it. The scholarly dispute among three rival readings of the relationship, the inversion reading, the structural break reading associated with Louis Althusser, and the systematic dialectic developed by Christopher Arthur, Tony Smith and their colleagues, supplies the live argument into which the evidence must be fitted. The article states each reading as its holders state it, tests all three against the same texts, and allocates the truth among them by an explicit criterion rather than by acclamation.
 

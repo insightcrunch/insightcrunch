@@ -6,14 +6,15 @@ date: 2012-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Ideology Critique", "Research Methods", "Karl Marx", "Sociology"]
 excerpt: "Ideology critique is a method with definite steps and definite limits: the five-step template, immanent critique, and the fork between partiality and falsity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 97
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-03-15
+lang: en
 ---
 Ideology critique is among the most invoked and least taught methods in the Marxist tradition. Students meet it first as a finished performance: a celebrated reading of a novel, a newspaper, a speech, in which the critic moves with apparent effortlessness from surface detail to hidden function, and the text stands exposed. What the performance conceals is the procedure. The beginner who tries to imitate the result discovers that knowing what ideology means does not tell her what to do on Monday morning with a policy document open on the desk, an advertisement to analyse, or an essay deadline approaching. Definitions circulate freely. Instructions do not. This article supplies the missing instruction set: a five-step procedure that can be followed in order, a typology of the operations ideology performs on representation, one fully worked example carried through every step, and an honest account of the two limits that decide whether the exercise counts as analysis or degenerates into denunciation with footnotes.
 
-![Ideology critique as a method, the five steps, immanent critique and the limits of the method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ideology critique as a method, the five steps, immanent critique and the limits of the method - Insight Crunch](/assets/images/blog/blog-100.webp)
 
 A claim about status frames everything that follows. Ideology critique is a method, and a method earns its standing the way any research procedure does: by specifying its operations in advance, by stating what evidence each operation requires, and by declaring what result would count against its own conclusions. Where those conditions are met, the critique of a text is a piece of research that another worker can check, repeat, and dispute at identified points. Where they are not met, the vocabulary of ideology becomes a licence to redescribe disagreement as delusion, and the critic's opponents are refuted by definition rather than by argument. The difference between the two practices is not a difference of political commitment. Sympathetic and hostile readers alike produce both kinds. The difference is procedural, and it can be taught, which is the premise on which this guide is built.
 

@@ -6,14 +6,15 @@ date: 2012-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectics", "Social Science", "Research Methods", "Sociology"]
 excerpt: "Dialectics survives in modern social science mostly without its name: relational methods, systems thinking and the unnamed inheritance of its working habits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 105
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-11-01
+lang: en
 ---
 Dialectics has an odd afterlife in the social sciences, because the term itself has nearly vanished from the places where its habits are most faithfully practised. A student teacher on a training course in almost any country will be taught the zone of proximal development as a settled finding of developmental psychology, will be examined on it, and will plan lessons around it, without once being told that the psychologist who built the concept constructed his whole method out of Marx's writings and said so in print. A sociologist trained in network analysis will learn to treat relations as prior to the things related, will cite a famous manifesto for that commitment, and will rarely learn that the manifesto's central distinction was worked out a century earlier inside Marxist philosophy of science. A biologist who insists that organism and environment make each other will be working a seam opened by two Harvard scientists who announced their Marxism on the first page of their book. The pattern repeats often enough, across enough separate disciplines, that it deserves a name and an audit rather than a shrug.
 
-![Dialectics in social science, relational methods and systems thinking that carry its habits without its name - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dialectics in social science, relational methods and systems thinking that carry its habits without its name - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The name this article gives the pattern is the unnamed inheritance, and the claim behind the name needs stating precisely at the outset, because it is easy to inflate and easy to dismiss. The claim is not that every relational or process oriented method in the social sciences is secretly Marxist, and it is not that researchers who use these categories owe a political allegiance they have failed to declare. The claim is narrower and more checkable. A small set of analytical categories, worked out most systematically in the Marxist tradition under the heading of dialectics, can be found doing identifiable work inside at least five living research programmes. In some of those programmes the descent is documented in the founders' own statements and citations. In others the connection is a resemblance that honest reporting has to label as resemblance. And the near total disappearance of the word dialectics from the programmes that inherited the categories is itself a historical fact with historical causes, chiefly the professional cost of the association during the decades when these fields were forming. Each part of that claim can be tested, and the later sections of this article state, lineage by lineage, what evidence would count against it.
 

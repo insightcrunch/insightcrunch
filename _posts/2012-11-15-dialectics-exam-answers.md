@@ -6,14 +6,15 @@ date: 2012-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectics", "Exam Preparation", "Karl Marx", "Philosophy"]
 excerpt: "Dialectics exam answers fail on the inherited formula and pass on the definition: the answer matrix, the formula trap and the evaluative moves that score."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 105
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-11-15
+lang: en
 ---
 Dialectics is the topic on which well prepared candidates most often write answers their teachers would be embarrassed to defend, and the reason is peculiar to this corner of the syllabus. On most topics, revision resources simplify a defensible account into a shorter one, losing nuance but keeping the outline true. On dialectics, the standard revision account is not a simplification of the truth. It is a different doctrine, assembled by nineteenth century commentators, popularised by textbook writers who copied one another, and transmitted by generations of teachers who had themselves been taught it as a mnemonic. The candidate who revises diligently from those resources enters the examination room carrying an error that has been rehearsed more thoroughly than anything else in the script, and delivers it in the opening paragraph, where a knowledgeable marker sees it at once. This guide is built around that uncomfortable fact. It treats dialectics not as content to be summarised but as an answer to be constructed, and it constructs the answer from the components that actually earn marks: a definition stated in defensible terms, one distinction that carries the argument, two examples that satisfy a test, one located textual anchor, and an evaluation drawn from a named critic whose target has been specified.
 
-![Dialectics exam and essay guide, definitions that earn marks, the formula trap and evaluation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dialectics exam and essay guide, definitions that earn marks, the formula trap and evaluation - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The organising claim can be given a name at once, because candidates remember names and apply them under pressure. The formula trap is the pattern by which the best known summary of a topic becomes the fastest way to lose marks on it. Every subject has its traps, but dialectics is the clearest case in the whole of political theory and philosophy examining, because the summary in question, the sequence of thesis, antithesis and synthesis, appears in neither Hegel nor Marx, misdescribes the method both men practised, and announces its own second-hand origin to any marker who has read the primary texts. A candidate who avoids the formula, and says in a single clause why it is being avoided, has converted the most common error in the cohort into a visible mark of scholarship. A candidate who uses it has told the marker, in the first minutes of reading, that the script rests on summaries. Everything in the pages ahead serves that conversion: the definition work, the example discipline, the anchor selection, the matrix of question types, the two worked skeletons narrated in full, the dissection of a failing answer sentence by sentence, and the treatment of the critics, who are not decoration on this topic but the substance of its evaluation.
 

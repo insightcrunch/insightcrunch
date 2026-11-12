@@ -6,14 +6,15 @@ date: 2012-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Teaching Ideology", "Ideology", "Teaching", "Exam Preparation"]
 excerpt: "Teaching ideology without preaching is a design problem with a known solution: the symmetric lesson sequence, examples from every direction and fair assessment."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 101
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-06-15
+lang: en
 ---
 Teaching ideology is the topic most likely to damage a teacher's standing in a school, and the damage rarely comes from what the teacher believes. It comes from design. A lesson on class, on the family, on crime, can be taught badly without anyone writing home about it, because the material does not appear to accuse anyone in the room. A lesson on ideology accuses everyone in the room by definition, since its central claim is that beliefs serve interests and present themselves as something else. Students hear that claim as a verdict on their own households long before they hear it as a concept, and a parent who learns of the lesson at the dinner table hears it the same way. The teacher who walks in with a folder of advertisements and a confident manner, intending to reveal how the class is manipulated, discovers within twenty minutes that half the room has stopped analysing and started defending. Nothing has gone wrong with the content. Everything has gone wrong with the order in which the content was introduced.
 
-![Teaching ideology without preaching, a symmetric lesson sequence and fair assessment for the classroom - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Teaching ideology without preaching, a symmetric lesson sequence and fair assessment for the classroom - Insight Crunch](/assets/images/blog/blog-99.webp)
 
 This guide treats the problem as solvable, because it is. The failure mode described above is not caused by the sensitivity of students or the hostility of parents, though both exist. It is caused by a single structural decision that most published resources make without noticing: the first worked example is always a text the teacher expects the class to see through. The advertisement, the tabloid front page, the corporate brochure. Students are invited to dismantle a message aimed at other people, and they learn the dismantling moves quickly, and then the lesson turns, as it must, toward material closer to their own commitments, and the room divides between those who apply the moves and those who experience them as an ambush. The guide that follows replaces that structure with a different one. Its central principle is named the symmetry rule, and everything else in these pages, the sequence of lessons, the choice of texts, the handling of the hardest question in the topic, the design of assessment, is an application of that principle to a particular classroom difficulty.
 

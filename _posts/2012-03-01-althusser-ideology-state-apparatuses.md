@@ -6,14 +6,15 @@ date: 2012-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Althusser", "Ideology", "Political Theory", "Philosophy"]
 excerpt: "Althusser rebuilt the theory of ideology around institutions and interpellation: the ISAs, the subject hailed into place and the famous circle it creates."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-03-01
+lang: en
 ---
 Althusser wrote the most influential Marxist account of ideology of the twentieth century, and it is usually encountered in a form he would barely recognise. What circulates in lecture slides and revision guides is a list of institutions, a policeman calling out in a street, and a conclusion that schools exist to keep capitalism running. The list is real, the policeman is real, and the conclusion is not entirely wrong, but the three fragments together omit almost everything that makes the essay an argument. Missing is the question the essay exists to answer, which concerns the reproduction of the relations of production. Missing is the thesis that ideology exists materially in practices and rituals rather than in heads. Missing is the strange claim that ideology has no history. Missing, above all, is any sign that the famous text is an extract, cut from a longer manuscript that stayed unpublished for a quarter of a century and that answers, in part, the objections the extract provoked.
 
-![Althusser on ideology and the ideological state apparatuses, interpellation and the hailed subject - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Althusser on ideology and the ideological state apparatuses, interpellation and the hailed subject - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This profile restores the argument in the order Althusser built it. It begins with reproduction, because he did. It then separates the repressive apparatus from the ideological apparatuses, states the theses on ideology in general with the precision they demand, and only then turns to interpellation, the mechanism by which ideology is said to recruit the very subjects who live it. The profile also states the strongest objection to the whole construction, the charge of functionalism pressed by historians within a decade of publication, and it gives that objection the space it earned. A reader who finishes should be able to explain interpellation without leaning on the policeman, to say why the essay must be cited as an extract, and to state the circularity problem that the theory has never fully escaped. Those three abilities mark the distance between knowing the slogans and knowing the text.
 

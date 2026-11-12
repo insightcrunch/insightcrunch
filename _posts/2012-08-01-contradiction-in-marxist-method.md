@@ -6,16 +6,17 @@ date: 2012-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Contradiction", "Dialectics", "Philosophy", "Karl Marx"]
 excerpt: "Contradiction in Marxist method is a precise technical term, not a synonym for tension: the four kinds, the constitution test and the logical contrast."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-08-01
+lang: en
 ---
 Few words in the Marxist vocabulary earn their keep as unevenly as contradiction. In one paragraph it names the engine of historical change, the deep structure that explains why a stable looking order carries the seeds of its own transformation. In the next it names something far more modest, a difficulty, a friction, a policy that pulls against itself, a trend that cannot continue indefinitely. A reader meeting the word for the first time is usually handed a gloss that covers both uses and distinguishes neither: contradictions, the gloss runs, are opposing forces whose struggle drives development. That sentence is not false, exactly, but it is empty in a specific and damaging way. Opposing forces exist everywhere, in weather systems and football matches and committee meetings, and a definition that fits everything a word might mean tells the reader nothing about what the word excludes. Worse, the gloss invites the sharpest objection the concept faces. If two tendencies push in opposite directions, why call that a contradiction at all? A contradiction, in the only rigorous sense most readers know, is a statement that cannot be true, the assertion of a proposition together with its negation. Two tendencies in a labour market assert nothing. They simply pull. So the suspicion forms early and never quite leaves: that contradiction in Marxist writing is a metaphor wearing the uniform of a logical term, borrowing an air of rigour and profundity that its content has not earned.
 
 This article takes that suspicion seriously, because the suspicion is partly right, and working out exactly where it is right is the fastest way to learn what the term genuinely means. The method throughout is the glossary method of this series: a precise definition with its boundary drawn, the wrong definitions named and corrected one by one, the near neighbours separated with the exact difference stated in each case, the textual sources checked, and the strongest hostile argument heard at full length before any reply is attempted. The reader who stays to the end should be able to do four things that the standard gloss leaves impossible. The reader should be able to distinguish a dialectical contradiction from a logical contradiction without hesitation or embarrassment. The reader should be able to name the four distinct things Marx and the tradition after him call contradictions, and to say which of the four deserves the name under a stated test. The reader should be able to apply that test, the constitution test, to a fresh case and reach a defensible verdict. And the reader should be able to state the deflationary objection, that everything the word does could be done by the word conflict, in a form its proponents would recognise as fair, together with the honest concession the objection extracts.
 
-![Contradiction in Marxist method, constitutive relations, internal opposites and change explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Contradiction in Marxist method, constitutive relations, internal opposites and change explained - Insight Crunch](/assets/images/blog/blog-109.webp)
 
 ## What contradiction means in Marxist method
 

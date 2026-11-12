@@ -6,15 +6,15 @@ date: 2012-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Advertising", "Consumer Culture", "Ideology", "Sociology"]
 excerpt: "Advertising is where ideology critique meets the modern shopping basket: manufactured needs, rebellion sold back as branding and the needs criterion gap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-06-01
+lang: en
 ---
-
 Advertising is the most visible persuasive machinery of a commercial society, and for that reason it attracts the loosest thinking in the whole Marxist repertoire. A poster promises that a perfume will confer desirability, a soft drink will deliver friendship, and a car will certify that its driver has escaped the ordinary. The critic looks at the poster, feels the dishonesty in his fingertips, and reaches for the heaviest words available: manipulation, brainwashing, false consciousness, ideology. The words arrive as a bundle, and inside the bundle three quite different arguments are travelling together without being distinguished. One argument concerns the structure of commodity production itself and would hold in a world where no copywriter had ever lived. A second concerns a deliberate industry, its crafts and its costs, and can be examined in the texts that industry produces. A third concerns the wants of consumers and asserts that some of those wants are false, an assertion that turns out to need a criterion nobody has supplied. This article separates the three, because the separation is where the strength of the critique actually lies. Bundled together, the arguments inherit the weakness of the feeblest member and can be dismissed wholesale by anyone who notices that shoppers are not hypnotised. Separated, two of the three are formidably hard to answer, and the third can be marked honestly as an open wound rather than paraded as a triumph.
 
-![Advertising, consumption and ideology, manufactured needs, branding and the sale of a way of life - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Advertising, consumption and ideology, manufactured needs, branding and the sale of a way of life - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The question a Marxist analysis of advertising is supposed to answer is often misstated, so it deserves a plain statement at the outset. The question is not whether advertisements lie, since many do and many do not, and lying is a matter for trading standards rather than for social theory. Nor is the question whether people enjoy goods, since they plainly do and the enjoyment is frequently genuine. The serious question is what kind of work the selling apparatus performs inside a capitalist economy: what it does to the meanings attached to objects, what share of social resources it absorbs, what it presupposes about the wants it addresses, and whether the picture of human satisfaction it circulates amounts to an ideology in the precise sense this series has given that term, a representation that misdescribes a real relation in a way that serves the relation's continuation. A reader who wants the general concept before the application will find it in the [Marxist theory of ideology guide](/2012/02/01/marxist-theory-of-ideology-guide/), which sets out the senses of ideology the tradition has used and the tests each sense must pass. Advertising is the application where those tests meet the shopping basket, the broadcast break and the sponsored post, and it is a harder application than the polemical literature admits, precisely because the audience keeps answering back.
 

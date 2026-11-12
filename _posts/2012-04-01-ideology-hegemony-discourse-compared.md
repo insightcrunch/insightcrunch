@@ -6,15 +6,15 @@ date: 2012-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Hegemony", "Ideology", "Gramsci", "Foucault", "Political Theory"]
 excerpt: "Hegemony, ideology and discourse are three different instruments, not synonyms: Gramsci, Foucault, and the entitlement test for choosing between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 99
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-04-01
+lang: en
 ---
-
 Ideology, hegemony, and discourse are the three words a reader of political theory is most likely to meet used as though they were interchangeable, and the habit costs more than elegance. A seminar essay announces that a newspaper exercises hegemony through its ideology, which a second essay redescribes as the newspaper's discourse, and both essays proceed as if nothing had changed between the sentences. Something has changed, and it is not a nuance of vocabulary. Each of the three concepts was built inside a different theory of how societies hold together, each presupposes a different answer to the question of what lies behind a representation, and each entitles its user to make a different kind of claim at the end of the analysis. To swap one for another mid argument is to change the theory while keeping the tone, rather as if a surveyor exchanged a theodolite for a barometer because both are instruments with dials. This article separates the three, reconstructs each from its strongest statement, and then compares them on a single stated criterion: what each concept commits its user to, and what each permits its user to say.
 
-![Ideology, hegemony and discourse compared, Gramsci and Foucault, consent, power and how to choose - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ideology, hegemony and discourse compared, Gramsci and Foucault, consent, power and how to choose - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The comparison has a destination, and it can be stated at the outset. Ideology, in its Marxist senses, presupposes a real relation that a representation distorts or partially reveals, so it licenses the claim that a belief is false and that its falsity serves an interest. Hegemony, as Antonio Gramsci developed the term in prison, names leadership secured through consent rather than imposed by force, a leadership that involves genuine concessions and the active agreement of subordinate groups, and it licenses claims about how consent is produced, maintained, and lost. Discourse, in the sense derived from Michel Foucault, refuses the presupposition the first concept requires: there is no standpoint outside discourse from which a representation can be measured against an undistorted real, power and knowledge constitute one another, and the subject who might have seen clearly is itself an effect of the field it inhabits. A comparison that ends with three definitions side by side has done only half its work. The sharper half is the recognition that choosing among these instruments is a decision about what kind of sentence the analyst wants to be entitled to write afterwards, and that some combinations of the three are not layers of one analysis but contradictions wearing a shared vocabulary.
 

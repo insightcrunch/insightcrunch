@@ -6,14 +6,15 @@ date: 2012-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Popper", "Philosophy of Science", "Dialectics", "Karl Marx"]
 excerpt: "Popper made two quite different attacks on Marxist method, and they are usually merged into one: falsifiability, historicism and the two-argument correction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-09-15
+lang: en
 ---
 Karl Popper is the critic of Marxism whose name is known to people who have never read a page of him, and the version of his argument that circulates under his name is one he would have rejected as a misstatement of his own case. Ask what Popper showed, in a seminar room, an examination hall, or the comments beneath an article, and the answer arrives in a single sentence: Popper proved that Marxism is unfalsifiable, and therefore a pseudoscience. The sentence is confident, quotable, and wrong in a way that matters, because it reverses the order of Popper's actual argument, discards the part of the argument he himself considered the more damaging, and attributes to him a contempt for Marx that his pages conspicuously do not contain. Correcting the summary is not a courtesy to a dead philosopher. It is the precondition for knowing what the critique actually establishes, what it leaves standing, and where the honest replies to it are to be found.
 
-![Popper's attack on Marxist method, falsifiability and historicism separated and answered in turn - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Popper's attack on Marxist method, falsifiability and historicism separated and answered in turn - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The correction this article defends can be stated at the outset, because everything that follows is its elaboration. Popper made two independent arguments, separated by subject, by text, and by logical type. The first is a historical argument about what happened to a theory: Marx's theory, on Popper's account, began as a genuinely scientific construction, staked itself on predictions, was refuted by the events it had forecast wrongly, and was then rescued by followers who reinterpreted it until nothing could count against it. The second is a logical argument about what is possible: no theory, Marxist or otherwise, can predict the future course of history, because that course depends on the future growth of human knowledge, and future knowledge cannot be predicted by any rational method without ceasing to be future knowledge. The first argument is about Marxism's conduct after a failure. The second is about the structure of prediction itself. Merging them, as almost every summary does, weakens both: it makes the first sound like a definitional trick and the second sound like a partisan opinion, when in fact the first is an empirical claim about a tradition's behaviour and the second is a piece of logic that applies to every philosophy of history ever written. This article calls that separation the two-argument correction, and it treats the separation as the price of admission to the whole debate.
 

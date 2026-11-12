@@ -6,14 +6,15 @@ date: 2012-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectical Materialism", "Engels", "Philosophy", "Political Theory"]
 excerpt: "Dialectical materialism is the name later Marxism gave its official philosophy: a term Marx never used, the three laws, the orthodoxy and the rejection."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 101
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-07-01
+lang: en
 ---
 Dialectical materialism is the phrase under which Marxism was taught to hundreds of millions of people, printed on the first page of textbooks across a third of the world, and examined in schools where it functioned less as an argument than as a civic creed. Yet the man whose name the doctrine bears never used the phrase once. Karl Marx wrote of a dialectical method, of a materialist conception of history, of turning Hegel right side up; the compound noun that later generations treated as the title of his philosophy appears nowhere in his published work, nowhere in his manuscripts, nowhere in his letters. That single fact, small enough to fit in one sentence, reorganises everything a reader thought was settled about the subject. A doctrine with an author can be checked against the author. A doctrine assembled after the author's death, from materials he left behind and by hands other than his, has to be checked against a chain of assembly, and each link in that chain is a place where choices were made, alternatives discarded, and emphases set that no founder ever ratified.
 
-![Dialectical materialism explained, the term Marx never used, the three laws and the orthodox system - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dialectical materialism explained, the term Marx never used, the three laws and the orthodox system - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This guide follows the chain link by link. It begins with what the doctrine claims when its defenders state it in their own strongest terms, because a system that governed the intellectual life of great states deserves to be understood before it is judged. It then separates the three different things that share the dialectical vocabulary: a general ontology, meaning a set of laws said to govern all reality from electrons to revolutions; a theory of history, which is what historical materialism actually is; and a method of presentation that Marx himself used in Capital, where categories are developed out of one another in a carefully ordered ascent. These three objects have different authors, different evidence, different vulnerabilities, and different fates. The failure to separate them is the reason almost every popular argument about dialectics talks past itself: a critic demolishes the ontology and believes Marx's economic analysis has been touched; a defender exhibits the subtlety of the method in Capital and believes the ontology has been vindicated. Neither inference holds, and the discipline of refusing both is what this guide calls the three-object rule.
 

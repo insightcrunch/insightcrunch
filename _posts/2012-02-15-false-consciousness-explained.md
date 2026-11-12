@@ -6,14 +6,15 @@ date: 2012-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "False Consciousness", "Ideology", "Karl Marx", "Sociology"]
 excerpt: "False consciousness is a phrase Marx never used and Engels used once, narrowly: its origin, the successor concepts and its one honest, defensible modern use."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2012-02-15
+lang: en
 ---
 False consciousness may be the most confidently misattributed phrase in the whole vocabulary of social theory. Open a dictionary of sociology, a revision guide, a psychology explainer or an encyclopedia entry and the same sentence appears in slightly different clothing: Marx held that workers suffer from false consciousness, a distorted picture of society implanted by the ruling class, which prevents them from recognising their real interests. The sentence is tidy, quotable and wrong in almost every particular. Marx never wrote the phrase. It appears once in a private letter by Friedrich Engels, written in 1893, a full decade after Marx's death, and what Engels meant by it was narrower, stranger and more interesting than the meaning the tradition later assigned to it. He was not describing workers deceived about their interests. He was describing thinkers, theorists, ideologists, people like himself, who imagine that their ideas develop out of other ideas while remaining unaware of the material forces that actually shape their thinking. The distance between that original claim and the phrase's later career is the subject of this article, and measuring that distance precisely is worth more than another loose definition, because the loose definition is available everywhere and the correction is available almost nowhere.
 
-![False consciousness explained, the phrase Engels used once, its meaning and the concepts that replaced it - Insight Crunch](/assets/images/blog/blog-01.webp)
+![False consciousness explained, the phrase Engels used once, its meaning and the concepts that replaced it - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 Four corrections organise everything that follows, and a reader who keeps only these will already know more about the term than most of the pages that use it. First, the attribution: the phrase belongs to Engels, not Marx, and it survives in a single letter rather than in any published treatise by either man. Second, the referent: Engels aimed the phrase at producers of ideology, at the philosopher, the jurist and the theologian who mistake the internal logic of their material for its cause, and not at the ordinary believer in the street. Third, the mechanism: nothing in Engels's usage involves brainwashing, propaganda implants or stupidity, and the later picture of a ruling class deliberately injecting errors into passive minds owes more to caricature than to any text. Fourth, the succession: the genuine phenomenon the phrase gestures toward, people holding beliefs or preferences that sit oddly with their circumstances and seem to protect the arrangements that disadvantage them, has been taken up by better specified concepts, adaptive preference formation and system justification among them, which name mechanisms and survive empirical testing in ways the older term never attempted. The phrase itself survives mainly as a polemical instrument, and part of this article's task is to say plainly what that afterlife has cost.
 

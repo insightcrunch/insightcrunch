@@ -6,14 +6,15 @@ date: 2012-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Hegel", "Dialectics", "Philosophy", "Karl Marx"]
 excerpt: "Thesis antithesis synthesis is a formula neither Hegel nor Marx ever used as a method: the Chalybaus attribution, Fichte's triad and the textbook myth."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 101
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2012-07-15
+lang: en
 ---
 Ask a room of educated adults to explain Hegel's dialectic and a large share will produce the same three words in the same order: thesis antithesis synthesis. The formula arrives with the confidence of a quotation. It is printed in school textbooks, repeated in university survey lectures, recycled in management manuals, and treated as the skeleton key to two philosophers at once, since the same three words are then handed to Marx as his method as well. Yet the formula cannot be found in the texts it claims to summarise. Hegel never set out his method under those labels, and Marx never did either. What follows is the documented history of a misattribution: where the three words actually come from, whose vocabulary Hegel really used, the one occasion on which Marx handled the triad at length, and the reasons a demonstrably false formula continues to be taught as though it were a primary source.
 
-![Thesis, antithesis, synthesis, the formula Hegel never used as a method and where it really came from - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Thesis, antithesis, synthesis, the formula Hegel never used as a method and where it really came from - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The correction rests on four facts, each of which a reader can verify without taking anyone's word for it. First, Hegel's own developmental vocabulary is different from the textbook triad, organised around a single German term, Aufhebung, that the formula quietly replaces. Second, the triadic description of Hegel entered circulation through a nineteenth-century commentator, Heinrich Moritz Chalybaus, writing in 1837, and naming that origin is the central claim of this article: the Chalybaus attribution. Third, a canonical scholarly article dismantled the legend in print in 1958, and the correction has been available to every textbook writer since, without dislodging the error. Fourth, Marx's one sustained engagement with the formula occurs in The Poverty of Philosophy, where the triad is placed in the mouth of Proudhon and mocked. A formula that its supposed authors never used, that a commentator supplied, that scholarship refuted, and that Marx himself ridiculed has nevertheless become the most widely known sentence about dialectics in the world. Explaining that paradox requires reception history, not philosophy alone.
 

@@ -6,14 +6,15 @@ date: 2012-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Ideology", "Karl Marx", "Political Theory", "Sociology"]
 excerpt: "Ideology in Marx carries several senses at once: neutral worldview, distorted thought and ruling ideas, and the sense-first rule sorts every single use."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 97
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-02-01
+lang: en
 ---
 Ask a room of educated readers what ideology means in Marxist theory and most will give the same answer with the same confidence. Ideology, they will say, is false belief: a distorted picture of society that serves the interests of a ruling class and keeps subordinate people quiet by keeping them mistaken. The answer is neat, quotable, and roughly half right, which in this subject is a dangerous proportion. It captures one thing Marx wrote in one book of his youth and misses the larger part of what he wrote across his life, including the considered statement of his mature method in which the same word carries no implication of falsity at all. Worse, the neat answer cannot explain why the literature that followed Marx is a century-long quarrel about the definition itself, why a revolutionary leader could use the word as a compliment, why a sociologist could build a whole discipline on its neutral meaning, and why the sharpest critics of the concept attack not its politics but its logic. Every one of those puzzles dissolves once a prior fact is faced squarely. Marx uses the word ideology in several senses that do not sit comfortably together, and the subsequent argument is mostly an argument about which sense to keep. Sorting the senses is therefore not a preliminary to the theory. Sorting the senses is the article, and the reader who finishes it will hold a rule that settles most disputes before they start: the sense-first rule, which holds that any argument about ideology is unresolvable until both sides state which sense of the word they are using.
 
-![The Marxist theory of ideology explained, the four senses, ruling ideas and the camera obscura image - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Marxist theory of ideology explained, the four senses, ruling ideas and the camera obscura image - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The stakes of the sorting exercise reach well beyond exegesis. Ideology is one of the few technical terms from nineteenth century social theory that escaped into ordinary speech, and it arrived there damaged. In everyday usage the word names whatever the speaker disagrees with: opponents have ideologies, the speaker has principles, policies, or plain common sense. Political journalism uses it as a synonym for a party programme, so that a manifesto becomes an ideology and a pragmatist becomes a politician without one. Academic usage is more careful but no more unified, because each discipline inherited a different Marx, or a different anti-Marx, and built its definition on that inheritance. A student moving between a sociology lecture, a politics seminar, and a history class can meet three incompatible definitions in a single week, each presented as the meaning of the term, and the confusion is nobody's fault. It is the predictable result of a word whose founding author never stabilised it. Marx wrote no treatise on ideology, offered no canonical definition, and used the term across four decades in ways that shift with his polemical targets and his developing theory of society. Reconstructing what he meant therefore means reconstructing several things he meant, locating each in its text, and resisting the temptation to promote one location into the whole map.
 

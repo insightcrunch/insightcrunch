@@ -6,14 +6,15 @@ date: 2012-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectics of Nature", "Engels", "Philosophy of Science", "Philosophy"]
 excerpt: "The dialectics of nature rests on an unfinished manuscript Engels never published in his lifetime: its making, its critics and the unfinished-target problem."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 103
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-09-01
+lang: en
 ---
 The dialectics of nature is the most argued about text in the Marxist tradition that its author never actually published, never finished, and never arranged for anyone to read. Friedrich Engels worked on the material across roughly a decade, filled notebooks and loose sheets with drafts, plans, fragments, and one nearly finished essay, and then set the whole bundle aside when Karl Marx died and the editing of Capital took precedence over everything else. The bundle stayed in a drawer through Engels's own death in 1895 and waited three more decades before editors in Moscow assembled it into something that looked like a book. That sequence of facts, none of them controversial among scholars who have handled the manuscripts, changes everything about how the text should be read, because most of the famous quarrel about Engels and nature has been conducted as though a finished treatise existed, with chapters in an intended order and conclusions its author had weighed. No such treatise exists. What exists is a workshop, photographed mid-task, with tools laid out, some blades sharpened and some still rough, and the photograph was captioned by other people.
 
-![Engels and the dialectics of nature, the unfinished manuscript, its defenders and its critics - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Engels and the dialectics of nature, the unfinished manuscript, its defenders and its critics - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 This guide treats the manuscript status of the work as the master key, because it is. A reader who knows that the order of the printed text is an editorial construction reads differently from a reader who assumes Engels placed a fragment on electricity beside a fragment on Darwin for reasons of his own. A reader who knows that Marx read the published companion volume, Anti-Duhring, in manuscript and contributed a chapter to it, weighs the charge that Engels betrayed Marx's method differently from a reader who has only heard the charge repeated. And a reader who knows which of Engels's scientific examples survived the following century and which collapsed can separate the durable insight from the period detail without either worshipping the text or sneering at it. The pages that follow work through the composition and publication history, the structure of the material fragment by fragment, the three laws and where Engels found them, the scientific reading he did and what became of it, the labour essay that is the bundle's finished jewel, the published companion through which his philosophy actually reached the world, the critical tradition that begins with a footnote written in 1923, the defence mounted by scientists and by manuscript scholarship, the codification that turned fragments into state doctrine, and the Lysenko catastrophe that stained the whole inheritance. The verdict at the end is a reading instruction rather than a loyalty declaration, which is the only kind of verdict an unfinished text deserves.
 

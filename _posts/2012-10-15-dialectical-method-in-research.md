@@ -6,14 +6,15 @@ date: 2012-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectical Method", "Research Methods", "Dialectics", "Sociology"]
 excerpt: "Dialectical method in research is a set of adjustable settings, not a slogan: levels of abstraction, the ascent to the concrete and the work test for claims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 105
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-10-15
+lang: en
 ---
 Dialectical method is the most frequently claimed and least frequently taught instrument in the Marxist tradition, and the gap between the claiming and the teaching is the problem this article exists to close. A doctoral student in sociology, geography, education or political economy can read a hundred theses that describe themselves as dialectical and finish the hundredth no closer to knowing what the writer actually did differently on the first morning of the research. The word appears in methodology chapters like a coat of arms on a shield. It announces allegiance. It rarely announces a procedure, and a reader who asks what operations the word names, what decisions it forced, what it ruled out, is usually answered with a definition of dialectics itself, which is a different thing entirely. Definitions belong to the doctrine. This article belongs to the workshop. It treats dialectical method in research as a small number of decisions that can be stated, defended and criticised, and it shows each decision being made, on real material, with its costs made visible.
 
-![Using dialectical method in research, levels of abstraction and the ascent from abstract to concrete - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Using dialectical method in research, levels of abstraction and the ascent from abstract to concrete - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The central claim can be put before any apparatus. Most disagreements in social research that present themselves as disagreements about facts are, on inspection, disagreements about three settings that researchers adjust without announcing: how widely the object of study is extended in space and time, at what level of generality it is examined, and from what vantage point it is viewed. That claim comes from Bertell Ollman, whose account of the process of abstraction is the most operational version of dialectical method available in print, and it converts an apparently mystical vocabulary into an audit. Where two studies of the same strike, the same housing estate or the same examination system reach opposite conclusions, the dialectical researcher asks first whether the studies were looking at the same object at all, or whether one had bounded the object at the factory gate and the other at the world market, one had pitched its concepts at the level of a single firm and the other at the level of a mode of production, one had viewed the process from the standpoint of the employer and the other from the standpoint of the night shift. If the settings differ, the findings may both be accurate and the quarrel may be an artefact. If the settings match and the findings still differ, then and only then is there a factual dispute worth having.
 

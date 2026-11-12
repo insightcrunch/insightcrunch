@@ -6,16 +6,17 @@ date: 2012-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "False Consciousness", "Ideology", "Karl Marx", "Political Theory"]
 excerpt: "False consciousness faces a standing charge of condescension: the full charge and reply ledger, the self-exemption problem and the mechanism requirement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2012-05-01
+lang: en
 ---
 There is a sentence that ends arguments about Marxism faster than any other, and it is not a sentence about economics. It runs like this. When workers, voters, or consumers agree with the Marxist analysis, their agreement is taken as evidence that the analysis is correct. When they disagree, their disagreement is taken as evidence of something else: of false consciousness, of a mind so thoroughly colonised by the ideas of the society around it that it cannot recognise its own interests even when those interests are explained to it. Heads, the theory wins. Tails, the people who reject the theory are not counted as having rejected it, because their rejection is itself a symptom of the condition the theory describes. A concept that works this way, the critic says, is not an explanation at all. It is an insult with a bibliography, a device for converting every defeat into a diagnosis and every opponent into a patient, and the people it claims to champion are the people it most profoundly disrespects, since it grants them a voice only on condition that they say what the theorist expected them to say.
 
 That charge deserves better than the two responses it usually receives. The first response is dismissal: the charge is waved away as a debating trick, as though noticing the structure of an argument were a failure to engage with it. The second response is surrender disguised as sophistication: the term is quietly dropped from polite Marxist writing while the underlying move, discounting what people say because of where they stand, continues unexamined under other names. Neither response answers the question this article exists to answer. The question is whether the concept of false consciousness, as it has actually been used and defended, is guilty of the condescension charged against it, and if parts of it are guilty, whether anything survives the conviction that is worth keeping. The method here follows the template this series applies to every critique: the objection first, at its strongest, in the critic's own terms; the replies afterwards, weak ones separated from strong ones; and a verdict that names what each side must give up. Readers who want the concept itself, stated before it is prosecuted, will find it in the series treatment of [false consciousness explained](/2012/02/15/false-consciousness-explained/); what follows assumes that treatment and puts the idea on trial.
 
-![Is false consciousness condescending, the charge against the idea, the replies and the evidence required - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Is false consciousness condescending, the charge against the idea, the replies and the evidence required - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 ## The indictment, stated whole
 
