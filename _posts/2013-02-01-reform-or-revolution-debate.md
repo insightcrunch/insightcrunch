@@ -6,14 +6,15 @@ date: 2013-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Reform or Revolution", "Luxemburg", "Bernstein", "Political Theory"]
 excerpt: "Reform or revolution is the argument that split the socialist movement: Bernstein, Luxemburg, the four questions grid and the three-out-of-four result."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 107
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-02-01
+lang: en
 ---
 The argument named by the phrase reform or revolution has organised socialist politics for well over a century, and it has done so in a peculiarly unhelpful form. Presented as a single choice between two roads, it invites loyalty rather than analysis. A participant declares for gradual change or for rupture, and the declaration is treated as a position, when in fact it bundles together at least four separate questions that have separate answers and separate bodies of evidence. Whether capitalism can stabilise itself is an economic question. Whether reforms can accumulate until the system has been transformed is a question about institutional change over time. Whether an elected government commands the power its office appears to confer is a question about the state. Whether reforms are worth winning for their own sake is a question about the value of improved lives under a system one hopes to replace. Nothing about answering one of these questions settles any of the others, and the history of the debate is largely the history of answers to one question being carried across, illegitimately, as answers to the rest.
 
-![Reform or revolution, Bernstein and Luxemburg, elections, reforms and the structural dilemma - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reform or revolution, Bernstein and Luxemburg, elections, reforms and the structural dilemma - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 Separating the questions is the work of this article, and separation produces a finding that the slogan version of the argument conceals. On most of the separated questions, the considered positions of serious reformists and serious revolutionaries converge far more than the polemic between them admits. Both sides hold that reforms are worth winning and that winning them improves lives. Both sides hold that elections can be won by parties committed to deep social change. The disagreement that survives separation is narrower, harder, and more precise than the famous quarrel suggests. It concerns one question above all: whether a government elected on a transformative programme can actually transform the ownership of productive wealth while working through the institutions it inherits, or whether those institutions, and the economic power standing behind them, will defeat, dilute, or expel any government that tries. That question is genuinely open. It has a large historical record bearing on it, and the record points in more than one direction. The three-out-of-four convergence, which names the pattern of agreement across the separated questions, is the claim this article sets out to demonstrate, and the demonstration requires giving each side its strongest form before any verdict is attempted on any part of the dispute.
 

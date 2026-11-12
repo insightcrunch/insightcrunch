@@ -6,14 +6,15 @@ date: 2013-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Authorship", "Karl Marx", "Engels", "Research Methods"]
 excerpt: "The authorship question asks who wrote the books signed by two names: the edition attribution rule, Engels's editing and what the manuscripts actually show."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 111
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-06-01
+lang: en
 ---
 The authorship question begins with an embarrassment of trust. Two names stand on the title pages of some of the most argued over books of the modern age, and for more than a century readers treated the pairing as a single mind with two hands. Marx and Engels wrote together, edited each other, financed each other and defended each other so completely that the composite figure, half jokingly called by later generations a two headed author, seemed a natural unit of intellectual history. Yet the books were produced by distinguishable processes. Some were drafted by one man and finished by the other. Some were written by one and signed by both. One famous pamphlet rests on scaffolding built by the junior partner and a final text written by the senior. Two large volumes of the major work were assembled after the author's death by his friend, from manuscripts the friend described, honestly but incompletely, in prefaces that few readers ever studied. The question of who wrote what is therefore not gossip about a famous friendship. It is a question about evidence, and it can be answered, case by case, with documents.
 
-![The Marx and Engels authorship question, manuscripts, editing and the attribution of joint works - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Marx and Engels authorship question, manuscripts, editing and the attribution of joint works - Insight Crunch](/assets/images/blog/blog-104.webp)
 
 What changed the question from a matter of guesswork into a matter of record was the slow publication of the manuscripts themselves. So long as readers possessed only the printed books, Engels's editing of the later volumes of Capital could be praised or suspected but not measured. Once the critical edition placed Marx's own draft of the third volume beside the version Engels published, measurement became possible, and the measurements were not trivial. They showed reordering of material, chapter divisions and headings supplied by the editor, and, in the most argued over stretch of the book, a presentation of the falling rate of profit more orderly and more lawlike than the draft underneath it. None of this makes Engels a falsifier, and this article will give the defence of his work its full strength before reaching any verdict. But it does mean that a claim about what Marx argued, when the claim rests on the second or third volume, is incomplete until it says which text it rests on. That requirement has a name in what follows. It is called the edition attribution rule, and building the case for it, document by document, is the work of the pages ahead.
 

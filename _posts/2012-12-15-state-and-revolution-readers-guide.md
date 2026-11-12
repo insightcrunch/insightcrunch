@@ -6,14 +6,15 @@ date: 2012-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "State and Revolution", "Lenin", "Theory of the State", "Political Theory"]
 excerpt: "State and Revolution is Lenin's interrupted book on the state: the Commune model, the smashing thesis and the cook who was never promised instant rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 106
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-12-15
+lang: en
 ---
 Few political books carry a stranger double life than State and Revolution. Inside seminar rooms it is read as a systematic treatise, the place where Lenin supposedly set out a complete theory of government and its disappearance. Outside them it survives as a handful of slogans, detached from their pages and repeated by people who have never opened the volume: smash the state, every cook can govern, the state will wither away. Both lives mislead. The treatise is unfinished, broken off before the chapter that was meant to test its argument against lived revolutionary experience. The slogans, in at least one famous case, reverse the sentence they claim to quote. A reader who approaches the book through either reputation will misunderstand what kind of object it is, and the misunderstanding matters because this short, dense, quotation-laden text became one of the most consequential political writings of the twentieth century.
 
-![State and Revolution read closely, Lenin's chapters on the Commune model and the state machinery - Insight Crunch](/assets/images/blog/blog-01.webp)
+![State and Revolution read closely, Lenin's chapters on the Commune model and the state machinery - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The interrupted book is the name this guide gives to the fact that organises everything else. Lenin wrote the work in hiding during August and September 1917, working from notebooks of excerpts he had assembled in exile, and he stopped writing because the revolution he was theorising overtook him. The planned final chapter, which was to draw on the experience of the Russian revolutions of 1905 and 1917, remained unwritten, and Lenin acknowledged the omission in a postscript with a wryness that has been quoted ever since. That single biographical circumstance explains the book's peculiar shape. What survives is a restoration project: page after page of Marx and Engels, quoted at length and defended against rival interpreters, building toward an application that never arrives. The argument about what should be done with an actual state, in an actual country, amid actual collapse, was postponed into a chapter that history did not allow its author to compose.
 

@@ -6,14 +6,15 @@ date: 2013-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Eighteenth Brumaire", "Karl Marx", "History", "Political Theory"]
 excerpt: "The Eighteenth Brumaire is Marx's finest piece of political writing: tragedy and farce, class fractions and the counter-text to simple economic determinism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 112
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-07-15
+lang: en
 ---
 The Eighteenth Brumaire of Louis Bonaparte is the book readers quote most and finish least. Its opening sentences circulate everywhere, detached from the narrative they were written to govern, while the narrative itself, dense with the names of French politicians dead for more than a century and a half, defeats readers who arrived expecting a treatise and found a chronicle. That mismatch between fame and finishability is the problem this guide exists to solve. It supplies the scaffolding the text assumes: a timeline of the French crisis from the February revolution of 1848 to the coup of December 1851, a cast organised by the class fractions Marx assigns to each actor, an explanation of the celebrated opening that separates what Marx credited to Hegel from what Marx added himself, and a sustained account of why this short, furious, partisan book has become the standing internal evidence against the crudest version of the doctrine attached to its author's name.
 
-![The Eighteenth Brumaire read closely, tragedy and farce, class fractions and Bonaparte - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Eighteenth Brumaire read closely, tragedy and farce, class fractions and Bonaparte - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The organising claim can be named at once, because a reader who holds it from the first page will find the whole book rearranged around it. The claim is the determinism counter-text: the Eighteenth Brumaire is the strongest evidence against reading Marx as an economic determinist, precisely because it is his most detailed application of his own method to a concrete political sequence. A determinist text would move from economic position to political conduct by a short and reliable road. This book moves by every other road available. Classes split into fractions and the fractions pursue opposite strategies. A bourgeoisie trades political power away in order to keep social power intact. A peasantry delivers the decisive vote to a name rather than a programme. An executive machine built across generations of French government grows heavy enough to stand above the society it administers. Tradition, costume, slogan and memory do causal work on nearly every page. Accident keeps intervening: a general dies, an election date falls where it falls, a rival faction refuses a compromise at the one moment compromise might have held. Any honest summary of the book has to report all of that, and a theory of Marx that cannot survive contact with his most admired piece of political analysis is a theory that needs revising. The guide keeps returning to the counter-text claim because the book keeps supplying it with evidence.
 

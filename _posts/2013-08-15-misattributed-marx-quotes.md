@@ -6,14 +6,15 @@ date: 2013-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marx Quotes", "Karl Marx", "Research Methods", "Misattribution"]
 excerpt: "Marx quotes circulate in versions Marx never wrote: the four-category test, the opium passage in full and the audit table for checking any attribution."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 112
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-08-15
+lang: en
 ---
 Few names in political writing attract quotation the way the name of Karl Marx does, and Marx quotes consequently lead a double life. They serve as evidence in arguments about what a nineteenth century thinker actually held, and they serve as ammunition manufactured long after his death for arguments he never joined. A line credited to Marx arrives carrying borrowed authority. It settles disputes in seminar rooms, decorates placards and book jackets, opens essays whose authors never opened the book the line supposedly came from, and survives every correction because a correction is always less portable than the line it corrects. The sentence fits on a poster. The footnote explaining why the sentence is false does not.
 
-![The quotes Marx never said, checking attributions, the opium passage in full and translation drift - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The quotes Marx never said, checking attributions, the opium passage in full and translation drift - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The damage done by a false attribution is not symmetrical, and it is not trivial. When a fabricated line is placed in the mouth of a dead thinker, the argument stops being about the line and becomes about the man, and the man cannot answer. Supporters quote inventions that make their tradition sound prophetic or compassionate. Opponents quote inventions that make the same tradition sound sinister or absurd. Both sides are spared the labour of reading, and both sides acquire a weapon that the documentary record never issued. A reader who has watched this happen a few times develops a suspicion that hardens into a different and lazier error, the assumption that every famous line must be fake. That assumption is also wrong, and correcting it matters just as much, because some of the most circulated sentences are genuine, some are genuine in substance while altered in wording, and some are genuine sentences that Marx himself took from writers who came before him. Lumping all of these together under the single label of fake quotes produces fresh errors while pretending to repair old ones.
 

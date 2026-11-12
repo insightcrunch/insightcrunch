@@ -6,14 +6,15 @@ date: 2013-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Gotha Programme", "Karl Marx", "Political Theory", "Socialism"]
 excerpt: "The Gotha Programme critique is Marx's fullest sketch of a post-capitalist order: two phases, the deductions passage and the quarrel over equal right."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 113
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-09-01
+lang: en
 ---
 Ask a room of well read people about the Gotha Programme and what Marx proposed for the society that would follow capitalism, and the answers arrive with a confidence the texts do not support. He refused to write recipes for the cook shops of the future, someone will say, and the room nods, because the refusal is genuine and the quotation is real. He wanted equality, another voice adds, and the nodding continues, because equality sounds like the obvious name for whatever he wanted. He distinguished socialism from communism, a third voice concludes, socialism first and communism after, and by then the conversation has assembled a Marx who exists in no single document: a thinker who said almost nothing about the future, whose little he did say can be summarised as fairness, and whose stages carry names he never gave them. Against that assembled figure stands one short, irritable, magnificent set of marginal notes, the Critique of the Gotha Programme, in which Marx described deductions from the social product, a distributive principle for a lower phase, a second principle for a higher one, and an argument that equal right itself is a defective standard. The notes were written in 1875, suppressed by the party they criticised, and printed only in 1891, eight years after their author died. Anyone asking what Marx actually proposed should be sent to them first. Almost nobody is.
 
-![Critique of the Gotha Programme explained, the two phases, deductions and the quarrel over equal right - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Critique of the Gotha Programme explained, the two phases, deductions and the quarrel over equal right - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 Three claims organise everything in this guide, and each can be checked against the text itself, which is short enough to read in an evening. The first claim concerns concreteness. Marx's most concrete statement about a post-capitalist economy is a list of sums that must be subtracted from the total product before anyone receives anything, and that list, the deductions passage, occupies the centre of this article because it occupies the centre of the argument. The second claim concerns equality. Marx's objection to the programme's talk of fair distribution was not that fairness is unimportant but that distribution is the wrong place to look: the distribution of consumption goods follows from the distribution of the conditions of production, and a standard of equal right, applied to people who are unequal in strength, in talents and in family burdens, produces unequal outcomes while calling itself equal. The third claim concerns vocabulary. Marx described a lower and a higher phase of communist society. He did not name the lower phase socialism. That naming is Lenin's work, performed in a book written in 1917, and the near universal habit of treating socialism and communism as two successive stages descends from Lenin's terminology rather than from the notes of 1875.
 

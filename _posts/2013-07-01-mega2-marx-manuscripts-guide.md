@@ -6,14 +6,15 @@ date: 2013-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "MEGA2", "Karl Marx", "Engels", "Research Methods"]
 excerpt: "MEGA2 is the scholarly edition remaking how Marx is read: all the drafts, letters and notebooks, the section map and the notebook effect on all research."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 111
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-07-01
+lang: en
 ---
 Every field has a piece of infrastructure that its practitioners use daily and its wider audience barely knows exists, and for the study of Marx that infrastructure is an edition. Not a book, not a translation, not a selection with an editor's introduction, but the complete scholarly edition of everything Marx and Engels wrote, drafted, excerpted and annotated, printed in the languages in which they wrote it and surrounded by the apparatus that lets a reader verify every reading of every line. The edition is called MEGA2, a compressed German acronym that expands to Marx-Engels-Gesamtausgabe, and it has been in production, under three different political orders and through one execution, for the better part of a century. Readers who have never opened a volume of it still read Marx through its consequences, because the texts that reach classrooms and paperbacks descend, at one or two removes, from editorial decisions made inside projects like this one. The distance between the Marx of the anthology and the Marx of the archive is measured in editorial choices, and the purpose of the pages ahead is to make those choices visible.
 
-![MEGA2 and the Marx manuscripts, drafts, letters and excerpt notebooks in the critical edition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![MEGA2 and the Marx manuscripts, drafts, letters and excerpt notebooks in the critical edition - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The argument of this guide can be stated before any of the detail, because the detail is easier to hold once the claim is in view. The claim has a name, and the name is worth keeping: the notebook effect. The notebook effect is the pattern by which the most consequential reinterpretations of Marx across the last half century have come not from new arguments about published books but from the publication of material Marx never published himself, above all the excerpt notebooks gathered in the edition's fourth section, where he copied, condensed and commented on the work of agricultural chemists, geologists, ethnologists and mathematicians. Because that material appeared late, in instalments, according to an editorial schedule set by institutions and their budgets, the questions scholars could ask about Marx were partly decided by what editors had happened to print. A reader who grasps the notebook effect reads every confident claim about Marx's view of nature, of non-European societies, or of science itself with a standing question attached: which Marx is this built on, the author of the finished books, or the researcher whose reading kept moving after the books were done?
 

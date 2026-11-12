@@ -6,14 +6,15 @@ date: 2013-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist State Theory", "Exam Preparation", "Theory of the State", "Political Theory"]
 excerpt: "Marxist state theory in an exam rewards the plural opening: name the rival theories, deploy the answer matrix and evaluate with the strongest points first."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 109
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-04-15
+lang: en
 ---
 Marxist state theory is the topic on which a single sentence, written in the first minute, decides more marks than any other sentence in the script. Candidates who open by announcing that Marxists regard public power as an instrument of the ruling class have already told the marker which band the answer belongs to, and no quantity of accurate detail afterwards fully repairs the impression. Candidates who open by observing that the tradition contains rival accounts of the state, each with its own mechanism and its own textual home, have told the same marker something different: that the writer commands the material rather than reciting it. The distance between those two openings is roughly ten words. Everything in this guide exists to close that distance for the reader, and to build around the better opening a complete method for answering questions on the state at school level, at undergraduate level, and in the competitive examinations where theories of power form a named part of the paper.
 
-![Marxist state theory exam guide, the rival theories, the answer matrix and evaluation that earns marks - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist state theory exam guide, the rival theories, the answer matrix and evaluation that earns marks - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The organising claim deserves its name at once, because named moves are the moves candidates actually perform under pressure. The plural-theories opening is the practice of stating, in the first paragraph, that there is no single Marxist theory of the state, and of naming at least two of the positions the tradition contains before expounding any of them. The move earns its keep in three distinct ways. It demonstrates selection, which is the skill every mark scheme on this topic is quietly testing. It sets up the internal comparison that gives an answer its analytical spine, since instrumentalist and structuralist accounts can then be played against each other rather than merely listed. And it protects the evaluation, because criticism aimed at one version can be specified as hitting that version only, which is precisely the specification move that separates sophisticated scripts from sweeping ones. A guide to the theory itself sits elsewhere in this series, in the [marxist theory of the state guide](/2012/12/01/marxist-theory-of-the-state-guide/), and readers who need the doctrines expounded at length should begin there. What follows assumes the doctrines can be found and concerns itself with the narrower, more neglected question of what a marker rewards when several hundred answers compete.
 

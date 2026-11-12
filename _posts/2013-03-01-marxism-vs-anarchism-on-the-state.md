@@ -6,14 +6,15 @@ date: 2013-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Anarchism", "Bakunin", "Theory of the State", "Political Theory"]
 excerpt: "Anarchism and Marxism aim at the same stateless end and split on the route: the transition comparison, Bakunin's warning and the prediction asymmetry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 108
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-03-01
+lang: en
 ---
 Few quarrels in political thought are as durable, or as badly reported, as the quarrel between Marxism and anarchism over the state. The standard summary treats the two traditions as opposites in aim: one side supposedly in love with state power, the other in love with freedom. That summary fails at the first document either tradition produced about its destination. Both traditions name the same destination, a classless and stateless society in which coercive government has been replaced by the free association of producers. They have never disagreed about where they want to arrive. They disagree, with a bitterness that has lasted a century and a half, about the road: about whether a revolutionary movement must pass through a transitional state of its own, or whether building any such state guarantees that the destination will never be reached. Anarchism is named in the opening line of this article because the argument begins there, with the uncomfortable fact that the anarchist side of the dispute made a specific prediction about the Marxist road, wrote it down in 1873, and lived to have it tested.
 
-![Marxism and anarchism on the state, Bakunin, the transitional state and the shared stateless end - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and anarchism on the state, Bakunin, the transitional state and the shared stateless end - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The comparison is worth doing carefully because it is one of the rare disputes in social theory that evidence can actually grade. Most arguments between schools of political thought dissolve, on inspection, into differences of definition or of temperament, and no conceivable event could settle them. This one contains a component that is different in kind. Mikhail Bakunin, the Russian anarchist who fought Marx for control of the First International, argued in print that if workers took state power, the state they built would produce a new privileged stratum drawn from former workers and professional revolutionaries, a stratum that would govern in the name of the class while ceasing to belong to it. Marx read the claim, annotated it with contempt, and held to the opposite expectation: that a transitional state held by the working class, organised on the model of the Paris Commune, would lose its functions as classes disappeared and would wither rather than entrench. The twentieth century ran the experiment on the Marxist side of the wager. It did not run the anarchist alternative at comparable scale for comparable time. That unevenness is itself part of the finding, and this article will price it honestly rather than pretend the contest was symmetrical. The name for the whole structure is the prediction asymmetry, and the article builds toward it slowly, because the asymmetry is only intelligible once the shared destination, the organisational history, and the actual texts have been set out in each tradition's own strongest terms.
 

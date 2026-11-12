@@ -6,14 +6,15 @@ date: 2013-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Democracy", "Karl Marx", "Political Theory", "Theory of the State"]
 excerpt: "Democracy is where Marxism is richest in critique and thinnest in design: the charge and reply ledger, the Commune model and the asymmetry behind it all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 108
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-03-15
+lang: en
 ---
 The question whether Marxism has a theory of democracy is usually asked in a form guaranteed to produce a useless answer. Asked as a loyalty test, it invites a verdict on a whole tradition, delivered in a sentence, and the sentence tells the reader more about the speaker than about the tradition. Asked precisely, it divides into two questions with opposite answers, and the division is the finding. The first question is whether Marxism developed a serious account of how democracy operates, and fails to operate, in societies where productive wealth is privately owned and heavily concentrated. The answer to that question is yes, in unusual depth and with arguments that political science has repeatedly absorbed without always acknowledging the source. The second question is whether Marxism developed a comparably serious account of the political institutions of the society it proposed: how such a society would make binding decisions, protect dissenters, organise disagreement, correct its own rulers, and remove them. The answer to that question is no, and the no is not a hostile invention. It was stated most precisely by a socialist political theorist writing inside the European left, debated openly by Italian Marxists in the 1970s, and partly conceded by the strongest Marxist respondent of that decade.
 
-![Marxism and democracy, the critique of liberal democracy, the Commune model and the missing institutions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and democracy, the critique of liberal democracy, the Commune model and the missing institutions - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 This article works through the second question as carefully as the first, because the imbalance between them is the subject. The pattern has a name in what follows: the asymmetry of the tradition. On one side stands a critique of liberal democracy of genuine analytical power, built from the distinction between political and human emancipation, from the analysis of formal equality coexisting with material inequality, and from a body of work on how ownership constrains what elected governments can do. On the other side stands a short inventory of institutional proposals, headed by the Paris Commune model of 1871, followed by long silences on the subjects where a theory of democracy is normally expected to speak: political rights held against the majority, the legitimacy of organised opposition, the separation and mutual checking of powers, and the procedure by which a post-capitalist society would settle the disagreements that would certainly arise inside it. The charge that these silences constitute a gap is examined component by component, the strongest replies are given their full force, and each component receives a verdict. Nothing in the inquiry requires a judgement about which political system a reader should prefer, and none is offered. The question is narrower and more answerable: does the gap exist, how large is it, and what have the tradition's own best minds done about it.
 

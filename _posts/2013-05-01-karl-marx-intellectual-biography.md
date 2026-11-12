@@ -6,14 +6,15 @@ date: 2013-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Karl Marx", "Biography", "Philosophy", "History"]
 excerpt: "Karl Marx spent his life building one critique across philosophy, politics and economics: the self-assessment test separates the man from the durable legend."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 110
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-05-01
+lang: en
 ---
 Karl Marx is the rare thinker whose life gets retold as ammunition. Admirers produce a martyr who starved in exile for the truth, detractors produce a sponger who never worked and lived off a factory owner's profits, and both portraits agree on one procedure: settle the man first, and the work can be dismissed or canonised without the inconvenience of reading it. An intellectual biography refuses that procedure. It treats the life as the record of how a body of work was made, under what pressures, with what tools, at what cost, and it judges the man where possible by the standard he set for himself. Marx, unusually, left such a standard in writing. In a letter of March 1852 to his friend Joseph Weydemeyer, then an exile in New York, he stated precisely what he claimed to have contributed to the understanding of society and precisely what he conceded to predecessors. This biography is organised around that statement. The chronology matters, because the ideas were formed in specific rooms, newspapers, libraries and lodgings, but the chronology serves the assessment rather than replacing it.
 
-![Karl Marx, an intellectual biography, journalism, exile and the London decades of work - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Karl Marx, an intellectual biography, journalism, exile and the London decades of work - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 The life, in outline, is quickly told. Karl Heinrich Marx was born in Trier in 1818, studied law and then philosophy at Bonn and Berlin, took a doctorate in 1841, and became editor of a Rhineland newspaper at twenty four. Expelled from or squeezed out of Germany, France and Belgium in turn, he passed through Paris and Brussels, helped to write a famous manifesto in the winter of the 1848 revolutions, edited a revolutionary daily in Cologne until it was suppressed, and reached London in the late summer of 1849. He stayed for the remaining thirty four years of his life, working in the reading room of the British Museum, writing journalism for an American newspaper, leading an international workers' association for much of a decade, and publishing in 1867 the first volume of a critique of political economy that he never finished. He died in 1883, stateless, in a house in north London, and was buried at Highgate. Every clause of that outline conceals a question people actually ask. Did he ever work. Was he poor. Was he famous. What did he die of. What was his family's faith. Did he father a child with the household servant. This article answers those questions in their places, with the state of the evidence attached, and it keeps returning to the harder question the outline cannot answer: what, in the enormous output, was actually his.
 

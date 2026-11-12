@@ -6,14 +6,15 @@ date: 2013-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dictatorship of the Proletariat", "Karl Marx", "Theory of the State", "Political Theory"]
 excerpt: "Dictatorship of the proletariat is a phrase Marx used rarely and in an older sense: class rule, the symmetry test and what later regimes made of it over time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 106
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-01-01
+lang: en
 ---
 The dictatorship of the proletariat is the most quoted phrase in Marxism and the least examined. It is quoted by opponents as proof of what Marxism always intended, and by defenders as a term of art that hostile readers wilfully misunderstand, and in both uses the phrase does its work before anyone has asked the prior questions: what did the words mean when Marx used them, how often did he use them at all, and what was later done under their authority by people who claimed his inheritance. Those are three different questions, with three different kinds of answer, and the confusion of the phrase's career begins whenever they are merged into one. This article keeps them apart from its first page to its last. The meaning question is a question about texts and about the vocabulary of a century, and it can be answered with some precision. The verdict question is a question about regimes, institutions and human consequences, and it belongs to a different evidentiary world, where the records are archives, demographic reconstructions and the testimony of survivors. An article that answers the first question and behaves as though the second had been answered too has cheated its reader, whichever direction the cheating runs.
 
-![Dictatorship of the proletariat explained, class rule in the older sense and the usage timeline - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dictatorship of the proletariat explained, class rule in the older sense and the usage timeline - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Begin with the fact that surprises most readers when they first meet it plainly stated. Marx used the phrase rarely. It is not a refrain running through his work, not the centrepiece of the Communist Manifesto, not a concept he defined at length in a treatise devoted to it. It appears a handful of times across a writing life of four decades, in a history of French politics written in the aftermath of revolution, in a private letter summarising his own contribution to the theory of class struggle, and in a set of marginal notes on a party programme that he never published in his lifetime. Everything else is commentary: Engels restating it, Lenin weaponising it, Kautsky contesting it, Luxemburg qualifying it, party programmes codifying it, constitutions inscribing it, and Western parties eventually striking it from their platforms as unusable. The phrase has a biography far larger than its birthplace, and a glossary article that confined itself to the birthplace would leave the reader unprepared for every argument in which the phrase actually figures.
 

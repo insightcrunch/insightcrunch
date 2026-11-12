@@ -6,14 +6,15 @@ date: 2013-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Engels", "Karl Marx", "Biography", "History"]
 excerpt: "Engels arrived first at several of the tradition's founding arguments: the chronological correction, the Manchester research and his own independent economics."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 110
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-05-15
+lang: en
 ---
 Ask a room of educated readers who Friedrich Engels was, and the answers arrive in a settled order. He was Karl Marx's friend. He was the wealthy manufacturer who paid the bills while Marx wrote in the British Museum. He was the loyal second who edited the unfinished volumes, answered the correspondence, defended the doctrine against its enemies and asked for nothing except to stand a step behind the greater man. Every element of that portrait contains some truth, and the portrait as a whole is false, because it arranges the two lives in the wrong sequence at the one point where sequence decides everything. When the partnership began in earnest in the late summer of 1844, the younger man from Barmen had already published a critique of political economy that his future collaborator praised in print, and he was carrying in his luggage the notes for a study of English industrial life that no one else in their circle could have written. Marx came to political economy through Engels. The empirical portrait of the industrial working class that grounded their shared politics was drawn by Engels, from streets he had walked for nearly two years. The assistant, on inspection, turns out to have been a founder who arrived early.
 
-![Friedrich Engels, his independent economics, Manchester research and partnership with Marx - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Friedrich Engels, his independent economics, Manchester research and partnership with Marx - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 That reversal has a name in this article, because a claim that cannot be named cannot be tested. The chronological correction is the simple discipline of restoring dates to a story that habit tells backwards: Engels published a critique of political economy before Marx had written one, and he completed an empirical investigation of industrial conditions before the collaboration existed, so any account that casts him as a follower who attached himself to a finished doctrine has the founding years upside down. The correction does not demote Marx, whose theoretical achievement dwarfs everything around it and needs no protection from a calendar. It promotes the record over the legend. What follows is an attempt to read Engels whole: the pietist manufacturer's son who became a revolutionary, the clerk who mapped Manchester's slums with a thoroughness later generations of sociologists would recognise as fieldwork, the military analyst whose family nickname was the General, the businessman who spent two decades inside a cotton firm he despised and used its profits to keep a research programme alive, and the elderly editor who, after 1883, became the tradition's chief expositor and, in the eyes of its critics, its first distorter. Each of those figures is documented. Together they describe a thinker whose independent contribution can be listed, dated and weighed, which is precisely what the junior partner legend prevents anyone from doing.
 

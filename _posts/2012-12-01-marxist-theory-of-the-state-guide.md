@@ -6,14 +6,15 @@ date: 2012-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Theory of the State", "Karl Marx", "Political Theory", "Sociology"]
 excerpt: "The theory of the state in Marx is not one theory but several: the committee formula, Bonapartism, relative autonomy and the missing volume behind them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 105
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2012-12-01
+lang: en
 ---
 Ask a room of educated readers what the Marxist theory of the state is, and most of them will give the same answer in nearly the same words. The state, they will say, is a committee for managing the affairs of the bourgeoisie, an instrument in the hands of the ruling class, a machine whose apparent neutrality conceals whose interests it serves. The answer has the ring of a quotation because it is one, lifted from a pamphlet of 1848, and it has survived because it is short, quotable and easy to teach. What the room will almost never be told is that this sentence represents the crudest position inside the tradition it claims to summarise, that the most influential Marxist writers on the state spent their careers arguing against it, and that the tradition they worked in contains not one theory of the state but at least four, distinct in what they claim, distinct in what they predict, and in places flatly incompatible with one another. This article is a guide to those four theories, to the texts that carry them, and to the strange structural fact that explains why there are four of them instead of one.
 
-![The Marxist theory of the state, the committee formula, relative autonomy and the rival theories compared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Marxist theory of the state, the committee formula, relative autonomy and the rival theories compared - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 That structural fact deserves a name at the outset, because everything else in the article hangs on it. The missing volume is the book on the state that Marx planned and never wrote. In the late 1850s Marx sketched a work in six books, covering capital, landed property, wage labour, the state, foreign trade and the world market. Of that architecture, only the material gathered under the first heading grew into the published work we have, and even that remained unfinished at his death. The book on the state was never begun as a book. What exists instead is a scattering of treatments across forty years: a youthful critique of Hegel, a polemical pamphlet, a piece of political journalism of genius, an occasional address on a Paris insurrection, a set of marginal notes on a party programme, and, from Engels after Marx had died, an attempt to explain where the state came from in the first place. Every Marxist theory of the state since then has been a reconstruction assembled from these fragments, and the assembly choices are interpretive acts. Two honest scholars, reading the same fragments and weighting them differently, can build theories that contradict each other, and the history of the subject is largely the history of that happening.
 

@@ -6,14 +6,15 @@ date: 2013-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Translation", "Karl Marx", "Editions", "Research Methods"]
 excerpt: "Translation decides which Marx a reader actually meets: the edition selector, the words that resist English and the translation dependency of all claims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 114
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-09-15
+lang: en
 ---
 Every reader of Marx in English reads two authors at once. One wrote in German, mostly, with excursions into French and English journalism, a private shorthand of philosophical terms inherited from Hegel, and a polemical habit of squeezing several meanings into a single word. The other is the translator, whose name sits in small type on a title page, whose choices decide whether a key term sounds economic or psychological, archaic or crisp, and whose decisions are usually invisible until two English versions of the same passage are placed side by side and refuse to match. A translation is never a pane of glass. It is a second act of writing, performed under discipline, and the discipline varies: some translators serve the scholar who will check the German, others serve the first time reader who will abandon the book if the sentences fight back. Neither service is dishonest. Confusing them is where the trouble starts, and a reader who cannot tell which service a given edition performs will misjudge both the book and the argument inside it.
 
-![Marx in translation, choosing an edition, key German terms and what changes between versions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx in translation, choosing an edition, key German terms and what changes between versions - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Guidance on this subject exists, but it lives in scattered places: a paragraph in a translator preface here, a footnote in a scholarly monograph there, a heated exchange in a journal review, a reading list compiled by a teacher for one cohort and never published. Each fragment answers the person who happened to ask, in the setting where the asking happened, and none of them assembles the whole map. Which version of Capital should a newcomer open? Which printing should a doctoral candidate quote when the surrounding literature quotes a different one? What exactly does the fifty volume collected works offer, and what does it not offer? Are the renderings that circulate without charge on the internet trustworthy, and how would a reader without German know? Where does rendering stop being a matter of style and start changing what the theory says? Assembled in one place, those questions define the purpose of the pages that follow: a comparative guide, built from the documented record of what each edition rests on and what each translator said about the work, ending in a selector that matches editions to purposes rather than crowning a winner.
 

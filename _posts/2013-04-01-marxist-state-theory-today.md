@@ -6,14 +6,15 @@ date: 2013-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "State Theory", "Political Economy", "Theory of the State", "Sociology"]
 excerpt: "State theory earns its keep on hard cases: bank bailouts, austerity and market discipline, where the state is reorganised rather than simply rolled back."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 109
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-04-01
+lang: en
 ---
 A theory of the state earns its authority in the same way a bridge earns its load rating, by being tested against the heaviest traffic available. For Marxist state theory the heaviest traffic of the past four decades is not hard to identify. Governments committed to reducing the role of the state presided over an expansion of its rule making. Financial systems built on the doctrine that markets discipline themselves were rescued, at the moment of collapse, by public money and public guarantees on a scale no postwar intervention had matched. States described as powerless before global capital redesigned their central banks, rewrote their competition law, built new regulators, and bound their own future budgets with rules of their own choosing. Each episode is an embarrassment for somebody's theory. The argument of this article is that the embarrassments fall unevenly, and that the Marxist tradition, at its most careful, predicted the shape of several of them in advance, because it never accepted the description under which they appear paradoxical.
 
-![Marxist state theory applied, bailouts, austerity, market discipline and the reorganised state - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist state theory applied, bailouts, austerity, market discipline and the reorganised state - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 The description in question is the retreat story. In its popular form, shared oddly by celebrants and critics of market liberalisation alike, the decades after the late 1970s saw the state step back: industries were returned to private hands, markets were freed from political interference, and public authority shrank before the advance of private choice. The story has a surface plausibility, because some things genuinely were withdrawn. State owned enterprises were sold. Price controls and exchange controls were dismantled. Whole categories of economic decision were removed from ministerial desks. Yet the story fails at the level of mechanism, and it fails in a way that can be checked, because everything that was withdrawn had to be withdrawn by an act of public power, and most of what replaced it had to be built, staffed, funded and enforced by the same power. Selling a nationalised industry required legislation, a regulatory office to police the resulting private monopoly, a body of competition law, and courts willing to enforce contracts the state had written. The state did not leave the field. It changed its position on the field, from player to rule maker, referee and guarantor of last resort, and the change of position was itself a vast exercise of state capacity.
 

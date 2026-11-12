@@ -6,14 +6,15 @@ date: 2013-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Withering Away of the State", "Engels", "Theory of the State", "Political Theory"]
 excerpt: "The withering away of the state is Engels's phrase, not Marx's: the abolition contrast, the conditions it requires and why no state has yet obliged so far."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 107
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-01-15
+lang: en
 ---
 The withering away of the state is the most quoted promise in the Marxist tradition and the one its critics reach for first, because it seems to compress the whole doctrine into a single testable sentence: build the new society, and government itself will fade into a museum piece. Almost everything in that familiar summary is slightly wrong, and the errors compound. The phrase is not Marx's but Engels's. It was coined not as a free standing prediction but as one half of an argument with the anarchists, and its point was to refuse the demand that the state be abolished at a stroke. It presupposes a transitional state that does the opposite of fading for as long as classes survive. And the empirical record, which this article states plainly at the outset rather than apologising for later, is that no state has withered away anywhere, while several states constructed in the tradition's name grew into the largest coercive apparatuses of their century. A glossary entry that hid any of those four facts would be a disservice dressed as a definition. The purpose here is precision: to recover what the claim actually said, to list the conditions it itself specified, and then to measure the record and the rival predictions against that specification.
 
-![The withering away of the state, Engels's phrase, the abolition contrast and the conditions required - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The withering away of the state, Engels's phrase, the abolition contrast and the conditions required - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Precision matters for this term more than for most, because the phrase does heavy rhetorical work for people who have never read the passage it comes from. Opponents quote it as proof that Marxism promises an impossible stateless Eden and then congratulate themselves when Eden fails to arrive. Sympathisers quote it as proof that the coercive states built under Marxist banners were betrayals of the doctrine rather than expressions of it. Both uses treat the phrase as a detachable slogan. In the texts it is nothing of the kind. It is a conclusion drawn from a theory of what the state is and where it came from, and it arrives attached to conditions that can be written down and checked. Restoring the term to its argument, which is the series habit this article follows, means setting out the theory of the state's origin that makes disappearance thinkable, the sequence of stages the theory requires, the conditions named in the texts themselves, and the three great objections that were lodged against the idea, one of them before the ink of the founding quarrel was dry. Only after that work is done can the interesting question be asked with a straight face: was this a prediction that failed, a tendency claim that was never triggered, or a hope wearing the clothes of a law?
 
