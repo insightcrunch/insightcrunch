@@ -6,19 +6,19 @@ date: 2026-11-12
 categories: ["Industry"]
 tags: ["business-development-companies", "private-credit", "middle-market-lending", "investment-companies", "mergers-and-acquisitions", "corporate-finance"]
 excerpt: "Business development companies turn loans to private firms into traded shares. The structure, the leverage ceiling, the fees and the discount are explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-11-12
+lang: en
 ---
-
 ## A Public Share Wrapped Around Private Loans
 
 Business development companies work by raising money from public shareholders, adding borrowed money under a statutory ceiling, and lending the combined pool to private companies that cannot tap the public bond market, then passing nearly all of the interest income back to shareholders as distributions. A shareholder buys an ordinary exchange traded share, and behind that share sits a portfolio of secured loans, subordinated debt, and small equity positions in firms whose securities trade in no public market. Interest and fees flow in from borrowers, expenses and interest on the company's own borrowings are paid, and the remainder moves outward because the tax structure requires it.
 
 The arrangement is best understood as a translation machine. On one side stand illiquid, hard to value loans to private firms, negotiated one by one, documented in private credit agreements, and saleable only through a slow search for another willing lender. On the other side stands a liquid share that changes hands in seconds at a quoted price during exchange hours. A business development company converts the first form into the second, and every contested feature of the structure is the price of that translation. The discount to net asset value, the fee load charged by an external manager in many cases, and the leverage that magnifies both gains and losses are not accidental defects added to a clean design. Each one pays for some part of the conversion from private credit to public ownership.
 
-![Business development company portfolio of private middle market loans translated into a public share - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Business development company portfolio of private middle market loans translated into a public share - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 Net asset value anchors the translation. Accountants and independent valuation firms estimate the fair value of each loan and equity holding, subtract liabilities, and divide the result by shares outstanding to produce a per share figure, published quarterly. A private loan has no closing auction price, so the figure rests on models, comparable transactions, and judgment about borrower earnings and collateral. The market price of the share, by contrast, forms in open trading and answers a different question, namely what a marginal buyer will pay for exposure to that estimated value, managed by a particular team, carrying a particular level of debt. When the two figures diverge, the gap measures doubt about valuation, management, or future earnings power, expressed in a single percentage.
 
