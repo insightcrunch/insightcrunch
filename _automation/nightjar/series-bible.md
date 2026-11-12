@@ -341,6 +341,10 @@ rewritten.
 010 Ash's ledger is a heavy bound book in his own hand whose first forty pages read as a retired man's household accounts. Across eighteen years its dates stop being regular in four places, and those four places are four years apart. The ledger was recovered intact and passed into oversight custody with Commissioner Harrand, its chain of custody unbroken.
 010 Mira Kovac keeps a private register of absences in a notebook in her own hand, four entries so far: the Carrowmere transit room, the room off the service stair in a Melora court building, the north storeroom of the Helden Collection, and the study at Highstile. Arvo Leyden told her to stop keeping it, and she agreed to his face, the first time she has lied to him.
 
+011 Juno Sarte is an inspector of the Valtessan port service who commanded the Valtessan side of the joint seal rollup in Valtessa, held the seller's yard on Mira Kovac's disposition, and signed the joint report for her service.
+011 Of six bonded doors the Valtessa seal chain had supplied or serviced, the three carrying visibly wrong seals held bindings that read heavy and intact, and the three carrying perfect seals, with mark, number and the Carrowmere hairline true, held no binding at all behind them. The rooms behind the three empty doors read normally in every other respect. The absence on those doors concealed bindings specifically, and nothing else.
+011 Tobin Rill sold forged Accord seals from an office behind a bonded yard in Valtessa, and his chain was in truth selling the removal of real bindings, with the forgery trade as its shopfront. Rill arranged the result and did not know the method of removal. He was taken with eight others when the sting sprang, the yard was closed, and his yard book was recovered half burned from his fired office, its unburned half holding the pattern of two hands, one careful over a long span and one hurried, and no identity.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

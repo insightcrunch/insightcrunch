@@ -195,3 +195,7 @@
 ## how-compiegne-armistice-worked
 - _posts/2015-11-26-treaty-of-versailles-explained.md - could carry: "The truce that the treaty replaced had already disarmed Germany by dated stages, and the account of how the Compiègne armistice worked shows the machinery the peacemakers inherited."
 - _posts/2015-12-16-how-ww1-changed-the-world.md - could carry: "The collapse that set that transformation in motion was converted into fact by a signed schedule of withdrawals and handovers, traced in the account of how the Compiègne armistice worked."
+
+## nightjar-seal-that-wasnt-011
+- _posts/2026-11-03-nightjar-bonded-cargo-004.md - could carry: "The depot sting had closed around an empty room; on the Valtessa docks the emptiness had learned a narrower trade, and it sat behind perfect seals on doors whose rooms read normally in every other way."
+- _posts/2026-11-10-nightjar-private-register-010.md - could carry: "The register she had been told to stop keeping received three photographs a few days later, cut out by hand and put in with the four lines, and the doors in them were the first entries that were not rooms at all."
