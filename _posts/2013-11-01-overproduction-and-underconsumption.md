@@ -6,14 +6,15 @@ date: 2013-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Overproduction", "Underconsumption", "Karl Marx", "Political Economy"]
 excerpt: "Overproduction is always relative to something: purchasing power, profitability or need, and the relative-to-what test sorts the three rival explanations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 115
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2013-11-01
+lang: en
 ---
 Ask what caused a crisis and two words arrive together so reliably that they are often printed as if they were one word with a hyphen missing: overproduction and underconsumption. A factory system makes more than people can buy, the story runs, warehouses fill, workers are dismissed, and the machine stalls on its own abundance. The story has the great virtue of fitting the visible scene of a slump, the idle plant and the unsold stock and the queue outside the labour exchange, and it has the great defect of being two stories compressed into a single sentence. Overproduction names a surplus on the side of what has been made. Underconsumption names a shortfall on the side of what can be purchased. They point in opposite directions along the same circuit, they imply different mechanisms, they suggest different remedies, and in the writings of Karl Marx they receive strikingly different treatment, since he built the first into his account of crisis while attacking the second, in one of its most quoted passages, as an empty formula that explains nothing. A reader who keeps the two apart has hold of a distinction that reorganises the whole literature of capitalist crisis. A reader who merges them will misread Marx, misread his critics, and misread the claims made in his name by later schools that he would partly have disowned.
 
-![Overproduction and underconsumption, gluts of goods and capital and what production is relative to - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Overproduction and underconsumption, gluts of goods and capital and what production is relative to - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The organising claim of this article can be named, and the name is worth keeping because it converts a vocabulary lesson into an instrument. The claim is the relative-to-what test. Every statement about overproduction, and every statement about underconsumption, measures an excess or a shortfall against some standard, and the standard is doing the real work in the sentence. Production can exceed the demand that is backed by money, which is one measure. It can exceed the volume that can be sold at prices yielding the rate of profit capital requires, which is a second and quite different measure. Or it can exceed what human beings need, which is a third measure, and the one under which overproduction, in any abundant sense, almost never occurs. Marx's usage belongs overwhelmingly to the second measure. When he wrote of overproduction he meant, in the decisive passages, overproduction of capital: an accumulation of productive capacity and of claims upon future profit beyond what could be valorised, set to work and made to yield an adequate return. Underconsumption, as an explanation of crisis, belongs to the first measure dressed in the language of the third, and Marx's objection to it was precisely that it slid between denominators, borrowing the moral force of unmet need to explain a failure of monetary demand. State the denominator, and most of the confusion between the two terms dissolves. Refuse to state it, and the confusion is permanent, because the argument can always retreat to whichever measure the critic has not examined.
 

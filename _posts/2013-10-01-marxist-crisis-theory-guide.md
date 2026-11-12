@@ -6,14 +6,15 @@ date: 2013-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Crisis Theory", "Karl Marx", "Political Economy", "Capital"]
 excerpt: "Crisis theory in Marx is not one doctrine but five families of explanation: profit, production, proportion and money, separated cleanly by the wage test."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 114
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2013-10-01
+lang: en
 ---
 Crisis theory is the one part of Marxist economics where the argument among Marxists themselves has never closed. Ask what Marx held about the value of a commodity, about exploitation, or about the historical role of the factory, and a reasonably settled answer can be assembled from finished texts he prepared for print. Ask why capitalism periodically breaks down into crisis, and the answer dissolves into a quarrel that has run for well over a century, because the founder left the materials for several answers and the verdict for none. His writings supply a theory of falling profitability, a theory of goods produced and never sold, a theory of industries growing out of proportion to one another, a theory of wages rising until profits buckle, and a theory of credit expanding until the paper structure collapses. Each theory has distinguished defenders. Several contradict one another outright. This guide maps the whole field, gives each family its strongest form, and then applies the one device that separates them cleanly.
 
-![Marxist crisis theory, the five families of crisis explanation, profit production proportion and money - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist crisis theory, the five families of crisis explanation, profit production proportion and money - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 That device deserves a name at the outset, because everything in the pages ahead is organised around it. The device is the wage test. Take any argument that claims to explain capitalist crisis in Marxist terms and ask a single question of it: what does the argument predict will follow when real wages rise? The families answer differently, and two of them answer in flatly opposite directions. The profitability tradition reads a sustained rise in wages as a compression of the profit share that brings breakdown closer. The underconsumption tradition reads the same rise as a strengthening of working class demand that pushes breakdown further away. Both cannot be describing the same mechanism, and an exposition that blends them into one layered story, as many popular presentations do, has merged two rival engines and called the merger a theory. Learning to run the wage test on any crisis argument, including the ones in this guide, is the skill the guide exists to teach.
 

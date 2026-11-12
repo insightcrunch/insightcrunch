@@ -6,14 +6,15 @@ date: 2014-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Crisis of Capitalism", "Karl Marx", "Political Economy", "Sociology"]
 excerpt: "A crisis of capitalism is a claim at one of three levels: the firm, the conjuncture or the system, and the level test asks which level before any judging."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 117
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-01-01
+lang: en
 ---
 Few questions in political economy are asked more often, or answered more carelessly, than whether the world economy has entered a crisis of capitalism. The phrase appears in headlines, in pamphlets, in seminar rooms and in the speeches of people who agree about nothing else. It is used to describe a bad quarter, a bank failure, a lost decade, a mood of public pessimism and the supposed final act of a system several centuries old, sometimes by the same writer in the same essay. A term stretched across so many different events stops discriminating between them, and a question built on such a term cannot be answered, because nobody has said what would count as an answer. The pages that follow refuse the usual shortcut. They offer no verdict on the present moment. They offer something more useful: a sorting instrument that separates three claims habitually fused into one, states what evidence bears on each, and records honestly how often the strongest of the three has been made before and how it fared.
 
-![Crisis of capitalism, the three-level diagnostic sorting shocks, regimes and the system itself - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Crisis of capitalism, the three-level diagnostic sorting shocks, regimes and the system itself - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The instrument is called the three-level diagnostic, and its discipline can be stated in a sentence. Before arguing about whether a crisis exists, specify the level at which the claim operates: a downturn inside a functioning order, the exhaustion of one institutional configuration of that order, or the failure of the order itself. Each level has its own evidence, its own historical precedents and its own test that could in principle settle it. Most public argument about capitalist crisis fails before it begins because the levels are traded against each other mid-sentence: evidence gathered at the first level is spent at the third, alarm appropriate to a regime change is attached to an ordinary recession, and calm appropriate to a recession is used to dismiss a genuine institutional exhaustion. Sorting the levels does not settle the argument. It makes the argument possible, which is the prior and harder task.
 

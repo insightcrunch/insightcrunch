@@ -6,14 +6,15 @@ date: 2014-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Keynes", "Crisis Theory", "Karl Marx", "Political Economy"]
 excerpt: "Keynes and Marx explain crises from different ends of the same circuit: effective demand against the profit rate, with the Kalecki bridge standing between."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 117
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-01-15
+lang: en
 ---
 Keynes published his general theory of employment in 1936, into a world where millions stood idle beside silent factories, and he wrote it as a rescue operation for an economic order he wished to preserve. Marx had died more than half a century earlier, leaving behind an account of crisis that treated breakdown not as an accident befalling capitalism but as one of its regular products. Placed side by side, the two men look like opposites arranged for a debating society: the Cambridge reformer against the revolutionary exile, demand against production, policy against transformation. That arrangement is the one most textbooks still use, and it is misleading in ways that cost the reader real understanding, because the two frameworks agree on more than either camp admits, disagree at a deeper level than the slogans suggest, and were joined, historically, by a figure whom the standard comparison almost never mentions.
 
-![Marx vs Keynes on crisis, effective demand against the profit rate and the Kalecki bridge - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx vs Keynes on crisis, effective demand against the profit rate and the Kalecki bridge - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The missing figure is Michal Kalecki, a Polish economist who worked out the central result of Keynesian economics independently, from Marxian starting points, before the General Theory appeared, and who then wrote a short paper explaining why the Keynesian remedy, though economically available, would be politically resisted for reasons that Marxian class analysis predicts. His existence changes the shape of the comparison. A contest between two sealed systems becomes a three-cornered inquiry in which the most instructive position may be the one that borrows from both. This article therefore proceeds by giving each framework its strongest form before comparing them, because a comparison of weakened versions settles nothing. Keynes will be presented as his ablest defenders present him, Marx as his ablest interpreters present him, and the verdicts, where verdicts are possible at all, will be assigned axis by axis rather than awarded to a camp. Readers who want the wider map of how Marxian economics differs from the mainstream tradition it argues with can find it in the comparison of [Marxist and mainstream economics](/2016/07/15/marxist-vs-mainstream-economics/), which treats method across the whole field; the task here is narrower and sharper, confined to the single problem of crisis.
 

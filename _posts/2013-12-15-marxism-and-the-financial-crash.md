@@ -6,14 +6,15 @@ date: 2013-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Financial Crisis", "Karl Marx", "Political Economy", "History"]
 excerpt: "The financial crash drew rival Marxist explanations within a few months: overaccumulation, financialisation and profit squeeze, and the vindication trap."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 116
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2013-12-15
+lang: en
 ---
 In the autumn of 2008 a financial crash that had begun in one corner of the American mortgage market became a worldwide contraction of credit, trade and employment. Within months, commentators across the political spectrum were announcing that Karl Marx had been proved right. Bookshops reported surging sales of his work, newspapers that rarely discussed political economy ran features on the renewed relevance of a thinker dead for well over a century, and a German finance minister was quoted observing that certain passages of the old critique read like dispatches from the present. The applause concealed a difficulty that this article takes as its subject. The Marxist tradition did not produce one explanation of the crash. It produced at least four, and the four do not agree with each other about what caused the collapse, what the long expansion of finance had been, or what sort of recovery could follow. A single event cannot vindicate four incompatible accounts at once, and the interesting work lies in setting the rivals side by side and grading each against the documented record.
 
-![Marxism and the global financial crash, rival explanations of the collapse and the credit system - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and the global financial crash, rival explanations of the collapse and the credit system - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 That grading is the article's method from the first page to the last. The crash itself is treated as history: a sequence of lending practices, financial instruments, institutional failures and policy responses that historians and economists have documented in detail and that can be narrated without leaning on any theory of crisis at all. Against that narrative, the rival explanations are then introduced one at a time, each in its strongest form, each asked the same questions. What does the account identify as the primary cause? What does it take the growth of finance to have been? What would it lead a reader to expect about the recovery? And what evidence, if it appeared, would count against it? The same questions are put to the leading non-Marxist explanations, several of which describe the mechanism of the collapse more precisely than any Marxist account does, and one of which has the strongest claim of any framework to have described that mechanism in advance. Readers who finish the article should be able to say not merely that Marxists explained the crash, but which Marxist explanation they find persuasive, what it costs to hold it, and where its rivals press hardest.
 

@@ -6,14 +6,15 @@ date: 2013-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Rate of Profit", "Empirical Evidence", "Karl Marx", "Political Economy"]
 excerpt: "The rate of profit a study reports depends on measurement choices made before the data speak: the valuation fork decides in advance what the evidence can show."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 115
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-12-01
+lang: en
 ---
 Ask a room of economists whether the rate of profit has fallen over the past half century and the room divides. Ask the same room to look at the national accounts of a single country, the United States say, and the division does not disappear; it sharpens. Two researchers of standing can work from the same published statistics, covering identical years and the same economy, and emerge with trend lines that slope in opposite directions across the decades after the early nineteen eighties. One reports a long decline that never reversed. The other reports a fall followed by a substantial recovery. Neither has made an arithmetic error. Neither has invented data. The difference between them was settled before either touched a spreadsheet, at the moment each decided how the capital stock in the denominator of the ratio would be valued. That decision, and the handful of decisions that surround it, are the real subject of the evidence on profitability, and they are the subject of this article.
 
-![Evidence on the rate of profit, measuring the capital stock, valuation choices and profit series - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Evidence on the rate of profit, measuring the capital stock, valuation choices and profit series - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The finding can be stated in one sentence, and the rest of this article exists to earn it. Whether the capital stock is valued at historical cost, meaning the prices actually paid for it when it was acquired, or at current replacement cost, meaning what it would cost to reproduce it at the prices of the year under study, determines the reported direction of the profit rate across the disputed decades more powerfully than any disagreement about events in the world. Series built the first way have generally shown a persistent long-run decline in the major economies. Series built the second way have generally shown decline into the early nineteen eighties and a partial recovery thereafter. The raw material beneath both families of series is largely shared. The conclusions are not. A reader who grasps that single point understands the empirical literature on profitability better than a reader who has memorised a dozen headline figures, because the reader who grasps it knows which question to ask of every figure quoted: on which side of the fork was this series built?
 

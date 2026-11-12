@@ -6,14 +6,15 @@ date: 2013-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Falling Rate of Profit", "Karl Marx", "Political Economy", "Debates"]
 excerpt: "The falling rate of profit debate runs on three tracks at once: the logic of the law, the mathematics against it and the record, too often confused as one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 115
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-11-15
+lang: en
 ---
 Few propositions in economics have been declared dead as often, or have refused burial as stubbornly, as the claim that a falling rate of profit is written into the way capitalist production develops. Textbooks settle the matter in a paragraph. Journals reopen it in special issues and long exchanges of articles. Between the paragraph and the special issue stands the reader who wants a plain answer to a plain question: does the law hold? The honest response begins with a refusal, because the question as usually posed bundles three different questions together, each with its own kind of evidence and its own state of resolution, and much of the celebrated quarrel consists of people answering one of them with material drawn from another.
 
-![The falling rate of profit debate, the law's logic, Okishio's theorem and the empirical record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The falling rate of profit debate, the law's logic, Okishio's theorem and the empirical record - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The stakes explain the stubbornness. In the architecture of Marx's critique, the tendency he announced is the point where the system's success turns into its own difficulty: production grows more productive, capital accumulates, and the return on the accumulated stock is squeezed by the very mechanisation that made accumulation profitable. If the law holds in a strong form, crisis is not an accident that befalls capitalism from outside but a pressure generated inside its ordinary operation. If the law fails, that particular route from growth to breakdown closes, and the theory of crisis has to be rebuilt from other materials. Generations of economists, friendly and hostile, have understood what hangs on the answer, which is why a dispute that looks scholastic from a distance has absorbed so much serious labour at close range.
 

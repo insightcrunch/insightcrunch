@@ -6,14 +6,15 @@ date: 2013-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rate of Profit", "Karl Marx", "Political Economy", "Capital"]
 excerpt: "The rate of profit tends to fall as the composition of capital rises, Marx argued, against counter-tendencies he listed himself in the same three chapters."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 114
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2013-10-15
+lang: en
 ---
 Few propositions in political economy carry as much weight, or attract as much argument, as Marx's claim that the rate of profit has a built in tendency to fall. Supporters treat the claim as the deepest insight in his economics, the point where the system's own success turns against its measure of success. Detractors treat the same claim as the weakest plank in the structure, an assertion dressed as a derivation. Between those poles sits a text that is stranger than either camp usually admits: a law stated together with the forces that work against it, in chapters assembled after its author's death by an editor working from an unfinished manuscript. A reader who wants to judge the argument has to hold all three elements at once, the mechanism, the counterweights, and the editorial history, because each one changes what the others can honestly be said to mean.
 
-![The tendency of the rate of profit to fall, rising composition of capital and its counter-tendencies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The tendency of the rate of profit to fall, rising composition of capital and its counter-tendencies - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 That triple task is the work of the pages ahead. The mechanism comes first, stated as the ratio it is, with the arithmetic made explicit enough that a reader can test each step rather than take the conclusion on trust. The counteracting influences come second, all six of them, named and examined one by one, because Marx placed them beside the law itself and any account that separates the two has already distorted its source. The editorial question comes third: the chapter divisions and headings that make the material read like a finished system were supplied by Friedrich Engels, not by Marx, and scholarship has argued hard over what that fact does to the law's standing. Only after those three passes does this guide turn to the objections, including the charge that the law is built so that no evidence could ever count against it.
 
