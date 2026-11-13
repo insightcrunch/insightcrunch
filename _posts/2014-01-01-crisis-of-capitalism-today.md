@@ -9,7 +9,7 @@ excerpt: "A crisis of capitalism is a claim at one of three levels: the firm, th
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 117
 author: "chloe-martin"
-last_updated: 2014-01-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few questions in political economy are asked more often, or answered more carelessly, than whether the world economy has entered a crisis of capitalism. The phrase appears in headlines, in pamphlets, in seminar rooms and in the speeches of people who agree about nothing else. It is used to describe a bad quarter, a bank failure, a lost decade, a mood of public pessimism and the supposed final act of a system several centuries old, sometimes by the same writer in the same essay. A term stretched across so many different events stops discriminating between them, and a question built on such a term cannot be answered, because nobody has said what would count as an answer. The pages that follow refuse the usual shortcut. They offer no verdict on the present moment. They offer something more useful: a sorting instrument that separates three claims habitually fused into one, states what evidence bears on each, and records honestly how often the strongest of the three has been made before and how it fared.

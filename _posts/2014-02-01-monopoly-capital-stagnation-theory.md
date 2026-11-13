@@ -9,7 +9,7 @@ excerpt: "Monopoly capital theory inverted the falling-profit story: the problem
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 117
 author: "chloe-martin"
-last_updated: 2014-02-01
+last_updated: 2026-11-13
 lang: en
 ---
 Monopoly capital theory begins with an act of replacement, and everything distinctive about the school flows from that single decision. Where the classical Marxist account of capitalist crisis locates the system's central difficulty in a tendency for the rate of profit to fall, Paul Baran and Paul Sweezy argued that under the conditions of advanced monopoly capitalism the opposite tendency governs: the economic surplus tends to rise, and the system's central difficulty is finding ways to absorb what it generates. A tradition organised around scarcity of surplus was turned, deliberately and explicitly, into a tradition organised around excess of it. The school that resulted, associated with the journal Monthly Review and often called the Monthly Review school, predicted stagnation rather than breakdown, treated advertising and military spending as structural necessities rather than incidental waste, and built its analysis on a category, the economic surplus, that it openly substituted for Marx's surplus value. Whether that substitution counts as creative development or as quiet abandonment of the theory it claims to extend is the question around which the school's reputation has always turned.

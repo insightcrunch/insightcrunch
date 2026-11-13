@@ -9,7 +9,7 @@ excerpt: "UPSC qualifying papers strategy for English and Indian language coveri
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-16
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "preparation"

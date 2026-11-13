@@ -9,7 +9,7 @@ excerpt: "The Eighteenth Brumaire is Marx's finest piece of political writing: t
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 112
 author: "amanda-ross"
-last_updated: 2013-07-15
+last_updated: 2026-11-13
 lang: en
 ---
 The Eighteenth Brumaire of Louis Bonaparte is the book readers quote most and finish least. Its opening sentences circulate everywhere, detached from the narrative they were written to govern, while the narrative itself, dense with the names of French politicians dead for more than a century and a half, defeats readers who arrived expecting a treatise and found a chronicle. That mismatch between fame and finishability is the problem this guide exists to solve. It supplies the scaffolding the text assumes: a timeline of the French crisis from the February revolution of 1848 to the coup of December 1851, a cast organised by the class fractions Marx assigns to each actor, an explanation of the celebrated opening that separates what Marx credited to Hegel from what Marx added himself, and a sustained account of why this short, furious, partisan book has become the standing internal evidence against the crudest version of the doctrine attached to its author's name.

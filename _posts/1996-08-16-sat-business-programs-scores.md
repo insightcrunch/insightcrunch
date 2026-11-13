@@ -9,7 +9,7 @@ excerpt: "SAT scores for top undergraduate business programs explained: ranges, 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 1996-08-16
+last_updated: 2026-11-13
 lang: en
 ---
 Two students with identical 1480 SAT scores apply to the same university in the same cycle, and one walks into a direct-admit business program while the other gets the general admission letter and is told to apply to the business school as a sophomore. Nothing separated them on paper except a single box on the application: one checked the named business program as a first-choice major, and the other did not. That gap, invisible to most families until the decision lands, is the single most expensive misunderstanding in undergraduate business admissions. The SAT score for a top business program is rarely the number you read on a general admissions page, and the threshold that actually governs your chances depends less on the digit itself than on a structural question almost nobody asks first: does this school admit you to business when you apply to college, or does it make you earn your way in after you arrive?

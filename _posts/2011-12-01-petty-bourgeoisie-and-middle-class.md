@@ -9,7 +9,7 @@ excerpt: "The petty bourgeoisie is not a leftover to be waved away: shopkeepers,
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 95
 author: "chloe-martin"
-last_updated: 2011-12-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few labels in political argument do more work with less precision than the petty bourgeoisie and the middle class. A freelance designer is called petty bourgeois by one writer and working class by another. A hospital consultant earning a large salary is described as middle class in a newspaper profile, as a credentialed employee in a sociology paper, and as part of a professional managerial class in a polemical essay, and each description sounds plausible because each is measuring something different. A shopkeeper who employs two assistants, a tenant farmer, a senior manager with share options, a self employed electrician with a van and a full order book: ordinary language sweeps all of them into one broad middle, and then argument proceeds as though the sweep had settled a question rather than postponed it. This article postpones nothing. It separates the things that share a name, states the Marxist criterion exactly, tests the difficult cases one by one, and follows the strange career of a technical term that escaped the seminar room and became an insult.

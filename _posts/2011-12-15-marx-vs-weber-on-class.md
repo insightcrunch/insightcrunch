@@ -9,7 +9,7 @@ excerpt: "Marx and Weber on class differ at the root: production against market 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 96
 author: "diana-patel"
-last_updated: 2011-12-15
+last_updated: 2026-11-13
 lang: en
 ---
 Marx and Weber on class is the comparison every student of sociology meets early, and it is usually taught in a form that both thinkers would have disowned. The standard version runs in two sentences. Marx, it is said, divided society into two great classes defined by property, while Weber refined the picture by adding status and party, so that stratification became three dimensional where it had been one. The summary is tidy, memorable, and wrong at its foundation, because it presents Weber as correcting a thinker who had supposedly reduced social rank to wealth alone, and it presents the correction as a substitution of prestige for property. Weber made no such substitution. Read in his own text, Weber grounds class in the ownership and non ownership of property with a bluntness that rivals anything in Marx, and the genuine dispute between the two men lies somewhere more interesting than the textbook contrast suggests. It lies in where a class is constituted, in what a class can be expected to do, and in whether history has a direction. This article reconstructs both frameworks from their strongest statements, names the point of agreement that examination answers routinely erase, and then asks the only comparative question worth asking: which framework answers which question better, judged by a stated criterion rather than by allegiance.

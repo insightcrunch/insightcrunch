@@ -9,7 +9,7 @@ excerpt: "SAT practice test analysis: a nine-step review method that categorizes
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "maria-santos"
-last_updated: 1996-09-26
+last_updated: 2026-11-13
 lang: en
 ---
 Two students take the same full-length practice exam on a Saturday morning. Both finish with a 1240. Both feel the same mix of relief and mild disappointment, close the laptop, and tell a parent the number over lunch. One of them will gain seventy points before the next attempt. The other will sit a second practice exam two weeks later and land within a handful of points of where they started, then a third, then a fourth, each time wondering why the needle refuses to move. The difference between these two students is not talent, not hours logged, and not the quality of the questions they drilled in between. The difference is that one of them reviewed the exam and the other only scored it.

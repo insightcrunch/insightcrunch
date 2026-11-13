@@ -9,7 +9,7 @@ excerpt: "The Paris Commune gave Marx his one working model of a workers' state:
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 107
 author: "diana-patel"
-last_updated: 2013-02-15
+last_updated: 2026-11-13
 lang: en
 ---
 The Paris Commune lasted seventy two days, and it has been argued about for a century and a half. Between the middle of March 1871 and the end of May, an elected council governed the largest city in France in defiance of the national government at Versailles, passed a body of decrees that ranged from the remission of rents to the separation of church and state, and was then destroyed in a week of street fighting and mass execution that remains one of the most contested episodes in European history. Almost everything about the episode is disputed, and the disputes are not ornaments on the story but the story itself. It is disputed who governed Paris, since the council that ruled the city was dominated by Blanquists and Proudhonists rather than by members of Karl Marx's International. It is disputed what Marx himself thought, since he warned against the rising before it happened, defended it completely once it existed, and described it with cool detachment a decade after it fell. It is disputed how many people died in its suppression, since the figure repeated for a hundred years has been challenged by archival research that argues for a far lower toll. An account of the Commune that smooths over those three disputes has discarded the most valuable material the episode offers, and this article is organised to keep all three in view from the first page to the last.

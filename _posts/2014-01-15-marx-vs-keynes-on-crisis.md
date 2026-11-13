@@ -9,7 +9,7 @@ excerpt: "Keynes and Marx explain crises from different ends of the same circuit
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 117
 author: "rachel-foster"
-last_updated: 2014-01-15
+last_updated: 2026-11-13
 lang: en
 ---
 Keynes published his general theory of employment in 1936, into a world where millions stood idle beside silent factories, and he wrote it as a rescue operation for an economic order he wished to preserve. Marx had died more than half a century earlier, leaving behind an account of crisis that treated breakdown not as an accident befalling capitalism but as one of its regular products. Placed side by side, the two men look like opposites arranged for a debating society: the Cambridge reformer against the revolutionary exile, demand against production, policy against transformation. That arrangement is the one most textbooks still use, and it is misleading in ways that cost the reader real understanding, because the two frameworks agree on more than either camp admits, disagree at a deeper level than the slogans suggest, and were joined, historically, by a figure whom the standard comparison almost never mentions.

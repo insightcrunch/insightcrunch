@@ -9,7 +9,7 @@ excerpt: "SAT scores for top engineering programs explained: middle-50 ranges, w
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1996-08-25
+last_updated: 2026-11-13
 lang: en
 ---
 Two applicants sit on a reader's desk with the same total of 1480. One earned a 760 on the math side and a 720 on reading and writing. The other earned a 700 on math and a 780 on reading and writing. To a liberal arts committee, those files are interchangeable. To the person reading them for a competitive engineering cohort, they are not the same applicant at all, and the gap between them is exactly the thing most students never think about when they obsess over the single composite number. The applicant with the higher math figure walks in carrying a signal that lines up with the degree itself. The one with the higher verbal figure has a perfectly respectable file that points, very slightly, in the wrong direction for this particular major.

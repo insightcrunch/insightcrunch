@@ -9,7 +9,7 @@ excerpt: "Species-being is Marx's name for distinctively human activity: free, c
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 90
 author: "diana-patel"
-last_updated: 2011-05-15
+last_updated: 2026-11-13
 lang: en
 ---
 Some terms in Marx carry their difficulty on the surface, and species-being is the outstanding case. It arrives in translation wearing a hyphen, it sounds like biology and behaves like philosophy, and the glossaries that serve most readers dispose of it in a single line: species-being, they say, means human nature, or human essence, and the reader is sent onward as though a translation had been supplied. That gloss is not exactly wrong, and that is precisely the trouble with it. It is close enough to pass an examination and too loose to survive one serious question. If species-being simply meant human nature in the ordinary sense, then Marx's elaborate account of what human beings do when they produce, and of what happens to them when their production is estranged, would be decoration around a dictionary entry. The term does work in the texts where it appears. It names a specific account of distinctively human activity, it supplies the standard against which alienation is measured, and it stands at the centre of the longest running dispute in Marx scholarship, the dispute over whether the mature Marx kept a conception of human nature or threw the whole idea away in 1845.

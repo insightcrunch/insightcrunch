@@ -9,7 +9,7 @@ excerpt: "News media ideology works mostly through selection rather than inventi
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 99
 author: "chloe-martin"
-last_updated: 2012-04-15
+last_updated: 2026-11-13
 lang: en
 ---
 Almost every public quarrel about the news media begins with a name. A proprietor is identified, a headline is quoted against him, an editor's past employment is rehearsed, and the argument closes as if a motive had been demonstrated and a mechanism explained. The quarrel feels satisfying because it has a villain, a document, and a verdict. It is also, in the judgement of the strongest Marxist writing on the press and broadcasting, an argument built on the weakest available version of the theory it claims to use. Marxist analysis of news contains at least three distinct accounts of how coverage becomes ideological, and they are not three strengths of one claim. They locate the cause in different places, they predict different patterns in the evidence, they fail in different ways, and an argument that slides between them without noticing will be refuted in the form in which it happens to be standing when the refutation arrives.

@@ -9,7 +9,7 @@ excerpt: "The Gotha Programme critique is Marx's fullest sketch of a post-capita
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 113
 author: "amanda-ross"
-last_updated: 2013-09-01
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a room of well read people about the Gotha Programme and what Marx proposed for the society that would follow capitalism, and the answers arrive with a confidence the texts do not support. He refused to write recipes for the cook shops of the future, someone will say, and the room nods, because the refusal is genuine and the quotation is real. He wanted equality, another voice adds, and the nodding continues, because equality sounds like the obvious name for whatever he wanted. He distinguished socialism from communism, a third voice concludes, socialism first and communism after, and by then the conversation has assembled a Marx who exists in no single document: a thinker who said almost nothing about the future, whose little he did say can be summarised as fairness, and whose stages carry names he never gave them. Against that assembled figure stands one short, irritable, magnificent set of marginal notes, the Critique of the Gotha Programme, in which Marx described deductions from the social product, a distributive principle for a lower phase, a second principle for a higher one, and an argument that equal right itself is a defective standard. The notes were written in 1875, suppressed by the party they criticised, and printed only in 1891, eight years after their author died. Anyone asking what Marx actually proposed should be sent to them first. Almost nobody is.

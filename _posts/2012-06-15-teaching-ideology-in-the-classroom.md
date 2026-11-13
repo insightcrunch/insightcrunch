@@ -9,7 +9,7 @@ excerpt: "Teaching ideology without preaching is a design problem with a known s
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 101
 author: "amanda-ross"
-last_updated: 2012-06-15
+last_updated: 2026-11-13
 lang: en
 ---
 Teaching ideology is the topic most likely to damage a teacher's standing in a school, and the damage rarely comes from what the teacher believes. It comes from design. A lesson on class, on the family, on crime, can be taught badly without anyone writing home about it, because the material does not appear to accuse anyone in the room. A lesson on ideology accuses everyone in the room by definition, since its central claim is that beliefs serve interests and present themselves as something else. Students hear that claim as a verdict on their own households long before they hear it as a concept, and a parent who learns of the lesson at the dinner table hears it the same way. The teacher who walks in with a folder of advertisements and a confident manner, intending to reveal how the class is manipulated, discovers within twenty minutes that half the room has stopped analysing and started defending. Nothing has gone wrong with the content. Everything has gone wrong with the order in which the content was introduced.

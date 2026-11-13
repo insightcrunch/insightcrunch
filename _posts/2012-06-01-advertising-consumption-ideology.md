@@ -9,7 +9,7 @@ excerpt: "Advertising is where ideology critique meets the modern shopping baske
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 100
 author: "amanda-ross"
-last_updated: 2012-06-01
+last_updated: 2026-11-13
 lang: en
 ---
 Advertising is the most visible persuasive machinery of a commercial society, and for that reason it attracts the loosest thinking in the whole Marxist repertoire. A poster promises that a perfume will confer desirability, a soft drink will deliver friendship, and a car will certify that its driver has escaped the ordinary. The critic looks at the poster, feels the dishonesty in his fingertips, and reaches for the heaviest words available: manipulation, brainwashing, false consciousness, ideology. The words arrive as a bundle, and inside the bundle three quite different arguments are travelling together without being distinguished. One argument concerns the structure of commodity production itself and would hold in a world where no copywriter had ever lived. A second concerns a deliberate industry, its crafts and its costs, and can be examined in the texts that industry produces. A third concerns the wants of consumers and asserts that some of those wants are false, an assertion that turns out to need a criterion nobody has supplied. This article separates the three, because the separation is where the strength of the critique actually lies. Bundled together, the arguments inherit the weakness of the feeblest member and can be dismissed wholesale by anyone who notices that shoppers are not hypnotised. Separated, two of the three are formidably hard to answer, and the third can be marked honestly as an open wound rather than paraded as a triumph.

@@ -9,7 +9,7 @@ excerpt: "Thesis antithesis synthesis is a formula neither Hegel nor Marx ever u
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 101
 author: "chloe-martin"
-last_updated: 2012-07-15
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a room of educated adults to explain Hegel's dialectic and a large share will produce the same three words in the same order: thesis antithesis synthesis. The formula arrives with the confidence of a quotation. It is printed in school textbooks, repeated in university survey lectures, recycled in management manuals, and treated as the skeleton key to two philosophers at once, since the same three words are then handed to Marx as his method as well. Yet the formula cannot be found in the texts it claims to summarise. Hegel never set out his method under those labels, and Marx never did either. What follows is the documented history of a misattribution: where the three words actually come from, whose vocabulary Hegel really used, the one occasion on which Marx handled the triad at length, and the reasons a demonstrably false formula continues to be taught as though it were a primary source.

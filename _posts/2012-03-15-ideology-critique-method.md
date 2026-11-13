@@ -9,7 +9,7 @@ excerpt: "Ideology critique is a method with definite steps and definite limits:
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 97
 author: "diana-patel"
-last_updated: 2012-03-15
+last_updated: 2026-11-13
 lang: en
 ---
 Ideology critique is among the most invoked and least taught methods in the Marxist tradition. Students meet it first as a finished performance: a celebrated reading of a novel, a newspaper, a speech, in which the critic moves with apparent effortlessness from surface detail to hidden function, and the text stands exposed. What the performance conceals is the procedure. The beginner who tries to imitate the result discovers that knowing what ideology means does not tell her what to do on Monday morning with a policy document open on the desk, an advertisement to analyse, or an essay deadline approaching. Definitions circulate freely. Instructions do not. This article supplies the missing instruction set: a five-step procedure that can be followed in order, a typology of the operations ideology performs on representation, one fully worked example carried through every step, and an honest account of the two limits that decide whether the exercise counts as analysis or degenerates into denunciation with footnotes.

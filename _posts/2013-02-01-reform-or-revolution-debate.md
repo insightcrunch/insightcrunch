@@ -9,7 +9,7 @@ excerpt: "Reform or revolution is the argument that split the socialist movement
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 107
 author: "chloe-martin"
-last_updated: 2013-02-01
+last_updated: 2026-11-13
 lang: en
 ---
 The argument named by the phrase reform or revolution has organised socialist politics for well over a century, and it has done so in a peculiarly unhelpful form. Presented as a single choice between two roads, it invites loyalty rather than analysis. A participant declares for gradual change or for rupture, and the declaration is treated as a position, when in fact it bundles together at least four separate questions that have separate answers and separate bodies of evidence. Whether capitalism can stabilise itself is an economic question. Whether reforms can accumulate until the system has been transformed is a question about institutional change over time. Whether an elected government commands the power its office appears to confer is a question about the state. Whether reforms are worth winning for their own sake is a question about the value of improved lives under a system one hopes to replace. Nothing about answering one of these questions settles any of the others, and the history of the debate is largely the history of answers to one question being carried across, illegitimately, as answers to the rest.

@@ -5,11 +5,11 @@ page_title: "Snape vs Dumbledore in Harry Potter: Loyalty, the Greater Good, and
 date: 2013-10-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Albus Dumbledore", "Character Comparison"]
-excerpt: "Snape vs Dumbledore in Harry Potter, compared across loyalty, the greater good, sacrifice, and the ethics of using a grieving man as an instrument of war."
+excerpt: "The murder Dumbledore arranged and Snape executed, examined for the harder ethical question Rowling leaves open."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 42
 author: "sarah-mitchell"
-last_updated: 2013-10-03
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Mercy That Was Also a Use

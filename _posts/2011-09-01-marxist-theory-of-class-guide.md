@@ -9,7 +9,7 @@ excerpt: "Class in Marx is a relation to the means of production, not an income 
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 92
 author: "rachel-foster"
-last_updated: 2011-09-01
+last_updated: 2026-11-13
 lang: en
 ---
 Almost every account of Marx on class begins in the wrong place. It begins with two names, bourgeoisie and proletariat, arranged opposite each other like chess pieces, and it presents that arrangement as the theory itself. A reader who starts there learns a slogan and misses an argument. The honest place to begin is a gap. Near the very end of the third volume of Capital, in a short chapter titled Classes, Marx set out to answer the question his whole system presupposes: what makes a class? He named three great classes, posed the question, raised a difficulty against his own first answer, wrote a little more, and stopped. The manuscript breaks off after roughly a page and a half, and Friedrich Engels, preparing the volume for publication after Marx's death, let the fragment stand with an editorial note recording that the text ends there. The definition of the central category of Marxist theory was never finished by its author.

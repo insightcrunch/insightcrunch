@@ -9,7 +9,7 @@ excerpt: "SAT prep on a budget: a zero-dollar strategy using free official tools
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-09-03
+last_updated: 2026-11-13
 lang: en
 ---
 A private tutor at a hundred and twenty dollars an hour for two sessions a week across a four-month run will cost a family something close to four thousand dollars. A brand-name course package lands in the same neighborhood. The pitch behind those numbers is that scores are bought: that the student whose parents can write the check walks into the exam with an advantage the rest cannot reach. That pitch is wrong, and the gap between what prep costs and what actually moves a score is the single most useful thing a budget student can understand before spending a dollar.

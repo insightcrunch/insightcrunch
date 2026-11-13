@@ -9,7 +9,7 @@ excerpt: "State theory earns its keep on hard cases: bank bailouts, austerity an
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 109
 author: "rachel-foster"
-last_updated: 2013-04-01
+last_updated: 2026-11-13
 lang: en
 ---
 A theory of the state earns its authority in the same way a bridge earns its load rating, by being tested against the heaviest traffic available. For Marxist state theory the heaviest traffic of the past four decades is not hard to identify. Governments committed to reducing the role of the state presided over an expansion of its rule making. Financial systems built on the doctrine that markets discipline themselves were rescued, at the moment of collapse, by public money and public guarantees on a scale no postwar intervention had matched. States described as powerless before global capital redesigned their central banks, rewrote their competition law, built new regulators, and bound their own future budgets with rules of their own choosing. Each episode is an embarrassment for somebody's theory. The argument of this article is that the embarrassments fall unevenly, and that the Marxist tradition, at its most careful, predicted the shape of several of them in advance, because it never accepted the description under which they appear paradoxical.

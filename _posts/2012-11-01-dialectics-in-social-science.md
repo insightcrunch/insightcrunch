@@ -9,7 +9,7 @@ excerpt: "Dialectics survives in modern social science mostly without its name: 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 105
 author: "amanda-ross"
-last_updated: 2012-11-01
+last_updated: 2026-11-13
 lang: en
 ---
 Dialectics has an odd afterlife in the social sciences, because the term itself has nearly vanished from the places where its habits are most faithfully practised. A student teacher on a training course in almost any country will be taught the zone of proximal development as a settled finding of developmental psychology, will be examined on it, and will plan lessons around it, without once being told that the psychologist who built the concept constructed his whole method out of Marx's writings and said so in print. A sociologist trained in network analysis will learn to treat relations as prior to the things related, will cite a famous manifesto for that commitment, and will rarely learn that the manifesto's central distinction was worked out a century earlier inside Marxist philosophy of science. A biologist who insists that organism and environment make each other will be working a seam opened by two Harvard scientists who announced their Marxism on the first page of their book. The pattern repeats often enough, across enough separate disciplines, that it deserves a name and an audit rather than a shrug.

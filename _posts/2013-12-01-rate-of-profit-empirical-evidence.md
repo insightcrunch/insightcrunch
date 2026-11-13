@@ -9,7 +9,7 @@ excerpt: "The rate of profit a study reports depends on measurement choices made
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 115
 author: "chloe-martin"
-last_updated: 2013-12-01
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a room of economists whether the rate of profit has fallen over the past half century and the room divides. Ask the same room to look at the national accounts of a single country, the United States say, and the division does not disappear; it sharpens. Two researchers of standing can work from the same published statistics, covering identical years and the same economy, and emerge with trend lines that slope in opposite directions across the decades after the early nineteen eighties. One reports a long decline that never reversed. The other reports a fall followed by a substantial recovery. Neither has made an arithmetic error. Neither has invented data. The difference between them was settled before either touched a spreadsheet, at the moment each decided how the capital stock in the denominator of the ratio would be valued. That decision, and the handful of decisions that surround it, are the real subject of the evidence on profitability, and they are the subject of this article.

@@ -9,7 +9,7 @@ excerpt: "Business development companies turn loans to private firms into traded
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 81
 author: "gregory-marsh"
-last_updated: 2026-11-12
+last_updated: 2026-11-13
 lang: en
 ---
 ## A Public Share Wrapped Around Private Loans

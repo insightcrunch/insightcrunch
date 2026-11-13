@@ -9,7 +9,7 @@ excerpt: "The authorship question asks who wrote the books signed by two names: 
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 111
 author: "diana-patel"
-last_updated: 2013-06-01
+last_updated: 2026-11-13
 lang: en
 ---
 The authorship question begins with an embarrassment of trust. Two names stand on the title pages of some of the most argued over books of the modern age, and for more than a century readers treated the pairing as a single mind with two hands. Marx and Engels wrote together, edited each other, financed each other and defended each other so completely that the composite figure, half jokingly called by later generations a two headed author, seemed a natural unit of intellectual history. Yet the books were produced by distinguishable processes. Some were drafted by one man and finished by the other. Some were written by one and signed by both. One famous pamphlet rests on scaffolding built by the junior partner and a final text written by the senior. Two large volumes of the major work were assembled after the author's death by his friend, from manuscripts the friend described, honestly but incompletely, in prefaces that few readers ever studied. The question of who wrote what is therefore not gossip about a famous friendship. It is a question about evidence, and it can be answered, case by case, with documents.

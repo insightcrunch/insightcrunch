@@ -20618,6 +20618,12 @@ apush-periods-8-9-1945-present:
   category: industry
   image: /assets/images/blog/blog-112.webp
   lang: en
+- slug: how-compiegne-armistice-worked
+  title: 'How the Compiègne Armistice Worked: Terms and Enforcement'
+  url: /2026/11/11/how-compiegne-armistice-worked/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 foreign-policy-doctrines-outlive-presidents:
 - slug: executive-orders-count-per-president
   title: 'Executive Orders: The Count Per President and Meaning'
@@ -26376,6 +26382,12 @@ racism-row-over-new-york-post:
   category: leisure
   image: /assets/images/blog/blog-73.webp
   lang: en
+- slug: ideology-and-news-media
+  title: Ideology and the Modern News Media
+  url: /2012/04/15/ideology-and-news-media/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 - slug: romeo-and-juliet-social-media-age
   title: 'Romeo and Juliet in the Social Media Age: Feeds and Clips'
   url: /2031/06/20/romeo-and-juliet-social-media-age/
@@ -26387,12 +26399,6 @@ racism-row-over-new-york-post:
   url: /2029/03/23/romeo-and-juliet-in-video-games/
   category: leisure
   image: /assets/images/blog/blog-62.webp
-  lang: en
-- slug: new-york-1920s-gatsby
-  title: New York City in the 1920s and Gatsby
-  url: /2027/01/11/new-york-1920s-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 google-reader-bug-fixedhooray:
 - slug: google-shows-custom-birthday-logo-doodle-on-your-birthdays
@@ -28967,11 +28973,11 @@ marxism-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: is-exploitation-moral-or-technical
-  title: Is Exploitation Moral or Technical?
-  url: /2011/02/01/is-exploitation-moral-or-technical/
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
 google-news-finally-responds-to-news-pubs:
 - slug: why-bing-would-be-an-eternal-threat-to-google
@@ -29104,12 +29110,6 @@ historical-materialism-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: base-and-superstructure-explained
-  title: Base and Superstructure, Explained
-  url: /2010/02/01/base-and-superstructure-explained/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
 jyoti-basu-dies-at-95-an-era-comes-to-an-end:
 - slug: michael-jackson-no-more-an-era-comes-to-an-end
   title: Michael Jackson no more, an era comes to an end
@@ -29161,6 +29161,12 @@ amr-ibn-al-as-conquest-of-egypt:
   image: /assets/images/blog/blog-106.webp
   lang: en
 base-and-superstructure-explained:
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 - slug: historical-materialism-complete-guide
   title: 'Historical Materialism: The Complete Guide'
   url: /2010/01/15/historical-materialism-complete-guide/
@@ -29173,17 +29179,11 @@ base-and-superstructure-explained:
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: is-exploitation-moral-or-technical
-  title: Is Exploitation Moral or Technical?
-  url: /2011/02/01/is-exploitation-moral-or-technical/
+- slug: althusser-ideology-state-apparatuses
+  title: Althusser on Ideology and the ISAs
+  url: /2012/03/01/althusser-ideology-state-apparatuses/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: historical-materialism-exam-answers
-  title: 'Historical Materialism: Exam Answer Guide'
-  url: /2010/05/01/historical-materialism-exam-answers/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 basic-structure-doctrine-explained:
 - slug: 42nd-vs-44th-amendment-comparison
@@ -29504,17 +29504,17 @@ german-ideology-readers-guide:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
-- slug: is-exploitation-moral-or-technical
-  title: Is Exploitation Moral or Technical?
-  url: /2011/02/01/is-exploitation-moral-or-technical/
+- slug: grundrisse-readers-guide
+  title: 'The Grundrisse: A Reader''s Guide'
+  url: /2013/08/01/grundrisse-readers-guide/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: labour-theory-of-value-criticisms
-  title: Criticisms of the Labour Theory of Value
-  url: /2010/09/01/labour-theory-of-value-criticisms/
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
   category: leisure
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-100.webp
   lang: en
 history-of-classical-composers:
 - slug: johann-sebastian-bach-influence-on-music
@@ -29635,11 +29635,11 @@ economic-determinism-debate:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: historical-materialism-exam-answers
-  title: 'Historical Materialism: Exam Answer Guide'
-  url: /2010/05/01/historical-materialism-exam-answers/
+- slug: dialectical-materialism-complete-guide
+  title: 'Dialectical Materialism: A Complete Guide'
+  url: /2012/07/01/dialectical-materialism-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-15.webp
   lang: en
 history-of-jazz-and-blues-music:
 - slug: louis-armstrong-musical-style-explained
@@ -29779,6 +29779,12 @@ historical-materialism-vs-idealism:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 - slug: historical-materialism-complete-guide
   title: 'Historical Materialism: The Complete Guide'
   url: /2010/01/15/historical-materialism-complete-guide/
@@ -29790,12 +29796,6 @@ historical-materialism-vs-idealism:
   url: /2010/04/15/case-against-historical-materialism/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: is-exploitation-moral-or-technical
-  title: Is Exploitation Moral or Technical?
-  url: /2011/02/01/is-exploitation-moral-or-technical/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
   lang: en
 - slug: german-ideology-readers-guide
   title: 'The German Ideology: A Reader''s Guide'
@@ -30116,17 +30116,17 @@ historical-materialism-exam-answers:
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: capital-volume-one-exam-guide
-  title: 'Capital Volume One: Exam and Essay Guide'
-  url: /2010/10/15/capital-volume-one-exam-guide/
+- slug: class-struggle-exam-answers
+  title: 'Class and Class Struggle: Exam Guide'
+  url: /2012/01/15/class-struggle-exam-answers/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-116.webp
   lang: en
-- slug: marxist-theory-of-exploitation
-  title: Exploitation in Marxist Theory
-  url: /2010/12/01/marxist-theory-of-exploitation/
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
   category: leisure
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-01.webp
   lang: en
 world-music-traditions-explained:
 - slug: pyotr-ilyich-tchaikovsky-influence-on-music
@@ -31558,29 +31558,29 @@ citizen-kane-ending-explained:
   image: /assets/images/blog/blog-63.webp
   lang: en
 commodity-fetishism-explained:
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 - slug: marx-on-money-and-the-value-form
   title: Marx on Money and the Value Form
   url: /2010/08/15/marx-on-money-and-the-value-form/
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: capital-volume-one-complete-guide
-  title: 'Capital Volume One: The Complete Guide'
-  url: /2010/06/01/capital-volume-one-complete-guide/
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
   category: leisure
-  image: /assets/images/blog/blog-83.webp
+  image: /assets/images/blog/blog-45.webp
   lang: en
-- slug: how-to-read-capital-volume-one
-  title: How to Read Capital Volume One
-  url: /2010/06/15/how-to-read-capital-volume-one/
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
   category: leisure
-  image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: surplus-value-complete-guide
-  title: 'Surplus Value: The Complete Guide'
-  url: /2010/11/01/surplus-value-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-39.webp
   lang: en
 mosque-of-amr-early-islamic-egypt:
 - slug: al-azhar-oldest-university
@@ -31899,12 +31899,6 @@ marx-on-money-and-the-value-form:
   url: /2010/07/15/use-value-exchange-value-and-value/
   category: leisure
   image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: commodity-fetishism-explained
-  title: 'Commodity Fetishism: What Marx Meant'
-  url: /2010/08/01/commodity-fetishism-explained/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
   lang: en
 voting-rights-act-registration-impact:
 - slug: voting-rights-act-1965-complete-guide
@@ -34368,35 +34362,29 @@ indian-evidence-act-1872-explained:
   image: /assets/images/blog/blog-59.webp
   lang: en
 marxist-theory-of-exploitation:
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 - slug: is-exploitation-moral-or-technical
   title: Is Exploitation Moral or Technical?
   url: /2011/02/01/is-exploitation-moral-or-technical/
   category: leisure
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: absolute-and-relative-surplus-value
-  title: Absolute and Relative Surplus Value
-  url: /2010/11/15/absolute-and-relative-surplus-value/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: reserve-army-of-labour-explained
-  title: The Reserve Army of Labour Explained
-  url: /2010/12/15/reserve-army-of-labour-explained/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
-  lang: en
-- slug: labour-theory-of-value-criticisms
-  title: Criticisms of the Labour Theory of Value
-  url: /2010/09/01/labour-theory-of-value-criticisms/
-  category: leisure
-  image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: measuring-rate-of-exploitation
-  title: Measuring the Rate of Exploitation
-  url: /2011/03/01/measuring-rate-of-exploitation/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
   lang: en
 medicare-parts-a-b-statute-explained:
 - slug: social-security-amendments-1965-medicare
@@ -34729,11 +34717,11 @@ reserve-army-of-labour-explained:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: labour-theory-of-value-criticisms
-  title: Criticisms of the Labour Theory of Value
-  url: /2010/09/01/labour-theory-of-value-criticisms/
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
   category: leisure
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
 lock-folders-and-hide-your-secret-files:
 - slug: how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them
@@ -35054,11 +35042,11 @@ primitive-accumulation-explained:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: surplus-value-exam-answers
-  title: 'Surplus Value: Exam Answer Guide'
-  url: /2011/03/15/surplus-value-exam-answers/
+- slug: karl-marx-intellectual-biography
+  title: 'Karl Marx: An Intellectual Biography'
+  url: /2013/05/01/karl-marx-intellectual-biography/
   category: leisure
-  image: /assets/images/blog/blog-60.webp
+  image: /assets/images/blog/blog-46.webp
   lang: en
 othello-character-analysis-deep-dive:
 - slug: desdemona-othello-character-analysis
@@ -35636,29 +35624,29 @@ ipc-vs-bns-comparison:
   image: /assets/images/blog/blog-15.webp
   lang: en
 is-exploitation-moral-or-technical:
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: marxist-theory-of-exploitation
   title: Exploitation in Marxist Theory
   url: /2010/12/01/marxist-theory-of-exploitation/
   category: leisure
   image: /assets/images/blog/blog-42.webp
-  lang: en
-- slug: marxism-complete-guide
-  title: 'Marxism: The Complete Guide'
-  url: /2010/01/01/marxism-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-21.webp
-  lang: en
-- slug: historical-materialism-vs-idealism
-  title: Historical Materialism vs Hegelian Idealism
-  url: /2010/04/01/historical-materialism-vs-idealism/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: labour-theory-of-value-criticisms
-  title: Criticisms of the Labour Theory of Value
-  url: /2010/09/01/labour-theory-of-value-criticisms/
-  category: leisure
-  image: /assets/images/blog/blog-58.webp
   lang: en
 medicaid-statute-structure-explained:
 - slug: social-security-amendments-1965-medicare
@@ -36042,23 +36030,23 @@ measuring-rate-of-exploitation:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
 - slug: reserve-army-of-labour-explained
   title: The Reserve Army of Labour Explained
   url: /2010/12/15/reserve-army-of-labour-explained/
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: surplus-value-modern-firms
-  title: How Surplus Value Works in Modern Firms
-  url: /2011/01/15/surplus-value-modern-firms/
+- slug: class-structure-evidence
+  title: Class Structure and the Evidence
+  url: /2011/11/15/class-structure-evidence/
   category: leisure
-  image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: mode-of-production-explained
-  title: 'Mode of Production: Marxism''s Core Unit'
-  url: /2010/02/15/mode-of-production-explained/
-  category: leisure
-  image: /assets/images/blog/blog-91.webp
+  image: /assets/images/blog/blog-93.webp
   lang: en
 medicare-vs-medicaid-legal-difference:
 - slug: social-security-amendments-1965-medicare
@@ -36541,6 +36529,49 @@ fatimid-trade-and-wealth-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+marx-on-alienation-complete-guide:
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: alienation-at-work-today
+  title: Alienation at Work Today
+  url: /2011/06/15/alienation-at-work-today/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: base-and-superstructure-explained
+  title: Base and Superstructure, Explained
+  url: /2010/02/01/base-and-superstructure-explained/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: commodity-fetishism-explained
+  title: 'Commodity Fetishism: What Marx Meant'
+  url: /2010/08/01/commodity-fetishism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: alienation-vs-anomie-marx-durkheim
+  title: 'Alienation vs Anomie: Marx and Durkheim'
+  url: /2011/07/01/alienation-vs-anomie-marx-durkheim/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 kent-king-lear-character-analysis:
 - slug: fool-king-lear-character-analysis
   title: The Fool Character Analysis - Truth-Teller in King Lear
@@ -36640,6 +36671,31 @@ citizen-kane-breakfast-montage:
   url: /2011/02/15/citizen-kane-charles-sent-away/
   category: leisure
   image: /assets/images/blog/blog-90.webp
+  lang: en
+economic-philosophic-manuscripts-guide:
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: young-marx-vs-mature-marx
+  title: The Young Marx vs the Mature Marx
+  url: /2011/06/01/young-marx-vs-mature-marx/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
   lang: en
 tada-1987-explained:
 - slug: anti-terror-law-enforcement-record
@@ -36797,6 +36853,31 @@ citizen-kane-meets-susan-alexander:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+four-types-of-alienation:
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: alienation-at-work-today
+  title: Alienation at Work Today
+  url: /2011/06/15/alienation-at-work-today/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
 life-in-fatimid-cairo:
 - slug: tax-and-land-early-islamic-egypt
   title: 'Tax and Land in Early Islamic Egypt: The Engine of Change'
@@ -36896,6 +36977,31 @@ citizen-kane-campaign-speech-scene:
   url: /2011/02/01/citizen-kane-boyhood-sledding-scene/
   category: leisure
   image: /assets/images/blog/blog-61.webp
+  lang: en
+marx-species-being-explained:
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: young-marx-vs-mature-marx
+  title: The Young Marx vs the Mature Marx
+  url: /2011/06/01/young-marx-vs-mature-marx/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
   lang: en
 nfib-v-sebelius-explained:
 - slug: affordable-care-act-key-provisions
@@ -37103,6 +37209,31 @@ uapa-amendments-explained:
   category: industry
   image: /assets/images/blog/blog-65.webp
   lang: en
+young-marx-vs-mature-marx:
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 pyotr-ilyich-tchaikovsky-life-and-career:
 - slug: pyotr-ilyich-tchaikovsky-greatest-compositions
   title: The Greatest Compositions of Pyotr Ilyich Tchaikovsky
@@ -37158,6 +37289,31 @@ affordable-care-act-coverage-impact:
   url: /2011/07/15/aca-exchange-implementation-guide/
   category: industry
   image: /assets/images/blog/blog-73.webp
+  lang: en
+alienation-at-work-today:
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: teaching-alienation-to-students
+  title: Teaching Alienation to Students
+  url: /2011/08/15/teaching-alienation-to-students/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
   lang: en
 citizen-kane-losing-the-election:
 - slug: citizen-kane-leland-kane-fallout
@@ -37346,6 +37502,31 @@ affordable-care-act-later-changes:
   category: industry
   image: /assets/images/blog/blog-04.webp
   lang: en
+alienation-vs-anomie-marx-durkheim:
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: alienation-at-work-today
+  title: Alienation at Work Today
+  url: /2011/06/15/alienation-at-work-today/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 citizen-kane-leland-kane-fallout:
 - slug: citizen-kane-losing-the-election
   title: 'Citizen Kane: Losing the Election'
@@ -37521,6 +37702,31 @@ citizen-kane-susan-opera-debut:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
+marxist-humanism-explained:
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
 health-of-it-professionals-err:
 - slug: work-culture-in-the-it-sector
   title: Work culture in the IT sector
@@ -37677,6 +37883,31 @@ fatimid-vs-abbasid-egypt:
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
+is-alienation-testable:
+- slug: alienation-at-work-today
+  title: Alienation at Work Today
+  url: /2011/06/15/alienation-at-work-today/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: marx-on-alienation-complete-guide
+  title: 'Marx on Alienation: The Complete Guide'
+  url: /2011/04/01/marx-on-alienation-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
 tada-pota-uapa-comparison:
 - slug: uapa-1967-complete-guide
   title: 'UAPA 1967: A Complete Guide to the Two Laws in One Act'
@@ -37826,6 +38057,31 @@ internal-security-laws-upsc-mains:
   url: /2011/07/01/uapa-bail-judicial-interpretation/
   category: industry
   image: /assets/images/blog/blog-65.webp
+  lang: en
+teaching-alienation-to-students:
+- slug: alienation-at-work-today
+  title: Alienation at Work Today
+  url: /2011/06/15/alienation-at-work-today/
+  category: leisure
+  image: /assets/images/blog/blog-106.webp
+  lang: en
+- slug: teaching-ideology-in-the-classroom
+  title: Teaching Ideology Without Preaching
+  url: /2012/06/15/teaching-ideology-in-the-classroom/
+  category: leisure
+  image: /assets/images/blog/blog-99.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
   lang: en
 few-sidewalk-reasons-why-we-should-support-anna-hazare:
 - slug: microsoft-internship-experience
@@ -38077,6 +38333,31 @@ clean-air-act-complete-guide:
   category: industry
   image: /assets/images/blog/blog-41.webp
   lang: en
+marxist-theory-of-class-guide:
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 right-to-information-act-2005-guide:
 - slug: rti-act-legislative-history
   title: The Legislative History of the Right to Information Act
@@ -38227,6 +38508,31 @@ accenture-vs-mckinsey-company-inside-view:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+class-consciousness-explained:
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 clean-air-act-1970-passage-history:
 - slug: clean-air-act-vs-clean-water-act
   title: 'Clean Air Act vs Clean Water Act: A Structural Comparison'
@@ -38332,6 +38638,37 @@ louis-armstrong-greatest-recordings:
   url: /2011/10/21/louis-armstrong-legacy-debate/
   category: leisure
   image: /assets/images/blog/blog-63.webp
+  lang: en
+class-in-itself-and-for-itself:
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: class-analysis-gig-economy
+  title: A Class Analysis of the Gig Economy
+  url: /2012/01/01/class-analysis-gig-economy/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
   lang: en
 clean-air-act-naaqs-explained:
 - slug: clean-air-act-complete-guide
@@ -38558,6 +38895,31 @@ clean-air-act-amendments-1990:
   category: industry
   image: /assets/images/blog/blog-41.webp
   lang: en
+communist-manifesto-readers-guide:
+- slug: friedrich-engels-intellectual-profile
+  title: 'Friedrich Engels: More Than a Co-Author'
+  url: /2013/05/15/friedrich-engels-intellectual-profile/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: eighteenth-brumaire-readers-guide
+  title: 'The Eighteenth Brumaire: A Reader''s Guide'
+  url: /2013/07/15/eighteenth-brumaire-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: primitive-accumulation-explained
+  title: Primitive Accumulation Explained
+  url: /2011/01/01/primitive-accumulation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: karl-marx-intellectual-biography
+  title: 'Karl Marx: An Intellectual Biography'
+  url: /2013/05/01/karl-marx-intellectual-biography/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 amazing-android-app-1-gesture-search:
 - slug: ebay-search-now-directly-through-kewll
   title: eBay search now directly through Kewll
@@ -38633,6 +38995,37 @@ louis-armstrong-legacy-debate:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
+does-the-working-class-still-exist:
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: class-consciousness-explained
+  title: Class Consciousness Explained
+  url: /2011/09/15/class-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: petty-bourgeoisie-and-middle-class
+  title: The Petty Bourgeoisie and Middle Classes
+  url: /2011/12/01/petty-bourgeoisie-and-middle-class/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 massachusetts-v-epa-explained:
 - slug: epa-clean-air-act-rulemaking
   title: 'How EPA Writes Clean Air Act Rules: Statute to Facility'
@@ -38707,6 +39100,31 @@ saladin-and-the-crusades:
   url: /2011/12/01/how-saladin-ended-fatimids/
   category: leisure
   image: /assets/images/blog/blog-102.webp
+  lang: en
+class-structure-evidence:
+- slug: measuring-rate-of-exploitation
+  title: Measuring the Rate of Exploitation
+  url: /2011/03/01/measuring-rate-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: dialectical-method-in-research
+  title: Using Dialectical Method in Research
+  url: /2012/10/15/dialectical-method-in-research/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: dialectics-in-social-science
+  title: Dialectics in Social Science Today
+  url: /2012/11/01/dialectics-in-social-science/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
   lang: en
 clean-air-act-air-quality-impact:
 - slug: clean-air-act-naaqs-explained
@@ -38858,6 +39276,31 @@ lokpal-bill-anna-hazare-movement:
   category: industry
   image: /assets/images/blog/blog-76.webp
   lang: en
+petty-bourgeoisie-and-middle-class:
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 clean-air-act-vs-clean-water-act:
 - slug: clean-air-act-naaqs-explained
   title: National Ambient Air Quality Standards and the Clean Air Act
@@ -38888,6 +39331,31 @@ clean-air-act-vs-clean-water-act:
   url: /2012/04/15/safe-drinking-water-act-guide/
   category: industry
   image: /assets/images/blog/blog-35.webp
+  lang: en
+marx-vs-weber-on-class:
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
+  lang: en
+- slug: class-consciousness-explained
+  title: Class Consciousness Explained
+  url: /2011/09/15/class-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
   lang: en
 prevention-of-corruption-act-1988:
 - slug: pmla-2002-complete-guide
@@ -38963,6 +39431,31 @@ citadel-of-cairo-history:
   url: /2012/03/01/ayyubid-economy-spice-trade/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+class-analysis-gig-economy:
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: does-the-working-class-still-exist
+  title: Does the Working Class Still Exist?
+  url: /2011/11/01/does-the-working-class-still-exist/
+  category: leisure
+  image: /assets/images/blog/blog-92.webp
   lang: en
 us-environmental-laws-1970s:
 - slug: clean-air-act-vs-clean-water-act
@@ -39075,6 +39568,31 @@ masood-azhar-complete-profile:
   url: /2013/05/13/masood-azhar-network-under-siege/
   category: industry
   image: /assets/images/blog/blog-08.webp
+  lang: en
+class-struggle-exam-answers:
+- slug: historical-materialism-exam-answers
+  title: 'Historical Materialism: Exam Answer Guide'
+  url: /2010/05/01/historical-materialism-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: marx-vs-weber-on-class
+  title: Marx vs Weber on Class
+  url: /2011/12/15/marx-vs-weber-on-class/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
   lang: en
 onsite-and-the-ghost-in-the-it-industry:
 - slug: work-culture-in-the-it-sector
@@ -39413,6 +39931,31 @@ crusader-invasions-of-egypt:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+marxist-theory-of-ideology-guide:
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: marxist-theory-of-class-guide
+  title: 'Class in Marxist Theory: A Complete Guide'
+  url: /2011/09/01/marxist-theory-of-class-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 national-environmental-policy-act-guide:
 - slug: nepa-environmental-impact-statement
   title: 'Environmental Impact Statement: How NEPA Reviews Work'
@@ -39543,6 +40086,31 @@ companies-act-1956-replacement:
   url: /2022/06/01/private-member-bills-repeal-india/
   category: industry
   image: /assets/images/blog/blog-35.webp
+  lang: en
+false-consciousness-explained:
+- slug: false-consciousness-criticisms
+  title: Is False Consciousness Condescending?
+  url: /2012/05/01/false-consciousness-criticisms/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: class-consciousness-explained
+  title: Class Consciousness Explained
+  url: /2011/09/15/class-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
   lang: en
 hizbul-mujahideen-complete-guide:
 - slug: syed-salahuddin-complete-profile
@@ -39686,6 +40254,31 @@ resistance-front-trf-explained:
   url: /2012/06/15/dhangri-terror-attack-explained/
   category: industry
   image: /assets/images/blog/blog-62.webp
+  lang: en
+althusser-ideology-state-apparatuses:
+- slug: young-marx-vs-mature-marx
+  title: The Young Marx vs the Mature Marx
+  url: /2011/06/01/young-marx-vs-mature-marx/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: ideology-hegemony-discourse-compared
+  title: Ideology, Hegemony and Discourse Compared
+  url: /2012/04/01/ideology-hegemony-discourse-compared/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
   lang: en
 ayyubid-economy-spice-trade:
 - slug: fatimid-trade-and-wealth-of-egypt
@@ -39868,6 +40461,31 @@ csr-law-india-section-135:
   category: industry
   image: /assets/images/blog/blog-76.webp
   lang: en
+ideology-critique-method:
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: dialectical-method-in-research
+  title: Using Dialectical Method in Research
+  url: /2012/10/15/dialectical-method-in-research/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 tva-v-hill-snail-darter-case:
 - slug: endangered-species-act-1973-guide
   title: 'The Endangered Species Act: A Complete Guide to the Law'
@@ -39967,6 +40585,31 @@ pakistan-terror-safe-haven-network:
   url: /2018/07/23/rawalpindi-military-terror-nexus/
   category: industry
   image: /assets/images/blog/blog-64.webp
+  lang: en
+ideology-hegemony-discourse-compared:
+- slug: althusser-ideology-state-apparatuses
+  title: Althusser on Ideology and the ISAs
+  url: /2012/03/01/althusser-ideology-state-apparatuses/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: false-consciousness-criticisms
+  title: Is False Consciousness Condescending?
+  url: /2012/05/01/false-consciousness-criticisms/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: advertising-consumption-ideology
+  title: Advertising, Consumption and Ideology
+  url: /2012/06/01/advertising-consumption-ideology/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
   lang: en
 insolvency-bankruptcy-code-2016-guide:
 - slug: ibc-implementation-record
@@ -40117,6 +40760,31 @@ ibc-implementation-record:
   url: /2012/12/15/banking-regulation-act-1949-explained/
   category: industry
   image: /assets/images/blog/blog-29.webp
+  lang: en
+ideology-and-news-media:
+- slug: marxist-media-theory-explained
+  title: Marxist Media Theory and Its Rivals
+  url: /2012/05/15/marxist-media-theory-explained/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: advertising-consumption-ideology
+  title: Advertising, Consumption and Ideology
+  url: /2012/06/01/advertising-consumption-ideology/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
   lang: en
 safe-drinking-water-act-guide:
 - slug: clean-air-act-vs-clean-water-act
@@ -40273,6 +40941,31 @@ clean-water-act-outcomes:
   url: /2011/10/15/clean-air-act-amendments-1990/
   category: industry
   image: /assets/images/blog/blog-96.webp
+  lang: en
+false-consciousness-criticisms:
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: marxist-theory-of-ideology-guide
+  title: The Marxist Theory of Ideology
+  url: /2012/02/01/marxist-theory-of-ideology-guide/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marxist-humanism-explained
+  title: Marxist Humanism and Its Critics
+  url: /2011/07/15/marxist-humanism-explained/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
   lang: en
 nclt-nclat-explained:
 - slug: corporate-law-exam-study-guide
@@ -40455,6 +41148,31 @@ llp-act-2008-explained:
   category: industry
   image: /assets/images/blog/blog-30.webp
   lang: en
+marxist-media-theory-explained:
+- slug: ideology-and-news-media
+  title: Ideology and the Modern News Media
+  url: /2012/04/15/ideology-and-news-media/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: advertising-consumption-ideology
+  title: Advertising, Consumption and Ideology
+  url: /2012/06/01/advertising-consumption-ideology/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 pathankot-airbase-attack-explained:
 - slug: pulwama-attack-2019-explained
   title: Pulwama Attack 2019 Explained
@@ -40529,6 +41247,31 @@ pulwama-attack-2019-explained:
   url: /2019/09/30/pulwama-balakot-escalation-2019/
   category: industry
   image: /assets/images/blog/blog-78.webp
+  lang: en
+advertising-consumption-ideology:
+- slug: ideology-and-news-media
+  title: Ideology and the Modern News Media
+  url: /2012/04/15/ideology-and-news-media/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: false-consciousness-explained
+  title: False Consciousness Explained
+  url: /2012/02/15/false-consciousness-explained/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: marxist-media-theory-explained
+  title: Marxist Media Theory and Its Rivals
+  url: /2012/05/15/marxist-media-theory-explained/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
   lang: en
 legacy-of-saladin-in-egypt:
 - slug: saladin-sultan-of-egypt
@@ -40755,6 +41498,31 @@ endangered-species-act-myths:
   category: industry
   image: /assets/images/blog/blog-45.webp
   lang: en
+teaching-ideology-in-the-classroom:
+- slug: teaching-alienation-to-students
+  title: Teaching Alienation to Students
+  url: /2011/08/15/teaching-alienation-to-students/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: class-struggle-exam-answers
+  title: 'Class and Class Struggle: Exam Guide'
+  url: /2012/01/15/class-struggle-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
+  lang: en
+- slug: ideology-and-news-media
+  title: Ideology and the Modern News Media
+  url: /2012/04/15/ideology-and-news-media/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: advertising-consumption-ideology
+  title: Advertising, Consumption and Ideology
+  url: /2012/06/01/advertising-consumption-ideology/
+  category: leisure
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 harry-potter-complete-character-analysis:
 - slug: harry-potter-vs-voldemort-character-comparison
   title: 'Harry Potter vs Voldemort: Full Character Comparison'
@@ -40885,6 +41653,37 @@ deadliest-terror-attacks-india-ranked:
   url: /2020/09/12/sat-preparation-guide-for-indian-students/
   category: industry
   image: /assets/images/blog/blog-66.webp
+  lang: en
+dialectical-materialism-complete-guide:
+- slug: historical-materialism-complete-guide
+  title: 'Historical Materialism: The Complete Guide'
+  url: /2010/01/15/historical-materialism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: economic-determinism-debate
+  title: 'Economic Determinism: Does Economics Determine History?'
+  url: /2010/03/15/economic-determinism-debate/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: historical-materialism-vs-idealism
+  title: Historical Materialism vs Hegelian Idealism
+  url: /2010/04/01/historical-materialism-vs-idealism/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: case-against-historical-materialism
+  title: The Case Against Historical Materialism
+  url: /2010/04/15/case-against-historical-materialism/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: engels-dialectics-of-nature-guide
+  title: Engels and the Dialectics of Nature
+  url: /2012/09/01/engels-dialectics-of-nature-guide/
+  category: leisure
+  image: /assets/images/blog/blog-116.webp
   lang: en
 income-tax-act-1961-complete-guide:
 - slug: taxpayer-appeals-tribunals-india
@@ -41148,6 +41947,31 @@ gst-acts-india-explained:
   category: industry
   image: /assets/images/blog/blog-114.webp
   lang: en
+thesis-antithesis-synthesis-myth:
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: contradiction-in-marxist-method
+  title: Contradiction in Marxist Method
+  url: /2012/08/01/contradiction-in-marxist-method/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: dialectics-exam-answers
+  title: 'Dialectics: Exam and Essay Guide'
+  url: /2012/11/15/dialectics-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: popper-critique-of-marxism
+  title: Popper's Attack on Marxist Method
+  url: /2012/09/15/popper-critique-of-marxism/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
 sirius-black-complete-character-analysis:
 - slug: james-potter-complete-character-analysis
   title: 'James Potter Character Analysis: The Flawed Father'
@@ -41297,6 +42121,31 @@ india-pakistan-2025-conflict-timeline:
   url: /2018/06/18/will-india-pakistan-fight-again/
   category: industry
   image: /assets/images/blog/blog-100.webp
+  lang: en
+contradiction-in-marxist-method:
+- slug: thesis-antithesis-synthesis-myth
+  title: 'Thesis, Antithesis, Synthesis: The Myth'
+  url: /2012/07/15/thesis-antithesis-synthesis-myth/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: popper-critique-of-marxism
+  title: Popper's Attack on Marxist Method
+  url: /2012/09/15/popper-critique-of-marxism/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: dialectics-exam-answers
+  title: 'Dialectics: Exam and Essay Guide'
+  url: /2012/11/15/dialectics-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
   lang: en
 gst-legislative-history-india:
 - slug: 101st-amendment-gst-council-explained
@@ -41534,6 +42383,31 @@ gst-centre-state-federalism:
   url: /2012/08/01/gst-legislative-history-india/
   category: industry
   image: /assets/images/blog/blog-06.webp
+  lang: en
+hegel-dialectic-vs-marx-dialectic:
+- slug: thesis-antithesis-synthesis-myth
+  title: 'Thesis, Antithesis, Synthesis: The Myth'
+  url: /2012/07/15/thesis-antithesis-synthesis-myth/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: contradiction-in-marxist-method
+  title: Contradiction in Marxist Method
+  url: /2012/08/01/contradiction-in-marxist-method/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: historical-materialism-vs-idealism
+  title: Historical Materialism vs Hegelian Idealism
+  url: /2010/04/01/historical-materialism-vs-idealism/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: dialectics-exam-answers
+  title: 'Dialectics: Exam and Essay Guide'
+  url: /2012/11/15/dialectics-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
   lang: en
 supplemental-security-income-1972:
 - slug: social-security-amendments-1965-medicare
@@ -41797,6 +42671,31 @@ black-money-act-2015-explained:
   category: industry
   image: /assets/images/blog/blog-57.webp
   lang: en
+engels-dialectics-of-nature-guide:
+- slug: dialectical-materialism-complete-guide
+  title: 'Dialectical Materialism: A Complete Guide'
+  url: /2012/07/01/dialectical-materialism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: analytical-marxism-and-dialectics
+  title: Analytical Marxism and Anti-Dialectics
+  url: /2012/10/01/analytical-marxism-and-dialectics/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: dialectics-exam-answers
+  title: 'Dialectics: Exam and Essay Guide'
+  url: /2012/11/15/dialectics-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: popper-critique-of-marxism
+  title: Popper's Attack on Marxist Method
+  url: /2012/09/15/popper-critique-of-marxism/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
+  lang: en
 pension-protection-act-2006-guide:
 - slug: erisa-1974-complete-guide
   title: 'ERISA: How a Pension Statute Became America''s Health Law'
@@ -41947,6 +42846,31 @@ fred-george-weasley-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-21.webp
   lang: en
+popper-critique-of-marxism:
+- slug: contradiction-in-marxist-method
+  title: Contradiction in Marxist Method
+  url: /2012/08/01/contradiction-in-marxist-method/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: thesis-antithesis-synthesis-myth
+  title: 'Thesis, Antithesis, Synthesis: The Myth'
+  url: /2012/07/15/thesis-antithesis-synthesis-myth/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: dialectics-exam-answers
+  title: 'Dialectics: Exam and Essay Guide'
+  url: /2012/11/15/dialectics-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 social-security-poverty-impact:
 - slug: medicare-impact-elderly-poverty
   title: 'Medicare Elderly Poverty: What the Evidence Measures'
@@ -42096,6 +43020,31 @@ isi-vs-raw-intelligence-war:
   url: /2012/03/23/isi-terror-nexus-explained/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+analytical-marxism-and-dialectics:
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marxism-glossary-key-terms
+  title: 'Marxism Glossary: The Key Terms Defined'
+  url: /2010/05/15/marxism-glossary-key-terms/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: althusser-ideology-state-apparatuses
+  title: Althusser on Ideology and the ISAs
+  url: /2012/03/01/althusser-ideology-state-apparatuses/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 baybars-greatest-mamluk-sultan:
 - slug: mamluk-sultanate-of-egypt
@@ -42322,6 +43271,31 @@ is-it-hard-to-get-hired-on-at-amazon:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+dialectical-method-in-research:
+- slug: dialectics-in-social-science
+  title: Dialectics in Social Science Today
+  url: /2012/11/01/dialectics-in-social-science/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
+  lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: measuring-rate-of-exploitation
+  title: Measuring the Rate of Exploitation
+  url: /2011/03/01/measuring-rate-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 pension-vs-401k-law-shift:
 - slug: family-medical-leave-act-1993-guide
   title: 'Family and Medical Leave Act: The Unpaid Job Guarantee'
@@ -42502,6 +43476,31 @@ international-response-targeted-killings:
   url: /2020/05/12/post-2014-cow-protection-politics/
   category: industry
   image: /assets/images/blog/blog-20.webp
+  lang: en
+dialectics-in-social-science:
+- slug: dialectical-method-in-research
+  title: Using Dialectical Method in Research
+  url: /2012/10/15/dialectical-method-in-research/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: is-alienation-testable
+  title: Is Alienation a Testable Concept?
+  url: /2011/08/01/is-alienation-testable/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: measuring-rate-of-exploitation
+  title: Measuring the Rate of Exploitation
+  url: /2011/03/01/measuring-rate-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: ideology-critique-method
+  title: 'Ideology Critique: Method and Limits'
+  url: /2012/03/15/ideology-critique-method/
+  category: leisure
+  image: /assets/images/blog/blog-100.webp
   lang: en
 mamluk-egypt-world-trade:
 - slug: black-death-in-mamluk-egypt
@@ -42702,6 +43701,31 @@ hedwig-complete-character-analysis:
   url: /2013/01/18/james-potter-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-75.webp
+  lang: en
+dialectics-exam-answers:
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: thesis-antithesis-synthesis-myth
+  title: 'Thesis, Antithesis, Synthesis: The Myth'
+  url: /2012/07/15/thesis-antithesis-synthesis-myth/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: contradiction-in-marxist-method
+  title: Contradiction in Marxist Method
+  url: /2012/08/01/contradiction-in-marxist-method/
+  category: leisure
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
   lang: en
 tax-laws-upsc-economy-guide:
 - slug: taxpayer-appeals-tribunals-india
@@ -42959,6 +43983,37 @@ immigration-nationality-act-1965-guide:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+marxist-theory-of-the-state-guide:
+- slug: marxism-and-democracy-critique
+  title: Does Marxism Have a Theory of Democracy?
+  url: /2013/03/15/marxism-and-democracy-critique/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: marxist-theory-of-exploitation
+  title: Exploitation in Marxist Theory
+  url: /2010/12/01/marxist-theory-of-exploitation/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: dictatorship-of-the-proletariat
+  title: Dictatorship of the Proletariat Explained
+  url: /2013/01/01/dictatorship-of-the-proletariat/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: marxist-state-theory-today
+  title: Marxist State Theory and Modern Politics
+  url: /2013/04/01/marxist-state-theory-today/
+  category: leisure
+  image: /assets/images/blog/blog-93.webp
+  lang: en
 rbi-act-1934-explained:
 - slug: minimum-wages-act-1948-explained
   title: 'Minimum Wages Act 1948: How India''s Wage Floor Works'
@@ -43134,6 +44189,37 @@ is-amazon-hard-to-get-hired-2:
   category: industry
   image: /assets/images/blog/blog-17.webp
   lang: en
+state-and-revolution-readers-guide:
+- slug: marxism-vs-anarchism-on-the-state
+  title: Marxism vs Anarchism on the State
+  url: /2013/03/01/marxism-vs-anarchism-on-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: withering-away-of-the-state
+  title: The Withering Away of the State
+  url: /2013/01/15/withering-away-of-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: marxist-state-theory-exam-answers
+  title: 'The Marxist State: Exam Answer Guide'
+  url: /2013/04/15/marxist-state-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: reform-or-revolution-debate
+  title: 'Reform or Revolution: The Real Argument'
+  url: /2013/02/01/reform-or-revolution-debate/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
 india-shadow-war-against-terror-explained:
 - slug: unknown-gunmen-pattern-decoded
   title: The Unknown Gunmen Pattern Decoded
@@ -43283,6 +44369,31 @@ bank-nationalisation-acts-india:
   url: /2022/02/01/how-a-bill-becomes-law-india/
   category: industry
   image: /assets/images/blog/blog-42.webp
+  lang: en
+dictatorship-of-the-proletariat:
+- slug: marxism-and-democracy-critique
+  title: Does Marxism Have a Theory of Democracy?
+  url: /2013/03/15/marxism-and-democracy-critique/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: critique-of-the-gotha-programme-guide
+  title: Critique of the Gotha Programme Explained
+  url: /2013/09/01/critique-of-the-gotha-programme-guide/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
   lang: en
 immigration-reform-control-act-1986:
 - slug: immigration-act-1990-guide
@@ -43514,6 +44625,31 @@ iirira-1996-immigration-act-guide:
   url: /2014/09/01/every-student-succeeds-act-2015-guide/
   category: industry
   image: /assets/images/blog/blog-65.webp
+  lang: en
+withering-away-of-the-state:
+- slug: marxism-vs-anarchism-on-the-state
+  title: Marxism vs Anarchism on the State
+  url: /2013/03/01/marxism-vs-anarchism-on-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: marxist-state-theory-exam-answers
+  title: 'The Marxist State: Exam Answer Guide'
+  url: /2013/04/15/marxist-state-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: state-and-revolution-readers-guide
+  title: 'State and Revolution: A Reader''s Guide'
+  url: /2012/12/15/state-and-revolution-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
   lang: en
 how-can-i-start-working-at-amazon:
 - slug: amazon-force
@@ -43765,6 +44901,31 @@ mamluk-war-machine-explained:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+reform-or-revolution-debate:
+- slug: state-and-revolution-readers-guide
+  title: 'State and Revolution: A Reader''s Guide'
+  url: /2012/12/15/state-and-revolution-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: marxism-and-democracy-critique
+  title: Does Marxism Have a Theory of Democracy?
+  url: /2013/03/15/marxism-and-democracy-critique/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: althusser-ideology-state-apparatuses
+  title: Althusser on Ideology and the ISAs
+  url: /2012/03/01/althusser-ideology-state-apparatuses/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 viktor-krum-complete-character-analysis:
 - slug: fleur-delacour-complete-character-analysis
   title: 'Fleur Delacour Character Analysis: Beauty and Loyalty'
@@ -43940,6 +45101,31 @@ immigration-act-1965-demographic-impact:
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
+paris-commune-marx-analysis:
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: karl-marx-intellectual-biography
+  title: 'Karl Marx: An Intellectual Biography'
+  url: /2013/05/01/karl-marx-intellectual-biography/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: marxism-and-democracy-critique
+  title: Does Marxism Have a Theory of Democracy?
+  url: /2013/03/15/marxism-and-democracy-critique/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: dictatorship-of-the-proletariat
+  title: Dictatorship of the Proletariat Explained
+  url: /2013/01/01/dictatorship-of-the-proletariat/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 sarfaesi-act-2002-explained:
 - slug: ibc-implementation-record
   title: 'IBC Implementation Record: Recovery, Delay and Behaviour'
@@ -43964,12 +45150,6 @@ sarfaesi-act-2002-explained:
   url: /2021/05/01/arbitration-conciliation-act-1996-guide/
   category: industry
   image: /assets/images/blog/blog-14.webp
-  lang: en
-- slug: msme-development-act-2006-explained
-  title: The MSME Development Act 2006 and the Forty Five Day Rule
-  url: /2020/04/15/msme-development-act-2006-explained/
-  category: industry
-  image: /assets/images/blog/blog-19.webp
   lang: en
 colin-creevey-complete-character-analysis:
 - slug: hermione-granger-complete-character-analysis
@@ -44176,6 +45356,31 @@ immigration-act-1990-guide:
   url: /2012/12/01/immigration-nationality-act-1965-guide/
   category: industry
   image: /assets/images/blog/blog-03.webp
+  lang: en
+marxism-vs-anarchism-on-the-state:
+- slug: withering-away-of-the-state
+  title: The Withering Away of the State
+  url: /2013/01/15/withering-away-of-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: marxism-and-democracy-critique
+  title: Does Marxism Have a Theory of Democracy?
+  url: /2013/03/15/marxism-and-democracy-critique/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: state-and-revolution-readers-guide
+  title: 'State and Revolution: A Reader''s Guide'
+  url: /2012/12/15/state-and-revolution-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
   lang: en
 pmla-2002-complete-guide:
 - slug: prevention-of-corruption-act-1988
@@ -44389,6 +45594,31 @@ immigration-law-supreme-court-cases:
   category: industry
   image: /assets/images/blog/blog-52.webp
   lang: en
+marxism-and-democracy-critique:
+- slug: marxist-theory-of-the-state-guide
+  title: The Marxist Theory of the State
+  url: /2012/12/01/marxist-theory-of-the-state-guide/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: dictatorship-of-the-proletariat
+  title: Dictatorship of the Proletariat Explained
+  url: /2013/01/01/dictatorship-of-the-proletariat/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: marxism-vs-anarchism-on-the-state
+  title: Marxism vs Anarchism on the State
+  url: /2013/03/01/marxism-vs-anarchism-on-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
 pmla-supreme-court-judgment:
 - slug: pmla-2002-complete-guide
   title: 'Prevention of Money Laundering Act 2002: A Complete Guide'
@@ -44563,6 +45793,31 @@ harry-potter-class-wealth-blood-status-analysis:
   url: /2013/06/23/harry-potter-half-blood-identity-heritage-analysis/
   category: leisure
   image: /assets/images/blog/blog-45.webp
+  lang: en
+marxist-state-theory-today:
+- slug: marxist-state-theory-exam-answers
+  title: 'The Marxist State: Exam Answer Guide'
+  url: /2013/04/15/marxist-state-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: crisis-of-capitalism-today
+  title: Are We in a Crisis of Capitalism?
+  url: /2014/01/01/crisis-of-capitalism-today/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: withering-away-of-the-state
+  title: The Withering Away of the State
+  url: /2013/01/15/withering-away-of-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 ottoman-conquest-of-mamluk-egypt:
 - slug: mamluk-war-machine-explained
@@ -44788,6 +46043,31 @@ fera-vs-fema-comparison:
   category: industry
   image: /assets/images/blog/blog-16.webp
   lang: en
+marxist-state-theory-exam-answers:
+- slug: withering-away-of-the-state
+  title: The Withering Away of the State
+  url: /2013/01/15/withering-away-of-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: marxism-vs-anarchism-on-the-state
+  title: Marxism vs Anarchism on the State
+  url: /2013/03/01/marxism-vs-anarchism-on-the-state/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: historical-materialism-exam-answers
+  title: 'Historical Materialism: Exam Answer Guide'
+  url: /2010/05/01/historical-materialism-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: state-and-revolution-readers-guide
+  title: 'State and Revolution: A Reader''s Guide'
+  url: /2012/12/15/state-and-revolution-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
 us-immigration-law-myths:
 - slug: how-deportation-united-states-works
   title: 'How Deportation Works: The US Removal System Explained'
@@ -44994,6 +46274,31 @@ indian-labour-law-framework-guide:
   category: industry
   image: /assets/images/blog/blog-18.webp
   lang: en
+karl-marx-intellectual-biography:
+- slug: friedrich-engels-intellectual-profile
+  title: 'Friedrich Engels: More Than a Co-Author'
+  url: /2013/05/15/friedrich-engels-intellectual-profile/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: marxism-complete-guide
+  title: 'Marxism: The Complete Guide'
+  url: /2010/01/01/marxism-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: hegel-dialectic-vs-marx-dialectic
+  title: Hegel's Dialectic vs Marx's Dialectic
+  url: /2012/08/15/hegel-dialectic-vs-marx-dialectic/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: grundrisse-readers-guide
+  title: 'The Grundrisse: A Reader''s Guide'
+  url: /2013/08/01/grundrisse-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 ottoman-egypt-complete-guide:
 - slug: ottoman-conquest-of-egypt-1517
   title: How the Ottomans Took Egypt in 1517 and Demoted Cairo
@@ -45193,6 +46498,31 @@ harry-potter-redemption-arcs-analysis:
   url: /2013/04/17/harry-potter-loyalty-betrayal-analysis/
   category: leisure
   image: /assets/images/blog/blog-98.webp
+  lang: en
+friedrich-engels-intellectual-profile:
+- slug: karl-marx-intellectual-biography
+  title: 'Karl Marx: An Intellectual Biography'
+  url: /2013/05/01/karl-marx-intellectual-biography/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: communist-manifesto-readers-guide
+  title: 'The Communist Manifesto: A Reader''s Guide'
+  url: /2011/10/15/communist-manifesto-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: marx-engels-authorship-question
+  title: The Marx and Engels Authorship Question
+  url: /2013/06/01/marx-engels-authorship-question/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: primitive-accumulation-explained
+  title: Primitive Accumulation Explained
+  url: /2011/01/01/primitive-accumulation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
   lang: en
 industrial-disputes-act-1947-explained:
 - slug: labour-codes-vs-old-laws-comparison
@@ -45425,6 +46755,31 @@ harry-potter-hogwarts-houses-personality-analysis:
   category: leisure
   image: /assets/images/blog/blog-93.webp
   lang: en
+marx-engels-authorship-question:
+- slug: mega2-marx-manuscripts-guide
+  title: MEGA2 and the Marx Manuscripts
+  url: /2013/07/01/mega2-marx-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: friedrich-engels-intellectual-profile
+  title: 'Friedrich Engels: More Than a Co-Author'
+  url: /2013/05/15/friedrich-engels-intellectual-profile/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: marx-translations-which-edition
+  title: 'Marx in Translation: Which Edition to Use'
+  url: /2013/09/15/marx-translations-which-edition/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: marx-reading-order-guide
+  title: 'Marx''s Works: What to Read in What Order'
+  url: /2013/06/15/marx-reading-order-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 ottoman-conquest-of-egypt-1517:
 - slug: ottoman-egypt-complete-guide
   title: 'Ottoman Egypt Explained: Three Centuries as a Province'
@@ -45549,6 +46904,31 @@ aijaz-ahmad-ahangar-isis-kashmir:
   url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
   category: industry
   image: /assets/images/blog/blog-54.webp
+  lang: en
+marx-reading-order-guide:
+- slug: mega2-marx-manuscripts-guide
+  title: MEGA2 and the Marx Manuscripts
+  url: /2013/07/01/mega2-marx-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: marx-engels-authorship-question
+  title: The Marx and Engels Authorship Question
+  url: /2013/06/01/marx-engels-authorship-question/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: misattributed-marx-quotes
+  title: The Quotes Marx Never Said
+  url: /2013/08/15/misattributed-marx-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: marx-translations-which-edition
+  title: 'Marx in Translation: Which Edition to Use'
+  url: /2013/09/15/marx-translations-which-edition/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
   lang: en
 minimum-wages-act-1948-explained:
 - slug: code-on-wages-2019-explained
@@ -45855,6 +47235,31 @@ egypt-under-ottoman-rule:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
+mega2-marx-manuscripts-guide:
+- slug: marx-engels-authorship-question
+  title: The Marx and Engels Authorship Question
+  url: /2013/06/01/marx-engels-authorship-question/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: marx-translations-which-edition
+  title: 'Marx in Translation: Which Edition to Use'
+  url: /2013/09/15/marx-translations-which-edition/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: marx-reading-order-guide
+  title: 'Marx''s Works: What to Read in What Order'
+  url: /2013/06/15/marx-reading-order-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: misattributed-marx-quotes
+  title: The Quotes Marx Never Said
+  url: /2013/08/15/misattributed-marx-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
 harry-potter-ministry-magic-political-satire:
 - slug: rufus-scrimgeour-complete-character-analysis
   title: 'Rufus Scrimgeour Analysis: Authority Under Siege'
@@ -45985,6 +47390,31 @@ code-on-wages-2019-explained:
   url: /2017/11/01/mgnrega-implementation-record/
   category: industry
   image: /assets/images/blog/blog-19.webp
+  lang: en
+eighteenth-brumaire-readers-guide:
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: communist-manifesto-readers-guide
+  title: 'The Communist Manifesto: A Reader''s Guide'
+  url: /2011/10/15/communist-manifesto-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: four-types-of-alienation
+  title: The Four Types of Alienation
+  url: /2011/05/01/four-types-of-alienation/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
   lang: en
 harry-potter-dursleys-mundane-evil-analysis:
 - slug: harry-potter-growing-up-maturity-analysis
@@ -46160,6 +47590,31 @@ harry-potter-wand-object-symbolism-analysis:
   url: /2013/04/12/harry-potter-boggart-fear-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-28.webp
+  lang: en
+grundrisse-readers-guide:
+- slug: economic-philosophic-manuscripts-guide
+  title: 'The Paris Manuscripts: A Reader''s Guide'
+  url: /2011/04/15/economic-philosophic-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: marxism-and-the-financial-crash
+  title: Marxism and the Global Financial Crash
+  url: /2013/12/15/marxism-and-the-financial-crash/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
   lang: en
 industrial-relations-code-2020-explained:
 - slug: social-security-code-2020-explained
@@ -46386,6 +47841,31 @@ how-tax-bills-move-through-congress:
   category: industry
   image: /assets/images/blog/blog-47.webp
   lang: en
+misattributed-marx-quotes:
+- slug: marx-translations-which-edition
+  title: 'Marx in Translation: Which Edition to Use'
+  url: /2013/09/15/marx-translations-which-edition/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: mega2-marx-manuscripts-guide
+  title: MEGA2 and the Marx Manuscripts
+  url: /2013/07/01/mega2-marx-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: marx-engels-authorship-question
+  title: The Marx and Engels Authorship Question
+  url: /2013/06/01/marx-engels-authorship-question/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: marx-reading-order-guide
+  title: 'Marx''s Works: What to Read in What Order'
+  url: /2013/06/15/marx-reading-order-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 social-security-code-2020-explained:
 - slug: posh-act-2013-workplace-harassment
   title: 'POSH Act 2013: India''s Workplace Harassment Law Guide'
@@ -46559,6 +48039,31 @@ motorcycle-assassinations-pattern:
   url: /2019/05/13/south-africa-apartheid-assassinations/
   category: industry
   image: /assets/images/blog/blog-46.webp
+  lang: en
+critique-of-the-gotha-programme-guide:
+- slug: dictatorship-of-the-proletariat
+  title: Dictatorship of the Proletariat Explained
+  url: /2013/01/01/dictatorship-of-the-proletariat/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: class-in-itself-and-for-itself
+  title: Class in Itself and Class for Itself
+  url: /2011/10/01/class-in-itself-and-for-itself/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: marx-species-being-explained
+  title: 'Species-Being: Marx on Human Nature'
+  url: /2011/05/15/marx-species-being-explained/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: is-exploitation-moral-or-technical
+  title: Is Exploitation Moral or Technical?
+  url: /2011/02/01/is-exploitation-moral-or-technical/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 labour-codes-vs-old-laws-comparison:
 - slug: labour-codes-implementation-delay
@@ -46785,6 +48290,31 @@ labour-codes-implementation-delay:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
+marx-translations-which-edition:
+- slug: mega2-marx-manuscripts-guide
+  title: MEGA2 and the Marx Manuscripts
+  url: /2013/07/01/mega2-marx-manuscripts-guide/
+  category: leisure
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: marx-engels-authorship-question
+  title: The Marx and Engels Authorship Question
+  url: /2013/06/01/marx-engels-authorship-question/
+  category: leisure
+  image: /assets/images/blog/blog-104.webp
+  lang: en
+- slug: misattributed-marx-quotes
+  title: The Quotes Marx Never Said
+  url: /2013/08/15/misattributed-marx-quotes/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: marx-reading-order-guide
+  title: 'Marx''s Works: What to Read in What Order'
+  url: /2013/06/15/marx-reading-order-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
 us-tax-law-myths:
 - slug: tax-cuts-and-jobs-act-2017-guide
   title: 'Tax Cuts and Jobs Act: the Law, Its Sunsets, and Its Shape'
@@ -47009,6 +48539,37 @@ land-acquisition-law-india-guide:
   url: /2012/08/15/gst-centre-state-federalism/
   category: industry
   image: /assets/images/blog/blog-108.webp
+  lang: en
+marxist-crisis-theory-guide:
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: tendency-rate-of-profit-to-fall
+  title: The Tendency of the Rate of Profit to Fall
+  url: /2013/10/15/tendency-rate-of-profit-to-fall/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: crisis-of-capitalism-today
+  title: Are We in a Crisis of Capitalism?
+  url: /2014/01/01/crisis-of-capitalism-today/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: overproduction-and-underconsumption
+  title: Overproduction and Underconsumption
+  url: /2013/11/01/overproduction-and-underconsumption/
+  category: leisure
+  image: /assets/images/blog/blog-97.webp
   lang: en
 napoleon-invasion-of-egypt:
 - slug: battle-of-the-pyramids
@@ -47235,6 +48796,31 @@ land-acquisition-act-1894-explained:
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
+tendency-rate-of-profit-to-fall:
+- slug: rate-of-profit-empirical-evidence
+  title: Evidence on the Rate of Profit
+  url: /2013/12/01/rate-of-profit-empirical-evidence/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: falling-rate-of-profit-debate
+  title: 'The Falling Rate of Profit: Does It Hold?'
+  url: /2013/11/15/falling-rate-of-profit-debate/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: monopoly-capital-stagnation-theory
+  title: Monopoly Capital and Stagnation Theory
+  url: /2014/02/01/monopoly-capital-stagnation-theory/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 harry-potter-fred-george-vs-draco-comparison:
 - slug: harry-potter-draco-vs-dudley-comparison
   title: 'Draco vs Dudley: Two Bullies Two Paths in Harry Potter'
@@ -47410,6 +48996,31 @@ larr-act-2013-explained:
   category: industry
   image: /assets/images/blog/blog-61.webp
   lang: en
+overproduction-and-underconsumption:
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: crisis-of-capitalism-today
+  title: Are We in a Crisis of Capitalism?
+  url: /2014/01/01/crisis-of-capitalism-today/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: monopoly-capital-stagnation-theory
+  title: Monopoly Capital and Stagnation Theory
+  url: /2014/02/01/monopoly-capital-stagnation-theory/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 sarbanes-oxley-act-2002-guide:
 - slug: credit-card-act-2009-explained
   title: 'What the CARD Act Requires: Rates, Fees and Billing Rules'
@@ -47509,6 +49120,31 @@ amazon-work-from-home-jobs:
   url: /2022/11/10/amazon-work-from-home-jobs-part-time/
   category: industry
   image: /assets/images/blog/blog-106.webp
+  lang: en
+falling-rate-of-profit-debate:
+- slug: tendency-rate-of-profit-to-fall
+  title: The Tendency of the Rate of Profit to Fall
+  url: /2013/10/15/tendency-rate-of-profit-to-fall/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: rate-of-profit-empirical-evidence
+  title: Evidence on the Rate of Profit
+  url: /2013/12/01/rate-of-profit-empirical-evidence/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: grundrisse-readers-guide
+  title: 'The Grundrisse: A Reader''s Guide'
+  url: /2013/08/01/grundrisse-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 gramm-leach-bliley-act-1999-guide:
 - slug: glass-steagall-repeal-vs-dodd-frank
@@ -47716,6 +49352,31 @@ napoleon-scholars-rediscovered-egypt:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+rate-of-profit-empirical-evidence:
+- slug: tendency-rate-of-profit-to-fall
+  title: The Tendency of the Rate of Profit to Fall
+  url: /2013/10/15/tendency-rate-of-profit-to-fall/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: falling-rate-of-profit-debate
+  title: 'The Falling Rate of Profit: Does It Hold?'
+  url: /2013/11/15/falling-rate-of-profit-debate/
+  category: leisure
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: grundrisse-readers-guide
+  title: 'The Grundrisse: A Reader''s Guide'
+  url: /2013/08/01/grundrisse-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 urban-land-ceiling-act-repeal:
 - slug: essential-commodities-act-1955-guide
   title: 'The Essential Commodities Act 1955: A Complete Guide'
@@ -47846,6 +49507,31 @@ dodd-frank-rollback-2018:
   url: /2013/10/01/dodd-frank-act-complete-guide/
   category: industry
   image: /assets/images/blog/blog-103.webp
+  lang: en
+marxism-and-the-financial-crash:
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: grundrisse-readers-guide
+  title: 'The Grundrisse: A Reader''s Guide'
+  url: /2013/08/01/grundrisse-readers-guide/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: crisis-of-capitalism-today
+  title: Are We in a Crisis of Capitalism?
+  url: /2014/01/01/crisis-of-capitalism-today/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 rent-control-model-tenancy-act-india:
 - slug: minimum-wages-act-1948-explained
@@ -47996,6 +49682,31 @@ obrien-character-analysis-1984:
   url: /2014/06/09/boxer-character-analysis-animal-farm/
   category: leisure
   image: /assets/images/blog/blog-32.webp
+  lang: en
+crisis-of-capitalism-today:
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: tendency-rate-of-profit-to-fall
+  title: The Tendency of the Rate of Profit to Fall
+  url: /2013/10/15/tendency-rate-of-profit-to-fall/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
   lang: en
 dodd-frank-banking-impact:
 - slug: glass-steagall-repeal-vs-dodd-frank
@@ -48251,6 +49962,31 @@ jay-gatsby-character-analysis:
   url: /2023/05/22/jay-gatsby-idealist-or-criminal/
   category: leisure
   image: /assets/images/blog/blog-68.webp
+  lang: en
+marx-vs-keynes-on-crisis:
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: crisis-of-capitalism-today
+  title: Are We in a Crisis of Capitalism?
+  url: /2014/01/01/crisis-of-capitalism-today/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: marxism-and-the-financial-crash
+  title: Marxism and the Global Financial Crash
+  url: /2013/12/15/marxism-and-the-financial-crash/
+  category: leisure
+  image: /assets/images/blog/blog-103.webp
   lang: en
 registration-act-land-titling-india:
 - slug: transfer-of-property-act-india
@@ -48508,6 +50244,31 @@ larr-compensation-consent-rules:
   category: industry
   image: /assets/images/blog/blog-48.webp
   lang: en
+monopoly-capital-stagnation-theory:
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: tendency-rate-of-profit-to-fall
+  title: The Tendency of the Rate of Profit to Fall
+  url: /2013/10/15/tendency-rate-of-profit-to-fall/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: marxist-crisis-theory-exam-answers
+  title: 'Crisis Theory: Exam Answer Guide'
+  url: /2014/02/15/marxist-crisis-theory-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 wings-aerial-cinematography-craft:
 - slug: ben-hur-chariot-race-craft
   title: 'Ben-Hur: The Chariot Race and Real Epic Craft'
@@ -48707,6 +50468,31 @@ land-acquisition-1894-vs-2013:
   url: /2016/10/01/hindu-marriage-act-1955-explained/
   category: industry
   image: /assets/images/blog/blog-08.webp
+  lang: en
+marxist-crisis-theory-exam-answers:
+- slug: marxist-crisis-theory-guide
+  title: 'Marxist Crisis Theory: A Complete Guide'
+  url: /2013/10/01/marxist-crisis-theory-guide/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: marx-vs-keynes-on-crisis
+  title: Marx vs Keynes on Crisis
+  url: /2014/01/15/marx-vs-keynes-on-crisis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: historical-materialism-exam-answers
+  title: 'Historical Materialism: Exam Answer Guide'
+  url: /2010/05/01/historical-materialism-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: surplus-value-exam-answers
+  title: 'Surplus Value: Exam Answer Guide'
+  url: /2011/03/15/surplus-value-exam-answers/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
   lang: en
 yellowstone-hidden-gems:
 - slug: yellowstone-geysers-hot-springs-guide
@@ -54705,23 +56491,23 @@ alexander-the-great-life-conquests:
   category: leisure
   image: /assets/images/blog/blog-95.webp
   lang: en
+- slug: friedrich-engels-intellectual-profile
+  title: 'Friedrich Engels: More Than a Co-Author'
+  url: /2013/05/15/friedrich-engels-intellectual-profile/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: karl-marx-intellectual-biography
+  title: 'Karl Marx: An Intellectual Biography'
+  url: /2013/05/01/karl-marx-intellectual-biography/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 - slug: julius-caesar-life-assassination
   title: 'Julius Caesar: Life, Power, Assassination'
   url: /2015/05/10/julius-caesar-life-assassination/
   category: leisure
   image: /assets/images/blog/blog-64.webp
-  lang: en
-- slug: persian-empire-history-explained
-  title: The Persian Empire Explained
-  url: /2015/05/25/persian-empire-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-52.webp
-  lang: en
-- slug: piye-kushite-conquest-of-egypt
-  title: King Piye and the Kushite Conquest
-  url: /2006/06/01/piye-kushite-conquest-of-egypt/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 julius-caesar-life-assassination:
 - slug: alexander-the-great-life-conquests
@@ -54911,17 +56697,17 @@ sparta-vs-athens-compared-explained:
   category: leisure
   image: /assets/images/blog/blog-91.webp
   lang: en
+- slug: paris-commune-marx-analysis
+  title: The Paris Commune and What Marx Learned
+  url: /2013/02/15/paris-commune-marx-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: rise-and-fall-roman-empire-explained
   title: Rise and Fall of the Roman Empire Explained
   url: /2015/04/20/rise-and-fall-roman-empire-explained/
   category: leisure
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: fall-of-roman-empire-causes
-  title: 'Why the Roman Empire Fell: Causes Explained'
-  url: /2015/06/29/fall-of-roman-empire-causes/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 persian-empire-history-explained:
 - slug: byzantine-empire-history-explained
@@ -57627,11 +59413,11 @@ russian-revolution-1917-explained:
   category: leisure
   image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
+- slug: state-and-revolution-readers-guide
+  title: 'State and Revolution: A Reader''s Guide'
+  url: /2012/12/15/state-and-revolution-readers-guide/
   category: leisure
-  image: /assets/images/blog/blog-84.webp
+  image: /assets/images/blog/blog-28.webp
   lang: en
 armenian-genocide-history-explained:
 - slug: rwandan-genocide-1994-explained
@@ -129954,6 +131740,12 @@ gatsby-vagueness-mystery:
   image: /assets/images/blog/blog-25.webp
   lang: en
 why-media-companies-merge:
+- slug: how-business-development-companies-work
+  title: How Business Development Companies Work and What They Hold
+  url: /2026/11/12/how-business-development-companies-work/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: how-corporate-spin-offs-work
   title: 'How Corporate Spin-Offs Work: The Mechanics of Splitting'
   url: /2026/11/06/how-corporate-spin-offs-work/
@@ -129971,12 +131763,6 @@ why-media-companies-merge:
   url: /2020/03/01/competition-amendment-act-2023-explained/
   category: industry
   image: /assets/images/blog/blog-113.webp
-  lang: en
-- slug: dhurandhar-media-real-killings
-  title: How Media Uses Dhurandhar for Killings
-  url: /2017/10/02/dhurandhar-media-real-killings/
-  category: industry
-  image: /assets/images/blog/blog-13.webp
   lang: en
 how-vote-by-mail-works:
 - slug: how-employment-green-card-sponsorship-works
@@ -130953,6 +132739,12 @@ how-literary-retranslation-works:
   category: leisure
   image: /assets/images/blog/blog-116.webp
   lang: en
+- slug: marx-translations-which-edition
+  title: 'Marx in Translation: Which Edition to Use'
+  url: /2013/09/15/marx-translations-which-edition/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 - slug: translating-shakespeare-puns
   title: 'Translating Shakespeare''s Puns: An Impossible Task'
   url: /2030/06/21/translating-shakespeare-puns/
@@ -130964,12 +132756,6 @@ how-literary-retranslation-works:
   url: /2030/02/18/gatsby-translations/
   category: leisure
   image: /assets/images/blog/blog-84.webp
-  lang: en
-- slug: change-is-finally-here
-  title: Change is finally here
-  url: /2009/01/19/change-is-finally-here/
-  category: leisure
-  image: /assets/images/blog/blog-05.webp
   lang: en
 how-purcell-principle-works:
 - slug: how-federal-grant-conditions-work
@@ -131184,6 +132970,12 @@ nightjar-edge-of-nothing-002:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: nightjar-nine-officers-008
   title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
   url: /2026/11/08/nightjar-nine-officers-008/
@@ -131195,12 +132987,6 @@ nightjar-edge-of-nothing-002:
   url: /2026/11/02/nightjar-lever-at-melora-003/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: nightjar-bonded-cargo-004
-  title: 'Nightjar: Bonded Cargo and the Second Empty Depot Room'
-  url: /2026/11/03/nightjar-bonded-cargo-004/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 patrick-stewart-acting-method:
 - slug: rsc-romeo-and-juliet-decades
@@ -131371,17 +133157,17 @@ nightjar-bonded-cargo-004:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: nightjar-lever-at-melora-003
   title: 'Nightjar: The Trade Lever Nobody Admits to Pulling'
   url: /2026/11/02/nightjar-lever-at-melora-003/
   category: leisure
   image: /assets/images/blog/blog-99.webp
-  lang: en
-- slug: nightjar-false-provenance-007
-  title: 'Nightjar: A False Provenance Written in Four Languages'
-  url: /2026/11/07/nightjar-false-provenance-007/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 how-persona-was-made:
 - slug: how-pans-labyrinth-was-made
@@ -131427,11 +133213,11 @@ nightjar-standing-detail-005:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: nightjar-nine-officers-008
-  title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
-  url: /2026/11/08/nightjar-nine-officers-008/
+- slug: nightjar-seal-that-wasnt-011
+  title: 'Nightjar: The Seal That Was Never There to Begin With'
+  url: /2026/11/11/nightjar-seal-that-wasnt-011/
   category: leisure
-  image: /assets/images/blog/blog-64.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
 how-federal-grant-conditions-work:
 - slug: how-supreme-court-overrules-precedent
@@ -131484,6 +133270,12 @@ anna-jameson-victorian-juliet:
   image: /assets/images/blog/blog-50.webp
   lang: en
 how-corporate-spin-offs-work:
+- slug: how-business-development-companies-work
+  title: How Business Development Companies Work and What They Hold
+  url: /2026/11/12/how-business-development-companies-work/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: why-media-companies-merge
   title: 'Why Media Companies Merge: Consolidation Explained'
   url: /2026/10/05/why-media-companies-merge/
@@ -131502,13 +133294,13 @@ how-corporate-spin-offs-work:
   category: industry
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: sat-practice-test-analysis
-  title: SAT Practice Test Analysis Done Properly
-  url: /1996/09/26/sat-practice-test-analysis/
-  category: industry
-  image: /assets/images/blog/blog-74.webp
-  lang: en
 nightjar-charge-that-failed-006:
+- slug: nightjar-seal-that-wasnt-011
+  title: 'Nightjar: The Seal That Was Never There to Begin With'
+  url: /2026/11/11/nightjar-seal-that-wasnt-011/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: nightjar-nine-officers-008
   title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
   url: /2026/11/08/nightjar-nine-officers-008/
@@ -131521,17 +133313,11 @@ nightjar-charge-that-failed-006:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
-- slug: nightjar-bonded-cargo-004
-  title: 'Nightjar: Bonded Cargo and the Second Empty Depot Room'
-  url: /2026/11/03/nightjar-bonded-cargo-004/
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: nightjar-false-provenance-007
-  title: 'Nightjar: A False Provenance Written in Four Languages'
-  url: /2026/11/07/nightjar-false-provenance-007/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 how-neoclouds-work:
 - slug: how-data-centers-work
@@ -131565,6 +133351,12 @@ nightjar-false-provenance-007:
   category: leisure
   image: /assets/images/blog/blog-99.webp
   lang: en
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: nightjar-edge-of-nothing-002
   title: 'Nightjar: The Edge of Nothing on the Melora Court Line'
   url: /2026/11/01/nightjar-edge-of-nothing-002/
@@ -131577,11 +133369,11 @@ nightjar-false-provenance-007:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: nightjar-clean-room-001
-  title: 'Nightjar: The Clean Room in the Carrowmere Warehouse'
-  url: /2026/11/01/nightjar-clean-room-001/
+- slug: nightjar-slow-fade-012
+  title: 'Nightjar: The Slow Fade in a Locked Melora Reading Room'
+  url: /2026/11/12/nightjar-slow-fade-012/
   category: leisure
-  image: /assets/images/blog/blog-64.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
 how-supreme-court-overrules-precedent:
 - slug: how-federal-grant-conditions-work
@@ -131621,17 +133413,17 @@ nightjar-nine-officers-008:
   category: leisure
   image: /assets/images/blog/blog-96.webp
   lang: en
+- slug: nightjar-seal-that-wasnt-011
+  title: 'Nightjar: The Seal That Was Never There to Begin With'
+  url: /2026/11/11/nightjar-seal-that-wasnt-011/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: nightjar-last-interview-009
   title: 'Nightjar: The Last Interview in the House at Highstile'
   url: /2026/11/09/nightjar-last-interview-009/
   category: leisure
   image: /assets/images/blog/blog-27.webp
-  lang: en
-- slug: nightjar-lever-at-melora-003
-  title: 'Nightjar: The Trade Lever Nobody Admits to Pulling'
-  url: /2026/11/02/nightjar-lever-at-melora-003/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
   lang: en
 f-scott-fitzgerald-biography:
 - slug: gatsby-alternate-titles
@@ -131684,6 +133476,12 @@ how-x-rays-work:
   image: /assets/images/blog/blog-56.webp
   lang: en
 nightjar-last-interview-009:
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: nightjar-nine-officers-008
   title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
   url: /2026/11/08/nightjar-nine-officers-008/
@@ -131701,12 +133499,6 @@ nightjar-last-interview-009:
   url: /2026/11/04/nightjar-standing-detail-005/
   category: leisure
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: nightjar-charge-that-failed-006
-  title: 'Nightjar: The Canal Charge Never Meant to Fire at All'
-  url: /2026/11/06/nightjar-charge-that-failed-006/
-  category: leisure
-  image: /assets/images/blog/blog-96.webp
   lang: en
 how-booker-prize-works:
 - slug: how-literary-retranslation-works
@@ -131733,6 +133525,81 @@ how-booker-prize-works:
   category: leisure
   image: /assets/images/blog/blog-41.webp
   lang: en
+nightjar-private-register-010:
+- slug: nightjar-last-interview-009
+  title: 'Nightjar: The Last Interview in the House at Highstile'
+  url: /2026/11/09/nightjar-last-interview-009/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: nightjar-false-provenance-007
+  title: 'Nightjar: A False Provenance Written in Four Languages'
+  url: /2026/11/07/nightjar-false-provenance-007/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: nightjar-bonded-cargo-004
+  title: 'Nightjar: Bonded Cargo and the Second Empty Depot Room'
+  url: /2026/11/03/nightjar-bonded-cargo-004/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: nightjar-charge-that-failed-006
+  title: 'Nightjar: The Canal Charge Never Meant to Fire at All'
+  url: /2026/11/06/nightjar-charge-that-failed-006/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+how-compiegne-armistice-worked:
+- slug: apush-periods-8-9-1945-present
+  title: 'APUSH: Periods 8-9 (1945 to Present)'
+  url: /2007/09/03/apush-periods-8-9-1945-present/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: apush-periods-5-7-1844-1945
+  title: 'APUSH: Periods 5-7 (1844 to 1945)'
+  url: /2007/09/07/apush-periods-5-7-1844-1945/
+  category: industry
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: ap-world-history-complete-guide
+  title: AP World History Modern Complete Guide
+  url: /2007/08/20/ap-world-history-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: how-to-get-a-5-on-ap-world-history
+  title: How to Get a 5 on AP World History
+  url: /2007/02/21/how-to-get-a-5-on-ap-world-history/
+  category: industry
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+nightjar-seal-that-wasnt-011:
+- slug: nightjar-charge-that-failed-006
+  title: 'Nightjar: The Canal Charge Never Meant to Fire at All'
+  url: /2026/11/06/nightjar-charge-that-failed-006/
+  category: leisure
+  image: /assets/images/blog/blog-96.webp
+  lang: en
+- slug: nightjar-nine-officers-008
+  title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
+  url: /2026/11/08/nightjar-nine-officers-008/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: nightjar-standing-detail-005
+  title: 'Nightjar: A Standing Detail in the Barrow Mill Towns'
+  url: /2026/11/04/nightjar-standing-detail-005/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: nightjar-private-register-010
+  title: 'Nightjar: The Private Register of Four Empty Rooms'
+  url: /2026/11/10/nightjar-private-register-010/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 what-poland-learned-from-ukraine:
 - slug: cost-of-arming-ukraine-from-poland
   title: The Cost of Arming Ukraine From Poland
@@ -131757,6 +133624,56 @@ what-poland-learned-from-ukraine:
   url: /2026/03/11/polands-himars-deep-strike-power/
   category: industry
   image: /assets/images/blog/blog-08.webp
+  lang: en
+how-business-development-companies-work:
+- slug: how-corporate-spin-offs-work
+  title: 'How Corporate Spin-Offs Work: The Mechanics of Splitting'
+  url: /2026/11/06/how-corporate-spin-offs-work/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: why-media-companies-merge
+  title: 'Why Media Companies Merge: Consolidation Explained'
+  url: /2026/10/05/why-media-companies-merge/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: ap-classes-for-business-finance
+  title: AP Classes for Business and Finance Careers
+  url: /2006/04/12/ap-classes-for-business-finance/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: msme-development-act-2006-explained
+  title: The MSME Development Act 2006 and the Forty Five Day Rule
+  url: /2020/04/15/msme-development-act-2006-explained/
+  category: industry
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+nightjar-slow-fade-012:
+- slug: nightjar-false-provenance-007
+  title: 'Nightjar: A False Provenance Written in Four Languages'
+  url: /2026/11/07/nightjar-false-provenance-007/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: nightjar-edge-of-nothing-002
+  title: 'Nightjar: The Edge of Nothing on the Melora Court Line'
+  url: /2026/11/01/nightjar-edge-of-nothing-002/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: nightjar-bonded-cargo-004
+  title: 'Nightjar: Bonded Cargo and the Second Empty Depot Room'
+  url: /2026/11/03/nightjar-bonded-cargo-004/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: nightjar-last-interview-009
+  title: 'Nightjar: The Last Interview in the House at Highstile'
+  url: /2026/11/09/nightjar-last-interview-009/
+  category: leisure
+  image: /assets/images/blog/blog-27.webp
   lang: en
 mary-cowden-clarke-juliet-girlhood:
 - slug: anna-jameson-victorian-juliet

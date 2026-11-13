@@ -9,7 +9,7 @@ excerpt: "Dialectical materialism is the name later Marxism gave its official ph
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 101
 author: "chloe-martin"
-last_updated: 2012-07-01
+last_updated: 2026-11-13
 lang: en
 ---
 Dialectical materialism is the phrase under which Marxism was taught to hundreds of millions of people, printed on the first page of textbooks across a third of the world, and examined in schools where it functioned less as an argument than as a civic creed. Yet the man whose name the doctrine bears never used the phrase once. Karl Marx wrote of a dialectical method, of a materialist conception of history, of turning Hegel right side up; the compound noun that later generations treated as the title of his philosophy appears nowhere in his published work, nowhere in his manuscripts, nowhere in his letters. That single fact, small enough to fit in one sentence, reorganises everything a reader thought was settled about the subject. A doctrine with an author can be checked against the author. A doctrine assembled after the author's death, from materials he left behind and by hands other than his, has to be checked against a chain of assembly, and each link in that chain is a place where choices were made, alternatives discarded, and emphases set that no founder ever ratified.

@@ -9,7 +9,7 @@ excerpt: "Popper made two quite different attacks on Marxist method, and they ar
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 103
 author: "amanda-ross"
-last_updated: 2012-09-15
+last_updated: 2026-11-13
 lang: en
 ---
 Karl Popper is the critic of Marxism whose name is known to people who have never read a page of him, and the version of his argument that circulates under his name is one he would have rejected as a misstatement of his own case. Ask what Popper showed, in a seminar room, an examination hall, or the comments beneath an article, and the answer arrives in a single sentence: Popper proved that Marxism is unfalsifiable, and therefore a pseudoscience. The sentence is confident, quotable, and wrong in a way that matters, because it reverses the order of Popper's actual argument, discards the part of the argument he himself considered the more damaging, and attributes to him a contempt for Marx that his pages conspicuously do not contain. Correcting the summary is not a courtesy to a dead philosopher. It is the precondition for knowing what the critique actually establishes, what it leaves standing, and where the honest replies to it are to be found.

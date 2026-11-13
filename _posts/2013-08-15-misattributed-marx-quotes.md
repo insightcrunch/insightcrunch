@@ -9,7 +9,7 @@ excerpt: "Marx quotes circulate in versions Marx never wrote: the four-category 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 112
 author: "rachel-foster"
-last_updated: 2013-08-15
+last_updated: 2026-11-13
 lang: en
 ---
 Few names in political writing attract quotation the way the name of Karl Marx does, and Marx quotes consequently lead a double life. They serve as evidence in arguments about what a nineteenth century thinker actually held, and they serve as ammunition manufactured long after his death for arguments he never joined. A line credited to Marx arrives carrying borrowed authority. It settles disputes in seminar rooms, decorates placards and book jackets, opens essays whose authors never opened the book the line supposedly came from, and survives every correction because a correction is always less portable than the line it corrects. The sentence fits on a poster. The footnote explaining why the sentence is false does not.

@@ -9,7 +9,7 @@ excerpt: "A dead man's ledger surfaces under a drawer at Highstile, and three pa
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 106
 author: "rachel-foster"
-last_updated: 2026-11-10
+last_updated: 2026-11-13
 lang: en
 ---
 ## Under the Drawer

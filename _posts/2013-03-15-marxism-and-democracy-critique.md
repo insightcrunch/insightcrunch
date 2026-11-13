@@ -9,7 +9,7 @@ excerpt: "Democracy is where Marxism is richest in critique and thinnest in desi
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 108
 author: "chloe-martin"
-last_updated: 2013-03-15
+last_updated: 2026-11-13
 lang: en
 ---
 The question whether Marxism has a theory of democracy is usually asked in a form guaranteed to produce a useless answer. Asked as a loyalty test, it invites a verdict on a whole tradition, delivered in a sentence, and the sentence tells the reader more about the speaker than about the tradition. Asked precisely, it divides into two questions with opposite answers, and the division is the finding. The first question is whether Marxism developed a serious account of how democracy operates, and fails to operate, in societies where productive wealth is privately owned and heavily concentrated. The answer to that question is yes, in unusual depth and with arguments that political science has repeatedly absorbed without always acknowledging the source. The second question is whether Marxism developed a comparably serious account of the political institutions of the society it proposed: how such a society would make binding decisions, protect dissenters, organise disagreement, correct its own rulers, and remove them. The answer to that question is no, and the no is not a hostile invention. It was stated most precisely by a socialist political theorist writing inside the European left, debated openly by Italian Marxists in the 1970s, and partly conceded by the strongest Marxist respondent of that decade.

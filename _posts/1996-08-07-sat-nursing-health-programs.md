@@ -9,7 +9,7 @@ excerpt: "SAT scores for nursing and health programs: direct-entry BSN, public h
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1996-08-07
+last_updated: 2026-11-13
 lang: en
 ---
 A high school senior opens two letters from the same university in the same week. The first says she has been admitted. The second says the School of Nursing has not selected her for its entering cohort. Both letters carry the same crest, the same dean's signature block, the same address. She got into the college and got turned away from the nursing major inside it, and nobody had told her those were two different decisions. That gap, the space between an SAT score for nursing and an SAT score for the university that houses it, is the single most expensive thing students do not know when they apply into a clinical field, and it is the thing this guide exists to close.

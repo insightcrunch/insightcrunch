@@ -9,7 +9,7 @@ excerpt: "State and Revolution is Lenin's interrupted book on the state: the Com
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 106
 author: "rachel-foster"
-last_updated: 2012-12-15
+last_updated: 2026-11-13
 lang: en
 ---
 Few political books carry a stranger double life than State and Revolution. Inside seminar rooms it is read as a systematic treatise, the place where Lenin supposedly set out a complete theory of government and its disappearance. Outside them it survives as a handful of slogans, detached from their pages and repeated by people who have never opened the volume: smash the state, every cook can govern, the state will wither away. Both lives mislead. The treatise is unfinished, broken off before the chapter that was meant to test its argument against lived revolutionary experience. The slogans, in at least one famous case, reverse the sentence they claim to quote. A reader who approaches the book through either reputation will misunderstand what kind of object it is, and the misunderstanding matters because this short, dense, quotation-laden text became one of the most consequential political writings of the twentieth century.

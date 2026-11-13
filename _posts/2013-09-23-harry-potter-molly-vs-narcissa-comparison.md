@@ -5,11 +5,11 @@ page_title: "Molly Weasley vs Narcissa Malfoy: Two Mothers, One Weapon, and the 
 date: 2013-09-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Molly Weasley", "Narcissa Malfoy", "Character Comparison"]
-excerpt: "Molly Weasley vs Narcissa Malfoy in Harry Potter compared across combat, deception, class, and the feminist question of whether motherhood is power or cage."
+excerpt: "Two mothers in Harry Potter, one ferocious in love and one ferocious in fear, both willing to kill or lie for a child."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 43
 author: "victoria-stone"
-last_updated: 2013-09-23
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Two Women Who Ended the War

@@ -9,7 +9,7 @@ excerpt: "SAT studying while busy: the 30-minute daily strategy, weekend intensi
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-09-08
+last_updated: 2026-11-13
 lang: en
 ---
 A junior carrying five academic courses, a varsity sport, a part-time job, and a place in the school orchestra does not have a free afternoon to give the College Board. That student usually does one of two things, and both are wrong. The first is to skip preparation entirely, deciding the exam will have to take whatever score the calendar allows, then walking in cold and losing fifty to a hundred points that thirty quiet minutes a day would have recovered. The second is to set a fantasy plan, three hours every evening starting Monday, that collapses by Wednesday under the weight of real obligations and leaves nothing but guilt where a routine should have been. The truth that sits between those failures is the entire subject of this guide: a small, consistent, well-aimed daily dose, layered with occasional longer blocks on a weekend, moves the score in a way that surprises people who think prep requires a cleared schedule. You do not need an empty week. You need thirty deliberate minutes and a target chosen to fit the hours you actually own.

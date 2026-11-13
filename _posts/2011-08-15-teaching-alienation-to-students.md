@@ -9,7 +9,7 @@ excerpt: "Teaching alienation succeeds when experience comes before definition: 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 92
 author: "amanda-ross"
-last_updated: 2011-08-15
+last_updated: 2026-11-13
 lang: en
 ---
 Alienation arrives in the classroom before the teacher does. Every student in the room already owns the word, because ordinary speech has been using it for years to name loneliness, boredom, estrangement from friends, and the flat feeling of a job endured rather than chosen. When the teacher writes the word on the board and begins to define the technical concept Karl Marx built inside it, two meanings compete for the same space, and the ordinary one almost always wins, because it arrived first, because it feels personal, and because it lets every student believe the topic is about their own moods. The lesson that follows can be accurate in every sentence and still fail completely, since the class leaves believing that Marx wrote a theory of job dissatisfaction, that alienation is measured by asking workers whether they are happy, and that a kind employer with a suggestion scheme has answered a nineteenth century philosopher. This article is about preventing that failure. It sets out a sequence in which students make something and surrender it before the concept is named, derive the four relations from what happened to them, meet the strongest counter argument in its strongest form, and sit an assessment that rewards the derivation rather than the recited list. The sequence rests on one rule, stated here and defended throughout: the experience-before-definition rule.

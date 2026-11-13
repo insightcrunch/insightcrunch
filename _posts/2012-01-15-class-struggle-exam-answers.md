@@ -9,7 +9,7 @@ excerpt: "Class struggle exam answers earn marks on definition and transfer: the
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 95
 author: "rachel-foster"
-last_updated: 2012-01-15
+last_updated: 2026-11-13
 lang: en
 ---
 Class struggle is the most examined idea in the whole Marxist tradition, and it is also the idea most often answered badly by candidates who know a great deal about it. The reason is rarely ignorance. A weak script on class usually contains plenty of material: factories, owners, workers, strikes, revolutions, quotations half remembered from a famous pamphlet. What it lacks is an architecture. The definition arrives late or arrives wrong, the mechanism is asserted rather than shown, the named scholars blur into a single voice, and the evaluation at the end could have been attached to any topic in the specification. Markers read such scripts with a particular weariness, because the candidate has done the reading and still not earned the marks the reading should have bought. This guide exists to repair exactly that gap. It treats class not as a body of notes to be reproduced but as an answer to be built, and it builds that answer out of four components that recur in every strong script: a relational definition stated at the outset, one textual anchor placed where it does argumentative work, one rival framework named precisely enough to bite, and one evaluation that follows from the material rather than floating above it.

@@ -9,7 +9,7 @@ excerpt: "Overproduction is always relative to something: purchasing power, prof
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 115
 author: "diana-patel"
-last_updated: 2013-11-01
+last_updated: 2026-11-13
 lang: en
 ---
 Ask what caused a crisis and two words arrive together so reliably that they are often printed as if they were one word with a hyphen missing: overproduction and underconsumption. A factory system makes more than people can buy, the story runs, warehouses fill, workers are dismissed, and the machine stalls on its own abundance. The story has the great virtue of fitting the visible scene of a slump, the idle plant and the unsold stock and the queue outside the labour exchange, and it has the great defect of being two stories compressed into a single sentence. Overproduction names a surplus on the side of what has been made. Underconsumption names a shortfall on the side of what can be purchased. They point in opposite directions along the same circuit, they imply different mechanisms, they suggest different remedies, and in the writings of Karl Marx they receive strikingly different treatment, since he built the first into his account of crisis while attacking the second, in one of its most quoted passages, as an empty formula that explains nothing. A reader who keeps the two apart has hold of a distinction that reorganises the whole literature of capitalist crisis. A reader who merges them will misread Marx, misread his critics, and misread the claims made in his name by later schools that he would partly have disowned.

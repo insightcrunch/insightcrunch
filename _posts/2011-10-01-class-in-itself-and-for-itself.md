@@ -9,7 +9,7 @@ excerpt: "Class in itself and class for itself are a famous pair with a lopsided
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 93
 author: "diana-patel"
-last_updated: 2011-10-01
+last_updated: 2026-11-13
 lang: en
 ---
 Class in itself and class for itself may be the most confidently quoted pair of terms in the whole vocabulary of Marxism, and the confidence is the problem. Open almost any revision guide, lecture slide, or dictionary of sociology and the two phrases arrive together, set in quotation marks or in the solemn type reserved for a thinker's own coinage, arranged as the two stages of a single journey: a class first exists objectively, sharing a position in production without knowing it, and then awakens, organises, and becomes a class for itself. The picture is neat, memorable, and almost entirely unsupported by the texts it claims to summarise. Marx never wrote the phrase class in itself. He wrote, once, in a book of 1847, that a mass had become a class as against capital but not yet for itself, and that single subordinate clause, buried in a polemic against Proudhon, is the entire textual foundation on which the symmetrical pair and its stage theory were later built. Everything else, the balanced terminology, the developmental ladder, the implication that the second stage ripens out of the first the way a plant ripens out of a seed, was supplied by expositors who borrowed Hegel's German vocabulary and fitted Marx's clause into it.

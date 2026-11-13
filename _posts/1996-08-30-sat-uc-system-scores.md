@@ -9,7 +9,7 @@ excerpt: "SAT scores and the UC system explained: the test-free admissions polic
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1996-08-30
+last_updated: 2026-11-13
 lang: en
 ---
 A high school senior in Fresno spends eleven Saturdays preparing for a December sitting, walks out with a 1480, and proudly attaches that result to her UCLA application. It changes nothing. Not her odds, not her review, not her shot at a Regents scholarship. The University of California will not look at the number at all. This is the single most expensive misunderstanding in California college planning, and it costs families money, weekends, and worse, attention that belonged somewhere else entirely.

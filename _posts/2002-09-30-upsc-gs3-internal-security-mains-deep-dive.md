@@ -9,7 +9,7 @@ excerpt: "UPSC GS3 internal security deep dive: LWE, Northeast insurgency, borde
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 65
 author: "kavita-sharma"
-last_updated: 2026-04-15
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "security"

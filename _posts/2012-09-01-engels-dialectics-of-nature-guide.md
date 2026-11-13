@@ -9,7 +9,7 @@ excerpt: "The dialectics of nature rests on an unfinished manuscript Engels neve
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 103
 author: "rachel-foster"
-last_updated: 2012-09-01
+last_updated: 2026-11-13
 lang: en
 ---
 The dialectics of nature is the most argued about text in the Marxist tradition that its author never actually published, never finished, and never arranged for anyone to read. Friedrich Engels worked on the material across roughly a decade, filled notebooks and loose sheets with drafts, plans, fragments, and one nearly finished essay, and then set the whole bundle aside when Karl Marx died and the editing of Capital took precedence over everything else. The bundle stayed in a drawer through Engels's own death in 1895 and waited three more decades before editors in Moscow assembled it into something that looked like a book. That sequence of facts, none of them controversial among scholars who have handled the manuscripts, changes everything about how the text should be read, because most of the famous quarrel about Engels and nature has been conducted as though a finished treatise existed, with chapters in an intended order and conclusions its author had weighed. No such treatise exists. What exists is a workshop, photographed mid-task, with tools laid out, some blades sharpened and some still rough, and the photograph was captioned by other people.

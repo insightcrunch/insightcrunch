@@ -9,7 +9,7 @@ excerpt: "Dialectical method in research is a set of adjustable settings, not a 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 105
 author: "rachel-foster"
-last_updated: 2012-10-15
+last_updated: 2026-11-13
 lang: en
 ---
 Dialectical method is the most frequently claimed and least frequently taught instrument in the Marxist tradition, and the gap between the claiming and the teaching is the problem this article exists to close. A doctoral student in sociology, geography, education or political economy can read a hundred theses that describe themselves as dialectical and finish the hundredth no closer to knowing what the writer actually did differently on the first morning of the research. The word appears in methodology chapters like a coat of arms on a shield. It announces allegiance. It rarely announces a procedure, and a reader who asks what operations the word names, what decisions it forced, what it ruled out, is usually answered with a definition of dialectics itself, which is a different thing entirely. Definitions belong to the doctrine. This article belongs to the workshop. It treats dialectical method in research as a small number of decisions that can be stated, defended and criticised, and it shows each decision being made, on real material, with its costs made visible.

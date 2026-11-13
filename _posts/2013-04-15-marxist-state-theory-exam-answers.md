@@ -9,7 +9,7 @@ excerpt: "Marxist state theory in an exam rewards the plural opening: name the r
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 109
 author: "rachel-foster"
-last_updated: 2013-04-15
+last_updated: 2026-11-13
 lang: en
 ---
 Marxist state theory is the topic on which a single sentence, written in the first minute, decides more marks than any other sentence in the script. Candidates who open by announcing that Marxists regard public power as an instrument of the ruling class have already told the marker which band the answer belongs to, and no quantity of accurate detail afterwards fully repairs the impression. Candidates who open by observing that the tradition contains rival accounts of the state, each with its own mechanism and its own textual home, have told the same marker something different: that the writer commands the material rather than reciting it. The distance between those two openings is roughly ten words. Everything in this guide exists to close that distance for the reader, and to build around the better opening a complete method for answering questions on the state at school level, at undergraduate level, and in the competitive examinations where theories of power form a named part of the paper.

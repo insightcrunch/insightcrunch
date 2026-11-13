@@ -5,11 +5,11 @@ page_title: "Dobby vs Kreacher: Two House-Elves, Two Journeys to Freedom in Harr
 date: 2013-11-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dobby", "Kreacher", "House-Elves", "Slavery"]
-excerpt: "Dobby vs Kreacher in Harry Potter, compared across slavery, freedom, recognition, redemption, and the cross-literary parallels these bound house-elves echo."
+excerpt: "Two house-elves, two journeys from servitude to freedom, and Rowling's clearest claim about what love is owed."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 41
 author: "emily-reed"
-last_updated: 2013-11-05
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Question Behind Two Elves

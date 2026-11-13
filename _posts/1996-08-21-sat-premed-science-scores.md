@@ -9,7 +9,7 @@ excerpt: "SAT scores for pre-med explained: why pre-med is a track not a major, 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1996-08-21
+last_updated: 2026-11-13
 lang: en
 ---
 Every fall, thousands of high school juniors type the same phrase into a search bar: what SAT score do I need for pre-med? They are looking for a number, a single threshold that admits them to the path toward a white coat. The number does not exist, and chasing it is the first strategic error a future physician can make. SAT scores for pre-med are real and they matter, but they are not pre-med scores at all. They are admission scores for the undergraduate university where a student happens to pursue the pre-med track, and the right target moves with the school, not with the career goal.

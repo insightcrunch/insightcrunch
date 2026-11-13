@@ -5,11 +5,11 @@ page_title: "Dumbledore vs Voldemort: Two Brilliant Minds and the Opposite Paths
 date: 2013-09-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Lord Voldemort", "Character Comparison"]
-excerpt: "Dumbledore vs Voldemort in Harry Potter: two brilliant orphans with identical magical genius and opposite moral fates, divided by what each chose to love."
+excerpt: "Same Hogwarts, same gifts, opposite paths: what divides Dumbledore and Voldemort and why love is the answer."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 44
 author: "victoria-stone"
-last_updated: 2013-09-28
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: Two Brilliant Orphans and the Difference Between Them

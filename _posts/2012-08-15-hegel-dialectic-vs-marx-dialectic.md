@@ -9,7 +9,7 @@ excerpt: "Hegel's dialectic and Marx's dialectic differ in what moves and what i
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 102
 author: "rachel-foster"
-last_updated: 2012-08-15
+last_updated: 2026-11-13
 lang: en
 ---
 Hegel stands at the origin of nearly everything Karl Marx wrote about method, and yet the standard account of their relationship fits inside a single picture: a thinker discovered standing on his head, turned the right way up by his rebellious student. The picture comes from Marx himself, which gives it authority, and it has been repeated so often that it now functions as the whole explanation. A reader who knows only the inversion image knows that Marx praised something in Hegel and rejected something else, but cannot say what either thing was, cannot locate the praise or the rejection in any particular text, and cannot explain why the opening chapter of Capital reads the way it does. That gap between the image and the method is the subject of this article. The comparison pursued here stays at the level of method throughout: how each thinker believed a subject should be investigated, how its inner connections should be set out, what a negation does inside an argument, and why the order in which results are presented is itself a philosophical decision. Worldviews enter only where method requires them, since the wider quarrel between materialism and idealism as doctrines of what exists belongs to a companion discussion of [historical materialism vs idealism](/2010/04/01/historical-materialism-vs-idealism/), which treats that question directly.

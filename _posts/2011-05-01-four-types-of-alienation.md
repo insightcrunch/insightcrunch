@@ -9,7 +9,7 @@ excerpt: "Alienation in Marx comes in four connected forms, not a loose list: fr
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 89
 author: "diana-patel"
-last_updated: 2011-05-01
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a search engine about alienation in Marx and it will hand back a list. Four items, neatly parallel, usually decorated with four matching examples, as though a young philosopher in Paris had sat down one spring to compose a taxonomy and numbered the entries as he went. The list is not false, exactly. Each of its four items names something genuinely present in the text from which the list is drawn. But the list form itself is a quiet falsification, because the passage behind it is not a taxonomy at all. It is an argument with a direction. Two of the four relations are established directly from the conditions of wage labour, and the other two are then drawn out of those, step by step, with the inferential steps marked in the prose. Flatten that argument into four parallel bullet points and the reader keeps the vocabulary while losing the reasoning, which is rather like keeping the names of chess pieces while losing the rules that connect their moves.

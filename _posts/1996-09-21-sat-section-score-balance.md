@@ -9,7 +9,7 @@ excerpt: "SAT section score balance: why lifting your weaker section usually win
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "michael-brooks"
-last_updated: 1996-09-21
+last_updated: 2026-11-13
 lang: en
 ---
 A student walks in with a 720 in Math and a 580 in Reading and Writing, a 1300 composite, and one question: how do I get to 1400 before the next sitting? Almost every instinct points the wrong way. The 720 feels like the foundation, the part that works, the place where another grind session will surely pay off. So the student books more Math, drills the questions they already get right, and watches the composite barely move. The hundred-and-forty-point gap between the two halves of the score was the map the whole time, and the student spent the season reading it upside down.

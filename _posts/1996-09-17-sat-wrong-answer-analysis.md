@@ -9,7 +9,7 @@ excerpt: "SAT wrong answer analysis explained: the four error types, content, ca
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 59
 author: "daniel-morgan"
-last_updated: 1996-09-17
+last_updated: 2026-11-13
 lang: en
 ---
 A student finishes a practice section, checks the key, counts eleven misses, sighs, and writes one word in the margin: "careless." That single word is the most expensive habit in SAT preparation, because it is almost always wrong, and because the wrong label prescribes the wrong cure. Of those eleven misses, maybe two were genuine careless slips. Three were knowledge the student never had. Four were the clock forcing a guess. Two were a misread prompt that sent a perfectly capable solver toward an answer to a question that was never asked. Four different problems wear the same disguise, and a student who treats them as one problem will study the same way next week and miss the same eleven the week after.

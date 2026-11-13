@@ -9,7 +9,7 @@ excerpt: "Media theory in the Marxist tradition has two wings, production and re
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 100
 author: "rachel-foster"
-last_updated: 2012-05-15
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a room of educated readers what media theory in the Marxist tradition says about the media and a single answer usually comes back, delivered with the confidence of a settled fact. The media, on this account, are owned by the powerful, filled with messages that serve the powerful, and absorbed by audiences too passive to notice what is being done to them. The answer has the shape of a theory and the texture of a cartoon. It misdescribes the tradition it claims to summarise in almost every particular that matters, because the tradition it names is not one theory but a family of them, divided against itself on the very question the cartoon treats as closed: whether audiences are acted upon by media or act upon what media give them. Media theory in the Marxist line is better pictured as an argument that has been running for the better part of a century than as a doctrine that was settled at some founding moment and handed down intact.

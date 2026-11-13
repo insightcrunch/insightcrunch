@@ -9,7 +9,7 @@ excerpt: "The Compiègne armistice stopped a world war through dated stages of e
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 82
 author: "marcus-hall"
-last_updated: 2026-11-11
+last_updated: 2026-11-13
 lang: en
 ---
 ## The Eleventh Hour and the Legal Shape of an Armistice

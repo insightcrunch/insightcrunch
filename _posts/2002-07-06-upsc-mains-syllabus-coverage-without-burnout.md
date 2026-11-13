@@ -9,7 +9,7 @@ excerpt: "UPSC Mains smart coverage strategy 80-20 rule for syllabus depth versu
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-16
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "preparation"

@@ -9,7 +9,7 @@ excerpt: "Engels arrived first at several of the tradition's founding arguments:
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 110
 author: "diana-patel"
-last_updated: 2013-05-15
+last_updated: 2026-11-13
 lang: en
 ---
 Ask a room of educated readers who Friedrich Engels was, and the answers arrive in a settled order. He was Karl Marx's friend. He was the wealthy manufacturer who paid the bills while Marx wrote in the British Museum. He was the loyal second who edited the unfinished volumes, answered the correspondence, defended the doctrine against its enemies and asked for nothing except to stand a step behind the greater man. Every element of that portrait contains some truth, and the portrait as a whole is false, because it arranges the two lives in the wrong sequence at the one point where sequence decides everything. When the partnership began in earnest in the late summer of 1844, the younger man from Barmen had already published a critique of political economy that his future collaborator praised in print, and he was carrying in his luggage the notes for a study of English industrial life that no one else in their circle could have written. Marx came to political economy through Engels. The empirical portrait of the industrial working class that grounded their shared politics was drawn by Engels, from streets he had walked for nearly two years. The assistant, on inspection, turns out to have been a founder who arrived early.

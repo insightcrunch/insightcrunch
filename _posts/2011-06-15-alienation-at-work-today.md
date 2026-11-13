@@ -9,7 +9,7 @@ excerpt: "Alienation at work can be told apart from burnout, boredom and bad man
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 91
 author: "chloe-martin"
-last_updated: 2011-06-15
+last_updated: 2026-11-13
 lang: en
 ---
 Alienation has become the word reached for whenever work feels wrong, and a word that covers everything ends up explaining nothing. A warehouse picker whose pace is set by a scanner, a nurse holding a stranger's hand through a bad night, a software engineer who cannot say what her team's product is for, a driver who owns his car yet answers to an application he cannot negotiate with: commentary gathers all four under one heading and moves on, as though naming the mood were the same as analysing the condition. Marx's concept was built to do finer work than that. It names a structure, a set of relations between a producer and what she produces, the activity of producing, her own capacities, and other people, and it either fits a given workplace or it does not. Fit matters because diagnosis governs remedy. A complaint that belongs to exhaustion calls for rest and staffing. A complaint that belongs to meaninglessness calls for a different conversation about social usefulness. A complaint that belongs to alienation in the strict sense points at ownership and control, and no rearrangement of the furniture will touch it.

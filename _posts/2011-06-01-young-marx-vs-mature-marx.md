@@ -9,7 +9,7 @@ excerpt: "The young Marx and the mature Marx are one writer or two, depending on
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 90
 author: "amanda-ross"
-last_updated: 2011-06-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few questions in the study of a single thinker carry as much hidden weight as the dispute over the young Marx and the mature Marx. Stated plainly, the proposition in dispute is this: somewhere in the middle of the eighteen forties, Karl Marx abandoned the philosophical humanism of his early writings, broke with the vocabulary of alienation and species-being, and founded a science of history and political economy on entirely different foundations, so that the author of the Economic and Philosophic Manuscripts and the author of Capital are best read as two different thinkers who happen to share a name. One side of the argument accepts that proposition and builds a periodisation upon it. The other side denies it, insisting that the concerns of the early writings persist, transformed but recognisable, through the whole of the later work. Both sides can quote texts. Both sides can point to dates. The argument has lasted for decades because the evidence genuinely pulls in two directions, and because a great deal more than chronology rides on the answer.

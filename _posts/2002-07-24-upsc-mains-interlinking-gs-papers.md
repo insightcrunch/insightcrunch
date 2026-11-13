@@ -9,7 +9,7 @@ excerpt: "UPSC Mains interlinking GS papers for holistic answers: how a single t
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 65
 author: "anita-das"
-last_updated: 2026-04-16
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "paper"

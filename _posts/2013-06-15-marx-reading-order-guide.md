@@ -9,7 +9,7 @@ excerpt: "Reading Marx in the right order saves a beginner months: the purpose-f
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 111
 author: "rachel-foster"
-last_updated: 2013-06-15
+last_updated: 2026-11-13
 lang: en
 ---
 Reading Marx defeats more willing readers than almost any other body of work in the social sciences, and it rarely defeats them because the ideas are beyond their reach. It defeats them at the doorway. A reader picks up the most famous title, or the largest one, or the one a friend pressed on them with the assurance that everything else is commentary, and discovers within fifty pages that the book assumes a conversation they have not yet joined. The vocabulary is unexplained, the opponents are unnamed, the method is practised rather than described, and the sheer scale of the enterprise sits on the desk like a reproach. Months later the volume is still on the shelf with a marker near the front, and its owner has quietly concluded that Marx is either too difficult or not worth the effort. Both conclusions are usually wrong. What failed was not the reader and not the author. What failed was the order, and the order failed because it was chosen without any reference to what the reader actually wanted from the encounter.

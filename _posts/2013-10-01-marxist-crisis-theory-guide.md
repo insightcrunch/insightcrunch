@@ -9,7 +9,7 @@ excerpt: "Crisis theory in Marx is not one doctrine but five families of explana
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 114
 author: "amanda-ross"
-last_updated: 2013-10-01
+last_updated: 2026-11-13
 lang: en
 ---
 Crisis theory is the one part of Marxist economics where the argument among Marxists themselves has never closed. Ask what Marx held about the value of a commodity, about exploitation, or about the historical role of the factory, and a reasonably settled answer can be assembled from finished texts he prepared for print. Ask why capitalism periodically breaks down into crisis, and the answer dissolves into a quarrel that has run for well over a century, because the founder left the materials for several answers and the verdict for none. His writings supply a theory of falling profitability, a theory of goods produced and never sold, a theory of industries growing out of proportion to one another, a theory of wages rising until profits buckle, and a theory of credit expanding until the paper structure collapses. Each theory has distinguished defenders. Several contradict one another outright. This guide maps the whole field, gives each family its strongest form, and then applies the one device that separates them cleanly.

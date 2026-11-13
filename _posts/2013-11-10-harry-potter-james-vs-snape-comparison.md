@@ -5,11 +5,11 @@ page_title: "James Potter vs Severus Snape: The Bully, the Victim, and the Woman
 date: 2013-11-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Severus Snape", "Character Comparison"]
-excerpt: "James Potter vs Severus Snape in Harry Potter, compared across the worst memory, false maturity, devotion, Lily's choice, and the grief that outlives them."
+excerpt: "James and Snape compared: bully and victim, husband and rival, and the woman whose choice they both lived inside."
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 56
 author: "elena-wright"
-last_updated: 2013-11-10
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Triangle That Outlived Everyone In It

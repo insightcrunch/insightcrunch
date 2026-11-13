@@ -9,7 +9,7 @@ excerpt: "UPSC Geography optional Paper 2 covering human geography models and th
 image: "/assets/images/blog/blog-107.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-18
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "geography"

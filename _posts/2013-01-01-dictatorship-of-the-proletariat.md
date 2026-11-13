@@ -9,7 +9,7 @@ excerpt: "Dictatorship of the proletariat is a phrase Marx used rarely and in an
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 106
 author: "amanda-ross"
-last_updated: 2013-01-01
+last_updated: 2026-11-13
 lang: en
 ---
 The dictatorship of the proletariat is the most quoted phrase in Marxism and the least examined. It is quoted by opponents as proof of what Marxism always intended, and by defenders as a term of art that hostile readers wilfully misunderstand, and in both uses the phrase does its work before anyone has asked the prior questions: what did the words mean when Marx used them, how often did he use them at all, and what was later done under their authority by people who claimed his inheritance. Those are three different questions, with three different kinds of answer, and the confusion of the phrase's career begins whenever they are merged into one. This article keeps them apart from its first page to its last. The meaning question is a question about texts and about the vocabulary of a century, and it can be answered with some precision. The verdict question is a question about regimes, institutions and human consequences, and it belongs to a different evidentiary world, where the records are archives, demographic reconstructions and the testimony of survivors. An article that answers the first question and behaves as though the second had been answered too has cheated its reader, whichever direction the cheating runs.

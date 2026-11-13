@@ -9,7 +9,7 @@ excerpt: "The falling rate of profit debate runs on three tracks at once: the lo
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 115
 author: "chloe-martin"
-last_updated: 2013-11-15
+last_updated: 2026-11-13
 lang: en
 ---
 Few propositions in economics have been declared dead as often, or have refused burial as stubbornly, as the claim that a falling rate of profit is written into the way capitalist production develops. Textbooks settle the matter in a paragraph. Journals reopen it in special issues and long exchanges of articles. Between the paragraph and the special issue stands the reader who wants a plain answer to a plain question: does the law hold? The honest response begins with a refusal, because the question as usually posed bundles three different questions together, each with its own kind of evidence and its own state of resolution, and much of the celebrated quarrel consists of people answering one of them with material drawn from another.

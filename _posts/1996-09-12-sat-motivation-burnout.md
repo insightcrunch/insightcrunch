@@ -9,7 +9,7 @@ excerpt: "SAT motivation and burnout: consistent moderate effort over cramming, 
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1996-09-12
+last_updated: 2026-11-13
 lang: en
 ---
 The student who studies four hours every Saturday and nothing the rest of the week will almost always be beaten by the student who works for forty focused minutes a day, six days a week, and rests on the seventh. The two of them log nearly identical hours over a month. One of them remembers what they learned; the other relearns the same material every weekend because the gap between sessions erased it. SAT motivation is not a personality trait you either have or lack. It is the predictable result of a schedule built so that showing up tomorrow is easy, and SAT burnout is not a sign of weakness but the predictable result of a schedule built so that showing up tomorrow feels impossible. This guide treats both as engineering problems with engineering solutions, because that is what they are.

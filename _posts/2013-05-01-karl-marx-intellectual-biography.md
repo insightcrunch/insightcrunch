@@ -9,7 +9,7 @@ excerpt: "Karl Marx spent his life building one critique across philosophy, poli
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 110
 author: "amanda-ross"
-last_updated: 2013-05-01
+last_updated: 2026-11-13
 lang: en
 ---
 Karl Marx is the rare thinker whose life gets retold as ammunition. Admirers produce a martyr who starved in exile for the truth, detractors produce a sponger who never worked and lived off a factory owner's profits, and both portraits agree on one procedure: settle the man first, and the work can be dismissed or canonised without the inconvenience of reading it. An intellectual biography refuses that procedure. It treats the life as the record of how a body of work was made, under what pressures, with what tools, at what cost, and it judges the man where possible by the standard he set for himself. Marx, unusually, left such a standard in writing. In a letter of March 1852 to his friend Joseph Weydemeyer, then an exile in New York, he stated precisely what he claimed to have contributed to the understanding of society and precisely what he conceded to predecessors. This biography is organised around that statement. The chronology matters, because the ideas were formed in specific rooms, newspapers, libraries and lodgings, but the chronology serves the assessment rather than replacing it.

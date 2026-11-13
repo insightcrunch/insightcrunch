@@ -5,11 +5,11 @@ page_title: "Sirius vs Lupin: Two Outcasts, Two Ways of Surviving Their Generati
 date: 2013-10-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Remus Lupin", "Character Comparison"]
-excerpt: "Sirius vs Lupin in Harry Potter: two outcasts, two survival strategies. How rage and caution carried the last Marauders, and what each style cost them."
+excerpt: "Sirius and Lupin compared: the loud outcast and the quiet one, and the friendship that held them both together."
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 41
 author: "claire-bennett"
-last_updated: 2013-10-13
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Same Wound, Two Ways of Wearing It

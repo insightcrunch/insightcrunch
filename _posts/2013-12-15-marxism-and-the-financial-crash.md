@@ -9,7 +9,7 @@ excerpt: "The financial crash drew rival Marxist explanations within a few month
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 116
 author: "rachel-foster"
-last_updated: 2013-12-15
+last_updated: 2026-11-13
 lang: en
 ---
 In the autumn of 2008 a financial crash that had begun in one corner of the American mortgage market became a worldwide contraction of credit, trade and employment. Within months, commentators across the political spectrum were announcing that Karl Marx had been proved right. Bookshops reported surging sales of his work, newspapers that rarely discussed political economy ran features on the renewed relevance of a thinker dead for well over a century, and a German finance minister was quoted observing that certain passages of the old critique read like dispatches from the present. The applause concealed a difficulty that this article takes as its subject. The Marxist tradition did not produce one explanation of the crash. It produced at least four, and the four do not agree with each other about what caused the collapse, what the long expansion of finance had been, or what sort of recovery could follow. A single event cannot vindicate four incompatible accounts at once, and the interesting work lies in setting the rivals side by side and grading each against the documented record.

@@ -9,7 +9,7 @@ excerpt: "Mira Kovac finds a clerk dead in a locked Melora reading room, where t
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 103
 author: "diana-patel"
-last_updated: 2026-11-12
+last_updated: 2026-11-13
 lang: en
 ---
 ## Cold Open

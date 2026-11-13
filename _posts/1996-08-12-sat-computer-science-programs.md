@@ -9,7 +9,7 @@ excerpt: "SAT scores for computer science programs: why CS is the most competiti
 image: "/assets/images/blog/blog-112.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1996-08-12
+last_updated: 2026-11-13
 lang: en
 ---
 There is a sentence on more admission letters than students expect, and it ends careers in computing before they begin: "Congratulations on your admission to the university. Your application to the computer science major was not selected." A student opens that letter, reads the first line, celebrates, and only on the second read understands that the SAT score that cleared the institution did not clear the department. Knowing what SAT score do I need for a top computer science program is the wrong first question. The sharper question is which threshold you are actually being measured against, because for the most sought-after major in American higher education, the bar inside the major sits well above the bar at the front gate.

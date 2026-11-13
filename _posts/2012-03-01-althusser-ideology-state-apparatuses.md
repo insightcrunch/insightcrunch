@@ -9,7 +9,7 @@ excerpt: "Althusser rebuilt the theory of ideology around institutions and inter
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 98
 author: "diana-patel"
-last_updated: 2012-03-01
+last_updated: 2026-11-13
 lang: en
 ---
 Althusser wrote the most influential Marxist account of ideology of the twentieth century, and it is usually encountered in a form he would barely recognise. What circulates in lecture slides and revision guides is a list of institutions, a policeman calling out in a street, and a conclusion that schools exist to keep capitalism running. The list is real, the policeman is real, and the conclusion is not entirely wrong, but the three fragments together omit almost everything that makes the essay an argument. Missing is the question the essay exists to answer, which concerns the reproduction of the relations of production. Missing is the thesis that ideology exists materially in practices and rituals rather than in heads. Missing is the strange claim that ideology has no history. Missing, above all, is any sign that the famous text is an extract, cut from a longer manuscript that stayed unpublished for a quarter of a century and that answers, in part, the objections the extract provoked.

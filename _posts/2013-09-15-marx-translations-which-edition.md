@@ -9,7 +9,7 @@ excerpt: "Translation decides which Marx a reader actually meets: the edition se
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 114
 author: "diana-patel"
-last_updated: 2013-09-15
+last_updated: 2026-11-13
 lang: en
 ---
 Every reader of Marx in English reads two authors at once. One wrote in German, mostly, with excursions into French and English journalism, a private shorthand of philosophical terms inherited from Hegel, and a polemical habit of squeezing several meanings into a single word. The other is the translator, whose name sits in small type on a title page, whose choices decide whether a key term sounds economic or psychological, archaic or crisp, and whose decisions are usually invisible until two English versions of the same passage are placed side by side and refuse to match. A translation is never a pane of glass. It is a second act of writing, performed under discipline, and the discipline varies: some translators serve the scholar who will check the German, others serve the first time reader who will abandon the book if the sentences fight back. Neither service is dishonest. Confusing them is where the trouble starts, and a reader who cannot tell which service a given edition performs will misjudge both the book and the argument inside it.

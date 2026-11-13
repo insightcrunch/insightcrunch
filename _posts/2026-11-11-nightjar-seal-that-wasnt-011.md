@@ -9,7 +9,7 @@ excerpt: "A chain selling forged Accord seals is taken in Valtessa, and on three
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 96
 author: "chloe-martin"
-last_updated: 2026-11-11
+last_updated: 2026-11-13
 lang: en
 ---
 ## Counting Twice

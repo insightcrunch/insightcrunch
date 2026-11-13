@@ -9,7 +9,7 @@ excerpt: "The working class has been declared dead on definitions that would als
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 94
 author: "rachel-foster"
-last_updated: 2011-11-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few questions in social argument are asked with more confidence and answered with less agreement than this one. One writer announces that the working class has vanished, dissolved into a broad middle mass of homeowners, graduates, and pension holders. Another replies that it has never been larger, that most of humanity now lives by selling its capacity to work, and that reports of the disappearance confuse a change of costume with a death. Both writers can point at real evidence. Both can quote employment statistics, income distributions, and scenes from ordinary life that support their side. Yet the argument never closes, because the two sides are not disagreeing about the same object. Each has quietly adopted a different test for what a working class is, and each test, applied honestly, delivers the verdict its holder announced in advance. The counting is downstream of the definition, and the definition is where the real dispute lives.

@@ -9,7 +9,7 @@ excerpt: "Dialectics exam answers fail on the inherited formula and pass on the 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 105
 author: "chloe-martin"
-last_updated: 2012-11-15
+last_updated: 2026-11-13
 lang: en
 ---
 Dialectics is the topic on which well prepared candidates most often write answers their teachers would be embarrassed to defend, and the reason is peculiar to this corner of the syllabus. On most topics, revision resources simplify a defensible account into a shorter one, losing nuance but keeping the outline true. On dialectics, the standard revision account is not a simplification of the truth. It is a different doctrine, assembled by nineteenth century commentators, popularised by textbook writers who copied one another, and transmitted by generations of teachers who had themselves been taught it as a mnemonic. The candidate who revises diligently from those resources enters the examination room carrying an error that has been rehearsed more thoroughly than anything else in the script, and delivers it in the opening paragraph, where a knowledgeable marker sees it at once. This guide is built around that uncomfortable fact. It treats dialectics not as content to be summarised but as an answer to be constructed, and it constructs the answer from the components that actually earn marks: a definition stated in defensible terms, one distinction that carries the argument, two examples that satisfy a test, one located textual anchor, and an evaluation drawn from a named critic whose target has been specified.

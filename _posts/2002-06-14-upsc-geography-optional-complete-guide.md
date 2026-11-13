@@ -9,7 +9,7 @@ excerpt: "UPSC Geography optional complete guide with syllabus decode paper-wise
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-18
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "geography"

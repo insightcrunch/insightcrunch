@@ -9,7 +9,7 @@ excerpt: "Crisis theory in an exam rewards the plurality opening: name the rival
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 118
 author: "rachel-foster"
-last_updated: 2014-02-15
+last_updated: 2026-11-13
 lang: en
 ---
 Crisis theory is the topic on which examination candidates lose marks in the most preventable way in the whole Marxist syllabus. The standard revision resources present one mechanism, the falling rate of profit, as though it were Marx's theory of crisis, complete and settled. A candidate who trusts those resources walks into the examination with an answer that is incomplete before the first paragraph ends, because the scholarship recognises several rival accounts inside Marx's own writings and several more built from them by later hands. The answer is also misleading in a second direction, since it attributes to Marx a finished doctrine he never assembled. Markers who know the field see both faults at once. This guide repairs the damage at its root, by teaching the one opening move that converts recall into analysis, and then by working through each family of explanation with the mechanism, the evidence, the objection, and the traps a candidate needs in order to score at the level the material deserves.

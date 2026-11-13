@@ -5,11 +5,11 @@ page_title: "Fred and George vs Draco Malfoy: Humour, Cruelty, and the Politics 
 date: 2013-10-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred and George Weasley", "Draco Malfoy", "Character Comparison"]
-excerpt: "Fred and George vs Draco Malfoy in Harry Potter: how the twins weaponise humour and Draco weaponises cruelty, and what each clever performance serves."
+excerpt: "Three clever boys in Harry Potter, two using their wit to lift others and one using it to wound. Same gift, opposite ends."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 42
 author: "victoria-stone"
-last_updated: 2013-10-18
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: The Question Cleverness Cannot Answer for Itself

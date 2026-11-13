@@ -9,7 +9,7 @@ excerpt: "UPSC Mains PYQ analysis paper-wise trend mapping for GS1 GS2 GS3 GS4 w
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-16
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "preparation"

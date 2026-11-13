@@ -9,7 +9,7 @@ excerpt: "Contradiction in Marxist method is a precise technical term, not a syn
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 102
 author: "rachel-foster"
-last_updated: 2012-08-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few words in the Marxist vocabulary earn their keep as unevenly as contradiction. In one paragraph it names the engine of historical change, the deep structure that explains why a stable looking order carries the seeds of its own transformation. In the next it names something far more modest, a difficulty, a friction, a policy that pulls against itself, a trend that cannot continue indefinitely. A reader meeting the word for the first time is usually handed a gloss that covers both uses and distinguishes neither: contradictions, the gloss runs, are opposing forces whose struggle drives development. That sentence is not false, exactly, but it is empty in a specific and damaging way. Opposing forces exist everywhere, in weather systems and football matches and committee meetings, and a definition that fits everything a word might mean tells the reader nothing about what the word excludes. Worse, the gloss invites the sharpest objection the concept faces. If two tendencies push in opposite directions, why call that a contradiction at all? A contradiction, in the only rigorous sense most readers know, is a statement that cannot be true, the assertion of a proposition together with its negation. Two tendencies in a labour market assert nothing. They simply pull. So the suspicion forms early and never quite leaves: that contradiction in Marxist writing is a metaphor wearing the uniform of a logical term, borrowing an air of rigour and profundity that its content has not earned.

@@ -9,7 +9,7 @@ excerpt: "The rate of profit tends to fall as the composition of capital rises, 
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 114
 author: "chloe-martin"
-last_updated: 2013-10-15
+last_updated: 2026-11-13
 lang: en
 ---
 Few propositions in political economy carry as much weight, or attract as much argument, as Marx's claim that the rate of profit has a built in tendency to fall. Supporters treat the claim as the deepest insight in his economics, the point where the system's own success turns against its measure of success. Detractors treat the same claim as the weakest plank in the structure, an assertion dressed as a derivation. Between those poles sits a text that is stranger than either camp usually admits: a law stated together with the forces that work against it, in chapters assembled after its author's death by an editor working from an unfinished manuscript. A reader who wants to judge the argument has to hold all three elements at once, the mechanism, the counterweights, and the editorial history, because each one changes what the others can honestly be said to mean.

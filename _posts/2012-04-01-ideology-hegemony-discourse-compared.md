@@ -9,7 +9,7 @@ excerpt: "Hegemony, ideology and discourse are three different instruments, not 
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 99
 author: "rachel-foster"
-last_updated: 2012-04-01
+last_updated: 2026-11-13
 lang: en
 ---
 Ideology, hegemony, and discourse are the three words a reader of political theory is most likely to meet used as though they were interchangeable, and the habit costs more than elegance. A seminar essay announces that a newspaper exercises hegemony through its ideology, which a second essay redescribes as the newspaper's discourse, and both essays proceed as if nothing had changed between the sentences. Something has changed, and it is not a nuance of vocabulary. Each of the three concepts was built inside a different theory of how societies hold together, each presupposes a different answer to the question of what lies behind a representation, and each entitles its user to make a different kind of claim at the end of the analysis. To swap one for another mid argument is to change the theory while keeping the tone, rather as if a surveyor exchanged a theodolite for a barometer because both are instruments with dials. This article separates the three, reconstructs each from its strongest statement, and then compares them on a single stated criterion: what each concept commits its user to, and what each permits its user to say.

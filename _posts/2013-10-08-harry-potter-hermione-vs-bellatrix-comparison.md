@@ -5,11 +5,11 @@ page_title: "Hermione Granger vs Bellatrix Lestrange: Brilliance in Light and Da
 date: 2013-10-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Bellatrix Lestrange", "Character Comparison"]
-excerpt: "Hermione vs Bellatrix in Harry Potter: two witches of equal brilliance and devotion whose opposite allegiances prove that talent is a morally neutral resource."
+excerpt: "Two of the cleverest witches in Harry Potter, defined by what they devote their intelligence to."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 41
 author: "claire-bennett"
-last_updated: 2013-10-08
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: Why Two Brilliant Witches Belong in the Same Frame

@@ -9,7 +9,7 @@ excerpt: "UPSC Mains exam day strategy with day-wise paper-by-paper approach pos
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 65
 author: "anita-das"
-last_updated: 2026-04-18
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "examination"

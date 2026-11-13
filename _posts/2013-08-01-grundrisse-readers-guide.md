@@ -9,7 +9,7 @@ excerpt: "The Grundrisse is the private laboratory behind Capital: seven noteboo
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 112
 author: "rachel-foster"
-last_updated: 2013-08-01
+last_updated: 2026-11-13
 lang: en
 ---
 The Grundrisse is the strangest major text in the Marxist canon, because it is a major text that its author never made into one. Spread across seven notebooks written in the winter of 1857 and the spring of 1858, running to several hundred densely covered pages, it is the record of Karl Marx thinking his way through the whole of political economy at speed, for an audience of one. He was not composing a book. He was clearing his own ground, testing formulations, arguing with the economists he had spent a decade reading, and drafting the architecture of a critique he had promised publishers, in one form or another, for years. The notebooks were put away when the immediate project changed shape, and they stayed unpublished for the rest of his life and for more than half a century after his death. When they finally appeared, first in Moscow around 1939 and then, after a wartime silence, in a Berlin edition in the middle of the 1950s, they altered the terms on which Marx himself was read. In English, in the translation by Martin Nicolaus published in the early 1970s, they altered those terms again, and more widely.

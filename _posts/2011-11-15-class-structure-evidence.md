@@ -9,7 +9,7 @@ excerpt: "Class structure has been measured on Marxist criteria in large surveys
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 95
 author: "chloe-martin"
-last_updated: 2011-11-15
+last_updated: 2026-11-13
 lang: en
 ---
 Ask how large the working class is within the class structure of a developed economy and the answers arrive with confidence and without agreement. One source reports a working class that forms a shrinking minority, overtaken by a broad middle. Another reports a working class that remains the large majority of everyone who works for a living. A third declines to use the phrase at all and offers instead a ladder of occupational groups, numbered from the top, in which no boundary is drawn where a Marxist would draw one. The disagreement is usually treated as a dispute about society, as though one side must have miscounted the population. The argument of this article is that the disagreement is principally about measurement, and that once the measurement decisions are made visible, most of the mystery dissolves. Class has been measured, seriously and at scale, on explicitly Marxist criteria, in comparative surveys that asked respondents about ownership, about authority over others at work, and about credentials. What those surveys found is instructive twice over. They found class structures that differed between countries at similar levels of development, which no theory of a uniform modern occupational order would predict. And they demonstrated, in their own internal variations, that the measured size of a class depends more on how a schema treats authority and credentials than on anything respondents actually reported. That second finding deserves a name, and this article gives it one: the asset-inclusion rule.

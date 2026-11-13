@@ -9,7 +9,7 @@ excerpt: "UPSC Mains visual element strategy: which questions benefit from diagr
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2026-04-15
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "visual"

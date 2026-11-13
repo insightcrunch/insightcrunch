@@ -9,7 +9,7 @@ excerpt: "UPSC Mains answer writing strategy: 150-word and 200-word format word-
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 65
 author: "kavita-sharma"
-last_updated: 2026-04-15
+last_updated: 2026-11-13
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "format"

@@ -9,7 +9,7 @@ excerpt: "Anarchism and Marxism aim at the same stateless end and split on the r
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 108
 author: "chloe-martin"
-last_updated: 2013-03-01
+last_updated: 2026-11-13
 lang: en
 ---
 Few quarrels in political thought are as durable, or as badly reported, as the quarrel between Marxism and anarchism over the state. The standard summary treats the two traditions as opposites in aim: one side supposedly in love with state power, the other in love with freedom. That summary fails at the first document either tradition produced about its destination. Both traditions name the same destination, a classless and stateless society in which coercive government has been replaced by the free association of producers. They have never disagreed about where they want to arrive. They disagree, with a bitterness that has lasted a century and a half, about the road: about whether a revolutionary movement must pass through a transitional state of its own, or whether building any such state guarantees that the destination will never be reached. Anarchism is named in the opening line of this article because the argument begins there, with the uncomfortable fact that the anarchist side of the dispute made a specific prediction about the Marxist road, wrote it down in 1873, and lived to have it tested.

@@ -5,11 +5,11 @@ page_title: "Ginny vs Cho: Two Loves, Two Paths, and What Harry Potter Argues Ab
 date: 2013-10-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ginny Weasley", "Cho Chang", "Character Comparison"]
-excerpt: "Ginny vs Cho in Harry Potter compared across grief, empathy, athletic identity, and the uneven sympathy Rowling gives the girl who turns trauma to wit."
+excerpt: "Two of Harry's loves, two stages of growing up, and what Rowling thinks makes a relationship survive a war."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 42
 author: "claire-bennett"
-last_updated: 2013-10-30
+last_updated: 2026-11-13
 lang: en
 ---
 ## Introduction: Two Loves, Two Paths
