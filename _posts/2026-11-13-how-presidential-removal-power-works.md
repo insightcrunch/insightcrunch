@@ -6,19 +6,19 @@ date: 2026-11-13
 categories: ["Industry"]
 tags: ["law-and-courts", "supreme-court", "constitutional-law", "presidential-removal", "independent-agencies", "separation-of-powers"]
 excerpt: "Presidential removal power decides who controls federal agencies: the silent text, the first Congress, the great cases and the surviving limits explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-11-13
+lang: en
 ---
-
 ## The Answer Begins With a Silence in the Text
 
 A President may dismiss purely executive officers at will, without proving misconduct and without obtaining permission from any other institution. Congress may not reserve removal to itself, whether by requiring its own consent or by vesting dismissal in an officer answerable only to Congress. A statutory for-cause protection for an officer who wields executive power was held unconstitutional in Trump v. Slaughter, decided June 29, 2026, because a condition that allows dismissal only for stated grounds withdraws the control that Article II places in the President over the execution of federal law.
 
 Removal power is the mechanism that decides whether a federal agency answers to an elected President or to the Congress that created it, and American law has answered by asking what kind of power the officer wields rather than what the office is called. An officer who enforces statutes, brings cases in the name of the United States, issues binding rules, or directs the spending of appropriated funds exercises executive power in substance. Tenure protection for such an officer transfers practical control away from the President even when formal appointment remains in presidential hands, because direction without dismissal is advice rather than command.
 
-![A Columns Facade and the Question of Who May Dismiss a Federal Officer - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Columns Facade and the Question of Who May Dismiss a Federal Officer - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Congress retains wide authority at the creation stage. Congress establishes offices by statute, defines their duties, fixes their jurisdiction, sets qualifications, appropriates their funds, and may abolish an office altogether through legislation presented to the President. None of those powers answers the separate question of tenure after appointment. A statute that creates an office and then insulates its holder from presidential dismissal does two different things, and courts have judged the second act under Article II rather than under the power to create the office in the first place.
 
