@@ -955,6 +955,29 @@ accord-mark-recognis | nightjar-seal-that-wasnt-011 | What is the Accord mark an
 accord-carry-number-room-seal | nightjar-seal-that-wasnt-011 | Why do Accord seals carry room numbers?
 chain-customer-happen-taken | nightjar-seal-that-wasnt-011 | What happens to the customers of a chain that is taken?
 
+
+### nightjar-slow-fade-012
+administer-arbitration-busines-melora-reading-room | nightjar-slow-fade-012 | How does Melora administer its reading rooms for arbitration business?
+assigned-duty-field-govern-limit-medical-weigher | nightjar-slow-fade-012 | What medical limits govern a Weigher assigned to field duties?
+acces-accord-building-claim-court-inside-member-officer | nightjar-slow-fade-012 | What access may Accord officers claim inside a member court building?
+audited-court-key-maintained-melora-register | nightjar-slow-fade-012 | How is the key register for the Melora courts maintained and audited?
+evidence-hearing-partial-reache-read-signify-weight | nightjar-slow-fade-012 | What does a partial read signify when weight evidence reaches a hearing?
+attendance-compile-court-daily-list-melora-their-usher | nightjar-slow-fade-012 | How do court ushers compile their daily attendance lists in Melora?
+annex-corridor-keep-log-observation-reading-room | nightjar-slow-fade-012 | Who keeps the observation logs for the annex corridors and reading rooms?
+annex-apart-court-function-hall-hearing-main-serve | nightjar-slow-fade-012 | What functions does the courts annex serve apart from the main hearing halls?
+arbitration-awaiting-custody-decision-handled-melora-person | nightjar-slow-fade-012 | How is custody of persons awaiting arbitration decisions handled in Melora?
+event-fade-lately-no-occurred-room-weight | nightjar-slow-fade-012 | Why does weight fade from a room where no event has lately occurred?
+after-close-incident-inside-procedure-reading-room-sealing | nightjar-slow-fade-012 | What sealing procedure closes a reading room after an incident inside?
+arbitration-busines-conclude-court-ninth-session-twenty | nightjar-slow-fade-012 | What business did the Twenty Ninth Session of the arbitration courts conclude?
+annex-during-duty-evening-fall-faun-grist-sitting-usher | nightjar-slow-fade-012 | Which duties fall to Usher Faun Grist during evening sittings in the annex?
+addi-before-clerk-court-death-his-melora-perform-vale-work | nightjar-slow-fade-012 | What work did Clerk Addis Vale perform for the Melora courts before his death?
+corridor-entering-hall-public-reach-reading-room-service-staff-through-without | nightjar-slow-fade-012 | How may staff reach the reading rooms through the service corridor without entering public halls?
+arbitration-court-indexed-permanent-record-stored | nightjar-slow-fade-012 | Where are the permanent records of the arbitration courts stored and indexed?
+during-formal-measurement-record-spread-strength-weigher-weight | nightjar-slow-fade-012 | How do Weighers record the strength and spread of weight during a formal measurement?
+court-custody-evidence-held-member-ninth-office-transferred | nightjar-slow-fade-012 | How is evidence held by a member court transferred into Ninth Office custody?
+absence-as-document-oversight-purpose-register-serve | nightjar-slow-fade-012 | What purpose does the register of absences serve as an oversight document?
+after-annex-check-each-end-night-round-sitting-watch | nightjar-slow-fade-012 | What does the night watch check on each round of the annex after sittings end?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
