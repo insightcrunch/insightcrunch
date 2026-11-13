@@ -1262,3 +1262,27 @@ busines-company-development-if-loan-not-they-trade-valu | how-business-developme
 busines-compani-development-happen-recession | how-business-development-companies-work | What happens to business development companies in a recession?
 busines-compani-development-merge | how-business-development-companies-work | Why do business development companies merge?
 busines-company-development-tax | how-business-development-companies-work | How is a business development company taxed?
+
+## law-removal-power
+
+### how-presidential-removal-power-works
+law-power-presidential-removal-state-united | how-presidential-removal-power-works | What is presidential removal power in United States law?
+constitution-federal-mention-officer-removing | how-presidential-removal-power-works | Where does the Constitution mention removing federal officers?
+1789-decision | how-presidential-removal-power-works | What was the Decision of 1789 about?
+decide-myers-state-united-v | how-presidential-removal-power-works | What did Myers v. United States decide?
+decide-executor-humphrey-state-united-v | how-presidential-removal-power-works | What did Humphrey's Executor v. United States decide?
+duty-inefficiency-malfeasance-mean-neglect-office-removal-statute-word | how-presidential-removal-power-works | What do the words inefficiency, neglect of duty, or malfeasance in office mean in a removal statute?
+him-humphrey-president-remove-roosevelt-william | how-presidential-removal-power-works | Who was William Humphrey and why did President Roosevelt remove him?
+between-difference-inferior-law-officer-principal-removal | how-presidential-removal-power-works | What is the difference between a principal officer and an inferior officer in removal law?
+counsel-decide-independent-morrison-olson-v | how-presidential-removal-power-works | What did Morrison v. Olson decide about independent counsel?
+case-court-down-enterprise-free-fund-layer-protection-removal-strike-supreme-two | how-presidential-removal-power-works | Why did the Supreme Court strike down two layers of removal protection in the Free Enterprise Fund case?
+bureau-consumer-decide-financial-law-protection-seila-v | how-presidential-removal-power-works | What did Seila Law v. Consumer Financial Protection Bureau decide?
+collins-decide-v-yellen | how-presidential-removal-power-works | What did Collins v. Yellen decide?
+decide-slaughter-trump-v | how-presidential-removal-power-works | What did Trump v. Slaughter decide?
+cook-differently-federal-reserve-treated-trump-v | how-presidential-removal-power-works | Why was the Federal Reserve treated differently in Trump v. Cook?
+congress-executive-officer-own-remove-vote | how-presidential-removal-power-works | Can Congress remove an executive officer by its own vote?
+action-agency-from-happen-officer-protected-removal-taken-unlawfully-while | how-presidential-removal-power-works | What happens to agency actions taken while an officer was unlawfully protected from removal?
+federal-judge-president-remove | how-presidential-removal-power-works | Can the President remove a federal judge?
+executive-theory-unitary | how-presidential-removal-power-works | What is the unitary executive theory?
+commissioned-for-military-officer-removal-work | how-presidential-removal-power-works | How does removal work for commissioned military officers?
+agencies-decisions-improve-independent-protection-removal-say-supporters | how-presidential-removal-power-works | Why do supporters of independent agencies say removal protection improves decisions?

@@ -207,3 +207,7 @@
 ## literature-nightjar
 - _posts/2026-11-01-nightjar-edge-of-nothing-002.md - could carry: "The line she had walked on a floor in the annex, where weight stopped and started, was crossed again in a reading room in the same building, where the edge of an absence was found to be moving, slowly, the way nothing else in her experience moved."
 - _posts/2026-11-11-nightjar-seal-that-wasnt-011.md - could carry: "The doors whose perfect seals had nothing behind them were entered in the register beside a room in Melora that was half empty, and the register, for the first time, recorded an absence that did not hold still."
+
+## how-presidential-removal-power-works
+- _posts/2026-11-08-how-supreme-court-overrules-precedent.md — could carry: "The overruling machinery described in that account was the instrument used when the Court set aside Humphrey's Executor, the removal precedent whose rise and fall is traced in the history of presidential removal power."
+- _posts/2014-01-15-financial-regulation-court-cases.md — could carry: "The removal strand of that litigation history runs from the audit board to the consumer bureau, and its full doctrinal line is set out in the account of how presidential removal power works."
