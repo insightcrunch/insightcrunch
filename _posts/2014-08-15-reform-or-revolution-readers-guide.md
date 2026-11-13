@@ -6,14 +6,15 @@ date: 2014-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rosa Luxemburg", "Reform or Revolution", "Bernstein", "Political Theory"]
 excerpt: "Reform or Revolution is Luxemburg's answer to Bernstein: the means and goal distinction, trade unions and the claim and counter-claim table laid out in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 122
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-08-15
+lang: en
 ---
 Reform or Revolution is the shortest major text in the Marxist canon and the one most persistently described as saying the opposite of what it says. Rosa Luxemburg wrote it in 1898 and 1899 as a reply to Eduard Bernstein, the German social democrat who had argued that capitalism was changing in ways that made the revolutionary goal unnecessary. The pamphlet that resulted is quoted in lecture halls, pamphlets of rival movements, and examination answers as the classic defence of revolution against reform, a blunt refusal of gradual improvement in favour of the dramatic break. Read the actual pages and a different book appears: a defence of the daily struggle for reforms, written by a woman who spent her career fighting for them inside a party built on reform campaigns, aimed not at reformers but at a theory that had quietly deleted the purpose those campaigns were supposed to serve. The distance between the citation and the text is the subject of this guide.
 
-![Reform or Revolution, Luxemburg's pamphlet against Bernstein, means and goal held together - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reform or Revolution, Luxemburg's pamphlet against Bernstein, means and goal held together - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 A reader's guide earns its keep by slowing the encounter down. This pamphlet is short enough to finish in two evenings, and its brevity is a trap, because nearly every paragraph compresses an argument that assumes knowledge of a debate conducted in German party newspapers during the eighteen nineties. Luxemburg writes as an insider correcting insiders. She names few names beyond Bernstein himself, she takes the shared vocabulary of the Erfurt Programme for granted, and she treats statistical disputes about joint stock companies and small workshops as matters her first audience could follow from the journals on their own tables. The modern reader, arriving a century later with none of that furniture in the room, needs the furniture restored before the argument can be heard at its proper volume. What follows does that restoration in a deliberate order: the opponent stated at full strength first, the concessions registered honestly, the central distinction drawn out until it can be applied without help, and only then the chapters followed one by one, the evidence weighed, and the pamphlet's afterlife in careless quotation examined.
 

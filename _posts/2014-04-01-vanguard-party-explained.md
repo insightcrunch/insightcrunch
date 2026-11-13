@@ -6,14 +6,15 @@ date: 2014-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Vanguard Party", "Lenin", "Political Theory", "Organisation"]
 excerpt: "The vanguard party is Lenin's most argued-over invention: professional revolutionaries, consciousness from outside and the conditions clause written into it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 119
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-04-01
+lang: en
 ---
 Few terms in the vocabulary of Marxism carry a heavier charge than vanguard party, and few are used with less precision. The phrase is deployed as praise and as accusation, as the name of a solution and as the name of a catastrophe, often by speakers who would give different definitions if pressed. A glossary entry usually makes matters worse, because it defines the term as though it named a settled doctrine with fixed contents, when the historical reality is a phrase assembled gradually from an adjective, a polemic, an organisational emergency, and a congress decision taken fourteen years after the polemic. Restoring the term to the argument that produced it changes what it can honestly be said to mean, and that restoration is the work of this guide.
 
-![The vanguard party explained, professional revolutionaries and consciousness brought from outside - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The vanguard party explained, professional revolutionaries and consciousness brought from outside - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The method is the one this series applies to every contested term: separate the words from the legend, date each layer of the construction, and hold the justification its author actually gave against the uses later made of it. Applied here, the method yields four corrections that between them dismantle the standard picture. The idea of an advanced detachment has a root in Marx, not a birthplace in Lenin. Lenin's own usage was adjectival, describing a party as the vanguard of a class, and the solid noun naming a species of party is largely later codification. His justification for the model was explicitly conditional, tied to illegality under an autocracy. And its conversion into a universal requirement was accomplished by a specific decision in 1920, not by the force of the original argument. Each correction matters because each changes where argument should be aimed: at a text, at a set of conditions, or at a congress.
 

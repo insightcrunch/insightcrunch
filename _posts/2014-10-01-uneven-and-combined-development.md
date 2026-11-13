@@ -6,14 +6,15 @@ date: 2014-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Uneven Development", "Trotsky", "Political Theory", "History"]
 excerpt: "Uneven and combined development is Trotsky's most borrowed concept: backwardness and combination, the privilege of history and the combination table in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 124
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2014-10-01
+lang: en
 ---
 Uneven and combined development is the Marxist concept most often summarised wrongly, because the summary almost always stops halfway. Uneven development, the claim that societies move at different speeds and reach different levels, is a commonplace that no serious historian disputes and no reader needs Trotsky to learn. The concept earns its name, its literature and its long academic afterlife from the second word. Combined development holds that a society entering the modern world late does not repeat the sequence travelled by the pioneers. Pressed by rivals already armed with railways, steel mills, modern navies and central banks, the latecomer takes over the finished products of other histories wholesale, plants them inside social relations that are centuries older, and produces something that is neither a copy of the advanced society nor an earlier stage of it. The result is an amalgam: the most modern factory in Europe ringed by peasant communes, a central bank beside a subsistence village economy, a conscript army officered by a landed caste. That amalgam, and the distinctive instabilities it generates, is the whole subject of this article.
 
-![Uneven and combined development, backwardness, borrowed forms and the privilege of history - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Uneven and combined development, backwardness, borrowed forms and the privilege of history - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The governing claim can be stated at the outset, because everything that follows either expounds it or tests it. The combination is the concept. Unevenness alone explains nothing that a school atlas does not already show, since maps have always displayed rich and poor neighbours side by side. What Trotsky added, in the opening chapter of his history of the Russian revolution, was a mechanism: external necessity forces backward societies to borrow, borrowing skips stages rather than repeating them, and skipped stages do not vanish but fuse with what was already there, so that archaic and advanced forms coexist inside a single social formation and grind against each other. A reader who grasps that mechanism possesses a tool for reading Russian factories, Meiji shipyards, Ottoman debt offices and a shelf of international relations theory. A reader who stops at unevenness possesses a truism. This article therefore spends its length where the concept does its work: on combination, on the privilege of historic backwardness that makes combination possible, on the cases that display it, on the rivals that contest it, and on the second career the idea has enjoyed in a discipline far from its birthplace.
 

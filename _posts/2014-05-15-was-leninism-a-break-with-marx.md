@@ -6,16 +6,17 @@ date: 2014-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Leninism", "Lenin", "Karl Marx", "Political Theory"]
 excerpt: "Leninism either continued Marx or broke with him, and the four positions map locates the break, if there was one, in practice rather than in the texts alone."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 120
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-05-15
+lang: en
 ---
 Leninism is the name given to a body of theory and a style of organisation associated with Vladimir Lenin, and few questions in the history of political ideas have been argued with more confidence and less precision than whether that body of work continued the thought of Karl Marx or broke with it. The confidence is understandable. The question carries the weight of a century: revolutions were made under the banner of continuity, and crimes were excused or condemned under the banner of betrayal. The imprecision is less excusable, because the disputants frequently argue past one another. One side produces a pamphlet and demands to know where Marx ever wrote such a thing. The other side produces a prison, a dispersed parliament, a banned faction, and demands to know where Marx ever licensed such a deed. Both exhibits are real. They are simply exhibits in different cases, and a reader who cannot tell the cases apart will be persuaded by whichever advocate speaks last.
 
 This article slows the argument down until its moving parts can be seen. It states the proposition exactly, separates the kinds of evidence the rival camps treat as decisive, and then examines that evidence in the order the camps themselves would choose: the texts first, then the method, then the dated record of decisions taken in power. Its governing claim can be named at the outset, because everything that follows is organised around testing it. Call it the practice location. The strongest case for a break between Lenin and Marx rests not on any doctrine Lenin stated in print but on a set of decisions taken between the seizure of power and the early nineteen twenties, decisions that no passage in Marx instructs and several passages in Marx appear to forbid. If that claim survives examination, then the famous question changes shape. It becomes largely a question about the years 1918 to 1921 rather than about the pamphlet of 1902 around which the textbook quarrel revolves.
 
-![Was Leninism a break with Marx, continuity and rupture across texts and practice - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Was Leninism a break with Marx, continuity and rupture across texts and practice - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 Four broad positions organise the scholarly and political argument, and a reader will meet all four in the literature, in examination questions, and in the polemics of parties that claim descent from one side or the other. The first position holds that the break was real, early, and doctrinal: Lenin substituted a theory of the party and of seizure for Marx's theory of the self-emancipation of a class. The second holds that talk of a break rests on a misunderstanding of what orthodox Marxism actually said in Lenin's formative years, and that Lenin applied, sometimes brilliantly and sometimes ruthlessly, a doctrine he had received rather than invented. A third position grants the continuity of the theory and locates any rupture later, in the governing practice adopted under the pressure of civil war. The fourth reverses the usual direction of the charge: on its telling, the decisive departure from Marx happened inside the Second International, whose leading parties had quietly domesticated a revolutionary doctrine into a creed of patient organisation, and Lenin's work was a restoration rather than an innovation. These positions disagree about many facts. More fundamentally, they disagree about which facts are allowed to settle the question, and that disagreement about evidence has to be mapped before the evidence itself can be weighed.
 

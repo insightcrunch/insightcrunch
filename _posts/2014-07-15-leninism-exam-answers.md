@@ -6,14 +6,15 @@ date: 2014-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Lenin", "Leninism", "Exam Preparation", "Political Theory"]
 excerpt: "Lenin and Leninism in an exam reward the two-discipline answer: biography and doctrine kept apart, organised by the great hinge of the revolutionary year."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 122
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2014-07-15
+lang: en
 ---
 Lenin and Leninism form the rare examination topic that sits in two schoolrooms at once, examined down one corridor as history and down another as political theory, and the candidate who prepares for only one of the two rooms walks into the other already beaten. In the history paper the subject is a man moving through events: an exile reading newspapers in Zurich library, a sealed train, a government falling twice in a single year, a new state fighting for survival. In the politics paper the same name denotes a body of doctrine: a theory of the party, a theory of imperialism, a theory of the state, each stated in texts that can be quoted, compared and judged. The examiners in the two rooms reward different things, punish different things, and read the same sentences with different eyes. A narrative that earns warm praise from a historian can look like evasion to a theorist, and a conceptual distinction that delights a theorist can strike a historian as bloodless. This guide exists because almost no revision resource admits that the two rooms exist, and so candidates keep carrying history answers into politics questions and theory answers into history questions, losing marks in both directions for a fault that has nothing to do with how much they know.
 
-![Lenin and Leninism exam guide, biography and doctrine in the two-discipline answer matrix - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lenin and Leninism exam guide, biography and doctrine in the two-discipline answer matrix - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The remedy taught throughout this guide is the two-discipline answer. The phrase names a habit rather than a trick: hold the biography and the doctrine apart as separate disciplines, each with its own evidence, its own authorities and its own characteristic errors, and then, inside a single answer, show both at work without confusing them. The biographical discipline asks what the man did, when he did it, under what pressure and with what knowledge available to him at the time. The doctrinal discipline asks what the texts claim, whether the claims cohere, how they relate to Marx, and whether later practice honoured or violated them. A strong examination answer keeps those questions visibly distinct even while it connects them, because the connection is precisely where the analytical marks live. A weak answer melts everything into a single story in which the life explains the ideas and the ideas excuse the life, and markers in both disciplines have been trained to spot that melt and to cap the band it can reach.
 

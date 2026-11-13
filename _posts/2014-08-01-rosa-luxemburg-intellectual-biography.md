@@ -6,14 +6,15 @@ date: 2014-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Rosa Luxemburg", "Biography", "Revolution", "History"]
 excerpt: "Rosa Luxemburg is claimed by four traditions at once: social democracy, communism, feminism and the green movements, and the unheld combination they divide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 122
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-08-01
+lang: en
 ---
 Rosa Luxemburg presents a problem that no other major Marxist thinker presents in quite the same form. Four traditions claim her, and they claim her with documents in hand. Social democrats quote her prison manuscript against the Bolshevik suppression of political freedom. Communists point to the party she co-founded in the last fortnight of her life and to the manner of her death at the hands of counter-revolutionary troops. Feminists recover a woman who conquered the most masculine intellectual world in Europe on its own terms and left thousands of pages of correspondence that no male contemporary matched for range. Green movements take up her account of a capitalism that must perpetually consume what lies outside itself. Each claim rests on real texts and real episodes. Each is also partial, and the partiality is not accidental. What none of the claimants holds is the combination she herself held, all of it, at once, for most of her adult life.
 
-![Rosa Luxemburg, an intellectual biography, spontaneity, accumulation and four claiming traditions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rosa Luxemburg, an intellectual biography, spontaneity, accumulation and four claiming traditions - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 That combination deserves a name, because naming it is what converts a familiar quarrel over her memory into an intelligible fact about her thought. Call it the unheld combination. She was revolutionary against reformism at a time when her own party was quietly becoming reformist in practice while keeping revolutionary language for festivals. She was democratic against Bolshevik practice at the very moment when she was defending the Bolshevik seizure of power against its social democratic critics, and she wrote the criticism from prison as a supporter, not as an opponent looking for an exit. She was an organiser against every version of spontaneism, a builder and leader of parties across two countries, although posterity persistently remembers her as the theorist of the unled crowd. And she was opposed to national self-determination against almost the whole of her movement, including Lenin, on a point where her position has been vindicated by almost nobody and abandoned even by most of her admirers. Hold all four positions together and you have Luxemburg. Drop any one of them and you have one of her claimants, quoting accurately and representing falsely.
 

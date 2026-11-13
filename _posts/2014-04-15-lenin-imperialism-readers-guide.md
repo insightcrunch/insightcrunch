@@ -6,14 +6,15 @@ date: 2014-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Imperialism", "Lenin", "Political Economy", "History"]
 excerpt: "Imperialism in Lenin's guide is a censor-era text with five features: monopoly, finance capital, capital export and the censor's text behind them all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 118
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-04-15
+lang: en
 ---
 Imperialism is the word this pamphlet made unavoidable, and the pamphlet itself is short enough to be read in an evening and consequential enough to have organised a century of argument. Vladimir Lenin wrote it in Zurich in the first half of 1916, in the middle of a world war, as a popular outline of the economics of the stage of capitalism he held responsible for the war. It appeared in Petrograd in 1917, after the fall of the tsar removed the censorship it had been written to evade, and it went on to become the most widely read Marxist text on the subject it named. Almost every later theory of empire, dependency, or global hierarchy either builds on its five features or defines itself against them. Yet the pamphlet is usually encountered as a list, five features memorised for examinations and quoted in polemics, and a list is the one thing its author warned readers not to settle for.
 
-![Lenin on imperialism, the five features, monopoly and finance capital in a censor-era pamphlet - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lenin on imperialism, the five features, monopoly and finance capital in a censor-era pamphlet - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This guide reads the pamphlet whole and then takes it apart. It treats the five features one at a time, asking of each what Lenin claimed, what evidence he actually used, and how the claim has fared under a century of scrutiny, because the features do not stand or fall together. It gives sustained attention to three things that summaries habitually omit. The first is the pamphlet's dependence on other men's research, above all on a liberal English economist whose reformist conclusions Lenin rejected while absorbing his evidence. The second is the condition under which the text was composed, the censorship problem this guide calls the censor's text, which muted the pamphlet's political conclusions at exactly the points where later readers most want it to speak plainly. The third is the dispute the pamphlet was written to win, the argument against the thesis that the great powers might peacefully combine, which has to be stated at full strength because the decades since have given it more support than Lenin's contempt allowed.
 

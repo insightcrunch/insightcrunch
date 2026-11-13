@@ -6,14 +6,15 @@ date: 2014-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Lenin", "Biography", "Revolution", "History"]
 excerpt: "Lenin turned Marxism into a strategy for winning and holding power: the contribution and consequence table, and the April reversal at its hinge point."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 118
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-03-01
+lang: en
 ---
 Lenin is the only major Marxist thinker who also governed, and that single fact bends every attempt to write his life. The biographer of Marx can follow a mind through libraries and manuscripts, because the man's power was posthumous and textual. The biographer of Vladimir Ilyich Ulyanov follows a mind that issued decrees, founded a security police, dispersed an elected assembly and left instructions about his own succession which his successors chose to bury. A serious profile therefore has to keep two accounts open at once. One account holds the ideas: a small number of theoretical contributions, each identifiable, each argued in identifiable texts, each still fought over by scholars who owe the regime nothing. The other account holds the record of the government he led between the autumn of the revolution and his death, a record that includes repression as a deliberate instrument and must be stated in the biography itself, not managed, softened or deferred to some later act of judgement. This profile keeps the two accounts in separate ledgers, as the evidence requires, and it refuses the two standard shortcuts: the chronicle that lists residences and pamphlets without ever saying what the thinking amounted to, and the verdict, favourable or hostile, that decides the case before the life has been allowed to happen.
 
-![Lenin, an intellectual biography, factional war, exile writings and the April reversal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lenin, an intellectual biography, factional war, exile writings and the April reversal - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The organising device of what follows is borrowed from the method this series applied to Marx himself: judge a thinker first by the contributions he claimed, or that his tradition claimed for him, and then assess each contribution on its merits, separately from the fate of the others. Lenin's case yields five such contributions. He built a theory of how a revolutionary party could be organised under conditions of illegality. He produced an analysis of imperialism as a distinct stage of capitalism. He recovered, from Marx's scattered writings on the Paris Commune and the state, a doctrine of smashing the bureaucratic machinery rather than inheriting it. He developed a way of judging when a political situation had become revolutionary, a conjunctural instrument rather than a prophecy. And he worked out a strategy for revolution in a country where the peasantry, not the industrial working class, formed the overwhelming majority. Around these five, the biography arranges one decisive reversal. In the spring of the revolution year, returning from exile to a capital in upheaval, he publicly abandoned the stage doctrine his own party had carried into the crisis, overruled his own leadership, and set the course that ended in October. That reversal, the April reversal, is the hinge of the life, because everything distinctive about the man, the contempt for inherited formulas, the speed of tactical judgement, the willingness to isolate himself inside his own organisation, stands concentrated in those few weeks.
 

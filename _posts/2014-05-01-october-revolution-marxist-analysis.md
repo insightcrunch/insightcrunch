@@ -6,14 +6,15 @@ date: 2014-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "October Revolution", "Lenin", "History", "Revolution"]
 excerpt: "The October Revolution turns on two questions too often fused: was it a coup, and was it a revolution? The ledger keeps the two questions strictly separate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 118
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2014-05-01
+lang: en
 ---
 The October Revolution is one of those rare events that cannot even be named without taking a side. Call it a revolution and you have already granted it a social depth, a mass of people in motion, a transformation that reached beyond the rooms where orders were signed. Call it a coup and you have already reduced it to a technique, a handful of determined men seizing the levers of a state whose guards had gone home. Both words are used by serious historians, about the same night, the same city, the same telegrams. The disagreement is not mainly about what happened between the evening of 25 October 1917 by the old calendar and the morning that followed. The chronology of those hours is tolerably well established. The disagreement is about what kind of thing the happening was, and that question cannot be answered until it has been divided into the two questions it secretly contains.
 
-![The October Revolution, soviets, the insurrection and the coup or revolution question - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The October Revolution, soviets, the insurrection and the coup or revolution question - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 Before the division is made, one set of facts deserves to stand in the open, because a reading of October that hides them has failed before it begins. Within weeks of the seizure of power, elections were held across Russia for a Constituent Assembly, the body that most political camps had treated for months as the legitimate arbiter of the country's future. The Socialist Revolutionaries emerged as the largest party in those elections and the Bolsheviks came second, strong in the great cities, the industrial districts and the armed forces, weak across the peasant countryside that held most of the population. When the assembly finally met in January 1918, it sat for a single session and was then dispersed by armed force, never to meet again. Any account of the October Revolution that cannot look directly at that sequence is not an account but a commemoration or an indictment. This reading looks at it directly, places it in the ledger where it belongs, and refuses to let either the seizure's undoubted popular roots or the assembly's undoubted dispersal be argued away.
 

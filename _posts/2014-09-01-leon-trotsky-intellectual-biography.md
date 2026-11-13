@@ -6,14 +6,15 @@ date: 2014-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Trotsky", "Biography", "Revolution", "History"]
 excerpt: "Trotsky is judged by a contribution and a record that pull apart: permanent revolution, the Red Army he built, exile and the counterfactual constraint."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 123
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2014-09-01
+lang: en
 ---
 Leon Trotsky presents biography with a problem that few political lives pose so sharply. The same man wrote one of the great histories of revolution in any language and commanded an army through a civil war of extraordinary brutality. He produced the most penetrating Marxist analysis of fascism while Hitler was still dismissible as a clown, and he had earlier proposed turning the trade unions into departments of the state and subjecting labour to military discipline. He was the most gifted polemicist of his generation, the organiser of the October insurrection, the founder of the Red Army, the leader of the first organised opposition to the bureaucracy that consumed the revolution, and a deportee murdered in a Mexico City suburb with an ice axe. Any honest profile must hold the contribution and the record in a single frame, because separating them is how both the worship and the demonology begin.
 
-![Leon Trotsky, an intellectual biography, the Red Army, exile and the writings of opposition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Leon Trotsky, an intellectual biography, the Red Army, exile and the writings of opposition - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The discipline this profile applies has a name, and naming it early makes the whole argument checkable. The counterfactual constraint holds that judgements about what Trotsky would have done in power must be disciplined by evidence about what he actually did when he held power, between 1918 and 1921 above all. Every assessment of the man eventually arrives at the same fork. One road treats his exile writings as the programme of a democratic alternative strangled by Stalin, and reads his defeat as the revolution's lost chance. The other treats the exile as the exile he had earned, and reads the later terror as the unfolding of methods he himself had pioneered and defended. Both roads, travelled without the constraint, degenerate into speculation wearing the clothes of history. The constraint does not settle the question of what his leadership would have produced. It settles what kind of evidence a serious answer is allowed to use, and it disqualifies the two cheapest answers at once: the saint who would have spared everyone, and the monster whose later victims can be debited to his account without remainder.
 

@@ -6,15 +6,15 @@ date: 2014-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Leninism", "Critique", "Lenin", "Political Theory"]
 excerpt: "Leninism faces a charge ledger built over a century: substitution, the vanguard's logic and terror, graded by the chronology test entry by careful entry."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 121
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2014-06-15
+lang: en
 ---
-
 Every serious argument about Leninism eventually turns into an argument about dates, whether the speakers admit the fact or prefer to trade verdicts in the abstract. A charge that carries no date cannot be weighed, because the defence most often offered for the record of the early Soviet state is itself a claim about a period, about war and collapse and invasion, and a period has edges. This article is the prosecution in a series that has spent many instalments reconstructing what Lenin and his comrades thought, built and defended, and a prosecution has obligations of its own. It must state each charge at full strength, because a weakened charge proves nothing when it lands. It must enter the strongest available defence beside every charge before pressing it, because a verdict reached without hearing the other side is theatre rather than judgment. Above all it must grade honestly, marking the charges that fail, the defences that cover only part of the ground they claim, and the points where the evidence runs out and honest writers on opposed sides are left dividing over interpretation rather than fact.
 
-![The case against Leninism, substitution, the vanguard and the charges graded by chronology - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The case against Leninism, substitution, the vanguard and the charges graded by chronology - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The instrument used throughout is named early so that readers can apply it themselves to every section that follows. The chronology test asks a plain question of each entry on the charge sheet. Was the outcome in question already present in the foundational texts, was it built into the form of organisation, did it arise from the circumstances of civil war, or did it belong to the succession after the founder's death? A circumstantial defence, however powerful, can only cover decisions taken inside the circumstances it describes. Measures adopted before the civil war began cannot be explained by that war. Measures retained and hardened after the emergency had passed cannot rest on the emergency either. Measures that a founder warned against in his final writings sit differently from measures he designed. Sorting the record along that single axis does more analytical work than any amount of denunciation or apology, and it is the sorting, rather than any slogan, that gives the case against the doctrine its real force and its real limits.
 
