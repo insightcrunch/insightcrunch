@@ -6,19 +6,19 @@ date: 2026-11-14
 categories: ["Technology"]
 tags: ["cloud-computing", "distributed-systems", "cascading-failures", "cloud-outages", "reliability-engineering", "load-balancing"]
 excerpt: "Cascading failures turn one failed server into a platform-wide outage: load redistribution, retry storms, metastable states and the controls that stop them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-11-14
+lang: en
 ---
-
 ## One Failed Server Is a Rounding Error Until It Is Not
 
 Cascading failures happen in cloud systems when a small loss of capacity shifts work onto the machines that remain, slows those machines, and triggers the mechanisms meant to restore service into removing still more capacity. A cascading failure is not a chain of separate breakages but a single self-feeding condition in which a system's own survival machinery, including load balancing, health checks and retries, converts a local loss of capacity into a platform-wide loss of useful work. The loss spreads because the surviving machines inherit the same demand with fewer resources, and each protective response adds load or removes supply at the worst possible moment.
 
 A single server in a fleet of one hundred machines carries a small share of total traffic, and its failure should reduce capacity by one percent. Cloud platforms are built on that arithmetic, and redundant servers, replicated data and automatic replacement make isolated hardware failure a routine event. A disk fails, a host loses power, a rack switch drops, and traffic moves elsewhere with little visible effect. In a 2023 Uptime Institute analysis of outage causes, power problems remained a leading category, yet most single equipment failures inside a redundant facility produced no customer-facing outage at all. Redundancy works when the remaining system stays calm enough to absorb the displaced work.
 
-![Load Shifting Across a Bank of Servers After One Machine Drops Out - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Load Shifting Across a Bank of Servers After One Machine Drops Out - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The rounding error becomes a crisis when absorption itself changes the behavior of the survivors. Every request moved from a dead machine lands on a living one, raising processor use, memory pressure, network traffic and queue length. Responses slow, and slowness is not a passive symptom inside a distributed system. Slowness generates more work, because callers time out and retry, because queues hold requests longer, and because monitoring systems interpret delay as failure. The initial fault may involve one host, one availability zone or one overloaded database, but the harmful quantity is the extra pressure created after the fault.
 
