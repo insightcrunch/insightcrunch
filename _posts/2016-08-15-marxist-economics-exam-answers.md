@@ -6,16 +6,17 @@ date: 2016-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Economics", "Exam Preparation", "Political Economy", "Value Theory"]
 excerpt: "Marxist economics in an exam rewards the three-sentence transformation: state the problem, name a reconstruction, and grade it fairly, in the answer matrix."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 142
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-08-15
+lang: en
 ---
 Marxist economics is examined far more often than it is taught well, and the gap between those two facts is where marks are won and lost. What the assessment rewards on this topic is not loyalty and not hostility. It rewards accuracy about what is disputed: a candidate who can state what the first volume of Capital assumes, what the third volume shows, and precisely where the founder's own procedure gives out will outscore a candidate who has memorised a verdict, in whichever direction the verdict points. What it penalises is the overclaim. The answer that announces the labour theory of value as a doctrine of prices, or the transformation problem as either settled or fatal, tells the marker within two sentences that its author has read one source and believed it entire. Everything in this guide follows from that asymmetry. The topic is a discriminator not because it is obscure but because it is contested in print, by named economists, along lines a prepared candidate can reproduce exactly.
 
 The single highest-return habit available to you is the plurality opening. Marxist economics is not one position but a research programme containing rival schools, united by the analysis of capitalism as a historically specific system in which profit originates in production, and divided over the status of value magnitudes, the transformation of values into prices, and the tendency of the rate of profit. An opening sentence that says so converts a recall answer into an analytical one before the marker has finished the first paragraph. The schools have names, and the names do the work: the simultaneist tradition descending from Bortkiewicz, the Sraffian critique associated with Steedman, the New Interpretation built by Duménil and Foley, the temporal single-system interpretation, the value-form readings, and the empirical school that measures embodied labour against market prices. A script that deploys three of those names accurately, and can say what divides them, is playing a different game from the script that writes that Marxists believe something and then proceeds as if belief were the topic.
 
-![Marxist economics exam answers, the economics answer matrix and the three-sentence transformation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist economics exam answers, the economics answer matrix and the three-sentence transformation - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This guide is about the writing rather than the theory. The theory itself, the systems and the disputes in full, is set out in the series article on the [marxist economics complete guide](/2016/04/01/marxist-economics-complete-guide/), and each topic in the cluster has its own treatment, linked at the points where a candidate needs depth instead of technique. What follows is organised around the five question types that examiners actually set on this material, gathered into the economics answer matrix, and around the small set of errors that cost the most marks. Two neighbouring territories are deliberately left to their own guides: the assessment of crisis theory belongs to the [marxist crisis theory exam answers](/2014/02/15/marxist-crisis-theory-exam-answers/), and general essay technique, the kind that transfers across every subject, belongs to the guide on [how to write a marxism essay](/2021/10/15/how-to-write-a-marxism-essay/). The territory here is narrower and more valuable: the economics questions, the formulations that survive a knowledgeable marker, and the discipline of stating a disputed thing exactly.
 

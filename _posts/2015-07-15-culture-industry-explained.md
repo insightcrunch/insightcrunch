@@ -6,16 +6,17 @@ date: 2015-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Culture Industry", "Adorno", "Critical Theory", "Media"]
 excerpt: "The culture industry is a system, not a taste judgement: standardisation, pseudo individuality and the terminological substitution behind its chosen name."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 132
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-07-15
+lang: en
 ---
 Two phrases compete in the textbooks for the same phenomenon, and the competition is not innocent. Mass culture and culture industry are printed side by side in glossaries, defined in a single shared sentence, and treated as interchangeable labels for commercially produced entertainment. For Theodor W. Adorno and Max Horkheimer, who coined the second phrase in a book written during the Second World War, the choice between the two expressions was not a matter of style. It was the argument itself, compressed into a name. Mass culture points at the audience and credits the crowd with authorship. Culture industry points at the factory and credits the producer. Everything else in the theory, the standardisation, the manufactured variety, the amusement that behaves like work, follows from deciding where the phenomenon lives.
 
 This article reconstructs the concept from its mechanisms rather than from its reputation. It begins with the naming decision and the short later essay in which Adorno explained it, because the terminological substitution is the whole content of the idea in miniature. It then takes the machinery apart piece by piece: the standardised skeleton beneath changing surfaces, the pseudo individuality that decorates it, the style that cancels itself, the promise of pleasure that is advertised perpetually and honoured never, and the leisure that restores the worker for work. It dates the evidence honestly, because the chapter was built from the film studios, radio networks, and magazine combines of the nineteen forties. It states the strongest objections at full strength, the active audiences of reception research, the fragmented production of the digital period, and the pleasures the theory struggles to see, and it answers them fairly, conceding what the original texts cannot defend. A reader who finishes it should be able to do one thing reliably: hear the term used as a complaint about taste, and know that the concept has been lost in the using.
 
-![The culture industry explained, standardisation, pseudo individuality and style - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The culture industry explained, standardisation, pseudo individuality and style - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 ## Why the culture industry is a claim about production
 

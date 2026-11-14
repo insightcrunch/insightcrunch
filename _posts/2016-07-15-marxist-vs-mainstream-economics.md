@@ -6,16 +6,17 @@ date: 2016-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Economics", "Mainstream Economics", "Political Economy", "Comparison"]
 excerpt: "Marxist economics and the mainstream divide the economy's questions between them: the domain comparison, and the domain verdict delivered on each question."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 141
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-07-15
+lang: en
 ---
 A student who has finished an introductory economics course and then opens a work of Marxist economics often reports a strange experience: the second book does not read like a rival answer to the first, but like a book about a different subject that happens to share some vocabulary. Prices appear in both, and so do wages, profits, markets, and crises, yet the arguments built around those words seem to pass one another without meeting. That experience is the most reliable starting point for the comparison, because it records something true. The two traditions are not, in the first instance, giving competing answers to a shared list of questions. They disagree about which questions economics exists to answer, and nearly everything else in the quarrel between them is downstream of that prior disagreement. A reader who grasps this at the outset will find the rest of the comparison falls into place; a reader who misses it will keep scoring the two sides against tests only one of them sat.
 
 Consider a single concrete case before any theory is named. A garment business pays its machinists a weekly wage and sells the finished clothing at a price that leaves a margin after cloth, rent, machine wear, and interest have been covered. Ask what that margin is, and the two traditions hear two different questions. One hears a question about the return earned by the funds tied up in the business, a return that competition among capitals tends to equalise across trades and that can be compared with what the same funds would earn elsewhere. The other hears a question about the working day: how much of it replaces the value of the wage, and how much is performed beyond that point without payment. Neither hearing is a mistake about the facts of the business. Both accountants would agree on the ledger. They differ on what in the ledger calls for explanation, and that difference, multiplied across every topic in economics, is the subject of this article.
 
-![Marxist and mainstream economics compared domain by domain - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist and mainstream economics compared domain by domain - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The canonical statement of the difference can be made in one sentence each way. Mainstream economics, in the definition its textbooks inherit from Lionel Robbins, studies the allocation of scarce means among competing uses under conditions of choice: given ends, given resources, and given techniques, it asks how a society's decisions hang together and what they cost. Marxist economics studies capitalism as a historically specific system of production, distribution, and accumulation, a system that arose at a definite time, works by definite mechanisms, and generates definite contradictions as it develops. The first definition is deliberately timeless: scarcity and choice confront a Crusoe, a household, a firm, and a planned economy alike. The second is deliberately historical: its object would not exist in a society without generalised commodity production and wage labour, and the theory presents itself as the anatomy of that one social form rather than as a logic of choice in general.
 

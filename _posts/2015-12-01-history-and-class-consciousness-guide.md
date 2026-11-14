@@ -6,16 +6,17 @@ date: 2015-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Lukacs", "History and Class Consciousness", "Western Marxism", "Philosophy"]
 excerpt: "History and Class Consciousness staked everything on method alone: the essay map, the identical subject and object and the method claim at the book's core."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 135
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-12-01
+lang: en
 ---
 History and Class Consciousness is a collection of eight essays by the Hungarian philosopher Georg Lukacs, published in Berlin in 1923, and it is the founding text of the whole tradition later called Western Marxism. It is famous above all for one long essay on reification, and most summaries of the book are summaries of that essay alone. That fame is lopsided. The collection opens with a claim about method so sweeping that it redefined what loyalty to Marx could mean, builds its argument on a category, totality, that it ranks above economics itself, and closes its career with something almost no other classic of political theory possesses: a long preface, written by its own author for a later edition, that takes the book's central philosophical construction apart piece by piece and declares it a mistake. A reader who knows only the reification essay knows the middle of the book. A reader who misses the later preface has read, in a strict sense, only half of it, because the demolition is part of the text that the world actually inherited.
 
 This guide reads the whole collection. It begins with the circumstances in which the essays were written, since they were composed between 1919 and 1922 in the middle of a revolution, a counter-revolution and an exile, and their urgency is unintelligible without that setting. It then sets out the essay map, the findable instrument at the centre of the guide, which lists every essay with the year it was written, a statement of its argument, an assessment of its difficulty, and separate grades for students, teachers and researchers. The sections after the map take the arguments in the order a reader meets them: the method claim of the opening essay, the category of totality, the reification essay in its three parts, the account of class consciousness and imputation, and the doctrine that casts the proletariat as history's identical subject and object. Later sections deal with the book's debts to Hegel and to Weber, with its condemnation by the Communist International, with the author's long road of self-criticism that ended in the preface of the later edition, and with the strongest objection ever pressed against the book, which the guide states at full strength before answering it. The governing claim throughout, the one this guide names and keeps returning to, is the method claim: the thesis that orthodoxy in Marxism refers exclusively to method, and that everything this tradition was later praised and blamed for follows from that single opening move.
 
-![History and Class Consciousness, the essay map and the method claim - Insight Crunch](/assets/images/blog/blog-01.webp)
+![History and Class Consciousness, the essay map and the method claim - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## A revolutionary's essays, gathered in exile
 

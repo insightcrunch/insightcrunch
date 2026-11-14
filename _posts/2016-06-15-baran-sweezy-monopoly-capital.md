@@ -6,16 +6,17 @@ date: 2016-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Monopoly Capital", "Sweezy", "Marxist Economics", "Political Economy"]
 excerpt: "Monopoly Capital replaced surplus value with a measurable surplus and changed the theory's centre: the category substitution table is the full record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 141
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-06-15
+lang: en
 ---
 The monopoly capital school is a tradition of American Marxist economics that formed around a journal, Monthly Review, and around a book, Monopoly Capital, published in 1966 by Paul A. Baran and Paul M. Sweezy. A reader arriving from a search about corporate power or about stagnation should grasp one thing before anything else, because everything in the school follows from it. The school's decisive act was not a new policy, a new prediction, or a new history. It was a change in the basic category of analysis. Where the Marxist tradition it inherited reasoned in terms of surplus value, a magnitude defined through labour time, Baran and Sweezy reasoned in terms of the economic surplus, a magnitude defined as the difference between what a society produces and the cost of producing it. The substitution looks like a technicality. It is the whole school.
 
 Changing the category changed what the theory could see and what it could no longer say. A category defined without reference to labour values can be estimated, however roughly, from published accounts, and a school armed with it can argue about the size of the surplus, its growth, and its uses with evidence in hand. But a category that no longer passes through the labour process carries no built-in account of where the surplus originates, and critics inside Marxist economics were quick to press exactly there. The quarrel that followed, conducted principally in the nineteen seventies, is the reason the school's standing among Marxist economists is contested to a degree that surprises readers who know only its influence outside that circle. This article treats the substitution itself as the subject: the two founders and their separate books, the definition and its variants, the defence the school offered, the criticism at full strength, and the later tradition that grew from the journal, including the school's account of monopoly and finance combined in the phase that followed the joint book.
 
-![Monopoly Capital and the economic surplus category - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Monopoly Capital and the economic surplus category - Insight Crunch](/assets/images/blog/blog-103.webp)
 
 ## The monopoly capital school in one view
 

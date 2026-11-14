@@ -6,16 +6,17 @@ date: 2016-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dependency Theory", "Unequal Exchange", "Marxist Economics", "Development"]
 excerpt: "Dependency theory split over whether development under dependence was possible at all: the three positions grid and the impossibility split between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 140
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-07-01
+lang: en
 ---
 In the middle decades of the twentieth century, a group of economists and sociologists working in Latin America built a body of theory around a single unsettling proposition: the poverty of the poor economies is not a starting condition that growth will gradually wash away, but a product, manufactured continuously by the same world economy that enriches the rich ones. Dependency theory, as the body of work came to be called, holds that underdevelopment is actively made. The regions supplying coffee, copper, sugar, tin and oil to the industrial centres were not simply behind, waiting at an earlier station on a line every economy travels. Their labour systems, their landholding patterns, their ports and railways and tax codes had been shaped, over centuries, by the demands of buyers elsewhere, and that shaping was still going on. Rich and poor were not two separate stories. They were one story told from two ends.
 
 What a newcomer most needs to know, before any names are attached, is that this body of theory was never one position. It contains at least three, and they contradict one another on the question outsiders assume it answers with a single voice. One strand holds that development inside dependency is impossible, because the relation itself produces underdevelopment as its necessary other face. A second holds that dependency bends development into distorted shapes without preventing it, so that dependent economies can industrialise, grow and urbanise while remaining subordinate. A third, more technical strand argues that the injury runs through trade itself: where capital moves freely and labour cannot, the prices at which goods exchange quietly siphon value from low-wage economies to high-wage ones. Any summary that merges these into a slogan about rich countries making poor countries poor has lost the theory in the act of introducing it.
 
-![Dependency theory and unequal exchange: three positions on development under dependence - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dependency theory and unequal exchange: three positions on development under dependence - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This article separates the three positions, gives each its evidence and its strongest critics, and keeps the versions apart, because most arguments about dependency theory are really arguments at cross purposes: a refutation aimed at the strongest version is triumphantly applied to the whole family, while defences quietly retreat to the weakest. The Marxist ancestry of the theory, in the work of Paul Baran, and its relation to the broader Marxist account of imperialism are both part of the story; the wider theory of imperialism has its own treatment in the series guide to [Marxism and imperialism](/2017/02/01/marxism-and-imperialism-guide/), and this article links to it rather than repeating it. What follows concentrates on the dependency writers themselves: the structuralist economists who prepared their ground, the three positions in turn, the super-exploitation argument that grew alongside them, and then the criticisms, from the Marxist objection that the leading dependency theorists were not Marxists at all to the East Asian economies whose industrialisation put the strong version under a pressure it could not comfortably bear.
 

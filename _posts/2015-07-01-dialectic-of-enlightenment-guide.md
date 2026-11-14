@@ -6,16 +6,17 @@ date: 2015-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Dialectic of Enlightenment", "Adorno", "Horkheimer", "Philosophy"]
 excerpt: "Dialectic of Enlightenment argues that reason carries domination inside itself: the reading route and the reading inversion at the book's cold, lucid core."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 131
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-07-01
+lang: en
 ---
 Dialectic of Enlightenment is the most influential book to emerge from the Frankfurt School and the hardest to shelve. Two exiled Marxists, Max Horkheimer and Theodor W. Adorno, composed it in southern California while the Second World War was being fought, and its argument reaches far beyond the concerns a reader of Marxist theory expects to meet. Enlightenment, on their account, is the long campaign by which reason promised to free human beings from fear and myth. The campaign carries a poison inside itself: nature is dominated so thoroughly that the domination turns inward, human beings are mastered by the same rationality that mastered the world, and enlightenment reverts to the mythology it set out to destroy. Readers arrive expecting a work of social theory about capitalism and find a philosophy of history running from Odysseus to Hollywood, in which capitalism appears as one late form of a pattern thousands of years old. That mismatch between expectation and content is the first obstacle the book places in a reader's way, and removing it is a guide's first duty.
 
 Identification therefore comes before interpretation in what follows. The opening sections establish what kind of book this is, how it was composed and published, and how its seven pieces fit together. A reading route is then supplied and defended: an order of reading that departs from the printed order, named in this guide as the reading inversion, because the printed sequence leads with the most abstract and least self-explanatory material in the book and is the principal reason equipped readers abandon a text they could have finished. Close readings of every part follow, with the culture industry essay treated as analysis rather than lament and the theses on anti-Semitism handled with the precision and restraint their subject demands. Authorship, translation, and afterlife are taken in turn, the standard misreadings are corrected, and the strongest objection the book must survive is stated at full strength before an answer is attempted. A reader who works through the guide in order will reach the book itself knowing what sort of thing it is, which is the knowledge its reputation most often denies.
 
-![Dialectic of Enlightenment, a guide, Odysseus, myth and the culture industry chapter - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dialectic of Enlightenment, a guide, Odysseus, myth and the culture industry chapter - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 ## What kind of book Dialectic of Enlightenment is
 

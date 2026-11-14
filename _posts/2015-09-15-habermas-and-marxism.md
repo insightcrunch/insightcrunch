@@ -6,14 +6,15 @@ date: 2015-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Habermas", "Critical Theory", "Philosophy", "Political Theory"]
 excerpt: "Habermas kept the critical ambition and changed its paradigm: the abandoned and retained ledger, from production to communication, item by audited item."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 133
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-09-15
+lang: en
 ---
 Jurgen Habermas is the thinker readers most often file under the wrong heading. One shelf in the bookshop of ideas holds him as the last Marxist of the Frankfurt School, the second generation's loyal heir who carried critical theory out of its exile and into the universities of a rebuilt Germany. The neighbouring shelf holds him as a liberal in disguise, a philosopher of parliaments and procedures who kept the vocabulary of emancipation while quietly surrendering everything that made the tradition dangerous. Both filings are made in good faith, both can quote chapter and verse, and both fail for the same reason: they treat his relation to Marx as a matter of loyalty, when it is in fact a matter of engineering. Habermas did not drift away from Marxism, and he did not defect from it. He performed a single, deliberate, fully argued operation on its foundations, replacing the paradigm on which the whole structure rested, and then he rebuilt, over six decades, whatever of the structure the new foundation could still carry. To judge the result, a reader needs the operation specified, not the loyalty assessed.
 
-![Habermas and the turn from Marx, the public sphere and communicative action - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Habermas and the turn from Marx, the public sphere and communicative action - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This profile therefore keeps a double ledger. In one column stand the Marxian commitments Habermas abandoned: labour as the paradigm of human self-formation, the proletariat as the assigned agent of emancipation, the critique of political economy as the theory's core, the expectation that the capitalist system would break down under its own contradictions. In the other column stand the commitments he retained: the emancipatory intention itself, a successor to the critique of ideology, a theory of how societies learn and change, and a diagnosis of how economic and administrative power deforms everyday life. Between the columns stands the transaction that explains both, the move this profile names the paradigm substitution: the replacement of production by communication as the model of how human beings form themselves and their world. Everything else in his long career, the theory of the public sphere, the reconstruction of historical materialism, the discourse ethics, the legal theory of democracy, reads as bookkeeping after that substitution, entries posted to one column or the other as the new foundation settled.
 

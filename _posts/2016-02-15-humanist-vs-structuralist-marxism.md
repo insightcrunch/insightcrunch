@@ -6,16 +6,17 @@ date: 2016-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Humanism", "Structuralism", "Althusser", "Political Theory"]
 excerpt: "Structuralist Marxism and the humanist reading divided over the young Marx and the subject: the battlegrounds table and the claim of mutual necessity."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 137
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-02-15
+lang: en
 ---
 Structuralist Marxism and Marxist humanism were the names of two camps in an argument that ran through Marxist thought from the late 1950s to the end of the 1970s, filling journals, splitting reading groups, and forcing everyone who used the vocabulary of Marx to answer a question that sounds abstract and proved to be anything but. The question was whether there is such a thing as a human subject of history: a being with a nature of its own, whose characteristic powers can be developed or stunted, fulfilled or violated, and whose standpoint gives criticism its ground. The humanist side answered yes, and built its Marxism on the young Marx's account of alienated labour and species-being. The structuralist side answered no, and held that speaking of a human essence was a leftover from the philosophy Marx had broken with, an ideological notion rather than a scientific one. On the structuralist account, individuals are bearers of relations they did not choose, and what looks like a subject is an effect produced by the structures within which a life is lived.
 
 The argument mattered politically because each side accused the other of a political crime, not merely a scholarly error. To appeal to human values and a human essence, humanists said, was the only honest way to criticise the bureaucratic regimes that ruled in Marx's name, since a theory that cannot say what a human life is for cannot say what those regimes were doing wrong. To dissolve the subject into structures, structuralists said, was the only honest way to explain why well-intentioned revolutions had produced those regimes in the first place, since a theory that trusts in human goodness will be surprised by obedience every time. Philosophy of history, the reading of Marx's texts, the theory of ideology, and the strategy of parties were all pulled into the quarrel, because the quarrel was never only about texts. It was about what kind of theory Marxism is: a science of social formations, or a critique mounted in the name of a humanity that capitalism deforms.
 
-![Humanist vs structuralist Marxism, the battlegrounds table and the mutual necessity - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Humanist vs structuralist Marxism, the battlegrounds table and the mutual necessity - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 This article states each side in its own terms, at the strength its proponents would recognise, before it judges anything. It sets out the battlegrounds table, one row for each contested issue, with the position of each camp and what each camp has since conceded. It then gives a verdict, and the verdict has a name: the mutual necessity. The claim is that the dispute ended not by refutation but by concession on both sides, and that the working position most Marxists actually use can be stated precisely rather than gestured at. Humanism supplies the standard by which a social arrangement can be judged and found wanting, a standard structuralism cannot generate from inside a theory where subjects are effects. Structuralism supplies the explanation of why arrangements persist, reproduce themselves, and survive the discontent of the people living under them, an explanation humanism, reasoning from frustrated capacities, chronically lacks. Neither half is optional. A criticism without an explanation of durability becomes moralising; an explanation without a standard of judgement becomes a description of machinery that no one is entitled to call unjust. The sections that follow earn that verdict slowly, because a verdict about a fifty-year argument is worth having only if the argument itself has been heard fairly first.
 

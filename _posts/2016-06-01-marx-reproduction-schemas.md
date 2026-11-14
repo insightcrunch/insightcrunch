@@ -6,16 +6,17 @@ date: 2016-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Reproduction Schemas", "Marxist Economics", "Capital Volume Two", "Political Economy"]
 excerpt: "The reproduction schemas show an economy replacing itself in exact proportions: the two conditions table and the demonstration not description rule stated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 139
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-06-01
+lang: en
 ---
 The reproduction schemas are a pair of numerical models built by Karl Marx in the second volume of Capital to answer a question that sounds too simple to need asking: what has to happen, sector by sector and purchase by purchase, for an entire capitalist economy to finish one year and begin the next with its machinery intact, its workers fed, and its owners supplied? Marx divided all production into two great departments, one turning out the means of production and one turning out the means of consumption, and then showed that the two departments can only keep each other going if their outputs stand in definite proportions. The models were a demonstration, not a description. They proved that balanced reproduction is possible under stated proportions, and by doing so they defined the precise way in which it can fail, which is through the proportions being missed.
 
 That abstract-sounding exercise carried heavy freight in the arguments of Marx's successors, because the schemas became a battlefield. One school of readers took them to prove that capitalism could expand indefinitely by its own internal demand, another took the same arithmetic to prove that expansion was impossible without markets outside the capitalist world, and a third defended the arithmetic against both. The same models also turned out to be the direct ancestor of input-output analysis, a technique national statistical offices build into their accounts, and of the two-sector growth models that later planned industrialisation in large economies. A glossary article on the schemas therefore has to do three things at once: state the machinery exactly, keep the rival readings separate, and keep a firm grip on what a consistency demonstration can and cannot establish.
 
-![Marx's reproduction schemas and the two balance conditions - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marx's reproduction schemas and the two balance conditions - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 ## The reproduction schemas in the second volume of Capital
 

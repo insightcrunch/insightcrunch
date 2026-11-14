@@ -6,16 +6,17 @@ date: 2015-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Althusser", "Structuralism", "Western Marxism", "Biography"]
 excerpt: "Althusser rebuilt Marxist theory from borrowed parts: philosophy, linguistics and psychoanalysis, set out in the concepts and their sources table in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 136
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-12-15
+lang: en
 ---
 Louis Althusser was a French philosopher who spent the nineteen sixties and seventies arguing that Karl Marx should be read as the founder of a science, not as a philosopher of human nature whose early writings on alienation held the key to everything he wrote afterwards. He taught for over three decades at the École Normale Supérieure in Paris, the small institution in the rue d'Ulm that trains much of the French intellectual elite, and from a seminar room there he rebuilt the vocabulary in which Marxism was discussed across several continents. He is best known for four things: the claim that Marx's work contains an epistemological break between an ideological youth and a scientific maturity, the concept of overdetermination, the idea of structural causality, and an account of ideology as a set of material practices, housed in institutions, that produce the very subjects who live inside them. Each of those ideas is treated at length in its own article in this series; this profile exists to hold the man, the books, and the arguments in one place, and to say how they fit together.
 
 A profile of this philosopher has to solve a problem that profiles of most thinkers do not present in the same form. The documentary record of the life contains, alongside the teaching and the books, a crime: in November of his sixty-second year he killed his wife and was judged incapable of standing trial for what he had done. Coverage of Althusser tends to fall into two failures, one of omission and one of appetite. The first kind of account gives the concepts and passes over the killing in silence, as though a reference work could protect its subject by editing his biography. The second leads with the killing and lets it colour every page of the philosophy, as though an act could serve as an argument against a set of propositions. This profile refuses both. It states the facts of the life, including that one, plainly and once, in their chronological place. It states the arguments at the length they deserve and judges them by the standards arguments are judged by. It draws no line of causation in either direction between the two orders of fact, because no evidence supports such a line, and it asks the reader to hold the same discipline.
 
-![Louis Althusser intellectual profile, the borrowed apparatus and the concepts and their sources - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Louis Althusser intellectual profile, the borrowed apparatus and the concepts and their sources - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 ## The shape of Althusser's contribution
 

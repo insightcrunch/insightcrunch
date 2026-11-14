@@ -6,14 +6,15 @@ date: 2015-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Walter Benjamin", "Mass Culture", "Critical Theory", "Aesthetics"]
 excerpt: "Benjamin is read through versions: drafts, translations and an artwork essay that changed as he rewrote it, and the reproducibility correction it needs."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 132
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-08-01
+lang: en
 ---
 Walter Benjamin is probably the most quoted Marxist critic of the twentieth century and one of the least carefully read. His sentences travel everywhere: into film studies syllabi, museum catalogues, design manifestos and the footnotes of disciplines he never heard of. Yet the text on which the reputation rests, the essay on the work of art and its reproduction, reaches most of its readers in a form its author did not finally approve, under a title that mistranslates its central term, attributed to a school he never joined. A profile that repeats the standard summary, aura, mechanical reproduction, optimism about the masses, would pass on all three errors at once. This profile is built to correct them, because the corrections are not pedantic footnotes to the life. They change what the work is understood to claim.
 
-![Walter Benjamin and mass culture, aura, the artwork essay and the Arcades - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Walter Benjamin and mass culture, aura, the artwork essay and the Arcades - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The canonical statement is quickly made. Walter Benjamin was a German critic and essayist, born in Berlin in 1892, associated with the Frankfurt School but never a member of it, funded by its institute and published in its journal while remaining an outsider to its programme. His writing joined three elements that his contemporaries usually kept apart: a Marxist analysis of culture under capitalism, a set of categories drawn from Jewish religious thought, and a literary critic's attention to the single charged detail. His most influential essay analysed how the technological reproducibility of artworks transforms their status, dissolving what he called their aura and shifting their social function from cult to exhibition. He died at the Spanish border in September 1940, a refugee from occupied France. Everything else in this profile is an elaboration of that paragraph, and much of it consists of showing where the paragraph's familiar short forms mislead.
 

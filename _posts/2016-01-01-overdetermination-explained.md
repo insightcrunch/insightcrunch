@@ -6,16 +6,17 @@ date: 2016-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Althusser", "Overdetermination", "Political Theory", "Philosophy"]
 excerpt: "Overdetermination names a whole where every contradiction works on every other: the two totalities compared and the weakest-link test applied to cases."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 136
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-01-01
+lang: en
 ---
 Overdetermination is a term from the French Marxist philosophy of the 1960s, borrowed openly from Freud, and it names a single exact claim: in a social formation, no contradiction ever operates in a pure state, because every contradiction is always modified by the other contradictions that exist alongside it. A reader who met the word in a seminar, in a footnote, or in an argument about something else entirely has usually met it in a degraded form, as a fancy way of saying that an event had many causes. That degraded form is not a loose paraphrase of the concept. It is the concept with its point removed, and recovering the point is the whole work of this glossary entry. The point is historical before it is philosophical. The term was formulated to explain a specific puzzle, the success of revolution in the least industrially advanced of the major European powers, and it carries that explanation inside itself wherever it travels.
 
 The plain contrast can be stated at once. A familiar picture of Marxist explanation holds that the economy determines everything else directly, so that politics, law, and culture are the economy wearing costumes, and history is the unfolding of one contradiction between the forces and relations of production. Overdetermination rejects that picture while refusing to abandon economic determination, and the tension between the rejection and the refusal is where the concept lives. What replaces the picture is a whole made of several real contradictions, unevenly developed, fused in shifting combinations, with one of them dominant at any given moment and with the economy determining, in a sense that needs careful unpacking, which one is dominant. The article proceeds by unpacking: first the definition word by word, then the Freudian source of the term, then the model of society the concept attacks, then the model it proposes, then the Russian case that motivated it, and finally the objections, including the strong objection that the whole construction is a truism dressed in technical vocabulary.
 
-![Overdetermination explained, the two totalities compared and the weakest link test - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Overdetermination explained, the two totalities compared and the weakest link test - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 ## The definition of overdetermination, taken word by word
 

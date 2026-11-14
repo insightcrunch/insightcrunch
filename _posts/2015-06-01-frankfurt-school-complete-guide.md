@@ -6,16 +6,17 @@ date: 2015-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Frankfurt School", "Critical Theory", "Adorno", "History"]
 excerpt: "The Frankfurt School turned Marxist criticism toward culture, psyche and reason itself: the members and contributions table and the empirical turn of its work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 130
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-06-01
+lang: en
 ---
 The Frankfurt School is the name given, mostly after the fact, to the circle of social theorists who worked at one address: the Institute for Social Research in Frankfurt, founded in 1923 and rebuilt there after a long exile. Almost everything commonly said about it compresses that circle into a mood. Four surnames are recited, a gloom about mass culture is assumed, and the school is filed away as philosophy that lost interest in evidence and in politics alike. This guide works against the compression by returning to the institution itself: its founding money, its first director, its change of leadership, its journal, its surveys and questionnaires, its quarrels, and its members, who held their posts in a building rather than in a temperament.
 
 Two documented facts do most of the correcting, and they organise everything that follows. The first is the empirical correction, the claim this guide names and defends: the institute ran one of the most substantial programmes of empirical social research in its period, including a large collaborative study of authority and the family and a series of American studies on prejudice that produced a personality scale used across postwar social psychology. The charge that the school abandoned evidence for cultural speculation describes a selection of its philosophical books, not the school. The second fact is internal disagreement. The members argued with one another in print and in person about the character of the Nazi state, about Freud, about literature, about whether enlightenment reason could survive its own history. A tradition held together by a building, a budget, and a journal, and divided on nearly every substantive question it touched, is badly described as a unified project.
 
-![The Frankfurt School, a complete guide, the Institute, exile and critical theory - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Frankfurt School, a complete guide, the Institute, exile and critical theory - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 ## What the Frankfurt School was
 

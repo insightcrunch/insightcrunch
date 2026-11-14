@@ -6,16 +6,17 @@ date: 2016-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "New Left", "Western Marxism", "History", "Political Theory"]
 excerpt: "The New Left was born in a double rejection, of Stalinism and of social democracy alike: the two New Lefts separated, and their Marxism graded in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 137
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-03-01
+lang: en
 ---
 The New Left names a break, and the break has a date. In a single year, 1956, the two traditions that had divided the socialist world between them lost their claim on a generation's loyalty at the same moment. The first was the communism of the Soviet type: disciplined, state-bearing, armed with a doctrine that treated its own history as beyond reproach. The second was the social democracy of the parliamentary labour parties: respectable, governmental, committed to managing a reformed capitalism rather than replacing it. The current that called itself new defined itself against both at once, and the simultaneity is the point. It was not a refinement of either tradition, nor a compromise between them, but a refusal of the choice they jointly imposed, made by people who concluded that the choice itself was the obstacle. Everything the current later became, its journals and campaigns, its concepts and quarrels, its strange afterlife inside universities, descends from that double refusal and from the predicament it created: how to be a socialist when both existing vessels of socialism have been judged and found wanting.
 
 The label can mislead, and this guide begins by correcting the picture it usually summons. The New Left was not the student revolt of the late nineteen sixties, though that revolt inherited its name and some of its personnel; the founding moment came a decade earlier, and the founders were not students but established intellectuals, historians, critics, and organisers in their thirties and forties. Nor was it one movement with branches. The British and American formations were made by different pressures, spoke in different idioms, and produced different legacies, and a good deal of confusion in the literature comes from treating them as a single phenomenon with two addresses. What they shared was the founding refusal and a set of preoccupations that followed from it: attention to culture and everyday experience as political terrain, scepticism toward the claim that the industrial working class remained the automatic agent of change, and an anti-imperialism that the older traditions had subordinated to other loyalties. The sections that follow separate the two formations, grade their Marxism, and ask what, in the end, they built.
 
-![The New Left and its Marxism, the two New Lefts and the double rejection - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The New Left and its Marxism, the two New Lefts and the double rejection - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## What the New Left was
 

@@ -6,14 +6,15 @@ date: 2015-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Cultural Marxism", "Frankfurt School", "History of Ideas", "Critical Theory"]
 excerpt: "Cultural Marxism is a term with three separate usages and three separate histories: the three usages table keeps them apart, dated, sourced and attributed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 134
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-10-01
+lang: en
 ---
 Few phrases in political conversation carry as much weight on as little shared meaning as cultural Marxism. A reader meets it in a newspaper column, in a speech, in a comment thread, in a conversation with a neighbour, and in almost every case the person using it assumes that its meaning is plain. Yet the phrase is asked to do the work of at least three different expressions, each with its own history, its own users, and its own relationship to the evidence. One of them is a quiet label from scholarship. One of them is shorthand for a real argument among historians of ideas. One of them is the name of a conspiracy narrative whose documented lineage runs through some of the darkest polemics of the twentieth century. An article that treats the phrase as though it had a single meaning will mislead its reader whichever of the three the reader arrived with.
 
-![Cultural Marxism, the history of a term, three usages, three histories - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Cultural Marxism, the history of a term, three usages, three histories - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 This article is a history of a term rather than a verdict on a school of thought. Its method is the one historians of ideas apply to any contested expression: establish the usages, date them, attribute them, and keep them apart while the evidence for each is examined. The claim it defends, which this series calls the three-usage separation, is simple to state and laborious to apply. The phrase names a descriptive label, a genuine scholarly question, and a conspiracy narrative, and almost every argument conducted with the phrase fails at the first step, because one party means the second of these and the other means the third, and the two proceed as though a single thing were under discussion. Establishing which usage is in play is not a pedantic preliminary. It is the necessary first move, without which nothing that follows can be assessed.
 

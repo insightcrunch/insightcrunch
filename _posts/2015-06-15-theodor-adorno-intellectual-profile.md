@@ -6,14 +6,15 @@ date: 2015-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Adorno", "Critical Theory", "Philosophy", "Aesthetics"]
 excerpt: "Adorno wrote philosophy with a musician's ear: negative dialectics, the culture industry and the musical method running under all the prose he published."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 131
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-06-15
+lang: en
 ---
 Theodor Adorno is usually introduced as a philosopher who disliked popular music, and the introduction is not false so much as badly out of proportion. He was a trained composer who studied in Vienna with Alban Berg, a pianist of near professional standard, a music critic who published hundreds of reviews before he published a book of philosophy, and a thinker whose central procedures were learned at the piano and the score desk rather than in the seminar room. To read him without the music is to read a score as if it were a legal contract: the words are all present, and the thing they were arranged to do escapes. This profile therefore reverses the usual order. It begins with the formation, because in Adorno's case the formation is the method, and it treats the famous doctrines, negative dialectics, identity thinking, the critique of standardised culture, as consequences of a way of listening that he acquired before he was twenty-five and never abandoned.
 
-![Theodor Adorno, an intellectual profile, negative dialectics and the musical method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Theodor Adorno, an intellectual profile, negative dialectics and the musical method - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 Three facts about him are persistently garbled in short accounts, and a profile has a duty to set them straight before anything else. The first is that the most quoted sentence he ever wrote, the remark that writing poetry after Auschwitz is barbaric, was substantially qualified by its author in print seventeen years later, in a passage almost nobody quotes alongside it. The second is that his notorious writings on jazz are not a defensible position misread by hostile critics: they are his weakest work, written largely about commercial European dance-band music rather than about the tradition later generations mean by the word, and dismissive in ways that the excuse of his sources does not cover. The third is that the man who died in 1969, weeks after student activists disrupted his lectures and occupied his institute, was not a conservative defending order against the young. His positions were consistently on the left, and the confrontation that closed his life was a quarrel inside the left, which is precisely why it wounded both sides as it did. A profile that defends everything about its subject is not a profile but an advertisement, and Adorno, who spent a career arguing that thought begins where affirmation stops, deserves better than an advertisement.
 

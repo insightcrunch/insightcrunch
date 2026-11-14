@@ -6,14 +6,15 @@ date: 2015-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marcuse", "One-Dimensional Man", "Critical Theory", "Philosophy"]
 excerpt: "Marcuse argued that affluence itself had become a mechanism of control: the three books, one-dimensionality and the affluence thesis at their shared centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 133
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-08-15
+lang: en
 ---
 Herbert Marcuse is usually introduced through a title he spent a decade declining. The philosopher whom newspapers of the late nineteen sixties called the father, the guru, the prophet of the New Left was born in 1898, took his doctorate in 1922, and had published three substantial books before most of the students who quoted him were born. He had been trained in phenomenology by Edmund Husserl and Martin Heidegger. He had spent the war and its aftermath inside the American government, first in its wartime intelligence agency and then in the State Department, analysing the regime he had fled and the Soviet order he would anatomise in print. And in 1965 he published an essay on tolerance whose argument is still fought over, usually by people who have read summaries of it rather than the essay itself. A profile that begins from the guru will explain none of this. This profile begins from the record, and it follows the three books through which the record becomes an argument: a defence of Hegel written as fascism rose, a fusion of Freud and Marx written in American exile, and a diagnosis of affluent society written when that exile had lasted thirty years.
 
-![Marcuse and One-Dimensional Man, the three books, affluence and the Great Refusal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marcuse and One-Dimensional Man, the three books, affluence and the Great Refusal - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The centre of the argument, and the claim this profile returns to at every stage, is what it calls the affluence thesis. Classical Marxism expected deprivation to radicalise: squeeze a population hard enough and it would eventually see through the order squeezing it. Marcuse argued that the advanced industrial order had discovered the opposite technique. A system that delivers goods, rising incomes, cheap entertainment and the tangible feeling of a improving private life can purchase the consent that repression once had to extract, and it can do so without closing the universities, banning the newspapers or filling the prisons. Opposition is not crushed. It is absorbed, offered a career, a market and a vocabulary in which its own demands come back to it as advertising copy. The result is a society that can tolerate almost any criticism because criticism has lost the dimension in which an alternative to the whole could be thought. That is a strong claim, and this profile states its weaknesses as carefully as its force. But it is the claim that makes Marcuse a philosopher rather than a mascot, and it cannot be understood apart from the life that produced it: the young revolutionary of 1918, the Heidegger student who watched his teacher embrace the regime, the refugee analyst who learned the modern state from inside its own filing cabinets.
 

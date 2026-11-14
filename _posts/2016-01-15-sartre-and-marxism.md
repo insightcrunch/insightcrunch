@@ -6,16 +6,17 @@ date: 2016-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Sartre", "Existentialism", "Western Marxism", "Philosophy"]
 excerpt: "Sartre spent thirty years trying to marry freedom to history: the group's life cycle, scarcity and the mediation charge levelled against his Marxism as a whole."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 136
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-01-15
+lang: en
 ---
 Jean-Paul Sartre is the most famous philosopher in this series, and for many readers the most surprising name in it. Sartre built his reputation on a philosophy of radical freedom, on the claim that a human being is condemned to invent himself without excuse or blueprint, and that philosophy, existentialism, is usually filed in the mind as the opposite of any doctrine that explains people by their class position. Yet from the end of the Second World War until his death in 1980, Sartre moved steadily toward Marxism, described it as the unsurpassable philosophy of the age, wrote a vast methodological treatise to repair it, and broke with friends, parties, and countries in its name. He never joined the French Communist Party, whose orthodoxy he spent decades attacking from the left. His position was stranger and more interesting than membership: he held that Marxism was true and that the Marxists of his day had stopped doing the work that made it true.
 
 That double position is the subject of this profile. Sartre's complaint against the Marxism around him was precise, and this article names it the mediation charge: his objection was not that the categories of Marxism were wrong but that its practitioners had stopped explaining how a general structure produces a particular person, skipping the chain of mediations between a class position and a finished human life. Around that charge he built the most ambitious attempt of the century to fuse a philosophy of freedom with a theory of history, the two volumes, one finished and one abandoned, of the Critique of Dialectical Reason. Readers who want the tradition he worked inside mapped as a whole can start with the series guide to [Western Marxism](/2015/11/01/western-marxism-complete-guide/); this profile concentrates on the man who tried to give that tradition back its individuals.
 
-![Jean-Paul Sartre writing at a desk covered with manuscripts and books - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jean-Paul Sartre writing at a desk covered with manuscripts and books - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 ## Sartre's road from existentialism to Marxism
 

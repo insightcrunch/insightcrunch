@@ -6,16 +6,17 @@ date: 2016-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Transformation Problem", "Marxist Economics", "Value Theory", "Political Economy"]
 excerpt: "The transformation problem asks whether values can become prices without internal contradiction: the solutions ledger and the price of consistency exacted."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 138
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-04-15
+lang: en
 ---
 The transformation problem begins with a tension that sits inside the most celebrated work of political economy ever published, and it can be stated without any algebra. In the first volume of Capital, Marx analyses a world in which commodities exchange in proportion to the labour time embodied in them, and on that assumption he explains where profit comes from. In the third volume, published after his death, he shows that commodities cannot exchange in those proportions in a competitive economy where capitals of equal size earn equal profit. The embarrassment is plain: the two volumes appear to rest on two different rules for what things sell for, and the bridge Marx builds between them, his own procedure for converting values into prices of production, is defective in a way that can be pinpointed exactly.
 
 That defect, and the century of attempts to repair it, are the business of the pages that follow. The reader who finishes it should be able to state precisely what the difficulty is, why Marx's own handling of it falls short, and why the honest verdict on the literature is neither of the two slogans that dominate popular accounts. The problem has not been shown to be fatal to the theory it troubles, and it has not been solved in the form in which Marx left it. What the literature offers instead is a set of reconstructions, each internally consistent, each purchased at a price, and the live dispute concerns which price is worth paying. That framing, the price of consistency, organises everything that follows, and the solutions ledger in the middle of the article tabulates the competing repairs so that their costs can be compared side by side.
 
-![The transformation problem, two sectors, one ledger and the price of consistency - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The transformation problem, two sectors, one ledger and the price of consistency - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## The transformation problem in one statement
 

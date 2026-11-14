@@ -6,14 +6,15 @@ date: 2015-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Critical Theory", "Frankfurt School", "Political Theory", "Philosophy"]
 excerpt: "Critical theory and classical Marxism divide over the agent of change: the six differences grid and the agent absence that organises every one of the others."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 133
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-09-01
+lang: en
 ---
 Critical theory and classical Marxism share a founder, a library and an enemy, and they are routinely mistaken for one another by readers who meet the second in summaries of the first. Both descend from Marx. Both hold that capitalist society is a historically specific order rather than a natural one, that its categories conceal as much as they reveal, and that theory which merely describes the order has already taken a side. Yet the two frameworks differ so deeply in what they analyse, how they analyse it and whom the analysis is for that placing them side by side changes the meaning of each. This comparison runs the two against one another across six differences: the agent of change, the object of analysis, the method, the role of economics, the theory of ideology, and the stance toward science. Two further differences, over the philosophy of history and over practice, receive their own sections, because each follows from the six and because the argument between the frameworks was largely conducted in those terms. The differences are not a list of independent choices. They hang from a single hook, and the hook has a name this article will use throughout: the agent absence.
 
-![Critical theory vs classical Marxism, the six differences and the missing agent - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Critical theory vs classical Marxism, the six differences and the missing agent - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The claim can be stated in one sentence before it is argued at length. Classical Marxism is a theory that knows its subject: it identifies the working class as the agent whose interest, position and organisation make it the carrier of social transformation, and every other element of the doctrine is arranged around that identification. Critical theory is what became of the same inheritance when a generation of Marxist intellectuals concluded, from evidence they had lived through, that the named agent was not performing the assigned role and that no substitute could honestly be named in its place. A theory with a subject and a theory that lost its subject and declined to invent another will differ in their objects, because the first studies the levers its subject must pull while the second studies the obstacles that neutralised the subject. They will differ in method, because the second needs instruments for explaining quiescence that the first never required. They will differ on economics, on ideology, on science, on the direction of history and on the relation between thought and action, and in each case the difference runs downhill from the same source. That is the organising argument of the comparison, and it is offered as the answer to the question the reader most often brings: not which framework is better in the abstract, but why the two, starting from nearly the same books, arrived at such different theories.
 

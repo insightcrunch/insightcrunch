@@ -6,16 +6,17 @@ date: 2016-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Economics", "Political Economy", "Value Theory", "History"]
 excerpt: "Marxist economics is a programme, not a doctrine: eight schools, one inheritance, graded by the eight schools table and the programme not doctrine rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 138
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-04-01
+lang: en
 ---
 Marxist economics is a body of academic economics, practised in universities, published in refereed journals, and argued over at conferences, whose subject is not the allocation of scarce resources but capitalism itself: how that system produces and distributes its wealth, where its profits come from, why it expands and then contracts, and how the people inside it might one day replace it with something else. It is the oldest heterodox tradition in the discipline, the one against which several of the discipline's own categories were first sharpened, and it is also, by the standards of the profession's centre, a marginal field, taught in a minority of departments and largely absent from the journals that confer prestige. Both facts belong in the opening paragraph, because an honest guide has to hold them together. This is a real research literature, with named schools, settled findings in places, and live disputes in others, and it is a literature that the mainstream of economics has mostly ceased to read.
 
 The single most useful thing a newcomer can learn is the thing almost no summary teaches. Marxist economics is not one position. It is a family of at least eight schools that share an ancestor, a vocabulary, and a set of questions, while disagreeing with one another, sometimes bitterly, about the foundations: about whether the magnitudes of Marx's value theory exist independently of the prices that are supposed to express them, about whether the rate of profit has a built-in tendency to fall, about whether the labour theory of value is the keystone of the whole structure or a scaffolding that can be taken down once the building stands. This guide follows the programme not doctrine rule from its first page to its last. Whenever a sentence would have to claim that Marxist economists believe some proposition, the sentence is false of a substantial number of them, and the honest move is to say which schools hold the view, which reject it, and what each side thinks is at stake.
 
-![Marxist economics complete guide, the eight schools table and the programme not doctrine rule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist economics complete guide, the eight schools table and the programme not doctrine rule - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 ## Marxist economics as a research programme
 

@@ -6,16 +6,17 @@ date: 2016-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Western Marxism", "Reading Guide", "History of Ideas", "Research"]
 excerpt: "Western Marxism is received through its editions and translations: the four routes, the reading order, and how the infrastructure determined the canon."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 138
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-03-15
+lang: en
 ---
 Western Marxism has a reputation for difficulty that puts off readers who would profit from it, and the reputation is only partly deserved. The books are hard, some of them genuinely and by design, but a large share of the difficulty that newcomers report is not in the texts at all. It sits in the order in which the texts are usually encountered, in the translations through which they are read, and in the accident of which works happened to be available in English when a reader went looking. A reader who begins with the most famous book, in a stiff translation, without knowing that its central term was mistranslated in a way its own author later confessed to, is not meeting the tradition. That reader is meeting the tradition's delivery problems, and understandably concludes that the whole enterprise is impenetrable.
 
 A route through the material exists, and this guide lays one out. Reading Western Marxism requires attention to three things beyond the texts themselves: the order in which the tradition's concepts were developed, the translation choices that determine several of its central arguments, and the publishing infrastructure through which it reached English-language readers. The tradition itself, its thinkers, doctrines, and quarrels, is mapped in the [western marxism complete guide](/2015/11/01/western-marxism-complete-guide/), and this source guide deliberately links to that account rather than repeating it. What follows is about the reading: where to start, what to read next, which copies to read it in, which secondary books earn their place, which journals carried the conversation, and where the unpublished papers rest. Everything is graded by difficulty and purpose, never by sympathy, because a reader's politics are no guide at all to which translation of Lukács will serve them.
 
-![Reading Western Marxism, the four routes and the publishing infrastructure - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Reading Western Marxism, the four routes and the publishing infrastructure - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## Why Western Marxism is difficult to read
 

@@ -6,16 +6,17 @@ date: 2015-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Frankfurt School", "Critical Theory", "Exam Preparation", "Adorno"]
 excerpt: "The Frankfurt School in an exam rewards the empirical evaluation move: name the study, the method and the finding before grading the theory itself at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 135
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-10-15
+lang: en
 ---
 The Frankfurt School follows candidates into more examination rooms, and is marked more severely in them, than almost any other body of theory a student of Marxism will meet. A sociology candidate encounters it inside units on the media, on culture and identity, and on theory and methods. A media studies candidate meets the culture industry as the standard critical account of how entertainment is produced. A politics candidate meets critical theory as a challenge to orthodox accounts of power and ideology. A philosophy candidate meets Adorno in aesthetics and Benjamin in the philosophy of art. Candidates in civil service examinations meet the school in optional papers in sociology and political science, and candidates in national eligibility tests meet it as a screening topic where a single shallow paragraph is the norm. In every one of those rooms, most scripts are carrying the same account of the school, absorbed from revision resources that state it with complete confidence: the Frankfurt School were pessimistic Marxists who believed that mass culture dupes passive audiences into accepting the capitalist order. That account is the subject of this guide, because it is the most expensive paragraph a candidate on this topic can write.
 
 This guide is the capstone of the Frankfurt School cluster in this series, and it assumes that the concepts themselves live in their own articles: the concept at the centre of most questions is reconstructed in [culture industry explained](/2015/07/15/culture-industry-explained/), the school and its research record are set out in the [frankfurt school complete guide](/2015/06/01/frankfurt-school-complete-guide/), general essay technique belongs to the separate guide on [how to write a marxism essay](/2021/10/15/how-to-write-a-marxism-essay/), and the wider sociology assessment belongs to the [marxist sociology exam answers](/2021/08/15/marxist-sociology-exam-answers/). What follows is narrower and more profitable: the craft of converting the cluster's corrections into marks. It proceeds by a named method, the empirical evaluation move, and a findable instrument, the Frankfurt School answer matrix, which together cover the five question types this topic generates. It also states a neutrality condition at the start, because everything else depends on it: a candidate who concludes, on evidence, that the culture industry thesis fails can score full marks in any of the rooms named above, and one of the specimen answers below does precisely that damage to the thesis while earning its band.
 
-![The Frankfurt School exam guide, the answer matrix and the empirical evaluation move - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Frankfurt School exam guide, the answer matrix and the empirical evaluation move - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 ## Why the Frankfurt School appears in so many different papers
 

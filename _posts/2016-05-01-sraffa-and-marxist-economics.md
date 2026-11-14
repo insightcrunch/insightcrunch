@@ -6,16 +6,17 @@ date: 2016-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Sraffa", "Marxist Economics", "Value Theory", "Political Economy"]
 excerpt: "Sraffa rebuilt price theory from physical data and left values looking redundant: the challenge and replies table and the two Sraffas separated at last."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 139
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-05-01
+lang: en
 ---
 Piero Sraffa was a Cambridge economist whose one short book, published in 1960, did two things that are usually discussed in separate rooms. It supplied the technical basis for the most damaging internal critique that mainstream capital theory has ever received, a critique whose central logical point the mainstream side publicly conceded. The same book also supplied the basis for a challenge to Marx, pressed by economists who worked inside Sraffa's own framework, according to which the labour values at the heart of Marx's theory are an unnecessary detour: everything values were supposed to explain, they argued, can be obtained without them. A reader who knows only the second of these facts owns half a portrait, and the missing half changes what the first one means.
 
 The missing half is a life. The framework that was used to declare Marx's value theory redundant was built by a scholar whose life's work was the recovery of the classical surplus tradition: the economist who edited the standard scholarly edition of Ricardo across two decades, who arranged the account through which Antonio Gramsci received books in a fascist prison, and who was thanked by Wittgenstein for the criticism that reshaped a famous philosophy. Sraffa's unpublished papers, opened to researchers late in the twentieth century, have since supported a serious and contested reading on which he understood his own project as a reconstruction of that classical tradition, with Marx inside it, rather than as a refutation of Marx. This article sets out the framework, the challenge it generated, the replies the challenge provoked, and the evidence about its author's intentions, because the neo-Ricardian challenge reads differently once it is recognised as an argument among heirs.
 
-![Sraffa and the neo-Ricardian challenge, the challenge and replies table and the two Sraffas - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Sraffa and the neo-Ricardian challenge, the challenge and replies table and the two Sraffas - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 ## The man from Turin
 

@@ -6,16 +6,17 @@ date: 2015-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Lukacs", "Reification", "Western Marxism", "Philosophy"]
 excerpt: "Lukacs derived reification from the commodity form itself, before any reading of the early Marx: the three concepts separated and the independent derivation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-116.webp"
 reading_time: 135
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-11-15
+lang: en
 ---
 Reification is the word Georg Lukacs gave to the process by which a world human beings have made comes to stand over against them as a world of things, governed by laws of its own. Lukacs was a Hungarian philosopher writing in the nineteen twenties, and the concept he built in those years extends an argument of Marx's about commodities into an account of consciousness and social form: what begins, in Marx, as an analysis of how products confront producers in exchange becomes, in Lukacs, a claim about how the whole texture of modern life is organised and how the mind itself is shaped by that organisation. It is not a synonym for alienation, though the two are persistently confused, and the difference between them matters enough that this profile separates the concepts before it tells the life. The sources Lukacs worked from can be followed in this series: the commodity argument itself is treated in [commodity fetishism explained](/2010/08/01/commodity-fetishism-explained/), and the concept with which reification is so often merged is treated in the [guide to Marx on alienation](/2011/04/01/marx-on-alienation-complete-guide/). What neither of those articles can supply is the man, and the man is unusually difficult to hold steady in the mind, because the career that produced the concept also produced its author's repeated public disavowals of it.
 
 Two facts organise everything that follows, and a reader who keeps them in view will understand both the achievement and the difficulty. The first is that Lukacs developed reification without having read the early manuscripts of Marx, in which the theory of alienation is set out, because those manuscripts lay unpublished in an archive and did not appear in print until nine years after his own book. Working from the opening chapter of Capital and from the sociology of rationalisation he had absorbed in Germany, he arrived independently at the problematic that the young Marx had stated in private notebooks eighty years before, and he later described that convergence as remarkable. The second fact is that he publicly repudiated the book that made his reputation, and did so more than once across five decades, under pressures that make the repudiations genuinely hard to interpret: each one can be read as the price of survival inside a movement that shot people for less, and each can also be read as an honest stage in a long intellectual life that really did move away from the positions of his youth. This profile states the record, including the record of his conduct as a political commissar in a revolutionary government, as plainly as the record allows, gives both readings of the recantations their full weight, and declines to decide between them, because the evidence does not decide between them and pretending otherwise would be a disservice to a reader who has come for the truth of the matter.
 
-![Georg Lukacs and reification, the three concepts separated and the independent derivation - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Georg Lukacs and reification, the three concepts separated and the independent derivation - Insight Crunch](/assets/images/blog/blog-116.webp)
 
 ## The concept before the life: reification stated plainly
 

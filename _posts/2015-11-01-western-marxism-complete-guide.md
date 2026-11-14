@@ -6,16 +6,17 @@ date: 2015-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Western Marxism", "Lukacs", "Political Theory", "History"]
 excerpt: "Western Marxism named a tradition formed in defeat: philosophy over economics, culture over crisis, graded by the tradition map and the defeat thesis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 134
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-11-01
+lang: en
 ---
 Marxism after Marx never travelled as a single doctrine. Within a generation of its founder's death it had divided into currents that disagreed about strategy, about philosophy, and about what kind of knowledge a revolutionary theory was supposed to be. One of those currents acquired a label that has stuck so firmly that it is easy to forget the label was invented afterwards, by an outsider, and that the people it collects never used it of themselves. Western Marxism names the body of Marxist theory produced in continental Europe from the nineteen twenties onward, and what distinguishes it is not first of all a doctrine. It is a location and a set of preoccupations: its theorists worked increasingly inside universities rather than inside mass parties, and they wrote about philosophy, culture, art, and consciousness where their predecessors had written about wages, crises, and the state. Everything else about the tradition, its difficulty, its pessimism, its strange durability, follows from that placement and from the political catastrophe that produced it.
 
 This guide examines the label as carefully as the work it labels, because the label itself is an argument. Three findings organise what follows. The term was coined in the nineteen fifties by a French phenomenologist describing a Hungarian critic, not by any member of the supposed school. The most influential analysis of the tradition, published two decades later, argues that its defining traits were stamped on it by political defeat, by the failure of revolution in Western Europe after the First World War and the long isolation that followed, rather than chosen freely by thinkers who preferred seminars to strikes. And the geography inside the name does quiet work of its own: a tradition called Western silently leaves outside itself the Marxists of Peru, India, and the Caribbean who were writing in the very same decades, which is a fact about the category rather than about the history of Marxist thought. A reader who holds those three findings can use the term intelligently, as a map with its projections marked, instead of mistaking it for the territory.
 
-![Western Marxism complete guide, the tradition map and the defeat thesis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Western Marxism complete guide, the tradition map and the defeat thesis - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## What the name Western Marxism picks out
 

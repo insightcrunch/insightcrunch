@@ -6,16 +6,17 @@ date: 2016-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Economics", "Empirical Testing", "Data", "Political Economy"]
 excerpt: "Marxist economics meets data through conventions that decide the result before counting starts: the testability map and the classification convention problem."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 142
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-08-01
+lang: en
 ---
 Marxist economics is routinely described, by opponents who have not looked and by sympathisers who have not looked either, as a doctrine that no evidence could ever touch. The description survives because it is convenient to both camps. A critic who believes the theory sealed against refutation need never examine its numbers, and a defender who believes the same thing need never produce any. Against that shared convenience stands an inconvenient fact: a body of empirical work inside this tradition exists, some of it built with standard econometric tools, some of it published in journals read well beyond the tradition's own circle, and some of it strong enough that economists with no Marxian commitments have taken its models up and estimated them on their own data. The honest answer to the testability question is therefore divided. Parts of the programme have been tested and have survived testing in qualified form. Parts can be measured only after a translation of official statistics whose rules are contested, so that the measurement inherits the contest. And one part, the existence of value magnitudes apart from the prices that supposedly express them, cannot be tested at all with any data that exists.
 
 This article maps that divided answer rather than arguing for one side of it. Its centrepiece is the single strongest case the tradition can offer: a formally specified model of the wage and employment cycle, published in 1967, which turned a Marxian mechanism into mathematics precise enough to fail, and which has since been fitted to the records of several economies by researchers working both inside and outside the tradition. Around that centrepiece the article arranges the rest of the empirical programme, component by component, stating what each part claims, whether anyone has modelled it formally, whether anyone has estimated it, and what the estimation showed. It then turns to the obstacles, and states them as plainly as the tradition's critics could wish. The deepest obstacle is not a shortage of data. It is the absence of an agreed rule for translating official statistics into Marxian categories, a difficulty this article names the classification convention problem, and which the series has by now encountered in four separate empirical literatures. Readers who want the findings of the component literatures in full should follow the routes given along the way; the task here is the map, the verdict on testability, and an honest account of what good practice would require.
 
-![Testing Marxist economics empirically and the testability map - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Testing Marxist economics empirically and the testability map - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## The short answer is a divided one
 
