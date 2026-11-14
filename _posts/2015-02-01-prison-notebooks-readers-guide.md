@@ -6,14 +6,15 @@ date: 2015-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Prison Notebooks", "Political Theory", "History"]
 excerpt: "The Prison Notebooks reach every single reader through an edition, and the edition decides what can be claimed: the edition map and the fragments it orders."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 127
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-02-01
+lang: en
 ---
 The Prison Notebooks are quoted on every continent and read whole by very few of the people who quote them. They are cited in arguments about politics, education, culture, language, and the state, usually from a handful of famous passages, and those passages almost always reach the citer through several layers of other people's decisions. A political party's editors first rearranged the material by subject. A pair of English translators then selected from that rearrangement. A critical edition later restored the order of composition and marked which passages were drafts. Each layer changed what a reader could see, and therefore what a reader could claim. This guide exists so that the next quotation you meet, including your own, can be checked against the edition it came from.
 
-![The Prison Notebooks, a reader's guide, editions, fragments and the prison censorship - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Prison Notebooks, a reader's guide, editions, fragments and the prison censorship - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 Three facts govern everything that follows, and a reader who holds them can navigate the rest without assistance. The notebooks were written in a deliberate code, because a prison censor read the pages and the vocabulary had to pass inspection while still carrying a forbidden theory. The edition through which most English readers meet the text is a selection taken from a thematically rearranged edition prepared under the direction of a political party, so the order in which an English reader encounters the arguments is an editor's order, not the author's. The complete critical edition in English, the one that prints every note in sequence with its draft status marked, covers only the first eight of the thirty-three notebooks. Order, emphasis, and completeness are therefore editorial facts before they are interpretive ones. The claim has a name in this guide, the edition dependency, and the sections ahead state it, test it against particular cases, and answer the strongest objection to it.
 

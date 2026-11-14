@@ -6,16 +6,17 @@ date: 2015-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Civil Society", "Political Theory", "State Theory"]
 excerpt: "Gramsci on civil society relocates the state into schools, churches, press and associations: the three civil societies and the relocation argument in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 128
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-03-15
+lang: en
 ---
 Few phrases in political theory carry as much concealed disagreement as civil society. A development minister, a charity director, and a reader of Marx can use the same two words in a single afternoon and mean three different things by them, each confident that the meaning is obvious. For Hegel, and after him for Marx, civil society named the sphere of economic relations and private interest: the world of work, exchange, need, and property that sits between the family and the state. In the prison notebooks of Antonio Gramsci, written between 1929 and 1935 under a fascist sentence, the same phrase names something else entirely: the ensemble of institutions, schools, churches, newspapers, associations, trade unions, through which consent to a social order is organised and renewed. The words survived the journey from one theory to the other. The thing they point to did not.
 
 That gap between a shared name and divergent meanings is the subject of this article, and separating the meanings is the whole of its service. Gramsci did not refine Marx's concept of civil society; he relocated it, moving the term from the base of the social structure to the superstructure and converting it from the sphere of production and exchange into the terrain on which leadership is won or lost. Every later confusion about the concept, including its career as a liberal slogan after 1989, follows from the fact that incompatible definitions travel under one label. The pages that follow track the term through Hegel and Marx, set out Gramsci's usage in its canonical form, present the strongest scholarly objection to that usage at full strength, and treat the liberal appropriation of the phrase with the fairness a serious body of theory deserves.
 
-![Gramsci on civil society, the integral state, hegemony and the trenches of consent - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gramsci on civil society, the integral state, hegemony and the trenches of consent - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 ## A word that changed its address
 

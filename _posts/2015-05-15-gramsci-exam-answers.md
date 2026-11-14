@@ -6,16 +6,17 @@ date: 2015-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Hegemony", "Exam Preparation", "Political Theory"]
 excerpt: "Gramsci and hegemony in an exam reward the three-element opening: force, consent and concessions stated before any example is allowed to do its own work."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-105.webp"
 reading_time: 130
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-05-15
+lang: en
 ---
 Antonio Gramsci follows candidates into more examination rooms, and is marked more harshly in them, than almost any other thinker in the Marxist tradition. A school sociology candidate meets hegemony inside units on the media, on education, on crime, and on stratification. A politics candidate meets Gramsci as a named thinker whose account of power must be set against rivals. A media studies candidate meets the concept as the standard explanation of how consent to a social order is produced without visible force. Candidates for civil service examinations meet him in optional papers in political science and sociology, and candidates in national eligibility tests meet him as a screening item. In every one of those rooms the same definition is sitting in most scripts, absorbed from revision resources that teach it with confidence: hegemony is the ruling class controlling ideas, dominating culture, manipulating the masses into accepting their own subordination. That definition is the subject of this guide, because it is the single most expensive sentence a candidate on this topic can write.
 
 This guide is the capstone of the Gramsci cluster in this series, and it assumes the concepts themselves can be found in their own articles: the full reconstruction sits in the [gramsci hegemony complete guide](/2015/01/15/gramsci-hegemony-complete-guide/), and general essay technique belongs to the separate guide on [how to write a marxism essay](/2021/10/15/how-to-write-a-marxism-essay/), while the wider sociology assessment belongs to the [marxist sociology exam answers](/2021/08/15/marxist-sociology-exam-answers/). What follows addresses the narrower and more profitable craft of converting the cluster's corrections into marks. It proceeds by a named method, the three-element opening, and a findable instrument, the Gramsci answer matrix, which together cover the five question types this topic generates. It corrects the misreadings that cap scripts, works three specimen answers with their marking logic exposed, and states the neutrality condition plainly at the start: a candidate who concludes, on evidence, that hegemony theory fails can score full marks in any room named above, and several specimen answers below do exactly that kind of damage to the theory while earning their band.
 
-![Gramsci and hegemony exam guide, answer matrix, timed plans and worked answers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gramsci and hegemony exam guide, answer matrix, timed plans and worked answers - Insight Crunch](/assets/images/blog/blog-105.webp)
 
 ## Why Gramsci follows candidates into so many examination rooms
 

@@ -6,16 +6,17 @@ date: 2015-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Intellectuals", "Political Theory", "Education"]
 excerpt: "Organic intellectuals are defined by function, not by schooling: every class creates its organisers, and the function test separates them strictly by role."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 128
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-03-01
+lang: en
 ---
 Few terms in the vocabulary of Marxist theory have travelled as far from their original meaning as organic intellectuals. In education faculties, in cultural studies, and in a great deal of activist writing, the phrase now serves as a compliment: it praises the scholar who came from a poor background, the academic who marches with movements, the writer whose sympathies lie with the marginalised. Each of those usages answers a question about a person, where they started in life or where their loyalties sit, and each therefore misses the thing the concept was built to name. In the prison notebooks of Antonio Gramsci, the category answers a question about a position inside a structure: what organising work is being performed, and for which class is it performed? The distance between the two usages is total. On the functional definition, a corporate lawyer and an industrial engineer are organic intellectuals of capital in exactly the sense the term specifies, needing no apology and no inverted commas. A professor born into a mining family may be nothing of the kind, whatever the compliment intends.
 
 That is the correction this article exists to make, and it is worth making slowly, because the misreading is not a harmless looseness. A concept that once analysed how classes organise themselves, how they acquire coherence and an awareness of their own function, has been converted into a badge of personal identity, and a badge cannot do analytical work. Once the term means a clever person of humble origin, it can no longer tell you that every class, including the dominant one, is elaborated by its own intellectual stratum, or that the stratum a class inherits from an older order behaves differently from the stratum it creates. The pages that follow restore the functional criterion piece by piece: the full definition, a test that can be applied to any occupation, a grid that classifies eight real positions, the traditional intellectuals whose claim to independence the notebooks treated as both illusion and social fact, the party understood as a collective intellectual, the breadth objection stated at full strength, and the concept's later career in education theory, where the biographical reading took hold most firmly.
 
-![Organic intellectuals explained, function, organisers and the party as collective intellectual - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Organic intellectuals explained, function, organisers and the party as collective intellectual - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## Organic intellectuals and the misreading to correct
 

@@ -6,14 +6,15 @@ date: 2015-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Althusser", "Ideology", "Political Theory"]
 excerpt: "Gramsci vs Althusser on ideology sets consent against interpellation across seven points, with the withdrawal test to decide where each rival account ends."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 129
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-04-15
+lang: en
 ---
 Two names dominate every serious account of how Marxist theory explains belief, obedience and the quiet reproduction of a social order. Antonio Gramsci, writing in a fascist prison between 1929 and 1935, built his answer around hegemony and consent. Louis Althusser, writing in Paris four decades later, built his around ideological state apparatuses and interpellation. The two men never met, belonged to different generations of the same movement, and are usually taught in sequence, one chapter after the other, as though the second simply continued the first. That classroom habit conceals the most instructive fact about them: Althusser both honoured Gramsci as his one real predecessor on this terrain and attacked him by name, in print, as the exponent of the deviation he most wanted to expel from Marxist theory. This article treats the pair as what they are, two rival answers to a single question, and it resolves the comparison by finding the one disagreement from which all the others follow.
 
-![Gramsci vs Althusser on ideology, consent, interpellation and the state apparatuses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Gramsci vs Althusser on ideology, consent, interpellation and the state apparatuses - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 The single question can be stated plainly. Capitalist relations do not persist by force alone, and neither thinker believed they did. Factories are staffed, laws are obeyed, taxes are paid, wars are volunteered for, and elections ratify outcomes that leave the underlying distribution of property untouched, mostly without soldiers in the street. Something secures the active or passive agreement of the governed, and that something works through institutions that are not, on their face, instruments of repression: schools, churches, newspapers, parties, trade unions, families, courts in their everyday rather than their punitive aspect. Gramsci and Althusser agree that the explanation of social order lies substantially in these institutions. They agree that ideology is not a decorative set of ideas floating above real life but a practical force embedded in organisations and routines. They even agree, against a cruder Marxism, that the economy does not mechanically stamp beliefs onto passive minds. The agreement is real, and it is what makes the disagreement worth having. Where they divide is over what happens inside those institutions to the people who pass through them, and over whether those people can, in principle, take their agreement back.
 

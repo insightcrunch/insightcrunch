@@ -6,14 +6,15 @@ date: 2014-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rosa Luxemburg", "Trotsky", "Exam Preparation", "Political Theory"]
 excerpt: "Luxemburg and Trotsky in an exam reward the record-inclusion rule: judge each thinker with their defeats and offices inside the answer, not edited out."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 126
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-12-15
+lang: en
 ---
 Luxemburg and Trotsky occupy a peculiar place in examination halls. Few candidates meet them as neutral syllabus entries. Most arrive carrying a verdict absorbed from a movement pamphlet, a hostile textbook paragraph, or a teacher's aside, and the script that follows reads as advocacy for one side of an argument the marker may not share. The marks, meanwhile, sit in a different place entirely. They reward the candidate who can state each thinker's argument accurately, test it against the events that thinker actually lived through and helped to shape, and reach a judgement whose strength matches the evidence presented. This guide teaches that performance. Its organising discipline has a name, the record-inclusion rule, and its promise is plain: a candidate who judges Luxemburg and Trotsky with their defeats, offices, and contested episodes inside the answer, rather than edited out by sympathy or by hostility, writes the kind of script that examiners at every level are trained to reward.
 
-![Luxemburg and Trotsky exam guide, two thinkers judged with their records inside the answer - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Luxemburg and Trotsky exam guide, two thinkers judged with their records inside the answer - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 Two corrections carry more marks per word on this topic than any others, and both belong near the front of any answer where they apply. The first is that Rosa Luxemburg was not a spontaneist who trusted the masses to dispense with organisation. She built parties, led one into a revolution, and quarrelled with Lenin over a specific organisational form, not over organisation itself. The second is that the phrase permanent revolution was not coined by Leon Trotsky. It descends from Marx, who used its language in eighteen fifty, and Trotsky's achievement was to rebuild it into a theory of the Russian Revolution's trajectory, not to invent its name. A candidate who opens with either correction, where the question invites it, signals reading before the exposition begins. A candidate who repeats either error signals the opposite, and on this topic markers are unusually alert to both, because both errors circulate in exactly the partisan literature that examination boards warn candidates against trusting.
 

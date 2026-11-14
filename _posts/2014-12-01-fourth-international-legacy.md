@@ -6,14 +6,15 @@ date: 2014-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Fourth International", "Trotsky", "History", "Political Theory"]
 excerpt: "The Fourth International fragmented under three pressures at once: repression, defeat and doctrine, and the fragmentation and influence table maps it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 125
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2014-12-01
+lang: en
 ---
 The Fourth International is the organisation that jokes are made about, and the jokes rest on a genuine puzzle. Founded in 1938 by supporters of Leon Trotsky who expected it to lead millions within a decade, it remained small for the whole of its existence, divided into rival bodies within two years of its founding conference, split again on a world scale in 1953, and fragmented thereafter into a family of competing organisations, each presenting itself as the continuation of the founding project. A movement with that record invites ridicule, and ridicule has been the standard treatment. Yet the same tradition produced the most cited Marxist economist of the postwar decades outside the universities, the biographer who fixed Trotsky's reputation in the English language, a party that became a principal force in one country's politics and entered its government, and a set of ideas that travelled through trade unions, student movements and journals far beyond the reach of any membership card. Both halves of that record are facts. An account that keeps only the fragmentation is a comedy sketch, and an account that keeps only the influence is a recruitment leaflet. This article holds the two together, and it explains the fragmentation structurally, by three factors acting in combination, rather than by the personalities that popular retelling prefers.
 
-![The Fourth International and its legacy, fragmentation, entryism and influence beyond its sections - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Fourth International and its legacy, fragmentation, entryism and influence beyond its sections - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The explanation offered here has a name, because arguments that can be named can be tested. The three-factor fragmentation holds that the movement split so often because three pressures operated on it at once and reinforced one another. Repression destroyed its cadres, exiled its leadership and taught its survivors habits of secrecy and suspicion that outlasted the emergencies which produced them. Defeat and isolation denied it the mass experience that disciplines doctrine, leaving small circles to argue questions that a living movement settles by practice. Doctrine and its disputes then supplied disagreements of a kind that could not be compromised, because they concerned the class character of states, the strategy of revolution and the authority of the organisation itself. Remove any one factor and the others become survivable. Combined, they made disagreement organisationally unabsorbable, so that disputes which a mass party would have contained as internal argument repeatedly ended as separate organisations with separate newspapers, separate headquarters and separate claims to the same inheritance. The influence, meanwhile, is measured where it travelled, in movements, parties and ideas far beyond the sections' enrolled strength, and organisational smallness is treated throughout as a fact to be explained, never as a synonym for insignificance and never as a badge of purity.
 

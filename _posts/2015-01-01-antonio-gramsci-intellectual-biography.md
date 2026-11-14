@@ -6,14 +6,15 @@ date: 2015-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "Biography", "Hegemony", "History"]
 excerpt: "Gramsci wrote his theory in a fascist prison, in code, in fragments: the formation and concept table, and the linguistic origin of his key ideas and concepts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 126
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-01-01
+lang: en
 ---
 Antonio Gramsci is usually introduced through a cell. The standard portrait shows a frail prisoner in a fascist jail, filling notebooks that would be smuggled to safety and published after his death, and it treats the concepts in those notebooks as though they had been conjured out of suffering and isolation. The portrait is not false, but it explains almost nothing. It leaves the reader with a martyr and a mystery: why this prisoner, alone among the defeated communists of his generation, produced a body of concepts that political theory still works with. A biography that begins with the cell cannot answer that question. A biography that begins with his formation can, because the concepts were not invented in prison. They were assembled there, under appalling conditions, out of materials gathered in a Sardinian childhood, a university training in an unexpected discipline, a newsroom apprenticeship, and a failed revolution in the factories of Turin.
 
-![Antonio Gramsci, an intellectual biography, the prison writings, hegemony and the southern question - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Antonio Gramsci, an intellectual biography, the prison writings, hegemony and the southern question - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The organising fact of the life is a training most summaries never mention. Gramsci went to university to study language. At Turin he worked under a professor of the school of linguistics that mapped how innovations in speech spread from prestigious centres outward, winning adoption by imitation and acceptance rather than by command. Hold that model in mind and the most famous of his political concepts stops looking like an improvisation. Hegemony, rule secured through consent organised across the institutions of civil society, is the political form of a process he had first studied in words: a centre whose prestige makes its usages into the usages of others, without soldiers and without decrees. This biography is built around that connection, which the specialist scholarship has documented and popular accounts almost never reach. It follows the formation first and lets each concept appear where its materials were gathered.
 

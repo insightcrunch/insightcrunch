@@ -6,14 +6,15 @@ date: 2014-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Trotskyism", "Stalinism", "Trotsky", "Political Theory"]
 excerpt: "Trotskyism and Stalinism offer four rival analyses of the same state: the four analyses grid and the counterfactual constraint applied to each one in turn."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 125
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-11-15
+lang: en
 ---
 Trotskyism and Stalinism are most often used as insults or as badges, traded between people who have usually inherited their allegiance before examining the evidence. Stripped of the polemic, the two names denote something more precise and more interesting: rival analyses of one and the same state, the Soviet Union, offered by people who began inside a single revolutionary movement and agreed about almost everything except what that movement had produced. One side held that the state remained socialist in its foundations and required defence and development. The other held that a privileged bureaucracy had usurped political power while leaving the property foundations of the revolution intact, and required removal by a political revolution that would preserve those foundations. Around those two positions, dissidents from the second camp later built two further analyses, arguing that the bureaucracy was not a parasite on the system but the ruling class of a new kind of exploitative society. Any honest comparison has to handle all four, because the argument among them is where the substance lives.
 
-![Trotskyism vs Stalinism, four analyses of the Soviet state and its bureaucracy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Trotskyism vs Stalinism, four analyses of the Soviet state and its bureaucracy - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The method of this comparison is stated at the outset so that neither tradition can quote it selectively. Each of the four analyses will be graded by the same three tests: what it predicted before the events, what it explained once the events had occurred, and what it could not explain without strain. A second discipline runs alongside the first, and it gives this article its namable claim. Where a tradition argues that it would have done better in power, the first evidence to examine is the recorded conduct of the people who would have held that power. That discipline is the counterfactual constraint applied throughout what follows, and speculation is labelled as speculation wherever it appears, because a counterfactual asserted without a label is a conclusion smuggled past the reader. A third discipline completes the method. A class analysis, which asks what a ruling stratum is and how its power and income arise, is kept separate from a moral verdict, whose business is the deeds themselves and the question of their justification. Confusing those two operations is the most common defect in writing on this subject, and it corrupts history written from every side of the argument.
 

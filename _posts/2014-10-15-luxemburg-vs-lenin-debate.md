@@ -6,14 +6,15 @@ date: 2014-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rosa Luxemburg", "Lenin", "Political Theory", "Debates"]
 excerpt: "Luxemburg and Lenin argued about the party for fifteen years and kept confirming each other's deepest claims: the agreement and disagreement grid in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 124
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2014-10-15
+lang: en
 ---
 The quarrel between Rosa Luxemburg and Vladimir Lenin is usually introduced to readers as a contest between two temperaments, and the introduction does both of them an injury before the evidence is even heard. On one side stands the organiser, suspicious of enthusiasm, drilling his faction into an instrument that could seize and hold power. On the other stands the tribune of the masses, trusting the energy of the crowd, allergic to committees, waiting for history to move through spontaneous action rather than through plans drawn up in exile. Luxemburg against organisation, Lenin against the crowd: the pairing is neat, memorable, and false in nearly every particular that matters. Luxemburg founded parties, led one for most of her adult life, wrote its programme, edited its press and disciplined its factions with a polemical ferocity her opponents remembered for decades. Lenin, for his part, wrote some of the most perceptive pages any European socialist produced about the creative power of mass action during the revolution of 1905, and repeatedly urged his own organisation to throw its doors open to workers flooding toward politics. A debate between two party builders about how a party should be built is a harder subject than a fable about temperament, and it is also a far more instructive one.
 
-![Luxemburg vs Lenin on party and masses, organisation, spontaneity and their long argument - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Luxemburg vs Lenin on party and masses, organisation, spontaneity and their long argument - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 What follows reconstructs the argument as it actually unfolded across fifteen years, from her essay on the organisational questions of Russian social democracy in 1904 to the manuscript on the Russian Revolution she wrote in a prison cell in 1918 and declined to publish. Three corrections organise the whole treatment, and a reader who carries away nothing else should carry these. First, the disagreement about organisation was a disagreement about a specific design, a central committee empowered to prescribe tactics to the movement, and not a disagreement about whether organisation should exist. Second, their sharpest and least reconcilable dispute was not about committees at all but about the national question, the right of nations to self-determination, which he defended as a democratic demand and she rejected as a snare, in an argument rooted in the politics of partitioned Poland and never settled between them. Third, the English title under which her 1904 essay circulated for decades, a title posing Leninism against Marxism as rival doctrines, was supplied by an American editor in the early nineteen sixties and appears nowhere in anything she wrote. The framing of the debate, in other words, was partly manufactured by its packaging, and recovering the argument requires peeling the packaging away.
 

@@ -6,14 +6,15 @@ date: 2015-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Gramsci", "War of Position", "Political Theory", "Strategy"]
 excerpt: "War of position and war of manoeuvre name two strategies for two kinds of state: the two wars compared, and dominance without replacement of either war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 128
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-02-15
+lang: en
 ---
 The war of position is probably the most quoted phrase in Antonio Gramsci's vocabulary and the least examined. It circulates as a slogan of patience, gets attached to any slow accumulation of influence, and is often paired with its twin, the war of manoeuvre, in summaries that settle both in a sentence apiece. Manoeuvre, the summaries say, means revolution: a rapid assault on state power. Position means reform: the gradual conquest of culture, institutions and opinion until power somehow changes hands by accumulation. That pairing is neat, quotable and wrong in a way that matters, because it converts a distinction about the structure of states into a choice between temperaments. Gramsci's pair of terms does something more precise and more demanding. It says that the form a struggle must take is dictated by the kind of state it confronts, that in one kind of state a frontal assault can decide everything, and that in another kind the same assault shatters against defences that are not made of soldiers at all.
 
-![War of position and war of manoeuvre, trenches, civil society and two kinds of state - Insight Crunch](/assets/images/blog/blog-01.webp)
+![War of position and war of manoeuvre, trenches, civil society and two kinds of state - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The one test that this article sets its reader is narrow and worth stating at the outset. Gramsci did not abandon the war of manoeuvre in favour of a permanent gradualism, and the distinction between the two wars rests on an observation about how densely civil society is organised in different states. A reader who holds those two points firmly, and can say why each follows from the other, holds the pair correctly. Everything else in the article is evidence assembled around them: the passage in the prison notebooks where the distinction is grounded, the rule that governs the relation between the two forms, the misreadings that have been built on top of it, and the genuine gap in the theory that its critics have always pressed. The correction of the popular misreading is the first duty here, and it is a correction made by returning to the texts, not by scolding the readers who inherited the shortened version. The shortened version has a history, and the history explains why it was useful to people who were not Gramsci.
 

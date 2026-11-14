@@ -6,16 +6,17 @@ date: 2015-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Hegemony", "Gramsci", "Political Theory", "Civil Society"]
 excerpt: "Hegemony is consent organised, not merely imposed: leadership, material concessions and common sense, graded by the hegemony test case by case in full."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 127
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-01-15
+lang: en
 ---
 Hegemony may be the most borrowed word in social theory and the least examined. It appears in newspaper columns about media power, in textbooks about empires, in seminar rooms about schooling, and in everyday speech as a grand synonym for being on top. Almost everywhere it travels, it arrives carrying the same small definition: domination achieved through ideas, rule by persuasion rather than by force, the quiet manufacture of agreement by those who control the cultural machinery. That definition is not false in the way a wrong date is false. It is false in the more damaging way, by omission. It leaves out the working parts that make Antonio Gramsci's concept do distinctive analytical work, and without those parts hegemony cannot be told apart from ideology, from propaganda, or from false consciousness, which is why students, journalists, and not a few scholars use the four terms as if they were interchangeable labels for a single complaint.
 
 This guide rebuilds the concept from its working parts, in the order in which the parts depend on one another. It begins with the word's career before Gramsci, since hegemony was inherited from Russian social democratic debates and transformed rather than coined, and the inheritance explains the concept's shape. It then sets out the double formula at the centre of the Prison Notebooks, in which leadership over allies is paired with coercion over enemies and the state is grasped as political society and civil society together. From there it isolates the guide's centre, the condition that separates hegemony from every neighbour: a leading group must make real concessions, sacrifices of its own immediate interests, or it is exercising domination and merely calling it leadership. That condition, named here as the concessions condition, becomes the grading instrument of the article's findable artifact, the hegemony test, a four-question procedure for sorting genuine cases from loose usage. The concept's supporting machinery, common sense, contradictory consciousness, the historic bloc, passive revolution, and trasformismo, is assembled along the way, and the strongest objection to the whole construction, that the concept has grown so elastic it can explain anything and therefore explains nothing, is stated at full strength and answered before the guide closes.
 
-![Hegemony, the complete guide, consent, leadership, concessions and common sense - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hegemony, the complete guide, consent, leadership, concessions and common sense - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 ## The misreading that has to be corrected first
 
