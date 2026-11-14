@@ -6,16 +6,17 @@ date: 2016-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Feminism", "Radical Feminism", "Liberal Feminism", "Comparison"]
 excerpt: "Marxist feminism, radical feminism and liberal feminism answer four questions differently: the four questions grid and the primacy decision between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 145
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-11-15
+lang: en
 ---
 Marxist feminism, radical feminism and liberal feminism are usually introduced as three points on a scale of intensity, as if the second were a stronger dose of the first and the third a compromise between extremes. That picture is wrong, and unlearning it is the first step toward understanding any of the three. They are analytical positions. Each identifies a different structure as the primary one producing women's subordination, each therefore locates the mechanism in a different place, and each therefore counts a different outcome as liberation. The disagreements that look like quarrels about tactics or tone are downstream of a single prior choice, and a comparison that starts anywhere else, with policies, slogans, or degrees of militancy, will describe the differences without ever explaining them.
 
 This article rebuilds the comparison from that prior choice upward. It states what each tradition, in the words of its own best-known proponents, takes the problem to be; it follows each answer through four questions that separate the positions cleanly; it restores a fourth position, dual systems theory, which held the ground between two of the three for a period and which the standard revision tables omit; and it sets out the criticisms the traditions direct at one another, attributed to the named writers who made them, with the works in which they made them. Readers who hold any of these positions should find their own stated fairly here, because the method of the article is to let the primacy decision do the explaining and to grade no tradition against a standard imported from outside it.
 
-![Marxist feminism compared with radical and liberal feminism, the four questions grid and the primacy decision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist feminism compared with radical and liberal feminism, the four questions grid and the primacy decision - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 One boundary should be marked before the argument begins. The tradition this series examines at length has its own full treatment in the [guide to Marxist feminism and its development](/2016/09/01/marxist-feminism-complete-guide/), and nothing here attempts to replace it. What follows is a comparison and a decision procedure: a way of seeing why three bodies of writing that share an enemy, the subordination of women, diverge so sharply about causes, agents, and remedies. Where a neighbouring concept such as patriarchy, capitalism, or social reproduction does the heavy lifting inside a position, the article names it, places it in that position's architecture, and links outward rather than pausing to build a second explanation inside the first.
 

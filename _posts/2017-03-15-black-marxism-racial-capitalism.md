@@ -6,16 +6,17 @@ date: 2017-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Racial Capitalism", "Black Marxism", "Colonialism", "History"]
 excerpt: "Racial capitalism began as a South African term and became a claim about capitalism itself: the constitutive and produced positions and their dispute."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 148
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-03-15
+lang: en
 ---
 Racial capitalism is a term with an address. Before it named a claim about capitalism in general, it named a specific society: South Africa under apartheid, analysed by Marxist historians and sociologists during the 1970s who were arguing about whether that country's racial order served capital accumulation or obstructed it. Only afterwards, in a celebrated study published in 1983, was the phrase lifted out of that debate and generalised into a thesis about the origins of capitalism itself, and it is in that generalised form that the term circulates in lecture halls, journals, and political writing. Readers who meet the phrase in its generalised form usually meet it staged as a challenge directed at Marxism from outside, a verdict delivered on the tradition by its critics. That staging is wrong, and wrong in a way that changes what the argument is about. The general claim is contested, certainly, but its most searching critic is not a defender of orthodoxy guarding a border. The critic is a Marxist historian who argues that the concept, in its strong form, misunderstands what race is. Both sides of the argument are Marxist, both sides work from the same archive of slavery, colonialism, and labour, and the disagreement between them concerns the genesis and the ontological standing of race within capitalist development. Establishing that geography of the dispute, before any exposition of either position, is the first task of an honest guide, because a reader who mistakes the argument for a border skirmish will misread every contribution to it.
 
 Two disciplines govern what follows. Each position is stated in its proponents' own terms, at the strength its proponents would choose, before any criticism of it is weighed; the reader is entitled to meet the strongest version of each side rather than a summary arranged to make one side's victory easy. And where the primary sources of earlier centuries employed the vocabulary of racial contempt that their societies licensed, this article describes what such sources said and identifies where they said it without reproducing their epithets, because the analytical work is done by the characterisation and nothing is added by the words themselves. The exposition links rather than re-explains the series' standing concepts where they appear: the account of capitalism's violent beginnings is treated in the guide to [primitive accumulation](/2011/01/01/primitive-accumulation-explained/), and the structure of the class relation in the [guide to the Marxist theory of class](/2011/09/01/marxist-theory-of-class-guide/), so that the space here can be spent on the dispute itself.
 
-![Black Marxism and racial capitalism, the constitutive and produced positions and the internal dispute - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Black Marxism and racial capitalism, the constitutive and produced positions and the internal dispute - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 ## Racial capitalism at home: a term with an address
 

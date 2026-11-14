@@ -6,14 +6,15 @@ date: 2017-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Imperialism", "Political Economy", "Colonialism", "History"]
 excerpt: "Imperialism names three incompatible objects in the Marxist literature: the three senses table separates them, and the three-senses rule grades usage."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 146
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2017-02-01
+lang: en
 ---
 Imperialism, in ordinary speech, describes conquest: an empire seizes territory, plants a flag, and rules strangers from a distant capital. A reader arriving with that picture in mind will misunderstand nearly everything in the Marxist literature on the subject, because the word performs different work there. Within that tradition, imperialism usually denotes a phase of capitalism itself, or a durable pattern of unequal exchange linking wealthy economies to poorer ones, and only sometimes the older business of annexation. The confusion is not a pedantic quarrel about vocabulary. Each meaning carries its own evidence, its own chronology, and its own verdict on whether the phenomenon persists, so an argument conducted without separating them can be won or lost purely by sliding between definitions midway through.
 
-![Marxism and imperialism guide, the three senses table and the three-senses rule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and imperialism guide, the three senses table and the three-senses rule - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This guide exists to perform that separation and then to grade what remains. Its central instrument is the three-senses rule, which holds that quarrels over the word's survival usually shrink to manageable size once each party's intended object has been pinned down, since the disputants are commonly defending different things under one shared label. The rule is stated here, at the outset, because the guide asks readers to apply it continuously. Whenever a claim appears in the pages that follow, in a classical text written before the First World War or in a scholarly controversy of much later vintage, the first question to ask of it is classificatory. Which object is being discussed? A period in the development of capitalism, an activity that states undertake, or a relationship that outlasts any single policy? Only after that sorting has been done does it make sense to ask whether the claim is true.
 

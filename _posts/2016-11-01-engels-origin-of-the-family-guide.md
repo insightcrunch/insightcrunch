@@ -6,16 +6,17 @@ date: 2016-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Engels", "The Family", "Marxist Feminism", "History"]
 excerpt: "Engels on the Family tied women's oppression to private property on evidence since superseded: the claims audit and the separable programme it leaves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 144
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-11-01
+lang: en
 ---
 The Origin of the Family, Private Property and the State is the book in which Friedrich Engels set out to explain how women came to be subordinated, and it did so on a foundation that has since given way entirely. Engels wrote it in 1884, drawing on the anthropology of Lewis Henry Morgan, whose Ancient Society had appeared seven years earlier and whose scheme of human development arranged every known people on a single ladder of stages. That ladder has been dismantled. The evolutionary stage scheme, the universal early stage of mother-right from which Engels derived his history, and the reconstructions of primitive marriage built from kinship vocabularies have all been rejected by the discipline whose evidence he borrowed. Any honest guide to the book has to begin there, in the open, and not in a footnote near the end: the anthropological basis of this text collapsed, and it collapsed comprehensively.
 
 And yet the book would not go away. For a hundred years it was the socialist movement's standard treatment of the woman question, read wherever that movement organised, translated wherever it published, and quarried for arguments long after anthropologists had stopped citing Morgan except as a figure in their own discipline's history. Its programme, that women's emancipation requires entry into social production on a large scale together with the transfer of household labour to social institutions, passed into the policy of parties and then of states. Feminist scholars of a later generation fought over it in both directions, some editing and defending parts of it, others treating it as the point their own work had to leave behind. A book can be refuted in its evidence and remain load-bearing in its influence, and this one is the standing example. The task of this guide is the separation the book's readers have too often skipped: claim by claim, what depended on the collapsed foundation, what did not, and what follows for anyone picking it up now.
 
-![Engels on the family, the claims audit and the separable programme - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Engels on the family, the claims audit and the separable programme - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 That separation has a name in what follows. The separable programme is the name this guide gives to the book's political conclusion, that emancipation requires both waged social production open to women and the socialisation of domestic work, and the name marks a logical fact: the programme does not stand or fall with Morgan's stages. One could grant every objection the anthropologists have made, surrender the matriarchy, the stage sequence and the kinship fossils entire, and the programme would still be there to be argued with on its own terms, because it is a claim about the economics of the household under capitalism and not a claim about prehistory. Conversely, one could defend the programme fiercely and gain nothing for the prehistory. Most writing on the book confuses these two ledgers, scoring points on one and banking them on the other. The claims audit set out later in this guide is the instrument for keeping them apart: a row for each major claim, the evidence its author relied on, the standing of that evidence, and a verdict.
 

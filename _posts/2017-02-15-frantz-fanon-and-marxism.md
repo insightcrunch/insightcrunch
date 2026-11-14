@@ -6,16 +6,17 @@ date: 2017-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Fanon", "Colonialism", "Imperialism", "Biography"]
 excerpt: "Fanon stretched Marxist analysis until it fitted the colony, where race and class are fused: the five chapters assessed in full and the preface displacement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 148
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-02-15
+lang: en
 ---
 Frantz Fanon was a psychiatrist from Martinique, a French colony in the Caribbean, who resigned a senior hospital post in Algeria to join the Algerian independence movement, and who wrote, inside a working life of barely a decade, the books on which the theory of decolonisation largely rests. His subject throughout was the psychology and politics of colonial rule: what domination does to the minds of the dominated and of the dominators, and what sort of political order could bring domination to an end. His central modification of the Marxism he inherited can be given in a word of his own, stretching. Marxist analysis, he held, should always be slightly stretched when it is applied to the colonial problem, because in the colony the categories of race and class refuse to sit in separate compartments of the theory. They are fused together, and an analysis that insists on keeping them apart will misdescribe the society standing in front of it.
 
 Three corrections organise everything this profile has to say, because the literature on Fanon is unusually crowded with confident error. The celebrated chapter on violence is habitually read through a preface written by another man, a preface considerably more inflammatory than the chapter it introduces, and a substantial part of what the world attributes to Fanon on violence originates there. The most cited chapter of his first book travels in English under a title that mistranslates the French, converting a phenomenological account of lived experience into a flat assertion about fact. And the chapter of his final book that events have vindicated most completely, the anatomy of what national consciousness becomes after independence, is the chapter his readers discuss least. A reader who holds those three corrections in view can approach the famous material with the proportions restored.
 
-![Frantz Fanon and Marxism, the five chapters assessed and the preface displacement - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Frantz Fanon and Marxism, the five chapters assessed and the preface displacement - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The profile proceeds from the life to the arguments. It begins with the four postings that made the theorist, Martinique, wartime and student France, the psychiatric hospital at Blida, and exile in Tunis, because Fanon's concepts were formed in institutions and carry the marks of them. It then takes up the psychology of colonial racism set out in his first book, the stretching of Marxist analysis that is this article's organising idea, and the disputed question of who makes a colonial revolution. The final book is then assessed chapter by chapter, which is the only way its very unequal reception makes sense, before the violence chapter and its preface are disentangled and the prediction about post-independence states is examined on its own. Readers who want the wider framework of imperialism theory into which Fanon was intervening will find it in the series [marxism and imperialism guide](/2017/02/01/marxism-and-imperialism-guide/), which this profile assumes rather than repeats.
 

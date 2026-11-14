@@ -6,16 +6,17 @@ date: 2016-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Federici", "Wages for Housework", "Marxist Feminism", "Gender"]
 excerpt: "Federici turned a wage demand into a lever against unwaged work itself: the claim and evidence table and the demand as lever at the campaign's centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 143
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-10-15
+lang: en
 ---
 Silvia Federici is an Italian-American feminist theorist formed in the autonomist current of Marxism, and her reputation rests on two contributions that this profile keeps separate because they stand or fall separately. The first is a political campaign of the nineteen seventies, wages for housework, which she helped to build on two continents and whose logic is persistently misread as a proposal to pay housewives. The second is a historical thesis, set out in her book Caliban and the Witch of 2004, which argues that the early modern persecution of women as witches belonged to the process by which capitalism took control of reproduction. Both contributions are contested, and the contests are of different kinds: fellow feminists disputed the campaign's demand at the time, on grounds this profile states from named critics, while historians of the early modern period dispute the book's chronology, geography, and casualty scale on evidence that can be checked in the trial records.
 
 A reader who meets her name on a reading list usually meets it without either contest attached, and that omission does real damage in both directions. Detached from its political logic, the wage demand sounds like a scheme for pensioning domesticity, which is close to the opposite of what its authors designed it to do. Detached from the specialist literature, the witch hunt thesis circulates as settled history, complete with a casualty figure that descends from a discredited eighteenth-century extrapolation rather than from the archives. This profile therefore proceeds in a deliberate order. It expounds the demand first, through the pamphlet in which Federici stated its logic most sharply, and gives the objection to the demand at full strength before turning to the history. It then expounds the historical thesis at length, component by component, and gives the historians' objections at equal length, attributed to the scholars and the books in which the findings appear. What survives each contest is assessed only after both sides are on the page.
 
-![Federici and wages for housework, the claim and evidence table and the demand as lever - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federici and wages for housework, the claim and evidence table and the demand as lever - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 Three terms recur throughout and are treated in depth in their own articles in the series, so they are linked rather than re-derived here. The historical thesis is an extension of the account of primitive accumulation, the violent separation of producers from the means of subsistence with which Marx closed the first volume of Capital. The campaign's theoretical claim, that housework reproduces the worker and so belongs inside the analysis of capital rather than outside it, belongs to the wider argument about social reproduction theory, where Federici's version is one position among several and not the consensus one. And the technical question underneath the campaign, whether domestic labour produces value, was fought out in the domestic labour debate, whose papers supply the vocabulary in which her pamphlet argues. The profile's own business is narrower: one thinker's formation, one demand and its logic, one book and its evidence.
 

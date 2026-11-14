@@ -6,14 +6,15 @@ date: 2017-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "CLR James", "Black Jacobins", "Colonialism", "Biography"]
 excerpt: "The Black Jacobins made the enslaved of Saint-Domingue a proletariat in James's argument: the four Jameses and the proletarianisation argument assessed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 148
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-04-01
+lang: en
 ---
 C. L. R. James was a Caribbean Marxist who wrote history, political theory, literary criticism, and one of the finest books ever written about a sport, and the work on which his reputation rests is a history of the only slave revolution that ever succeeded. The Black Jacobins, published in 1938, reconstructs the uprising in the French sugar colony of San Domingo that destroyed slavery there, defeated three European powers in turn, and founded the state of Haiti. Its central argument is not the moral one a reader might expect. James held that the enslaved workers of the great sugar plantations, because of the way their labour was organised, stood closer to a modern proletariat than any body of workers then existing in Europe. That claim, and not the narrative of suffering and heroism that surrounds it, is what makes the book a work of Marxist analysis, and it is the thread this profile follows through the whole of his long career.
 
-![C.L.R. James, The Black Jacobins and the four Jameses - Insight Crunch](/assets/images/blog/blog-01.webp)
+![C.L.R. James, The Black Jacobins and the four Jameses - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The profile makes three organising distinctions. First, it treats the proletarianisation argument as an argument: a claim about the organisation of production, with premises that can be inspected and a conclusion that can be resisted, rather than as a rhetorical tribute paid by a historian to his subjects. Second, it keeps separate the several Jameses who are usually blended into a single picturesque figure, the Trinidadian journalist and cricketer, the historian of the Haitian revolution, the American revolutionary organiser, and the returned West Indian man of letters, because the arguments change as the phases change and a blended portrait conceals the changes. Third, it states at full strength the dispute about where James stands in relation to Marxism itself. A major scholarly reading, published in 1983, places him as a figure who passed through Marxism into an autonomous Black radical tradition. James never accepted that placement and described his work as Marxist to the end of his life. Both positions are given here in their strongest forms, with their authors named, and the article does not adjudicate between them, because the dispute is itself one of the most instructive things in the whole field of Marxism and race.
 

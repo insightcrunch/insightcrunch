@@ -6,16 +6,17 @@ date: 2017-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxist Feminism", "Exam Preparation", "Gender", "Study Guide"]
 excerpt: "Marxist feminism in an exam rewards the current-form move: state each position in its strongest present form, using the feminism answer matrix to plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 147
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-01-15
+lang: en
 ---
 Marxist feminism is examined across sociology, politics, and gender studies papers more reliably than almost any other theoretical perspective, and it is marked in a way candidates consistently misunderstand. Assessment on this topic rewards one skill above all others: the ability to state what distinguishes the traditions from each other in terms of the system each treats as primary. It penalises, with equal consistency, the answer that ranks oppressions, placing class above gender or gender above class as though the perspectives were entries in a league of harms. A marker reading the ranking formulation learns within two sentences that the candidate has absorbed a slogan about the position rather than the position itself, and the script is graded accordingly for the remaining pages. Everything in this guide follows from that asymmetry. The distinction between a primacy claim and a hierarchy of suffering is the single most valuable sentence pattern available on this topic, and the candidate who builds an opening around it has already separated the script from the majority of the cohort.
 
 The second reward is smaller but nearly as reliable. Markers credit reading that runs past the standard revision resources, and on feminist perspectives those resources largely stop with the debates of several decades ago, as though the tradition had been wound up once the domestic labour argument had run its course. It had not. The position exists in a developed contemporary form, social reproduction theory, which restates the older claims about unpaid work with greater precision and answers several objections that the older form invited. Naming that form, accurately and in its strongest version, performs two services in a single sentence: it demonstrates currency, and it supplies the evaluation of the earlier literature that the top band asks for. This guide calls that manoeuvre the current-form move, and treats it as the highest-return single addition a candidate can make to any answer in this field.
 
-![Marxist feminism exam answers, the feminism answer matrix and the current-form move - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxist feminism exam answers, the feminism answer matrix and the current-form move - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This guide teaches the writing, not the doctrine. The doctrine itself, the arguments in full and the history behind them, is set out in the series article on the [marxist feminism complete guide](/2016/09/01/marxist-feminism-complete-guide/), and each component topic has its own treatment, linked where a candidate needs depth rather than technique. What follows is organised around the question types examiners actually set on feminist perspectives, gathered into the feminism answer matrix, and around the small set of errors that cost the most marks year after year. General essay technique, the transferable kind, belongs to its own guide and is not repeated here; the wider sociology paper, where feminist perspectives appear as one theory among several, has its own treatment as well. The territory of this guide is narrower and more valuable: the formulations that survive a knowledgeable marker, the theorists worth naming and the claims worth attaching to them, and the discipline of evaluating through named critics rather than through unattributed complaint.
 

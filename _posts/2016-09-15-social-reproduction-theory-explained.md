@@ -6,14 +6,15 @@ date: 2016-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Social Reproduction Theory", "Marxist Feminism", "Gender", "Political Economy"]
 excerpt: "Social reproduction theory asks how labour power is renewed daily and generationally: the sites of reproduction table and the bracketing thesis stated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-111.webp"
 reading_time: 142
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-09-15
+lang: en
 ---
 Social reproduction theory begins with a worker arriving at a factory gate, an office door, or a hospital entrance, fed, rested, clothed, and capable of working, and it asks a deceptively plain question about that arrival: who did the work that made the worker? Somebody cooked the meals, washed the garments, cleaned the rooms, soothed the illnesses, raised the child who grew into this adult, and steadied the emotions that a shift would soon spend. Capitalism depends upon that labour every single morning, yet most of it is purchased by no employer, organised by no manager, and recorded in no wage packet. The theory named in this article holds that such dependence is not a background detail of economic life but one of its load-bearing structures, and that a Marxism which leaves the making of people unexamined has left half of its own subject in shadow. Its claim is systemic before it is moral: the point concerns how a mode of production secures its most peculiar input, the capacity to labour, which arrives each day from households, schools, clinics, and neighbourhoods that capital relies upon without directly running.
 
-![Social reproduction theory explained, the sites of reproduction table and the bracketing thesis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Social reproduction theory explained, the sites of reproduction table and the bracketing thesis - Insight Crunch](/assets/images/blog/blog-111.webp)
 
 That framing matters because the phrase is widely used loosely, as a synonym for housework or a label for anything concerning families. Precision is the first service a concept pillar owes its reader. Social reproduction, in the sense developed by Marxist feminists since the early nineteen eighties, analyses the labour, institutions, and relations through which labour power is produced and renewed, daily and generationally, and treats that complex as a condition of capitalist production. Cooking a dinner restores a worker for tomorrow; bearing and raising a child produces a worker for a generation hence; a school trains capacities that employers will later hire; a clinic returns an injured machinist to the bench. Each activity differs enormously in form, payment, and dignity, yet the theory groups them by function: all of them make and remake the human beings whose ability to work the economy presupposes. Readers who need the underlying value categories can consult the [surplus value complete guide](/2010/11/01/surplus-value-complete-guide/), since the argument builds upon the distinction between labour and the labour power that a wage actually buys.
 

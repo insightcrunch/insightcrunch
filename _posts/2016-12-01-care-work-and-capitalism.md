@@ -6,16 +6,17 @@ date: 2016-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Care Work", "Marxist Feminism", "Political Economy", "Gender"]
 excerpt: "Care work is low-paid for structural reasons, not moral ones: the care pressure table, the productivity trap, and why care work resists being speeded up."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 144
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-12-01
+lang: en
 ---
 Few economic puzzles are as plain as the pay attached to care work. The labour of feeding small children, washing an elderly parent, sitting through the night beside a hospital bed, or coaxing a frightened patient through a procedure is among the most necessary work any society performs, and among the worst rewarded. A reader who has arrived here from a search about carers' wages, or about the unpaid hours absorbed by a household, has arrived at the same puzzle from opposite ends, because this article treats the two as one subject. The paid nursery worker and the unpaid daughter are doing continuous work under different arrangements, and the analysis that follows treats them as connected parts of a single system rather than as a market topic and a private topic that happen to share a name.
 
 That connection is the first thing to establish, before any theory. Paid employment in nurseries, care homes, hospitals, and private houses does not replace the unpaid labour of households; the two expand and contract against each other, and work pushed out of one arrangement reappears in the other. When a public service is withdrawn, the feeding and washing and watching do not vanish. They move home. When a household can no longer absorb them, they are bought, if they can be afforded, or they are left undone, at a cost that shows up later in a surgery or a school report. The central question of this article is why the paid version of this indispensable labour is paid so badly, and the answer it develops is structural rather than moral. The framework within which the question is posed, the theory of how households reproduce the labour force that production consumes, is set out in the series article on [social reproduction theory explained](/2016/09/15/social-reproduction-theory-explained/), and is linked rather than rebuilt here.
 
-![Care work and capitalism, the care pressure table and the productivity trap - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Care work and capitalism, the care pressure table and the productivity trap - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 ## Why care work is paid so little: the puzzle in full
 

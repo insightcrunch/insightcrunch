@@ -6,16 +6,17 @@ date: 2016-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Gender", "Marxist Feminism", "Critique", "History"]
 excerpt: "Did Marxism neglect gender? The charge and verdict ledger separates the corpus from the tradition and delivers the three-part verdict on the evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 146
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-12-15
+lang: en
 ---
 Did Marxism neglect gender? The accusation is usually delivered as a settled fact, something a reader is expected to absorb before any evidence is shown. This article refuses that delivery. It treats the accusation as what it actually is: a serious criticism with a theoretical component and a historical component, pressed hardest not by Marxism's opponents but by Marxist feminists working inside the tradition, and it insists that the two components be assessed separately, because they have different evidence, different defendants, and different outcomes. A verdict that lumps them together will convict the wrong party or acquit the guilty one, and most published verdicts on this question do exactly that.
 
 Consider who is making the charge. The political movements that defined themselves against Marxism rarely bothered with this particular criticism, since their own records on women's emancipation were seldom better and often worse. The charge was developed instead by women who had joined socialist organisations, read the canonical texts closely, and found that a theory which promised to explain the whole of social life had surprisingly little to say about the half of humanity they belonged to. Its classic statements came from the women's liberation movement of the nineteen seventies, written by authors who described themselves as Marxists or socialist feminists and who wanted the framework repaired rather than discarded. That origin matters for how the charge should be read: it is an internal audit, conducted with the tradition's own standards of evidence, and it deserves an internal audit in reply.
 
-![Did Marxism neglect gender, the charge and verdict ledger and the three-part verdict - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Did Marxism neglect gender, the charge and verdict ledger and the three-part verdict - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 What follows is organised as an audit rather than a polemic. The charge is first separated into five components, each dated and each answerable on its own evidence: a claim about what Marx wrote, a claim about how the central category of Capital is constructed, a claim about what Marxist parties did with women's demands, a claim about what states ruling in Marxism's name delivered and then withdrew, and a claim about the logical structure of the categories themselves. The replies are then given in kind, component by component, because a reply that answers the historical charge with textual evidence, or the textual charge with historical evidence, answers nothing. Only after both columns are complete does the article deliver its verdict, and the verdict is in three parts, because the evidence genuinely falls into three heaps: a part where the charge lands decisively, a part where it lands with qualifications, and a part where it fails. Two pieces of apparatus carry the argument. The first is the charge and verdict ledger, a table that grades each component separately. The second is a discipline borrowed from the series treatment of Leninism: charges against a body of thought and charges against the organisations that invoked it require separate evidence and yield separate verdicts. Three technical terms do heavy work throughout and are used here in their established senses: labour power, the capacity to work that the worker sells; the value of labour power, the cost of keeping that worker alive and working; and social reproduction, the labour, mostly unpaid and mostly performed by women, that produces and restores labour power itself. Each has its own full treatment elsewhere in the series, and each is linked rather than re-derived where it first appears.
 
