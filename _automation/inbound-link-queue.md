@@ -211,3 +211,7 @@
 ## how-presidential-removal-power-works
 - _posts/2026-11-08-how-supreme-court-overrules-precedent.md — could carry: "The overruling machinery described in that account was the instrument used when the Court set aside Humphrey's Executor, the removal precedent whose rise and fall is traced in the history of presidential removal power."
 - _posts/2014-01-15-financial-regulation-court-cases.md — could carry: "The removal strand of that litigation history runs from the audit board to the consumer bureau, and its full doctrinal line is set out in the account of how presidential removal power works."
+
+## nightjar-inert-house-013
+- _posts/2026-11-06-nightjar-charge-that-failed-006.md - could carry: "The rehearsal on the north cut had been placed twice and had never been meant to work; on a Dravin border station its pattern came back built properly, with four improvements in the order a maker learns them."
+- _posts/2026-11-11-nightjar-seal-that-wasnt-011.md - could carry: "The doors whose perfect seals had held nothing behind them belonged to the same season as a load on a border station whose binding could not be felt where it sat, and a Binder in custody who said that hiding was impossible."

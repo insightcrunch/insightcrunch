@@ -978,6 +978,28 @@ court-custody-evidence-held-member-ninth-office-transferred | nightjar-slow-fade
 absence-as-document-oversight-purpose-register-serve | nightjar-slow-fade-012 | What purpose does the register of absences serve as an oversight document?
 after-annex-check-each-end-night-round-sitting-watch | nightjar-slow-fade-012 | What does the night watch check on each round of the annex after sittings end?
 
+### nightjar-inert-house-013
+dravin-border-station-staffed-across-change-shif | nightjar-inert-house-013 | How is a Dravin border station staffed across a change of shift?
+close-dravin-border-station-showing-closure-rest | nightjar-inert-house-013 | Who may close a Dravin border station, and on what showing must the closure rest?
+watchers-observed-ridge-road-above-station-enter | nightjar-inert-house-013 | How are watchers observed on the ridge road above a station entered in the station record?
+standing-station-book-hold-guard-report-entered | nightjar-inert-house-013 | What standing does a station book hold when a guard report entered in it is later doubted?
+binder-licence-extend-work-accord-infrastructure | nightjar-inert-house-013 | Does a Binder licence extend to work on Accord infrastructure, or is it confined to private commissions?
+licensed-binder-refuse-commission-refusal-entere | nightjar-inert-house-013 | May a licensed Binder refuse a commission, and must a refusal be entered anywhere?
+binder-show-before-sealing-load-cross-border-bet | nightjar-inert-house-013 | What must a Binder show before sealing a load that is to cross a border between members?
+binder-licence-lapse-through-non-use-differ-susp | nightjar-inert-house-013 | How does a Binder licence lapse through non use, and how does that differ from suspension?
+convicted-practitioner-held-custody-terms-differ | nightjar-inert-house-013 | Where is a convicted practitioner held, and how do the custody terms differ from those for ordinary prisoners?
+practice-convicted-practitioner-perform-while-cu | nightjar-inert-house-013 | What practice, if any, may a convicted practitioner perform while in custody?
+custody-convicted-practitioner-reviewed-sign-rev | nightjar-inert-house-013 | How is the custody of a convicted practitioner reviewed, and who must sign the review?
+taken-convicted-practitioner-intake-each-item-ac | nightjar-inert-house-013 | What is taken from a convicted practitioner at intake, and how is each item accounted for?
+change-pump-pitch-matter-border-station-entered | nightjar-inert-house-013 | Why does a change in pump pitch matter at a border station, and how is it entered in the pump log?
+station-quench-tank-cold-brine-medium-kept | nightjar-inert-house-013 | What is a station quench tank for, and why is cold brine the medium kept in it?
+holding-wheel-service-gate-fail-service-renewal | nightjar-inert-house-013 | How does the holding wheel of a service gate fail in service, and what renewal duty applies to its counterweight chain?
+pump-logs-shift-books-compared-after-incident-st | nightjar-inert-house-013 | How are pump logs and shift books compared after an incident at a station?
+evidence-expert-held-custody-weighed-cannot-corr | nightjar-inert-house-013 | How is the evidence of an expert held in custody weighed when it cannot be corroborated?
+limits-govern-showing-custodial-expert-material | nightjar-inert-house-013 | What limits govern showing a custodial expert material from a live case?
+entry-made-custodial-expert-believed-have-lied-b | nightjar-inert-house-013 | What entry is made when a custodial expert is believed to have lied, but the lie cannot yet be proved?
+decides-whether-custodial-expert-statement-shown | nightjar-inert-house-013 | Who decides whether a custodial expert statement may be shown outside the Office, and on what terms?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
