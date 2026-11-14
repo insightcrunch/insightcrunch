@@ -6,15 +6,15 @@ date: 2017-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Communist Movement India", "Indian History", "Colonialism", "History"]
 excerpt: "The communist movement in India was shaped by its wartime reversal and its splits: the turning points ledger and the lasting cost the reversal imposed on it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 155
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-12-15
+lang: en
 ---
-
 The communist movement in India was present at nearly every stage of the colonial period's political life, and its history cannot be told as a footnote to the national movement because the two were entangled from the start. Communists organised in the mills and on the railways while the national movement organised in the courts and the councils, and for long stretches the same towns, the same unions and sometimes the same families contained both kinds of activist. The relationship was never settled. It was cooperative in some years, competitive in others, and at one decisive point it ruptured altogether, when the communist party stood aside from, and indeed against, the largest nationalist mobilisation of the colonial era. After independence the movement took a third form, becoming an electoral force that governed particular states for long periods while never approaching power at the centre. A history of the movement therefore has to hold three stories at once: a story of organisation, a story of argument with nationalism, and a story of governments that were always regional and never national.
 
-![The turning points ledger open beside conference papers and a ruled timeline of the movement, Insight Crunch](/assets/images/blog/blog-01.webp)
+![The turning points ledger open beside conference papers and a ruled timeline of the movement, Insight Crunch](/assets/images/blog/blog-03.webp)
 
 That triple character explains why the movement's history is so often written badly. Party accounts tend to keep the first story and soften the second. Textbook chronologies tend to keep the dates and drop the reasoning, so that decisions arrive without the arguments that produced them and read as accidents or betrayals. The method used here is the one the series applies to any political record: date the decisions, state the reasoning offered at the time before judging the outcome, and let each party to a dispute speak in its own terms before the record is weighed. Applied to this material, the method produces a single organising instrument, the turning points ledger set out later in the article, and a single organising judgement, named in the tradition's own retrospective vocabulary as the 1942 cost: the decision to support the Allied war effort and to stand against the mass nationalist campaign of that year separated the movement from the central experience of Indian nationalism at its decisive moment, and no later electoral success in any state repaired the damage at the national level. Everything else in the movement's history, its foundings, its trials, its insurgency, its splits and its coalition episodes, is best understood in relation to that judgement, either as preparation for it or as consequence of it.
 

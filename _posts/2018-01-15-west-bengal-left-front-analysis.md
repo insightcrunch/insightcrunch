@@ -6,15 +6,15 @@ date: 2018-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "West Bengal", "Left Front", "Marxism in India", "History"]
 excerpt: "The Left Front governed Bengal for thirty-four years and fell over land it had once redistributed: the trajectory table and the subnational contradiction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 156
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-01-15
+lang: en
 ---
-
 The Left Front, a coalition led by the Communist Party of India (Marxist), governed the Indian state of West Bengal for thirty-four consecutive years, winning election after election in contests that were free, contested, and repeatedly lost by its opponents only at the ballot box. No communist government anywhere in the world has held office longer through democratic elections, and the record is not close. West Bengal is a state of very substantial population, densely settled, predominantly rural in the period when the Front took office, and scarred by a difficult economic history. The government that ruled it from 1977 to 2011 built its standing on two principal achievements. The first was a tenancy reform that recorded sharecroppers in official registers and gave their cultivation legal protection, a reform whose effects on farm output were later examined by economists outside the Marxist tradition and judged favourably in a leading general economics journal. The second was an early and durable system of elected local government, established well before the Indian constitution required such elections anywhere. The same government ended in a terminal crisis over land, acquiring farmland from the very peasantry its reforms had protected, in order to hand sites to private industry. It lost power in 2011, and the manner of that loss, a peasant-based government falling over peasant land, is the puzzle this article exists to explain.
 
-![A timeline wall chart in a district archive tracing three decades of Bengal land records, petitions and election posters, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A timeline wall chart in a district archive tracing three decades of Bengal land records, petitions and election posters, Insight Crunch](/assets/images/blog/blog-86.webp)
 
 The explanation offered here is structural, and it can be named at the outset. The subnational contradiction holds that a communist government ruling one state inside a capitalist national economy can redistribute the assets that already exist within its borders, because land law, tenancy and local administration are matters a state government controls. What it cannot do by its own powers is generate new accumulation, the investment that builds factories and creates non-agricultural employment, because capital is mobile across the national economy and must be attracted rather than commanded. Attracting capital requires offering what capital asks for, assembled land on workable terms among the first items. A government whose political base was constructed by protecting cultivators against dispossession therefore finds, when it turns to industrialisation, that the price of the factories is the security of its own supporters. Bengal is the clearest case of this contradiction anywhere, because the government lasted long enough to travel the whole distance from conferring land rights to acquiring land, and because each stage of the journey is unusually well documented. Readers who want the wider field should begin with the [Marxism in India complete guide](/2017/12/01/marxism-in-india-complete-guide/), and the political inheritance the Front carried into office is traced in the [communist movement in India history](/2017/12/15/communist-movement-india-history/).
 

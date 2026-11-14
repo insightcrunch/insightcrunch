@@ -6,15 +6,15 @@ date: 2018-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Indian Historiography", "Marxism in India", "Method", "History"]
 excerpt: "Indian feudalism was tested, not imported, by India's Marxist historians: the historians and their questions and the correction from within they performed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 158
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-03-01
+lang: en
 ---
-
 In the middle decades of the twentieth century, a group of scholars in India set out to rewrite the history of their own country from the ground up, and the name they argued over longest was Indian feudalism, the question whether the land grant economy of the early medieval centuries amounted to a feudal order of an Indian kind. They were Marxists, and they worked with the instruments of historical materialism, yet the conclusions they reached unsettled two orthodoxies at once. Against the colonial account of India as a civilisation that had stood still for millennia, they demonstrated movement: changing property relations, expanding and contracting trade, states forming and dissolving, peasants resisting and adapting. Against a simple transfer of European periodisation, they insisted that every category they borrowed had to earn its place against Indian evidence. And against Karl Marx himself, whose picture of India had been assembled from British administrative writing, their findings stood as a refutation written by his own method.
 
-![Land grant inscriptions, punch marked coins, revenue registers and a plotted map of early medieval settlements on a historian's desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Land grant inscriptions, punch marked coins, revenue registers and a plotted map of early medieval settlements on a historian's desk, Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That triple achievement is the subject of this article. The Indian Marxist historians, working from the 1950s onward, applied historical materialism to Indian history and produced accounts of the transition from tribe to caste, of an Indian form of feudalism, and of Mughal agrarian relations that remain reference points for every later scholar, including the scholars who set out to demolish them. Their founding figure, Damodar Dharmananda Kosambi, was not a historian by training at all. He was a mathematician who also worked in numismatics and Sanskrit philology, who walked the hills around his home city collecting stone tools and interviewing villagers about their gods, and who defined his discipline as the study of how a society's productive means and relations develop, in sequence, across its whole past. His most consequential heirs disagreed with him about nearly everything except the premise that the Indian past was to be explained by evidence rather than venerated as heritage or dismissed as stagnation.
 

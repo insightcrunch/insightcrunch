@@ -6,17 +6,17 @@ date: 2018-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "UPSC", "Exam Preparation", "Marxism in India", "Study Guide"]
 excerpt: "UPSC rewards calibrated depth on Marxism: the optional papers need evaluation, the general papers placement: the paper map and the depth calibration rule."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 158
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2018-04-01
+lang: en
 ---
-
 ## Marxism for UPSC: one topic, several examinations
 
 A candidate who opens preparation for the civil services examination meets Marxism in more places than the syllabus of any single subject suggests. Marxism for UPSC is examined inside the political science and international relations optional, where it stands as a named strand of political theory and as a family of theories about the state, imperialism and dependence. It is examined inside the sociology optional, where it stands as one of the founding perspectives of the discipline, set beside the traditions of Durkheim and Weber and applied to stratification, social change and the study of Indian society. It is examined, in a different register again, across the general studies papers, where it forms part of the background to the freedom struggle, to the politics of the decades after independence, to social movements and to the history of economic thought. The first thing a candidate needs, before any content, is a map of those appearances, because the same body of doctrine is not examined in the same way in each place.
 
-![A candidate desk with the paper map, optional subject notes and previous year question papers arranged by examination context, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A candidate desk with the paper map, optional subject notes and previous year question papers arranged by examination context, Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The second thing a candidate needs is harder to find in coaching material, and it is the real subject of this guide. The depth that earns marks differs sharply between the contexts. The optional papers reward evaluation: a stated position, a named critic with a specific argument, and a judgement defended with reasons. The general studies papers reward placement: the ability to identify a perspective accurately in two or three sentences and move on to the next demand of a question that ranges far beyond any single doctrine. A candidate who prepares one depth and writes it in the other context loses marks in both directions, writing too much where brevity was the skill and too little where judgement was the skill. The loss is avoidable, and avoiding it requires no extra knowledge, only a clear sense of which examination is being answered at any given moment.
 
@@ -716,8 +716,4 @@ The map orders preparation by recurrence and by dependency. Begin with orientati
 ### Q: What separates placement of a perspective from evaluation of it in an answer?
 
 The two operations differ in what they owe the reader. Placement owes a correct address for the perspective: who holds it, what single claim marks it out in this context, and how it differs from the views on either side of it, all delivered briefly inside an answer whose main business lies elsewhere. It is complete when the location is correct, and further sentences are theft from the question's other dimensions. Evaluation owes a verdict: the position given its best form, the strongest objection granted its full weight and attached to its author's name, the reply assessed, and a conclusion defended that different evidence might have reversed. It is complete only when the reasoning has been conducted in public. Placement serves the question; evaluation is the question. Confusing them, in either direction, is the commonest avoidable loss this examination records on the subject.
-
-
-
-
 

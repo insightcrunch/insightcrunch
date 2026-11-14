@@ -6,15 +6,15 @@ date: 2018-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxism in India", "Exam Preparation", "Study Guide", "Caste"]
 excerpt: "Marxism in India in an exam rewards the critique-acknowledgement move: name the criticism first, then answer, using the India answer matrix to plan each answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 158
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-04-15
+lang: en
 ---
-
 Marxism in India is examined wherever modern India is examined, and a candidate who understands where it sits in each paper has already solved half the problem of writing on it. Political science papers meet the material as a movement: how communist parties formed, split, contested elections and governed states inside a parliamentary republic. Sociology papers meet it as an argument: whether caste can be read through class, and what happens to the classical framework when it is carried into a society ordered by graded hierarchy. History papers meet it twice over, first as a strand of the freedom struggle and the decades after independence, and then as a school of historians who rewrote the national past from its agrarian base upward. General studies papers compress all three meetings into short answers written against the clock. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.
 
-![A study desk with the India answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk with the India answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-59.webp)
 
 One point needs stating plainly before any technique, because candidates consistently misjudge it and the misjudgement distorts everything they write. Assessment on this topic grades the quality of analysis, and it does not grade the direction of the conclusion. A model answer that concludes against the communist movement can score full marks, provided its representation of the movement is accurate, its evidence is handled with care, and its judgement engages the strongest version of what it rejects. A model answer that concludes in favour of the movement can fall into a low band if it reproduces a party's account of itself as though reproduction were analysis. Examiners are testing whether the candidate knows the debate: where the movement's claims are contested, which critics contest them, and how the scholarly positions have moved. A script that knows the debate and then judges it, in either direction, is the script the marking scheme is built to reward. Keep that symmetry in view through every section that follows, because it is the licence under which all the technique in this guide operates.
 

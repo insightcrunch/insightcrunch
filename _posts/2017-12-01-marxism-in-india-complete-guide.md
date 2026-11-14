@@ -6,15 +6,15 @@ date: 2017-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Marxism in India", "Communist Parties", "History", "Political Theory"]
 excerpt: "Marxism in India produced elected communist governments inside a capitalist federation: the streams table and the democratic anomaly standing at its centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-109.webp"
 reading_time: 154
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-12-01
+lang: en
 ---
-
 Marxism in India names two histories that are usually told apart and should not be. One is political: communist parties that organised workers and peasants, survived illegality and repression, contested elections under a constitution they had not written, and repeatedly won state power through the ballot. The other is intellectual: a tradition of historians, economists and social theorists who took Marxist categories into a society organised by caste, dominated by agriculture and shaped by two centuries of colonial rule, and who changed the categories in the process. Each history explains the other. The parties supplied the questions, about land, caste and colonial exploitation, that the scholarship then formalised. The scholarship, in turn, gave the parties an account of the society they were trying to organise, an account sharp enough to argue with and durable enough to outlast several of the organisations that commissioned it.
 
-![A study desk in India with the streams table, party histories, agrarian studies and volumes of economic history, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk in India with the streams table, party histories, agrarian studies and volumes of economic history, Insight Crunch](/assets/images/blog/blog-109.webp)
 
 Start with the political fact, because it is the one the rest of the world has largely failed to register. India is a large parliamentary democracy, federal in structure, in which communist parties have won free elections and formed governments at the level of the state again and again across seven decades. One communist-led front held a single state continuously for well over three decades, an unbroken run of electoral victories without parallel in the history of democratically elected communist government anywhere. Governments led by communists took office through elections, implemented programmes, lost elections, and handed power to their opponents in the ordinary constitutional way. Whatever else that record means, it means that the Indian case is the world's principal test of a question Marxist theory posed but rarely faced in practice: what does a communist party do with state power when it must win that power repeatedly, share a federation with a hostile centre, and govern inside an economy it does not control? The sections that follow take the record first, then the thought.
 

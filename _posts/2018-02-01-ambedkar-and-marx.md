@@ -6,15 +6,15 @@ date: 2018-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Ambedkar", "Marxism in India", "Caste", "Biography"]
 excerpt: "Ambedkar accepted Marx's ends more often than his means: the accepted and rejected ledger and the partial acceptance that gives the real debate its structure."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 156
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-02-01
+lang: en
 ---
-
 Bhimrao Ramji Ambedkar is known to one kind of reader as the jurist who chaired the drafting of India's constitution and led the movement against untouchability, and to another kind of reader he is barely a name at all. Both readers tend to assume that his relation to Marx can be settled in a sentence: either he was an enemy of Marxism who buried it, or he was a fellow traveller who borrowed from it. The texts support neither sentence. Ambedkar read Marx directly, at length, and with the care of a man trained to weigh clauses. What he produced was a division of the doctrine into parts he accepted and parts he rejected, with reasons stated for each part, and the division was set out most plainly in a lecture delivered near the end of his life in which he compared Marx with the Buddha point by point. That comparison is the decisive document in the whole debate, and it is read far less often than it is invoked.
 
-![An open ledger ruled into accepted and rejected columns beside the lecture notes and a worn copy of the undelivered address, Insight Crunch](/assets/images/blog/blog-01.webp)
+![An open ledger ruled into accepted and rejected columns beside the lecture notes and a worn copy of the undelivered address, Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The shape of his position can be stated before any of its detail. He accepted the analysis of exploitation, the existence of class conflict, and the charge that private property produces suffering for the many, and he held that these evils must be ended. The refusals were as specific as the acceptances. Dialectical materialism failed as a philosophy; violence failed as a method; the dictatorship of the proletariat failed as an instrument; and the abolition of religion failed as an aim, each for reasons he stated. Against the Indian communist movement of his own time he brought a separate and sharper charge, concerning caste, which this article states in his own terms and at full strength. Against the Marxist replies to all of this, which are also stated here at full strength and attached to the named men who made them, he set an alternative built from constitutional law and state ownership. The conclusion that organises everything that follows is the partial acceptance: a thinker treated by both camps as an opponent of the tradition in fact divided the tradition, accepting its diagnosis and its objective while refusing its method and its philosophy. Recovering that division is more useful than adjudicating a quarrel he never quite had.
 

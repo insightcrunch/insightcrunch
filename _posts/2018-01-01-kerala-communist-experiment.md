@@ -6,15 +6,15 @@ date: 2018-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Kerala", "Marxism in India", "Development", "History"]
 excerpt: "Kerala's social outcomes have four candidate causes, only one of them communist: the four causes allocation grades each contribution on the available evidence."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 156
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-01-01
+lang: en
 ---
-
 Kerala is the name that development literature gives to a puzzle, and the puzzle is easy to state in qualitative terms. A state at the southwestern tip of India, formed in 1956 from territories that had belonged to princely kingdoms and to a directly administered British district, achieved levels of literacy, life expectancy, infant survival, and schooling that the research literature consistently describes as far above the Indian average and comparable to those of far wealthier societies, while its per capita income long remained modest by national standards. The achievement was real, it was documented across decades by demographers and economists, and it was accomplished in a state governed, in alternation, by communist-led coalitions and by their rivals from the late 1950s onward. Because communist parties were so visibly present in the government of the state during the decades when the indicators consolidated, the outcomes were widely credited to communist government, and the phrase Kerala model entered international development writing as shorthand for what redistribution and public action could achieve at low income.
 
-![A Kerala backwater scene with schoolchildren in uniform, a small health clinic, and a panchayat notice board, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Kerala backwater scene with schoolchildren in uniform, a small health clinic, and a panchayat notice board, Insight Crunch](/assets/images/blog/blog-95.webp)
 
 That crediting is exactly what this article disputes, and it disputes the opposite crediting too. The outcomes long preceded communist government. Substantial public provision of education and health existed in the princely territories from the nineteenth century. Social reform movements organised among subordinated caste communities had built schools, temples, associations, and a reading public before any communist party had a presence worth the name. When communist-led governments did arrive, they contributed policies of their own that other Indian states did not match: a land reform that abolished tenancy in law and largely in fact, an extensive public distribution system, a mass literacy campaign, and a decentralisation programme that moved a large share of plan resources to elected local bodies. Then, from the 1970s, a fourth cause arrived from outside the state altogether, as migration to the Gulf carried remittance income into hundreds of thousands of households and transformed consumption, housing, and private spending on schooling and care. Any account that assigns the phenomenon to one of these four causes is wrong, and the wrongness is not a matter of emphasis. It is a matter of sequence, since major outcomes preceded communist government, and of composition, since the economic base sustaining household consumption in later decades was substantially external. The analytical instrument this article builds and defends is the four-cause allocation: a grading of each contribution against the outcomes it plausibly explains, the evidence that supports the grading, and the outcomes it cannot explain. Kerala serves the wider series on Marxism in India as the standing test of causal discipline, because nowhere else does a celebrated outcome attract so many single-cause stories, and nowhere else is the sequence so unkind to all of them.
 

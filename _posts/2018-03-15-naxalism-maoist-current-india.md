@@ -6,15 +6,15 @@ date: 2018-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Naxalism", "Maoism", "Marxism in India", "History"]
 excerpt: "Naxalism took root where dispossession was deepest and the state most absent: the streams table and the geography of dispossession that explains its map."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 158
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-03-15
+lang: en
 ---
-
 Naxalism names the armed communist movements that began with a peasant uprising in 1967 in the Naxalbari area of northern West Bengal, broke away from India's parliamentary communist parties over the question of armed struggle, splintered into a large family of rival organisations, and ended by operating principally among tribal populations in the forested districts of central and eastern India. A reader who meets the word in a headline usually meets it as a security problem, a matter of ambushes, bans, and deployments. That framing is the last chapter of the story mistaken for the whole book. The movement began as a quarrel about land inside the communist movement itself, between comrades who had organised the same villages and read the same texts, and everything that followed, the split, the founding line, the fragmentation, the strange later map, descends from that quarrel and from the ground on which it was fought.
 
-![A relief map of forested hill districts beside a bundle of village land records tied with string, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A relief map of forested hill districts beside a bundle of village land records tied with string, Insight Crunch](/assets/images/blog/blog-46.webp)
 
 Hold the strangeness of the outcome in view from the start, because it is the puzzle this article exists to solve. A movement launched in the name of proletarian revolution, guided by a doctrine elaborated for peasant war in China and industrial insurrection in Europe, came to rest on a social base that classical Marxism had never identified as revolutionary: Adivasi communities in forest districts, many of them only lightly connected to wage labour, markets, or the written word. Its heartland was never the factory city or the rich peasant belt. It settled where the Indian state's administrative presence was thinnest, where rights over forest land were contested between villages and the forest department, and where displacement for mines, dams, and industrial projects had been concentrated. The explanation offered here, named the geography of dispossession, holds that the movement's persistence maps onto that configuration of forest, mineral wealth, weak administration, and contested land, rather than onto any distribution of ideological conviction. Where those conditions combined, an armed organisation could establish itself and find grievance ready-made. Where they did not, the same doctrine, preached by the same kind of cadres, withered.
 
