@@ -215,3 +215,7 @@
 ## nightjar-inert-house-013
 - _posts/2026-11-06-nightjar-charge-that-failed-006.md - could carry: "The rehearsal on the north cut had been placed twice and had never been meant to work; on a Dravin border station its pattern came back built properly, with four improvements in the order a maker learns them."
 - _posts/2026-11-11-nightjar-seal-that-wasnt-011.md - could carry: "The doors whose perfect seals had held nothing behind them belonged to the same season as a load on a border station whose binding could not be felt where it sat, and a Binder in custody who said that hiding was impossible."
+
+## how-cascading-failures-work-in-cloud-systems
+- _posts/2026-11-07-how-neoclouds-work.md — could carry: "Rented capacity inherits the failure behaviour of the platform beneath it, and the mechanism by which one failed machine becomes a platform outage is set out in the account of how cascading failures work in cloud systems."
+- _posts/2024-06-24-azure-async-messaging-patterns.md — could carry: "A queue placed between two services is also a firebreak, because the backlog it absorbs is load that would otherwise arrive as synchronous pressure of the kind traced in the account of cascading failures in cloud systems."

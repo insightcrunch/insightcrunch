@@ -1308,3 +1308,27 @@ federal-judge-president-remove | how-presidential-removal-power-works | Can the 
 executive-theory-unitary | how-presidential-removal-power-works | What is the unitary executive theory?
 commissioned-for-military-officer-removal-work | how-presidential-removal-power-works | How does removal work for commissioned military officers?
 agencies-decisions-improve-independent-protection-removal-say-supporters | how-presidential-removal-power-works | Why do supporters of independent agencies say removal protection improves decisions?
+
+## technology-cascading-failures
+
+### how-cascading-failures-work-in-cloud-systems
+cascad-cloud-failure-system | how-cascading-failures-work-in-cloud-systems | What is a cascading failure in a cloud system?
+few-los-ones-overload-remain-server | how-cascading-failures-work-in-cloud-systems | How does losing a few servers overload the ones that remain?
+distribut-failure-metastable-system | how-cascading-failures-work-in-cloud-systems | What is a metastable failure in a distributed system?
+make-outage-retri-worse | how-cascading-failures-work-in-cloud-systems | Why do retries make an outage worse?
+balancer-check-health-load | how-cascading-failures-work-in-cloud-systems | What does a health check do in a load balancer?
+different-goodput-throughput | how-cascading-failures-work-in-cloud-systems | How is goodput different from throughput?
+load-shedd-used | how-cascading-failures-work-in-cloud-systems | What is load shedding and when is it used?
+breaker-circuit-failure-spread-stop | how-cascading-failures-work-in-cloud-systems | How does a circuit breaker stop a failure from spreading?
+architecture-bulkhead-software | how-cascading-failures-work-in-cloud-systems | What is a bulkhead in software architecture?
+down-fast-grow-queu-service-slow-so | how-cascading-failures-work-in-cloud-systems | Why do queues grow so fast when a service slows down?
+caus-facebook-october-outage | how-cascading-failures-work-in-cloud-systems | What caused the Facebook outage of October 4, 2021?
+amazon-february-happen-s | how-cascading-failures-work-in-cloud-systems | What happened to Amazon S3 on February 28, 2017?
+backoff-exponential-jitter-work | how-cascading-failures-work-in-cloud-systems | How does exponential backoff with jitter work?
+backpressure-distribut-system | how-cascading-failures-work-in-cloud-systems | What is backpressure in a distributed system?
+large-long-outage-recovery-so-take | how-cascading-failures-work-in-cloud-systems | Why does recovery from a large outage take so long?
+problem-scale-tail | how-cascading-failures-work-in-cloud-systems | What is the tail at scale problem?
+cascade-engineer-survive-system-test-whether | how-cascading-failures-work-in-cloud-systems | How do engineers test whether a system can survive a cascade?
+architecture-cloud-degradation-graceful | how-cascading-failures-work-in-cloud-systems | What is graceful degradation in cloud architecture?
+cause-dependenci-fail-servic-shar-together | how-cascading-failures-work-in-cloud-systems | Why do shared dependencies cause services to fail together?
+budget-matter-retry | how-cascading-failures-work-in-cloud-systems | What is a retry budget and why does it matter?
