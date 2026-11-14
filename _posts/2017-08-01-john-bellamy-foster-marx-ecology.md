@@ -6,17 +6,17 @@ date: 2017-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "John Bellamy Foster", "Ecological Marxism", "Biography", "Environment"]
 excerpt: "Foster recovered an ecological materialism inside Marx's own work rather than adding one: the argument in four steps and the recovery thesis assessed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 152
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-08-01
+lang: en
 ---
-
 John Bellamy Foster is the scholar whose name attaches, more than any other, to the claim that Marx's materialism was ecological from its beginnings and that the founder of historical materialism needs no green supplement because the ecology was always there to be read. Foster is the leading figure of what is usually called the second wave of ecological Marxism, the wave that returned to Marx's own texts after an earlier generation had built ecological arguments at a distance from them. His argument is therefore a claim about reading before it is a claim about theory. He holds that the ecological content of Marxism is recovered from the documentary record, from the dissertation of 1841 through the notebooks of the final decades, and not added to that record by sympathetic interpreters. That single distinction, recovery rather than addition, explains both the strength of his work and the shape of the objections it attracts, because an argument that rests on evidence can be defeated on evidence, and his critics have tried to defeat it on exactly that ground.
 
 The scale of the claim deserves emphasis at the outset. Foster does not argue that Marx occasionally noticed polluted rivers or worried about exhausted soil, although Marx did both. He argues that a materialist conception of nature stands at the foundation of Marx's thought, that it precedes the materialist conception of history rather than following from it, and that the mature critique of political economy expresses it in the analysis of the material exchange between human labour and the rest of nature. Everything in his career follows from that ordering. The book that made his reputation, Marx's Ecology of 2000, is organised as a descent to the foundations and a re-ascent through the mature work. His later scholarship extended the same method sideways, recovering a forgotten company of socialist scientists who had carried the ecological materialism forward, and downward, into the unpublished notebooks where Marx's reading in the natural sciences can be inspected entry by entry. Readers who know only the phrase metabolic rift, which attaches to his name in textbooks and summaries, know the middle of the argument and neither its beginning nor its end.
 
-![John Bellamy Foster and the recovery of an ecological materialism inside Marx's writings, a study portrait with the texts of the argument, Insight Crunch](/assets/images/blog/blog-01.webp)
+![John Bellamy Foster and the recovery of an ecological materialism inside Marx's writings, a study portrait with the texts of the argument, Insight Crunch](/assets/images/blog/blog-14.webp)
 
 ## A sociologist at an editor's desk: the formation of Foster
 

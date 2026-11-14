@@ -6,16 +6,17 @@ date: 2017-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Climate Crisis", "Ecological Marxism", "Political Economy", "Environment"]
 excerpt: "The climate crisis is read here through four mechanisms of accumulation: the four mechanisms table and the labour-control origin of the fossil economy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-110.webp"
 reading_time: 153
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-09-15
+lang: en
 ---
 The climate crisis, approached through a Marxist analysis, becomes a question about production rather than about weather. Physical findings belong to climate science, and this article credits them to the institutions and assessment literatures responsible for them, restating none of them and quantifying none of them. What a class analysis examines sits upstream of every physical finding: the social machinery that keeps fossil energy flowing through factories, freight networks, heating systems, and supply chains, decade after decade, even as the knowledge of consequences accumulates. Emissions, on this reading, are an output of a system organised around competitive accumulation, and understanding the crisis means understanding why that system generates the output so reliably, so impersonally, and with such resistance to correction from within.
 
 Consider one concrete illustration before any theory. In the early nineteenth century, British cotton manufacturers faced a choice between water power and steam power. Water was abundant along the streams of the northern valleys, and in many districts it was cheaper than coal-fired steam, whose engines consumed fuel, demanded maintenance, and broke down with exasperating regularity. Manufacturers nevertheless migrated toward steam, and the migration founded the fossil economy. A study of that transition, examined in detail further on, argues that steam won because it could be installed in towns where labour was plentiful, recruitable, and disciplineable, while water chained the mill to remote valleys where workers had to be attracted, housed, and retained on terms the owner could not fully control. Fossil energy entered large-scale production as an answer to a labour problem. That single documented finding reframes the entire question of why fossil fuels prove so difficult to surrender.
 
-![A Marxist Reading of the Climate Crisis, the four mechanisms table and the labour-control origin - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Marxist Reading of the Climate Crisis, the four mechanisms table and the labour-control origin - Insight Crunch](/assets/images/blog/blog-110.webp)
 
 Everything that follows builds outward from two anchors of that kind. One anchor is historical: technologies are adopted for reasons embedded in social relations, and the reasons persist inside the machinery long after the moment of adoption has passed. Another anchor is structural: a firm competing against rivals cannot unilaterally restrain its own material throughput without surrendering position, so the pressure toward expansion operates regardless of what any individual owner intends or believes. Around those anchors the analysis assembles four mechanisms, a counter-case stated at full strength, and a set of concessions that any honest version of the argument must carry. Readers who want the framework beneath the mechanisms will find it in [metabolic rift explained](/2017/07/15/metabolic-rift-explained/), which this article treats as background rather than repeating.
 
@@ -321,7 +322,6 @@ Energy sources are also geographies, and the shift from water to steam redrew th
 Concentration generated the classic pathologies that nineteenth-century reformers documented and that the socialist tradition made central to its case: overcrowded housing, contaminated water, epidemic disease, and the peculiar misery of populations gathered for production and abandoned by every other institution. Those pathologies belong to the history of public health rather than to climate analysis, yet they matter here for one reason. They demonstrate that the social costs of an energy system have always been distributed by class, falling on the populations the system assembled while its returns accrued elsewhere. The climate crisis globalises that distribution, spreading the costs of the fossil economy across populations who never shared its returns, including generations who did not participate in its construction. A class analysis recognises the pattern because it has seen the pattern before, at the scale of a mill town rather than of a planet.
 
 Transport completed the remaking of space. Coal had to move from pit to boiler, and the networks built to move it, canals first and then railways, became the skeleton on which the rest of the industrial economy hung. Railways then consumed coal in their own right while teaching capital a new lesson about scale: networks reward whoever builds them largest and earliest, and they strand whoever guesses wrong. The lesson generalises directly to the fossil economy's later layers, pipelines, refineries, tanker routes, and motorway systems, each a network whose value depends on the survival of the whole. Lock-in, encountered earlier as a balance-sheet phenomenon, is equally a property of networks: a single pipeline is a stranded tube, while a pipeline system is a civilisation's circulatory system, and the difference explains why retiring the parts feels, to those who govern, like retiring the whole.
-
 
 
 ## The motor vehicle, the road, and the reorganisation of settlement

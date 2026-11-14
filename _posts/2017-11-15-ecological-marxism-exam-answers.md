@@ -6,15 +6,15 @@ date: 2017-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Ecological Marxism", "Exam Preparation", "Study Guide", "Environment"]
 excerpt: "Ecological Marxism in an exam rewards the referent move: explain the rift through its historical case, using the ecological answer matrix to plan answers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-100.webp"
 reading_time: 154
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-11-15
+lang: en
 ---
-
 Ecological Marxism is examined differently from the way it is usually taught, and the difference decides the band. A marker reading a script on this topic is looking for two things above all else: whether the candidate knows that the central concept has a documented historical referent, and whether the candidate can handle environmental evidence without pretending to be a scientist. Everything else, the names, the debates, the evaluations, is arranged around those two tests. A script that defines ecosocialism in a sentence and then asserts a string of alarming figures fails both tests at once, however sincere its concern. A script that explains the metabolic rift through the soil crisis that produced the term, attributes every scientific claim it touches, and evaluates with named critics passes both tests even when its conclusion is hostile to the whole tradition.
 
-![A revision desk with the ecological answer matrix, index cards and a marked essay plan, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A revision desk with the ecological answer matrix, index cards and a marked essay plan, Insight Crunch](/assets/images/blog/blog-100.webp)
 
 That last point deserves to be stated without decoration, because candidates consistently misjudge it. Assessment on this topic rewards evidenced argument, and it does not grade the direction of the verdict. A model answer that concludes against ecological Marxism can score full marks, provided the reasoning is accurate, the positions are represented fairly, and the evaluation engages the strongest version of what it rejects. A model answer that concludes in favour of the tradition can lose marks heavily if it treats agreement as a substitute for analysis. The guide that follows is built on that symmetry. It teaches the content through the judgements markers actually make, it names the two errors that cost the most, and it gives a planning instrument, the ecological answer matrix, that converts revision into timed performance across geography, sociology, politics and development papers.
 

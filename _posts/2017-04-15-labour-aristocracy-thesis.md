@@ -6,14 +6,15 @@ date: 2017-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Aristocracy", "Imperialism", "Engels", "Lenin"]
 excerpt: "The labour aristocracy thesis says colonial superprofits bribed a whole stratum of workers: the thesis assessed against the magnitude test it has to pass."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 148
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-04-15
+lang: en
 ---
 The labour aristocracy, as a named thesis, is an explanation of a political fact that has puzzled revolutionaries for well over a century: workers in the richest countries, who on a straightforward reading of Marxist theory should have been the most revolutionary class in history, have mostly not been revolutionary at all. The thesis answers the puzzle with an economic mechanism. It holds that profits drawn from colonies and dependent economies were so large that employers and states in the imperialist countries could afford to pay a layer of their own workers more than the value of what those workers produced, and that this material privilege bought political loyalty. The explanation is elegant, it is morally charged, and its empirical standing is contested at every joint. A reader who has met the phrase in an argument, usually as a verdict rather than as a claim, deserves to know what exactly is being asserted, what evidence would settle the matter, and why the argument generates so much heat. That is the work of the pages that follow.
 
-![The Labour Aristocracy Thesis and the magnitude test - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Labour Aristocracy Thesis and the magnitude test - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Precision matters here more than in most glossary entries, because the phrase does double duty. In loose usage it names any group of relatively privileged workers, and the argument ends there, in description. In its strict theoretical usage it names a causal claim with three separable parts: a source of extra profit located outside the imperialist economy, a transfer of part of that profit into the wages and conditions of a domestic stratum, and a political effect, the conversion of that stratum into a support for reformist rather than revolutionary politics. Each part can be examined separately, and the thesis can survive the failure of one part only by becoming a different thesis. Much of the confusion surrounding the term comes from sliding between the loose and strict usages mid-argument, so that evidence for the existence of privileged workers is treated as evidence for the transfer, and evidence for the transfer is treated as proof of the political effect. Keeping the three parts apart is the first discipline this article imposes, and it is the discipline on which the final assessment depends.
 

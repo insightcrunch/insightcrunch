@@ -6,14 +6,15 @@ date: 2017-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Imperialism", "Supply Chains", "Globalisation", "Political Economy"]
 excerpt: "Global supply chains capture value at their ends, in design and branding, not in manufacture: the value along the chain and the rent reframing stated."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 150
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-06-01
+lang: en
 ---
 A shirt, a telephone, a pair of trainers: each arrives in a shop with a price attached, and almost everything about that price is misleading if read as a record of where the thing was made. Global supply chains separate the geography of production from the geography of reward so thoroughly that the two maps no longer resemble one another. The hands that cut, stitched, soldered, and assembled may have worked on another continent from the offices that designed the product, chose its materials, set its price, and collected the margin when it sold. The analytical question of this article is therefore not where things are made. It is where the money ends up, and why the ending point differs so persistently from the making point.
 
-![Imperialism and global supply chains, the value along the chain and the rent reframing - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Imperialism and global supply chains, the value along the chain and the rent reframing - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 That separation is the fact to be explained, and it is worth stating plainly before any theory is allowed near it. Production has fragmented. A single finished good now embodies labour performed in several economies, coordinated by firms that may own none of the workshops where the physical work happens. Payment, however, has not fragmented in the same way. The revenue from a sale pools where the selling occurs, and from that pool each participant in the chain is paid according to bargains struck under very unequal conditions. Some participants bargain from scarcity: they hold something rivals cannot quickly copy. Others bargain from abundance: what they offer, however skilfully performed, can be sourced from many places, and everyone in the negotiation knows it. The argument of the pages that follow is that this asymmetry, repeated across millions of transactions, is where the politics of the chain resides.
 

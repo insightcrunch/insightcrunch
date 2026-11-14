@@ -6,14 +6,15 @@ date: 2017-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Socialist States", "Environment", "History", "Ecological Marxism"]
 excerpt: "Socialist states compiled a damaging environmental record alongside a conservation tradition: the cases and explanations table and the information explanation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 155
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2017-11-01
+lang: en
 ---
 Socialist states compiled one of the most contradictory environmental records of the twentieth century, and any honest account has to hold both halves of that record in view at once. On one side stand ecological disasters of the first magnitude: a great inland sea largely destroyed by irrigation diversion, industrial regions where air and water carried contamination for decades, a reactor accident whose consequences secrecy made far worse, and a campaign against birds that helped unleash the insects it was meant to suppress. On the other side stands a conservation achievement that popular accounts on every side omit: a system of strict nature reserves founded from 1919, among the earliest and most stringent anywhere, and a conservation biology tradition of genuine sophistication that flourished around those reserves before it was suppressed and later partly revived.
 
-![Socialist States and the Environment, the cases and explanations table and a divided record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Socialist States and the Environment, the cases and explanations table and a divided record - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 This article states the damaging half first, plainly and in its own right, before any comparison or explanation is allowed to soften it. Explanation comes afterward, and comparison with capitalist economies comes last of all, treated as a methodological problem rather than as a defence. Three explanations compete for the analytical centre. One blames the absence of market prices, which left planners without signals of scarcity. Another locates the failure in politics: with no independent information, no free press, and no courts open to citizens, damage went unreported and uncontested. A third indicts productivism, the worship of output growth, a faith these states held in common with their capitalist rivals during the same decades. The argument developed below is that the second of these carries the strongest support, and that reaching it requires taking the first seriously at full strength rather than waving it aside.
 

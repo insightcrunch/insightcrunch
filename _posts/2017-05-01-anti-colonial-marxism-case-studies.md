@@ -6,14 +6,15 @@ date: 2017-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Anti-Colonial Movements", "Imperialism", "National Liberation", "History"]
 excerpt: "Marxism reached anti-colonial movements as analysis and organisation more often than as leadership: the case comparison and the division between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 149
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2017-05-01
+lang: en
 ---
 Marxism was adopted, adapted, and argued over by many of the movements that dismantled the European empires in the twentieth century, and it was nowhere adopted unchanged. The doctrine had been built for industrial societies, with their large factory workforces, their organised labour movements, and their long experience of parliamentary politics. The societies in which anti-colonial movements operated were mostly agrarian, their industrial working classes small or embryonic, their populations bound together less by shared employment than by shared subjection to a foreign power. Taking Marxism into such societies therefore meant rebuilding it: deciding who the revolutionary agent could be where the industrial proletariat barely existed, deciding how class demands related to the prior demand for national independence, and deciding what a party should look like when it had to be constructed in villages, jungles, and exile rather than in union halls.
 
-![Anti-colonial Marxism in practice, the case comparison and the analysis and mobilisation division - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Anti-colonial Marxism in practice, the case comparison and the analysis and mobilisation division - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article compares those rebuildings rather than narrating them one country at a time, because the comparative question is the one the existing coverage rarely asks. The country-by-country literature is rich; a reader can find detailed histories of Vietnamese communism, of the Algerian war, of the Indian left, of the liberation movements in the Portuguese colonies. What the reader will struggle to find is a disciplined answer to a simpler and more useful question. When Marxism and nationalism entered the same movement, as they did almost everywhere, which of them did what? The finding this article defends, and which it names the analysis and mobilisation division, is that Marxism characteristically supplied the analysis of imperialism and the organisational form of the disciplined party, while nationalism supplied the mass force that filled the party's ranks and marched behind its banners. The post-independence trajectory of each state then tracked which of the two had prevailed inside the movement that inherited power. That finding is developed through five principal cases, a comparison table that states it in findable form, and a record section that refuses to soften what happened after the flags changed.
 

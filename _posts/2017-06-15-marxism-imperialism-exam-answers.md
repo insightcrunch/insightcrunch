@@ -6,14 +6,15 @@ date: 2017-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Imperialism", "Exam Preparation", "Study Guide", "Political Economy"]
 excerpt: "Imperialism in an exam rewards the stage and empire opening: separate the senses first, then compare the rival theories with the imperialism answer matrix."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 151
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-06-15
+lang: en
 ---
 Imperialism is examined in more rooms than almost any other topic in this series, and it is marked differently in each of them. A politics examiner, a history examiner, a development studies examiner, and an international relations examiner can all set a question containing the same word while rewarding four distinguishable kinds of answer. What every one of those markers rewards, across all four disciplines, is a candidate who separates the senses of the term before arguing, who can name more than one Marxist theory and state how the theories differ, and who handles inconvenient evidence without flinching. What every one of them penalises is the answer that recites a single famous pamphlet as though it were the whole tradition, the answer that decorates assertions with unsourced figures, and the answer that defends or denounces Marx's journalism on India instead of reporting what it said, what was wrong with it, and how its author later changed his mind.
 
-![Marxism and imperialism exam guide, the imperialism answer matrix and the stage and empire opening - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and imperialism exam guide, the imperialism answer matrix and the stage and empire opening - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 This guide is built around those rewards and penalties. It assumes the content is available elsewhere and links to it rather than repeating it: the full treatment of the theories lives in the cluster's content guide, and the difficult primary material has an article of its own. The task here is narrower and, for a candidate, more valuable. It is to convert knowledge of a contested literature into marks, under time pressure, in whichever examination room the question happens to be asked. That conversion has a technique, and the technique can be taught. Its core is a single opening move, named in this guide as the stage and empire opening, supported by a planning instrument called the imperialism answer matrix, and completed by a small set of disciplines: name rivals rather than recite a doctrine, evaluate against a named critic, grade the classical predictions against the record, and refuse every figure whose provenance cannot be defended in the room.
 

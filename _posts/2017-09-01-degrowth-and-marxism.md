@@ -8,8 +8,9 @@ tags: ["Marxism", "Degrowth", "Ecological Marxism", "Political Economy", "Enviro
 excerpt: "Degrowth divides Marxists over what must shrink and what must grow: the conflation table and the throughput and provision distinction at the dispute's core."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 152
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-09-01
+lang: en
 ---
 Degrowth names a proposal about material and energy throughput in wealthy economies, and almost every public quarrel surrounding the word begins by mistaking that proposal for something else entirely. Proponents argue that rich societies should deliberately reduce the volume of matter and energy they process, while protecting or enlarging the services people depend upon, because ecological economics reports that separating throughput from output at the speed their models require has not been demonstrated as achievable. Critics hear a demand for shrinking incomes, rising joblessness, and emptier shelves. Between those two hearings sits a conceptual gap wide enough to swallow most debate on the subject, and closing that gap occupies the greater part of what follows here.
 

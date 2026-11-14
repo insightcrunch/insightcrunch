@@ -6,14 +6,15 @@ date: 2017-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Postcolonial Theory", "Colonialism", "Comparison", "Political Theory"]
 excerpt: "Postcolonial theory and Marxism share an object and divide over method and agency: the objects and methods grid and the trajectory explanation of the split."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 150
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-05-15
+lang: en
 ---
 Postcolonial theory and Marxism are usually presented as rival answers to a single question, as though a reader had to pick a side before opening a book. That presentation is the first error this article exists to correct. The two bodies of work are not competing explanations of the same thing. They study different things that happen to share a setting, the way a hydrologist and a historian of religion might both study a river: one measures flow, silt, and the labour that dug the canals, while the other asks how the river was represented, worshipped, and written into the identities of the people along its banks. Neither study refutes the other, because their objects differ even where their territory overlaps. Postcolonial theory takes as its object the discourse of colonialism: the representations, categories, and forms of subjectivity through which colonised peoples were made knowable and governable, and through which they came to know themselves. Marxist approaches take as their object the social relations of colonialism: who owned the land, who laboured and under what compulsion, how surplus was extracted and where it flowed, and what classes the process created and destroyed.
 
-![Marxism and postcolonial theory compared through the objects and methods grid - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Marxism and postcolonial theory compared through the objects and methods grid - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The difference can be made concrete with a single document, before any names are introduced. Consider a colonial settlement report, the kind in which a revenue officer classified the villages of a district by soil, tenure, and the customs he attributed to their inhabitants. A Marxist reading of that report asks what the settlement did: how the assessment fixed a money demand on the cultivator, how it converted customary rights into a legible property regime, which groups gained a saleable title and which lost the commons, and how the resulting pressures sorted a peasantry into landlords, tenants, and labourers. A postcolonial reading of the same report asks what the settlement said: how its categories manufactured the objects it claimed merely to describe, how the figure of the timeless village and the fanatical tribesman were assembled from administrative need, and how colonised readers later inherited those categories as the vocabulary of their own self-understanding. Both readings are about colonialism. Neither, by itself, answers the questions the other poses. Much of the quarrel this article reconstructs comes from mistaking that division of labour for a contradiction, and from each side periodically claiming that its object is the only real one. The reader who finishes this article should be able to state the difference of objects precisely, to identify the one determinate historical claim on which the sharpest Marxist criticism actually fastens, to explain why a single historiographical collective is claimed by both traditions as its own, and to judge what a combined account would have to accomplish. Those are the four pieces of equipment the comparison requires, and they are delivered in that order.
 

@@ -6,14 +6,15 @@ date: 2017-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Ecological Marxism", "Ecological Limits", "Critique", "Political Theory"]
 excerpt: "Ecological limits test Marxism at its abundance premise rather than its texts: the charge and verdict ledger and why the abundance premise is the difficulty."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 154
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2017-10-15
+lang: en
 ---
 The question whether Marxism can accommodate ecological limits is usually asked as though it were a single question, and the confusion begins there. Behind the familiar wording sit two quite different accusations, aimed at two different parts of the framework, with two different bodies of evidence behind them and two very different prospects of being answered. One accusation concerns the theory of value: it says that a framework built to analyse how value is produced has no analytical place for natural conditions, and that nature therefore disappears from its economics at exactly the point where an ecological critique would need it to appear. The other accusation concerns the destination: it says that the society Marxism describes as its goal, a society able to distribute according to need, presupposes a level of material plenty that ecological constraint, if the findings of earth-system science and ecological economics hold, renders unavailable. The first accusation has been examined closely for three decades and has received a substantial answer. The second has been stated clearly, by writers inside the tradition as often as outside it, and has received nothing that deserves the name of an answer. An article that keeps the two apart performs a service that most treatments of this subject fail to perform, because most treatments spend their energy on the accusation that can be answered and leave the one that cannot in a footnote.
 
-![Ecological limits examined through the charge and verdict ledger - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ecological limits examined through the charge and verdict ledger - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 That separation governs everything that follows. The reader who has met the charge that Marxism is productivist, that it celebrates the growth of productive forces without regard to natural consequence, has met a slogan that bundles together claims of very unequal strength. Some of those claims concern what Marx wrote, and they can be tested against texts. Some concern what the framework can coherently say, and each can be checked against its categories. Some concern what happened in states governed in the tradition's name, and they invite testing against a historical record that has its own article elsewhere in this series. And one claim, the strongest, concerns the material presuppositions of the future society the tradition holds out as its destination, and it can be tested only by asking what that destination requires of the physical world. The method of this article is to unbundle the slogan into its components, to give each component its strongest formulation and its named proponent, to record the reply where a reply exists, and to mark honestly, in a ledger the reader can inspect, which components land, which partly land, and which have been answered. Where the verdict is that an objection stands unanswered, the article says so in those words, because a critique conducted largely from within a tradition deserves the respect of an exact report rather than the comfort of a vague reassurance.
 

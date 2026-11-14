@@ -6,14 +6,15 @@ date: 2017-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marx", "Ecological Marxism", "Critique", "Environment"]
 excerpt: "Marx's ecology is disputed between two bodies of text pointing opposite ways: the extension not possession thesis grades what the textual evidence supports."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 152
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2017-08-15
+lang: en
 ---
 Was Marx an ecological thinker, or does ecology have to be supplied to his work from outside it? Few questions in the study of Marx divide readers as cleanly, and few are argued as badly. One camp presents a writer who understood soil exhaustion, material cycles, and obligations owed across generations. Another presents a celebrant of industrial expansion who treated nature as a stock of raw material awaiting human transformation. Both camps quote genuine passages. Both camps omit the passages that embarrass them. An honest treatment begins by admitting that the archive contains two bodies of text pointing in different directions, and that any verdict ignoring either body has been purchased by selection rather than earned by reading.
 
-![Was Marx an ecological thinker, the two bodies of text and the extension not possession thesis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Was Marx an ecological thinker, the two bodies of text and the extension not possession thesis - Insight Crunch](/assets/images/blog/blog-96.webp)
 
 Distribution matters as much as content. Passages praising the conquest of natural forces cluster in writings from the eighteen forties and eighteen fifties, when Marx shared much of his century's confidence in industrial development. Passages analysing disrupted material cycles, correcting careless claims about wealth, and describing society as a trustee rather than an owner of the earth belong chiefly to the eighteen sixties and eighteen seventies. Private notebooks filled with extracts from agricultural chemistry, geology, and soil science date from those later decades as well. Chronology therefore changes the shape of the dispute. A reader confronting an early manifesto beside a mature volume of Capital faces development across a working life, not a simple contradiction frozen inside a single book.
 
