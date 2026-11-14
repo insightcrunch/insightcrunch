@@ -6,13 +6,15 @@ date: 2026-11-13
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "dravin-border", "binder"]
 excerpt: "Mira Kovac finds a bound load in a Dravin border station, its binding hidden where no binding should hide, and a Binder in custody who says it cannot be done."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-13
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Inert House on the Dravin Border Station - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The lower floor of the Dravin border station is awake before the rest of the building is, and Lia Memmet, who has walked it at the change of shift for longer than most of the guards posted above her have held a station warrant, knows its waking by sound before she knows it by any other sign. First there is the water, moving in the culvert beneath the pump hall floor in a low, even rush that she feels through the soles of her boots as much as she hears it, and then there are the pumps themselves, three of them in a row along the northern wall, iron housings bolted to stone beds, each with its own voice in the chorus the hall makes when the night water is being lifted and sent on toward the border channel. The first pump speaks low and slow. The second answers a fraction higher. The third, the oldest, carries a roughness at the top of its stroke that the station engineer has logged, and forgiven, and logged again, through a whole session of requests for a replacement part that has not yet come down the ridge road. Together they make a pitch that a person who works beside them stops hearing as separate notes and starts hearing as the condition of a normal morning, in the way that a person stops hearing a clock in a room where she has slept for years and hears it only on the morning when it has stopped.
 
