@@ -223,3 +223,7 @@
 ## nightjar-carrowmere-run-014
 - _posts/2026-11-11-nightjar-seal-that-wasnt-011.md - could carry: "The doors whose perfect seals had held nothing behind them stood in the register beside a foundry yard where three crates of forty read as nothing, and the silence there followed a stamp rather than a seal."
 - _posts/2026-11-13-nightjar-inert-house-013.md - could carry: "The load whose binding could not be felt where it sat had been built to a pattern; in a foundry yard on the Carrowmere side, the same silence was found clinging to one stamped alloy and to nothing else in a row of forty crates."
+
+## how-cinematography-works
+- _posts/2015-04-01-the-third-man-cinematography-noir-style.md — could carry: "Krasker's canted frames are one settlement among the core decisions of the craft, each of which is set out in the guide to how cinematography works."
+- _posts/2026-10-14-how-film-restoration-works.md — could carry: "Restoration begins from what the original photography fixed on the negative, and the guide to how cinematography works explains the decisions that negative preserves."
