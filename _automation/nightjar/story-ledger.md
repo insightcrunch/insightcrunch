@@ -315,3 +315,25 @@ spine notch:              Rung thirteen. A Binder of thirty years says flatly th
 characters:               Mira Kovac, Tomas Rask, Arvo Leyden, Oskar Venn (new), Lia Memmet (new), Commander Sabel (new), Petra Dunmore (by paper)
 canon written back:       Three facts under Established canon, each numbered 013: Oskar Venn, a Binder of thirty years in Accord custody, his conviction and his statement that hiding a binding is impossible; the Dravin border station, its lower floor, its three pumps, its service gate and holding wheel and its quench tank; the bound load at the third pump housing, built on the rehearsal pattern with four improvements in sequence, made inert in the quench tank, and the four visits read on the lower floor
 callbacks:                006, 011 and 012, three internal links, to the rehearsal at the Corra Lock where a charge had been placed twice, to the doors in Valtessa whose perfect seals had held nothing behind them, and to a reading room in Melora where an absence had been caught retreating slowly toward a door
+
+## Installment 014
+slug:                     nightjar-carrowmere-run-014
+published:                2026-11-14
+story span:               Four days in the Twenty Ninth Session, from Rann writing the shopping list over the list in her notebook to the stamp rubbing folded into the pocket with the register
+arc:                      The Alloy, case 4
+case type:                Exfiltration or rescue
+words:                    22355
+outcome:                  full success
+cost paid:                Four miles of a frightened woman's company while carrying the heavy road, and Rann's family: the foundry business closed within a week on the list she carried out
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the stamp, three crates, one mark, and a foundry that made them
+clues planted:            The notebook impression, a shopping list pressed over the list so the pen carried through to the page beneath; the crate table of forty crates by stamp group, origin bench and read result, thirty seven reading normally and three reading as nothing; the short road read giving four men waiting twice this week; the four mile limit, no vehicle inside the last four miles on the Scour approach roads; the foundry's own consignment ledger page naming Rann's family foundry as stamper of the three silent crates
+capabilities established: The yard read giving thirty seven crates ordinary and three as nothing, with the three sharing one stamp (Ground truth); the short road read giving four men waiting twice in the week and the long road reading ordinary (Ground truth); Rask's stilling worked one handed from the forward position, his splinted left hand never asked to hold (Tasking, Pressure); the notebook impression read for the fear in the pressing hand and nothing of identity (The collapse)
+damage carried:           In: six hours from 012, Rask's hand from 013. Adds: four miles of Rann's fear, and Rann's family
+endurance:                entering full; reduced at the pressure beat
+legend beat:              none
+close consumed:           The yard read and the crate table, the short road read and the long road reading ordinary, the four mile limit established at tasking, Rask's one handed stilling, and the ledger page that killed the bait reading; every one established earlier in this same installment
+false lead:               Bait. Her approach to the Office is textbook and the textbook is on the Office shelf; the reading dies on the consignment ledger page, the one document a bait would never bring because it destroys her own family's business
+spine notch:              Rung fourteen. The absence clings to one alloy and to nothing else. Three crates of forty read as nothing, the rest read normally, and the three share a stamp
+characters:               Mira Kovac, Tomas Rask, Arvo Leyden, Reni Vosk, Ysolde Rann (new), Petra Dunmore (by telephone)
+canon written back:       Three facts under Established canon, each numbered 014: Ysolde Rann, the foundry counting house clerk who carried out the list and the ledger page; the foundry yard row of forty stamped crates, thirty seven reading normally and three reading as nothing, the three sharing one stamp, one bench and one casting run; the Scour approach roads extraction rule, no vehicle inside the last four miles, and the long road walked on foot while the short road read heavy with four men waiting
+callbacks:                011, 012 and 013, three internal links, to the doors in Valtessa whose perfect seals had held nothing behind them, to a reading room in Melora where an absence had been caught retreating slowly toward a door, and to a bound load on a border station whose binding could not be felt where it sat
