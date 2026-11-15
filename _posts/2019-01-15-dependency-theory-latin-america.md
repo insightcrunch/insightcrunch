@@ -6,15 +6,15 @@ date: 2019-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "Dependency Theory", "Latin America", "Political Economy", "History"]
 excerpt: "Dependency theory was built in institutions that were then destroyed: the institutional map and why its later reception is an artefact of the dispersal."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 167
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-01-15
+lang: en
 ---
-
 Dependency theory is usually introduced as a set of propositions about trade, capital, and underdevelopment, and the propositions are argued over as though they had been composed in a vacuum by solitary authors. This article takes a different object. It asks where dependency theory was physically made: in which buildings, under which employers, in argument with which colleagues sitting in the same corridor. The answer turns out to be unusually concrete. A United Nations regional commission in Santiago produced the structuralist economics from which the theory grew, and a university research centre in the same city housed its principal theorists together during the years when the radical version was formed. In September 1973 a military coup destroyed that centre and scattered its researchers across two continents. Everything about how the theory was later read, especially in English, follows from that sequence of construction and destruction.
 
-![A seminar table with Spanish-language journals, a wall map of Santiago and seminar notes from a university research centre, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table with Spanish-language journals, a wall map of Santiago and seminar notes from a university research centre, Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The formation story matters because the reception story cannot be understood without it. A body of work produced collaboratively, in Spanish and Portuguese, by scholars who corrected one another in seminars and journals, reached the English-speaking world piecemeal: one author translated early and read as the school's founder, another translated a decade later, the most technically original of them barely translated at all. English-language readers therefore met dependency theory as a shelf of competing individual positions and organised their textbooks accordingly. The claim this article names and defends is that the reception is an artefact of the dispersal. What looks like the theory's internal incoherence is, in considerable part, the shape imposed on it by the destruction of the institution that had held its arguments together and by the staggered, partial translation that followed the scattering.
 

@@ -6,15 +6,15 @@ date: 2019-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Guerrilla Strategy", "Latin America", "Revolution", "History"]
 excerpt: "Guerrilla and electoral strategies failed in Latin America for a common reason: the strategies assessed and the common failure neither side ever escaped."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 167
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-02-01
+lang: en
 ---
-
 The guerrilla road and the electoral road were not temperaments. They were theories, argued in print by named writers who gave reasons, predicted consequences, and accepted wagers about how history in their region actually moved. One held that a small armed nucleus in the countryside could create the conditions for revolution instead of waiting for those conditions to ripen. The other held that a coalition could win office through elections and legislate a transformation of property relations under the shelter of legality. Between the early nineteen sixties and the end of the nineteen seventies, Latin America tested both theories about as thoroughly as any region has ever tested a strategic dispute, and it tested them under conditions close enough to make the comparison mean something: the same decades, the same world economy pressing on the same kinds of states, the same adversary in Washington, and in several countries both roads attempted by rival organisations of the same left within a few years of each other.
 
-![A mountain road and a ballot box on a table before a map of Latin America, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A mountain road and a ballot box on a table before a map of Latin America, Insight Crunch](/assets/images/blog/blog-32.webp)
 
 That closeness of conditions is what gives this article its method, and the method should be stated before any case is narrated. Strategic arguments are usually judged by partisans, each side exhibiting its own near successes and the other side's catastrophes, and the exhibition settles nothing because the cases are chosen for the verdict. A comparison conducted across a whole region and a whole period cannot choose its cases so freely. It must take the armed road's full record, including the countries where the attempt was brief and the organisation small, and it must take the electoral road's full record, including the one case where that road was followed to its end. When the records are taken whole, a pattern appears that neither side's partisans emphasised, because it flatters neither. The two roads failed against the same obstacle. The armed road was destroyed by the coercive apparatus of the state, the soldiers, police, intelligence services and courts through which a state enforces its monopoly of violence. The electoral road was removed by the same apparatus, which it had won office without displacing and had governed while leaving intact. Neither strategy, as its theorists formulated it, contained an answer to that apparatus. This article names that finding the common failure, and it treats the finding as more useful than any verdict for one road against the other, because a verdict would teach a reader which banner to prefer, while the finding teaches what question any future strategy in the region would first have to answer.
 

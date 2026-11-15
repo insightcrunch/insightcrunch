@@ -6,15 +6,15 @@ date: 2019-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Latin America", "Exam Preparation", "Study Guide", "Dependency Theory"]
 excerpt: "Latin America in an exam rewards the two anchors: a case and a concept for every major claim, using the Latin America answer matrix to plan timed answers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 168
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2019-02-15
+lang: en
 ---
-
 Latin America is examined wherever the twentieth century is examined, and a candidate who understands where the region sits in each paper has already solved half the problem of writing on it. History papers meet the material inside the Cold War and decolonisation: a revolution in Cuba that changed sides in the hemisphere's alignment, a constitutional road attempted in Chile and destroyed by a coup, insurgencies and counterinsurgencies across a continent. Politics and international relations papers meet it as theory and strategy: the dependency school's account of why development stalls, and the long argument between the armed road and the electoral road. Development studies meets it as the region that produced the most influential critique of development itself. Courses in Latin American studies meet it whole, as a tradition. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.
 
-![A study desk with the Latin America answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk with the Latin America answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-16.webp)
 
 One point needs stating plainly before any technique, because candidates consistently misjudge it and the misjudgement distorts everything they write. Assessment on this topic grades the quality of analysis, and it does not grade the direction of the conclusion. A model answer that concludes against the Cuban Revolution, against the Chilean road, against dependency theory, or against the redistributive governments of the later period can score full marks, provided its representation of each project is accurate, its evidence is handled with care, and its judgement engages the strongest version of what it rejects. A model answer that concludes in favour of any of those projects can fall into a low band if it reproduces a movement's account of itself as though reproduction were analysis. Examiners are testing whether the candidate knows the debates: where each project's claims are contested, which critics contest them, and how scholarly positions have moved. A script that knows the debates and then judges them, in either direction, is the script the marking scheme is built to reward. Keep that symmetry in view through every section that follows, because it is the licence under which all the technique in this guide operates.
 

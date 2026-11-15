@@ -6,15 +6,15 @@ date: 2018-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Cuban Revolution", "Latin America", "History", "Revolution"]
 excerpt: "The Cuban Revolution radicalised after taking power, not before: the radicalisation sequence and the inverted sequence that grades its rival explanations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 166
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-11-01
+lang: en
 ---
-
 The Cuban Revolution is usually introduced through a misunderstanding, and the misunderstanding is worth clearing away before any narrative begins, because it reverses the order of the events that need explaining. What took power in January 1959 was not a communist organisation. It had not campaigned as one, it had not promised a socialist transformation in its public programme, and the country's established communist party had spent most of the insurrection denouncing the movement's armed strategy as reckless adventurism. The revolution's socialist character was proclaimed in April 1961, more than two years after victory, and its leader described himself as a Marxist-Leninist only in December of that year. Whatever the Cuban Revolution became, it became it after seizing power rather than before, and that inversion of the standard sequence is the fact around which any serious reading of the case must be organised.
 
-![A Havana street with the radicalisation sequence chart, the harbour and the Sierra Maestra foothills behind, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A Havana street with the radicalisation sequence chart, the harbour and the Sierra Maestra foothills behind, Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This matters because the standard model of a communist revolution runs the other way. In the model drawn from Russia and China, a disciplined Marxist party builds an army and a base, wins power in the name of a doctrine it has professed all along, and then applies the programme it carried into government. Cuba fits none of that sequence. The party that professed the doctrine sat the insurrection out until its closing months. The movement that won had a programme of constitutional restoration, honest administration, and moderate social reform. The doctrine arrived afterward, in stages, each stage bound up with a quarrel, a nationalisation, a countermeasure, and a further alignment eastward. Explaining how that happened, and deciding how far the outcome was intended and how far it was produced by the collision itself, is the analytical work of this article. The achievements and the costs of what followed belong in the same account, stated together, and neither is allowed to cancel the other.
 

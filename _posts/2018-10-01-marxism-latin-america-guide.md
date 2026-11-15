@@ -6,15 +6,15 @@ date: 2018-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Latin America", "Dependency Theory", "History", "Political Theory"]
 excerpt: "Marxism in Latin America is the tradition's fourth regional instance: the regional problems table and what the region added that Europe itself had not."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 164
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-10-01
+lang: en
 ---
-
 Marxism in Latin America is usually introduced to English readers through its revolutionaries, as though the region had supplied the movement with faces and supplied nothing to its arguments. The record runs the other way. Across the twentieth century the region produced a body of Marxist theory with a reach well beyond its own borders: an account of communal landholding as a living basis for socialism, a theory of dependency that reorganised how the world economy was studied, a theology that took Marxist social analysis into the region's churches, a mechanism of super-exploitation specified for dependent economies, and a concept, the coloniality of power, that reshaped debates far from its Peruvian origin. What generated this output was not a local talent for slogans. It was a problem. The categories of classical Marxism had been built from European industrial experience, and the societies to which Latin American Marxists applied them were societies whose exploited majorities were indigenous and rural, in which land and race organised exploitation as visibly as the factory wage, and in which formal independence had coexisted for a century with economic subordination. Theory had to change to fit, and the changes are the tradition.
 
-![A reading table with Spanish and Portuguese editions, the regional problems table and a map of the region, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading table with Spanish and Portuguese editions, the regional problems table and a map of the region, Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This guide treats Latin American Marxism as what it was: a regional tradition of theory, with its own founding problems, its own canonical disputes, its own instruments of diffusion, and its own catastrophe, when the military dictatorships of the 1960s and 1970s destroyed the institutions in which the tradition was housed and scattered its producers across two continents. It follows the series pattern for regional traditions. The tradition is organised by the problems it confronted rather than by the countries it passed through, because the problems crossed borders more readily than the parties did, and because a country by country summary, which is what most coverage offers, dissolves exactly the thing that makes the region's Marxism a single object of study: the shared argument about whether a theory formed on European history could be made to work on societies that history had formed differently. Readers who want the individual cases in depth will find them in the cluster's own articles, linked throughout; this guide's work is the map, the claim, and the evidence for both.
 

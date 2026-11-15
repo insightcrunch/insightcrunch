@@ -6,17 +6,17 @@ date: 2019-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Pink Tide", "Latin America", "Political Economy", "History"]
 excerpt: "The pink tide redistributed resource rent without transforming production: the rent redistribution table and the rent model that explains its built-in limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 167
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-01-01
+lang: en
 ---
-
 Between the end of the nineteen nineties and the middle of the following decade, voters across Latin America did something they had never done in such a sequence before: they elected governments of the left, one after another, in country after country, until the pink tide had redrawn the political map of a continent. The victories were not copies of one another. A movement rooted in oil wealth and barracks nationalism won in Venezuela; a metalworker's party, built over decades of union struggle, won in Brazil; a coalition of socialists, communists, and Christian democrats governed in Chile; an indigenous and peasant movement carried the presidency in Bolivia; a former guerrilla coalition took office in Uruguay. What they shared was a direction, a vocabulary of sovereignty and social justice, and an electorate exhausted by two decades of market reform. What they did not share, at the outset, was a programme.
 
 That asymmetry is where analysis has to begin, because the most common way of writing about the period gets it backwards. Journalistic accounts usually start from the personalities and the rhetoric, and treat the economics as background. A Marxist reading reverses the order. It asks what material basis made the wave possible, what that basis permitted the governments to do, and what it forbade them to do, and it finds that a single mechanism answers all three questions. The wave coincided with a long rise in the world prices of oil, gas, copper, soy, iron ore, and other primary commodities, and the windfall of resource rent that flowed into state treasuries financed an era of redistribution that never had to confront the ownership of productive wealth. The achievements were real. So were the limits, and they were built into the financing from the first day.
 
-![A map of Latin America marked with commodity export routes and a worksheet of the rent redistribution table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A map of Latin America marked with commodity export routes and a worksheet of the rent redistribution table, Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This article works through that argument in full. It defines the wave and fixes its dates, surveys the succession of victories and the differences among them, and then spends its centre on the commodity boom and on the category of rent, because the category does the explanatory work. It sets out the rent redistribution table, which compresses the model into one view, and weighs the achievements against the structure that produced them. It then gives the critique that arose inside the left itself, the charge of neo-extractivism, and the story of how governing coalitions fractured over mines, dams, roads, and wells on indigenous territory. The defence of the governments is stated at full strength, in the terms their own proponents used, and answered with a concession that honest criticism owes them. The recession of the wave, when prices turned, closes the account. Readers who want the wider tradition behind these events will find it in the series survey of [Marxism in Latin America](/2018/10/01/marxism-latin-america-guide/); the concern here is narrower and, for that reason, sharper: one wave, one mechanism, and the verdict the mechanism delivers.
 

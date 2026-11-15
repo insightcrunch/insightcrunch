@@ -6,15 +6,15 @@ date: 2018-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Liberation Theology", "Latin America", "Religion", "Political Theory"]
 excerpt: "Liberation theology borrowed Marxist analysis carefully as an instrument: the borrowing table and the mediation distinction that grades the borrowing."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 166
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-12-15
+lang: en
 ---
-
 Liberation theology is a current within Latin American Christianity that emerged in the late nineteen sixties and did something no major theological movement had done before it: it took up the social analysis of Marxism as a working instrument while refusing, explicitly and on the record, the philosophy and the atheism historically attached to that analysis. Its practitioners were priests, religious sisters, bishops in a minority of dioceses, and lay organisers in very large numbers; they were not, with rare and famous exceptions, members of Marxist parties. Its signature commitment, the preferential option for the poor, held that Christian faith must be read and practised from the position of the impoverished majority of the continent, and that poverty itself was not a misfortune to be relieved by charity but a condition produced by identifiable structures and therefore open to structural remedy. Any account of the movement that misses either of those two facts, the deliberate and limited character of the Marxist borrowing, or the option for the poor as a structural rather than charitable commitment, will misdescribe everything that follows.
 
-![A circle of readers studying scripture beside notes on the borrowing table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A circle of readers studying scripture beside notes on the borrowing table, Insight Crunch](/assets/images/blog/blog-13.webp)
 
 Two features of the movement are persistently lost in summary treatments, and recovering them is the purpose of the pages that follow. The first is precision about the borrowing. The theologians did not drift into Marxist vocabulary by osmosis, and they did not convert to Marxism while keeping a Christian vocabulary for decoration. They stated, in their own methodological writings, exactly what they were taking and exactly what they were refusing, and they gave the relationship a name: mediation. Marxist analysis, in their formulation, functioned as a socio-analytic mediation, a set of instruments for understanding why the poor were poor, interposed between the theologian's faith and the theologian's reading of society. Whether instruments of that kind can be detached from the philosophy that produced them is a genuine question, and it was pressed hard from two opposite directions, by the Vatican's doctrinal congregation and by Marxist critics who found the theology insufficiently materialist. The dispute is the intellectual centre of the subject, and it cannot even be stated correctly without the theologians' own distinction in hand.
 
