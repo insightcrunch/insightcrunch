@@ -6,13 +6,15 @@ date: 2026-11-14
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "foundry"]
 excerpt: "Mira Kovac walks a foundry clerk out on foot with the list that closes her family business, while three crates in a foundry yard read as nothing at all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-14
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Carrowmere Run and the Stamped Alloy Crates - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 Ysolde Rann writes her shopping list in the hour when the foundry office is quietest, and she writes it the way she has written every list since she was a girl at this same desk, with the notebook squared to the edge of the wood and the pen held short in her fingers so the letters stay small. Bread, she writes. Salt. Oil for the lamp in the back room. Thread, the dark kind. Soap. She writes each word as if it mattered that it be legible, because in the counting house side of the foundry legibility is a kind of honesty, and her father taught her that before he taught her the columns. The office smells of warm iron from the yard door, of paper kept too long in damp air, of the tea the morning clerk leaves to cool and forgets. Beyond the thin wall the yard men are calling to one another in the unhurried voices of men who have lifted the same weights in the same order for years, and a chain complains, and a cart wheel finds the rut it always finds. She hears all of it without listening. She has heard it all her life.
 
