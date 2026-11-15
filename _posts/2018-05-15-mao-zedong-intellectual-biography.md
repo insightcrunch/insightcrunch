@@ -6,15 +6,15 @@ date: 2018-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Mao Zedong", "Marxism in China", "Biography", "History"]
 excerpt: "Mao Zedong is assessed here by his documents against his record: the contribution and record table and the document verdict that grades his theoretical claims."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 160
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-05-15
+lang: en
 ---
-
 Mao Zedong was two things that biography usually keeps apart, and this profile refuses to separate them. He was a theorist of real originality whose writings on contradiction, on practice, and on guerrilla warfare were taken up by movements on every continent, translated, memorised, and applied by people who never saw China. He was also, for more than a quarter of a century, the ruler of the most populous state on earth, and two of the catastrophes of the twentieth century unfolded under his direction and by his authority: a famine among the largest in recorded history, and a decade of mass persecution that reached into nearly every institution and household in his country. An account that gives only the theory reads as a brief for the defence. The record alone cannot explain why the ideas travelled so far. This article gives both, in full, and lets neither purchase indulgence for the other.
 
-![Mao Zedong's Yan'an writings, the contribution and record table and the map of the rural base areas, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mao Zedong's Yan'an writings, the contribution and record table and the map of the rural base areas, Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The method used here can be named at the outset, because the whole profile is built on it. It is the document verdict: the practice of grading a thinker's claims against documents whose authority does not depend on the grader's sympathies. For Mao, one such document exists that has no equivalent in the literature on most rulers. In 1981 the party he had led for nearly half a century adopted a formal resolution on its own history, and that resolution ranked his services to the revolution above his faults, while describing the Cultural Revolution, the movement he launched and sustained, as the source of the gravest setback and the heaviest losses suffered since the state he proclaimed was founded. The severest judgements in this profile therefore do not rest on hostile testimony. They rest on the verdict of his own side, delivered as an official document, with its date and its standing stated, and the profile returns to that document at every stage of the assessment. Where the resolution speaks, it is quoted or closely followed. Where scholarship goes beyond it, the scholarship is named.
 

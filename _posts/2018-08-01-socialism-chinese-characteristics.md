@@ -6,15 +6,15 @@ date: 2018-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Marxism in China", "Doctrine", "Political Theory", "Socialism"]
 excerpt: "Socialism with Chinese characteristics is a transition theory with no stated end: the doctrine's structure and the terminal condition gap at its centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 163
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-08-01
+lang: en
 ---
-
 Socialism with Chinese characteristics is usually met first as a phrase on a news broadcast or a textbook page, and it is usually dismissed within the same minute, as a euphemism invented to let a communist party operate a market economy while keeping the name. That dismissal is too quick, and it misses the thing worth studying. The phrase names a doctrine, and the doctrine has a structure: a premise taken from Marx himself, a diagnosis of the country to which the premise is applied, a prescription about which instruments may legitimately be used during the interval the diagnosis describes, and a claim about how long that interval will last. Because the doctrine has a structure, it can be assessed the way any argument is assessed, by asking whether the premise is sound, whether the diagnosis fits the evidence, whether the prescription follows from the two of them, and whether the conclusion is ever required to arrive. This article performs that assessment. It treats the formulation neither as a slogan to be repeated nor as a fraud to be exposed, but as a stage theory inside the Marxist tradition, with ancestors in that tradition, rivals competing with it, and one specific weakness at its centre, the absence of any stated condition under which its long stage would count as complete. That weakness has a name in what follows: the terminal condition gap.
 
-![Congress reports, the doctrine's structure table and the primary stage texts on a reading desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Congress reports, the doctrine's structure table and the primary stage texts on a reading desk, Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The scope needs stating before the argument begins. This article describes a doctrine historically, from the congress documents in which its formulations were adopted, and it assesses the doctrine's theoretical structure. It does not comment on any government, evaluate any policy, or describe the content of the doctrine's most recent formulations, and it names no serving official. The separate empirical question of whether the country the doctrine governs should itself be classified as socialist is a different inquiry, pursued in the companion study of [whether China is still socialist](/2018/07/15/is-china-still-socialist/), and the wider tradition from which the doctrine descends is mapped in the [complete guide to Marxism in China](/2018/05/01/marxism-in-china-complete-guide/). What belongs here is narrower and, for a reader who wants to judge the phrase rather than merely repeat a judgement about it, more useful: what the doctrine claims, where each claim came from, what its critics from several directions have said against it, and the precise point at which the serious criticisms all land.
 

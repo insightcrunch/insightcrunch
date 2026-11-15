@@ -6,15 +6,15 @@ date: 2018-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Cultural Revolution", "Marxism in China", "History", "Mao Zedong"]
 excerpt: "The Cultural Revolution is reconstructed here phase by phase: the phases table and why the estimate variation is methodological, not at all accidental."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 162
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-07-01
+lang: en
 ---
-
 The Cultural Revolution was a political movement launched in China in 1966 by Mao Zedong, chairman of the Chinese Communist Party, and directed, extraordinarily, against the party and state apparatus over which he presided. Its announced purpose was to purge bourgeois and revisionist elements said to have entrenched themselves inside the party, the government, the universities, and the world of culture, and to prevent the restoration of capitalism by renewing the revolution within the generation that had made it. Its formal span runs from the spring of 1966 to the autumn of 1976. Both what it was and how much it cost remain matters of serious scholarly dispute, and a responsible account has to carry those disputes openly rather than settle them by selection. This article reconstructs the record in sequence, states what happened to the people and institutions caught in it, explains why the estimates of its human cost diverge so widely, and sets out the two readings of the period that historians working from the archives continue to defend.
 
-![A reading table holding the phases table, county gazetteers, and campaign documents of the period, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading table holding the phases table, county gazetteers, and campaign documents of the period, Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Three cautions govern everything that follows. The first concerns scale. No mortality figure for the period commands scholarly assent, and the reasons are structural rather than accidental: the studies count different categories of death, over different spans, from different bodies of evidence. Wherever a question of scale arises in what follows, the answer given is an account of the counting problem and a direction toward the demographic and archival literature, because that is the answer the evidence supports. The second caution concerns agency. The movement was called into being from the summit of the party, and it also generated organisations, grievances, and initiatives that the summit did not script and eventually suppressed; an account that keeps only one of those facts will misdescribe the decade. The third caution concerns boundaries. Mao's life and doctrine have their own articles in this series, in the [Mao Zedong intellectual biography](/2018/05/15/mao-zedong-intellectual-biography/) and in the comparison of [Maoism and Soviet Marxism](/2018/09/01/maoism-vs-soviet-marxism/), and the Chinese tradition as a whole is mapped in the [Marxism in China complete guide](/2018/05/01/marxism-in-china-complete-guide/). What belongs here is the record of a single decade: what was done, to whom, in what order, and how the doing has been counted and judged.
 

@@ -6,15 +6,15 @@ date: 2018-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Japan", "Korea", "Marxism in Asia", "Political Theory"]
 excerpt: "Marxism in Japan and Korea turned on one stage-theory question: the two debates compared and the problem both debates share with the Indian debate itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 162
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2018-08-15
+lang: en
 ---
-
 Japan is the country where Marxism achieved something it achieved almost nowhere else outside the socialist bloc: a durable home inside the university. For roughly a century, Japanese faculties of economics sustained a Marxist scholarly tradition of the first rank, training generation after generation of economists for whom Marx's categories were the ordinary instruments of research rather than a creed imported for political occasions. The tradition argued with itself at a level of textual and empirical detail that few national traditions matched, and its arguments were not parochial. Marxism reached China largely through Japan, carried in Japanese translations and in the heads of Chinese students returning from Tokyo and Kyoto, so that the vocabulary of Chinese Marxism was substantially coined on Japanese soil. Korea's Marxist traditions, by contrast, were divided by partition into a state doctrine in the north and a movement tradition in the south, each developing under pressures the Japanese scholars never faced. This article treats the three cases together because they illuminate one another, and because a single question runs through all of them.
 
-![Seminar notes on the two debates compared and the three-level method, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Seminar notes on the two debates compared and the three-level method, Insight Crunch](/assets/images/blog/blog-26.webp)
 
 That question is easy to state and hard to answer. Marx's account of capitalism was built from European materials, and it carried an implied sequence: feudal relations dissolve, a bourgeois order matures, and only then does a socialist transformation come onto the historical agenda. When the doctrine travelled east, every serious tradition that received it had to decide whether that sequence described its own society, and if not, what followed for strategy. Japan's Marxists fought their central debate over exactly this point, asking whether the transformation of the 1860s had completed a bourgeois revolution or left feudal remnants standing. India's Marxists fought a parallel debate over whether Indian agriculture was feudal, semi-feudal or capitalist. China's party answered the same question with a doctrine of stages of its own. The regional traditions are connected by that problem rather than by political affiliation, and the connection is the deepest finding this article has to offer. The full Chinese case is treated in the study of [Marxism in China: the complete guide](/2018/05/01/marxism-in-china-complete-guide/), which takes up the transmission story from the receiving end.
 

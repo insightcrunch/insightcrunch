@@ -6,15 +6,15 @@ date: 2018-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "China", "Socialism", "Political Economy", "Marxism in China"]
 excerpt: "Is China still socialist? The question splits on criteria, not on evidence: the criteria table and the criterion split behind the four rival positions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 162
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2018-07-15
+lang: en
 ---
-
 Few questions in political argument generate more heat per unit of light than the question whether China is socialist. It is asked in classrooms and comment threads, in seminar rooms and in the opinion pages, and it is usually answered within a sentence, with a confidence that the underlying material does not justify. The confidence is the first thing to discard. China presents the analyst with an economy in which most people sell their labour power for wages, in which a substantial class owns productive assets and appropriates the surplus those assets help to create, and in which production is organised overwhelmingly for exchange and for the expansion of capital. The same economy is governed by a party that calls itself communist, retains public ownership of land, banking, energy and other commanding sectors, and exercises a degree of direction over investment, and of authority over private capital, that has no real parallel among states everyone agrees to call capitalist. Both halves of that description are true. Any answer that proceeds by denying one of them is not an answer but a refusal.
 
-![A desk with the criteria table, notebooks on modes of production and a marked-up manuscript, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with the criteria table, notebooks on modes of production and a marked-up manuscript, Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The reason the argument never settles is that the disputants are rarely disagreeing about what the Chinese economy contains. They are disagreeing about which test decides what the economy is. Apply the criteria Marx himself used to identify a capitalist mode of production, generalised commodity production, wage labour as the dominant relation, a class living from the appropriation of surplus value, production oriented to accumulation, and the verdict follows at once. Apply instead the criteria that emphasise public ownership of banking, land and the other commanding sectors, together with a state that directs investment and disciplines capital, and a different verdict follows with equal ease. The dispute is therefore best understood as a dispute about criteria that has been conducted, unhelpfully, as though it were a dispute about facts. This article names that structure the criterion split, sets out each test and what it yields, and then isolates the one question underneath the terminology that is genuinely empirical: whether the state directs capital in pursuit of objectives capital would not choose, or serves accumulation while retaining the power to discipline individual capitals. That question, unlike the label, can in principle be answered, and the serious literature on all sides is really arguing about it.
 

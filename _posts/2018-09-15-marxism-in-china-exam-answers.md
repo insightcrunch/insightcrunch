@@ -6,15 +6,15 @@ date: 2018-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Marxism in China", "Exam Preparation", "Study Guide", "Maoism"]
 excerpt: "Marxism in China in an exam rewards the historiography opening: state the scholarly dispute first, using the China answer matrix to plan each timed answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 163
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2018-09-15
+lang: en
 ---
-
 Marxism in China is examined wherever the twentieth century is examined, and a candidate who understands where the material sits in each paper has already solved half the problem of writing on it. History papers meet it as a revolution and its aftermath: why a Marxist party won power in an agrarian society, what the Mao period built and what it cost, and how the Cold War in Asia turned on the outcome. Politics and international relations papers meet it as doctrine and division: Maoism as a body of theory, the quarrel with Soviet Marxism, and the question of what kind of social formation the Chinese state has governed since reform. Civil service optional papers in political science and in history meet it as a set text topic with a settled scholarly literature. Eligibility tests and university examinations meet it at greater length and with more weight on evaluation, while school-level papers meet it in compressed narrative form. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.
 
-![A study desk with the China answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk with the China answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-63.webp)
 
 One point needs stating plainly before any technique, because candidates consistently misjudge it and the misjudgement distorts everything they write. Assessment on this topic grades the quality of analysis, and it does not grade the direction of the conclusion. A model answer that concludes against Mao, or against Chinese Marxism as a whole, can score full marks, provided its representation of the doctrine is accurate, its handling of the record is careful, and its judgement engages the strongest version of what it rejects. A model answer that concludes in the movement's favour can fall into a low band if it reproduces a party history's account of itself as though reproduction were analysis. Examiners are testing whether the candidate knows the debate: where the movement's claims are contested, which scholars contest them, and how the positions have shifted as new evidence has surfaced. A script that knows the dispute and then judges it, in either direction, is the script the marking scheme is built to reward. Keep that symmetry in view through every section that follows, because it is the licence under which all the technique in this guide operates.
 

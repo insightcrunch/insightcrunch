@@ -6,15 +6,15 @@ date: 2018-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Mao Zedong", "Philosophy", "Marxism in China", "Political Theory"]
 excerpt: "Mao's contradiction essay turns philosophy into a decision procedure: the five propositions table and how the procedure grades its later applications."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 161
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-06-01
+lang: en
 ---
-
 In the summer of 1937, at a military and political college in the loess hills of Yan'an, Mao Zedong delivered two courses of lectures that became the most widely read philosophical texts produced by any Chinese Marxist. The first, On Practice, argued that knowledge begins in doing and is proved in doing. The second, On Contradiction, argued that every situation contains many conflicts, that the conflicts are never of equal weight, and that one of them, the principal contradiction, determines how all the others can be handled. That second claim is the subject of this article, because it is not merely a description of how the world is arranged. It is an instruction to whoever acts in the world: identify the conflict that governs the rest, subordinate your efforts to it, and expect its identity to change as the situation changes. Read in that way, as a decision procedure rather than as a picture of reality, the essay explains both its own extraordinary influence and the suspicion it has attracted from critics who ask whether a procedure so flexible can ever be shown to have been applied wrongly.
 
-![A lecturer's desk holding the two essays, an annotated Soviet textbook and a hand-drawn propositions table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A lecturer's desk holding the two essays, an annotated Soviet textbook and a hand-drawn propositions table, Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The two works are short. On Practice runs to a few thousand words in translation, and On Contradiction, the longer of the pair, can be read in an evening. Their brevity is part of their history: they were teaching texts, prepared for cadres who had marched thousands of miles and who needed a philosophy that could be carried into a meeting, a village investigation or a battle plan. Yet their afterlife has been anything but brief. The vocabulary of the second essay entered the formal doctrine of a ruling party, where it was restated at congresses across six decades. Its central distinctions were taken up in Paris a quarter of a century after composition, when Louis Althusser built his concept of overdetermination partly on this text and acknowledged the debt in print. And the essays became a standard exhibit in an argument about originality, because Mao composed them while working through Soviet philosophical textbooks in Chinese translation, annotating his copies in the margins as he went. The annotated copies survive. The revisions he later made for the collected works are documented. Almost everything about these two short texts, their sources, their editing and their reception, can be checked, and this article proceeds on that basis: the texts are treated as philosophy to be assessed, neither as doctrine to be repeated nor as a curiosity to be patronised.
 

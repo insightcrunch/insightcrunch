@@ -6,15 +6,15 @@ date: 2018-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Maoism", "Soviet Marxism", "Marxism in China", "History"]
 excerpt: "Maoism and Soviet Marxism divide over seven deep differences: the seven differences grid and the continuing-revolution generator behind most of the seven."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 163
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2018-09-01
+lang: en
 ---
-
 Maoism and Soviet Marxism began as two branches of one inheritance, and for roughly two decades they presented themselves to the world as a single camp with a single doctrine. The quarrel that divided them is often retold as a contest between two states, two leaders and two national interests, and that telling is not false so much as radically incomplete. Beneath the diplomatic rupture sat a disagreement about the theory itself, stated in documents on both sides, argued in the vocabulary both parties shared, and consequential enough that each side accused the other of abandoning Marxism altogether. The disagreement can be named in one sentence. Soviet doctrine held that antagonistic classes had been abolished inside socialist society, so internal class struggle had ended; Chinese doctrine held that class struggle continues under socialism and that a new bourgeoisie could be generated within the ruling party itself. Almost everything else in the split either fed into that divergence or flowed out of it.
 
-![A reading desk with Soviet and Chinese party documents, annotated maps and a comparison notebook, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with Soviet and Chinese party documents, annotated maps and a comparison notebook, Insight Crunch](/assets/images/blog/blog-94.webp)
 
 This article is a comparison built around that centre. It sets out seven differences between the two doctrines, gives each position in the form its own documents gave it, and then shows why one of the seven behaves differently from the rest. The agent of revolution, the strategy for taking power, the method of party leadership, the assessment of Stalin, and the strategy toward war between the systems were all real divergences, argued with passion and with consequences. Yet the dispute over continuing revolution was generative in a way the others were not. Affirm it, and a ruling party acquires a theoretical reason to turn revolution inward against its own apparatus, which is the road that led to the Cultural Revolution. Deny it, and a ruling party receives a theoretical guarantee that its own order cannot be challenged from within in class terms, the road to a bureaucratic stability no internal critic could legitimately disturb. The namable claim of this article, the continuing-revolution generator, is that two of the gravest outcomes of twentieth-century communism follow from opposite answers to a single question.
 

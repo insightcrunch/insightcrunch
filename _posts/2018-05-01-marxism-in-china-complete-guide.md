@@ -6,15 +6,15 @@ date: 2018-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Marxism in China", "Maoism", "History", "Political Theory"]
 excerpt: "Marxism in China arrived through Japan and became a governing doctrine: the contributions table and the Japanese route that first shaped its vocabulary."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 160
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2018-05-01
+lang: en
 ---
-
 Marxism in China is the record of a doctrine that crossed a sea before it crossed a continent. It arrived in the years around 1919, carried largely in translations made in Japan and in the luggage of Chinese students returning from Japanese universities, and it landed in a country that was overwhelmingly rural, fragmented among warlords, and searching for an explanation of its own weakness. The theory it carried had been built from the experience of industrial Europe, where a factory proletariat stood at the centre of the analysis. China had treaty ports, textile mills and railway workshops, but its hundreds of millions were peasants, and any doctrine that proposed to remake the country had first to answer a question its European authors had never faced in earnest: what does a theory of the industrial working class become in a society of villages? The tradition examined in this guide is the sum of the answers given to that question across a century, by a party that moved from a Shanghai study circle to the government of the country, and by the scholars who have argued about those answers ever since.
 
-![A reading desk with the contributions table, Japanese translation editions and Chinese Marxist texts, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with the contributions table, Japanese translation editions and Chinese Marxist texts, Insight Crunch](/assets/images/blog/blog-106.webp)
 
 Two readers are assumed throughout. The first knows the outline of Chinese history, the fall of the Qing, the republic's disorders, the war with Japan, the civil war, but has never worked through Marxist categories and meets terms like mode of production as strangers. The second knows the European tradition well, can follow an argument about contradiction or the state, but cannot say why a party of intellectuals ended up governing from a loess plateau in the northwest, or why its most famous texts were lectures delivered to cadres in caves and courtyards. Each section is written to serve both: historical material is narrated where the theorist needs it, theoretical material is unpacked where the historian needs it, and the connective tissue, the claim that the route of arrival and the pressure of circumstance shaped the doctrine's content, is argued rather than asserted. Where a concept such as historical materialism or the peasantry as a class needs full treatment, this guide links to the article that gives it and keeps moving.
 
