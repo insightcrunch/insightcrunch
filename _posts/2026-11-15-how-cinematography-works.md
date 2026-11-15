@@ -6,17 +6,17 @@ date: 2026-11-15
 categories: ["Leisure"]
 tags: ["cinematography", "film-craft", "camera-work", "film-lighting", "cinematographers", "film-history"]
 excerpt: "Cinematography works by shaping light, lens choice, camera position and movement so a viewer sees a scene in a planned order and feels its weight fully."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-15
+lang: en
 ---
-
 ## Light Decides What the Eye Finds First
 
 Cinematography works by controlling attention before recording action. A cinematographer shapes light, selects a lens, places the camera and decides on movement so a viewer sees a scene in a planned order and gives each face and object a planned weight. Dialogue registers after those decisions have already guided the eye. A bright doorway pulls attention before a dim corner does. A face lit from the side carries doubt that the same face lit flatly cannot carry. A long lens compresses a street in Citizen Kane era studio work and in location work alike, while a short lens stretches a room and makes distance feel larger. None of those effects arrives by accident on a professional set. Each one follows from a physical mechanism that can be named, measured and repeated.
 
-![Photographing a Scene With Controlled Light and a Chosen Lens - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Photographing a Scene With Controlled Light and a Chosen Lens - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The governing claim is plain enough to test against any scene. Cinematography is the control of attention before it is the recording of action. Light decides what can be seen. Lens choice decides how space relates. Position decides whose viewpoint the frame borrows. Movement decides when information arrives. Exposure decides what detail survives in shadow and highlight. Colour decides temperature, period and mood before a word explains them. David Bordwell and Kristin Thompson set out that system in Film Art in 1979, treating style as a set of choices working together rather than as decoration added after staging. Andre Bazin, writing in essays gathered as What Is Cinema, argued from the opposite temperament that the camera could respect the unity of a scene, yet Bazin and the textbook tradition agree on the central point. The photograph is never neutral. Someone chose where to stand, what to include and how brightly each plane should read.
 
