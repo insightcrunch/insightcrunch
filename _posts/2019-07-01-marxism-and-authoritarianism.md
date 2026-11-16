@@ -6,15 +6,15 @@ date: 2019-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Authoritarianism", "Political Theory", "History", "Critique"]
 excerpt: "The authoritarianism charge is graded form by form in this article: the charge and verdict ledger and the missing constraint that is its durable residue."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 172
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2019-07-01
+lang: en
 ---
-
 The authoritarianism charge is the most consequential criticism ever levelled at Marxism, and it is usually argued badly by both sides. Stated at full strength, it holds that every state governed in the doctrine's name became a one-party dictatorship, that this recurrence across societies differing in culture, level of development, and circumstance cannot be explained by those circumstances, and that the explanation must therefore lie in the theory itself or in the organisational form the theory generated. Stated carelessly, it becomes a slogan. Answered carelessly, with a list of invasions and blockades, it becomes a slogan in reply. This article separates the charge into its six distinct forms, grades each on its own evidence, gives the replies in ascending order of strength, and ends with a verdict that bounds the criticism rather than accepting or rejecting it whole. The strongest form of the charge is the pattern argument, and the strongest answer is not the one most often given.
 
-![The charge and verdict ledger open beside the texts of the charge's proponents and its answerers, Insight Crunch](/assets/images/blog/blog-01.webp)
+![The charge and verdict ledger open beside the texts of the charge's proponents and its answerers, Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Two commitments govern everything that follows. The first is that the charge receives more space than the replies, because on several of its forms it is the stronger position, and an article that reversed those proportions would be a defence brief wearing the costume of a critique. Every form is attributed to named proponents with their works identified, stated as those proponents would wish it stated, and only then tested. The second commitment concerns figures. This article states no figure for repression in any country, not because scale is unimportant but because the argument here turns on institutional outcomes that are not in dispute between the schools: whether a party fused with a state, whether organised opposition was lawful, whether a defeated government could be removed by voting. Where the scale of repression is the question, the series treats it in the articles devoted to the individual records, and the reader is routed there rather than handed numbers whose provenance is itself part of the quarrel.
 

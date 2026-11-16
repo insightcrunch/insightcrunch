@@ -6,15 +6,15 @@ date: 2019-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Stalin", "Marxism-Leninism", "Soviet Union", "Biography"]
 excerpt: "Stalin's additions to the doctrine are graded by their use: the doctrine and its use table and the intensification hinge that turned victory into vigilance."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 167
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-03-15
+lang: en
 ---
-
 Stalin is the only figure in this series whose name became the name of a doctrine taught as a complete system, and that fact fixes the shape of the article that follows. Hundreds of millions of people were instructed in Marxism-Leninism through textbooks, party schools, and examinations, and the content of what they were taught can be stated precisely, proposition by proposition, from texts that survive and can be read. A reader who knows the name chiefly through the argument about the death toll therefore knows the least examinable part of the subject. The toll matters, and the sections on the record give it its full weight, but the toll was produced by a state acting under a doctrine, and the doctrine had an author in a sense that can be specified. He wrote some of it, commissioned the rest, decided which formulations were orthodox, and removed the people who disputed his formulations. Treating the doctrine as a body of propositions with dates, uses, and fates is not a way of avoiding the record. It is the only way of explaining how the record became possible, because the record was repeatedly justified, in advance and in retrospect, by propositions that officials quoted.
 
-![A desk with the collected works, a party school textbook and the table of the doctrine's propositions, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with the collected works, a party school textbook and the table of the doctrine's propositions, Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The method here is the one this series applied to Lenin and to Mao, and the consistency is deliberate. The doctrine is stated from the texts before it is judged. The record is stated in the profile itself, in the middle sections, not deferred to a separate article and not softened into a closing caveat. The strongest defence of the record is given at full strength, attributed to the writers who made it, before any answer is attempted. Where figures are contested, the article explains how the figures are produced and declines to assert a number it cannot defend, which for the mortality of this period means declining to assert a number at all. A reader who finishes the article should be able to say what Stalin added to the tradition, which addition did the most work in the world, how the estimates that dominate public argument are constructed, and why the official repudiation of 1956 changed the doctrine's personnel while preserving most of its structure. The central addition has a name in what follows. It is called the intensification hinge, because a single proposition about class struggle converted the abolition of private property, which on the classical account should have pacified society, into a reason for more repression rather than less.
 

@@ -6,15 +6,15 @@ date: 2019-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Eastern Europe", "Soviet Union", "History", "Dissent"]
 excerpt: "Actually existing socialism was analysed most sharply from inside: the critics table and the internal critique the systems answered with prison and exile."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 171
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-06-01
+lang: en
 ---
-
 Actually existing socialism is the name this article gives to the European states governed by communist parties between 1945 and 1989, and the name matters because it was not invented by the systems' enemies. It began as the rulers' own description of their societies, a phrase that asked to be judged on what existed rather than on what had been promised. Three facts should be fixed before any chronology is attempted. The societies gathered under the label were distinct from one another in language, in level of development, in the route by which their governments arrived, and in the degree of room their citizens managed to carve out. Each of them produced serious Marxist critics of itself, men and women formed inside the doctrine, employed by its universities and institutes, who turned its own categories against the apparatus that claimed to embody them. And each state answered those critics in a consistent way, with prison, with exile, with removal from posts and from print, which is a pattern of behaviour that carries analytical weight of its own.
 
-![A reading table with the critics table, samizdat typescripts and a map of the bloc, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading table with the critics table, samizdat typescripts and a map of the bloc, Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The standard picture of the region during those decades is drawn from outside: a bloc imposed by an occupying power, held together by fear, punctuated by revolts that were crushed, and dissolved when the guarantee of external force was withdrawn. That picture is not false, and parts of it will be confirmed in what follows. It is, however, radically incomplete, because it treats the inhabitants of these states as objects of a geopolitics rather than as thinkers about their own condition. Inside every one of these societies there existed a literature, some of it published and much of it circulated in typescript, that asked what kind of social formation this actually was, who ruled it, in whose interest, and by what right. The authors of that literature were not liberals manqués and not agents of a foreign power, whatever the indictments said. They were, in the main, communists: party members, veterans of illegal movements under fascism, professors of Marxism-Leninism, editors of theoretical journals. Their analyses were penetrating precisely because they were internal. They knew the doctrine from within, they knew the apparatus from within, and they could measure the distance between the two with an insider's instruments.
 

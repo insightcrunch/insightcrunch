@@ -6,15 +6,15 @@ date: 2019-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Stalin", "Soviet Union", "Doctrine", "Political Theory"]
 excerpt: "Socialism in one country was argued from a text its author rewrote within a year: the textual question table and the two editions problem at its centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 169
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-04-01
+lang: en
 ---
-
 Socialism in one country is the doctrine, advanced from 1924, that a socialist society could be constructed inside the Soviet Union alone, without waiting for victorious revolutions in the advanced countries to rescue or complete the work. It was formulated against an older expectation, held across the movement that made the October Revolution, that socialist construction begun in a backward and isolated country could not be finished there, because the material and cultural level such construction required exceeded what one country, and that country in particular, could supply from its own resources. The phrase is short, the doctrine is precise, and the quarrel it started has never entirely closed, because the quarrel was never only about policy. Part of it concerned circumstance: what a besieged state should do when the foreign revolutions it had counted on did not arrive. Part of it concerned texts: what the founders had actually written, and what a particular passage of Lenin could legitimately be made to carry. This article treats the doctrine as a glossary problem before treating it as a political one, because the precision is where the interest lies. A reader who finishes it should be able to state the claim exactly, name the evidence offered for it, and say why that evidence fails in an instructive way.
 
-![The two editions of a codifying work open side by side on a reading desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![The two editions of a codifying work open side by side on a reading desk, Insight Crunch](/assets/images/blog/blog-77.webp)
 
 One fact governs everything that follows, and it is placed here at the start because factional accounts of the doctrine routinely omit it. The doctrine's author, Joseph Stalin, published in 1924 a work codifying Leninism, and in the first edition of that work he stated that socialism could not be victorious in a single country, and that organising socialist production there exceeded what one country's proletarians could achieve unaided. A revised edition, issued months later, asserted the contrary, that socialist society could and must be built within the country's own borders, and the earlier formulation quietly disappeared from the text. Both editions survive. The revision is documented in the scholarly literature beyond serious dispute. Any account of the doctrine that does not mention the reversal is not an abbreviation but a selection, and the selection always serves a side. The name this article gives the problem is the two editions, and the claim attached to it is simple: a doctrine whose founding text asserts a proposition and then, within months, asserts its negation cannot rest its case on the authority of that text. Whatever defence the doctrine has must be built elsewhere, on the argument from circumstance, and that argument deserves to be heard at full strength precisely because the textual one collapses.
 

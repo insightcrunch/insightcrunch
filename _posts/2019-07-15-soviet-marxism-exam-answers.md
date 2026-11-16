@@ -6,15 +6,15 @@ date: 2019-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Union", "Exam Preparation", "Study Guide", "History"]
 excerpt: "Soviet Marxism in an exam rewards the estimation move: explain how figures are made, using the Soviet answer matrix to plan each of your timed answers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 173
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-07-15
+lang: en
 ---
-
 Soviet Marxism is examined wherever the twentieth century is examined, and a candidate who understands where the material sits in each paper has already solved half the problem of writing on it. History papers meet it inside the Russian Revolution and its aftermath, inside the Cold War, and inside the history of twentieth-century Europe. Politics papers meet it as a doctrine and as a regime type: the codified teaching called Marxism-Leninism, the one-party state built to carry it, and the long argument about whether such a state is what the doctrine produces or what betrayed it. Philosophy papers meet it where dialectical materialism is set as a system to be expounded and tested. Civil service optional papers in political science and in history meet it as theory and as record together. Eligibility tests meet it in compressed form, and school-level history specifications return to it constantly, because few topics let an examiner test narrative, causation, evaluation, and source handling inside a single question. Each setting rewards something different, and this guide is organised around those rewards rather than around the content itself, which the cluster's nine preceding articles exist to supply.
 
-![A study desk with the Soviet answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk with the Soviet answer matrix, revision cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-29.webp)
 
 One point needs stating plainly before any technique, because candidates consistently misjudge it and the misjudgement distorts everything they write. Assessment on this topic grades the quality of analysis, and it does not grade the direction of the conclusion. A model answer that concludes the Soviet Union was socialist can score full marks, and a model answer that concludes it was not can score full marks, provided each states its criteria, handles the record carefully, and engages the strongest version of the position it rejects. A model answer that concludes either way can fall into a low band if it treats a movement's account of itself, or a hostile account of that movement, as though quotation were analysis. Examiners are testing whether the candidate knows the debates: where the doctrine changed as it passed from Marx to Lenin to Stalin, which historians dispute the scale of the repression and by what methods, and which criteria the socialism question actually turns on. A script that knows the debates and then judges them, in either direction, is the script the marking scheme is built to reward. Keep that symmetry in view through every section that follows, because it is the licence under which all the technique in this guide operates.
 

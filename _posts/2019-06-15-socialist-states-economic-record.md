@@ -6,15 +6,15 @@ date: 2019-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Union", "Economic History", "Political Economy", "Data"]
 excerpt: "The economic record of the socialist states turns on measurement and comparison: the measurement table and why the comparison base decides the verdict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 171
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-06-15
+lang: en
 ---
-
 The economic record of the state socialist countries is usually argued from numbers, and the numbers are where the argument should begin, because the figures quoted on every side of this dispute were never built to be compared with one another. The statistics of the Soviet bloc rested on a national accounting concept devised for a planned economy, a concept that counted a different thing from the gross domestic product used in market economies, priced that thing by administrative decision rather than by exchange, and concealed a portion of its own price movement inside the categories it reported. Independent reconstructions of the same economies, built by Western intelligence analysts, by an independent Soviet economist working from physical output, and by later international projects, produced results that diverge from the official series and from each other by margins large enough to reverse a verdict. A reader who has met contradictory growth claims about these economies has not met carelessness. The reader has met a measurement problem that sits underneath every assessment, and until that problem is stated plainly, no figure in this field means anything at all.
 
-![A desk with statistical yearbooks, a physical output ledger and the measurement and comparison table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with statistical yearbooks, a physical output ledger and the measurement and comparison table, Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This article therefore proceeds in an order that polemics on both sides reverse. Measurement comes first, before any judgement of success or failure, because a judgement formed from series whose construction is unknown is not a judgement about an economy. What can be reasonably established comes second, stated as direction rather than as decimal, with the basis of each claim named beside it. The social indicators, including a reversal in life expectancy that any honest account must place near the centre, come third. The comparison problem comes fourth, and it is the article's centre of gravity: compared with what, over which years, from which starting level, measured how. The claim the whole structure supports can be stated in advance. The comparison base decides. Verdicts on this record vary less because scholars dispute the measurements, though they do, than because they select different countries and different dates to compare, and the two cases in which a single people was divided between the two systems supply the closest controls the subject allows. Everything that follows is an attempt to make that claim good, and to concede, along the way, everything the record genuinely concedes to its defenders.
 

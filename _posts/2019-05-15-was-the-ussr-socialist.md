@@ -6,15 +6,15 @@ date: 2019-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Union", "Socialism", "Political Theory", "History"]
 excerpt: "Was the USSR socialist? Five positions divide on a single criterion: the five positions grid and Marx's own criterion of an association of free producers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 170
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-05-15
+lang: en
 ---
-
 Was the USSR socialist? The honest answer arrives in two parts, because the question conceals two different tests and the Soviet system passes one while failing the other. Apply the test of property form, asking who held legal title to factories, land, mines and banks, and the system was plainly not capitalist: private ownership of the means of production had been abolished, no capitalist class drew income from property, and allocation ran through a plan rather than a market. Apply instead the test of producer control, asking whether the people who worked in those factories decided what was made, how, and to what end, while the system was, just as plainly, not socialist on any account its defenders or its critics have produced: a party and state apparatus decided, and producers obeyed. Every serious position in the long argument over this question can be located by watching which test it treats as decisive, and the five positions mapped in this article divide, at bottom, over that single choice.
 
-![A seminar table with the five positions grid, annotated criteria cards and a heavily marked definition of socialism, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table with the five positions grid, annotated criteria cards and a heavily marked definition of socialism, Insight Crunch](/assets/images/blog/blog-45.webp)
 
 One discipline governs everything that follows, and stating it at the outset prevents most of the confusion the question usually generates. A definitional question is settled by criteria, not by verdicts on the record. The Soviet record contains achievements its defenders cite and catastrophes its critics cite, and both bodies of material are real; neither settles what the system should be called, because a name follows from a definition applied to a structure, not from approval or horror at outcomes. A system could be socialist and badly run, or not socialist and in some respects effective, and the argument of this article proceeds throughout on the structural evidence: property relations, the position of producers, the mechanism of allocation, and the character of the stratum that ruled. Where the record enters, it enters as evidence about structure, never as a substitute for the definitional work.
 

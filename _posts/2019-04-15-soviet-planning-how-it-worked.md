@@ -6,15 +6,15 @@ date: 2019-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Union", "Economic Planning", "History", "Political Economy"]
 excerpt: "Soviet planning did not compute an economy; it bargained over increments: the plan cycle and planning from the achieved level that the method produced."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 170
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-04-15
+lang: en
 ---
-
 Soviet planning is the most argued about economic mechanism of the twentieth century and among the least described. Debates about whether planning can work proceed for pages without anyone saying what the planners in Moscow actually did between January and December of a plan year: what paper moved, who signed it, what numbers it carried, and what the people who received it did next. This article supplies the description. Its central finding can be stated in one sentence, and everything that follows is the evidence for it. Soviet planning did not compute an allocation of resources for the economy. It took the output that enterprises had already achieved, added an increment, argued about the size of the increment and the inputs that would accompany it, and called the result a plan. The method has a name in the literature, planning from the achieved level, and once the name is understood the famous arguments on both sides change shape, because both sides were largely arguing about a method the Soviet economy did not use.
 
-![A planning office desk with material balance sheets, a plan cycle chart and ministry correspondence, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A planning office desk with material balance sheets, a plan cycle chart and ministry correspondence, Insight Crunch](/assets/images/blog/blog-66.webp)
 
 Neither of the two popular pictures survives the description. In one picture, a vast computer, or its paper equivalent, weighs every need in the society against every resource and issues a coherent set of instructions that factories then execute, so that the economy resembles a single firm drawn to national scale. In the other picture, the whole apparatus is a fiction draped over chaos, with officials inventing numbers and enterprises ignoring them. The record shows something more interesting than either. It shows a working administrative routine, repeated annually for decades, that genuinely coordinated a large part of a continental economy, that moved real resources toward the objectives the leadership prioritised, and that did so by bargaining over quantities rather than by calculating values. The routine had a stable internal logic. Its participants understood its rules intimately and behaved, within those rules, with consistent rationality. The failures of the system were not the failures of stupid men executing a senseless design. They were the predictable output of sensible men responding to the incentives the design placed in front of them, and the description below follows that logic stage by stage: the mechanics first, then the incentives the mechanics created, then the informal economy that grew up to make the formal one function, then the analysis that explained why shortage was the system's normal condition, and finally the reforms that tried, and failed, to change the method without changing the system.
 

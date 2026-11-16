@@ -6,15 +6,15 @@ date: 2019-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Marxism", "Soviet Union", "History", "Political Theory"]
 excerpt: "Soviet Marxism rested on scholarship its own state produced and punished: the doctrine and the scholarship table and the archival paradox behind its texts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 168
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-03-01
+lang: en
 ---
-
 Soviet Marxism is the name of two different things, and nearly every error made about the subject begins with treating them as one. The first is an official doctrine, dialectical and historical materialism in codified form, fixed in the late nineteen thirties and taught thereafter as the philosophy of a state and a bloc. The second is a body of original work in philosophy, in the sciences of mind and language, and in the editing of the classic texts, produced in the same country during the same decades, frequently by men and women whom that state arrested, exiled, silenced, or shot. The doctrine was settled by administrative decision. The scholarship was settled, where it was allowed to be settled at all, by argument, and its best products outlived the institutions that tried to control them.
 
-![A reading table holding a party history, a volume of edited manuscripts and a psychology text, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading table holding a party history, a volume of edited manuscripts and a psychology text, Insight Crunch](/assets/images/blog/blog-81.webp)
 
 Hold the two apart and the familiar picture rearranges itself. The state that published the canonical statement of the doctrine also maintained the institute that collected the manuscripts of Marx from archives across Europe and issued the editions on which the Western humanist reading of Marx was built. The founder of that institute was arrested in 1931 and shot in 1938. The state that condemned a school of psychology as bourgeois error preserved, in its own libraries, the texts from which that school was later reconstructed and carried into lecture halls on other continents. A guide to this subject therefore has to do two things at once: state the doctrine fairly, as a set of claims that were actually believed and taught to enormous numbers of people, and give the scholarship its own hearing, with the fates of its authors recorded in the same passages as their contributions, because in this history the two cannot honestly be separated.
 

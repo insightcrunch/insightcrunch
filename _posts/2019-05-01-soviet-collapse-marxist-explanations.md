@@ -6,15 +6,15 @@ date: 2019-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Soviet Union", "History", "Collapse", "Political Theory"]
 excerpt: "The Soviet collapse was begun from inside its ruling stratum: the explanations tested table and the internal initiation that discriminates among them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-106.webp"
 reading_time: 170
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-05-01
+lang: en
 ---
-
 The Soviet collapse is usually pictured as a defeat. A system that had competed with the West for four decades is imagined to have been beaten: outspent in an arms race, outproduced in its factories, outargued in the contest of ideas, and finally abandoned by peoples who rose against it. The picture is natural, and it is wrong in the one respect that matters most for explanation. The union was not overthrown by mass revolt, and it was not destroyed by military defeat or foreign invasion. It was dismantled through a process that began with reforms launched by its own leadership, pursued by its own ruling stratum, and completed when the men at the summit of the system concluded that the arrangements over which they presided were no longer worth defending. Armies stayed in their barracks. The crowds that gathered in the capitals gathered late, and mostly to ratify changes already set in motion above them. The state that had survived civil war, famine, and the largest land invasion in history ended in committee rooms, in republican parliaments, and in a hunting lodge where three republican leaders signed its dissolution over the head of its own president.
 
-![A reading desk with the explanations tested table, archival files and a map of the union republics, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with the explanations tested table, archival files and a map of the union republics, Insight Crunch](/assets/images/blog/blog-106.webp)
 
 That single fact reorganises the whole explanatory problem, and this article is built around it. Explanations of the collapse are plentiful, and most of them answer the question of why the system was in difficulty. Far fewer answer the question of who ended it, and by what route. Yet the route is evidence. A system destroyed by revolt from below testifies to one kind of failure; a system dismantled by its own governors testifies to another. The Marxist explanations of the collapse, which this article sets against each other and against their non-Marxist rivals, differ precisely in what they say the system had been, and therefore in what they must say about the stratum that ran it. One analysis had argued for half a century that the bureaucracy was a caste balanced on property it did not own, and that it would either be swept away by political revolution or would convert its administrative power into property of its own. A second held that the bureaucracy was already a ruling class of a capitalist type, so that nothing fundamental in class relations changed when the forms changed. A third held that a new class society had been built which simply proved the weaker competitor. A fourth, shared by Marxists and non-Marxists alike, locates the cause in the exhaustion of an economic mechanism. Each of these accommodates the internal initiation with a different degree of comfort, and grading them by that comfort is more informative than surveying them one by one.
 
