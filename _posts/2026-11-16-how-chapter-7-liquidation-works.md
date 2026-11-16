@@ -6,17 +6,17 @@ date: 2026-11-16
 categories: ["Industry"]
 tags: ["business-bankruptcy", "chapter-7", "corporate-liquidation", "creditor-rights", "bankruptcy-trustee", "corporate-failure"]
 excerpt: "Chapter 7 liquidation works by handing a failed company to a trustee who sells every asset and pays the proceeds down a statutory queue of claims in order."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-11-16
+lang: en
 ---
-
 ## A Filing That Ends a Company Instead of Saving It
 
 Chapter 7 bankruptcy for a company works as a controlled shutdown under United States federal bankruptcy law. A petition filed under Title 11 of the United States Code creates a bankruptcy estate, a trustee takes control of the firm, an automatic stay halts collection, the trustee sells the assets for cash, creditors file claims, and the proceeds are paid down a ranking fixed by sections 507 and 726 of the Code. Secured lenders are paid from their collateral first, costs and priority claims follow, general unsecured creditors share what remains, and shareholders stand last in line.
 
-![Liquidation Sale of a Failed Company and the Queue of Claims - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Liquidation Sale of a Failed Company and the Queue of Claims - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 Chapter 7 liquidation is not the sale of a business but the conversion of a firm into a ranked list of claims: once a trustee takes control, every asset becomes cash for a statutory queue, and the order of that queue, fixed before any sale begins, decides almost everything that follows. That sentence describes the whole machine. The filing does not ask whether the company can be repaired, refinanced or returned to its owners. It asks a narrower and colder question, namely what the firm owns, what it owes, and in which order the law allows the second list to be paid from the first.
 
