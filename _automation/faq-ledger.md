@@ -1355,6 +1355,28 @@ approach-before-foot-office-road-survey-them-us | nightjar-carrowmere-run-014 | 
 about-approach-expos-record-road-stretch | nightjar-carrowmere-run-014 | What is recorded about an exposed stretch on an approach road?
 approach-plac-recognis-report-road-wait | nightjar-carrowmere-run-014 | How are waiting places on the approach roads recognised and reported?
 
+### nightjar-foundry-list-015
+base-metal-prepared-before-alloy-charge | nightjar-foundry-list-015 | How is the base metal prepared before the alloy charge is added?
+order-governs-additions-give-alloy-holding | nightjar-foundry-list-015 | What order governs the additions that give the alloy its holding quality?
+casting-run-judged-sound-before-crates | nightjar-foundry-list-015 | How is a casting run judged sound before its crates leave the bench?
+record-foundry-keep-each-melt-makes | nightjar-foundry-list-015 | What record does a foundry keep of each melt that makes the alloy?
+dravin-ministry-divided-between-secretary-undersecretaries | nightjar-foundry-list-015 | How is a Dravin ministry divided between its secretary and its undersecretaries?
+paper-moves-between-dravin-ministry-office | nightjar-foundry-list-015 | What paper moves between a Dravin ministry office and the minister's private office?
+junior-clerks-assigned-circulation-lists-dravin | nightjar-foundry-list-015 | How are junior clerks assigned to circulation lists in a Dravin ministry?
+authority-dravin-undersecretary-hold-over-outside | nightjar-foundry-list-015 | What authority does a Dravin undersecretary hold over outside inspection notices?
+order-accord-foundry-inspections-drawn-recorded | nightjar-foundry-list-015 | How is the order of Accord foundry inspections drawn and recorded?
+inspection-schedule-become-binding-visiting-team | nightjar-foundry-list-015 | When does an inspection schedule become binding on the visiting team?
+notice-must-foundry-receive-before-routine | nightjar-foundry-list-015 | What notice must a foundry receive before a routine Accord inspection?
+pretence-visits-entered-accord-inspection-book | nightjar-foundry-list-015 | How are pretence visits entered in the Accord inspection book?
+payment-repeated-across-many-years-suggest | nightjar-foundry-list-015 | What does a payment repeated across many years suggest about its purpose?
+office-distinguish-retainer-silence-retainer-service | nightjar-foundry-list-015 | How does the Office distinguish a retainer for silence from a retainer for service?
+small-regular-payment-often-protect-better | nightjar-foundry-list-015 | Why does a small regular payment often protect better than a large single payment?
+longevity-paid-arrangement-imply-about-offices | nightjar-foundry-list-015 | What does longevity in a paid arrangement imply about the offices around it?
+suspended-load-signalled-across-working-pour | nightjar-foundry-list-015 | How is a suspended load signalled across a working pour floor?
+duties-fall-floor-master-during-pour | nightjar-foundry-list-015 | What duties fall to the floor master during a pour in progress?
+visitors-kept-clear-ladle-carriage-route | nightjar-foundry-list-015 | How are visitors kept clear of a ladle carriage route on a pour floor?
+preparation-made-before-night-line-restarted | nightjar-foundry-list-015 | What preparation is made before a night line is restarted for a visit?
+
 ## film-cinematography
 
 ### how-cinematography-works

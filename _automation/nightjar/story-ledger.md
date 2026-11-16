@@ -337,3 +337,25 @@ spine notch:              Rung fourteen. The absence clings to one alloy and to 
 characters:               Mira Kovac, Tomas Rask, Arvo Leyden, Reni Vosk, Ysolde Rann (new), Petra Dunmore (by telephone)
 canon written back:       Three facts under Established canon, each numbered 014: Ysolde Rann, the foundry counting house clerk who carried out the list and the ledger page; the foundry yard row of forty stamped crates, thirty seven reading normally and three reading as nothing, the three sharing one stamp, one bench and one casting run; the Scour approach roads extraction rule, no vehicle inside the last four miles, and the long road walked on foot while the short road read heavy with four men waiting
 callbacks:                011, 012 and 013, three internal links, to the doors in Valtessa whose perfect seals had held nothing behind them, to a reading room in Melora where an absence had been caught retreating slowly toward a door, and to a bound load on a border station whose binding could not be felt where it sat
+
+## Installment 015
+slug:                     nightjar-foundry-list-015
+published:                2026-11-15
+story span:               Four days in the Twenty Ninth Session, from Bask receiving the eleven word call to the night line running with nobody on the floor
+arc:                      The Alloy, case 5
+case type:                Mole hunt
+words:                    23482
+outcome:                  full success
+cost paid:                Ten years of one man's carefulness, which she describes afterwards as the dullest thing she has ever carried and the hardest to put down
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of nine years, carried on the oldest payment authorisation copy in the routine file
+clues planted:            The eleven word telephone call to Bask, counted and never written down; the tasking minute fixing the hour the meeting ended, with the inspection schedule not yet in existence and drawn by lot afterwards; the foundry table of four sites by capacity, night running and inspection history; Bask's careful afternoon and the paused night line, dated by foundry records; the routine ministry notification order naming the office to be told before any inspection of the protected foundry; the nine year payment file in ordinary paper
+capabilities established: The pour floor read at its edge giving how often the fourth line runs at night, laid into the line's metal by repetition (Pressure, with the night line established from Rann's list at Tasking); Bask's office read giving a decade of the same man being careful, repetition and duration and never identity (The collapse); the schedule's creation time fixed by the signed tasking minute (Tasking); the notification order and payment file consulted as documents (The collapse, Close)
+damage carried:           In: Rask's hand from 013, Rann's family from 014. Adds: ten years of one man's carefulness, the dullest thing she has carried
+endurance:                entering full; reduced at the pressure beat
+legend beat:              none
+close consumed:           The eleven hour gap measured against the signed tasking minute, Bask's office read and its decade of care, the pour floor edge read and the night line's rhythm, the routine notification order, and the nine year payment file; every one established earlier in this same installment
+false lead:               The inspection service. Its scheduling is leaky and demonstrably so, and Dunmore proves the leak real; the reading dies on the eleven hours, because the warning reached the protected foundry eleven hours before the inspection schedule existed
+spine notch:              Rung fifteen. The alloy is made in four places and sold through one, and the one has been protected for nine years
+characters:               Mira Kovac, Petra Dunmore, Reni Vosk, Teodor Bask (new), Ilyan Court (new, returns in 023)
+canon written back:       Three facts under Established canon, each numbered 015: Teodor Bask and his decade of carefulness at the protected foundry in Dravin; Ilyan Court, the Dravin ministry undersecretary paid for nine years under a routine notification order; the four foundries that can make the alloy, their table of capacity, night running and inspection history, and the fourth line's night running read at the pour floor edge
+callbacks:                011, 013 and 014, three internal links, to the doors in Valtessa whose perfect seals had held nothing behind them, to the bound load on a border station whose binding could not be felt where it sat, and to a foundry yard where three crates of forty read as nothing and shared one stamp

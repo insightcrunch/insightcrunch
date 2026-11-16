@@ -227,3 +227,7 @@
 ## how-cinematography-works
 - _posts/2015-04-01-the-third-man-cinematography-noir-style.md — could carry: "Krasker's canted frames are one settlement among the core decisions of the craft, each of which is set out in the guide to how cinematography works."
 - _posts/2026-10-14-how-film-restoration-works.md — could carry: "Restoration begins from what the original photography fixed on the negative, and the guide to how cinematography works explains the decisions that negative preserves."
+
+## nightjar-foundry-list-015
+- _posts/2026-11-14-nightjar-carrowmere-run-014.md - could carry: "The list a clerk carried out of her family's foundry named four works that could make the silent alloy, and the one that sold it had been warned eleven hours before the inspection plan existed."
+- _posts/2026-11-13-nightjar-inert-house-013.md - could carry: "The Binder who said hiding a binding was impossible belonged to the same season as a foundry protected for nine years by a name spoken only when a warning arrived before its cause."
