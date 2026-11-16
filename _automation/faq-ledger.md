@@ -521,6 +521,28 @@ after-bar-claim-date-happen-pass | how-prepackaged-bankruptcy-works | What is a 
 bankruptci-become-cas-common-corporate-large-prepackag | how-prepackaged-bankruptcy-works | Why did prepackaged bankruptcies become common in large corporate cases?
 bankruptcy-case-public-read-record | how-prepackaged-bankruptcy-works | What records from a bankruptcy case can the public read?
 
+### how-chapter-7-liquidation-works
+7-bankruptcy-busines-chapter | how-chapter-7-liquidation-works | What is Chapter 7 bankruptcy for a business?
+7-case-chapter-clos-corporate-fil-long-take | how-chapter-7-liquidation-works | How long does a corporate Chapter 7 case take from filing to closing?
+7-case-chapter-choos-trustee | how-chapter-7-liquidation-works | Who chooses the trustee in a Chapter 7 case?
+bankruptcy-becom-estate-part-property | how-chapter-7-liquidation-works | What property becomes part of the bankruptcy estate?
+automatic-fil-liquidation-stay-stop | how-chapter-7-liquidation-works | What does the automatic stay stop after a liquidation filing?
+claim-creditor-file-liquidation-proof | how-chapter-7-liquidation-works | How does a creditor file a proof of claim in a liquidation?
+be-it-payment-preference-recover | how-chapter-7-liquidation-works | What is a preference payment and why can it be recovered?
+creditor-liquidation-undersecur | how-chapter-7-liquidation-works | What is an undersecured creditor in a liquidation?
+company-liquidat-noth-receive-shareholder-usually | how-chapter-7-liquidation-works | Why do shareholders usually receive nothing when a company liquidates?
+11-7-be-case-case-chapter-chapter-convert | how-chapter-7-liquidation-works | Can a Chapter 7 case be converted into a Chapter 11 case?
+between-concern-difference-going-liquidation-value-value | how-chapter-7-liquidation-works | What is the difference between liquidation value and going concern value?
+customer-deposit-happen-liquidat-retailer | how-chapter-7-liquidation-works | What happens to customer deposits when a retailer liquidates?
+benefit-company-happen-liquidat-pension-plan | how-chapter-7-liquidation-works | What happens to pension and benefit plans when a company liquidates?
+7-asset-case-chapter-no | how-chapter-7-liquidation-works | What is a no-asset Chapter 7 case?
+asset-company-liquidat-sold | how-chapter-7-liquidation-works | How are the assets of a liquidating company sold?
+asset-company-investigate-s-sell-trustee | how-chapter-7-liquidation-works | What does a trustee investigate before selling a company's assets?
+7-be-case-chapter-claim-object | how-chapter-7-liquidation-works | How can a claim be objected to in a Chapter 7 case?
+company-happen-liquidation-obligation-s-tax | how-chapter-7-liquidation-works | What happens to a company's tax obligations in a liquidation?
+debt-end-happen-liquidation-remain-that-unpaid | how-chapter-7-liquidation-works | What happens to debts that remain unpaid after a liquidation ends?
+7-chapter-company-differ-dissolv-law-state-under | how-chapter-7-liquidation-works | How does Chapter 7 differ from dissolving a company under state law?
+
 ## science-ancient-dna
 
 ### how-ancient-dna-works

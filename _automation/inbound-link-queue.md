@@ -231,3 +231,7 @@
 ## nightjar-foundry-list-015
 - _posts/2026-11-14-nightjar-carrowmere-run-014.md - could carry: "The list a clerk carried out of her family's foundry named four works that could make the silent alloy, and the one that sold it had been warned eleven hours before the inspection plan existed."
 - _posts/2026-11-13-nightjar-inert-house-013.md - could carry: "The Binder who said hiding a binding was impossible belonged to the same season as a foundry protected for nine years by a name spoken only when a warning arrived before its cause."
+
+## how-chapter-7-liquidation-works
+- _posts/2026-10-22-how-prepackaged-bankruptcy-works.md — could carry: "A prepackaged case is built to save the firm, and the guide to how Chapter 7 liquidation works sets out the opposite machine, in which a trustee sells the assets and pays a statutory queue."
+- _posts/2026-11-06-how-corporate-spin-offs-work.md — could carry: "A spin-off divides a company by design, and the guide to how Chapter 7 liquidation works explains how a company's assets are divided by a trustee when no design survives."
