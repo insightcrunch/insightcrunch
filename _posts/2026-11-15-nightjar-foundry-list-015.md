@@ -6,13 +6,15 @@ date: 2026-11-15
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "dravin", "foundry"]
 excerpt: "Mira Kovac follows a foundry list to four works that can make the silent alloy, and to the one protected seller whose warning arrived before the plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 99
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-11-15
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: Four Foundries and the One That Sells Quietly - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The telephone on Teodor Bask his desk has a bell that rings twice before the line steadies, and on this afternoon it rings twice and steadies in the ordinary way, and he lifts the receiver with his left hand because his right hand holds a pencil over the pour book, and he says the name of the foundry and his own name in the form the ministry prefers, and then he listens.
 
