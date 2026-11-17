@@ -6,13 +6,15 @@ date: 2026-11-16
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "the-scour", "manifest"]
 excerpt: "Mira Kovac follows a stamped manifest to a quiet crossing that handles four vehicles a week, and on to a country beyond the line that exists only on paper."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-16
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Scour Crossing and a Country Made of Paper - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The hut is warm in the way a small room is warm when a stove has been lit early and left to settle. Bren Oule sits with his back to the wall so that he can see the door, the desk, and the window over the barrier in one turn of his head, and he does not need to turn it often. Outside, the road comes down from the Accord side in a long, pale straight, loses its gravel at the barrier, and goes on beyond the line as a track that narrows in grass and stone until distance takes the detail from it. In the other direction the road climbs again toward the customs houses and the patrol turn, and that way too it is empty. It has been empty since the light came. It will likely be empty until the light goes, except for weather moving across it and the shadow of the barrier beam shortening and lengthening on the ground.
 
