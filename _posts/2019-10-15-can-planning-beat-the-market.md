@@ -6,15 +6,15 @@ date: 2019-10-15
 categories: ["Leisure"]
 tags: ["Marxism", "Economic Planning", "Markets", "Political Economy", "Critique"]
 excerpt: "Central planning works in some domains and fails in others: the constraints table and the domain answer that replaces the question of whether it works."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 175
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-10-15
+lang: en
 ---
-
 The claim that revived the planning question is a claim about arithmetic. It runs as follows: whatever prevented central planning from working in the twentieth century, the obstacle was the sheer size of the calculation, and that obstacle has now been removed by the growth of computational capacity, so an economy could in principle be allocated by a plan as a market economy is allocated by prices. The claim deserves a hearing, and part of it deserves concession. But it rests on a conflation that this article exists to separate. Computation and information are two different problems. Computation is what a machine does to data it has been given. Information is what an allocation system must somehow obtain before any computation can begin, and the obtaining is done by people and institutions whose behaviour the system itself shapes. The first problem has changed beyond recognition across three decades. The second has not obviously changed at all, and whether it has changed is a question about incentives and about the formation of human wants, not about processing power. A reader who keeps that separation in view from the first page will find that the familiar question, can planning beat the market, dissolves into a set of narrower questions with different answers, and that the narrower questions are the ones worth arguing about.
 
-![A planning office wall chart with the constraints table, index cards for four allocation domains and a column of unanswered returns, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A planning office wall chart with the constraints table, index cards for four allocation domains and a column of unanswered returns, Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The contemporary planning question, stated precisely, asks whether, given the computational capacity and information-gathering reach that now exist, an economy could allocate resources without markets at least as well as markets allocate them, and in which domains that parity or superiority might hold. Every clause of that formulation does work. The comparison is against markets as they actually perform, not against a textbook construction in which prices adjust instantly and costlessly. The standard is at least as well, which places the burden where it belongs, on the challenger. And the closing clause, in which domains, is not a qualification added for caution. It is, this article will argue, where the answer lives. The strongest case for planning turns out to be a case about particular kinds of allocation: needs that can be known in advance, horizons longer than any price signal reaches, purposes that a society states politically rather than discovers through purchase. The weakest case is the general one, planning as a replacement for the price system across the whole field of consumer goods, where wants are numerous, shifting, and partly created by the act of choosing itself. Between those poles sits a shelf of serious models, neither comprehensive plans nor unmodified markets, which the public argument almost never reaches because it is conducted between two slogans. This article works through the argument in the order the logic requires: the computational claim first, then the constraints that survive it, then the models, then the evidence, and only at the end the verdict, which is a verdict about domains.
 

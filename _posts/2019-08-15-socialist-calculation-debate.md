@@ -6,15 +6,15 @@ date: 2019-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Economic Calculation", "Mises", "Hayek", "Political Economy"]
 excerpt: "The calculation debate shifted from prices to knowledge as it ran: the two objections table and the shifted objection that decides what was ever answered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-104.webp"
 reading_time: 172
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-08-15
+lang: en
 ---
-
 The socialist calculation debate is usually reported as a single argument with a single winner, and that report is the first thing a careful reader has to unlearn. Two distinct objections were advanced in sequence, by different men, in different decades, against different targets. The first held that a socialist economy could not calculate: without private ownership of the means of production there would be no prices for producer goods, and without such prices no common measure by which alternative uses of a resource could be compared. The second held something subtler and harder: that even if prices could be constructed, the knowledge an allocating authority would need does not exist in any form that could be delivered to it. The two objections require different answers, and the celebrated answer to the first does not touch the second. Almost every confident verdict on this debate, in either direction, is produced by merging the two objections into one and then grading a reply against a challenge it was never built to meet.
 
-![Two columns of a seminar ledger showing the two objections table, price tickets and a telegraph key, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two columns of a seminar ledger showing the two objections table, price tickets and a telegraph key, Insight Crunch](/assets/images/blog/blog-104.webp)
 
 This article keeps the objections apart from its first page to its last. It states the original claim in the precise form its author gave it, including the two precisions that popular accounts drop: the original claim was confined to producer goods, and to calculation rather than motivation. It then sets out the proposed solution, the trial and error method associated above all with Oskar Lange, in the strong form its author intended, statue joke and all. It follows the argument as it changed hands and changed character across the two decades that followed, when Friedrich Hayek restated the difficulty as a problem of knowledge rather than of arithmetic. And it closes with the two observations that discipline every verdict: that the question of who won depends entirely on which objection is being graded, and that the proposed solution was never implemented by any socialist state, so the fate of those states cannot be entered as evidence about it.
 

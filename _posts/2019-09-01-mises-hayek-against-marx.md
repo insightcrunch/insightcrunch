@@ -6,15 +6,15 @@ date: 2019-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Hayek", "Mises", "Critique", "Political Theory"]
 excerpt: "Mises and Hayek argued against planning more than against Marx himself: the three arguments assessed and the bounded target their citations often exceed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 173
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-09-01
+lang: en
 ---
-
 Ludwig von Mises and Friedrich Hayek are usually cited as a pair, as though a single argument issued from two pens, and the pairing conceals nearly everything that matters about them. They were two economists of the same Viennese world, one a generation older than the other, and they shared a conclusion: that a society which abolished market prices for the means of production would lose the instrument by which it steered its economy. Almost everything else divided them. Their methods were opposed, one deductive and one drawn toward evidence and evolution. Their tempers were opposed, one combative and systematic, one courteous and oblique. Their arguments, on inspection, are three in number and different in kind, and their target was socialism as a system of ownership and allocation rather than the economics of Karl Marx, whose work neither of them subjected to a sustained critique. A reader who separates the men, the methods, and the arguments from one another holds the whole subject in a form that can be assessed; a reader who merges them holds a slogan.
 
-![Two economists' works, a sheaf of price returns and a railway timetable resting on a desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two economists' works, a sheaf of price returns and a railway timetable resting on a desk, Insight Crunch](/assets/images/blog/blog-67.webp)
 
 Three corrections run through everything that follows, and each of them will surprise readers who arrive from opposite directions. The first concerns method: the elder man argued from a procedure he held to be deductive, deriving the laws of economics from the concept of purposive action itself, and he therefore presented the impossibility of rational calculation under socialism as a conclusion of logic, settled before evidence was consulted. The second concerns a famous book: the younger man's political argument of the war years, endlessly cited as a warning that welfare provision slides into totalitarian rule, explicitly endorsed compulsory social insurance and state provision against severe deprivation, and its author spent later decades insisting that the popular reading of his own text misrepresented it. The third concerns the target: neither thinker wrote a book against Marx's economics, and the case they built bears on central direction of production, which means it can be cited against comprehensive planning with full textual warrant and against Marx specifically, or against a welfare floor, only by exceeding what the texts contain. That excess, measured precisely, is the subject this article exists to measure.
 

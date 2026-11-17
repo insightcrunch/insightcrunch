@@ -6,15 +6,15 @@ date: 2019-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Critique", "Exam Preparation", "Study Guide", "Evaluation"]
 excerpt: "Critiques of Marxism in an exam reward the attribution rule: name the critic and state the defeater, using the evaluation matrix to plan timed answers."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 176
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-12-15
+lang: en
 ---
-
 Critiques of Marxism occupy a peculiar place in assessment, because the candidate is rarely short of material and almost always short of marks. Lecture notes, textbooks, and revision websites supply criticisms in abundance: the labour theory of value is disputed, the predictions failed, the planning project ran into the knowledge problem, the party form slid toward command. A candidate can fill pages with this material and still be placed in a middling band, because the pages perform recall while the question demanded evaluation. Evaluation, in the sense marking schemes reward, is a different operation from possessing criticisms. It means identifying which criticism applies to which claim, attaching that criticism to the named thinker who made it, stating the strongest reply available, and arriving at a judgement that declares what would overturn it. Everything in this guide serves that four-part operation, and the content of the individual critiques is deliberately left to the cluster of articles behind it, which this guide links at the points where a candidate needs the substance rather than the technique.
 
-![A study desk with the evaluation matrix, attribution cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A study desk with the evaluation matrix, attribution cards and a timed practice script, Insight Crunch](/assets/images/blog/blog-91.webp)
 
 One point needs stating before any technique, because candidates misjudge it persistently and the misjudgement bends everything they write. Assessment on this material grades the quality of reasoning displayed on the page, and it does not grade the direction of the conclusion reached. A script that concludes that the critiques demolish Marxism can score full marks, provided each criticism is correctly attributed, each reply is fairly stated, and the verdict follows from the weighing rather than preceding it. A script that concludes that Marxism survives every criticism can score equally well on the same conditions, and can fall into a low band on the same script if it defends by assertion. Examiners are testing whether the candidate commands the argumentative geography of the subject: who attacked which claim, on what grounds, with what response, and with what residue left standing. A candidate who knows that geography and then judges it, in either direction, is the candidate the scheme was written to reward. Hold that symmetry in view through every section that follows, because it is the licence under which all the technique here operates, and because the fear that it might not hold is the single most corrosive anxiety candidates carry into the hall on this topic.
 

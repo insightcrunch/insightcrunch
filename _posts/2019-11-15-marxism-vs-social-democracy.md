@@ -6,15 +6,15 @@ date: 2019-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Social Democracy", "Comparison", "Political Theory", "History"]
 excerpt: "Marxism vs social democracy is graded by durability as much as by delivery: the record and the reversal table and the reversibility test applied to both."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 175
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2019-11-15
+lang: en
 ---
-
 Marxism and social democracy are usually introduced as neighbours, two shades of the left placed side by side on a spectrum that runs from mild reform to total revolution. That picture is the first thing this article asks the reader to set aside. The two traditions are not separated mainly by temperament, by patience, or by the speed at which they hope to travel. They are separated by a disagreement about a fact, or rather about a prediction that a century of government has now tested from both sides. The question dividing them is whether the outcomes of capitalism can be substantially and durably improved while the ownership of productive assets remains where it is. Social democracy is the tradition that answered yes and organised a politics around redistribution, regulation, and universal provision inside capitalist property relations. Marxism is the tradition that answered no, holding that gains which leave ownership untouched remain concessions held on sufferance, revocable when the balance of forces shifts. Everything else in the comparison, the parties, the programmes, the settlements and the reversals, is evidence bearing on that single proposition.
 
-![The settlement's founding documents beside a table setting out its record and its reversal, Insight Crunch](/assets/images/blog/blog-01.webp)
+![The settlement's founding documents beside a table setting out its record and its reversal, Insight Crunch](/assets/images/blog/blog-50.webp)
 
 Both sides of the argument possess real evidence, and an honest comparison has to hold the two bodies of evidence together without letting either dissolve the other. The social democratic evidence is a record: in the decades after the Second World War, governments of that tradition in Western Europe delivered sustained reductions in inequality, employment levels that approached full employment for an extended period, universal health and education provision, rising real wages, and a large expansion of social insurance, all without expropriating the owners of industry. No other tradition on the left can show anything comparable, and this article states that record plainly and early, because accounts written from within the Marxist tradition habitually understate it. The Marxist evidence is a reversal: from the nineteen seventies onward, much of that settlement was unwound, its taxes lowered, its industries sold, its employment commitment abandoned, its insurance trimmed, and the unwinding was possible precisely because the gains had never been secured in the ownership of productive assets. Accounts written from within the social democratic tradition habitually understate that. The reader who holds both facts at once has the whole comparison in miniature.
 

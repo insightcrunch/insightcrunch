@@ -6,15 +6,15 @@ date: 2019-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Philosophy of Science", "Critique", "Political Theory", "Popper"]
 excerpt: "Is Marxism a science? The answer depends on choosing the right criterion: the criterion table and the honest result the better test yields for the programme."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 174
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2019-10-01
+lang: en
 ---
-
 Is Marxism a science? The question is asked constantly and answered carelessly, because the argument about it usually runs on a charge that its own author did not make. The best-known critic of Marxism in the philosophy of science, Karl Popper, did not hold that Marx's theory was never scientific. He held almost the opposite: that the theory began as science, staked itself on predictions that could have failed, and did fail; and that what destroyed its scientific standing was not the failing but the response to it, the reinterpretation of theory and evidence by which its followers rescued it from refutation. Any assessment that starts from the popular version of the charge, in which Marxism is dismissed as unfalsifiable from birth, starts from an error, and the error is committed by defenders as often as by opponents, since a defence aimed at a misstated charge leaves the real one untouched.
 
-![A desk with works on the philosophy of science, a notebook holding the criterion table, and index cards for the failed predictions, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with works on the philosophy of science, a notebook holding the criterion table, and index cards for the failed predictions, Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The second preliminary is that the verdict depends on the criterion, and the criterion most often used in this argument is one that most philosophers of science have abandoned. Falsification, the demand that a scientific theory expose itself to refutation and stand condemned when refuted, describes no actual science for long, because every living theory faces anomalies and every living theory protects itself with auxiliary assumptions while it works out whether the anomaly is fatal. The stronger framework, developed by Imre Lakatos, asks a different question: whether a research programme's modifications predict novel facts that are later confirmed, which he called a progressive problemshift, or whether its modifications merely accommodate what is already known after the event, which he called degenerating. This article applies that framework, and it does not flatter the defence. On the better test, Marxism's record is mixed to poor, and its characteristic response to failed prediction has been accommodation rather than novel prediction. Correcting the charge does not rescue the theory; it relocates the trial to a court where the evidence is harder to evade.
 

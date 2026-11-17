@@ -6,15 +6,15 @@ date: 2019-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Critique", "Political Theory", "Philosophy", "History"]
 excerpt: "Critiques of Marxism are graded on a scorecard with defeaters attached: the scorecard itself and the internal origin of the sharpest arguments against it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 172
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-08-01
+lang: en
 ---
-
 The critiques of Marxism are usually encountered as a single pile, and the pile is usually brandished rather than examined. Someone announces that the doctrine has been refuted, someone else announces that it has not, and both speakers treat a century and a half of argument as though it were one argument, made once, against one thing, with one result. Almost nothing in that picture survives contact with the literature. The criticisms are several distinct kinds of claim, aimed at different targets, argued by different people with different credentials, and they have fared very differently under examination. Some have been answered so thoroughly that only their slogans circulate. Some have been answered at a price the answerers were reluctant to name. Some stand exactly where their authors left them, unrefuted and largely unmentioned, because the traditions that should be answering them find them uncomfortable. A survey that cannot tell these apart is not a survey but a cheer, and the cheering happens on both sides of the question with perfect symmetry.
 
-![A scholar's desk with a graded scorecard, annotated volumes of Capital and its critics, and index cards sorted into six piles, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A scholar's desk with a graded scorecard, annotated volumes of Capital and its critics, and index cards sorted into six piles, Insight Crunch](/assets/images/blog/blog-58.webp)
 
 This article does the sorting. It divides the criticisms into six families according to what they target: its economics, its philosophical method, its record of prediction, its politics, its sociology of class, and its moral foundations. It states each family's leading arguments in the form their own proponents gave them, with the proponent named and the work and year identified, because a criticism that circulates without an author is usually a criticism that has been weakened in transmission. It then grades the families on a scorecard, the findable artifact at the centre of the article, which assigns each major critique a verdict of answered, partly answered, or standing, and attaches to every verdict the condition that would reverse it. And it reports the fact that gives the whole subject its peculiar character, the fact this article calls the internal origin: the strongest criticisms of Marxism have overwhelmingly come from Marxists and former Marxists, working from inside the tradition's own texts and standards, rather than by opponents attacking from outside. That fact is verifiable name by name, and it changes what a reader should do with every other page on the subject.
 

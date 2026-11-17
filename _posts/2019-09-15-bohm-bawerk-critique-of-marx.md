@@ -6,15 +6,15 @@ date: 2019-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Bohm-Bawerk", "Value Theory", "Critique", "Economics"]
 excerpt: "Bohm-Bawerk's critique turns on one argument the standard reply never touches: the four arguments assessed and the inequality argument that still bites."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 174
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2019-09-15
+lang: en
 ---
-
 Bohm-Bawerk's critique of Marx is the most famous attack ever mounted on the labour theory of value, and it is usually summarised badly. An Austrian economist published it in 1896, the year after the third volume of Capital reached print, and it makes four distinct arguments of very unequal strength. One of them, the celebrated contradiction between the first volume and the third, fills the textbooks. Another, quieter and far more damaging, asks whether exchange requires the exchanged things to be equal in anything at all, and answers that it does not. Identifying which of the four arguments actually bites, and which are answered by the standard Marxist reply, is the whole subject of the pages that follow.
 
-![The four arguments assessed in Bohm-Bawerk's critique of Marx, the 1896 essay beside the volumes of Capital on a reading desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![The four arguments assessed in Bohm-Bawerk's critique of Marx, the 1896 essay beside the volumes of Capital on a reading desk, Insight Crunch](/assets/images/blog/blog-50.webp)
 
 A reader who knows only that a famous critique exists deserves the map before the territory. The essay appeared as a contribution to a festival volume honouring the economist Karl Knies, and its title announced a verdict: Karl Marx and the Close of His System. Its author held that the completion of Capital by Engels had not rescued the doctrine but exposed it, because the finished system could now be checked against itself. Four charges were pressed. The system contradicts itself between its opening and closing volumes. Its foundational derivation, the argument of the first chapter, is invalid as a piece of logic. Exchange, the phenomenon the derivation starts from, does not require equality of any magnitude between the things exchanged. And the theory's empirical implication about profit rates fails, since branches of production that employ much labour do not earn higher profits than branches that employ little.
 

@@ -6,15 +6,15 @@ date: 2019-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Critique", "Replies", "Political Theory", "Philosophy"]
 excerpt: "Marxist replies are graded one by one on a single scorecard: the replies scorecard and the reformulation pattern a defence must acknowledge to be believed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 176
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-12-01
+lang: en
 ---
-
 Marxist replies exist for every standard criticism of the framework, and they are not of equal worth. Some of them answer the criticism they address. Some answer a smaller criticism standing nearby. Some change the subject with such fluency that generations of readers have mistaken the change for a refutation. A reader who has worked through the critiques themselves, in the survey this article accompanies and in the detailed treatments behind it, is owed a grading rather than a cheer: which replies work, which partly work, and which merely move the claim to ground where the evidence cannot follow. That grading is the business of the pages that follow. Every reply admitted here carries a named author and a named work, because a defence that circulates without an owner cannot be checked, and a defence that cannot be checked is worth exactly what an anonymous pamphlet is worth. Every verdict arrives with the condition of its own reversal attached, stated in the same breath, because a verdict that nothing could reverse is not a judgement but a loyalty. And one pattern is named at the outset and tracked throughout, since it decides how much of the rest can be believed: the habit of restating a claim at a level of generality where the disconfirming evidence no longer bears on it, and then treating the restatement as what was meant all along.
 
-![A seminar table with the replies scorecard, annotated critiques and reply volumes, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table with the replies scorecard, annotated critiques and reply volumes, Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The canonical definition is easily stated. Marxist responses to criticism comprise reconstructions of value theory where the mathematics was challenged, arguments that a criticism misidentifies what the theory claims, appeals that separate the doctrine from the regimes which governed under its banner, and the reformulation of predictions as tendencies with counteracting influences. Each of those four families has produced serious scholarship and each has produced evasion, sometimes between the same pair of covers. The reader should therefore be suspicious of any summary, friendly or hostile, that grades the defence as a whole. Rebuttals to Marx critics differ the way the criticisms differ: the strongest of them were written by scholars solving problems, the weakest by publicists protecting a flag, and the distance between those two kinds of writing is the distance this article exists to measure.
 

@@ -6,15 +6,15 @@ date: 2019-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Incentives", "Innovation", "Critique", "Political Economy"]
 excerpt: "The incentive problem survives in one specific form after the evidence is weighed: the three versions assessed and the innovation residue that remains."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 175
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2019-11-01
+lang: en
 ---
-
 The incentive problem is the objection most people reach for first when socialism is proposed, and it is usually reached for as a single sentence: why would anyone work hard, take care, or build anything new if the reward for doing so is detached from the doing? Stated that way, the charge feels less like an argument than like a fact about human beings, and arguments that feel like facts are rarely examined. This article examines it. The examination begins with a separation, because the single sentence conceals three distinct claims with three distinct fates. One claim concerns the effort of individuals. A second concerns the behaviour of enterprise managers who cannot be allowed to fail. A third concerns innovation, the funding and spread of what has never existed before. The first claim is weakened, substantially, by an empirical literature its proponents seldom mention. The second was confirmed, about as thoroughly as a social scientific claim can be confirmed, by the record of the state socialist economies. The third stands, and it is the one the popular version of the charge almost never states.
 
-![A cooperative workshop bench with the three versions assessed, piece-rate tallies and an innovation ledger, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A cooperative workshop bench with the three versions assessed, piece-rate tallies and an innovation ledger, Insight Crunch](/assets/images/blog/blog-12.webp)
 
 That separation is the article's whole method, and it disciplines everything that follows. A reader who finishes these pages should be able to say which version of the objection a given speaker is making, what evidence bears on that version rather than on the others, and what the honest verdict on each version is. The verdicts differ, and the difference is the finding. Where the charge is usually debated as a referendum on human nature, the evidence supports something narrower and more interesting: effort turns out to be a surprisingly weak ground for the objection, management under soft discipline turns out to be a strong one, and the generation and diffusion of novelty turns out to be the strongest of all. The name this article gives to what survives is the innovation residue. Everything else in the incentive debate, the slogans about laziness and the slogans about greed alike, is commentary on claims that the evidence has already sorted.
 
