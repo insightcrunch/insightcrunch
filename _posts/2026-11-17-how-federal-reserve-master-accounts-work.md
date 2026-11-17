@@ -6,10 +6,11 @@ date: 2026-11-17
 categories: ["Industry"]
 tags: ["federal-reserve", "master-account", "payment-networks", "central-banking", "bank-regulation", "fedwire"]
 excerpt: "A Federal Reserve master account is the settlement account that lets a bank move money on the central bank books, and access to it is earned, not automatic."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-11-17
+lang: en
 ---
 ## The Account at the Center of the Dollar Payment System
 
@@ -17,7 +18,7 @@ A Federal Reserve master account works as the settlement account an eligible ins
 
 The Federal Reserve System was created by the Federal Reserve Act of 1913, and the system was built as twelve regional Federal Reserve Banks rather than as one office in Washington. An institution deals with the Reserve Bank for its district, and the master account sits on the books of that Reserve Bank. The Board of Governors in Washington sets system policy, including the interest on reserve balances rate and the Payment System Risk Policy, while the Reserve Bank operates the account day to day, processes instructions, applies limits, and enforces the conditions attached to the relationship. That division matters because an access dispute is usually a dispute with a district Reserve Bank applying systemwide standards, not an appeal to an abstract central bank.
 
-![Federal Reserve Master Account Settlement Ledger and Payment Rails - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Federal Reserve Master Account Settlement Ledger and Payment Rails - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The account also works as a hub rather than as a single purpose wallet. Through one account an institution reaches the Fedwire Funds Service for large value transfers, the Fedwire Securities Service for securities settlement, FedACH for batches of smaller payments, check services, FedNow instant payments, and currency and coin services. Each service has its own messages, deadlines, and operating rules, yet the money leg converges on the same balance. A securities delivery, an automated clearing house settlement, and a wire transfer look different at the level of paperwork and software, and they become alike at the level of the account, where each one ends as a debit and a credit between Reserve Bank liabilities.
 
