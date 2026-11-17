@@ -6,17 +6,17 @@ date: 2020-09-15
 categories: ["Leisure"]
 tags: ["Marxism", "Socialist Realism", "Literature", "Soviet Union", "Cultural Theory"]
 excerpt: "Socialist realism settled the relation of art and party by decree rather than by argument: the four principles table and the settlement by decree it records."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 183
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-09-15
+lang: en
 ---
-
 ## Socialist Realism Proclaimed at a Congress
 
 Socialist realism was a formal doctrine before it was anything else, and treating it as a loose synonym for propaganda art misses nearly everything that makes it instructive. It had stated principles that could be listed, a founding occasion that can be dated, an enforcement machinery with identifiable officers, and a body of theory written to defend its requirements as aesthetic positions rather than as administrative conveniences. In August 1934, delegates gathered in Moscow for the First Congress of Soviet Writers, and the gathering adopted a definition that bound every writer who wished to publish inside the Soviet Union. Compliance was not a matter of taste or of editorial preference. A writer who declined the method declined, in practice, the profession itself, because the union created at that congress controlled access to print, to paper, to housing, and to the legal standing of authorship.
 
-![A congress hall lectern, bound proceedings, and the four principles table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A congress hall lectern, bound proceedings, and the four principles table, Insight Crunch](/assets/images/blog/blog-70.webp)
 
 Establishing those facts at the outset matters because the doctrine is so often introduced through its products, through posters of heroic steelworkers and novels about cement plants, that its character as a ruling escapes attention. A style can be ignored. A ruling cannot, at least not by anyone subject to it. The congress definition demanded the truthful and historically concrete representation of reality in its revolutionary development, and it joined that demand to a second task, the ideological transformation and education of working people in the spirit of socialism. Each half of the formula did distinct work. The first half claimed the authority of realism, of fidelity to what existed. The second half subordinated that fidelity to a direction, requiring the depicted world to be shown moving toward a destination the party had already identified.
 

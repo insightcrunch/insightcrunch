@@ -6,17 +6,17 @@ date: 2020-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Fredric Jameson", "Postmodernism", "Cultural Theory", "Criticism"]
 excerpt: "Postmodernism on this account is a cultural dominant, not a chosen style: the periodisation table and why the features follow the periodisation itself."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 181
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-07-15
+lang: en
 ---
-
 ## Postmodernism as the Culture of an Economic Phase
 
 Postmodernism, in the account developed by Fredric Jameson, names the culture belonging to a phase of capitalism, not a movement that artists selected or a mood that settled over late twentieth century life. That single reclassification changes everything downstream. A style can be adopted, refused, parodied, or abandoned at will, whereas a cultural dominant describes the logic that organises production across many fields at once, including fields whose practitioners believe themselves opposed to it. Jameson pairs three economic phases with three cultural dominants. Market capitalism corresponds to realism, monopoly and imperialist capitalism corresponds to modernism, and a multinational phase corresponds to postmodernism. Every celebrated feature of the third term, from depthlessness to pastiche, is presented as following from that pairing rather than as an observation gathered first and explained afterwards.
 
-![A seminar table holding the periodisation table beside volumes on realism, modernism, and the multinational economy, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table holding the periodisation table beside volumes on realism, modernism, and the multinational economy, Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Readers usually meet the vocabulary before the architecture, and the order of meeting distorts the argument badly. Depthlessness sounds like a complaint about superficial entertainment. Pastiche sounds like a technique that any collage artist might borrow for an afternoon. The waning of affect sounds like a psychological observation about flattened feeling. Detached from the periodisation, each term floats free as description, available for journalism and syllabus decoration. Restored to the architecture, each term becomes a deduction. A phase of capitalism organised around multinational production, instantaneous finance, and saturated media generates a culture in which depth models lose plausibility, affect migrates from persons to intensities, and imitation loses the satirical norm that once made parody possible. Whether the deduction succeeds is the critical question, and it can only be judged once the generating structure is visible.
 

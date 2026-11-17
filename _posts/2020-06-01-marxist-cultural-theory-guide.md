@@ -6,17 +6,17 @@ date: 2020-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Cultural Theory", "Literary Criticism", "Aesthetics", "Theory"]
 excerpt: "Marxist cultural theory is organised by one rule: read form, not content. The seven positions table and the form rule that grades the whole tradition."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 180
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-06-01
+lang: en
 ---
-
 ## Cultural Theory and the Question It Keeps Asking
 
 Marxist cultural theory begins with a misunderstanding that has proved remarkably durable. Generations of students have been told, usually by a hurried textbook or a hostile summary, that the tradition holds a simple doctrine: culture reflects the economy, poems and paintings and plays merely mirror the material arrangements underneath them, and the critic's task reduces to pointing at the mirror and naming what it shows. That doctrine exists. It was held, it was printed, it was taught in party schools and repeated in pamphlets, and it shaped the first impressions of nearly everyone who encountered this material. What the hurried summary omits is the sequel. The tradition itself devoted a hundred years to abandoning reflection, position by position, because each generation of its own theorists found the mirror image intellectually indefensible and said so in print, against predecessors who were often their own teachers. The history of Marxist cultural theory is therefore not the history of a doctrine applied. It is the history of an argument conducted inside a tradition about a single persistent question, namely how culture and economic structure are related, when the relation is plainly real and plainly not a matter of mirroring. Every concept for which the field is known, mediation, homology, hegemony, structure of feeling, relative autonomy, the political unconscious, was minted as an attempted answer to that question, formulated against the answer that came before it. A reader who grasps the sequence grasps the concepts, because each concept carries the shape of the failure it was designed to repair. A reader who meets the concepts as a glossary, detached from the dissatisfactions that produced them, holds a set of labels that can be pasted onto any text and explain nothing.
 
-![A seminar table holding annotated novels, scores, and play scripts arranged around a diagram of base and superstructure, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table holding annotated novels, scores, and play scripts arranged around a diagram of base and superstructure, Insight Crunch](/assets/images/blog/blog-03.webp)
 
 One distinction organises the whole field, and stating it at the outset prevents nearly every misapplication that follows. The crude version of the method reads content. It searches a work for class messages, counts sympathetic and unsympathetic characters, identifies the author's allegiances, and delivers a verdict on what the work says about society. The developed version reads form. It asks what social conditions made a particular form available at a particular moment, what that form presupposes about its audience and its world, and what the form itself, prior to anything it says, already reveals. The realist novel presupposes a social totality that can in principle be known and an interior life worth narrating at length. The epistolary exchange presupposes literacy, privacy, postal infrastructure, and leisure enough to sustain correspondence. Broadcast flow presupposes an audience continuously available in domestic space. None of those presuppositions appears in any message a work might carry. All of them are evidence, and evidence of a kind that content hunting cannot reach. This guide calls the distinction the form rule, and it grades every position in the sequence that follows. Positions earn their place in the tradition to the extent that they honour the rule, and the failures that ended positions were usually failures to honour it.
 

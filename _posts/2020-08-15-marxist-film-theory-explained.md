@@ -6,17 +6,17 @@ date: 2020-08-15
 categories: ["Leisure"]
 tags: ["Marxism", "Film Theory", "Cinema", "Cultural Theory", "Criticism"]
 excerpt: "Marxist film theory claimed the camera itself was ideological, then watched the claim fail: the five-part analysis table and the apparatus claim and its fate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 183
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-08-15
+lang: en
 ---
-
 ## Marxist Film Theory in Practice
 
 Marxist film theory is best approached as a set of questions about manufacture, technique, and spectatorship rather than as a hunt for political messages hidden inside stories. A student holding a film and an assignment needs to know, before any theorist is named, that this approach examines how a film was made, what its techniques do to the person watching, and how that person is positioned by the viewing situation itself. Content matters, but content is the last thing the method examines and never the only thing. A melodrama and a musical produced inside the same studio system may share an organisation of labour, a grammar of shots, and a seating of the audience while telling stories that appear to have nothing in common. The tradition insists that the shared elements are as analytical as the differing ones, and often more revealing.
 
-![A darkened auditorium, a projector beam crossing it, and the five-part analysis table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A darkened auditorium, a projector beam crossing it, and the five-part analysis table, Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Three commitments define the field across its whole history. First, cinema is an industrial mode of production, so financing, studio organisation, the labour process, and distribution belong inside criticism rather than in a separate business history. Second, formal techniques carry effects that can be described independently of what a story says, so editing, framing, and sound are evidence and not decoration. Third, the viewing situation itself constructs a position for the spectator, a claim developed most radically by the apparatus theorists around 1970 and examined at length below. Readers who want the framework within which these commitments sit should begin with the [marxist cultural theory guide](/2020/06/01/marxist-cultural-theory-guide/), which this article presupposes rather than repeats. The theoretical account of belief and recognition that the apparatus argument borrows is treated in the article on [althusser ideology state apparatuses](/2012/03/01/althusser-ideology-state-apparatuses/), and the production side of the argument connects to the account of [culture industry explained](/2015/07/15/culture-industry-explained/), which handles the industrial organisation of cultural goods in general.
 

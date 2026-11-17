@@ -6,17 +6,17 @@ date: 2020-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Literary Criticism", "Realism", "Engels", "Theory"]
 excerpt: "Marxist literary criticism asks four questions of any work, and Engels's letter supplies its principle: the four questions table and the triumph of realism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 182
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-07-01
+lang: en
 ---
-
 ## A Method Stated as Four Questions
 
 A reader encountering Marxist literary criticism for the first time is usually handed a slogan instead of a method. The slogan says that such criticism looks for class conflict inside plots, counts the workers among the characters, and grades a novel by the politics of whoever wrote it. Almost everything in that description is wrong, and the errors are not minor distortions at the edges. They invert the tradition's founding principle, mistake its most elementary exercise for its whole procedure, and leave the student unable to perform the analysis the name actually denotes. This article replaces the slogan with the method. Marxist literary criticism analyses a work in relation to the material conditions under which it was produced, the social significance carried by its form, the ideology it takes for granted and cannot articulate, and the history of its reception. Those four relations generate four questions, and the questions, asked in order and answered with evidence, are the method.
 
-![A reading desk with the four questions table open beside editions of the realist novel, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with the four questions table open beside editions of the realist novel, Insight Crunch](/assets/images/blog/blog-75.webp)
 
 None of the four questions asks what the author thought. That omission is deliberate and foundational. In a letter written in 1888, Friedrich Engels praised Honoré de Balzac, a French novelist whose political sympathies were royalist and legitimist, for a body of fiction that revealed the workings of French society more truthfully than the work of writers whose opinions Engels shared. The realism had triumphed over the sympathies. From that judgement the tradition drew a principle that governs everything else in this article: what a work shows owes no obedience to what its author believed. A reading that infers a text's politics from its author's biography has therefore not begun, however confidently it proceeds. The four questions begin somewhere else entirely, with paper, prices, publishers, and readers.
 

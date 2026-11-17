@@ -6,14 +6,15 @@ date: 2020-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Raymond Williams", "Cultural Materialism", "Cultural Theory", "Criticism"]
 excerpt: "Cultural materialism dissolved the base and superstructure problem instead of solving it: the three tools table and the dissolution Williams performed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 181
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-06-15
+lang: en
 ---
 Raymond Williams was a Welsh critic who, writing from the 1950s onward, reformulated the oldest problem in Marxist cultural theory by refusing its terms. Cultural materialism, the position he eventually named, holds that writing, printing, publishing, and broadcasting are material production in their own right, with their own means, labour, and relations, rather than a decorative layer raised above an economic base that does the real work. Once culture is production, the question of how a superstructure relates to a base loses the shape that made it seem compulsory, and a problem that had organised decades of argument is not solved but dissolved. That single move, the dissolution, is the centre of his achievement, and this article examines it alongside the three analytical tools that practising critics actually carry away from his work: the structure of feeling, the triad of dominant, residual, and emergent, and his rebuilt account of determination, in which conditions bound a field and press upon the agents inside it.
 
-![A border country signal box and a tutor's desk of marked essays facing one another across a valley, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A border country signal box and a tutor's desk of marked essays facing one another across a valley, Insight Crunch](/assets/images/blog/blog-86.webp)
 
 Williams matters for a further reason that the summaries often miss. His concepts were not forged in a seminar room and then applied to experience from a height. They were developed across fifteen years of teaching adults whose lives the inherited vocabulary of culture could not describe, and the pressure of that classroom is inside the theory itself. When he insisted that culture is ordinary, he was reporting what the teaching had taught him: that meanings are made by everyone, in workplaces and kitchens and chapels and union branches, and that a theory of culture which treats most of that making as a pale reflection of something else has failed before it begins. The tradition he worked within, and partly against, is surveyed in the [Marxist cultural theory guide](/2020/06/01/marxist-cultural-theory-guide/), which places his intervention among the others competing for the same ground.
 

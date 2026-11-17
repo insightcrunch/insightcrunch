@@ -6,17 +6,17 @@ date: 2020-10-01
 categories: ["Leisure"]
 tags: ["Marxism", "Formalism", "Literary Criticism", "Comparison", "Theory"]
 excerpt: "Formalist criticism and its Marxist rival were once synthesised, and the synthesis forgotten: the dispute grid and the forgotten synthesis between them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 184
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-10-01
+lang: en
 ---
-
 ## Formalist Criticism and Its Marxist Rival: Two Questions About Literature
 
 Formalist criticism begins with a question that sounds narrow until its reach becomes clear. Given a poem, a tale, or a novel, what makes the work literary rather than a piece of reporting, a sermon, or a diary entry set down in sentences? The formalist answer locates the difference inside the work itself, in the organised use of language and device, and treats everything outside the text as background that may interest a historian without explaining the object under study. Marxist criticism begins somewhere else entirely. It asks under which social conditions a work was produced, whose experience it organises, which interests its forms serve, and how its meanings shift as the society around it changes. A student comparing the two approaches for an assignment should notice first that these are different questions, not rival answers to a single question, and that much confusion in textbooks comes from grading each school against a task it never set itself.
 
-![Formalism and Marxist criticism, the dispute grid and the forgotten synthesis, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Formalism and Marxist criticism, the dispute grid and the forgotten synthesis, Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The dispute that gives this article its subject arises only when the two questions collide. Can the first question be answered without the second? Formalists held that it could, because literariness, their name for whatever makes a work literary, seemed to them a property of construction that a reader could isolate and describe. Marxist critics replied that construction itself has a history, that devices are invented, borrowed, exhausted, and discarded under pressures a purely internal account cannot see, and that a criticism forbidden to look outward would describe the machinery of literature while remaining silent about why the machinery changes. Between those two positions lies one of the most instructive quarrels in twentieth century criticism, instructive because each side landed blows the other could not comfortably absorb, because a resolution was actually proposed in print, and because the argument was then ended by means that had nothing to do with argument.
 

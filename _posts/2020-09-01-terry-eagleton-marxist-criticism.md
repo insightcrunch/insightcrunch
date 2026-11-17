@@ -6,17 +6,17 @@ date: 2020-09-01
 categories: ["Leisure"]
 tags: ["Marxism", "Terry Eagleton", "Literary Theory", "Criticism", "Theory"]
 excerpt: "Literary theory was reframed by one introduction arguing literature itself is an institutional category: the four phases table and the literature claim."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 182
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-09-01
+lang: en
 ---
-
 ## A Critic Assigned Before He Is Understood
 
 Terry Eagleton occupies a position in literary theory that no other Marxist critic of his generation quite shares, because his books reach readers who have never chosen to study Marxism at all. A student opening a first course in literary theory encounters his introduction before encountering the tradition it describes, and the encounter shapes everything that follows. He is the most widely assigned Marxist critic in the English speaking world, a standing built less on a single doctrine than on a sequence of books that kept changing their method while refusing to surrender their politics. Across four decades the writing moved from a formal apparatus of levels and modes, through an argument that literature itself is an institutional category, toward ethics, tragedy, and theology, and it remained Marxist at every stage of that journey.
 
-![A reading desk holding an introduction to literary theory beside a formal study of ideology and a volume on the aesthetic, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk holding an introduction to literary theory beside a formal study of ideology and a volume on the aesthetic, Insight Crunch](/assets/images/blog/blog-48.webp)
 
 That combination of reach and restlessness explains why a profile must resist the two habits that dominate shorter accounts. Book summaries flatten the career into a shelf of titles, each given a paragraph, none given its argument. Celebrity treatment does the opposite damage, dwelling on wit, feuds, and productivity while the theoretical machinery rusts unattended in the background. Eagleton rewards a different procedure. His early formalism deserves reconstruction at full strength, including the parts he later disowned. His central claim about the category of literature deserves separation from the textbook that carried it, because claim and carrier are often confused. His book on the aesthetic deserves treatment as a work of political philosophy rather than as a detour into art. His theological writing deserves neither celebration as maturity nor dismissal as apostasy, since the brief of honest criticism is to describe what changed and what persisted.
 

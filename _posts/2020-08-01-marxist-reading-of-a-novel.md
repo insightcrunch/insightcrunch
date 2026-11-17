@@ -6,17 +6,17 @@ date: 2020-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Literary Criticism", "Novel", "Reading", "Analysis"]
 excerpt: "A Marxist reading of a novel begins by tracing where each character's money comes from: the seven steps table and the income-source step that opens the plot."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 182
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-08-01
+lang: en
 ---
-
 ## A Marxist Reading Procedure in Outline
 
 A Marxist reading of a novel is a procedure before it is anything else, and this article gives that procedure as seven ordered steps that a student with a text and an assignment can perform in sequence. The method does not involve hunting through the plot for class messages, sympathetic workers, or villains in top hats. It begins instead with the conditions under which the book was produced and with a single plain question about money. The first step asks when the novel was written, how it reached its readers, and in what physical form, because a work issued in monthly parts answers to different pressures than a work sold by subscription or reprinted cheaply for a railway stall.
 
-![A desk with a novel, a notebook ledger of incomes, and the seven steps table, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with a novel, a notebook ledger of incomes, and the seven steps table, Insight Crunch](/assets/images/blog/blog-31.webp)
 
 Working through the steps in order matters because each one disciplines the next. Production facts restrain speculation about intention. Form analysis restrains the habit of treating characters as real people with opinions. The mapping of class positions, which is the centre of the whole method, restrains vague talk about wealth and poverty by demanding a source for every income in the book. Readers who want the theory behind the procedure should consult [marxist literary criticism explained](/2020/07/01/marxist-literary-criticism-explained/), and readers who want the wider framework should consult [marxist cultural theory guide](/2020/06/01/marxist-cultural-theory-guide/), since this article links to those accounts rather than repeating them.
 
