@@ -6,15 +6,15 @@ date: 2020-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Analytical Marxism", "Cohen", "Elster", "Political Theory"]
 excerpt: "Analytical Marxism judged Marxist claims by mainstream standards and in time abandoned many of them: the trajectory table and the undecidable trajectory."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 178
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-01-01
+lang: en
 ---
-
 Analytical Marxism is a name that many readers first meet as an accusation, flung at a group of scholars who were said to have kept the vocabulary of Marxism while surrendering its substance to the methods of the seminar room and the economics department. The accusation gets the founding intention exactly backwards. The philosophers, economists, political scientists and sociologists who began meeting in 1979 were defenders of Marxism, several of them committed socialists, who believed that Marxist claims deserved the compliment of being tested by the same standards of clarity and evidence that governed any other serious inquiry. They held that a claim which could not survive plain statement had not been protected by its obscurity but exposed by it. What gives the school its enduring fascination is the sequel: within roughly fifteen years, most of those defenders had publicly abandoned central Marxist theses, one by one, in print, with reasons given at every step. A school that set out to rescue a doctrine and ended by dismantling much of it poses a question that no summary can evade, and this guide is organised around that question rather than around the safer ground of chronology alone.
 
-![Analytical Marxism seminar table with the trajectory table and the founding texts of the September Group, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Analytical Marxism seminar table with the trajectory table and the founding texts of the September Group, Insight Crunch](/assets/images/blog/blog-108.webp)
 
 The guide proceeds by separating questions that hostile and admiring accounts habitually fuse. One question concerns the method: what the members committed themselves to when they denied that any distinctive Marxist logic exists and insisted that every valid argument be statable in ordinary terms. A second question concerns the contributions: the defence of historical materialism, the reconstruction of Marx's social theory, the formalisation of exploitation, and the empirical study of class, each of which can be weighed on its merits independently of the school's later history. A third question concerns the trajectory itself, the sequence of abandonments between 1979 and the middle of the following decade, and what that sequence proves. On the third question this guide takes a position that both camps in the literature resist: the trajectory is undecidable, because a history produced by honest inquiry following arguments wherever they lead and a history produced by a method quietly rigged against its object would look identical from outside. Stating that undecidability plainly, and stating what evidence would break it, is more informative than either of the confident readings on offer.
 

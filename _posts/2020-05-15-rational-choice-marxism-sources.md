@@ -6,17 +6,17 @@ date: 2020-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rational Choice", "Analytical Marxism", "Source Guide", "Reading"]
 excerpt: "Rational choice Marxism is entered through a route that avoids the formal economics first: the route table and the accessible companion to its main argument."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 180
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-05-15
+lang: en
 ---
-
 ## Beginning Where Training Is Not Required
 
 Anyone approaching rational choice Marxism through a library catalogue faces a sorting problem before any argument can be judged, because shelf neighbours differ radically in preparation demanded. Certain volumes open to a patient general reader immediately, while neighbouring volumes presuppose formal economics, symbolic logic, or statistical method before page one yields sense. John Roemer (1982) illustrates the split within a single contribution, since his exploitation argument circulates in a formal presentation and also in an accessible companion requiring no mathematics whatsoever. Grasping that duplication at the outset alters the starting point completely, sparing months spent stalled before notation rather than reasoning. For orientation toward the school itself, consult [analytical Marxism complete guide](/2020/01/01/analytical-marxism-complete-guide/).
 
-![A reading desk with the route table open beside the formal and accessible versions of the exploitation argument, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with the route table open beside the formal and accessible versions of the exploitation argument, Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Bibliographies rarely flag the distinction described above, so alphabetical order masquerades as a sensible sequence and misleads newcomers repeatedly. A list placing G. A. Cohen (1978) beside Roemer (1982) beside Erik Olin Wright (1985) looks homogeneous, yet each entry asks something quite different from whoever opens it. Cohen asks for close philosophical attention. Roemer, in the formal mode, asks for prior study of optimisation and equilibrium. Wright asks for comfort with survey categories and comparative evidence. Treating those requests as interchangeable produces frustration that gets misattributed to personal inadequacy, whereas the real fault lies in undifferentiated guidance.
 

@@ -6,15 +6,15 @@ date: 2020-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Methodology", "Analytical Marxism", "Social Science", "Debate"]
 excerpt: "Microfoundations in Marxism are two distinct demands wearing one name: the two demands table and the separable demands that the debate failed to distinguish."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 178
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-03-15
+lang: en
 ---
-
 Few words in the methodology of social science carry more weight with less agreement about their meaning than microfoundations, and few debates show the cost of that disagreement better than the argument over whether Marxism needs them. A reader who meets the demand in economics or sociology usually meets it as a single requirement, stated with the confidence of a standard: an explanation of a social phenomenon is incomplete until it has been shown how the actions of individuals produce that phenomenon. Pressed against Marxism from the late 1970s onward, the demand helped to found a school, analytical Marxism, provoked some of the sharpest methodological writing the tradition has produced, and left behind a residue of slogans on both sides. Defenders of the classical tradition heard an alien standard imported from economics and refused it wholesale. Its proponents heard the refusal as an admission that Marxist explanation could not survive scrutiny. Both hearings rested on the same mistake, and the mistake is the subject of this article.
 
-![Two demand ledgers open on a seminar table beside annotated volumes on method, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two demand ledgers open on a seminar table beside annotated volumes on method, Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The mistake is that two different demands travel under the one name. One demand insists that explanations lay out a working process, the sequence through which an alleged cause brings about its alleged effect, instead of resting on correlation or on the observation that somebody benefits. The other insists that the process be followed down until it ends with individuals, with what they believe and what they want, so that persons and their reasons form the floor of every finished explanation. The first of these is reasonable, general across the sciences, and was pressed against Marxism with genuine effect; accepting it improved the tradition's explanations. The second is methodological individualism, a substantive commitment about what exists and what can explain, wearing the clothes of a neutral standard of rigour. Separating the two demands, which this article calls the separable demands, dissolves most of the famous quarrel and relocates the remainder where it belongs: in a substantive dispute about the priority of preferences over the relations that form them. Neither side performed the separation consistently, which is why the argument lasted so long and settled so little.
 

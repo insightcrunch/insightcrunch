@@ -6,15 +6,15 @@ date: 2020-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Real Utopias", "Erik Olin Wright", "Reform", "Political Theory"]
 excerpt: "Real utopias are graded as compass points rather than blueprints: the strategies table and the compass reframing that recasts how institutions guide change."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-102.webp"
 reading_time: 178
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-04-15
+lang: en
 ---
-
 Real utopias are institutional designs that already exist, or could plausibly be built, and that embody socialist principles inside societies still organised by capitalism. The phrase joins two words that ordinary usage keeps apart, and the joining is deliberate. A utopia, in the dismissive sense, names a place that exists nowhere and therefore instructs nobody. The real utopias project, developed by the American sociologist Erik Olin Wright across three decades, refuses that dismissal by changing the object of study. Instead of drawing an ideal society on a blank page, the project examines institutions: arrangements for deciding, owning, distributing, and governing that can be inspected, compared, and argued about one by one. Some of the institutions it examines operate already, in partial and compromised forms. Others exist as worked proposals, specified in enough detail that their workings can be criticised rather than merely applauded or deplored.
 
-![A compass diagram beside institutional models of cooperatives, assemblies and funds, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A compass diagram beside institutional models of cooperatives, assemblies and funds, Insight Crunch](/assets/images/blog/blog-102.webp)
 
 The project is deliberately concrete, and its concreteness is a methodological commitment before it is a political one. Wright held that emancipatory social science fails in a characteristic way when it moves directly from a critique of capitalism to an affirmation of socialism without passing through the middle level where institutions are designed. Critique can establish that an order produces domination and waste. Affirmation can state the values an alternative order should honour. Neither, by itself, answers the question a sceptical reader is entitled to ask: what would the alternative actually look like on a Tuesday morning, who would decide what, and by what procedure could a disputed decision be challenged? The real utopias project locates itself at that middle level. Its organising distinction, stated here at the outset because everything else in this article depends on it, separates three forms of power. State power operates through the making and enforcement of rules backed by coercion. Economic power operates through the ownership and control of productive resources. Social power operates through the capacity of people to mobilise themselves in voluntary association. Socialism, on the account the project defends, means the subordination of the first two forms to the third.
 

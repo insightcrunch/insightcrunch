@@ -6,15 +6,15 @@ date: 2020-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Erik Olin Wright", "Class Analysis", "Analytical Marxism", "Sociology"]
 excerpt: "Class analysis was rebuilt twice on incompatible foundations in one career: the two frameworks compared and the two incompatible solutions they embody."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 177
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-02-15
+lang: en
 ---
-
 Class analysis in the Marxist tradition begins with a prediction that embarrassed its defenders for a century. Capitalist development, on the classical account, simplifies the structure of society. Small producers are ruined or absorbed, independent crafts disappear into factories, and the population sorts itself into two great camps: those who own productive property and those who own nothing but their capacity to work. Erik Olin Wright built his reputation by refusing to look away from the fact that the sorting never happened. Between the owners and the wage labourers there grew, decade after decade, a vast intermediate population of managers, supervisors, engineers, teachers, technicians, administrators, and credentialed specialists. These people sold their labour power, which placed them on one side of the classical divide, yet they directed the labour of others, held authority inside production, and drew incomes swollen by scarce credentials, which placed them awkwardly on the other. Wright was the most empirically productive Marxist sociologist of his generation because he treated that awkward population not as an embarrassment to be footnoted but as the central problem his theory had to solve, and because he then built survey machinery on an international scale to test whether his solutions survived contact with evidence.
 
-![A seminar table with class schema diagrams, survey questionnaires and Wright's successive frameworks, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table with class schema diagrams, survey questionnaires and Wright's successive frameworks, Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The difficulty deserves to be felt before any framework is introduced, because its force explains why two generations of Marxist writing circled around it. A theory of class that cannot locate the people who run production on a daily basis is a theory with a hole at its centre. The foreman who hires and disciplines, the plant manager who sets the pace of a line she does not own, the software architect whose salary reflects a credential monopoly rather than any property title, the headteacher who manages a budget and a staff while remaining a salaried employee: each of these figures exercises powers the classical vocabulary assigns to capital, while lacking the ownership that vocabulary treats as decisive. Calling them all workers flattens real differences in authority and material interest. Calling them a new middle class abandons the relational logic that distinguishes Marxist analysis from a mere ranking of incomes. Wright's career can be read as a refusal of both evasions, sustained across four decades, two incompatible theoretical frameworks, and the largest comparative survey enterprise Marxist sociology has produced.
 

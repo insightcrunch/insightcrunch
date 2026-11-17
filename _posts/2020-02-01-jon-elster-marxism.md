@@ -6,15 +6,15 @@ date: 2020-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Jon Elster", "Analytical Marxism", "Methodology", "Social Science"]
 excerpt: "Elster judged Marx doctrine by doctrine and published the verdicts: the scorecard and the stated scorecard by which his mechanisms programme is graded."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 176
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-02-01
+lang: en
 ---
-
 Jon Elster arrived inside Marxism carrying a stopwatch and a demand for receipts. A Norwegian philosopher and social scientist who took his doctorate in Paris, Elster joined the small circle of scholars who founded analytical Marxism at the end of the 1970s, and he joined it as a believer in the project's central wager: that Marx's social theory contained arguments strong enough to survive the most demanding standards of clarity that philosophy and social science could apply. He set out to reconstruct that theory rigorously, thesis by thesis, using the tools of rational choice and game theory, and he published the result in 1985 as Making Sense of Marx. The verdict he reached was mixed, and its mixed character is the first thing to grasp about him, because he stated it explicitly rather than leaving readers to infer it. Some of Marx's central claims, he concluded, fail outright. Others survive, in reconstructed form, as permanent contributions to social theory. Elster is therefore misdescribed by the label that follows him through summaries and syllabuses, the Marxist who stopped being one, as though the story were a conversion in reverse. The story is an audit. He examined the estate, itemised what was sound and what was rotten, published the inventory, and then spent a career building the alternative method that the audit had convinced him social science needed.
 
-![A desk with an itemised scorecard, a stopwatch and a well thumbed copy of a philosophical treatise, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk with an itemised scorecard, a stopwatch and a well thumbed copy of a philosophical treatise, Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The scorecard matters because both camps misreport it. Sympathetic summaries soften the failures, treating his criticisms as friendly amendments offered from inside a shared project. Hostile summaries inflate them, treating the book as a demolition after which nothing of Marx remains standing. Elster's own text supports neither reading. His verdicts condemned the labour theory of value, the doctrine of a falling profit rate, and dialectical materialism alike, and he said so in plain sentences that leave no room for rescue by interpretation. He also judged that the theory of alienation survives, that the account of innovation under capitalism survives, that a theory of exploitation survives once it is rebuilt on foundations that owe nothing to labour values, and that the analysis of how class position issues in political action survives. A verdict that kills the value theory and keeps alienation is not a demolition, and a verdict that keeps exploitation while discarding its traditional foundation is not a defence. It is a partition, and partitions are harder to sloganise than either loyalty or apostasy, which is one reason the partition keeps being flattened into one or the other.
 

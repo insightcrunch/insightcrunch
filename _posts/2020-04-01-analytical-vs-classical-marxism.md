@@ -6,15 +6,15 @@ date: 2020-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Analytical Marxism", "Comparison", "Methodology", "Political Theory"]
 excerpt: "Analytical Marxism and its classical rival divide over one question from which the rest follow: the eight differences grid and the generative disagreement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 179
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-04-01
+lang: en
 ---
-
 The comparison between analytical Marxism and the classical tradition it broke from is usually introduced as a quarrel about jargon, as if one side had merely chosen clearer words for doctrines both sides shared. That introduction misleads from the first sentence. The disagreement concerns whether Marxism possesses a method of its own, a way of reasoning that belongs to this theory alone and that licenses conclusions unreachable by ordinary argument. Everything else follows from the answer given to that single question. The analytical current answers no: a claim that cannot be stated plainly, defended with evidence and exposed to counterexample has not been deepened by its obscurity, only sheltered by it. The classical current answers yes: the categories of the theory are historically specific, the object of study is a totality whose parts take their character from the whole, and a method that isolates elements for separate inspection distorts the object before inquiry begins. A reader who grasps that prior fork, and grasps that each side argues in good faith from it, holds the key to every later dispute between the two camps, from the fate of the labour theory of value to the standing of the working class as historical agent.
 
-![Two seminar tables with the eight differences grid and the founding texts of both currents, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two seminar tables with the eight differences grid and the founding texts of both currents, Insight Crunch](/assets/images/blog/blog-61.webp)
 
 This article is organised as a comparison and a decision. It first states the prior disagreement in full, because the brief for the comparison insists that the reader meet it before any enumeration of differences. It then derives eight differences from that source, setting them out in the eight differences grid, a findable table in which each row gives the analytical position, the classical position, the root from which the disagreement grows, and a judgement about which side the evidence favours where evidence can bear at all. After the grid, the article gives the longest hearing to the strongest classical objection, an objection aimed at method rather than at any single result: the charge that analytical models build their conclusions into their assumptions. A balanced account then records what each side got right, at equal length and without scorekeeping disguised as fairness. The closing verdict carries its own defeater, a statement of the finding that would reverse it, because a judgement that nothing could overturn is a loyalty statement rather than an assessment. Throughout, the comparison runs between stated methods and stated claims. It does not run between the political commitments of adherents, and the slide from methods to motives, common in polemics against both camps, is refused wherever it appears.
 

@@ -6,15 +6,15 @@ date: 2020-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "G.A. Cohen", "Analytical Marxism", "Historical Materialism", "Philosophy"]
 excerpt: "Functional explanation in Marx's theory of history is graded by the mechanism requirement: the argument and the retreat that the demand itself produced."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 176
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2020-01-15
+lang: en
 ---
-
 A functional explanation accounts for something by pointing to what it does rather than to what produced it. The explanandum is held in place, on this pattern, because of its effects: a feature persists since the consequences it generates favour its own continuation. Functional explanation therefore reverses the direction a reader instinctively expects from causal reasoning, and the reversal is either a legitimate form of understanding or a sophisticated way of mistaking a benefit for a reason. Which of those verdicts applies to Marx's theory of history is the question Gerald Allan Cohen forced his tradition to answer with unusual precision, and the answer he eventually gave against his own earlier defence is the centre of this article.
 
-![G. A. Cohen's books and the argument and the retreat table on a study desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![G. A. Cohen's books and the argument and the retreat table on a study desk, Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Marx's theory, as Cohen reconstructed it, explains the character of a society's production relations by their effect upon the development of its productive powers. Feudal arrangements, bourgeois property forms, and their successors enter the account because of what each made possible for the growth of human productive capacity at a given stage. Readers who want the theory itself set out in full should begin with the [historical materialism complete guide](/2010/01/15/historical-materialism-complete-guide/), which treats the doctrine as a whole; the concern here is narrower and more exacting. The concern here is the logical shape of one kind of claim inside that doctrine, the philosopher who rebuilt the claim in its strongest form, the colleague who identified the missing piece in the rebuilding, and the slow, documented withdrawal of confidence that followed.
 

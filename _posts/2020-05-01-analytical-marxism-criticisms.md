@@ -6,15 +6,15 @@ date: 2020-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Analytical Marxism", "Critique", "Methodology", "Political Theory"]
 excerpt: "Analytical Marxism is graded here by its own standards and found inconsistent: the criticisms ledger and the internal inconsistency at the school's centre."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 179
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-05-01
+lang: en
 ---
-
 Analytical Marxism attracts criticism from two directions that rarely meet, and a reader who hears only one of them receives half an education. From outside, classical Marxists object that the school's modelling habits smuggled foreign assumptions into Marxist questions, so that its negative conclusions were purchased in advance by its premises. From inside, a harder charge circulates among the school's own members and sympathisers: the current demanded clarity, argument and testability from everyone else, yet the defence of functional explanation in its founding text was fragile by those very tests, its central methodological slogan was repeated more often than it was established, and its scientific self image coexisted with a strikingly thin record of empirical inquiry. Both directions deserve a hearing before any verdict is reached, because each exposes weaknesses the other cannot see. The external critics notice what the models leave out. The internal critics notice what the school failed to demand of itself. An assessment that stages only the first becomes polemic, and one that stages only the second becomes an in house quarrel detached from the tradition the school claimed to serve. This article keeps both in view, states what the school got right at full length, and refuses to settle the one question its partisans on either side most want settled.
 
-![A seminar table holding the criticisms ledger beside the founding texts of analytical Marxism, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A seminar table holding the criticisms ledger beside the founding texts of analytical Marxism, Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The school itself, its membership and its constructive achievements are treated in the companion guide to [analytical Marxism complete guide](/2020/01/01/analytical-marxism-complete-guide/), and readers who need the narrative of the September Group, the founding texts and the sequence of abandonments will find it there. This article presupposes that material without rehearsing it, because its business is different: not what the school built, but where the building failed inspection, and by whose measuring instruments. The comparison with the classical tradition it broke from is developed in [analytical vs classical Marxism](/2020/04/01/analytical-vs-classical-marxism/), and the present assessment borrows that comparison only where a criticism cannot be stated without it. Keeping the territories separate matters for fairness. A criticism lands differently when its target is a method, a model, a conclusion or a career, and much of the published quarrelling around this school consists of parties answering charges that were never quite the charges made. The ledger format adopted below exists to prevent that slippage, by fixing each objection to its source, its best reply and a verdict that carries its own condition of defeat.
 
