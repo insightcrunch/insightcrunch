@@ -239,3 +239,7 @@
 ## nightjar-scour-crossing-016
 - _posts/2026-11-15-nightjar-foundry-list-015.md - could carry: "The seller protected for nine years sent the alloy onward on paper that ended at a crossing into the Scour, where the destination had a seal, a title and no existence anywhere else."
 - _posts/2026-11-14-nightjar-carrowmere-run-014.md - could carry: "The list a clerk carried out of her family's foundry fed a chain whose last road ran past a customs post that stamped convoys which never passed, toward an apron no manifest had ever named."
+
+## how-federal-reserve-master-accounts-work
+- _posts/2026-10-04-how-contactless-payments-work.md — could carry: "A tap at a terminal ends as a balance moving between master accounts at a Reserve Bank, and the guide to how Federal Reserve master accounts work explains that settlement layer underneath the tap."
+- _posts/2026-10-03-how-government-cash-payments-work.md — could carry: "A stimulus payment reaches a household because the paying and receiving banks settle across their master accounts, and the guide to how Federal Reserve master accounts work sets out how that settlement is made final."

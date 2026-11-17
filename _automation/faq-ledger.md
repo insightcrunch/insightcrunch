@@ -1444,3 +1444,27 @@ bad-cinematography-film-look-mak | how-cinematography-works | What makes cinemat
 camera-change-cinematography-portable-with | how-cinematography-works | How did cinematography change with portable cameras?
 change-cinematograph-mean-same-script | how-cinematography-works | Can a cinematographer change the meaning of the same script?
 beginn-cinematography-film-learn-study | how-cinematography-works | How can a beginner learn to study cinematography in films?
+
+## economics-master-account
+
+### how-federal-reserve-master-accounts-work
+account-federal-master-reserve-simple-term | how-federal-reserve-master-accounts-work | What is a Federal Reserve master account in simple terms?
+account-account-bank-different-master-regular | how-federal-reserve-master-accounts-work | How is a master account different from a regular bank account?
+account-bank-eligible-federal-master-reserve | how-federal-reserve-master-accounts-work | Which banks are eligible for a Federal Reserve master account?
+1980-acces-account-act-control-matter-monetary | how-federal-reserve-master-accounts-work | What is the Monetary Control Act of 1980 and why does it matter for account access?
+acces-account-bank-give-master-servic | how-federal-reserve-master-accounts-work | What services does a master account give a bank access to?
+fedwire-payment-settle | how-federal-reserve-master-accounts-work | What is Fedwire and how does it settle payments?
+account-bank-correspondent-master-substitute | how-federal-reserve-master-accounts-work | What is a correspondent bank and how does it substitute for a master account?
+acces-account-federal-guidelin-reserve-three-tier | how-federal-reserve-master-accounts-work | What are the three tiers in the Federal Reserve account access guidelines?
+bank-custodia-federal-reserve-sue | how-federal-reserve-master-accounts-work | Why did Custodia Bank sue the Federal Reserve?
+case-circuit-custodia-decide-tenth | how-federal-reserve-master-accounts-work | What did the Tenth Circuit decide in the Custodia case?
+account-bank-deny-eligible-federal-legally-master-reserve | how-federal-reserve-master-accounts-work | Can the Federal Reserve deny a master account to a legally eligible bank?
+acces-account-between-difference-discount-master-window | how-federal-reserve-master-accounts-work | What is the difference between a master account and discount window access?
+balanc-begin-federal-interest-pay-reserve-reserve | how-federal-reserve-master-accounts-work | Why did the Federal Reserve begin paying interest on reserve balances?
+daylight-federal-overdraft-reserve | how-federal-reserve-master-accounts-work | What is a daylight overdraft at the Federal Reserve?
+account-bank-fail-happen-master | how-federal-reserve-master-accounts-work | What happens to a master account when a bank fails?
+bank-federal-model-narrow-reserve-resist | how-federal-reserve-master-accounts-work | What is a narrow bank and why did the Federal Reserve resist the model?
+account-bank-central-countri-decide-other-settlement | how-federal-reserve-master-accounts-work | How do central banks in other countries decide who gets a settlement account?
+depository-institution-purpose-special | how-federal-reserve-master-accounts-work | What is a special purpose depository institution?
+account-before-federal-grant-reserve-risk-weigh | how-federal-reserve-master-accounts-work | What risks does the Federal Reserve weigh before granting an account?
+account-application-decide-long-master-take | how-federal-reserve-master-accounts-work | How long does a master account application take to decide?
