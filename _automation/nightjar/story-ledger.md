@@ -359,3 +359,25 @@ spine notch:              Rung fifteen. The alloy is made in four places and sol
 characters:               Mira Kovac, Petra Dunmore, Reni Vosk, Teodor Bask (new), Ilyan Court (new, returns in 023)
 canon written back:       Three facts under Established canon, each numbered 015: Teodor Bask and his decade of carefulness at the protected foundry in Dravin; Ilyan Court, the Dravin ministry undersecretary paid for nine years under a routine notification order; the four foundries that can make the alloy, their table of capacity, night running and inspection history, and the fourth line's night running read at the pour floor edge
 callbacks:                011, 013 and 014, three internal links, to the doors in Valtessa whose perfect seals had held nothing behind them, to the bound load on a border station whose binding could not be felt where it sat, and to a foundry yard where three crates of forty read as nothing and shared one stamp
+
+## Installment 016
+slug:                     nightjar-scour-crossing-016
+published:                2026-11-16
+story span:               Three days in the Twenty Ninth Session, from Oule stamping a manifest for a convoy that was not there to Harrand's signature on a page dated yesterday
+arc:                      The Alloy, case 6
+case type:                Forgery or disinformation
+words:                    22635
+outcome:                  partial. The provenance breaks and the route survives
+cost paid:                Ninety minutes of personal jeopardy, a formal reprimand from Harrand that Harrand wrote before the crossing, and the knowledge that the reprimand was prepared in advance
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the reprimand written before she crossed, carried on the reprimand page itself
+clues planted:            The snow record of pass closures produced at tasking; the paper crossing's own returns giving four vehicles a week; the manifests' uniformity, seals whole at the first strike and signatures keeping their relative positions sheet after sheet; the destination absent from every survey, carrier registry, wardens' return and gazetteer the Office could consult; the crossing table of three routes against season, capacity and manifest count; the hut's named anchors, stamp desk, barrier beam and stone threshold; the patrol note describing a poured apron inside the Scour; the ninety minute window fixed at tasking
+capabilities established: The hut read at its named anchors giving a year of quiet and no convoy ever (anchors named in Ground truth, read in The collapse); the apron read giving forty vehicle movements in a month and nothing of who (apron established at Tasking by the patrol note, read in Pressure); the snow record consulted as a document (Tasking, The collapse); the destination searched against surveys, registries and the gazetteer (Ground truth)
+damage carried:           In: Rann's family from 014, ten years from 015. Adds: ninety minutes of personal jeopardy and a reprimand written before the act
+endurance:                entering reduced; low at the pressure beat, which costs her the far end of the route
+legend beat:              none
+close consumed:           The snow record, the crossing table, the destination search, the hut read and its year of quiet, and the apron read and its forty movements in a month; every one established earlier in this same installment
+false lead:               Elsewhere. A second crossing eighty miles north fits every manifest on its face; the reading dies on the snow record, which shows it snowed shut for five of the nine months in question while the manifests run unbroken through those months
+spine notch:              Rung sixteen. The seller's chain runs into the Scour, where the Accord has no standing, and someone chose that deliberately
+characters:               Mira Kovac, Tomas Rask, Ilse Harrand, Arvo Leyden, Bren Oule (new)
+canon written back:       Three facts under Established canon, each numbered 016: Bren Oule, customs officer at the paper crossing, who stamps manifests for convoys that do not pass and was left at his post under watch; the paper country, a settlement, receiving depot and authority named on the manifests that do not exist, whose voiding broke the alloy's provenance; the loading apron inside the Scour, reached by an unmarked track, giving forty vehicle movements in a month, with the route running three hundred miles on where the Accord cannot act
+callbacks:                013, 014 and 015, three internal links, to the bound load on a border station whose binding could not be felt where it sat, to a foundry yard where three crates of forty read as nothing and shared one stamp, and to the one seller protected for nine years by a warning that arrived before its cause

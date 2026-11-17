@@ -235,3 +235,7 @@
 ## how-chapter-7-liquidation-works
 - _posts/2026-10-22-how-prepackaged-bankruptcy-works.md — could carry: "A prepackaged case is built to save the firm, and the guide to how Chapter 7 liquidation works sets out the opposite machine, in which a trustee sells the assets and pays a statutory queue."
 - _posts/2026-11-06-how-corporate-spin-offs-work.md — could carry: "A spin-off divides a company by design, and the guide to how Chapter 7 liquidation works explains how a company's assets are divided by a trustee when no design survives."
+
+## nightjar-scour-crossing-016
+- _posts/2026-11-15-nightjar-foundry-list-015.md - could carry: "The seller protected for nine years sent the alloy onward on paper that ended at a crossing into the Scour, where the destination had a seal, a title and no existence anywhere else."
+- _posts/2026-11-14-nightjar-carrowmere-run-014.md - could carry: "The list a clerk carried out of her family's foundry fed a chain whose last road ran past a customs post that stamped convoys which never passed, toward an apron no manifest had ever named."
