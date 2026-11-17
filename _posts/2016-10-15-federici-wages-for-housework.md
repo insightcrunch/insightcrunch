@@ -9,7 +9,7 @@ excerpt: "Federici turned a wage demand into a lever against unwaged work itself
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 143
 author: "chloe-martin"
-last_updated: 2016-10-15
+last_updated: 2026-11-17
 lang: en
 ---
 Silvia Federici is an Italian-American feminist theorist formed in the autonomist current of Marxism, and her reputation rests on two contributions that this profile keeps separate because they stand or fall separately. The first is a political campaign of the nineteen seventies, wages for housework, which she helped to build on two continents and whose logic is persistently misread as a proposal to pay housewives. The second is a historical thesis, set out in her book Caliban and the Witch of 2004, which argues that the early modern persecution of women as witches belonged to the process by which capitalism took control of reproduction. Both contributions are contested, and the contests are of different kinds: fellow feminists disputed the campaign's demand at the time, on grounds this profile states from named critics, while historians of the early modern period dispute the book's chronology, geography, and casualty scale on evidence that can be checked in the trial records.

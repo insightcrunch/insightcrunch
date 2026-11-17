@@ -9,7 +9,7 @@ excerpt: "Cascading failures turn one failed server into a platform-wide outage:
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 80
 author: "jason-mckenzie"
-last_updated: 2026-11-14
+last_updated: 2026-11-17
 lang: en
 ---
 ## One Failed Server Is a Rounding Error Until It Is Not

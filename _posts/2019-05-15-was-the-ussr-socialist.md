@@ -9,7 +9,7 @@ excerpt: "Was the USSR socialist? Five positions divide on a single criterion: t
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 170
 author: "chloe-martin"
-last_updated: 2019-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 Was the USSR socialist? The honest answer arrives in two parts, because the question conceals two different tests and the Soviet system passes one while failing the other. Apply the test of property form, asking who held legal title to factories, land, mines and banks, and the system was plainly not capitalist: private ownership of the means of production had been abolished, no capitalist class drew income from property, and allocation ran through a plan rather than a market. Apply instead the test of producer control, asking whether the people who worked in those factories decided what was made, how, and to what end, while the system was, just as plainly, not socialist on any account its defenders or its critics have produced: a party and state apparatus decided, and producers obeyed. Every serious position in the long argument over this question can be located by watching which test it treats as decisive, and the five positions mapped in this article divide, at bottom, over that single choice.

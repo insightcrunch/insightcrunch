@@ -6,10 +6,10 @@ date:   2015-03-06
 categories: ["Leisure"]
 tags: ["gothic-fiction", "literary-comparison", "frankenstein", "wuthering-heights", "jane-eyre", "literary-analysis"]
 author: "lauren-hayes"
-excerpt: "The Gothic is not decoration. It is a structural approach that makes visible what realism cannot represent, and six classic novels prove why it matters."
+excerpt: "Why the Gothic is more than horror in classic novels: a tool for revealing psychological and social truths."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
-last_updated: 2015-03-06
+last_updated: 2026-11-17
 lang: en
 ---
 The Gothic is not a catalog of spooky props. It is a structural approach to fiction that performs specific representational work unavailable in the realist mode, making visible the repressed sexuality, unprocessed historical trauma, unconscious psychological content, and displaced social anxieties that polite narrative conventions leave buried. Six classic novels demonstrate this thesis with precision: Mary Shelley's *Frankenstein* (1818), Emily Bronte's *Wuthering Heights* (1847), Charlotte Bronte's *Jane Eyre* (1847), Bram Stoker's *Dracula* (1897), Henry James's *The Turn of the Screw* (1898), and the tales of Edgar Allan Poe. When these works are compared structurally rather than inventoried for haunted houses and madwomen, the Gothic reveals itself as one of English literature's most analytically productive traditions, one whose formal operations remain as urgent in the twenty-first century as they were in the eighteenth.

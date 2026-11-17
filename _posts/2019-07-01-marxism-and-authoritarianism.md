@@ -9,7 +9,7 @@ excerpt: "The authoritarianism charge is graded form by form in this article: th
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 172
 author: "amanda-ross"
-last_updated: 2019-07-01
+last_updated: 2026-11-17
 lang: en
 ---
 The authoritarianism charge is the most consequential criticism ever levelled at Marxism, and it is usually argued badly by both sides. Stated at full strength, it holds that every state governed in the doctrine's name became a one-party dictatorship, that this recurrence across societies differing in culture, level of development, and circumstance cannot be explained by those circumstances, and that the explanation must therefore lie in the theory itself or in the organisational form the theory generated. Stated carelessly, it becomes a slogan. Answered carelessly, with a list of invasions and blockades, it becomes a slogan in reply. This article separates the charge into its six distinct forms, grades each on its own evidence, gives the replies in ascending order of strength, and ends with a verdict that bounds the criticism rather than accepting or rejecting it whole. The strongest form of the charge is the pattern argument, and the strongest answer is not the one most often given.

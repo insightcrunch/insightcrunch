@@ -9,7 +9,7 @@ excerpt: "Dependency theory was built in institutions that were then destroyed: 
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 167
 author: "diana-patel"
-last_updated: 2019-01-15
+last_updated: 2026-11-17
 lang: en
 ---
 Dependency theory is usually introduced as a set of propositions about trade, capital, and underdevelopment, and the propositions are argued over as though they had been composed in a vacuum by solitary authors. This article takes a different object. It asks where dependency theory was physically made: in which buildings, under which employers, in argument with which colleagues sitting in the same corridor. The answer turns out to be unusually concrete. A United Nations regional commission in Santiago produced the structuralist economics from which the theory grew, and a university research centre in the same city housed its principal theorists together during the years when the radical version was formed. In September 1973 a military coup destroyed that centre and scattered its researchers across two continents. Everything about how the theory was later read, especially in English, follows from that sequence of construction and destruction.

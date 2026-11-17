@@ -5,11 +5,11 @@ page_title: "Ron vs Draco: Two Pure-Blood Boys and the Family Cultures That Made
 date: 2013-11-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ron Weasley", "Draco Malfoy", "Pure-Blood Politics"]
-excerpt: "A Harry Potter comparison of Ron Weasley and Draco Malfoy: two pure-blood boys whose family cultures, not their blood, produced opposite definitions of worth."
+excerpt: "Two pure-blood boys, two definitions of family worth, and the cultures that shaped their entirely different lives."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 41
 author: "emily-reed"
-last_updated: 2013-11-21
+last_updated: 2026-11-17
 lang: en
 ---
 ## Introduction: Why This Comparison Matters

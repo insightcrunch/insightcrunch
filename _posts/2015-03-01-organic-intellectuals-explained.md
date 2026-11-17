@@ -9,7 +9,7 @@ excerpt: "Organic intellectuals are defined by function, not by schooling: every
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 128
 author: "diana-patel"
-last_updated: 2015-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 Few terms in the vocabulary of Marxist theory have travelled as far from their original meaning as organic intellectuals. In education faculties, in cultural studies, and in a great deal of activist writing, the phrase now serves as a compliment: it praises the scholar who came from a poor background, the academic who marches with movements, the writer whose sympathies lie with the marginalised. Each of those usages answers a question about a person, where they started in life or where their loyalties sit, and each therefore misses the thing the concept was built to name. In the prison notebooks of Antonio Gramsci, the category answers a question about a position inside a structure: what organising work is being performed, and for which class is it performed? The distance between the two usages is total. On the functional definition, a corporate lawyer and an industrial engineer are organic intellectuals of capital in exactly the sense the term specifies, needing no apology and no inverted commas. A professor born into a mining family may be nothing of the kind, whatever the compliment intends.

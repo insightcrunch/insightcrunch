@@ -9,7 +9,7 @@ excerpt: "Latin America in an exam rewards the two anchors: a case and a concept
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 168
 author: "amanda-ross"
-last_updated: 2019-02-15
+last_updated: 2026-11-17
 lang: en
 ---
 Latin America is examined wherever the twentieth century is examined, and a candidate who understands where the region sits in each paper has already solved half the problem of writing on it. History papers meet the material inside the Cold War and decolonisation: a revolution in Cuba that changed sides in the hemisphere's alignment, a constitutional road attempted in Chile and destroyed by a coup, insurgencies and counterinsurgencies across a continent. Politics and international relations papers meet it as theory and strategy: the dependency school's account of why development stalls, and the long argument between the armed road and the electoral road. Development studies meets it as the region that produced the most influential critique of development itself. Courses in Latin American studies meet it whole, as a tradition. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.

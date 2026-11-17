@@ -3,10 +3,10 @@ layout: post
 title: "Han Dynasty: China's Golden Age Explained"
 page_title: "Han Dynasty: Why China's Golden Age Created the Template Every Subsequent Dynasty Copied"
 date: 2015-06-19
-last_updated: 2015-06-19
+last_updated: 2026-11-17
 slug: han-dynasty-china-golden-age
 author: "amanda-ross"
-excerpt: "The Han Dynasty is called China's golden age because it created the institutional template every subsequent Chinese dynasty copied for over 2,000 years."
+excerpt: "Why the Han Dynasty mattered: the bureaucracy, the trade routes, and the model that shaped Chinese rule for centuries."
 image: "/assets/images/blog/blog-14.webp"
 categories: ["Leisure"]
 tags: ["han-dynasty", "ancient-china", "confucianism", "chinese-golden-age", "silk-road", "ancient-history"]

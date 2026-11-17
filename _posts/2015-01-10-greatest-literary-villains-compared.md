@@ -3,8 +3,8 @@ layout: post
 title: "Greatest Villains in Classic Literature"
 page_title: "The Greatest Villains in Classic Literature Compared - From Iago to Big Brother to Heathcliff and What Makes a Truly Great Literary Antagonist"
 date: 2015-01-10
-last_updated: 2015-01-10
-excerpt: "Great literary villains are not one type. The villain-taxonomy runs from motiveless malignancy through systemic abstraction; the typology is the subject."
+last_updated: 2026-11-17
+excerpt: "From Heathcliff to Kurtz to Iago: classic literature's most enduring villains compared on every dimension that matters."
 categories: ["Leisure"]
 tags: ["literary-villains", "character-analysis", "literary-comparison", "classic-literature", "literary-analysis", "antagonists"]
 image: "/assets/images/blog/blog-114.webp"

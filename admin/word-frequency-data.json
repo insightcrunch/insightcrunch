@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-13T14:17:39Z",
+  "generated": "2026-11-17T15:44:47Z",
   "threshold": 50,
-  "totalPosts": 5750,
-  "flaggedPosts": 3401,
+  "totalPosts": 5889,
+  "flaggedPosts": 3425,
   "suppressedPosts": 13,
   "stalePosts": 0,
-  "worstWord": "向量",
-  "worstCount": 612,
-  "worstPost": "高考数学向量深度解析:平面向量、数量积、空间向量与几何应用",
-  "avgTopCount": 171.7,
+  "worstWord": "doctrine",
+  "worstCount": 675,
+  "worstPost": "Socialism With Chinese Characteristics",
+  "avgTopCount": 173.4,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -121015,6 +121015,24 @@
       ]
     },
     {
+      "filename": "2014-03-01-lenin-intellectual-biography.md",
+      "slug": "lenin-intellectual-biography",
+      "title": "Lenin: An Intellectual Biography",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13127,
+      "topWord": "party",
+      "topCount": 156,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-01-lenin-intellectual-biography.md"
+    },
+    {
       "filename": "2014-03-01-muhammad-ali-and-modern-egypt.md",
       "slug": "muhammad-ali-and-modern-egypt",
       "title": "Muhammad Ali and the Birth of Modern Egypt Explained",
@@ -121731,6 +121749,112 @@
       ]
     },
     {
+      "filename": "2014-03-15-what-is-to-be-done-readers-guide.md",
+      "slug": "what-is-to-be-done-readers-guide",
+      "title": "What Is to Be Done? A Reader's Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 12860,
+      "topWord": "pamphlet",
+      "topCount": 307,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-15-what-is-to-be-done-readers-guide.md",
+      "flaggedWords": [
+        {
+          "word": "pamphlet",
+          "count": 307
+        }
+      ],
+      "top20": [
+        {
+          "word": "pamphlet",
+          "count": 307
+        },
+        {
+          "word": "movement",
+          "count": 149
+        },
+        {
+          "word": "party",
+          "count": 121
+        },
+        {
+          "word": "author",
+          "count": 121
+        },
+        {
+          "word": "text",
+          "count": 119
+        },
+        {
+          "word": "lenin",
+          "count": 97
+        },
+        {
+          "word": "argument",
+          "count": 92
+        },
+        {
+          "word": "guide",
+          "count": 82
+        },
+        {
+          "word": "class",
+          "count": 80
+        },
+        {
+          "word": "russian",
+          "count": 69
+        },
+        {
+          "word": "reader",
+          "count": 68
+        },
+        {
+          "word": "doctrine",
+          "count": 65
+        },
+        {
+          "word": "reading",
+          "count": 62
+        },
+        {
+          "word": "consciousness",
+          "count": 61
+        },
+        {
+          "word": "conditions",
+          "count": 60
+        },
+        {
+          "word": "read",
+          "count": 58
+        },
+        {
+          "word": "whose",
+          "count": 58
+        },
+        {
+          "word": "workers",
+          "count": 56
+        },
+        {
+          "word": "theory",
+          "count": 56
+        },
+        {
+          "word": "political",
+          "count": 55
+        }
+      ]
+    },
+    {
       "filename": "2014-03-15-yellowstone-best-hikes.md",
       "slug": "yellowstone-best-hikes",
       "title": "Best Hikes in Yellowstone for Every Level",
@@ -122349,6 +122473,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-01-muhammad-ali-pasha-of-egypt.md"
     },
     {
+      "filename": "2014-04-01-vanguard-party-explained.md",
+      "slug": "vanguard-party-explained",
+      "title": "The Vanguard Party Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13414,
+      "topWord": "party",
+      "topCount": 289,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-01-vanguard-party-explained.md",
+      "flaggedWords": [
+        {
+          "word": "party",
+          "count": 289
+        }
+      ],
+      "top20": [
+        {
+          "word": "party",
+          "count": 289
+        },
+        {
+          "word": "model",
+          "count": 136
+        },
+        {
+          "word": "vanguard",
+          "count": 117
+        },
+        {
+          "word": "class",
+          "count": 99
+        },
+        {
+          "word": "conditions",
+          "count": 98
+        },
+        {
+          "word": "organisation",
+          "count": 89
+        },
+        {
+          "word": "lenin",
+          "count": 87
+        },
+        {
+          "word": "parties",
+          "count": 77
+        },
+        {
+          "word": "argument",
+          "count": 76
+        },
+        {
+          "word": "itself",
+          "count": 74
+        },
+        {
+          "word": "claim",
+          "count": 73
+        },
+        {
+          "word": "movement",
+          "count": 71
+        },
+        {
+          "word": "leadership",
+          "count": 62
+        },
+        {
+          "word": "mass",
+          "count": 50
+        },
+        {
+          "word": "russian",
+          "count": 50
+        },
+        {
+          "word": "centre",
+          "count": 49
+        },
+        {
+          "word": "article",
+          "count": 49
+        },
+        {
+          "word": "critics",
+          "count": 48
+        },
+        {
+          "word": "whose",
+          "count": 47
+        },
+        {
+          "word": "inside",
+          "count": 46
+        }
+      ]
+    },
+    {
       "filename": "2014-04-01-yellowstone-wildlife-watching-guide.md",
       "slug": "yellowstone-wildlife-watching-guide",
       "title": "Where to See Wildlife in Yellowstone",
@@ -122707,6 +122937,112 @@
         {
           "word": "bill",
           "count": 65
+        }
+      ]
+    },
+    {
+      "filename": "2014-04-15-lenin-imperialism-readers-guide.md",
+      "slug": "lenin-imperialism-readers-guide",
+      "title": "Lenin on Imperialism: A Reader's Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13496,
+      "topWord": "pamphlet",
+      "topCount": 315,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-15-lenin-imperialism-readers-guide.md",
+      "flaggedWords": [
+        {
+          "word": "pamphlet",
+          "count": 315
+        }
+      ],
+      "top20": [
+        {
+          "word": "pamphlet",
+          "count": 315
+        },
+        {
+          "word": "lenin",
+          "count": 179
+        },
+        {
+          "word": "capital",
+          "count": 125
+        },
+        {
+          "word": "text",
+          "count": 113
+        },
+        {
+          "word": "stage",
+          "count": 89
+        },
+        {
+          "word": "war",
+          "count": 84
+        },
+        {
+          "word": "guide",
+          "count": 81
+        },
+        {
+          "word": "imperialism",
+          "count": 77
+        },
+        {
+          "word": "reader",
+          "count": 77
+        },
+        {
+          "word": "author",
+          "count": 66
+        },
+        {
+          "word": "evidence",
+          "count": 64
+        },
+        {
+          "word": "feature",
+          "count": 58
+        },
+        {
+          "word": "finance",
+          "count": 58
+        },
+        {
+          "word": "features",
+          "count": 56
+        },
+        {
+          "word": "argument",
+          "count": 55
+        },
+        {
+          "word": "monopoly",
+          "count": 54
+        },
+        {
+          "word": "theory",
+          "count": 52
+        },
+        {
+          "word": "chapter",
+          "count": 51
+        },
+        {
+          "word": "whose",
+          "count": 50
+        },
+        {
+          "word": "production",
+          "count": 50
         }
       ]
     },
@@ -123615,6 +123951,24 @@
       ]
     },
     {
+      "filename": "2014-05-01-october-revolution-marxist-analysis.md",
+      "slug": "october-revolution-marxist-analysis",
+      "title": "The October Revolution: A Marxist Reading",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13201,
+      "topWord": "party",
+      "topCount": 139,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-01-october-revolution-marxist-analysis.md"
+    },
+    {
       "filename": "2014-05-01-usa-freedom-act-2015-guide.md",
       "slug": "usa-freedom-act-2015-guide",
       "title": "USA FREEDOM Act Guide: How Bulk Collection Changed",
@@ -124331,6 +124685,24 @@
       ]
     },
     {
+      "filename": "2014-05-15-was-leninism-a-break-with-marx.md",
+      "slug": "was-leninism-a-break-with-marx",
+      "title": "Was Leninism a Break With Marx?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 12850,
+      "topWord": "lenin",
+      "topCount": 131,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-15-was-leninism-a-break-with-marx.md"
+    },
+    {
       "filename": "2014-05-20-themes-symbolism-lord-of-the-flies.md",
       "slug": "themes-symbolism-lord-of-the-flies",
       "title": "Themes and Symbolism in Lord of the Flies",
@@ -124471,6 +124843,24 @@
           "count": 35
         }
       ]
+    },
+    {
+      "filename": "2014-06-01-democratic-centralism-explained.md",
+      "slug": "democratic-centralism-explained",
+      "title": "Democratic Centralism Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13556,
+      "topWord": "party",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-01-democratic-centralism-explained.md"
     },
     {
       "filename": "2014-06-01-how-muhammad-ali-modernized-egypt.md",
@@ -125077,6 +125467,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-14-themes-allegory-animal-farm-explained.md"
+    },
+    {
+      "filename": "2014-06-15-case-against-leninism.md",
+      "slug": "case-against-leninism",
+      "title": "The Case Against Leninism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13792,
+      "topWord": "party",
+      "topCount": 135,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-15-case-against-leninism.md"
     },
     {
       "filename": "2014-06-15-city-lights-chaplin-sound-and-score.md",
@@ -125785,6 +126193,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-01-fisa-vs-patriot-act-authorities.md"
     },
     {
+      "filename": "2014-07-01-lenin-vs-kautsky-debate.md",
+      "slug": "lenin-vs-kautsky-debate",
+      "title": "Lenin vs Kautsky on the Road to Power",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13234,
+      "topWord": "teacher",
+      "topCount": 241,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-01-lenin-vs-kautsky-debate.md"
+    },
+    {
       "filename": "2014-07-01-msp-procurement-legal-framework-india.md",
       "slug": "msp-procurement-legal-framework-india",
       "title": "Minimum Support Price: A Price With No Law Behind It",
@@ -126353,6 +126779,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-15-agriculture-laws-upsc-guide.md"
+    },
+    {
+      "filename": "2014-07-15-leninism-exam-answers.md",
+      "slug": "leninism-exam-answers",
+      "title": "Lenin and Leninism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13245,
+      "topWord": "answer",
+      "topCount": 190,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-15-leninism-exam-answers.md"
     },
     {
       "filename": "2014-07-15-snow-white-first-animated-feature-making.md",
@@ -127159,6 +127603,24 @@
       ]
     },
     {
+      "filename": "2014-08-01-rosa-luxemburg-intellectual-biography.md",
+      "slug": "rosa-luxemburg-intellectual-biography",
+      "title": "Rosa Luxemburg: An Intellectual Biography",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13234,
+      "topWord": "party",
+      "topCount": 147,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-01-rosa-luxemburg-intellectual-biography.md"
+    },
+    {
       "filename": "2014-08-01-trouble-in-paradise-lubitsch-touch.md",
       "slug": "trouble-in-paradise-lubitsch-touch",
       "title": "Trouble in Paradise and the Lubitsch Touch, Explained",
@@ -127815,6 +128277,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-15-no-child-left-behind-act-2001-guide.md"
+    },
+    {
+      "filename": "2014-08-15-reform-or-revolution-readers-guide.md",
+      "slug": "reform-or-revolution-readers-guide",
+      "title": "Reform or Revolution: A Reader's Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13288,
+      "topWord": "pamphlet",
+      "topCount": 196,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-15-reform-or-revolution-readers-guide.md"
     },
     {
       "filename": "2014-08-15-stagecoach-john-ford-western-landmark.md",
@@ -128645,6 +129125,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-01-king-kong-stop-motion-effects.md"
     },
     {
+      "filename": "2014-09-01-leon-trotsky-intellectual-biography.md",
+      "slug": "leon-trotsky-intellectual-biography",
+      "title": "Leon Trotsky: An Intellectual Biography",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13137,
+      "topWord": "revolution",
+      "topCount": 130,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-01-leon-trotsky-intellectual-biography.md"
+    },
+    {
       "filename": "2014-09-01-yosemite-waterfalls-guide.md",
       "slug": "yosemite-waterfalls-guide",
       "title": "Yosemite Waterfalls: When and Where to See Them",
@@ -129231,6 +129729,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-15-it-happened-one-night-screwball-structure.md"
+    },
+    {
+      "filename": "2014-09-15-permanent-revolution-explained.md",
+      "slug": "permanent-revolution-explained",
+      "title": "Permanent Revolution Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14413,
+      "topWord": "theory",
+      "topCount": 373,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-15-permanent-revolution-explained.md",
+      "flaggedWords": [
+        {
+          "word": "theory",
+          "count": 373
+        }
+      ],
+      "top20": [
+        {
+          "word": "theory",
+          "count": 373
+        },
+        {
+          "word": "revolution",
+          "count": 158
+        },
+        {
+          "word": "component",
+          "count": 151
+        },
+        {
+          "word": "democratic",
+          "count": 81
+        },
+        {
+          "word": "third",
+          "count": 77
+        },
+        {
+          "word": "workers",
+          "count": 77
+        },
+        {
+          "word": "doctrine",
+          "count": 75
+        },
+        {
+          "word": "government",
+          "count": 71
+        },
+        {
+          "word": "national",
+          "count": 68
+        },
+        {
+          "word": "class",
+          "count": 67
+        },
+        {
+          "word": "whose",
+          "count": 64
+        },
+        {
+          "word": "country",
+          "count": 62
+        },
+        {
+          "word": "permanent",
+          "count": 58
+        },
+        {
+          "word": "completion",
+          "count": 56
+        },
+        {
+          "word": "programme",
+          "count": 55
+        },
+        {
+          "word": "stage",
+          "count": 55
+        },
+        {
+          "word": "article",
+          "count": 51
+        },
+        {
+          "word": "revolutions",
+          "count": 48
+        },
+        {
+          "word": "grading",
+          "count": 48
+        },
+        {
+          "word": "tasks",
+          "count": 47
+        }
+      ]
     },
     {
       "filename": "2014-09-15-where-to-stay-yosemite.md",
@@ -130023,6 +130627,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-01-idea-special-education-law-guide.md"
     },
     {
+      "filename": "2014-10-01-uneven-and-combined-development.md",
+      "slug": "uneven-and-combined-development",
+      "title": "Uneven and Combined Development",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15153,
+      "topWord": "concept",
+      "topCount": 195,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-01-uneven-and-combined-development.md"
+    },
+    {
       "filename": "2014-10-01-yosemite-climbing-adventure-guide.md",
       "slug": "yosemite-climbing-adventure-guide",
       "title": "Climbing and Adventure in Yosemite",
@@ -130471,6 +131093,24 @@
           "count": 22
         }
       ]
+    },
+    {
+      "filename": "2014-10-15-luxemburg-vs-lenin-debate.md",
+      "slug": "luxemburg-vs-lenin-debate",
+      "title": "Luxemburg vs Lenin on Party and Masses",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13523,
+      "topWord": "party",
+      "topCount": 222,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-15-luxemburg-vs-lenin-debate.md"
     },
     {
       "filename": "2014-10-15-title-ix-1972-explained.md",
@@ -131183,6 +131823,24 @@
           "count": 43
         }
       ]
+    },
+    {
+      "filename": "2014-11-01-german-revolution-marxist-analysis.md",
+      "slug": "german-revolution-marxist-analysis",
+      "title": "The German Revolution and Its Defeat",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15620,
+      "topWord": "council",
+      "topCount": 157,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-01-german-revolution-marxist-analysis.md"
     },
     {
       "filename": "2014-11-01-grand-canyon-national-park-complete-guide.md",
@@ -132077,6 +132735,24 @@
       ]
     },
     {
+      "filename": "2014-11-15-trotskyism-vs-stalinism.md",
+      "slug": "trotskyism-vs-stalinism",
+      "title": "Trotskyism vs Stalinism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14089,
+      "topWord": "party",
+      "topCount": 111,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-15-trotskyism-vs-stalinism.md"
+    },
+    {
       "filename": "2014-11-16-complete-analysis-fahrenheit-451.md",
       "slug": "complete-analysis-fahrenheit-451",
       "title": "Complete Analysis of Fahrenheit 451",
@@ -132557,6 +133233,24 @@
           "count": 39
         }
       ]
+    },
+    {
+      "filename": "2014-12-01-fourth-international-legacy.md",
+      "slug": "fourth-international-legacy",
+      "title": "The Fourth International and Its Legacy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14083,
+      "topWord": "movement",
+      "topCount": 260,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-01-fourth-international-legacy.md"
     },
     {
       "filename": "2014-12-01-grand-canyon-best-time-to-visit.md",
@@ -133049,6 +133743,24 @@
       ]
     },
     {
+      "filename": "2014-12-15-luxemburg-trotsky-exam-answers.md",
+      "slug": "luxemburg-trotsky-exam-answers",
+      "title": "Luxemburg and Trotsky: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14767,
+      "topWord": "nineteen",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-15-luxemburg-trotsky-exam-answers.md"
+    },
+    {
       "filename": "2014-12-15-teaching-federal-education-policy.md",
       "slug": "teaching-federal-education-policy",
       "title": "Teaching Federal Education Policy: Conditional Spending",
@@ -133511,6 +134223,24 @@
           "count": 33
         }
       ]
+    },
+    {
+      "filename": "2015-01-01-antonio-gramsci-intellectual-biography.md",
+      "slug": "antonio-gramsci-intellectual-biography",
+      "title": "Antonio Gramsci: An Intellectual Biography",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13409,
+      "topWord": "notebooks",
+      "topCount": 158,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-01-antonio-gramsci-intellectual-biography.md"
     },
     {
       "filename": "2015-01-01-british-occupation-of-egypt.md",
@@ -134457,6 +135187,24 @@
       ]
     },
     {
+      "filename": "2015-01-15-gramsci-hegemony-complete-guide.md",
+      "slug": "gramsci-hegemony-complete-guide",
+      "title": "Hegemony: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14445,
+      "topWord": "hegemony",
+      "topCount": 252,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-15-gramsci-hegemony-complete-guide.md"
+    },
+    {
       "filename": "2015-01-15-grand-canyon-south-rim-hikes.md",
       "slug": "grand-canyon-south-rim-hikes",
       "title": "Grand Canyon South Rim Hikes for All Abilities",
@@ -135043,6 +135791,24 @@
           "count": 31
         }
       ]
+    },
+    {
+      "filename": "2015-02-01-prison-notebooks-readers-guide.md",
+      "slug": "prison-notebooks-readers-guide",
+      "title": "The Prison Notebooks: A Reader's Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13839,
+      "topWord": "edition",
+      "topCount": 220,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-02-01-prison-notebooks-readers-guide.md"
     },
     {
       "filename": "2015-02-01-rte-25-percent-quota-implementation.md",
@@ -135813,6 +136579,24 @@
       ]
     },
     {
+      "filename": "2015-02-15-war-of-position-and-manoeuvre.md",
+      "slug": "war-of-position-and-manoeuvre",
+      "title": "War of Position and War of Manoeuvre",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13855,
+      "topWord": "war",
+      "topCount": 196,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-02-15-war-of-position-and-manoeuvre.md"
+    },
+    {
       "filename": "2015-02-15-where-to-stay-grand-canyon.md",
       "slug": "where-to-stay-grand-canyon",
       "title": "Where to Stay at the Grand Canyon",
@@ -136295,6 +137079,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-01-ncte-act-teacher-education-india.md"
     },
     {
+      "filename": "2015-03-01-organic-intellectuals-explained.md",
+      "slug": "organic-intellectuals-explained",
+      "title": "Organic Intellectuals Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14504,
+      "topWord": "class",
+      "topCount": 313,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-01-organic-intellectuals-explained.md",
+      "flaggedWords": [
+        {
+          "word": "class",
+          "count": 313
+        }
+      ],
+      "top20": [
+        {
+          "word": "class",
+          "count": 313
+        },
+        {
+          "word": "stratum",
+          "count": 201
+        },
+        {
+          "word": "intellectual",
+          "count": 180
+        },
+        {
+          "word": "function",
+          "count": 169
+        },
+        {
+          "word": "whose",
+          "count": 136
+        },
+        {
+          "word": "organic",
+          "count": 109
+        },
+        {
+          "word": "intellectuals",
+          "count": 108
+        },
+        {
+          "word": "notebooks",
+          "count": 101
+        },
+        {
+          "word": "category",
+          "count": 93
+        },
+        {
+          "word": "traditional",
+          "count": 91
+        },
+        {
+          "word": "apparatus",
+          "count": 80
+        },
+        {
+          "word": "position",
+          "count": 79
+        },
+        {
+          "word": "organisers",
+          "count": 75
+        },
+        {
+          "word": "itself",
+          "count": 69
+        },
+        {
+          "word": "scheme",
+          "count": 69
+        },
+        {
+          "word": "gramsci",
+          "count": 59
+        },
+        {
+          "word": "movement",
+          "count": 59
+        },
+        {
+          "word": "formation",
+          "count": 58
+        },
+        {
+          "word": "party",
+          "count": 57
+        },
+        {
+          "word": "organising",
+          "count": 56
+        }
+      ]
+    },
+    {
       "filename": "2015-03-01-race-justice-american-novels.md",
       "slug": "race-justice-american-novels",
       "title": "Race and Justice in Classic American Novels",
@@ -136759,6 +137649,120 @@
         {
           "word": "chancellor",
           "count": 51
+        }
+      ]
+    },
+    {
+      "filename": "2015-03-15-gramsci-on-civil-society.md",
+      "slug": "gramsci-on-civil-society",
+      "title": "Gramsci on Civil Society",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14526,
+      "topWord": "society",
+      "topCount": 412,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-15-gramsci-on-civil-society.md",
+      "flaggedWords": [
+        {
+          "word": "society",
+          "count": 412
+        },
+        {
+          "word": "civil",
+          "count": 333
+        },
+        {
+          "word": "gramsci",
+          "count": 304
+        }
+      ],
+      "top20": [
+        {
+          "word": "society",
+          "count": 412
+        },
+        {
+          "word": "civil",
+          "count": 333
+        },
+        {
+          "word": "gramsci",
+          "count": 304
+        },
+        {
+          "word": "consent",
+          "count": 153
+        },
+        {
+          "word": "concept",
+          "count": 135
+        },
+        {
+          "word": "institutions",
+          "count": 125
+        },
+        {
+          "word": "political",
+          "count": 104
+        },
+        {
+          "word": "notebooks",
+          "count": 102
+        },
+        {
+          "word": "terrain",
+          "count": 75
+        },
+        {
+          "word": "marx",
+          "count": 67
+        },
+        {
+          "word": "school",
+          "count": 57
+        },
+        {
+          "word": "sense",
+          "count": 57
+        },
+        {
+          "word": "integral",
+          "count": 56
+        },
+        {
+          "word": "institution",
+          "count": 54
+        },
+        {
+          "word": "theory",
+          "count": 53
+        },
+        {
+          "word": "analysis",
+          "count": 51
+        },
+        {
+          "word": "whose",
+          "count": 51
+        },
+        {
+          "word": "article",
+          "count": 50
+        },
+        {
+          "word": "relocation",
+          "count": 50
+        },
+        {
+          "word": "superstructure",
+          "count": 47
         }
       ]
     },
@@ -137539,6 +138543,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-04-01-family-leave-law-workforce-impact.md"
     },
     {
+      "filename": "2015-04-01-gramsci-and-modern-politics.md",
+      "slug": "gramsci-and-modern-politics",
+      "title": "Gramsci and Modern Political Strategy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14146,
+      "topWord": "question",
+      "topCount": 124,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-04-01-gramsci-and-modern-politics.md"
+    },
+    {
       "filename": "2015-04-01-iim-act-2017-autonomy-explained.md",
       "slug": "iim-act-2017-autonomy-explained",
       "title": "The IIM Act 2017: Autonomy Granted and Then Retrieved",
@@ -138221,6 +139243,24 @@
           "count": 40
         }
       ]
+    },
+    {
+      "filename": "2015-04-15-gramsci-vs-althusser.md",
+      "slug": "gramsci-vs-althusser",
+      "title": "Gramsci vs Althusser on Ideology",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14107,
+      "topWord": "gramsci",
+      "topCount": 209,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-04-15-gramsci-vs-althusser.md"
     },
     {
       "filename": "2015-04-15-how-to-write-literary-analysis-essay.md",
@@ -139049,6 +140089,24 @@
       ]
     },
     {
+      "filename": "2015-05-01-gramsci-reception-and-misreadings.md",
+      "slug": "gramsci-reception-and-misreadings",
+      "title": "How Gramsci Was Read and Misread",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14192,
+      "topWord": "notebooks",
+      "topCount": 177,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-05-01-gramsci-reception-and-misreadings.md"
+    },
+    {
       "filename": "2015-05-01-zion-best-time-to-visit.md",
       "slug": "zion-best-time-to-visit",
       "title": "Best Time to Visit Zion National Park",
@@ -139707,6 +140765,24 @@
       ]
     },
     {
+      "filename": "2015-05-15-gramsci-exam-answers.md",
+      "slug": "gramsci-exam-answers",
+      "title": "Gramsci and Hegemony: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14969,
+      "topWord": "candidate",
+      "topCount": 222,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-05-15-gramsci-exam-answers.md"
+    },
+    {
       "filename": "2015-05-15-us-labor-legislation-since-1950.md",
       "slug": "us-labor-legislation-since-1950",
       "title": "US Labor Legislation: From Unions to Individual Rights",
@@ -140169,6 +141245,24 @@
           "count": 52
         }
       ]
+    },
+    {
+      "filename": "2015-06-01-frankfurt-school-complete-guide.md",
+      "slug": "frankfurt-school-complete-guide",
+      "title": "The Frankfurt School: A Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15298,
+      "topWord": "school",
+      "topCount": 302,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-06-01-frankfurt-school-complete-guide.md"
     },
     {
       "filename": "2015-06-01-health-laws-india-complete-guide.md",
@@ -140879,6 +141973,24 @@
       ]
     },
     {
+      "filename": "2015-06-15-theodor-adorno-intellectual-profile.md",
+      "slug": "theodor-adorno-intellectual-profile",
+      "title": "Theodor Adorno: An Intellectual Profile",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14013,
+      "topWord": "adorno",
+      "topCount": 135,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-06-15-theodor-adorno-intellectual-profile.md"
+    },
+    {
       "filename": "2015-06-15-zion-best-hikes.md",
       "slug": "zion-best-hikes",
       "title": "Zion Hikes From Easy Walks to Angels Landing",
@@ -141319,6 +142431,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-06-29-fall-of-roman-empire-causes.md"
+    },
+    {
+      "filename": "2015-07-01-dialectic-of-enlightenment-guide.md",
+      "slug": "dialectic-of-enlightenment-guide",
+      "title": "Dialectic of Enlightenment: A Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14365,
+      "topWord": "book",
+      "topCount": 301,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-07-01-dialectic-of-enlightenment-guide.md",
+      "flaggedWords": [
+        {
+          "word": "book",
+          "count": 301
+        }
+      ],
+      "top20": [
+        {
+          "word": "book",
+          "count": 301
+        },
+        {
+          "word": "guide",
+          "count": 119
+        },
+        {
+          "word": "fragments",
+          "count": 117
+        },
+        {
+          "word": "enlightenment",
+          "count": 112
+        },
+        {
+          "word": "reader",
+          "count": 112
+        },
+        {
+          "word": "authors",
+          "count": 105
+        },
+        {
+          "word": "chapter",
+          "count": 86
+        },
+        {
+          "word": "culture",
+          "count": 84
+        },
+        {
+          "word": "itself",
+          "count": 83
+        },
+        {
+          "word": "reading",
+          "count": 80
+        },
+        {
+          "word": "industry",
+          "count": 79
+        },
+        {
+          "word": "self",
+          "count": 75
+        },
+        {
+          "word": "essay",
+          "count": 71
+        },
+        {
+          "word": "readers",
+          "count": 68
+        },
+        {
+          "word": "reason",
+          "count": 66
+        },
+        {
+          "word": "argument",
+          "count": 61
+        },
+        {
+          "word": "theses",
+          "count": 59
+        },
+        {
+          "word": "excursus",
+          "count": 58
+        },
+        {
+          "word": "text",
+          "count": 49
+        },
+        {
+          "word": "civilisation",
+          "count": 48
+        }
+      ]
     },
     {
       "filename": "2015-07-01-maltese-falcon-first-film-noir-influence.md",
@@ -141947,6 +143165,24 @@
           "count": 57
         }
       ]
+    },
+    {
+      "filename": "2015-07-15-culture-industry-explained.md",
+      "slug": "culture-industry-explained",
+      "title": "The Culture Industry Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14544,
+      "topWord": "culture",
+      "topCount": 206,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-07-15-culture-industry-explained.md"
     },
     {
       "filename": "2015-07-15-mci-vs-nmc-comparison.md",
@@ -142661,6 +143897,24 @@
       ]
     },
     {
+      "filename": "2015-08-01-walter-benjamin-marxism-profile.md",
+      "slug": "walter-benjamin-marxism-profile",
+      "title": "Walter Benjamin and Mass Culture",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14541,
+      "topWord": "benjamin",
+      "topCount": 245,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-01-walter-benjamin-marxism-profile.md"
+    },
+    {
       "filename": "2015-08-01-zion-with-kids.md",
       "slug": "zion-with-kids",
       "title": "Zion With Kids: A Family Planning Guide",
@@ -143151,6 +144405,24 @@
       ]
     },
     {
+      "filename": "2015-08-15-marcuse-one-dimensional-man-guide.md",
+      "slug": "marcuse-one-dimensional-man-guide",
+      "title": "Marcuse and One-Dimensional Man",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14353,
+      "topWord": "marcuse",
+      "topCount": 174,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-15-marcuse-one-dimensional-man-guide.md"
+    },
+    {
       "filename": "2015-08-15-mtp-amendment-act-2021-explained.md",
       "slug": "mtp-amendment-act-2021-explained",
       "title": "MTP Amendment Act 2021 Explained: Limits and Categories",
@@ -143363,6 +144635,24 @@
           "count": 24
         }
       ]
+    },
+    {
+      "filename": "2015-09-01-critical-theory-vs-classical-marxism.md",
+      "slug": "critical-theory-vs-classical-marxism",
+      "title": "Critical Theory vs Classical Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14841,
+      "topWord": "theory",
+      "topCount": 266,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-01-critical-theory-vs-classical-marxism.md"
     },
     {
       "filename": "2015-09-01-egypt-king-farouk-world-war-two.md",
@@ -143663,6 +144953,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-15-ada-compliance-standards-guide.md"
+    },
+    {
+      "filename": "2015-09-15-habermas-and-marxism.md",
+      "slug": "habermas-and-marxism",
+      "title": "Habermas and the Turn From Marx",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14488,
+      "topWord": "theory",
+      "topCount": 265,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-15-habermas-and-marxism.md"
     },
     {
       "filename": "2015-09-15-mental-healthcare-act-2017-explained.md",
@@ -144477,6 +145785,24 @@
       ]
     },
     {
+      "filename": "2015-10-01-cultural-marxism-term-history.md",
+      "slug": "cultural-marxism-term-history",
+      "title": "Cultural Marxism: The History of a Term",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14565,
+      "topWord": "narrative",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-01-cultural-marxism-term-history.md"
+    },
+    {
       "filename": "2015-10-01-smoky-mountains-best-time-to-visit.md",
       "slug": "smoky-mountains-best-time-to-visit",
       "title": "When to Visit the Smoky Mountains",
@@ -144887,6 +146213,24 @@
           "count": 36
         }
       ]
+    },
+    {
+      "filename": "2015-10-15-frankfurt-school-exam-answers.md",
+      "slug": "frankfurt-school-exam-answers",
+      "title": "The Frankfurt School: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15489,
+      "topWord": "candidate",
+      "topCount": 279,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-15-frankfurt-school-exam-answers.md"
     },
     {
       "filename": "2015-10-15-singin-in-the-rain-greatest-musical.md",
@@ -145601,6 +146945,24 @@
       ]
     },
     {
+      "filename": "2015-11-01-western-marxism-complete-guide.md",
+      "slug": "western-marxism-complete-guide",
+      "title": "Western Marxism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15134,
+      "topWord": "tradition",
+      "topCount": 258,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-11-01-western-marxism-complete-guide.md"
+    },
+    {
       "filename": "2015-11-01-womens-rights-laws-india-guide.md",
       "slug": "womens-rights-laws-india-guide",
       "title": "Women's Rights Laws in India: The Four Routes Explained",
@@ -146285,6 +147647,24 @@
       ]
     },
     {
+      "filename": "2015-11-15-lukacs-reification-guide.md",
+      "slug": "lukacs-reification-guide",
+      "title": "Georg Lukacs and Reification",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13905,
+      "topWord": "lukacs",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-11-15-lukacs-reification-guide.md"
+    },
+    {
       "filename": "2015-11-15-smoky-mountains-best-hikes.md",
       "slug": "smoky-mountains-best-hikes",
       "title": "Best Smoky Mountains Hikes for All Levels",
@@ -146899,6 +148279,24 @@
       ]
     },
     {
+      "filename": "2015-12-01-history-and-class-consciousness-guide.md",
+      "slug": "history-and-class-consciousness-guide",
+      "title": "History and Class Consciousness: A Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14404,
+      "topWord": "book",
+      "topCount": 228,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-12-01-history-and-class-consciousness-guide.md"
+    },
+    {
       "filename": "2015-12-01-on-the-waterfront-brando-method-acting.md",
       "slug": "on-the-waterfront-brando-method-acting",
       "title": "On the Waterfront: Brando and the Method Break",
@@ -147251,6 +148649,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-12-15-fair-housing-amendments-act-1988.md"
+    },
+    {
+      "filename": "2015-12-15-louis-althusser-intellectual-biography.md",
+      "slug": "louis-althusser-intellectual-biography",
+      "title": "Louis Althusser: An Intellectual Profile",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13975,
+      "topWord": "profile",
+      "topCount": 132,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-12-15-louis-althusser-intellectual-biography.md"
     },
     {
       "filename": "2015-12-15-posh-act-2013-workplace-harassment.md",
@@ -147841,6 +149257,24 @@
       ]
     },
     {
+      "filename": "2016-01-01-overdetermination-explained.md",
+      "slug": "overdetermination-explained",
+      "title": "Overdetermination Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14436,
+      "topWord": "concept",
+      "topCount": 275,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-01-01-overdetermination-explained.md"
+    },
+    {
       "filename": "2016-01-01-section-8-housing-voucher-law.md",
       "slug": "section-8-housing-voucher-law",
       "title": "How Section 8 Vouchers Work in Law: Rules and Funding",
@@ -148355,6 +149789,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-01-15-maternity-benefit-act-amendment-2017.md"
     },
     {
+      "filename": "2016-01-15-sartre-and-marxism.md",
+      "slug": "sartre-and-marxism",
+      "title": "Sartre, Existentialism and Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14276,
+      "topWord": "sartre",
+      "topCount": 261,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-01-15-sartre-and-marxism.md"
+    },
+    {
       "filename": "2016-01-15-smoky-mountains-with-kids.md",
       "slug": "smoky-mountains-with-kids",
       "title": "The Smoky Mountains With Kids",
@@ -148743,6 +150195,24 @@
           "count": 42
         }
       ]
+    },
+    {
+      "filename": "2016-02-01-ernst-bloch-and-marxism.md",
+      "slug": "ernst-bloch-and-marxism",
+      "title": "Ernst Bloch and the Principle of Hope",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 13939,
+      "topWord": "bloch",
+      "topCount": 248,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-02-01-ernst-bloch-and-marxism.md"
     },
     {
       "filename": "2016-02-01-fair-housing-act-segregation-impact.md",
@@ -149239,6 +150709,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-02-15-hud-enforcement-and-rulemaking.md"
     },
     {
+      "filename": "2016-02-15-humanist-vs-structuralist-marxism.md",
+      "slug": "humanist-vs-structuralist-marxism",
+      "title": "Humanist vs Structuralist Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14698,
+      "topWord": "humanist",
+      "topCount": 121,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-02-15-humanist-vs-structuralist-marxism.md"
+    },
+    {
       "filename": "2016-02-15-immoral-traffic-prevention-act-1956.md",
       "slug": "immoral-traffic-prevention-act-1956",
       "title": "The Immoral Traffic (Prevention) Act 1956 Explained",
@@ -149653,6 +151141,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-03-01-nasser-aswan-dam-arab-socialism.md"
+    },
+    {
+      "filename": "2016-03-01-new-left-marxism-explained.md",
+      "slug": "new-left-marxism-explained",
+      "title": "The New Left and Its Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 14911,
+      "topWord": "movement",
+      "topCount": 182,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-03-01-new-left-marxism-explained.md"
     },
     {
       "filename": "2016-03-01-paths-of-glory-kubrick-antiwar.md",
@@ -150669,6 +152175,24 @@
       ]
     },
     {
+      "filename": "2016-03-15-western-marxism-reading-guide.md",
+      "slug": "western-marxism-reading-guide",
+      "title": "Reading Western Marxism: A Source Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15743,
+      "topWord": "reader",
+      "topCount": 215,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-03-15-western-marxism-reading-guide.md"
+    },
+    {
       "filename": "2016-03-19-ibm-panel-interview.md",
       "slug": "ibm-panel-interview",
       "title": "IBM Panel Interview",
@@ -151333,6 +152857,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-04-01-federal-aid-highway-act-1956-guide.md"
+    },
+    {
+      "filename": "2016-04-01-marxist-economics-complete-guide.md",
+      "slug": "marxist-economics-complete-guide",
+      "title": "Marxist Economics: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15881,
+      "topWord": "theory",
+      "topCount": 179,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-04-01-marxist-economics-complete-guide.md"
     },
     {
       "filename": "2016-04-01-media-demagoguery-sweet-smell-face-in-crowd.md",
@@ -152315,6 +153857,24 @@
       ]
     },
     {
+      "filename": "2016-04-15-transformation-problem-explained.md",
+      "slug": "transformation-problem-explained",
+      "title": "The Transformation Problem Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15394,
+      "topWord": "value",
+      "topCount": 200,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-04-15-transformation-problem-explained.md"
+    },
+    {
       "filename": "2016-04-19-nuclear-arms-race-explained.md",
       "slug": "nuclear-arms-race-explained",
       "title": "The Nuclear Arms Race Explained",
@@ -152671,6 +154231,24 @@
           "count": 45
         }
       ]
+    },
+    {
+      "filename": "2016-05-01-sraffa-and-marxist-economics.md",
+      "slug": "sraffa-and-marxist-economics",
+      "title": "Sraffa and the Neo-Ricardian Challenge",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15461,
+      "topWord": "theory",
+      "topCount": 232,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-05-01-sraffa-and-marxist-economics.md"
     },
     {
       "filename": "2016-05-01-trail-ridge-road-driving-guide.md",
@@ -153463,6 +155041,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-05-15-motor-vehicle-safety-act-1966-guide.md"
     },
     {
+      "filename": "2016-05-15-new-interpretation-and-tssi.md",
+      "slug": "new-interpretation-and-tssi",
+      "title": "The New Interpretation and the TSSI",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15419,
+      "topWord": "value",
+      "topCount": 275,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-05-15-new-interpretation-and-tssi.md"
+    },
+    {
       "filename": "2016-05-15-some-like-it-hot-greatest-comedy.md",
       "slug": "some-like-it-hot-greatest-comedy",
       "title": "Some Like It Hot: The Greatest Comedy, Explained",
@@ -153801,6 +155397,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-06-01-juvenile-age-debate-india.md"
     },
     {
+      "filename": "2016-06-01-marx-reproduction-schemas.md",
+      "slug": "marx-reproduction-schemas",
+      "title": "Marx's Reproduction Schemas Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16131,
+      "topWord": "schemas",
+      "topCount": 329,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-06-01-marx-reproduction-schemas.md",
+      "flaggedWords": [
+        {
+          "word": "schemas",
+          "count": 329
+        }
+      ],
+      "top20": [
+        {
+          "word": "schemas",
+          "count": 329
+        },
+        {
+          "word": "department",
+          "count": 199
+        },
+        {
+          "word": "capital",
+          "count": 143
+        },
+        {
+          "word": "second",
+          "count": 138
+        },
+        {
+          "word": "reproduction",
+          "count": 128
+        },
+        {
+          "word": "economy",
+          "count": 123
+        },
+        {
+          "word": "marx",
+          "count": 104
+        },
+        {
+          "word": "consumption",
+          "count": 100
+        },
+        {
+          "word": "production",
+          "count": 92
+        },
+        {
+          "word": "goods",
+          "count": 92
+        },
+        {
+          "word": "proportions",
+          "count": 89
+        },
+        {
+          "word": "surplus",
+          "count": 87
+        },
+        {
+          "word": "construction",
+          "count": 80
+        },
+        {
+          "word": "product",
+          "count": 74
+        },
+        {
+          "word": "departments",
+          "count": 73
+        },
+        {
+          "word": "value",
+          "count": 73
+        },
+        {
+          "word": "money",
+          "count": 71
+        },
+        {
+          "word": "volume",
+          "count": 67
+        },
+        {
+          "word": "growth",
+          "count": 64
+        },
+        {
+          "word": "accumulation",
+          "count": 62
+        }
+      ]
+    },
+    {
       "filename": "2016-06-01-rocky-mountain-np-wildlife-photography.md",
       "slug": "rocky-mountain-np-wildlife-photography",
       "title": "Rocky Mountain Wildlife and Photography",
@@ -153977,6 +155679,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-06-15-12-angry-men-jury-room-structure.md"
+    },
+    {
+      "filename": "2016-06-15-baran-sweezy-monopoly-capital.md",
+      "slug": "baran-sweezy-monopoly-capital",
+      "title": "Monopoly Capital: Baran and Sweezy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16020,
+      "topWord": "school",
+      "topCount": 462,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-06-15-baran-sweezy-monopoly-capital.md",
+      "flaggedWords": [
+        {
+          "word": "school",
+          "count": 462
+        }
+      ],
+      "top20": [
+        {
+          "word": "school",
+          "count": 462
+        },
+        {
+          "word": "surplus",
+          "count": 266
+        },
+        {
+          "word": "economy",
+          "count": 154
+        },
+        {
+          "word": "book",
+          "count": 135
+        },
+        {
+          "word": "category",
+          "count": 129
+        },
+        {
+          "word": "theory",
+          "count": 125
+        },
+        {
+          "word": "founders",
+          "count": 101
+        },
+        {
+          "word": "sweezy",
+          "count": 100
+        },
+        {
+          "word": "baran",
+          "count": 96
+        },
+        {
+          "word": "tradition",
+          "count": 95
+        },
+        {
+          "word": "value",
+          "count": 92
+        },
+        {
+          "word": "monopoly",
+          "count": 83
+        },
+        {
+          "word": "economics",
+          "count": 82
+        },
+        {
+          "word": "journal",
+          "count": 76
+        },
+        {
+          "word": "marxist",
+          "count": 74
+        },
+        {
+          "word": "labour",
+          "count": 73
+        },
+        {
+          "word": "whose",
+          "count": 71
+        },
+        {
+          "word": "joint",
+          "count": 67
+        },
+        {
+          "word": "critics",
+          "count": 60
+        },
+        {
+          "word": "argument",
+          "count": 60
+        }
+      ]
     },
     {
       "filename": "2016-06-15-interstate-highway-system-impact.md",
@@ -154499,6 +156307,24 @@
           "count": 45
         }
       ]
+    },
+    {
+      "filename": "2016-07-01-dependency-theory-explained.md",
+      "slug": "dependency-theory-explained",
+      "title": "Dependency Theory and Unequal Exchange",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16836,
+      "topWord": "dependency",
+      "topCount": 223,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-07-01-dependency-theory-explained.md"
     },
     {
       "filename": "2016-07-01-federal-highway-funding-mechanics.md",
@@ -155307,6 +157133,24 @@
       ]
     },
     {
+      "filename": "2016-07-15-marxist-vs-mainstream-economics.md",
+      "slug": "marxist-vs-mainstream-economics",
+      "title": "Marxist vs Mainstream Economics",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15793,
+      "topWord": "mainstream",
+      "topCount": 261,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-07-15-marxist-vs-mainstream-economics.md"
+    },
+    {
       "filename": "2016-07-15-pch-7-day-itinerary-sf-to-la.md",
       "slug": "pch-7-day-itinerary-sf-to-la",
       "title": "PCH in 7 Days: San Francisco to Los Angeles",
@@ -155905,6 +157749,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-08-01-pacific-coast-highway-best-stops.md"
     },
     {
+      "filename": "2016-08-01-testing-marxist-economics.md",
+      "slug": "testing-marxist-economics",
+      "title": "Testing Marxist Economics Empirically",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16570,
+      "topWord": "programme",
+      "topCount": 126,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-08-01-testing-marxist-economics.md"
+    },
+    {
       "filename": "2016-08-01-to-kill-a-mockingbird-harper-lee-adaptation.md",
       "slug": "to-kill-a-mockingbird-harper-lee-adaptation",
       "title": "To Kill a Mockingbird: Adapting Harper Lee",
@@ -156389,6 +158251,24 @@
       ]
     },
     {
+      "filename": "2016-08-15-marxist-economics-exam-answers.md",
+      "slug": "marxist-economics-exam-answers",
+      "title": "Marxist Economics: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16205,
+      "topWord": "candidate",
+      "topCount": 230,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-08-15-marxist-economics-exam-answers.md"
+    },
+    {
       "filename": "2016-08-15-saturday-night-sunday-morning-british-new-wave.md",
       "slug": "saturday-night-sunday-morning-british-new-wave",
       "title": "Saturday Night and Sunday Morning: British New Wave",
@@ -156863,6 +158743,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-01-energy-policy-act-2005-guide.md"
+    },
+    {
+      "filename": "2016-09-01-marxist-feminism-complete-guide.md",
+      "slug": "marxist-feminism-complete-guide",
+      "title": "Marxist Feminism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15809,
+      "topWord": "tradition",
+      "topCount": 261,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-01-marxist-feminism-complete-guide.md"
     },
     {
       "filename": "2016-09-01-pacific-coast-highway-on-a-budget.md",
@@ -157615,6 +159513,24 @@
       ]
     },
     {
+      "filename": "2016-09-15-social-reproduction-theory-explained.md",
+      "slug": "social-reproduction-theory-explained",
+      "title": "Social Reproduction Theory Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18241,
+      "topWord": "labour",
+      "topCount": 257,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-09-15-social-reproduction-theory-explained.md"
+    },
+    {
       "filename": "2016-09-16-drm-batch-client-error-ora-03113-end-of-file-on-communication-channel.md",
       "slug": "drm-batch-client-error-ora-03113-end-of-file-on-communication-channel",
       "title": "DRM Batch Client Error ORA-03113: end-of-file on communication channel",
@@ -158227,6 +160143,24 @@
       ]
     },
     {
+      "filename": "2016-10-01-domestic-labour-debate.md",
+      "slug": "domestic-labour-debate",
+      "title": "The Domestic Labour Debate",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16613,
+      "topWord": "labour",
+      "topCount": 322,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-10-01-domestic-labour-debate.md"
+    },
+    {
       "filename": "2016-10-01-energy-policy-conservation-act-1975.md",
       "slug": "energy-policy-conservation-act-1975",
       "title": "Energy Policy and Conservation Act: Four Instruments",
@@ -158665,6 +160599,24 @@
           "count": 2
         }
       ]
+    },
+    {
+      "filename": "2016-10-15-federici-wages-for-housework.md",
+      "slug": "federici-wages-for-housework",
+      "title": "Federici and Wages for Housework",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15379,
+      "topWord": "book",
+      "topCount": 167,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-10-15-federici-wages-for-housework.md"
     },
     {
       "filename": "2016-10-15-hindu-succession-amendment-2005.md",
@@ -159127,6 +161079,24 @@
       ]
     },
     {
+      "filename": "2016-11-01-engels-origin-of-the-family-guide.md",
+      "slug": "engels-origin-of-the-family-guide",
+      "title": "Engels on the Family: A Reader's Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15673,
+      "topWord": "book",
+      "topCount": 311,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-01-engels-origin-of-the-family-guide.md"
+    },
+    {
       "filename": "2016-11-01-mary-poppins-vs-sound-of-music-roadshow.md",
       "slug": "mary-poppins-vs-sound-of-music-roadshow",
       "title": "Mary Poppins vs The Sound of Music: Roadshow Twins",
@@ -159539,6 +161509,24 @@
       ]
     },
     {
+      "filename": "2016-11-15-marxist-radical-liberal-feminism.md",
+      "slug": "marxist-radical-liberal-feminism",
+      "title": "Marxist, Radical and Liberal Feminism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16395,
+      "topWord": "tradition",
+      "topCount": 215,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-11-15-marxist-radical-liberal-feminism.md"
+    },
+    {
       "filename": "2016-11-15-muslim-women-divorce-act-1986.md",
       "slug": "muslim-women-divorce-act-1986",
       "title": "Muslim Women Divorce Act 1986: Provision and Maintenance",
@@ -159753,6 +161741,24 @@
           "count": 45
         }
       ]
+    },
+    {
+      "filename": "2016-12-01-care-work-and-capitalism.md",
+      "slug": "care-work-and-capitalism",
+      "title": "Care Work and Capitalism Today",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15918,
+      "topWord": "care",
+      "topCount": 268,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-12-01-care-work-and-capitalism.md"
     },
     {
       "filename": "2016-12-01-energy-independence-policy-impact.md",
@@ -160097,6 +162103,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2016-12-15-did-marxism-neglect-gender.md",
+      "slug": "did-marxism-neglect-gender",
+      "title": "Did Marxism Neglect Gender?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15759,
+      "topWord": "theory",
+      "topCount": 181,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-12-15-did-marxism-neglect-gender.md"
     },
     {
       "filename": "2016-12-15-ferc-energy-rulemaking-guide.md",
@@ -160859,6 +162883,24 @@
       ]
     },
     {
+      "filename": "2017-01-01-intersectionality-and-class.md",
+      "slug": "intersectionality-and-class",
+      "title": "Intersectionality and Class Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15738,
+      "topWord": "class",
+      "topCount": 164,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-01-intersectionality-and-class.md"
+    },
+    {
       "filename": "2017-01-01-orlando-theme-parks-best-time-to-visit.md",
       "slug": "orlando-theme-parks-best-time-to-visit",
       "title": "When to Visit Orlando's Theme Parks",
@@ -161127,6 +163169,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-15-chinatown-towne-screenplay-neo-noir.md"
+    },
+    {
+      "filename": "2017-01-15-marxist-feminism-exam-answers.md",
+      "slug": "marxist-feminism-exam-answers",
+      "title": "Marxist Feminism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16510,
+      "topWord": "candidate",
+      "topCount": 273,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-01-15-marxist-feminism-exam-answers.md"
     },
     {
       "filename": "2017-01-15-orlando-central-florida-hidden-gems.md",
@@ -161587,6 +163647,24 @@
       ]
     },
     {
+      "filename": "2017-02-01-marxism-and-imperialism-guide.md",
+      "slug": "marxism-and-imperialism-guide",
+      "title": "Marxism and Imperialism: A Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17688,
+      "topWord": "sense",
+      "topCount": 127,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-02-01-marxism-and-imperialism-guide.md"
+    },
+    {
       "filename": "2017-02-01-national-aeronautics-space-act-1958.md",
       "slug": "national-aeronautics-space-act-1958",
       "title": "Space Act Design: Why America's Space Agency Stays Civilian",
@@ -161869,6 +163947,24 @@
           "count": 40
         }
       ]
+    },
+    {
+      "filename": "2017-02-15-frantz-fanon-and-marxism.md",
+      "slug": "frantz-fanon-and-marxism",
+      "title": "Frantz Fanon and Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16081,
+      "topWord": "fanon",
+      "topCount": 318,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-02-15-frantz-fanon-and-marxism.md"
     },
     {
       "filename": "2017-02-15-jatayu-character-analysis-bn.md",
@@ -162453,6 +164549,24 @@
       ]
     },
     {
+      "filename": "2017-03-01-marx-on-colonialism-debate.md",
+      "slug": "marx-on-colonialism-debate",
+      "title": "Marx on Colonialism: The Hard Questions",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 15738,
+      "topWord": "marx",
+      "topCount": 198,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-03-01-marx-on-colonialism-debate.md"
+    },
+    {
       "filename": "2017-03-01-sc-st-act-2018-amendment-explained.md",
       "slug": "sc-st-act-2018-amendment-explained",
       "title": "Section 18A: The SC/ST Act 2018 Amendment and Its Courts",
@@ -162685,6 +164799,24 @@
           "count": 24
         }
       ]
+    },
+    {
+      "filename": "2017-03-15-black-marxism-racial-capitalism.md",
+      "slug": "black-marxism-racial-capitalism",
+      "title": "Black Marxism and Racial Capitalism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16684,
+      "topWord": "racial",
+      "topCount": 191,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-03-15-black-marxism-racial-capitalism.md"
     },
     {
       "filename": "2017-03-15-chips-and-science-act-2022-guide.md",
@@ -163239,6 +165371,112 @@
         {
           "word": "না।",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2017-04-01-clr-james-and-marxism.md",
+      "slug": "clr-james-and-marxism",
+      "title": "C.L.R. James and the Black Jacobins",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16098,
+      "topWord": "james",
+      "topCount": 322,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-04-01-clr-james-and-marxism.md",
+      "flaggedWords": [
+        {
+          "word": "james",
+          "count": 322
+        }
+      ],
+      "top20": [
+        {
+          "word": "james",
+          "count": 322
+        },
+        {
+          "word": "revolution",
+          "count": 138
+        },
+        {
+          "word": "black",
+          "count": 108
+        },
+        {
+          "word": "argument",
+          "count": 108
+        },
+        {
+          "word": "history",
+          "count": 107
+        },
+        {
+          "word": "profile",
+          "count": 94
+        },
+        {
+          "word": "labour",
+          "count": 88
+        },
+        {
+          "word": "enslaved",
+          "count": 84
+        },
+        {
+          "word": "whose",
+          "count": 83
+        },
+        {
+          "word": "movement",
+          "count": 77
+        },
+        {
+          "word": "book",
+          "count": 73
+        },
+        {
+          "word": "colonial",
+          "count": 72
+        },
+        {
+          "word": "american",
+          "count": 66
+        },
+        {
+          "word": "french",
+          "count": 65
+        },
+        {
+          "word": "class",
+          "count": 63
+        },
+        {
+          "word": "politics",
+          "count": 62
+        },
+        {
+          "word": "marxism",
+          "count": 60
+        },
+        {
+          "word": "claim",
+          "count": 59
+        },
+        {
+          "word": "marxist",
+          "count": 55
+        },
+        {
+          "word": "party",
+          "count": 55
         }
       ]
     },
@@ -163933,6 +166171,24 @@
       ]
     },
     {
+      "filename": "2017-04-15-labour-aristocracy-thesis.md",
+      "slug": "labour-aristocracy-thesis",
+      "title": "The Labour Aristocracy Thesis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16199,
+      "topWord": "thesis",
+      "topCount": 269,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-04-15-labour-aristocracy-thesis.md"
+    },
+    {
       "filename": "2017-04-15-manual-scavenging-act-2013-explained.md",
       "slug": "manual-scavenging-act-2013-explained",
       "title": "Manual Scavenging Act 2013: Prohibition and Rehabilitation",
@@ -164059,6 +166315,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2017-05-01-anti-colonial-marxism-case-studies.md",
+      "slug": "anti-colonial-marxism-case-studies",
+      "title": "Anti-Colonial Marxism in Practice",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17345,
+      "topWord": "party",
+      "topCount": 274,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-01-anti-colonial-marxism-case-studies.md"
     },
     {
       "filename": "2017-05-01-federal-research-funding-law.md",
@@ -164539,6 +166813,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-15-indra-sawhney-reservation-ceiling.md"
     },
     {
+      "filename": "2017-05-15-marxism-vs-postcolonial-theory.md",
+      "slug": "marxism-vs-postcolonial-theory",
+      "title": "Marxism vs Postcolonial Theory",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16489,
+      "topWord": "colonial",
+      "topCount": 114,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-05-15-marxism-vs-postcolonial-theory.md"
+    },
+    {
       "filename": "2017-05-15-nyc-5-day-first-time-itinerary.md",
       "slug": "nyc-5-day-first-time-itinerary",
       "title": "A 5-Day First-Time NYC Itinerary",
@@ -164783,6 +167075,112 @@
         {
           "word": "পাচার",
           "count": 23
+        }
+      ]
+    },
+    {
+      "filename": "2017-06-01-imperialism-and-global-supply-chains.md",
+      "slug": "imperialism-and-global-supply-chains",
+      "title": "Imperialism and Global Supply Chains",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17503,
+      "topWord": "chain",
+      "topCount": 370,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-01-imperialism-and-global-supply-chains.md",
+      "flaggedWords": [
+        {
+          "word": "chain",
+          "count": 370
+        }
+      ],
+      "top20": [
+        {
+          "word": "chain",
+          "count": 370
+        },
+        {
+          "word": "production",
+          "count": 182
+        },
+        {
+          "word": "labour",
+          "count": 155
+        },
+        {
+          "word": "economies",
+          "count": 129
+        },
+        {
+          "word": "wage",
+          "count": 122
+        },
+        {
+          "word": "price",
+          "count": 120
+        },
+        {
+          "word": "stage",
+          "count": 118
+        },
+        {
+          "word": "product",
+          "count": 100
+        },
+        {
+          "word": "value",
+          "count": 89
+        },
+        {
+          "word": "article",
+          "count": 88
+        },
+        {
+          "word": "whose",
+          "count": 87
+        },
+        {
+          "word": "stages",
+          "count": 86
+        },
+        {
+          "word": "design",
+          "count": 76
+        },
+        {
+          "word": "rent",
+          "count": 75
+        },
+        {
+          "word": "economy",
+          "count": 74
+        },
+        {
+          "word": "returns",
+          "count": 72
+        },
+        {
+          "word": "firm",
+          "count": 70
+        },
+        {
+          "word": "firms",
+          "count": 69
+        },
+        {
+          "word": "distribution",
+          "count": 69
+        },
+        {
+          "word": "market",
+          "count": 68
         }
       ]
     },
@@ -165477,6 +167875,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-15-apocalypse-now-coppola-troubled-production.md"
     },
     {
+      "filename": "2017-06-15-marxism-imperialism-exam-answers.md",
+      "slug": "marxism-imperialism-exam-answers",
+      "title": "Marxism and Imperialism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17171,
+      "topWord": "candidate",
+      "topCount": 226,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-06-15-marxism-imperialism-exam-answers.md"
+    },
+    {
       "filename": "2017-06-15-nyc-hidden-gems.md",
       "slug": "nyc-hidden-gems",
       "title": "New York City Neighborhoods Tourists Miss",
@@ -165759,6 +168175,24 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2017-07-01-ecological-marxism-complete-guide.md",
+      "slug": "ecological-marxism-complete-guide",
+      "title": "Ecological Marxism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18294,
+      "topWord": "ecological",
+      "topCount": 282,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-07-01-ecological-marxism-complete-guide.md"
     },
     {
       "filename": "2017-07-01-nyc-on-a-budget.md",
@@ -166255,6 +168689,24 @@
           "count": 23
         }
       ]
+    },
+    {
+      "filename": "2017-07-15-metabolic-rift-explained.md",
+      "slug": "metabolic-rift-explained",
+      "title": "The Metabolic Rift Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17477,
+      "topWord": "rift",
+      "topCount": 244,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-07-15-metabolic-rift-explained.md"
     },
     {
       "filename": "2017-07-15-nyc-family-activities.md",
@@ -166883,6 +169335,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-08-01-digital-millennium-copyright-act-1998.md"
+    },
+    {
+      "filename": "2017-08-01-john-bellamy-foster-marx-ecology.md",
+      "slug": "john-bellamy-foster-marx-ecology",
+      "title": "John Bellamy Foster and Marx's Ecology",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16782,
+      "topWord": "foster",
+      "topCount": 354,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-08-01-john-bellamy-foster-marx-ecology.md",
+      "flaggedWords": [
+        {
+          "word": "foster",
+          "count": 354
+        }
+      ],
+      "top20": [
+        {
+          "word": "foster",
+          "count": 354
+        },
+        {
+          "word": "marx",
+          "count": 250
+        },
+        {
+          "word": "recovery",
+          "count": 189
+        },
+        {
+          "word": "ecological",
+          "count": 148
+        },
+        {
+          "word": "nature",
+          "count": 145
+        },
+        {
+          "word": "profile",
+          "count": 140
+        },
+        {
+          "word": "argument",
+          "count": 119
+        },
+        {
+          "word": "rift",
+          "count": 115
+        },
+        {
+          "word": "dissertation",
+          "count": 105
+        },
+        {
+          "word": "tradition",
+          "count": 100
+        },
+        {
+          "word": "ecology",
+          "count": 97
+        },
+        {
+          "word": "reading",
+          "count": 85
+        },
+        {
+          "word": "whose",
+          "count": 83
+        },
+        {
+          "word": "book",
+          "count": 73
+        },
+        {
+          "word": "materialism",
+          "count": 69
+        },
+        {
+          "word": "philosophy",
+          "count": 69
+        },
+        {
+          "word": "science",
+          "count": 67
+        },
+        {
+          "word": "claim",
+          "count": 66
+        },
+        {
+          "word": "question",
+          "count": 64
+        },
+        {
+          "word": "evidence",
+          "count": 62
+        }
+      ]
     },
     {
       "filename": "2017-08-01-rpwd-act-2016-explained.md",
@@ -167685,6 +170243,24 @@
       ]
     },
     {
+      "filename": "2017-08-15-was-marx-an-ecological-thinker.md",
+      "slug": "was-marx-an-ecological-thinker",
+      "title": "Was Marx an Ecological Thinker?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19044,
+      "topWord": "marx",
+      "topCount": 169,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-08-15-was-marx-an-ecological-thinker.md"
+    },
+    {
       "filename": "2017-08-21-dhurandhar-villain-hafiz-saeed-parallel.md",
       "slug": "dhurandhar-villain-hafiz-saeed-parallel",
       "title": "Dhurandhar Villain vs Hafiz Saeed",
@@ -168081,6 +170657,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-09-01-communications-decency-act-1996-history.md"
+    },
+    {
+      "filename": "2017-09-01-degrowth-and-marxism.md",
+      "slug": "degrowth-and-marxism",
+      "title": "Degrowth and Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21406,
+      "topWord": "degrowth",
+      "topCount": 442,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-09-01-degrowth-and-marxism.md",
+      "flaggedWords": [
+        {
+          "word": "degrowth",
+          "count": 442
+        }
+      ],
+      "top20": [
+        {
+          "word": "degrowth",
+          "count": 442
+        },
+        {
+          "word": "provision",
+          "count": 149
+        },
+        {
+          "word": "throughput",
+          "count": 148
+        },
+        {
+          "word": "growth",
+          "count": 115
+        },
+        {
+          "word": "ecological",
+          "count": 108
+        },
+        {
+          "word": "abundance",
+          "count": 103
+        },
+        {
+          "word": "public",
+          "count": 88
+        },
+        {
+          "word": "movement",
+          "count": 84
+        },
+        {
+          "word": "dispute",
+          "count": 78
+        },
+        {
+          "word": "wealthy",
+          "count": 75
+        },
+        {
+          "word": "material",
+          "count": 72
+        },
+        {
+          "word": "programme",
+          "count": 69
+        },
+        {
+          "word": "care",
+          "count": 66
+        },
+        {
+          "word": "class",
+          "count": 65
+        },
+        {
+          "word": "literature",
+          "count": 65
+        },
+        {
+          "word": "question",
+          "count": 63
+        },
+        {
+          "word": "economies",
+          "count": 58
+        },
+        {
+          "word": "marx",
+          "count": 56
+        },
+        {
+          "word": "whose",
+          "count": 55
+        },
+        {
+          "word": "marxist",
+          "count": 55
+        }
+      ]
     },
     {
       "filename": "2017-09-01-nyc-couples-weekend.md",
@@ -168483,6 +171165,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-09-15-internet-law-supreme-court-cases.md"
+    },
+    {
+      "filename": "2017-09-15-marxist-analysis-climate-crisis.md",
+      "slug": "marxist-analysis-climate-crisis",
+      "title": "A Marxist Reading of the Climate Crisis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18947,
+      "topWord": "analysis",
+      "topCount": 156,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-09-15-marxist-analysis-climate-crisis.md"
     },
     {
       "filename": "2017-09-15-nyc-day-trips.md",
@@ -168947,6 +171647,24 @@
           "count": 24
         }
       ]
+    },
+    {
+      "filename": "2017-10-01-ecosocialism-vs-green-capitalism.md",
+      "slug": "ecosocialism-vs-green-capitalism",
+      "title": "Ecosocialism vs Green Capitalism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18726,
+      "topWord": "programme",
+      "topCount": 167,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-10-01-ecosocialism-vs-green-capitalism.md"
     },
     {
       "filename": "2017-10-01-las-vegas-complete-travel-guide.md",
@@ -169573,6 +172291,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-10-15-mad-max-road-warrior-australian-new-wave.md"
     },
     {
+      "filename": "2017-10-15-marxism-and-ecological-limits.md",
+      "slug": "marxism-and-ecological-limits",
+      "title": "Can Marxism Handle Ecological Limits?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17374,
+      "topWord": "destination",
+      "topCount": 186,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-10-15-marxism-and-ecological-limits.md"
+    },
+    {
       "filename": "2017-10-15-mgnrega-2005-right-to-work.md",
       "slug": "mgnrega-2005-right-to-work",
       "title": "MGNREGA 2005 Explained: The Statutory Right to Work",
@@ -169917,6 +172653,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-11-01-mgnrega-implementation-record.md"
+    },
+    {
+      "filename": "2017-11-01-socialist-states-environmental-record.md",
+      "slug": "socialist-states-environmental-record",
+      "title": "Socialist States and the Environment",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19209,
+      "topWord": "record",
+      "topCount": 181,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-11-01-socialist-states-environmental-record.md"
     },
     {
       "filename": "2017-11-01-superman-donner-superhero-blockbuster-origin.md",
@@ -170279,6 +173033,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-11-13-bollywood-terror-victim-to-aggressor.md"
+    },
+    {
+      "filename": "2017-11-15-ecological-marxism-exam-answers.md",
+      "slug": "ecological-marxism-exam-answers",
+      "title": "Ecological Marxism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17657,
+      "topWord": "candidate",
+      "topCount": 249,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-11-15-ecological-marxism-exam-answers.md"
     },
     {
       "filename": "2017-11-15-las-vegas-hidden-gems.md",
@@ -170923,6 +173695,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-01-las-vegas-on-a-budget.md"
     },
     {
+      "filename": "2017-12-01-marxism-in-india-complete-guide.md",
+      "slug": "marxism-in-india-complete-guide",
+      "title": "Marxism in India: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18277,
+      "topWord": "indian",
+      "topCount": 237,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-01-marxism-in-india-complete-guide.md"
+    },
+    {
       "filename": "2017-12-01-violent-crime-control-act-1994-guide.md",
       "slug": "violent-crime-control-act-1994-guide",
       "title": "The Crime Bill Complete Guide: What the Law Actually Did",
@@ -171277,6 +174067,116 @@
         {
           "word": "british",
           "count": 25
+        }
+      ]
+    },
+    {
+      "filename": "2017-12-15-communist-movement-india-history.md",
+      "slug": "communist-movement-india-history",
+      "title": "The Communist Movement in India",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17147,
+      "topWord": "movement",
+      "topCount": 496,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-15-communist-movement-india-history.md",
+      "flaggedWords": [
+        {
+          "word": "movement",
+          "count": 496
+        },
+        {
+          "word": "party",
+          "count": 356
+        }
+      ],
+      "top20": [
+        {
+          "word": "movement",
+          "count": 496
+        },
+        {
+          "word": "party",
+          "count": 356
+        },
+        {
+          "word": "indian",
+          "count": 180
+        },
+        {
+          "word": "national",
+          "count": 147
+        },
+        {
+          "word": "government",
+          "count": 110
+        },
+        {
+          "word": "congress",
+          "count": 109
+        },
+        {
+          "word": "communist",
+          "count": 106
+        },
+        {
+          "word": "india",
+          "count": 102
+        },
+        {
+          "word": "parties",
+          "count": 94
+        },
+        {
+          "word": "communists",
+          "count": 89
+        },
+        {
+          "word": "history",
+          "count": 81
+        },
+        {
+          "word": "war",
+          "count": 80
+        },
+        {
+          "word": "international",
+          "count": 74
+        },
+        {
+          "word": "leadership",
+          "count": 74
+        },
+        {
+          "word": "whose",
+          "count": 71
+        },
+        {
+          "word": "struggle",
+          "count": 67
+        },
+        {
+          "word": "record",
+          "count": 65
+        },
+        {
+          "word": "front",
+          "count": 63
+        },
+        {
+          "word": "organisation",
+          "count": 61
+        },
+        {
+          "word": "argument",
+          "count": 58
         }
       ]
     },
@@ -171769,6 +174669,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2017-12-25-dhurandhar-legacy-spy-cinema-future.md"
+    },
+    {
+      "filename": "2018-01-01-kerala-communist-experiment.md",
+      "slug": "kerala-communist-experiment",
+      "title": "Kerala's Communist Experiment",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18719,
+      "topWord": "kerala",
+      "topCount": 177,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-01-kerala-communist-experiment.md"
     },
     {
       "filename": "2018-01-01-representation-of-people-act-1950.md",
@@ -172707,6 +175625,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-15-las-vegas-shows-entertainment-guide.md"
     },
     {
+      "filename": "2018-01-15-west-bengal-left-front-analysis.md",
+      "slug": "west-bengal-left-front-analysis",
+      "title": "The Left Front in Bengal: Rise and Fall",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17152,
+      "topWord": "government",
+      "topCount": 331,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-15-west-bengal-left-front-analysis.md"
+    },
+    {
       "filename": "2018-01-22-operation-sindoor-23-minutes.md",
       "slug": "operation-sindoor-23-minutes",
       "title": "Operation Sindoor The 23 Minutes",
@@ -172859,6 +175795,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-01-29-pakistan-retaliation-poonch.md"
+    },
+    {
+      "filename": "2018-02-01-ambedkar-and-marx.md",
+      "slug": "ambedkar-and-marx",
+      "title": "Ambedkar and Marx: The Real Debate",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16274,
+      "topWord": "caste",
+      "topCount": 214,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-01-ambedkar-and-marx.md"
     },
     {
       "filename": "2018-02-01-et-spielberg-auteur-childhood-wonder.md",
@@ -173073,6 +176027,112 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-12-operation-bunyan-un-marsoos.md"
+    },
+    {
+      "filename": "2018-02-15-caste-and-class-debate-india.md",
+      "slug": "caste-and-class-debate-india",
+      "title": "Caste and Class in Indian Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17123,
+      "topWord": "caste",
+      "topCount": 455,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-02-15-caste-and-class-debate-india.md",
+      "flaggedWords": [
+        {
+          "word": "caste",
+          "count": 455
+        }
+      ],
+      "top20": [
+        {
+          "word": "caste",
+          "count": 455
+        },
+        {
+          "word": "debate",
+          "count": 173
+        },
+        {
+          "word": "class",
+          "count": 147
+        },
+        {
+          "word": "position",
+          "count": 140
+        },
+        {
+          "word": "indian",
+          "count": 107
+        },
+        {
+          "word": "address",
+          "count": 100
+        },
+        {
+          "word": "movement",
+          "count": 93
+        },
+        {
+          "word": "economic",
+          "count": 84
+        },
+        {
+          "word": "labour",
+          "count": 81
+        },
+        {
+          "word": "whose",
+          "count": 78
+        },
+        {
+          "word": "theory",
+          "count": 76
+        },
+        {
+          "word": "itself",
+          "count": 72
+        },
+        {
+          "word": "village",
+          "count": 70
+        },
+        {
+          "word": "land",
+          "count": 68
+        },
+        {
+          "word": "communities",
+          "count": 67
+        },
+        {
+          "word": "evidence",
+          "count": 66
+        },
+        {
+          "word": "india",
+          "count": 65
+        },
+        {
+          "word": "classical",
+          "count": 61
+        },
+        {
+          "word": "hierarchy",
+          "count": 57
+        },
+        {
+          "word": "hereditary",
+          "count": 55
+        }
+      ]
     },
     {
       "filename": "2018-02-15-electoral-bonds-law-india-explained.md",
@@ -173917,6 +176977,112 @@
       ]
     },
     {
+      "filename": "2018-03-01-indian-marxist-historians.md",
+      "slug": "indian-marxist-historians",
+      "title": "Indian Marxist Historians and Method",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17746,
+      "topWord": "school",
+      "topCount": 415,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-01-indian-marxist-historians.md",
+      "flaggedWords": [
+        {
+          "word": "school",
+          "count": 415
+        }
+      ],
+      "top20": [
+        {
+          "word": "school",
+          "count": 415
+        },
+        {
+          "word": "indian",
+          "count": 193
+        },
+        {
+          "word": "evidence",
+          "count": 137
+        },
+        {
+          "word": "history",
+          "count": 135
+        },
+        {
+          "word": "india",
+          "count": 118
+        },
+        {
+          "word": "historians",
+          "count": 104
+        },
+        {
+          "word": "method",
+          "count": 92
+        },
+        {
+          "word": "whose",
+          "count": 79
+        },
+        {
+          "word": "feudalism",
+          "count": 76
+        },
+        {
+          "word": "colonial",
+          "count": 73
+        },
+        {
+          "word": "centuries",
+          "count": 72
+        },
+        {
+          "word": "itself",
+          "count": 71
+        },
+        {
+          "word": "founder",
+          "count": 71
+        },
+        {
+          "word": "mughal",
+          "count": 69
+        },
+        {
+          "word": "argument",
+          "count": 68
+        },
+        {
+          "word": "thesis",
+          "count": 68
+        },
+        {
+          "word": "read",
+          "count": 65
+        },
+        {
+          "word": "agrarian",
+          "count": 64
+        },
+        {
+          "word": "kosambi",
+          "count": 63
+        },
+        {
+          "word": "village",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2018-03-01-raging-bull-scorsese-black-white-craft.md",
       "slug": "raging-bull-scorsese-black-white-craft",
       "title": "Raging Bull: How Scorsese Made Violence Visible",
@@ -174281,6 +177447,24 @@
           "count": 42
         }
       ]
+    },
+    {
+      "filename": "2018-03-15-naxalism-maoist-current-india.md",
+      "slug": "naxalism-maoist-current-india",
+      "title": "Naxalism and the Maoist Current",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18211,
+      "topWord": "movement",
+      "topCount": 313,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-03-15-naxalism-maoist-current-india.md"
     },
     {
       "filename": "2018-03-15-once-upon-a-time-america-leone-structure.md",
@@ -174789,6 +177973,24 @@
           "count": 49
         }
       ]
+    },
+    {
+      "filename": "2018-04-01-marxism-for-upsc-guide.md",
+      "slug": "marxism-for-upsc-guide",
+      "title": "Marxism for UPSC: PSIR and Sociology",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18361,
+      "topWord": "candidate",
+      "topCount": 285,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-04-01-marxism-for-upsc-guide.md"
     },
     {
       "filename": "2018-04-01-sophies-choice-meryl-streep-performance.md",
@@ -175475,6 +178677,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-04-15-federal-crime-bill-myths.md"
     },
     {
+      "filename": "2018-04-15-marxism-in-india-exam-answers.md",
+      "slug": "marxism-in-india-exam-answers",
+      "title": "Marxism in India: Exam Answer Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18197,
+      "topWord": "movement",
+      "topCount": 290,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-04-15-marxism-in-india-exam-answers.md"
+    },
+    {
       "filename": "2018-04-16-information-war-both-sides.md",
       "slug": "information-war-both-sides",
       "title": "Information War India Pakistan 2025",
@@ -175765,6 +178985,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-05-01-controlled-substances-act-1970-guide.md"
+    },
+    {
+      "filename": "2018-05-01-marxism-in-china-complete-guide.md",
+      "slug": "marxism-in-china-complete-guide",
+      "title": "Marxism in China: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17954,
+      "topWord": "tradition",
+      "topCount": 282,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-05-01-marxism-in-china-complete-guide.md"
     },
     {
       "filename": "2018-05-01-state-reorganisation-india-guide.md",
@@ -176343,6 +179581,24 @@
       ]
     },
     {
+      "filename": "2018-05-15-mao-zedong-intellectual-biography.md",
+      "slug": "mao-zedong-intellectual-biography",
+      "title": "Mao Zedong: An Intellectual Biography",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17702,
+      "topWord": "mao",
+      "topCount": 203,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-05-15-mao-zedong-intellectual-biography.md"
+    },
+    {
       "filename": "2018-05-15-states-reorganisation-act-1956-explained.md",
       "slug": "states-reorganisation-act-1956-explained",
       "title": "The States Reorganisation Act 1956 and India's New Map",
@@ -176917,6 +180173,24 @@
       ]
     },
     {
+      "filename": "2018-06-01-mao-on-contradiction-and-practice.md",
+      "slug": "mao-on-contradiction-and-practice",
+      "title": "Mao on Contradiction and Practice",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 16978,
+      "topWord": "essay",
+      "topCount": 260,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-06-01-mao-on-contradiction-and-practice.md"
+    },
+    {
       "filename": "2018-06-01-new-states-2000-reorganisation-acts.md",
       "slug": "new-states-2000-reorganisation-acts",
       "title": "Reorganisation Acts 2000: Three States in a Fortnight",
@@ -177311,6 +180585,112 @@
         {
           "word": "minimums",
           "count": 49
+        }
+      ]
+    },
+    {
+      "filename": "2018-06-15-chinese-revolution-marxist-analysis.md",
+      "slug": "chinese-revolution-marxist-analysis",
+      "title": "The Chinese Revolution: A Marxist Reading",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17819,
+      "topWord": "party",
+      "topCount": 413,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-06-15-chinese-revolution-marxist-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "party",
+          "count": 413
+        }
+      ],
+      "top20": [
+        {
+          "word": "party",
+          "count": 413
+        },
+        {
+          "word": "war",
+          "count": 174
+        },
+        {
+          "word": "revolution",
+          "count": 142
+        },
+        {
+          "word": "chinese",
+          "count": 109
+        },
+        {
+          "word": "base",
+          "count": 96
+        },
+        {
+          "word": "movement",
+          "count": 93
+        },
+        {
+          "word": "china",
+          "count": 91
+        },
+        {
+          "word": "army",
+          "count": 90
+        },
+        {
+          "word": "peasant",
+          "count": 89
+        },
+        {
+          "word": "nationalist",
+          "count": 87
+        },
+        {
+          "word": "whose",
+          "count": 82
+        },
+        {
+          "word": "itself",
+          "count": 81
+        },
+        {
+          "word": "article",
+          "count": 81
+        },
+        {
+          "word": "village",
+          "count": 81
+        },
+        {
+          "word": "organisation",
+          "count": 80
+        },
+        {
+          "word": "government",
+          "count": 78
+        },
+        {
+          "word": "reform",
+          "count": 76
+        },
+        {
+          "word": "areas",
+          "count": 74
+        },
+        {
+          "word": "region",
+          "count": 74
+        },
+        {
+          "word": "yan",
+          "count": 74
         }
       ]
     },
@@ -177755,6 +181135,24 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2018-07-01-cultural-revolution-historical-record.md",
+      "slug": "cultural-revolution-historical-record",
+      "title": "The Cultural Revolution: The Record",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17765,
+      "topWord": "movement",
+      "topCount": 243,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-07-01-cultural-revolution-historical-record.md"
     },
     {
       "filename": "2018-07-01-jammu-kashmir-reorganisation-act-2019.md",
@@ -178425,6 +181823,24 @@
           "count": 67
         }
       ]
+    },
+    {
+      "filename": "2018-07-15-is-china-still-socialist.md",
+      "slug": "is-china-still-socialist",
+      "title": "Is China Still Socialist?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17750,
+      "topWord": "formation",
+      "topCount": 222,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-07-15-is-china-still-socialist.md"
     },
     {
       "filename": "2018-07-15-the-mission-morricone-greatest-score.md",
@@ -179299,6 +182715,116 @@
       ]
     },
     {
+      "filename": "2018-08-01-socialism-chinese-characteristics.md",
+      "slug": "socialism-chinese-characteristics",
+      "title": "Socialism With Chinese Characteristics",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17854,
+      "topWord": "doctrine",
+      "topCount": 675,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-08-01-socialism-chinese-characteristics.md",
+      "flaggedWords": [
+        {
+          "word": "doctrine",
+          "count": 675
+        },
+        {
+          "word": "stage",
+          "count": 449
+        }
+      ],
+      "top20": [
+        {
+          "word": "doctrine",
+          "count": 675
+        },
+        {
+          "word": "stage",
+          "count": 449
+        },
+        {
+          "word": "theory",
+          "count": 152
+        },
+        {
+          "word": "party",
+          "count": 107
+        },
+        {
+          "word": "whose",
+          "count": 102
+        },
+        {
+          "word": "primary",
+          "count": 96
+        },
+        {
+          "word": "premise",
+          "count": 90
+        },
+        {
+          "word": "market",
+          "count": 85
+        },
+        {
+          "word": "country",
+          "count": 83
+        },
+        {
+          "word": "itself",
+          "count": 80
+        },
+        {
+          "word": "structure",
+          "count": 78
+        },
+        {
+          "word": "development",
+          "count": 77
+        },
+        {
+          "word": "socialism",
+          "count": 76
+        },
+        {
+          "word": "critics",
+          "count": 75
+        },
+        {
+          "word": "argument",
+          "count": 73
+        },
+        {
+          "word": "destination",
+          "count": 71
+        },
+        {
+          "word": "question",
+          "count": 70
+        },
+        {
+          "word": "tradition",
+          "count": 69
+        },
+        {
+          "word": "reader",
+          "count": 69
+        },
+        {
+          "word": "article",
+          "count": 67
+        }
+      ]
+    },
+    {
       "filename": "2018-08-04-feluda-puja-edition-tradition-bn.md",
       "slug": "feluda-puja-edition-tradition-bn",
       "title": "শারদীয়া দেশ পরম্পরা",
@@ -179659,6 +183185,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-08-15-fda-approval-law-mechanics.md"
+    },
+    {
+      "filename": "2018-08-15-marxism-in-japan-and-korea.md",
+      "slug": "marxism-in-japan-and-korea",
+      "title": "Marxism in Japan and Korea",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18451,
+      "topWord": "japanese",
+      "topCount": 300,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-08-15-marxism-in-japan-and-korea.md"
     },
     {
       "filename": "2018-08-15-water-dispute-tribunals-delay-india.md",
@@ -180345,6 +183889,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-01-goodfellas-scorsese-auteur-analysis.md"
     },
     {
+      "filename": "2018-09-01-maoism-vs-soviet-marxism.md",
+      "slug": "maoism-vs-soviet-marxism",
+      "title": "Maoism vs Soviet Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18170,
+      "topWord": "chinese",
+      "topCount": 323,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-01-maoism-vs-soviet-marxism.md"
+    },
+    {
       "filename": "2018-09-03-feluda-tintin-travel-adventure-parallel-bn.md",
       "slug": "feluda-tintin-travel-adventure-parallel-bn",
       "title": "ফেলুদা ও টিনটিন",
@@ -180599,6 +184161,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-10-sindh-nawabshah-jud-network.md"
+    },
+    {
+      "filename": "2018-09-15-marxism-in-china-exam-answers.md",
+      "slug": "marxism-in-china-exam-answers",
+      "title": "Marxism in China: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18163,
+      "topWord": "candidate",
+      "topCount": 266,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-09-15-marxism-in-china-exam-answers.md"
     },
     {
       "filename": "2018-09-15-ryan-white-care-act-1990-guide.md",
@@ -181211,6 +184791,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-01-local-government-law-india-guide.md"
     },
     {
+      "filename": "2018-10-01-marxism-latin-america-guide.md",
+      "slug": "marxism-latin-america-guide",
+      "title": "Marxism in Latin America: A Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19052,
+      "topWord": "tradition",
+      "topCount": 392,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-01-marxism-latin-america-guide.md",
+      "flaggedWords": [
+        {
+          "word": "tradition",
+          "count": 392
+        }
+      ],
+      "top20": [
+        {
+          "word": "tradition",
+          "count": 392
+        },
+        {
+          "word": "region",
+          "count": 361
+        },
+        {
+          "word": "guide",
+          "count": 136
+        },
+        {
+          "word": "theory",
+          "count": 132
+        },
+        {
+          "word": "whose",
+          "count": 119
+        },
+        {
+          "word": "marxism",
+          "count": 101
+        },
+        {
+          "word": "argument",
+          "count": 95
+        },
+        {
+          "word": "marxist",
+          "count": 93
+        },
+        {
+          "word": "question",
+          "count": 84
+        },
+        {
+          "word": "latin",
+          "count": 80
+        },
+        {
+          "word": "dependency",
+          "count": 80
+        },
+        {
+          "word": "exile",
+          "count": 79
+        },
+        {
+          "word": "party",
+          "count": 75
+        },
+        {
+          "word": "parties",
+          "count": 74
+        },
+        {
+          "word": "labour",
+          "count": 73
+        },
+        {
+          "word": "regional",
+          "count": 70
+        },
+        {
+          "word": "analysis",
+          "count": 67
+        },
+        {
+          "word": "power",
+          "count": 67
+        },
+        {
+          "word": "indigenous",
+          "count": 67
+        },
+        {
+          "word": "revolution",
+          "count": 66
+        }
+      ]
+    },
+    {
       "filename": "2018-10-01-terror-training-camps-mapped.md",
       "slug": "terror-training-camps-mapped",
       "title": "Terror Training Camps Pakistan Map",
@@ -181679,6 +185365,24 @@
       ]
     },
     {
+      "filename": "2018-10-15-mariategui-and-marxism.md",
+      "slug": "mariategui-and-marxism",
+      "title": "Mariategui and Indo-American Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17099,
+      "topWord": "land",
+      "topCount": 140,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-10-15-mariategui-and-marxism.md"
+    },
+    {
       "filename": "2018-10-15-panchayati-raj-73rd-amendment-explained.md",
       "slug": "panchayati-raj-73rd-amendment-explained",
       "title": "The 73rd Amendment Explained: Panchayati Raj Provisions",
@@ -181967,6 +185671,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-01-74th-amendment-urban-local-bodies.md"
     },
     {
+      "filename": "2018-11-01-cuban-revolution-marxist-analysis.md",
+      "slug": "cuban-revolution-marxist-analysis",
+      "title": "The Cuban Revolution: A Marxist Reading",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18381,
+      "topWord": "revolution",
+      "topCount": 245,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-01-cuban-revolution-marxist-analysis.md"
+    },
+    {
       "filename": "2018-11-01-fair-credit-reporting-act-1970-guide.md",
       "slug": "fair-credit-reporting-act-1970-guide",
       "title": "Fair Credit Reporting Act: Consumer Files and Rights",
@@ -182235,6 +185957,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-12-canada-uk-khalistan-safe-havens.md"
+    },
+    {
+      "filename": "2018-11-15-che-guevara-marxist-theory.md",
+      "slug": "che-guevara-marxist-theory",
+      "title": "Che Guevara: Theory and Practice",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18046,
+      "topWord": "guevara",
+      "topCount": 155,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-11-15-che-guevara-marxist-theory.md"
     },
     {
       "filename": "2018-11-15-magnuson-moss-warranty-act-1975.md",
@@ -182701,6 +186441,112 @@
         {
           "word": "technology",
           "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2018-12-01-allende-chile-democratic-road.md",
+      "slug": "allende-chile-democratic-road",
+      "title": "Allende's Chile and the Democratic Road",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18468,
+      "topWord": "government",
+      "topCount": 419,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-12-01-allende-chile-democratic-road.md",
+      "flaggedWords": [
+        {
+          "word": "government",
+          "count": 419
+        }
+      ],
+      "top20": [
+        {
+          "word": "government",
+          "count": 419
+        },
+        {
+          "word": "chilean",
+          "count": 140
+        },
+        {
+          "word": "whose",
+          "count": 130
+        },
+        {
+          "word": "road",
+          "count": 128
+        },
+        {
+          "word": "coalition",
+          "count": 108
+        },
+        {
+          "word": "centre",
+          "count": 99
+        },
+        {
+          "word": "transformation",
+          "count": 87
+        },
+        {
+          "word": "opposition",
+          "count": 78
+        },
+        {
+          "word": "flank",
+          "count": 76
+        },
+        {
+          "word": "chile",
+          "count": 70
+        },
+        {
+          "word": "democratic",
+          "count": 70
+        },
+        {
+          "word": "argument",
+          "count": 67
+        },
+        {
+          "word": "itself",
+          "count": 67
+        },
+        {
+          "word": "party",
+          "count": 67
+        },
+        {
+          "word": "coup",
+          "count": 62
+        },
+        {
+          "word": "strategy",
+          "count": 62
+        },
+        {
+          "word": "country",
+          "count": 61
+        },
+        {
+          "word": "economic",
+          "count": 53
+        },
+        {
+          "word": "required",
+          "count": 52
+        },
+        {
+          "word": "majority",
+          "count": 52
         }
       ]
     },
@@ -183495,6 +187341,24 @@
       ]
     },
     {
+      "filename": "2018-12-15-liberation-theology-and-marxism.md",
+      "slug": "liberation-theology-and-marxism",
+      "title": "Liberation Theology and Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18255,
+      "topWord": "school",
+      "topCount": 291,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2018-12-15-liberation-theology-and-marxism.md"
+    },
+    {
       "filename": "2018-12-15-rera-homebuyer-remedies-india.md",
       "slug": "rera-homebuyer-remedies-india",
       "title": "RERA Homebuyer Remedies: Refund, Interest, Recovery",
@@ -184209,6 +188073,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-01-01-consumer-credit-law-impact.md"
     },
     {
+      "filename": "2019-01-01-pink-tide-marxist-analysis.md",
+      "slug": "pink-tide-marxist-analysis",
+      "title": "The Pink Tide and Its Limits",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18605,
+      "topWord": "period",
+      "topCount": 230,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-01-01-pink-tide-marxist-analysis.md"
+    },
+    {
       "filename": "2019-01-01-scream-craven-meta-horror-revival.md",
       "slug": "scream-craven-meta-horror-revival",
       "title": "Scream: How Meta Horror Revived the Slasher",
@@ -184911,6 +188793,112 @@
         {
           "word": "surveillance",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2019-01-15-dependency-theory-latin-america.md",
+      "slug": "dependency-theory-latin-america",
+      "title": "Dependency Theory in Latin America",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19050,
+      "topWord": "school",
+      "topCount": 410,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-01-15-dependency-theory-latin-america.md",
+      "flaggedWords": [
+        {
+          "word": "school",
+          "count": 410
+        }
+      ],
+      "top20": [
+        {
+          "word": "school",
+          "count": 410
+        },
+        {
+          "word": "commission",
+          "count": 178
+        },
+        {
+          "word": "centre",
+          "count": 151
+        },
+        {
+          "word": "region",
+          "count": 147
+        },
+        {
+          "word": "theory",
+          "count": 136
+        },
+        {
+          "word": "santiago",
+          "count": 117
+        },
+        {
+          "word": "dependency",
+          "count": 114
+        },
+        {
+          "word": "programme",
+          "count": 104
+        },
+        {
+          "word": "formation",
+          "count": 90
+        },
+        {
+          "word": "dependence",
+          "count": 88
+        },
+        {
+          "word": "development",
+          "count": 80
+        },
+        {
+          "word": "tradition",
+          "count": 78
+        },
+        {
+          "word": "university",
+          "count": 75
+        },
+        {
+          "word": "structure",
+          "count": 74
+        },
+        {
+          "word": "article",
+          "count": 71
+        },
+        {
+          "word": "american",
+          "count": 68
+        },
+        {
+          "word": "latin",
+          "count": 68
+        },
+        {
+          "word": "institutions",
+          "count": 68
+        },
+        {
+          "word": "history",
+          "count": 67
+        },
+        {
+          "word": "nineteen",
+          "count": 66
         }
       ]
     },
@@ -185961,6 +189949,24 @@
       ]
     },
     {
+      "filename": "2019-02-01-guerrilla-vs-electoral-strategy.md",
+      "slug": "guerrilla-vs-electoral-strategy",
+      "title": "Guerrilla vs Electoral Strategy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18868,
+      "topWord": "road",
+      "topCount": 260,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-02-01-guerrilla-vs-electoral-strategy.md"
+    },
+    {
       "filename": "2019-02-01-slum-rehabilitation-law-india.md",
       "slug": "slum-rehabilitation-law-india",
       "title": "Slum Rehabilitation Law in India: Statutes and Rights",
@@ -186265,6 +190271,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-02-11-russia-salisbury-poisonings.md"
+    },
+    {
+      "filename": "2019-02-15-marxism-latin-america-exam-answers.md",
+      "slug": "marxism-latin-america-exam-answers",
+      "title": "Marxism in Latin America: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19167,
+      "topWord": "candidate",
+      "topCount": 219,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-02-15-marxism-latin-america-exam-answers.md"
     },
     {
       "filename": "2019-02-15-rera-vs-consumer-protection-homebuyers.md",
@@ -187099,6 +191123,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-01-post-911-gi-bill-2008-guide.md"
+    },
+    {
+      "filename": "2019-03-01-soviet-marxism-complete-guide.md",
+      "slug": "soviet-marxism-complete-guide",
+      "title": "Soviet Marxism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 17952,
+      "topWord": "doctrine",
+      "topCount": 232,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-01-soviet-marxism-complete-guide.md"
     },
     {
       "filename": "2019-03-01-technology-law-india-complete-guide.md",
@@ -187959,6 +192001,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-15-montgomery-gi-bill-1984-guide.md"
+    },
+    {
+      "filename": "2019-03-15-stalin-and-marxism-leninism.md",
+      "slug": "stalin-and-marxism-leninism",
+      "title": "Stalin and Marxism-Leninism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18226,
+      "topWord": "doctrine",
+      "topCount": 334,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-03-15-stalin-and-marxism-leninism.md"
     },
     {
       "filename": "2019-03-18-raw-bangladesh-1971.md",
@@ -188895,6 +192955,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-01-raw-sikkim-annexation-1975.md"
     },
     {
+      "filename": "2019-04-01-socialism-in-one-country.md",
+      "slug": "socialism-in-one-country",
+      "title": "Socialism in One Country Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18164,
+      "topWord": "doctrine",
+      "topCount": 557,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-01-socialism-in-one-country.md",
+      "flaggedWords": [
+        {
+          "word": "doctrine",
+          "count": 557
+        }
+      ],
+      "top20": [
+        {
+          "word": "doctrine",
+          "count": 557
+        },
+        {
+          "word": "country",
+          "count": 175
+        },
+        {
+          "word": "party",
+          "count": 150
+        },
+        {
+          "word": "soviet",
+          "count": 123
+        },
+        {
+          "word": "construction",
+          "count": 123
+        },
+        {
+          "word": "article",
+          "count": 116
+        },
+        {
+          "word": "movement",
+          "count": 110
+        },
+        {
+          "word": "revolution",
+          "count": 109
+        },
+        {
+          "word": "controversy",
+          "count": 109
+        },
+        {
+          "word": "argument",
+          "count": 89
+        },
+        {
+          "word": "international",
+          "count": 86
+        },
+        {
+          "word": "socialism",
+          "count": 85
+        },
+        {
+          "word": "itself",
+          "count": 85
+        },
+        {
+          "word": "question",
+          "count": 85
+        },
+        {
+          "word": "whose",
+          "count": 79
+        },
+        {
+          "word": "opposition",
+          "count": 79
+        },
+        {
+          "word": "record",
+          "count": 77
+        },
+        {
+          "word": "national",
+          "count": 76
+        },
+        {
+          "word": "completion",
+          "count": 64
+        },
+        {
+          "word": "building",
+          "count": 63
+        }
+      ]
+    },
+    {
       "filename": "2019-04-01-veterans-choice-act-2014-guide.md",
       "slug": "veterans-choice-act-2014-guide",
       "title": "Veterans Choice Act: Access, Accountability, and Care",
@@ -189427,6 +193593,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-15-shreya-singhal-judgment-free-speech.md"
+    },
+    {
+      "filename": "2019-04-15-soviet-planning-how-it-worked.md",
+      "slug": "soviet-planning-how-it-worked",
+      "title": "Soviet Planning: How It Actually Worked",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19189,
+      "topWord": "plan",
+      "topCount": 273,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-15-soviet-planning-how-it-worked.md"
     },
     {
       "filename": "2019-04-15-targeted-killing-legal-debate.md",
@@ -190089,6 +194273,24 @@
           "count": 27
         }
       ]
+    },
+    {
+      "filename": "2019-05-01-soviet-collapse-marxist-explanations.md",
+      "slug": "soviet-collapse-marxist-explanations",
+      "title": "The Soviet Collapse: Marxist Explanations",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18800,
+      "topWord": "union",
+      "topCount": 147,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-01-soviet-collapse-marxist-explanations.md"
     },
     {
       "filename": "2019-05-01-va-mission-act-2018-guide.md",
@@ -190925,6 +195127,24 @@
       ]
     },
     {
+      "filename": "2019-05-15-was-the-ussr-socialist.md",
+      "slug": "was-the-ussr-socialist",
+      "title": "Was the USSR Socialist?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18872,
+      "topWord": "property",
+      "topCount": 196,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-15-was-the-ussr-socialist.md"
+    },
+    {
       "filename": "2019-05-20-turkey-pkk-cross-border-ops.md",
       "slug": "turkey-pkk-cross-border-ops",
       "title": "Turkey PKK Cross-Border Operations",
@@ -191607,6 +195827,24 @@
           "count": 40
         }
       ]
+    },
+    {
+      "filename": "2019-06-01-actually-existing-socialism-europe.md",
+      "slug": "actually-existing-socialism-europe",
+      "title": "Actually Existing Socialism in Europe",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19057,
+      "topWord": "critics",
+      "topCount": 215,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-01-actually-existing-socialism-europe.md"
     },
     {
       "filename": "2019-06-01-digital-personal-data-protection-act-2023.md",
@@ -192423,6 +196661,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-15-schindlers-list-spielberg-holocaust.md"
     },
     {
+      "filename": "2019-06-15-socialist-states-economic-record.md",
+      "slug": "socialist-states-economic-record",
+      "title": "The Economic Record of Socialist States",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19299,
+      "topWord": "record",
+      "topCount": 283,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-15-socialist-states-economic-record.md"
+    },
+    {
       "filename": "2019-06-15-va-claims-process-law.md",
       "slug": "va-claims-process-law",
       "title": "How VA Claims Law Is Administered: Process and Review",
@@ -192969,6 +197225,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2019-07-01-marxism-and-authoritarianism.md",
+      "slug": "marxism-and-authoritarianism",
+      "title": "Marxism and Authoritarianism: The Charge",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19137,
+      "topWord": "party",
+      "topCount": 229,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-01-marxism-and-authoritarianism.md"
     },
     {
       "filename": "2019-07-01-montgomery-vs-post-911-gi-bill.md",
@@ -193683,6 +197957,24 @@
           "count": 25
         }
       ]
+    },
+    {
+      "filename": "2019-07-15-soviet-marxism-exam-answers.md",
+      "slug": "soviet-marxism-exam-answers",
+      "title": "Soviet Marxism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19551,
+      "topWord": "question",
+      "topCount": 193,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-15-soviet-marxism-exam-answers.md"
     },
     {
       "filename": "2019-07-15-trai-act-telecom-regulation-india.md",
@@ -372050,9 +376342,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8774,
-      "topWord": "dating",
-      "topCount": 151,
+      "wordCount": 7781,
+      "topWord": "november",
+      "topCount": 122,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372068,9 +376360,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8571,
+      "wordCount": 8737,
       "topWord": "dating",
-      "topCount": 137,
+      "topCount": 135,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372086,9 +376378,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8392,
+      "wordCount": 8546,
       "topWord": "dating",
-      "topCount": 150,
+      "topCount": 145,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372104,9 +376396,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8000,
+      "wordCount": 8302,
       "topWord": "room",
-      "topCount": 150,
+      "topCount": 142,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372122,9 +376414,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7948,
+      "wordCount": 8333,
       "topWord": "night",
-      "topCount": 149,
+      "topCount": 153,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372140,9 +376432,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8865,
+      "wordCount": 8304,
       "topWord": "november",
-      "topCount": 230,
+      "topCount": 182,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -372152,93 +376444,93 @@
       "flaggedWords": [
         {
           "word": "november",
-          "count": 230
+          "count": 182
         },
         {
           "word": "dating",
-          "count": 201
+          "count": 179
         }
       ],
       "top20": [
         {
           "word": "november",
-          "count": 230
+          "count": 182
         },
         {
           "word": "dating",
-          "count": 201
-        },
-        {
-          "word": "night",
-          "count": 166
-        },
-        {
-          "word": "room",
-          "count": 134
+          "count": 179
         },
         {
           "word": "singles",
-          "count": 129
+          "count": 133
         },
         {
-          "word": "speed",
+          "word": "room",
+          "count": 125
+        },
+        {
+          "word": "night",
           "count": 124
         },
         {
           "word": "rooms",
-          "count": 111
+          "count": 113
         },
         {
           "word": "city",
-          "count": 109
+          "count": 101
+        },
+        {
+          "word": "speed",
+          "count": 101
         },
         {
           "word": "events",
-          "count": 85
+          "count": 86
         },
         {
           "word": "fortnight",
-          "count": 81
+          "count": 80
         },
         {
           "word": "ages",
-          "count": 81
+          "count": 72
         },
         {
           "word": "guide",
-          "count": 67
-        },
-        {
-          "word": "free",
-          "count": 65
-        },
-        {
-          "word": "miami",
-          "count": 63
-        },
-        {
-          "word": "austin",
-          "count": 60
-        },
-        {
-          "word": "dedicated",
-          "count": 60
-        },
-        {
-          "word": "festival",
-          "count": 55
+          "count": 64
         },
         {
           "word": "chicago",
-          "count": 51
+          "count": 57
         },
         {
-          "word": "tier",
-          "count": 51
+          "word": "miami",
+          "count": 56
+        },
+        {
+          "word": "dedicated",
+          "count": 56
+        },
+        {
+          "word": "houston",
+          "count": 49
+        },
+        {
+          "word": "austin",
+          "count": 49
         },
         {
           "word": "san",
-          "count": 47
+          "count": 48
+        },
+        {
+          "word": "francisco",
+          "count": 48
+        },
+        {
+          "word": "thanksgiving",
+          "count": 48
         }
       ]
     },
@@ -372250,9 +376542,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8703,
+      "wordCount": 8618,
       "topWord": "vegas",
-      "topCount": 141,
+      "topCount": 128,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372268,9 +376560,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8072,
+      "wordCount": 7986,
       "topWord": "event",
-      "topCount": 144,
+      "topCount": 153,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372286,9 +376578,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8464,
+      "wordCount": 9588,
       "topWord": "miami",
-      "topCount": 222,
+      "topCount": 205,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -372298,89 +376590,89 @@
       "flaggedWords": [
         {
           "word": "miami",
-          "count": 222
+          "count": 205
         }
       ],
       "top20": [
         {
           "word": "miami",
-          "count": 222
-        },
-        {
-          "word": "singles",
-          "count": 115
+          "count": 205
         },
         {
           "word": "november",
-          "count": 106
+          "count": 119
         },
         {
-          "word": "dating",
-          "count": 89
-        },
-        {
-          "word": "fortnight",
-          "count": 76
-        },
-        {
-          "word": "beach",
-          "count": 71
+          "word": "singles",
+          "count": 118
         },
         {
           "word": "night",
-          "count": 71
+          "count": 97
         },
         {
-          "word": "fair",
-          "count": 63
-        },
-        {
-          "word": "event",
-          "count": 63
-        },
-        {
-          "word": "events",
-          "count": 55
-        },
-        {
-          "word": "room",
-          "count": 55
-        },
-        {
-          "word": "pm",
-          "count": 53
-        },
-        {
-          "word": "free",
-          "count": 51
-        },
-        {
-          "word": "social",
-          "count": 50
+          "word": "fortnight",
+          "count": 90
         },
         {
           "word": "festival",
+          "count": 87
+        },
+        {
+          "word": "dating",
+          "count": 86
+        },
+        {
+          "word": "thanksgiving",
+          "count": 78
+        },
+        {
+          "word": "sunday",
+          "count": 69
+        },
+        {
+          "word": "event",
+          "count": 69
+        },
+        {
+          "word": "free",
+          "count": 68
+        },
+        {
+          "word": "room",
+          "count": 64
+        },
+        {
+          "word": "city",
+          "count": 63
+        },
+        {
+          "word": "beach",
+          "count": 61
+        },
+        {
+          "word": "events",
+          "count": 57
+        },
+        {
+          "word": "little",
+          "count": 54
+        },
+        {
+          "word": "week",
+          "count": 53
+        },
+        {
+          "word": "club",
+          "count": 52
+        },
+        {
+          "word": "pm",
           "count": 50
         },
         {
           "word": "brickell",
           "count": 49
-        },
-        {
-          "word": "speed",
-          "count": 49
-        },
-        {
-          "word": "club",
-          "count": 48
-        },
-        {
-          "word": "saturday",
-          "count": 47
-        },
-        {
-          "word": "person",
-          "count": 45
         }
       ]
     },
@@ -372392,9 +376684,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7904,
-      "topWord": "room",
-      "topCount": 137,
+      "wordCount": 7877,
+      "topWord": "dating",
+      "topCount": 131,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -372410,9 +376702,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7875,
-      "topWord": "night",
-      "topCount": 127,
+      "wordCount": 7874,
+      "topWord": "dating",
+      "topCount": 100,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -375321,6 +379613,24 @@
       ]
     },
     {
+      "filename": "2026-11-13-how-presidential-removal-power-works.md",
+      "slug": "how-presidential-removal-power-works",
+      "title": "How Presidential Removal Power Works in American Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9723,
+      "topWord": "removal",
+      "topCount": 147,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-13-how-presidential-removal-power-works.md"
+    },
+    {
       "filename": "2026-11-13-mary-cowden-clarke-juliet-girlhood.md",
       "slug": "mary-cowden-clarke-juliet-girlhood",
       "title": "Mary Cowden Clarke and Juliet's Girlhood: The White Dove",
@@ -375425,6 +379735,220 @@
           "count": 29
         }
       ]
+    },
+    {
+      "filename": "2026-11-13-nightjar-inert-house-013.md",
+      "slug": "nightjar-inert-house-013",
+      "title": "Nightjar: The Inert House on the Dravin Border Station",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9071,
+      "topWord": "station",
+      "topCount": 123,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-13-nightjar-inert-house-013.md"
+    },
+    {
+      "filename": "2026-11-14-how-cascading-failures-work-in-cloud-systems.md",
+      "slug": "how-cascading-failures-work-in-cloud-systems",
+      "title": "How Cascading Failures Work Inside Large Cloud Systems",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 10302,
+      "topWord": "capacity",
+      "topCount": 100,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-14-how-cascading-failures-work-in-cloud-systems.md"
+    },
+    {
+      "filename": "2026-11-14-nightjar-carrowmere-run-014.md",
+      "slug": "nightjar-carrowmere-run-014",
+      "title": "Nightjar: The Carrowmere Run and the Stamped Alloy Crates",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8533,
+      "topWord": "rann",
+      "topCount": 118,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-14-nightjar-carrowmere-run-014.md"
+    },
+    {
+      "filename": "2026-11-15-how-cinematography-works.md",
+      "slug": "how-cinematography-works",
+      "title": "How Cinematography Works: Light, Lens, Position and Motion",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9876,
+      "topWord": "light",
+      "topCount": 170,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-15-how-cinematography-works.md"
+    },
+    {
+      "filename": "2026-11-15-nightjar-foundry-list-015.md",
+      "slug": "nightjar-foundry-list-015",
+      "title": "Nightjar: Four Foundries and the One That Sells Quietly",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9030,
+      "topWord": "office",
+      "topCount": 117,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-15-nightjar-foundry-list-015.md"
+    },
+    {
+      "filename": "2026-11-16-how-chapter-7-liquidation-works.md",
+      "slug": "how-chapter-7-liquidation-works",
+      "title": "How Chapter 7 Liquidation Works: Trustee, Claims, Priority",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10125,
+      "topWord": "section",
+      "topCount": 239,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-16-how-chapter-7-liquidation-works.md",
+      "flaggedWords": [
+        {
+          "word": "section",
+          "count": 239
+        }
+      ],
+      "top20": [
+        {
+          "word": "section",
+          "count": 239
+        },
+        {
+          "word": "trustee",
+          "count": 156
+        },
+        {
+          "word": "claims",
+          "count": 122
+        },
+        {
+          "word": "estate",
+          "count": 113
+        },
+        {
+          "word": "creditors",
+          "count": 110
+        },
+        {
+          "word": "property",
+          "count": 105
+        },
+        {
+          "word": "value",
+          "count": 97
+        },
+        {
+          "word": "chapter",
+          "count": 81
+        },
+        {
+          "word": "claim",
+          "count": 80
+        },
+        {
+          "word": "liquidation",
+          "count": 78
+        },
+        {
+          "word": "bankruptcy",
+          "count": 73
+        },
+        {
+          "word": "sale",
+          "count": 73
+        },
+        {
+          "word": "court",
+          "count": 62
+        },
+        {
+          "word": "assets",
+          "count": 61
+        },
+        {
+          "word": "debtor",
+          "count": 59
+        },
+        {
+          "word": "creditor",
+          "count": 59
+        },
+        {
+          "word": "filing",
+          "count": 53
+        },
+        {
+          "word": "priority",
+          "count": 52
+        },
+        {
+          "word": "company",
+          "count": 50
+        },
+        {
+          "word": "law",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-16-nightjar-scour-crossing-016.md",
+      "slug": "nightjar-scour-crossing-016",
+      "title": "Nightjar: The Scour Crossing and a Country Made of Paper",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8720,
+      "topWord": "paper",
+      "topCount": 126,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-16-nightjar-scour-crossing-016.md"
     },
     {
       "filename": "2026-11-16-zelda-fitzgerald-gatsby.md",
@@ -375537,6 +380061,120 @@
         {
           "word": "read",
           "count": 17
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-17-how-federal-reserve-master-accounts-work.md",
+      "slug": "how-federal-reserve-master-accounts-work",
+      "title": "How Federal Reserve Master Accounts Work: Access and Risk",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10357,
+      "topWord": "bank",
+      "topCount": 330,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-17-how-federal-reserve-master-accounts-work.md",
+      "flaggedWords": [
+        {
+          "word": "bank",
+          "count": 330
+        },
+        {
+          "word": "account",
+          "count": 300
+        },
+        {
+          "word": "reserve",
+          "count": 300
+        }
+      ],
+      "top20": [
+        {
+          "word": "bank",
+          "count": 330
+        },
+        {
+          "word": "account",
+          "count": 300
+        },
+        {
+          "word": "reserve",
+          "count": 300
+        },
+        {
+          "word": "federal",
+          "count": 189
+        },
+        {
+          "word": "institution",
+          "count": 180
+        },
+        {
+          "word": "master",
+          "count": 113
+        },
+        {
+          "word": "payment",
+          "count": 112
+        },
+        {
+          "word": "settlement",
+          "count": 102
+        },
+        {
+          "word": "risk",
+          "count": 84
+        },
+        {
+          "word": "institutions",
+          "count": 73
+        },
+        {
+          "word": "balance",
+          "count": 72
+        },
+        {
+          "word": "central",
+          "count": 71
+        },
+        {
+          "word": "credit",
+          "count": 70
+        },
+        {
+          "word": "charter",
+          "count": 69
+        },
+        {
+          "word": "balances",
+          "count": 68
+        },
+        {
+          "word": "access",
+          "count": 68
+        },
+        {
+          "word": "services",
+          "count": 64
+        },
+        {
+          "word": "payments",
+          "count": 57
+        },
+        {
+          "word": "money",
+          "count": 57
+        },
+        {
+          "word": "funds",
+          "count": 54
         }
       ]
     },

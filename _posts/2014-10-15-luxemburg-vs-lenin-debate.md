@@ -9,7 +9,7 @@ excerpt: "Luxemburg and Lenin argued about the party for fifteen years and kept 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 124
 author: "rachel-foster"
-last_updated: 2014-10-15
+last_updated: 2026-11-17
 lang: en
 ---
 The quarrel between Rosa Luxemburg and Vladimir Lenin is usually introduced to readers as a contest between two temperaments, and the introduction does both of them an injury before the evidence is even heard. On one side stands the organiser, suspicious of enthusiasm, drilling his faction into an instrument that could seize and hold power. On the other stands the tribune of the masses, trusting the energy of the crowd, allergic to committees, waiting for history to move through spontaneous action rather than through plans drawn up in exile. Luxemburg against organisation, Lenin against the crowd: the pairing is neat, memorable, and false in nearly every particular that matters. Luxemburg founded parties, led one for most of her adult life, wrote its programme, edited its press and disciplined its factions with a polemical ferocity her opponents remembered for decades. Lenin, for his part, wrote some of the most perceptive pages any European socialist produced about the creative power of mass action during the revolution of 1905, and repeatedly urged his own organisation to throw its doors open to workers flooding toward politics. A debate between two party builders about how a party should be built is a harder subject than a fable about temperament, and it is also a far more instructive one.

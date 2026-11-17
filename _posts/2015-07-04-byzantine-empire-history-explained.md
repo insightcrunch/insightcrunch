@@ -5,11 +5,11 @@ page_title: "The Byzantine Empire Explained: Why the \"Byzantines\" Were Really 
 date: 2015-07-04
 categories: ["Leisure"]
 tags: ["byzantine-empire", "eastern-roman-empire", "constantinople", "medieval-history", "byzantine-history", "ancient-history"]
-excerpt: "The Byzantine Empire is the Eastern Roman Empire. The Rhomaioi called themselves Romans for a thousand years. Byzantine is a 1557 scholarly invention."
+excerpt: "Why Byzantium mattered: the empire that kept Roman law, Greek learning, and Christian theology alive for a millennium."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2015-07-04
+last_updated: 2026-11-17
 lang: en
 ---
 No document survives, written by the people it supposedly describes, that uses the word "Byzantine." For eleven centuries, from the moment Constantine I dedicated his new capital on the Bosporus in 330 CE to the morning of May 29, 1453, when Ottoman troops poured through the shattered Theodosian Walls, the inhabitants of the Eastern Roman realm called themselves Rhomaioi - Romans. Their empire was the Basileia ton Rhomaion, the Empire of the Romans. The sovereign carried the title Basileus ton Rhomaion. "Byzantine" entered scholarly vocabulary in 1557 through a German humanist named Hieronymus Wolf who needed a label for a body of Greek historical texts, and it migrated into popular usage over the following centuries until it came to seem like the natural, inevitable name for this civilization. It was not. Rather, it is a sixteenth-century scholarly convenience that has functioned, over four centuries of uncritical repetition, as a quiet mislabeling - one that suggests the Eastern Roman realm was something fundamentally different from what its residents understood themselves to be running and living inside.

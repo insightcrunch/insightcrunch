@@ -9,7 +9,7 @@ excerpt: "Habermas kept the critical ambition and changed its paradigm: the aban
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 133
 author: "diana-patel"
-last_updated: 2015-09-15
+last_updated: 2026-11-17
 lang: en
 ---
 Jurgen Habermas is the thinker readers most often file under the wrong heading. One shelf in the bookshop of ideas holds him as the last Marxist of the Frankfurt School, the second generation's loyal heir who carried critical theory out of its exile and into the universities of a rebuilt Germany. The neighbouring shelf holds him as a liberal in disguise, a philosopher of parliaments and procedures who kept the vocabulary of emancipation while quietly surrendering everything that made the tradition dangerous. Both filings are made in good faith, both can quote chapter and verse, and both fail for the same reason: they treat his relation to Marx as a matter of loyalty, when it is in fact a matter of engineering. Habermas did not drift away from Marxism, and he did not defect from it. He performed a single, deliberate, fully argued operation on its foundations, replacing the paradigm on which the whole structure rested, and then he rebuilt, over six decades, whatever of the structure the new foundation could still carry. To judge the result, a reader needs the operation specified, not the loyalty assessed.

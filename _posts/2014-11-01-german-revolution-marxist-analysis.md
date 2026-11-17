@@ -9,7 +9,7 @@ excerpt: "The German Revolution was lost at identifiable decision points: the De
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 124
 author: "rachel-foster"
-last_updated: 2014-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 The German Revolution poses a dating problem that most summaries never notice. Ask when it was defeated and the familiar answer points toward bloodshed in Berlin during January 1919, toward barricades, artillery fire and two murdered leaders whose names still carry an emotional charge. That answer mistakes a consequence for a cause. Weeks before any shot was fired in the capital, a national congress representing the very councils that embodied the upheaval had voted, by a large majority, for elections to a National Assembly and against building a republic on council foundations. By the time armed men contested the streets, the constitutional question had already been settled through a procedure the insurgents themselves had helped to create. Grading the episode at its decision points, rather than at its most dramatic scenes, changes almost everything about how responsibility, possibility and failure should be described.

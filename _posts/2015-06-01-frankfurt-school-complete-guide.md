@@ -9,7 +9,7 @@ excerpt: "The Frankfurt School turned Marxist criticism toward culture, psyche a
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 130
 author: "rachel-foster"
-last_updated: 2015-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Frankfurt School is the name given, mostly after the fact, to the circle of social theorists who worked at one address: the Institute for Social Research in Frankfurt, founded in 1923 and rebuilt there after a long exile. Almost everything commonly said about it compresses that circle into a mood. Four surnames are recited, a gloom about mass culture is assumed, and the school is filed away as philosophy that lost interest in evidence and in politics alike. This guide works against the compression by returning to the institution itself: its founding money, its first director, its change of leadership, its journal, its surveys and questionnaires, its quarrels, and its members, who held their posts in a building rather than in a temperament.

@@ -3,10 +3,10 @@ layout: post
 title: "Maurya Empire: Ancient India's First Superpower"
 page_title: "Maurya Empire: Why Ashoka's Post-Kalinga Conversion Produced History's Most Unusual Imperial Decision"
 date: 2015-06-24
-last_updated: 2015-06-24
+last_updated: 2026-11-17
 author: "chloe-martin"
 slug: "maurya-empire-ancient-india"
-excerpt: "Ashoka's renunciation of conquest after Kalinga is the ancient world's most unusual imperial decision. Sincere, strategic, or both, it transformed India."
+excerpt: "Why the Maurya Empire shaped Indian history: the unification, the conquest, and the king who chose nonviolence."
 categories: ["Leisure"]
 tags: ["maurya-empire", "ashoka", "ancient-india", "buddhism", "chandragupta", "ancient-history"]
 image: "/assets/images/blog/blog-57.webp"

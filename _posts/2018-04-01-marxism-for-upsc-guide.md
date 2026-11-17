@@ -9,7 +9,7 @@ excerpt: "UPSC rewards calibrated depth on Marxism: the optional papers need eva
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 158
 author: "anita-das"
-last_updated: 2018-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 ## Marxism for UPSC: one topic, several examinations

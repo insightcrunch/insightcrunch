@@ -9,7 +9,7 @@ excerpt: "Presidential removal power decides who controls federal agencies: the 
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 78
 author: "david-thornton"
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 lang: en
 ---
 ## The Answer Begins With a Silence in the Text

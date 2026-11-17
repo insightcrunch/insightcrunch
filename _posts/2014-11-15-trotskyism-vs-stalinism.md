@@ -9,7 +9,7 @@ excerpt: "Trotskyism and Stalinism offer four rival analyses of the same state: 
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 125
 author: "rachel-foster"
-last_updated: 2014-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 Trotskyism and Stalinism are most often used as insults or as badges, traded between people who have usually inherited their allegiance before examining the evidence. Stripped of the polemic, the two names denote something more precise and more interesting: rival analyses of one and the same state, the Soviet Union, offered by people who began inside a single revolutionary movement and agreed about almost everything except what that movement had produced. One side held that the state remained socialist in its foundations and required defence and development. The other held that a privileged bureaucracy had usurped political power while leaving the property foundations of the revolution intact, and required removal by a political revolution that would preserve those foundations. Around those two positions, dissidents from the second camp later built two further analyses, arguing that the bureaucracy was not a parasite on the system but the ruling class of a new kind of exploitative society. Any honest comparison has to handle all four, because the argument among them is where the substance lives.

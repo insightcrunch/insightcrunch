@@ -9,7 +9,7 @@ excerpt: "Marxism in India in an exam rewards the critique-acknowledgement move:
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 158
 author: "rachel-foster"
-last_updated: 2018-04-15
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism in India is examined wherever modern India is examined, and a candidate who understands where it sits in each paper has already solved half the problem of writing on it. Political science papers meet the material as a movement: how communist parties formed, split, contested elections and governed states inside a parliamentary republic. Sociology papers meet it as an argument: whether caste can be read through class, and what happens to the classical framework when it is carried into a society ordered by graded hierarchy. History papers meet it twice over, first as a strand of the freedom struggle and the decades after independence, and then as a school of historians who rewrote the national past from its agrarian base upward. General studies papers compress all three meetings into short answers written against the clock. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.

@@ -9,7 +9,7 @@ excerpt: "Overdetermination names a whole where every contradiction works on eve
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 136
 author: "diana-patel"
-last_updated: 2016-01-01
+last_updated: 2026-11-17
 lang: en
 ---
 Overdetermination is a term from the French Marxist philosophy of the 1960s, borrowed openly from Freud, and it names a single exact claim: in a social formation, no contradiction ever operates in a pure state, because every contradiction is always modified by the other contradictions that exist alongside it. A reader who met the word in a seminar, in a footnote, or in an argument about something else entirely has usually met it in a degraded form, as a fancy way of saying that an event had many causes. That degraded form is not a loose paraphrase of the concept. It is the concept with its point removed, and recovering the point is the whole work of this glossary entry. The point is historical before it is philosophical. The term was formulated to explain a specific puzzle, the success of revolution in the least industrially advanced of the major European powers, and it carries that explanation inside itself wherever it travels.

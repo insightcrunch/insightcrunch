@@ -9,7 +9,7 @@ excerpt: "Marxist economics in an exam rewards the three-sentence transformation
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 142
 author: "amanda-ross"
-last_updated: 2016-08-15
+last_updated: 2026-11-17
 lang: en
 ---
 Marxist economics is examined far more often than it is taught well, and the gap between those two facts is where marks are won and lost. What the assessment rewards on this topic is not loyalty and not hostility. It rewards accuracy about what is disputed: a candidate who can state what the first volume of Capital assumes, what the third volume shows, and precisely where the founder's own procedure gives out will outscore a candidate who has memorised a verdict, in whichever direction the verdict points. What it penalises is the overclaim. The answer that announces the labour theory of value as a doctrine of prices, or the transformation problem as either settled or fatal, tells the marker within two sentences that its author has read one source and believed it entire. Everything in this guide follows from that asymmetry. The topic is a discriminator not because it is obscure but because it is contested in print, by named economists, along lines a prepared candidate can reproduce exactly.

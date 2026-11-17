@@ -9,7 +9,7 @@ excerpt: "The vanguard party is Lenin's most argued-over invention: professional
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 119
 author: "rachel-foster"
-last_updated: 2014-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 Few terms in the vocabulary of Marxism carry a heavier charge than vanguard party, and few are used with less precision. The phrase is deployed as praise and as accusation, as the name of a solution and as the name of a catastrophe, often by speakers who would give different definitions if pressed. A glossary entry usually makes matters worse, because it defines the term as though it named a settled doctrine with fixed contents, when the historical reality is a phrase assembled gradually from an adjective, a polemic, an organisational emergency, and a congress decision taken fourteen years after the polemic. Restoring the term to the argument that produced it changes what it can honestly be said to mean, and that restoration is the work of this guide.

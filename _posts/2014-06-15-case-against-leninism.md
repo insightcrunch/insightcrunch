@@ -9,7 +9,7 @@ excerpt: "Leninism faces a charge ledger built over a century: substitution, the
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 121
 author: "amanda-ross"
-last_updated: 2014-06-15
+last_updated: 2026-11-17
 lang: en
 ---
 Every serious argument about Leninism eventually turns into an argument about dates, whether the speakers admit the fact or prefer to trade verdicts in the abstract. A charge that carries no date cannot be weighed, because the defence most often offered for the record of the early Soviet state is itself a claim about a period, about war and collapse and invasion, and a period has edges. This article is the prosecution in a series that has spent many instalments reconstructing what Lenin and his comrades thought, built and defended, and a prosecution has obligations of its own. It must state each charge at full strength, because a weakened charge proves nothing when it lands. It must enter the strongest available defence beside every charge before pressing it, because a verdict reached without hearing the other side is theatre rather than judgment. Above all it must grade honestly, marking the charges that fail, the defences that cover only part of the ground they claim, and the points where the evidence runs out and honest writers on opposed sides are left dividing over interpretation rather than fact.

@@ -9,7 +9,7 @@ excerpt: "Western Marxism is received through its editions and translations: the
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 138
 author: "chloe-martin"
-last_updated: 2016-03-15
+last_updated: 2026-11-17
 lang: en
 ---
 Western Marxism has a reputation for difficulty that puts off readers who would profit from it, and the reputation is only partly deserved. The books are hard, some of them genuinely and by design, but a large share of the difficulty that newcomers report is not in the texts at all. It sits in the order in which the texts are usually encountered, in the translations through which they are read, and in the accident of which works happened to be available in English when a reader went looking. A reader who begins with the most famous book, in a stiff translation, without knowing that its central term was mistranslated in a way its own author later confessed to, is not meeting the tradition. That reader is meeting the tradition's delivery problems, and understandably concludes that the whole enterprise is impenetrable.

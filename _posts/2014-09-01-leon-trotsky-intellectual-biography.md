@@ -9,7 +9,7 @@ excerpt: "Trotsky is judged by a contribution and a record that pull apart: perm
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 123
 author: "amanda-ross"
-last_updated: 2014-09-01
+last_updated: 2026-11-17
 lang: en
 ---
 Leon Trotsky presents biography with a problem that few political lives pose so sharply. The same man wrote one of the great histories of revolution in any language and commanded an army through a civil war of extraordinary brutality. He produced the most penetrating Marxist analysis of fascism while Hitler was still dismissible as a clown, and he had earlier proposed turning the trade unions into departments of the state and subjecting labour to military discipline. He was the most gifted polemicist of his generation, the organiser of the October insurrection, the founder of the Red Army, the leader of the first organised opposition to the bureaucracy that consumed the revolution, and a deportee murdered in a Mexico City suburb with an ice axe. Any honest profile must hold the contribution and the record in a single frame, because separating them is how both the worship and the demonology begin.

@@ -2,9 +2,9 @@
 title: "Race and Justice in Classic American Novels"
 page_title: "Race and Justice in Classic American Novels - To Kill a Mockingbird, Heart of Darkness, The Great Gatsby, and How Fiction Confronts America's Sins"
 date: 2015-03-01
-last_updated: 2015-03-01
+last_updated: 2026-11-17
 slug: "race-justice-american-novels"
-excerpt: "American fiction's greatest race novels work through six structural strategies. The question is not whether they address race but how they make it visible."
+excerpt: "Why American classics keep returning to race: the central wound American literature cannot stop examining."
 image: "/assets/images/blog/blog-78.webp"
 categories: ["Leisure"]
 tags: ["race", "justice", "american-literature", "literary-comparison", "classic-literature", "literary-analysis"]

@@ -3,11 +3,11 @@ layout: post
 title: "Julius Caesar: Life, Power, Assassination"
 page_title: "Julius Caesar: Life, Power, Assassination, and Why the Rubicon Was the Least-Bad Option"
 date: 2015-05-10
-last_updated: 2015-05-10
+last_updated: 2026-11-17
 slug: julius-caesar-life-assassination
 categories: ["Leisure"]
 tags: ["julius-caesar", "roman-republic", "rubicon", "roman-civil-war", "ancient-rome", "biography"]
-excerpt: "Caesar did not seize power. He crossed the Rubicon because the alternative was prosecution and execution for the very conquests the Senate had authorized."
+excerpt: "Why Julius Caesar still matters: the man, the conquest, the dictatorship, and the daggers that ended a republic."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "chloe-martin"

@@ -6,9 +6,9 @@ date: 2015-03-31
 categories: ["Leisure"]
 tags: ["nature", "wilderness", "literary-comparison", "classic-literature", "lord-of-the-flies", "wuthering-heights"]
 author: "lauren-hayes"
-excerpt: "Landscape in classic novels is not decorative scenery. It is analytical space where characters confront the truths that social and domestic worlds forbid."
+excerpt: "Why landscape matters as much as character in classic novels: setting as the silent argument of the entire book."
 image: "/assets/images/blog/blog-33.webp"
-last_updated: 2015-03-31
+last_updated: 2026-11-17
 reading_time: 70
 lang: en
 ---

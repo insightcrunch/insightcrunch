@@ -9,7 +9,7 @@ excerpt: "Sraffa rebuilt price theory from physical data and left values looking
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 139
 author: "amanda-ross"
-last_updated: 2016-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 Piero Sraffa was a Cambridge economist whose one short book, published in 1960, did two things that are usually discussed in separate rooms. It supplied the technical basis for the most damaging internal critique that mainstream capital theory has ever received, a critique whose central logical point the mainstream side publicly conceded. The same book also supplied the basis for a challenge to Marx, pressed by economists who worked inside Sraffa's own framework, according to which the labour values at the heart of Marx's theory are an unnecessary detour: everything values were supposed to explain, they argued, can be obtained without them. A reader who knows only the second of these facts owns half a portrait, and the missing half changes what the first one means.

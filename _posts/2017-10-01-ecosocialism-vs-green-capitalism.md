@@ -9,7 +9,7 @@ excerpt: "Ecosocialism and green capitalism divide over decoupling and its rate:
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 153
 author: "amanda-ross"
-last_updated: 2017-10-01
+last_updated: 2026-11-17
 lang: en
 ---
 Ecosocialism and green capitalism name the two most fully developed answers to a single question, and the question should be stated before either answer is described. Can economic output continue to grow while the material and energy an economy draws from the environment, and the waste it returns there, fall in absolute terms? If the answer is yes, then ecological stabilisation is a problem of prices, rules, and technology inside existing property relations. If the answer is no, stabilisation requires changing who owns production and who decides what gets made. The disagreement is therefore partly empirical. It turns on a body of evidence that both sides cite selectively, and the name given to the contested process is decoupling.

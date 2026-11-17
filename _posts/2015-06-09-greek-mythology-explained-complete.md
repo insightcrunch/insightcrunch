@@ -3,11 +3,11 @@ layout: post
 title: "Greek Mythology Explained: Complete Guide"
 page_title: "Greek Mythology Explained: Why the Stories Were a Religious System Not a Story Collection"
 date: 2015-06-09
-last_updated: 2015-06-09
+last_updated: 2026-11-17
 slug: greek-mythology-explained-complete
 categories: ["Leisure"]
 tags: ["greek-mythology", "ancient-greek-religion", "olympian-gods", "ancient-greece", "religious-history", "ancient-history"]
-excerpt: "Greek mythology is not a story collection. It is a religious system that organized polis life, civic festivals, and political legitimacy for a thousand years."
+excerpt: "Why Greek mythology never fades: the gods, heroes, and stories that became the permanent vocabulary of literature."
 image: "/assets/images/blog/blog-22.webp"
 author: "diana-patel"
 reading_time: 70

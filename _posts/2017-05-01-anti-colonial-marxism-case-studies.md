@@ -9,7 +9,7 @@ excerpt: "Marxism reached anti-colonial movements as analysis and organisation m
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 149
 author: "amanda-ross"
-last_updated: 2017-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism was adopted, adapted, and argued over by many of the movements that dismantled the European empires in the twentieth century, and it was nowhere adopted unchanged. The doctrine had been built for industrial societies, with their large factory workforces, their organised labour movements, and their long experience of parliamentary politics. The societies in which anti-colonial movements operated were mostly agrarian, their industrial working classes small or embryonic, their populations bound together less by shared employment than by shared subjection to a foreign power. Taking Marxism into such societies therefore meant rebuilding it: deciding who the revolutionary agent could be where the industrial proletariat barely existed, deciding how class demands related to the prior demand for national independence, and deciding what a party should look like when it had to be constructed in villages, jungles, and exile rather than in union halls.

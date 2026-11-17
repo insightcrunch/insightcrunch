@@ -9,7 +9,7 @@ excerpt: "Is China still socialist? The question splits on criteria, not on evid
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 162
 author: "diana-patel"
-last_updated: 2018-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 Few questions in political argument generate more heat per unit of light than the question whether China is socialist. It is asked in classrooms and comment threads, in seminar rooms and in the opinion pages, and it is usually answered within a sentence, with a confidence that the underlying material does not justify. The confidence is the first thing to discard. China presents the analyst with an economy in which most people sell their labour power for wages, in which a substantial class owns productive assets and appropriates the surplus those assets help to create, and in which production is organised overwhelmingly for exchange and for the expansion of capital. The same economy is governed by a party that calls itself communist, retains public ownership of land, banking, energy and other commanding sectors, and exercises a degree of direction over investment, and of authority over private capital, that has no real parallel among states everyone agrees to call capitalist. Both halves of that description are true. Any answer that proceeds by denying one of them is not an answer but a refusal.

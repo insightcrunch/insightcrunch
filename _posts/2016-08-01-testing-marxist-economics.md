@@ -9,7 +9,7 @@ excerpt: "Marxist economics meets data through conventions that decide the resul
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 142
 author: "rachel-foster"
-last_updated: 2016-08-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxist economics is routinely described, by opponents who have not looked and by sympathisers who have not looked either, as a doctrine that no evidence could ever touch. The description survives because it is convenient to both camps. A critic who believes the theory sealed against refutation need never examine its numbers, and a defender who believes the same thing need never produce any. Against that shared convenience stands an inconvenient fact: a body of empirical work inside this tradition exists, some of it built with standard econometric tools, some of it published in journals read well beyond the tradition's own circle, and some of it strong enough that economists with no Marxian commitments have taken its models up and estimated them on their own data. The honest answer to the testability question is therefore divided. Parts of the programme have been tested and have survived testing in qualified form. Parts can be measured only after a translation of official statistics whose rules are contested, so that the measurement inherits the contest. And one part, the existence of value magnitudes apart from the prices that supposedly express them, cannot be tested at all with any data that exists.

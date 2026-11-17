@@ -9,7 +9,7 @@ excerpt: "The reproduction schemas show an economy replacing itself in exact pro
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 139
 author: "amanda-ross"
-last_updated: 2016-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 The reproduction schemas are a pair of numerical models built by Karl Marx in the second volume of Capital to answer a question that sounds too simple to need asking: what has to happen, sector by sector and purchase by purchase, for an entire capitalist economy to finish one year and begin the next with its machinery intact, its workers fed, and its owners supplied? Marx divided all production into two great departments, one turning out the means of production and one turning out the means of consumption, and then showed that the two departments can only keep each other going if their outputs stand in definite proportions. The models were a demonstration, not a description. They proved that balanced reproduction is possible under stated proportions, and by doing so they defined the precise way in which it can fail, which is through the proportions being missed.

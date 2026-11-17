@@ -5,11 +5,11 @@ page_title: "Guy Montag in Fahrenheit 451 - The Fireman Who Stopped Burning and 
 date: 2014-11-21
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "guy-montag", "character-analysis", "literary-analysis", "classic-literature"]
-excerpt: "Guy Montag is not a man who discovers a hidden conscience. He is a formation-product whose structural fracture Bradbury tracks with clinical precision."
+excerpt: "Why Guy Montag matters in Fahrenheit 451: the ordinary man who realizes what he loves only by destroying it."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2014-11-21
+last_updated: 2026-11-17
 lang: en
 ---
 Guy Montag is a thirty-year-old fireman in Ray Bradbury's Fahrenheit 451 whose ten-year career of burning books collapses across the span of a single week, not because he discovers a conscience he always had, but because the arrangement that built him contains fractures Bradbury installed in the opening pages and then pressurized until the structure gave way.

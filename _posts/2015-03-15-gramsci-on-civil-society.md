@@ -9,7 +9,7 @@ excerpt: "Gramsci on civil society relocates the state into schools, churches, p
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 128
 author: "amanda-ross"
-last_updated: 2015-03-15
+last_updated: 2026-11-17
 lang: en
 ---
 Few phrases in political theory carry as much concealed disagreement as civil society. A development minister, a charity director, and a reader of Marx can use the same two words in a single afternoon and mean three different things by them, each confident that the meaning is obvious. For Hegel, and after him for Marx, civil society named the sphere of economic relations and private interest: the world of work, exchange, need, and property that sits between the family and the state. In the prison notebooks of Antonio Gramsci, written between 1929 and 1935 under a fascist sentence, the same phrase names something else entirely: the ensemble of institutions, schools, churches, newspapers, associations, trade unions, through which consent to a social order is organised and renewed. The words survived the journey from one theory to the other. The thing they point to did not.

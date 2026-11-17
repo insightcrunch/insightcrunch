@@ -9,7 +9,7 @@ excerpt: "Lukacs derived reification from the commodity form itself, before any 
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 135
 author: "amanda-ross"
-last_updated: 2015-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 Reification is the word Georg Lukacs gave to the process by which a world human beings have made comes to stand over against them as a world of things, governed by laws of its own. Lukacs was a Hungarian philosopher writing in the nineteen twenties, and the concept he built in those years extends an argument of Marx's about commodities into an account of consciousness and social form: what begins, in Marx, as an analysis of how products confront producers in exchange becomes, in Lukacs, a claim about how the whole texture of modern life is organised and how the mind itself is shaped by that organisation. It is not a synonym for alienation, though the two are persistently confused, and the difference between them matters enough that this profile separates the concepts before it tells the life. The sources Lukacs worked from can be followed in this series: the commodity argument itself is treated in [commodity fetishism explained](/2010/08/01/commodity-fetishism-explained/), and the concept with which reification is so often merged is treated in the [guide to Marx on alienation](/2011/04/01/marx-on-alienation-complete-guide/). What neither of those articles can supply is the man, and the man is unusually difficult to hold steady in the mind, because the career that produced the concept also produced its author's repeated public disavowals of it.

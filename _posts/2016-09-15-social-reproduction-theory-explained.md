@@ -9,7 +9,7 @@ excerpt: "Social reproduction theory asks how labour power is renewed daily and 
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 142
 author: "rachel-foster"
-last_updated: 2016-09-15
+last_updated: 2026-11-17
 lang: en
 ---
 Social reproduction theory begins with a worker arriving at a factory gate, an office door, or a hospital entrance, fed, rested, clothed, and capable of working, and it asks a deceptively plain question about that arrival: who did the work that made the worker? Somebody cooked the meals, washed the garments, cleaned the rooms, soothed the illnesses, raised the child who grew into this adult, and steadied the emotions that a shift would soon spend. Capitalism depends upon that labour every single morning, yet most of it is purchased by no employer, organised by no manager, and recorded in no wage packet. The theory named in this article holds that such dependence is not a background detail of economic life but one of its load-bearing structures, and that a Marxism which leaves the making of people unexamined has left half of its own subject in shadow. Its claim is systemic before it is moral: the point concerns how a mode of production secures its most peculiar input, the capacity to labour, which arrives each day from households, schools, clinics, and neighbourhoods that capital relies upon without directly running.

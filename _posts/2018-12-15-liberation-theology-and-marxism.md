@@ -9,7 +9,7 @@ excerpt: "Liberation theology borrowed Marxist analysis carefully as an instrume
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 166
 author: "diana-patel"
-last_updated: 2018-12-15
+last_updated: 2026-11-17
 lang: en
 ---
 Liberation theology is a current within Latin American Christianity that emerged in the late nineteen sixties and did something no major theological movement had done before it: it took up the social analysis of Marxism as a working instrument while refusing, explicitly and on the record, the philosophy and the atheism historically attached to that analysis. Its practitioners were priests, religious sisters, bishops in a minority of dioceses, and lay organisers in very large numbers; they were not, with rare and famous exceptions, members of Marxist parties. Its signature commitment, the preferential option for the poor, held that Christian faith must be read and practised from the position of the impoverished majority of the continent, and that poverty itself was not a misfortune to be relieved by charity but a condition produced by identifiable structures and therefore open to structural remedy. Any account of the movement that misses either of those two facts, the deliberate and limited character of the Marxist borrowing, or the option for the poor as a structural rather than charitable commitment, will misdescribe everything that follows.

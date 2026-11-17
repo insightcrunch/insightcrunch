@@ -5,11 +5,11 @@ page_title: "Complete Analysis of Of Mice and Men: Why Steinbeck's 1937 Novella 
 date: 2014-11-01
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "great-depression-literature", "agricultural-labor", "american-novella", "classic-literature"]
-excerpt: "Of Mice and Men is not a tragic friendship story. It is Steinbeck's 1937 argument about what Depression-era California migratory labor did to workers."
+excerpt: "Steinbeck's Of Mice and Men fully analyzed: friendship, dreams, dust, and the kindest cruelty in American fiction."
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 70
 author: "elena-wright"
-last_updated: 2014-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 Of Mice and Men is Steinbeck's 1937 argument about Depression-era California migratory-employment conditions. The popular interpretation centers the tragic friendship between George Milton and Lennie Small. That interpretation captures something real about the text, but it captures the surface and misses the structure. Underneath the friendship plot lies a six-character map of workplace vulnerability: cognitive disability, racial segregation, aged-worker disposability, gender isolation, caregiver burden, and the structural impossibility of the Dream that holds the entire vulnerable population together. Every character on the property occupies a position in an employment hierarchy that produces specific suffering, and the work documents those positions with the precision of a field report because that is exactly what it was.

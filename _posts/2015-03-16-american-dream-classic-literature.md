@@ -5,11 +5,11 @@ page_title: "The American Dream in Classic Literature: Gatsby, Joads, Willy Loma
 date: 2015-03-16
 categories: ["Leisure"]
 tags: ["american-dream", "literary-comparison", "classic-literature", "the-great-gatsby", "of-mice-and-men"]
-excerpt: "Classic American literature does not celebrate the American Dream. It dismantles the Dream by showing its structural impossibility for specific populations."
+excerpt: "Why classic American novels keep killing the American Dream: the literary argument against the national myth."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2015-03-16
+last_updated: 2026-11-17
 lang: en
 ---
 Classic American literature does not celebrate the American Dream. It dismantles the Dream by demonstrating its structural impossibility for specific populations across specific historical conditions. Six canonical works spanning four decades of American writing, from Sinclair Lewis's *Babbitt* in 1922 through Lorraine Hansberry's *A Raisin in the Sun* in 1959, construct a comparative dismantling so thorough that reading them together reveals what reading any single novel in isolation obscures: the American Dream functions as ideology, not aspiration, and the major American novelists and playwrights of the twentieth century diagnosed it as such before the scholarly language for that diagnosis existed.

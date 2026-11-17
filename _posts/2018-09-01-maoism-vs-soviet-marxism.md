@@ -9,7 +9,7 @@ excerpt: "Maoism and Soviet Marxism divide over seven deep differences: the seve
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 163
 author: "rachel-foster"
-last_updated: 2018-09-01
+last_updated: 2026-11-17
 lang: en
 ---
 Maoism and Soviet Marxism began as two branches of one inheritance, and for roughly two decades they presented themselves to the world as a single camp with a single doctrine. The quarrel that divided them is often retold as a contest between two states, two leaders and two national interests, and that telling is not false so much as radically incomplete. Beneath the diplomatic rupture sat a disagreement about the theory itself, stated in documents on both sides, argued in the vocabulary both parties shared, and consequential enough that each side accused the other of abandoning Marxism altogether. The disagreement can be named in one sentence. Soviet doctrine held that antagonistic classes had been abolished inside socialist society, so internal class struggle had ended; Chinese doctrine held that class struggle continues under socialism and that a new bourgeoisie could be generated within the ruling party itself. Almost everything else in the split either fed into that divergence or flowed out of it.

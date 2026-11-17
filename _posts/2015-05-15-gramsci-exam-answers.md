@@ -9,7 +9,7 @@ excerpt: "Gramsci and hegemony in an exam reward the three-element opening: forc
 image: "/assets/images/blog/blog-105.webp"
 reading_time: 130
 author: "amanda-ross"
-last_updated: 2015-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 Antonio Gramsci follows candidates into more examination rooms, and is marked more harshly in them, than almost any other thinker in the Marxist tradition. A school sociology candidate meets hegemony inside units on the media, on education, on crime, and on stratification. A politics candidate meets Gramsci as a named thinker whose account of power must be set against rivals. A media studies candidate meets the concept as the standard explanation of how consent to a social order is produced without visible force. Candidates for civil service examinations meet him in optional papers in political science and sociology, and candidates in national eligibility tests meet him as a screening item. In every one of those rooms the same definition is sitting in most scripts, absorbed from revision resources that teach it with confidence: hegemony is the ruling class controlling ideas, dominating culture, manipulating the masses into accepting their own subordination. That definition is the subject of this guide, because it is the single most expensive sentence a candidate on this topic can write.

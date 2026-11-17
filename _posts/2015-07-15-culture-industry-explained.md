@@ -9,7 +9,7 @@ excerpt: "The culture industry is a system, not a taste judgement: standardisati
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 132
 author: "chloe-martin"
-last_updated: 2015-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 Two phrases compete in the textbooks for the same phenomenon, and the competition is not innocent. Mass culture and culture industry are printed side by side in glossaries, defined in a single shared sentence, and treated as interchangeable labels for commercially produced entertainment. For Theodor W. Adorno and Max Horkheimer, who coined the second phrase in a book written during the Second World War, the choice between the two expressions was not a matter of style. It was the argument itself, compressed into a name. Mass culture points at the audience and credits the crowd with authorship. Culture industry points at the factory and credits the producer. Everything else in the theory, the standardisation, the manufactured variety, the amusement that behaves like work, follows from deciding where the phenomenon lives.

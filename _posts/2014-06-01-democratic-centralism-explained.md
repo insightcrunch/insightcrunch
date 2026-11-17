@@ -9,7 +9,7 @@ excerpt: "Democratic centralism is a mechanism before it is a slogan: freedom of
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 121
 author: "chloe-martin"
-last_updated: 2014-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 Democratic centralism is usually introduced as a formula, recited in a breath and left unexplained: freedom of discussion, unity of action. The formula sounds balanced, almost soothing, as though two virtues had been weighed and found equal. Yet the phrase has carried an enormous weight of argument for more than a century, invoked by defenders as proof that a disciplined party can remain internally free and by critics as proof that the freedom was decorative from the start. Both arguments tend to proceed from the formula itself, as though the words contained their own verdict. They do not. A formula is a summary of a mechanism, and mechanisms are understood by taking them apart: by asking which parts do the work, which parts bear the strain, and which single part, when altered, changes the character of the whole machine.

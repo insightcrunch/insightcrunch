@@ -9,7 +9,7 @@ excerpt: "Stalin's additions to the doctrine are graded by their use: the doctri
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 167
 author: "chloe-martin"
-last_updated: 2019-03-15
+last_updated: 2026-11-17
 lang: en
 ---
 Stalin is the only figure in this series whose name became the name of a doctrine taught as a complete system, and that fact fixes the shape of the article that follows. Hundreds of millions of people were instructed in Marxism-Leninism through textbooks, party schools, and examinations, and the content of what they were taught can be stated precisely, proposition by proposition, from texts that survive and can be read. A reader who knows the name chiefly through the argument about the death toll therefore knows the least examinable part of the subject. The toll matters, and the sections on the record give it its full weight, but the toll was produced by a state acting under a doctrine, and the doctrine had an author in a sense that can be specified. He wrote some of it, commissioned the rest, decided which formulations were orthodox, and removed the people who disputed his formulations. Treating the doctrine as a body of propositions with dates, uses, and fates is not a way of avoiding the record. It is the only way of explaining how the record became possible, because the record was repeatedly justified, in advance and in retrospect, by propositions that officials quoted.

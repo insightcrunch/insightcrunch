@@ -9,7 +9,7 @@ excerpt: "Fanon stretched Marxist analysis until it fitted the colony, where rac
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 148
 author: "rachel-foster"
-last_updated: 2017-02-15
+last_updated: 2026-11-17
 lang: en
 ---
 Frantz Fanon was a psychiatrist from Martinique, a French colony in the Caribbean, who resigned a senior hospital post in Algeria to join the Algerian independence movement, and who wrote, inside a working life of barely a decade, the books on which the theory of decolonisation largely rests. His subject throughout was the psychology and politics of colonial rule: what domination does to the minds of the dominated and of the dominators, and what sort of political order could bring domination to an end. His central modification of the Marxism he inherited can be given in a word of his own, stretching. Marxist analysis, he held, should always be slightly stretched when it is applied to the colonial problem, because in the colony the categories of race and class refuse to sit in separate compartments of the theory. They are fused together, and an analysis that insists on keeping them apart will misdescribe the society standing in front of it.

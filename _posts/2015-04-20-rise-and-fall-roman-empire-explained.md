@@ -5,11 +5,11 @@ page_title: "Rise and Fall of the Roman Empire: Why Gibbon's 1776 Story Is Not t
 date: 2015-04-20
 categories: ["Leisure"]
 tags: ["roman-empire", "rise-and-fall", "ancient-rome", "late-antiquity", "historiography", "ancient-history"]
-excerpt: "Rome did not fall in 476 CE. The Western administrative apparatus dissolved across the fifth century, but most of Rome survived as transformed institutions."
+excerpt: "Why Rome rose and why Rome fell: the complete arc of the Roman Empire from village to ruin, explained."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2015-04-20
+last_updated: 2026-11-17
 lang: en
 ---
 Rome did not fall. The Western administrative apparatus dissolved across the fifth century in a process that took longer than the entire existence of the United States, and what survived the dissolution was nearly everything that mattered: Latin, Roman law, the Catholic Church, the idea of universal governance, and the engineering tradition that kept aqueducts running in some Western cities for centuries after the last emperor was deposed. The story you learned in school, the one where barbarians sacked a decadent civilization and plunged Europe into darkness, is Edward Gibbon's story, published between 1776 and 1789, and it is not the story that archaeology, documentary evidence, and fifty years of late-antique scholarship actually tell. The most defensible one-sentence summary of what happened to Rome is this: the material civilization of the Western provinces collapsed measurably and severely, while the cultural, linguistic, legal, and religious institutions transformed rather than vanished, and both of those statements are true simultaneously at different scales of analysis.

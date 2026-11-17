@@ -3,10 +3,10 @@ layout: post
 title: "Cleopatra: The Last Pharaoh of Egypt"
 page_title: "Cleopatra: The Last Pharaoh of Egypt and Why the Shakespeare Version Is Wrong About Her"
 date: 2015-05-15
-last_updated: 2015-05-15
+last_updated: 2026-11-17
 author: "diana-patel"
 slug: cleopatra-last-pharaoh-egypt
-excerpt: "Cleopatra was not a beauty, not a romantic, and not an exotic foreign queen. She was a Ptolemaic politician who nearly outmaneuvered Rome for a generation."
+excerpt: "Why Cleopatra was more than a love affair: the brilliant ruler who held off Rome longer than anyone could expect."
 tags: ["cleopatra", "ptolemaic-egypt", "ancient-egypt", "roman-republic", "female-rulers", "ancient-history"]
 categories: ["Leisure"]
 image: "/assets/images/blog/blog-88.webp"

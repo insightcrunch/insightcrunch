@@ -5,10 +5,10 @@ page_title: "Science and Morality in Classic Fiction - Frankenstein, Brave New W
 date: 2015-03-11
 categories: ["Leisure"]
 tags: ["science", "morality", "literary-comparison", "frankenstein", "brave-new-world", "fahrenheit-451"]
-excerpt: "Classic novels on science are not anti-science. They pose precise questions about when technological capability outruns moral and political framework."
+excerpt: "Why science vs morality is a literary tradition: classics that asked who gets to make life long before we could."
 author: "victoria-stone"
 reading_time: 70
-last_updated: 2015-03-11
+last_updated: 2026-11-17
 image: "/assets/images/blog/blog-102.webp"
 lang: en
 ---

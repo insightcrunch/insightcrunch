@@ -9,7 +9,7 @@ excerpt: "The Fourth International fragmented under three pressures at once: rep
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 125
 author: "diana-patel"
-last_updated: 2014-12-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Fourth International is the organisation that jokes are made about, and the jokes rest on a genuine puzzle. Founded in 1938 by supporters of Leon Trotsky who expected it to lead millions within a decade, it remained small for the whole of its existence, divided into rival bodies within two years of its founding conference, split again on a world scale in 1953, and fragmented thereafter into a family of competing organisations, each presenting itself as the continuation of the founding project. A movement with that record invites ridicule, and ridicule has been the standard treatment. Yet the same tradition produced the most cited Marxist economist of the postwar decades outside the universities, the biographer who fixed Trotsky's reputation in the English language, a party that became a principal force in one country's politics and entered its government, and a set of ideas that travelled through trade unions, student movements and journals far beyond the reach of any membership card. Both halves of that record are facts. An account that keeps only the fragmentation is a comedy sketch, and an account that keeps only the influence is a recruitment leaflet. This article holds the two together, and it explains the fragmentation structurally, by three factors acting in combination, rather than by the personalities that popular retelling prefers.

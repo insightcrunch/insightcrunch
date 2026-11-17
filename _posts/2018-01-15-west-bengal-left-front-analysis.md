@@ -9,7 +9,7 @@ excerpt: "The Left Front governed Bengal for thirty-four years and fell over lan
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 156
 author: "rachel-foster"
-last_updated: 2018-01-15
+last_updated: 2026-11-17
 lang: en
 ---
 The Left Front, a coalition led by the Communist Party of India (Marxist), governed the Indian state of West Bengal for thirty-four consecutive years, winning election after election in contests that were free, contested, and repeatedly lost by its opponents only at the ballot box. No communist government anywhere in the world has held office longer through democratic elections, and the record is not close. West Bengal is a state of very substantial population, densely settled, predominantly rural in the period when the Front took office, and scarred by a difficult economic history. The government that ruled it from 1977 to 2011 built its standing on two principal achievements. The first was a tenancy reform that recorded sharecroppers in official registers and gave their cultivation legal protection, a reform whose effects on farm output were later examined by economists outside the Marxist tradition and judged favourably in a leading general economics journal. The second was an early and durable system of elected local government, established well before the Indian constitution required such elections anywhere. The same government ended in a terminal crisis over land, acquiring farmland from the very peasantry its reforms had protected, in order to hand sites to private industry. It lost power in 2011, and the manner of that loss, a peasant-based government falling over peasant land, is the puzzle this article exists to explain.

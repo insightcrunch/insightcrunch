@@ -9,7 +9,7 @@ excerpt: "Indian feudalism was tested, not imported, by India's Marxist historia
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 158
 author: "diana-patel"
-last_updated: 2018-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 In the middle decades of the twentieth century, a group of scholars in India set out to rewrite the history of their own country from the ground up, and the name they argued over longest was Indian feudalism, the question whether the land grant economy of the early medieval centuries amounted to a feudal order of an Indian kind. They were Marxists, and they worked with the instruments of historical materialism, yet the conclusions they reached unsettled two orthodoxies at once. Against the colonial account of India as a civilisation that had stood still for millennia, they demonstrated movement: changing property relations, expanding and contracting trade, states forming and dissolving, peasants resisting and adapting. Against a simple transfer of European periodisation, they insisted that every category they borrowed had to earn its place against Indian evidence. And against Karl Marx himself, whose picture of India had been assembled from British administrative writing, their findings stood as a refutation written by his own method.

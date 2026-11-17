@@ -9,7 +9,7 @@ excerpt: "Dependency theory split over whether development under dependence was 
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 140
 author: "amanda-ross"
-last_updated: 2016-07-01
+last_updated: 2026-11-17
 lang: en
 ---
 In the middle decades of the twentieth century, a group of economists and sociologists working in Latin America built a body of theory around a single unsettling proposition: the poverty of the poor economies is not a starting condition that growth will gradually wash away, but a product, manufactured continuously by the same world economy that enriches the rich ones. Dependency theory, as the body of work came to be called, holds that underdevelopment is actively made. The regions supplying coffee, copper, sugar, tin and oil to the industrial centres were not simply behind, waiting at an earlier station on a line every economy travels. Their labour systems, their landholding patterns, their ports and railways and tax codes had been shaped, over centuries, by the demands of buyers elsewhere, and that shaping was still going on. Rich and poor were not two separate stories. They were one story told from two ends.

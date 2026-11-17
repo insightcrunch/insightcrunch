@@ -5,11 +5,11 @@ page_title: "Colonialism and Racism in Heart of Darkness - Chinua Achebe's Chall
 date: 2014-12-31
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "colonialism", "racism", "chinua-achebe", "literary-analysis"]
-excerpt: "Achebe's critique of Heart of Darkness is substantially correct about racism. The historicist defense is correct about anti-colonialism. Both are true."
+excerpt: "Why Heart of Darkness keeps being argued over: a novel that condemns empire while reproducing some of its language."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "olivia-grant"
-last_updated: 2014-12-31
+last_updated: 2026-11-17
 lang: en
 ---
 On February 18, 1975, Chinua Achebe stood before an audience at the University of Massachusetts Amherst and delivered a lecture that would permanently alter how the English-speaking world reads Joseph Conrad's Heart of Darkness, permanently alter how universities teach the novella, and permanently alter the terms on which a canonical literary text could be challenged from outside the tradition that had canonized it.

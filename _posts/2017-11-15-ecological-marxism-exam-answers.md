@@ -9,7 +9,7 @@ excerpt: "Ecological Marxism in an exam rewards the referent move: explain the r
 image: "/assets/images/blog/blog-100.webp"
 reading_time: 154
 author: "chloe-martin"
-last_updated: 2017-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 Ecological Marxism is examined differently from the way it is usually taught, and the difference decides the band. A marker reading a script on this topic is looking for two things above all else: whether the candidate knows that the central concept has a documented historical referent, and whether the candidate can handle environmental evidence without pretending to be a scientist. Everything else, the names, the debates, the evaluations, is arranged around those two tests. A script that defines ecosocialism in a sentence and then asserts a string of alarming figures fails both tests at once, however sincere its concern. A script that explains the metabolic rift through the soil crisis that produced the term, attributes every scientific claim it touches, and evaluates with named critics passes both tests even when its conclusion is hostile to the whole tradition.

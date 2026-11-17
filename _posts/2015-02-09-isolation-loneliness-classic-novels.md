@@ -5,11 +5,11 @@ page_title: "Isolation in Classic Novels: Frankenstein's Creature, Holden, Marlo
 date: 2015-02-09
 categories: ["Leisure"]
 tags: ["isolation", "loneliness", "literary-comparison", "classic-literature", "frankenstein", "catcher-in-the-rye"]
-excerpt: "Classic literature's great isolated figures are not lonely in the same way. Isolation varies by cause, by duration, and by what it finally does to the self."
+excerpt: "Why isolation is classic literature's favorite stress test: characters revealed by who they are when no one is watching."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "sophia-turner"
-last_updated: 2015-02-09
+last_updated: 2026-11-17
 lang: en
 ---
 Isolation is one of the most frequently invoked themes in classic literature, and one of the least carefully analyzed. Critics routinely group Frankenstein's Creature, Holden Caulfield, Kurtz, Hester Prynne, Robinson Crusoe, and the unnamed protagonist of Ralph Ellison's Invisible Man under a single heading and treat their separateness as though it were a single condition with a single meaning. That grouping is lazy, and it obscures what the texts actually show. Each of these characters occupies a distinct variety of isolation, produced by a different cause, sustained for a different duration, and generating a different effect on the self. What matters analytically is not that isolation appears across classic fiction but that it appears in structurally different forms whose differences tell us something precise about what each novel thinks the relationship between self and society actually is.

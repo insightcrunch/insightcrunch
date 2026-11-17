@@ -9,7 +9,7 @@ excerpt: "Gramsci wrote his theory in a fascist prison, in code, in fragments: t
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 126
 author: "chloe-martin"
-last_updated: 2015-01-01
+last_updated: 2026-11-17
 lang: en
 ---
 Antonio Gramsci is usually introduced through a cell. The standard portrait shows a frail prisoner in a fascist jail, filling notebooks that would be smuggled to safety and published after his death, and it treats the concepts in those notebooks as though they had been conjured out of suffering and isolation. The portrait is not false, but it explains almost nothing. It leaves the reader with a martyr and a mystery: why this prisoner, alone among the defeated communists of his generation, produced a body of concepts that political theory still works with. A biography that begins with the cell cannot answer that question. A biography that begins with his formation can, because the concepts were not invented in prison. They were assembled there, under appalling conditions, out of materials gathered in a Sardinian childhood, a university training in an unexpected discipline, a newsroom apprenticeship, and a failed revolution in the factories of Turin.

@@ -9,7 +9,7 @@ excerpt: "Cinematography works by shaping light, lens choice, camera position an
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 78
 author: "rachel-foster"
-last_updated: 2026-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 ## Light Decides What the Eye Finds First

@@ -9,7 +9,7 @@ excerpt: "The climate crisis is read here through four mechanisms of accumulatio
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 153
 author: "diana-patel"
-last_updated: 2017-09-15
+last_updated: 2026-11-17
 lang: en
 ---
 The climate crisis, approached through a Marxist analysis, becomes a question about production rather than about weather. Physical findings belong to climate science, and this article credits them to the institutions and assessment literatures responsible for them, restating none of them and quantifying none of them. What a class analysis examines sits upstream of every physical finding: the social machinery that keeps fossil energy flowing through factories, freight networks, heating systems, and supply chains, decade after decade, even as the knowledge of consequences accumulates. Emissions, on this reading, are an output of a system organised around competitive accumulation, and understanding the crisis means understanding why that system generates the output so reliably, so impersonally, and with such resistance to correction from within.

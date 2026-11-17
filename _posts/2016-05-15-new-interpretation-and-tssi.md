@@ -9,7 +9,7 @@ excerpt: "The New Interpretation and the TSSI answer the same problem with oppos
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 139
 author: "chloe-martin"
-last_updated: 2016-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 A reader who has just worked through the transformation problem arrives at an uncomfortable verdict. It is the verdict to which the New Interpretation and its rivals are all replies. Marx set out to show that prices of production are transformed values, that profit is redistributed surplus value, and that the labour embodied in commodities governs the system of prices beneath its surface. The procedure he left in the third volume of Capital was then shown, by a long line of critics and eventually by many of his defenders, to be incomplete in a damaging way: the outputs of production were transformed into prices while the inputs were left standing at their values, and the two aggregate identities Marx asserted could not both be made to hold. The natural next question is whether anyone has repaired the argument. The answer is that several repairs exist, that each of them works on its own terms, and that they are not interchangeable. The New Interpretation, the temporal single-system interpretation, and a macro-monetary family of readings each deliver an internally consistent version of Marx's theory, and they differ chiefly in what they preserve, what they redefine, and what they quietly let go.

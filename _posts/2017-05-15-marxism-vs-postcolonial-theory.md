@@ -9,7 +9,7 @@ excerpt: "Postcolonial theory and Marxism share an object and divide over method
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 150
 author: "diana-patel"
-last_updated: 2017-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 Postcolonial theory and Marxism are usually presented as rival answers to a single question, as though a reader had to pick a side before opening a book. That presentation is the first error this article exists to correct. The two bodies of work are not competing explanations of the same thing. They study different things that happen to share a setting, the way a hydrologist and a historian of religion might both study a river: one measures flow, silt, and the labour that dug the canals, while the other asks how the river was represented, worshipped, and written into the identities of the people along its banks. Neither study refutes the other, because their objects differ even where their territory overlaps. Postcolonial theory takes as its object the discourse of colonialism: the representations, categories, and forms of subjectivity through which colonised peoples were made knowable and governable, and through which they came to know themselves. Marxist approaches take as their object the social relations of colonialism: who owned the land, who laboured and under what compulsion, how surplus was extracted and where it flowed, and what classes the process created and destroyed.

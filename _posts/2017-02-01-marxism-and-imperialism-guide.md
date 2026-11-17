@@ -9,7 +9,7 @@ excerpt: "Imperialism names three incompatible objects in the Marxist literature
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 146
 author: "amanda-ross"
-last_updated: 2017-02-01
+last_updated: 2026-11-17
 lang: en
 ---
 Imperialism, in ordinary speech, describes conquest: an empire seizes territory, plants a flag, and rules strangers from a distant capital. A reader arriving with that picture in mind will misunderstand nearly everything in the Marxist literature on the subject, because the word performs different work there. Within that tradition, imperialism usually denotes a phase of capitalism itself, or a durable pattern of unequal exchange linking wealthy economies to poorer ones, and only sometimes the older business of annexation. The confusion is not a pedantic quarrel about vocabulary. Each meaning carries its own evidence, its own chronology, and its own verdict on whether the phenomenon persists, so an argument conducted without separating them can be won or lost purely by sliding between definitions midway through.

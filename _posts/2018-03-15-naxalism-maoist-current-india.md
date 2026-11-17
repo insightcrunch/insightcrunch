@@ -9,7 +9,7 @@ excerpt: "Naxalism took root where dispossession was deepest and the state most 
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 158
 author: "rachel-foster"
-last_updated: 2018-03-15
+last_updated: 2026-11-17
 lang: en
 ---
 Naxalism names the armed communist movements that began with a peasant uprising in 1967 in the Naxalbari area of northern West Bengal, broke away from India's parliamentary communist parties over the question of armed struggle, splintered into a large family of rival organisations, and ended by operating principally among tribal populations in the forested districts of central and eastern India. A reader who meets the word in a headline usually meets it as a security problem, a matter of ambushes, bans, and deployments. That framing is the last chapter of the story mistaken for the whole book. The movement began as a quarrel about land inside the communist movement itself, between comrades who had organised the same villages and read the same texts, and everything that followed, the split, the founding line, the fragmentation, the strange later map, descends from that quarrel and from the ground on which it was fought.

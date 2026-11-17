@@ -9,7 +9,7 @@ excerpt: "What Is to Be Done? is the pamphlet that invented a party: spontaneity
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 118
 author: "rachel-foster"
-last_updated: 2014-03-15
+last_updated: 2026-11-17
 lang: en
 ---
 What Is to Be Done? is probably the most consequential pamphlet in the Marxist tradition and almost certainly the most carelessly described. Supporters cite it as the founding charter of a kind of party. Opponents cite it as the founding confession of an authoritarian temperament. Both citations usually rest on a single paraphrase, repeated from textbook to textbook until it hardened into common knowledge: that Lenin taught that workers, left to themselves, can achieve only a limited trade union outlook, and that socialist consciousness must therefore be delivered to them by intellectuals organised in a disciplined vanguard. That paraphrase is not false in every particular, but it conceals the two facts that change the text's meaning. The argument about consciousness arriving from outside the economic struggle is a passage Lenin quotes, at length and with explicit approval, from Karl Kautsky, the leading theorist of orthodox Marxism. And Lenin himself, five years after publication, warned readers against treating the pamphlet as a programme, describing it instead as a polemical correction that had deliberately bent the stick against one deviation and should be straightened before use.

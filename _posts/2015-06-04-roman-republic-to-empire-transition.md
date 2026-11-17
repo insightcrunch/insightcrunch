@@ -3,12 +3,12 @@ layout: post
 title: "Roman Republic to Empire: How Rome Changed"
 page_title: "Roman Republic to Empire: The 27 BCE Settlement That Formalized an Already-Completed Change"
 date: 2015-06-04
-last_updated: 2015-06-04
+last_updated: 2026-11-17
 author: "amanda-ross"
 categories: ["Leisure"]
 tags: ["roman-republic", "roman-empire", "augustus", "principate", "27-bce", "ancient-history"]
 slug: roman-republic-to-empire-transition
-excerpt: "Rome did not become an empire because any man chose it. The city-state constitution of 509 BCE could not govern a Mediterranean world of fifty million."
+excerpt: "Why Rome stopped being a republic: the civil wars, the strongmen, and the constitutional erosion that finished it."
 image: /assets/images/blog/blog-10.webp
 reading_time: 70
 lang: en

@@ -9,7 +9,7 @@ excerpt: "Mira Kovac follows a foundry list to four works that can make the sile
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 99
 author: "diana-patel"
-last_updated: 2026-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 ## Cold Open

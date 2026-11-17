@@ -9,7 +9,7 @@ excerpt: "The Cuban Revolution radicalised after taking power, not before: the r
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 166
 author: "amanda-ross"
-last_updated: 2018-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Cuban Revolution is usually introduced through a misunderstanding, and the misunderstanding is worth clearing away before any narrative begins, because it reverses the order of the events that need explaining. What took power in January 1959 was not a communist organisation. It had not campaigned as one, it had not promised a socialist transformation in its public programme, and the country's established communist party had spent most of the insurrection denouncing the movement's armed strategy as reckless adventurism. The revolution's socialist character was proclaimed in April 1961, more than two years after victory, and its leader described himself as a Marxist-Leninist only in December of that year. Whatever the Cuban Revolution became, it became it after seizing power rather than before, and that inversion of the standard sequence is the fact around which any serious reading of the case must be organised.

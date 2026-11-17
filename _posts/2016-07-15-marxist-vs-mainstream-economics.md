@@ -9,7 +9,7 @@ excerpt: "Marxist economics and the mainstream divide the economy's questions be
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 141
 author: "rachel-foster"
-last_updated: 2016-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 A student who has finished an introductory economics course and then opens a work of Marxist economics often reports a strange experience: the second book does not read like a rival answer to the first, but like a book about a different subject that happens to share some vocabulary. Prices appear in both, and so do wages, profits, markets, and crises, yet the arguments built around those words seem to pass one another without meeting. That experience is the most reliable starting point for the comparison, because it records something true. The two traditions are not, in the first instance, giving competing answers to a shared list of questions. They disagree about which questions economics exists to answer, and nearly everything else in the quarrel between them is downstream of that prior disagreement. A reader who grasps this at the outset will find the rest of the comparison falls into place; a reader who misses it will keep scoring the two sides against tests only one of them sat.

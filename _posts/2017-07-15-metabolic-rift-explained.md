@@ -9,7 +9,7 @@ excerpt: "The metabolic rift names a broken material cycle between town and coun
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 151
 author: "chloe-martin"
-last_updated: 2017-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 The metabolic rift begins with a farming problem that nineteenth-century readers could smell. Across the middle decades of that century, agricultural writers in Britain, Germany, and France worried in print about fields that yielded less under intensive cultivation, about harvests sustained only by importing fertility from somewhere else, and about a strange new commerce in which ships crossed oceans carrying cargo whose entire value lay in what exhausted soil lacked. The metabolic rift is the name Karl Marx gave, inside that debate, to a break in the circulation of matter between human society and the ground it feeds from. Food grown in the countryside travelled to the growing cities, where people ate it, wore it, and flushed or buried what remained of it, so the chemical constituents that plants had drawn out of rural soil never made the journey back. A cycle that farming had once closed locally was being held open by distance, by property, and by the organisation of production itself, and the soil at the sending end was being quietly mined.

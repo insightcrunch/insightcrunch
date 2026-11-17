@@ -9,7 +9,7 @@ excerpt: "Althusser rebuilt Marxist theory from borrowed parts: philosophy, ling
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 136
 author: "amanda-ross"
-last_updated: 2015-12-15
+last_updated: 2026-11-17
 lang: en
 ---
 Louis Althusser was a French philosopher who spent the nineteen sixties and seventies arguing that Karl Marx should be read as the founder of a science, not as a philosopher of human nature whose early writings on alienation held the key to everything he wrote afterwards. He taught for over three decades at the École Normale Supérieure in Paris, the small institution in the rue d'Ulm that trains much of the French intellectual elite, and from a seminar room there he rebuilt the vocabulary in which Marxism was discussed across several continents. He is best known for four things: the claim that Marx's work contains an epistemological break between an ideological youth and a scientific maturity, the concept of overdetermination, the idea of structural causality, and an account of ideology as a set of material practices, housed in institutions, that produce the very subjects who live inside them. Each of those ideas is treated at length in its own article in this series; this profile exists to hold the man, the books, and the arguments in one place, and to say how they fit together.

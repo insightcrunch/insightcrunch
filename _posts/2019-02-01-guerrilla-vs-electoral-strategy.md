@@ -9,7 +9,7 @@ excerpt: "Guerrilla and electoral strategies failed in Latin America for a commo
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 167
 author: "chloe-martin"
-last_updated: 2019-02-01
+last_updated: 2026-11-17
 lang: en
 ---
 The guerrilla road and the electoral road were not temperaments. They were theories, argued in print by named writers who gave reasons, predicted consequences, and accepted wagers about how history in their region actually moved. One held that a small armed nucleus in the countryside could create the conditions for revolution instead of waiting for those conditions to ripen. The other held that a coalition could win office through elections and legislate a transformation of property relations under the shelter of legality. Between the early nineteen sixties and the end of the nineteen seventies, Latin America tested both theories about as thoroughly as any region has ever tested a strategic dispute, and it tested them under conditions close enough to make the comparison mean something: the same decades, the same world economy pressing on the same kinds of states, the same adversary in Washington, and in several countries both roads attempted by rival organisations of the same left within a few years of each other.

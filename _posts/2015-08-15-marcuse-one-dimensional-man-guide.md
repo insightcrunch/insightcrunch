@@ -9,7 +9,7 @@ excerpt: "Marcuse argued that affluence itself had become a mechanism of control
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 133
 author: "rachel-foster"
-last_updated: 2015-08-15
+last_updated: 2026-11-17
 lang: en
 ---
 Herbert Marcuse is usually introduced through a title he spent a decade declining. The philosopher whom newspapers of the late nineteen sixties called the father, the guru, the prophet of the New Left was born in 1898, took his doctorate in 1922, and had published three substantial books before most of the students who quoted him were born. He had been trained in phenomenology by Edmund Husserl and Martin Heidegger. He had spent the war and its aftermath inside the American government, first in its wartime intelligence agency and then in the State Department, analysing the regime he had fled and the Soviet order he would anatomise in print. And in 1965 he published an essay on tolerance whose argument is still fought over, usually by people who have read summaries of it rather than the essay itself. A profile that begins from the guru will explain none of this. This profile begins from the record, and it follows the three books through which the record becomes an argument: a defence of Hegel written as fascism rose, a fusion of Freud and Marx written in American exile, and a diagnosis of affluent society written when that exile had lasted thirty years.

@@ -9,7 +9,7 @@ excerpt: "Lenin and Leninism in an exam reward the two-discipline answer: biogra
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 122
 author: "amanda-ross"
-last_updated: 2014-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 Lenin and Leninism form the rare examination topic that sits in two schoolrooms at once, examined down one corridor as history and down another as political theory, and the candidate who prepares for only one of the two rooms walks into the other already beaten. In the history paper the subject is a man moving through events: an exile reading newspapers in Zurich library, a sealed train, a government falling twice in a single year, a new state fighting for survival. In the politics paper the same name denotes a body of doctrine: a theory of the party, a theory of imperialism, a theory of the state, each stated in texts that can be quoted, compared and judged. The examiners in the two rooms reward different things, punish different things, and read the same sentences with different eyes. A narrative that earns warm praise from a historian can look like evasion to a theorist, and a conceptual distinction that delights a theorist can strike a historian as bloodless. This guide exists because almost no revision resource admits that the two rooms exist, and so candidates keep carrying history answers into politics questions and theory answers into history questions, losing marks in both directions for a fault that has nothing to do with how much they know.

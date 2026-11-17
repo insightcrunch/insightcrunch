@@ -5,11 +5,11 @@ page_title: "Harry Potter vs Frodo Baggins: The Reluctant Hero and the Two Cosmo
 date: 2013-12-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Frodo Baggins", "Tolkien", "Reluctant Hero"]
-excerpt: "Harry Potter vs Frodo Baggins compared through the burden of evil, fellowship, the mentor's death, and the wounded return one survives and one cannot."
+excerpt: "Two reluctant heroes, two burdens, two walks toward death: how Harry and Frodo mirror each other across genres."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 42
 author: "emily-reed"
-last_updated: 2013-12-02
+last_updated: 2026-11-17
 lang: en
 ---
 The question is not which boy is braver. Bravery is the cheapest of the qualities these two stories distribute, and both protagonists possess it in quantities that make the question dull. The question is what each of them is asked to carry, what the carrying does to the inside of a person, and whether the world either one returns to can hold a person who has carried such a thing. That is where the two stories stop rhyming and start arguing, and the argument they conduct across the space between them is the deepest disagreement in modern fantasy about the nature of evil and the price of opposing it.

@@ -5,11 +5,11 @@ page_title: "The Crusades Explained: Two Centuries of Expeditions That Were Euro
 date: 2015-07-09
 categories: ["Leisure"]
 tags: ["crusades", "medieval-warfare", "holy-land", "urban-ii", "islamic-perspective", "medieval-history"]
-excerpt: "The Crusades were not a clash of civilizations. They were two centuries of European internal politics, projected eastward under a sincere religious frame."
+excerpt: "Why the Crusades still matter: the wars that reshaped Europe, scarred the Middle East, and lasted for two centuries."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2015-07-09
+last_updated: 2026-11-17
 lang: en
 ---
 The word Crusades arrives in most minds already shaped. It suggests eight numbered expeditions, two clean centuries, a contest between Christianity and Islam, and a confrontation between civilizations with a recognizable beginning and a recognizable end. Almost every element of that shape is a later invention. People who marched east in the year 1095 did not call themselves crusaders, because the term did not yet exist in that sense; the Latin vocabulary that produced the English noun entered common Western usage only in the thirteenth century, well after the First Crusade had passed out of living memory. The numbered sequence that schoolchildren memorize was imposed by scholars writing long after the last expedition sailed. Chroniclers in the Islamic world rarely described a single unified phenomenon at all, referring instead to wars against the Franks, or folding the arrival of the Latins into the ordinary turbulence of regional politics. Before any of this can be explained, the frame around it has to be loosened.

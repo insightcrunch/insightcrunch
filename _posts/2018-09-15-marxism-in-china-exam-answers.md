@@ -9,7 +9,7 @@ excerpt: "Marxism in China in an exam rewards the historiography opening: state 
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 163
 author: "chloe-martin"
-last_updated: 2018-09-15
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism in China is examined wherever the twentieth century is examined, and a candidate who understands where the material sits in each paper has already solved half the problem of writing on it. History papers meet it as a revolution and its aftermath: why a Marxist party won power in an agrarian society, what the Mao period built and what it cost, and how the Cold War in Asia turned on the outcome. Politics and international relations papers meet it as doctrine and division: Maoism as a body of theory, the quarrel with Soviet Marxism, and the question of what kind of social formation the Chinese state has governed since reform. Civil service optional papers in political science and in history meet it as a set text topic with a settled scholarly literature. Eligibility tests and university examinations meet it at greater length and with more weight on evaluation, while school-level papers meet it in compressed narrative form. Each setting rewards something different, and this guide is organised around those rewards rather than around the content, which lives in the nine articles that precede it in this cluster.

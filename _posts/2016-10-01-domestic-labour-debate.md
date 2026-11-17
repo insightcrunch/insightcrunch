@@ -9,7 +9,7 @@ excerpt: "The domestic labour debate asked whether housework produces value, and
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 143
 author: "chloe-martin"
-last_updated: 2016-10-01
+last_updated: 2026-11-17
 lang: en
 ---
 The domestic labour debate was an argument among Marxist feminists, conducted mainly in journals through the nineteen seventies, over a deceptively narrow question. Did the unpaid work performed in households, overwhelmingly by women, produce value or surplus value in the sense those terms carry inside Marx's critique of political economy? The question sounds like a classification exercise, the kind of thing a glossary settles in a paragraph. It consumed roughly a decade of theoretical energy, drew in some of the sharpest writers the movement produced, filled special issues and pamphlet series, and ended with an answer that nearly every participant, including many who had argued the other side, came to accept. That answer can be stated in one sentence. Household labour does not create value in the technical sense, because value arises where labour produces commodities for exchange, yet household labour remains indispensable to the reproduction of labour power, the one commodity capitalism cannot do without. Both halves matter. Neither half cancels the other.

@@ -9,7 +9,7 @@ excerpt: "Caste and class in Indian Marxism are debated across four positions: t
 image: "/assets/images/blog/blog-111.webp"
 reading_time: 158
 author: "diana-patel"
-last_updated: 2018-02-15
+last_updated: 2026-11-17
 lang: en
 ---
 Caste is the first fact of social life in India and the first problem that any imported theory of society meets there. It assigns a newborn child a rank, a range of permissible occupations, a set of people who may be married and a set of people whose touch, food or shadow may be treated as polluting, and it does all of this by birth alone, before the child has acted, earned, chosen or believed anything at all. A reader who has lived inside that order knows its weight from within, in the surnames that announce it, the marriage negotiations that enforce it and the occupations that still follow its lines. A reader meeting it from outside should resist the temptation to treat it as a colourful survival, a piece of the past lingering into a modern economy. It is better understood as a working system of stratification that has organised labour, property, honour and violence in the subcontinent for a very long time, and that has adapted itself to every economic formation it has passed through, from agrarian kingdoms to a commercial republic with stock exchanges and software parks. The question this article examines is narrower than the system itself and harder than it first appears. It is the question of how caste stands in relation to class, posed inside the tradition that made class its master category: the Marxist tradition in India.

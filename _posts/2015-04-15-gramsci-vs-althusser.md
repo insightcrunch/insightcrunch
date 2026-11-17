@@ -9,7 +9,7 @@ excerpt: "Gramsci vs Althusser on ideology sets consent against interpellation a
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 129
 author: "rachel-foster"
-last_updated: 2015-04-15
+last_updated: 2026-11-17
 lang: en
 ---
 Two names dominate every serious account of how Marxist theory explains belief, obedience and the quiet reproduction of a social order. Antonio Gramsci, writing in a fascist prison between 1929 and 1935, built his answer around hegemony and consent. Louis Althusser, writing in Paris four decades later, built his around ideological state apparatuses and interpellation. The two men never met, belonged to different generations of the same movement, and are usually taught in sequence, one chapter after the other, as though the second simply continued the first. That classroom habit conceals the most instructive fact about them: Althusser both honoured Gramsci as his one real predecessor on this terrain and attacked him by name, in print, as the exponent of the deviation he most wanted to expel from Marxist theory. This article treats the pair as what they are, two rival answers to a single question, and it resolves the comparison by finding the one disagreement from which all the others follow.

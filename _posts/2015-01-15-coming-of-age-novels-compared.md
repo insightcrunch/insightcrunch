@@ -6,8 +6,8 @@ date: 2015-01-15
 categories: ["Leisure"]
 tags: ["coming-of-age", "literary-comparison", "scout-finch", "pip", "holden-caulfield", "classic-literature"]
 author: "victoria-stone"
-excerpt: "The greatest coming of age novels compared - Scout, Pip, Holden, Jane Eyre, Huck, and David Copperfield show how culture shapes every path to adulthood."
-last_updated: 2015-01-15
+excerpt: "Why every great coming of age novel ends in some kind of loss: the structural truth at the heart of the genre."
+last_updated: 2026-11-17
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 slug: "coming-of-age-novels-compared"

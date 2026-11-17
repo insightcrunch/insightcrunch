@@ -9,7 +9,7 @@ excerpt: "Adorno wrote philosophy with a musician's ear: negative dialectics, th
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 131
 author: "diana-patel"
-last_updated: 2015-06-15
+last_updated: 2026-11-17
 lang: en
 ---
 Theodor Adorno is usually introduced as a philosopher who disliked popular music, and the introduction is not false so much as badly out of proportion. He was a trained composer who studied in Vienna with Alban Berg, a pianist of near professional standard, a music critic who published hundreds of reviews before he published a book of philosophy, and a thinker whose central procedures were learned at the piano and the score desk rather than in the seminar room. To read him without the music is to read a score as if it were a legal contract: the words are all present, and the thing they were arranged to do escapes. This profile therefore reverses the usual order. It begins with the formation, because in Adorno's case the formation is the method, and it treats the famous doctrines, negative dialectics, identity thinking, the critique of standardised culture, as consequences of a way of listening that he acquired before he was twenty-five and never abandoned.

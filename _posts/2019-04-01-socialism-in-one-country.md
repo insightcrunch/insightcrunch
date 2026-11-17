@@ -9,7 +9,7 @@ excerpt: "Socialism in one country was argued from a text its author rewrote wit
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 169
 author: "chloe-martin"
-last_updated: 2019-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 Socialism in one country is the doctrine, advanced from 1924, that a socialist society could be constructed inside the Soviet Union alone, without waiting for victorious revolutions in the advanced countries to rescue or complete the work. It was formulated against an older expectation, held across the movement that made the October Revolution, that socialist construction begun in a backward and isolated country could not be finished there, because the material and cultural level such construction required exceeded what one country, and that country in particular, could supply from its own resources. The phrase is short, the doctrine is precise, and the quarrel it started has never entirely closed, because the quarrel was never only about policy. Part of it concerned circumstance: what a besieged state should do when the foreign revolutions it had counted on did not arrive. Part of it concerned texts: what the founders had actually written, and what a particular passage of Lenin could legitimately be made to carry. This article treats the doctrine as a glossary problem before treating it as a political one, because the precision is where the interest lies. A reader who finishes it should be able to state the claim exactly, name the evidence offered for it, and say why that evidence fails in an instructive way.

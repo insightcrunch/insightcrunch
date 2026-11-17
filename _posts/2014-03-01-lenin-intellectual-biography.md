@@ -9,7 +9,7 @@ excerpt: "Lenin turned Marxism into a strategy for winning and holding power: th
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 118
 author: "rachel-foster"
-last_updated: 2014-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 Lenin is the only major Marxist thinker who also governed, and that single fact bends every attempt to write his life. The biographer of Marx can follow a mind through libraries and manuscripts, because the man's power was posthumous and textual. The biographer of Vladimir Ilyich Ulyanov follows a mind that issued decrees, founded a security police, dispersed an elected assembly and left instructions about his own succession which his successors chose to bury. A serious profile therefore has to keep two accounts open at once. One account holds the ideas: a small number of theoretical contributions, each identifiable, each argued in identifiable texts, each still fought over by scholars who owe the regime nothing. The other account holds the record of the government he led between the autumn of the revolution and his death, a record that includes repression as a deliberate instrument and must be stated in the biography itself, not managed, softened or deferred to some later act of judgement. This profile keeps the two accounts in separate ledgers, as the evidence requires, and it refuses the two standard shortcuts: the chronicle that lists residences and pamphlets without ever saying what the thinking amounted to, and the verdict, favourable or hostile, that decides the case before the life has been allowed to happen.

@@ -9,7 +9,7 @@ excerpt: "Benjamin is read through versions: drafts, translations and an artwork
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 132
 author: "chloe-martin"
-last_updated: 2015-08-01
+last_updated: 2026-11-17
 lang: en
 ---
 Walter Benjamin is probably the most quoted Marxist critic of the twentieth century and one of the least carefully read. His sentences travel everywhere: into film studies syllabi, museum catalogues, design manifestos and the footnotes of disciplines he never heard of. Yet the text on which the reputation rests, the essay on the work of art and its reproduction, reaches most of its readers in a form its author did not finally approve, under a title that mistranslates its central term, attributed to a school he never joined. A profile that repeats the standard summary, aura, mechanical reproduction, optimism about the masses, would pass on all three errors at once. This profile is built to correct them, because the corrections are not pedantic footnotes to the life. They change what the work is understood to claim.

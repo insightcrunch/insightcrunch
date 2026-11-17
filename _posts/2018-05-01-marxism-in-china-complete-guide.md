@@ -9,7 +9,7 @@ excerpt: "Marxism in China arrived through Japan and became a governing doctrine
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 160
 author: "chloe-martin"
-last_updated: 2018-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism in China is the record of a doctrine that crossed a sea before it crossed a continent. It arrived in the years around 1919, carried largely in translations made in Japan and in the luggage of Chinese students returning from Japanese universities, and it landed in a country that was overwhelmingly rural, fragmented among warlords, and searching for an explanation of its own weakness. The theory it carried had been built from the experience of industrial Europe, where a factory proletariat stood at the centre of the analysis. China had treaty ports, textile mills and railway workshops, but its hundreds of millions were peasants, and any doctrine that proposed to remake the country had first to answer a question its European authors had never faced in earnest: what does a theory of the industrial working class become in a society of villages? The tradition examined in this guide is the sum of the answers given to that question across a century, by a party that moved from a Shanghai study circle to the government of the country, and by the scholars who have argued about those answers ever since.

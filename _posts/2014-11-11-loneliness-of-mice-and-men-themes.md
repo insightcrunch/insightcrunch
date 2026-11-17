@@ -3,11 +3,11 @@ layout: post
 title: "Loneliness in Of Mice and Men Explained"
 page_title: "Loneliness in Of Mice and Men - Crooks, Curley's Wife, Candy, and How Every Character in Steinbeck's Novella Is Trapped in Isolation"
 date: 2014-11-11
-last_updated: 2014-11-11
+last_updated: 2026-11-17
 author: "claire-bennett"
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "loneliness", "themes", "literary-analysis", "classic-literature"]
-excerpt: "Aloneness in Of Mice and Men is not existential tragedy but structural 1930s employment alienation with five distinct forms Steinbeck documents methodically."
+excerpt: "Why Of Mice and Men is a novel about loneliness: the men who almost touch and never quite manage to."
 reading_time: 70
 image: "/assets/images/blog/blog-24.webp"
 lang: en

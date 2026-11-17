@@ -9,7 +9,7 @@ excerpt: "Marx's ecology is disputed between two bodies of text pointing opposit
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 152
 author: "chloe-martin"
-last_updated: 2017-08-15
+last_updated: 2026-11-17
 lang: en
 ---
 Was Marx an ecological thinker, or does ecology have to be supplied to his work from outside it? Few questions in the study of Marx divide readers as cleanly, and few are argued as badly. One camp presents a writer who understood soil exhaustion, material cycles, and obligations owed across generations. Another presents a celebrant of industrial expansion who treated nature as a stock of raw material awaiting human transformation. Both camps quote genuine passages. Both camps omit the passages that embarrass them. An honest treatment begins by admitting that the archive contains two bodies of text pointing in different directions, and that any verdict ignoring either body has been purchased by selection rather than earned by reading.

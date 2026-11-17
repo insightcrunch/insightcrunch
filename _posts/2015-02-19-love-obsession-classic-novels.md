@@ -5,11 +5,11 @@ page_title: "Love and Obsession in Classic Novels - Gatsby, Heathcliff, Rocheste
 date: 2015-02-19
 categories: ["Leisure"]
 tags: ["love", "obsession", "literary-comparison", "classic-literature", "jay-gatsby", "heathcliff", "literary-analysis"]
-excerpt: "Classic literature's great lovers are often obsessives. The novels distinguish love from obsession through structural markers, not through declarations."
+excerpt: "Why classic novels confuse love and obsession on purpose: the warning hidden inside literature's most romantic pairings."
 image: "/assets/images/blog/blog-117.webp"
 author: "olivia-grant"
 reading_time: 70
-last_updated: 2015-02-19
+last_updated: 2026-11-17
 lang: en
 ---
 Love and obsession are not the same thing, but classic literature's most celebrated romantic figures blur the boundary so thoroughly that readers routinely mistake one for the other. Jay Gatsby buys a mansion across a bay so he can watch a green light on a dock belonging to a woman he knew for five weeks. Heathcliff dismantles two families across two generations because a woman he loved as a child married someone else. Humbert Humbert constructs an elaborate prose monument to a twelve-year-old girl whose actual suffering his beautiful sentences work to conceal. These are not love stories in any meaningful sense, yet they are persistently taught and read as though passionate intensity were its own justification. The structural markers that distinguish love from obsession in these novels are specific, recoverable, and consistently deployed, and the failure to read them produces a sentimentalized literary tradition that flatters predators and punishes the people they pursue.

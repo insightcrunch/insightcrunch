@@ -9,7 +9,7 @@ excerpt: "The Prison Notebooks reach every single reader through an edition, and
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 127
 author: "chloe-martin"
-last_updated: 2015-02-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Prison Notebooks are quoted on every continent and read whole by very few of the people who quote them. They are cited in arguments about politics, education, culture, language, and the state, usually from a handful of famous passages, and those passages almost always reach the citer through several layers of other people's decisions. A political party's editors first rearranged the material by subject. A pair of English translators then selected from that rearrangement. A critical edition later restored the order of composition and marked which passages were drafts. Each layer changed what a reader could see, and therefore what a reader could claim. This guide exists so that the next quotation you meet, including your own, can be checked against the edition it came from.

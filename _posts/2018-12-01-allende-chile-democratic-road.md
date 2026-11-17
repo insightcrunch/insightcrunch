@@ -9,7 +9,7 @@ excerpt: "Allende governed with a plurality and an exposed flank: the three pres
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 166
 author: "rachel-foster"
-last_updated: 2018-12-01
+last_updated: 2026-11-17
 lang: en
 ---
 In September 1970 a Marxist coalition won a national election in Chile and did something no Marxist movement had done before: it took office through the ballot box and announced that it would transform the country's property relations by legal means, using the constitution it had sworn to uphold. Salvador Allende, the coalition's candidate and a lifelong parliamentarian, became president of a republic whose congress, courts, press and armed forces remained in other hands. The experiment that followed, known as the Chilean road to socialism, was not improvised. It was an explicit strategic claim, argued for years inside the Chilean left, about how socialism could be reached in a country with strong institutions: not by storming the state but by winning it, piece by piece, through elections and law. That claim is why the case matters beyond its own tragedy. The argument between reform and revolution, which runs through the whole history of Marxism, has many theoretical texts and very few controlled tests. Chile between 1970 and 1973 is the principal piece of evidence in that argument, the one case where the democratic road was attempted in full, by a government that meant it, and ended by a military coup. Everything written about the case since has been, in some measure, a dispute over what the evidence shows.

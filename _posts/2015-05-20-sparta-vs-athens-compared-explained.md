@@ -2,12 +2,12 @@
 title: "Sparta vs Athens: Two Cities Compared"
 page_title: "Sparta vs Athens Compared: Why Sparta Won the War and Athens Kept the Civilization"
 date: 2015-05-20
-last_updated: 2015-05-20
+last_updated: 2026-11-17
 slug: sparta-vs-athens-compared-explained
 categories: ["Leisure"]
 tags: ["sparta-vs-athens", "ancient-greece", "polis-comparison", "peloponnesian-war", "greek-history", "ancient-history"]
 author: "amanda-ross"
-excerpt: "Athens and Sparta ran the same Greek experiment to opposite ends. Sparta won the Peloponnesian War. Athens won every argument for the next 2,400 years."
+excerpt: "Why Sparta and Athens still get compared: two ancient societies that argued out the meaning of citizenship."
 image: /assets/images/blog/blog-07.webp
 reading_time: 70
 lang: en

@@ -9,7 +9,7 @@ excerpt: "Monopoly Capital replaced surplus value with a measurable surplus and 
 image: "/assets/images/blog/blog-103.webp"
 reading_time: 141
 author: "chloe-martin"
-last_updated: 2016-06-15
+last_updated: 2026-11-17
 lang: en
 ---
 The monopoly capital school is a tradition of American Marxist economics that formed around a journal, Monthly Review, and around a book, Monopoly Capital, published in 1966 by Paul A. Baran and Paul M. Sweezy. A reader arriving from a search about corporate power or about stagnation should grasp one thing before anything else, because everything in the school follows from it. The school's decisive act was not a new policy, a new prediction, or a new history. It was a change in the basic category of analysis. Where the Marxist tradition it inherited reasoned in terms of surplus value, a magnitude defined through labour time, Baran and Sweezy reasoned in terms of the economic surplus, a magnitude defined as the difference between what a society produces and the cost of producing it. The substitution looks like a technicality. It is the whole school.

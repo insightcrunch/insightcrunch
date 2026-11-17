@@ -9,7 +9,7 @@ excerpt: "Gramsci made available to modern political strategy poses the availabi
 image: "/assets/images/blog/blog-101.webp"
 reading_time: 129
 author: "chloe-martin"
-last_updated: 2015-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 Gramsci wrote his strategic theory in a prison cell, in notebooks smuggled past a censor, for a movement that had been crushed. Few bodies of political writing have travelled further from their author's intentions for their audience. The vocabulary he built to analyse how consent is organised is quoted by strategists who share his aims, by scholars who share only his questions, and by intellectual currents organised against everything he worked for, including currents that describe their own project, without embarrassment, as a Gramscianism of the right. A reader meeting the word hegemony in a newspaper column, a party memorandum, a management text, or a rival movement's founding programme is entitled to ask two questions. What analytical work, if any, is the word doing in that place? And how did a communist prisoner's categories become common property?

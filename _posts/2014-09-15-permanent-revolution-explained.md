@@ -9,7 +9,7 @@ excerpt: "Permanent revolution has three components, and the third-component tes
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 123
 author: "amanda-ross"
-last_updated: 2014-09-15
+last_updated: 2026-11-17
 lang: en
 ---
 Permanent revolution is among the most quoted phrases in the Marxist vocabulary and among the least precisely used. Speakers reach for it to signal militancy, opponents reach for it to signal fanaticism, and textbooks too often define it in a single sentence that dissolves on inspection. Precision matters here because the expression names a theory with separable parts, and those parts have fared very differently under examination. A reader who cannot say which part is being asserted, defended, or attacked cannot follow the largest doctrinal quarrel inside twentieth-century communism, a quarrel that split parties, exiled their leaders, and shaped the self-understanding of a state that lasted most of a century.

@@ -9,7 +9,7 @@ excerpt: "The Frankfurt School in an exam rewards the empirical evaluation move:
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 135
 author: "diana-patel"
-last_updated: 2015-10-15
+last_updated: 2026-11-17
 lang: en
 ---
 The Frankfurt School follows candidates into more examination rooms, and is marked more severely in them, than almost any other body of theory a student of Marxism will meet. A sociology candidate encounters it inside units on the media, on culture and identity, and on theory and methods. A media studies candidate meets the culture industry as the standard critical account of how entertainment is produced. A politics candidate meets critical theory as a challenge to orthodox accounts of power and ideology. A philosophy candidate meets Adorno in aesthetics and Benjamin in the philosophy of art. Candidates in civil service examinations meet the school in optional papers in sociology and political science, and candidates in national eligibility tests meet it as a screening topic where a single shallow paragraph is the norm. In every one of those rooms, most scripts are carrying the same account of the school, absorbed from revision resources that state it with complete confidence: the Frankfurt School were pessimistic Marxists who believed that mass culture dupes passive audiences into accepting the capitalist order. That account is the subject of this guide, because it is the most expensive paragraph a candidate on this topic can write.

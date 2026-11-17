@@ -9,7 +9,7 @@ excerpt: "Mao's contradiction essay turns philosophy into a decision procedure: 
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 161
 author: "rachel-foster"
-last_updated: 2018-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 In the summer of 1937, at a military and political college in the loess hills of Yan'an, Mao Zedong delivered two courses of lectures that became the most widely read philosophical texts produced by any Chinese Marxist. The first, On Practice, argued that knowledge begins in doing and is proved in doing. The second, On Contradiction, argued that every situation contains many conflicts, that the conflicts are never of equal weight, and that one of them, the principal contradiction, determines how all the others can be handled. That second claim is the subject of this article, because it is not merely a description of how the world is arranged. It is an instruction to whoever acts in the world: identify the conflict that governs the rest, subordinate your efforts to it, and expect its identity to change as the situation changes. Read in that way, as a decision procedure rather than as a picture of reality, the essay explains both its own extraordinary influence and the suspicion it has attracted from critics who ask whether a procedure so flexible can ever be shown to have been applied wrongly.

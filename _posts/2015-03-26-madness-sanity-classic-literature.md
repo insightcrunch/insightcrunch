@@ -5,11 +5,11 @@ page_title: "Madness and Sanity in Classic Literature - Ophelia, Bertha, Septimu
 date: 2015-03-26
 categories: ["Leisure"]
 tags: ["madness", "sanity", "literary-comparison", "classic-literature", "literary-analysis"]
-excerpt: "Madness in classic literature is not a medical diagnosis. It is a specific analytical category contesting what counts as normality and who gets to decide."
+excerpt: "Why classic novels keep blurring sanity and madness: the literary argument that the line was always negotiable."
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2015-03-26
+last_updated: 2026-11-17
 lang: en
 ---
 Madness in classic literature functions as an analytical category, not a clinical description. Six characters across four centuries of English-language fiction demonstrate that what novels call madness is a contest over the boundaries of normality: who draws them, who enforces them, and who suffers when they are drawn in particular ways. Shakespeare's Ophelia, Charlotte Bronte's Bertha Mason, Virginia Woolf's Septimus Smith, Sylvia Plath's Esther Greenwood, Vladimir Nabokov's Charles Kinbote, and Charlotte Perkins Gilman's unnamed narrator in The Yellow Wallpaper each occupy a different position in the madness taxonomy, and the differences reveal that madness in fiction is gendered, racialized, and historically situated rather than a single transhistorical phenomenon. The conventional treatment of these characters catalogs their symptoms and laments their suffering. The more productive reading, advanced by Michel Foucault, Elaine Showalter, Sandra Gilbert and Susan Gubar, and Shoshana Felman, treats their madness as formal and political argument about the conditions that produce deviance and the institutions that enforce conformity.

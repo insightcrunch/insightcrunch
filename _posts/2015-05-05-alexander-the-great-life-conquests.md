@@ -5,11 +5,11 @@ page_title: "Alexander the Great: Life, Conquests, and Why He Could Not Stop Mar
 date: 2015-05-05
 categories: ["Leisure"]
 tags: ["alexander-the-great", "ancient-macedonia", "hellenistic-period", "military-history", "ancient-history", "biography"]
-excerpt: "Alexander the Great did not conquer the known world to a plan. He kept marching east because stopping was the one thing his training had never taught him."
+excerpt: "Why Alexander the Great mattered then and now: the conquests, the cities, and the cultural fusion he forced."
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2015-05-05
+last_updated: 2026-11-17
 lang: en
 ---
 On the bank of the Hyphasis river, in the monsoon mud of the Punjab, an army that had followed a single man for eight years and roughly eleven thousand miles finally told him no. The soldiers were not mutinous in the usual sense. They did not threaten their king, did not seize the baggage train, did not raise a rival. They simply stood in the rain and refused to take another step east. Alexander argued. He flattered, he reasoned, he reminded them of what they had done together, and when none of that moved them he retired to his tent and stayed there for three days, waiting for the army to change its mind the way a force of nature waits out a season. The army did not change its mind. The most revealing fact about Alexander of Macedon is not any battle he won. It is that the only thing capable of stopping him was the exhaustion of fifty thousand other men.

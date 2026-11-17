@@ -9,7 +9,7 @@ excerpt: "The pink tide redistributed resource rent without transforming product
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 167
 author: "diana-patel"
-last_updated: 2019-01-01
+last_updated: 2026-11-17
 lang: en
 ---
 Between the end of the nineteen nineties and the middle of the following decade, voters across Latin America did something they had never done in such a sequence before: they elected governments of the left, one after another, in country after country, until the pink tide had redrawn the political map of a continent. The victories were not copies of one another. A movement rooted in oil wealth and barracks nationalism won in Venezuela; a metalworker's party, built over decades of union struggle, won in Brazil; a coalition of socialists, communists, and Christian democrats governed in Chile; an indigenous and peasant movement carried the presidency in Bolivia; a former guerrilla coalition took office in Uruguay. What they shared was a direction, a vocabulary of sovereignty and social justice, and an electorate exhausted by two decades of market reform. What they did not share, at the outset, was a programme.

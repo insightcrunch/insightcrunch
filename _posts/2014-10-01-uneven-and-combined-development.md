@@ -9,7 +9,7 @@ excerpt: "Uneven and combined development is Trotsky's most borrowed concept: ba
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 124
 author: "diana-patel"
-last_updated: 2014-10-01
+last_updated: 2026-11-17
 lang: en
 ---
 Uneven and combined development is the Marxist concept most often summarised wrongly, because the summary almost always stops halfway. Uneven development, the claim that societies move at different speeds and reach different levels, is a commonplace that no serious historian disputes and no reader needs Trotsky to learn. The concept earns its name, its literature and its long academic afterlife from the second word. Combined development holds that a society entering the modern world late does not repeat the sequence travelled by the pioneers. Pressed by rivals already armed with railways, steel mills, modern navies and central banks, the latecomer takes over the finished products of other histories wholesale, plants them inside social relations that are centuries older, and produces something that is neither a copy of the advanced society nor an earlier stage of it. The result is an amalgam: the most modern factory in Europe ringed by peasant communes, a central bank beside a subsistence village economy, a conscript army officered by a landed caste. That amalgam, and the distinctive instabilities it generates, is the whole subject of this article.

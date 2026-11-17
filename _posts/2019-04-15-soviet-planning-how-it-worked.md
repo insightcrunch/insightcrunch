@@ -9,7 +9,7 @@ excerpt: "Soviet planning did not compute an economy; it bargained over incremen
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 170
 author: "diana-patel"
-last_updated: 2019-04-15
+last_updated: 2026-11-17
 lang: en
 ---
 Soviet planning is the most argued about economic mechanism of the twentieth century and among the least described. Debates about whether planning can work proceed for pages without anyone saying what the planners in Moscow actually did between January and December of a plan year: what paper moved, who signed it, what numbers it carried, and what the people who received it did next. This article supplies the description. Its central finding can be stated in one sentence, and everything that follows is the evidence for it. Soviet planning did not compute an allocation of resources for the economy. It took the output that enterprises had already achieved, added an increment, argued about the size of the increment and the inputs that would accompany it, and called the result a plan. The method has a name in the literature, planning from the achieved level, and once the name is understood the famous arguments on both sides change shape, because both sides were largely arguing about a method the Soviet economy did not use.

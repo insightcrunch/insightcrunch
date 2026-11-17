@@ -9,7 +9,7 @@ excerpt: "Engels on the Family tied women's oppression to private property on ev
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 144
 author: "rachel-foster"
-last_updated: 2016-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Origin of the Family, Private Property and the State is the book in which Friedrich Engels set out to explain how women came to be subordinated, and it did so on a foundation that has since given way entirely. Engels wrote it in 1884, drawing on the anthropology of Lewis Henry Morgan, whose Ancient Society had appeared seven years earlier and whose scheme of human development arranged every known people on a single ladder of stages. That ladder has been dismantled. The evolutionary stage scheme, the universal early stage of mother-right from which Engels derived his history, and the reconstructions of primitive marriage built from kinship vocabularies have all been rejected by the discipline whose evidence he borrowed. Any honest guide to the book has to begin there, in the open, and not in a footnote near the end: the anthropological basis of this text collapsed, and it collapsed comprehensively.

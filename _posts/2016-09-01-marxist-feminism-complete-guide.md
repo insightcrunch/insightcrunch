@@ -9,7 +9,7 @@ excerpt: "Marxist feminism locates women's oppression in the organisation of pro
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 143
 author: "diana-patel"
-last_updated: 2016-09-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxist feminism is a distinct tradition within feminism, with origins in the nineteenth century rather than the twentieth, and a central claim that sets it apart from every neighbouring school. The claim is not that class matters more than sex. It is that women's oppression is bound up with the way a society organises production and the renewal of its people together, and in particular with the unpaid labour, performed overwhelmingly by women in households, through which the workforce itself is fed, rested, raised, and renewed. A feminism built on that claim asks different questions from a feminism built on legal exclusion, and different questions again from one built on an autonomous system of male domination. It also has a history that standard accounts get wrong in a consequential way: an organised socialist women's movement, with its own theorists, newspapers, conferences, and legislative record, existed for more than half a century before the feminism of the nineteen seventies took up the argument in the universities. This guide treats the tradition whole: the pre-history, the founding text, the three theoretical positions into which the tradition divides, the strongest objection raised against its most ambitious version, and the record of the states that claimed to act on its programme.

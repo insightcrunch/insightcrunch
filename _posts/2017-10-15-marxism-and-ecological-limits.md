@@ -9,7 +9,7 @@ excerpt: "Ecological limits test Marxism at its abundance premise rather than it
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 154
 author: "diana-patel"
-last_updated: 2017-10-15
+last_updated: 2026-11-17
 lang: en
 ---
 The question whether Marxism can accommodate ecological limits is usually asked as though it were a single question, and the confusion begins there. Behind the familiar wording sit two quite different accusations, aimed at two different parts of the framework, with two different bodies of evidence behind them and two very different prospects of being answered. One accusation concerns the theory of value: it says that a framework built to analyse how value is produced has no analytical place for natural conditions, and that nature therefore disappears from its economics at exactly the point where an ecological critique would need it to appear. The other accusation concerns the destination: it says that the society Marxism describes as its goal, a society able to distribute according to need, presupposes a level of material plenty that ecological constraint, if the findings of earth-system science and ecological economics hold, renders unavailable. The first accusation has been examined closely for three decades and has received a substantial answer. The second has been stated clearly, by writers inside the tradition as often as outside it, and has received nothing that deserves the name of an answer. An article that keeps the two apart performs a service that most treatments of this subject fail to perform, because most treatments spend their energy on the accusation that can be answered and leave the one that cannot in a footnote.

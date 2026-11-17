@@ -5,11 +5,11 @@ page_title: "Pettigrew vs Regulus: Two Followers, Two Directions, and the Moral 
 date: 2013-11-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Regulus Black", "Death Eaters"]
-excerpt: "In Harry Potter, Pettigrew turned good to evil while Regulus turned evil to good; this comparison asks why the direction of a turn outweighs its duration."
+excerpt: "Two followers in Harry Potter who turned: one toward evil, one away from it, and what the difference reveals."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 42
 author: "olivia-grant"
-last_updated: 2013-11-26
+last_updated: 2026-11-17
 lang: en
 ---
 ## Introduction: Why the Direction of a Turn Matters More Than Its Length

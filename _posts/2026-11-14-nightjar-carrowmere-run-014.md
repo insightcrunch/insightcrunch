@@ -9,7 +9,7 @@ excerpt: "Mira Kovac walks a foundry clerk out on foot with the list that closes
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 94
 author: "chloe-martin"
-last_updated: 2026-11-14
+last_updated: 2026-11-17
 lang: en
 ---
 ## Cold Open

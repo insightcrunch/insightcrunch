@@ -9,7 +9,7 @@ excerpt: "History and Class Consciousness staked everything on method alone: the
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 135
 author: "diana-patel"
-last_updated: 2015-12-01
+last_updated: 2026-11-17
 lang: en
 ---
 History and Class Consciousness is a collection of eight essays by the Hungarian philosopher Georg Lukacs, published in Berlin in 1923, and it is the founding text of the whole tradition later called Western Marxism. It is famous above all for one long essay on reification, and most summaries of the book are summaries of that essay alone. That fame is lopsided. The collection opens with a claim about method so sweeping that it redefined what loyalty to Marx could mean, builds its argument on a category, totality, that it ranks above economics itself, and closes its career with something almost no other classic of political theory possesses: a long preface, written by its own author for a later edition, that takes the book's central philosophical construction apart piece by piece and declares it a mistake. A reader who knows only the reification essay knows the middle of the book. A reader who misses the later preface has read, in a strict sense, only half of it, because the demolition is part of the text that the world actually inherited.

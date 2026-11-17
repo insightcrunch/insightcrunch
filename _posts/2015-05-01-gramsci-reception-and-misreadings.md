@@ -9,7 +9,7 @@ excerpt: "How Gramsci was read and misread follows seven Gramscis through their 
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 130
 author: "diana-patel"
-last_updated: 2015-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 Antonio Gramsci died in a guarded Roman clinic in April 1937, leaving behind thirty-three prison notebooks that almost nobody had read. Within half a century his name stood behind one of the most used and least agreed concepts in the human sciences, and readers on five continents were citing him for propositions he would have found strange, in disciplines he never entered, on the strength of editions he never saw. The puzzle of his afterlife is not simply that he was interpreted in many ways. Every major thinker is interpreted in many ways. The puzzle is that the interpretations contradict one another on elementary points: on whether his central concept names consent or coercion, on whether he trusted parliaments or despised them, on whether he was an economist who strayed into culture or a cultural theorist who abandoned economics, on whether he planned a conquest of the institutions or warned that no such conquest could be planned in the abstract. Contradictions of that size, among readers who are neither careless nor dishonest, usually have a material cause. In this case the cause can be dated, shelved and catalogued. Different readers met different books.

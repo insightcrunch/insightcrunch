@@ -9,7 +9,7 @@ excerpt: "Leninism either continued Marx or broke with him, and the four positio
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 120
 author: "rachel-foster"
-last_updated: 2014-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 Leninism is the name given to a body of theory and a style of organisation associated with Vladimir Lenin, and few questions in the history of political ideas have been argued with more confidence and less precision than whether that body of work continued the thought of Karl Marx or broke with it. The confidence is understandable. The question carries the weight of a century: revolutions were made under the banner of continuity, and crimes were excused or condemned under the banner of betrayal. The imprecision is less excusable, because the disputants frequently argue past one another. One side produces a pamphlet and demands to know where Marx ever wrote such a thing. The other side produces a prison, a dispersed parliament, a banned faction, and demands to know where Marx ever licensed such a deed. Both exhibits are real. They are simply exhibits in different cases, and a reader who cannot tell the cases apart will be persuaded by whichever advocate speaks last.

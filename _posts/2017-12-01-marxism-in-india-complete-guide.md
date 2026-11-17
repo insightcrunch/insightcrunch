@@ -9,7 +9,7 @@ excerpt: "Marxism in India produced elected communist governments inside a capit
 image: "/assets/images/blog/blog-109.webp"
 reading_time: 154
 author: "rachel-foster"
-last_updated: 2017-12-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism in India names two histories that are usually told apart and should not be. One is political: communist parties that organised workers and peasants, survived illegality and repression, contested elections under a constitution they had not written, and repeatedly won state power through the ballot. The other is intellectual: a tradition of historians, economists and social theorists who took Marxist categories into a society organised by caste, dominated by agriculture and shaped by two centuries of colonial rule, and who changed the categories in the process. Each history explains the other. The parties supplied the questions, about land, caste and colonial exploitation, that the scholarship then formalised. The scholarship, in turn, gave the parties an account of the society they were trying to organise, an account sharp enough to argue with and durable enough to outlast several of the organisations that commissioned it.

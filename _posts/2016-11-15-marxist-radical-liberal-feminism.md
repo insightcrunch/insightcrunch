@@ -9,7 +9,7 @@ excerpt: "Marxist feminism, radical feminism and liberal feminism answer four qu
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 145
 author: "chloe-martin"
-last_updated: 2016-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 Marxist feminism, radical feminism and liberal feminism are usually introduced as three points on a scale of intensity, as if the second were a stronger dose of the first and the third a compromise between extremes. That picture is wrong, and unlearning it is the first step toward understanding any of the three. They are analytical positions. Each identifies a different structure as the primary one producing women's subordination, each therefore locates the mechanism in a different place, and each therefore counts a different outcome as liberation. The disagreements that look like quarrels about tactics or tone are downstream of a single prior choice, and a comparison that starts anywhere else, with policies, slogans, or degrees of militancy, will describe the differences without ever explaining them.

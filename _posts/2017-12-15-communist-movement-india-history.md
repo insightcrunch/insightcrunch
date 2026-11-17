@@ -9,7 +9,7 @@ excerpt: "The communist movement in India was shaped by its wartime reversal and
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 155
 author: "diana-patel"
-last_updated: 2017-12-15
+last_updated: 2026-11-17
 lang: en
 ---
 The communist movement in India was present at nearly every stage of the colonial period's political life, and its history cannot be told as a footnote to the national movement because the two were entangled from the start. Communists organised in the mills and on the railways while the national movement organised in the courts and the councils, and for long stretches the same towns, the same unions and sometimes the same families contained both kinds of activist. The relationship was never settled. It was cooperative in some years, competitive in others, and at one decisive point it ruptured altogether, when the communist party stood aside from, and indeed against, the largest nationalist mobilisation of the colonial era. After independence the movement took a third form, becoming an electoral force that governed particular states for long periods while never approaching power at the centre. A history of the movement therefore has to hold three stories at once: a story of organisation, a story of argument with nationalism, and a story of governments that were always regional and never national.

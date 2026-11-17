@@ -9,7 +9,7 @@ excerpt: "Actually existing socialism was analysed most sharply from inside: the
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 171
 author: "chloe-martin"
-last_updated: 2019-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 Actually existing socialism is the name this article gives to the European states governed by communist parties between 1945 and 1989, and the name matters because it was not invented by the systems' enemies. It began as the rulers' own description of their societies, a phrase that asked to be judged on what existed rather than on what had been promised. Three facts should be fixed before any chronology is attempted. The societies gathered under the label were distinct from one another in language, in level of development, in the route by which their governments arrived, and in the degree of room their citizens managed to carve out. Each of them produced serious Marxist critics of itself, men and women formed inside the doctrine, employed by its universities and institutes, who turned its own categories against the apparatus that claimed to embody them. And each state answered those critics in a consistent way, with prison, with exile, with removal from posts and from print, which is a pattern of behaviour that carries analytical weight of its own.

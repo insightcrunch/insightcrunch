@@ -9,7 +9,7 @@ excerpt: "Imperialism in an exam rewards the stage and empire opening: separate 
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 151
 author: "chloe-martin"
-last_updated: 2017-06-15
+last_updated: 2026-11-17
 lang: en
 ---
 Imperialism is examined in more rooms than almost any other topic in this series, and it is marked differently in each of them. A politics examiner, a history examiner, a development studies examiner, and an international relations examiner can all set a question containing the same word while rewarding four distinguishable kinds of answer. What every one of those markers rewards, across all four disciplines, is a candidate who separates the senses of the term before arguing, who can name more than one Marxist theory and state how the theories differ, and who handles inconvenient evidence without flinching. What every one of them penalises is the answer that recites a single famous pamphlet as though it were the whole tradition, the answer that decorates assertions with unsourced figures, and the answer that defends or denounces Marx's journalism on India instead of reporting what it said, what was wrong with it, and how its author later changed his mind.

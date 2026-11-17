@@ -9,7 +9,7 @@ excerpt: "Care work is low-paid for structural reasons, not moral ones: the care
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 144
 author: "diana-patel"
-last_updated: 2016-12-01
+last_updated: 2026-11-17
 lang: en
 ---
 Few economic puzzles are as plain as the pay attached to care work. The labour of feeding small children, washing an elderly parent, sitting through the night beside a hospital bed, or coaxing a frightened patient through a procedure is among the most necessary work any society performs, and among the worst rewarded. A reader who has arrived here from a search about carers' wages, or about the unpaid hours absorbed by a household, has arrived at the same puzzle from opposite ends, because this article treats the two as one subject. The paid nursery worker and the unpaid daughter are doing continuous work under different arrangements, and the analysis that follows treats them as connected parts of a single system rather than as a market topic and a private topic that happen to share a name.

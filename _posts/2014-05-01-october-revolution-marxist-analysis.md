@@ -9,7 +9,7 @@ excerpt: "The October Revolution turns on two questions too often fused: was it 
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 118
 author: "chloe-martin"
-last_updated: 2014-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 The October Revolution is one of those rare events that cannot even be named without taking a side. Call it a revolution and you have already granted it a social depth, a mass of people in motion, a transformation that reached beyond the rooms where orders were signed. Call it a coup and you have already reduced it to a technique, a handful of determined men seizing the levers of a state whose guards had gone home. Both words are used by serious historians, about the same night, the same city, the same telegrams. The disagreement is not mainly about what happened between the evening of 25 October 1917 by the old calendar and the morning that followed. The chronology of those hours is tolerably well established. The disagreement is about what kind of thing the happening was, and that question cannot be answered until it has been divided into the two questions it secretly contains.

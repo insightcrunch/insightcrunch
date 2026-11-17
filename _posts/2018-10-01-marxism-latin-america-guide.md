@@ -9,7 +9,7 @@ excerpt: "Marxism in Latin America is the tradition's fourth regional instance: 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 164
 author: "amanda-ross"
-last_updated: 2018-10-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism in Latin America is usually introduced to English readers through its revolutionaries, as though the region had supplied the movement with faces and supplied nothing to its arguments. The record runs the other way. Across the twentieth century the region produced a body of Marxist theory with a reach well beyond its own borders: an account of communal landholding as a living basis for socialism, a theory of dependency that reorganised how the world economy was studied, a theology that took Marxist social analysis into the region's churches, a mechanism of super-exploitation specified for dependent economies, and a concept, the coloniality of power, that reshaped debates far from its Peruvian origin. What generated this output was not a local talent for slogans. It was a problem. The categories of classical Marxism had been built from European industrial experience, and the societies to which Latin American Marxists applied them were societies whose exploited majorities were indigenous and rural, in which land and race organised exploitation as visibly as the factory wage, and in which formal independence had coexisted for a century with economic subordination. Theory had to change to fit, and the changes are the tradition.

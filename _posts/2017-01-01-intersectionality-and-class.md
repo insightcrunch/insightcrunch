@@ -9,7 +9,7 @@ excerpt: "Intersectionality began as a legal argument about compound claims: the
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 145
 author: "diana-patel"
-last_updated: 2017-01-01
+last_updated: 2026-11-17
 lang: en
 ---
 Intersectionality entered public language as a slogan, but it began as an argument about court cases. In 1989 a legal scholar published an article in a law journal contending that American anti-discrimination doctrine could not see a particular kind of plaintiff. A Black woman who had been treated badly at work, in a way that was neither the treatment meted out to white women nor the treatment meted out to Black men, was required by the structure of the doctrine to choose: she could bring a race claim, comparing herself with Black men, or a sex claim, comparing herself with white women, but the law had no comfortable category for the compound claim that described what had actually happened to her. The word coined for the missing category was intersectionality, and the argument was doctrinal and remedial, a proposal for repairing a body of law, rather than a theory of society in general. Almost everything confused in the later quarrel between intersectionality and Marxism flows from forgetting that origin, and almost everything illuminating in the quarrel flows from a single analytical question buried inside it: whether class names a relation of exploitation or one category of disadvantage among others.

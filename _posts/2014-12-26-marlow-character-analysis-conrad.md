@@ -5,11 +5,11 @@ page_title: "Marlow: The Implicated Witness, the Unreliable Narrator, and the Cl
 date: 2014-12-26
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "marlow", "character-analysis", "literary-analysis", "unreliable-narrator"]
-excerpt: "Marlow is not Conrad. He is a positioned witness whose social formation produces specific blind spots, and the closing lie reveals his full complicity."
+excerpt: "Why Marlow's lie matters in Heart of Darkness: the narrator's last act of mercy, or his last act of cowardice."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2014-12-26
+last_updated: 2026-11-17
 lang: en
 ---
 Marlow is not Joseph Conrad. He is a character invented by Conrad to occupy a specific social position, to observe specific horrors from within that position, and to demonstrate the specific limits of what a man in that position can understand about what he has witnessed. The single most consequential interpretive decision any reader makes about Heart of Darkness is whether to treat Marlow as Conrad's transparent spokesman or as a character whose narration the novella permits the reader to evaluate from outside. The classroom tradition has overwhelmingly chosen the first option: Marlow speaks, and we receive his words as reliable moral witness. The critical tradition, particularly since Ian Watt's landmark study in 1979 and Edward Said's intervention in 1993, has increasingly chosen the second. This article argues for the second reading, and the evidence begins with the novella's opening sentence.

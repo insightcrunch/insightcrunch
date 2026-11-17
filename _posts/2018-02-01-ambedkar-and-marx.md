@@ -9,7 +9,7 @@ excerpt: "Ambedkar accepted Marx's ends more often than his means: the accepted 
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 156
 author: "rachel-foster"
-last_updated: 2018-02-01
+last_updated: 2026-11-17
 lang: en
 ---
 Bhimrao Ramji Ambedkar is known to one kind of reader as the jurist who chaired the drafting of India's constitution and led the movement against untouchability, and to another kind of reader he is barely a name at all. Both readers tend to assume that his relation to Marx can be settled in a sentence: either he was an enemy of Marxism who buried it, or he was a fellow traveller who borrowed from it. The texts support neither sentence. Ambedkar read Marx directly, at length, and with the care of a man trained to weigh clauses. What he produced was a division of the doctrine into parts he accepted and parts he rejected, with reasons stated for each part, and the division was set out most plainly in a lecture delivered near the end of his life in which he compared Marx with the Buddha point by point. That comparison is the decisive document in the whole debate, and it is read far less often than it is invoked.

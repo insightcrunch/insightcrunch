@@ -3,9 +3,9 @@ layout: post
 title: "Unreliable Narrators in Classic Fiction"
 page_title: "The Greatest Unreliable Narrators in Classic Fiction - Nick Carraway, Holden Caulfield, Marlow, and Why We Cannot Trust the People Telling the Story"
 date: 2015-02-04
-last_updated: 2015-02-04
+last_updated: 2026-11-17
 author: "megan-clark"
-excerpt: "Classic fiction's greatest unreliable narrators compared - why we trust them, why we should not, and what their distortions reveal about reading itself."
+excerpt: "Why unreliable narrators are the most reliable signal of literary ambition: classic fiction's quietest power move."
 slug: "unreliable-narrators-classic-fiction"
 categories: ["Leisure"]
 tags: ["unreliable-narrator", "literary-comparison", "nick-carraway", "holden-caulfield", "marlow", "literary-analysis"]

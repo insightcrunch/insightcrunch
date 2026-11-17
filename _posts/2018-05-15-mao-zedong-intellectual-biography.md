@@ -9,7 +9,7 @@ excerpt: "Mao Zedong is assessed here by his documents against his record: the c
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 160
 author: "diana-patel"
-last_updated: 2018-05-15
+last_updated: 2026-11-17
 lang: en
 ---
 Mao Zedong was two things that biography usually keeps apart, and this profile refuses to separate them. He was a theorist of real originality whose writings on contradiction, on practice, and on guerrilla warfare were taken up by movements on every continent, translated, memorised, and applied by people who never saw China. He was also, for more than a quarter of a century, the ruler of the most populous state on earth, and two of the catastrophes of the twentieth century unfolded under his direction and by his authority: a famine among the largest in recorded history, and a decade of mass persecution that reached into nearly every institution and household in his country. An account that gives only the theory reads as a brief for the defence. The record alone cannot explain why the ideas travelled so far. This article gives both, in full, and lets neither purchase indulgence for the other.

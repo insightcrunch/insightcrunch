@@ -9,7 +9,7 @@ excerpt: "Kerala's social outcomes have four candidate causes, only one of them 
 image: "/assets/images/blog/blog-95.webp"
 reading_time: 156
 author: "amanda-ross"
-last_updated: 2018-01-01
+last_updated: 2026-11-17
 lang: en
 ---
 Kerala is the name that development literature gives to a puzzle, and the puzzle is easy to state in qualitative terms. A state at the southwestern tip of India, formed in 1956 from territories that had belonged to princely kingdoms and to a directly administered British district, achieved levels of literacy, life expectancy, infant survival, and schooling that the research literature consistently describes as far above the Indian average and comparable to those of far wealthier societies, while its per capita income long remained modest by national standards. The achievement was real, it was documented across decades by demographers and economists, and it was accomplished in a state governed, in alternation, by communist-led coalitions and by their rivals from the late 1950s onward. Because communist parties were so visibly present in the government of the state during the decades when the indicators consolidated, the outcomes were widely credited to communist government, and the phrase Kerala model entered international development writing as shorthand for what redistribution and public action could achieve at low income.

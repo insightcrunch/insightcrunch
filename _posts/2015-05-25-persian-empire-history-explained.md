@@ -3,9 +3,9 @@ layout: post
 title: "The Persian Empire Explained"
 page_title: "The Persian Empire Explained: Why the Achaemenids Invented the Institutions Later Empires Copied"
 date: 2015-05-25
-last_updated: 2015-05-25
+last_updated: 2026-11-17
 author: "diana-patel"
-excerpt: "The Persian Empire invented multi-ethnic imperial administration. Every subsequent empire from Rome to Byzantium inherited and modified the Achaemenid design."
+excerpt: "Why the Persian Empire mattered: the road system, the religious tolerance, and the wars that defined antiquity."
 categories: ["Leisure"]
 tags: ["persian-empire", "achaemenid-empire", "cyrus-the-great", "darius", "ancient-history", "institutional-history"]
 image: "/assets/images/blog/blog-52.webp"

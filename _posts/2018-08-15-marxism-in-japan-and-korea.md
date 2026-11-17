@@ -9,7 +9,7 @@ excerpt: "Marxism in Japan and Korea turned on one stage-theory question: the tw
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 162
 author: "amanda-ross"
-last_updated: 2018-08-15
+last_updated: 2026-11-17
 lang: en
 ---
 Japan is the country where Marxism achieved something it achieved almost nowhere else outside the socialist bloc: a durable home inside the university. For roughly a century, Japanese faculties of economics sustained a Marxist scholarly tradition of the first rank, training generation after generation of economists for whom Marx's categories were the ordinary instruments of research rather than a creed imported for political occasions. The tradition argued with itself at a level of textual and empirical detail that few national traditions matched, and its arguments were not parochial. Marxism reached China largely through Japan, carried in Japanese translations and in the heads of Chinese students returning from Tokyo and Kyoto, so that the vocabulary of Chinese Marxism was substantially coined on Japanese soil. Korea's Marxist traditions, by contrast, were divided by partition into a state doctrine in the north and a movement tradition in the south, each developing under pressures the Japanese scholars never faced. This article treats the three cases together because they illuminate one another, and because a single question runs through all of them.

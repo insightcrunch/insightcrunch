@@ -9,7 +9,7 @@ excerpt: "Mira Kovac follows a stamped manifest to a quiet crossing that handles
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 96
 author: "chloe-martin"
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 lang: en
 ---
 ## Cold Open

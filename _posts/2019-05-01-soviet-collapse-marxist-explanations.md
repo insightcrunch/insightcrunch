@@ -9,7 +9,7 @@ excerpt: "The Soviet collapse was begun from inside its ruling stratum: the expl
 image: "/assets/images/blog/blog-106.webp"
 reading_time: 170
 author: "chloe-martin"
-last_updated: 2019-05-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Soviet collapse is usually pictured as a defeat. A system that had competed with the West for four decades is imagined to have been beaten: outspent in an arms race, outproduced in its factories, outargued in the contest of ideas, and finally abandoned by peoples who rose against it. The picture is natural, and it is wrong in the one respect that matters most for explanation. The union was not overthrown by mass revolt, and it was not destroyed by military defeat or foreign invasion. It was dismantled through a process that began with reforms launched by its own leadership, pursued by its own ruling stratum, and completed when the men at the summit of the system concluded that the arrangements over which they presided were no longer worth defending. Armies stayed in their barracks. The crowds that gathered in the capitals gathered late, and mostly to ratify changes already set in motion above them. The state that had survived civil war, famine, and the largest land invasion in history ended in committee rooms, in republican parliaments, and in a hunting lodge where three republican leaders signed its dissolution over the head of its own president.

@@ -9,7 +9,7 @@ excerpt: "The Black Jacobins made the enslaved of Saint-Domingue a proletariat i
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 148
 author: "chloe-martin"
-last_updated: 2017-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 C. L. R. James was a Caribbean Marxist who wrote history, political theory, literary criticism, and one of the finest books ever written about a sport, and the work on which his reputation rests is a history of the only slave revolution that ever succeeded. The Black Jacobins, published in 1938, reconstructs the uprising in the French sugar colony of San Domingo that destroyed slavery there, defeated three European powers in turn, and founded the state of Haiti. Its central argument is not the moral one a reader might expect. James held that the enslaved workers of the great sugar plantations, because of the way their labour was organised, stood closer to a modern proletariat than any body of workers then existing in Europe. That claim, and not the narrative of suffering and heroism that surrounds it, is what makes the book a work of Marxist analysis, and it is the thread this profile follows through the whole of his long career.

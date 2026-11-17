@@ -9,7 +9,7 @@ excerpt: "War of position and war of manoeuvre name two strategies for two kinds
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 128
 author: "amanda-ross"
-last_updated: 2015-02-15
+last_updated: 2026-11-17
 lang: en
 ---
 The war of position is probably the most quoted phrase in Antonio Gramsci's vocabulary and the least examined. It circulates as a slogan of patience, gets attached to any slow accumulation of influence, and is often paired with its twin, the war of manoeuvre, in summaries that settle both in a sentence apiece. Manoeuvre, the summaries say, means revolution: a rapid assault on state power. Position means reform: the gradual conquest of culture, institutions and opinion until power somehow changes hands by accumulation. That pairing is neat, quotable and wrong in a way that matters, because it converts a distinction about the structure of states into a choice between temperaments. Gramsci's pair of terms does something more precise and more demanding. It says that the form a struggle must take is dictated by the kind of state it confronts, that in one kind of state a frontal assault can decide everything, and that in another kind the same assault shatters against defences that are not made of soldiers at all.

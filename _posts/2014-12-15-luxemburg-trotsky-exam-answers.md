@@ -9,7 +9,7 @@ excerpt: "Luxemburg and Trotsky in an exam reward the record-inclusion rule: jud
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 126
 author: "rachel-foster"
-last_updated: 2014-12-15
+last_updated: 2026-11-17
 lang: en
 ---
 Luxemburg and Trotsky occupy a peculiar place in examination halls. Few candidates meet them as neutral syllabus entries. Most arrive carrying a verdict absorbed from a movement pamphlet, a hostile textbook paragraph, or a teacher's aside, and the script that follows reads as advocacy for one side of an argument the marker may not share. The marks, meanwhile, sit in a different place entirely. They reward the candidate who can state each thinker's argument accurately, test it against the events that thinker actually lived through and helped to shape, and reach a judgement whose strength matches the evidence presented. This guide teaches that performance. Its organising discipline has a name, the record-inclusion rule, and its promise is plain: a candidate who judges Luxemburg and Trotsky with their defeats, offices, and contested episodes inside the answer, rather than edited out by sympathy or by hostility, writes the kind of script that examiners at every level are trained to reward.

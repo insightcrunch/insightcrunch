@@ -9,7 +9,7 @@ excerpt: "Socialist states compiled a damaging environmental record alongside a 
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 155
 author: "rachel-foster"
-last_updated: 2017-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 Socialist states compiled one of the most contradictory environmental records of the twentieth century, and any honest account has to hold both halves of that record in view at once. On one side stand ecological disasters of the first magnitude: a great inland sea largely destroyed by irrigation diversion, industrial regions where air and water carried contamination for decades, a reactor accident whose consequences secrecy made far worse, and a campaign against birds that helped unleash the insects it was meant to suppress. On the other side stands a conservation achievement that popular accounts on every side omit: a system of strict nature reserves founded from 1919, among the earliest and most stringent anywhere, and a conservation biology tradition of genuine sophistication that flourished around those reserves before it was suppressed and later partly revived.

@@ -9,7 +9,7 @@ excerpt: "Did Marxism neglect gender? The charge and verdict ledger separates th
 image: "/assets/images/blog/blog-97.webp"
 reading_time: 146
 author: "amanda-ross"
-last_updated: 2016-12-15
+last_updated: 2026-11-17
 lang: en
 ---
 Did Marxism neglect gender? The accusation is usually delivered as a settled fact, something a reader is expected to absorb before any evidence is shown. This article refuses that delivery. It treats the accusation as what it actually is: a serious criticism with a theoretical component and a historical component, pressed hardest not by Marxism's opponents but by Marxist feminists working inside the tradition, and it insists that the two components be assessed separately, because they have different evidence, different defendants, and different outcomes. A verdict that lumps them together will convict the wrong party or acquit the guilty one, and most published verdicts on this question do exactly that.

@@ -9,7 +9,7 @@ excerpt: "Marxist economics is a programme, not a doctrine: eight schools, one i
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 138
 author: "rachel-foster"
-last_updated: 2016-04-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxist economics is a body of academic economics, practised in universities, published in refereed journals, and argued over at conferences, whose subject is not the allocation of scarce resources but capitalism itself: how that system produces and distributes its wealth, where its profits come from, why it expands and then contracts, and how the people inside it might one day replace it with something else. It is the oldest heterodox tradition in the discipline, the one against which several of the discipline's own categories were first sharpened, and it is also, by the standards of the profession's centre, a marginal field, taught in a minority of departments and largely absent from the journals that confer prestige. Both facts belong in the opening paragraph, because an honest guide has to hold them together. This is a real research literature, with named schools, settled findings in places, and live disputes in others, and it is a literature that the mainstream of economics has mostly ceased to read.

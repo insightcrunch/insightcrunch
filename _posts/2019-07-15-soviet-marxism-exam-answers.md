@@ -9,7 +9,7 @@ excerpt: "Soviet Marxism in an exam rewards the estimation move: explain how fig
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 173
 author: "rachel-foster"
-last_updated: 2019-07-15
+last_updated: 2026-11-17
 lang: en
 ---
 Soviet Marxism is examined wherever the twentieth century is examined, and a candidate who understands where the material sits in each paper has already solved half the problem of writing on it. History papers meet it inside the Russian Revolution and its aftermath, inside the Cold War, and inside the history of twentieth-century Europe. Politics papers meet it as a doctrine and as a regime type: the codified teaching called Marxism-Leninism, the one-party state built to carry it, and the long argument about whether such a state is what the doctrine produces or what betrayed it. Philosophy papers meet it where dialectical materialism is set as a system to be expounded and tested. Civil service optional papers in political science and in history meet it as theory and as record together. Eligibility tests meet it in compressed form, and school-level history specifications return to it constantly, because few topics let an examiner test narrative, causation, evaluation, and source handling inside a single question. Each setting rewards something different, and this guide is organised around those rewards rather than around the content itself, which the cluster's nine preceding articles exist to supply.

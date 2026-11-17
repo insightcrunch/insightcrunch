@@ -9,7 +9,7 @@ excerpt: "The transformation problem asks whether values can become prices witho
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 138
 author: "rachel-foster"
-last_updated: 2016-04-15
+last_updated: 2026-11-17
 lang: en
 ---
 The transformation problem begins with a tension that sits inside the most celebrated work of political economy ever published, and it can be stated without any algebra. In the first volume of Capital, Marx analyses a world in which commodities exchange in proportion to the labour time embodied in them, and on that assumption he explains where profit comes from. In the third volume, published after his death, he shows that commodities cannot exchange in those proportions in a competitive economy where capitals of equal size earn equal profit. The embarrassment is plain: the two volumes appear to rest on two different rules for what things sell for, and the bridge Marx builds between them, his own procedure for converting values into prices of production, is defective in a way that can be pinpointed exactly.

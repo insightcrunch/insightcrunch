@@ -5,11 +5,11 @@ page_title: "George and Lennie in Of Mice and Men - Friendship, Dependence, the 
 date: 2014-11-06
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "george-milton", "lennie-small", "character-analysis", "literary-analysis"]
-excerpt: "George and Lennie's bond is not sentimental friendship. It is a 1930s labor-structural arrangement whose distinct features shape their tragic outcome."
+excerpt: "Why George and Lennie matter in Of Mice and Men: the friendship that makes the dream real and the loss unbearable."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "claire-bennett"
-last_updated: 2014-11-06
+last_updated: 2026-11-17
 lang: en
 ---
 Steinbeck's Of Mice and Men opens with two men walking single file down a path toward the Salinas River, and everything the text will argue about American labor, disability, friendship, and violence is contained in the way those two men move. George Milton walks first, small and quick, with defined features and restless eyes. Lennie Small follows behind, shapeless and enormous, dragging his feet the way a bear drags its paws. Before either man speaks a word, Steinbeck has established the foundational pairing: one leads, one follows, and the reader's first instinct is to read this as a sentimental odd-couple pairing of brain and brawn. That instinct is precisely what the text will spend its remaining pages dismantling.

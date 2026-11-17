@@ -5,11 +5,11 @@ page_title: "Sin and Society in The Scarlet Letter - Public Shame, Private Guilt
 date: 2014-12-11
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "sin", "society", "themes", "literary-analysis", "classic-literature"]
-excerpt: "Hawthorne treats sin not as private moral failing but as social technology the Puritan community uses to manufacture its authority and absorb dissent."
+excerpt: "Why The Scarlet Letter is about hypocrisy more than sin: Hawthorne aims his harshest verdicts at the watching town."
 image: "/assets/images/blog/blog-99.webp"
 reading_time: 70
 author: "olivia-grant"
-last_updated: 2014-12-11
+last_updated: 2026-11-17
 lang: en
 ---
 The Scarlet Letter contains three kinds of sin, and the distinctions among them are not moral but structural. Hester Prynne's adultery is public, identified, and punished by the full weight of the Puritan the colony's ceremonial apparatus. Arthur Dimmesdale's identical adultery is hidden, protected by the social role he occupies, and sustained across seven years by the very pulpit from which he preaches against transgression. Roger Chillingworth's slow psychological destruction of Dimmesdale is invisible to Puritan Boston entirely, falling outside every category the Puritan moral vocabulary has constructed. These three forms of sin are not independent failures happening to occur in the same novel. They are structurally related positions in a single social economy, and that economy is the novel's true subject.

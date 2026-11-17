@@ -9,7 +9,7 @@ excerpt: "Hegemony is consent organised, not merely imposed: leadership, materia
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 127
 author: "rachel-foster"
-last_updated: 2015-01-15
+last_updated: 2026-11-17
 lang: en
 ---
 Hegemony may be the most borrowed word in social theory and the least examined. It appears in newspaper columns about media power, in textbooks about empires, in seminar rooms about schooling, and in everyday speech as a grand synonym for being on top. Almost everywhere it travels, it arrives carrying the same small definition: domination achieved through ideas, rule by persuasion rather than by force, the quiet manufacture of agreement by those who control the cultural machinery. That definition is not false in the way a wrong date is false. It is false in the more damaging way, by omission. It leaves out the working parts that make Antonio Gramsci's concept do distinctive analytical work, and without those parts hegemony cannot be told apart from ideology, from propaganda, or from false consciousness, which is why students, journalists, and not a few scholars use the four terms as if they were interchangeable labels for a single complaint.

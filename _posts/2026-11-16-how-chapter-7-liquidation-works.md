@@ -9,7 +9,7 @@ excerpt: "Chapter 7 liquidation works by handing a failed company to a trustee w
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 82
 author: "william-knight"
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 lang: en
 ---
 ## A Filing That Ends a Company Instead of Saving It

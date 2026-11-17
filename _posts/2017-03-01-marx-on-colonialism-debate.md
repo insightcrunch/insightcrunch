@@ -9,7 +9,7 @@ excerpt: "Marx on colonialism poses the hard questions directly: brutal judgemen
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 147
 author: "amanda-ross"
-last_updated: 2017-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 Did Marx support colonialism, and was he a racist? The questions arrive together, in search boxes and seminar rooms alike, and they are usually answered by selecting a single text and presenting it as the whole record. The honest answer has four parts, and no part cancels another. In 1853 Marx published newspaper articles arguing that British rule in India, brutal in its motives and its conduct, would nevertheless prove historically progressive in its effects. In private correspondence he used racist language, and this article will state that plainly. From the late 1850s his published position changed substantially, as rebellion in India and war in America gave him colonial peoples as actors to report rather than as backdrops to describe. Finally, in letters of 1869 and 1870 on Ireland, he reversed the reasoning of his earlier years completely and produced the founding Marxist analysis of national antagonism as the mechanism by which a working class is divided and disarmed. An assessment that omits any of the four is not an assessment. It is a selection, and selection is the commonest method by which this record is misrepresented in both directions, by prosecutors who stop at 1853 and by defenders who start at 1870.

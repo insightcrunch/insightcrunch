@@ -9,7 +9,7 @@ excerpt: "Global supply chains capture value at their ends, in design and brandi
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 150
 author: "rachel-foster"
-last_updated: 2017-06-01
+last_updated: 2026-11-17
 lang: en
 ---
 A shirt, a telephone, a pair of trainers: each arrives in a shop with a price attached, and almost everything about that price is misleading if read as a record of where the thing was made. Global supply chains separate the geography of production from the geography of reward so thoroughly that the two maps no longer resemble one another. The hands that cut, stitched, soldered, and assembled may have worked on another continent from the offices that designed the product, chose its materials, set its price, and collected the margin when it sold. The analytical question of this article is therefore not where things are made. It is where the money ends up, and why the ending point differs so persistently from the making point.

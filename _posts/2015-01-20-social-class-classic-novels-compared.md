@@ -5,11 +5,11 @@ page_title: "Social Class in Classic Literature - How Austen, Dickens, Fitzgeral
 date: 2015-01-20
 categories: ["Leisure"]
 tags: ["social-class", "literary-comparison", "classic-literature", "jane-austen", "charles-dickens", "literary-analysis"]
-excerpt: "Classic novels do not merely portray class but theorize it. Austen, Dickens, Fitzgerald, and Steinbeck build four competing analytical frames for one question."
+excerpt: "Why class is the real protagonist of so many classics: the invisible system every great novelist eventually confronts."
 image: "/assets/images/blog/blog-116.webp"
 reading_time: 70
 author: "lauren-hayes"
-last_updated: 2015-01-20
+last_updated: 2026-11-17
 lang: en
 ---
 The question is not whether classic novels portray social class. Every novel written before the twentieth century takes class for granted as the organizing principle of its fictional world, and most novels written after it do the same, whether or not they acknowledge that organization explicitly. The real question is how specific novelists theorize class differently, and what those differences reveal about the economic systems each novelist inhabited. Jane Austen, Charles Dickens, F. Scott Fitzgerald, and John Steinbeck all wrote novels saturated with class awareness. Their analytical frames, however, are so distinct that treating them as variations on a single theme flatters the reader with false comprehension. Austen theorizes class as a marriage-market currency whose value is set by entailment law and annual income. Dickens theorizes class as industrial social machinery that grinds individuals into categories of suffering. Fitzgerald theorizes class as a specifically American deception in which new money performs visibility and old money performs invisibility. Steinbeck theorizes class as a structural antagonism between labor and capital that can only be resolved through collective action. Comparing across these four frames is not a thematic exercise. It is an analytical one, and the analytical differences constitute the content.

@@ -9,7 +9,7 @@ excerpt: "Bloch made hope a principle rather than a mood: the utopian surplus ta
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 136
 author: "diana-patel"
-last_updated: 2016-02-01
+last_updated: 2026-11-17
 lang: en
 ---
 Ernst Bloch was a German Marxist philosopher of the twentieth century whose entire work turns on a single subject that his tradition had largely neglected: hope. Where the other great names of Western Marxism wrote about reification, hegemony, ideology, and the administered world, Bloch wrote about the forward pressure inside human wishing, and he tried to give that pressure the dignity of a philosophical system. His major work, The Principle of Hope, written in American exile during the nineteen forties and published in the decade after, argues that anticipations of a better life are not private decorations on an otherwise finished reality. They are, he claimed, an objective feature of a world that is itself unfinished, a tendency lodged in art, religion, myth, fairy tale, and the ordinary daydream, waiting to be read correctly. He is the principal counterweight, inside the Marxist tradition, to the pessimism associated with the Frankfurt School: where their critique of the present often ended in a guarded darkness, his ended in an instructed expectation.

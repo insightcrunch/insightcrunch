@@ -5,11 +5,11 @@ page_title: "Gender and Feminism in Classic Literature - Elizabeth Bennet, Jane 
 date: 2015-01-25
 categories: ["Leisure"]
 tags: ["feminism", "gender", "literary-comparison", "classic-literature", "elizabeth-bennet", "jane-eyre", "hester-prynne"]
-excerpt: "Calling classic heroines proto-feminist flattens what each actually negotiated. Bennet, Eyre, Prynne, Dalloway, and Offred fought very different systems."
+excerpt: "Why classic literature's heroines still feel modern: Austen, Bronte, and Hawthorne write women who refuse the script."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "elena-wright"
-last_updated: 2015-01-25
+last_updated: 2026-11-17
 lang: en
 ---
 Elizabeth Bennet refuses two marriage proposals in an era when refusal could mean destitution. Jane Eyre walks away from the man she loves rather than accept a position that compromises her moral standing. Hester Prynne stands on a scaffold in Puritan Boston, holding the child whose existence marks her as an adulteress, and refuses to name the father. Jo March turns down a wealthy suitor because she does not love him and would rather write than marry. Isabel Archer inherits a fortune and chooses a husband who turns out to be a prison. Clarissa Dalloway spends a single day in post-war London remembering the woman she might have loved and the man she chose instead. Offred, stripped of her name, her daughter, her bank account, and her bodily autonomy, survives a theocratic regime by recording her story in secret. These seven women span two centuries of English-language fiction, and the instinct to call all of them "feminist" or "proto-feminist" is understandable. It is also analytically insufficient. Each heroine operated within constraints so different from the others that the label "feminist" without further specification tells us almost nothing about what she actually did, what she risked, or what her author was arguing.

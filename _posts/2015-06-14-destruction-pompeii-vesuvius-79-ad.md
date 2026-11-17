@@ -3,12 +3,12 @@ layout: post
 title: "Destruction of Pompeii by Vesuvius in 79 AD"
 page_title: "Destruction of Pompeii by Vesuvius in 79 AD: Hour-by-Hour Reconstruction and What It Preserved"
 date: 2015-06-14
-last_updated: 2015-06-14
+last_updated: 2026-11-17
 author: "chloe-martin"
 slug: "destruction-pompeii-vesuvius-79-ad"
 categories: ["Leisure"]
 tags: ["pompeii", "vesuvius", "ancient-rome", "79-ad", "archaeological-evidence", "ancient-history"]
-excerpt: "Pompeii's destruction is an archaeological gift: a Roman commercial town frozen in ordinary afternoon operations, preserving life no literary source captures."
+excerpt: "Why Pompeii survived its own destruction: the eruption that killed thousands and froze everyday Roman life forever."
 image: "/assets/images/blog/blog-96.webp"
 reading_time: 70
 lang: en

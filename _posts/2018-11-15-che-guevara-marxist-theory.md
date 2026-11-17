@@ -9,7 +9,7 @@ excerpt: "Che Guevara the economic thinker is far less known than the familiar i
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 166
 author: "amanda-ross"
-last_updated: 2018-11-15
+last_updated: 2026-11-17
 lang: en
 ---
 Almost everyone alive can recognise Che Guevara, and almost nobody can say what he thought. The face on the poster, the beret, the gaze directed past the camera toward some horizon of struggle: that image has circulated so widely, and been emptied so thoroughly in the circulating, that it now functions as a free-floating sign of rebellion in general, detached from any doctrine in particular. Behind the image stands a writer. Ernesto Guevara produced two bodies of theoretical work during a short life, and they are not equal in weight. The first, a theory of insurrection built around the armed foco, made him famous and was taken up, with catastrophic results, by armed groups across a continent. The second, an argument about how a socialist economy should actually be managed, conducted in Cuban journals against named opponents over questions of accounting, incentives, and the law of value, is more substantial, more original, and almost entirely unknown outside specialist circles. This profile treats both bodies of work at the length they deserve, which means reversing the usual proportions. The guerrilla theory gets its full hearing, including its record. The economic argument gets the centre of the article, because it is the centre of his claim to be a theorist at all.

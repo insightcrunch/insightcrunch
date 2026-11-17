@@ -3,10 +3,10 @@ layout: post
 title: "Ancient Mesopotamia: Cradle of Civilization"
 page_title: "Ancient Mesopotamia: How the Institutions We Call Civilization Were Invented Between the Two Rivers"
 date: 2015-05-30
-last_updated: 2015-05-30
+last_updated: 2026-11-17
 author: "rachel-foster"
 slug: "ancient-mesopotamia-civilization"
-excerpt: "Mesopotamia is the cradle of civilization: writing, cities, law codes, schools, and empires were all first invented between the Tigris and the Euphrates."
+excerpt: "Why ancient Mesopotamia is called the cradle of civilization: the inventions that made everything else possible."
 categories: ["Leisure"]
 tags: ["ancient-mesopotamia", "sumer", "babylon", "cradle-of-civilization", "cuneiform", "ancient-history"]
 image: "/assets/images/blog/blog-52.webp"

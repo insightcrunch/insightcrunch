@@ -9,7 +9,7 @@ excerpt: "The Cultural Revolution is reconstructed here phase by phase: the phas
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 162
 author: "amanda-ross"
-last_updated: 2018-07-01
+last_updated: 2026-11-17
 lang: en
 ---
 The Cultural Revolution was a political movement launched in China in 1966 by Mao Zedong, chairman of the Chinese Communist Party, and directed, extraordinarily, against the party and state apparatus over which he presided. Its announced purpose was to purge bourgeois and revisionist elements said to have entrenched themselves inside the party, the government, the universities, and the world of culture, and to prevent the restoration of capitalism by renewing the revolution within the generation that had made it. Its formal span runs from the spring of 1966 to the autumn of 1976. Both what it was and how much it cost remain matters of serious scholarly dispute, and a responsible account has to carry those disputes openly rather than settle them by selection. This article reconstructs the record in sequence, states what happened to the people and institutions caught in it, explains why the estimates of its human cost diverge so widely, and sets out the two readings of the period that historians working from the archives continue to defend.

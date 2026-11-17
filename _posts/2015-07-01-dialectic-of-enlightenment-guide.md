@@ -9,7 +9,7 @@ excerpt: "Dialectic of Enlightenment argues that reason carries domination insid
 image: "/assets/images/blog/blog-110.webp"
 reading_time: 131
 author: "chloe-martin"
-last_updated: 2015-07-01
+last_updated: 2026-11-17
 lang: en
 ---
 Dialectic of Enlightenment is the most influential book to emerge from the Frankfurt School and the hardest to shelve. Two exiled Marxists, Max Horkheimer and Theodor W. Adorno, composed it in southern California while the Second World War was being fought, and its argument reaches far beyond the concerns a reader of Marxist theory expects to meet. Enlightenment, on their account, is the long campaign by which reason promised to free human beings from fear and myth. The campaign carries a poison inside itself: nature is dominated so thoroughly that the domination turns inward, human beings are mastered by the same rationality that mastered the world, and enlightenment reverts to the mythology it set out to destroy. Readers arrive expecting a work of social theory about capitalism and find a philosophy of history running from Odysseus to Hollywood, in which capitalism appears as one late form of a pattern thousands of years old. That mismatch between expectation and content is the first obstacle the book places in a reader's way, and removing it is a guide's first duty.

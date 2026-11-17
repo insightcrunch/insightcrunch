@@ -9,7 +9,7 @@ excerpt: "The labour aristocracy thesis says colonial superprofits bribed a whol
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 148
 author: "rachel-foster"
-last_updated: 2017-04-15
+last_updated: 2026-11-17
 lang: en
 ---
 The labour aristocracy, as a named thesis, is an explanation of a political fact that has puzzled revolutionaries for well over a century: workers in the richest countries, who on a straightforward reading of Marxist theory should have been the most revolutionary class in history, have mostly not been revolutionary at all. The thesis answers the puzzle with an economic mechanism. It holds that profits drawn from colonies and dependent economies were so large that employers and states in the imperialist countries could afford to pay a layer of their own workers more than the value of what those workers produced, and that this material privilege bought political loyalty. The explanation is elegant, it is morally charged, and its empirical standing is contested at every joint. A reader who has met the phrase in an argument, usually as a verdict rather than as a claim, deserves to know what exactly is being asserted, what evidence would settle the matter, and why the argument generates so much heat. That is the work of the pages that follow.

@@ -3,11 +3,11 @@ layout: post
 title: "Mr. Rochester Character Analysis"
 page_title: "Mr. Rochester Character Analysis: Why the Byronic-Hero Reading Obscures His Specific Class and Imperial Formation"
 date: 2014-10-22
-last_updated: 2014-10-22
+last_updated: 2026-11-17
 author: "megan-clark"
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "mr-rochester", "byronic-hero", "victorian-patriarchy", "classic-literature"]
-excerpt: "Rochester is not just a Byronic hero. He is a specific product of Victorian class privilege, Yorkshire inheritance, and Jamaican imperial-colonial wealth."
+excerpt: "Why Rochester divides readers in Jane Eyre: a hero who has to lose everything before he is fit to be loved well."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 78
 lang: en

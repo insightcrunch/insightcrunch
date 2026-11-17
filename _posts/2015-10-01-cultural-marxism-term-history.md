@@ -9,7 +9,7 @@ excerpt: "Cultural Marxism is a term with three separate usages and three separa
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 134
 author: "rachel-foster"
-last_updated: 2015-10-01
+last_updated: 2026-11-17
 lang: en
 ---
 Few phrases in political conversation carry as much weight on as little shared meaning as cultural Marxism. A reader meets it in a newspaper column, in a speech, in a comment thread, in a conversation with a neighbour, and in almost every case the person using it assumes that its meaning is plain. Yet the phrase is asked to do the work of at least three different expressions, each with its own history, its own users, and its own relationship to the evidence. One of them is a quiet label from scholarship. One of them is shorthand for a real argument among historians of ideas. One of them is the name of a conspiracy narrative whose documented lineage runs through some of the darkest polemics of the twentieth century. An article that treats the phrase as though it had a single meaning will mislead its reader whichever of the three the reader arrived with.

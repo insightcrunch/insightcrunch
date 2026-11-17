@@ -9,7 +9,7 @@ excerpt: "Rosa Luxemburg is claimed by four traditions at once: social democracy
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 122
 author: "chloe-martin"
-last_updated: 2014-08-01
+last_updated: 2026-11-17
 lang: en
 ---
 Rosa Luxemburg presents a problem that no other major Marxist thinker presents in quite the same form. Four traditions claim her, and they claim her with documents in hand. Social democrats quote her prison manuscript against the Bolshevik suppression of political freedom. Communists point to the party she co-founded in the last fortnight of her life and to the manner of her death at the hands of counter-revolutionary troops. Feminists recover a woman who conquered the most masculine intellectual world in Europe on its own terms and left thousands of pages of correspondence that no male contemporary matched for range. Green movements take up her account of a capitalism that must perpetually consume what lies outside itself. Each claim rests on real texts and real episodes. Each is also partial, and the partiality is not accidental. What none of the claimants holds is the combination she herself held, all of it, at once, for most of her adult life.

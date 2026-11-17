@@ -9,7 +9,7 @@ excerpt: "Reform or Revolution is Luxemburg's answer to Bernstein: the means and
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 122
 author: "chloe-martin"
-last_updated: 2014-08-15
+last_updated: 2026-11-17
 lang: en
 ---
 Reform or Revolution is the shortest major text in the Marxist canon and the one most persistently described as saying the opposite of what it says. Rosa Luxemburg wrote it in 1898 and 1899 as a reply to Eduard Bernstein, the German social democrat who had argued that capitalism was changing in ways that made the revolutionary goal unnecessary. The pamphlet that resulted is quoted in lecture halls, pamphlets of rival movements, and examination answers as the classic defence of revolution against reform, a blunt refusal of gradual improvement in favour of the dramatic break. Read the actual pages and a different book appears: a defence of the daily struggle for reforms, written by a woman who spent her career fighting for them inside a party built on reform campaigns, aimed not at reformers but at a theory that had quietly deleted the purpose those campaigns were supposed to serve. The distance between the citation and the text is the subject of this guide.

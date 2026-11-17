@@ -9,7 +9,7 @@ excerpt: "Foster recovered an ecological materialism inside Marx's own work rath
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 152
 author: "diana-patel"
-last_updated: 2017-08-01
+last_updated: 2026-11-17
 lang: en
 ---
 John Bellamy Foster is the scholar whose name attaches, more than any other, to the claim that Marx's materialism was ecological from its beginnings and that the founder of historical materialism needs no green supplement because the ecology was always there to be read. Foster is the leading figure of what is usually called the second wave of ecological Marxism, the wave that returned to Marx's own texts after an earlier generation had built ecological arguments at a distance from them. His argument is therefore a claim about reading before it is a claim about theory. He holds that the ecological content of Marxism is recovered from the documentary record, from the dissertation of 1841 through the notebooks of the final decades, and not added to that record by sympathetic interpreters. That single distinction, recovery rather than addition, explains both the strength of his work and the shape of the objections it attracts, because an argument that rests on evidence can be defeated on evidence, and his critics have tried to defeat it on exactly that ground.

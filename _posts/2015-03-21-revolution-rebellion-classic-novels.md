@@ -5,11 +5,11 @@ page_title: "Revolution and Rebellion in Classic Novels - Animal Farm, 1984, Fah
 date: 2015-03-21
 categories: ["Leisure"]
 tags: ["revolution", "rebellion", "literary-comparison", "animal-farm", "1984", "fahrenheit-451", "literary-analysis"]
-excerpt: "Classic novels about revolution propose specific theories about why rebellions succeed, fail, or devour themselves. The theories differ, and they matter."
+excerpt: "Why classic novels distrust revolutions even as they admire revolutionaries: the warning embedded across genres."
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 70
 author: "elena-wright"
-last_updated: 2015-03-21
+last_updated: 2026-11-17
 lang: en
 ---
 Classic novels about revolution are not simply dramatic stories about civic upheaval. They are theoretical propositions, each advancing a specific argument about how rebellions begin, why they succeed or fail, and what happens to the people who live through them. Six foundational works - George Orwell's Animal Farm and 1984, Charles Dickens's A Tale of Two Cities, Victor Hugo's Les Miserables, Margaret Atwood's The Handmaid's Tale, and Ray Bradbury's Fahrenheit 451 - operate at different stages of the revolutionary cycle and propose different theories about the mechanics of revolt. Reading them as a comparative sequence, rather than as isolated thematic exercises, reveals analytical content that individual readings consistently miss.

@@ -9,7 +9,7 @@ excerpt: "Socialism with Chinese characteristics is a transition theory with no 
 image: "/assets/images/blog/blog-94.webp"
 reading_time: 163
 author: "amanda-ross"
-last_updated: 2018-08-01
+last_updated: 2026-11-17
 lang: en
 ---
 Socialism with Chinese characteristics is usually met first as a phrase on a news broadcast or a textbook page, and it is usually dismissed within the same minute, as a euphemism invented to let a communist party operate a market economy while keeping the name. That dismissal is too quick, and it misses the thing worth studying. The phrase names a doctrine, and the doctrine has a structure: a premise taken from Marx himself, a diagnosis of the country to which the premise is applied, a prescription about which instruments may legitimately be used during the interval the diagnosis describes, and a claim about how long that interval will last. Because the doctrine has a structure, it can be assessed the way any argument is assessed, by asking whether the premise is sound, whether the diagnosis fits the evidence, whether the prescription follows from the two of them, and whether the conclusion is ever required to arrive. This article performs that assessment. It treats the formulation neither as a slogan to be repeated nor as a fraud to be exposed, but as a stage theory inside the Marxist tradition, with ancestors in that tradition, rivals competing with it, and one specific weakness at its centre, the absence of any stated condition under which its long stage would count as complete. That weakness has a name in what follows: the terminal condition gap.

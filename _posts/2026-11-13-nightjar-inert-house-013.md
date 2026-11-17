@@ -9,7 +9,7 @@ excerpt: "Mira Kovac finds a bound load in a Dravin border station, its binding 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 100
 author: "rachel-foster"
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 lang: en
 ---
 ## Cold Open

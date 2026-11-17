@@ -9,7 +9,7 @@ excerpt: "Western Marxism named a tradition formed in defeat: philosophy over ec
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 134
 author: "rachel-foster"
-last_updated: 2015-11-01
+last_updated: 2026-11-17
 lang: en
 ---
 Marxism after Marx never travelled as a single doctrine. Within a generation of its founder's death it had divided into currents that disagreed about strategy, about philosophy, and about what kind of knowledge a revolutionary theory was supposed to be. One of those currents acquired a label that has stuck so firmly that it is easy to forget the label was invented afterwards, by an outsider, and that the people it collects never used it of themselves. Western Marxism names the body of Marxist theory produced in continental Europe from the nineteen twenties onward, and what distinguishes it is not first of all a doctrine. It is a location and a set of preoccupations: its theorists worked increasingly inside universities rather than inside mass parties, and they wrote about philosophy, culture, art, and consciousness where their predecessors had written about wages, crises, and the state. Everything else about the tradition, its difficulty, its pessimism, its strange durability, follows from that placement and from the political catastrophe that produced it.

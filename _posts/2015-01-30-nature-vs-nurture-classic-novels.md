@@ -5,11 +5,11 @@ page_title: "Nature vs Nurture in Classic Fiction - Frankenstein's Creature, Hea
 date: 2015-01-30
 categories: ["Leisure"]
 tags: ["nature-vs-nurture", "literary-comparison", "frankenstein", "lord-of-the-flies", "wuthering-heights", "literary-analysis"]
-excerpt: "Classic novels test the nature-versus-nurture question as thought experiment. The answers they give are not uniform; the variation is the analytical content."
+excerpt: "Why nature vs nurture runs through so many classics: novelists asking the same question with different answers each time."
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2015-01-30
+last_updated: 2026-11-17
 lang: en
 ---
 Classic novels do not agree about nature versus nurture. The disagreement is the point. Five of the most celebrated works in the English-language canon construct five distinct thought experiments testing whether human beings are born with fixed moral capacities or whether environment, upbringing, and environmental response shape what people become, and the five experiments yield five different answers. Mary Shelley's Frankenstein argues that monstrousness is made, not born. Emily Bronte's Wuthering Heights refuses to answer at all. William Golding's Lord of the Flies proposes that civilization is a veneer over something darker but complicates the claim through individual variation. Aldous Huxley's Brave New World demonstrates that conditioning can manufacture entire personalities from identical raw material. Mark Twain's Adventures of Huckleberry Finn shows a boy whose moral development actively resists the conditioning his society imposed on him. Taken together, these novels offer something richer than a single verdict on human nature. They offer a comparative anatomy of the question itself, revealing that the assumptions embedded in each author's thought experiment predetermine the answer the novel can reach.

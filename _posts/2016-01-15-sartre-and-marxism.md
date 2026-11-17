@@ -9,7 +9,7 @@ excerpt: "Sartre spent thirty years trying to marry freedom to history: the grou
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 136
 author: "diana-patel"
-last_updated: 2016-01-15
+last_updated: 2026-11-17
 lang: en
 ---
 Jean-Paul Sartre is the most famous philosopher in this series, and for many readers the most surprising name in it. Sartre built his reputation on a philosophy of radical freedom, on the claim that a human being is condemned to invent himself without excuse or blueprint, and that philosophy, existentialism, is usually filed in the mind as the opposite of any doctrine that explains people by their class position. Yet from the end of the Second World War until his death in 1980, Sartre moved steadily toward Marxism, described it as the unsurpassable philosophy of the age, wrote a vast methodological treatise to repair it, and broke with friends, parties, and countries in its name. He never joined the French Communist Party, whose orthodoxy he spent decades attacking from the left. His position was stranger and more interesting than membership: he held that Marxism was true and that the Marxists of his day had stopped doing the work that made it true.

@@ -9,7 +9,7 @@ excerpt: "Critical theory and classical Marxism divide over the agent of change:
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 133
 author: "chloe-martin"
-last_updated: 2015-09-01
+last_updated: 2026-11-17
 lang: en
 ---
 Critical theory and classical Marxism share a founder, a library and an enemy, and they are routinely mistaken for one another by readers who meet the second in summaries of the first. Both descend from Marx. Both hold that capitalist society is a historically specific order rather than a natural one, that its categories conceal as much as they reveal, and that theory which merely describes the order has already taken a side. Yet the two frameworks differ so deeply in what they analyse, how they analyse it and whom the analysis is for that placing them side by side changes the meaning of each. This comparison runs the two against one another across six differences: the agent of change, the object of analysis, the method, the role of economics, the theory of ideology, and the stance toward science. Two further differences, over the philosophy of history and over practice, receive their own sections, because each follows from the six and because the argument between the frameworks was largely conducted in those terms. The differences are not a list of independent choices. They hang from a single hook, and the hook has a name this article will use throughout: the agent absence.

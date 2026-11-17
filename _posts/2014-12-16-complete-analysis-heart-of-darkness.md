@@ -3,8 +3,8 @@ layout: post
 title: "Complete Analysis of Heart of Darkness"
 page_title: "Complete Analysis of Heart of Darkness - Colonialism, Madness, the Congo, and Why Joseph Conrad's Novella Remains the Most Controversial Classic"
 date: 2014-12-16
-last_updated: 2014-12-16
-excerpt: "Heart of Darkness is not a psychological allegory about universal human darkness. It is Conrad's 1899 eyewitness report on Leopold II's Congo genocide."
+last_updated: 2026-11-17
+excerpt: "Conrad's Heart of Darkness fully analyzed: the river, the station, the ivory, and the silence at the end of every voyage."
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "novel-analysis", "literary-analysis", "colonialism", "classic-literature"]
 author: "emily-reed"

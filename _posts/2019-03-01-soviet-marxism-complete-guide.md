@@ -9,7 +9,7 @@ excerpt: "Soviet Marxism rested on scholarship its own state produced and punish
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 168
 author: "diana-patel"
-last_updated: 2019-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 Soviet Marxism is the name of two different things, and nearly every error made about the subject begins with treating them as one. The first is an official doctrine, dialectical and historical materialism in codified form, fixed in the late nineteen thirties and taught thereafter as the philosophy of a state and a bloc. The second is a body of original work in philosophy, in the sciences of mind and language, and in the editing of the classic texts, produced in the same country during the same decades, frequently by men and women whom that state arrested, exiled, silenced, or shot. The doctrine was settled by administrative decision. The scholarship was settled, where it was allowed to be settled at all, by argument, and its best products outlived the institutions that tried to control them.

@@ -9,7 +9,7 @@ excerpt: "Structuralist Marxism and the humanist reading divided over the young 
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 137
 author: "chloe-martin"
-last_updated: 2016-02-15
+last_updated: 2026-11-17
 lang: en
 ---
 Structuralist Marxism and Marxist humanism were the names of two camps in an argument that ran through Marxist thought from the late 1950s to the end of the 1970s, filling journals, splitting reading groups, and forcing everyone who used the vocabulary of Marx to answer a question that sounds abstract and proved to be anything but. The question was whether there is such a thing as a human subject of history: a being with a nature of its own, whose characteristic powers can be developed or stunted, fulfilled or violated, and whose standpoint gives criticism its ground. The humanist side answered yes, and built its Marxism on the young Marx's account of alienated labour and species-being. The structuralist side answered no, and held that speaking of a human essence was a leftover from the philosophy Marx had broken with, an ideological notion rather than a scientific one. On the structuralist account, individuals are bearers of relations they did not choose, and what looks like a subject is an effect produced by the structures within which a life is lived.

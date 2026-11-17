@@ -9,7 +9,7 @@ excerpt: "The New Left was born in a double rejection, of Stalinism and of socia
 image: "/assets/images/blog/blog-93.webp"
 reading_time: 137
 author: "chloe-martin"
-last_updated: 2016-03-01
+last_updated: 2026-11-17
 lang: en
 ---
 The New Left names a break, and the break has a date. In a single year, 1956, the two traditions that had divided the socialist world between them lost their claim on a generation's loyalty at the same moment. The first was the communism of the Soviet type: disciplined, state-bearing, armed with a doctrine that treated its own history as beyond reproach. The second was the social democracy of the parliamentary labour parties: respectable, governmental, committed to managing a reformed capitalism rather than replacing it. The current that called itself new defined itself against both at once, and the simultaneity is the point. It was not a refinement of either tradition, nor a compromise between them, but a refusal of the choice they jointly imposed, made by people who concluded that the choice itself was the obstacle. Everything the current later became, its journals and campaigns, its concepts and quarrels, its strange afterlife inside universities, descends from that double refusal and from the predicament it created: how to be a socialist when both existing vessels of socialism have been judged and found wanting.

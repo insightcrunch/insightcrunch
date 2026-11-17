@@ -9,7 +9,7 @@ excerpt: "Kautsky and Lenin began as teacher and admiring pupil and ended as the
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 122
 author: "rachel-foster"
-last_updated: 2014-07-01
+last_updated: 2026-11-17
 lang: en
 ---
 Karl Kautsky was, for roughly a quarter of a century, the most authoritative living interpreter of Marxism, and Vladimir Lenin was among his most devoted readers. That single fact rearranges the whole quarrel this article examines. The two men are usually introduced as lifelong antagonists, a revolutionary and a renegade facing each other across a fixed divide, and the familiar portraits leave the impression that the enmity of their final decade merely expressed a difference that had always been there. The documentary record points the other way. Lenin learned his Marxism substantially from the older man's books, cited those books as the standard of orthodoxy in dispute after dispute, defended their author against rivals inside the movement, and treated an endorsement from Stuttgart as a prize worth having. The rupture, when it arrived, arrived suddenly, over conduct in a crisis rather than over doctrine patiently diverging, and its bitterness cannot be understood apart from the intimacy it destroyed.

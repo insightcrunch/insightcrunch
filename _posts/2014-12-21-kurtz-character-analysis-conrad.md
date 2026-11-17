@@ -5,11 +5,11 @@ page_title: "Kurtz in Heart of Darkness - The Brilliant Man Who Became a Monster
 date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
-excerpt: "Kurtz is not a symbol of universal human darkness. He is a specific colonial-agent type that Joseph Conrad observed firsthand in Leopold's Congo system."
+excerpt: "Why Kurtz haunts Heart of Darkness: a brilliant man whose unraveling is the novella's central, terrifying argument."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "megan-clark"
-last_updated: 2014-12-21
+last_updated: 2026-11-17
 lang: en
 ---
 Kurtz is the most discussed character in Joseph Conrad's Heart of Darkness, and the discussion almost always gets him wrong. Standard classroom readings treat Kurtz as a symbol of the darkness lurking inside every civilized person, a universal figure whose descent into savagery proves that civilization is a thin veneer over primal instincts. Such readings flatter the Western reader by turning atrocity into philosophical parable, transforming a specific historical horror into a generalized meditation on human nature. Conrad knew better. He had traveled to the Congo Free State in 1890 and witnessed firsthand the specific type of European agent who thrived under Leopold II's extractive regime. Kurtz is not Everyman stripped of social restraint. He is a particular product of a particular system, and the novella's power depends on understanding exactly what kind of system produced exactly what kind of man.
