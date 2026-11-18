@@ -6,13 +6,15 @@ date: 2026-11-17
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "teshkar", "register"]
 excerpt: "Teshkar threatens to leave the Accord, and Mira Kovac must find the pressure that keeps it in while oversight opens a file on her own private register."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-17
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Oversight File With Her Own Name on It - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The room is not being vacated, and Sema Koll packs it anyway.
 
