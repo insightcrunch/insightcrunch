@@ -6,17 +6,17 @@ date: 2026-11-18
 categories: ["Industry"]
 tags: ["law-and-courts", "supreme-court", "constitutional-law", "first-amendment", "government-speech", "compelled-speech"]
 excerpt: "The government speech doctrine decides when a message belongs to the state itself, and that single classification decides whether the First Amendment applies."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-11-18
+lang: en
 ---
-
 ## Government Speech Doctrine: The Rule in One Paragraph
 
 The government speech doctrine holds that a message delivered by the government as its own speech is not subject to the First Amendment limits that restrict government regulation of private speech, so the government may choose the content and viewpoint of that message without granting equal access to opposing views. The doctrine turns entirely on authorship. A message counts as the government's own speech only where the state has taken the message up as its own through the history of the medium, public attribution of the message to the state, and control the state actually exercises over content; regulation, funding or licensing of a private speaker never by itself transfers authorship of the message to the state. That sentence carries the whole field. Where the three markers converge, the message belongs to the state, and a disappointed private claimant has no free speech right to insert a competing message into the same channel. Where the markers diverge, where a medium has a tradition of private expression, where the public attributes the words to a private speaker, or where the state merely pays for, permits or regulates expression produced by others, the message remains private speech and ordinary First Amendment scrutiny applies with full force.
 
-![A marble courthouse facade with tall columns, standing for the government speech doctrine and the question of when the state itself is the speaker - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A marble courthouse facade with tall columns, standing for the government speech doctrine and the question of when the state itself is the speaker - Insight Crunch](/assets/images/blog/blog-108.webp)
 
 ### What is government speech in simple terms?
 
