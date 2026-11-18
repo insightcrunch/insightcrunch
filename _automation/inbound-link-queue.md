@@ -243,3 +243,7 @@
 ## how-federal-reserve-master-accounts-work
 - _posts/2026-10-04-how-contactless-payments-work.md — could carry: "A tap at a terminal ends as a balance moving between master accounts at a Reserve Bank, and the guide to how Federal Reserve master accounts work explains that settlement layer underneath the tap."
 - _posts/2026-10-03-how-government-cash-payments-work.md — could carry: "A stimulus payment reaches a household because the paying and receiving banks settle across their master accounts, and the guide to how Federal Reserve master accounts work sets out how that settlement is made final."
+
+## nightjar-oversight-file-017
+- _posts/2026-11-16-nightjar-scour-crossing-016.md - could carry: "The reprimand written before the crossing was not the first paper oversight kept on her: a file on her private register was already open two floors up, its earliest page older than her own reporting."
+- _posts/2026-11-10-nightjar-private-register-010.md - could carry: "The register she agreed to stop keeping and did not became, in time, an Accord document, given by her own hand and labelled on Harrand's desk with a number she had never seen."

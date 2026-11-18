@@ -381,3 +381,25 @@ spine notch:              Rung sixteen. The seller's chain runs into the Scour, 
 characters:               Mira Kovac, Tomas Rask, Ilse Harrand, Arvo Leyden, Bren Oule (new)
 canon written back:       Three facts under Established canon, each numbered 016: Bren Oule, customs officer at the paper crossing, who stamps manifests for convoys that do not pass and was left at his post under watch; the paper country, a settlement, receiving depot and authority named on the manifests that do not exist, whose voiding broke the alloy's provenance; the loading apron inside the Scour, reached by an unmarked track, giving forty vehicle movements in a month, with the route running three hundred miles on where the Accord cannot act
 callbacks:                013, 014 and 015, three internal links, to the bound load on a border station whose binding could not be felt where it sat, to a foundry yard where three crates of forty read as nothing and shared one stamp, and to the one seller protected for nine years by a warning that arrived before its cause
+
+## Installment 017
+slug:                     nightjar-oversight-file-017
+published:                2026-11-17
+story span:               Five days in the Twenty Ninth Session, from Sema Koll packing a room that was not being vacated to the notebook on Harrand's desk with a numbered Accord label already stuck to its cover
+arc:                      The Alloy, case 7
+case type:                Geopolitical lever
+words:                    22781
+outcome:                  full success. The lever is pulled and Teshkar stays, for two years, on terms nobody likes
+cost paid:                The register leaves her hands
+opened / closed / carried: Tasking 5 opened, 4 closed in window (80); Ground truth 5 opened, 4 closed in window (80); The collapse 5 opened, 4 closed in window (80); Pressure 5 opened, 4 closed in window (80); The silence 5 opened, 4 closed in window (80); Close 5 opened, 5 closed inside The notch (100); carried past the installment: 1, the spine question of the numbered Accord label on the cover of her own notebook
+clues planted:            The departure clock of five dates from the draft motion to the vote, set out in a table in Ground truth; the motion's drafting date, produced from the Office copy at tasking; the report of the minister's outer office being packed, and the boxes themselves, labelled for no destination; Sema Koll named in a covering note as the aide who keeps the office; Harrand's file on the register, open two floors up, its earliest page dated before Mira reported the absences; four entries in the notebook, characterised in The silence
+capabilities established: The aide's room read at its named anchors giving sustained anger over weeks and nothing of who (anchors named in Ground truth, read in The collapse); the minister's office read giving nothing unusual at all, and that absence of drama being the answer (approach and anchors established in Ground truth, read in The collapse); the departure clock consulted as a document against the treasury's deficit date (Ground truth, The collapse); the register volunteered as a document and read differently because it was given (established as her private notebook in Tasking and Ground truth, given in Pressure)
+damage carried:           In: ten years from 015, the reprimand from 016. Adds: the register, out of her hands and into an Accord label
+endurance:                entering full; reduced at the pressure beat, which costs her any chance of stopping the boxes being taken herself
+legend beat:              none
+close consumed:           The departure clock and its drafting date, the aide's room read and its weeks of anger, the minister's office read and its ordinariness, the packed boxes, and the volunteered register; every one established earlier in this same installment
+false lead:               Money. Teshkar's deficit is real and the timing of the threat fits it; the reading dies on the departure clock, which shows the motion was drafted before the deficit was known to Teshkar's own treasury
+spine notch:              Rung seventeen. Harrand has a file on the register, which means oversight was watching the absences before Mira told anyone about them
+characters:               Mira Kovac, Arvo Leyden, Ilse Harrand, Sema Koll (new)
+canon written back:       Three facts under Established canon, each numbered 017: Sema Koll, aide to the Teshkar minister, who packed a room that was not being vacated and returns in 036; the departure clock and its drafting date, which killed the money reading and held Teshkar in the Accord for two years on terms nobody likes; Mira's private register, volunteered to Harrand and now an Accord document in oversight's keeping, its cover bearing a numbered Accord label
+callbacks:                010, 015 and 016, three internal links, to the private register of four empty rooms she agreed to stop keeping and did not, to the one seller protected for nine years by a warning that arrived before its cause, and to the customs post that stamped convoys which never passed, toward a country made of paper

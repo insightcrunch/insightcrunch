@@ -1421,6 +1421,28 @@ reprimand-affect-officer-s-tasking-licence | nightjar-scour-crossing-016 | How d
 may-officer-answer-reprimand-weight-answer | nightjar-scour-crossing-016 | May an officer answer a reprimand, and what weight does the answer carry?
 distinguishes-reprimand-written-advance-one-written | nightjar-scour-crossing-016 | What distinguishes a reprimand written in advance from one written after a return?
 
+### nightjar-oversight-file-017
+instrument-must-member-state-lodge-begin | nightjar-oversight-file-017 | What instrument must a member state lodge to begin a formal departure from the Accord?
+at-point-departure-motion-acquire-procedural | nightjar-oversight-file-017 | At what point does a departure motion acquire procedural standing before the assembly?
+which-notices-must-departing-member-serve | nightjar-oversight-file-017 | Which notices must a departing member serve on the remaining members before a vote is taken?
+obligations-continue-bind-member-during-interval | nightjar-oversight-file-017 | What obligations continue to bind a member during the interval between notice and vote?
+teshkar-recorded-accord-roll-respect-vote | nightjar-oversight-file-017 | How is Teshkar recorded in the Accord roll in respect of its vote and its obligations?
+exposure-follows-teshkar-openness-assembly-record | nightjar-oversight-file-017 | What exposure follows for Teshkar from the openness of its assembly record?
+which-accord-rights-teshkar-exercise-most | nightjar-oversight-file-017 | Which Accord rights does Teshkar exercise most often, and what does that use disclose?
+packed-outer-office-alter-reading-ministerial | nightjar-oversight-file-017 | How does a packed outer office alter the reading of a ministerial intention to depart?
+grounds-may-commissioner-oversight-open-file | nightjar-oversight-file-017 | On what grounds may Commissioner oversight open a file concerning an officer private keeping?
+must-opening-page-oversight-file-show | nightjar-oversight-file-017 | What must the opening page of an oversight file show before further pages may be added?
+oversight-file-held-while-officer-concerned | nightjar-oversight-file-017 | How is an oversight file held while the officer concerned remains on active tasking?
+limits-govern-oversight-adding-material-file | nightjar-oversight-file-017 | What limits govern oversight in adding material to a file without the officer knowledge?
+renewed-term-membership-reckoned-member-elects | nightjar-oversight-file-017 | How is a renewed term of membership reckoned when a member elects to remain?
+matters-settled-duration-term-may-not | nightjar-oversight-file-017 | What matters are settled for the duration of a term and may not be reopened within it?
+terms-remaining-recorded-so-inspection-payment | nightjar-oversight-file-017 | How are terms of remaining recorded so that inspection and payment duties remain certain?
+happens-unsettled-proposals-new-term-begins | nightjar-oversight-file-017 | What happens to unsettled proposals when a new term begins after a departure vote fails?
+changes-custody-officer-hands-document-oversight | nightjar-oversight-file-017 | What changes in custody when an officer hands a document to oversight without a taking order?
+voluntary-surrender-affect-order-which-oversight | nightjar-oversight-file-017 | How does voluntary surrender affect the order in which oversight may read a document?
+label-entry-applied-volunteered-document-receipt | nightjar-oversight-file-017 | What label and entry are applied to a volunteered document on receipt by oversight?
+rights-access-officer-retain-document-after | nightjar-oversight-file-017 | What rights of access does an officer retain to a document after voluntary surrender to oversight?
+
 ## film-cinematography
 
 ### how-cinematography-works
