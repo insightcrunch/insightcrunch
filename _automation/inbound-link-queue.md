@@ -247,3 +247,7 @@
 ## nightjar-oversight-file-017
 - _posts/2026-11-16-nightjar-scour-crossing-016.md - could carry: "The reprimand written before the crossing was not the first paper oversight kept on her: a file on her private register was already open two floors up, its earliest page older than her own reporting."
 - _posts/2026-11-10-nightjar-private-register-010.md - could carry: "The register she agreed to stop keeping and did not became, in time, an Accord document, given by her own hand and labelled on Harrand's desk with a number she had never seen."
+
+## how-government-speech-doctrine-works
+- _posts/2026-11-08-how-supreme-court-overrules-precedent.md — could carry: "A doctrine can also narrow without any overruling at all, when a later classification case recasts what an earlier one decided, and the account of how the government speech doctrine works traces that narrowing from Summum to Shurtleff."
+- _posts/2021-11-15-campaign-finance-supreme-court-cases.md — could carry: "Classification decides these cases before any limit is weighed, and the same threshold move governs the government speech doctrine, where calling a message the state's own ends the First Amendment inquiry at the first step."
