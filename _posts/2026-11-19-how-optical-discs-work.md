@@ -6,17 +6,17 @@ date: 2026-11-19
 categories: ["Technology"]
 tags: ["technology-and-computing", "optical-disc", "blu-ray", "data-storage", "laser", "home-video"]
 excerpt: "An optical disc holds a whole film as tiny pits in one long spiral track, which a focused laser reads without contact to rebuild picture and sound on screen."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-11-19
+lang: en
 ---
-
 ## Geometry Instead of Charge
 
 An optical disc works by storing digital information as a spiral of microscopic pits and flat lands in a reflective layer, then reading that shape with a focused laser beam whose returned light changes as the marks pass beneath it, allowing a detector to rebuild the original stream of bits without any part of the reader touching the recorded surface. An optical disc is a wager that information survives best when written as geometry, and that single choice explains both the strength and the fragility of the entire family of formats. Every gain from CD to DVD to Blu-ray came from shrinking marks and light, and every weakness is the price of storing data as physical shape. A scratch matters because the data is a surface. A fingerprint matters because the reading beam must pass through a clear path to reach that surface. Dust matters for the same reason. Magnetic storage, by contrast, records a pattern of magnetized regions, and a semiconductor chip records the presence or absence of electric charge in tiny cells. Both approaches hide the information inside a material property that a reader senses at a distance or through a contact. The optical approach places the information in relief, in height and length, and then trusts optics to interpret relief as code.
 
-![Optical disc surface and laser pickup reading the spiral track of a Blu-ray disc - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Optical disc surface and laser pickup reading the spiral track of a Blu-ray disc - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 That trust took a long time to become practical. James Russell filed patents in 1966 for a system that recorded digital signals on a photosensitive plate and read them back with light, and those patents were granted in 1970. Russell grasped the central insight early, that light could serve as a reader that never wore the record away. The insight alone, however, did not make a product. A workable disc needed a cheap laser small enough for a living room, a plastic disc that could be stamped by the million, an error correction scheme strong enough to survive dust and minor scratches, and a modulation code that turned data into marks a laser could follow reliably. Those pieces arrived through the nineteen seventies in separate laboratories, often for separate reasons, and only converged at the end of the decade.
 
