@@ -1443,6 +1443,28 @@ voluntary-surrender-affect-order-which-oversight | nightjar-oversight-file-017 |
 label-entry-applied-volunteered-document-receipt | nightjar-oversight-file-017 | What label and entry are applied to a volunteered document on receipt by oversight?
 rights-access-officer-retain-document-after | nightjar-oversight-file-017 | What rights of access does an officer retain to a document after voluntary surrender to oversight?
 
+### nightjar-marked-hands-018
+carrier-defined-licensing-purposes-under-accord | nightjar-marked-hands-018 | How is a Carrier defined for licensing purposes under the Accord?
+unlicensed-carrier-avoid-ports-licence-returns | nightjar-marked-hands-018 | Why does an unlicensed Carrier avoid ports where licence returns are inspected?
+material-may-licensed-carrier-lawfully-carry | nightjar-marked-hands-018 | What material may a licensed Carrier lawfully carry for another person?
+office-distinguish-carrying-practising-own-right | nightjar-marked-hands-018 | How does the Office distinguish carrying from practising in its own right?
+basis-valtessa-claim-primacy-detail-inside | nightjar-marked-hands-018 | On what basis does Valtessa claim primacy for a detail inside its own ports?
+which-decisions-remain-valtessan-commander-office | nightjar-marked-hands-018 | Which decisions remain with the Valtessan commander when an Office observer is present?
+permission-office-presence-valtessan-port-recorded | nightjar-marked-hands-018 | How is permission for Office presence in a Valtessan port recorded and renewed?
+happens-office-access-primacy-disputed-during | nightjar-marked-hands-018 | What happens to Office access when primacy is disputed during a live detail?
+observe-only-condition-permit-officer-forbid | nightjar-marked-hands-018 | What does an observe only condition permit an officer to do, and what does it forbid?
+observe-only-condition-agreed-before-detail | nightjar-marked-hands-018 | How is an observe only condition agreed before a detail begins?
+must-officer-record-she-believes-observe | nightjar-marked-hands-018 | What must an officer record when she believes an observe only condition should be broken?
+consequence-follows-observe-only-condition-broken | nightjar-marked-hands-018 | What consequence follows when an observe only condition is broken to prevent harm?
+office-keep-table-known-practice-injuries | nightjar-marked-hands-018 | Why does the Office keep a table of known practice injuries?
+practice-injury-entered-table-respects-described | nightjar-marked-hands-018 | How is a practice injury entered in the table, and by what respects is it described?
+failure-match-any-known-injury-require | nightjar-marked-hands-018 | What does a failure to match any known injury require the detail to do next?
+healed-practice-injuries-distinguished-injuries-still | nightjar-marked-hands-018 | How are healed practice injuries distinguished from injuries still changing?
+witness-habit-place-hour-become-security | nightjar-marked-hands-018 | Why does a witness habit of place and hour become a security problem?
+detail-plan-around-habit-witness-will | nightjar-marked-hands-018 | How does a detail plan around a habit that the witness will not change?
+long-repetition-at-one-table-tell | nightjar-marked-hands-018 | What does long repetition at one table tell an observer about where an attempt must come?
+should-detail-record-witness-routine-without | nightjar-marked-hands-018 | How should a detail record a witness routine without turning the record itself into a risk?
+
 ## film-cinematography
 
 ### how-cinematography-works

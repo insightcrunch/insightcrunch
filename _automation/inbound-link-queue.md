@@ -251,3 +251,7 @@
 ## how-government-speech-doctrine-works
 - _posts/2026-11-08-how-supreme-court-overrules-precedent.md — could carry: "A doctrine can also narrow without any overruling at all, when a later classification case recasts what an earlier one decided, and the account of how the government speech doctrine works traces that narrowing from Summum to Shurtleff."
 - _posts/2021-11-15-campaign-finance-supreme-court-cases.md — could carry: "Classification decides these cases before any limit is weighed, and the same threshold move governs the government speech doctrine, where calling a message the state's own ends the First Amendment inquiry at the first step."
+
+## nightjar-marked-hands-018
+- _posts/2026-11-16-nightjar-scour-crossing-016.md - could carry: "The reprimand Harrand wrote before the crossing was joined, inside two weeks, by a second one, earned in a Valtessan restaurant where she had been sent to watch and not to act."
+- _posts/2026-11-13-nightjar-inert-house-013.md - could carry: "Venn's fear, which had pointed at something that was not the Accord, taught her to let a frightened man's flight mean only what his papers said it meant, and no more."
