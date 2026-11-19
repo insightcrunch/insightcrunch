@@ -6,13 +6,15 @@ date: 2026-11-18
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "valtessa", "witness"]
 excerpt: "A witness in Valtessa eats in the same chair every night, and the man who comes for him keeps one scarred hand hidden in his coat pocket the entire time."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 96
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-18
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: Marked Hands and the Men Who Keep Them Hidden - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Ferro Cant comes in by the side door, as he always comes in, because the side door opens onto the narrow lane that runs down from the counting houses to the water, and because a man who has walked the same lane for twenty years knows which stone lifts after rain and which shutter will be open and which will be shut. He comes in at his hour, which is not written anywhere in the restaurant and does not need to be, because the kitchen knows it and the room knows it and the chair knows it in the way that furniture knows a weight that returns. He hangs his coat on the second peg, not the first, because the first peg has leaned for as long as he can remember and he does not trust a leaning thing with a good coat. He nods to the room without looking for anyone in particular. He crosses to his table.
 
