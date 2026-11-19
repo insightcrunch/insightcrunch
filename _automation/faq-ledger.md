@@ -1536,3 +1536,27 @@ certiorari-denial-khatibi-law-licens-settle-teach-v-yip | how-government-speech-
 affect-doctrine-government-librari-public-speech | how-government-speech-doctrine-works | How does the government speech doctrine affect public libraries?
 amendment-first-government-limit-outside-remain-speech | how-government-speech-doctrine-works | What limits remain on government speech outside the First Amendment?
 critic-dangerou-doctrine-government-say-speech | how-government-speech-doctrine-works | Why do critics say the government speech doctrine is dangerous?
+
+## technology-optical-discs
+
+### how-optical-discs-work
+disc-information-optical-stor | how-optical-discs-work | How is information stored on an optical disc?
+between-difference-land-pit | how-optical-discs-work | What is the difference between a pit and a land?
+blu-disc-dvd-hold-more-ray | how-optical-discs-work | Why do Blu-ray discs hold more than DVDs?
+correctly-disc-play-scratch-still | how-optical-discs-work | Can a scratched disc still play correctly?
+compact-correction-disc-error | how-optical-discs-work | What does error correction do on a compact disc?
+blu-disc-have-layer-many-ray | how-optical-discs-work | How many layers can a Blu-ray disc have?
+between-difference-dvd-dvd-press-r | how-optical-discs-work | What is the difference between a DVD-R and a pressed DVD?
+different-disc-optical-speed-spin | how-optical-discs-work | Why does an optical disc spin at different speeds?
+matter-pitch-track | how-optical-discs-work | What is track pitch and why does it matter?
+data-disc-last-long-recordable | how-optical-discs-work | How long can data last on a recordable disc?
+blu-cds-disc-more-ray-resistant-scratch | how-optical-discs-work | Why are Blu-ray discs more resistant to scratches than CDs?
+disc-glas-manufactur-master | how-optical-discs-work | What is a glass master in disc manufacturing?
+begin-chapter-know-player | how-optical-discs-work | How does a player know where a chapter begins?
+disc-layer-reflective-role | how-optical-discs-work | What is the role of the reflective layer on a disc?
+disappear-dvd-hd-market | how-optical-discs-work | Why did HD DVD disappear from the market?
+disc-happen-insert-inside-player | how-optical-discs-work | What happens inside a player when a disc is inserted?
+audio-differently-disc-stor-video | how-optical-discs-work | How is audio stored differently from video on a disc?
+caus-disc-dur-freeze-playback-skip | how-optical-discs-work | What causes a disc to skip or freeze during playback?
+be-damag-data-disc-optical-recover | how-optical-discs-work | Can data be recovered from a damaged optical disc?
+another-disc-not-one-play-player-some | how-optical-discs-work | Why do some discs play in one player and not in another?

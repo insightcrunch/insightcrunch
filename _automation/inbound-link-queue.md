@@ -255,3 +255,7 @@
 ## nightjar-marked-hands-018
 - _posts/2026-11-16-nightjar-scour-crossing-016.md - could carry: "The reprimand Harrand wrote before the crossing was joined, inside two weeks, by a second one, earned in a Valtessan restaurant where she had been sent to watch and not to act."
 - _posts/2026-11-13-nightjar-inert-house-013.md - could carry: "Venn's fear, which had pointed at something that was not the Accord, taught her to let a frightened man's flight mean only what his papers said it meant, and no more."
+
+## how-optical-discs-work
+- _posts/2026-10-14-how-film-restoration-works.md - could carry: "A restoration finished in the archive reaches most of its audience only when the rebuilt picture is mastered to a disc whose spiral track carries it into homes unchanged."
+- _posts/2026-11-15-how-cinematography-works.md - could carry: "What the cinematographer fixed in light on the set survives for viewers because the finished image is later written as pits and lands along the spiral of an optical disc."
