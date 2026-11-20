@@ -263,3 +263,7 @@
 ## nightjar-living-example-019
 - _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The clerk who found room nine found the next thing too, years later, on another night round, with her hand against infirmary glass that was not hers to read."
 - _posts/2026-11-18-nightjar-marked-hands-018.md - could carry: "The photograph of the palm did its work in the end, not in the Office that pinned it to a board, but on a wharf at night, in front of a clerk who had seen a locked room before."
+
+## how-restaurant-franchising-works
+- _posts/2026-11-16-how-chapter-7-liquidation-works.md - could carry: "A franchise network that reaches liquidation has usually passed through the same claims in a different order, with the brand claim on sales calculated before the operator residual that liquidation divides."
+- _posts/2026-11-06-how-corporate-spin-offs-work.md - could carry: "Refranchising reaches a similar division by licence, separating the durable brand claim from the working stores without distributing a single share."

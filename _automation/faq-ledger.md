@@ -1582,3 +1582,28 @@ audio-differently-disc-stor-video | how-optical-discs-work | How is audio stored
 caus-disc-dur-freeze-playback-skip | how-optical-discs-work | What causes a disc to skip or freeze during playback?
 be-damag-data-disc-optical-recover | how-optical-discs-work | Can data be recovered from a damaged optical disc?
 another-disc-not-one-play-player-some | how-optical-discs-work | Why do some discs play in one player and not in another?
+
+## business-franchising
+
+### how-restaurant-franchising-works
+
+franchise-plain-restaurant-term | how-restaurant-franchising-works | What is a restaurant franchise in plain terms?
+franchis-franchisor-from-make-money-restaurant | how-restaurant-franchising-works | How does a franchisor make money from franchised restaurants?
+fee-franchise-initial-pay | how-restaurant-franchising-works | What does the initial franchise fee pay for?
+charge-franchisor-profit-rather-royalti-sal-than | how-restaurant-franchising-works | Why do franchisors charge royalties on sales rather than profit?
+advertis-franchis-fund | how-restaurant-franchising-works | What is an advertising fund in franchising?
+build-franchise-land-owns-restaurant | how-restaurant-franchising-works | Who owns the restaurant building and land in a franchise?
+disclosure-document-franchise-used | how-restaurant-franchising-works | What is a franchise disclosure document used for?
+agreement-franchise-last-long-usually | how-restaurant-franchising-works | How long does a franchise agreement usually last?
+agreement-franchisee-franchisor-from-renew-stop | how-restaurant-franchising-works | Can a franchisor stop a franchisee from renewing an agreement?
+franchise-franchisee-happen-restaurant-sell | how-restaurant-franchising-works | What happens to a franchise when the franchisee sells the restaurant?
+approv-franchisor-require-supplier | how-restaurant-franchising-works | Why do franchisors require approved suppliers?
+between-difference-franchisee-licensee | how-restaurant-franchising-works | What is the difference between a franchisee and a licensee?
+chain-different-franchis-from-its-own-stor | how-restaurant-franchising-works | How is franchising different from a chain owning its stores?
+against-franchise-protect-territory | how-restaurant-franchising-works | What does a franchise territory protect against?
+agreement-franchise-remodel-require | how-restaurant-franchising-works | Why do franchise agreements require remodels?
+agreement-franchise-master | how-restaurant-franchising-works | What is a master franchise agreement?
+choose-franchise-franchisor | how-restaurant-franchising-works | How do franchisors choose franchisees?
+compani-it-refranchis | how-restaurant-franchising-works | What is refranchising and why do companies do it?
+franchis-outlet-pays-restaurant-staff | how-restaurant-franchising-works | Who pays restaurant staff in a franchised outlet?
+brand-close-franchis-grow-keep-restaurant-some-while | how-restaurant-franchising-works | Why do some franchised restaurants close while the brand keeps growing?
