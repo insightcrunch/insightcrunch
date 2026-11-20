@@ -6,13 +6,15 @@ date: 2026-11-19
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "infirmary"]
 excerpt: "A scarred hand rises to the infirmary glass on a clerk's night seal round, in the pattern nobody in the Office could name, and his record is the prize."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-11-19
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: A Living Example in the Wharf Night Infirmary - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 Sabel Orry had learned the wharf at night by the order in which things had to be touched. The seal round began at the north shed where the canal water knocked soft against the pilings and the lamps burned low behind wet glass, and it went on by bonded doors and chained yards and narrow passages between warehouses where the stone held the damp of the day and gave it back slowly after dark. She carried the seal book against her chest under her coat when the rain came sideways, and she carried the keys in a pocket that had been mended twice, and she carried a pencil worn short from use because a long pencil snapped when she pressed too hard in the cold. She was two years older than she looked and she knew that men on the wharf mistook that for inexperience until they watched her work through a row of seals without pausing to ask which lock belonged to which door. She did not hurry. Hurrying on wet stone was how clerks fell and how seals were missed, and a missed seal became a question in the morning that nobody could answer cleanly.
 
