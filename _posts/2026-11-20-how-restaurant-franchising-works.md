@@ -6,12 +6,12 @@ date: 2026-11-20
 categories: ["Industry"]
 tags: ["business-and-industry", "franchising", "restaurant-franchising", "franchise-economics", "royalties", "unit-economics"]
 excerpt: "Restaurant franchising works by renting a proven brand and format to an operator who funds the store, pays royalties on sales, and keeps the thin margin left."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 82
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-11-20
+lang: en
 ---
-
 A restaurant franchise works by licensing a proven brand and operating system to an independent owner who funds, staffs, and runs a single store under rules set by the brand owner in exchange for an initial fee and continuing payments tied to sales. A restaurant franchise is a rental agreement for a business format in which the franchisor collects revenue-linked rent on its brand while the franchisee supplies nearly all of the capital and absorbs nearly all of the operating risk, and the arrangement holds together only while the operator residual margin stays positive. That residual, the amount left after food, labor, rent, royalties, and advertising contributions are paid from gross sales, decides whether a store renews, sells, or closes, regardless of how busy the dining room appears on a Friday evening.
 
 ---
@@ -20,7 +20,7 @@ A restaurant franchise works by licensing a proven brand and operating system to
 
 The structure separates ownership into two layers that outsiders often confuse. The corporation at the top owns trademarks, recipes, training systems, and design standards, yet owns few of the kitchens where meals are prepared. The operator at street level owns or leases the equipment, hires the crew, orders the ingredients, and signs the loan documents, yet owns none of the marks on the sign. Each side holds something the other side lacks, and the franchise agreement is the contract that prices that exchange over a term that commonly runs ten to twenty years.
 
-![Franchise restaurant kitchen line and counter during a lunch service - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Franchise restaurant kitchen line and counter during a lunch service - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 A single fried chicken restaurant in a mid-sized American city shows the outline in concrete form. The building sits on a corner lot with a drive-through lane, illuminated menu boards, and seating for sixty guests. Cars arrive steadily at lunch, the fryers run in timed batches, and the register records several thousand dollars in sales on a strong day. Behind that visible activity sits a stack of obligations invisible to customers. The operator paid a fee before the doors opened, borrowed to build the kitchen to a franchisor blueprint, and agreed to remit a percentage of every dollar rung up at the counter, whether the month ends in profit or in loss.
 
