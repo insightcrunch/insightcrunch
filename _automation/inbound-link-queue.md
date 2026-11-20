@@ -259,3 +259,7 @@
 ## how-optical-discs-work
 - _posts/2026-10-14-how-film-restoration-works.md - could carry: "A restoration finished in the archive reaches most of its audience only when the rebuilt picture is mastered to a disc whose spiral track carries it into homes unchanged."
 - _posts/2026-11-15-how-cinematography-works.md - could carry: "What the cinematographer fixed in light on the set survives for viewers because the finished image is later written as pits and lands along the spiral of an optical disc."
+
+## nightjar-living-example-019
+- _posts/2026-11-01-nightjar-clean-room-001.md - could carry: "The clerk who found room nine found the next thing too, years later, on another night round, with her hand against infirmary glass that was not hers to read."
+- _posts/2026-11-18-nightjar-marked-hands-018.md - could carry: "The photograph of the palm did its work in the end, not in the Office that pinned it to a board, but on a wharf at night, in front of a clerk who had seen a locked room before."

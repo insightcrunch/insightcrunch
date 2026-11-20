@@ -1465,6 +1465,28 @@ detail-plan-around-habit-witness-will | nightjar-marked-hands-018 | How does a d
 long-repetition-at-one-table-tell | nightjar-marked-hands-018 | What does long repetition at one table tell an observer about where an attempt must come?
 should-detail-record-witness-routine-without | nightjar-marked-hands-018 | How should a detail record a witness routine without turning the record itself into a risk?
 
+### nightjar-living-example-019
+wharf-night-infirmary-staffed-through-full | nightjar-living-example-019 | How is the wharf night infirmary staffed through a full night shift?
+which-members-wharf-workforce-may-seek | nightjar-living-example-019 | Which members of the wharf workforce may seek treatment at the night infirmary without prior referral?
+night-infirmary-keep-ledger-patient-files | nightjar-living-example-019 | How does the night infirmary keep its ledger and patient files apart from wharf administration?
+provision-night-infirmary-make-patients-whose | nightjar-living-example-019 | What provision does the night infirmary make for patients whose treatment extends beyond a single night?
+showing-may-accord-request-sight-civilian | nightjar-living-example-019 | On what showing may the Accord request sight of a civilian medical record held by a wharf infirmary?
+limits-apply-accord-officer-copies-medical | nightjar-living-example-019 | What limits apply when an Accord officer copies a medical record rather than merely reading it?
+patient-s-consent-recorded-medical-file | nightjar-living-example-019 | How is a patient's consent recorded when a medical file is disclosed to an Accord service?
+remedy-remains-infirmary-believes-accord-request | nightjar-living-example-019 | What remedy remains to an infirmary when it believes an Accord request for records exceeds its scope?
+physical-effects-recorded-men-have-carried | nightjar-living-example-019 | What physical effects are recorded in men who have carried alloy consignments over repeated journeys?
+office-distinguish-marks-carrying-marks-ordinary | nightjar-living-example-019 | How does the Office distinguish the marks of carrying from the marks of ordinary wharf labour?
+duties-withheld-carrier-after-scarring-hands | nightjar-living-example-019 | What duties are withheld from a carrier after scarring of the hands has been noted?
+carrier-s-account-loads-routes-tested | nightjar-living-example-019 | How is a carrier's account of loads and routes tested against foundry and wharf paper?
+respects-strength-develop-differently-maker-s | nightjar-living-example-019 | In what respects does strength develop differently in a maker's hands and in a carrier's hands?
+callus-patterns-expected-maker-s-hands | nightjar-living-example-019 | What callus patterns are expected on a maker's hands that a carrier's hands do not show?
+grip-fine-work-differ-grip-lifting | nightjar-living-example-019 | How does grip for fine work differ from grip for lifting in the Office examination of hands?
+error-about-trade-vocabulary-assist-separating | nightjar-living-example-019 | Why does error about trade vocabulary assist in separating a maker from a carrier?
+recorded-about-sabel-orry-apart-statements | nightjar-living-example-019 | What is recorded about Sabel Orry apart from statements she has given as a witness?
+junior-clerk-s-ordinary-duties-hours | nightjar-living-example-019 | How are a junior clerk's ordinary duties and hours established when she is not giving evidence?
+protections-apply-clerk-carries-office-paper | nightjar-living-example-019 | What protections apply to a clerk who carries Office paper in the course of her own round?
+office-record-clerk-s-habits-reliability | nightjar-living-example-019 | How does the Office record a clerk's habits and reliability without reducing her to her testimony?
+
 ## film-cinematography
 
 ### how-cinematography-works
