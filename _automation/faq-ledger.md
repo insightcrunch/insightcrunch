@@ -1487,6 +1487,28 @@ junior-clerk-s-ordinary-duties-hours | nightjar-living-example-019 | How are a j
 protections-apply-clerk-carries-office-paper | nightjar-living-example-019 | What protections apply to a clerk who carries Office paper in the course of her own round?
 office-record-clerk-s-habits-reliability | nightjar-living-example-019 | How does the Office record a clerk's habits and reliability without reducing her to her testimony?
 
+### nightjar-badge-and-burn-020
+accord-badge-issued-at-stores-window | nightjar-badge-and-burn-020 | How is an Accord badge issued at the stores window and entered in the issue book?
+procedure-governs-recovery-accord-badge-found | nightjar-badge-and-burn-020 | What procedure governs the recovery of an Accord badge found in the possession of a person other than its recorded holder?
+payment-made-under-accord-requisition-bonded | nightjar-badge-and-burn-020 | How is payment made under an Accord requisition for bonded carrying work?
+may-authorise-interview-accord-building-may | nightjar-badge-and-burn-020 | Who may authorise an interview in an Accord building, and who may attend it?
+must-report-missing-accord-badge-contain | nightjar-badge-and-burn-020 | What must a report of a missing Accord badge contain before it is accepted as filed?
+access-stairwells-accord-records-building-controlled | nightjar-badge-and-burn-020 | How is access to the stairwells of an Accord records building controlled during ordinary hours and after locking?
+duties-stores-clerk-owe-respect-badges | nightjar-badge-and-burn-020 | What duties does a stores clerk owe in respect of badges held in store and badges in circulation?
+handwriting-compared-paper-record-suspected-having | nightjar-badge-and-burn-020 | How is handwriting compared when a paper record is suspected of having been written by a hand other than the hand it bears?
+custody-paper-accompanies-accord-badge-signed | nightjar-badge-and-burn-020 | What custody paper accompanies an Accord badge when it is signed out against a requisition for carrying work?
+carrier-engaged-wharf-carrying-runs-under | nightjar-badge-and-burn-020 | How is a carrier engaged for wharf carrying runs, and under whose direction does he work while so engaged?
+may-enter-requisition-records-room-each | nightjar-badge-and-burn-020 | Who may enter a requisition records room, and how is each entry into that room recorded?
+accord-building-locked-night-locking-recorded | nightjar-badge-and-burn-020 | How is an Accord building locked for the night, and how is the locking recorded so that it may later be proved?
+standing-accord-oversight-hold-officer-oversight | nightjar-badge-and-burn-020 | What standing does Accord oversight hold when an officer of oversight is present at an Office interview?
+requisition-number-raised-quoted-closed-upon | nightjar-badge-and-burn-020 | How is a requisition number raised, quoted, and closed upon Accord paper?
+rules-wearing-showing-lending-accord-badge | nightjar-badge-and-burn-020 | What are the rules for wearing, showing, and lending an Accord badge while the holder is on duty?
+happens-badged-person-found-still-within | nightjar-badge-and-burn-020 | What happens when a badged person is found still within an Accord building after locking for the night has begun?
+stores-returns-clerk-serve-establish-clerk | nightjar-badge-and-burn-020 | How do the stores returns of a clerk serve to establish that clerk's own hand for later comparison?
+paper-records-wharf-carrying-run-bonded | nightjar-badge-and-burn-020 | What paper records a wharf carrying run from the bonded warehouse to its place of delivery?
+interview-held-under-oversight-attendance-recorded | nightjar-badge-and-burn-020 | How is an interview held under oversight attendance recorded, and where is the resulting record kept?
+done-accord-badge-after-inquiry-into | nightjar-badge-and-burn-020 | What is done with an Accord badge after an inquiry into its custody has closed?
+
 ## film-cinematography
 
 ### how-cinematography-works

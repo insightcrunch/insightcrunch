@@ -267,3 +267,7 @@
 ## how-restaurant-franchising-works
 - _posts/2026-11-16-how-chapter-7-liquidation-works.md - could carry: "A franchise network that reaches liquidation has usually passed through the same claims in a different order, with the brand claim on sales calculated before the operator residual that liquidation divides."
 - _posts/2026-11-06-how-corporate-spin-offs-work.md - could carry: "Refranchising reaches a similar division by licence, separating the durable brand claim from the working stores without distributing a single share."
+
+## nightjar-badge-and-burn-020
+- _posts/2026-11-19-nightjar-living-example-019.md - could carry: "The man who walked out of the infirmary within the hour walked into an Accord building the next day on the strength of a badge, and sat down on a landing, and waited to be found."
+- _posts/2026-11-15-nightjar-foundry-list-015.md - could carry: "The list had named the places that made the alloy and the one that sold it. It had not named the paper that paid the men who carried it, because nobody had thought to ask the list for paper."
