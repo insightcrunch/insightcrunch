@@ -6,13 +6,15 @@ date: 2026-11-20
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "badge"]
 excerpt: "A carrier with a scarred hand sits down on a landing in an Accord building and will not come out, and the badge in his pocket was reported missing in spring."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 99
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-11-20
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Badge, the Burn and the Locked Stair - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Vaun Mell came to the building because no other door in Carrowmere would have let him in without a question, and this one let him in with none at all.
 
