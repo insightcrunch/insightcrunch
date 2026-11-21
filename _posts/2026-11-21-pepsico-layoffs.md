@@ -6,14 +6,16 @@ date: 2026-11-21
 categories: ["Industry"]
 tags: ["pepsico", "pepsico layoffs", "layoffs", "severance", "warn-act", "pepsico restructuring"]
 excerpt: "This tracker records every PepsiCo layoff round in one place: the roles cut, the severance and notice machinery, the WARN filings, and what each round changed."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 85
-author: "marcus-hall"
+author: "benjamin-scott"
 lang: en
 last_updated: 2026-11-21
 ---
 
 This page tracks every layoff round at PepsiCo from 2022 onward in one place, and it is updated each time the company runs another one. It records what each round cut, where, and under what stated reasoning, alongside the standing machinery that governs how PepsiCo separations work: how notice is given, how pay in lieu of notice is used, what the WARN Act filings show, how union contracts and logistics handovers shape outcomes, and how the company's long-running productivity plan pays for all of it. Event coverage ages quickly; the record below is built to stay accurate as the history grows.
+
+![PepsiCo Layoffs: Every Round, Severance and What Changed - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The cumulative picture is eleven tracked rounds in four years. The largest single action is the organisational round announced in November 2026, which eliminated about 1,000 roles across the North American food and beverage business. Around it sits a longer sequence of site actions: the closure of the Quaker plant in Danville, Illinois in 2024, production shutdowns at four bottling plants the same year, a run of Frito-Lay plant closures through 2025 in New York, California and Florida, and a 2026 series of bottling and warehouse actions in California, South Carolina, Maryland and Tennessee. Summed across the eleven rounds, the tracked total is a reported range of roughly 3,900 to 4,700 roles. The width of that range is itself part of the record: PepsiCo publishes exact headcounts in its WARN filings and almost never anywhere else, so this tracker labels every figure with the strength of its source, from state filings and company statements at the top to reported figures and ranges below them.
 
