@@ -9,7 +9,7 @@ excerpt: "A scarred hand rises to the infirmary glass on a clerk's night seal ro
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 95
 author: "diana-patel"
-last_updated: 2026-11-19
+last_updated: 2026-11-21
 lang: en
 ---
 ## Cold Open

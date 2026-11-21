@@ -9,7 +9,7 @@ excerpt: "Marxist cultural theory is organised by one rule: read form, not conte
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 180
 author: "diana-patel"
-last_updated: 2020-06-01
+last_updated: 2026-11-21
 lang: en
 ---
 ## Cultural Theory and the Question It Keeps Asking

@@ -9,7 +9,7 @@ excerpt: "A Marxist reading of a novel begins by tracing where each character's 
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 182
 author: "diana-patel"
-last_updated: 2020-08-01
+last_updated: 2026-11-21
 lang: en
 ---
 ## A Marxist Reading Procedure in Outline

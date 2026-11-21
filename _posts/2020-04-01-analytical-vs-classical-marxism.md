@@ -9,7 +9,7 @@ excerpt: "Analytical Marxism and its classical rival divide over one question fr
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 179
 author: "chloe-martin"
-last_updated: 2020-04-01
+last_updated: 2026-11-21
 lang: en
 ---
 The comparison between analytical Marxism and the classical tradition it broke from is usually introduced as a quarrel about jargon, as if one side had merely chosen clearer words for doctrines both sides shared. That introduction misleads from the first sentence. The disagreement concerns whether Marxism possesses a method of its own, a way of reasoning that belongs to this theory alone and that licenses conclusions unreachable by ordinary argument. Everything else follows from the answer given to that single question. The analytical current answers no: a claim that cannot be stated plainly, defended with evidence and exposed to counterexample has not been deepened by its obscurity, only sheltered by it. The classical current answers yes: the categories of the theory are historically specific, the object of study is a totality whose parts take their character from the whole, and a method that isolates elements for separate inspection distorts the object before inquiry begins. A reader who grasps that prior fork, and grasps that each side argues in good faith from it, holds the key to every later dispute between the two camps, from the fate of the labour theory of value to the standing of the working class as historical agent.

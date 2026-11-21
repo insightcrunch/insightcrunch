@@ -9,7 +9,7 @@ excerpt: "A carrier with a scarred hand sits down on a landing in an Accord buil
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 99
 author: "chloe-martin"
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 lang: en
 ---
 ## Cold Open

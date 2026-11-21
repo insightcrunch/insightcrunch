@@ -9,7 +9,7 @@ excerpt: "Literary theory was reframed by one introduction arguing literature it
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 182
 author: "rachel-foster"
-last_updated: 2020-09-01
+last_updated: 2026-11-21
 lang: en
 ---
 ## A Critic Assigned Before He Is Understood

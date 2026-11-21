@@ -9,7 +9,7 @@ excerpt: "Analytical Marxism is graded here by its own standards and found incon
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 179
 author: "diana-patel"
-last_updated: 2020-05-01
+last_updated: 2026-11-21
 lang: en
 ---
 Analytical Marxism attracts criticism from two directions that rarely meet, and a reader who hears only one of them receives half an education. From outside, classical Marxists object that the school's modelling habits smuggled foreign assumptions into Marxist questions, so that its negative conclusions were purchased in advance by its premises. From inside, a harder charge circulates among the school's own members and sympathisers: the current demanded clarity, argument and testability from everyone else, yet the defence of functional explanation in its founding text was fragile by those very tests, its central methodological slogan was repeated more often than it was established, and its scientific self image coexisted with a strikingly thin record of empirical inquiry. Both directions deserve a hearing before any verdict is reached, because each exposes weaknesses the other cannot see. The external critics notice what the models leave out. The internal critics notice what the school failed to demand of itself. An assessment that stages only the first becomes polemic, and one that stages only the second becomes an in house quarrel detached from the tradition the school claimed to serve. This article keeps both in view, states what the school got right at full length, and refuses to settle the one question its partisans on either side most want settled.

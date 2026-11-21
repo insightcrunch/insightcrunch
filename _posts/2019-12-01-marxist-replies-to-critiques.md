@@ -9,7 +9,7 @@ excerpt: "Marxist replies are graded one by one on a single scorecard: the repli
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 176
 author: "diana-patel"
-last_updated: 2019-12-01
+last_updated: 2026-11-21
 lang: en
 ---
 Marxist replies exist for every standard criticism of the framework, and they are not of equal worth. Some of them answer the criticism they address. Some answer a smaller criticism standing nearby. Some change the subject with such fluency that generations of readers have mistaken the change for a refutation. A reader who has worked through the critiques themselves, in the survey this article accompanies and in the detailed treatments behind it, is owed a grading rather than a cheer: which replies work, which partly work, and which merely move the claim to ground where the evidence cannot follow. That grading is the business of the pages that follow. Every reply admitted here carries a named author and a named work, because a defence that circulates without an owner cannot be checked, and a defence that cannot be checked is worth exactly what an anonymous pamphlet is worth. Every verdict arrives with the condition of its own reversal attached, stated in the same breath, because a verdict that nothing could reverse is not a judgement but a loyalty. And one pattern is named at the outset and tracked throughout, since it decides how much of the rest can be believed: the habit of restating a claim at a level of generality where the disconfirming evidence no longer bears on it, and then treating the restatement as what was meant all along.

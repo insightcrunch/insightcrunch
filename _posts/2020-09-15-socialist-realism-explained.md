@@ -9,7 +9,7 @@ excerpt: "Socialist realism settled the relation of art and party by decree rath
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 183
 author: "amanda-ross"
-last_updated: 2020-09-15
+last_updated: 2026-11-21
 lang: en
 ---
 ## Socialist Realism Proclaimed at a Congress

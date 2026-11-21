@@ -9,7 +9,7 @@ excerpt: "How India launched the Balakot airstrike, striking inside Pakistani te
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2012-07-13
+last_updated: 2026-11-21
 lang: en
 ---
 Twelve Mirage 2000 fighter jets crossed into Pakistani airspace in the pre-dawn darkness of February 26, 2019, dropped Israeli-made precision munitions on a hilltop compound near the town of Balakot in Khyber Pakhtunkhwa province, and returned to Indian territory before sunrise. The tactical results of that mission remain contested to this day. The strategic consequences are not. India had conducted an airstrike inside Pakistani territory for the first time since the [Indo-Pakistani War of 1971](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), shattering a forty-eight-year barrier that had shaped every calculation about deterrence, escalation, and restraint on the subcontinent. Whether those bombs killed three hundred fighters or none at all, the airspace violation itself permanently altered the strategic geometry between two nuclear-armed rivals.

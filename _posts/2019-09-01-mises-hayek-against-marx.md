@@ -9,7 +9,7 @@ excerpt: "Mises and Hayek argued against planning more than against Marx himself
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 173
 author: "rachel-foster"
-last_updated: 2019-09-01
+last_updated: 2026-11-21
 lang: en
 ---
 Ludwig von Mises and Friedrich Hayek are usually cited as a pair, as though a single argument issued from two pens, and the pairing conceals nearly everything that matters about them. They were two economists of the same Viennese world, one a generation older than the other, and they shared a conclusion: that a society which abolished market prices for the means of production would lose the instrument by which it steered its economy. Almost everything else divided them. Their methods were opposed, one deductive and one drawn toward evidence and evolution. Their tempers were opposed, one combative and systematic, one courteous and oblique. Their arguments, on inspection, are three in number and different in kind, and their target was socialism as a system of ownership and allocation rather than the economics of Karl Marx, whose work neither of them subjected to a sustained critique. A reader who separates the men, the methods, and the arguments from one another holds the whole subject in a form that can be assessed; a reader who merges them holds a slogan.

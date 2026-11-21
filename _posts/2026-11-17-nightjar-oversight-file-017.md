@@ -9,7 +9,7 @@ excerpt: "Teshkar threatens to leave the Accord, and Mira Kovac must find the pr
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 96
 author: "chloe-martin"
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 lang: en
 ---
 ## Cold Open

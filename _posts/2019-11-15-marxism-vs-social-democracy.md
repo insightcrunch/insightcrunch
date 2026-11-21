@@ -9,7 +9,7 @@ excerpt: "Marxism vs social democracy is graded by durability as much as by deli
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 175
 author: "chloe-martin"
-last_updated: 2019-11-15
+last_updated: 2026-11-21
 lang: en
 ---
 Marxism and social democracy are usually introduced as neighbours, two shades of the left placed side by side on a spectrum that runs from mild reform to total revolution. That picture is the first thing this article asks the reader to set aside. The two traditions are not separated mainly by temperament, by patience, or by the speed at which they hope to travel. They are separated by a disagreement about a fact, or rather about a prediction that a century of government has now tested from both sides. The question dividing them is whether the outcomes of capitalism can be substantially and durably improved while the ownership of productive assets remains where it is. Social democracy is the tradition that answered yes and organised a politics around redistribution, regulation, and universal provision inside capitalist property relations. Marxism is the tradition that answered no, holding that gains which leave ownership untouched remain concessions held on sufferance, revocable when the balance of forces shifts. Everything else in the comparison, the parties, the programmes, the settlements and the reversals, is evidence bearing on that single proposition.

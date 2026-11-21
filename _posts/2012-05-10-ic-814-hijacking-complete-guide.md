@@ -9,7 +9,7 @@ excerpt: "The definitive guide to IC-814, the eight-day Kandahar hostage crisis,
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 71
 author: "rahul-banerjee"
-last_updated: 2012-05-10
+last_updated: 2026-11-21
 lang: en
 ---
 At 4:53 pm on December 24, 1999, an Indian Airlines Airbus A300 carrying 176 passengers and 15 crew lifted off from Kathmandu's Tribhuvan International Airport bound for Delhi. About forty minutes later, as the aircraft crossed into Indian airspace near Lucknow, five men with grenades and pistols rose from their seats, took the cabin, and ordered the captain to fly west. Eight days later, on the tarmac of Kandahar's airport in Taliban-controlled Afghanistan, India's Foreign Minister handed three convicted terrorists to the same five men. One of those three was Maulana Masood Azhar. Within weeks of his release, Azhar founded Jaish-e-Mohammed. Within years, his organization would orchestrate strikes on India's Parliament, the Pathankot airbase, and a CRPF convoy in Pulwama. The hijacking that began over Lucknow ended in Kandahar, but its consequences are still being counted.

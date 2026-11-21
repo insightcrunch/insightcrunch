@@ -9,7 +9,7 @@ excerpt: "Central planning works in some domains and fails in others: the constr
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 175
 author: "diana-patel"
-last_updated: 2019-10-15
+last_updated: 2026-11-21
 lang: en
 ---
 The claim that revived the planning question is a claim about arithmetic. It runs as follows: whatever prevented central planning from working in the twentieth century, the obstacle was the sheer size of the calculation, and that obstacle has now been removed by the growth of computational capacity, so an economy could in principle be allocated by a plan as a market economy is allocated by prices. The claim deserves a hearing, and part of it deserves concession. But it rests on a conflation that this article exists to separate. Computation and information are two different problems. Computation is what a machine does to data it has been given. Information is what an allocation system must somehow obtain before any computation can begin, and the obtaining is done by people and institutions whose behaviour the system itself shapes. The first problem has changed beyond recognition across three decades. The second has not obviously changed at all, and whether it has changed is a question about incentives and about the formation of human wants, not about processing power. A reader who keeps that separation in view from the first page will find that the familiar question, can planning beat the market, dissolves into a set of narrower questions with different answers, and that the narrower questions are the ones worth arguing about.

@@ -9,7 +9,7 @@ excerpt: "Marxist film theory claimed the camera itself was ideological, then wa
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 183
 author: "rachel-foster"
-last_updated: 2020-08-15
+last_updated: 2026-11-21
 lang: en
 ---
 ## Marxist Film Theory in Practice

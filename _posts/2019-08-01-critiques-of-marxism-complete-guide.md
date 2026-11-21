@@ -9,7 +9,7 @@ excerpt: "Critiques of Marxism are graded on a scorecard with defeaters attached
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 172
 author: "diana-patel"
-last_updated: 2019-08-01
+last_updated: 2026-11-21
 lang: en
 ---
 The critiques of Marxism are usually encountered as a single pile, and the pile is usually brandished rather than examined. Someone announces that the doctrine has been refuted, someone else announces that it has not, and both speakers treat a century and a half of argument as though it were one argument, made once, against one thing, with one result. Almost nothing in that picture survives contact with the literature. The criticisms are several distinct kinds of claim, aimed at different targets, argued by different people with different credentials, and they have fared very differently under examination. Some have been answered so thoroughly that only their slogans circulate. Some have been answered at a price the answerers were reluctant to name. Some stand exactly where their authors left them, unrefuted and largely unmentioned, because the traditions that should be answering them find them uncomfortable. A survey that cannot tell these apart is not a survey but a cheer, and the cheering happens on both sides of the question with perfect symmetry.

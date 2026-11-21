@@ -9,7 +9,7 @@ excerpt: "Is Marxism a science? The answer depends on choosing the right criteri
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 174
 author: "amanda-ross"
-last_updated: 2019-10-01
+last_updated: 2026-11-21
 lang: en
 ---
 Is Marxism a science? The question is asked constantly and answered carelessly, because the argument about it usually runs on a charge that its own author did not make. The best-known critic of Marxism in the philosophy of science, Karl Popper, did not hold that Marx's theory was never scientific. He held almost the opposite: that the theory began as science, staked itself on predictions that could have failed, and did fail; and that what destroyed its scientific standing was not the failing but the response to it, the reinterpretation of theory and evidence by which its followers rescued it from refutation. Any assessment that starts from the popular version of the charge, in which Marxism is dismissed as unfalsifiable from birth, starts from an error, and the error is committed by defenders as often as by opponents, since a defence aimed at a misstated charge leaves the real one untouched.

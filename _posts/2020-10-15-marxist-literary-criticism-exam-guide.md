@@ -9,7 +9,7 @@ excerpt: "Literary theory in an exam rewards the form move: analyse what a form 
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 184
 author: "diana-patel"
-last_updated: 2020-10-15
+last_updated: 2026-11-21
 lang: en
 ---
 Literary theory becomes a different subject the moment it enters an examination hall, and nowhere is the transformation sharper than in the Marxist perspective. In the seminar room a candidate can range widely, follow an association, and let an essay discover its argument as it proceeds. Under timed conditions none of that freedom survives. The marker sees only what the page performs, and what the page must perform, on this topic, is a method applied to a text rather than a set of opinions about a story. A Marxist reading, for assessment purposes, analyses the conditions under which a work was produced, what its form presupposes, the class positions and sources of income arranged inside it, what the work cannot bring itself to say, and what its closing pages settle. It does not report the political opinions of an author, and it does not grade characters for their virtue. Candidates who grasp that definition early write a different species of answer from candidates who treat the perspective as a licence to hunt for class conflict in a plot.

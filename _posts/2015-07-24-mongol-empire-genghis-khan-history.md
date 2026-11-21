@@ -5,11 +5,11 @@ page_title: "The Mongol Empire Explained: Why History's Largest Contiguous Land 
 date: 2015-07-24
 categories: ["Leisure"]
 tags: ["mongol-empire", "genghis-khan", "medieval-asia", "steppe-empires", "pax-mongolica", "medieval-history"]
-excerpt: "The Mongol Empire was history's largest contiguous land empire and its most misunderstood. The atrocities were real, and the institutional innovations were too."
+excerpt: "Why the Mongol Empire matters: the conquests, the connections across Asia, and the rule that briefly unified a continent."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 73
 author: "diana-patel"
-last_updated: 2015-07-24
+last_updated: 2026-11-21
 lang: en
 ---
 The Mongol Empire was the largest contiguous land empire in the history of the world, and also the most misunderstood. At its territorial peak it governed close to twenty-four million square kilometers, near a sixth of the planet's land surface, reaching from the Pacific shoreline of Korea to the plains beyond the Danube and from the Siberian forest belt to the warm coast of the Persian Gulf. A loose confederation of nomadic herders assembled it in three generations, and when the man who would unify those herders was born they did not even share a single name for themselves. How that confederation came together, what it then did to the settled civilizations around it, and what it left behind are the questions this account sets out to answer without flinching from either half of the story.

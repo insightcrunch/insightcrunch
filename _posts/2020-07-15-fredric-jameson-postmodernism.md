@@ -9,7 +9,7 @@ excerpt: "Postmodernism on this account is a cultural dominant, not a chosen sty
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 181
 author: "chloe-martin"
-last_updated: 2020-07-15
+last_updated: 2026-11-21
 lang: en
 ---
 ## Postmodernism as the Culture of an Economic Phase

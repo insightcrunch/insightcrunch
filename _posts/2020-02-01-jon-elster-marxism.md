@@ -9,7 +9,7 @@ excerpt: "Elster judged Marx doctrine by doctrine and published the verdicts: th
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 176
 author: "rachel-foster"
-last_updated: 2020-02-01
+last_updated: 2026-11-21
 lang: en
 ---
 Jon Elster arrived inside Marxism carrying a stopwatch and a demand for receipts. A Norwegian philosopher and social scientist who took his doctorate in Paris, Elster joined the small circle of scholars who founded analytical Marxism at the end of the 1970s, and he joined it as a believer in the project's central wager: that Marx's social theory contained arguments strong enough to survive the most demanding standards of clarity that philosophy and social science could apply. He set out to reconstruct that theory rigorously, thesis by thesis, using the tools of rational choice and game theory, and he published the result in 1985 as Making Sense of Marx. The verdict he reached was mixed, and its mixed character is the first thing to grasp about him, because he stated it explicitly rather than leaving readers to infer it. Some of Marx's central claims, he concluded, fail outright. Others survive, in reconstructed form, as permanent contributions to social theory. Elster is therefore misdescribed by the label that follows him through summaries and syllabuses, the Marxist who stopped being one, as though the story were a conversion in reverse. The story is an audit. He examined the estate, itemised what was sound and what was rotten, published the inventory, and then spent a career building the alternative method that the audit had convinced him social science needed.

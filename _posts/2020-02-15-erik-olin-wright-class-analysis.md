@@ -9,7 +9,7 @@ excerpt: "Class analysis was rebuilt twice on incompatible foundations in one ca
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 177
 author: "rachel-foster"
-last_updated: 2020-02-15
+last_updated: 2026-11-21
 lang: en
 ---
 Class analysis in the Marxist tradition begins with a prediction that embarrassed its defenders for a century. Capitalist development, on the classical account, simplifies the structure of society. Small producers are ruined or absorbed, independent crafts disappear into factories, and the population sorts itself into two great camps: those who own productive property and those who own nothing but their capacity to work. Erik Olin Wright built his reputation by refusing to look away from the fact that the sorting never happened. Between the owners and the wage labourers there grew, decade after decade, a vast intermediate population of managers, supervisors, engineers, teachers, technicians, administrators, and credentialed specialists. These people sold their labour power, which placed them on one side of the classical divide, yet they directed the labour of others, held authority inside production, and drew incomes swollen by scarce credentials, which placed them awkwardly on the other. Wright was the most empirically productive Marxist sociologist of his generation because he treated that awkward population not as an embarrassment to be footnoted but as the central problem his theory had to solve, and because he then built survey machinery on an international scale to test whether his solutions survived contact with evidence.

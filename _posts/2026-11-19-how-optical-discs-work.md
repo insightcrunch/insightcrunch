@@ -9,7 +9,7 @@ excerpt: "An optical disc holds a whole film as tiny pits in one long spiral tra
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 83
 author: "thomas-reid"
-last_updated: 2026-11-19
+last_updated: 2026-11-21
 lang: en
 ---
 ## Geometry Instead of Charge

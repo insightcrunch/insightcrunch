@@ -9,7 +9,7 @@ excerpt: "Analytical Marxism judged Marxist claims by mainstream standards and i
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 178
 author: "rachel-foster"
-last_updated: 2020-01-01
+last_updated: 2026-11-21
 lang: en
 ---
 Analytical Marxism is a name that many readers first meet as an accusation, flung at a group of scholars who were said to have kept the vocabulary of Marxism while surrendering its substance to the methods of the seminar room and the economics department. The accusation gets the founding intention exactly backwards. The philosophers, economists, political scientists and sociologists who began meeting in 1979 were defenders of Marxism, several of them committed socialists, who believed that Marxist claims deserved the compliment of being tested by the same standards of clarity and evidence that governed any other serious inquiry. They held that a claim which could not survive plain statement had not been protected by its obscurity but exposed by it. What gives the school its enduring fascination is the sequel: within roughly fifteen years, most of those defenders had publicly abandoned central Marxist theses, one by one, in print, with reasons given at every step. A school that set out to rescue a doctrine and ended by dismantling much of it poses a question that no summary can evade, and this guide is organised around that question rather than around the safer ground of chronology alone.

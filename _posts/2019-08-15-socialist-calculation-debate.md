@@ -9,7 +9,7 @@ excerpt: "The calculation debate shifted from prices to knowledge as it ran: the
 image: "/assets/images/blog/blog-104.webp"
 reading_time: 172
 author: "diana-patel"
-last_updated: 2019-08-15
+last_updated: 2026-11-21
 lang: en
 ---
 The socialist calculation debate is usually reported as a single argument with a single winner, and that report is the first thing a careful reader has to unlearn. Two distinct objections were advanced in sequence, by different men, in different decades, against different targets. The first held that a socialist economy could not calculate: without private ownership of the means of production there would be no prices for producer goods, and without such prices no common measure by which alternative uses of a resource could be compared. The second held something subtler and harder: that even if prices could be constructed, the knowledge an allocating authority would need does not exist in any form that could be delivered to it. The two objections require different answers, and the celebrated answer to the first does not touch the second. Almost every confident verdict on this debate, in either direction, is produced by merging the two objections into one and then grading a reply against a challenge it was never built to meet.

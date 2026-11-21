@@ -9,7 +9,7 @@ excerpt: "The government speech doctrine decides when a message belongs to the s
 image: "/assets/images/blog/blog-108.webp"
 reading_time: 83
 author: "marcus-hall"
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 lang: en
 ---
 ## Government Speech Doctrine: The Rule in One Paragraph

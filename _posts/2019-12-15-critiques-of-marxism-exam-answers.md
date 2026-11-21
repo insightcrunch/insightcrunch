@@ -9,7 +9,7 @@ excerpt: "Critiques of Marxism in an exam reward the attribution rule: name the 
 image: "/assets/images/blog/blog-91.webp"
 reading_time: 176
 author: "rachel-foster"
-last_updated: 2019-12-15
+last_updated: 2026-11-21
 lang: en
 ---
 Critiques of Marxism occupy a peculiar place in assessment, because the candidate is rarely short of material and almost always short of marks. Lecture notes, textbooks, and revision websites supply criticisms in abundance: the labour theory of value is disputed, the predictions failed, the planning project ran into the knowledge problem, the party form slid toward command. A candidate can fill pages with this material and still be placed in a middling band, because the pages perform recall while the question demanded evaluation. Evaluation, in the sense marking schemes reward, is a different operation from possessing criticisms. It means identifying which criticism applies to which claim, attaching that criticism to the named thinker who made it, stating the strongest reply available, and arriving at a judgement that declares what would overturn it. Everything in this guide serves that four-part operation, and the content of the individual critiques is deliberately left to the cluster of articles behind it, which this guide links at the points where a candidate needs the substance rather than the technique.

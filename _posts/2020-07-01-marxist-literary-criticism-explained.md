@@ -9,7 +9,7 @@ excerpt: "Marxist literary criticism asks four questions of any work, and Engels
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 182
 author: "chloe-martin"
-last_updated: 2020-07-01
+last_updated: 2026-11-21
 lang: en
 ---
 ## A Method Stated as Four Questions

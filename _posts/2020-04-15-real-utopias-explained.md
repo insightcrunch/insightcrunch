@@ -9,7 +9,7 @@ excerpt: "Real utopias are graded as compass points rather than blueprints: the 
 image: "/assets/images/blog/blog-102.webp"
 reading_time: 178
 author: "chloe-martin"
-last_updated: 2020-04-15
+last_updated: 2026-11-21
 lang: en
 ---
 Real utopias are institutional designs that already exist, or could plausibly be built, and that embody socialist principles inside societies still organised by capitalism. The phrase joins two words that ordinary usage keeps apart, and the joining is deliberate. A utopia, in the dismissive sense, names a place that exists nowhere and therefore instructs nobody. The real utopias project, developed by the American sociologist Erik Olin Wright across three decades, refuses that dismissal by changing the object of study. Instead of drawing an ideal society on a blank page, the project examines institutions: arrangements for deciding, owning, distributing, and governing that can be inspected, compared, and argued about one by one. Some of the institutions it examines operate already, in partial and compromised forms. Others exist as worked proposals, specified in enough detail that their workings can be criticised rather than merely applauded or deplored.

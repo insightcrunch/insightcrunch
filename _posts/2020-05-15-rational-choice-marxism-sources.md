@@ -9,7 +9,7 @@ excerpt: "Rational choice Marxism is entered through a route that avoids the for
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 180
 author: "amanda-ross"
-last_updated: 2020-05-15
+last_updated: 2026-11-21
 lang: en
 ---
 ## Beginning Where Training Is Not Required

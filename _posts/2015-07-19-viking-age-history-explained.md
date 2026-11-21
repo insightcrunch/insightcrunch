@@ -5,11 +5,11 @@ page_title: "The Viking Age Explained: Why the Raiders Were the Smallest Part of
 date: 2015-07-19
 categories: ["Leisure"]
 tags: ["viking-age", "vikings", "medieval-scandinavia", "viking-diaspora", "norse-expansion", "medieval-history"]
-excerpt: "Vikings were not only raiders but also traders, settlers, explorers, mercenaries, and administrators whose vast diaspora reshaped early medieval Europe."
+excerpt: "Why the Viking Age is bigger than you think: the raiders, traders, and explorers who reshaped early medieval Europe."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2015-07-19
+last_updated: 2026-11-21
 lang: en
 ---
 On the eighth of June in the year 793, a Northumbrian monastery on the tidal island of Lindisfarne was attacked by men who had arrived from across the North Sea, and the chronicler who recorded the event reached for the language of apocalypse. The Anglo-Saxon Chronicle described heathen men who plundered the holy site, killed monks, and carried off treasure that had been gathered to honor a Christian God who, in the chronicler's understanding, had permitted the desecration as a sign of coming judgment. That single sentence in a monastic record has done more to shape the popular idea of the Viking than any other source, and it has done so misleadingly. The raid on Lindisfarne was real, violent, and traumatic for the community that suffered it. It was also the smallest part of a far larger story.

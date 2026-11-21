@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-17T15:44:47Z",
+  "generated": "2026-11-21T14:26:47Z",
   "threshold": 50,
-  "totalPosts": 5889,
-  "flaggedPosts": 3425,
+  "totalPosts": 5926,
+  "flaggedPosts": 3428,
   "suppressedPosts": 13,
   "stalePosts": 0,
-  "worstWord": "doctrine",
-  "worstCount": 675,
-  "worstPost": "Socialism With Chinese Characteristics",
-  "avgTopCount": 173.4,
+  "worstWord": "school",
+  "worstCount": 787,
+  "worstPost": "What Analytical Marxism Got Wrong",
+  "avgTopCount": 173.9,
   "posts": [
     {
       "filename": "1995-10-24-sat-master-strategy-complete-plan.md",
@@ -198627,6 +198627,24 @@
       ]
     },
     {
+      "filename": "2019-08-01-critiques-of-marxism-complete-guide.md",
+      "slug": "critiques-of-marxism-complete-guide",
+      "title": "Critiques of Marxism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20130,
+      "topWord": "family",
+      "topCount": 235,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-01-critiques-of-marxism-complete-guide.md"
+    },
+    {
       "filename": "2019-08-01-intellectual-property-law-india-guide.md",
       "slug": "intellectual-property-law-india-guide",
       "title": "Intellectual Property Law in India: A Complete Guide",
@@ -199199,6 +199217,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-15-patents-act-1970-explained.md"
+    },
+    {
+      "filename": "2019-08-15-socialist-calculation-debate.md",
+      "slug": "socialist-calculation-debate",
+      "title": "The Socialist Calculation Debate",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18345,
+      "topWord": "debate",
+      "topCount": 309,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-15-socialist-calculation-debate.md"
     },
     {
       "filename": "2019-08-16-2019-election-verdict-explained.md",
@@ -199809,6 +199845,24 @@
           "count": 57
         }
       ]
+    },
+    {
+      "filename": "2019-09-01-mises-hayek-against-marx.md",
+      "slug": "mises-hayek-against-marx",
+      "title": "Mises and Hayek Against Marx",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 18664,
+      "topWord": "argument",
+      "topCount": 260,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-01-mises-hayek-against-marx.md"
     },
     {
       "filename": "2019-09-01-patents-amendment-act-2005-trips.md",
@@ -200445,6 +200499,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-13-kb-hedgewar-founding-rss-1925.md"
+    },
+    {
+      "filename": "2019-09-15-bohm-bawerk-critique-of-marx.md",
+      "slug": "bohm-bawerk-critique-of-marx",
+      "title": "Bohm-Bawerk's Critique of Marx",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19275,
+      "topWord": "theory",
+      "topCount": 287,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-15-bohm-bawerk-critique-of-marx.md"
     },
     {
       "filename": "2019-09-15-braveheart-horner-score-epic.md",
@@ -201223,6 +201295,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-01-heat-casino-1995-crime-epics.md"
     },
     {
+      "filename": "2019-10-01-is-marxism-a-science.md",
+      "slug": "is-marxism-a-science",
+      "title": "Is Marxism a Science or a Faith?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19181,
+      "topWord": "programme",
+      "topCount": 245,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-01-is-marxism-a-science.md"
+    },
+    {
       "filename": "2019-10-01-tanf-block-grant-structure.md",
       "slug": "tanf-block-grant-structure",
       "title": "How the TANF Block Grant Is Written: Purposes and Rules",
@@ -201619,6 +201709,24 @@
           "count": 31
         }
       ]
+    },
+    {
+      "filename": "2019-10-15-can-planning-beat-the-market.md",
+      "slug": "can-planning-beat-the-market",
+      "title": "Can Planning Beat the Market?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19300,
+      "topWord": "market",
+      "topCount": 216,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-10-15-can-planning-beat-the-market.md"
     },
     {
       "filename": "2019-10-15-copyright-amendment-act-2012-explained.md",
@@ -202751,6 +202859,24 @@
       ]
     },
     {
+      "filename": "2019-11-01-incentive-problem-socialism.md",
+      "slug": "incentive-problem-socialism",
+      "title": "The Incentive Problem in Socialism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20203,
+      "topWord": "effort",
+      "topCount": 212,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-11-01-incentive-problem-socialism.md"
+    },
+    {
       "filename": "2019-11-01-trade-marks-act-1999-explained.md",
       "slug": "trade-marks-act-1999-explained",
       "title": "The Trade Marks Act 1999 Explained: Registration and Rights",
@@ -203447,6 +203573,24 @@
           "count": 52
         }
       ]
+    },
+    {
+      "filename": "2019-11-15-marxism-vs-social-democracy.md",
+      "slug": "marxism-vs-social-democracy",
+      "title": "Marxism vs Social Democracy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20182,
+      "topWord": "settlement",
+      "topCount": 359,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-11-15-marxism-vs-social-democracy.md"
     },
     {
       "filename": "2019-11-15-tcs-accommodation-gandhinagar.md",
@@ -204459,6 +204603,24 @@
       ]
     },
     {
+      "filename": "2019-12-01-marxist-replies-to-critiques.md",
+      "slug": "marxist-replies-to-critiques",
+      "title": "Marxist Replies to the Standard Critiques",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20073,
+      "topWord": "reply",
+      "topCount": 291,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-12-01-marxist-replies-to-critiques.md"
+    },
+    {
       "filename": "2019-12-01-snap-administration-law.md",
       "slug": "snap-administration-law",
       "title": "SNAP Administration: How Benefits Are Calculated and Paid",
@@ -205031,6 +205193,24 @@
           "count": 38
         }
       ]
+    },
+    {
+      "filename": "2019-12-15-critiques-of-marxism-exam-answers.md",
+      "slug": "critiques-of-marxism-exam-answers",
+      "title": "Critiques of Marxism: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19805,
+      "topWord": "candidate",
+      "topCount": 310,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-12-15-critiques-of-marxism-exam-answers.md"
     },
     {
       "filename": "2019-12-15-memento-nolan-backward-structure.md",
@@ -205879,6 +206059,24 @@
           "count": 26
         }
       ]
+    },
+    {
+      "filename": "2020-01-01-analytical-marxism-complete-guide.md",
+      "slug": "analytical-marxism-complete-guide",
+      "title": "Analytical Marxism: The Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 23497,
+      "topWord": "theory",
+      "topCount": 193,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-01-01-analytical-marxism-complete-guide.md"
     },
     {
       "filename": "2020-01-01-congressional-budget-act-1974-guide.md",
@@ -206779,6 +206977,24 @@
       ]
     },
     {
+      "filename": "2020-01-15-ga-cohen-functional-explanation.md",
+      "slug": "ga-cohen-functional-explanation",
+      "title": "G.A. Cohen and Functional Explanation",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19510,
+      "topWord": "cohen",
+      "topCount": 347,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-01-15-ga-cohen-functional-explanation.md"
+    },
+    {
       "filename": "2020-01-15-gramm-rudman-hollings-1985-guide.md",
       "slug": "gramm-rudman-hollings-1985-guide",
       "title": "Gramm-Rudman-Hollings: Deficit Targets and Sequestration",
@@ -207615,6 +207831,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-02-01-erling-haaland-weaknesses-explained.md"
+    },
+    {
+      "filename": "2020-02-01-jon-elster-marxism.md",
+      "slug": "jon-elster-marxism",
+      "title": "Jon Elster and Methodological Individualism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20023,
+      "topWord": "theory",
+      "topCount": 228,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-02-01-jon-elster-marxism.md"
     },
     {
       "filename": "2020-02-01-mrtp-act-1969-repeal-explained.md",
@@ -208537,6 +208771,112 @@
       ]
     },
     {
+      "filename": "2020-02-15-erik-olin-wright-class-analysis.md",
+      "slug": "erik-olin-wright-class-analysis",
+      "title": "Erik Olin Wright and Class Analysis",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21498,
+      "topWord": "class",
+      "topCount": 460,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-02-15-erik-olin-wright-class-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "class",
+          "count": 460
+        }
+      ],
+      "top20": [
+        {
+          "word": "class",
+          "count": 460
+        },
+        {
+          "word": "wright",
+          "count": 403
+        },
+        {
+          "word": "locations",
+          "count": 193
+        },
+        {
+          "word": "framework",
+          "count": 179
+        },
+        {
+          "word": "location",
+          "count": 151
+        },
+        {
+          "word": "labour",
+          "count": 122
+        },
+        {
+          "word": "theory",
+          "count": 121
+        },
+        {
+          "word": "asset",
+          "count": 114
+        },
+        {
+          "word": "structure",
+          "count": 108
+        },
+        {
+          "word": "assets",
+          "count": 106
+        },
+        {
+          "word": "exploitation",
+          "count": 101
+        },
+        {
+          "word": "map",
+          "count": 86
+        },
+        {
+          "word": "organisation",
+          "count": 81
+        },
+        {
+          "word": "production",
+          "count": 79
+        },
+        {
+          "word": "authority",
+          "count": 78
+        },
+        {
+          "word": "analysis",
+          "count": 73
+        },
+        {
+          "word": "interests",
+          "count": 73
+        },
+        {
+          "word": "marxist",
+          "count": 72
+        },
+        {
+          "word": "tradition",
+          "count": 72
+        },
+        {
+          "word": "whose",
+          "count": 70
+        }
+      ]
+    },
+    {
       "filename": "2020-02-15-how-to-stop-kylian-mbappe.md",
       "slug": "how-to-stop-kylian-mbappe",
       "title": "How to Stop Kylian Mbappe",
@@ -209265,6 +209605,24 @@
       ]
     },
     {
+      "filename": "2020-03-01-roemer-theory-of-exploitation.md",
+      "slug": "roemer-theory-of-exploitation",
+      "title": "Roemer's Theory of Exploitation",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20507,
+      "topWord": "roemer",
+      "topCount": 252,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-03-01-roemer-theory-of-exploitation.md"
+    },
+    {
       "filename": "2020-03-01-spirited-away-miyazaki-ghibli-influence.md",
       "slug": "spirited-away-miyazaki-ghibli-influence",
       "title": "Spirited Away: How Miyazaki Carried Ghibli to the World",
@@ -209963,6 +210321,24 @@
       ]
     },
     {
+      "filename": "2020-03-15-marxism-and-microfoundations.md",
+      "slug": "marxism-and-microfoundations",
+      "title": "Does Marxism Need Micro-Foundations?",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 24757,
+      "topWord": "explanation",
+      "topCount": 157,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-03-15-marxism-and-microfoundations.md"
+    },
+    {
       "filename": "2020-03-17-tcs-nqt-registration-last-date.md",
       "slug": "tcs-nqt-registration-last-date",
       "title": "TCS NQT Registration Deadlines Guide",
@@ -210529,6 +210905,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-03-29-2019-ews-reservation-amendment.md"
+    },
+    {
+      "filename": "2020-04-01-analytical-vs-classical-marxism.md",
+      "slug": "analytical-vs-classical-marxism",
+      "title": "Analytical vs Classical Marxism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21216,
+      "topWord": "classical",
+      "topCount": 342,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-01-analytical-vs-classical-marxism.md"
     },
     {
       "filename": "2020-04-01-debt-ceiling-law-explained.md",
@@ -211595,6 +211989,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-15-msme-development-act-2006-explained.md"
     },
     {
+      "filename": "2020-04-15-real-utopias-explained.md",
+      "slug": "real-utopias-explained",
+      "title": "Real Utopias and Non-Reformist Reform",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21328,
+      "topWord": "project",
+      "topCount": 329,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-04-15-real-utopias-explained.md"
+    },
+    {
       "filename": "2020-04-20-shah-bano-case-1986-act-india.md",
       "slug": "shah-bano-case-1986-act-india",
       "title": "The Shah Bano Case and the 1986 Act: Personal Law Reread",
@@ -211965,6 +212377,112 @@
         {
           "word": "responsibility",
           "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2020-05-01-analytical-marxism-criticisms.md",
+      "slug": "analytical-marxism-criticisms",
+      "title": "What Analytical Marxism Got Wrong",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20692,
+      "topWord": "school",
+      "topCount": 787,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-01-analytical-marxism-criticisms.md",
+      "flaggedWords": [
+        {
+          "word": "school",
+          "count": 787
+        }
+      ],
+      "top20": [
+        {
+          "word": "school",
+          "count": 787
+        },
+        {
+          "word": "article",
+          "count": 183
+        },
+        {
+          "word": "tradition",
+          "count": 152
+        },
+        {
+          "word": "classical",
+          "count": 142
+        },
+        {
+          "word": "critics",
+          "count": 142
+        },
+        {
+          "word": "ledger",
+          "count": 127
+        },
+        {
+          "word": "theory",
+          "count": 116
+        },
+        {
+          "word": "charge",
+          "count": 109
+        },
+        {
+          "word": "internal",
+          "count": 105
+        },
+        {
+          "word": "standards",
+          "count": 103
+        },
+        {
+          "word": "class",
+          "count": 98
+        },
+        {
+          "word": "evidence",
+          "count": 97
+        },
+        {
+          "word": "members",
+          "count": 86
+        },
+        {
+          "word": "record",
+          "count": 85
+        },
+        {
+          "word": "itself",
+          "count": 82
+        },
+        {
+          "word": "method",
+          "count": 81
+        },
+        {
+          "word": "claims",
+          "count": 79
+        },
+        {
+          "word": "empirical",
+          "count": 76
+        },
+        {
+          "word": "explanation",
+          "count": 75
+        },
+        {
+          "word": "founding",
+          "count": 74
         }
       ]
     },
@@ -212737,6 +213255,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-15-mrtp-vs-competition-act-comparison.md"
     },
     {
+      "filename": "2020-05-15-rational-choice-marxism-sources.md",
+      "slug": "rational-choice-marxism-sources",
+      "title": "Rational Choice Marxism: A Source Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 26506,
+      "topWord": "readers",
+      "topCount": 205,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-05-15-rational-choice-marxism-sources.md"
+    },
+    {
       "filename": "2020-05-17-citizenship-amendment-act-debate.md",
       "slug": "citizenship-amendment-act-debate",
       "title": "The Citizenship Amendment Act Debate Explained in Full",
@@ -213427,6 +213963,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-01-lionel-messi-tactical-profile.md"
+    },
+    {
+      "filename": "2020-06-01-marxist-cultural-theory-guide.md",
+      "slug": "marxist-cultural-theory-guide",
+      "title": "Marxist Cultural Theory: A Complete Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20714,
+      "topWord": "tradition",
+      "topCount": 259,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-01-marxist-cultural-theory-guide.md"
     },
     {
       "filename": "2020-06-01-there-will-be-blood-pta-day-lewis.md",
@@ -214413,6 +214967,24 @@
       ]
     },
     {
+      "filename": "2020-06-15-raymond-williams-cultural-materialism.md",
+      "slug": "raymond-williams-cultural-materialism",
+      "title": "Raymond Williams and Cultural Materialism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 19596,
+      "topWord": "culture",
+      "topCount": 160,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-06-15-raymond-williams-cultural-materialism.md"
+    },
+    {
       "filename": "2020-06-15-the-departed-scorsese-crime-remake.md",
       "slug": "the-departed-scorsese-crime-remake",
       "title": "The Departed: A Remake That Became a Landmark",
@@ -215139,6 +215711,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-01-lionel-messi-weaknesses-explained.md"
     },
     {
+      "filename": "2020-07-01-marxist-literary-criticism-explained.md",
+      "slug": "marxist-literary-criticism-explained",
+      "title": "Marxist Literary Criticism Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20734,
+      "topWord": "question",
+      "topCount": 219,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-01-marxist-literary-criticism-explained.md"
+    },
+    {
       "filename": "2020-07-01-usmca-implementation-act-2020-guide.md",
       "slug": "usmca-implementation-act-2020-guide",
       "title": "USMCA Implementation Act: Protocol, Labor Rules, Sunset",
@@ -215655,6 +216245,24 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-15-eternal-sunshine-kaufman-memory-structure.md"
+    },
+    {
+      "filename": "2020-07-15-fredric-jameson-postmodernism.md",
+      "slug": "fredric-jameson-postmodernism",
+      "title": "Fredric Jameson and Postmodernism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21910,
+      "topWord": "theory",
+      "topCount": 179,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-07-15-fredric-jameson-postmodernism.md"
     },
     {
       "filename": "2020-07-15-motor-vehicles-act-1988-explained.md",
@@ -216433,6 +217041,24 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-01-cristiano-ronaldo-tactical-profile.md"
     },
     {
+      "filename": "2020-08-01-marxist-reading-of-a-novel.md",
+      "slug": "marxist-reading-of-a-novel",
+      "title": "How to Do a Marxist Reading of a Novel",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20446,
+      "topWord": "novel",
+      "topCount": 285,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-01-marxist-reading-of-a-novel.md"
+    },
+    {
       "filename": "2020-08-01-motor-vehicles-amendment-act-2019.md",
       "slug": "motor-vehicles-amendment-act-2019",
       "title": "The Motor Vehicles Amendment Act 2019: What Changed",
@@ -217055,6 +217681,24 @@
           "count": 36
         }
       ]
+    },
+    {
+      "filename": "2020-08-15-marxist-film-theory-explained.md",
+      "slug": "marxist-film-theory-explained",
+      "title": "Marxist Film Theory in Practice",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21089,
+      "topWord": "film",
+      "topCount": 314,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-08-15-marxist-film-theory-explained.md"
     },
     {
       "filename": "2020-08-15-railways-act-1989-passenger-rights.md",
@@ -217811,6 +218455,24 @@
       ]
     },
     {
+      "filename": "2020-09-01-terry-eagleton-marxist-criticism.md",
+      "slug": "terry-eagleton-marxist-criticism",
+      "title": "Terry Eagleton and Marxist Criticism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21403,
+      "topWord": "eagleton",
+      "topCount": 218,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-09-01-terry-eagleton-marxist-criticism.md"
+    },
+    {
       "filename": "2020-09-04-article-370-1965-2019-explained.md",
       "slug": "article-370-1965-2019-explained",
       "title": "Article 370 from 1965 to 2019 Explained: The Long Arc",
@@ -218423,6 +219085,24 @@
       ]
     },
     {
+      "filename": "2020-09-15-socialist-realism-explained.md",
+      "slug": "socialist-realism-explained",
+      "title": "Socialist Realism and Its Legacy",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 21965,
+      "topWord": "doctrine",
+      "topCount": 392,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-09-15-socialist-realism-explained.md"
+    },
+    {
       "filename": "2020-09-15-the-avengers-mcu-cinematic-universe.md",
       "slug": "the-avengers-mcu-cinematic-universe",
       "title": "The Avengers and the Cinematic Universe Model",
@@ -218901,6 +219581,24 @@
           "count": 27
         }
       ]
+    },
+    {
+      "filename": "2020-10-01-marxist-vs-formalist-criticism.md",
+      "slug": "marxist-vs-formalist-criticism",
+      "title": "Marxist vs Formalist Criticism",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20590,
+      "topWord": "dispute",
+      "topCount": 157,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-10-01-marxist-vs-formalist-criticism.md"
     },
     {
       "filename": "2020-10-01-messi-ronaldo-aging-comparison.md",
@@ -219709,6 +220407,24 @@
           "count": 21
         }
       ]
+    },
+    {
+      "filename": "2020-10-15-marxist-literary-criticism-exam-guide.md",
+      "slug": "marxist-literary-criticism-exam-guide",
+      "title": "Marxist Literary Theory: Exam Guide",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 20762,
+      "topWord": "candidate",
+      "topCount": 248,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2020-10-15-marxist-literary-criticism-exam-guide.md"
     },
     {
       "filename": "2020-10-15-mmdr-act-mining-law-india.md",
@@ -323777,14 +324493,14 @@
     {
       "filename": "2026-03-31-oracle-layoffs-article.md",
       "slug": "oracle-layoffs-article",
-      "title": "Oracle Layoffs 2026 Explained in Full Detail",
+      "title": "Oracle Layoffs: Every Round, Severance and What Changed",
       "categories": [
         "Industry"
       ],
       "lang": "en",
-      "wordCount": 8276,
-      "topWord": "oracle",
-      "topCount": 301,
+      "wordCount": 10351,
+      "topWord": "round",
+      "topCount": 264,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -323793,90 +324509,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-03-31-oracle-layoffs-article.md",
       "flaggedWords": [
         {
+          "word": "round",
+          "count": 264
+        },
+        {
           "word": "oracle",
-          "count": 301
+          "count": 223
         }
       ],
       "top20": [
         {
-          "word": "oracle",
-          "count": 301
+          "word": "round",
+          "count": 264
         },
         {
-          "word": "ai",
-          "count": 154
+          "word": "oracle",
+          "count": 223
         },
         {
           "word": "company",
-          "count": 109
-        },
-        {
-          "word": "billion",
-          "count": 83
-        },
-        {
-          "word": "layoffs",
-          "count": 75
-        },
-        {
-          "word": "workforce",
-          "count": 66
+          "count": 118
         },
         {
           "word": "employees",
+          "count": 110
+        },
+        {
+          "word": "reported",
+          "count": 100
+        },
+        {
+          "word": "rounds",
+          "count": 99
+        },
+        {
+          "word": "reporting",
+          "count": 96
+        },
+        {
+          "word": "march",
+          "count": 85
+        },
+        {
+          "word": "cerner",
+          "count": 75
+        },
+        {
+          "word": "billion",
+          "count": 73
+        },
+        {
+          "word": "warn",
           "count": 65
         },
         {
-          "word": "percent",
-          "count": 64
+          "word": "tracker",
+          "count": 60
         },
         {
-          "word": "infrastructure",
-          "count": 62
+          "word": "workforce",
+          "count": 58
         },
         {
-          "word": "technology",
-          "count": 61
+          "word": "filing",
+          "count": 58
         },
         {
-          "word": "data",
-          "count": 54
-        },
-        {
-          "word": "cloud",
-          "count": 53
-        },
-        {
-          "word": "openai",
-          "count": 47
-        },
-        {
-          "word": "companies",
-          "count": 40
-        },
-        {
-          "word": "affected",
-          "count": 39
-        },
-        {
-          "word": "industry",
-          "count": 38
-        },
-        {
-          "word": "approximately",
-          "count": 37
-        },
-        {
-          "word": "financial",
-          "count": 35
-        },
-        {
-          "word": "revenue",
-          "count": 34
+          "word": "severance",
+          "count": 55
         },
         {
           "word": "cuts",
-          "count": 33
+          "count": 55
+        },
+        {
+          "word": "fiscal",
+          "count": 50
+        },
+        {
+          "word": "india",
+          "count": 49
+        },
+        {
+          "word": "ledger",
+          "count": 49
+        },
+        {
+          "word": "record",
+          "count": 48
         }
       ]
     },
@@ -380179,6 +380899,184 @@
       ]
     },
     {
+      "filename": "2026-11-17-nightjar-oversight-file-017.md",
+      "slug": "nightjar-oversight-file-017",
+      "title": "Nightjar: The Oversight File With Her Own Name on It",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8382,
+      "topWord": "room",
+      "topCount": 86,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-17-nightjar-oversight-file-017.md"
+    },
+    {
+      "filename": "2026-11-18-how-government-speech-doctrine-works.md",
+      "slug": "how-government-speech-doctrine-works",
+      "title": "How the Government Speech Doctrine Works in US Law",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10607,
+      "topWord": "government",
+      "topCount": 211,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-18-how-government-speech-doctrine-works.md"
+    },
+    {
+      "filename": "2026-11-18-nightjar-marked-hands-018.md",
+      "slug": "nightjar-marked-hands-018",
+      "title": "Nightjar: Marked Hands and the Men Who Keep Them Hidden",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8236,
+      "topWord": "room",
+      "topCount": 117,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-18-nightjar-marked-hands-018.md"
+    },
+    {
+      "filename": "2026-11-19-how-optical-discs-work.md",
+      "slug": "how-optical-discs-work",
+      "title": "How Optical Discs Store and Play Back a Whole Film",
+      "categories": [
+        "Technology"
+      ],
+      "lang": "en",
+      "wordCount": 10237,
+      "topWord": "disc",
+      "topCount": 247,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-19-how-optical-discs-work.md",
+      "flaggedWords": [
+        {
+          "word": "disc",
+          "count": 247
+        }
+      ],
+      "top20": [
+        {
+          "word": "disc",
+          "count": 247
+        },
+        {
+          "word": "data",
+          "count": 118
+        },
+        {
+          "word": "layer",
+          "count": 112
+        },
+        {
+          "word": "light",
+          "count": 79
+        },
+        {
+          "word": "blu",
+          "count": 71
+        },
+        {
+          "word": "ray",
+          "count": 71
+        },
+        {
+          "word": "dvd",
+          "count": 69
+        },
+        {
+          "word": "surface",
+          "count": 68
+        },
+        {
+          "word": "laser",
+          "count": 61
+        },
+        {
+          "word": "discs",
+          "count": 61
+        },
+        {
+          "word": "track",
+          "count": 59
+        },
+        {
+          "word": "spot",
+          "count": 54
+        },
+        {
+          "word": "format",
+          "count": 53
+        },
+        {
+          "word": "optical",
+          "count": 47
+        },
+        {
+          "word": "beam",
+          "count": 44
+        },
+        {
+          "word": "single",
+          "count": 43
+        },
+        {
+          "word": "spiral",
+          "count": 41
+        },
+        {
+          "word": "player",
+          "count": 41
+        },
+        {
+          "word": "marks",
+          "count": 39
+        },
+        {
+          "word": "pattern",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-19-nightjar-living-example-019.md",
+      "slug": "nightjar-living-example-019",
+      "title": "Nightjar: A Living Example in the Wharf Night Infirmary",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8414,
+      "topWord": "infirmary",
+      "topCount": 102,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-19-nightjar-living-example-019.md"
+    },
+    {
       "filename": "2026-11-20-ac-bradley-excluded-romeo-and-juliet.md",
       "slug": "ac-bradley-excluded-romeo-and-juliet",
       "title": "Why A.C. Bradley Left Out Romeo and Juliet: The Case Weighed",
@@ -380287,6 +381185,42 @@
           "count": 31
         }
       ]
+    },
+    {
+      "filename": "2026-11-20-how-restaurant-franchising-works.md",
+      "slug": "how-restaurant-franchising-works",
+      "title": "How Restaurant Franchising Works: Fees, Risk and Control",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10336,
+      "topWord": "franchisor",
+      "topCount": 172,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-20-how-restaurant-franchising-works.md"
+    },
+    {
+      "filename": "2026-11-20-nightjar-badge-and-burn-020.md",
+      "slug": "nightjar-badge-and-burn-020",
+      "title": "Nightjar: The Badge, the Burn and the Locked Stair",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8277,
+      "topWord": "badge",
+      "topCount": 120,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-20-nightjar-badge-and-burn-020.md"
     },
     {
       "filename": "2026-11-21-buffer-states-and-great-power-war.md",

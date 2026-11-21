@@ -9,7 +9,7 @@ excerpt: "The April 2025 Pahalgam tourist massacre that killed 26 people, how TR
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 71
 author: "alex-cunningham"
-last_updated: 2012-06-03
+last_updated: 2026-11-21
 lang: en
 ---
 The afternoon of April 22, 2025 began as one of the busiest tourist days the upper Lidder Valley had recorded in years. Families from Maharashtra and Karnataka were riding ponies across the open green of Baisaran. Honeymooners from Hyderabad were photographing snow on the distant ridgelines. A retired naval officer from Pune was walking with his wife. Within forty-five minutes, twenty-six of those visitors would be dead, almost all of them killed at close range by gunmen who reportedly demanded names, asked about religion, and in several cases asked victims to recite Islamic verses before opening fire.

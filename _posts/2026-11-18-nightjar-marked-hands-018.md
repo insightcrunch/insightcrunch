@@ -9,7 +9,7 @@ excerpt: "A witness in Valtessa eats in the same chair every night, and the man 
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 96
 author: "amanda-ross"
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 lang: en
 ---
 ## Cold Open

@@ -9,7 +9,7 @@ excerpt: "Functional explanation in Marx's theory of history is graded by the me
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 176
 author: "chloe-martin"
-last_updated: 2020-01-15
+last_updated: 2026-11-21
 lang: en
 ---
 A functional explanation accounts for something by pointing to what it does rather than to what produced it. The explanandum is held in place, on this pattern, because of its effects: a feature persists since the consequences it generates favour its own continuation. Functional explanation therefore reverses the direction a reader instinctively expects from causal reasoning, and the reversal is either a legitimate form of understanding or a sophisticated way of mistaking a benefit for a reason. Which of those verdicts applies to Marx's theory of history is the question Gerald Allan Cohen forced his tradition to answer with unusual precision, and the answer he eventually gave against his own earlier defence is the centre of this article.

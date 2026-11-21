@@ -9,7 +9,7 @@ excerpt: "Formalist criticism and its Marxist rival were once synthesised, and t
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 184
 author: "chloe-martin"
-last_updated: 2020-10-01
+last_updated: 2026-11-21
 lang: en
 ---
 ## Formalist Criticism and Its Marxist Rival: Two Questions About Literature

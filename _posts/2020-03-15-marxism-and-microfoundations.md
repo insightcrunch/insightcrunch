@@ -9,7 +9,7 @@ excerpt: "Microfoundations in Marxism are two distinct demands wearing one name:
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 178
 author: "amanda-ross"
-last_updated: 2020-03-15
+last_updated: 2026-11-21
 lang: en
 ---
 Few words in the methodology of social science carry more weight with less agreement about their meaning than microfoundations, and few debates show the cost of that disagreement better than the argument over whether Marxism needs them. A reader who meets the demand in economics or sociology usually meets it as a single requirement, stated with the confidence of a standard: an explanation of a social phenomenon is incomplete until it has been shown how the actions of individuals produce that phenomenon. Pressed against Marxism from the late 1970s onward, the demand helped to found a school, analytical Marxism, provoked some of the sharpest methodological writing the tradition has produced, and left behind a residue of slogans on both sides. Defenders of the classical tradition heard an alien standard imported from economics and refused it wholesale. Its proponents heard the refusal as an admission that Marxist explanation could not survive scrutiny. Both hearings rested on the same mistake, and the mistake is the subject of this article.

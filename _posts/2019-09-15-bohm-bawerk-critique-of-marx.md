@@ -9,7 +9,7 @@ excerpt: "Bohm-Bawerk's critique turns on one argument the standard reply never 
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 174
 author: "rachel-foster"
-last_updated: 2019-09-15
+last_updated: 2026-11-21
 lang: en
 ---
 Bohm-Bawerk's critique of Marx is the most famous attack ever mounted on the labour theory of value, and it is usually summarised badly. An Austrian economist published it in 1896, the year after the third volume of Capital reached print, and it makes four distinct arguments of very unequal strength. One of them, the celebrated contradiction between the first volume and the third, fills the textbooks. Another, quieter and far more damaging, asks whether exchange requires the exchanged things to be equal in anything at all, and answers that it does not. Identifying which of the four arguments actually bites, and which are answered by the standard Marxist reply, is the whole subject of the pages that follow.

@@ -5,11 +5,11 @@ page_title: "The Black Death Explained: How Seven Years of Plague in 1346-1353 E
 date: 2015-07-14
 categories: ["Leisure"]
 tags: ["black-death", "medieval-plague", "yersinia-pestis", "pandemic-history", "medieval-europe", "medieval-history"]
-excerpt: "The Black Death killed 30 to 60 percent of Europe in just seven years, and no single event in European history has had consequences of a comparable scale."
+excerpt: "Why the Black Death changed everything: the plague that killed a third of Europe and reshaped what survived."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2015-07-14
+last_updated: 2026-11-21
 lang: en
 ---
 In October of 1347, a small fleet of Genoese trading galleys put in at the harbor of Messina, on the northeastern tip of Sicily. The men aboard were sick, and many of them were already dead. The Sicilian chronicler Michele da Piazza, writing soon afterward, described sailors carrying a sickness so virulent that anyone who merely spoke with them seemed to catch it. The harbor authorities, recognizing something was badly wrong, ordered the ships back out to sea. They were far too late. Within months the sickness had moved through the ports of the Mediterranean basin, and within four years it had reached the Atlantic coast of Portugal, the cities of the North Sea, the cold valleys of Norway, and the trading towns of Rus. Between the autumn of 1347 and the end of 1353, this single epidemic killed somewhere between a third and three-fifths of every person alive in Europe.

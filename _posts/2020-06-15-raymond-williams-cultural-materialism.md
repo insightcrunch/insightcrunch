@@ -9,7 +9,7 @@ excerpt: "Cultural materialism dissolved the base and superstructure problem ins
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 181
 author: "chloe-martin"
-last_updated: 2020-06-15
+last_updated: 2026-11-21
 lang: en
 ---
 Raymond Williams was a Welsh critic who, writing from the 1950s onward, reformulated the oldest problem in Marxist cultural theory by refusing its terms. Cultural materialism, the position he eventually named, holds that writing, printing, publishing, and broadcasting are material production in their own right, with their own means, labour, and relations, rather than a decorative layer raised above an economic base that does the real work. Once culture is production, the question of how a superstructure relates to a base loses the shape that made it seem compulsory, and a problem that had organised decades of argument is not solved but dissolved. That single move, the dissolution, is the centre of his achievement, and this article examines it alongside the three analytical tools that practising critics actually carry away from his work: the structure of feeling, the triad of dominant, residual, and emergent, and his rebuilt account of determination, in which conditions bound a field and press upon the agents inside it.
