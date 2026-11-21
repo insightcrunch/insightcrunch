@@ -6,14 +6,16 @@ date: 2026-11-21
 categories: ["Industry"]
 tags: ["boeing", "boeing layoffs", "layoffs", "severance", "warn-act", "boeing restructuring"]
 excerpt: "This tracker records every Boeing layoff round in one place: the roles cut, the severance and notice machinery, the WARN filings, and what each round changed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 86
-author: "Insight Crunch Team"
+author: "robert-quinn"
 lang: en
 last_updated: 2026-11-21
 ---
 
 This page tracks every layoff round at The Boeing Company from 2022 onward in one place, and it is updated each time the company runs another one. It records what each round cut, where, and under what stated reasoning, alongside the standing machinery that governs how Boeing separations work: how notice is given under the WARN Act and the company's union contracts, how severance is calculated for represented and non-represented staff, what happens to health coverage, and how recall rights operate when production rises again. Event coverage ages quickly; the record below is built to stay accurate as the history grows.
+
+![Boeing Layoffs: Every Round, Severance and What Changed - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The cumulative picture is five tracked rounds in five years. The largest, announced in October 2024, was a company-wide programme to reduce the workforce by about 10 percent — roughly 17,000 positions, on the company's own figure — executed in waves of WARN notices through the following year. The newest, announced on November 9, 2026, cuts about 5 percent of the Commercial Airplanes division, an estimated 2,500 roles against the division's published headcount of 50,494, because the production increases those employees were hired to support have slipped into 2027. Between those two bookends sit a small space-programme reduction in February 2025 that the company largely mitigated before it landed, and two corporate-function rounds in 2022 and 2023 that removed about 2,150 finance and human resources positions between them, roughly a third of that work moving to an outside contractor in India. Summed across the five rounds, the tracked total is roughly 21,800 announced reductions, and the composition of that number matters as much as its size: Boeing sometimes publishes its own figure, sometimes only a percentage, and sometimes only a statutory filing, so this tracker labels every figure with the strength of its source, from WARN filings and company statements at the top to arithmetic estimates by news outlets below them.
 
