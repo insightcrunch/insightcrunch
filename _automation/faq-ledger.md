@@ -1629,3 +1629,27 @@ choose-franchise-franchisor | how-restaurant-franchising-works | How do franchis
 compani-it-refranchis | how-restaurant-franchising-works | What is refranchising and why do companies do it?
 franchis-outlet-pays-restaurant-staff | how-restaurant-franchising-works | Who pays restaurant staff in a franchised outlet?
 brand-close-franchis-grow-keep-restaurant-some-while | how-restaurant-franchising-works | Why do some franchised restaurants close while the brand keeps growing?
+
+## film-training-montage
+
+### how-training-montages-work
+film-montage-train | how-training-montages-work | What is a training montage in film?
+montag-music-sequence-throughout-train-use | how-training-montages-work | Why do training montages use music throughout the sequence?
+cinema-invent-montage-sequence | how-training-montages-work | Who invented the montage sequence in cinema?
+effect-kuleshov-matter-montag | how-training-montages-work | What is the Kuleshov effect and why does it matter for montages?
+long-montage-rocky-train | how-training-montages-work | How long is the training montage in Rocky?
+dur-montage-play-rocky-song-train-wrote | how-training-montages-work | What song plays during the Rocky training montage and who wrote it?
+film-museum-rocky-run-step-up | how-training-montages-work | Who filmed the run up the museum steps in Rocky?
+cost-earn-make-much-much-rocky | how-training-montages-work | How much did Rocky cost to make and how much did it earn?
+between-difference-montage-montage-sequence | how-training-montages-work | What is the difference between montage and a montage sequence?
+alone-at-hero-montage-start-train | how-training-montages-work | Why does the hero train alone at the start of a montage?
+cut-decide-editor-inside-montage | how-training-montages-work | How do editors decide where to cut inside a montage?
+earn-fake-feel-mak-montage-rather-than-train | how-training-montages-work | What makes a training montage feel earned rather than fake?
+copi-film-formula-montage-rocky-train | how-training-montages-work | Which films copied the Rocky training montage formula?
+change-film-later-montage-sequel-sport-train | how-training-montages-work | How did the training montage change in sequels and later sports films?
+acquisition-differ-montage-skill | how-training-montages-work | What is a skill acquisition montage and how does it differ?
+montag-parodi-so-train-well-work | how-training-montages-work | Why do parodies of training montages work so well?
+actually-athlet-misrepresent-montag-train-train | how-training-montages-work | Do training montages misrepresent how athletes actually train?
+advertis-has-influenc-montage-music-train-video | how-training-montages-work | How has the training montage influenced music videos and advertising?
+look-made-montage-viewer-well | how-training-montages-work | What should a viewer look for in a well made montage?
+audienc-montag-respond-still-train | how-training-montages-work | Why do audiences still respond to training montages?

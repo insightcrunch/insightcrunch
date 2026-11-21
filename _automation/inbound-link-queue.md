@@ -271,3 +271,7 @@
 ## nightjar-badge-and-burn-020
 - _posts/2026-11-19-nightjar-living-example-019.md - could carry: "The man who walked out of the infirmary within the hour walked into an Accord building the next day on the strength of a badge, and sat down on a landing, and waited to be found."
 - _posts/2026-11-15-nightjar-foundry-list-015.md - could carry: "The list had named the places that made the alloy and the one that sold it. It had not named the paper that paid the men who carried it, because nobody had thought to ask the list for paper."
+
+## how-training-montages-work
+- _posts/2017-09-15-rocky-underdog-myth-best-picture.md — could carry: "The myth reading explains what the ascent means; how the training montage itself is built, from Soviet cutting theory to the museum steps, is traced in the account of how training montages work."
+- _posts/2011-04-15-citizen-kane-breakfast-montage.md — could carry: "The breakfast sequence is one ancestor of a wider family of compression devices, set out side by side in the guide to how training montages work."
