@@ -1675,3 +1675,27 @@ actually-athlet-misrepresent-montag-train-train | how-training-montages-work | D
 advertis-has-influenc-montage-music-train-video | how-training-montages-work | How has the training montage influenced music videos and advertising?
 look-made-montage-viewer-well | how-training-montages-work | What should a viewer look for in a well made montage?
 audienc-montag-respond-still-train | how-training-montages-work | Why do audiences still respond to training montages?
+
+## law-service-process
+
+### how-service-of-process-works
+civil-lawsuit-proces-servic | how-service-of-process-works | What is service of process in a civil lawsuit?
+after-being-defendant-hav-long-respond-serv | how-service-of-process-works | How long does a defendant have to respond after being served?
+subpoena-summon | how-service-of-process-works | What is the difference between a summons and a subpoena?
+defendant-if-lawsuit-never-proc-serv | how-service-of-process-works | Can a lawsuit proceed if the defendant was never served?
+servic-substitut | how-service-of-process-works | What does substituted service mean?
+agent-be-corporation-must-register-serv-through | how-service-of-process-works | Why must a corporation be served through a registered agent?
+return-servic | how-service-of-process-works | What is a return of service?
+court-federal-proces-servic-stat | how-service-of-process-works | How does service of process differ between state and federal court?
+default-judgment-void | how-service-of-process-works | What makes a default judgment void?
+be-challeng-default-judgment-later-year | how-service-of-process-works | How can a default judgment be challenged years later?
+convention-hagu-servic | how-service-of-process-works | What is the Hague Service Convention?
+actual-cur-defectiv-knowledg-lawsuit-servic | how-service-of-process-works | Does actual knowledge of a lawsuit cure defective service?
+arm-long-statut | how-service-of-process-works | What is a long-arm statute?
+allow-court-paper-serv | how-service-of-process-works | Who is allowed to serve court papers?
+person-serv-wrong | how-service-of-process-works | What happens when the wrong person is served?
+agency-government-lawsuit-serv-with | how-service-of-process-works | How is a government agency served with a lawsuit?
+court-encourag-it-servic-waiver | how-service-of-process-works | What is waiver of service and why do courts encourage it?
+complianc-requir-rul-servic-som-stat-strict-with | how-service-of-process-works | Why do some states require strict compliance with service rules?
+it-jurisdiction-personal-relat-servic | how-service-of-process-works | What is personal jurisdiction and how does service relate to it?
+court-know-proper-servic-whether | how-service-of-process-works | How does a court know whether service was proper?

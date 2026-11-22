@@ -279,3 +279,6 @@
 ## nightjar-courier-not-maker-021
 - _posts/2026-11-20-nightjar-badge-and-burn-020.md - could carry: "The number he gave them named no person, but the paper under it named four addresses, and one of them was a pumping station under a hospital, and the choice of which one to walk into was left to her alone."
 - _posts/2026-11-19-nightjar-living-example-019.md - could carry: "The man whose bed had held eleven days of pain without fear had carried his crates further than the wharf: to a warehouse that only staged them, and to a plant room under a hospital where somebody patient had been waiting a year."
+## how-service-of-process-works
+- _posts/2026-10-03-how-deportation-united-states-works.md — could carry: "Removal proceedings likewise begin with formal service of the charging document; for the full mechanics of how service creates a court's power over a party, see how service of process works."
+- _posts/2026-11-16-how-chapter-7-liquidation-works.md — could carry: "A liquidation binds creditors through formal notice of the case and its deadlines; for why notice is the doorway to every judgment, see how service of process works."
