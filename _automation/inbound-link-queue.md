@@ -275,3 +275,7 @@
 ## how-training-montages-work
 - _posts/2017-09-15-rocky-underdog-myth-best-picture.md — could carry: "The myth reading explains what the ascent means; how the training montage itself is built, from Soviet cutting theory to the museum steps, is traced in the account of how training montages work."
 - _posts/2011-04-15-citizen-kane-breakfast-montage.md — could carry: "The breakfast sequence is one ancestor of a wider family of compression devices, set out side by side in the guide to how training montages work."
+
+## nightjar-courier-not-maker-021
+- _posts/2026-11-20-nightjar-badge-and-burn-020.md - could carry: "The number he gave them named no person, but the paper under it named four addresses, and one of them was a pumping station under a hospital, and the choice of which one to walk into was left to her alone."
+- _posts/2026-11-19-nightjar-living-example-019.md - could carry: "The man whose bed had held eleven days of pain without fear had carried his crates further than the wharf: to a warehouse that only staged them, and to a plant room under a hospital where somebody patient had been waiting a year."

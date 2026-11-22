@@ -1509,6 +1509,28 @@ paper-records-wharf-carrying-run-bonded | nightjar-badge-and-burn-020 | What pap
 interview-held-under-oversight-attendance-recorded | nightjar-badge-and-burn-020 | How is an interview held under oversight attendance recorded, and where is the resulting record kept?
 done-accord-badge-after-inquiry-into | nightjar-badge-and-burn-020 | What is done with an Accord badge after an inquiry into its custody has closed?
 
+### nightjar-courier-not-maker-021
+plant-systems-valtessan-hospital-organised-beneath | nightjar-courier-not-maker-021 | How are the plant systems of a Valtessan hospital organised beneath the wards they serve?
+office-choose-between-simultaneous-targets-only | nightjar-courier-not-maker-021 | How does the Office choose between simultaneous targets when only one field team can be sent?
+repacking-tell-investigator-about-part-site | nightjar-courier-not-maker-021 | What does repacking tell an investigator about the part a site played in a delivery chain?
+pressure-logging-kept-civilian-plant-room | nightjar-courier-not-maker-021 | How is pressure logging kept in a civilian plant room, and how are hand corrections entered on the log sheet?
+legal-duty-office-owe-inform-civilian | nightjar-courier-not-maker-021 | What legal duty does the Office owe to inform a civilian site when a danger is found beneath it?
+courier-engaged-under-requisition-every-instruction | nightjar-courier-not-maker-021 | How is a courier engaged under a requisition when every instruction reaches him on paper and no meeting is held?
+long-delivery-records-under-requisition-retained | nightjar-courier-not-maker-021 | How long are delivery records under a requisition retained, and who may order their destruction?
+staging-arranged-bonded-warehouse-goods-held | nightjar-courier-not-maker-021 | How is staging arranged in a bonded warehouse when goods are held only to be sent onward?
+service-access-night-roster-arranged-plant | nightjar-courier-not-maker-021 | How are service access and the night roster arranged for the plant spaces beneath a working hospital?
+weigher-find-room-visited-many-times | nightjar-courier-not-maker-021 | What does a Weigher find in a room visited many times across a long span, and what does decay do to the earliest visit?
+alloy-fittings-marked-fitting-stamp-differ | nightjar-courier-not-maker-021 | How are alloy fittings marked, and how does a fitting stamp differ from a crate stamp?
+office-handle-paid-civilian-intermediary-found | nightjar-courier-not-maker-021 | How does the Office handle a paid civilian intermediary found inside a civilian institution?
+case-closed-file-civilian-institution-has | nightjar-courier-not-maker-021 | How is a case closed on the file when a civilian institution has not been informed of what was found?
+custody-governs-component-removed-arrangement-after | nightjar-courier-not-maker-021 | What custody governs a component removed from an arrangement after the arrangement has been made inert?
+addresses-left-unvisited-after-target-choice | nightjar-courier-not-maker-021 | How are addresses left unvisited after a target choice recorded, and how are they kept under review?
+addresses-requisition-delivery-record-checked-before | nightjar-courier-not-maker-021 | How are the addresses on a requisition delivery record checked before a team is tasked to them?
+repeated-requests-civilian-engineer-about-his | nightjar-courier-not-maker-021 | How are repeated requests from a civilian engineer about his own plant readings filed by the liaison desk?
+unopened-state-sealed-delivery-tell-file | nightjar-courier-not-maker-021 | What does the unopened state of a sealed delivery tell the file about its intended destination?
+showing-may-core-fitting-arrangement-be | nightjar-courier-not-maker-021 | By what showing may the core fitting of an arrangement be removed, and who must authorise the removal?
+entered-file-civilian-employee-handed-his | nightjar-courier-not-maker-021 | What is entered on the file when a civilian employee is handed to his own institution for discipline?
+
 ## film-cinematography
 
 ### how-cinematography-works
