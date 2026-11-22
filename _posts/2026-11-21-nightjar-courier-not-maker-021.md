@@ -6,13 +6,15 @@ date: 2026-11-21
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "valtessa", "courier"]
 excerpt: "A courier has delivered crates to four addresses, and one of them is a pumping station under a hospital, and Mira Kovac has one team to cover them all."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-21
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Courier Who Had Never Met Any Maker At All - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The plant room smelled of hot iron and wet stone and the faint green smell of water that had stood too long in pipes, and it sounded, even before Pol Harrow reached the bottom of the service stair, of water moving somewhere always, a low travelling hush behind the walls and under the floor and through the lagged runs overhead, punctuated by the tick of cooling metal and the soft knock of a valve settling in its seat. The light was the light of caged bulbs, yellow and unkind, throwing hard shadows off the pipe stanchions and off the gauge board with its row of round faces, and the air pressed warm against his face and cool against his ankles where the draught came under the door from the stairwell, and his boots found the familiar give of the worn mat before the log desk and the familiar grit of scale and dust that no sweeping ever quite removed from the stone. He set his bag down in its place. He hung his coat on its hook. He did these things in their order because order was how a man kept a room like this honest, and because the room, if he was careless with it, would be careless with the whole building above it, with the wards and the kitchens and the laundries and the quiet rooms where people lay attached to warmth and water and could not get up and walk away from a failure in either.
 
