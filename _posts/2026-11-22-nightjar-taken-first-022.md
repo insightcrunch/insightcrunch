@@ -6,13 +6,15 @@ date: 2026-11-22
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "custody-transfer"]
 excerpt: "Mell leaves Accord custody on paper that checks out in every respect and dies within nine hours in a sealed bay that holds no weight at all for Mira to read."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 95
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-22
+lang: en
 ---
-
 ## Cold Open
+
+![Nightjar: The Man That Somebody Else Took First of All - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 Casta Pell arrived at the holding rooms while the canal outside was still dark and the lamps along the yard wall were burning with the thin, patient light they kept through the night hours, and she stood for a moment with her coat still fastened and her gloves in one hand, listening to the building settle around her, because a custody building before dawn had a particular quiet that she trusted more than any spoken assurance, the quiet of doors that had stayed shut and of a night clerk who had written his entries in order and of boots that had gone their rounds and come back again without hurry.
 
