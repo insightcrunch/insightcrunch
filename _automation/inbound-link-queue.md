@@ -282,3 +282,7 @@
 ## how-service-of-process-works
 - _posts/2026-10-03-how-deportation-united-states-works.md — could carry: "Removal proceedings likewise begin with formal service of the charging document; for the full mechanics of how service creates a court's power over a party, see how service of process works."
 - _posts/2026-11-16-how-chapter-7-liquidation-works.md — could carry: "A liquidation binds creditors through formal notice of the case and its deadlines; for why notice is the doorway to every judgment, see how service of process works."
+
+## nightjar-taken-first-022
+- _posts/2026-11-20-nightjar-badge-and-burn-020.md — could carry: "The confession he gave in that room was the last account of himself anyone took from him alive; for the transfer that took him out of custody afterwards, see the man somebody else took first."
+- _posts/2026-11-21-nightjar-courier-not-maker-021.md — could carry: "Of the addresses his crates had gone to, three were left unvisited on her judgement; for what became of the courier himself once oversight held his number, see the man somebody else took first."
