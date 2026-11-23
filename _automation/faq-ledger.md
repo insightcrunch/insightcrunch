@@ -1721,3 +1721,27 @@ court-encourag-it-servic-waiver | how-service-of-process-works | What is waiver 
 complianc-requir-rul-servic-som-stat-strict-with | how-service-of-process-works | Why do some states require strict compliance with service rules?
 it-jurisdiction-personal-relat-servic | how-service-of-process-works | What is personal jurisdiction and how does service relate to it?
 court-know-proper-servic-whether | how-service-of-process-works | How does a court know whether service was proper?
+
+## politics-quorum
+
+### how-congressional-quorum-works
+congres-languag-plain-quorum | how-congressional-quorum-works | What is a quorum in Congress in plain language?
+hous-many-member-quorum-representativ | how-congressional-quorum-works | How many members make a quorum in the House of Representatives?
+many-quorum-senat-senator-stat-unit | how-congressional-quorum-works | How many senators make a quorum in the United States Senate?
+constitution-majority-quorum-requir | how-congressional-quorum-works | Why does the Constitution require a majority for a quorum?
+if-not-present-quorum-taken-vot | how-congressional-quorum-works | What happens if a quorum is not present when a vote is taken?
+all-any-at-busines-congres-quorum-without | how-congressional-quorum-works | Can Congress do any business at all without a quorum?
+call-many-quorum-senat-so-use | how-congressional-quorum-works | What is a quorum call and why does the Senate use so many?
+absent-attend-forc-member-session | how-congressional-quorum-works | How are absent members forced to attend a session?
+disappear-it-quorum-stopp | how-congressional-quorum-works | What was the disappearing quorum and how was it stopped?
+chamber-count-member-quorum-silently-sit-toward | how-congressional-quorum-works | Do members who sit silently in the chamber count toward a quorum?
+committe-manag-quorum-whol-with | how-congressional-quorum-works | How does the Committee of the Whole manage with a quorum of 100?
+majority-quorum-vot | how-congressional-quorum-works | What is the difference between a quorum and a majority vote?
+chang-congres-number-quorum-vacanci | how-congressional-quorum-works | How do vacancies in Congress change the quorum number?
+as-by-hous-mail-proxy-sam-vot | how-congressional-quorum-works | Was proxy voting in the House the same as voting by mail?
+absent-as-court-member-proxy-treat-vot | how-congressional-quorum-works | Why did a court treat proxy votes as absent members?
+be-becaus-down-it-law-pass-quorum-struck-without | how-congressional-quorum-works | Can a law be struck down because it passed without a quorum?
+bill-enroll-her-it-matter-rul | how-congressional-quorum-works | What is the enrolled bill rule and why does it matter here?
+break-legislatur-quorum-stat-use-walkout | how-congressional-quorum-works | How do state legislatures use walkouts to break a quorum?
+below-countri-legislativ-majority-other-quorum-set-their | how-congressional-quorum-works | Which other countries set their legislative quorum below a majority?
+citizen-fight-quorum-real-tactical-tell-whether | how-congressional-quorum-works | How can a citizen tell whether a quorum fight is real or tactical?
