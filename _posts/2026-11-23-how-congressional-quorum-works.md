@@ -6,19 +6,19 @@ date: 2026-11-23
 categories: ["Industry"]
 tags: ["politics-and-government", "congressional-quorum", "us-congress", "constitutional-law", "proxy-voting", "legislative-procedure"]
 excerpt: "A congressional quorum works by counting a majority of members as present to do business, and the rules for counting decide which votes and laws stand firm."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-11-23
+lang: en
 ---
-
 ## Presence Is the First Vote a Legislature Takes
 
 A quorum rule looks like housekeeping and functions as a distribution of power, because whoever controls the counting of presence controls whether a majority can act at all and whether a minority can stop it by disappearing. That sentence describes a mechanism that operates before debate begins and before any motion receives a vote. A legislature may contain hundreds of elected members, command elaborate staffs, and hold clear majorities for a proposal, yet none of that capacity matters until enough members stand inside the chamber to satisfy a threshold fixed by constitutional text. Presence therefore precedes persuasion. The member who attends changes the arithmetic of action, and the member who stays away changes it just as surely, even without casting a ballot or speaking a word.
 
 The point becomes clearer when a quorum is compared with a voting majority. A voting majority decides between competing outcomes among members who participate. A quorum decides whether a decision may happen at all. The two thresholds answer different questions and protect different values. The first protects the side with more support. The second protects the institution against action by a fragment too small to plausibly speak for the whole body. When those thresholds combine, a proposal needs both a room full enough to act and a coalition large enough to prevail. A failure at either stage defeats it, although the political meaning of each failure differs sharply for observers, for leaders, and for opponents searching for leverage.
 
-![Members of a legislative chamber taking their seats as the clerk counts attendance for a quorum call - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Members of a legislative chamber taking their seats as the clerk counts attendance for a quorum call - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 That leverage explains why quorum disputes recur across centuries of legislative practice. A minority that expects to lose a vote may instead challenge the conditions for holding the vote. Walking out, hiding from officers sent to retrieve members, or refusing to answer a roll call all convert absence into a parliamentary weapon. Supporters of such tactics describe them as a defense against haste or overreach, a way to force negotiation when ordinary voting offers no path. Opponents describe them as obstruction that lets fewer than half the members veto the work of the rest. Both readings attach to the same act, and the rules governing compulsion, counting, and recognition determine which reading prevails in a given chamber on a given day.
 
