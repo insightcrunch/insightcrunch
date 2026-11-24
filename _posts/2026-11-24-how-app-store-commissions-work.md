@@ -6,17 +6,17 @@ date: 2026-11-24
 categories: ["Industry"]
 tags: ["business-and-industry", "app-store-commission", "mobile-apps", "digital-distribution", "platform-economics", "software-business"]
 excerpt: "An app store commission works by taking a share of every digital sale before the developer is paid, and the size of that share decides who profits most."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 81
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2026-11-24
+lang: en
 ---
-
 ## The Cut Taken Before a Developer Is Paid
 
 An app store commission looks simple on a receipt, yet the thirty percent figure hides a bundle that explains why the charge survives long after cheaper payment tools appear. A store joins distribution, payment handling, trust screening, and access to a large installed base of devices into one toll, and a developer cannot purchase those parts separately inside the same storefront. When Apple opened the App Store in 2008, a developer kept 70 percent of the price and the store kept 30 percent, and that single deduction arrived before any tax bill, salary, or server invoice faced the maker of the software. The order of payment matters because the commission is not a fee added after success. The commission is the gate through which every paid download and every in-app purchase must pass, so the store shares in gross revenue rather than in profit after costs.
 
-![A smartphone screen showing a grid of application icons beside a price tag - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A smartphone screen showing a grid of application icons beside a price tag - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 That distinction shapes business decisions from the first sketch of a product. A subscription service with heavy content licensing costs feels a 30 percent deduction very differently from a small game built by two people with almost no marginal expense. Both pay the same headline rate on the same kind of transaction, even though one business surrenders a slice of revenue it barely marks up while the other surrenders a slice of revenue that is nearly all margin. Pricing follows from that arithmetic. Developers set a price point that still works after the deduction, choose which features sit behind a paywall, and decide whether a free version can carry enough users toward paid tiers to cover the toll on the minority who pay. The commission therefore influences design, not only accounting.
 
