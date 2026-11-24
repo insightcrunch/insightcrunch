@@ -288,3 +288,7 @@
 - _posts/2026-11-21-nightjar-courier-not-maker-021.md — could carry: "Of the addresses his crates had gone to, three were left unvisited on her judgement; for what became of the courier himself once oversight held his number, see the man somebody else took first."
 
 2026-11-23 | how-congressional-quorum-works | suggested inbound: 2022-02-01-how-a-bill-becomes-law-in-practice could link with a sentence noting that every stage of the practical path presumes a counted quorum in the room; 2022-02-15-filibuster-and-cloture-explained could link with a sentence noting that Senate debate thresholds sit on top of the older presence threshold that a quorum call tests
+
+## nightjar-paper-origin-023
+- _posts/2026-11-15-nightjar-foundry-list-015.md — could carry: "The undersecretary whose name ended that inquiry signed paper for nine years without reading it; for the afternoon the paper finally read back, see the paper origin of the shipment."
+- _posts/2026-11-22-nightjar-taken-first-022.md — could carry: "The order that moved Mell was correct in every respect a driver could test; for paper of the same country, numbered ahead of the book it claimed, see the paper origin of the shipment."
