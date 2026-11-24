@@ -6,15 +6,15 @@ date: 2026-11-23
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "dravin", "certificate-book"]
 excerpt: "A forged provenance walks stamped alloy into Dravin as ordinary stock, and the signature on the certificate belongs to a man who may not have written it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 94
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2026-11-23
+lang: en
 ---
-
 ## Cold Open
 
-![Nightjar: The Paper Origin of a Dravin Alloy Shipment - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nightjar: The Paper Origin of a Dravin Alloy Shipment - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The office is on the third floor of the ministry annex in Dravin, and it faces a courtyard that never quite dries. Ilyan Court sits at a desk that is too wide for the room, with a tray of certificates on his left, a bound certificate book open on his right, and a window behind him that lets in a thin, grey light through glass that has not been cleaned since the spring. The light falls across the desk in a pale rectangle and makes the dust visible whenever a page is lifted. Halden Rusk comes and goes through the door without knocking in the way he has learned to do, carrying papers in both hands, setting a fresh stack in the tray, taking the finished stack away, and saying nothing unless a seal is missing or a name has been spelled in two different ways on the same form. This is the routine of nine years of being paid to be useful, and it has a shape that Ilyan can follow without thinking about it, which is most of the reason it works.
 
