@@ -1768,3 +1768,27 @@ bill-enroll-her-it-matter-rul | how-congressional-quorum-works | What is the enr
 break-legislatur-quorum-stat-use-walkout | how-congressional-quorum-works | How do state legislatures use walkouts to break a quorum?
 below-countri-legislativ-majority-other-quorum-set-their | how-congressional-quorum-works | Which other countries set their legislative quorum below a majority?
 citizen-fight-quorum-real-tactical-tell-whether | how-congressional-quorum-works | How can a citizen tell whether a quorum fight is real or tactical?
+
+## business-app-stores
+
+### how-app-store-commissions-work
+app-commission-stor | how-app-store-commissions-work | What is an app store commission?
+becom-percent-rat-standard-thirty | how-app-store-commissions-work | Why did thirty percent become the standard rate?
+developer-dollar-from-keep-sal-ten | how-app-store-commissions-work | What does a developer keep from a ten dollar sale?
+actually-commission-pay-shar | how-app-store-commissions-work | What does the commission share actually pay for?
+busines-rat-small-work | how-app-store-commissions-work | How does the small business rate work?
+chang-commission-rat-subscription | how-app-store-commissions-work | How do subscriptions change the commission rate?
+commission-good-pay-physical-real-servic-world | how-app-store-commissions-work | Do physical goods and real world services pay the commission?
+app-commission-fre-pay | how-app-store-commissions-work | Do free apps pay a commission?
+compar-mobil-steam-stor-with | how-app-store-commissions-work | How does Steam compare with the mobile stores?
+compar-consol-mobil-stor-with | how-app-store-commissions-work | How do console stores compare with mobile stores?
+app-debat-steer-stor | how-app-store-commissions-work | What does steering mean in the app store debate?
+against-appl-cas-decid-epic-gam | how-app-store-commissions-work | What did the Epic Games case against Apple decide?
+against-cas-decid-epic-gam-googl | how-app-store-commissions-work | What did the Epic Games case against Google decide?
+act-app-chang-digital-market-stor | how-app-store-commissions-work | What did the Digital Markets Act change for app stores?
+developer-instead-sell-stor-web | how-app-store-commissions-work | Can a developer sell on the web instead of in a store?
+affect-commission-refund | how-app-store-commissions-work | How do refunds affect the commission?
+add-interact-shar-tax-valu-with | how-app-store-commissions-work | How do taxes and value added tax interact with the share?
+commission-converg-rat-rival-similar-stor | how-app-store-commissions-work | Why did rival stores converge on similar commission rates?
+alon-charg-compar-payment-processor-stor-with | how-app-store-commissions-work | What does a payment processor alone charge compared with a store?
+appli-given-reader-sal-shar-tell | how-app-store-commissions-work | How can a reader tell what share applies to a given sale?
