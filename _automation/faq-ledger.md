@@ -1814,3 +1814,27 @@ add-interact-shar-tax-valu-with | how-app-store-commissions-work | How do taxes 
 commission-converg-rat-rival-similar-stor | how-app-store-commissions-work | Why did rival stores converge on similar commission rates?
 alon-charg-compar-payment-processor-stor-with | how-app-store-commissions-work | What does a payment processor alone charge compared with a store?
 appli-given-reader-sal-shar-tell | how-app-store-commissions-work | How can a reader tell what share applies to a given sale?
+
+## law-public-trust-doctrine
+
+### how-public-trust-doctrine-works
+doctrine-public-simple-term-trust | how-public-trust-doctrine-works | What is the public trust doctrine in simple terms?
+cover-doctrine-land-public-trust-water-which | how-public-trust-doctrine-works | Which lands and waters does the public trust doctrine cover?
+beach-below-high-line-own-tide | how-public-trust-doctrine-works | Who owns the beach below the high tide line?
+come-doctrine-law-public-roman-trust | how-public-trust-doctrine-works | Why does the public trust doctrine come from Roman law?
+central-decide-illinoi-railroad-v | how-public-trust-doctrine-works | What did Illinois Central Railroad v. Illinois decide in 1892?
+developer-private-sell-state-tideland | how-public-trust-doctrine-works | Can a state sell its tidelands to a private developer?
+between-difference-jus-privatum-publicum | how-public-trust-doctrine-works | What is the difference between jus publicum and jus privatum?
+doctrine-equal-foot-public-relate-trust | how-public-trust-doctrine-works | How does the equal footing doctrine relate to the public trust?
+acces-beach-jersey-matthew-new-test | how-public-trust-doctrine-works | What is the Matthews test for beach access in New Jersey?
+doctrine-fish-navigation-only-protect-public-recreation-trust | how-public-trust-doctrine-works | Does the public trust doctrine protect recreation or only navigation and fishing?
+determin-high-line-mean-water | how-public-trust-doctrine-works | How is the mean high water line determined?
+fill-happen-land-public-right-trust | how-public-trust-doctrine-works | What happens to public trust rights when land is filled?
+apply-doctrine-every-public-state-trust | how-public-trust-doctrine-works | Does the public trust doctrine apply in every state?
+change-decision-doctrine-lake-mono-public-trust | how-public-trust-doctrine-works | How did the Mono Lake decision change the public trust doctrine?
+diversion-doctrine-public-stop-trust-water | how-public-trust-doctrine-works | Can the public trust doctrine stop a water diversion?
+claim-private-property-public-tak-trust | how-public-trust-doctrine-works | Is a public trust claim a taking of private property?
+differ-navigational-public-servitude-trust | how-public-trust-doctrine-works | What is the navigational servitude and how does it differ from the public trust?
+bring-lawsuit-public-trust | how-public-trust-doctrine-works | Who can bring a public trust lawsuit?
+breach-court-order-public-remedi-trust | how-public-trust-doctrine-works | What remedies can a court order for a breach of the public trust?
+acces-change-doctrine-jersey-law-like-new-public-statute | how-public-trust-doctrine-works | How does a statute like the New Jersey Public Access Law change the doctrine?
