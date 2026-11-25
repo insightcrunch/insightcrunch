@@ -6,15 +6,15 @@ date: 2026-11-24
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "valtessa", "requisition-form"]
 excerpt: "A Valtessan inspector who signed the paper that walked alloy into Dravin asks to come in, and the form she photographed is an Accord requisition form."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 104
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-24
+lang: en
 ---
-
 ## Cold Open
 
-![Nightjar: A Lawful Purchase With the Accord's Own Paper - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nightjar: A Lawful Purchase With the Accord's Own Paper - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 The flat above the harbour in Valtessa took the morning light in narrow bands through the shutters, and the bands lay across the kitchen table where Juno Sarte had cleared a space the size of a ledger. Outside, gulls cried over the water and a ferry sounded once as it left the quay, and below her window the port woke in its ordinary order, ropes slapping against hulls, carts rolling over stone, men calling distances in the flat voices they used before the heat rose. The air smelled of salt and hot iron and the coffee she had made and not drunk. On the table the form waited in a shallow stack, its pages squared at the corners, and beside it sat the camera she had bought that morning from a shop two streets inland, where the clerk had wrapped it in brown paper and asked no question she could not answer with a shrug about holiday pictures.
 
