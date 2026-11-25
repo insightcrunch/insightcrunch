@@ -6,19 +6,19 @@ date: 2026-11-25
 categories: ["Industry"]
 tags: ["law-and-courts", "public-trust-doctrine", "tidelands", "beach-access", "property-law", "environmental-law"]
 excerpt: "The public trust doctrine works by holding tidelands and navigable waters for public use, limiting what a state may sell, block or give away for private gain."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 84
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2026-11-25
+lang: en
 ---
-
 ## The Shore Held in Common
 
 The public trust doctrine works by treating certain lands under water as held by a state in trust for the public, rather than as ordinary state property that officials may sell or fence at will. Under Illinois Central Railroad Co. v. Illinois, 146 U.S. 387 (1892), a state holds tidelands and the beds of navigable waters for navigation, commerce and fishing, and a transfer that surrenders those uses to private control without serving them fails. The doctrine works, in short, less as a public ownership slogan than as a limit on the trustee. A state holds tidelands for navigation, commerce, fishing and recreation, and a grant or permit that destroys those uses without serving them fails, whatever the paperwork supporting the transfer says.
 
 That limit explains why disputes over a beach path, a marina lease or a filled marsh reach courts as questions about power rather than questions about preference. A legislature may manage trust land, and a state agency may issue permits for piers, ports and restoration work, but neither acts as an unrestricted owner. In National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983), the Supreme Court of California described the trust as an affirmative duty to protect public uses whenever feasible. The claimant in a trust case therefore asks a distinctive question. The question is not whether a private owner behaved badly, and not whether a project seems useful in general terms. The question is whether the state, in granting, leasing, blocking or permitting, stayed inside the purposes for which title was taken at statehood.
 
-![A tidal shoreline at low water with wet sand and a navigation channel - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A tidal shoreline at low water with wet sand and a navigation channel - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The doctrine also explains why a deed alone rarely settles a shore dispute. A deed records a transfer between parties, but trust analysis asks whether the transferor had power to convey free of the trust in the first place. In Arnold v. Mundy, 6 N.J.L. 1 (1821), the Supreme Court of New Jersey treated a legislative grant of oyster beds as ineffective against the common right of fishery, even though the grant carried formal legislative authority. Form mattered less than capacity. A legislature that holds land as trustee cannot enlarge its own power by reciting ownership in a statute, just as a private trustee cannot defeat beneficiaries by drafting a generous deed to a purchaser. Courts therefore read old grants narrowly, ask what public use the grant served, and measure the remaining public interest after the transfer.
 
