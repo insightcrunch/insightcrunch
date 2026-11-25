@@ -384,6 +384,12 @@ rewritten.
 023 Ilyan Court, undersecretary in the Dravin ministry and paid for nine years under the protected foundry arrangement, signed the alloy certificates without reading them and paused over one on the signing afternoon. He is charged by his own ministry for the nine years of payment and is not charged with the forgery, because he did not do it. The provenance of the consignment is broken on the numbering, its classification is voided, and the alloy is held under seal.
 023 The forgery that walks the alloy into Dravin sits upstream of the ministry, with whoever prints or supplies certificate numbers ahead of the book. The certificate book's weight holds two hands across its life, one unhurried and habitual and one in a hurry on a small number of occasions, and weight gives no face to either. Court's runner Halden Rusk acted on a standing instruction, old and unexplained, when he tried to take the book to the brazier during the interview, and Court held the book down to keep it in the room.
 
+024 Juno Sarte, inspector of the Valtessan port service, has been extracted from Valtessa and brought in to the Accord. She sold her flat six weeks before she named a meeting point, completing at a fair price and settling her affairs in daylight, and she photographed the upstream form twice with a camera bought that morning, developing the first set and leaving the second set in the camera.
+
+024 The form that made the Dravin alloy purchase lawful on paper is an Accord requisition form, not a Dravin one. Its number groups in fours, which matches no Dravin or Valtessan series, and its five signatures resolve to the services the document table records. On paper alone the series traces inside the Accord as far as the issuing office and no further.
+
+024 Valtessa has suspended its inspection cooperation with the Accord for a year as the price of Sarte's extraction, handled quietly with no announcement, the cooperation simply ceasing to appear in schedules. Sarte's own service tells its people she was reassigned north at short notice, and tells the harbour that NIGHTJAR carried her out over one shoulder. She walked beside Mira Kovac, slowly, talking about nothing, and at the end of the week she handed over the camera with the second set of photographs still inside it, unopened.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

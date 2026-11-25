@@ -294,3 +294,7 @@
 - _posts/2026-11-22-nightjar-taken-first-022.md — could carry: "The order that moved Mell was correct in every respect a driver could test; for paper of the same country, numbered ahead of the book it claimed, see the paper origin of the shipment."
 
 2026-11-24 | how-app-store-commissions-work | suggested inbound: 2026-10-04-how-contactless-payments-work could link with a sentence noting that a card payment at a terminal and a payment inside an app both divide one sale among the parties that made it possible; 2026-11-19-how-optical-discs-work could link with a sentence noting that download stores replaced the pressed disc and its retail margin with a percentage taken at the moment of sale
+
+## nightjar-lawful-purchase-024
+- _posts/2026-11-11-nightjar-seal-that-wasnt-011.md — could carry: "The inspector who commanded the Valtessan side of that rollup signed one more document afterwards; for the morning she photographed it twice and asked to come in, see the lawful purchase made with the Accord's own paper."
+- _posts/2026-11-23-nightjar-paper-origin-023.md — could carry: "The certificates signed that afternoon walked alloy into Dravin on paper nobody had traced to its source; for the inspector who carried the form out and the office the paper came from, see the lawful purchase made with the Accord's own paper."

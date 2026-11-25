@@ -1067,6 +1067,28 @@ classification-consignment-dispute-held-run-stor | nightjar-paper-origin-023 | H
 charg-family-member-official-owe-protection-state | nightjar-paper-origin-023 | What protection does a member state owe the family of a charged official?
 move-office-one-price-shot-spent | nightjar-paper-origin-023 | How does the Office price a one shot move before it is spent?
 
+### nightjar-lawful-purchase-024
+accord-commit-form-one-rais-raise-requisition | nightjar-lawful-purchase-024 | Who may raise an Accord requisition form, and what does raising one commit the Accord to?
+accord-cooperation-cover-inspection-ordinary-tim-valtessan | nightjar-lawful-purchase-024 | What does Valtessan inspection cooperation with the Accord cover in ordinary times?
+attach-black-cost-extraction-harbour-member-political-state | nightjar-lawful-purchase-024 | What political cost attaches to a black extraction from a member state harbour?
+assessment-early-flat-prospective-sale-signal-source | nightjar-lawful-purchase-024 | What does the early sale of a flat signal in an assessment of a prospective source?
+differently-duplicate-evidence-made-photographic-second-set-treat | nightjar-lawful-purchase-024 | Why is duplicate photographic evidence made, and how is a second set treated differently?
+harbour-level-organiz-port-service-valtessan | nightjar-lawful-purchase-024 | How is the Valtessan port service organized at harbour level?
+arrival-departure-govern-procedure-quay-valtessan-vessel' | nightjar-lawful-purchase-024 | What procedure governs a vessel's arrival and departure at a Valtessan quay?
+boat-harbour-keeper-licence-permit-them-valtessa | nightjar-lawful-purchase-024 | Who are boat keepers in Valtessa, and what does a harbour licence permit them to do?
+com-defection-distinguish-office | nightjar-lawful-purchase-024 | How does the Office distinguish defection from coming in?
+consignment-duti-inspector-port-valtessan | nightjar-lawful-purchase-024 | What are the duties of a Valtessan port inspector on a consignment?
+accord-hold-inside-member-stand-state-such-valtessa | nightjar-lawful-purchase-024 | What standing does the Accord hold inside a member state such as Valtessa?
+be-chang-meet-must-point-protocol-report | nightjar-lawful-purchase-024 | What is meeting point protocol, and why must changes be reported?
+brought-member-offer-office-person-protection-service-term | nightjar-lawful-purchase-024 | What protection terms does the Office offer a person brought in from a member service?
+brought-happen-inspector-pension-record-service | nightjar-lawful-purchase-024 | What happens to the pension and service record of an inspector who is brought in?
+harbour-kept-record-valtessa-watch-watcher | nightjar-lawful-purchase-024 | How are harbour watches kept in Valtessa, and what do watchers record?
+accord-chain-inspection-move-paper-rais-requisition-through | nightjar-lawful-purchase-024 | How does paper move through the Accord requisition chain from raising to inspection?
+establish-evidence-form-identifi-seri | nightjar-lawful-purchase-024 | How is a form series identified, and what can series evidence establish?
+custody-evidence-held-office-once-photographic-reach | nightjar-lawful-purchase-024 | How is photographic evidence held in custody once it reaches the Office?
+accord-agreement-cooperation-hold-inspection-right-under-valtessa | nightjar-lawful-purchase-024 | What inspection rights does the Accord hold in Valtessa under the cooperation agreement?
+accord-between-cooperation-inspection-member-record-state-suspension | nightjar-lawful-purchase-024 | How is a suspension of inspection cooperation recorded between the Accord and a member state?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
