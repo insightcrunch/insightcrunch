@@ -9,7 +9,7 @@ excerpt: "Managing your College Board account: creating it, linking your school 
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "hannah-moore"
-last_updated: 2026-06-09
+last_updated: 2026-11-25
 lang: en
 ---
 ![SAT College Board account setup, score reports, and the QAS guide - Insight Crunch](/assets/images/blog/blog-19.webp)

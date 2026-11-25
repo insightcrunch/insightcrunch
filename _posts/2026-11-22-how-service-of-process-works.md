@@ -9,7 +9,7 @@ excerpt: "Service of process works by delivering the citation and petition throu
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 82
 author: "robert-quinn"
-last_updated: 2026-11-22
+last_updated: 2026-11-25
 lang: en
 ---
 ## Notice Is the Doorway to the Courtroom

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-21T14:26:47Z",
+  "generated": "2026-11-25T16:58:39Z",
   "threshold": 50,
-  "totalPosts": 5926,
-  "flaggedPosts": 3428,
+  "totalPosts": 5937,
+  "flaggedPosts": 3434,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "school",
@@ -377062,9 +377062,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7781,
-      "topWord": "november",
-      "topCount": 122,
+      "wordCount": 8363,
+      "topWord": "austin",
+      "topCount": 110,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377080,9 +377080,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8737,
+      "wordCount": 8909,
       "topWord": "dating",
-      "topCount": 135,
+      "topCount": 127,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377098,9 +377098,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8546,
-      "topWord": "dating",
-      "topCount": 145,
+      "wordCount": 8494,
+      "topWord": "dallas",
+      "topCount": 154,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377116,9 +377116,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8302,
-      "topWord": "room",
-      "topCount": 142,
+      "wordCount": 8793,
+      "topWord": "singles",
+      "topCount": 119,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377134,9 +377134,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8333,
-      "topWord": "night",
-      "topCount": 153,
+      "wordCount": 8469,
+      "topWord": "singles",
+      "topCount": 138,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377152,9 +377152,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8304,
-      "topWord": "november",
-      "topCount": 182,
+      "wordCount": 8403,
+      "topWord": "dating",
+      "topCount": 176,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -377163,94 +377163,90 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-in-america.md",
       "flaggedWords": [
         {
-          "word": "november",
-          "count": 182
-        },
-        {
           "word": "dating",
-          "count": 179
+          "count": 176
         }
       ],
       "top20": [
         {
-          "word": "november",
-          "count": 182
-        },
-        {
           "word": "dating",
-          "count": 179
+          "count": 176
         },
         {
           "word": "singles",
-          "count": 133
+          "count": 132
         },
         {
           "word": "room",
-          "count": 125
-        },
-        {
-          "word": "night",
-          "count": 124
+          "count": 113
         },
         {
           "word": "rooms",
-          "count": 113
+          "count": 112
+        },
+        {
+          "word": "night",
+          "count": 112
         },
         {
           "word": "city",
           "count": 101
         },
         {
+          "word": "november",
+          "count": 99
+        },
+        {
           "word": "speed",
-          "count": 101
+          "count": 99
         },
         {
           "word": "events",
-          "count": 86
+          "count": 89
         },
         {
-          "word": "fortnight",
-          "count": 80
+          "word": "december",
+          "count": 81
         },
         {
           "word": "ages",
+          "count": 78
+        },
+        {
+          "word": "fortnight",
           "count": 72
+        },
+        {
+          "word": "thanksgiving",
+          "count": 66
         },
         {
           "word": "guide",
           "count": 64
         },
         {
-          "word": "chicago",
-          "count": 57
+          "word": "dedicated",
+          "count": 62
         },
         {
           "word": "miami",
-          "count": 56
+          "count": 54
         },
         {
-          "word": "dedicated",
-          "count": 56
-        },
-        {
-          "word": "houston",
-          "count": 49
-        },
-        {
-          "word": "austin",
-          "count": 49
+          "word": "chicago",
+          "count": 53
         },
         {
           "word": "san",
-          "count": 48
+          "count": 52
         },
         {
           "word": "francisco",
-          "count": 48
+          "count": 52
         },
         {
-          "word": "thanksgiving",
-          "count": 48
+          "word": "denver",
+          "count": 46
         }
       ]
     },
@@ -377262,9 +377258,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8618,
+      "wordCount": 8761,
       "topWord": "vegas",
-      "topCount": 128,
+      "topCount": 134,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377280,9 +377276,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7986,
+      "wordCount": 8311,
       "topWord": "event",
-      "topCount": 153,
+      "topCount": 156,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377298,103 +377294,15 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 9588,
+      "wordCount": 9301,
       "topWord": "miami",
-      "topCount": 205,
-      "flagged": true,
+      "topCount": 184,
+      "flagged": false,
       "suppressed": false,
       "suppressReason": "",
       "suppressSnapshot": null,
       "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-miami.md",
-      "flaggedWords": [
-        {
-          "word": "miami",
-          "count": 205
-        }
-      ],
-      "top20": [
-        {
-          "word": "miami",
-          "count": 205
-        },
-        {
-          "word": "november",
-          "count": 119
-        },
-        {
-          "word": "singles",
-          "count": 118
-        },
-        {
-          "word": "night",
-          "count": 97
-        },
-        {
-          "word": "fortnight",
-          "count": 90
-        },
-        {
-          "word": "festival",
-          "count": 87
-        },
-        {
-          "word": "dating",
-          "count": 86
-        },
-        {
-          "word": "thanksgiving",
-          "count": 78
-        },
-        {
-          "word": "sunday",
-          "count": 69
-        },
-        {
-          "word": "event",
-          "count": 69
-        },
-        {
-          "word": "free",
-          "count": 68
-        },
-        {
-          "word": "room",
-          "count": 64
-        },
-        {
-          "word": "city",
-          "count": 63
-        },
-        {
-          "word": "beach",
-          "count": 61
-        },
-        {
-          "word": "events",
-          "count": 57
-        },
-        {
-          "word": "little",
-          "count": 54
-        },
-        {
-          "word": "week",
-          "count": 53
-        },
-        {
-          "word": "club",
-          "count": 52
-        },
-        {
-          "word": "pm",
-          "count": 50
-        },
-        {
-          "word": "brickell",
-          "count": 49
-        }
-      ]
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-10-14-best-singles-events-miami.md"
     },
     {
       "filename": "2026-10-14-best-singles-events-new-york-city.md",
@@ -377404,9 +377312,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7877,
-      "topWord": "dating",
-      "topCount": 131,
+      "wordCount": 7979,
+      "topWord": "room",
+      "topCount": 141,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -377422,9 +377330,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7874,
+      "wordCount": 8072,
       "topWord": "dating",
-      "topCount": 100,
+      "topCount": 104,
       "flagged": false,
       "suppressed": false,
       "suppressReason": "",
@@ -381223,6 +381131,112 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-20-nightjar-badge-and-burn-020.md"
     },
     {
+      "filename": "2026-11-21-boeing-layoffs.md",
+      "slug": "boeing-layoffs",
+      "title": "Boeing Layoffs: Every Round, Severance and What Changed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9668,
+      "topWord": "company",
+      "topCount": 252,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-21-boeing-layoffs.md",
+      "flaggedWords": [
+        {
+          "word": "company",
+          "count": 252
+        }
+      ],
+      "top20": [
+        {
+          "word": "company",
+          "count": 252
+        },
+        {
+          "word": "boeing",
+          "count": 193
+        },
+        {
+          "word": "round",
+          "count": 174
+        },
+        {
+          "word": "programme",
+          "count": 158
+        },
+        {
+          "word": "announced",
+          "count": 83
+        },
+        {
+          "word": "filings",
+          "count": 81
+        },
+        {
+          "word": "warn",
+          "count": 79
+        },
+        {
+          "word": "tracker",
+          "count": 77
+        },
+        {
+          "word": "ledger",
+          "count": 75
+        },
+        {
+          "word": "november",
+          "count": 70
+        },
+        {
+          "word": "workforce",
+          "count": 67
+        },
+        {
+          "word": "division",
+          "count": 65
+        },
+        {
+          "word": "notices",
+          "count": 61
+        },
+        {
+          "word": "layoff",
+          "count": 59
+        },
+        {
+          "word": "rounds",
+          "count": 58
+        },
+        {
+          "word": "production",
+          "count": 57
+        },
+        {
+          "word": "employees",
+          "count": 55
+        },
+        {
+          "word": "reduction",
+          "count": 55
+        },
+        {
+          "word": "figure",
+          "count": 52
+        },
+        {
+          "word": "finance",
+          "count": 48
+        }
+      ]
+    },
+    {
       "filename": "2026-11-21-buffer-states-and-great-power-war.md",
       "slug": "buffer-states-and-great-power-war",
       "title": "Buffer States and Great-Power War",
@@ -381327,6 +381341,276 @@
           "count": 29
         }
       ]
+    },
+    {
+      "filename": "2026-11-21-how-training-montages-work.md",
+      "slug": "how-training-montages-work",
+      "title": "How Training Montages Work: Time, Music and the Cut",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9724,
+      "topWord": "montage",
+      "topCount": 144,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-21-how-training-montages-work.md"
+    },
+    {
+      "filename": "2026-11-21-nightjar-courier-not-maker-021.md",
+      "slug": "nightjar-courier-not-maker-021",
+      "title": "Nightjar: The Courier Who Had Never Met Any Maker At All",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8276,
+      "topWord": "room",
+      "topCount": 97,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-21-nightjar-courier-not-maker-021.md"
+    },
+    {
+      "filename": "2026-11-21-pepsico-layoffs.md",
+      "slug": "pepsico-layoffs",
+      "title": "PepsiCo Layoffs: Every Round, Severance and What Changed",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10016,
+      "topWord": "company",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-21-pepsico-layoffs.md",
+      "flaggedWords": [
+        {
+          "word": "company",
+          "count": 215
+        }
+      ],
+      "top20": [
+        {
+          "word": "company",
+          "count": 215
+        },
+        {
+          "word": "round",
+          "count": 156
+        },
+        {
+          "word": "ledger",
+          "count": 130
+        },
+        {
+          "word": "site",
+          "count": 124
+        },
+        {
+          "word": "pepsico",
+          "count": 122
+        },
+        {
+          "word": "plant",
+          "count": 110
+        },
+        {
+          "word": "closure",
+          "count": 102
+        },
+        {
+          "word": "warn",
+          "count": 100
+        },
+        {
+          "word": "notice",
+          "count": 86
+        },
+        {
+          "word": "workforce",
+          "count": 85
+        },
+        {
+          "word": "filing",
+          "count": 80
+        },
+        {
+          "word": "tracker",
+          "count": 78
+        },
+        {
+          "word": "reported",
+          "count": 74
+        },
+        {
+          "word": "rounds",
+          "count": 73
+        },
+        {
+          "word": "record",
+          "count": 63
+        },
+        {
+          "word": "employees",
+          "count": 60
+        },
+        {
+          "word": "roles",
+          "count": 59
+        },
+        {
+          "word": "filings",
+          "count": 53
+        },
+        {
+          "word": "north",
+          "count": 53
+        },
+        {
+          "word": "reporting",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-22-how-service-of-process-works.md",
+      "slug": "how-service-of-process-works",
+      "title": "How Service of Process Works: Notice Before Judgment",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9619,
+      "topWord": "service",
+      "topCount": 285,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-22-how-service-of-process-works.md",
+      "flaggedWords": [
+        {
+          "word": "service",
+          "count": 285
+        },
+        {
+          "word": "defendant",
+          "count": 221
+        }
+      ],
+      "top20": [
+        {
+          "word": "service",
+          "count": 285
+        },
+        {
+          "word": "defendant",
+          "count": 221
+        },
+        {
+          "word": "court",
+          "count": 160
+        },
+        {
+          "word": "judgment",
+          "count": 118
+        },
+        {
+          "word": "rule",
+          "count": 110
+        },
+        {
+          "word": "delivery",
+          "count": 100
+        },
+        {
+          "word": "return",
+          "count": 65
+        },
+        {
+          "word": "person",
+          "count": 64
+        },
+        {
+          "word": "notice",
+          "count": 62
+        },
+        {
+          "word": "papers",
+          "count": 62
+        },
+        {
+          "word": "plaintiff",
+          "count": 62
+        },
+        {
+          "word": "method",
+          "count": 61
+        },
+        {
+          "word": "record",
+          "count": 58
+        },
+        {
+          "word": "default",
+          "count": 55
+        },
+        {
+          "word": "federal",
+          "count": 54
+        },
+        {
+          "word": "law",
+          "count": 53
+        },
+        {
+          "word": "courts",
+          "count": 52
+        },
+        {
+          "word": "served",
+          "count": 50
+        },
+        {
+          "word": "process",
+          "count": 48
+        },
+        {
+          "word": "server",
+          "count": 46
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-22-nightjar-taken-first-022.md",
+      "slug": "nightjar-taken-first-022",
+      "title": "Nightjar: The Man That Somebody Else Took First of All",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8424,
+      "topWord": "bay",
+      "topCount": 114,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-22-nightjar-taken-first-022.md"
     },
     {
       "filename": "2026-11-23-fitzgerald-life-shaped-gatsby.md",
@@ -381439,6 +381723,452 @@
         {
           "word": "invented",
           "count": 22
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-23-how-congressional-quorum-works.md",
+      "slug": "how-congressional-quorum-works",
+      "title": "How a Congressional Quorum Works: Presence and Power",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9486,
+      "topWord": "quorum",
+      "topCount": 253,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-23-how-congressional-quorum-works.md",
+      "flaggedWords": [
+        {
+          "word": "quorum",
+          "count": 253
+        }
+      ],
+      "top20": [
+        {
+          "word": "quorum",
+          "count": 253
+        },
+        {
+          "word": "members",
+          "count": 151
+        },
+        {
+          "word": "chamber",
+          "count": 109
+        },
+        {
+          "word": "majority",
+          "count": 108
+        },
+        {
+          "word": "vote",
+          "count": 84
+        },
+        {
+          "word": "member",
+          "count": 82
+        },
+        {
+          "word": "rule",
+          "count": 77
+        },
+        {
+          "word": "committee",
+          "count": 75
+        },
+        {
+          "word": "attendance",
+          "count": 68
+        },
+        {
+          "word": "present",
+          "count": 64
+        },
+        {
+          "word": "body",
+          "count": 62
+        },
+        {
+          "word": "presence",
+          "count": 61
+        },
+        {
+          "word": "count",
+          "count": 61
+        },
+        {
+          "word": "senate",
+          "count": 59
+        },
+        {
+          "word": "court",
+          "count": 50
+        },
+        {
+          "word": "proxy",
+          "count": 49
+        },
+        {
+          "word": "act",
+          "count": 48
+        },
+        {
+          "word": "business",
+          "count": 48
+        },
+        {
+          "word": "rules",
+          "count": 44
+        },
+        {
+          "word": "floor",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-23-nightjar-paper-origin-023.md",
+      "slug": "nightjar-paper-origin-023",
+      "title": "Nightjar: The Paper Origin of a Dravin Alloy Shipment",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8268,
+      "topWord": "book",
+      "topCount": 177,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-23-nightjar-paper-origin-023.md",
+      "flaggedWords": [
+        {
+          "word": "book",
+          "count": 177
+        }
+      ],
+      "top20": [
+        {
+          "word": "book",
+          "count": 177
+        },
+        {
+          "word": "mira",
+          "count": 96
+        },
+        {
+          "word": "ministry",
+          "count": 81
+        },
+        {
+          "word": "office",
+          "count": 77
+        },
+        {
+          "word": "certificate",
+          "count": 73
+        },
+        {
+          "word": "desk",
+          "count": 68
+        },
+        {
+          "word": "room",
+          "count": 63
+        },
+        {
+          "word": "court",
+          "count": 55
+        },
+        {
+          "word": "clerk",
+          "count": 51
+        },
+        {
+          "word": "hands",
+          "count": 50
+        },
+        {
+          "word": "asked",
+          "count": 49
+        },
+        {
+          "word": "reni",
+          "count": 48
+        },
+        {
+          "word": "printed",
+          "count": 47
+        },
+        {
+          "word": "held",
+          "count": 46
+        },
+        {
+          "word": "certificates",
+          "count": 45
+        },
+        {
+          "word": "paper",
+          "count": 43
+        },
+        {
+          "word": "consignment",
+          "count": 43
+        },
+        {
+          "word": "numbers",
+          "count": 43
+        },
+        {
+          "word": "yard",
+          "count": 39
+        },
+        {
+          "word": "nothing",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-24-how-app-store-commissions-work.md",
+      "slug": "how-app-store-commissions-work",
+      "title": "How App Store Commissions Work: The Thirty Percent Cut",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10188,
+      "topWord": "store",
+      "topCount": 228,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-24-how-app-store-commissions-work.md",
+      "flaggedWords": [
+        {
+          "word": "store",
+          "count": 228
+        }
+      ],
+      "top20": [
+        {
+          "word": "store",
+          "count": 228
+        },
+        {
+          "word": "developer",
+          "count": 137
+        },
+        {
+          "word": "commission",
+          "count": 100
+        },
+        {
+          "word": "payment",
+          "count": 91
+        },
+        {
+          "word": "percent",
+          "count": 81
+        },
+        {
+          "word": "rate",
+          "count": 77
+        },
+        {
+          "word": "apple",
+          "count": 66
+        },
+        {
+          "word": "developers",
+          "count": 64
+        },
+        {
+          "word": "share",
+          "count": 62
+        },
+        {
+          "word": "platform",
+          "count": 61
+        },
+        {
+          "word": "app",
+          "count": 60
+        },
+        {
+          "word": "stores",
+          "count": 59
+        },
+        {
+          "word": "inside",
+          "count": 56
+        },
+        {
+          "word": "price",
+          "count": 56
+        },
+        {
+          "word": "cost",
+          "count": 54
+        },
+        {
+          "word": "application",
+          "count": 52
+        },
+        {
+          "word": "digital",
+          "count": 49
+        },
+        {
+          "word": "customer",
+          "count": 47
+        },
+        {
+          "word": "toll",
+          "count": 42
+        },
+        {
+          "word": "distribution",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "filename": "2026-11-24-nightjar-lawful-purchase-024.md",
+      "slug": "nightjar-lawful-purchase-024",
+      "title": "Nightjar: A Lawful Purchase With the Accord's Own Paper",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 9216,
+      "topWord": "sarte",
+      "topCount": 148,
+      "flagged": false,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-24-nightjar-lawful-purchase-024.md"
+    },
+    {
+      "filename": "2026-11-25-how-public-trust-doctrine-works.md",
+      "slug": "how-public-trust-doctrine-works",
+      "title": "How the Public Trust Doctrine Works: Tidelands and Access",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10128,
+      "topWord": "trust",
+      "topCount": 277,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-11-25-how-public-trust-doctrine-works.md",
+      "flaggedWords": [
+        {
+          "word": "trust",
+          "count": 277
+        },
+        {
+          "word": "public",
+          "count": 217
+        }
+      ],
+      "top20": [
+        {
+          "word": "trust",
+          "count": 277
+        },
+        {
+          "word": "public",
+          "count": 217
+        },
+        {
+          "word": "land",
+          "count": 116
+        },
+        {
+          "word": "title",
+          "count": 108
+        },
+        {
+          "word": "private",
+          "count": 101
+        },
+        {
+          "word": "doctrine",
+          "count": 99
+        },
+        {
+          "word": "court",
+          "count": 97
+        },
+        {
+          "word": "grant",
+          "count": 82
+        },
+        {
+          "word": "access",
+          "count": 79
+        },
+        {
+          "word": "law",
+          "count": 77
+        },
+        {
+          "word": "states",
+          "count": 70
+        },
+        {
+          "word": "waters",
+          "count": 63
+        },
+        {
+          "word": "held",
+          "count": 62
+        },
+        {
+          "word": "navigable",
+          "count": 58
+        },
+        {
+          "word": "rights",
+          "count": 58
+        },
+        {
+          "word": "courts",
+          "count": 53
+        },
+        {
+          "word": "permit",
+          "count": 50
+        },
+        {
+          "word": "owner",
+          "count": 46
+        },
+        {
+          "word": "federal",
+          "count": 45
+        },
+        {
+          "word": "navigation",
+          "count": 44
         }
       ]
     },

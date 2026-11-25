@@ -9,7 +9,7 @@ excerpt: "A congressional quorum works by counting a majority of members as pres
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 84
 author: "thomas-reid"
-last_updated: 2026-11-23
+last_updated: 2026-11-25
 lang: en
 ---
 ## Presence Is the First Vote a Legislature Takes

@@ -9,7 +9,7 @@ excerpt: "A training montage works by rationing weeks of effort into rising frag
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 79
 author: "diana-patel"
-last_updated: 2026-11-21
+last_updated: 2026-11-25
 lang: en
 ---
 ## Effort Compressed Into Minutes

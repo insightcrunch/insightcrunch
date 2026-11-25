@@ -9,7 +9,7 @@ excerpt: "A Valtessan inspector who signed the paper that walked alloy into Drav
 image: "/assets/images/blog/blog-98.webp"
 reading_time: 104
 author: "rachel-foster"
-last_updated: 2026-11-24
+last_updated: 2026-11-25
 lang: en
 ---
 ## Cold Open

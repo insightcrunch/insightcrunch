@@ -30253,12 +30253,6 @@ how-to-watch-citizen-kane-closely:
   category: leisure
   image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: how-cinematography-works
-  title: 'How Cinematography Works: Light, Lens, Position and Motion'
-  url: /2026/11/15/how-cinematography-works/
-  category: leisure
-  image: /assets/images/blog/blog-03.webp
-  lang: en
 marxism-glossary-key-terms:
 - slug: marxism-complete-guide
   title: 'Marxism: The Complete Guide'
@@ -120207,11 +120201,11 @@ ups-layoffs-article:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: oracle-layoffs-every-question-answered
-  title: Oracle Layoffs 2026 Every Question Answered
-  url: /2026/04/03/oracle-layoffs-every-question-answered/
+- slug: boeing-layoffs
+  title: 'Boeing Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/boeing-layoffs/
   category: industry
-  image: /assets/images/blog/blog-32.webp
+  image: /assets/images/blog/blog-27.webp
   lang: en
 amazon-layoffs-article:
 - slug: how-do-freshers-get-jobs-at-amazon
@@ -121773,6 +121767,12 @@ it-sector-layoffs-2026-global-analysis:
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
+- slug: ups-layoffs-article
+  title: UPS Layoffs 2026 Explained in Full Detail
+  url: /2026/01/27/ups-layoffs-article/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 - slug: anthropic-role-it-sector-layoffs-2026
   title: Anthropic AI and the IT Layoff Wave in the Global Job Market
   url: /2026/04/01/anthropic-role-it-sector-layoffs-2026/
@@ -121880,6 +121880,18 @@ yrf-spy-universe-complete-guide-all-films:
   image: /assets/images/blog/blog-43.webp
   lang: en
 oracle-layoffs-article:
+- slug: boeing-layoffs
+  title: 'Boeing Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/boeing-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: pepsico-layoffs
+  title: 'PepsiCo Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/pepsico-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
 - slug: oracle-layoffs-every-question-answered
   title: Oracle Layoffs 2026 Every Question Answered
   url: /2026/04/03/oracle-layoffs-every-question-answered/
@@ -121891,18 +121903,6 @@ oracle-layoffs-article:
   url: /2026/04/01/oracle-layoffs-strategic-analysis/
   category: industry
   image: /assets/images/blog/blog-48.webp
-  lang: en
-- slug: amazon-layoffs-article
-  title: Amazon Layoffs January 2026 Explained in Full
-  url: /2026/01/28/amazon-layoffs-article/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
-  lang: en
-- slug: ups-layoffs-article
-  title: UPS Layoffs 2026 Explained in Full Detail
-  url: /2026/01/27/ups-layoffs-article/
-  category: industry
-  image: /assets/images/blog/blog-02.webp
   lang: en
 anthropic-role-it-sector-layoffs-2026:
 - slug: future-covert-ops-technology
@@ -122011,23 +122011,23 @@ oracle-layoffs-every-question-answered:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
+- slug: boeing-layoffs
+  title: 'Boeing Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/boeing-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: pepsico-layoffs
+  title: 'PepsiCo Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/pepsico-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
 - slug: oracle-layoffs-strategic-analysis
   title: Oracle Layoffs 2026 Strategic Analysis and Industry Fallout
   url: /2026/04/01/oracle-layoffs-strategic-analysis/
   category: industry
   image: /assets/images/blog/blog-48.webp
-  lang: en
-- slug: amazon-layoffs-article
-  title: Amazon Layoffs January 2026 Explained in Full
-  url: /2026/01/28/amazon-layoffs-article/
-  category: industry
-  image: /assets/images/blog/blog-87.webp
-  lang: en
-- slug: ups-layoffs-article
-  title: UPS Layoffs 2026 Explained in Full Detail
-  url: /2026/01/27/ups-layoffs-article/
-  category: industry
-  image: /assets/images/blog/blog-02.webp
   lang: en
 second-quarto-1599-good-quarto:
 - slug: romeo-and-juliet-first-folio-1623
@@ -136125,11 +136125,11 @@ how-chiplets-work:
   image: /assets/images/blog/blog-113.webp
   lang: en
 best-singles-events-austin:
-- slug: best-singles-events-miami
-  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-miami/
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
   category: leisure
-  image: /assets/images/blog/blog-40.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
 - slug: best-singles-events-houston
   title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
@@ -136137,92 +136137,11 @@ best-singles-events-austin:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: best-singles-events-dallas
-  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-dallas/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: best-singles-events-los-angeles
-  title: 'Best Singles Events in Los Angeles: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-los-angeles/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
-best-singles-events-chicago:
 - slug: best-singles-events-miami
   title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-miami/
   category: leisure
   image: /assets/images/blog/blog-40.webp
-  lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: best-singles-events-austin
-  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-austin/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
-- slug: best-singles-events-in-america
-  title: 'Best Singles Events in America: 200 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-in-america/
-  category: leisure
-  image: /assets/images/blog/blog-117.webp
-  lang: en
-best-singles-events-dallas:
-- slug: best-singles-events-miami
-  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-miami/
-  category: leisure
-  image: /assets/images/blog/blog-40.webp
-  lang: en
-- slug: best-singles-events-austin
-  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-austin/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: best-singles-events-in-america
-  title: 'Best Singles Events in America: 200 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-in-america/
-  category: leisure
-  image: /assets/images/blog/blog-117.webp
-  lang: en
-best-singles-events-denver:
-- slug: best-singles-events-miami
-  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-miami/
-  category: leisure
-  image: /assets/images/blog/blog-40.webp
-  lang: en
-- slug: best-singles-events-houston
-  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-houston/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: best-singles-events-austin
-  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-austin/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
   lang: en
 - slug: best-singles-events-chicago
   title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
@@ -136236,18 +136155,37 @@ best-singles-events-denver:
   category: leisure
   image: /assets/images/blog/blog-114.webp
   lang: en
-best-singles-events-houston:
+best-singles-events-chicago:
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-dallas
+  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-dallas/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
 - slug: best-singles-events-austin
   title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-austin/
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+best-singles-events-dallas:
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
   lang: en
 - slug: best-singles-events-miami
   title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
@@ -136261,11 +136199,61 @@ best-singles-events-houston:
   category: leisure
   image: /assets/images/blog/blog-117.webp
   lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+best-singles-events-denver:
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: best-singles-events-los-angeles
+  title: 'Best Singles Events in Los Angeles: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-los-angeles/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+best-singles-events-houston:
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 - slug: best-singles-events-las-vegas
   title: 'Best Singles Events in Las Vegas: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-las-vegas/
   category: leisure
   image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
   lang: en
 best-singles-events-in-america:
 - slug: best-singles-events-houston
@@ -136305,67 +136293,67 @@ best-singles-events-las-vegas:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: best-singles-events-austin
-  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-austin/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
 - slug: best-singles-events-chicago
   title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-chicago/
   category: leisure
   image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 best-singles-events-los-angeles:
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-miami
+  title: 'Best Singles Events in Miami: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-miami/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
 - slug: best-singles-events-austin
   title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-austin/
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: best-singles-events-dallas
-  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-dallas/
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
   category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
-- slug: best-singles-events-in-america
-  title: 'Best Singles Events in America: 200 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-in-america/
-  category: leisure
-  image: /assets/images/blog/blog-117.webp
-  lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
 best-singles-events-miami:
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: best-singles-events-austin
-  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-austin/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
-- slug: best-singles-events-dallas
-  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-dallas/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
 - slug: best-singles-events-chicago
   title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-chicago/
   category: leisure
   image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: best-singles-events-austin
+  title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-austin/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: best-singles-events-denver
+  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-denver/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: best-singles-events-dallas
+  title: 'Best Singles Events in Dallas: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-dallas/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
   lang: en
 - slug: best-singles-events-new-york-city
   title: 'Best Singles Events in New York City: 20 Ways to Meet Someone in the Next Two Weeks'
@@ -136392,19 +136380,13 @@ best-singles-events-new-york-city:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
+- slug: best-singles-events-chicago
+  title: 'Best Singles Events in Chicago: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-chicago/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-11.webp
   lang: en
 best-singles-events-san-francisco:
-- slug: best-singles-events-denver
-  title: 'Best Singles Events in Denver: 20 Ways to Meet Someone in the Next Two Weeks'
-  url: /2026/10/14/best-singles-events-denver/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 - slug: best-singles-events-austin
   title: 'Best Singles Events in Austin: 20 Ways to Meet Someone in the Next Two Weeks'
   url: /2026/10/14/best-singles-events-austin/
@@ -136422,6 +136404,12 @@ best-singles-events-san-francisco:
   url: /2026/10/14/best-singles-events-chicago/
   category: leisure
   image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: best-singles-events-houston
+  title: 'Best Singles Events in Houston: 20 Ways to Meet Someone in the Next Two Weeks'
+  url: /2026/10/14/best-singles-events-houston/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 how-film-restoration-works:
 - slug: letters-to-juliet-film-tradition
@@ -137729,11 +137717,11 @@ nightjar-slow-fade-012:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: nightjar-marked-hands-018
-  title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
-  url: /2026/11/18/nightjar-marked-hands-018/
+- slug: nightjar-courier-not-maker-021
+  title: 'Nightjar: The Courier Who Had Never Met Any Maker At All'
+  url: /2026/11/21/nightjar-courier-not-maker-021/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 how-presidential-removal-power-works:
 - slug: how-government-speech-doctrine-works
@@ -137754,11 +137742,11 @@ how-presidential-removal-power-works:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: how-purcell-principle-works
-  title: 'Purcell Principle Explained: Courts and Election Timing'
-  url: /2026/10/26/how-purcell-principle-works/
+- slug: how-congressional-quorum-works
+  title: 'How a Congressional Quorum Works: Presence and Power'
+  url: /2026/11/23/how-congressional-quorum-works/
   category: industry
-  image: /assets/images/blog/blog-81.webp
+  image: /assets/images/blog/blog-85.webp
   lang: en
 mary-cowden-clarke-juliet-girlhood:
 - slug: anna-jameson-victorian-juliet
@@ -137786,6 +137774,12 @@ mary-cowden-clarke-juliet-girlhood:
   image: /assets/images/blog/blog-50.webp
   lang: en
 nightjar-inert-house-013:
+- slug: nightjar-paper-origin-023
+  title: 'Nightjar: The Paper Origin of a Dravin Alloy Shipment'
+  url: /2026/11/23/nightjar-paper-origin-023/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: nightjar-foundry-list-015
   title: 'Nightjar: Four Foundries and the One That Sells Quietly'
   url: /2026/11/15/nightjar-foundry-list-015/
@@ -137798,17 +137792,11 @@ nightjar-inert-house-013:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: nightjar-marked-hands-018
-  title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
-  url: /2026/11/18/nightjar-marked-hands-018/
+- slug: nightjar-courier-not-maker-021
+  title: 'Nightjar: The Courier Who Had Never Met Any Maker At All'
+  url: /2026/11/21/nightjar-courier-not-maker-021/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
-- slug: nightjar-living-example-019
-  title: 'Nightjar: A Living Example in the Wharf Night Infirmary'
-  url: /2026/11/19/nightjar-living-example-019/
-  category: leisure
-  image: /assets/images/blog/blog-47.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 how-cascading-failures-work-in-cloud-systems:
 - slug: how-neoclouds-work
@@ -137854,13 +137842,19 @@ nightjar-carrowmere-run-014:
   category: leisure
   image: /assets/images/blog/blog-47.webp
   lang: en
-- slug: nightjar-clean-room-001
-  title: 'Nightjar: The Clean Room in the Carrowmere Warehouse'
-  url: /2026/11/01/nightjar-clean-room-001/
+- slug: nightjar-taken-first-022
+  title: 'Nightjar: The Man That Somebody Else Took First of All'
+  url: /2026/11/22/nightjar-taken-first-022/
   category: leisure
-  image: /assets/images/blog/blog-64.webp
+  image: /assets/images/blog/blog-76.webp
   lang: en
 how-cinematography-works:
+- slug: how-training-montages-work
+  title: 'How Training Montages Work: Time, Music and the Cut'
+  url: /2026/11/21/how-training-montages-work/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
 - slug: citizen-kane-techniques-complete-guide
   title: 'Citizen Kane Techniques: The Complete Guide'
   url: /2010/04/15/citizen-kane-techniques-complete-guide/
@@ -137879,18 +137873,18 @@ how-cinematography-works:
   category: leisure
   image: /assets/images/blog/blog-97.webp
   lang: en
-- slug: boogie-nights-pta-long-take-craft
-  title: 'Boogie Nights: The Long Take That Announced a Director'
-  url: /2019/05/01/boogie-nights-pta-long-take-craft/
-  category: leisure
-  image: /assets/images/blog/blog-97.webp
-  lang: en
 nightjar-foundry-list-015:
 - slug: nightjar-carrowmere-run-014
   title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
   url: /2026/11/14/nightjar-carrowmere-run-014/
   category: leisure
   image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: nightjar-paper-origin-023
+  title: 'Nightjar: The Paper Origin of a Dravin Alloy Shipment'
+  url: /2026/11/23/nightjar-paper-origin-023/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
   lang: en
 - slug: nightjar-inert-house-013
   title: 'Nightjar: The Inert House on the Dravin Border Station'
@@ -137903,12 +137897,6 @@ nightjar-foundry-list-015:
   url: /2026/11/20/nightjar-badge-and-burn-020/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: nightjar-marked-hands-018
-  title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
-  url: /2026/11/18/nightjar-marked-hands-018/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
   lang: en
 how-chapter-7-liquidation-works:
 - slug: how-prepackaged-bankruptcy-works
@@ -137936,29 +137924,29 @@ how-chapter-7-liquidation-works:
   image: /assets/images/blog/blog-06.webp
   lang: en
 nightjar-scour-crossing-016:
+- slug: nightjar-paper-origin-023
+  title: 'Nightjar: The Paper Origin of a Dravin Alloy Shipment'
+  url: /2026/11/23/nightjar-paper-origin-023/
+  category: leisure
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: nightjar-marked-hands-018
   title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
   url: /2026/11/18/nightjar-marked-hands-018/
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: nightjar-lawful-purchase-024
+  title: 'Nightjar: A Lawful Purchase With the Accord''s Own Paper'
+  url: /2026/11/24/nightjar-lawful-purchase-024/
+  category: leisure
+  image: /assets/images/blog/blog-98.webp
+  lang: en
 - slug: nightjar-carrowmere-run-014
   title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
   url: /2026/11/14/nightjar-carrowmere-run-014/
   category: leisure
   image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: nightjar-foundry-list-015
-  title: 'Nightjar: Four Foundries and the One That Sells Quietly'
-  url: /2026/11/15/nightjar-foundry-list-015/
-  category: leisure
-  image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: nightjar-badge-and-burn-020
-  title: 'Nightjar: The Badge, the Burn and the Locked Stair'
-  url: /2026/11/20/nightjar-badge-and-burn-020/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 zelda-fitzgerald-gatsby:
 - slug: fitzgerald-life-shaped-gatsby
@@ -138017,6 +138005,12 @@ how-federal-reserve-master-accounts-work:
   image: /assets/images/blog/blog-63.webp
   lang: en
 nightjar-oversight-file-017:
+- slug: nightjar-taken-first-022
+  title: 'Nightjar: The Man That Somebody Else Took First of All'
+  url: /2026/11/22/nightjar-taken-first-022/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 - slug: nightjar-carrowmere-run-014
   title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
   url: /2026/11/14/nightjar-carrowmere-run-014/
@@ -138034,12 +138028,6 @@ nightjar-oversight-file-017:
   url: /2026/11/19/nightjar-living-example-019/
   category: leisure
   image: /assets/images/blog/blog-47.webp
-  lang: en
-- slug: nightjar-badge-and-burn-020
-  title: 'Nightjar: The Badge, the Burn and the Locked Stair'
-  url: /2026/11/20/nightjar-badge-and-burn-020/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 how-government-speech-doctrine-works:
 - slug: how-presidential-removal-power-works
@@ -138060,6 +138048,12 @@ how-government-speech-doctrine-works:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
+- slug: how-public-trust-doctrine-works
+  title: 'How the Public Trust Doctrine Works: Tidelands and Access'
+  url: /2026/11/25/how-public-trust-doctrine-works/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
 - slug: how-purcell-principle-works
   title: 'Purcell Principle Explained: Courts and Election Timing'
   url: /2026/10/26/how-purcell-principle-works/
@@ -138067,6 +138061,18 @@ how-government-speech-doctrine-works:
   image: /assets/images/blog/blog-81.webp
   lang: en
 nightjar-marked-hands-018:
+- slug: nightjar-courier-not-maker-021
+  title: 'Nightjar: The Courier Who Had Never Met Any Maker At All'
+  url: /2026/11/21/nightjar-courier-not-maker-021/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: nightjar-lawful-purchase-024
+  title: 'Nightjar: A Lawful Purchase With the Accord''s Own Paper'
+  url: /2026/11/24/nightjar-lawful-purchase-024/
+  category: leisure
+  image: /assets/images/blog/blog-98.webp
+  lang: en
 - slug: nightjar-seal-that-wasnt-011
   title: 'Nightjar: The Seal That Was Never There to Begin With'
   url: /2026/11/11/nightjar-seal-that-wasnt-011/
@@ -138078,18 +138084,6 @@ nightjar-marked-hands-018:
   url: /2026/11/20/nightjar-badge-and-burn-020/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: nightjar-carrowmere-run-014
-  title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
-  url: /2026/11/14/nightjar-carrowmere-run-014/
-  category: leisure
-  image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: nightjar-scour-crossing-016
-  title: 'Nightjar: The Scour Crossing and a Country Made of Paper'
-  url: /2026/11/16/nightjar-scour-crossing-016/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
   lang: en
 how-optical-discs-work:
 - slug: azure-storage-accounts-complete-guide
@@ -138123,6 +138117,12 @@ nightjar-living-example-019:
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: nightjar-taken-first-022
+  title: 'Nightjar: The Man That Somebody Else Took First of All'
+  url: /2026/11/22/nightjar-taken-first-022/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 - slug: nightjar-carrowmere-run-014
   title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
   url: /2026/11/14/nightjar-carrowmere-run-014/
@@ -138134,12 +138134,6 @@ nightjar-living-example-019:
   url: /2026/11/01/nightjar-clean-room-001/
   category: leisure
   image: /assets/images/blog/blog-64.webp
-  lang: en
-- slug: nightjar-lever-at-melora-003
-  title: 'Nightjar: The Trade Lever Nobody Admits to Pulling'
-  url: /2026/11/02/nightjar-lever-at-melora-003/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
   lang: en
 ac-bradley-excluded-romeo-and-juliet:
 - slug: romeo-and-juliet-shakespeare-first-tragedy
@@ -138173,6 +138167,12 @@ how-restaurant-franchising-works:
   category: industry
   image: /assets/images/blog/blog-64.webp
   lang: en
+- slug: how-app-store-commissions-work
+  title: 'How App Store Commissions Work: The Thirty Percent Cut'
+  url: /2026/11/24/how-app-store-commissions-work/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 - slug: how-personalized-pricing-works
   title: 'How Personalized Pricing Works: One Product, Many Prices'
   url: /2026/10/30/how-personalized-pricing-works/
@@ -138185,18 +138185,18 @@ how-restaurant-franchising-works:
   category: industry
   image: /assets/images/blog/blog-103.webp
   lang: en
-- slug: ap-microeconomics-guide
-  title: AP Microeconomics Complete Guide
-  url: /2007/05/27/ap-microeconomics-guide/
-  category: industry
-  image: /assets/images/blog/blog-93.webp
-  lang: en
 nightjar-badge-and-burn-020:
 - slug: nightjar-living-example-019
   title: 'Nightjar: A Living Example in the Wharf Night Infirmary'
   url: /2026/11/19/nightjar-living-example-019/
   category: leisure
   image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: nightjar-taken-first-022
+  title: 'Nightjar: The Man That Somebody Else Took First of All'
+  url: /2026/11/22/nightjar-taken-first-022/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
   lang: en
 - slug: nightjar-carrowmere-run-014
   title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
@@ -138210,17 +138210,36 @@ nightjar-badge-and-burn-020:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: nightjar-lever-at-melora-003
-  title: 'Nightjar: The Trade Lever Nobody Admits to Pulling'
-  url: /2026/11/02/nightjar-lever-at-melora-003/
-  category: leisure
-  image: /assets/images/blog/blog-99.webp
-  lang: en
 - slug: nightjar-slow-fade-012
   title: 'Nightjar: The Slow Fade in a Locked Melora Reading Room'
   url: /2026/11/12/nightjar-slow-fade-012/
   category: leisure
   image: /assets/images/blog/blog-72.webp
+  lang: en
+boeing-layoffs:
+- slug: pepsico-layoffs
+  title: 'PepsiCo Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/pepsico-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: oracle-layoffs-article
+  title: 'Oracle Layoffs: Every Round, Severance and What Changed'
+  url: /2026/03/31/oracle-layoffs-article/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: oracle-layoffs-every-question-answered
+  title: Oracle Layoffs 2026 Every Question Answered
+  url: /2026/04/03/oracle-layoffs-every-question-answered/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: amazon-layoffs-article
+  title: Amazon Layoffs January 2026 Explained in Full
+  url: /2026/01/28/amazon-layoffs-article/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 buffer-states-and-great-power-war:
 - slug: what-ukraine-tells-us-about-poland
@@ -138246,6 +138265,131 @@ buffer-states-and-great-power-war:
   url: /2026/06/21/russias-war-economy-arms-output/
   category: industry
   image: /assets/images/blog/blog-63.webp
+  lang: en
+how-training-montages-work:
+- slug: how-cinematography-works
+  title: 'How Cinematography Works: Light, Lens, Position and Motion'
+  url: /2026/11/15/how-cinematography-works/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: letters-to-juliet-film-tradition
+  title: 'Letters to Juliet: The Film and the Letter Tradition'
+  url: /2029/07/06/letters-to-juliet-film-tradition/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: marxism-and-authoritarianism
+  title: 'Marxism and Authoritarianism: The Charge'
+  url: /2019/07/01/marxism-and-authoritarianism/
+  category: leisure
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: frankfurt-school-complete-guide
+  title: 'The Frankfurt School: A Complete Guide'
+  url: /2015/06/01/frankfurt-school-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-45.webp
+  lang: en
+nightjar-courier-not-maker-021:
+- slug: nightjar-marked-hands-018
+  title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
+  url: /2026/11/18/nightjar-marked-hands-018/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: nightjar-lawful-purchase-024
+  title: 'Nightjar: A Lawful Purchase With the Accord''s Own Paper'
+  url: /2026/11/24/nightjar-lawful-purchase-024/
+  category: leisure
+  image: /assets/images/blog/blog-98.webp
+  lang: en
+- slug: nightjar-seal-that-wasnt-011
+  title: 'Nightjar: The Seal That Was Never There to Begin With'
+  url: /2026/11/11/nightjar-seal-that-wasnt-011/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: nightjar-living-example-019
+  title: 'Nightjar: A Living Example in the Wharf Night Infirmary'
+  url: /2026/11/19/nightjar-living-example-019/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+pepsico-layoffs:
+- slug: boeing-layoffs
+  title: 'Boeing Layoffs: Every Round, Severance and What Changed'
+  url: /2026/11/21/boeing-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: oracle-layoffs-article
+  title: 'Oracle Layoffs: Every Round, Severance and What Changed'
+  url: /2026/03/31/oracle-layoffs-article/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: oracle-layoffs-every-question-answered
+  title: Oracle Layoffs 2026 Every Question Answered
+  url: /2026/04/03/oracle-layoffs-every-question-answered/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: amazon-layoffs-article
+  title: Amazon Layoffs January 2026 Explained in Full
+  url: /2026/01/28/amazon-layoffs-article/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+how-service-of-process-works:
+- slug: how-government-speech-doctrine-works
+  title: How the Government Speech Doctrine Works in US Law
+  url: /2026/11/18/how-government-speech-doctrine-works/
+  category: industry
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: how-public-trust-doctrine-works
+  title: 'How the Public Trust Doctrine Works: Tidelands and Access'
+  url: /2026/11/25/how-public-trust-doctrine-works/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: how-presidential-removal-power-works
+  title: How Presidential Removal Power Works in American Law
+  url: /2026/11/13/how-presidential-removal-power-works/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-supreme-court-overrules-precedent
+  title: How the Supreme Court Overrules Its Own Precedents
+  url: /2026/11/08/how-supreme-court-overrules-precedent/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+nightjar-taken-first-022:
+- slug: nightjar-living-example-019
+  title: 'Nightjar: A Living Example in the Wharf Night Infirmary'
+  url: /2026/11/19/nightjar-living-example-019/
+  category: leisure
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: nightjar-badge-and-burn-020
+  title: 'Nightjar: The Badge, the Burn and the Locked Stair'
+  url: /2026/11/20/nightjar-badge-and-burn-020/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: nightjar-carrowmere-run-014
+  title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
+  url: /2026/11/14/nightjar-carrowmere-run-014/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: nightjar-nine-officers-008
+  title: 'Nightjar: Nine Officers and Two Pages Cleanly Removed'
+  url: /2026/11/08/nightjar-nine-officers-008/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
   lang: en
 fitzgerald-life-shaped-gatsby:
 - slug: gatsby-vs-tender-is-the-night
@@ -138277,6 +138421,131 @@ fitzgerald-life-shaped-gatsby:
   url: /2026/08/10/gatsby-reader-sympathy/
   category: leisure
   image: /assets/images/blog/blog-01.webp
+  lang: en
+how-congressional-quorum-works:
+- slug: veto-and-override-explained
+  title: 'Veto and Override: How Presidential Veto Power Works'
+  url: /2022/04/01/veto-and-override-explained/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: how-presidential-removal-power-works
+  title: How Presidential Removal Power Works in American Law
+  url: /2026/11/13/how-presidential-removal-power-works/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: reconciliation-process-explained
+  title: 'Budget Reconciliation Explained: How the Process Works'
+  url: /2020/03/01/reconciliation-process-explained/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
+- slug: congressional-budget-act-1974-guide
+  title: 'Congressional Budget Act Explained: How Congress Budgets'
+  url: /2020/01/01/congressional-budget-act-1974-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+nightjar-paper-origin-023:
+- slug: nightjar-foundry-list-015
+  title: 'Nightjar: Four Foundries and the One That Sells Quietly'
+  url: /2026/11/15/nightjar-foundry-list-015/
+  category: leisure
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: nightjar-inert-house-013
+  title: 'Nightjar: The Inert House on the Dravin Border Station'
+  url: /2026/11/13/nightjar-inert-house-013/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: nightjar-scour-crossing-016
+  title: 'Nightjar: The Scour Crossing and a Country Made of Paper'
+  url: /2026/11/16/nightjar-scour-crossing-016/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: nightjar-carrowmere-run-014
+  title: 'Nightjar: The Carrowmere Run and the Stamped Alloy Crates'
+  url: /2026/11/14/nightjar-carrowmere-run-014/
+  category: leisure
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+how-app-store-commissions-work:
+- slug: how-restaurant-franchising-works
+  title: 'How Restaurant Franchising Works: Fees, Risk and Control'
+  url: /2026/11/20/how-restaurant-franchising-works/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: ap-classes-for-business-finance
+  title: AP Classes for Business and Finance Careers
+  url: /2006/04/12/ap-classes-for-business-finance/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: digital-sat-bluebook-app-complete-guide
+  title: 'Bluebook App: The Complete Guide'
+  url: /1996/02/05/digital-sat-bluebook-app-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-109.webp
+  lang: en
+- slug: h1b-fee-ruling-economic-stakes
+  title: 'H-1B Fee Ruling: The Economic Stakes the Court Weighed'
+  url: /2026/07/11/h1b-fee-ruling-economic-stakes/
+  category: industry
+  image: /assets/images/blog/blog-103.webp
+  lang: en
+nightjar-lawful-purchase-024:
+- slug: nightjar-courier-not-maker-021
+  title: 'Nightjar: The Courier Who Had Never Met Any Maker At All'
+  url: /2026/11/21/nightjar-courier-not-maker-021/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: nightjar-marked-hands-018
+  title: 'Nightjar: Marked Hands and the Men Who Keep Them Hidden'
+  url: /2026/11/18/nightjar-marked-hands-018/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: nightjar-seal-that-wasnt-011
+  title: 'Nightjar: The Seal That Was Never There to Begin With'
+  url: /2026/11/11/nightjar-seal-that-wasnt-011/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: nightjar-scour-crossing-016
+  title: 'Nightjar: The Scour Crossing and a Country Made of Paper'
+  url: /2026/11/16/nightjar-scour-crossing-016/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+how-public-trust-doctrine-works:
+- slug: how-government-speech-doctrine-works
+  title: How the Government Speech Doctrine Works in US Law
+  url: /2026/11/18/how-government-speech-doctrine-works/
+  category: industry
+  image: /assets/images/blog/blog-108.webp
+  lang: en
+- slug: how-presidential-removal-power-works
+  title: How Presidential Removal Power Works in American Law
+  url: /2026/11/13/how-presidential-removal-power-works/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-service-of-process-works
+  title: 'How Service of Process Works: Notice Before Judgment'
+  url: /2026/11/22/how-service-of-process-works/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+- slug: how-supreme-court-overrules-precedent
+  title: How the Supreme Court Overrules Its Own Precedents
+  url: /2026/11/08/how-supreme-court-overrules-precedent/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
   lang: en
 granville-barker-preface-analysis:
 - slug: coleridge-lectures-romeo-and-juliet

@@ -9,7 +9,7 @@ excerpt: "Mell leaves Accord custody on paper that checks out in every respect a
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 95
 author: "rachel-foster"
-last_updated: 2026-11-22
+last_updated: 2026-11-25
 lang: en
 ---
 ## Cold Open

@@ -9,7 +9,7 @@ excerpt: "An app store commission works by taking a share of every digital sale 
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 81
 author: "abigail-cooper"
-last_updated: 2026-11-24
+last_updated: 2026-11-25
 lang: en
 ---
 ## The Cut Taken Before a Developer Is Paid

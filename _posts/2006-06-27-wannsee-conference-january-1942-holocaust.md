@@ -11,7 +11,7 @@ excerpt: "Fifteen Nazi officials met for 90 minutes at a Berlin villa in January
 slug: "wannsee-conference-january-1942-holocaust"
 reading_time: "57 min read"
 lang: en
-last_updated: 2026-07-05
+last_updated: 2026-11-25
 ---
 ![The lakeside villa at Am Grossen Wannsee 56-58 in Berlin, site of the January 20 1942 conference](/assets/images/blog/blog-36.webp)
 

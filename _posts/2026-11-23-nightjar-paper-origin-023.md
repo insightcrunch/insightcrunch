@@ -9,7 +9,7 @@ excerpt: "A forged provenance walks stamped alloy into Dravin as ordinary stock,
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 94
 author: "diana-patel"
-last_updated: 2026-11-23
+last_updated: 2026-11-25
 lang: en
 ---
 ## Cold Open

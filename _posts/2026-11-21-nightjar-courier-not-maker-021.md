@@ -9,7 +9,7 @@ excerpt: "A courier has delivered crates to four addresses, and one of them is a
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 92
 author: "amanda-ross"
-last_updated: 2026-11-21
+last_updated: 2026-11-25
 lang: en
 ---
 ## Cold Open

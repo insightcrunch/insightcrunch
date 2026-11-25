@@ -10,9 +10,8 @@ image: "/assets/images/blog/blog-27.webp"
 reading_time: 86
 author: "robert-quinn"
 lang: en
-last_updated: 2026-11-21
+last_updated: 2026-11-25
 ---
-
 This page tracks every layoff round at The Boeing Company from 2022 onward in one place, and it is updated each time the company runs another one. It records what each round cut, where, and under what stated reasoning, alongside the standing machinery that governs how Boeing separations work: how notice is given under the WARN Act and the company's union contracts, how severance is calculated for represented and non-represented staff, what happens to health coverage, and how recall rights operate when production rises again. Event coverage ages quickly; the record below is built to stay accurate as the history grows.
 
 ![Boeing Layoffs: Every Round, Severance and What Changed - Insight Crunch](/assets/images/blog/blog-27.webp)
