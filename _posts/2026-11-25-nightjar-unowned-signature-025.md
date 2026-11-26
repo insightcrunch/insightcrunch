@@ -6,15 +6,15 @@ date: 2026-11-25
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "specimen-book"]
 excerpt: "Four departments have each denied the signature on the form Sarte carried out, every denial honest, and the woman herself is wanted by three services."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 92
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-11-25
+lang: en
 ---
-
 ## Cold Open
 
-![Nightjar: The Signature That Nobody At All Will Own - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nightjar: The Signature That Nobody At All Will Own - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 Perrin Loft keeps the specimen books on the lower shelf where the damp cannot reach them first. The records office in Carrowmere sits one floor above the canal cut, and on a wet afternoon the air carries canal water, coal smoke from the bonded warehouses across the basin, and the thin sour smell of paste from the binding room. Rain finds the tall windows in a steady hush. It beads on the iron frames, runs down in crooked lines, and gathers on the sill above the ledgers. Below, barges knock softly against stone. Ropes creak. A warehouse bell sounds once for a load cleared and once again for a load refused. Inside, the lamps burn early. Their light pools on varnished wood and on the pale covers of the books Loft has laid out in a row.
 
