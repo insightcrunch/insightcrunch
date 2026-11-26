@@ -1860,3 +1860,27 @@ differ-navigational-public-servitude-trust | how-public-trust-doctrine-works | W
 bring-lawsuit-public-trust | how-public-trust-doctrine-works | Who can bring a public trust lawsuit?
 breach-court-order-public-remedi-trust | how-public-trust-doctrine-works | What remedies can a court order for a breach of the public trust?
 acces-change-doctrine-jersey-law-like-new-public-statute | how-public-trust-doctrine-works | How does a statute like the New Jersey Public Access Law change the doctrine?
+
+## film-production-design
+
+### how-production-design-works
+design-film-production | how-production-design-works | What is production design in film?
+day-day-designer-production | how-production-design-works | What does a production designer do day to day?
+design-film-from-script-set | how-production-design-works | How is a film set designed from a script?
+between-difference-location-set | how-production-design-works | What is the difference between a set and a location?
+designer-first-production-was | how-production-design-works | Who was the first production designer?
+ceiling-film-have-no-sets | how-production-design-works | Why do film sets have no ceilings?
+art-budget-department-film-goes-much | how-production-design-works | How much of a film budget goes to the art department?
+decoration-it-set | how-production-design-works | What is set decoration and who does it?
+designer-lived-look-make-old-set | how-production-design-works | How do designers make a set look old or lived in?
+colour-design-production-script | how-production-design-works | What is a colour script in production design?
+adam-design-dr-ken-room-strangelove-war | how-production-design-works | How did Ken Adam design the war room in Dr. Strangelove?
+academy-award-his-philip-rosenberg-win | how-production-design-works | What did Philip Rosenberg win his Academy Award for?
+chosen-film-prop | how-production-design-works | How are props chosen for a film?
+design-forced-perspective-set | how-production-design-works | What is forced perspective in set design?
+designer-director-production-with-work | how-production-design-works | How do production designers work with directors?
+building-instead-real-set-used | how-production-design-works | Can a real building be used instead of building a set?
+designer-model-plan-production-software-use | how-production-design-works | What software do production designers use for plans and models?
+build-film-it-long-set-take | how-production-design-works | How long does it take to build a film set?
+between-design-design-difference-interior-production | how-production-design-works | What is the difference between production design and interior design?
+design-learn-notice-production-viewer | how-production-design-works | How can a viewer learn to notice production design?
