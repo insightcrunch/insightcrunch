@@ -390,6 +390,12 @@ rewritten.
 
 024 Valtessa has suspended its inspection cooperation with the Accord for a year as the price of Sarte's extraction, handled quietly with no announcement, the cooperation simply ceasing to appear in schedules. Sarte's own service tells its people she was reassigned north at short notice, and tells the harbour that NIGHTJAR carried her out over one shoulder. She walked beside Mira Kovac, slowly, talking about nothing, and at the end of the week she handed over the camera with the second set of photographs still inside it, unopened.
 
+025 The authorising signature on the requisition form Juno Sarte brought in belongs to nobody. Four departments, Requisitions and Stores, Works and Ways, the Office of the Accord Seal, and Movement and Passage, each denied it honestly against their specimen books, checked by records assistant Perrin Loft, and it matches no enrolled, retired or deceased authorised hand in any of the four books. It is not a forgery of any of them: the hand wrote as itself, confidently, in a form it had plainly used before.
+
+025 An attempt on Juno Sarte was made inside the Carrowmere Office accommodation building, in the service corridor outside her room, and failed. The man was taken alive. He knew the rounds gap in the service corridor and her room number, which is knowledge from inside the building's own routines, and who sent him was not established. Sarte was unhurt, survived the week, and stayed and agreed to cooperate. Valtessa's claim on her proceeds separately as a formal court return request, openly filed, with a hearing timetable.
+
+025 Reni Vosk, junior officer, took a cut across the forearm holding the corridor door during the attempt on Sarte. The arm was stitched. Afterwards she held the stitched forearm up to the light, turning it, curious rather than shaken, and was pleased about the cut, which Mira Kovac recorded as a worry rather than as steadiness.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.
