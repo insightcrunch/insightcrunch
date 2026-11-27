@@ -396,6 +396,12 @@ rewritten.
 
 025 Reni Vosk, junior officer, took a cut across the forearm holding the corridor door during the attempt on Sarte. The arm was stitched. Afterwards she held the stitched forearm up to the light, turning it, curious rather than shaken, and was pleased about the cut, which Mira Kovac recorded as a worry rather than as steadiness.
 
+026 The requisition chain inside the Accord was real and was broken by a simultaneous sweep: seven arrests inside Accord buildings in four cities, Carrowmere, Velstrand, Kelmarsh and Tarnwick, on one morning. Its forms were raised on borrowed early logins, among them requisition officer Mave Ottoline's login, found open under her own name before she arrived and used on eleven mornings by the login register's account. The forms were then processed by clerks who held process authority only and had been trained never to ask questions of origination.
+
+026 The chain stops two steps short of the Ninth Office. Its authorising step was taken by someone using the chain from outside the Office's own floor. That person was not identified: weight cannot identify a person, and none of the seven arrested confessed to the step or placed another person at the authorising desk. Two steps remain between the last provable link and the Office itself, and who takes the third step is not known.
+
+026 Henrik Dall, the bonded chain assessor of the first case, by this installment working a requisitions desk with a narrow bonded raising grant, was arrested in the sweep on Mira Kovac's own initialed decision, on the evidence of a desk read that gave a year of waiting and relief, and was released the same day as a witness when his private note of an irregular instruction aligned with the read. Deputy supervisor Cassian Dray, a processor with the widest access on the floor and custody of the junction room day books, fought to burn the middle day book during the sweep and was taken intact; the book survived, scorched at one corner.
+
 ## 11. Changelog
 
 Deliberate retcons only, which should be rare.

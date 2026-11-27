@@ -1111,6 +1111,28 @@ duti-junior-officer-rank-reni-vosk' | nightjar-unowned-signature-025 | What are 
 detail-jobs-must-officer-protection-staff-two | nightjar-unowned-signature-025 | How are protection details staffed when an officer must do two jobs?
 archive-carrowmere-history-registry'-specimen | nightjar-unowned-signature-025 | What is the history of the Carrowmere registry's specimen archive?
 
+### nightjar-requisition-chain-026
+accord-inside-process-rais-requisition | nightjar-requisition-chain-026 | How is a requisition raised and processed inside the Accord?
+accord-arrest-end-hold-internally-power-those | nightjar-requisition-chain-026 | What arrest powers does the Accord hold internally, and where do those powers end?
+acros-action-citi-coordination-distinct-four-present-problem-simultaneou | nightjar-requisition-chain-026 | Why does simultaneous action across four cities present a distinct coordination problem?
+counsel-dur-internal-investigation-shar-signify | nightjar-requisition-chain-026 | What does shared counsel signify during an internal investigation?
+carrowmere-floor-happen-organis-requisition-there-work | nightjar-requisition-chain-026 | How is the Carrowmere requisition floor organised, and what work happens there?
+credential-custody-kept-login-register | nightjar-requisition-chain-026 | What is the login register, and how are credentials kept in custody?
+authority-issu-proces-revok-they-warrant | nightjar-requisition-chain-026 | How are authority warrants issued, and by what process are they revoked?
+controll-dies-process-record-stamp-their | nightjar-requisition-chain-026 | What do processing stamps record, and how are their dies controlled?
+book-day-hold-legal-statu | nightjar-requisition-chain-026 | What is the day book, and what legal status does it hold?
+acros-arrest-handl-jurisdiction-member-simultaneou-warrant | nightjar-requisition-chain-026 | How are simultaneous arrest warrants handled across member jurisdictions?
+accord-hold-inquiry-interview-question-right-staff | nightjar-requisition-chain-026 | What interview rights do Accord staff hold when questioned in an inquiry?
+be-follow-inquiry-officer-pend-suspend-suspension | nightjar-requisition-chain-026 | When may an officer be suspended pending inquiry, and what follows from suspension?
+counsel-practice-register-shar-work | nightjar-requisition-chain-026 | How does the shared counsel register work in practice?
+case-form-internal-part-read-record-weigher' | nightjar-requisition-chain-026 | How is a Weigher's read recorded when it forms part of an internal case?
+appli-chain-custody-damag-document-fire | nightjar-requisition-chain-026 | What chain of custody applies to a document damaged by fire?
+archive-arrang-kept-long-requisition | nightjar-requisition-chain-026 | How long are requisitions kept, and how is the requisitions archive arranged?
+behaviour-desk-heading-note-officer-record-relief-under-wait | nightjar-requisition-chain-026 | What recorded behaviour do desk officers note under the headings of relief and waiting?
+clear-happen-internal-matter-person-record | nightjar-requisition-chain-026 | What happens to the record of a person who is cleared in an internal matter?
+arrest-build-inside-member-notifi-offic-other-place-tak | nightjar-requisition-chain-026 | How are other offices notified when an arrest takes place inside a member building?
+addres-chain-clerk-diagram-gap-problem-step-two | nightjar-requisition-chain-026 | What is the two step gap problem in chain diagrams, and how do clerks address it?
+
 ## persons-patrick-stewart
 
 ### patrick-stewart-acting-method
