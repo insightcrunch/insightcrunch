@@ -6,15 +6,15 @@ date: 2021-05-15
 categories: ["Leisure"]
 tags: ["Marxism", "Bowles and Gintis", "Education", "Correspondence Principle", "Schooling"]
 excerpt: "The correspondence principle claims schooling's social relations mirror the workplace's: the correspondence table and the authors' own revision of it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 190
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-05-15
+lang: en
 ---
-
 The correspondence principle is a claim about the shape of a school day rather than about anything written in a textbook, and grasping that distinction at the outset changes how every later detail should be read. Samuel Bowles and Herbert Gintis argued that pupils learn obedience, punctuality, deference toward authority, and willingness to labour for rewards handed down from outside mainly because the organisation surrounding them rehearses those habits hour after hour. A bell decides when activity starts and stops. A teacher allocates tasks, judges performance, and controls movement between rooms. Marks arrive as an external verdict on effort, much as wages arrive for an employee who never sees the finished product and holds no claim upon it. None of this requires a lesson whose stated topic is compliance. Formation happens through arrangement, repetition, and sanction, which is why the authors insisted that analysts should study relations inside educational institutions instead of cataloguing syllabus content alone.
 
-![A classroom of empty desks facing a teacher's desk and a wall clock, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A classroom of empty desks facing a teacher's desk and a wall clock, Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Their book appeared under the title Schooling in Capitalist America, and it quickly became the most discussed Marxist account of education written in English during its decade. Part of its force came from joining two kinds of argument that usually travel separately. One strand offered a structural portrait of classrooms, corridors, timetables, and grading systems, showing how each feature mirrored a counterpart inside factories and offices. Another strand marshalled statistical research suggesting that traits such as dependability and perseverance, which schools reward visibly, matter greatly for adult earnings, whereas measured cognitive skill contributes surprisingly little once family background and years spent in education are held constant. Readers who accepted only the portrait could still be unsettled by the numbers, and readers unmoved by the numbers still had to answer the portrait. That pincer movement explains much of the book's durability in lecture halls.
 

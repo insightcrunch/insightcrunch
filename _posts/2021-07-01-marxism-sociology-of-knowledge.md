@@ -6,15 +6,15 @@ date: 2021-07-01
 categories: ["Leisure"]
 tags: ["Marxism", "Sociology of Knowledge", "Ideology", "Mannheim", "Theory"]
 excerpt: "The sociology of knowledge begins with a claim Marxism must answer about itself: the four answers table and the genetic point on the reflexivity problem."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 192
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-07-01
+lang: en
 ---
-
 Every ambitious theory of society eventually faces a question about itself, and Marxism faces that question in an unusually sharp form. The sociology of knowledge grows out of a single claim, that the ideas available in a society are conditioned by its social relations, and the claim carries an obvious consequence for whoever asserts it. If consciousness is shaped by social being, then the consciousness of the Marxist is shaped by social being too. A doctrine that explains the beliefs of everyone else by their position in the world must expect the same explanation to be turned, politely or otherwise, upon its own beliefs. The problem is not a debating trick invented by opponents. It follows from the founding claim itself, stated honestly and without exemptions, and the tradition has known about it from the beginning.
 
-![A reading desk with volumes on the sociology of knowledge and the reflexivity problem, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with volumes on the sociology of knowledge and the reflexivity problem, Insight Crunch](/assets/images/blog/blog-95.webp)
 
 Four answers to that problem have been given inside and around the tradition, and they differ so deeply that treating them as one answer is the commonest error in the secondary literature. One answer claims a privileged standpoint from which the whole of society becomes visible. Another refuses all standpoints and criticises a social order by its own professed norms. A third declares that the theory has broken with ideology altogether and become a science. The fourth, and on the purely logical point the strongest, concedes the premise entirely: yes, the theory is socially conditioned, and nothing about its truth follows from that fact, because explaining where a belief came from is not the same activity as judging whether the belief is correct. This article states each answer at full strength, grades them against the problem they were built to solve, and argues that the fourth answer, the genetic point, does more work with less machinery than the other three combined.
 

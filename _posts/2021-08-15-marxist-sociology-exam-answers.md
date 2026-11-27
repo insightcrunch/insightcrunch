@@ -8,10 +8,10 @@ tags: ["Marxism", "Sociology", "Exam Preparation", "Study Guide", "Theory"]
 excerpt: "Marxist sociology answers score on precision about which Marxism is meant: the sociology answer matrix and the internal criticism move that examiners reward."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 193
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-08-15
+lang: en
 ---
-
 A Marxist sociology answer earns its marks in the first three sentences, and it earns them by being specific. The candidate who writes that Marxists regard schooling as an instrument of the ruling class has produced a sentence that could have been copied from any revision card in any school bag, and markers read hundreds of such sentences before breakfast. The candidate who writes that the correspondence principle treats the social relations of the classroom as a rehearsal for the social relations of the workplace, and then adds that the resistance ethnography disputes the rehearsal from inside the same tradition, has done something categorically different. Precision about which Marxism is meant is the whole game, and everything in this guide is arranged around that single observation.
 
 ![An examination desk with revision cards arranged in a grid beside a fountain pen, Insight Crunch](/assets/images/blog/blog-01.webp)

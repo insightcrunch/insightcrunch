@@ -6,15 +6,15 @@ date: 2021-07-15
 categories: ["Leisure"]
 tags: ["Marxism", "Public Policy", "State", "Policy Analysis", "Political Economy"]
 excerpt: "Public policy is analysed here as constrained choice rather than conspiracy: the seven steps table and the structural dependence argument about governments."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 192
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-07-15
+lang: en
 ---
-
 A reader arrives holding a policy and a question about it, and the honest service an article can perform is to hand over a procedure rather than a verdict. Public policy, in the pages that follow, is treated as something to be taken apart in a fixed order, by questions that can be asked of a measure sight unseen, in ignorance of its sponsors, its slogans, and its press coverage. The procedure supplied here has seven steps. It assumes no conspiracy, requires no hidden director, and asks for no prior loyalty to the tradition that assembled it. A sceptic can run every step, dispute the weighting at each stage, and still leave with a sharper account than the one carried in. That portability is the point. Methods earn their keep by surviving transfer into unfriendly hands, and a framework that only persuades the converted has confessed its own weakness before the argument begins.
 
-![Ledger pages, a budget table, and a fountain pen resting beside columns of figures, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ledger pages, a budget table, and a fountain pen resting beside columns of figures, Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Step one, stated at once because a procedure should declare itself early, is the tracing of material flows. Before motives, before rhetoric, before the biography of any minister or the mood of any editorial page, the analyst asks who pays, who receives, in what form the transfer travels, and across what stretch of time its costs and benefits fall due. Money is the obvious flow and rarely the only one. Time moves through policies, as waiting, as queuing, as hours surrendered to forms and offices. Risk moves as well, shifted from balance sheets that can absorb it toward households that cannot, or gathered upward into public hands. Obligations move, quietly, when a service once provided as a right reappears as a purchase each family must finance alone. A policy described only in the language of its announcement is a policy half examined, and the first step exists to prevent that half examination from hardening into a conclusion.
 

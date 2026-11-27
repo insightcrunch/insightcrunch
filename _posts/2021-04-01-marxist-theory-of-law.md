@@ -6,15 +6,15 @@ date: 2021-04-01
 categories: ["Leisure"]
 tags: ["Marxism", "Law", "Legal Theory", "State", "Sociology"]
 excerpt: "The Marxist theory of law is five positions, not one slogan about a ruling class tool: the five positions grid and the legitimation constraint on law."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 189
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2021-04-01
+lang: en
 ---
-
 Ask a room of students what the Marxist theory of law holds and most will give the same answer in nearly the same words. Law, they will say, is a tool of the ruling class, a set of rules written by those who own property to protect what they own and to discipline those who own nothing. The answer has the ring of a slogan because it began life as one, compressed from a pamphlet written for a revolutionary league and repeated so often since that it now passes for the whole tradition. It is not the whole tradition. It is one position among several, held in its pure form by fewer Marxist writers than the textbooks suggest, and regarded inside the tradition itself as the weakest of the accounts on offer. The sharpest objection to it came not from a liberal defender of legality but from a Marxist historian, working from the records of eighteenth-century prosecutions, who concluded that the rule of law was a genuine achievement that restrained the powerful as well as serving them. His conclusion scandalised colleagues who shared his politics. That scandal, and the argument underneath it, is the most instructive episode in the whole field, because it forces every other position to say exactly what it claims and what it cannot explain.
 
-![A shelf of legal theory volumes beside a balance scale, representing the Marxist theory of law and its five positions, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A shelf of legal theory volumes beside a balance scale, representing the Marxist theory of law and its five positions, Insight Crunch](/assets/images/blog/blog-94.webp)
 
 Five positions organise the material, and keeping them separate is the first discipline this article asks of its reader. An instrumental account treats legal rules as a means by which a dominant class secures its interests, much as it might use a police force or a newspaper. A structural account grants legal institutions a measure of independence, arguing that they serve the long-run interest of capital precisely by refusing to serve each capitalist in turn. A commodity-form account derives the very shape of legality, the abstract rights-bearing person, from the shape of commodity exchange. An ideological account treats legality as a way of forming subjects who experience themselves as free and equal while substantive inequality proceeds beneath that experience. A historical account, built from archival study, insists that the forms of legality genuinely bind the hands that wield them, with a binding that cannot be waved away as decoration. These five are not stages in a single argument and they do not sit comfortably together. Some contradict each other outright. A reader who can state each one, name its weakness, and say which evidence would embarrass it knows more about Marxism and law than a reader who can repeat the slogan in three languages.
 

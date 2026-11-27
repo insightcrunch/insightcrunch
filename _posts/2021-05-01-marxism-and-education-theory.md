@@ -6,15 +6,15 @@ date: 2021-05-01
 categories: ["Leisure"]
 tags: ["Marxism", "Education", "Reproduction", "Schooling", "Sociology"]
 excerpt: "Education reproduces class through mechanisms that can each be checked: the four mechanisms table and reproduction through resistance, its strangest finding."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 190
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-05-01
+lang: en
 ---
-
 Education is where a society tells its children what their futures are worth, and Marxist approaches to schooling begin by refusing to take that announcement at face value. Every position gathered under the Marxist heading shares one claim: schooling reproduces the class relations of the society that funds, staffs, and compels attendance at it, so that advantages held by parents reappear, laundered into qualifications, as advantages held by their children. Where the positions quarrel is over the machinery. One locates reproduction in a mirroring between how classrooms are organised and how workplaces are organised. A second locates it in an institution charged with carrying ruling ideas into every head it can reach. A third locates it in the unequal distribution of cultural equipment that homes supply and schools reward. A fourth, arising from close observation of pupils themselves, locates it in acts of defiance, arguing that boys and girls who refuse the school's terms thereby walk toward the occupations their families already know. Agreement on the outcome, disagreement about the route: that pattern organises everything in this article, and a reader who holds it firmly can place any theorist, any study, and any objection encountered later.
 
-![Rows of empty desks facing a blackboard in a quiet classroom, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rows of empty desks facing a blackboard in a quiet classroom, Insight Crunch](/assets/images/blog/blog-52.webp)
 
 A shared outcome claimed by rival mechanisms is a strength rather than an embarrassment, provided each mechanism can be examined separately. A mirroring claim can be tested by comparing authority structures across classrooms and workplaces. An apparatus claim can be tested by asking what beliefs schooling installs and whose interests those beliefs serve. A cultural claim can be tested by tracing which home-supplied competences examinations silently presuppose. A resistance claim can be tested by following pupils who build oppositional cultures and recording where they arrive after leaving. Revision material tends to flatten these four routes into a single slogan about schools serving capital, and the flattening costs marks, because examiners reward candidates who can say which route a given question invokes, what evidence would support that route, and where that route runs out of explanatory road. This article keeps the routes apart from the first page to the last, gives the meritocratic rival its strongest hearing before any criticism begins, corrects three persistent errors about who counts as a Marxist in this field, and closes with an honest statement of what schooling demonstrably does and does not do to inherited advantage.
 

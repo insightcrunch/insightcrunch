@@ -6,15 +6,15 @@ date: 2021-04-15
 categories: ["Leisure"]
 tags: ["Marxism", "Pashukanis", "Law", "Commodity Form", "Soviet Union"]
 excerpt: "The commodity form theory derives law from exchange between property owners: the derivation table and the punishment measure that tests the derivation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-96.webp"
 reading_time: 190
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-04-15
+lang: en
 ---
-
 A Soviet jurist named Evgeny Pashukanis published a short book in 1924 that asked a question no legal philosopher had posed with comparable precision: where does the commodity form leave its imprint upon law itself, not upon the content of particular statutes but upon the very shape that legal relations take? His answer rearranged the map of Marxist thinking about law. Legal relations, he argued, mirror relations between owners meeting in exchange, each recognised as free, equal, and entitled to dispose of property held as private. Because that mirroring runs deep, law in its developed sense belongs to societies organised around commodity production, flourishes most completely where exchange becomes general, and loses its foundation once production for exchange disappears. The political consequence of holding such a view inside a state that was busy constructing courts, codes, and a doctrine to legitimate them proved fatal for the author, who recanted under pressure, was denounced by rivals, and was arrested and shot in 1937. A reader meeting the name for the first time deserves those facts at the outset, since the theory and the biography illuminate one another at every stage, and since the calm abstraction of the argument can otherwise disguise the stakes its author paid for defending it.
 
-![A law library reading room with bound codes and a balance scale, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A law library reading room with bound codes and a balance scale, Insight Crunch](/assets/images/blog/blog-96.webp)
 
 Consider how unusual the starting point remains. Most accounts of law begin with authority: a sovereign commands, a community custom hardens into obligation, a court declares what reason requires. Pashukanis began somewhere else entirely, with two strangers meeting over goods neither produced for personal use, each guarding a private interest, each compelled to treat the other as an equal owner before any transfer could occur. Out of that humble scene he extracted the cell form of legality, much as Marx had extracted the secrets of political economy from the humble commodity. The move gave Marxist legal thought something it had lacked, namely a derivation rather than a denunciation. Earlier writers in the tradition had described statutes as weapons wielded by a dominant class, an observation nobody seriously disputed and nobody found very illuminating, because weapons change hands while the puzzle concerns why the weapon has a particular shape. Why should domination dress itself in the costume of equal rights at all? Why should coercion speak the language of contract, of entitlement, of abstract persons bearing claims against one another? A theory answering those questions would explain the form of law rather than merely deploring its uses, and constructing such a theory was the ambition of the 1924 book, whose full title announces a general theory of law joined to Marxism.
 

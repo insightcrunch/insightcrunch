@@ -6,15 +6,15 @@ date: 2021-06-01
 categories: ["Leisure"]
 tags: ["Marxism", "Religion", "Opium of the People", "Ideology", "Philosophy"]
 excerpt: "The opium of the people line is the most quoted and least read sentence Marx wrote on religion: the passage in four clauses and the pharmaceutical context."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-108.webp"
 reading_time: 191
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-06-01
+lang: en
 ---
-
 The sentence nearly everyone can quote is the fourth of four, and the three that precede it change its meaning. Religious suffering, the passage begins, is at one and the same time an expression of real suffering and a protest against real suffering. Religion, it continues, is the sigh of the oppressed creature, the heart of a heartless world, the soul of soulless conditions. Only after those three movements does the famous clause arrive: religion is the opium of the people. A reader who meets the opium of the people as a free-standing verdict has met a quarter of an argument, and the missing three quarters are not decoration. They are sympathetic in register, diagnostic in intent, and directed at the world that makes consolation necessary rather than at the sufferers who reach for it.
 
-![A worn nineteenth-century pharmacy shelf with labelled bottles and a reading desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A worn nineteenth-century pharmacy shelf with labelled bottles and a reading desk, Insight Crunch](/assets/images/blog/blog-108.webp)
 
 Restoring the passage whole is the entire service this article performs, and the restoration has several distinct parts that are often run together. There is the shape of the passage itself, four clauses building toward a sentence that popular quotation detaches from its supports. There is the pharmaceutical setting of the eighteen forties, in which opium stood as the principal painkiller on legal sale and carried the associations of the medicine chest rather than the gutter. There is the sentence that follows the famous one, which names the true target as a condition requiring illusions. And there is the awkward fact, awkward at least for admirers and detractors alike, that the opium formulation was not Marx's coinage at all. Versions of the image circulated among German writers before his pen reached it, so whatever originality the passage possesses lives in the surrounding analysis rather than in the metaphor everyone remembers.
 

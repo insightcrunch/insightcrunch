@@ -6,15 +6,15 @@ date: 2021-08-01
 categories: ["Leisure"]
 tags: ["Marxism", "Functionalism", "Sociology", "Comparison", "Theory"]
 excerpt: "Functionalism and Marxism share a form that comparison tables conceal: the institutions grid and the shared form beneath the consensus and conflict contrast."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 193
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-08-01
+lang: en
 ---
-
 Two theories dominate the opening weeks of almost every sociology course, and they arrive in the classroom dressed as opposites. Functionalism speaks of shared values holding a society together, of parts working for the good of the whole, of order explained by agreement. Marxism speaks of exploitation, of a ruling class bending institutions to its advantage, of order explained by domination. The contrast is tidy, memorable, and easy to examine, which explains its long life in textbooks. It is also, in the form in which it is usually taught, misleading in a way that costs students the most interesting observation the comparison has to offer. Place the two accounts of any single institution side by side and a resemblance appears that the standard table hides. Each explains the institution by pointing to what it accomplishes for a larger arrangement. Each treats the arrangement as having requirements that must be met if it is to persist. Each subordinates the intentions of individuals to the logic of the structure they inhabit. Functionalism, in other words, is not the only perspective in the pair that reasons functionally. Marxism does so as well, wearing different colours, and the recognition of that shared reasoning habit reorganises everything a candidate thought the comparison was about.
 
-![Two facing diagrams of a school, a church, and a courthouse drawn as gears inside different machines, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Two facing diagrams of a school, a church, and a courthouse drawn as gears inside different machines, Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The claim deserves stating without ornament before the evidence accumulates. When a functionalist describes schooling as the machinery by which a society sorts its young into occupational roles and binds them to common norms, and when a Marxist describes the same schooling as an apparatus through which a class order renews its workforce and spreads the ideas that legitimate it, the grammatical shape of the two sentences is identical. A practice exists, on both tellings, because of the work it performs for a system that needs that work done. Swap the beneficiary and the sentences trade places. Give the functionalist a dominant class as the party served and the sentence becomes Marxist. Give the Marxist a harmonious whole as the beneficiary named and the sentence turns functionalist. What refuses to change under the swapping is the form of the explanation itself, and form, in questions of method, is not a detail. A student who grasps the shared skeleton can still argue fiercely about which beneficiary is real. That argument is where the genuine disagreement lives, and it is a disagreement about the world, about whose interests institutions in fact serve, rather than a disagreement about how explanations should be built.
 

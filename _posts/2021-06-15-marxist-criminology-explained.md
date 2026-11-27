@@ -6,17 +6,17 @@ date: 2021-06-15
 categories: ["Leisure"]
 tags: ["Marxism", "Criminology", "Crime", "Left Realism", "Sociology"]
 excerpt: "Marxist criminology is four positions arguing with each other, not one doctrine: the four positions grid and the internal correction left realism made."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 201
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-06-15
+lang: en
 ---
-
 Marxist criminology explains crime and its control by reference to capitalist social relations, treating law making, law enforcement and the definition of crime itself as reflecting class interests, and treating criminal behaviour as produced by inequality, competition and material need. That shared starting point conceals deep division. Within the tradition sit four distinguishable positions that disagree substantially about how directly power shapes law, about whether the state merely serves owners or enjoys a measure of independence, about whether ordinary offending deserves condemnation or explanation, and about whose suffering should count as the central harm in the first place.
 
 Disagreement of that kind is not a weakness to be smoothed away before the argument begins. Each position arose because an earlier version explained something well and something else badly. A theory that traced every statute to the wishes of property owners illuminated the origins of law yet struggled with reforms passed against business opposition. A theory that stressed ideology explained consent yet risked making domination sound automatic. A theory centred on working class victims corrected romantic accounts of offenders yet pulled the tradition back toward the very crime categories it had questioned. Holding the four apart, rather than blending them into a single vague radicalism, allows each claim to be tested against the evidence it handles best and the evidence it handles worst.
 
-![Overflowing court archive shelves beside an empty corporate boardroom, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Overflowing court archive shelves beside an empty corporate boardroom, Insight Crunch](/assets/images/blog/blog-54.webp)
 
 One further caution belongs at the door. Explanation is not excuse, and criticism of law is not indifference to harm. A burglary can ruin a household, an assault can shadow a life for decades, and any account that forgets such facts in its enthusiasm for structural analysis forfeits moral seriousness. Equally, sympathy for victims does not settle the prior question of why some injuries fill courtrooms while other injuries, larger in scale and slower in effect, are handled as regulatory mishaps or business costs. Marxist criminology, in all four of its forms, insists that the sorting process itself requires explanation. Who defines, who enforces, who is watched, who is believed and who is compensated are not administrative details added after crime exists. For this tradition, they are part of what crime is.
 
