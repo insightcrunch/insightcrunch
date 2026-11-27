@@ -1906,3 +1906,27 @@ designer-model-plan-production-software-use | how-production-design-works | What
 build-film-it-long-set-take | how-production-design-works | How long does it take to build a film set?
 between-design-design-difference-interior-production | how-production-design-works | What is the difference between production design and interior design?
 design-learn-notice-production-viewer | how-production-design-works | How can a viewer learn to notice production design?
+
+## business-airlines
+
+### how-low-cost-long-haul-airlines-work
+airlin-long-haul-low-cost-make-money | how-low-cost-long-haul-airlines-work | How do low-cost long-haul airlines make money?
+discount-flight-harder-long-haul-short-than | how-low-cost-long-haul-airlines-work | Why are long-haul flights harder to discount than short flights?
+airline-factor-good-load-long-haul | how-low-cost-long-haul-airlines-work | What is a good load factor for a long-haul airline?
+airway-fail-laker | how-low-cost-long-haul-airlines-work | Why did Laker Airways fail?
+fly-long-haul-norwegian-rout-stop | how-low-cost-long-haul-airlines-work | Why did Norwegian stop flying long-haul routes?
+airline-fuel-much-price-ticket | how-low-cost-long-haul-airlines-work | How much of an airline ticket price is fuel?
+ancillary-flight-long-haul-revenue | how-low-cost-long-haul-airlines-work | What is ancillary revenue on a long-haul flight?
+airlin-avoid-budget-cabin-premium | how-low-cost-long-haul-airlines-work | Why do budget airlines avoid premium cabins?
+affect-comfort-cost-density-passenger-seat | how-low-cost-long-haul-airlines-work | How does seat density affect passenger comfort and cost?
+airline-collaps-happen-long-haul-passenger | how-low-cost-long-haul-airlines-work | What happens to passengers when a long-haul airline collapses?
+aircraft-airlin-buy-instead-lease-low-cost-them | how-low-cost-long-haul-airlines-work | Why do low-cost airlines lease aircraft instead of buying them?
+airlin-belly-cargo-compete-help-legacy | how-low-cost-long-haul-airlines-work | How does belly cargo help legacy airlines compete?
+between-carrier-difference-legacy-low-cost | how-low-cost-long-haul-airlines-work | What is the difference between a low-cost carrier and a legacy carrier?
+appear-cheap-disappear-flight-keep-transatlantic | how-low-cost-long-haul-airlines-work | Why do cheap transatlantic flights keep appearing and disappearing?
+affect-airline-cost-exchange-long-haul-rat | how-low-cost-long-haul-airlines-work | How do exchange rates affect long-haul airline costs?
+airline-alone-leisure-low-cost-rout-survive | how-low-cost-long-haul-airlines-work | Can a low-cost airline survive on leisure routes alone?
+airline-basic-budget-different-economy-from-it | how-low-cost-long-haul-airlines-work | What is basic economy and how is it different from a budget airline?
+aircraft-day-long-haul-part-sit-unused | how-low-cost-long-haul-airlines-work | Why do long-haul aircraft sit unused for part of the day?
+airport-charg-differ-flight-long-haul | how-low-cost-long-haul-airlines-work | How do airport charges differ for long-haul flights?
+fly-long-haul-low-cost-make-sustainable-would | how-low-cost-long-haul-airlines-work | What would make low-cost long-haul flying sustainable?

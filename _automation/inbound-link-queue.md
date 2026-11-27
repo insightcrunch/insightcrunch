@@ -308,3 +308,7 @@
 ## nightjar-requisition-chain-026
 - _posts/2026-11-25-nightjar-unowned-signature-025.md — could carry: "The signature belonged to nobody when four departments denied it; for the morning the chain behind it was taken in four cities at once and stopped two steps short of the Office, see the requisition chain and the warm chair."
 - _posts/2026-11-24-nightjar-lawful-purchase-024.md — could carry: "The form she photographed twice was an Accord requisition form; for the chain that form belonged to, and the seven arrests that broke it, see the requisition chain and the warm chair."
+
+## how-low-cost-long-haul-airlines-work
+- _posts/2016-05-01-airline-deregulation-act-1978-guide.md — could carry: "Deregulation opened the Atlantic to any carrier with aircraft and nerve; for what happened to the low-cost carriers that took up the invitation, see how low-cost long-haul airlines work."
+- _posts/2026-10-09-how-oil-prices-are-set.md — could carry: "The barrel price set in futures markets lands on an airline as a fuel bill per seat; for how that bill decides whether a cheap long-haul fare can survive, see how low-cost long-haul airlines work."
