@@ -6,17 +6,17 @@ date: 2026-11-27
 categories: ["Industry"]
 tags: ["airlines", "low-cost-airlines", "airline-economics", "aviation", "aircraft-leasing", "business-models"]
 excerpt: "Low-cost long-haul airlines work by stripping cost from every seat on a long flight, and fail when distance multiplies the costs that cannot be stripped away."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-11-27
+lang: en
 ---
-
 ## The Cheap Seat Across an Ocean: How Low-Cost Long-Haul Airlines Work
 
 Low-cost long-haul airlines work by selling a seat across an ocean at a fare far below a legacy carrier fare, stripping out frills, packing in more seats, and charging separately for bags, meals, and seat selection. The model fails for a structural reason rather than a managerial one: on long routes the costs nobody can cut, including fuel, crew rest, aircraft ownership, and time itself, dominate the total cost of a flight, so the saving shrinks as distance grows until the fare that fills the aircraft no longer covers the flight.
 
-![A widebody aircraft cabin configured with dense economy seating on a long-haul route - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A widebody aircraft cabin configured with dense economy seating on a long-haul route - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The puzzle begins with a fare that looks impossible. A crossing of the Atlantic covers roughly 3,500 miles between London and New York, and a passenger comparing prices on that corridor encounters two very different numbers for the same physical act of sitting in a tube over water for seven hours. One carrier prices the seat as part of a network, with connections, lounges, a premium cabin, and cargo in the hold underwriting the economics. Another carrier prices the seat almost alone, asking only whether the fare, plus fees for extras, exceeds the cost of producing that single seat on that single flight. The difference lies not in the physics of flight but in which costs each business model can remove and which costs remain untouched no matter how disciplined the operator becomes.
 
