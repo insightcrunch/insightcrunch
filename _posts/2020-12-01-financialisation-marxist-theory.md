@@ -6,15 +6,15 @@ date: 2020-12-01
 categories: ["Leisure"]
 tags: ["Marxism", "Financialisation", "Finance", "Crisis Theory", "Political Economy"]
 excerpt: "Financialisation is tested against one constraint: profit must trace back to surplus value. The three answers table and the surplus constraint grade it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 186
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2020-12-01
+lang: en
 ---
-
 Financialisation is the word a generation of economists, sociologists, and political commentators reached for when they tried to name a change they could all see and none of them could quite measure: money appeared to be making money at a distance from the making of things. Profits gathered in lending, trading, and the management of claims. Households carried debts that earlier generations would have found unthinkable. Firms whose names were attached to factories, ships, and mines earned growing portions of their income from advances, holdings, and fees. Yet the word conceals a difficulty that this article places at its centre. The term carries several definitions that do not coincide, and Marxist analysis, which possesses the most developed theory of where profit comes from, faces a specific problem in accommodating the phenomenon at all. If profit originates in production, in the surplus value created there, then a swelling financial sector cannot be manufacturing new profit out of its own activity. It can only be receiving profit made elsewhere, extracting income from some source outside production, or appearing to grow because of the way profits are recorded. Every Marxist account of financialisation is, whether its author says so or not, an answer to that single constraint. Naming the constraint, and the three answers the tradition has given to it, converts a sprawling literature into an intelligible argument.
 
-![Ledger books, loan contracts and share certificates arranged on a desk, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ledger books, loan contracts and share certificates arranged on a desk, Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The plan of what follows is dictated by the problem rather than by chronology. Definitions come first, because a reader who cannot separate the narrow statistical sense of the term from its broader institutional senses will misread every later claim. Marx's own categories come second: interest-bearing capital, the division of gross profit between interest and the profit of enterprise, and the peculiar entity he called fictitious capital. Only with those categories in hand can the theoretical problem be stated in its exact form, and the statement matters, because the three answers differ precisely in which horn of the problem they accept. One answer treats financial expansion as redistribution driven by stagnation in production. A second locates a distinct source of gain in the direct extraction of income from workers outside the workplace. A third argues that much of the measured shift is an artefact of accounting and corporate structure. A historical variant, compatible with the first answer, reads the whole episode as a class strategy. The evidence is then weighed indicator by indicator, the strongest objection is given its full force, and the article closes by stating what would settle the dispute, including the finding that would defeat its own organising verdict.
 

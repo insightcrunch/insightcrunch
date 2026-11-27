@@ -6,15 +6,15 @@ date: 2021-03-15
 categories: ["Leisure"]
 tags: ["Marxism", "Modern Capitalism", "Exam Preparation", "Study Guide", "Capitalism"]
 excerpt: "Contemporary capitalism dates every answer written about it, unless the answer argues from mechanisms: the contemporary answer matrix and the structural answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 189
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2021-03-15
+lang: en
 ---
-
 Contemporary capitalism is the one topic in the syllabus family where the subject moves while the candidate writes about it, and that single fact reorganises everything an examiner can reward. A question on rent, on the falling share of income going to labour, on machine systems and the work they displace, or on whether the economy has changed its fundamental character is not really asking what has happened lately. It is asking whether the candidate can reason about a moving object without pretending the object has stopped. The candidate who answers with a catalogue of happenings has described the weather. The candidate who answers with mechanisms has described the climate, and climates are what the analysis of a mode of production is about. This guide exists to teach the second kind of answer, and it begins from a blunt observation: on this material, the level at which an answer argues matters more than the quantity of material the answer contains.
 
-![An examination desk with a blank answer booklet and a wall clock, Insight Crunch](/assets/images/blog/blog-01.webp)
+![An examination desk with a blank answer booklet and a wall clock, Insight Crunch](/assets/images/blog/blog-27.webp)
 
 The correction comes first because it is worth more than any content that follows. Candidates preparing this topic almost always prepare it backwards. They gather instances, because instances feel like knowledge and because revision material aimed at this topic is stocked with them, and then they discover in the hall that the instances have quietly expired, that the examiner reading the script knows of developments the candidate has never heard of, and that every sentence built on an instance is a small wager against the marker's wider reading. The wager is unnecessary. Nothing in the assessment of this material requires a candidate to know what happened last, and a great deal in it rewards the candidate who declines to claim such knowledge. Structural argument outscores current example on contemporary topics, not as a stylistic preference but as a consequence of how marking works: a mechanism, once stated accurately, cannot be overtaken by events between the writing of the script and the reading of it, whereas an example begins ageing the moment the ink dries.
 

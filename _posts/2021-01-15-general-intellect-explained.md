@@ -6,15 +6,15 @@ date: 2021-01-15
 categories: ["Leisure"]
 tags: ["Marxism", "General Intellect", "Grundrisse", "Machinery", "Theory"]
 excerpt: "The general intellect rests on a few lines in unpublished notebooks, and the reading is graded accordingly: the three readings table and the thin basis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 188
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-01-15
+lang: en
 ---
-
 The general intellect is a phrase that a reader can meet in a lecture, a journal article, or a book about the direction of modern production, presented as though it were one of the settled concepts of Marxist theory, a term with a definition, a history of use by its author, and a place in a finished system. Almost none of that presentation survives a visit to the source. The phrase comes from notebooks that Marx filled in the winter of 1857 and 1858 while drafting the groundwork of his critique of political economy, notebooks he never published, never revised for publication, and never mentioned as the home of a concept he wished his readers to adopt. He wrote the two words in English, inside a manuscript otherwise written in German. He used them on a handful of occasions only. Nothing he published in his lifetime contains them. Yet an entire account of where capitalism has arrived, complete with claims about the law of value and its fate, the migration of production beyond the workplace, and the identity of the decisive productive force in modern economies, has been constructed on those few lines, and the construction is routinely credited to Marx himself, as though the theory were his and the passage merely its clearest statement.
 
-![An open notebook of dense manuscript pages beside translations and commentaries on the general intellect, Insight Crunch](/assets/images/blog/blog-01.webp)
+![An open notebook of dense manuscript pages beside translations and commentaries on the general intellect, Insight Crunch](/assets/images/blog/blog-84.webp)
 
 That disproportion between a slender textual basis and a large theoretical edifice is the subject of this article, and the article's service is precision about it. Precision here cuts in two directions at once, and a reader should hold both edges in view from the start. Against careless usage, precision insists that a phrase in an unpublished notebook cannot carry the authority of a doctrine its author printed, defended, and built a life's work around, and that anyone citing the general intellect as Marx's theory of the present owes an account of why notebook material should be granted that standing. Against reflexive dismissal, precision insists with equal firmness that the thinness of a basis does not by itself refute a theory built upon it. Theories are refuted by argument and by evidence, not by bibliography. A reading can rest on three pages and still describe the world accurately, just as a three volume construction can fail. What the textual facts govern is the appeal to authority. They decide whose theory is under discussion. If the strong claims made in the phrase's name are to be believed, they must be believed as the claims of the later theorists who actually made them, argued on their merits, and not inherited as the settled teaching of the notebooks' author.
 

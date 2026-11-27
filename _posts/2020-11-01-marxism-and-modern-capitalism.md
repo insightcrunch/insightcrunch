@@ -6,15 +6,15 @@ date: 2020-11-01
 categories: ["Leisure"]
 tags: ["Marxism", "Modern Capitalism", "Political Economy", "Tendencies", "Capitalism"]
 excerpt: "Modern capitalism is tested against the tendencies Marx named: the tendency scorecard and the concentration confirmation, his clearest documented success."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 185
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-11-01
+lang: en
 ---
-
 Ask whether Marx still explains modern capitalism and the answers arrive prepackaged, in two flavours that have changed little across generations of argument. One camp treats the present order as a vindication so complete that only wilful blindness could miss it. The other treats the same order as a refutation so complete that only nostalgia could deny it. Both camps share a method, and the method is the problem. Each selects the features of the present that suit its verdict, arranges them into a portrait, and invites the reader to mistake the portrait for a test. A serious assessment cannot proceed that way. Marx did not issue one prediction about capitalism. He identified a set of distinct tendencies within a mode of production, stated at differing levels of confidence, resting on differing mechanisms, and open to differing kinds of evidence. The honest question is therefore plural. Which tendencies were borne out, which were not, which were framed too loosely to be tested at all, and what follows for the framework when the answers are laid side by side rather than averaged into a slogan?
 
-![A desk arranged with a tendency scorecard, volumes of political economy and a magnifier resting on an open ledger, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A desk arranged with a tendency scorecard, volumes of political economy and a magnifier resting on an open ledger, Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The answer differs by claim, and this article will insist on that difference from its first page to its last. One tendency stands as the strongest confirmation available anywhere in the corpus: the concentration and centralisation of capital, the long movement by which production in sector after sector comes to be dominated by fewer and larger units, documented across the advanced economies by industrial organisation researchers who owe the Marxist tradition nothing and often know little of it. Facing it stands the strongest disconfirmation: the vanishing of the intermediate strata, the shopkeepers, independent producers, small employers, professionals, and salaried layers who were expected to be ground down into two great camps and who instead multiplied, diversified, and became the demographic centre of the very societies where their extinction was forecast. Between those poles lie claims that hold in a weak sense and fail in a strong one, claims whose truth depends entirely on how a contested magnitude is measured, and claims so entangled with their own counteracting factors that generations of specialists have failed to settle them. A reader who finishes this article should be able to grade each claim separately, name the evidence appropriate to each grade, and state what would have to be shown for any grade to change.
 

@@ -6,17 +6,17 @@ date: 2020-11-15
 categories: ["Leisure"]
 tags: ["Marxism", "Platform Capitalism", "Digital Labour", "Rent", "Political Economy"]
 excerpt: "Platform capitalism is graded by asking whether users produce value at all: the value question by platform type and the rent reading of platform income."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-99.webp"
 reading_time: 186
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2020-11-15
+lang: en
 ---
-
 Almost everyone who writes about platform capitalism begins from an experience so ordinary that it barely registers as an experience at all. A person searches, scrolls, books, orders, messages, watches, or rides, and an intermediary that owns neither the goods being sold nor, very often, the labour being coordinated takes a share of the transaction or sells the attention the transaction gathered. The person doing the scrolling has usually heard two things said about this arrangement. The first is that the intermediary is a marvel of efficiency, a piece of neutral plumbing that matches supply with demand at a scale no earlier institution could manage. The second, heard from the critical side, is that the user is the real product and the real worker, labouring without wages to generate the data and the audiences from which the intermediary grows rich. Marxist analysis enters this conversation with an embarrassment that its popular summaries rarely admit. Marxists disagree with each other, sharply and on the record, about whether the scrolling person produces anything of economic significance at all.
 
 That disagreement is the subject of this article, and it deserves to be stated as a disagreement before any side of it is defended. On one side stands an account in which user activity is labour, the value it creates is appropriated without payment, and the platform user belongs inside the theory of exploitation as an unwaged member of the workforce. Against it stands a rival account, holding that user activity, however useful to the intermediary and however carefully harvested, fails the test that Marx's own theory sets for value production, so that the money platforms earn must have been produced somewhere else and merely collected at a digital toll point. The distance between those two accounts is not a quarrel about tone or about how rude to be concerning large firms. It is a quarrel about what the concept of value requires, and therefore about what kind of income a platform earns, and therefore about whether the correct theoretical neighbour for the platform is the factory or the landed estate. Readers who grasp why the quarrel matters will find that most writing on the subject, celebratory and denunciatory alike, quietly assumes an answer to a question it never poses.
 
-![A reading desk with platform type cards, a rent ledger and notes on the value dispute, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A reading desk with platform type cards, a rent ledger and notes on the value dispute, Insight Crunch](/assets/images/blog/blog-99.webp)
 
 The question underneath the quarrel can be put plainly. Value, in the tradition this series examines, is not a synonym for usefulness, importance, or desirability. Plenty of indispensable things carry no value in the technical sense, beginning with the air in a reader's lungs. Value names a specific social form that labour takes when it is performed for exchange under conditions that discipline it, measure it against the labour of others, and compel it to meet a socially established standard of efficiency or perish. Whether scrolling, posting, rating, and watching meet that description is an analytical question with a right and a wrong answer, or at least with stronger and weaker answers, and the answer determines the classification of everything downstream. If users produce value, platform income resembles profit drawn from production, and users are exploited in the strict sense the theory reserves for producers of surplus value. If users do not produce value, platform income must be traced to surplus value created in the production of commodities elsewhere in the economy, and the platform's take resembles the rent a landowner collects for permitting access to something scarce that others need.
 

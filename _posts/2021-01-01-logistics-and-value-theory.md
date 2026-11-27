@@ -6,15 +6,15 @@ date: 2021-01-01
 categories: ["Leisure"]
 tags: ["Marxism", "Logistics", "Supply Chains", "Value Theory", "Circulation"]
 excerpt: "Logistics is where circulation meets production, and the meeting is graded strictly: the productive and unproductive table and the transport exception."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-112.webp"
 reading_time: 187
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-01-01
+lang: en
 ---
-
 Logistics is usually discussed as a matter of efficiency, as though the movement of goods were a technical problem that better planning might one day solve outright. A Marxist analysis begins somewhere else entirely. It asks what kind of activity the movement of goods actually is, and it answers that question by dividing the work gathered under the single word logistics into kinds that do different things to value. Some of that work produces value in the strict sense the tradition gives the term. Some of it produces nothing of the kind and is paid for out of value produced elsewhere. The division is not a pedantic refinement. It decides how the industry is understood, where its costs truly fall, and what sort of power the people who perform the work can plausibly claim.
 
-![Crates, pallets and a freight yard arranged for an essay on logistics and value, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Crates, pallets and a freight yard arranged for an essay on logistics and value, Insight Crunch](/assets/images/blog/blog-112.webp)
 
 The headline of the analysis can be stated before any of its detail. Transport, on Marx's own account, is productive labour, because the thing it sells is a change of place, and a change of place is exactly what the buyer of transport wants to obtain. Storage, by contrast, together with the labour of buying, selling, and keeping accounts, belongs to the costs of circulation, which add nothing to the value of the goods they handle and are met from surplus value created in production. An industry that contains both kinds of activity under one roof and one balance sheet therefore sits on both sides of the productive and unproductive distinction at once. Any sentence that pronounces on logistics as a whole, declaring it productive or dismissing it as mere circulation, has already gone wrong, and the correction of that error is the foundation on which everything else in this article is built. Readers who want the underlying distinction itself, between labour that produces surplus value and labour that does not, will find it set out in the [surplus value complete guide](/2010/11/01/surplus-value-complete-guide/), to which this article links rather than returning over ground already covered there.
 

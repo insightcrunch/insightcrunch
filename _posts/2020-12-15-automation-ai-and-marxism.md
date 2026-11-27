@@ -6,15 +6,15 @@ date: 2020-12-15
 categories: ["Leisure"]
 tags: ["Marxism", "Automation", "Labour Theory of Value", "Machinery", "Technology"]
 excerpt: "Automation is tested against the labour theory of value it is said to refute: the value question table and the productivity check on what machines do."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 186
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2020-12-15
+lang: en
 ---
-
 Claims that mechanised production will abolish work altogether rest on an assumption so familiar that it seldom gets examined: the assumption that equipment creates wealth in the same sense and by the same process through which wealth gets measured under capitalism. Marxist analysis denies precisely that assumption, and the denial is neither a quirk nor a defensive manoeuvre bolted onto an older doctrine. It sits at the centre of the account of value developed across the mature writings, and everything distinctive in the Marxist treatment of automation follows from it. Machines, on this account, create no value at all. A machine contributes its own previously embodied worth to the goods it helps produce, surrendering that worth gradually as friction, heat, and time consume its working life, yet the stream of finished articles leaving a highly mechanised workplace carries no increment of value attributable to the equipment itself. New value enters production through one door only, the expenditure of living human effort during the working day, and the quantity of new value corresponds to the duration and intensity of that effort rather than to the sophistication of the apparatus surrounding it.
 
-![A workshop table with the value question table, machinery sketches and output ledgers, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A workshop table with the value question table, machinery sketches and output ledgers, Insight Crunch](/assets/images/blog/blog-82.webp)
 
 Hold that claim steady for a moment and several consequences arrange themselves in sequence. If equipment creates nothing, then installing more of it cannot by itself enlarge the mass of value a society produces, however dramatically it enlarges the mass of useful things. Output in physical terms and output in value terms part company, and the parting explains a family of puzzles that otherwise look like paradoxes. A workplace can double the quantity of goods flowing from its doors while the value embodied in each unit falls, because each unit now absorbs a smaller share of the human effort expended across the whole line. Prices can drift downward for decades in branch after branch of manufacture while profits remain stubbornly dependent on how much living effort an owner manages to set in motion. Displacement of workers follows as a structural tendency rather than a malfunction, since every owner gains a temporary edge by producing with less effort per unit than rivals, and the aggregate of those private edges is a shrinking demand for hands relative to the scale of production. None of this requires hostility toward machinery. The theory treats equipment as a prodigious amplifier of human powers, a multiplier of what an hour of effort can accomplish in material terms, while insisting that amplification and creation are different operations and that confusing them dissolves the very problem political economy exists to solve.
 

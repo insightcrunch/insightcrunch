@@ -6,14 +6,15 @@ date: 2021-02-01
 categories: ["Leisure"]
 tags: ["Marxism", "Precarity", "Working Class", "Labour", "Class"]
 excerpt: "Precarity is graded against the historical baseline rather than against a remembered golden age: the baseline table and the exception was the security."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 188
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-02-01
+lang: en
 ---
 Precarity names a condition that millions of workers recognise from the inside: work that arrives irregularly, pays unpredictably, carries no benefits worth the name, and can be withdrawn at short notice by an employer who owes the worker nothing beyond the hours already worked. The word has gathered a literature around itself, complete with a proposed new class, a diagnosis of an age, and a quarrel about whether anything genuinely unprecedented is being described. That quarrel turns, more than its participants usually admit, on a question of comparison. To call work newly insecure is to measure it against some earlier state in which work was secure, and everything depends on which earlier state is chosen, how long it lasted, where it held, and whom it covered. Choose the baseline carelessly and the conclusion is built into the measurement before the evidence is even consulted.
 
-![A rota board with shifting hours pinned beside a row of empty lockers, Insight Crunch](/assets/images/blog/blog-01.webp)
+![A rota board with shifting hours pinned beside a row of empty lockers, Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The argument of this article can be stated plainly at the outset. The secure, permanent, full-time job, protected by law and accompanied by benefits, which serves as the silent baseline in most writing about precarity, was a historical exception. It held for about thirty years following 1945, in a handful of wealthy economies, and even there it covered mainly a subset of workers, disproportionately men in strongly unionised employment. Before that arrangement, outside it, and underneath it, insecure and irregular work was the ordinary experience of the labouring population across most of the world. Precarity, judged against the long record, is the norm to which labour reverts, and the security was the departure that requires explanation. Yet the correction, however well supported, does not end the matter, because a generation that was promised security and then watched the promise withdrawn has experienced something real, and a Marxist analysis that cannot register that loss has traded understanding for a debating point. The tradition, fortunately, is better equipped than either side of the quarrel suggests. Marx analysed irregular employment within his account of the reserve army of labour, and the question worth asking is whether that older category, honestly handled, already does the work the new class concept claims only it can do.
 

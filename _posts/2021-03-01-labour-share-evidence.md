@@ -6,15 +6,15 @@ date: 2021-03-01
 categories: ["Leisure"]
 tags: ["Marxism", "Labour Share", "Wages", "National Accounts", "Evidence"]
 excerpt: "The labour share is a ratio of money incomes, not a measure of exploitation: the treatment decisions table and the labour share is not the rate of exploitation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 188
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2021-03-01
+lang: en
 ---
-
 The labour share is among the most quoted magnitudes in arguments about who gets what under modern capitalism, and among the least examined. It names the portion of national income paid out as compensation to those who work for a living, set against the portion recorded as income from property, and a long movement in that portion, downward across most advanced economies over the decades since the closing years of the postwar settlement, is among the more robust findings in contemporary macroeconomics. The finding is real. It has been reached by different researchers, working with different datasets and different conventions, and it survives an impressive range of challenges to its construction. A reader who has encountered the claim in a speech, a headline, or a pamphlet can accept the direction of the movement with reasonable confidence.
 
-![Ledgers, wage slips and housing keys arranged for an essay on the labour share of income, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ledgers, wage slips and housing keys arranged for an essay on the labour share of income, Insight Crunch](/assets/images/blog/blog-74.webp)
 
 What that reader cannot accept, on the strength of the headline alone, is any particular size for the movement, and still less any particular meaning. The measured level of the share, and the measured steepness of its fall, depend on a handful of decisions about how awkward categories of income are to be treated, and those decisions are usually buried in the technical apparatus of whatever study is being quoted. Change the treatment of the self-employed, and the level moves. Change the treatment of housing, and a large part of the story changes its subject. Change the treatment of depreciation, of very high salaries, of whole sectors included or left out, and the picture shifts again, sometimes in size and sometimes in kind. None of this makes the finding a mirage. It makes the finding a constructed measure, and a constructed measure has to be read through its construction or not read at all.
 

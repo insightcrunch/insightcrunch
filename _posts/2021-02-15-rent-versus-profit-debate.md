@@ -6,15 +6,15 @@ date: 2021-02-15
 categories: ["Leisure"]
 tags: ["Marxism", "Rent", "Profit", "Political Economy", "Debate"]
 excerpt: "Rent is rising as a share of income, and the question is whether it can replace profit: the three positions grid and the claim that rent presupposes production."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-103.webp"
 reading_time: 188
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2021-02-15
+lang: en
 ---
-
 Rent, in the analysis this article examines, is income obtained because someone owns a condition that others need and cannot freely reproduce, and it is paid for access to that condition rather than for anything the owner has produced. Profit, by contrast, is income arising where capital organises production, employs wage labour, and appropriates part of the new value that labour creates. Holding those two definitions apart is the entire starting point, because a debate that blurs them at the outset cannot be settled later by any quantity of evidence. A reader who has met the claim that a new feudalism has arrived has usually met it as a mood before meeting it as an argument, a sense that access charges, tolls, and permissions now stand where buying and selling once stood. Moods deserve respect as symptoms. They do not deserve surrender as conclusions.
 
-![Stone gateway, toll road and market stalls arranged for an essay on rent and profit, Insight Crunch](/assets/images/blog/blog-01.webp)
+![Stone gateway, toll road and market stalls arranged for an essay on rent and profit, Insight Crunch](/assets/images/blog/blog-103.webp)
 
 Two different questions hide inside the popular formulation, and separating them does more work than any verdict offered prematurely. One question concerns distribution: has the share of income flowing to owners of monopolised conditions grown relative to the share flowing to capitals that organise production? That question is empirical, gradual, and entirely capable of being answered yes without anything dramatic following. The other question concerns the mode of production itself: have the relations through which goods and services get produced, and through which labour is engaged, been replaced by different relations altogether? That question is categorical. A mode of production is not a flavour of income. It names who works, under whose direction, producing what, and by what compulsion the whole arrangement reproduces itself from one period to the next. Confusing a shift in the first register with a transformation in the second is the characteristic error this article exists to correct, and the correction has a name that will recur throughout: rent presupposes production.
 
