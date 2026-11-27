@@ -6,15 +6,15 @@ date: 2026-11-26
 categories: ["Leisure"]
 tags: ["literature-nightjar", "mira-kovac", "ninth-office", "meridian-accord", "carrowmere", "requisition-chain"]
 excerpt: "The requisition number traces into the Accord's own chain, and taking the chain means arrests inside Accord buildings in four cities on a single morning."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 102
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-11-26
+lang: en
 ---
-
 ## Cold Open
 
-![Nightjar: The Requisition Chain and the Warm Chair - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Nightjar: The Requisition Chain and the Warm Chair - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The canal damp comes through the shutters before Mave Ottoline gets her coat off. It sits low in the requisition hall at Carrowmere, green and cold, mixing with lamp light that has burned all night over empty desks, with the smell of stacked paper warming near the vents, with dust from files that no one has opened since the last session ended. She fishes for her keys with numb fingers. The brass is cold enough to ache. One key for the outer door, one for the floor gate, one small and bright from use for the drawer where she keeps her seal. She likes this hour because nothing in it belongs to anyone else yet.
 
