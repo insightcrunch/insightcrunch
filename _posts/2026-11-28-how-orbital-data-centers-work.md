@@ -6,17 +6,17 @@ date: 2026-11-28
 categories: ["Technology"]
 tags: ["space-exploration", "orbital-data-centers", "data-centers", "orbital-mechanics", "spacecraft", "cloud-computing"]
 excerpt: "How orbital data centers work: computers in Earth orbit draw solar power, reject every watt of heat by radiation alone, and exchange data by laser links."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-101.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2026-11-28
+lang: en
 ---
-
 ## What an Orbital Data Center Is and What It Is Not
 
 An orbital data center works by placing servers, power systems, and radiators on satellites that generate electricity from sunlight, process data in orbit, exchange results through optical links, and reject every watt of waste heat to space by radiation. Computing in orbit is governed less by computing than by heat, because every watt of computation must be radiated away, so radiator area and mass set the real capacity of any system flown. The machine is therefore a thermal system with computers attached, not a terrestrial building lifted upward. Its servers resemble ground servers in logic and differ in almost every physical support system around that logic.
 
-![An orbital data center satellite with large radiators and solar arrays above Earth - Insight Crunch](/assets/images/blog/blog-01.webp)
+![An orbital data center satellite with large radiators and solar arrays above Earth - Insight Crunch](/assets/images/blog/blog-101.webp)
 
 A terrestrial data center assumes cheap mass, abundant air or water for cooling, grid power on demand, and technicians who can replace a failed board within hours. None of those assumptions survives launch. Mass must be paid for in propellant. Air does not exist outside the pressure vessel. Water cannot be dumped overboard without consuming a finite store. Repair means either robotic servicing, redundancy built in before launch, or acceptance that a failed unit stays failed. The design problem shifts from maximizing servers per floor to maximizing reliable computation per kilogram and per square meter of radiator.
 
