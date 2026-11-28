@@ -312,3 +312,7 @@
 ## how-low-cost-long-haul-airlines-work
 - _posts/2016-05-01-airline-deregulation-act-1978-guide.md — could carry: "Deregulation opened the Atlantic to any carrier with aircraft and nerve; for what happened to the low-cost carriers that took up the invitation, see how low-cost long-haul airlines work."
 - _posts/2026-10-09-how-oil-prices-are-set.md — could carry: "The barrel price set in futures markets lands on an airline as a fuel bill per seat; for how that bill decides whether a cheap long-haul fare can survive, see how low-cost long-haul airlines work."
+
+## how-orbital-data-centers-work
+- _posts/2026-10-07-how-data-centers-work.md — could carry: "A terrestrial hall sheds heat into air and water; for the version of the same problem where heat can leave only by radiation, see how orbital data centers work."
+- _posts/2026-10-19-how-sample-return-missions-work.md — could carry: "A capsule that brings material home is one answer to working in orbit; for machines that stay in orbit and send only data home, see how orbital data centers work."

@@ -1930,3 +1930,27 @@ airline-basic-budget-different-economy-from-it | how-low-cost-long-haul-airlines
 aircraft-day-long-haul-part-sit-unused | how-low-cost-long-haul-airlines-work | Why do long-haul aircraft sit unused for part of the day?
 airport-charg-differ-flight-long-haul | how-low-cost-long-haul-airlines-work | How do airport charges differ for long-haul flights?
 fly-long-haul-low-cost-make-sustainable-would | how-low-cost-long-haul-airlines-work | What would make low-cost long-haul flying sustainable?
+
+## space-orbital-data-centers
+
+### how-orbital-data-centers-work
+center-data-differ-from-ground-orbital | how-orbital-data-centers-work | What is an orbital data center and how does it differ from a ground data center?
+computer-from-ground-harder-heat-remov-space-than | how-orbital-data-centers-work | Why is removing heat from computers harder in space than on the ground?
+computer-eclipse-pass-power-satellit-through-while | how-orbital-data-centers-work | How do satellites power computers while passing through eclipse?
+computer-data-memory-radiation-space-stor | how-orbital-data-centers-work | What does space radiation do to computer memory and stored data?
+data-each-exchange-laser-link-other-satellit-use-with | how-orbital-data-centers-work | Why do satellites use laser links to exchange data with each other?
+add-data-latency-much-orbit-process-request | how-orbital-data-centers-work | How much latency does processing data in orbit add to a request?
+best-comput-kind-orbit-suit-work | how-orbital-data-centers-work | What kinds of computing work are best suited to orbit?
+comput-dead-fail-from-nod-orbit-remov-satellit | how-orbital-data-centers-work | How are dead satellites and failed computing nodes removed from orbit?
+data-orbit-own-process-satellite-stor | how-orbital-data-centers-work | Who owns data that is processed or stored on a satellite in orbit?
+comput-constellation-kessler-mean-satellite-syndrome | how-orbital-data-centers-work | What does the Kessler syndrome mean for computing satellite constellations?
+about-against-capacity-check-claim-comput-evidence-orbital | how-orbital-data-centers-work | How should claims about orbital computing capacity be checked against evidence?
+behind-flown-ground-lag-processor-space-used-usually | how-orbital-data-centers-work | Why do processors flown in space usually lag behind processors used on the ground?
+cannot-comput-constellation-individual-maintain-orbital-repair-satellit | how-orbital-data-centers-work | How is an orbital computing constellation maintained when individual satellites cannot be repaired?
+comput-large-load-must-radiator-satellite | how-orbital-data-centers-work | What is a radiator on a satellite and how large must it be for computing loads?
+computer-cost-design-into-launch-orbit-sent-shape | how-orbital-data-centers-work | How does launch cost shape the design of computers sent into orbit?
+center-compar-comput-data-energy-ground-orbital-save-water-with | how-orbital-data-centers-work | Does orbital computing save water or energy compared with ground data centers?
+about-comput-infrastructure-orbit-outer-say-space-treaty | how-orbital-data-centers-work | What does the Outer Space Treaty say about computing infrastructure in orbit?
+between-center-data-earth-orbital-travel-user | how-orbital-data-centers-work | How does data travel between an orbital data center and users on Earth?
+collide-comput-happen-orbit-satellit-two | how-orbital-data-centers-work | What happens when two computing satellites collide in orbit?
+before-center-data-long-orbital-remain-replacement-satellite-useful | how-orbital-data-centers-work | How long does an orbital data center satellite remain useful before replacement?
